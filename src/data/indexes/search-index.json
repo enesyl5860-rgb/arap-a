@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T22:29:58.631Z",
-  "totalItems": 178,
+  "generatedAt": "2026-11-22T22:56:57.936Z",
+  "totalItems": 289,
   "items": [
     {
       "id": "search_mod_01",
@@ -1591,6 +1591,1101 @@
       "subtitle": "Gramer Kuralı · M03",
       "ar": "جَمْعُ التَّكْسِيرِ وَقَاعِدَةُ جَمْعِ غَيْرِ الْعَاقِلِ",
       "keywords": "Akılsız Çoğul (كُتُبٌ / أَقْلَامٌ / سَيَّارَاتٌ) = TEKİL MÜENNES Hükmü (هٰذِهِ + جَدِيدَةٌ + هِيَ) Arapçada isimlerin çok büyük bir kısmı sonuna ek alarak değil, kelimenin İÇ YAPISI KIRILIP yeniden şekillenerek çoğul ol"
+    },
+    {
+      "id": "search_card_m04_c1",
+      "type": "card",
+      "moduleId": "04",
+      "title": "o (erkek / eril) (huve)",
+      "subtitle": "SRS Kartı · M04 · Kök: ض-م-ر",
+      "ar": "هُوَ",
+      "kok": "ض-م-ر",
+      "keywords": "هو ضَمِير Zamir"
+    },
+    {
+      "id": "search_card_m04_c2",
+      "type": "card",
+      "moduleId": "04",
+      "title": "o (kadın / dişil / akılsız çoğul) (hiye)",
+      "subtitle": "SRS Kartı · M04 · Kök: ض-م-ر",
+      "ar": "هِيَ",
+      "kok": "ض-م-ر",
+      "keywords": "هي ضَمِير Zamir"
+    },
+    {
+      "id": "search_card_m04_c3",
+      "type": "card",
+      "moduleId": "04",
+      "title": "o ikisi (eril & dişil ortak) (humâ)",
+      "subtitle": "SRS Kartı · M04 · Kök: ض-م-ر",
+      "ar": "هُمَا",
+      "kok": "ض-م-ر",
+      "keywords": "هما ضَمِير Zamir"
+    },
+    {
+      "id": "search_card_m04_c4",
+      "type": "card",
+      "moduleId": "04",
+      "title": "onlar (3+ erkek veya karma) (hum)",
+      "subtitle": "SRS Kartı · M04 · Kök: ض-م-ر",
+      "ar": "هُمْ",
+      "kok": "ض-م-ر",
+      "keywords": "هم ضَمِير Zamir"
+    },
+    {
+      "id": "search_card_m04_c5",
+      "type": "card",
+      "moduleId": "04",
+      "title": "onlar (3+ kadın) (hunne)",
+      "subtitle": "SRS Kartı · M04 · Kök: ض-م-ر",
+      "ar": "هُنَّ",
+      "kok": "ض-م-ر",
+      "keywords": "هن ضَمِير Zamir"
+    },
+    {
+      "id": "search_card_m04_c6",
+      "type": "card",
+      "moduleId": "04",
+      "title": "sen (erkek) (ente)",
+      "subtitle": "SRS Kartı · M04 · Kök: ض-م-ر",
+      "ar": "أَنْتَ",
+      "kok": "ض-م-ر",
+      "keywords": "أنت ضَمِير Zamir"
+    },
+    {
+      "id": "search_card_m04_c7",
+      "type": "card",
+      "moduleId": "04",
+      "title": "ben (eril & dişil ortak) (ene)",
+      "subtitle": "SRS Kartı · M04 · Kök: ض-م-ر",
+      "ar": "أَنَا",
+      "kok": "ض-م-ر",
+      "keywords": "أنا ضَمِير Zamir"
+    },
+    {
+      "id": "search_card_m04_c8",
+      "type": "card",
+      "moduleId": "04",
+      "title": "biz (2 ve 3+ ortak) (nahnu)",
+      "subtitle": "SRS Kartı · M04 · Kök: ض-م-ر",
+      "ar": "نَحْنُ",
+      "kok": "ض-م-ر",
+      "keywords": "نحن ضَمِير Zamir"
+    },
+    {
+      "id": "search_card_m04_c9",
+      "type": "card",
+      "moduleId": "04",
+      "title": "sen (kadın) (enti)",
+      "subtitle": "SRS Kartı · M04 · Kök: ض-م-ر",
+      "ar": "أَنْتِ",
+      "kok": "ض-م-ر",
+      "keywords": "أنت ضَمِير Zamir"
+    },
+    {
+      "id": "search_card_m04_c10",
+      "type": "card",
+      "moduleId": "04",
+      "title": "siz ikiniz (E/K ortak) (entumâ)",
+      "subtitle": "SRS Kartı · M04 · Kök: ض-م-ر",
+      "ar": "أَنْتُمَا",
+      "kok": "ض-م-ر",
+      "keywords": "أنتما ضَمِير Zamir"
+    },
+    {
+      "id": "search_card_m04_c11",
+      "type": "card",
+      "moduleId": "04",
+      "title": "sizler (3+ erkek veya karma) (entum)",
+      "subtitle": "SRS Kartı · M04 · Kök: ض-م-ر",
+      "ar": "أَنْتُمْ",
+      "kok": "ض-م-ر",
+      "keywords": "أنتم ضَمِير Zamir"
+    },
+    {
+      "id": "search_card_m04_c12",
+      "type": "card",
+      "moduleId": "04",
+      "title": "sizler (3+ kadın) (entunne)",
+      "subtitle": "SRS Kartı · M04 · Kök: ض-م-ر",
+      "ar": "أَنْتُنَّ",
+      "kok": "ض-م-ر",
+      "keywords": "أنتن ضَمِير Zamir"
+    },
+    {
+      "id": "search_card_m04_c13",
+      "type": "card",
+      "moduleId": "04",
+      "title": "bu (yakın tekil eril) (hâzâ)",
+      "subtitle": "SRS Kartı · M04 · Kök: ش-و-ر",
+      "ar": "هٰذَا",
+      "kok": "ش-و-ر",
+      "keywords": "هذا اِسْم إِشَارَة İşaret"
+    },
+    {
+      "id": "search_card_m04_c14",
+      "type": "card",
+      "moduleId": "04",
+      "title": "bu (yakın dişil & akılsız çoğul) (hâzihî)",
+      "subtitle": "SRS Kartı · M04 · Kök: ش-و-ر",
+      "ar": "هٰذِهِ",
+      "kok": "ش-و-ر",
+      "keywords": "هذه اِسْم إِشَارَة İşaret"
+    },
+    {
+      "id": "search_card_m04_c15",
+      "type": "card",
+      "moduleId": "04",
+      "title": "bu ikisi (yakın eril ikil) (hâzâni)",
+      "subtitle": "SRS Kartı · M04 · Kök: ش-و-ر",
+      "ar": "هٰذَانِ",
+      "kok": "ش-و-ر",
+      "keywords": "هذان اِسْم إِشَارَة İşaret"
+    },
+    {
+      "id": "search_card_m04_c16",
+      "type": "card",
+      "moduleId": "04",
+      "title": "bu ikisi (yakın dişil ikil) (hâtâni)",
+      "subtitle": "SRS Kartı · M04 · Kök: ش-و-ر",
+      "ar": "هَاتَانِ",
+      "kok": "ش-و-ر",
+      "keywords": "هاتان اِسْم إِشَارَة İşaret"
+    },
+    {
+      "id": "search_card_m04_c17",
+      "type": "card",
+      "moduleId": "04",
+      "title": "bunlar (yakın akıllı çoğul) (hâulâi)",
+      "subtitle": "SRS Kartı · M04 · Kök: ش-و-ر",
+      "ar": "هٰؤُلَاءِ",
+      "kok": "ش-و-ر",
+      "keywords": "هؤلاء اِسْم إِشَارَة İşaret"
+    },
+    {
+      "id": "search_card_m04_c18",
+      "type": "card",
+      "moduleId": "04",
+      "title": "şu / o (uzak tekil eril) (zâlike)",
+      "subtitle": "SRS Kartı · M04 · Kök: ش-و-ر",
+      "ar": "ذٰلِكَ",
+      "kok": "ش-و-ر",
+      "keywords": "ذلك اِسْم إِشَارَة İşaret"
+    },
+    {
+      "id": "search_card_m04_c19",
+      "type": "card",
+      "moduleId": "04",
+      "title": "şu / o (uzak dişil & akılsız çoğul) (tilke)",
+      "subtitle": "SRS Kartı · M04 · Kök: ش-و-ر",
+      "ar": "تِلْكَ",
+      "kok": "ش-و-ر",
+      "keywords": "تلك اِسْم إِشَارَة İşaret"
+    },
+    {
+      "id": "search_card_m04_c20",
+      "type": "card",
+      "moduleId": "04",
+      "title": "şunlar / onlar (uzak akıllı çoğul) (ulâike)",
+      "subtitle": "SRS Kartı · M04 · Kök: ش-و-ر",
+      "ar": "أُولٰئِكَ",
+      "kok": "ش-و-ر",
+      "keywords": "أولئك اِسْم إِشَارَة İşaret"
+    },
+    {
+      "id": "search_card_m04_c21",
+      "type": "card",
+      "moduleId": "04",
+      "title": "burada (hunâ)",
+      "subtitle": "SRS Kartı · M04 · Kök: ش-و-ر",
+      "ar": "هُنَا",
+      "kok": "ش-و-ر",
+      "keywords": "هنا ظَرْف مَكَان Zarf"
+    },
+    {
+      "id": "search_card_m04_c22",
+      "type": "card",
+      "moduleId": "04",
+      "title": "orada / vardır (there is) (hunâke)",
+      "subtitle": "SRS Kartı · M04 · Kök: ش-و-ر",
+      "ar": "هُنَاكَ",
+      "kok": "ش-و-ر",
+      "keywords": "هناك ظَرْف مَكَان Zarf"
+    },
+    {
+      "id": "search_card_m04_c23",
+      "type": "card",
+      "moduleId": "04",
+      "title": "bundan dolayı / bu yüzden (li-zâlike)",
+      "subtitle": "SRS Kartı · M04 · Kök: ش-و-ر",
+      "ar": "لِذٰلِكَ",
+      "kok": "ش-و-ر",
+      "keywords": "لذلك أَدَاة رَبْط Bağlaç"
+    },
+    {
+      "id": "search_card_m04_c24",
+      "type": "card",
+      "moduleId": "04",
+      "title": "bununla birlikte / buna rağmen (me‘a zâlike)",
+      "subtitle": "SRS Kartı · M04 · Kök: ش-و-ر",
+      "ar": "مَعَ ذٰلِكَ",
+      "kok": "ش-و-ر",
+      "keywords": "مع ذلك أَدَاة رَبْط Bağlaç"
+    },
+    {
+      "id": "search_card_m04_c25",
+      "type": "card",
+      "moduleId": "04",
+      "title": "aynı şekilde / ayrıca (kezâlike)",
+      "subtitle": "SRS Kartı · M04 · Kök: ش-و-ر",
+      "ar": "كَذٰلِكَ",
+      "kok": "ش-و-ر",
+      "keywords": "كذلك أَدَاة رَبْط Bağlaç"
+    },
+    {
+      "id": "search_card_m04_c26",
+      "type": "card",
+      "moduleId": "04",
+      "title": "bina / yapı (mebnen)",
+      "subtitle": "SRS Kartı · M04 · Kök: ب-ن-ي",
+      "ar": "مَبْنًى",
+      "kok": "ب-ن-ي",
+      "keywords": "مبنى مَفْعَل İsim"
+    },
+    {
+      "id": "search_card_m04_c27",
+      "type": "card",
+      "moduleId": "04",
+      "title": "müze (muthefun)",
+      "subtitle": "SRS Kartı · M04 · Kök: ت-ح-ف",
+      "ar": "مُتْحَفٌ",
+      "kok": "ت-ح-ف",
+      "keywords": "متحف مُفْعَل İsim"
+    },
+    {
+      "id": "search_card_m04_c28",
+      "type": "card",
+      "moduleId": "04",
+      "title": "sözlük / kamus (kâmûsun)",
+      "subtitle": "SRS Kartı · M04 · Kök: ق-م-س",
+      "ar": "قَامُوسٌ",
+      "kok": "ق-م-س",
+      "keywords": "قاموس فَاعُول İsim"
+    },
+    {
+      "id": "search_card_m04_c29",
+      "type": "card",
+      "moduleId": "04",
+      "title": "roman / anlatı (rivâyetun)",
+      "subtitle": "SRS Kartı · M04 · Kök: ر-و-ي",
+      "ar": "رِوَايَةٌ",
+      "kok": "ر-و-ي",
+      "keywords": "رواية فِعَالَة İsim"
+    },
+    {
+      "id": "search_card_m04_c30",
+      "type": "card",
+      "moduleId": "04",
+      "title": "araştırmacı (bâhisun)",
+      "subtitle": "SRS Kartı · M04 · Kök: ب-ح-ث",
+      "ar": "بَاحِثٌ",
+      "kok": "ب-ح-ث",
+      "keywords": "باحث فَاعِل İsim"
+    },
+    {
+      "id": "search_card_m04_c31",
+      "type": "card",
+      "moduleId": "04",
+      "title": "üstün başarılı (mutefevvikun)",
+      "subtitle": "SRS Kartı · M04 · Kök: ف-و-ق",
+      "ar": "مُتَفَوِّقٌ",
+      "kok": "ف-و-ق",
+      "keywords": "متفوق مُتَفَعِّل Sıfat"
+    },
+    {
+      "id": "search_card_m04_c32",
+      "type": "card",
+      "moduleId": "04",
+      "title": "fark / ayrım (farkun)",
+      "subtitle": "SRS Kartı · M04 · Kök: ف-ر-ق",
+      "ar": "فَرْقٌ",
+      "kok": "ف-ر-ق",
+      "keywords": "فرق فَعْل İsim"
+    },
+    {
+      "id": "search_gram_m04_g1",
+      "type": "grammar",
+      "moduleId": "04",
+      "title": "3. Şahıs (Gâib / Gâibe) Munfasıl Zamirler (هُوَ، هُمَا، هُمْ / هِيَ، هُمَا، هُنَّ)",
+      "subtitle": "Gramer Kuralı · M04",
+      "ar": "ضَمَائِرُ الْغَائِبِ وَالْغَائِبَةِ",
+      "keywords": "Gâib (E): هُوَ · هُمَا · هُمْ | Gâibe (K): هِيَ · هُمَا · هُنَّ | Akılsız Çoğul → هِيَ Türkçede 'o' dediğimizde karşımızdaki kişinin erkek mi kadın mı olduğunu, ya da 'onlar' dediğimizde 2 kişi mi 5 kişi mi "
+    },
+    {
+      "id": "search_gram_m04_g2",
+      "type": "grammar",
+      "moduleId": "04",
+      "title": "2. Şahıs (Muhatab / Muhataba) ve 1. Şahıs (Mütekellim) Zamirleri",
+      "subtitle": "Gramer Kuralı · M04",
+      "ar": "ضَمَائِرُ الْمُخَاطَبِ وَالْمُتَكَلِّمِ",
+      "keywords": "Muhatab: أَنْتَ · أَنْتِ · أَنْتُمَا · أَنْتُمْ · أَنْتُنَّ | Mütekellim: أَنَا (1) · نَحْنُ (2+) Karşımızdaki kişiye seslenirken (2. şahıs) sadece TEK bir hareke değişimi cinsiyeti belirler: Erkeğe أَنْتَ (ente — feth"
+    },
+    {
+      "id": "search_gram_m04_g3",
+      "type": "grammar",
+      "moduleId": "04",
+      "title": "Yakın İşaret İsimleri (هٰذَا، هٰذِهِ، هٰذَانِ، هَاتَانِ، هٰؤُلَاءِ)",
+      "subtitle": "Gramer Kuralı · M04",
+      "ar": "أَسْمَاءُ الْإِشَارَةِ لِلْقَرِيبِ",
+      "keywords": "Yakın: هٰذَا (E1) · هٰذِهِ (K1 + Akılsız Çoğul) · هٰذَانِ/هٰذَيْنِ (E2) · هَاتَانِ/هَاتَيْنِ (K2) · هٰؤُلَاءِ (Akıllı 3+) Elimizle yakınımızdaki bir varlığı gösterirken kullandığımız 'bu / bunlar' sözcüklerine Yakın İsm-i İşâret denir. Arapça"
+    },
+    {
+      "id": "search_gram_m04_g4",
+      "type": "grammar",
+      "moduleId": "04",
+      "title": "Uzak İşaret İsimleri (ذٰلِكَ، تِلْكَ، أُولٰئِكَ) & Mekân İşaretleri",
+      "subtitle": "Gramer Kuralı · M04",
+      "ar": "أَسْمَاءُ الْإِشَارَةِ لِلْبَعِيدِ وَالْمَكَانِ",
+      "keywords": "Uzak: ذٰلِكَ (E1) · تِلْكَ (K1 + Akılsız Çoğul) · أُولٰئِكَ (Akıllı 3+) | Mekân: هُنَا (burada) / هُنَاكَ (orada) Uzaktaki bir varlığı gösterirken (Türkçede 'şu / o / şunlar') Arapça bambaşka, çok zarif bir set kullanır: Tekil eril ذٰ"
+    },
+    {
+      "id": "search_gram_m04_g5",
+      "type": "grammar",
+      "moduleId": "04",
+      "title": "Altın Ayrım: İşaret + Nekre (Tam Cümle) vs. İşaret + ال Marife (Tamlama / Bedel)",
+      "subtitle": "Gramer Kuralı · M04",
+      "ar": "الْفَرْقُ بَيْنَ «هٰذَا كِتَابٌ» وَ«هٰذَا الْكِتَابُ»",
+      "keywords": "هٰذَا + كِتَابٌ (Tam Cümle: Bu bir kitaptır) | هٰذَا + الْكِتَابُ + مُفِيدٌ (Öbek + Haber: Bu kitap faydalıdır) | هٰذَا هُوَ الْكِتَابُ (Bu, o kitaptır) Modül 04'ün en büyük 'Aha!' anına hoş geldiniz! Arapçada işaret isminden hemen sonra gelen ismin başında ال olup olmamas"
+    },
+    {
+      "id": "search_card_m05_c1",
+      "type": "card",
+      "moduleId": "05",
+      "title": "mübtedâ (isim cümlesi öznesi) (mubtedeun)",
+      "subtitle": "SRS Kartı · M05 · Kök: ب-د-أ",
+      "ar": "مُبْتَدَأٌ",
+      "kok": "ب-د-أ",
+      "keywords": "مبتدأ مُفْتَعَل Terim"
+    },
+    {
+      "id": "search_card_m05_c2",
+      "type": "card",
+      "moduleId": "05",
+      "title": "haber (yüklem / haber) (haberun)",
+      "subtitle": "SRS Kartı · M05 · Kök: خ-ب-ر",
+      "ar": "خَبَرٌ",
+      "kok": "خ-ب-ر",
+      "keywords": "خبر فَعَل Terim"
+    },
+    {
+      "id": "search_card_m05_c3",
+      "type": "card",
+      "moduleId": "05",
+      "title": "hoş / nazik / yumuşak (latîfun)",
+      "subtitle": "SRS Kartı · M05 · Kök: ل-ط-ف",
+      "ar": "لَطِيفٌ",
+      "kok": "ل-ط-ف",
+      "keywords": "لطيف فَعِيل Sıfat"
+    },
+    {
+      "id": "search_card_m05_c4",
+      "type": "card",
+      "moduleId": "05",
+      "title": "hava / atmosfer (cevvun)",
+      "subtitle": "SRS Kartı · M05 · Kök: ج-و-و",
+      "ar": "جَوٌّ",
+      "kok": "ج-و-و",
+      "keywords": "جو فَعْل İsim"
+    },
+    {
+      "id": "search_card_m05_c5",
+      "type": "card",
+      "moduleId": "05",
+      "title": "sıcak (içecek / yemek) (sâhinun)",
+      "subtitle": "SRS Kartı · M05 · Kök: س-خ-ن",
+      "ar": "سَاخِنٌ",
+      "kok": "س-خ-ن",
+      "keywords": "ساخن فَاعِل Sıfat"
+    },
+    {
+      "id": "search_card_m05_c6",
+      "type": "card",
+      "moduleId": "05",
+      "title": "soğuk (bâridun)",
+      "subtitle": "SRS Kartı · M05 · Kök: ب-ر-د",
+      "ar": "بَارِدٌ",
+      "kok": "ب-ر-د",
+      "keywords": "بارد فَاعِل Sıfat"
+    },
+    {
+      "id": "search_card_m05_c7",
+      "type": "card",
+      "moduleId": "05",
+      "title": "lezzetli (lezîzun)",
+      "subtitle": "SRS Kartı · M05 · Kök: ل-ذ-ذ",
+      "ar": "لَذِيذٌ",
+      "kok": "ل-ذ-ذ",
+      "keywords": "لذيذ فَعِيل Sıfat"
+    },
+    {
+      "id": "search_card_m05_c8",
+      "type": "card",
+      "moduleId": "05",
+      "title": "temiz (nazîfun)",
+      "subtitle": "SRS Kartı · M05 · Kök: ن-ظ-ف",
+      "ar": "نَظِيفٌ",
+      "kok": "ن-ظ-ف",
+      "keywords": "نظيف فَعِيل Sıfat"
+    },
+    {
+      "id": "search_card_m05_c9",
+      "type": "card",
+      "moduleId": "05",
+      "title": "sakin / sessiz (hâdiun)",
+      "subtitle": "SRS Kartı · M05 · Kök: ه-د-أ",
+      "ar": "هَادِئٌ",
+      "kok": "ه-د-أ",
+      "keywords": "هادئ فَاعِل Sıfat"
+    },
+    {
+      "id": "search_card_m05_c10",
+      "type": "card",
+      "moduleId": "05",
+      "title": "caddeler / sokaklar (şevâri‘u)",
+      "subtitle": "SRS Kartı · M05 · Kök: ش-ر-ع",
+      "ar": "شَوَارِعُ",
+      "kok": "ش-ر-ع",
+      "keywords": "شوارع فَوَاعِل Çoğul"
+    },
+    {
+      "id": "search_card_m05_c11",
+      "type": "card",
+      "moduleId": "05",
+      "title": "i'rab (kelime sonu gramer değişimi) (i‘râbun)",
+      "subtitle": "SRS Kartı · M05 · Kök: ع-ر-ب",
+      "ar": "إِعْرَابٌ",
+      "kok": "ع-ر-ب",
+      "keywords": "إعراب إِفْعَال Terim"
+    },
+    {
+      "id": "search_card_m05_c12",
+      "type": "card",
+      "moduleId": "05",
+      "title": "merfû (ref hâlinde / ötreli) (merfû‘un)",
+      "subtitle": "SRS Kartı · M05 · Kök: ر-ف-ع",
+      "ar": "مَرْفُوعٌ",
+      "kok": "ر-ف-ع",
+      "keywords": "مرفوع مَفْعُول Terim"
+    },
+    {
+      "id": "search_card_m05_c13",
+      "type": "card",
+      "moduleId": "05",
+      "title": "mansub (nasb hâlinde / üstünlü) (mansûbun)",
+      "subtitle": "SRS Kartı · M05 · Kök: ن-ص-ب",
+      "ar": "مَنْصُوبٌ",
+      "kok": "ن-ص-ب",
+      "keywords": "منصوب مَفْعُول Terim"
+    },
+    {
+      "id": "search_card_m05_c14",
+      "type": "card",
+      "moduleId": "05",
+      "title": "mecrûr (cer hâlinde / esreli) (mecrûrun)",
+      "subtitle": "SRS Kartı · M05 · Kök: ج-ر-ر",
+      "ar": "مَجْرُورٌ",
+      "kok": "ج-ر-ر",
+      "keywords": "مجرور مَفْعُول Terim"
+    },
+    {
+      "id": "search_card_m05_c15",
+      "type": "card",
+      "moduleId": "05",
+      "title": "sıfat (na't) (na‘tun)",
+      "subtitle": "SRS Kartı · M05 · Kök: ن-ع-ت",
+      "ar": "نَعْتٌ",
+      "kok": "ن-ع-ت",
+      "keywords": "نعت فَعْل Terim"
+    },
+    {
+      "id": "search_card_m05_c16",
+      "type": "card",
+      "moduleId": "05",
+      "title": "bilimsel / ilmî (‘ilmiyyun)",
+      "subtitle": "SRS Kartı · M05 · Kök: ع-ل-م",
+      "ar": "عِلْمِيٌّ",
+      "kok": "ع-ل-م",
+      "keywords": "علمي فِعْلِيّ Sıfat"
+    },
+    {
+      "id": "search_card_m05_c17",
+      "type": "card",
+      "moduleId": "05",
+      "title": "tarihî (târîhiyyun)",
+      "subtitle": "SRS Kartı · M05 · Kök: أ-ر-خ",
+      "ar": "تَارِيخِيٌّ",
+      "kok": "أ-ر-خ",
+      "keywords": "تاريخي تَفْعِيلِيّ Sıfat"
+    },
+    {
+      "id": "search_card_m05_c18",
+      "type": "card",
+      "moduleId": "05",
+      "title": "uluslararası / devletler arası (devliyyun)",
+      "subtitle": "SRS Kartı · M05 · Kök: د-و-ل",
+      "ar": "دَوْلِيٌّ",
+      "kok": "د-و-ل",
+      "keywords": "دولي فَعْلِيّ Sıfat"
+    },
+    {
+      "id": "search_card_m05_c19",
+      "type": "card",
+      "moduleId": "05",
+      "title": "ekonomik / iktisadî (iktisâdiyyun)",
+      "subtitle": "SRS Kartı · M05 · Kök: ق-ص-د",
+      "ar": "اِقْتِصَادِيٌّ",
+      "kok": "ق-ص-د",
+      "keywords": "اقتصادي اِفْتِعَالِيّ Sıfat"
+    },
+    {
+      "id": "search_card_m05_c20",
+      "type": "card",
+      "moduleId": "05",
+      "title": "kültürel (sekâfiyyun)",
+      "subtitle": "SRS Kartı · M05 · Kök: ث-ق-ف",
+      "ar": "ثَقَافِيٌّ",
+      "kok": "ث-ق-ف",
+      "keywords": "ثقافي فَعَالِيّ Sıfat"
+    },
+    {
+      "id": "search_card_m05_c21",
+      "type": "card",
+      "moduleId": "05",
+      "title": "günlük (yevmiyyun)",
+      "subtitle": "SRS Kartı · M05 · Kök: ي-و-م",
+      "ar": "يَوْمِيٌّ",
+      "kok": "ي-و-م",
+      "keywords": "يومي فَعْلِيّ Sıfat"
+    },
+    {
+      "id": "search_card_m05_c22",
+      "type": "card",
+      "moduleId": "05",
+      "title": "lokanta / restoran (mat‘amun)",
+      "subtitle": "SRS Kartı · M05 · Kök: ط-ع-م",
+      "ar": "مَطْعَمٌ",
+      "kok": "ط-ع-م",
+      "keywords": "مطعم مَفْعَل İsim"
+    },
+    {
+      "id": "search_card_m05_c23",
+      "type": "card",
+      "moduleId": "05",
+      "title": "bahçe / park (hadîkatun)",
+      "subtitle": "SRS Kartı · M05 · Kök: ح-د-ق",
+      "ar": "حَدِيقَةٌ",
+      "kok": "ح-د-ق",
+      "keywords": "حديقة فَعِيلَة İsim"
+    },
+    {
+      "id": "search_card_m05_c24",
+      "type": "card",
+      "moduleId": "05",
+      "title": "mahalle / canlı / diri (hayyun)",
+      "subtitle": "SRS Kartı · M05 · Kök: ح-ي-ي",
+      "ar": "حَيٌّ",
+      "kok": "ح-ي-ي",
+      "keywords": "حي فَعْل İsim"
+    },
+    {
+      "id": "search_card_m05_c25",
+      "type": "card",
+      "moduleId": "05",
+      "title": "komşu (cârun)",
+      "subtitle": "SRS Kartı · M05 · Kök: ج-و-ر",
+      "ar": "جَارٌ",
+      "kok": "ج-و-ر",
+      "keywords": "جار فَعَل İsim"
+    },
+    {
+      "id": "search_card_m05_c26",
+      "type": "card",
+      "moduleId": "05",
+      "title": "köklü / kadim (‘arîkun)",
+      "subtitle": "SRS Kartı · M05 · Kök: ع-ر-ق",
+      "ar": "عَرِيقٌ",
+      "kok": "ع-ر-ق",
+      "keywords": "عريق فَعِيل Sıfat"
+    },
+    {
+      "id": "search_card_m05_c27",
+      "type": "card",
+      "moduleId": "05",
+      "title": "çalışma / eğitim / araştırma (dirâsetun)",
+      "subtitle": "SRS Kartı · M05 · Kök: د-ر-س",
+      "ar": "دِرَاسَةٌ",
+      "kok": "د-ر-س",
+      "keywords": "دراسة فِعَالَة İsim"
+    },
+    {
+      "id": "search_card_m05_c28",
+      "type": "card",
+      "moduleId": "05",
+      "title": "alışkanlık / âdet (‘âdetun)",
+      "subtitle": "SRS Kartı · M05 · Kök: ع-و-د",
+      "ar": "عَادَةٌ",
+      "kok": "ع-و-د",
+      "keywords": "عادة فَعَلَة İsim"
+    },
+    {
+      "id": "search_card_m05_c29",
+      "type": "card",
+      "moduleId": "05",
+      "title": "kaynak / başvuru eseri (merci‘un)",
+      "subtitle": "SRS Kartı · M05 · Kök: ر-ج-ع",
+      "ar": "مَرْجِعٌ",
+      "kok": "ر-ج-ع",
+      "keywords": "مرجع مَفْعِل İsim"
+    },
+    {
+      "id": "search_card_m05_c30",
+      "type": "card",
+      "moduleId": "05",
+      "title": "anahtar (miftâhun)",
+      "subtitle": "SRS Kartı · M05 · Kök: ف-ت-ح",
+      "ar": "مِفْتَاحٌ",
+      "kok": "ف-ت-ح",
+      "keywords": "مفتاح مِفْعَال İsim"
+    },
+    {
+      "id": "search_card_m05_c31",
+      "type": "card",
+      "moduleId": "05",
+      "title": "rahat / dinlendirici (murîhun)",
+      "subtitle": "SRS Kartı · M05 · Kök: ر-و-ح",
+      "ar": "مُرِيحٌ",
+      "kok": "ر-و-ح",
+      "keywords": "مريح مُفْعِل Sıfat"
+    },
+    {
+      "id": "search_card_m05_c32",
+      "type": "card",
+      "moduleId": "05",
+      "title": "uzman / deneyimli (habîrun)",
+      "subtitle": "SRS Kartı · M05 · Kök: خ-ب-ر",
+      "ar": "خَبِيرٌ",
+      "kok": "خ-ب-ر",
+      "keywords": "خبير فَعِيل Sıfat"
+    },
+    {
+      "id": "search_gram_m05_g1",
+      "type": "grammar",
+      "moduleId": "05",
+      "title": "İsim Cümlesinin İki Direği: Mübtedâ (Özne) ve Haber (Yüklem)",
+      "subtitle": "Gramer Kuralı · M05",
+      "ar": "رُكْنَا الْجُمْلَةِ الْاِسْمِيَّةِ: الْمُبْتَدَأُ وَالْخَبَرُ",
+      "keywords": "İsim Cümlesi = Mübtedâ (Marife + Merfû) + Haber (Nekre + Merfû) | Cinsiyet & Sayı Uyumu Şart! Arapçada bir cümle isimle başlıyorsa ona İSİM CÜMLESİ (الْجُمْلَةُ الْاِسْمِيَّةُ) denir ve Türkçedeki 'Ev geniştir, Hav"
+    },
+    {
+      "id": "search_gram_m05_g2",
+      "type": "grammar",
+      "moduleId": "05",
+      "title": "Sıfat Tamlaması (Na't ve Men'ût) — 4 Yönden Kusursuz Uyum",
+      "subtitle": "Gramer Kuralı · M05",
+      "ar": "النَّعْتُ وَالْمَنْعُوتُ (الْمُطَابَقَةُ فِي أَرْبَعَةٍ)",
+      "keywords": "Mevsûf + Sıfat (Sıra Ters!) | 4 Yönden Uyum: (1) İ'rab · (2) Marife/Nekre · (3) Cinsiyet · (4) Sayı Arapçada sıfat tamlamasının sırası Türkçenin tam TERSİDİR: Önce nitelenen isim (MEVSÛF / MEN'ÛT), sonra SIFAT (NA'T) gel"
+    },
+    {
+      "id": "search_gram_m05_g3",
+      "type": "grammar",
+      "moduleId": "05",
+      "title": "Mübtedâ ve Haberin Sıfat Alması (Cümleyi Zenginleştirme)",
+      "subtitle": "Gramer Kuralı · M05",
+      "ar": "تَوْسِيعُ الْجُمْلَةِ الْاِسْمِيَّةِ بِالنَّعْتِ",
+      "keywords": "[Mübtedâ (ال) + Sıfatı (ال)] + [Haber (Tenvîn) + Sıfatı (Tenvîn)] → İlk Nekre = Haber! Artık iki kelimelik bebek cümlelerinden ('الْبَيْتُ كَبِيرٌ') çıkıp gerçek gazete ve kitap cümleleri kurabiliriz! Nasıl?"
+    },
+    {
+      "id": "search_gram_m05_g4",
+      "type": "grammar",
+      "moduleId": "05",
+      "title": "Temel İ'rab Alâmetleri: Merfû, Mansub, Mecrûr (Renkli Harita)",
+      "subtitle": "Gramer Kuralı · M05",
+      "ar": "عَلَامَاتُ الْإِعْرَابِ الْأَصْلِيَّةُ (الرَّفْعُ وَالنَّصْبُ وَالْجَرُّ)",
+      "keywords": "Ref (Özne/Mübtedâ/Haber) = Damme (ـُ) · Nasb (Nesne) = Fetha (ـَ) · Cer (Harf-i Cer/Tamlayan) = Kesra (ـِ) Arapçanın en büyük mucizesi İ'RAB (الْإِعْرَابُ) sistemidir: Bir kelimenin cümledeki görevini (özne mi, nesne mi, dolayl"
+    },
+    {
+      "id": "search_gram_m05_g5",
+      "type": "grammar",
+      "moduleId": "05",
+      "title": "Nisbet Sıfatı (İsm-i Mensûb: ـِيٌّ / ـِيَّةٌ) — Milliyet, Bilim ve Alan Sıfatları",
+      "subtitle": "Gramer Kuralı · M05",
+      "ar": "الْاِسْمُ الْمَنْسُوبُ (صِفَاتُ النِّسْبَةِ وَالْجِنْسِيَّةِ)",
+      "keywords": "İsim (ة/ا düşer) + ـِيٌّ (Eril) / + ـِيَّةٌ (Dişil) | عِلْمٌ ← عِلْمِيٌّ / عِلْمِيَّةٌ Türkçede '-lı/-li, -sal/-sel, -ca/-ce' ekleriyle yaptığımız neredeyse tüm sıfatları (Türk, Arap, bilimsel, tarihî, günlü"
+    },
+    {
+      "id": "search_card_m06_c1",
+      "type": "card",
+      "moduleId": "06",
+      "title": "isim tamlaması (izâfet) / ekleme (idâfetun)",
+      "subtitle": "SRS Kartı · M06 · Kök: ض-ي-ف",
+      "ar": "إِضَافَةٌ",
+      "kok": "ض-ي-ف",
+      "keywords": "إضافة إِفْعَالَة Terim"
+    },
+    {
+      "id": "search_card_m06_c2",
+      "type": "card",
+      "moduleId": "06",
+      "title": "tamlanan (tamlamanın 1. ismi) (mudâfun)",
+      "subtitle": "SRS Kartı · M06 · Kök: ض-ي-ف",
+      "ar": "مُضَافٌ",
+      "kok": "ض-ي-ف",
+      "keywords": "مضاف مُفْعَل Terim"
+    },
+    {
+      "id": "search_card_m06_c3",
+      "type": "card",
+      "moduleId": "06",
+      "title": "benim kitabım (kitâbî)",
+      "subtitle": "SRS Kartı · M06 · Kök: ك-ت-ب",
+      "ar": "كِتَابِي",
+      "kok": "ك-ت-ب",
+      "keywords": "كتابي فِعَال + ي Zamirli"
+    },
+    {
+      "id": "search_card_m06_c4",
+      "type": "card",
+      "moduleId": "06",
+      "title": "onun (E) odası (gurfetuhû)",
+      "subtitle": "SRS Kartı · M06 · Kök: غ-ر-ف",
+      "ar": "غُرْفَتُهُ",
+      "kok": "غ-ر-ف",
+      "keywords": "غرفته فُعْلَة + ه Zamirli"
+    },
+    {
+      "id": "search_card_m06_c5",
+      "type": "card",
+      "moduleId": "06",
+      "title": "bizim okulumuz (medresetunâ)",
+      "subtitle": "SRS Kartı · M06 · Kök: د-ر-س",
+      "ar": "مَدْرَسَتُنَا",
+      "kok": "د-ر-س",
+      "keywords": "مدرستنا مَفْعَلَة + نَا Zamirli"
+    },
+    {
+      "id": "search_card_m06_c6",
+      "type": "card",
+      "moduleId": "06",
+      "title": "müdür / yönetici (mudîrun)",
+      "subtitle": "SRS Kartı · M06 · Kök: د-و-ر",
+      "ar": "مُدِيرٌ",
+      "kok": "د-و-ر",
+      "keywords": "مدير مُفْعِل İsim"
+    },
+    {
+      "id": "search_card_m06_c7",
+      "type": "card",
+      "moduleId": "06",
+      "title": "şirket / firma (şeriketun)",
+      "subtitle": "SRS Kartı · M06 · Kök: ش-ر-ك",
+      "ar": "شَرِكَةٌ",
+      "kok": "ش-ر-ك",
+      "keywords": "شركة فَعِلَة İsim"
+    },
+    {
+      "id": "search_card_m06_c8",
+      "type": "card",
+      "moduleId": "06",
+      "title": "adres / başlık (‘unvânun)",
+      "subtitle": "SRS Kartı · M06 · Kök: ع-ن-و-ن",
+      "ar": "عُنْوَانٌ",
+      "kok": "ع-ن-و-ن",
+      "keywords": "عنوان فُعْلَان İsim"
+    },
+    {
+      "id": "search_card_m06_c9",
+      "type": "card",
+      "moduleId": "06",
+      "title": "başkent (‘âsımetun)",
+      "subtitle": "SRS Kartı · M06 · Kök: ع-ص-م",
+      "ar": "عَاصِمَةٌ",
+      "kok": "ع-ص-م",
+      "keywords": "عاصمة فَاعِلَة İsim"
+    },
+    {
+      "id": "search_card_m06_c10",
+      "type": "card",
+      "moduleId": "06",
+      "title": "renk (levnun)",
+      "subtitle": "SRS Kartı · M06 · Kök: ل-و-ن",
+      "ar": "لَوْنٌ",
+      "kok": "ل-و-ن",
+      "keywords": "لون فَعْل İsim"
+    },
+    {
+      "id": "search_card_m06_c11",
+      "type": "card",
+      "moduleId": "06",
+      "title": "başkan / rektör / şef (reîsun)",
+      "subtitle": "SRS Kartı · M06 · Kök: ر-أ-س",
+      "ar": "رَئِيسٌ",
+      "kok": "ر-أ-س",
+      "keywords": "رئيس فَعِيل İsim"
+    },
+    {
+      "id": "search_card_m06_c12",
+      "type": "card",
+      "moduleId": "06",
+      "title": "dekan (fakülte başkanı) (‘amîdun)",
+      "subtitle": "SRS Kartı · M06 · Kök: ع-م-د",
+      "ar": "عَمِيدٌ",
+      "kok": "ع-م-د",
+      "keywords": "عميد فَعِيل İsim"
+    },
+    {
+      "id": "search_card_m06_c13",
+      "type": "card",
+      "moduleId": "06",
+      "title": "fakülte / kolej (kulliyyetun)",
+      "subtitle": "SRS Kartı · M06 · Kök: ك-ل-ل",
+      "ar": "كُلِّيَّةٌ",
+      "kok": "ك-ل-ل",
+      "keywords": "كلية فُعْلِيَّة İsim"
+    },
+    {
+      "id": "search_card_m06_c14",
+      "type": "card",
+      "moduleId": "06",
+      "title": "tablo / çizelge / program (cedvelun)",
+      "subtitle": "SRS Kartı · M06 · Kök: ج-د-و-ل",
+      "ar": "جَدْوَلٌ",
+      "kok": "ج-د-و-ل",
+      "keywords": "جدول فَعْلَل İsim"
+    },
+    {
+      "id": "search_card_m06_c15",
+      "type": "card",
+      "moduleId": "06",
+      "title": "fincan (fincânun)",
+      "subtitle": "SRS Kartı · M06 · Kök: ف-ن-ج-ن",
+      "ar": "فِنْجَانٌ",
+      "kok": "ف-ن-ج-ن",
+      "keywords": "فنجان فِعْلَال İsim"
+    },
+    {
+      "id": "search_card_m06_c16",
+      "type": "card",
+      "moduleId": "06",
+      "title": "bardak / kupa (kûbun)",
+      "subtitle": "SRS Kartı · M06 · Kök: ك-و-ب",
+      "ar": "كُوبٌ",
+      "kok": "ك-و-ب",
+      "keywords": "كوب فُعْل İsim"
+    },
+    {
+      "id": "search_card_m06_c17",
+      "type": "card",
+      "moduleId": "06",
+      "title": "her (+nekre) / bütün (+marife çoğul) (kullu)",
+      "subtitle": "SRS Kartı · M06 · Kök: ك-ل-ل",
+      "ar": "كُلُّ",
+      "kok": "ك-ل-ل",
+      "keywords": "كل فُعْل Muzâf"
+    },
+    {
+      "id": "search_card_m06_c18",
+      "type": "card",
+      "moduleId": "06",
+      "title": "bazı / bir kısmı (ba‘du)",
+      "subtitle": "SRS Kartı · M06 · Kök: ب-ع-ض",
+      "ar": "بَعْضُ",
+      "kok": "ب-ع-ض",
+      "keywords": "بعض فَعْل Muzâf"
+    },
+    {
+      "id": "search_card_m06_c19",
+      "type": "card",
+      "moduleId": "06",
+      "title": "tümü / hepsi (cemî‘u)",
+      "subtitle": "SRS Kartı · M06 · Kök: ج-م-ع",
+      "ar": "جَمِيعُ",
+      "kok": "ج-م-ع",
+      "keywords": "جميع فَعِيل Muzâf"
+    },
+    {
+      "id": "search_card_m06_c20",
+      "type": "card",
+      "moduleId": "06",
+      "title": "olmayan / değil / -sız (gayru)",
+      "subtitle": "SRS Kartı · M06 · Kök: غ-ي-ر",
+      "ar": "غَيْرُ",
+      "kok": "غ-ي-ر",
+      "keywords": "غير فَعْل Muzâf"
+    },
+    {
+      "id": "search_card_m06_c21",
+      "type": "card",
+      "moduleId": "06",
+      "title": "gibi / benzeri (mislu)",
+      "subtitle": "SRS Kartı · M06 · Kök: م-ث-ل",
+      "ar": "مِثْلُ",
+      "kok": "م-ث-ل",
+      "keywords": "مثل فِعْل Muzâf"
+    },
+    {
+      "id": "search_card_m06_c22",
+      "type": "card",
+      "moduleId": "06",
+      "title": "konum / web sitesi (mevki‘un)",
+      "subtitle": "SRS Kartı · M06 · Kök: و-ق-ع",
+      "ar": "مَوْقِعٌ",
+      "kok": "و-ق-ع",
+      "keywords": "موقع مَفْعِل İsim"
+    },
+    {
+      "id": "search_card_m06_c23",
+      "type": "card",
+      "moduleId": "06",
+      "title": "kaynak / mastar (masdarun)",
+      "subtitle": "SRS Kartı · M06 · Kök: ص-د-ر",
+      "ar": "مَصْدَرٌ",
+      "kok": "ص-د-ر",
+      "keywords": "مصدر مَفْعَل İsim"
+    },
+    {
+      "id": "search_card_m06_c24",
+      "type": "card",
+      "moduleId": "06",
+      "title": "kart / kimlik kartı (bitâkatun)",
+      "subtitle": "SRS Kartı · M06 · Kök: ب-ط-ق",
+      "ar": "بِطَاقَةٌ",
+      "kok": "ب-ط-ق",
+      "keywords": "بطاقة فِعَالَة İsim"
+    },
+    {
+      "id": "search_card_m06_c25",
+      "type": "card",
+      "moduleId": "06",
+      "title": "cep (ceybun)",
+      "subtitle": "SRS Kartı · M06 · Kök: ج-ي-ب",
+      "ar": "جَيْبٌ",
+      "kok": "ج-ي-ب",
+      "keywords": "جيب فَعْل İsim"
+    },
+    {
+      "id": "search_card_m06_c26",
+      "type": "card",
+      "moduleId": "06",
+      "title": "gözlük (nazzâratun)",
+      "subtitle": "SRS Kartı · M06 · Kök: ن-ظ-ر",
+      "ar": "نَظَّارَةٌ",
+      "kok": "ن-ظ-ر",
+      "keywords": "نظارة فَعَّالَة İsim"
+    },
+    {
+      "id": "search_card_m06_c27",
+      "type": "card",
+      "moduleId": "06",
+      "title": "rapor (takrîrun)",
+      "subtitle": "SRS Kartı · M06 · Kök: ق-ر-ر",
+      "ar": "تَقْرِيرٌ",
+      "kok": "ق-ر-ر",
+      "keywords": "تقرير تَفْعِيل İsim"
+    },
+    {
+      "id": "search_card_m06_c28",
+      "type": "card",
+      "moduleId": "06",
+      "title": "proje / yasal (meşrû‘un)",
+      "subtitle": "SRS Kartı · M06 · Kök: ش-ر-ع",
+      "ar": "مَشْرُوعٌ",
+      "kok": "ش-ر-ع",
+      "keywords": "مشروع مَفْعُول İsim"
+    },
+    {
+      "id": "search_card_m06_c29",
+      "type": "card",
+      "moduleId": "06",
+      "title": "geliştirme / kalkındırma (tatvîrun)",
+      "subtitle": "SRS Kartı · M06 · Kök: ط-و-ر",
+      "ar": "تَطْوِيرٌ",
+      "kok": "ط-و-ر",
+      "keywords": "تطوير تَفْعِيل Mastar"
+    },
+    {
+      "id": "search_card_m06_c30",
+      "type": "card",
+      "moduleId": "06",
+      "title": "çoğu / büyük kısmı (mu‘zamu)",
+      "subtitle": "SRS Kartı · M06 · Kök: ع-ظ-م",
+      "ar": "مُعْظَمُ",
+      "kok": "ع-ظ-م",
+      "keywords": "معظم مُفْعَل Muzâf"
+    },
+    {
+      "id": "search_card_m06_c31",
+      "type": "card",
+      "moduleId": "06",
+      "title": "misafirperverlik / konukseverlik (diyâfetun)",
+      "subtitle": "SRS Kartı · M06 · Kök: ض-ي-ف",
+      "ar": "ضِيَافَةٌ",
+      "kok": "ض-ي-ف",
+      "keywords": "ضيافة فِعَالَة İsim"
+    },
+    {
+      "id": "search_card_m06_c32",
+      "type": "card",
+      "moduleId": "06",
+      "title": "iş / sınıf arkadaşı (zemîlun)",
+      "subtitle": "SRS Kartı · M06 · Kök: ز-م-ل",
+      "ar": "زَمِيلٌ",
+      "kok": "ز-م-ل",
+      "keywords": "زميل فَعِيل İsim"
+    },
+    {
+      "id": "search_gram_m06_g1",
+      "type": "grammar",
+      "moduleId": "06",
+      "title": "İsimlere Bitişen Muttasıl (İyelik) Zamirleri",
+      "subtitle": "Gramer Kuralı · M06",
+      "ar": "الضَّمَائِرُ الْمُتَّصِلَةُ بِالْاِسْمِ (ضَمَائِرُ الْمِلْكِيَّةِ)",
+      "keywords": "İsim (ال yok, Tenvîn yok, ة → ت) + Muttasıl Zamir (ـِي / ـكَ / ـكِ / ـهُ / ـهَا / ـنَا / ـكُمْ / ـهُمْ) Türkçede 'kitabım, kitabın, kitabı, kitabımız' derken ismin sonuna iyelik ekleri (-ım, -ın, -ı) ekleriz. Arapçada bu sis"
+    },
+    {
+      "id": "search_gram_m06_g2",
+      "type": "grammar",
+      "moduleId": "06",
+      "title": "İsim Tamlaması (İzâfet Terkibi: Muzâf & Muzâfun İleyh)",
+      "subtitle": "Gramer Kuralı · M06",
+      "ar": "الْإِضَافَةُ (الْمُضَافُ وَالْمُضَافُ إِلَيْهِ)",
+      "keywords": "İzâfet = Muzâf (ال YOK, Tenvîn YOK, göreve göre Ref/Nasb/Cer) + Muzâfun İleyh (DAİMA MECRÛR!) Türkçede 'öğrencinin kitabı', 'sınıfın kapısı', 'Arapça öğretmeni' derken iki ismi birbirine bağlarız. Arapçada bu yapın"
+    },
+    {
+      "id": "search_gram_m06_g3",
+      "type": "grammar",
+      "moduleId": "06",
+      "title": "Zincirleme İsim Tamlaması (3 veya 4 İsimli İzâfet Zinciri)",
+      "subtitle": "Gramer Kuralı · M06",
+      "ar": "تَتَابُعُ الْإِضَافَاتِ (الْإِضَافَةُ الْمُتَسَلْسِلَةُ)",
+      "keywords": "Zincirleme İzâfet = [1. Göreve göre, ال yok] + [Ortadakiler: KESRA, ال yok] + [Son Halka: KESRA + ال / Zamir] Arapçada özellikle akademik ve YDS metinlerinde 'Okul müdürünün arabasının anahtarı' gibi 3 hatta 4 isim art arda eklene"
+    },
+    {
+      "id": "search_gram_m06_g4",
+      "type": "grammar",
+      "moduleId": "06",
+      "title": "İsim Tamlamasında Sıfatın Yeri (Araya Giremez Kuralı!)",
+      "subtitle": "Gramer Kuralı · M06",
+      "ar": "نَعْتُ الْمُضَافِ وَالْمُضَافِ إِلَيْهِ",
+      "keywords": "Muzâf + Muzâfun İleyh + [Sıfat EN SONA!] | Sıfat Marife (ال) Olur + Kime Gidiyorsa Onun İ'rab & Cinsiyetini Alır! Şimdi Türk öğrencilerin en sık takıldığı ama çözünce bayıldığı kurala geldik: 'Öğrencinin YENİ kitabı' veya 'Yeni öğrenc"
+    },
+    {
+      "id": "search_gram_m06_g5",
+      "type": "grammar",
+      "moduleId": "06",
+      "title": "Daima Muzâf Olan Altın Kelimeler: كُلّ، بَعْض، جَمِيع، غَيْر، مِثْل",
+      "subtitle": "Gramer Kuralı · M06",
+      "ar": "كَلِمَاتٌ مُلَازِمَةٌ لِلْإِضَافَةِ (كُلّ، بَعْض، جَمِيع، غَيْر، مِثْل)",
+      "keywords": "كُلُّ + Nekre Tekil ('her') | كُلُّ + Marife Çoğul ('bütün') | بَعْضُ / جَمِيعُ / غَيْرُ / مِثْلُ + MECRÛR! Arapçada özellikle okuma parçalarında ve YDS sınavlarında neredeyse her paragrafta karşımıza çıkan 5 özel kelime vardır "
     },
     {
       "id": "search_verb_0",

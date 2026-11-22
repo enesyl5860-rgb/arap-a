@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T22:29:58.631Z",
+  "generatedAt": "2026-11-22T22:56:57.935Z",
   "prepositionalVerbs": [
     {
       "ar": "بَحَثَ عَنْ",
@@ -235,6 +235,141 @@
       "arBaslik": "جَمْعُ التَّكْسِيرِ وَقَاعِدَةُ جَمْعِ غَيْرِ الْعَاقِلِ",
       "formul": "Akılsız Çoğul (كُتُبٌ / أَقْلَامٌ / سَيَّارَاتٌ) = TEKİL MÜENNES Hükmü (هٰذِهِ + جَدِيدَةٌ + هِيَ)",
       "mantik": "Arapçada isimlerin çok büyük bir kısmı sonuna ek alarak değil, kelimenin İÇ YAPISI KIRILIP yeniden şekillenerek çoğul olur — tıpkı İngilizcedeki 'man → men, foot → feet' gibi! Buna CEMİ TEKSİR (Kırık Çoğul) denir: كِتَابٌ → كُتُبٌ, قَلَمٌ → أَقْلَامٌ, بَيْتٌ →…"
+    },
+    {
+      "id": "m04_g1",
+      "moduleId": "04",
+      "cefr": "A1",
+      "baslik": "3. Şahıs (Gâib / Gâibe) Munfasıl Zamirler (هُوَ، هُمَا، هُمْ / هِيَ، هُمَا، هُنَّ)",
+      "arBaslik": "ضَمَائِرُ الْغَائِبِ وَالْغَائِبَةِ",
+      "formul": "Gâib (E): هُوَ · هُمَا · هُمْ | Gâibe (K): هِيَ · هُمَا · هُنَّ | Akılsız Çoğul → هِيَ",
+      "mantik": "Türkçede 'o' dediğimizde karşımızdaki kişinin erkek mi kadın mı olduğunu, ya da 'onlar' dediğimizde 2 kişi mi 5 kişi mi olduğunu zamirden anlayamayız. Arapçada ise zamirler tam bir lazer netliğine sahiptir! 3. şahısta (ortada olmayan / hakkında konuştuğumuz ki…"
+    },
+    {
+      "id": "m04_g2",
+      "moduleId": "04",
+      "cefr": "A1",
+      "baslik": "2. Şahıs (Muhatab / Muhataba) ve 1. Şahıs (Mütekellim) Zamirleri",
+      "arBaslik": "ضَمَائِرُ الْمُخَاطَبِ وَالْمُتَكَلِّمِ",
+      "formul": "Muhatab: أَنْتَ · أَنْتِ · أَنْتُمَا · أَنْتُمْ · أَنْتُنَّ | Mütekellim: أَنَا (1) · نَحْنُ (2+)",
+      "mantik": "Karşımızdaki kişiye seslenirken (2. şahıs) sadece TEK bir hareke değişimi cinsiyeti belirler: Erkeğe أَنْتَ (ente — fetha), kadına أَنْتِ (enti — kesra)! İki kişiye seslenirken cinsiyet ayrımı kalkar: أَنْتُمَا (entumâ — siz ikiniz). Çoğulda erkekler/karma içi…"
+    },
+    {
+      "id": "m04_g3",
+      "moduleId": "04",
+      "cefr": "A1",
+      "baslik": "Yakın İşaret İsimleri (هٰذَا، هٰذِهِ، هٰذَانِ، هَاتَانِ، هٰؤُلَاءِ)",
+      "arBaslik": "أَسْمَاءُ الْإِشَارَةِ لِلْقَرِيبِ",
+      "formul": "Yakın: هٰذَا (E1) · هٰذِهِ (K1 + Akılsız Çoğul) · هٰذَانِ/هٰذَيْنِ (E2) · هَاتَانِ/هَاتَيْنِ (K2) · هٰؤُلَاءِ (Akıllı 3+)",
+      "mantik": "Elimizle yakınımızdaki bir varlığı gösterirken kullandığımız 'bu / bunlar' sözcüklerine Yakın İsm-i İşâret denir. Arapçada işaret isimleri de işaret ettiği varlığın cinsiyetine ve sayısına uyum sağlar: Yakın tekil eril هٰذَا (bu), tekil dişil هٰذِهِ (bu — hem …"
+    },
+    {
+      "id": "m04_g4",
+      "moduleId": "04",
+      "cefr": "A1",
+      "baslik": "Uzak İşaret İsimleri (ذٰلِكَ، تِلْكَ، أُولٰئِكَ) & Mekân İşaretleri",
+      "arBaslik": "أَسْمَاءُ الْإِشَارَةِ لِلْبَعِيدِ وَالْمَكَانِ",
+      "formul": "Uzak: ذٰلِكَ (E1) · تِلْكَ (K1 + Akılsız Çoğul) · أُولٰئِكَ (Akıllı 3+) | Mekân: هُنَا (burada) / هُنَاكَ (orada)",
+      "mantik": "Uzaktaki bir varlığı gösterirken (Türkçede 'şu / o / şunlar') Arapça bambaşka, çok zarif bir set kullanır: Tekil eril ذٰلِكَ (şu/o), tekil dişil ve AKILSIZ ÇOĞUL için تِلْكَ (şu/o), akıllı çoğul (kadın+erkek ortak) için أُولٰئِكَ (şunlar/onlar). Uzak mekân içi…"
+    },
+    {
+      "id": "m04_g5",
+      "moduleId": "04",
+      "cefr": "A1",
+      "baslik": "Altın Ayrım: İşaret + Nekre (Tam Cümle) vs. İşaret + ال Marife (Tamlama / Bedel)",
+      "arBaslik": "الْفَرْقُ بَيْنَ «هٰذَا كِتَابٌ» وَ«هٰذَا الْكِتَابُ»",
+      "formul": "هٰذَا + كِتَابٌ (Tam Cümle: Bu bir kitaptır) | هٰذَا + الْكِتَابُ + مُفِيدٌ (Öbek + Haber: Bu kitap faydalıdır) | هٰذَا هُوَ الْكِتَابُ (Bu, o kitaptır)",
+      "mantik": "Modül 04'ün en büyük 'Aha!' anına hoş geldiniz! Arapçada işaret isminden hemen sonra gelen ismin başında ال olup olmaması cümlenin kaderini belirler:\n1) **İşaret + NEKRE (ال yok):** TAM CÜMLEDİR! 'هٰذَا كِتَابٌ' = 'Bu, bir kitaptır.' (Mübtedâ + Haber — nokta k…"
+    },
+    {
+      "id": "m05_g1",
+      "moduleId": "05",
+      "cefr": "A1",
+      "baslik": "İsim Cümlesinin İki Direği: Mübtedâ (Özne) ve Haber (Yüklem)",
+      "arBaslik": "رُكْنَا الْجُمْلَةِ الْاِسْمِيَّةِ: الْمُبْتَدَأُ وَالْخَبَرُ",
+      "formul": "İsim Cümlesi = Mübtedâ (Marife + Merfû) + Haber (Nekre + Merfû) | Cinsiyet & Sayı Uyumu Şart!",
+      "mantik": "Arapçada bir cümle isimle başlıyorsa ona İSİM CÜMLESİ (الْجُمْلَةُ الْاِسْمِيَّةُ) denir ve Türkçedeki 'Ev geniştir, Hava güzeldir' cümlelerinin tam karşılığıdır — üstelik Arapçada şimdiki zamanda 'dır/dir' ya da İngilizcedeki 'is/are' gibi bir yardımcı fiile …"
+    },
+    {
+      "id": "m05_g2",
+      "moduleId": "05",
+      "cefr": "A1",
+      "baslik": "Sıfat Tamlaması (Na't ve Men'ût) — 4 Yönden Kusursuz Uyum",
+      "arBaslik": "النَّعْتُ وَالْمَنْعُوتُ (الْمُطَابَقَةُ فِي أَرْبَعَةٍ)",
+      "formul": "Mevsûf + Sıfat (Sıra Ters!) | 4 Yönden Uyum: (1) İ'rab · (2) Marife/Nekre · (3) Cinsiyet · (4) Sayı",
+      "mantik": "Arapçada sıfat tamlamasının sırası Türkçenin tam TERSİDİR: Önce nitelenen isim (MEVSÛF / MEN'ÛT), sonra SIFAT (NA'T) gelir! Yani 'yeni kitap' yerine 'kitap yeni' (كِتَابٌ جَدِيدٌ) denir. Ve sıfat, adeta mevsûfun GÖLGESİ gibidir; onu **4 yönden** birebir taklit…"
+    },
+    {
+      "id": "m05_g3",
+      "moduleId": "05",
+      "cefr": "A1",
+      "baslik": "Mübtedâ ve Haberin Sıfat Alması (Cümleyi Zenginleştirme)",
+      "arBaslik": "تَوْسِيعُ الْجُمْلَةِ الْاِسْمِيَّةِ بِالنَّعْتِ",
+      "formul": "[Mübtedâ (ال) + Sıfatı (ال)] + [Haber (Tenvîn) + Sıfatı (Tenvîn)] → İlk Nekre = Haber!",
+      "mantik": "Artık iki kelimelik bebek cümlelerinden ('الْبَيْتُ كَبِيرٌ') çıkıp gerçek gazete ve kitap cümleleri kurabiliriz! Nasıl? Hem MÜBTEDÂ'ya marife bir sıfat, hem de HABER'e nekre bir sıfat ekleyerek! Bakın nasıl akıcı bir denge oluşuyor: 'الطَّالِبُ الْجَدِيدُ' (Y…"
+    },
+    {
+      "id": "m05_g4",
+      "moduleId": "05",
+      "cefr": "A1",
+      "baslik": "Temel İ'rab Alâmetleri: Merfû, Mansub, Mecrûr (Renkli Harita)",
+      "arBaslik": "عَلَامَاتُ الْإِعْرَابِ الْأَصْلِيَّةُ (الرَّفْعُ وَالنَّصْبُ وَالْجَرُّ)",
+      "formul": "Ref (Özne/Mübtedâ/Haber) = Damme (ـُ) · Nasb (Nesne) = Fetha (ـَ) · Cer (Harf-i Cer/Tamlayan) = Kesra (ـِ)",
+      "mantik": "Arapçanın en büyük mucizesi İ'RAB (الْإِعْرَابُ) sistemidir: Bir kelimenin cümledeki görevini (özne mi, nesne mi, dolaylı tümleç mi?) kelimenin SON HARFİNİN HAREKESİ haber verir! Türkçede ismin hâlleri ('ev, evi, evde') nasıl sona ek alıyorsa, Arapçada da keli…"
+    },
+    {
+      "id": "m05_g5",
+      "moduleId": "05",
+      "cefr": "A1",
+      "baslik": "Nisbet Sıfatı (İsm-i Mensûb: ـِيٌّ / ـِيَّةٌ) — Milliyet, Bilim ve Alan Sıfatları",
+      "arBaslik": "الْاِسْمُ الْمَنْسُوبُ (صِفَاتُ النِّسْبَةِ وَالْجِنْسِيَّةِ)",
+      "formul": "İsim (ة/ا düşer) + ـِيٌّ (Eril) / + ـِيَّةٌ (Dişil) | عِلْمٌ ← عِلْمِيٌّ / عِلْمِيَّةٌ",
+      "mantik": "Türkçede '-lı/-li, -sal/-sel, -ca/-ce' ekleriyle yaptığımız neredeyse tüm sıfatları (Türk, Arap, bilimsel, tarihî, günlük, ekonomik) Arapça tek bir sihirli ekle kurar: İsmin sonuna şeddeli bir Yâ (**ـِيٌّ** — eril / **ـِيَّةٌ** — dişil) eklemek! Eğer kelimenin…"
+    },
+    {
+      "id": "m06_g1",
+      "moduleId": "06",
+      "cefr": "A1",
+      "baslik": "İsimlere Bitişen Muttasıl (İyelik) Zamirleri",
+      "arBaslik": "الضَّمَائِرُ الْمُتَّصِلَةُ بِالْاِسْمِ (ضَمَائِرُ الْمِلْكِيَّةِ)",
+      "formul": "İsim (ال yok, Tenvîn yok, ة → ت) + Muttasıl Zamir (ـِي / ـكَ / ـكِ / ـهُ / ـهَا / ـنَا / ـكُمْ / ـهُمْ)",
+      "mantik": "Türkçede 'kitabım, kitabın, kitabı, kitabımız' derken ismin sonuna iyelik ekleri (-ım, -ın, -ı) ekleriz. Arapçada bu sistem Türkçeye şaşırtıcı derecede benzer! Ayrı duran zamirler yerine ismin sonuna doğrudan BİTİŞEN (muttasıl) zamirler eklenir: كِتَابِي (kita…"
+    },
+    {
+      "id": "m06_g2",
+      "moduleId": "06",
+      "cefr": "A1",
+      "baslik": "İsim Tamlaması (İzâfet Terkibi: Muzâf & Muzâfun İleyh)",
+      "arBaslik": "الْإِضَافَةُ (الْمُضَافُ وَالْمُضَافُ إِلَيْهِ)",
+      "formul": "İzâfet = Muzâf (ال YOK, Tenvîn YOK, göreve göre Ref/Nasb/Cer) + Muzâfun İleyh (DAİMA MECRÛR!)",
+      "mantik": "Türkçede 'öğrencinin kitabı', 'sınıfın kapısı', 'Arapça öğretmeni' derken iki ismi birbirine bağlarız. Arapçada bu yapının adı İZÂFET (الْإِضَافَةُ) olup sırası Türkçenin tam TERSİDİR: Önce sahip olunan şey (MUZÂF — tamlanan), sonra sahip olan (MUZÂFUN İLEYH —…"
+    },
+    {
+      "id": "m06_g3",
+      "moduleId": "06",
+      "cefr": "A1",
+      "baslik": "Zincirleme İsim Tamlaması (3 veya 4 İsimli İzâfet Zinciri)",
+      "arBaslik": "تَتَابُعُ الْإِضَافَاتِ (الْإِضَافَةُ الْمُتَسَلْسِلَةُ)",
+      "formul": "Zincirleme İzâfet = [1. Göreve göre, ال yok] + [Ortadakiler: KESRA, ال yok] + [Son Halka: KESRA + ال / Zamir]",
+      "mantik": "Arapçada özellikle akademik ve YDS metinlerinde 'Okul müdürünün arabasının anahtarı' gibi 3 hatta 4 isim art arda eklenerek zincirleme isim tamlaması kurulur! Kuralı şaşırtıcı derecede basittir: Zincirin EN BAŞINDAKİ kelime cümledeki görevine göre (Ref/Nasb/Ce…"
+    },
+    {
+      "id": "m06_g4",
+      "moduleId": "06",
+      "cefr": "A1",
+      "baslik": "İsim Tamlamasında Sıfatın Yeri (Araya Giremez Kuralı!)",
+      "arBaslik": "نَعْتُ الْمُضَافِ وَالْمُضَافِ إِلَيْهِ",
+      "formul": "Muzâf + Muzâfun İleyh + [Sıfat EN SONA!] | Sıfat Marife (ال) Olur + Kime Gidiyorsa Onun İ'rab & Cinsiyetini Alır!",
+      "mantik": "Şimdi Türk öğrencilerin en sık takıldığı ama çözünce bayıldığı kurala geldik: 'Öğrencinin YENİ kitabı' veya 'Yeni öğrencinin kitabı' demek istediğimizde 'yeni' (الْجَدِيد) sıfatını nereye koyacağız?\n**DEMİR KURAL:** Muzâf ile Muzâfun İleyh etle tırnak gibidir;…"
+    },
+    {
+      "id": "m06_g5",
+      "moduleId": "06",
+      "cefr": "A1",
+      "baslik": "Daima Muzâf Olan Altın Kelimeler: كُلّ، بَعْض، جَمِيع، غَيْر، مِثْل",
+      "arBaslik": "كَلِمَاتٌ مُلَازِمَةٌ لِلْإِضَافَةِ (كُلّ، بَعْض، جَمِيع، غَيْر، مِثْل)",
+      "formul": "كُلُّ + Nekre Tekil ('her') | كُلُّ + Marife Çoğul ('bütün') | بَعْضُ / جَمِيعُ / غَيْرُ / مِثْلُ + MECRÛR!",
+      "mantik": "Arapçada özellikle okuma parçalarında ve YDS sınavlarında neredeyse her paragrafta karşımıza çıkan 5 özel kelime vardır ki bunlar neredeyse her zaman MUZÂF (tamlanan) olarak kullanılır ve arkalarındaki kelimeyi KESRALI (muzâfun ileyh) yaparlar:\n1) **كُلُّ (kul…"
     }
   ],
   "quickPractice": [
@@ -687,6 +822,456 @@
       ],
       "dogruIndeks": 2,
       "aciklama": "الْكُتُبُ akılsız çoğul olduğu için haberi tekil müennes (مُفِيدَةٌ) gelir."
+    },
+    {
+      "id": "atlas_m04_g1_d1",
+      "moduleId": "04",
+      "kategori": "Zamirler & İşaret",
+      "soru": "....... طَالِبَتَانِ ذَكِيَّتَانِ (O ikisi zeki iki kız öğrencidir) boşluğuna hangisi gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "هِيَ",
+        "هُمَا",
+        "هُنَّ",
+        "هُمْ"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "İki kişi (erkek ya da kadın) için ortak zamir هُمَا kullanılır."
+    },
+    {
+      "id": "atlas_m04_g1_d2",
+      "moduleId": "04",
+      "kategori": "Zamirler & İşaret",
+      "soru": "أَيْنَ السَّيَّارَاتُ؟ ....... أَمَامَ الْبَيْتِ. (Arabalar nerede? Onlar evin önündedir.)",
+      "soruAr": "",
+      "secenekler": [
+        "هُمْ",
+        "هُنَّ",
+        "هِيَ",
+        "هُوَ"
+      ],
+      "dogruIndeks": 2,
+      "aciklama": "السَّيَّارَاتُ akılsız çoğul olduğu için zamiri tekil müennes olan هِيَ olur."
+    },
+    {
+      "id": "atlas_m04_g2_d1",
+      "moduleId": "04",
+      "kategori": "Zamirler & İşaret",
+      "soru": "Bir kadına hitap ederken 'sen' zamirinin Fasih Arapçadaki DOĞRU yazılışı hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "أَنْتِي",
+        "أَنْتِ",
+        "أَنْتَ",
+        "اَنْتِ"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "Kesra ile أَنْتِ yazılır; sonuna ي eklenmez ve başa kat' hemzesi konur."
+    },
+    {
+      "id": "atlas_m04_g2_d2",
+      "moduleId": "04",
+      "kategori": "Zamirler & İşaret",
+      "soru": "....... مُهَنْدِسَانِ مَاهِرَانِ (Siz ikiniz yetenekli iki mühendissiniz) boşluğuna hangisi gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "أَنْتُمْ",
+        "أَنْتُمَا",
+        "أَنْتَ",
+        "نَحْنُ"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "2. şahıs ikil zamir: أَنْتُمَا."
+    },
+    {
+      "id": "atlas_m04_g3_d1",
+      "moduleId": "04",
+      "kategori": "Zamirler & İşaret",
+      "soru": "....... طَالِبَاتٌ مُجْتَهِدَاتٌ (Bunlar çalışkan kız öğrencilerdir) boşluğuna hangisi gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "هٰذِهِ",
+        "هٰؤُلَاءِ",
+        "هَاتَانِ",
+        "هٰذَا"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "طَالِبَاتٌ akıllı (insan) çoğulu olduğu için هٰؤُلَاءِ kullanılır."
+    },
+    {
+      "id": "atlas_m04_g3_d2",
+      "moduleId": "04",
+      "kategori": "Zamirler & İşaret",
+      "soru": "....... سَيَّارَاتٌ حَدِيثَةٌ (Bunlar modern arabalardır) boşluğuna hangisi gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "هٰؤُلَاءِ",
+        "هٰذِهِ",
+        "هٰذَانِ",
+        "هٰذَا"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "سَيَّارَاتٌ akılsız çoğul olduğu için tekil müennes هٰذِهِ gelir."
+    },
+    {
+      "id": "atlas_m04_g4_d1",
+      "moduleId": "04",
+      "kategori": "Zamirler & İşaret",
+      "soru": "....... النُّجُومُ جَمِيلَةٌ (Şu yıldızlar güzeldir) boşluğuna hangisi gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "أُولٰئِكَ",
+        "ذٰلِكَ",
+        "تِلْكَ",
+        "هٰؤُلَاءِ"
+      ],
+      "dogruIndeks": 2,
+      "aciklama": "النُّجُومُ uzak akılsız çoğul olduğu için تِلْكَ kullanılır."
+    },
+    {
+      "id": "atlas_m04_g4_d2",
+      "moduleId": "04",
+      "kategori": "Zamirler & İşaret",
+      "soru": "....... الْأَطِبَّاءُ مَاهِرُونَ (Şu doktorlar yeteneklidir) boşluğuna hangisi gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "تِلْكَ",
+        "أُولٰئِكَ",
+        "ذٰلِكَ",
+        "هٰذِهِ"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "الْأَطِبَّاءُ uzak akıllı çoğuldur → أُولٰئِكَ."
+    },
+    {
+      "id": "atlas_m04_g5_d1",
+      "moduleId": "04",
+      "kategori": "Zamirler & İşaret",
+      "soru": "'Bu ders kolaydır' cümlesinin TAM karşılığı hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "هٰذَا دَرْسٌ سَهْلٌ",
+        "هٰذَا الدَّرْسُ سَهْلٌ",
+        "هٰذَا الدَّرْسُ السَّهْلُ",
+        "هٰذَا دَرْسٌ السَّهْلُ"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "هٰذَا الدَّرْسُ (Bu ders) + سَهْلٌ (kolaydır)."
+    },
+    {
+      "id": "atlas_m04_g5_d2",
+      "moduleId": "04",
+      "kategori": "Zamirler & İşaret",
+      "soru": "'Bu kolay bir derstir' cümlesinin TAM karşılığı hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "هٰذَا الدَّرْسُ سَهْلٌ",
+        "هٰذَا دَرْسٌ سَهْلٌ",
+        "هٰذَا الدَّرْسُ السَّهْلُ",
+        "الدَّرْسُ هٰذَا سَهْلٌ"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "İşaret + Nekre (دَرْسٌ) + Sıfat (سَهْلٌ) = 'Bu kolay bir derstir'."
+    },
+    {
+      "id": "atlas_m05_g1_d1",
+      "moduleId": "05",
+      "kategori": "Temel Nahiv",
+      "soru": "Klasik bir Arapça isim cümlesinde Mübtedâ ve Haber'in i'rab durumu nedir?",
+      "soruAr": "",
+      "secenekler": [
+        "İkisi de Mansub",
+        "İkisi de Merfû",
+        "Mübtedâ Merfû, Haber Mansub",
+        "İkisi de Mecrûr"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "İsim cümlesinin iki ana öğesi (Mübtedâ ve Haber) daima MERFÛDUR."
+    },
+    {
+      "id": "atlas_m05_g1_d2",
+      "moduleId": "05",
+      "kategori": "Temel Nahiv",
+      "soru": "الشَّايُ ....... (Çay sıcaktır) boşluğuna hangisi gelmelidir?",
+      "soruAr": "",
+      "secenekler": [
+        "سَاخِنَةٌ",
+        "سَاخِنٌ",
+        "السَّاخِنُ",
+        "سَاخِنًا"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "الشَّايُ tekil eril mübtedâ → haberi nekre merfû eril سَاخِنٌ olur."
+    },
+    {
+      "id": "atlas_m05_g2_d1",
+      "moduleId": "05",
+      "kategori": "Temel Nahiv",
+      "soru": "Arapçada sıfat, mevsûfuna (nitelediği isme) kaç yönden uyar?",
+      "soruAr": "",
+      "secenekler": [
+        "2 yönden",
+        "3 yönden",
+        "4 yönden (i'rab, marifelik, cinsiyet, sayı)",
+        "Uymaz"
+      ],
+      "dogruIndeks": 2,
+      "aciklama": "Sıfat daima 4 yönden mevsûfunun gölgesidir."
+    },
+    {
+      "id": "atlas_m05_g2_d2",
+      "moduleId": "05",
+      "kategori": "Temel Nahiv",
+      "soru": "جَلَسْتُ فِي الْغُرْفَةِ ....... (temiz odada oturdum) boşluğuna hangisi gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "النَّظِيفَةُ",
+        "النَّظِيفَةِ",
+        "نَظِيفَةٍ",
+        "النَّظِيفِ"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "الْغُرْفَةِ mecrûr + marife + dişil → النَّظِيفَةِ."
+    },
+    {
+      "id": "atlas_m05_g3_d1",
+      "moduleId": "05",
+      "kategori": "Temel Nahiv",
+      "soru": "'اللُّغَةُ الْعَرَبِيَّةُ لُغَةٌ عَرِيقَةٌ' cümlesinde HABER (yüklem) hangi kelimedir?",
+      "soruAr": "",
+      "secenekler": [
+        "اللُّغَةُ",
+        "الْعَرَبِيَّةُ",
+        "لُغَةٌ",
+        "عَرِيقَةٌ"
+      ],
+      "dogruIndeks": 2,
+      "aciklama": "İlk iki kelime marife (Mübtedâ + Sıfatı); ilk nekre kelime olan لُغَةٌ haberdir, عَرِيقَةٌ ise haberin sıfatıdır."
+    },
+    {
+      "id": "atlas_m05_g3_d2",
+      "moduleId": "05",
+      "kategori": "Temel Nahiv",
+      "soru": "الْقِرَاءَةُ الْمُنْتَظَمَةُ ....... مُفِيدَةٌ (Düzenli okuma faydalı bir alışkanlıktır) boşluğuna hangisi gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "الْعَادَةُ",
+        "عَادَةٌ",
+        "عَادَةً",
+        "عَادَاتٍ"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "Haber nekre ve merfû olmalıdır: عَادَةٌ."
+    },
+    {
+      "id": "atlas_m05_g4_d1",
+      "moduleId": "05",
+      "kategori": "Temel Nahiv",
+      "soru": "Tekil bir isimde Ref, Nasb ve Cer'in aslî harekeleri sırasıyla hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "Fetha – Damme – Kesra",
+        "Damme – Fetha – Kesra",
+        "Kesra – Fetha – Damme",
+        "Damme – Kesra – Fetha"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "Ref = Damme (ـُ), Nasb = Fetha (ـَ), Cer = Kesra (ـِ)."
+    },
+    {
+      "id": "atlas_m05_g4_d2",
+      "moduleId": "05",
+      "kategori": "Temel Nahiv",
+      "soru": "فَهِمَ الطَّالِبُ ....... جَيِّدًا (Öğrenci dersi iyi anladı) boşluğuna hangisi gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "الدَّرْسُ",
+        "الدَّرْسَ",
+        "الدَّرْسِ",
+        "دَرْسٌ"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "Nesne (mef'ûlün bih) fetha ile mansub olur: الدَّرْسَ."
+    },
+    {
+      "id": "atlas_m05_g5_d1",
+      "moduleId": "05",
+      "kategori": "Temel Nahiv",
+      "soru": "مَدْرَسَةٌ (okul) kelimesinden 'okula ait / okul...' anlamında eril nisbet sıfatı nasıl yapılır?",
+      "soruAr": "",
+      "secenekler": [
+        "مَدْرَسَتِيٌّ",
+        "مَدْرَسِيٌّ",
+        "مَدَارِسِيٌّ",
+        "مَدْرَسَةٌ"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "Kapalı ة düşer ve ـِيٌّ eklenir: مَدْرَسِيٌّ (dişil: مَدْرَسِيَّةٌ)."
+    },
+    {
+      "id": "atlas_m05_g5_d2",
+      "moduleId": "05",
+      "kategori": "Temel Nahiv",
+      "soru": "مِصْرُ (Mısır) ülkesinden 'Mısırlı kız öğrenci' ifadesi nasıl kurulur?",
+      "soruAr": "",
+      "secenekler": [
+        "طَالِبَةٌ مِصْرِيٌّ",
+        "طَالِبَةٌ مِصْرِيَّةٌ",
+        "طَالِبٌ مِصْرِيَّةٌ",
+        "طَالِبَةٌ مِصْرٌ"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "طَالِبَةٌ müennes olduğu için nisbet sıfatı ـِيَّةٌ alır: طَالِبَةٌ مِصْرِيَّةٌ."
+    },
+    {
+      "id": "atlas_m06_g1_d1",
+      "moduleId": "06",
+      "kategori": "Tamlamalar",
+      "soru": "سَيَّارَةٌ (araba) kelimesine 'onun (erkek)' iyelik zamiri eklendiğinde doğru yazılış hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "سَيَّارَةُهُ",
+        "سَيَّارَتُهُ",
+        "السَّيَّارَتُهُ",
+        "سَيَّارَتُهَا"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "ة açık ت'ye döner, ال ve tenvîn düşer: سَيَّارَتُهُ."
+    },
+    {
+      "id": "atlas_m06_g1_d2",
+      "moduleId": "06",
+      "kategori": "Tamlamalar",
+      "soru": "'الْقَلَمِي جَدِيدٌ' cümlesindeki gramer hatası nedir?",
+      "soruAr": "",
+      "secenekler": [
+        "İyelik zamiri alan ismin başında ال bulunamaz; doğrusu 'قَلَمِي جَدِيدٌ'",
+        "جَدِيدٌ müennes olmalı",
+        "قَلَمِي çoğuldur",
+        "Hata yoktur"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "İyelik zamiri kelimeyi zaten marife yapar; başına ال konmaz."
+    },
+    {
+      "id": "atlas_m06_g2_d1",
+      "moduleId": "06",
+      "kategori": "Tamlamalar",
+      "soru": "İsim tamlamasında 1. isim (Muzâf) hakkında aşağıdakilerden hangisi KESİNLİKLE DOĞRUDUR?",
+      "soruAr": "",
+      "secenekler": [
+        "Başına ال alır",
+        "Sonuna tenvîn alır",
+        "Başında ال ve sonunda tenvîn ASLA bulunmaz",
+        "Her zaman kesralıdır"
+      ],
+      "dogruIndeks": 2,
+      "aciklama": "Muzâf ne ال alır ne de tenvîn alır (كِتَابُ الطَّالِبِ)."
+    },
+    {
+      "id": "atlas_m06_g2_d2",
+      "moduleId": "06",
+      "kategori": "Tamlamalar",
+      "soru": "İsim tamlamasında 2. isim (Muzâfun İleyh) her zaman hangi i'rab hâlindedir?",
+      "soruAr": "",
+      "secenekler": [
+        "Merfû",
+        "Mansub",
+        "Mecrûr (Kesra / ـَيْنِ / ـِينَ)",
+        "Meczûm"
+      ],
+      "dogruIndeks": 2,
+      "aciklama": "Muzâfun ileyh cümlenin neresinde olursa olsun DAİMA mecrûrdur."
+    },
+    {
+      "id": "atlas_m06_g3_d1",
+      "moduleId": "06",
+      "kategori": "Tamlamalar",
+      "soru": "Zincirleme isim tamlamasında ال belirlilik takısı yalnızca hangi halkada bulunabilir?",
+      "soruAr": "",
+      "secenekler": [
+        "İlk halkada",
+        "Ortadaki halkalarda",
+        "Yalnızca EN SONDAKİ halkada",
+        "Tüm halkalarda"
+      ],
+      "dogruIndeks": 2,
+      "aciklama": "İlk ve orta halkalar muzâf olduğu için ال alamaz; yalnızca son halka ال alabilir."
+    },
+    {
+      "id": "atlas_m06_g3_d2",
+      "moduleId": "06",
+      "kategori": "Tamlamalar",
+      "soru": "'مِفْتَاحُ الْبَابِ الْبَيْتِ' zincirindeki hata nasıl düzeltilir?",
+      "soruAr": "",
+      "secenekler": [
+        "مِفْتَاحُ بَابِ الْبَيْتِ",
+        "الْمِفْتَاحُ بَابِ الْبَيْتِ",
+        "مِفْتَاحُ بَابُ الْبَيْتِ",
+        "مِفْتَاحِ بَابِ بَيْتٍ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Orta halka olan بَابِ ال almaz ve kesralı olur."
+    },
+    {
+      "id": "atlas_m06_g4_d1",
+      "moduleId": "06",
+      "kategori": "Tamlamalar",
+      "soru": "İsim tamlamasında (Muzâf + Muzâfun İleyh) sıfat cümlede NEREYE yerleştirilir?",
+      "soruAr": "",
+      "secenekler": [
+        "Muzâfın hemen önüne",
+        "Muzâf ile Muzâfun İleyh'in arasına",
+        "Her zaman tamlamanın EN SONUNA",
+        "Cümlenin başına"
+      ],
+      "dogruIndeks": 2,
+      "aciklama": "Muzâf ile Muzâfun İleyh arasına sıfat giremez; sıfat daima tamlamanın sonuna konur."
+    },
+    {
+      "id": "atlas_m06_g4_d2",
+      "moduleId": "06",
+      "kategori": "Tamlamalar",
+      "soru": "'بَيْتُ الْمُعَلِّمِ الْجَدِيدُ' ifadesinin doğru Türkçe anlamı nedir?",
+      "soruAr": "",
+      "secenekler": [
+        "Yeni öğretmenin evi",
+        "Öğretmenin yeni evi",
+        "Öğretmenin evi yenidir",
+        "Yeni bir ev"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "الْجَدِيدُ dammeli olduğu için dammeli olan بَيْتُ'yu (evi) niteler."
+    },
+    {
+      "id": "atlas_m06_g5_d1",
+      "moduleId": "06",
+      "kategori": "Tamlamalar",
+      "soru": "كُلُّ + nekre tekil isim (كُلُّ طَالِبٍ) Türkçeye nasıl çevrilir?",
+      "soruAr": "",
+      "secenekler": [
+        "Bazı öğrenciler",
+        "Her öğrenci",
+        "Bütün öğrenciler",
+        "Öğrencisiz"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "كُلُّ + nekre tekil = 'her ...'."
+    },
+    {
+      "id": "atlas_m06_g5_d2",
+      "moduleId": "06",
+      "kategori": "Tamlamalar",
+      "soru": "هٰذَا الْأَمْرُ غَيْرُ ....... (Bu iş mümkün değildir) boşluğuna hangisi gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "مُمْكِنٌ",
+        "مُمْكِنًا",
+        "مُمْكِنٍ",
+        "الْمُمْكِنُ"
+      ],
+      "dogruIndeks": 2,
+      "aciklama": "غَيْرُ muzâftır; ardından gelen isim kesralı (mecrûr) olur: غَيْرُ مُمْكِنٍ."
     }
   ]
 }
