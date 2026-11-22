@@ -1,6 +1,7 @@
 node_modules/
 dist/
 dist-pdf/
+public/pdf/*.pdf
 *.log
 .DS_Store
 .env

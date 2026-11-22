@@ -138,6 +138,17 @@ export function CurriculumMap({
                   <span className="inline-flex items-center gap-1 text-[var(--text-muted)]">
                     <FileText size={12} /> Cilt {phase.cilt} PDF
                   </span>
+                  {phaseReadyCount > 0 && (
+                    <a
+                      href={`/pdf/arapca-kulliyati-cilt-${phase.cilt}.pdf`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-[var(--accent-soft)] text-[var(--accent-strong)] hover:underline text-[11px] font-semibold"
+                    >
+                      <FileText size={11} />
+                      <span>Cilt {phase.cilt} PDF Aç / İndir</span>
+                    </a>
+                  )}
                 </div>
                 <h3 className="text-lg sm:text-xl font-bold text-[var(--text-primary)] mt-0.5">
                   {phase.title}

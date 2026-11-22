@@ -19,8 +19,10 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 const DATA_DIR = path.join(ROOT, 'src', 'data');
 const OUT_DIR = path.join(ROOT, 'dist-pdf');
+const PUBLIC_PDF_DIR = path.join(ROOT, 'public', 'pdf');
 
 fs.mkdirSync(OUT_DIR, { recursive: true });
+fs.mkdirSync(PUBLIC_PDF_DIR, { recursive: true });
 
 function findChromiumExecutable() {
   const candidates = [];
@@ -568,6 +570,7 @@ async function main() {
 
     const outFile = path.join(OUT_DIR, `arapca-kulliyati-cilt-${vol.cilt}.pdf`);
     await generatePdf({ html, outFile, headerTitle: vol.title });
+    fs.copyFileSync(outFile, path.join(PUBLIC_PDF_DIR, `arapca-kulliyati-cilt-${vol.cilt}.pdf`));
     console.log(`PDF üretildi: ${outFile} (${(fs.statSync(outFile).size / 1024).toFixed(1)} KB)`);
   }
 }
