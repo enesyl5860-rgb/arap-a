@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T22:17:30.881Z",
-  "totalItems": 141,
+  "generatedAt": "2026-11-22T22:27:38.183Z",
+  "totalItems": 178,
   "items": [
     {
       "id": "search_mod_01",
@@ -1226,6 +1226,371 @@
       "subtitle": "Gramer Kuralı · M02",
       "ar": "قَوَاعِدُ كِتَابَةِ الْهَمْزَةِ (الْمُتَوَسِّطَةُ وَالْمُتَطَرِّفَةُ)",
       "keywords": "Hareke Güç Sırası: Kesra (ئ) > Damme (ؤ) > Fetha (أ) > Sükûn (ء) Öğrencilerin en çok çekindiği imlâ konusu olan 'hemze neden bazen ئ bazen ؤ bazen أ bazen de satırda ء yazılıyor?' sorus"
+    },
+    {
+      "id": "search_card_m03_c1",
+      "type": "card",
+      "moduleId": "03",
+      "title": "eril (müzekker) (muzekkerun)",
+      "subtitle": "SRS Kartı · M03 · Kök: ذ-ك-ر",
+      "ar": "مُذَكَّرٌ",
+      "kok": "ذ-ك-ر",
+      "keywords": "مذكر مُفَعَّل Terim"
+    },
+    {
+      "id": "search_card_m03_c2",
+      "type": "card",
+      "moduleId": "03",
+      "title": "dişil (müennes) (muennesun)",
+      "subtitle": "SRS Kartı · M03 · Kök: أ-ن-ث",
+      "ar": "مُؤَنَّثٌ",
+      "kok": "أ-ن-ث",
+      "keywords": "مؤنث مُفَعَّل Terim"
+    },
+    {
+      "id": "search_card_m03_c3",
+      "type": "card",
+      "moduleId": "03",
+      "title": "kadın doktor (tabîbetun)",
+      "subtitle": "SRS Kartı · M03 · Kök: ط-ب-ب",
+      "ar": "طَبِيبَةٌ",
+      "kok": "ط-ب-ب",
+      "keywords": "طبيبة فَعِيلَة İsim"
+    },
+    {
+      "id": "search_card_m03_c4",
+      "type": "card",
+      "moduleId": "03",
+      "title": "mühendis (muhendisun)",
+      "subtitle": "SRS Kartı · M03 · Kök: ه-ن-د-س",
+      "ar": "مُهَنْدِسٌ",
+      "kok": "ه-ن-د-س",
+      "keywords": "مهندس مُفَعْلِل İsim"
+    },
+    {
+      "id": "search_card_m03_c5",
+      "type": "card",
+      "moduleId": "03",
+      "title": "göz / pınar / kaynak (‘aynun)",
+      "subtitle": "SRS Kartı · M03 · Kök: ع-ي-ن",
+      "ar": "عَيْنٌ",
+      "kok": "ع-ي-ن",
+      "keywords": "عين فَعْل İsim"
+    },
+    {
+      "id": "search_card_m03_c6",
+      "type": "card",
+      "moduleId": "03",
+      "title": "el (yedun)",
+      "subtitle": "SRS Kartı · M03 · Kök: ي-د-ي",
+      "ar": "يَدٌ",
+      "kok": "ي-د-ي",
+      "keywords": "يد فَع İsim"
+    },
+    {
+      "id": "search_card_m03_c7",
+      "type": "card",
+      "moduleId": "03",
+      "title": "kulak (uzunun)",
+      "subtitle": "SRS Kartı · M03 · Kök: أ-ذ-ن",
+      "ar": "أُذُنٌ",
+      "kok": "أ-ذ-ن",
+      "keywords": "أذن فُعُل İsim"
+    },
+    {
+      "id": "search_card_m03_c8",
+      "type": "card",
+      "moduleId": "03",
+      "title": "yer / dünya / toprak (ardun)",
+      "subtitle": "SRS Kartı · M03 · Kök: أ-ر-ض",
+      "ar": "أَرْضٌ",
+      "kok": "أ-ر-ض",
+      "keywords": "أرض فَعْل İsim"
+    },
+    {
+      "id": "search_card_m03_c9",
+      "type": "card",
+      "moduleId": "03",
+      "title": "ev / yurt / kurum (dârun)",
+      "subtitle": "SRS Kartı · M03 · Kök: د-و-ر",
+      "ar": "دَارٌ",
+      "kok": "د-و-ر",
+      "keywords": "دار فَعَل İsim"
+    },
+    {
+      "id": "search_card_m03_c10",
+      "type": "card",
+      "moduleId": "03",
+      "title": "iki erkek öğrenci (tâlibâni)",
+      "subtitle": "SRS Kartı · M03 · Kök: ط-ل-ب",
+      "ar": "طَالِبَانِ",
+      "kok": "ط-ل-ب",
+      "keywords": "طالبان فَاعِلَانِ İkil"
+    },
+    {
+      "id": "search_card_m03_c11",
+      "type": "card",
+      "moduleId": "03",
+      "title": "iki kız öğrenci (tâlibetâni)",
+      "subtitle": "SRS Kartı · M03 · Kök: ط-ل-ب",
+      "ar": "طَالِبَتَانِ",
+      "kok": "ط-ل-ب",
+      "keywords": "طالبتان فَاعِلَتَانِ İkil"
+    },
+    {
+      "id": "search_card_m03_c12",
+      "type": "card",
+      "moduleId": "03",
+      "title": "ikil (tesniye) (musennen)",
+      "subtitle": "SRS Kartı · M03 · Kök: ث-ن-ي",
+      "ar": "مُثَنًّى",
+      "kok": "ث-ن-ي",
+      "keywords": "مثنى مُفَعَّل Terim"
+    },
+    {
+      "id": "search_card_m03_c13",
+      "type": "card",
+      "moduleId": "03",
+      "title": "erkek öğretmenler (mu‘allimûne)",
+      "subtitle": "SRS Kartı · M03 · Kök: ع-ل-م",
+      "ar": "مُعَلِّمُونَ",
+      "kok": "ع-ل-م",
+      "keywords": "معلمون مُفَعِّلُونَ Çoğul"
+    },
+    {
+      "id": "search_card_m03_c14",
+      "type": "card",
+      "moduleId": "03",
+      "title": "memur / çalışan (muvazzafun)",
+      "subtitle": "SRS Kartı · M03 · Kök: و-ظ-ف",
+      "ar": "مُوَظَّفٌ",
+      "kok": "و-ظ-ف",
+      "keywords": "موظف مُفَعَّل İsim"
+    },
+    {
+      "id": "search_card_m03_c15",
+      "type": "card",
+      "moduleId": "03",
+      "title": "kız öğrenciler (tâlibâtun)",
+      "subtitle": "SRS Kartı · M03 · Kök: ط-ل-ب",
+      "ar": "طَالِبَاتٌ",
+      "kok": "ط-ل-ب",
+      "keywords": "طالبات فَاعِلَات Çoğul"
+    },
+    {
+      "id": "search_card_m03_c16",
+      "type": "card",
+      "moduleId": "03",
+      "title": "araba / otomobil (seyyâratun)",
+      "subtitle": "SRS Kartı · M03 · Kök: س-ي-ر",
+      "ar": "سَيَّارَةٌ",
+      "kok": "س-ي-ر",
+      "keywords": "سيارة فَعَّالَة İsim"
+    },
+    {
+      "id": "search_card_m03_c17",
+      "type": "card",
+      "moduleId": "03",
+      "title": "kırmızı (müennes) (hamrâu)",
+      "subtitle": "SRS Kartı · M03 · Kök: ح-م-ر",
+      "ar": "حَمْرَاءُ",
+      "kok": "ح-م-ر",
+      "keywords": "حمراء فَعْلَاء Sıfat"
+    },
+    {
+      "id": "search_card_m03_c18",
+      "type": "card",
+      "moduleId": "03",
+      "title": "kitaplar (kutubun)",
+      "subtitle": "SRS Kartı · M03 · Kök: ك-ت-ب",
+      "ar": "كُتُبٌ",
+      "kok": "ك-ت-ب",
+      "keywords": "كتب فُعُل Çoğul"
+    },
+    {
+      "id": "search_card_m03_c19",
+      "type": "card",
+      "moduleId": "03",
+      "title": "kalemler (eklâmun)",
+      "subtitle": "SRS Kartı · M03 · Kök: ق-ل-م",
+      "ar": "أَقْلَامٌ",
+      "kok": "ق-ل-م",
+      "keywords": "أقلام أَفْعَال Çoğul"
+    },
+    {
+      "id": "search_card_m03_c20",
+      "type": "card",
+      "moduleId": "03",
+      "title": "dersler (durûsun)",
+      "subtitle": "SRS Kartı · M03 · Kök: د-ر-س",
+      "ar": "دُرُوسٌ",
+      "kok": "د-ر-س",
+      "keywords": "دروس فُعُول Çoğul"
+    },
+    {
+      "id": "search_card_m03_c21",
+      "type": "card",
+      "moduleId": "03",
+      "title": "evler (buyûtun)",
+      "subtitle": "SRS Kartı · M03 · Kök: ب-ي-ت",
+      "ar": "بُيُوتٌ",
+      "kok": "ب-ي-ت",
+      "keywords": "بيوت فُعُول Çoğul"
+    },
+    {
+      "id": "search_card_m03_c22",
+      "type": "card",
+      "moduleId": "03",
+      "title": "şehirler (mudunun)",
+      "subtitle": "SRS Kartı · M03 · Kök: م-د-ن",
+      "ar": "مُدُنٌ",
+      "kok": "م-د-ن",
+      "keywords": "مدن فُعُل Çoğul"
+    },
+    {
+      "id": "search_card_m03_c23",
+      "type": "card",
+      "moduleId": "03",
+      "title": "okullar / ekoller (medârisu)",
+      "subtitle": "SRS Kartı · M03 · Kök: د-ر-س",
+      "ar": "مَدَارِسُ",
+      "kok": "د-ر-س",
+      "keywords": "مدارس مَفَاعِل Çoğul"
+    },
+    {
+      "id": "search_card_m03_c24",
+      "type": "card",
+      "moduleId": "03",
+      "title": "pencereler (nevâfizu)",
+      "subtitle": "SRS Kartı · M03 · Kök: ن-ف-ذ",
+      "ar": "نَوَافِذُ",
+      "kok": "ن-ف-ذ",
+      "keywords": "نوافذ فَوَاعِل Çoğul"
+    },
+    {
+      "id": "search_card_m03_c25",
+      "type": "card",
+      "moduleId": "03",
+      "title": "öğrenciler (tullâbun)",
+      "subtitle": "SRS Kartı · M03 · Kök: ط-ل-ب",
+      "ar": "طُلَّابٌ",
+      "kok": "ط-ل-ب",
+      "keywords": "طلاب فُعَّال Çoğul"
+    },
+    {
+      "id": "search_card_m03_c26",
+      "type": "card",
+      "moduleId": "03",
+      "title": "camiler / mescitler (mesâcidu)",
+      "subtitle": "SRS Kartı · M03 · Kök: س-ج-د",
+      "ar": "مَسَاجِدُ",
+      "kok": "س-ج-د",
+      "keywords": "مساجد مَفَاعِل Çoğul"
+    },
+    {
+      "id": "search_card_m03_c27",
+      "type": "card",
+      "moduleId": "03",
+      "title": "oda (gurfetun)",
+      "subtitle": "SRS Kartı · M03 · Kök: غ-ر-ف",
+      "ar": "غُرْفَةٌ",
+      "kok": "غ-ر-ف",
+      "keywords": "غرفة فُعْلَة İsim"
+    },
+    {
+      "id": "search_card_m03_c28",
+      "type": "card",
+      "moduleId": "03",
+      "title": "salon / derslik / amfi (kâ‘atun)",
+      "subtitle": "SRS Kartı · M03 · Kök: ق-و-ع",
+      "ar": "قَاعَةٌ",
+      "kok": "ق-و-ع",
+      "keywords": "قاعة فَعَلَة İsim"
+    },
+    {
+      "id": "search_card_m03_c29",
+      "type": "card",
+      "moduleId": "03",
+      "title": "yeşil (müennes) (hadrâu)",
+      "subtitle": "SRS Kartı · M03 · Kök: خ-ض-ر",
+      "ar": "خَضْرَاءُ",
+      "kok": "خ-ض-ر",
+      "keywords": "خضراء فَعْلَاء Sıfat"
+    },
+    {
+      "id": "search_card_m03_c30",
+      "type": "card",
+      "moduleId": "03",
+      "title": "çalışkan (muctehidun)",
+      "subtitle": "SRS Kartı · M03 · Kök: ج-ه-د",
+      "ar": "مُجْتَهِدٌ",
+      "kok": "ج-ه-د",
+      "keywords": "مجتهد مُفْتَعِل Sıfat"
+    },
+    {
+      "id": "search_card_m03_c31",
+      "type": "card",
+      "moduleId": "03",
+      "title": "yetenekli / usta (mâhirun)",
+      "subtitle": "SRS Kartı · M03 · Kök: م-ه-ر",
+      "ar": "مَاهِرٌ",
+      "kok": "م-ه-ر",
+      "keywords": "ماهر فَاعِل Sıfat"
+    },
+    {
+      "id": "search_card_m03_c32",
+      "type": "card",
+      "moduleId": "03",
+      "title": "en büyük / büyük (müennes) (kubrâ)",
+      "subtitle": "SRS Kartı · M03 · Kök: ك-ب-ر",
+      "ar": "كُبْرَى",
+      "kok": "ك-ب-ر",
+      "keywords": "كبرى فُعْلَى Sıfat"
+    },
+    {
+      "id": "search_gram_m03_g1",
+      "type": "grammar",
+      "moduleId": "03",
+      "title": "Müzekker (Eril) ve Müennes (Dişil) İsimler — 3 Müenneslik Alâmeti",
+      "subtitle": "Gramer Kuralı · M03",
+      "ar": "الْمُذَكَّرُ وَالْمُؤَنَّثُ وَعَلَامَاتُ التَّأْنِيثِ",
+      "keywords": "Müzekker + ة → Müennes (طَالِبٌ ← طَالِبَةٌ) | 3 Alâmet: ـَة · ـَى · ـَاءُ Türkçede 'masa, kalem, güneş, şehir' gibi cansız varlıkların dilbilgisel cinsiyeti yoktur. Arapçada ise her isim — canlı"
+    },
+    {
+      "id": "search_gram_m03_g2",
+      "type": "grammar",
+      "moduleId": "03",
+      "title": "Semâî Müennesler (Alâmetsiz Dişil İsimler)",
+      "subtitle": "Gramer Kuralı · M03",
+      "ar": "الْمُؤَنَّثُ السَّمَاعِيُّ (الْمَعْنَوِيُّ وَالْمَجَازِيُّ)",
+      "keywords": "Alâmetsiz Müennes = Kadın Adları + Çift Organlar (عَيْن/يَد/رِجْل) + Ülke/Şehirler + شَمْس/أَرْض/نَار/دَار Arapçada bazı kelimeler sonunda ة، ى veya اء taşımadığı hâlde doğuştan müennes kabul edilir! Buna 'Semâî (Araplardan işi"
+    },
+    {
+      "id": "search_gram_m03_g3",
+      "type": "grammar",
+      "moduleId": "03",
+      "title": "Müfred (Tekil) ve Tesniye (İkil: ـَانِ / ـَيْنِ) Sistemi",
+      "subtitle": "Gramer Kuralı · M03",
+      "ar": "الْمُفْرَدُ وَالْمُثَنَّى",
+      "keywords": "Tesniye (İkil) = Tekil + ـَانِ (Ref) | Tekil + ـَيْنِ (Nasb/Cer) | ة → تَ + انِ / يْنِ Türkçede ve İngilizcede sayı ikiye ayrılır: Tekil (1) ve Çoğul (2 ve daha fazla). Arapçada ise çok zarif bir ARA BASAMAK"
+    },
+    {
+      "id": "search_gram_m03_g4",
+      "type": "grammar",
+      "moduleId": "03",
+      "title": "Düzenli Çoğullar: Cemi Müzekker Sâlim (ـُونَ / ـِينَ) ve Cemi Müennes Sâlim (ـَاتٌ)",
+      "subtitle": "Gramer Kuralı · M03",
+      "ar": "جَمْعُ الْمُذَكَّرِ السَّالِمِ وَجَمْعُ الْمُؤَنَّثِ السَّالِمِ",
+      "keywords": "Eril Düzenli (Sadece Akıllı): + ـُونَ (Ref) / + ـِينَ (Nasb/Cer) | Dişil Düzenli: ة sil + ـَاتٌ (Ref) / ـَاتٍ (Nasb & Cer!) Arapçada 'Sâlim' (sağlam/düzenli) çoğul demek, tekil kelimenin gövdesi hiç bozulmadan sadece sonuna standart bir ek geti"
+    },
+    {
+      "id": "search_gram_m03_g5",
+      "type": "grammar",
+      "moduleId": "03",
+      "title": "Cemi Teksir (Kırık Çoğul) Mantığı ve Akılsız Çoğulun Altın Kuralı",
+      "subtitle": "Gramer Kuralı · M03",
+      "ar": "جَمْعُ التَّكْسِيرِ وَقَاعِدَةُ جَمْعِ غَيْرِ الْعَاقِلِ",
+      "keywords": "Akılsız Çoğul (كُتُبٌ / أَقْلَامٌ / سَيَّارَاتٌ) = TEKİL MÜENNES Hükmü (هٰذِهِ + جَدِيدَةٌ + هِيَ) Arapçada isimlerin çok büyük bir kısmı sonuna ek alarak değil, kelimenin İÇ YAPISI KIRILIP yeniden şekillenerek çoğul ol"
     },
     {
       "id": "search_verb_0",

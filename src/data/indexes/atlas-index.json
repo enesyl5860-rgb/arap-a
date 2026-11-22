@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T22:17:30.881Z",
+  "generatedAt": "2026-11-22T22:27:38.182Z",
   "prepositionalVerbs": [
     {
       "ar": "بَحَثَ عَنْ",
@@ -190,6 +190,51 @@
       "arBaslik": "قَوَاعِدُ كِتَابَةِ الْهَمْزَةِ (الْمُتَوَسِّطَةُ وَالْمُتَطَرِّفَةُ)",
       "formul": "Hareke Güç Sırası: Kesra (ئ) > Damme (ؤ) > Fetha (أ) > Sükûn (ء)",
       "mantik": "Öğrencilerin en çok çekindiği imlâ konusu olan 'hemze neden bazen ئ bazen ؤ bazen أ bazen de satırda ء yazılıyor?' sorusunun aslında tek bir matematiksel sırrı vardır! Hemze kelimenin ortasında veya sonunda oturmak için kendine bir 'kürsü/koltuk' seçer. Bu kol…"
+    },
+    {
+      "id": "m03_g1",
+      "moduleId": "03",
+      "cefr": "A1",
+      "baslik": "Müzekker (Eril) ve Müennes (Dişil) İsimler — 3 Müenneslik Alâmeti",
+      "arBaslik": "الْمُذَكَّرُ وَالْمُؤَنَّثُ وَعَلَامَاتُ التَّأْنِيثِ",
+      "formul": "Müzekker + ة → Müennes (طَالِبٌ ← طَالِبَةٌ) | 3 Alâmet: ـَة · ـَى · ـَاءُ",
+      "mantik": "Türkçede 'masa, kalem, güneş, şehir' gibi cansız varlıkların dilbilgisel cinsiyeti yoktur. Arapçada ise her isim — canlı ya da cansız — ya MÜZEKKER (eril) ya da MÜENNES (dişil) kabul edilir! Bu kuralı öğrenmek hayati önem taşır çünkü sıfatlar, işaret isimleri,…"
+    },
+    {
+      "id": "m03_g2",
+      "moduleId": "03",
+      "cefr": "A1",
+      "baslik": "Semâî Müennesler (Alâmetsiz Dişil İsimler)",
+      "arBaslik": "الْمُؤَنَّثُ السَّمَاعِيُّ (الْمَعْنَوِيُّ وَالْمَجَازِيُّ)",
+      "formul": "Alâmetsiz Müennes = Kadın Adları + Çift Organlar (عَيْن/يَد/رِجْل) + Ülke/Şehirler + شَمْس/أَرْض/نَار/دَار",
+      "mantik": "Arapçada bazı kelimeler sonunda ة، ى veya اء taşımadığı hâlde doğuştan müennes kabul edilir! Buna 'Semâî (Araplardan işitilerek bilinen) Müennes' denir. Ezberlemesi hiç zor değil, çünkü 4 net kategoriye ayrılır: (1) Doğuştan kadın isimleri ve akrabalık adları …"
+    },
+    {
+      "id": "m03_g3",
+      "moduleId": "03",
+      "cefr": "A1",
+      "baslik": "Müfred (Tekil) ve Tesniye (İkil: ـَانِ / ـَيْنِ) Sistemi",
+      "arBaslik": "الْمُفْرَدُ وَالْمُثَنَّى",
+      "formul": "Tesniye (İkil) = Tekil + ـَانِ (Ref) | Tekil + ـَيْنِ (Nasb/Cer) | ة → تَ + انِ / يْنِ",
+      "mantik": "Türkçede ve İngilizcede sayı ikiye ayrılır: Tekil (1) ve Çoğul (2 ve daha fazla). Arapçada ise çok zarif bir ARA BASAMAK vardır: TESNİYE / MÜSENNÂ (İkil — tam 2 varlık)! Yani Arapçada çoğul 2'den değil, 3'ten başlar! İkil yapmak Arapçanın en düzenli ve kolay k…"
+    },
+    {
+      "id": "m03_g4",
+      "moduleId": "03",
+      "cefr": "A1",
+      "baslik": "Düzenli Çoğullar: Cemi Müzekker Sâlim (ـُونَ / ـِينَ) ve Cemi Müennes Sâlim (ـَاتٌ)",
+      "arBaslik": "جَمْعُ الْمُذَكَّرِ السَّالِمِ وَجَمْعُ الْمُؤَنَّثِ السَّالِمِ",
+      "formul": "Eril Düzenli (Sadece Akıllı): + ـُونَ (Ref) / + ـِينَ (Nasb/Cer) | Dişil Düzenli: ة sil + ـَاتٌ (Ref) / ـَاتٍ (Nasb & Cer!)",
+      "mantik": "Arapçada 'Sâlim' (sağlam/düzenli) çoğul demek, tekil kelimenin gövdesi hiç bozulmadan sadece sonuna standart bir ek getirilmesi demektir! İki türü vardır:\n1) CEMİ MÜZEKKER SÂLİM: Yalnızca akıllı erkek insanlar (veya onların sıfatları) için kullanılır! Sona ref…"
+    },
+    {
+      "id": "m03_g5",
+      "moduleId": "03",
+      "cefr": "A1",
+      "baslik": "Cemi Teksir (Kırık Çoğul) Mantığı ve Akılsız Çoğulun Altın Kuralı",
+      "arBaslik": "جَمْعُ التَّكْسِيرِ وَقَاعِدَةُ جَمْعِ غَيْرِ الْعَاقِلِ",
+      "formul": "Akılsız Çoğul (كُتُبٌ / أَقْلَامٌ / سَيَّارَاتٌ) = TEKİL MÜENNES Hükmü (هٰذِهِ + جَدِيدَةٌ + هِيَ)",
+      "mantik": "Arapçada isimlerin çok büyük bir kısmı sonuna ek alarak değil, kelimenin İÇ YAPISI KIRILIP yeniden şekillenerek çoğul olur — tıpkı İngilizcedeki 'man → men, foot → feet' gibi! Buna CEMİ TEKSİR (Kırık Çoğul) denir: كِتَابٌ → كُتُبٌ, قَلَمٌ → أَقْلَامٌ, بَيْتٌ →…"
     }
   ],
   "quickPractice": [
@@ -492,6 +537,156 @@
       ],
       "dogruIndeks": 0,
       "aciklama": "سُ (damme) vs. أَ (fetha): Damme fethayı yendiği için koltuk ؤ olur."
+    },
+    {
+      "id": "atlas_m03_g1_d1",
+      "moduleId": "03",
+      "kategori": "İsim Morfolojisi",
+      "soru": "Aşağıdakilerden hangisi bir ismin müenneslik alâmetlerinden biri DEĞİLDİR?",
+      "soruAr": "",
+      "secenekler": [
+        "Kapalı tâ (ة)",
+        "Elif-i maksûre (ى)",
+        "Elif-i memdûde (اء)",
+        "Açık tâ (ت)"
+      ],
+      "dogruIndeks": 3,
+      "aciklama": "Açık ت (ör. بَيْتٌ، صَوْتٌ) müenneslik alâmeti değildir."
+    },
+    {
+      "id": "atlas_m03_g1_d2",
+      "moduleId": "03",
+      "kategori": "İsim Morfolojisi",
+      "soru": "طَبِيبٌ مَاهِرٌ (yetenekli erkek doktor) ifadesinin müennes karşılığı hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "طَبِيبَةٌ مَاهِرٌ",
+        "طَبِيبٌ مَاهِرَةٌ",
+        "طَبِيبَةٌ مَاهِرَةٌ",
+        "أَطِبَّاءُ مَاهِرُونَ"
+      ],
+      "dogruIndeks": 2,
+      "aciklama": "Hem isim hem sıfat kapalı ة alır: طَبِيبَةٌ مَاهِرَةٌ."
+    },
+    {
+      "id": "atlas_m03_g2_d1",
+      "moduleId": "03",
+      "kategori": "İsim Morfolojisi",
+      "soru": "Aşağıdaki organ isimlerinden hangisi ÇİFT organ olduğu için MÜENNES kabul edilir?",
+      "soruAr": "",
+      "secenekler": [
+        "قَلْبٌ (kalp)",
+        "رَأْسٌ (baş)",
+        "عَيْنٌ (göz)",
+        "أَنْفٌ (burun)"
+      ],
+      "dogruIndeks": 2,
+      "aciklama": "عَيْنٌ (göz) çift organ olduğu için semâî müennestir; diğer üçü tekil organ olup müzekkerdir."
+    },
+    {
+      "id": "atlas_m03_g2_d2",
+      "moduleId": "03",
+      "kategori": "İsim Morfolojisi",
+      "soru": "'هٰذَا شَمْسٌ كَبِيرٌ' cümlesindeki hatanın sebebi nedir?",
+      "soruAr": "",
+      "secenekler": [
+        "شَمْسٌ semâî müennestir; 'هٰذِهِ شَمْسٌ كَبِيرَةٌ' olmalıdır",
+        "شَمْسٌ çoğuldur",
+        "هٰذَا fiildir",
+        "كَبِيرٌ harftir"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "شَمْسٌ sonunda ة olmasa da müennestir."
+    },
+    {
+      "id": "atlas_m03_g3_d1",
+      "moduleId": "03",
+      "kategori": "İsim Morfolojisi",
+      "soru": "Arapçada çoğul (Cemi) kaç varlıktan itibaren başlar?",
+      "soruAr": "",
+      "secenekler": [
+        "2'den itibaren",
+        "3 ve daha fazlasından itibaren",
+        "4'ten itibaren",
+        "10'dan itibaren"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "Arapçada 1 Müfred, 2 Tesniye (İkil), 3 ve üzeri Cemi (Çoğul) olarak sınıflanır."
+    },
+    {
+      "id": "atlas_m03_g3_d2",
+      "moduleId": "03",
+      "kategori": "İsim Morfolojisi",
+      "soru": "مَدْرَسَةٌ (okul) kelimesinin ref hâlindeki ikili (iki okul) hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "مَدْرَسَاتٌ",
+        "مَدْرَسَتَانِ",
+        "مَدْرَسَةَانِ",
+        "مَدَارِسُ"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "Kapalı ة açık ت olur ve ـَانِ eklenir: مَدْرَسَتَانِ."
+    },
+    {
+      "id": "atlas_m03_g4_d1",
+      "moduleId": "03",
+      "kategori": "İsim Morfolojisi",
+      "soru": "Cemi Müzekker Sâlim (ـُونَ / ـِينَ) hangi varlıklar için kullanılır?",
+      "soruAr": "",
+      "secenekler": [
+        "Tüm isimler için",
+        "Yalnızca akıllı erkek insanlar ve onların sıfatları için",
+        "Yalnızca cansız eşyalar için",
+        "Yalnızca yer adları için"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "Cansız isimler Cemi Müzekker Sâlim yapılamaz."
+    },
+    {
+      "id": "atlas_m03_g4_d2",
+      "moduleId": "03",
+      "kategori": "İsim Morfolojisi",
+      "soru": "'قَرَأْتُ الصَّفَحَاتَ الْأُولَى' cümlesindeki i'rab hatası nedir?",
+      "soruAr": "",
+      "secenekler": [
+        "الصَّفَحَاتِ (kesra ile mansub) olmalıdır; Cemi Müennes Sâlim fetha almaz!",
+        "قَرَأْتُ yanlıştır",
+        "الْأُولَى kaldırılmalı",
+        "الصَّفَحَاتُونَ olmalı"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Cemi Müennes Sâlim nasb (nesne) hâlinde kesra ile mansub olur: الصَّفَحَاتِ."
+    },
+    {
+      "id": "atlas_m03_g5_d1",
+      "moduleId": "03",
+      "kategori": "İsim Morfolojisi",
+      "soru": "Arapçada akılsız (insan dışı) çoğullar dilbilgisinde hangi hükme sahiptir?",
+      "soruAr": "",
+      "secenekler": [
+        "Çoğul müzekker",
+        "Tekil müennes (هِيَ / هٰذِهِ)",
+        "İkil müzekker",
+        "Tekil müzekker"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "Tüm akılsız çoğullar tekil müennes kabul edilir."
+    },
+    {
+      "id": "atlas_m03_g5_d2",
+      "moduleId": "03",
+      "kategori": "İsim Morfolojisi",
+      "soru": "هٰذِهِ الْكُتُبُ ....... (faydalıdır) boşluğuna hangisi gelmelidir?",
+      "soruAr": "",
+      "secenekler": [
+        "مُفِيدُونَ",
+        "مُفِيدٌ",
+        "مُفِيدَةٌ",
+        "مُفِيدَانِ"
+      ],
+      "dogruIndeks": 2,
+      "aciklama": "الْكُتُبُ akılsız çoğul olduğu için haberi tekil müennes (مُفِيدَةٌ) gelir."
     }
   ]
 }

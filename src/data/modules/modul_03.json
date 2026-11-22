@@ -1,0 +1,1056 @@
+{
+  "id": "03",
+  "slug": "modul_03",
+  "phaseId": 1,
+  "cilt": 1,
+  "cefr": "A1",
+  "category": "İsim Morfolojisi",
+  "title": "Müzekker–Müennes & Müfred–Tesniye–Cemi",
+  "arabicTitle": "الْمُذَكَّرُ وَالْمُؤَنَّثُ وَالْمُفْرَدُ وَالْمُثَنَّى وَالْجَمْعُ",
+  "summary": "Arapçada cinsiyet sistemi (tâ-i merbûta, elif-i maksûre/memdûde ve semâî müennesler), ikil (Tesniye: ـَانِ / ـَيْنِ), düzenli eril ve dişil çoğullar ile Cemi Teksir (kırık çoğul) mantığı.",
+  "grammar": [
+    {
+      "id": "m03_g1",
+      "baslik": "Müzekker (Eril) ve Müennes (Dişil) İsimler — 3 Müenneslik Alâmeti",
+      "arBaslik": "الْمُذَكَّرُ وَالْمُؤَنَّثُ وَعَلَامَاتُ التَّأْنِيثِ",
+      "mantik": "Türkçede 'masa, kalem, güneş, şehir' gibi cansız varlıkların dilbilgisel cinsiyeti yoktur. Arapçada ise her isim — canlı ya da cansız — ya MÜZEKKER (eril) ya da MÜENNES (dişil) kabul edilir! Bu kuralı öğrenmek hayati önem taşır çünkü sıfatlar, işaret isimleri, zamirler ve fiiller ismin cinsiyetine göre şekil değiştirir. Bir kelimenin müennes olduğunu gösteren 3 görsel işaret (alâmet) vardır: (1) En yaygını sondaki kapalı tâ 'ة' (Tâ-i Merbûta: طَالِبَةٌ، مَدْرَسَةٌ), (2) Elif-i Maksûre 'ى' (كُبْرَى، سَلْمَى), (3) Elif-i Memdûde 'اء' (صَحْرَاءُ، حَمْرَاءُ). Bu işaretler yoksa kelime varsayılan olarak müzekkerdir — ancak bir sonraki kuralda göreceğimiz 'semâî müennes' istisnaları hariç!",
+      "formul": "Müzekker + ة → Müennes (طَالِبٌ ← طَالِبَةٌ) | 3 Alâmet: ـَة · ـَى · ـَاءُ",
+      "formulAr": "طَالِبٌ ← طَالِبَةٌ | كَبِيرٌ ← كَبِيرَةٌ",
+      "tablo": {
+        "baslik": "Müzekkerden Müennese Dönüşüm ve 3 Müenneslik Alâmeti",
+        "sutunlar": ["Kategori", "Müzekker", "Müennes", "Alâmet", "Anlam"],
+        "satirlar": [
+          { "hucreler": ["İnsan / Meslek", "مُعَلِّمٌ", "مُعَلِّمَةٌ", "ة (Tâ-i Merbûta)", "öğretmen (E / K)"], "ses": "مُعَلِّمٌ مُعَلِّمَةٌ" },
+          { "hucreler": ["Sıfat", "جَدِيدٌ", "جَدِيدَةٌ", "ة (Tâ-i Merbûta)", "yeni (E / K)"], "ses": "جَدِيدٌ جَدِيدَةٌ" },
+          { "hucreler": ["Cansız İsim", "قَلَمٌ (kalem)", "طَاوِلَةٌ (masa)", "ة (Tâ-i Merbûta)", "eril / dişil cansız"], "ses": "قَلَمٌ طَاوِلَةٌ" },
+          { "hucreler": ["Elif-i Maksûre", "أَكْبَرُ (en büyük)", "كُبْرَى (en büyük)", "ـَى", "tafdil müennesi"], "ses": "أَكْبَرُ كُبْرَى" },
+          { "hucreler": ["Elif-i Memdûde", "أَحْمَرُ (kırmızı)", "حَمْرَاءُ (kırmızı)", "ـَاءُ", "renk müennesi"], "ses": "أَحْمَرُ حَمْرَاءُ" }
+        ]
+      },
+      "trKiyas": "Türkçede 'çalışkan öğrenci' derken erkek de kız da olsa sıfat değişmez. Arapçada ise erkek için طَالِبٌ مُجْتَهِدٌ, kız için طَالِبَةٌ مُجْتَهِدَةٌ denir. Küçük bir sürpriz: حَمْزَةُ (Hamza), أُسَامَةُ (Üsame), طَلْحَةُ (Talha) gibi erkek özel isimleri sonunda ة taşısa da anlamca erkek oldukları için 'lafzî müennes, hakîkî müzekker' sayılır ve fiilleri/sıfatları eril gelir!",
+      "sikHatalar": [
+        "بَيْتٌ (ev) veya صَوْتٌ (ses) gibi açık ت ile biten kelimeleri ة sanıp müennes kabul etmek — açık ت müenneslik alâmeti DEĞİLDİR (بَيْتٌ müzekkerdir!).",
+        "أُسَامَةُ ve حَمْزَةُ gibi erkek isimlerinin sonundaki ة'ye aldanıp onları müennes zannetmek.",
+        "Müennes bir cansız isme (مَدِينَةٌ، سَيَّارَةٌ) eril sıfat vermek (مَدِينَةٌ كَبِيرٌ YANLIŞ → doğrusu مَدِينَةٌ كَبِيرَةٌ)."
+      ],
+      "ornekler": [
+        { "ar": "هٰذَا طَالِبٌ مُجْتَهِدٌ وَهٰذِهِ طَالِبَةٌ مُجْتَهِدَةٌ.", "okunus": "Hâzâ tâlibun muctehidun ve hâzihî tâlibetun muctehidetun.", "tr": "Bu çalışkan bir erkek öğrencidir ve bu çalışkan bir kız öğrencidir.", "not": "Sıfat ve işaret ismi cinsiyete birebir uyar." },
+        { "ar": "الْمَدِينَةُ كَبِيرَةٌ وَنَظِيفَةٌ.", "okunus": "El-medînetu kebîratun ve nazîfetun.", "tr": "Şehir büyük ve temizdir.", "not": "مَدِينَةٌ ة taşıdığı için sıfatları da ة alır." },
+        { "ar": "اشْتَرَيْتُ سَيَّارَةً حَمْرَاءَ وَحَقِيبَةً سَوْدَاءَ.", "okunus": "İştereytu seyyâraten hamrâe ve hakîbeten sevdâe.", "tr": "Kırmızı bir araba ve siyah bir çanta aldım.", "not": "حَمْرَاء ve سَوْدَاء elif-i memdûde ile müennestir." },
+        { "ar": "الْقَاهِرَةُ مَدِينَةٌ كُبْرَى فِي مِصْرَ.", "okunus": "El-Kâhiratu medînetun kubrâ fî Mısra.", "tr": "Kahire Mısır'da çok büyük bir şehirdir.", "not": "كُبْرَى elif-i maksûre ile müennestir." },
+        { "ar": "حَمْزَةُ مُهَنْدِسٌ مَاهِرٌ.", "okunus": "Hamzetu muhendisun mâhirun.", "tr": "Hamza yetenekli bir mühendistir.", "not": "حَمْزَةُ erkek adı olduğundan haberi eril (مُهَنْدِسٌ) gelir!" },
+        { "ar": "هٰذَا بَيْتٌ وَاسِعٌ وَتِلْكَ غُرْفَةٌ وَاسِعَةٌ.", "okunus": "Hâzâ beytun vâsi‘un ve tilke gurfetun vâsi‘atun.", "tr": "Bu geniş bir evdir ve şu geniş bir odadır.", "not": "بَيْتٌ açık ت ile biter ve müzekkerdir; غُرْفَةٌ kapalı ة ile müennestir." }
+      ],
+      "tatbikler": [
+        { "id": "m03_g1_d1", "tip": "bosluk", "soru": "Aşağıdakilerden hangisi bir ismin müenneslik alâmetlerinden biri DEĞİLDİR?", "secenekler": ["Kapalı tâ (ة)", "Elif-i maksûre (ى)", "Elif-i memdûde (اء)", "Açık tâ (ت)"], "dogruIndeks": 3, "aciklama": "Açık ت (ör. بَيْتٌ، صَوْتٌ) müenneslik alâmeti değildir." },
+        { "id": "m03_g1_d2", "tip": "donusturme", "soru": "طَبِيبٌ مَاهِرٌ (yetenekli erkek doktor) ifadesinin müennes karşılığı hangisidir?", "secenekler": ["طَبِيبَةٌ مَاهِرٌ", "طَبِيبٌ مَاهِرَةٌ", "طَبِيبَةٌ مَاهِرَةٌ", "أَطِبَّاءُ مَاهِرُونَ"], "dogruIndeks": 2, "aciklama": "Hem isim hem sıfat kapalı ة alır: طَبِيبَةٌ مَاهِرَةٌ." },
+        { "id": "m03_g1_d3", "tip": "hata_bul", "soru": "'هٰذَا غُرْفَةٌ كَبِيرٌ' cümlesindeki hatalar düzeltilirse hangisi doğru olur?", "secenekler": ["هٰذِهِ غُرْفَةٌ كَبِيرَةٌ", "هٰذَا غُرْفَةٌ كَبِيرَةٌ", "هٰذِهِ غُرْفَةٌ كَبِيرٌ", "هٰذَا غُرَفٌ كَبِيرٌ"], "dogruIndeks": 0, "aciklama": "غُرْفَةٌ müennes olduğu için hem işaret ismi (هٰذِهِ) hem sıfat (كَبِيرَةٌ) müennes olmalıdır." },
+        { "id": "m03_g1_d4", "tip": "bosluk", "soru": "بَيْتٌ (ev) kelimesinin dilbilgisel cinsiyeti nedir?", "secenekler": ["Müennes", "Müzekker", "Hem eril hem dişil", "Cinsiyetsiz"], "dogruIndeks": 1, "aciklama": "بَيْتٌ açık ت ile biter ve müzekkerdir (هٰذَا بَيْتٌ كَبِيرٌ)." },
+        { "id": "m03_g1_d5", "tip": "hata_bul", "soru": "'حَمْزَةُ طَالِبَةٌ ذَكِيَّةٌ' cümlesi neden hatalıdır?", "secenekler": ["حَمْزَةُ erkek özel ismidir; haberi eril (طَالِبٌ ذَكِيٌّ) olmalıdır", "حَمْزَةُ çoğuldur", "ذَكِيَّةٌ fiildir", "Başına ال gelmeli"], "dogruIndeks": 0, "aciklama": "حَمْزَةُ، أُسَامَةُ gibi isimler anlamca müzekkerdir; sıfat ve haberleri eril gelir." },
+        { "id": "m03_g1_d6", "tip": "tr_ar", "soru": "'Kırmızı bir araba' ifadesinin doğru Arapçası hangisidir?", "secenekler": ["سَيَّارَةٌ أَحْمَرُ", "سَيَّارَةٌ حَمْرَاءُ", "سَيَّارَةٌ حَمَرٌ", "سَيَّارٌ حَمْرَاءُ"], "dogruIndeks": 1, "aciklama": "سَيَّارَةٌ müennes olduğu için أَحْمَرُ renginin müennesi حَمْرَاءُ kullanılır." },
+        { "id": "m03_g1_d7", "tip": "bosluk", "soru": "صَحْرَاءُ (çöl) kelimesindeki müenneslik alâmeti hangisidir?", "secenekler": ["Tâ-i merbûta (ة)", "Elif-i memdûde (اء)", "Elif-i maksûre (ى)", "Semâî müenneslik"], "dogruIndeks": 1, "aciklama": "صَحْرَاءُ sonundaki اء (elif-i memdûde) müenneslik işaretidir." },
+        { "id": "m03_g1_d8", "tip": "donusturme", "soru": "مُهَنْدِسٌ (erkek mühendis) kelimesini kadın mühendis yaparsak hangisi olur?", "secenekler": ["مُهَنْدِسَةٌ", "مُهَنْدِسَتٌ", "مُهَنْدِسَى", "مُهَنْدِسَاءُ"], "dogruIndeks": 0, "aciklama": "Sona kapalı ة eklenir: مُهَنْدِسَةٌ." },
+        { "id": "m03_g1_d9", "tip": "tr_ar", "soru": "'Okul büyüktür' cümlesinin doğru Arapçası hangisidir?", "secenekler": ["الْمَدْرَسَةُ كَبِيرٌ", "الْمَدْرَسَةُ كَبِيرَةٌ", "الْمَدْرَسَةُ الْكَبِيرَةُ", "مَدْرَسَةٌ كَبِيرَةٌ"], "dogruIndeks": 1, "aciklama": "الْمَدْرَسَةُ müennes marife + كَبِيرَةٌ müennes nekre haber." },
+        { "id": "m03_g1_d10", "tip": "bosluk", "soru": "كُبْرَى (en büyük — müennes) kelimesinin sonundaki müenneslik işareti nedir?", "secenekler": ["Elif-i maksûre (ى)", "Tâ-i merbûta (ة)", "Tenvîn", "Elif-i memdûde (اء)"], "dogruIndeks": 0, "aciklama": "كُبْرَى، صُغْرَى، عُظْمَى kelimeleri elif-i maksûre (ى) ile müennestir." }
+      ]
+    },
+    {
+      "id": "m03_g2",
+      "baslik": "Semâî Müennesler (Alâmetsiz Dişil İsimler)",
+      "arBaslik": "الْمُؤَنَّثُ السَّمَاعِيُّ (الْمَعْنَوِيُّ وَالْمَجَازِيُّ)",
+      "mantik": "Arapçada bazı kelimeler sonunda ة، ى veya اء taşımadığı hâlde doğuştan müennes kabul edilir! Buna 'Semâî (Araplardan işitilerek bilinen) Müennes' denir. Ezberlemesi hiç zor değil, çünkü 4 net kategoriye ayrılır: (1) Doğuştan kadın isimleri ve akrabalık adları (أُمٌّ anne, أُخْتٌ kız kardeş, بِنْتٌ kız, زَيْنَبُ، مَرْيَمُ), (2) Vücuttaki ÇİFT organlar (عَيْنٌ göz, أُذُنٌ kulak, يَدٌ el, رِجْلٌ ayak, قَدَمٌ ayak — tek organlar olan رَأْسٌ baş ve أَنْفٌ burun ise erildir!), (3) Ülke ve şehir adları (تُرْكِيَا، مِصْرُ، دِمَشْقُ، إِسْطَنْبُولُ), (4) Meşhur tabiat/günlük kelimeler (شَمْسٌ güneş, أَرْضٌ yer, نَارٌ ateş, دَارٌ ev, رِيحٌ rüzgâr, حَرْبٌ savaş, نَفْسٌ nefis).",
+      "formul": "Alâmetsiz Müennes = Kadın Adları + Çift Organlar (عَيْن/يَد/رِجْل) + Ülke/Şehirler + شَمْس/أَرْض/نَار/دَار",
+      "formulAr": "الشَّمْسُ مُشْرِقَةٌ · الْعَيْنُ جَمِيلَةٌ · مِصْرُ كَبِيرَةٌ",
+      "tablo": {
+        "baslik": "Semâî Müenneslerin 4 Altın Grubu",
+        "sutunlar": ["Grup", "Örnek Kelimeler", "Cümle İçinde Kullanımı", "Dikkat Notu"],
+        "satirlar": [
+          { "hucreler": ["Kadın / Akrabalık", "أُمٌّ · أُخْتٌ · بِنْتٌ · مَرْيَمُ", "مَرْيَمُ طَالِبَةٌ ذَكِيَّةٌ", "Anlamca dişil (hakîkî müennes)"], "ses": "مَرْيَمُ طَالِبَةٌ ذَكِيَّةٌ" },
+          { "hucreler": ["Çift Organlar", "عَيْنٌ · أُذُنٌ · يَدٌ · رِجْلٌ", "الْيَدُ الْيُمْنَى نَظِيفَةٌ", "Tek organlar (قَلْبٌ، رَأْسٌ، فَمٌ) erildir!"], "ses": "الْيَدُ الْيُمْنَى نَظِيفَةٌ" },
+          { "hucreler": ["Ülke & Şehirler", "تُرْكِيَا · مِصْرُ · بَغْدَادُ · إِسْطَنْبُولُ", "إِسْطَنْبُولُ مَدِينَةٌ تَارِيخِيَّةٌ", "Ülkelerin çoğu müennestir"], "ses": "إِسْطَنْبُولُ مَدِينَةٌ تَارِيخِيَّةٌ" },
+          { "hucreler": ["Tabiat & Özel Grup", "شَمْسٌ · أَرْضٌ · نَارٌ · دَارٌ · حَرْبٌ", "الْأَرْضُ وَاسِعَةٌ وَالشَّمْسُ سَاطِعَةٌ", "Sık çıkan 8-10 kelimeyi tanımak yeterlidir"], "ses": "الْأَرْضُ وَاسِعَةٌ" }
+        ]
+      },
+      "trKiyas": "Vücut organları kuralı müthiş bir hafıza tekniğidir: İki tane olanlar dişil (عَيْنٌ، أُذُنٌ، يَدٌ، رِجْلٌ), tek olanlar eril (رَأْسٌ، وَجْهٌ، أَنْفٌ، فَمٌ، قَلْبٌ). Bu kural sayesinde 'sağ el' derken الْيَدُ الْيُمْنَى (müennes), 'temiz kalp' derken قَلْبٌ سَلِيمٌ (müzekker) kullanacağınızı anında bilirsiniz.",
+      "sikHatalar": [
+        "شَمْسٌ (güneş) veya أَرْضٌ (yeryüzü) sonunda ة olmadığı için eril sıfat vermek (الشَّمْسُ كَبِيرٌ YANLIŞ → الشَّمْسُ كَبِيرَةٌ).",
+        "قَمَرٌ (ay) kelimesini şems gibi müennes sanmak — الشَّمْسُ müennes, الْقَمَرُ müzekkerdir!",
+        "بِنْتٌ (kız) kelimesini açık ت ile bittiği için eril sanmak — anlamca kadın olduğundan kesinlikle müennestir."
+      ],
+      "ornekler": [
+        { "ar": "الشَّمْسُ سَاطِعَةٌ فِي السَّمَاءِ.", "okunus": "Eş-şemsu sâti‘atun fi's-semâi.", "tr": "Güneş gökyüzünde parlaktır.", "not": "شَمْسٌ semâî müennes olduğu için سَاطِعَةٌ gelir." },
+        { "ar": "الْأَرْضُ خَضْرَاءُ فِي فَصْلِ الرَّبِيعِ.", "okunus": "El-ardu hadrâu fî fasli'r-rebî‘i.", "tr": "Yeryüzü ilkbahar mevsiminde yeşildir.", "not": "أَرْضٌ müennestir → خَضْرَاءُ." },
+        { "ar": "هٰذِهِ دَارٌ وَاسِعَةٌ وَجَمِيلَةٌ.", "okunus": "Hâzihî dârun vâsi‘atun ve cemîletun.", "tr": "Bu geniş ve güzel bir evdir (yurttur).", "not": "بَيْتٌ müzekker, دَارٌ semâî müennestir!" },
+        { "ar": "تُرْكِيَا بَلَدٌ جَمِيلٌ، وَهِيَ تَقَعُ بَيْنَ قَارَّتَيْنِ.", "okunus": "Turkiyâ beledun cemîlun, ve hiye teka‘u beyne kârrateyni.", "tr": "Türkiye güzel bir ülkedir ve o iki kıta arasında yer alır.", "not": "Ülke adına dönen zamir ve fiil müennes gelir (هِيَ تَقَعُ)." },
+        { "ar": "الْيَدُ الْيُمْنَى قَوِيَّةٌ، وَالْعَيْنُ سَلِيمَةٌ.", "okunus": "El-yedu'l-yumnâ kaviyyetun, ve'l-‘aynu selîmetun.", "tr": "Sağ el güçlüdür ve göz sağlıklıdır.", "not": "يَدٌ ve عَيْنٌ çift organ olduğu için müennestir." },
+        { "ar": "زَيْنَبُ أُخْتِي الْكُبْرَى وَمَرْيَمُ أُخْتِي الصُّغْرَى.", "okunus": "Zeynebu uhtî'l-kubrâ ve Meryemu uhtî's-sugrâ.", "tr": "Zeynep büyük ablam, Meryem ise küçük kız kardeşimdir.", "not": "أُخْتٌ، زَيْنَبُ، مَرْيَمُ hakîkî müennestir." }
+      ],
+      "tatbikler": [
+        { "id": "m03_g2_d1", "tip": "bosluk", "soru": "Aşağıdaki organ isimlerinden hangisi ÇİFT organ olduğu için MÜENNES kabul edilir?", "secenekler": ["قَلْبٌ (kalp)", "رَأْسٌ (baş)", "عَيْنٌ (göz)", "أَنْفٌ (burun)"], "dogruIndeks": 2, "aciklama": "عَيْنٌ (göz) çift organ olduğu için semâî müennestir; diğer üçü tekil organ olup müzekkerdir." },
+        { "id": "m03_g2_d2", "tip": "hata_bul", "soru": "'هٰذَا شَمْسٌ كَبِيرٌ' cümlesindeki hatanın sebebi nedir?", "secenekler": ["شَمْسٌ semâî müennestir; 'هٰذِهِ شَمْسٌ كَبِيرَةٌ' olmalıdır", "شَمْسٌ çoğuldur", "هٰذَا fiildir", "كَبِيرٌ harftir"], "dogruIndeks": 0, "aciklama": "شَمْسٌ sonunda ة olmasa da müennestir." },
+        { "id": "m03_g2_d3", "tip": "bosluk", "soru": "Aşağıdaki kelimelerden hangisi MÜZEKKER (eril) bir isimdir?", "secenekler": ["أَرْضٌ (yer)", "شَمْسٌ (güneş)", "قَمَرٌ (ay)", "دَارٌ (yurt/ev)"], "dogruIndeks": 2, "aciklama": "قَمَرٌ müzekkerdir (الْقَمَرُ مُنِيرٌ); أَرْضٌ، شَمْسٌ ve دَارٌ semâî müennestir." },
+        { "id": "m03_g2_d4", "tip": "tr_ar", "soru": "'Yeryüzü geniştir' cümlesinin doğru Arapçası hangisidir?", "secenekler": ["الْأَرْضُ وَاسِعٌ", "الْأَرْضُ وَاسِعَةٌ", "الْأَرْضَ وَاسِعَةٌ", "أَرْضٌ وَاسِعٌ"], "dogruIndeks": 1, "aciklama": "الْأَرْضُ semâî müennes olduğu için haberi وَاسِعَةٌ olur." },
+        { "id": "m03_g2_d5", "tip": "bosluk", "soru": "بَيْتٌ (ev) ve دَارٌ (ev/yurt) arasındaki cinsiyet farkı nedir?", "secenekler": ["İkisi de müzekkerdir", "بَيْتٌ müzekker, دَارٌ semâî müennestir", "بَيْتٌ müennes, دَارٌ müzekkerdir", "İkisi de müennestir"], "dogruIndeks": 1, "aciklama": "هٰذَا بَيْتٌ كَبِيرٌ (eril) ama هٰذِهِ دَارٌ كَبِيرَةٌ (dişil)." },
+        { "id": "m03_g2_d6", "tip": "donusturme", "soru": "الْيَدُ (el) kelimesine 'temiz' sıfatı getirilirse doğru tamlama hangisidir?", "secenekler": ["الْيَدُ النَّظِيفُ", "الْيَدُ النَّظِيفَةُ", "الْيَدُ نَظِيفٌ", "يَدٌ نَظِيفٌ"], "dogruIndeks": 1, "aciklama": "يَدٌ çift organ (müennes) olduğu için sıfatı النَّظِيفَةُ olur." },
+        { "id": "m03_g2_d7", "tip": "bosluk", "soru": "Şehir ve ülke adlarının (مِصْرُ، بَغْدَادُ، دِمَشْقُ) genel cinsiyet hükmü nedir?", "secenekler": ["Müzekker", "Semâî Müennes", "Sadece çoğul", "Belirsiz"], "dogruIndeks": 1, "aciklama": "Ülke ve şehir isimlerinin büyük çoğunluğu semâî müennestir." },
+        { "id": "m03_g2_d8", "tip": "hata_bul", "soru": "Aşağıdaki cümlelerden hangisi cinsiyet uyumu açısından DOĞRUDUR?", "secenekler": ["النَّارُ حَارٌّ", "الْأُذُنُ صَغِيرٌ", "الْحَرْبُ طَوِيلَةٌ", "الْقَمَرُ جَمِيلَةٌ"], "dogruIndeks": 2, "aciklama": "حَرْبٌ (savaş) semâî müennestir → الْحَرْبُ طَوِيلَةٌ doğrudur." },
+        { "id": "m03_g2_d9", "tip": "tr_ar", "soru": "'Meryem zeki bir kızdır' cümlesinin doğru Arapçası hangisidir?", "secenekler": ["مَرْيَمُ بِنْتٌ ذَكِيٌّ", "مَرْيَمُ بِنْتٌ ذَكِيَّةٌ", "مَرْيَمُ وَلَدٌ ذَكِيَّةٌ", "الْمَرْيَمُ بِنْتٌ ذَكِيَّةٌ"], "dogruIndeks": 1, "aciklama": "مَرْيَمُ ve بِنْتٌ hakîkî müennestir; sıfat ذَكِيَّةٌ gelir." },
+        { "id": "m03_g2_d10", "tip": "bosluk", "soru": "نَفْسٌ (nefis/can) ve رِيحٌ (rüzgâr) kelimelerinin ortak dilbilgisel özelliği nedir?", "secenekler": ["İkisi de fiildir", "İkisi de alâmetsiz semâî müennestir", "İkisi de çoğuldur", "İkisi de harf-i cerdir"], "dogruIndeks": 1, "aciklama": "نَفْسٌ ve رِيحٌ sonunda ة olmadan müennes kullanılan kelimelerdendir." }
+      ]
+    },
+    {
+      "id": "m03_g3",
+      "baslik": "Müfred (Tekil) ve Tesniye (İkil: ـَانِ / ـَيْنِ) Sistemi",
+      "arBaslik": "الْمُفْرَدُ وَالْمُثَنَّى",
+      "mantik": "Türkçede ve İngilizcede sayı ikiye ayrılır: Tekil (1) ve Çoğul (2 ve daha fazla). Arapçada ise çok zarif bir ARA BASAMAK vardır: TESNİYE / MÜSENNÂ (İkil — tam 2 varlık)! Yani Arapçada çoğul 2'den değil, 3'ten başlar! İkil yapmak Arapçanın en düzenli ve kolay kuralıdır: Tekil ismin sonuna ötre/özne (ref) durumunda 'ـَانِ' (-âni), nesne ve harf-i cer (nasb/cer) durumunda ise 'ـَيْنِ' (-eyni) eklenir. Eğer tekil isim kapalı ة ile bitiyorsa, ek alabilmesi için kapalı ة normal açık ت'ye açılır: طَالِبَةٌ → طَالِبَتَانِ / طَالِبَتَيْنِ!",
+      "formul": "Tesniye (İkil) = Tekil + ـَانِ (Ref) | Tekil + ـَيْنِ (Nasb/Cer) | ة → تَ + انِ / يْنِ",
+      "formulAr": "طَالِبٌ ← طَالِبَانِ / طَالِبَيْنِ | طَالِبَةٌ ← طَالِبَتَانِ / طَالِبَتَيْنِ",
+      "tablo": {
+        "baslik": "Tekilden İkile (Tesniye) Dönüşüm Tablosu",
+        "sutunlar": ["Tekil (Müfred)", "İkil — Ref (ـَانِ)", "İkil — Nasb/Cer (ـَيْنِ)", "Anlamı"],
+        "satirlar": [
+          { "hucreler": ["كِتَابٌ", "كِتَابَانِ", "كِتَابَيْنِ", "iki kitap"], "ses": "كِتَابَانِ كِتَابَيْنِ" },
+          { "hucreler": ["قَلَمٌ", "قَلَمَانِ", "قَلَمَيْنِ", "iki kalem"], "ses": "قَلَمَانِ قَلَمَيْنِ" },
+          { "hucreler": ["طَالِبَةٌ (ة → ت)", "طَالِبَتَانِ", "طَالِبَتَيْنِ", "iki kız öğrenci"], "ses": "طَالِبَتَانِ طَالِبَتَيْنِ" },
+          { "hucreler": ["مَدِينَةٌ (ة → ت)", "مَدِينَتَانِ", "مَدِينَتَيْنِ", "iki şehir"], "ses": "مَدِينَتَانِ مَدِينَتَيْنِ" },
+          { "hucreler": ["مُعَلِّمٌ", "مُعَلِّمَانِ", "مُعَلِّمَيْنِ", "iki öğretmen"], "ses": "مُعَلِّمَانِ مُعَلِّمَيْنِ" }
+        ]
+      },
+      "trKiyas": "Türkçede 'iki kitap' demek için başa mutlaka 'iki' sayısını koyarız. Arapçada ise كِتَابَانِ dediğiniz anda 'iki' kelimesini söylemenize gerek bile kalmaz — sondaki ـَانِ eki zaten 'tam 2 tane' anlamını verir! Dikkat: Tesniyenin sonundaki ن harfi daima KESRALIDIR (ـَانِ / ـَيْنِ).",
+      "sikHatalar": [
+        "İki şeyden bahsederken çoğul kullanmak (2 öğrenci için طُلَّابٌ değil طَالِبَانِ kullanılmalıdır!).",
+        "ة ile biten kelimenin ikilinde ة'yi açmayı unutmak (سَيَّارَةَانِ YANLIŞ → doğrusu سَيَّارَتَانِ).",
+        "Tesniyenin ـَيْنِ (-eyni) ekini Cemi Müzekker'in ـِينَ (-îne) ekiyle harekesiz metinde karıştırmak (Tesniyede ن kesralı, önü fetha+sükûnlu ي'dir!)."
+      ],
+      "ornekler": [
+        { "ar": "هٰذَانِ كِتَابَانِ جَدِيدَانِ.", "okunus": "Hâzâni kitâbâni cedîdâni.", "tr": "Bunlar iki yeni kitaptır.", "not": "İşaret, isim ve sıfat üçü de ref hâlinde ـَانِ alır." },
+        { "ar": "قَرَأْتُ كِتَابَيْنِ مُفِيدَيْنِ هٰذَا الْأُسْبُوعَ.", "okunus": "Kara'tu kitâbeyni mufîdeyni hâze'l-usbû‘a.", "tr": "Bu hafta iki faydalı kitap okudum.", "not": "Nesne (mansub) olduğu için ـَيْنِ kullanılır." },
+        { "ar": "فِي الصَّفِّ طَالِبَتَانِ مُجْتَهِدَتَانِ.", "okunus": "Fi's-saffi tâlibetâni muctehidetâni.", "tr": "Sınıfta iki çalışkan kız öğrenci vardır.", "not": "ة açılıp ت oldu: طَالِبَتَانِ." },
+        { "ar": "سَافَرْتُ إِلَى مَدِينَتَيْنِ جَمِيلَتَيْنِ.", "okunus": "Sâfertu ilâ medîneteyni cemîleteyni.", "tr": "İki güzel şehre yolculuk yaptım.", "not": "إِلَى harf-i cerinden sonra cer hâli ـَيْنِ gelir." },
+        { "ar": "عِنْدِي قَلَمَانِ وَدَفْتَرَانِ فِي الْحَقِيبَةِ.", "okunus": "‘İndî kalemâni ve defterâni fi'l-hakîbeti.", "tr": "Çantada iki kalemim ve iki defterim var.", "not": "'İki' sayısı eklemeden doğrudan ikil isimle ifade edilir." },
+        { "ar": "دَخَلَ الْمُعَلِّمَانِ قَاعَةَ الدَّرْسِ.", "okunus": "Dehale'l-mu‘allimâni kâ‘ate'd-dersi.", "tr": "İki öğretmen dersliğe girdi.", "not": "Fâil (özne) merfû olduğu için ـَانِ alır." }
+      ],
+      "tatbikler": [
+        { "id": "m03_g3_d1", "tip": "bosluk", "soru": "Arapçada çoğul (Cemi) kaç varlıktan itibaren başlar?", "secenekler": ["2'den itibaren", "3 ve daha fazlasından itibaren", "4'ten itibaren", "10'dan itibaren"], "dogruIndeks": 1, "aciklama": "Arapçada 1 Müfred, 2 Tesniye (İkil), 3 ve üzeri Cemi (Çoğul) olarak sınıflanır." },
+        { "id": "m03_g3_d2", "tip": "donusturme", "soru": "مَدْرَسَةٌ (okul) kelimesinin ref hâlindeki ikili (iki okul) hangisidir?", "secenekler": ["مَدْرَسَاتٌ", "مَدْرَسَتَانِ", "مَدْرَسَةَانِ", "مَدَارِسُ"], "dogruIndeks": 1, "aciklama": "Kapalı ة açık ت olur ve ـَانِ eklenir: مَدْرَسَتَانِ." },
+        { "id": "m03_g3_d3", "tip": "bosluk", "soru": "اِشْتَرَيْتُ ....... (iki kalem aldım) boşluğuna hangisi gelmelidir?", "secenekler": ["قَلَمَانِ", "قَلَمَيْنِ", "قَلَمُونَ", "أَقْلَامٌ"], "dogruIndeks": 1, "aciklama": "Nesne (mef'ûlün bih) mansub olduğu için tesniye ـَيْنِ alır: قَلَمَيْنِ." },
+        { "id": "m03_g3_d4", "tip": "bosluk", "soru": "ذَهَبْتُ إِلَى ....... (iki şehre gittim) boşluğuna hangisi gelmelidir?", "secenekler": ["مَدِينَتَانِ", "مَدِينَتَيْنِ", "مَدِينَتُونَ", "مَدِينَةً"], "dogruIndeks": 1, "aciklama": "إِلَى harf-i cerinden sonra mecrûr hâli ـَيْنِ kullanılır." },
+        { "id": "m03_g3_d5", "tip": "hata_bul", "soru": "'فِي الْغُرْفَةِ نَافِذَتَيْنِ كَبِيرَتَانِ' cümlesindeki hata nedir?", "secenekler": ["İkisi de ref hâlinde (نَافِذَتَانِ كَبِيرَتَانِ) olmalıdır", "نَافِذَةٌ erildir", "فِي kaldırılmalı", "Çoğul olmalı"], "dogruIndeks": 0, "aciklama": "Sona kalmış mübtedâ merfûdur; نَافِذَتَانِ كَبِيرَتَانِ olmalıdır." },
+        { "id": "m03_g3_d6", "tip": "donusturme", "soru": "طَالِبٌ جَدِيدٌ (yeni bir öğrenci) tamlamasının merfû ikili hangisidir?", "secenekler": ["طَالِبَانِ جَدِيدَانِ", "طَالِبَيْنِ جَدِيدَيْنِ", "طَالِبَانِ جَدِيدٌ", "طُلَّابٌ جُدُدٌ"], "dogruIndeks": 0, "aciklama": "Hem isim hem sıfat ـَانِ alır: طَالِبَانِ جَدِيدَانِ." },
+        { "id": "m03_g3_d7", "tip": "bosluk", "soru": "Tesniye ekinin sonundaki ن harfinin harekesi daima nedir?", "secenekler": ["Fetha (نَ)", "Kesra (نِ)", "Damme (نُ)", "Sükûn (نْ)"], "dogruIndeks": 1, "aciklama": "Tesniyede ن daima kesralıdır (ـَانِ / ـَيْنِ); Cemi Müzekkerde ise fethalıdır (ـُونَ / ـِينَ)." },
+        { "id": "m03_g3_d8", "tip": "tr_ar", "soru": "'İki öğretmen sınıfa girdi' cümlesinin doğru Arapçası hangisidir?", "secenekler": ["دَخَلَ الْمُعَلِّمَيْنِ الصَّفَّ", "دَخَلَ الْمُعَلِّمَانِ الصَّفَّ", "دَخَلَ الْمُعَلِّمُونَ الصَّفَّ", "دَخَلَ الْمُعَلِّمُ الصَّفَّ"], "dogruIndeks": 1, "aciklama": "Fâil (özne) merfû olduğu için الْمُعَلِّمَانِ gelir." },
+        { "id": "m03_g3_d9", "tip": "hata_bul", "soru": "Aşağıdaki kelimelerden hangisi tesniye (ikil) DEĞİLDİR?", "secenekler": ["بَيْتَانِ", "بَابَيْنِ", "مُعَلِّمِينَ", "دَرْسَانِ"], "dogruIndeks": 2, "aciklama": "مُعَلِّمِينَ (-îne) düzenli eril çoğuldur; ikili مُعَلِّمَيْنِ (-eyni) şeklindedir." },
+        { "id": "m03_g3_d10", "tip": "tr_ar", "soru": "'İki yeni defterim var' cümlesinin doğru Arapçası hangisidir?", "secenekler": ["عِنْدِي دَفْتَرَانِ جَدِيدَانِ", "عِنْدِي دَفْتَرَيْنِ جَدِيدَيْنِ", "عِنْدِي دَفَاتِرُ جَدِيدَةٌ", "عِنْدِي دَفْتَرٌ جَدِيدٌ"], "dogruIndeks": 0, "aciklama": "عِنْدِي sonrası mübtedâ merfûdur: دَفْتَرَانِ جَدِيدَانِ." }
+      ]
+    },
+    {
+      "id": "m03_g4",
+      "baslik": "Düzenli Çoğullar: Cemi Müzekker Sâlim (ـُونَ / ـِينَ) ve Cemi Müennes Sâlim (ـَاتٌ)",
+      "arBaslik": "جَمْعُ الْمُذَكَّرِ السَّالِمِ وَجَمْعُ الْمُؤَنَّثِ السَّالِمِ",
+      "mantik": "Arapçada 'Sâlim' (sağlam/düzenli) çoğul demek, tekil kelimenin gövdesi hiç bozulmadan sadece sonuna standart bir ek getirilmesi demektir! İki türü vardır:\n1) CEMİ MÜZEKKER SÂLİM: Yalnızca akıllı erkek insanlar (veya onların sıfatları) için kullanılır! Sona ref durumunda 'ـُونَ' (-ûne), nasb/cer durumunda 'ـِينَ' (-îne) eklenir (مُعَلِّمٌ → مُعَلِّمُونَ / مُعَلِّمِينَ). Cansız erkek isimler (قَلَمٌ، بَيْتٌ) ASLA ـُونَ almaz!\n2) CEMİ MÜENNES SÂLİM: Hem akıllı kadın isimleri (طَالِبَةٌ → طَالِبَاتٌ) hem de ة ile biten çoğu cansız isim (سَيَّارَةٌ → سَيَّارَاتٌ، حَرَكَةٌ → حَرَكَاتٌ) için kullanılır! Kapalı ة düşer ve yerine 'ـَاتٌ' (-âtun) gelir. Altın ipucu: Cemi Müennes Sâlim nesne (mansub) olduğunda bile ASLA fetha almaz; kesra (ـَاتٍ / ـَاتِ) alır!",
+      "formul": "Eril Düzenli (Sadece Akıllı): + ـُونَ (Ref) / + ـِينَ (Nasb/Cer) | Dişil Düzenli: ة sil + ـَاتٌ (Ref) / ـَاتٍ (Nasb & Cer!)",
+      "formulAr": "مُعَلِّمُونَ / مُعَلِّمِينَ | مُعَلِّمَاتٌ / مُعَلِّمَاتٍ",
+      "tablo": {
+        "baslik": "Düzenli Eril ve Dişil Çoğul Karşılaştırması",
+        "sutunlar": ["Çoğul Türü", "Tekil", "Ref (Özne)", "Nasb (Nesne)", "Cer (Harf-i Cer)"],
+        "satirlar": [
+          { "hucreler": ["Cemi Müzekker Sâlim", "مُعَلِّمٌ", "مُعَلِّمُونَ", "مُعَلِّمِينَ", "مُعَلِّمِينَ"], "ses": "مُعَلِّمُونَ مُعَلِّمِينَ" },
+          { "hucreler": ["Cemi Müzekker Sâlim", "مُهَنْدِسٌ", "مُهَنْدِسُونَ", "مُهَنْدِسِينَ", "مُهَنْدِسِينَ"], "ses": "مُهَنْدِسُونَ مُهَنْدِسِينَ" },
+          { "hucreler": ["Cemi Müennes Sâlim (İnsan)", "طَالِبَةٌ", "طَالِبَاتٌ", "طَالِبَاتٍ (Kesra!)", "طَالِبَاتٍ"], "ses": "طَالِبَاتٌ طَالِبَاتٍ" },
+          { "hucreler": ["Cemi Müennes Sâlim (Cansız)", "سَيَّارَةٌ", "سَيَّارَاتٌ", "سَيَّارَاتٍ (Kesra!)", "سَيَّارَاتٍ"], "ses": "سَيَّارَاتٌ سَيَّارَاتٍ" },
+          { "hucreler": ["Cemi Müennes Sâlim (Akademik)", "كَلِمَةٌ", "كَلِمَاتٌ", "كَلِمَاتٍ (Kesra!)", "كَلِمَاتٍ"], "ses": "كَلِمَاتٌ كَلِمَاتٍ" }
+        ]
+      },
+      "trKiyas": "Türkçede her kelimeye '-lar/-ler' ekleriz. Arapçada ise Cemi Müzekker Sâlim'in 'yalnızca akıllı erkeklere özel kulüp' olduğunu unutmayın: مُدَرِّسُونَ (öğretmenler), مُسْلِمُونَ (Müslümanlar) olur ama كِتَابُونَ veya قَلَمُونَ diye bir kelime yoktur! Ayrıca Cemi Müennes Sâlim'in nasb hâlinde fetha değil KESRA alması (رَأَيْتُ الطَّالِبَاتِ) sınavlarda en sık sorulan i'rab tuzaklarındandır.",
+      "sikHatalar": [
+        "Cansız isimlere ـُونَ eklemek (كِتَابُونَ / بَيْتُونَ YANLIŞ — cansızlar kırık çoğul veya ـَاتٌ olur).",
+        "Cemi Müennes Sâlim'i nesne yapınca fetha koymak (قَرَأْتُ كَلِمَاتً YANLIŞ → doğrusu قَرَأْتُ كَلِمَاتٍ!).",
+        "مَسَاكِينُ (yoksullar) veya شَيَاطِينُ kelimelerini ـِينَ ile bittiği için düzenli eril çoğul sanmak — bunlar kırık çoğuldur!"
+      ],
+      "ornekler": [
+        { "ar": "الْمُعَلِّمُونَ مُجْتَهِدُونَ وَالْمُعَلِّمَاتُ مُجْتَهِدَاتٌ.", "okunus": "El-mu‘allimûne muctehidûne ve'l-mu‘allimâtu muctehidâtun.", "tr": "Erkek öğretmenler çalışkandır ve kadın öğretmenler çalışkandır.", "not": "Her iki düzenli çoğul ref hâlinde." },
+        { "ar": "رَأَيْتُ الْمُهَنْدِسِينَ فِي الشَّرِكَةِ.", "okunus": "Reeytu'l-muhendisîne fi'ş-şeriketi.", "tr": "Mühendisleri şirkette gördüm.", "not": "Nesne (mansub) → ـِينَ." },
+        { "ar": "شَكَرَ الْمُدِيرُ الطَّالِبَاتِ الْمُتَفَوِّقَاتِ.", "okunus": "Şekera'l-mudîru't-tâlibâti'l-mutefevvikâti.", "tr": "Müdür başarılı kız öğrencilere teşekkür etti.", "not": "Cemi Müennes Sâlim nesne olmasına rağmen KESRA (ـِ) aldı!" },
+        { "ar": "حَفِظْتُ كَلِمَاتٍ جَدِيدَةً الْيَوْمَ.", "okunus": "Hafiztu kelimâtin cedîdeten el-yevme.", "tr": "Bugün yeni kelimeler ezberledim.", "not": "كَلِمَاتٍ cansız çoğul olduğu için sıfatı tekil müennes (جَدِيدَةً) gelir!" },
+        { "ar": "سَلَّمْتُ عَلَى الْمُوَظَّفِينَ فِي الْمَكْتَبِ.", "okunus": "Sellemtu ‘ale'l-muvazzafîne fi'l-mektebi.", "tr": "Ofisteki memurlara selam verdim.", "not": "عَلَى harf-i cerinden sonra mecrûr → ـِينَ." },
+        { "ar": "فِي الْمَدِينَةِ جَامِعَاتٌ وَمَكْتَبَاتٌ كَثِيرَةٌ.", "okunus": "Fi'l-medîneti câmi‘âtun ve mektebâtun kesîratun.", "tr": "Şehirde pek çok üniversite ve kütüphane vardır.", "not": "جَامِعَاتٌ ve مَكْتَبَاتٌ cansız düzenli dişil çoğuldur." }
+      ],
+      "tatbikler": [
+        { "id": "m03_g4_d1", "tip": "bosluk", "soru": "Cemi Müzekker Sâlim (ـُونَ / ـِينَ) hangi varlıklar için kullanılır?", "secenekler": ["Tüm isimler için", "Yalnızca akıllı erkek insanlar ve onların sıfatları için", "Yalnızca cansız eşyalar için", "Yalnızca yer adları için"], "dogruIndeks": 1, "aciklama": "Cansız isimler Cemi Müzekker Sâlim yapılamaz." },
+        { "id": "m03_g4_d2", "tip": "hata_bul", "soru": "'قَرَأْتُ الصَّفَحَاتَ الْأُولَى' cümlesindeki i'rab hatası nedir?", "secenekler": ["الصَّفَحَاتِ (kesra ile mansub) olmalıdır; Cemi Müennes Sâlim fetha almaz!", "قَرَأْتُ yanlıştır", "الْأُولَى kaldırılmalı", "الصَّفَحَاتُونَ olmalı"], "dogruIndeks": 0, "aciklama": "Cemi Müennes Sâlim nasb (nesne) hâlinde kesra ile mansub olur: الصَّفَحَاتِ." },
+        { "id": "m03_g4_d3", "tip": "donusturme", "soru": "مُوَظَّفٌ (memur) kelimesinin harf-i cer sonrası (mecrûr) düzenli çoğulu hangisidir?", "secenekler": ["مُوَظَّفُونَ", "مُوَظَّفِينَ", "مُوَظَّفَانِ", "مُوَظَّفَاتٌ"], "dogruIndeks": 1, "aciklama": "Cemi Müzekker Sâlim cer hâlinde ـِينَ alır." },
+        { "id": "m03_g4_d4", "tip": "donusturme", "soru": "سَيَّارَةٌ (araba) kelimesinin düzenli dişil çoğulu hangisidir?", "secenekler": ["سَيَّارُونَ", "سَيَّارَاتٌ", "سَيَّارَتَانِ", "سَيَّارِينَ"], "dogruIndeks": 1, "aciklama": "ة düşer ve ـَاتٌ eklenir: سَيَّارَاتٌ." },
+        { "id": "m03_g4_d5", "tip": "bosluk", "soru": "شَكَرَ الْأُسْتَاذُ ....... (çalışkan erkek öğrencilere/araştırmacılara — مُجْتَهِد) boşluğuna hangisi gelir?", "secenekler": ["الْمُجْتَهِدُونَ", "الْمُجْتَهِدِينَ", "الْمُجْتَهِدَانِ", "الْمُجْتَهِدَاتُ"], "dogruIndeks": 1, "aciklama": "Fiilin nesnesi (mansub) olduğu için ـِينَ gelir." },
+        { "id": "m03_g4_d6", "tip": "hata_bul", "soru": "Aşağıdaki çoğul yapımlardan hangisi KESİNLİKLE YANLIŞTIR?", "secenekler": ["مُعَلِّمُونَ", "مُهَنْدِسَاتٌ", "كِتَابُونَ", "جَامِعَاتٌ"], "dogruIndeks": 2, "aciklama": "كِتَابٌ cansız isimdir, ـُونَ alamaz; kırık çoğulu كُتُبٌ şeklindedir." },
+        { "id": "m03_g4_d7", "tip": "bosluk", "soru": "Cemi Müzekker Sâlim'in sonundaki ن harfinin harekesi daima nedir?", "secenekler": ["Kesra (نِ)", "Fetha (نَ)", "Damme (نُ)", "Sükûn (نْ)"], "dogruIndeks": 1, "aciklama": "مُعَلِّمُونَ / مُعَلِّمِينَ — ن daima fethalıdır (tesniyede ise kesralıdır)." },
+        { "id": "m03_g4_d8", "tip": "tr_ar", "soru": "'Kadın doktorlar hastanededir' cümlesinin doğru Arapçası hangisidir?", "secenekler": ["الطَّبِيبَاتُ فِي الْمُسْتَشْفَى", "الطَّبِيبُونَ فِي الْمُسْتَشْفَى", "الطَّبِيبَتَانِ فِي الْمُسْتَشْفَى", "الطَّبِيبَةُ فِي الْمُسْتَشْفَى"], "dogruIndeks": 0, "aciklama": "طَبِيبَةٌ → الطَّبِيبَاتُ (ref hâli damme ile)." },
+        { "id": "m03_g4_d9", "tip": "donusturme", "soru": "حَفِظَ الطَّالِبُ ....... (yeni kelimeler) boşluğuna hangisi doğru yerleşir?", "secenekler": ["كَلِمَاتًا جَدِيدَةً", "كَلِمَاتٍ جَدِيدَةً", "كَلِمَاتٌ جَدِيدَةٌ", "كَلِمَاتُونَ جَدِيدَةً"], "dogruIndeks": 1, "aciklama": "كَلِمَاتٍ kesra tenvîniyle mansub olur; sıfatı جَدِيدَةً normal fetha tenvîni alır." },
+        { "id": "m03_g4_d10", "tip": "bosluk", "soru": "Aşağıdaki cümlelerden hangisinde Cemi Müzekker Sâlim REF (özne) hâlindedir?", "secenekler": ["جَاءَ الْمُهَنْدِسُونَ", "رَأَيْتُ الْمُهَنْدِسِينَ", "مَرَرْتُ بِالْمُهَنْدِسِينَ", "سَأَلْتُ الْمُهَنْدِسِينَ"], "dogruIndeks": 0, "aciklama": "جَاءَ الْمُهَنْدِسُونَ cümlesinde mühendisler fâil (özne) olduğu için vâv (ـُونَ) ile merfûdur." }
+      ]
+    },
+    {
+      "id": "m03_g5",
+      "baslik": "Cemi Teksir (Kırık Çoğul) Mantığı ve Akılsız Çoğulun Altın Kuralı",
+      "arBaslik": "جَمْعُ التَّكْسِيرِ وَقَاعِدَةُ جَمْعِ غَيْرِ الْعَاقِلِ",
+      "mantik": "Arapçada isimlerin çok büyük bir kısmı sonuna ek alarak değil, kelimenin İÇ YAPISI KIRILIP yeniden şekillenerek çoğul olur — tıpkı İngilizcedeki 'man → men, foot → feet' gibi! Buna CEMİ TEKSİR (Kırık Çoğul) denir: كِتَابٌ → كُتُبٌ, قَلَمٌ → أَقْلَامٌ, بَيْتٌ → بُيُوتٌ, طَالِبٌ → طُلَّابٌ, مَدْرَسَةٌ → مَدَارِسُ. Kırık çoğulları öğrenmenin en akıllı yolu her yeni isimle birlikte çoğulunu da bir çift olarak (كِتَاب / كُتُب) kaydetmektir — zaten SRS kartlarımızda bunu otomatik veriyoruz!\nVE ŞİMDİ ARAPÇANIN EN HAYATİ ALTIN KURALI: Akılsız (insan dışındaki) TÜM çoğullar — ister kırık çoğul (كُتُبٌ، أَقْلَامٌ، بُيُوتٌ) ister düzenli dişil çoğul (سَيَّارَاتٌ، كَلِمَاتٌ) olsun — dilbilgisinde **TEKİL MÜENNES (هِيَ / هٰذِهِ)** hükmündedir! Bu yüzden 'Bu kitaplar yenidir' derken 'هٰذِهِ الْكُتُبُ جَدِيدَةٌ' denir!",
+      "formul": "Akılsız Çoğul (كُتُبٌ / أَقْلَامٌ / سَيَّارَاتٌ) = TEKİL MÜENNES Hükmü (هٰذِهِ + جَدِيدَةٌ + هِيَ)",
+      "formulAr": "هٰذِهِ كُتُبٌ جَدِيدَةٌ · هٰذِهِ أَقْلَامٌ جَمِيلَةٌ",
+      "tablo": {
+        "baslik": "En Yaygın 5 Cemi Teksir Vezni ve Akılsız Çoğul Uyumu",
+        "sutunlar": ["Kırık Çoğul Vezni", "Tekil → Çoğul", "Anlam", "Tekil Müennes Sıfatla Kullanım"],
+        "satirlar": [
+          { "hucreler": ["أَفْعَالٌ", "قَلَمٌ ← أَقْلَامٌ · بَابٌ ← أَبْوَابٌ", "kalemler / kapılar", "أَقْلَامٌ جَدِيدَةٌ (yeni kalemler)"], "ses": "أَقْلَامٌ جَدِيدَةٌ" },
+          { "hucreler": ["فُعُولٌ", "بَيْتٌ ← بُيُوتٌ · دَرْسٌ ← دُرُوسٌ", "evler / dersler", "دُرُوسٌ مُفِيدَةٌ (faydalı dersler)"], "ses": "دُرُوسٌ مُفِيدَةٌ" },
+          { "hucreler": ["فُعُلٌ", "كِتَابٌ ← كُتُبٌ · مَدِينَةٌ ← مُدُنٌ", "kitaplar / şehirler", "كُتُبٌ كَثِيرَةٌ (pek çok kitap)"], "ses": "كُتُبٌ كَثِيرَةٌ" },
+          { "hucreler": ["فُعَّالٌ", "طَالِبٌ ← طُلَّابٌ · عَامِلٌ ← عُمَّالٌ", "öğrenciler / işçiler", "طُلَّابٌ مُجْتَهِدُونَ (Akıllı → çoğul!)"], "ses": "طُلَّابٌ مُجْتَهِدُونَ" },
+          { "hucreler": ["مَفَاعِلُ", "مَدْرَسَةٌ ← مَدَارِسُ · مَكْتَبٌ ← مَكَاتِبُ", "okullar / ofisler", "مَدَارِسُ حَدِيثَةٌ (modern okullar)"], "ses": "مَدَارِسُ حَدِيثَةٌ" }
+        ]
+      },
+      "trKiyas": "Türkçede 'yeni kitaplar' dediğimizde 'yeni' değişmez. Arapçada ise insan çoğuluyla cansız çoğul keskin biçimde ayrılır: 'çalışkan öğrenciler' (insan) = طُلَّابٌ مُجْتَهِدُونَ (çoğul sıfat), ama 'faydalı kitaplar' (cansız) = كُتُبٌ مُفِيدَةٌ (TEKİL MÜENNES sıfat!). Bu kural YDS/YÖKDİL metinlerinin her paragrafında en az 3-4 kez karşınıza çıkar.",
+      "sikHatalar": [
+        "Cansız çoğullara çoğul sıfat veya çoğul işaret ismi vermek (هٰؤُلَاءِ الْكُتُبُ YANLIŞ → doğrusu هٰذِهِ الْكُتُبُ!).",
+        "İnsan kırık çoğullarını (طُلَّابٌ، رِجَالٌ، أَطِبَّاءُ) cansız sanıp tekil müennes sıfat vermek (طُلَّابٌ مُجْتَهِدَةٌ YANLIŞ → doğrusu طُلَّابٌ مُجْتَهِدُونَ).",
+        "مَدَارِسُ ve مَكَاتِبُ gibi مَفَاعِلُ veznindeki kırık çoğullara tenvîn koymak — bunlar gayr-i munsariftir, tenvîn almazlar!"
+      ],
+      "ornekler": [
+        { "ar": "هٰذِهِ الْكُتُبُ مُفِيدَةٌ وَمُهِمَّةٌ جِدًّا.", "okunus": "Hâzihi'l-kutubu mufîdetun ve muhimmetun cidden.", "tr": "Bu kitaplar çok faydalı ve önemlidir.", "not": "كُتُب akılsız çoğul → هٰذِهِ + مُفِيدَةٌ (tekil müennes!)." },
+        { "ar": "تِلْكَ الْمُدُنُ الْقَدِيمَةُ جَمِيلَةٌ.", "okunus": "Tilke'l-mudunu'l-kadîmetu cemîletun.", "tr": "Şu eski şehirler güzeldir.", "not": "مُدُن akılsız çoğul → تِلْكَ + الْقَدِيمَةُ + جَمِيلَةٌ." },
+        { "ar": "أَبْوَابُ الْمَدْرَسَةِ مَفْتُوحَةٌ صَبَاحًا.", "okunus": "Ebvâbu'l-medreseti meftûhatun sabâhan.", "tr": "Okulun kapıları sabahleyin açıktır.", "not": "أَبْوَاب (kapılar) → haberi مَفْتُوحَةٌ (tekil müennes)." },
+        { "ar": "الطُّلَّابُ مُجْتَهِدُونَ وَالدُّرُوسُ وَاضِحَةٌ.", "okunus": "Et-tullâbu muctehidûne ve'd-durûsu vâdihatun.", "tr": "Öğrenciler çalışkandır ve dersler açıktır.", "not": "Aynı cümlede akıllı çoğul (مُجْتَهِدُونَ) vs. akılsız çoğul (وَاضِحَةٌ)!" },
+        { "ar": "فِي بَلَدِنَا مَدَارِسُ حَدِيثَةٌ وَجَامِعَاتٌ كَبِيرَةٌ.", "okunus": "Fî beledenâ medârisu hadîsetun ve câmi‘âtun kebîratun.", "tr": "Ülkemizde modern okullar ve büyük üniversiteler vardır.", "not": "مَدَارِسُ tenvîn almaz, sıfatı tekil müennestir." },
+        { "ar": "الْأَقْلَامُ الْمُلَوَّنَةُ عَلَى الْمَكْتَبِ.", "okunus": "El-eklâmu'l-mulevvenetu ‘ale'l-mektebi.", "tr": "Renkli kalemler masanın üzerindedir.", "not": "أَقْلَام akılsız çoğul → الْمُلَوَّنَةُ." }
+      ],
+      "tatbikler": [
+        { "id": "m03_g5_d1", "tip": "bosluk", "soru": "Arapçada akılsız (insan dışı) çoğullar dilbilgisinde hangi hükme sahiptir?", "secenekler": ["Çoğul müzekker", "Tekil müennes (هِيَ / هٰذِهِ)", "İkil müzekker", "Tekil müzekker"], "dogruIndeks": 1, "aciklama": "Tüm akılsız çoğullar tekil müennes kabul edilir." },
+        { "id": "m03_g5_d2", "tip": "bosluk", "soru": "هٰذِهِ الْكُتُبُ ....... (faydalıdır) boşluğuna hangisi gelmelidir?", "secenekler": ["مُفِيدُونَ", "مُفِيدٌ", "مُفِيدَةٌ", "مُفِيدَانِ"], "dogruIndeks": 2, "aciklama": "الْكُتُبُ akılsız çoğul olduğu için haberi tekil müennes (مُفِيدَةٌ) gelir." },
+        { "id": "m03_g5_d3", "tip": "hata_bul", "soru": "'هٰؤُلَاءِ الْأَقْلَامُ جَدِيدُونَ' cümlesinin doğru hâli hangisidir?", "secenekler": ["هٰذِهِ الْأَقْلَامُ جَدِيدَةٌ", "هٰذَا الْأَقْلَامُ جَدِيدٌ", "هٰؤُلَاءِ الْأَقْلَامُ جَدِيدَةٌ", "هٰذِهِ الْأَقْلَامُ جَدِيدُونَ"], "dogruIndeks": 0, "aciklama": "أَقْلَام akılsız çoğul olduğundan hem işaret ismi (هٰذِهِ) hem haber (جَدِيدَةٌ) tekil müennes olur." },
+        { "id": "m03_g5_d4", "tip": "donusturme", "soru": "بَيْتٌ (ev) ve دَرْسٌ (ders) kelimelerinin kırık çoğulları sırasıyla hangisidir?", "secenekler": ["بُيُوتٌ – دُرُوسٌ", "بَيْتُونَ – دَرْسُونَ", "أَبْيَاتٌ – مَدَارِسُ", "بَيْتَاتٌ – دَرْسَاتٌ"], "dogruIndeks": 0, "aciklama": "بَيْتٌ → بُيُوتٌ, دَرْسٌ → دُرُوسٌ (فُعُولٌ vezni)." },
+        { "id": "m03_g5_d5", "tip": "bosluk", "soru": "الطُّلَّابُ ....... (çalışkandırlar) boşluğuna hangisi gelmelidir?", "secenekler": ["مُجْتَهِدَةٌ", "مُجْتَهِدُونَ", "مُجْتَهِدٌ", "مُجْتَهِدَانِ"], "dogruIndeks": 1, "aciklama": "الطُّلَّابُ akıllı (insan) erkek çoğuludur; haberi çoğul (مُجْتَهِدُونَ) olur!" },
+        { "id": "m03_g5_d6", "tip": "tr_ar", "soru": "'Eski şehirler güzeldir' cümlesinin doğru Arapçası hangisidir?", "secenekler": ["الْمُدُنُ الْقَدِيمَةُ جَمِيلَةٌ", "الْمُدُنُ الْقَدِيمُونَ جَمِيلُونَ", "الْمُدُنُ الْقَدِيمُ جَمِيلٌ", "الْمَدِينَةُ الْقَدِيمَةُ جَمِيلَةٌ"], "dogruIndeks": 0, "aciklama": "الْمُدُنُ akılsız çoğul → sıfatı ve haberi tekil müennes." },
+        { "id": "m03_g5_d7", "tip": "donusturme", "soru": "مَدْرَسَةٌ (okul) kelimesinin kırık çoğulu hangisidir?", "secenekler": ["مَدْرَسُونَ", "مَدَارِسُ", "دُرُوسٌ", "مُدَرِّسُونَ"], "dogruIndeks": 1, "aciklama": "مَدْرَسَةٌ → مَدَارِسُ (مَفَاعِلُ vezni, tenvînsiz)." },
+        { "id": "m03_g5_d8", "tip": "bosluk", "soru": "Aşağıdaki kelimelerden hangisi KIRIK ÇOĞUL (Cemi Teksir) DEĞİLDİR?", "secenekler": ["كُتُبٌ", "أَقْلَامٌ", "بُيُوتٌ", "مُهَنْدِسُونَ"], "dogruIndeks": 3, "aciklama": "مُهَنْدِسُونَ düzenli eril çoğuldur (Cemi Müzekker Sâlim)." },
+        { "id": "m03_g5_d9", "tip": "hata_bul", "soru": "Aşağıdaki tamlamalardan hangisi DOĞRUDUR?", "secenekler": ["أَبْوَابٌ مَفْتُوحٌ", "دُرُوسٌ سَهْلَةٌ", "كُتُبٌ كَبِيرُونَ", "سَيَّارَاتٌ جَدِيدٌ"], "dogruIndeks": 1, "aciklama": "دُرُوسٌ akılsız çoğul + سَهْلَةٌ tekil müennes sıfat = tamamen doğrudur!" },
+        { "id": "m03_g5_d10", "tip": "tr_ar", "soru": "'Sınıfın pencereleri açıktır' cümlesinin doğru Arapçası hangisidir?", "secenekler": ["نَوَافِذُ الصَّفِّ مَفْتُوحَةٌ", "نَوَافِذُ الصَّفِّ مَفْتُوحٌ", "نَوَافِذُ الصَّفِّ مَفْتُوحُونَ", "نَافِذَةُ الصَّفِّ مَفْتُوحَاتٌ"], "dogruIndeks": 0, "aciklama": "نَوَافِذُ (pencereler) akılsız çoğul olduğu için haberi مَفْتُوحَةٌ olur." }
+      ]
+    }
+  ],
+  "workshop": {
+    "motors": [
+      {
+        "id": "m03_wm1",
+        "baslik": "Müzekker vs. Müennes İsim Cümlesi Motoru",
+        "formul": "İşaret + İsim (E/K) + Uyumlu Sıfat",
+        "slotlar": [
+          {
+            "etiket": "1. Müennes İşaret",
+            "secenekler": [
+              { "ar": "هٰذِهِ", "okunus": "Hâzihî", "tr": "Bu (K)" },
+              { "ar": "تِلْكَ", "okunus": "Tilke", "tr": "Şu (K)" },
+              { "ar": "هُنَا", "okunus": "Hunâ", "tr": "Burada" },
+              { "ar": "هُنَاكَ", "okunus": "Hunâke", "tr": "Orada" },
+              { "ar": "عِنْدِي", "okunus": "‘İndî", "tr": "Bende var" },
+              { "ar": "فِي الْمَدِينَةِ", "okunus": "Fi'l-medîneti", "tr": "Şehirde var" }
+            ]
+          },
+          {
+            "etiket": "2. Müennes İsim",
+            "secenekler": [
+              { "ar": "مَدْرَسَةٌ", "okunus": "medresetun", "tr": "bir okul" },
+              { "ar": "غُرْفَةٌ", "okunus": "gurfetun", "tr": "bir oda" },
+              { "ar": "سَيَّارَةٌ", "okunus": "seyyâratun", "tr": "bir araba" },
+              { "ar": "دَارٌ", "okunus": "dârun", "tr": "bir yurt/ev" },
+              { "ar": "طَالِبَةٌ", "okunus": "tâlibetun", "tr": "bir kız öğrenci" },
+              { "ar": "مَكْتَبَةٌ", "okunus": "mektebetun", "tr": "bir kütüphane" }
+            ]
+          },
+          {
+            "etiket": "3. Müennes Sıfat",
+            "secenekler": [
+              { "ar": "كَبِيرَةٌ", "okunus": "kebîratun", "tr": "büyük" },
+              { "ar": "جَدِيدَةٌ", "okunus": "cedîdetun", "tr": "yeni" },
+              { "ar": "جَمِيلَةٌ", "okunus": "cemîletun", "tr": "güzel" },
+              { "ar": "وَاسِعَةٌ", "okunus": "vâsi‘atun", "tr": "geniş" },
+              { "ar": "نَظِيفَةٌ", "okunus": "nazîfetun", "tr": "temiz" },
+              { "ar": "حَدِيثَةٌ", "okunus": "hadîsetun", "tr": "modern" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m03_wm2",
+        "baslik": "Tesniye (İkil — Ref) Cümle Motoru",
+        "formul": "İşaret/Yer + İkil İsim (ـَانِ) + İkil Sıfat (ـَانِ)",
+        "slotlar": [
+          {
+            "etiket": "1. Başlangıç",
+            "secenekler": [
+              { "ar": "هٰذَانِ", "okunus": "Hâzâni", "tr": "Bu ikisi" },
+              { "ar": "فِي الصَّفِّ", "okunus": "Fi's-saffi", "tr": "Sınıfta" },
+              { "ar": "عِنْدِي", "okunus": "‘İndî", "tr": "Bende var" },
+              { "ar": "عَلَى الْمَكْتَبِ", "okunus": "‘Ale'l-mektebi", "tr": "Masada" },
+              { "ar": "هُنَا", "okunus": "Hunâ", "tr": "Burada" },
+              { "ar": "فِي الْحَقِيبَةِ", "okunus": "Fi'l-hakîbeti", "tr": "Çantada" }
+            ]
+          },
+          {
+            "etiket": "2. İkil İsim (ـَانِ)",
+            "secenekler": [
+              { "ar": "كِتَابَانِ", "okunus": "kitâbâni", "tr": "iki kitap" },
+              { "ar": "قَلَمَانِ", "okunus": "kalemâni", "tr": "iki kalem" },
+              { "ar": "دَفْتَرَانِ", "okunus": "defterâni", "tr": "iki defter" },
+              { "ar": "طَالِبَانِ", "okunus": "tâlibâni", "tr": "iki öğrenci" },
+              { "ar": "مُعَلِّمَانِ", "okunus": "mu‘allimâni", "tr": "iki öğretmen" },
+              { "ar": "مَكْتَبَانِ", "okunus": "mektebâni", "tr": "iki masa" }
+            ]
+          },
+          {
+            "etiket": "3. İkil Sıfat (ـَانِ)",
+            "secenekler": [
+              { "ar": "جَدِيدَانِ", "okunus": "cedîdâni", "tr": "yeni" },
+              { "ar": "كَبِيرَانِ", "okunus": "kebîrâni", "tr": "büyük" },
+              { "ar": "مُفِيدَانِ", "okunus": "mufîdâni", "tr": "faydalı" },
+              { "ar": "جَمِيلَانِ", "okunus": "cemîlâni", "tr": "güzel" },
+              { "ar": "مُجْتَهِدَانِ", "okunus": "muctehidâni", "tr": "çalışkan" },
+              { "ar": "نَظِيفَانِ", "okunus": "nazîfâni", "tr": "temiz" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m03_wm3",
+        "baslik": "Tesniye (İkil — Nesne / ـَيْنِ) Motoru",
+        "formul": "Fiil + İkil Nesne (ـَيْنِ) + İkil Sıfat (ـَيْنِ)",
+        "slotlar": [
+          {
+            "etiket": "1. Fiil",
+            "secenekler": [
+              { "ar": "قَرَأْتُ", "okunus": "Kara'tu", "tr": "Okudum" },
+              { "ar": "اِشْتَرَيْتُ", "okunus": "İştereytu", "tr": "Satın aldım" },
+              { "ar": "رَأَيْتُ", "okunus": "Reeytu", "tr": "Gördüm" },
+              { "ar": "كَتَبْتُ", "okunus": "Ketebtu", "tr": "Yazdım" },
+              { "ar": "أَخَذْتُ", "okunus": "Ehaztu", "tr": "Aldım" },
+              { "ar": "وَدَّعْتُ", "okunus": "Vedda‘tu", "tr": "Uğurladım" }
+            ]
+          },
+          {
+            "etiket": "2. İkil Nesne (ـَيْنِ)",
+            "secenekler": [
+              { "ar": "كِتَابَيْنِ", "okunus": "kitâbeyni", "tr": "iki kitap" },
+              { "ar": "قَلَمَيْنِ", "okunus": "kalemeyni", "tr": "iki kalem" },
+              { "ar": "دَرْسَيْنِ", "okunus": "derseyni", "tr": "iki ders" },
+              { "ar": "صَدِيقَيْنِ", "okunus": "sadîkayni", "tr": "iki arkadaş" },
+              { "ar": "دَفْتَرَيْنِ", "okunus": "deftereyni", "tr": "iki defter" },
+              { "ar": "بَابَيْنِ", "okunus": "bâbeyni", "tr": "iki kapı" }
+            ]
+          },
+          {
+            "etiket": "3. İkil Sıfat (ـَيْنِ)",
+            "secenekler": [
+              { "ar": "جَدِيدَيْنِ", "okunus": "cedîdeyni", "tr": "yeni" },
+              { "ar": "مُهِمَّيْنِ", "okunus": "muhimmeyni", "tr": "önemli" },
+              { "ar": "جَمِيلَيْنِ", "okunus": "cemîleyni", "tr": "güzel" },
+              { "ar": "طَوِيلَيْنِ", "okunus": "tavîleyni", "tr": "uzun" },
+              { "ar": "مُفِيدَيْنِ", "okunus": "mufîdeyni", "tr": "faydalı" },
+              { "ar": "قَرِيبَيْنِ", "okunus": "karîbeyni", "tr": "yakın" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m03_wm4",
+        "baslik": "Cemi Müzekker Sâlim (Akıllı Erkek Çoğulları)",
+        "formul": "Marife Eril Çoğul (ـُونَ) + Çoğul Haber (ـُونَ) + Mekân",
+        "slotlar": [
+          {
+            "etiket": "1. Özne (ـُونَ)",
+            "secenekler": [
+              { "ar": "الْمُعَلِّمُونَ", "okunus": "El-mu‘allimûne", "tr": "Öğretmenler" },
+              { "ar": "الْمُهَنْدِسُونَ", "okunus": "El-muhendisûne", "tr": "Mühendisler" },
+              { "ar": "الْمُوَظَّفُونَ", "okunus": "El-muvazzafûne", "tr": "Memurlar" },
+              { "ar": "الْمُسَافِرُونَ", "okunus": "El-musâfirûne", "tr": "Yolcular" },
+              { "ar": "الْبَاحِثُونَ", "okunus": "El-bâhisûne", "tr": "Araştırmacılar" },
+              { "ar": "الْمُتَعَلِّمُونَ", "okunus": "El-mute‘allimûne", "tr": "Öğrenenler" }
+            ]
+          },
+          {
+            "etiket": "2. Haber (ـُونَ)",
+            "secenekler": [
+              { "ar": "مُجْتَهِدُونَ", "okunus": "muctehidûne", "tr": "çalışkandırlar" },
+              { "ar": "مَاهِرُونَ", "okunus": "mâhirûne", "tr": "yeteneklidirler" },
+              { "ar": "نَشِيطُونَ", "okunus": "neşîtûne", "tr": "dinamiktirler" },
+              { "ar": "مُسْتَعِدُّونَ", "okunus": "muste‘iddûne", "tr": "hazırdırlar" },
+              { "ar": "مُتَعَاوِنُونَ", "okunus": "mute‘âvinûne", "tr": "yardımseverdirler" },
+              { "ar": "سُعَدَاءُ", "okunus": "su‘adâu", "tr": "mutludurlar" }
+            ]
+          },
+          {
+            "etiket": "3. Yer / Zaman",
+            "secenekler": [
+              { "ar": "فِي الْمَدْرَسَةِ", "okunus": "fi'l-medreseti", "tr": "okulda" },
+              { "ar": "فِي الشَّرِكَةِ", "okunus": "fi'ş-şeriketi", "tr": "şirkette" },
+              { "ar": "فِي الْجَامِعَةِ", "okunus": "fi'l-câmi‘ati", "tr": "üniversitede" },
+              { "ar": "فِي الْمَطَارِ", "okunus": "fi'l-matâri", "tr": "havalimanında" },
+              { "ar": "فِي الْمَكْتَبَةِ", "okunus": "fi'l-mektebeti", "tr": "kütüphanede" },
+              { "ar": "دَائِمًا", "okunus": "dâimen", "tr": "daima" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m03_wm5",
+        "baslik": "Akılsız Çoğul = Tekil Müennes Altın Motoru",
+        "formul": "هٰذِهِ / تِلْكَ + Akılsız Çoğul + Tekil Müennes Haber",
+        "slotlar": [
+          {
+            "etiket": "1. Tekil Müennes İşaret",
+            "secenekler": [
+              { "ar": "هٰذِهِ", "okunus": "Hâzihî", "tr": "Bu" },
+              { "ar": "تِلْكَ", "okunus": "Tilke", "tr": "Şu" },
+              { "ar": "كُلُّ هٰذِهِ", "okunus": "Kullu hâzihî", "tr": "Tüm bu" },
+              { "ar": "إِنَّ هٰذِهِ", "okunus": "İnne hâzihî", "tr": "Şüphesiz bu" },
+              { "ar": "مَا أَجْمَلَ هٰذِهِ", "okunus": "Mâ ecmele hâzihî", "tr": "Ne güzel bu" },
+              { "ar": "هُنَاكَ", "okunus": "Hunâke", "tr": "Orada" }
+            ]
+          },
+          {
+            "etiket": "2. Akılsız Çoğul",
+            "secenekler": [
+              { "ar": "الْكُتُبُ", "okunus": "el-kutubu", "tr": "kitaplar" },
+              { "ar": "الدُّرُوسُ", "okunus": "ed-durûsu", "tr": "dersler" },
+              { "ar": "الْمُدُنُ", "okunus": "el-mudunu", "tr": "şehirler" },
+              { "ar": "الْمَدَارِسُ", "okunus": "el-medârisu", "tr": "okullar" },
+              { "ar": "الْأَقْلَامُ", "okunus": "el-eklâmu", "tr": "kalemler" },
+              { "ar": "السَّيَّارَاتُ", "okunus": "es-seyyârâtu", "tr": "arabalar" }
+            ]
+          },
+          {
+            "etiket": "3. Tekil Müennes Haber",
+            "secenekler": [
+              { "ar": "جَدِيدَةٌ", "okunus": "cedîdetun", "tr": "yenidir" },
+              { "ar": "مُفِيدَةٌ", "okunus": "mufîdetun", "tr": "faydalıdır" },
+              { "ar": "جَمِيلَةٌ", "okunus": "cemîletun", "tr": "güzeldir" },
+              { "ar": "حَدِيثَةٌ", "okunus": "hadîsetun", "tr": "moderndir" },
+              { "ar": "كَثِيرَةٌ", "okunus": "kesîratun", "tr": "çoktur" },
+              { "ar": "وَاضِحَةٌ", "okunus": "vâdihatun", "tr": "açıktır" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m03_wm6",
+        "baslik": "Cemi Müennes Sâlim Kesra ile Mansub Motoru",
+        "formul": "Fiil + Fâil + Cemi Müennes Nesne (ـَاتِ / ـَاتٍ)",
+        "slotlar": [
+          {
+            "etiket": "1. Fiil + Özne",
+            "secenekler": [
+              { "ar": "شَكَرَ الْمُدِيرُ", "okunus": "Şekera'l-mudîru", "tr": "Müdür teşekkür etti" },
+              { "ar": "سَأَلَ الْأُسْتَاذُ", "okunus": "Seele'l-ustâzu", "tr": "Hoca sordu" },
+              { "ar": "رَأَيْتُ", "okunus": "Reeytu", "tr": "Gördüm" },
+              { "ar": "اِحْتَرَمْتُ", "okunus": "İhteramtu", "tr": "Saygı duydum" },
+              { "ar": "قَابَلْتُ", "okunus": "Kâbeltu", "tr": "Karşılaştım" },
+              { "ar": "شَاهَدْتُ", "okunus": "Şâhedtu", "tr": "İzledim" }
+            ]
+          },
+          {
+            "etiket": "2. Nesne (Kesralı ـَاتِ)",
+            "secenekler": [
+              { "ar": "الطَّالِبَاتِ", "okunus": "et-tâlibâti", "tr": "kız öğrencileri" },
+              { "ar": "الْمُعَلِّمَاتِ", "okunus": "el-mu‘allimâti", "tr": "kadın öğretmenleri" },
+              { "ar": "الطَّبِيبَاتِ", "okunus": "et-tabîbâti", "tr": "kadın doktorları" },
+              { "ar": "الْمُهَنْدِسَاتِ", "okunus": "el-muhendisâti", "tr": "kadın mühendisleri" },
+              { "ar": "الْبَاحِثَاتِ", "okunus": "el-bâhisâti", "tr": "kadın araştırmacıları" },
+              { "ar": "الْمُوَظَّفَاتِ", "okunus": "el-muvazzafâti", "tr": "kadın memurları" }
+            ]
+          },
+          {
+            "etiket": "3. Uyumlu Sıfat (Kesralı)",
+            "secenekler": [
+              { "ar": "الْمُجْتَهِدَاتِ", "okunus": "el-muctehidâti", "tr": "çalışkan" },
+              { "ar": "الْمَاهِرَاتِ", "okunus": "el-mâhirâti", "tr": "yetenekli" },
+              { "ar": "النَّشِيطَاتِ", "okunus": "en-neşîtâti", "tr": "dinamik" },
+              { "ar": "الْمُتَفَوِّقَاتِ", "okunus": "el-mutefevvikâti", "tr": "başarılı" },
+              { "ar": "الْمُخْلِصَاتِ", "okunus": "el-muhlisâti", "tr": "samimi" },
+              { "ar": "الْجَدِيدَاتِ", "okunus": "el-cedîdâti", "tr": "yeni" }
+            ]
+          }
+        ]
+      }
+    ],
+    "merdivenler": [
+      {
+        "id": "m03_lad1",
+        "baslik": "Tekilden İkile ve Çoğula Yolculuk",
+        "adimlar": [
+          { "seviye": "A1.1", "ar": "طَالِبٌ مُجْتَهِدٌ.", "okunus": "Tâlibun muctehidun.", "tr": "Çalışkan bir öğrenci.", "ekleme": "Müfred müzekker" },
+          { "seviye": "A1.2", "ar": "طَالِبَانِ مُجْتَهِدَانِ فِي الصَّفِّ.", "okunus": "Tâlibâni muctehidâni fi's-saffi.", "tr": "Sınıfta iki çalışkan öğrenci var.", "ekleme": "Tesniye (ikil: ـَانِ)" },
+          { "seviye": "A2", "ar": "الطُّلَّابُ الْمُجْتَهِدُونَ يَقْرَؤُونَ كُتُبًا مُفِيدَةً.", "okunus": "Et-tullâbu'l-muctehidûne yakraûne kutuben mufîdeten.", "tr": "Çalışkan öğrenciler faydalı kitaplar okuyorlar.", "ekleme": "Akıllı kırık çoğul + akılsız çoğul (مُفِيدَةً)" },
+          { "seviye": "B1", "ar": "الطُّلَّابُ الْمُجْتَهِدُونَ وَالطَّالِبَاتُ الْمُجْتَهِدَاتُ يَقْرَؤُونَ كُتُبًا مُفِيدَةً فِي الْمَكْتَبَةِ.", "okunus": "Et-tullâbu'l-muctehidûne ve't-tâlibâtu'l-muctehidâtu yakraûne kutuben mufîdeten fi'l-mektebeti.", "tr": "Çalışkan erkek ve kız öğrenciler kütüphanede faydalı kitaplar okuyorlar.", "ekleme": "Cemi Müennes Sâlim + atıf" },
+          { "seviye": "B2", "ar": "كَرَّمَتِ الْجَامِعَةُ الطُّلَّابَ الْمُجْتَهِدِينَ وَالطَّالِبَاتِ الْمُتَفَوِّقَاتِ الَّذِينَ أَتَمُّوا قِرَاءَةَ كُتُبٍ عِلْمِيَّةٍ كَثِيرَةٍ.", "okunus": "Kerameti'l-câmi‘atu't-tullâbe'l-muctehidîne ve't-tâlibâti'l-mutefevvikâti'l-lezîne etemmû kırâete kutubin ‘ilmiyyetin kesîratin.", "tr": "Üniversite, pek çok bilimsel kitabın okumasını tamamlayan çalışkan erkek ve başarılı kız öğrencileri ödüllendirdi.", "ekleme": "Nasb hâlleri (ـِينَ / ـَاتِ) + İsm-i Mevsûl" }
+        ]
+      },
+      {
+        "id": "m03_lad2",
+        "baslik": "Akılsız Çoğullarla Şehir Betimlemesi",
+        "adimlar": [
+          { "seviye": "A1.1", "ar": "مَدِينَةٌ كَبِيرَةٌ.", "okunus": "Medînetun kebîratun.", "tr": "Büyük bir şehir.", "ekleme": "Tekil müennes (ة)" },
+          { "seviye": "A1.2", "ar": "مَدِينَتَانِ كَبِيرَتَانِ.", "okunus": "Medînetâni kebîretâni.", "tr": "İki büyük şehir.", "ekleme": "ة → ت açılarak ikil" },
+          { "seviye": "A2", "ar": "هٰذِهِ الْمُدُنُ الْكَبِيرَةُ فِيهَا مَدَارِسُ حَدِيثَةٌ.", "okunus": "Hâzihi'l-mudunu'l-kebîratu fîhâ medârisu hadîsetun.", "tr": "Bu büyük şehirlerde modern okullar vardır.", "ekleme": "İki kırık çoğul + tekil müennes uyum" },
+          { "seviye": "B1", "ar": "تَضُمُّ هٰذِهِ الْمُدُنُ الْكَبِيرَةُ مَدَارِسَ حَدِيثَةً وَجَامِعَاتٍ مَشْهُورَةً وَمَكْتَبَاتٍ عَامَّةً.", "okunus": "Tedummu hâzihi'l-mudunu'l-kebîratu medârise hadîseten ve câmi‘âtin meşhûraten ve mektebâtin ‘âmmeten.", "tr": "Bu büyük şehirler modern okulları, ünlü üniversiteleri ve halk kütüphanelerini barındırır.", "ekleme": "Cemi Müennes Sâlim + gayr-i munsarif nesne" },
+          { "seviye": "B2", "ar": "تَشْهَدُ هٰذِهِ الْمُدُنُ التَّارِيخِيَّةُ تَطَوُّرًا مَلْحُوظًا بِفَضْلِ مَدَارِسِهَا الْحَدِيثَةِ وَجَامِعَاتِهَا الرَّائِدَةِ.", "okunus": "Teşhedu hâzihi'l-mudunu't-târîhiyyetu tetavvuran melhûzan bi-fadli medârisihe'l-hadîseti ve câmi‘âtihe'r-râideti.", "tr": "Bu tarihî şehirler modern okulları ve öncü üniversiteleri sayesinde dikkat çekici bir gelişmeye tanık olmaktadır.", "ekleme": "YDS/YÖKDİL akademik kalıp (بِفَضْلِ)" }
+        ]
+      },
+      {
+        "id": "m03_lad3",
+        "baslik": "Semâî Müenneslerden Bilimsel Gözleme",
+        "adimlar": [
+          { "seviye": "A1.1", "ar": "شَمْسٌ مُشْرِقَةٌ.", "okunus": "Şemsun muşrikatun.", "tr": "Parlak bir güneş.", "ekleme": "Semâî müennes" },
+          { "seviye": "A1.2", "ar": "الشَّمْسُ مُشْرِقَةٌ وَالْأَرْضُ وَاسِعَةٌ.", "okunus": "Eş-şemsu muşrikatun ve'l-ardu vâsi‘atun.", "tr": "Güneş parlak ve yeryüzü geniştir.", "ekleme": "İki semâî müennes" },
+          { "seviye": "A2", "ar": "تُضِيءُ الشَّمْسُ الْأَرْضَ نَهَارًا وَتَجْعَلُ الْحَيَاةَ مُمْكِنَةً.", "okunus": "Tudîu'ş-şemsu'l-arda nehâran ve tec‘alu'l-hayâte mumkineten.", "tr": "Güneş gündüz yeryüzünü aydınlatır ve hayatı mümkün kılar.", "ekleme": "Müennes fiil çekimi (تُضِيءُ)" },
+          { "seviye": "B1", "ar": "تَدُورُ الْأَرْضُ حَوْلَ الشَّمْسِ، بَيْنَمَا يَدُورُ الْقَمَرُ حَوْلَ الْأَرْضِ.", "okunus": "Tedûru'l-ardu havle'ş-şemsi, beynemâ yedûru'l-kameru havle'l-ardi.", "tr": "Dünya güneşin etrafında dönerken, ay dünyanın etrafında döner.", "ekleme": "أَرْض (تَدُورُ — müennes) vs. قَمَر (يَدُورُ — müzekker)!" },
+          { "seviye": "B2", "ar": "إِنَّ حَرَكَةَ الْأَرْضِ حَوْلَ الشَّمْسِ هِيَ السَّبَبُ الرَّئِيسِيُّ فِي تَعَاقُبِ الْفُصُولِ الْأَرْبَعَةِ.", "okunus": "İnne harakete'l-ardi havle'ş-şemsi hiye's-sebebu'r-reîsiyyu fî te‘âkubi'l-fusûli'l-erba‘ati.", "tr": "Şüphesiz Dünya'nın Güneş etrafındaki hareketi, dört mevsimin birbirini izlemesinin temel sebebidir.", "ekleme": "YÖKDİL Fen Bilimleri cümlesi" }
+        ]
+      },
+      {
+        "id": "m03_lad4",
+        "baslik": "Meslekler ve Çalışma Hayatı Merdiveni",
+        "adimlar": [
+          { "seviye": "A1.1", "ar": "مُهَنْدِسٌ مَاهِرٌ.", "okunus": "Muhendisun mâhirun.", "tr": "Yetenekli bir mühendis.", "ekleme": "Tekil müzekker" },
+          { "seviye": "A1.2", "ar": "مُهَنْدِسَانِ مَاهِرَانِ وَمُهَنْدِسَتَانِ مَاهِرَتَانِ.", "okunus": "Muhendisâni mâhirâni ve muhendisetâni mâhiretâni.", "tr": "İki yetenekli erkek ve iki yetenekli kadın mühendis.", "ekleme": "Eril ve dişil ikil" },
+          { "seviye": "A2", "ar": "يَعْمَلُ الْمُهَنْدِسُونَ وَالْمُهَنْدِسَاتُ مَعًا فِي الشَّرِكَةِ.", "okunus": "Ya‘melu'l-muhendisûne ve'l-muhendisâtu me‘an fi'ş-şeriketi.", "tr": "Erkek ve kadın mühendisler şirkette birlikte çalışıyorlar.", "ekleme": "İki düzenli çoğul bir arada" },
+          { "seviye": "B1", "ar": "يُصَمِّمُ الْمُهَنْدِسُونَ الْمَاهِرُونَ مَشَارِيعَ كَبِيرَةً لِخِدْمَةِ الْمُجْتَمَعِ.", "okunus": "Yusammimu'l-muhendisûne'l-mâhirûne meşârî‘a kebîraten li-hidmeti'l-muctema‘i.", "tr": "Yetenekli mühendisler topluma hizmet için büyük projeler tasarlıyorlar.", "ekleme": "مَشَارِيعُ (akılsız kırık çoğul → كَبِيرَةً)" },
+          { "seviye": "B2", "ar": "سَاهَمَ الْمُهَنْدِسُونَ وَالطَّبِيبَاتُ بِجُهُودٍ كَبِيرَةٍ فِي بِنَاءِ مُسْتَشْفَيَاتٍ حَدِيثَةٍ.", "okunus": "Sâheme'l-muhendisûne ve't-tabîbâtu bi-cuhûdin kebîratin fî binâi musteşfeyâtin hadîsetin.", "tr": "Mühendisler ve kadın doktorlar modern hastanelerin inşasına büyük çabalarla katkıda bulundular.", "ekleme": "Harf-i cerli fiil (سَاهَمَ فِي) + tüm çoğul türleri" }
+        ]
+      }
+    ],
+    "bloklar": [
+      { "id": "m03_wb1", "tr": "Bu çalışkan bir kız öğrencidir.", "ipucu": "هٰذِهِ + müennes isim + müennes sıfat", "hedefAr": "هٰذِهِ طَالِبَةٌ مُجْتَهِدَةٌ", "karisik": ["مُجْتَهِدَةٌ", "هٰذِهِ", "طَالِبَةٌ"] },
+      { "id": "m03_wb2", "tr": "Bunlar iki yeni kitaptır.", "ipucu": "هٰذَانِ + ikil + ikil", "hedefAr": "هٰذَانِ كِتَابَانِ جَدِيدَانِ", "karisik": ["جَدِيدَانِ", "كِتَابَانِ", "هٰذَانِ"] },
+      { "id": "m03_wb3", "tr": "İki faydalı kitap okudum.", "ipucu": "Nesne hâli ـَيْنِ", "hedefAr": "قَرَأْتُ كِتَابَيْنِ مُفِيدَيْنِ", "karisik": ["مُفِيدَيْنِ", "قَرَأْتُ", "كِتَابَيْنِ"] },
+      { "id": "m03_wb4", "tr": "Bu kitaplar çok faydalıdır.", "ipucu": "Akılsız çoğul = tekil müennes!", "hedefAr": "هٰذِهِ الْكُتُبُ مُفِيدَةٌ جِدًّا", "karisik": ["جِدًّا", "الْكُتُبُ", "مُفِيدَةٌ", "هٰذِهِ"] },
+      { "id": "m03_wb5", "tr": "Öğretmenler okulda çalışkandırlar.", "ipucu": "Cemi Müzekker Sâlim (ـُونَ)", "hedefAr": "الْمُعَلِّمُونَ مُجْتَهِدُونَ فِي الْمَدْرَسَةِ", "karisik": ["الْمَدْرَسَةِ", "فِي", "مُجْتَهِدُونَ", "الْمُعَلِّمُونَ"] },
+      { "id": "m03_wb6", "tr": "Müdür kız öğrencilere teşekkür etti.", "ipucu": "Cemi Müennes Sâlim kesra ile mansub!", "hedefAr": "شَكَرَ الْمُدِيرُ الطَّالِبَاتِ", "karisik": ["الطَّالِبَاتِ", "الْمُدِيرُ", "شَكَرَ"] },
+      { "id": "m03_wb7", "tr": "Güneş gökyüzünde parlaktır.", "ipucu": "شَمْسٌ semâî müennestir", "hedefAr": "الشَّمْسُ سَاطِعَةٌ فِي السَّمَاءِ", "karisik": ["السَّمَاءِ", "فِي", "سَاطِعَةٌ", "الشَّمْسُ"] },
+      { "id": "m03_wb8", "tr": "Sağ el güçlüdür.", "ipucu": "يَدٌ çift organ (müennes)", "hedefAr": "الْيَدُ الْيُمْنَى قَوِيَّةٌ", "karisik": ["قَوِيَّةٌ", "الْيَدُ", "الْيُمْنَى"] },
+      { "id": "m03_wb9", "tr": "Hamza yetenekli bir mühendistir.", "ipucu": "حَمْزَةُ anlamca erildir", "hedefAr": "حَمْزَةُ مُهَنْدِسٌ مَاهِرٌ", "karisik": ["مَاهِرٌ", "مُهَنْدِسٌ", "حَمْزَةُ"] },
+      { "id": "m03_wb10", "tr": "Sınıfta iki kız öğrenci vardır.", "ipucu": "ة → ت açılıp ـَانِ olur", "hedefAr": "فِي الصَّفِّ طَالِبَتَانِ", "karisik": ["طَالِبَتَانِ", "الصَّفِّ", "فِي"] },
+      { "id": "m03_wb11", "tr": "Kırmızı bir araba satın aldım.", "ipucu": "سَيَّارَةً حَمْرَاءَ", "hedefAr": "اِشْتَرَيْتُ سَيَّارَةً حَمْرَاءَ", "karisik": ["حَمْرَاءَ", "اِشْتَرَيْتُ", "سَيَّارَةً"] },
+      { "id": "m03_wb12", "tr": "Mühendisleri şirkette gördüm.", "ipucu": "Nesne hâli ـِينَ", "hedefAr": "رَأَيْتُ الْمُهَنْدِسِينَ فِي الشَّرِكَةِ", "karisik": ["الشَّرِكَةِ", "فِي", "الْمُهَنْدِسِينَ", "رَأَيْتُ"] },
+      { "id": "m03_wb13", "tr": "Okulun kapıları açıktır.", "ipucu": "أَبْوَاب akılsız çoğul → مَفْتُوحَةٌ", "hedefAr": "أَبْوَابُ الْمَدْرَسَةِ مَفْتُوحَةٌ", "karisik": ["مَفْتُوحَةٌ", "الْمَدْرَسَةِ", "أَبْوَابُ"] },
+      { "id": "m03_wb14", "tr": "İki güzel şehre yolculuk yaptım.", "ipucu": "إِلَى sonrası ـَيْنِ", "hedefAr": "سَافَرْتُ إِلَى مَدِينَتَيْنِ جَمِيلَتَيْنِ", "karisik": ["جَمِيلَتَيْنِ", "مَدِينَتَيْنِ", "إِلَى", "سَافَرْتُ"] },
+      { "id": "m03_wb15", "tr": "Bugün yeni kelimeler ezberledim.", "ipucu": "كَلِمَاتٍ (kesra) + جَدِيدَةً (tekil müennes)", "hedefAr": "حَفِظْتُ كَلِمَاتٍ جَدِيدَةً الْيَوْمَ", "karisik": ["الْيَوْمَ", "جَدِيدَةً", "كَلِمَاتٍ", "حَفِظْتُ"] }
+    ]
+  },
+  "readings": [
+    {
+      "id": "m03_r1",
+      "baslik": "Üniversite Kampüsünde Bir Sabah",
+      "arBaslik": "صَبَاحٌ فِي الْحَرَمِ الْجَامِعِيِّ",
+      "paragraflar": [
+        {
+          "ar": "فِي حَرَمِ الْجَامِعَةِ الْوَاسِعِ، تَتَجَمَّعُ مِئَاتُ الطُّلَّابِ وَالطَّالِبَاتِ كُلَّ صَبَاحٍ. هُنَاكَ قَاعَاتٌ كَبِيرَةٌ وَمَكْتَبَاتٌ غَنِيَّةٌ بِالْكُتُبِ الْقَدِيمَةِ وَالْحَدِيثَةِ.",
+          "okunus": "Fî harami'l-câmi‘ati'l-vâsi‘i, tetecemme‘u miâtu't-tullâbi ve't-tâlibâti kulle sabâhin. Hunâke kâ‘âtun kebîratun ve mektebâtun ganiyyetun bi'l-kutubi'l-kadîmeti ve'l-hadîseti.",
+          "tr": "Üniversitenin geniş kampüsünde her sabah yüzlerce erkek ve kız öğrenci toplanır. Orada büyük salonlar ve eski-modern kitaplarla zengin kütüphaneler vardır.",
+          "analiz": [
+            { "kelime": "الطَّالِبَاتِ", "kok": "ط-ل-ب", "gramer": "Cemi Müennes Sâlim", "tr": "kız öğrenciler", "cardId": "m03_c15" },
+            { "kelime": "بِالْكُتُبِ", "kok": "ك-ت-ب", "gramer": "Kırık çoğul (akılsız → sıfatı tekil müennes)", "tr": "kitaplarla", "cardId": "m03_c18" }
+          ]
+        },
+        {
+          "ar": "أَمَامَ بَوَّابَةِ كُلِّيَّةِ الْآدَابِ يَقِفُ طَالِبَانِ جَدِيدَانِ وَطَالِبَتَانِ جَدِيدَتَانِ، يَتَحَدَّثُونَ عَنْ جَدْوَلِ الدُّرُوسِ الْأُسْبُوعِيِّ.",
+          "okunus": "Emâme bevvâbeti kulliyyeti'l-âdâbi yekifu tâlibâni cedîdâni ve tâlibetâni cedîdetâni, yetehaddesûne ‘an cedveli'd-durûsi'l-usbû‘iyyi.",
+          "tr": "Edebiyat fakültesi kapısının önünde iki yeni erkek öğrenci ve iki yeni kız öğrenci duruyor, haftalık ders programı hakkında konuşuyorlar.",
+          "analiz": [
+            { "kelime": "طَالِبَانِ", "kok": "ط-ل-ب", "gramer": "Tesniye (merfû ـَانِ)", "tr": "iki erkek öğrenci", "cardId": "m03_c10" },
+            { "kelime": "طَالِبَتَانِ", "kok": "ط-ل-ب", "gramer": "Müennes Tesniye (ة → ت)", "tr": "iki kız öğrenci", "cardId": "m03_c11" }
+          ]
+        },
+        {
+          "ar": "دَخَلَ الْمُعَلِّمُونَ وَالْمُعَلِّمَاتُ قَاعَاتِ الْمُحَاضَرَاتِ فِي السَّاعَةِ التَّاسِعَةِ، وَحَمَلَ كُلُّ وَاحِدٍ مِنْهُمْ كِتَابَيْنِ وَدَفْتَرَيْنِ.",
+          "okunus": "Dehale'l-mu‘allimûne ve'l-mu‘allimâtu kâ‘âti'l-muhâdarâti fi's-sâ‘ati't-tâsi‘ati, ve hamele kullu vâhidin minhum kitâbeyni ve deftereyni.",
+          "tr": "Erkek ve kadın öğretmenler saat dokuzda konferans salonlarına girdiler ve her biri iki kitap ile iki defter taşıyordu.",
+          "analiz": [
+            { "kelime": "الْمُعَلِّمُونَ", "kok": "ع-ل-م", "gramer": "Cemi Müzekker Sâlim (ref)", "tr": "erkek öğretmenler", "cardId": "m03_c13" },
+            { "kelime": "كِتَابَيْنِ", "kok": "ك-ت-ب", "gramer": "Tesniye (mansub ـَيْنِ)", "tr": "iki kitap" }
+          ]
+        },
+        {
+          "ar": "قَالَ عَمِيدُ الْكُلِّيَّةِ فِي كَلِمَتِهِ التَّرْحِيبِيَّةِ: إِنَّ هٰذِهِ الدُّرُوسَ وَالْمُحَاضَرَاتِ هِيَ جِسْرُكُمْ إِلَى الْمُسْتَقْبَلِ، فَاجْتَهِدُوا وَتَعَاوَنُوا!",
+          "okunus": "Kâle ‘amîdu'l-kulliyyeti fî kelimetihi't-terhîbiyyeti: İnne hâzihi'd-durûse ve'l-muhâdarâti hiye cisrukum ile'l-mustakbeli, fe'ctehidû ve te‘âvenû!",
+          "tr": "Fakülte dekanı karşılama konuşmasında dedi ki: Şüphesiz bu dersler ve konferanslar geleceğe uzanan köprünüzdür; öyleyse çalışın ve yardımlaşın!",
+          "analiz": [
+            { "kelime": "الدُّرُوسَ", "kok": "د-ر-س", "gramer": "Kırık çoğul (akılsız → هٰذِهِ / هِيَ)", "tr": "dersler", "cardId": "m03_c20" },
+            { "kelime": "جِسْرُكُمْ", "kok": "ج-س-ر", "gramer": "İsim + zamir", "tr": "köprünüz" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m03_r1_q1", "soru": "Edebiyat fakültesi kapısının önünde kaç öğrenci durmaktadır?", "secenekler": ["İki erkek öğrenci", "İki erkek ve iki kız öğrenci (toplam 4)", "Sadece kız öğrenciler", "On öğrenci"], "dogruIndeks": 1, "aciklama": "طَالِبَانِ جَدِيدَانِ وَطَالِبَتَانِ جَدِيدَتَانِ." },
+        { "id": "m03_r1_q2", "soru": "Öğretmenler saat kaçta salonlara girdiler?", "secenekler": ["Sekizde", "Dokuzda", "Onda", "On birde"], "dogruIndeks": 1, "aciklama": "فِي السَّاعَةِ التَّاسِعَةِ." },
+        { "id": "m03_r1_q3", "soru": "Her öğretmen elinde ne taşıyordu?", "secenekler": ["Bir kitap ve bir kalem", "İki kitap ve iki defter", "Üç çanta", "Sadece bir bilgisayar"], "dogruIndeks": 1, "aciklama": "كِتَابَيْنِ وَدَفْتَرَيْنِ (ikil mansub)." },
+        { "id": "m03_r1_q4", "soru": "Metinde 'هٰذِهِ الدُّرُوسَ' ifadesinde neden tekil müennes 'هٰذِهِ' kullanılmıştır?", "secenekler": ["الدُّرُوس akılsız çoğul olduğu için", "الدُّرُوس tekil olduğu için", "Özel isim olduğu için", "İkil olduğu için"], "dogruIndeks": 0, "aciklama": "Akılsız çoğullar tekil müennes hükmündedir." },
+        { "id": "m03_r1_q5", "soru": "Dekan öğrencilere ne tavsiyesinde bulundu?", "secenekler": ["Yalnız çalışmalarını", "Çalışmalarını ve yardımlaşmalarını", "Tatile çıkmalarını", "Sadece ezber yapmalarını"], "dogruIndeks": 1, "aciklama": "فَاجْتَهِدُوا وَتَعَاوَنُوا." }
+      ]
+    },
+    {
+      "id": "m03_r2",
+      "baslik": "İnsan Bedeni ve Doğa: Gizli Dişil İsimler",
+      "arBaslik": "جِسْمُ الْإِنْسَانِ وَالطَّبِيعَةُ: أَسْمَاءٌ مُؤَنَّثَةٌ بِلَا تَاءٍ",
+      "paragraflar": [
+        {
+          "ar": "تَأَمَّلْ جِسْمَ الْإِنْسَانِ بِعَيْنِ الْعَالِمِ! تَجِدُ فِي اللُّغَةِ الْعَرَبِيَّةِ قَاعِدَةً لَطِيفَةً: الْأَعْضَاءُ الْمُزْدَوِجَةُ مِثْلُ الْعَيْنِ وَالْأُذُنِ وَالْيَدِ وَالرِّجْلِ كُلُّهَا مُؤَنَّثَةٌ.",
+          "okunus": "Teemmel cisme'l-insâni bi-‘ayni'l-‘âlimi! Tecidu fi'l-lugati'l-‘arabiyyeti kâ‘ideten latîfeten: el-a‘dâu'l-muzdevicetu mislu'l-‘ayni ve'l-uzuni ve'l-yedi ve'r-ricli kulluhâ muennesetun.",
+          "tr": "İnsan bedenini bir bilgin gözüyle incele! Arap dilinde zarif bir kural bulursun: Göz, kulak, el ve ayak gibi çift organların hepsi müennestir.",
+          "analiz": [
+            { "kelime": "الْعَيْنِ", "kok": "ع-ي-ن", "gramer": "Semâî müennes (çift organ)", "tr": "göz", "cardId": "m03_c5" },
+            { "kelime": "الْيَدِ", "kok": "ي-د-ي", "gramer": "Semâî müennes (çift organ)", "tr": "el", "cardId": "m03_c6" }
+          ]
+        },
+        {
+          "ar": "أَمَّا الْأَعْضَاءُ الْمُفْرَدَةُ الَّتِي لَا يُوجَدُ مِنْهَا إِلَّا وَاحِدٌ، مِثْلُ الرَّأْسِ وَالْقَلْبِ وَالْأَنْفِ وَالْفَمِ، فَهِيَ مُذَكَّرَةٌ فِي اللُّغَةِ الْعَرَبِيَّةِ.",
+          "okunus": "Emme'l-a‘dâu'l-mufredetu'l-letî lâ yûcedu minhâ illâ vâhidun, mislu'r-re'si ve'l-kalbi ve'l-enfi ve'l-femi, fe-hiye muzekkeratun fi'l-lugati'l-‘arabiyyeti.",
+          "tr": "Baş, kalp, burun ve ağız gibi kendisinden yalnızca bir tane bulunan tekil organlar ise Arap dilinde müzekkerdir.",
+          "analiz": [
+            { "kelime": "الْقَلْبِ", "kok": "ق-ل-ب", "gramer": "Müzekker isim (tekil organ)", "tr": "kalp" },
+            { "kelime": "الْأَنْفِ", "kok": "أ-ن-ف", "gramer": "Müzekker isim (tekil organ)", "tr": "burun" }
+          ]
+        },
+        {
+          "ar": "وَفِي الطَّبِيعَةِ أَيْضًا تَجِدُ هٰذَا التَّوَازُنَ الْعَجِيبَ: الشَّمْسُ مُؤَنَّثَةٌ وَالْقَمَرُ مُذَكَّرٌ، وَالْأَرْضُ مُؤَنَّثَةٌ وَالْبَحْرُ مُذَكَّرٌ، وَالدَّارُ مُؤَنَّثَةٌ وَالْبَيْتُ مُذَكَّرٌ.",
+          "okunus": "Ve fi't-tabî‘ati eydan tecidu hâze't-tevâzune'l-‘acîbe: eş-şemsu muennesetun ve'l-kameru muzekkerun, ve'l-ardu muennesetun ve'l-bahru muzekkerun, ve'd-dâru muennesetun ve'l-beytu muzekkerun.",
+          "tr": "Doğada da bu şaşırtıcı dengeyi bulursun: Güneş dişil, ay erildir; yeryüzü dişil, deniz erildir; 'dâr' (yurt) dişil, 'beyt' (ev) erildir.",
+          "analiz": [
+            { "kelime": "الْأَرْضُ", "kok": "أ-ر-ض", "gramer": "Semâî müennes", "tr": "yeryüzü", "cardId": "m03_c8" },
+            { "kelime": "الدَّارُ", "kok": "د-و-ر", "gramer": "Semâî müennes", "tr": "ev / yurt", "cardId": "m03_c9" }
+          ]
+        },
+        {
+          "ar": "عِنْدَمَا يَحْفَظُ الطَّالِبُ هٰذِهِ الْمَجْمُوعَاتِ الْأَرْبَعَ، يَسْتَطِيعُ أَنْ يَسْتَخْدِمَ الصِّفَاتِ وَالْأَفْعَالَ بِدِقَّةٍ تَامَّةٍ دُونَ تَرَدُّدٍ.",
+          "okunus": "‘İndemâ yahfazu't-tâlibu hâzihi'l-mecmû‘âti'l-erba‘a, yestetî‘u en yestahdime's-sıfâti ve'l-ef‘âle bi-dikkatin tâmmetin dûne tereddudin.",
+          "tr": "Öğrenci bu dört grubu ezberlediğinde, sıfatları ve fiilleri tereddüt etmeden tam bir doğrulukla kullanabilir.",
+          "analiz": [
+            { "kelime": "الْمَجْمُوعَاتِ", "kok": "ج-م-ع", "gramer": "Cemi Müennes Sâlim", "tr": "gruplar" },
+            { "kelime": "الْأَفْعَالَ", "kok": "ف-ع-ل", "gramer": "Kırık çoğul", "tr": "fiiller" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m03_r2_q1", "soru": "Metne göre vücuttaki çift organların cinsiyeti nedir?", "secenekler": ["Müzekker", "Müennes", "Karışık", "İkil"], "dogruIndeks": 1, "aciklama": "الْأَعْضَاءُ الْمُزْدَوِجَةُ... كُلُّهَا مُؤَنَّثَةٌ." },
+        { "id": "m03_r2_q2", "soru": "Aşağıdakilerden hangisi metinde tekil organ (müzekker) olarak anılmıştır?", "secenekler": ["الْيَد", "الْأُذُن", "الْقَلْب", "الرِّجْل"], "dogruIndeks": 2, "aciklama": "الرَّأْسِ وَالْقَلْبِ وَالْأَنْفِ وَالْفَمِ müzekkerdir." },
+        { "id": "m03_r2_q3", "soru": "Metinde الْبَحْرُ (deniz) ile hangi semâî müennes karşılaştırılmıştır?", "secenekler": ["الْأَرْضُ (yeryüzü)", "الشَّمْسُ", "الدَّارُ", "النَّارُ"], "dogruIndeks": 0, "aciklama": "وَالْأَرْضُ مُؤَنَّثَةٌ وَالْبَحْرُ مُذَكَّرٌ." },
+        { "id": "m03_r2_q4", "soru": "Metne göre bu 4 grubu ezberlemenin temel faydası nedir?", "secenekler": ["Hızlı yazmak", "Sıfat ve fiilleri tereddütsüz tam doğrulukla kullanmak", "Sadece şiir okumak", "Sözlük yazmak"], "dogruIndeks": 1, "aciklama": "يَسْتَطِيعُ أَنْ يَسْتَخْدِمَ الصِّفَاتِ وَالْأَفْعَالَ بِدِقَّةٍ تَامَّةٍ." },
+        { "id": "m03_r2_q5", "soru": "'الدَّارُ' ile 'الْبَيْتُ' arasındaki fark metinde nasıl özetlenmiştir?", "secenekler": ["الدَّارُ müennes, الْبَيْتُ müzekkerdir", "İkisi de müzekkerdir", "İkisi de çoğuldur", "Anlamları zıttır"], "dogruIndeks": 0, "aciklama": "وَالدَّارُ مُؤَنَّثَةٌ وَالْبَيْتُ مُذَكَّرٌ." }
+      ]
+    },
+    {
+      "id": "m03_r3",
+      "baslik": "Üç Kardeşin İki Şehir Yolculuğu",
+      "arBaslik": "رِحْلَةُ ثَلَاثَةِ إِخْوَةٍ إِلَى مَدِينَتَيْنِ",
+      "paragraflar": [
+        {
+          "ar": "قَرَّرَ ثَلَاثَةُ إِخْوَةٍ — حَمْزَةُ وَسَعِيدٌ وَفَاطِمَةُ — أَنْ يُسَافِرُوا فِي الْعُطْلَةِ إِلَى مَدِينَتَيْنِ تَارِيخِيَّتَيْنِ فِي تُرْكِيَا: بُورْصَةَ وَقُونْيَا.",
+          "okunus": "Karrara selâsetu ihvetin — Hamzetu ve Sa‘îdun ve Fâtimetu — en yusâfirû fi'l-‘utleti ilâ medîneteyni târîhiyyeteyni fî Turkiyâ: Bûrsate ve Kûnyâ.",
+          "tr": "Üç kardeş — Hamza, Said ve Fatıma — tatilde Türkiye'deki iki tarihî şehre, Bursa ve Konya'ya seyahat etmeye karar verdiler.",
+          "analiz": [
+            { "kelime": "حَمْزَةُ", "kok": "ح-م-ز", "gramer": "Lafzî müennes, hakîkî müzekker", "tr": "Hamza" },
+            { "kelime": "مَدِينَتَيْنِ", "kok": "م-د-ن", "gramer": "Müennes Tesniye (mecrûr ـَيْنِ)", "tr": "iki şehir" }
+          ]
+        },
+        {
+          "ar": "فِي الْمَدِينَةِ الْأُولَى، زَارُوا مَسَاجِدَ عَرِيقَةً وَأَسْوَاقًا قَدِيمَةً، وَتَحَدَّثُوا مَعَ تُجَّارٍ وَمُوَظَّفِينَ لُطَفَاءَ.",
+          "okunus": "Fi'l-medîneti'l-ûlâ, zârû mesâcide ‘arîkaten ve esvâkan kadîmeten, ve tehaddesû me‘a tuccârin ve muvazzafîne lutafâe.",
+          "tr": "İlk şehirde köklü camileri ve eski çarşıları ziyaret ettiler, nazik tüccarlarla ve memurlarla sohbet ettiler.",
+          "analiz": [
+            { "kelime": "مَسَاجِدَ", "kok": "س-ج-د", "gramer": "Kırık çoğul (مَفَاعِلُ, tenvînsiz)", "tr": "camiler", "cardId": "m03_c26" },
+            { "kelime": "مُوَظَّفِينَ", "kok": "و-ظ-ف", "gramer": "Cemi Müzekker Sâlim (mecrûr)", "tr": "memurlar", "cardId": "m03_c14" }
+          ]
+        },
+        {
+          "ar": "اشْتَرَتْ فَاطِمَةُ هَدِيَّتَيْنِ جَمِيلَتَيْنِ لِأُمِّهَا وَأُخْتِهَا، وَاشْتَرَى حَمْزَةُ كُتُبًا تَارِيخِيَّةً قَيِّمَةً مِنْ مَكْتَبَةٍ كَبِيرَةٍ.",
+          "okunus": "İşterat Fâtimetu hediyyeteyni cemîleteyni li-ummihâ ve uhtihâ, ve'şterâ Hamzetu kutuben târîhiyyeten kayyimeten min mektebetin kebîratin.",
+          "tr": "Fatıma annesi ve kız kardeşi için iki güzel hediye aldı, Hamza ise büyük bir kitabevinden değerli tarihî kitaplar satın aldı.",
+          "analiz": [
+            { "kelime": "هَدِيَّتَيْنِ", "kok": "ه-د-ي", "gramer": "Müennes Tesniye (mansub)", "tr": "iki hediye" },
+            { "kelime": "قَيِّمَةً", "kok": "ق-و-م", "gramer": "Tekil müennes sıfat (كُتُبًا için)", "tr": "değerli" }
+          ]
+        },
+        {
+          "ar": "وَعِنْدَمَا عَادَ الْإِخْوَةُ إِلَى دَارِهِمْ، شَكَرُوا الْمُرْشِدَاتِ السِّيَاحِيَّاتِ عَلَى شَرْحِهِنَّ الرَّائِعِ، وَكَتَبُوا ذِكْرَيَاتٍ جَمِيلَةً فِي دَفَاتِرِهِمْ.",
+          "okunus": "Ve ‘indemâ ‘âde'l-ihvetu ilâ dârihim, şekaru'l-murşidâti's-siyâhiyyâti ‘alâ şerhihinne'r-râi‘i, ve ketebû zikrayâtin cemîleten fî defâtirihim.",
+          "tr": "Kardeşler evlerine döndüklerinde, kadın turist rehberlerine harika anlatımları için teşekkür ettiler ve defterlerine güzel hatıralar yazdılar.",
+          "analiz": [
+            { "kelime": "الْمُرْشِدَاتِ", "kok": "ر-ش-د", "gramer": "Cemi Müennes Sâlim (kesra ile mansub!)", "tr": "kadın rehberler" },
+            { "kelime": "دَفَاتِرِهِمْ", "kok": "د-ف-ت-ر", "gramer": "Kırık çoğul + zamir", "tr": "defterlerine" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m03_r3_q1", "soru": "Üç kardeş tatilde hangi iki şehre gitti?", "secenekler": ["İstanbul ve İzmir", "Bursa ve Konya", "Ankara ve Trabzon", "Kahire ve Şam"], "dogruIndeks": 1, "aciklama": "بُورْصَةَ وَقُونْيَا." },
+        { "id": "m03_r3_q2", "soru": "Fatıma kimler için iki hediye satın aldı?", "secenekler": ["Öğretmenleri için", "Annesi ve kız kardeşi için", "Arkadaşları için", "Komşuları için"], "dogruIndeks": 1, "aciklama": "لِأُمِّهَا وَأُخْتِهَا." },
+        { "id": "m03_r3_q3", "soru": "Metinde حَمْزَةُ için kullanılan fiil (اشْتَرَى) neden müzekkerdir?", "secenekler": ["Çünkü Hamza anlamca erkek özel ismidir", "Çünkü Hamza çoğuldur", "Çünkü hata yapılmıştır", "Çünkü fiiller değişmez"], "dogruIndeks": 0, "aciklama": "حَمْزَةُ sonundaki ة'ye rağmen hakîkî müzekkerdir." },
+        { "id": "m03_r3_q4", "soru": "'شَكَرُوا الْمُرْشِدَاتِ' ifadesinde الْمُرْشِدَاتِ neden kesra (ـِ) almıştır?", "secenekler": ["Özne olduğu için", "Cemi Müennes Sâlim nesne (mansub) hâlinde kesra alır", "Harf-i cer geldiği için", "İkil olduğu için"], "dogruIndeks": 1, "aciklama": "Cemi Müennes Sâlim fetha yerine kesra ile mansub olur." },
+        { "id": "m03_r3_q5", "soru": "Kardeşler döndüklerinde defterlerine ne yazdılar?", "secenekler": ["Sadece fiyat listesi", "Güzel hatıralar", "Sınav soruları", "Adresler"], "dogruIndeks": 1, "aciklama": "ذِكْرَيَاتٍ جَمِيلَةً = güzel hatıralar." }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "m03_dlg1",
+      "baslik": "Kitabevinde Tekil, İkil ve Çoğul Alışverişi",
+      "ortam": "Büyük bir kitabevi — Öğrenci ile satıcı",
+      "replikler": [
+        { "konusan": "الْبَائِع", "ar": "أَهْلًا وَسَهْلًا بِكَ! كَيْفَ أَخْدِمُكَ الْيَوْمَ؟", "okunus": "Ehlen ve sehlen bike! Keyfe ehdimuke'l-yevme?", "tr": "Hoş geldiniz! Bugün size nasıl hizmet edebilirim?" },
+        { "konusan": "سَلِيم", "ar": "مَرْحَبًا! أَبْحَثُ عَنْ كِتَابَيْنِ فِي النَّحْوِ وَالصَّرْفِ.", "okunus": "Merhaben! Ebhasu ‘an kitâbeyni fi'n-nahvi ve's-sarfi.", "tr": "Merhaba! Nahiv ve sarf alanında iki kitap arıyorum." },
+        { "konusan": "الْبَائِع", "ar": "تَفَضَّلْ، هٰذَانِ كِتَابَانِ مَشْهُورَانِ وَمُفِيدَانِ جِدًّا.", "okunus": "Tefaddal, hâzâni kitâbâni meşhûrâni ve mufîdâni cidden.", "tr": "Buyurun, bunlar çok meşhur ve faydalı iki kitaptır." },
+        { "konusan": "سَلِيم", "ar": "مُمْتَازٌ! وَهَلْ عِنْدَكَ كُتُبٌ قَصَصِيَّةٌ سَهْلَةٌ؟", "okunus": "Mumtâzun! Ve hel ‘indeke kutubun kasasiyyetun sehletun?", "tr": "Harika! Peki kolay hikâye kitaplarınız var mı?" },
+        { "konusan": "الْبَائِع", "ar": "نَعَمْ، هٰذِهِ الْكُتُبُ الْجَدِيدَةُ مُخَصَّصَةٌ لِلْمُبْتَدِئِينَ.", "okunus": "Na‘am, hâzihi'l-kutubu'l-cedîdetu muhassasatun li'l-mubtediîne.", "tr": "Evet, bu yeni kitaplar başlangıç seviyesindekiler için özeldir." },
+        { "konusan": "سَلِيم", "ar": "رَائِعٌ! أُرِيدُ أَيْضًا قَلَمَيْنِ أَسْوَدَيْنِ وَكُرَّاسَتَيْنِ.", "okunus": "Râi‘un! Urîdu eydan kalemeyni esvedeyni ve kurrâseteyni.", "tr": "Müthiş! Ayrıca iki siyah kalem ve iki deftercik istiyorum." },
+        { "konusan": "الْبَائِع", "ar": "حَاضِرٌ! وَهَلْ تُرِيدُ حَقِيبَةً كَبِيرَةً لِهٰذِهِ الْأَغْرَاضِ؟", "okunus": "Hâdirun! Ve hel turîdu hakîbeten kebîraten li-hâzihi'l-agrâdi?", "tr": "Tabii! Bu eşyalar için büyük bir çanta ister misiniz?" },
+        { "konusan": "سَلِيم", "ar": "لَا شُكْرًا، عِنْدِي حَقِيبَتَانِ فِي الْبَيْتِ.", "okunus": "Lâ şukran, ‘indî hakîbetâni fi'l-beyti.", "tr": "Hayır teşekkürler, evde iki çantam var." },
+        { "konusan": "الْبَائِع", "ar": "هَلْ تَدْرُسُ مَعَ أَصْدِقَائِكَ فِي الْجَامِعَةِ؟", "okunus": "Hel tedrusu me‘a esdikâike fi'l-câmi‘ati?", "tr": "Üniversitede arkadaşlarınla birlikte mi çalışıyorsun?" },
+        { "konusan": "سَلِيم", "ar": "نَعَمْ، نَحْنُ طُلَّابٌ مُجْتَهِدُونَ وَنَتَبَادَلُ الْكُتُبَ.", "okunus": "Na‘am, nahnu tullâbun muctehidûne ve netebâdelu'l-kutube.", "tr": "Evet, biz çalışkan öğrencileriz ve kitap alışverişi yaparız." },
+        { "konusan": "الْبَائِع", "ar": "بَارَكَ اللّٰهُ فِيكُمْ! تَفَضَّلِ الْكُتُبَ وَالْقَلَمَيْنِ.", "okunus": "Bârakallâhu fîkum! Tefaddali'l-kutube ve'l-kalemeyni.", "tr": "Allah bereket versin! Buyurun kitaplar ve iki kalem." },
+        { "konusan": "سَلِيم", "ar": "شُكْرًا جَزِيلًا يَا أَخِي، إِلَى اللِّقَاءِ!", "okunus": "Şukran cezîlen yâ ehî, ile'l-likâi!", "tr": "Çok teşekkür ederim kardeşim, görüşmek üzere!" }
+      ],
+      "partner": [
+        {
+          "soruAr": "كَيْفَ أُسَاعِدُكَ فِي الْمَكْتَبَةِ؟",
+          "soruTr": "Kitabevinde sana nasıl yardımcı olabilirim?",
+          "ipucu": "İki kitap istediğini mansub ikille (كِتَابَيْنِ) söyle.",
+          "secenekler": [
+            { "ar": "أُرِيدُ كِتَابَيْنِ جَدِيدَيْنِ فِي النَّحْوِ.", "tr": "Nahiv alanında iki yeni kitap istiyorum." },
+            { "ar": "أُرِيدُ كِتَابَانِ جَدِيدَانِ.", "tr": "İki yeni kitap (yanlış i'rab)." },
+            { "ar": "الشَّمْسُ سَاطِعَةٌ.", "tr": "Güneş parlaktır." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "أُرِيدُ fiilinin nesnesi mansubdur → كِتَابَيْنِ جَدِيدَيْنِ."
+        },
+        {
+          "soruAr": "مَا رَأْيُكَ فِي هٰذِهِ الْكُتُبِ الْقَصَصِيَّةِ؟",
+          "soruTr": "Bu hikâye kitapları hakkında düşüncen nedir?",
+          "ipucu": "Akılsız çoğul için tekil müennes (هِيَ مُفِيدَةٌ) kullan.",
+          "secenekler": [
+            { "ar": "هِيَ كُتُبٌ مُفِيدَةٌ وَجَمِيلَةٌ جِدًّا.", "tr": "Onlar çok faydalı ve güzel kitaplardır." },
+            { "ar": "هُمْ كُتُبٌ مُفِيدُونَ.", "tr": "Onlar (yanlış — akılsız çoğul)." },
+            { "ar": "هُوَ كِتَابَةٌ.", "tr": "O yazmadır." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "كُتُب akılsız çoğul olduğu için هِيَ ve مُفِيدَةٌ gelir."
+        },
+        {
+          "soruAr": "كَمْ قَلَمًا تُرِيدُ؟",
+          "soruTr": "Kaç kalem istiyorsun?",
+          "ipucu": "İkil mansub (قَلَمَيْنِ) ile cevap ver.",
+          "secenekler": [
+            { "ar": "أُرِيدُ قَلَمَيْنِ فَقَطْ.", "tr": "Sadece iki kalem istiyorum." },
+            { "ar": "أُرِيدُ قَلَمُونَ.", "tr": "Yanlış çoğul." },
+            { "ar": "قَلَمَانِ كَبِيرَةٌ.", "tr": "Uyumsuz tamlama." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "İki kalem (nesne) = قَلَمَيْنِ."
+        },
+        {
+          "soruAr": "هَلْ عِنْدَكَ حَقِيبَةٌ؟",
+          "soruTr": "Çantan var mı?",
+          "ipucu": "عِنْدِي sonrası merfû ikil (حَقِيبَتَانِ) kullan.",
+          "secenekler": [
+            { "ar": "نَعَمْ، عِنْدِي حَقِيبَتَانِ فِي الْبَيْتِ.", "tr": "Evet, evde iki çantam var." },
+            { "ar": "نَعَمْ، عِنْدِي حَقِيبَتَيْنِ.", "tr": "İ'rab hatası (mübtedâ merfûdur)." },
+            { "ar": "مَا اسْمُكَ؟", "tr": "Adın ne?" }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "عِنْدِي sonrası mübtedâ merfûdur: حَقِيبَتَانِ."
+        },
+        {
+          "soruAr": "شُكْرًا لِزِيَارَتِكَ، إِلَى اللِّقَاءِ!",
+          "soruTr": "Ziyaretin için teşekkürler, görüşmek üzere!",
+          "ipucu": "Teşekkür ederek vedalaş.",
+          "secenekler": [
+            { "ar": "شُكْرًا جَزِيلًا، مَعَ السَّلَامَةِ!", "tr": "Çok teşekkürler, hoşça kalın!" },
+            { "ar": "أَيْنَ الْمَدْرَسَةُ؟", "tr": "Okul nerede?" },
+            { "ar": "الْأَرْضُ وَاسِعَةٌ.", "tr": "Yeryüzü geniştir." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Doğal vedalaşma cevabı."
+        }
+      ]
+    },
+    {
+      "id": "m03_dlg2",
+      "baslik": "Yeni Sınıf Arkadaşlarını ve Öğretmenleri Tanıtmak",
+      "ortam": "Okul bahçesi — İki arkadaş öğretmen ve öğrencileri konuşuyor",
+      "replikler": [
+        { "konusan": "عَائِشَة", "ar": "مَنْ هٰؤُلَاءِ الْمُعَلِّمُونَ أَمَامَ الْإِدَارَةِ يَا رُقَيَّةُ؟", "okunus": "Men hâulâi'l-mu‘allimûne emâme'l-idârati yâ Rukayyetu?", "tr": "Rukiye, idarenin önündeki bu öğretmenler kim?" },
+        { "konusan": "رُقَيَّة", "ar": "هٰؤُلَاءِ مُعَلِّمُونَ جُدُدٌ لِلُّغَةِ الْعَرَبِيَّةِ وَالتَّارِيخِ.", "okunus": "Hâulâi mu‘allimûne cududun li'l-lugati'l-‘arabiyyeti ve't-târîhi.", "tr": "Bunlar Arapça ve tarih için yeni öğretmenlerdir." },
+        { "konusan": "عَائِشَة", "ar": "وَمَنْ تِلْكَ الْمُعَلِّمَاتُ بِجَانِبِ الْمَكْتَبَةِ؟", "okunus": "Ve men tilke'l-mu‘allimâtu bi-cânibi'l-mektebeti?", "tr": "Peki kütüphanenin yanındaki şu kadın öğretmenler kim?" },
+        { "konusan": "رُقَيَّة", "ar": "هُنَّ مُعَلِّمَاتُ الصَّرْفِ وَالنَّحْوِ، وَهُنَّ مَاهِرَاتٌ جِدًّا.", "okunus": "Hunne mu‘allimâtu's-sarfi ve'n-nahvi, ve hunne mâhirâtun cidden.", "tr": "Onlar sarf ve nahiv öğretmenleridir ve çok yeteneklidirler." },
+        { "konusan": "عَائِشَة", "ar": "رَأَيْتُ الْمُعَلِّمَاتِ صَبَاحًا وَسَلَّمْتُ عَلَيْهِنَّ.", "okunus": "Reeytu'l-mu‘allimâti sabâhan ve sellemtu ‘aleyhinne.", "tr": "Sabahleyin kadın öğretmenleri gördüm ve onlara selam verdim." },
+        { "konusan": "رُقَيَّة", "ar": "جَمِيلٌ! وَكَمْ طَالِبَةً فِي صَفِّنَا هٰذَا الْعَامَ؟", "okunus": "Cemîlun! Ve kem tâlibeten fî saffinâ hâze'l-‘âme?", "tr": "Güzel! Peki bu yıl sınıfımızda kaç kız öğrenci var?" },
+        { "konusan": "عَائِشَة", "ar": "فِي صَفِّنَا عَشْرُ طَالِبَاتٍ مُجْتَهِدَاتٍ وَخَمْسَةُ طُلَّابٍ.", "okunus": "Fî saffinâ ‘aşru tâlibâtin muctehidâtin ve hamsetu tullâbin.", "tr": "Sınıfımızda on çalışkan kız öğrenci ve beş erkek öğrenci var." },
+        { "konusan": "رُقَيَّة", "ar": "مُمْتَازٌ! وَهَلِ الْقَاعَاتُ الْجَدِيدَةُ مُرِيحَةٌ؟", "okunus": "Mumtâzun! Ve heli'l-kâ‘âtu'l-cedîdetu murîhatun?", "tr": "Harika! Peki yeni derslikler rahat mı?" },
+        { "konusan": "عَائِشَة", "ar": "نَعَمْ، هِيَ قَاعَاتٌ وَاسِعَةٌ وَنَوَافِذُهَا كَبِيرَةٌ.", "okunus": "Na‘am, hiye kâ‘âtun vâsi‘atun ve nevâfizuhâ kebîratun.", "tr": "Evet, geniş salonlardır ve pencereleri büyüktür." },
+        { "konusan": "رُقَيَّة", "ar": "أُحِبُّ هٰذِهِ الْمَدْرَسَةَ كَثِيرًا لِأَنَّ الْمُوَظَّفِينَ فِيهَا مُتَعَاوِنُونَ.", "okunus": "Uhibbu hâzihi'l-medresete kesîran li-enne'l-muvazzafîne fîhâ mute‘âvinûne.", "tr": "Bu okulu çok seviyorum çünkü içindeki çalışanlar çok yardımsever." },
+        { "konusan": "عَائِشَة", "ar": "أَنَا أَيْضًا! هَيَّا نَدْخُلِ الصَّفَّ قَبْلَ الْجَرَسِ.", "okunus": "Ene eydan! Heyyâ nedhuli's-saffe kable'l-ceresi.", "tr": "Ben de! Haydi zilden önce sınıfa girelim." },
+        { "konusan": "رُقَيَّة", "ar": "هَيَّا بِنَا يَا عَائِشَةُ!", "okunus": "Heyyâ binâ yâ ‘Âişetu!", "tr": "Haydi gidelim Ayşe!" }
+      ],
+      "partner": [
+        {
+          "soruAr": "مَنْ هٰؤُلَاءِ فِي الْقَاعَةِ؟",
+          "soruTr": "Salondaki bu kişiler kim?",
+          "ipucu": "Akıllı erkek çoğulu (مُعَلِّمُونَ / طُلَّابٌ) kullan.",
+          "secenekler": [
+            { "ar": "هٰؤُلَاءِ مُعَلِّمُونَ مَاهِرُونَ.", "tr": "Bunlar yetenekli öğretmenlerdir." },
+            { "ar": "هٰذِهِ مُعَلِّمُونَ.", "tr": "Yanlış işaret ismi." },
+            { "ar": "هٰؤُلَاءِ كُتُبٌ.", "tr": "Yanlış (cansızlara هٰؤُلَاءِ gelmez)." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Akıllı çoğullar için هٰؤُلَاءِ kullanılır."
+        },
+        {
+          "soruAr": "هَلْ رَأَيْتَ الطَّالِبَاتِ فِي الْمَكْتَبَةِ؟",
+          "soruTr": "Kütüphanede kız öğrencileri gördün mü?",
+          "ipucu": "Cemi Müennes Sâlim nesne hâlinde kesra alır (الطَّالِبَاتِ).",
+          "secenekler": [
+            { "ar": "نَعَمْ، رَأَيْتُ الطَّالِبَاتِ الْمُجْتَهِدَاتِ هُنَاكَ.", "tr": "Evet, çalışkan kız öğrencileri orada gördüm." },
+            { "ar": "نَعَمْ، رَأَيْتُ الطَّالِبَاتَ.", "tr": "Yanlış (fetha alamaz)." },
+            { "ar": "نَعَمْ، رَأَيْتُ الطَّالِبُونَ.", "tr": "Yanlış i'rab." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "الطَّالِبَاتِ الْمُجْتَهِدَاتِ kesra ile mansub olur."
+        },
+        {
+          "soruAr": "كَيْفَ الْقَاعَاتُ الْجَدِيدَةُ؟",
+          "soruTr": "Yeni salonlar nasıl?",
+          "ipucu": "قَاعَات akılsız çoğuldur → tekil müennes sıfat kullan.",
+          "secenekler": [
+            { "ar": "هِيَ قَاعَاتٌ وَاسِعَةٌ وَمُرِيحَةٌ.", "tr": "Onlar geniş ve rahat salonlardır." },
+            { "ar": "هُمْ قَاعَاتٌ وَاسِعُونَ.", "tr": "Yanlış (akılsız çoğul)." },
+            { "ar": "هُوَ قَاعَةٌ.", "tr": "Cinsiyet uyumsuz." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Akılsız çoğul = tekil müennes."
+        },
+        {
+          "soruAr": "هَلْ سَلَّمْتَ عَلَى الْمُوَظَّفِينَ؟",
+          "soruTr": "Memurlara selam verdin mi?",
+          "ipucu": "عَلَى sonrası mecrûr (ـِينَ) koru.",
+          "secenekler": [
+            { "ar": "نَعَمْ، سَلَّمْتُ عَلَى الْمُوَظَّفِينَ الْيَوْمَ.", "tr": "Evet, bugün memurlara selam verdim." },
+            { "ar": "نَعَمْ، سَلَّمْتُ عَلَى الْمُوَظَّفُونَ.", "tr": "Yanlış (cer hâli ـِينَ olmalı)." },
+            { "ar": "الْيَدُ قَوِيَّةٌ.", "tr": "El güçlüdür." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Harf-i cer sonrası Cemi Müzekker Sâlim ـِينَ olur."
+        },
+        {
+          "soruAr": "هَيَّا نَدْخُلِ الصَّفَّ!",
+          "soruTr": "Haydi sınıfa girelim!",
+          "ipucu": "هَيَّا بِنَا (Haydi gidelim!) ile yanıtla.",
+          "secenekler": [
+            { "ar": "هَيَّا بِنَا، الدَّرْسُ سَيَبْدَأُ الْآنَ!", "tr": "Haydi gidelim, ders şimdi başlayacak!" },
+            { "ar": "حَمْزَةُ مُهَنْدِسٌ.", "tr": "Hamza mühendistir." },
+            { "ar": "مَدِينَتَانِ.", "tr": "İki şehir." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Doğal katılım cevabı."
+        }
+      ]
+    },
+    {
+      "id": "m03_dlg3",
+      "baslik": "Aile ve Meslekler Hakkında Sohbet",
+      "ortam": "İki yeni tanışan öğrenci ailelerini anlatıyor",
+      "replikler": [
+        { "konusan": "إِبْرَاهِيم", "ar": "حَدِّثْنِي عَنْ أُسْرَتِكَ يَا حَمْزَةُ!", "okunus": "Haddisnî ‘an usretike yâ Hamzetu!", "tr": "Hamza, bana ailenden bahset!" },
+        { "konusan": "حَمْزَة", "ar": "أُسْرَتِي كَبِيرَةٌ وَسَعِيدَةٌ. أَبِي مُهَنْدِسٌ وَأُمِّي طَبِيبَةٌ.", "okunus": "Usretî kebîratun ve sa‘îdetun. Ebî muhendisun ve ummî tabîbetun.", "tr": "Ailem büyük ve mutludur. Babam mühendis, annem doktordur." },
+        { "konusan": "إِبْرَاهِيم", "ar": "مَا شَاءَ اللّٰهُ! وَكَمْ أَخًا وَأُخْتًا لَكَ؟", "okunus": "Mâşâallâhu! Ve kem ehan ve uhten leke?", "tr": "Maşallah! Kaç erkek ve kız kardeşin var?" },
+        { "konusan": "حَمْزَة", "ar": "لِي أَخَوَانِ كَبِيرَانِ وَأُخْتَانِ صَغِيرَتَانِ.", "okunus": "Lî ehavâni kebîrâni ve uhtâni sagîretâni.", "tr": "İki büyük ağabeyim ve iki küçük kız kardeşim var." },
+        { "konusan": "إِبْرَاهِيم", "ar": "مَاذَا يَعْمَلُ أَخَوَاكَ؟", "okunus": "Mâzâ ya‘melu ehavâke?", "tr": "İki ağabeyin ne iş yapıyor?" },
+        { "konusan": "حَمْزَة", "ar": "هُمَا مُعَلِّمَانِ فِي مَدْرَسَةٍ حَدِيثَةٍ فِي أَنْقَرَةَ.", "okunus": "Humâ mu‘allimâni fî medresetin hadîsetin fî Enkarate.", "tr": "İkisi Ankara'da modern bir okulda öğretmenler." },
+        { "konusan": "إِبْرَاهِيم", "ar": "وَأُخْتَاكَ الصَّغِيرَتَانِ؟", "okunus": "Ve uhtâke's-sagîretâni?", "tr": "Peki iki küçük kız kardeşin?" },
+        { "konusan": "حَمْزَة", "ar": "هُمَا طَالِبَتَانِ نَشِيطَتَانِ فِي الْمَدْرَسَةِ الثَّانَوِيَّةِ.", "okunus": "Humâ tâlibetâni neşîtatâni fi'l-medreseti's-sâneviyyeti.", "tr": "İkisi lisede dinamik öğrenciler." },
+        { "konusan": "إِبْرَاهِيم", "ar": "وَأَنَا عِنْدِي ثَلَاثُ أَخَوَاتٍ: طَبِيبَةٌ وَمُهَنْدِسَةٌ وَمُعَلِّمَةٌ!", "okunus": "Ve ene ‘indî selâsu ehavâtin: tabîbetun ve muhendisetun ve mu‘allimetun!", "tr": "Benim de üç kız kardeşim var: Bir doktor, bir mühendis ve bir öğretmen!" },
+        { "konusan": "حَمْزَة", "ar": "رَائِعٌ! أُسْرَتُكُمْ مَلِيئَةٌ بِالْخُبَرَاءِ وَالْخَبِيرَاتِ.", "okunus": "Râi‘un! Usretukum melîetun bi'l-huberâi ve'l-habîrâti.", "tr": "Harika! Aileniz kadın ve erkek uzmanlarla dolu." },
+        { "konusan": "إِبْرَاهِيم", "ar": "حَفِظَ اللّٰهُ أُسَرَنَا جَمِيعًا!", "okunus": "Hafizallâhu useranâ cemî‘an!", "tr": "Allah hepimizin ailelerini korusun!" },
+        { "konusan": "حَمْزَة", "ar": "آمِينَ يَا رَبَّ الْعَالَمِينَ!", "okunus": "Âmîne yâ Rabbe'l-‘âlemîne!", "tr": "Âmin, ey âlemlerin Rabbi!" }
+      ],
+      "partner": [
+        {
+          "soruAr": "مَا مِهْنَةُ وَالِدَتِكَ؟",
+          "soruTr": "Annenin mesleği nedir?",
+          "ipucu": "Müennes meslek adı (طَبِيبَةٌ / مُعَلِّمَةٌ) kullan.",
+          "secenekler": [
+            { "ar": "أُمِّي طَبِيبَةٌ مَاهِرَةٌ.", "tr": "Annem yetenekli bir doktordur." },
+            { "ar": "أُمِّي طَبِيبٌ مَاهِرٌ.", "tr": "Cinsiyet uyumsuz." },
+            { "ar": "أَبِي مُعَلِّمَةٌ.", "tr": "Cinsiyet uyumsuz." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "أُمِّي müennes olduğu için طَبِيبَةٌ مَاهِرَةٌ gelir."
+        },
+        {
+          "soruAr": "كَمْ أُخْتًا لَكَ؟",
+          "soruTr": "Kaç kız kardeşin var?",
+          "ipucu": "İki kız kardeş için ikil (أُخْتَانِ) kullan.",
+          "secenekler": [
+            { "ar": "لِي أُخْتَانِ جَمِيلَتَانِ.", "tr": "İki güzel kız kardeşim var." },
+            { "ar": "لِي أُخْتَيْنِ جَمِيلَتَانِ.", "tr": "İ'rab hatası." },
+            { "ar": "لِي أُخْتُونَ.", "tr": "Yanlış çoğul." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "لِي sonrası mübtedâ merfûdur: أُخْتَانِ جَمِيلَتَانِ."
+        },
+        {
+          "soruAr": "مَاذَا تَدْرُسُ أُخْتَاكَ؟",
+          "soruTr": "İki kız kardeşin ne okuyor?",
+          "ipucu": "İkil müennes (طَالِبَتَانِ) ile cevap ver.",
+          "secenekler": [
+            { "ar": "هُمَا طَالِبَتَانِ فِي الْجَامِعَةِ.", "tr": "İkisi üniversitede öğrencidir." },
+            { "ar": "هُمْ طَالِبٌ.", "tr": "Uyumsuz." },
+            { "ar": "هُوَ طَالِبَتَانِ.", "tr": "Zamir uyumsuz." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "هُمَا (o ikisi) + طَالِبَتَانِ."
+        },
+        {
+          "soruAr": "مَا مِهْنَةُ أَخِيكَ حَمْزَةَ؟",
+          "soruTr": "Kardeşin Hamza'nın mesleği nedir?",
+          "ipucu": "حَمْزَةُ erkektir → eril meslek ve sıfat!",
+          "secenekler": [
+            { "ar": "حَمْزَةُ مُهَنْدِسٌ نَاجِحٌ.", "tr": "Hamza başarılı bir mühendistir." },
+            { "ar": "حَمْزَةُ مُهَنْدِسَةٌ نَاجِحَةٌ.", "tr": "Yanlış (Hamza erkektir)." },
+            { "ar": "حَمْزَةُ مَدْرَسَةٌ.", "tr": "Anlamsız." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "حَمْزَةُ hakîkî müzekkerdir."
+        },
+        {
+          "soruAr": "حَفِظَ اللّٰهُ أُسْرَتَكَ الْكَرِيمَةَ!",
+          "soruTr": "Allah değerli aileni korusun!",
+          "ipucu": "Âmin ve teşekkürle yanıtla.",
+          "secenekler": [
+            { "ar": "آمِينَ، شُكْرًا جَزِيلًا وَبَارَكَ اللّٰهُ فِيكَ!", "tr": "Âmin, çok teşekkürler, Allah senden de razı olsun!" },
+            { "ar": "السَّيَّارَاتُ حَمْرَاءُ.", "tr": "Arabalar kırmızıdır." },
+            { "ar": "أَيْنَ الْكُتُبُ؟", "tr": "Kitaplar nerede?" }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Kültürel olarak en doğal dua karşılığı."
+        }
+      ]
+    },
+    {
+      "id": "m03_dlg4",
+      "baslik": "Şehir ve Doğa Fotoğraflarına Bakarken",
+      "ortam": "İki arkadaş seyahat albümünü inceliyor",
+      "replikler": [
+        { "konusan": "نَادِيَة", "ar": "اُنْظُرِي إِلَى هٰذِهِ الصُّوَرِ الْجَمِيلَةِ مِنْ رِحْلَتِنَا!", "okunus": "Unzurî ilâ hâzihi's-suveri'l-cemîleti min rihletinâ!", "tr": "Yolculuğumuzdan bu güzel fotoğraflara bak!" },
+        { "konusan": "هِنْد", "ar": "مَا أَرْوَعَهَا! أَيْنَ هٰذِهِ الْبُيُوتُ الْقَدِيمَةُ؟", "okunus": "Mâ erva‘ahâ! Eyne hâzihi'l-buyûtu'l-kadîmetu?", "tr": "Ne harika! Bu eski evler nerede?" },
+        { "konusan": "نَادِيَة", "ar": "هٰذِهِ بُيُوتٌ تَارِيخِيَّةٌ فِي مَدِينَةِ أَمَاسْيَا.", "okunus": "Hâzihî buyûtun târîhiyyetun fî medîneti Emâsyâ.", "tr": "Bunlar Amasya şehrindeki tarihî evlerdir." },
+        { "konusan": "هِنْد", "ar": "وَهٰذِهِ الْجِبَالُ الْعَالِيَةُ خَلْفَ النَّهْرِ، مَا أَجْمَلَهَا!", "okunus": "Ve hâzihi'l-cibâlu'l-‘âliyetu halfe'n-nehri, mâ ecmelehâ!", "tr": "Ya nehrin arkasındaki bu yüksek dağlar, ne kadar güzel!" },
+        { "konusan": "نَادِيَة", "ar": "نَعَمْ، وَالشَّمْسُ كَانَتْ سَاطِعَةً وَالسَّمَاءُ زَرْقَاءَ صَافِيَةً.", "okunus": "Na‘am, ve'ş-şemsu kânet sâti‘aten ve's-semâu zerkâe sâfiyeten.", "tr": "Evet, güneş parlaktı ve gökyüzü masmavi ve berraktı." },
+        { "konusan": "هِنْد", "ar": "وَفِي الصُّورَةِ الثَّانِيَةِ، مَا هٰذِهِ الْأَشْجَارُ الْخَضْرَاءُ؟", "okunus": "Ve fi's-sûrati's-sâniyeti, mâ hâzihi'l-eşcâru'l-hadrâu?", "tr": "İkinci fotoğrafta bu yeşil ağaçlar nedir?" },
+        { "konusan": "نَادِيَة", "ar": "هِيَ أَشْجَارُ التُّفَّاحِ، وَالْأَرْضُ هُنَاكَ خِصْبَةٌ جِدًّا.", "okunus": "Hiye eşcâru't-tuffâhi, ve'l-ardu hunâke hisbetun cidden.", "tr": "Onlar elma ağaçlarıdır ve oradaki toprak çok verimlidir." },
+        { "konusan": "هِنْد", "ar": "لَاحَظْتُ أَنَّكِ اسْتَخْدَمْتِ «هٰذِهِ» مَعَ الصُّوَرِ وَالْبُيُوتِ وَالْجِبَالِ وَالْأَشْجَارِ!", "okunus": "Lâhaztu enneki'stahdemti hâzihî me‘a's-suveri ve'l-buyûti ve'l-cibâli ve'l-eşcâri!", "tr": "Fotoğraflar, evler, dağlar ve ağaçlarla hep 'هٰذِهِ' kullandığını fark ettim!" },
+        { "konusan": "نَادِيَة", "ar": "بِالطَّبْعِ! لِأَنَّهَا كُلَّهَا جُمُوعٌ لِغَيْرِ الْعَاقِلِ، فَتُعَامَلُ كَالْمُفْرَدِ الْمُؤَنَّثِ.", "okunus": "Bi't-tab‘i! Li-ennehâ kullehâ cumû‘un li-gayri'l-‘âkili, fe-tu‘âmelu ke'l-mufredi'l-muennesi.", "tr": "Elbette! Çünkü hepsi akılsız çoğuldur, dolayısıyla tekil müennes gibi muamele görürler." },
+        { "konusan": "هِنْد", "ar": "وَلٰكِنْ فِي الصُّورَةِ الْأَخِيرَةِ يَظْهَرُ سُيَّاحٌ كَثِيرُونَ!", "okunus": "Ve lâkin fi's-sûrati'l-ehîrati yazheru suyyâhun kesîrûne!", "tr": "Ama son fotoğrafta pek çok turist görünüyor!" },
+        { "konusan": "نَادِيَة", "ar": "صَحِيحٌ! لِأَنَّ السُّيَّاحَ عُقَلَاءُ، فَقُلْتِ «كَثِيرُونَ» بِالْجَمْعِ!", "okunus": "Sahîhun! Li-enne's-suyyâha ‘ukalâu, fe-kulti kesîrûne bi'l-cem‘i!", "tr": "Doğru! Turistler akıllı (insan) olduğu için çoğul olarak 'كَثِيرُونَ' dedin!" },
+        { "konusan": "هِنْد", "ar": "يَا لَهَا مِنْ قَاعِدَةٍ ذَهَبِيَّةٍ وَسَهْلَةِ التَّطْبِيقِ!", "okunus": "Yâ lehâ min kâ‘idetin zehebiyyetin ve sehleti't-tatbîki!", "tr": "Ne kadar altın ve uygulaması kolay bir kural!" }
+      ],
+      "partner": [
+        {
+          "soruAr": "كَيْفَ الْبُيُوتُ الْقَدِيمَةُ فِي الصُّورَةِ؟",
+          "soruTr": "Fotoğraftaki eski evler nasıl?",
+          "ipucu": "بُيُوت akılsız çoğuldur → هِيَ + tekil müennes sıfat!",
+          "secenekler": [
+            { "ar": "هِيَ بُيُوتٌ جَمِيلَةٌ وَتَارِيخِيَّةٌ.", "tr": "Onlar güzel ve tarihî evlerdir." },
+            { "ar": "هُمْ بُيُوتٌ جَمِيلُونَ.", "tr": "Yanlış (akılsız çoğul)." },
+            { "ar": "هُوَ بُيُوتٌ.", "tr": "Uyumsuz." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "بُيُوت akılsız kırık çoğuldur."
+        },
+        {
+          "soruAr": "مَا لَوْنُ الْأَشْجَارِ فِي الرَّبِيعِ؟",
+          "soruTr": "İlkbaharda ağaçların rengi nedir?",
+          "ipucu": "أَشْجَار akılsız çoğul → müennes renk (خَضْرَاءُ).",
+          "secenekler": [
+            { "ar": "الْأَشْجَارُ خَضْرَاءُ فِي الرَّبِيعِ.", "tr": "Ağaçlar ilkbaharda yeşildir." },
+            { "ar": "الْأَشْجَارُ أَخْضَرُ.", "tr": "Eril renk (uyumsuz)." },
+            { "ar": "الْأَشْجَارُ أَخْضَرُونَ.", "tr": "Yanlış çoğul." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "أَخْضَرُ (eril) → خَضْرَاءُ (müennes)."
+        },
+        {
+          "soruAr": "أَيُّ إِشَارَةٍ نَسْتَخْدِمُ لِلْجِبَالِ الْعَالِيَةِ؟",
+          "soruTr": "Yüksek dağlar için hangi işaret ismini kullanırız?",
+          "ipucu": "جِبَال akılsız çoğuldur.",
+          "secenekler": [
+            { "ar": "نَقُولُ «هٰذِهِ الْجِبَالُ الْعَالِيَةُ» أَوْ «تِلْكَ الْجِبَالُ».", "tr": "'Bu yüksek dağlar' (هٰذِهِ) veya 'şu dağlar' (تِلْكَ) deriz." },
+            { "ar": "نَقُولُ «هٰؤُلَاءِ الْجِبَالُ».", "tr": "Yanlış (هٰؤُلَاءِ sadece insanlar içindir)." },
+            { "ar": "نَقُولُ «هٰذَا الْجِبَالُ».", "tr": "Yanlış." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Akılsız çoğullara هٰذِهِ / تِلْكَ gelir."
+        },
+        {
+          "soruAr": "وَمَاذَا نَقُولُ لِلسُّيَّاحِ (turistler)؟",
+          "soruTr": "Peki turistler için ne deriz?",
+          "ipucu": "Turistler insandır → akıllı çoğul!",
+          "secenekler": [
+            { "ar": "هٰؤُلَاءِ سُيَّاحٌ كَثِيرُونَ.", "tr": "Bunlar pek çok turisttir." },
+            { "ar": "هٰذِهِ سُيَّاحٌ كَثِيرَةٌ.", "tr": "Yanlış (insan çoğulu)." },
+            { "ar": "هٰذَا سُيَّاحٌ.", "tr": "Uyumsuz." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Akıllı çoğulda هٰؤُلَاءِ + çoğul sıfat kullanılır."
+        },
+        {
+          "soruAr": "أَحْسَنْتَ! الصُّوَرُ رَائِعَةٌ حَقًّا.",
+          "soruTr": "Aferin! Fotoğraflar gerçekten harika.",
+          "ipucu": "Teşekkür ederek sohbeti tamamla.",
+          "secenekler": [
+            { "ar": "شُكْرًا لَكِ، سَأُرِيكِ مَزِيدًا مِنَ الصُّوَرِ غَدًا!", "tr": "Teşekkür ederim, yarın sana daha fazla fotoğraf göstereceğim!" },
+            { "ar": "قَلَمَيْنِ أَسْوَدَيْنِ.", "tr": "İki siyah kalem." },
+            { "ar": "الْقَلْبُ مُذَكَّرٌ.", "tr": "Kalp erildir." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Doğal kapanış cevabı."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "id": "m03_c1", "ar": "مُذَكَّرٌ", "harekesiz": "مذكر", "okunus": "muzekkerun", "tr": "eril (müzekker)", "kok": "ذ-ك-ر", "vezin": "مُفَعَّل", "turevler": [{ "ar": "ذَكَرٌ", "tr": "erkek" }, { "ar": "تَذْكِيرٌ", "tr": "eril yapma / hatırlatma" }], "ekBilgi": "Gramer terimi; zıddı: مُؤَنَّثٌ", "ornek": "كَلِمَةُ «قَلَمٌ» اِسْمٌ مُذَكَّرٌ.", "ornekTr": "'Kalemun' kelimesi eril bir isimdir.", "kullanimNotu": "Müenneslik alâmeti taşımayan isimler kural olarak müzekkerdir.", "tur": "Terim" },
+    { "id": "m03_c2", "ar": "مُؤَنَّثٌ", "harekesiz": "مؤنث", "okunus": "muennesun", "tr": "dişil (müennes)", "kok": "أ-ن-ث", "vezin": "مُفَعَّل", "turevler": [{ "ar": "أُنْثَى", "tr": "dişi" }, { "ar": "تَأْنِيثٌ", "tr": "dişil yapma" }], "ekBilgi": "3 alâmeti: ة، ى، اء + semâî müennesler", "ornek": "الْمَدْرَسَةُ وَالشَّمْسُ اِسْمَانِ مُؤَنَّثَانِ.", "ornekTr": "Okul ve güneş iki dişil isimdir.", "kullanimNotu": "Hemze ؤ koltuğundadır (damme > fetha).", "tur": "Terim" },
+    { "id": "m03_c3", "ar": "طَبِيبَةٌ", "harekesiz": "طبيبة", "okunus": "tabîbetun", "tr": "kadın doktor", "kok": "ط-ب-ب", "vezin": "فَعِيلَة", "turevler": [{ "ar": "طَبِيبٌ", "tr": "erkek doktor" }, { "ar": "طَبِيبَاتٌ", "tr": "kadın doktorlar" }, { "ar": "أَطِبَّاءُ", "tr": "doktorlar" }], "ekBilgi": "Çoğulu: طَبِيبَاتٌ (düzenli dişil)", "ornek": "أُمِّي طَبِيبَةٌ مَاهِرَةٌ فِي الْمُسْتَشْفَى.", "ornekTr": "Annem hastanede yetenekli bir doktordur.", "kullanimNotu": "Eril çoğulu kırık çoğuldur: أَطِبَّاءُ.", "tur": "İsim" },
+    { "id": "m03_c4", "ar": "مُهَنْدِسٌ", "harekesiz": "مهندس", "okunus": "muhendisun", "tr": "mühendis", "kok": "ه-ن-د-س", "vezin": "مُفَعْلِل", "turevler": [{ "ar": "مُهَنْدِسَةٌ", "tr": "kadın mühendis" }, { "ar": "مُهَنْدِسُونَ", "tr": "mühendisler" }, { "ar": "هَنْدَسَةٌ", "tr": "mühendislik" }], "ekBilgi": "Çoğulu: مُهَنْدِسُونَ / مُهَنْدِسِينَ", "ornek": "يَعْمَلُ الْمُهَنْدِسُونَ فِي مَشْرُوعٍ كَبِيرٍ.", "ornekTr": "Mühendisler büyük bir projede çalışıyorlar.", "kullanimNotu": "Rubâî (4 harfli) köktendir.", "tur": "İsim" },
+    { "id": "m03_c5", "ar": "عَيْنٌ", "harekesiz": "عين", "okunus": "‘aynun", "tr": "göz / pınar / kaynak", "kok": "ع-ي-ن", "vezin": "فَعْل", "turevler": [{ "ar": "عُيُونٌ", "tr": "gözler / pınarlar" }, { "ar": "أَعْيُنٌ", "tr": "gözler" }], "ekBilgi": "Semâî müennes (çift organ!)", "ornek": "الْعَيْنُ الْيُمْنَى سَلِيمَةٌ.", "ornekTr": "Sağ göz sağlıklıdır.", "kullanimNotu": "İkili: عَيْنَانِ / عَيْنَيْنِ.", "tur": "İsim" },
+    { "id": "m03_c6", "ar": "يَدٌ", "harekesiz": "يد", "okunus": "yedun", "tr": "el", "kok": "ي-د-ي", "vezin": "فَع", "turevler": [{ "ar": "أَيْدٍ", "tr": "eller" }, { "ar": "يَدَوِيٌّ", "tr": "el yapımı" }], "ekBilgi": "Semâî müennes (çift organ); ikili: يَدَانِ", "ornek": "الْيَدُ الْعُلْيَا خَيْرٌ مِنَ الْيَدِ السُّفْلَى.", "ornekTr": "Veren (üstün) el alan elden hayırlıdır.", "kullanimNotu": "Sıfatları müennes gelir (الْيُمْنَى / الْيُسْرَى).", "tur": "İsim" },
+    { "id": "m03_c7", "ar": "أُذُنٌ", "harekesiz": "أذن", "okunus": "uzunun", "tr": "kulak", "kok": "أ-ذ-ن", "vezin": "فُعُل", "turevler": [{ "ar": "آذَانٌ", "tr": "kulaklar" }, { "ar": "أَذِنَ", "tr": "izin verdi" }], "ekBilgi": "Semâî müennes (çift organ); ikili: أُذُنَانِ", "ornek": "تَسْمَعُ الْأُذُنُ الْأَصْوَاتَ الطَّوِيلَةَ وَالْقَصِيرَةَ.", "ornekTr": "Kulak uzun ve kısa sesleri işitir.", "kullanimNotu": "أَذَانٌ (ezan) ile karıştırılmamalıdır.", "tur": "İsim" },
+    { "id": "m03_c8", "ar": "أَرْضٌ", "harekesiz": "أرض", "okunus": "ardun", "tr": "yer / dünya / toprak", "kok": "أ-ر-ض", "vezin": "فَعْل", "turevler": [{ "ar": "أَرَاضٍ", "tr": "araziler / topraklar" }, { "ar": "أَرْضِيٌّ", "tr": "yersel / zemin" }], "ekBilgi": "Semâî müennes", "ornek": "الْأَرْضُ وَاسِعَةٌ وَخِصْبَةٌ.", "ornekTr": "Yeryüzü geniş ve verimlidir.", "kullanimNotu": "Fiili müennes çekilir: تَدُورُ الْأَرْضُ.", "tur": "İsim" },
+    { "id": "m03_c9", "ar": "دَارٌ", "harekesiz": "دار", "okunus": "dârun", "tr": "ev / yurt / kurum", "kok": "د-و-ر", "vezin": "فَعَل", "turevler": [{ "ar": "دُورٌ", "tr": "evler / kurumlar" }, { "ar": "دِيَارٌ", "tr": "diyarlar" }], "ekBilgi": "Semâî müennes (بَيْتٌ ise müzekkerdir!)", "ornek": "هٰذِهِ دَارٌ وَاسِعَةٌ لِلنَّشْرِ.", "ornekTr": "Bu geniş bir yayınevidir.", "kullanimNotu": "دَارُ النَّشْرِ 'yayınevi' demektir.", "tur": "İsim" },
+    { "id": "m03_c10", "ar": "طَالِبَانِ", "harekesiz": "طالبان", "okunus": "tâlibâni", "tr": "iki erkek öğrenci", "kok": "ط-ل-ب", "vezin": "فَاعِلَانِ", "turevler": [{ "ar": "طَالِبَيْنِ", "tr": "iki öğrenciyi/de" }, { "ar": "طُلَّابٌ", "tr": "öğrenciler" }], "ekBilgi": "Tesniye (ref hâli ـَانِ)", "ornek": "يَقِفُ طَالِبَانِ جَدِيدَانِ أَمَامَ الصَّفِّ.", "ornekTr": "Sınıfın önünde iki yeni öğrenci duruyor.", "kullanimNotu": "Sonundaki ن daima kesralıdır.", "tur": "İkil" },
+    { "id": "m03_c11", "ar": "طَالِبَتَانِ", "harekesiz": "طالبتان", "okunus": "tâlibetâni", "tr": "iki kız öğrenci", "kok": "ط-ل-ب", "vezin": "فَاعِلَتَانِ", "turevler": [{ "ar": "طَالِبَتَيْنِ", "tr": "iki kız öğrenciyi" }, { "ar": "طَالِبَاتٌ", "tr": "kız öğrenciler" }], "ekBilgi": "ة açık ت oldu + ـَانِ", "ornek": "فِي الْمَكْتَبَةِ طَالِبَتَانِ مُجْتَهِدَتَانِ.", "ornekTr": "Kütüphanede iki çalışkan kız öğrenci vardır.", "kullanimNotu": "Müennes isimlerin ikilinde ة daima ت'ye açılır.", "tur": "İkil" },
+    { "id": "m03_c12", "ar": "مُثَنًّى", "harekesiz": "مثنى", "okunus": "musennen", "tr": "ikil (tesniye)", "kok": "ث-ن-ي", "vezin": "مُفَعَّل", "turevler": [{ "ar": "تَثْنِيَةٌ", "tr": "ikil yapma" }, { "ar": "اِثْنَانِ", "tr": "iki" }], "ekBilgi": "Tam 2 varlığı ifade eden gramer kategorisi", "ornek": "الْمُثَنَّى يَدُلُّ عَلَى اثْنَيْنِ أَوِ اثْنَتَيْنِ.", "ornekTr": "Tesniye (ikil) iki erkek veya iki dişiye işaret eder.", "kullanimNotu": "Ref'i elif (ـَانِ), nasb ve cerri yâ (ـَيْنِ) iledir.", "tur": "Terim" },
+    { "id": "m03_c13", "ar": "مُعَلِّمُونَ", "harekesiz": "معلمون", "okunus": "mu‘allimûne", "tr": "erkek öğretmenler", "kok": "ع-ل-م", "vezin": "مُفَعِّلُونَ", "turevler": [{ "ar": "مُعَلِّمِينَ", "tr": "öğretmenleri/e" }, { "ar": "مُعَلِّمَاتٌ", "tr": "kadın öğretmenler" }], "ekBilgi": "Cemi Müzekker Sâlim (ref hâli)", "ornek": "الْمُعَلِّمُونَ مُتَعَاوِنُونَ مَعَ الطُّلَّابِ.", "ornekTr": "Öğretmenler öğrencilerle iş birliği içindedir.", "kullanimNotu": "Sonundaki ن daima fethalıdır.", "tur": "Çoğul" },
+    { "id": "m03_c14", "ar": "مُوَظَّفٌ", "harekesiz": "موظف", "okunus": "muvazzafun", "tr": "memur / çalışan", "kok": "و-ظ-ف", "vezin": "مُفَعَّل", "turevler": [{ "ar": "مُوَظَّفُونَ", "tr": "memurlar" }, { "ar": "وَظِيفَةٌ", "tr": "görev / iş" }], "ekBilgi": "Düzenli çoğul alır: مُوَظَّفُونَ / مُوَظَّفَاتٌ", "ornek": "سَلَّمْتُ عَلَى الْمُوَظَّفِينَ فِي الشَّرِكَةِ.", "ornekTr": "Şirketteki çalışanlara selam verdim.", "kullanimNotu": "ظ şeddeli ve fethalıdır (ism-i mef'ûl).", "tur": "İsim" },
+    { "id": "m03_c15", "ar": "طَالِبَاتٌ", "harekesiz": "طالبات", "okunus": "tâlibâtun", "tr": "kız öğrenciler", "kok": "ط-ل-ب", "vezin": "فَاعِلَات", "turevler": [{ "ar": "طَالِبَةٌ", "tr": "kız öğrenci" }, { "ar": "طَالِبَتَانِ", "tr": "iki kız öğrenci" }], "ekBilgi": "Cemi Müennes Sâlim (nasb hâli KESRA: طَالِبَاتٍ!)", "ornek": "شَكَرَتِ الْمُدِيرَةُ الطَّالِبَاتِ الْمُتَفَوِّقَاتِ.", "ornekTr": "Kadın müdür başarılı kız öğrencilere teşekkür etti.", "kullanimNotu": "Asla fetha almaz!", "tur": "Çoğul" },
+    { "id": "m03_c16", "ar": "سَيَّارَةٌ", "harekesiz": "سيارة", "okunus": "seyyâratun", "tr": "araba / otomobil", "kok": "س-ي-ر", "vezin": "فَعَّالَة", "turevler": [{ "ar": "سَيَّارَاتٌ", "tr": "arabalar" }, { "ar": "سَارَ", "tr": "yürüdü / ilerledi" }], "ekBilgi": "Çoğulu: سَيَّارَاتٌ (akılsız → tekil müennes sıfat)", "ornek": "هٰذِهِ السَّيَّارَاتُ حَدِيثَةٌ وَسَرِيعَةٌ.", "ornekTr": "Bu arabalar modern ve hızlıdır.", "kullanimNotu": "ي şeddeli + Elif medlidir.", "tur": "İsim" },
+    { "id": "m03_c17", "ar": "حَمْرَاءُ", "harekesiz": "حمراء", "okunus": "hamrâu", "tr": "kırmızı (müennes)", "kok": "ح-م-ر", "vezin": "فَعْلَاء", "turevler": [{ "ar": "أَحْمَرُ", "tr": "kırmızı (eril)" }, { "ar": "حُمْرٌ", "tr": "kırmızılar" }], "ekBilgi": "Elif-i memdûde ile müennes; gayr-i munsarif (tenvînsiz!)", "ornek": "اِشْتَرَيْتُ وَرْدَةً حَمْرَاءَ وَحَقِيبَةً سَوْدَاءَ.", "ornekTr": "Kırmızı bir gül ve siyah bir çanta aldım.", "kullanimNotu": "Renk sıfatlarının müennesi فَعْلَاءُ veznindedir.", "tur": "Sıfat" },
+    { "id": "m03_c18", "ar": "كُتُبٌ", "harekesiz": "كتب", "okunus": "kutubun", "tr": "kitaplar", "kok": "ك-ت-ب", "vezin": "فُعُل", "turevler": [{ "ar": "كِتَابٌ", "tr": "kitap" }, { "ar": "كِتَابَانِ", "tr": "iki kitap" }], "ekBilgi": "Kırık çoğul (akılsız → tekil müennes!)", "ornek": "هٰذِهِ الْكُتُبُ قَيِّمَةٌ وَمُفِيدَةٌ.", "ornekTr": "Bu kitaplar değerli ve faydalıdır.", "kullanimNotu": "فُعُلٌ vezni kırık çoğullarda çok yaygındır.", "tur": "Çoğul" },
+    { "id": "m03_c19", "ar": "أَقْلَامٌ", "harekesiz": "أقلام", "okunus": "eklâmun", "tr": "kalemler", "kok": "ق-ل-م", "vezin": "أَفْعَال", "turevler": [{ "ar": "قَلَمٌ", "tr": "kalem" }, { "ar": "قَلَمَانِ", "tr": "iki kalem" }], "ekBilgi": "Kırık çoğul (akılsız → tekil müennes)", "ornek": "الْأَقْلَامُ الْمُلَوَّنَةُ فِي الْحَقِيبَةِ.", "ornekTr": "Renkli kalemler çantadadır.", "kullanimNotu": "Kat' hemzesi (أَ) ile başlar.", "tur": "Çoğul" },
+    { "id": "m03_c20", "ar": "دُرُوسٌ", "harekesiz": "دروس", "okunus": "durûsun", "tr": "dersler", "kok": "د-ر-س", "vezin": "فُعُول", "turevler": [{ "ar": "دَرْسٌ", "tr": "ders" }, { "ar": "دَرْسَانِ", "tr": "iki ders" }], "ekBilgi": "Kırık çoğul (فُعُولٌ)", "ornek": "الدُّرُوسُ الْأُولَى سَهْلَةٌ وَوَاضِحَةٌ.", "ornekTr": "İlk dersler kolay ve açıktır.", "kullanimNotu": "Şemsî: الدُّرُوسُ (ed-durûsu).", "tur": "Çoğul" },
+    { "id": "m03_c21", "ar": "بُيُوتٌ", "harekesiz": "بيوت", "okunus": "buyûtun", "tr": "evler", "kok": "ب-ي-ت", "vezin": "فُعُول", "turevler": [{ "ar": "بَيْتٌ", "tr": "ev" }, { "ar": "بَيْتَانِ", "tr": "iki ev" }], "ekBilgi": "Kırık çoğul (akılsız → tekil müennes)", "ornek": "هٰذِهِ الْبُيُوتُ التَّارِيخِيَّةُ جَمِيلَةٌ.", "ornekTr": "Bu tarihî evler güzeldir.", "kullanimNotu": "أَبْيَاتٌ ise 'şiir beyitleri' anlamındadır!", "tur": "Çoğul" },
+    { "id": "m03_c22", "ar": "مُدُنٌ", "harekesiz": "مدن", "okunus": "mudunun", "tr": "şehirler", "kok": "م-د-ن", "vezin": "فُعُل", "turevler": [{ "ar": "مَدِينَةٌ", "tr": "şehir" }, { "ar": "مَدِينَتَانِ", "tr": "iki şehir" }], "ekBilgi": "Kırık çoğul (akılsız → tekil müennes)", "ornek": "زُرْتُ مُدُنًا كَثِيرَةً فِي تُرْكِيَا.", "ornekTr": "Türkiye'de pek çok şehir ziyaret ettim.", "kullanimNotu": "Tekili مَدِينَةٌ, çoğulu مُدُنٌ.", "tur": "Çoğul" },
+    { "id": "m03_c23", "ar": "مَدَارِسُ", "harekesiz": "مدارس", "okunus": "medârisu", "tr": "okullar / ekoller", "kok": "د-ر-س", "vezin": "مَفَاعِل", "turevler": [{ "ar": "مَدْرَسَةٌ", "tr": "okul" }, { "ar": "مَدْرَسَتَانِ", "tr": "iki okul" }], "ekBilgi": "Gayr-i munsarif kırık çoğul (tenvîn almaz!)", "ornek": "فِي الْمَدِينَةِ مَدَارِسُ حَدِيثَةٌ كَثِيرَةٌ.", "ornekTr": "Şehirde pek çok modern okul vardır.", "kullanimNotu": "مَفَاعِلُ veznindeki çoğullar tek damme alır.", "tur": "Çoğul" },
+    { "id": "m03_c24", "ar": "نَوَافِذُ", "harekesiz": "نوافذ", "okunus": "nevâfizu", "tr": "pencereler", "kok": "ن-ف-ذ", "vezin": "فَوَاعِل", "turevler": [{ "ar": "نَافِذَةٌ", "tr": "pencere" }, { "ar": "نَافِذَتَانِ", "tr": "iki pencere" }], "ekBilgi": "Gayr-i munsarif kırık çoğul (tenvîn almaz)", "ornek": "نَوَافِذُ الْقَاعَةِ كَبِيرَةٌ وَمَفْتُوحَةٌ.", "ornekTr": "Salonun pencereleri büyük ve açıktır.", "kullanimNotu": "Akılsız çoğul olduğu için haberi tekil müennestir.", "tur": "Çoğul" },
+    { "id": "m03_c25", "ar": "طُلَّابٌ", "harekesiz": "طلاب", "okunus": "tullâbun", "tr": "öğrenciler", "kok": "ط-ل-ب", "vezin": "فُعَّال", "turevler": [{ "ar": "طَالِبٌ", "tr": "öğrenci" }, { "ar": "طَلَبَةٌ", "tr": "talebeler" }], "ekBilgi": "Akıllı (insan) kırık çoğul → sıfatı çoğul (مُجْتَهِدُونَ)!", "ornek": "الطُّلَّابُ مُسْتَعِدُّونَ لِلْاِخْتِبَارِ.", "ornekTr": "Öğrenciler sınava hazırdırlar.", "kullanimNotu": "Akıllı olduğu için tekil müennes yapılmaz!", "tur": "Çoğul" },
+    { "id": "m03_c26", "ar": "مَسَاجِدُ", "harekesiz": "مساجد", "okunus": "mesâcidu", "tr": "camiler / mescitler", "kok": "س-ج-د", "vezin": "مَفَاعِل", "turevler": [{ "ar": "مَسْجِدٌ", "tr": "cami / mescit" }, { "ar": "سَجَدَ", "tr": "secde etti" }], "ekBilgi": "Gayr-i munsarif kırık çoğul", "ornek": "فِي إِسْطَنْبُولَ مَسَاجِدُ عَرِيقَةٌ وَجَمِيلَةٌ.", "ornekTr": "İstanbul'da köklü ve güzel camiler vardır.", "kullanimNotu": "Sığa-i müntehe'l-cümû' kalıbının klasik örneğidir.", "tur": "Çoğul" },
+    { "id": "m03_c27", "ar": "غُرْفَةٌ", "harekesiz": "غرفة", "okunus": "gurfetun", "tr": "oda", "kok": "غ-ر-ف", "vezin": "فُعْلَة", "turevler": [{ "ar": "غُرَفٌ", "tr": "odalar" }, { "ar": "غُرْفَتَانِ", "tr": "iki oda" }], "ekBilgi": "Müennes (ة); kırık çoğulu: غُرَفٌ", "ornek": "هٰذِهِ غُرْفَةٌ نَظِيفَةٌ وَهَادِئَةٌ.", "ornekTr": "Bu temiz ve sakin bir odadır.", "kullanimNotu": "İkili: غُرْفَتَانِ / غُرْفَتَيْنِ.", "tur": "İsim" },
+    { "id": "m03_c28", "ar": "قَاعَةٌ", "harekesiz": "قاعة", "okunus": "kâ‘atun", "tr": "salon / derslik / amfi", "kok": "ق-و-ع", "vezin": "فَعَلَة", "turevler": [{ "ar": "قَاعَاتٌ", "tr": "salonlar" }, { "ar": "قَاعَتَانِ", "tr": "iki salon" }], "ekBilgi": "Müennes; çoğulu: قَاعَاتٌ", "ornek": "الْمُحَاضَرَةُ فِي الْقَاعَةِ الْكُبْرَى.", "ornekTr": "Konferans büyük salondadır.", "kullanimNotu": "Üniversite diyaloglarında sık geçer.", "tur": "İsim" },
+    { "id": "m03_c29", "ar": "خَضْرَاءُ", "harekesiz": "خضراء", "okunus": "hadrâu", "tr": "yeşil (müennes)", "kok": "خ-ض-ر", "vezin": "فَعْلَاء", "turevler": [{ "ar": "أَخْضَرُ", "tr": "yeşil (eril)" }, { "ar": "خُضْرَاوَاتٌ", "tr": "sebzeler" }], "ekBilgi": "Elif-i memdûde ile müennes; tenvîn almaz", "ornek": "الْأَشْجَارُ خَضْرَاءُ فِي الرَّبِيعِ.", "ornekTr": "Ağaçlar ilkbaharda yeşildir.", "kullanimNotu": "Akılsız çoğullarla (أَشْجَارُ، حَدَائِقُ) müennes renk kullanılır.", "tur": "Sıfat" },
+    { "id": "m03_c30", "ar": "مُجْتَهِدٌ", "harekesiz": "مجتهد", "okunus": "muctehidun", "tr": "çalışkan", "kok": "ج-ه-د", "vezin": "مُفْتَعِل", "turevler": [{ "ar": "مُجْتَهِدَةٌ", "tr": "çalışkan (K)" }, { "ar": "مُجْتَهِدُونَ", "tr": "çalışkanlar (E)" }, { "ar": "اِجْتَهَدَ", "tr": "çaba gösterdi" }], "ekBilgi": "VIII. Bab ism-i fâil; tüm düzenli ekleri alır", "ornek": "الطُّلَّابُ الْمُجْتَهِدُونَ يَنْجَحُونَ دَائِمًا.", "ornekTr": "Çalışkan öğrenciler daima başarılı olurlar.", "kullanimNotu": "Sıfat cinsiyet ve sayıda isme uyar.", "tur": "Sıfat" },
+    { "id": "m03_c31", "ar": "مَاهِرٌ", "harekesiz": "ماهر", "okunus": "mâhirun", "tr": "yetenekli / usta", "kok": "م-ه-ر", "vezin": "فَاعِل", "turevler": [{ "ar": "مَاهِرَةٌ", "tr": "yetenekli (K)" }, { "ar": "مَهَارَةٌ", "tr": "beceri / yetenek" }], "ekBilgi": "İsm-i Fâil; çoğulları: مَاهِرُونَ / مَاهِرَاتٌ", "ornek": "هٰذَا طَبِيبٌ مَاهِرٌ وَتِلْكَ مُهَنْدِسَةٌ مَاهِرَةٌ.", "ornekTr": "Bu yetenekli bir doktor, şu da yetenekli bir kadın mühendistir.", "kullanimNotu": "مَهَارَاتُ اللُّغَةِ 'dil becerileri' demektir.", "tur": "Sıfat" },
+    { "id": "m03_c32", "ar": "كُبْرَى", "harekesiz": "كبرى", "okunus": "kubrâ", "tr": "en büyük / büyük (müennes)", "kok": "ك-ب-ر", "vezin": "فُعْلَى", "turevler": [{ "ar": "أَكْبَرُ", "tr": "en büyük (eril)" }, { "ar": "صُغْرَى", "tr": "en küçük (müennes)" }], "ekBilgi": "Elif-i maksûre (ى) ile müennes tafdil sıfatı", "ornek": "أُخْتِي الْكُبْرَى تَدْرُسُ الطِّبَّ.", "ornekTr": "Büyük ablam tıp okuyor.", "kullanimNotu": "Sadece marife veya muzâf olarak müennes isimleri niteler.", "tur": "Sıfat" }
+  ]
+}

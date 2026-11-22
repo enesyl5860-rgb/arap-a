@@ -1,7 +1,87 @@
 {
-  "generatedAt": "2026-11-22T22:17:30.880Z",
-  "totalRoots": 50,
+  "generatedAt": "2026-11-22T22:27:38.182Z",
+  "totalRoots": 69,
   "roots": [
+    {
+      "kok": "د-ر-س",
+      "kelimeler": [
+        {
+          "ar": "دَرْسٌ",
+          "okunus": "dersun",
+          "tr": "ders",
+          "vezin": "فَعْل",
+          "moduleId": "01"
+        },
+        {
+          "ar": "دَرَّسَ",
+          "okunus": "derrese",
+          "tr": "ders verdi / öğretti",
+          "vezin": "فَعَّلَ",
+          "moduleId": "01"
+        },
+        {
+          "ar": "مَدْرَسَةٌ",
+          "okunus": "medresetun",
+          "tr": "okul / ekol",
+          "vezin": "مَفْعَلَة",
+          "moduleId": "02"
+        },
+        {
+          "ar": "دُرُوسٌ",
+          "okunus": "durûsun",
+          "tr": "dersler",
+          "vezin": "فُعُول",
+          "moduleId": "03"
+        },
+        {
+          "ar": "مَدَارِسُ",
+          "okunus": "medârisu",
+          "tr": "okullar / ekoller",
+          "vezin": "مَفَاعِل",
+          "moduleId": "03"
+        }
+      ]
+    },
+    {
+      "kok": "ط-ل-ب",
+      "kelimeler": [
+        {
+          "ar": "طَالِبٌ",
+          "okunus": "tâlibun",
+          "tr": "öğrenci",
+          "vezin": "فَاعِل",
+          "moduleId": "01"
+        },
+        {
+          "ar": "طَالِبَانِ",
+          "okunus": "tâlibâni",
+          "tr": "iki erkek öğrenci",
+          "vezin": "فَاعِلَانِ",
+          "moduleId": "03"
+        },
+        {
+          "ar": "طَالِبَتَانِ",
+          "okunus": "tâlibetâni",
+          "tr": "iki kız öğrenci",
+          "vezin": "فَاعِلَتَانِ",
+          "moduleId": "03"
+        },
+        {
+          "ar": "طَالِبَاتٌ",
+          "okunus": "tâlibâtun",
+          "tr": "kız öğrenciler",
+          "vezin": "فَاعِلَات",
+          "moduleId": "03"
+        },
+        {
+          "ar": "طُلَّابٌ",
+          "okunus": "tullâbun",
+          "tr": "öğrenciler",
+          "vezin": "فُعَّال",
+          "moduleId": "03"
+        }
+      ]
+    },
     {
       "kok": "س-أ-ل",
       "kelimeler": [
@@ -36,32 +116,6 @@
       ]
     },
     {
-      "kok": "د-ر-س",
-      "kelimeler": [
-        {
-          "ar": "دَرْسٌ",
-          "okunus": "dersun",
-          "tr": "ders",
-          "vezin": "فَعْل",
-          "moduleId": "01"
-        },
-        {
-          "ar": "دَرَّسَ",
-          "okunus": "derrese",
-          "tr": "ders verdi / öğretti",
-          "vezin": "فَعَّلَ",
-          "moduleId": "01"
-        },
-        {
-          "ar": "مَدْرَسَةٌ",
-          "okunus": "medresetun",
-          "tr": "okul / ekol",
-          "vezin": "مَفْعَلَة",
-          "moduleId": "02"
-        }
-      ]
-    },
-    {
       "kok": "ع-ل-م",
       "kelimeler": [
         {
@@ -84,6 +138,46 @@
           "tr": "öğretti",
           "vezin": "فَعَّلَ",
           "moduleId": "01"
+        },
+        {
+          "ar": "مُعَلِّمُونَ",
+          "okunus": "mu‘allimûne",
+          "tr": "erkek öğretmenler",
+          "vezin": "مُفَعِّلُونَ",
+          "moduleId": "03"
+        }
+      ]
+    },
+    {
+      "kok": "ك-ت-ب",
+      "kelimeler": [
+        {
+          "ar": "كِتَابٌ",
+          "okunus": "kitâbun",
+          "tr": "kitap",
+          "vezin": "فِعَال",
+          "moduleId": "01"
+        },
+        {
+          "ar": "كِتَابَةٌ",
+          "okunus": "kitâbetun",
+          "tr": "yazma / yazı",
+          "vezin": "فِعَالَة",
+          "moduleId": "01"
+        },
+        {
+          "ar": "مَكْتَبٌ",
+          "okunus": "mektebun",
+          "tr": "çalışma masası / ofis",
+          "vezin": "مَفْعَل",
+          "moduleId": "01"
+        },
+        {
+          "ar": "كُتُبٌ",
+          "okunus": "kutubun",
+          "tr": "kitaplar",
+          "vezin": "فُعُل",
+          "moduleId": "03"
         }
       ]
     },
@@ -114,28 +208,21 @@
       ]
     },
     {
-      "kok": "ك-ت-ب",
+      "kok": "ب-ي-ت",
       "kelimeler": [
         {
-          "ar": "كِتَابٌ",
-          "okunus": "kitâbun",
-          "tr": "kitap",
-          "vezin": "فِعَال",
+          "ar": "بَيْتٌ",
+          "okunus": "beytun",
+          "tr": "ev / şiir beyti",
+          "vezin": "فَعْل",
           "moduleId": "01"
         },
         {
-          "ar": "كِتَابَةٌ",
-          "okunus": "kitâbetun",
-          "tr": "yazma / yazı",
-          "vezin": "فِعَالَة",
-          "moduleId": "01"
-        },
-        {
-          "ar": "مَكْتَبٌ",
-          "okunus": "mektebun",
-          "tr": "çalışma masası / ofis",
-          "vezin": "مَفْعَل",
-          "moduleId": "01"
+          "ar": "بُيُوتٌ",
+          "okunus": "buyûtun",
+          "tr": "evler",
+          "vezin": "فُعُول",
+          "moduleId": "03"
         }
       ]
     },
@@ -197,6 +284,118 @@
       ]
     },
     {
+      "kok": "ق-ل-م",
+      "kelimeler": [
+        {
+          "ar": "قَلَمٌ",
+          "okunus": "kalemun",
+          "tr": "kalem",
+          "vezin": "فَعَل",
+          "moduleId": "01"
+        },
+        {
+          "ar": "أَقْلَامٌ",
+          "okunus": "eklâmun",
+          "tr": "kalemler",
+          "vezin": "أَفْعَال",
+          "moduleId": "03"
+        }
+      ]
+    },
+    {
+      "kok": "ك-ب-ر",
+      "kelimeler": [
+        {
+          "ar": "كَبِيرٌ",
+          "okunus": "kebîrun",
+          "tr": "büyük",
+          "vezin": "فَعِيل",
+          "moduleId": "01"
+        },
+        {
+          "ar": "كُبْرَى",
+          "okunus": "kubrâ",
+          "tr": "en büyük / büyük (müennes)",
+          "vezin": "فُعْلَى",
+          "moduleId": "03"
+        }
+      ]
+    },
+    {
+      "kok": "م-د-ن",
+      "kelimeler": [
+        {
+          "ar": "مَدِينَةٌ",
+          "okunus": "medînetun",
+          "tr": "şehir",
+          "vezin": "فَعِيلَة",
+          "moduleId": "01"
+        },
+        {
+          "ar": "مُدُنٌ",
+          "okunus": "mudunun",
+          "tr": "şehirler",
+          "vezin": "فُعُل",
+          "moduleId": "03"
+        }
+      ]
+    },
+    {
+      "kok": "ن-ف-ذ",
+      "kelimeler": [
+        {
+          "ar": "نَافِذَةٌ",
+          "okunus": "nâfizetun",
+          "tr": "pencere",
+          "vezin": "فَاعِلَة",
+          "moduleId": "02"
+        },
+        {
+          "ar": "نَوَافِذُ",
+          "okunus": "nevâfizu",
+          "tr": "pencereler",
+          "vezin": "فَوَاعِل",
+          "moduleId": "03"
+        }
+      ]
+    },
+    {
+      "kok": "أ-ذ-ن",
+      "kelimeler": [
+        {
+          "ar": "أُذُنٌ",
+          "okunus": "uzunun",
+          "tr": "kulak",
+          "vezin": "فُعُل",
+          "moduleId": "03"
+        }
+      ]
+    },
+    {
+      "kok": "أ-ر-ض",
+      "kelimeler": [
+        {
+          "ar": "أَرْضٌ",
+          "okunus": "ardun",
+          "tr": "yer / dünya / toprak",
+          "vezin": "فَعْل",
+          "moduleId": "03"
+        }
+      ]
+    },
+    {
+      "kok": "أ-ن-ث",
+      "kelimeler": [
+        {
+          "ar": "مُؤَنَّثٌ",
+          "okunus": "muennesun",
+          "tr": "dişil (müennes)",
+          "vezin": "مُفَعَّل",
+          "moduleId": "03"
+        }
+      ]
+    },
+    {
       "kok": "ب-د-أ",
       "kelimeler": [
         {
@@ -233,14 +432,14 @@
       ]
     },
     {
-      "kok": "ب-ي-ت",
+      "kok": "ث-ن-ي",
       "kelimeler": [
         {
-          "ar": "بَيْتٌ",
-          "okunus": "beytun",
-          "tr": "ev / şiir beyti",
-          "vezin": "فَعْل",
-          "moduleId": "01"
+          "ar": "مُثَنًّى",
+          "okunus": "musennen",
+          "tr": "ikil (tesniye)",
+          "vezin": "مُفَعَّل",
+          "moduleId": "03"
         }
       ]
     },
@@ -293,6 +492,18 @@
       ]
     },
     {
+      "kok": "ج-ه-د",
+      "kelimeler": [
+        {
+          "ar": "مُجْتَهِدٌ",
+          "okunus": "muctehidun",
+          "tr": "çalışkan",
+          "vezin": "مُفْتَعِل",
+          "moduleId": "03"
+        }
+      ]
+    },
+    {
       "kok": "ح-ر-ك",
       "kelimeler": [
         {
@@ -313,6 +524,30 @@
           "tr": "çanta",
           "vezin": "فَعِيلَة",
           "moduleId": "01"
+        }
+      ]
+    },
+    {
+      "kok": "ح-م-ر",
+      "kelimeler": [
+        {
+          "ar": "حَمْرَاءُ",
+          "okunus": "hamrâu",
+          "tr": "kırmızı (müennes)",
+          "vezin": "فَعْلَاء",
+          "moduleId": "03"
+        }
+      ]
+    },
+    {
+      "kok": "خ-ض-ر",
+      "kelimeler": [
+        {
+          "ar": "خَضْرَاءُ",
+          "okunus": "hadrâu",
+          "tr": "yeşil (müennes)",
+          "vezin": "فَعْلَاء",
+          "moduleId": "03"
         }
       ]
     },
@@ -341,6 +576,30 @@
       ]
     },
     {
+      "kok": "د-و-ر",
+      "kelimeler": [
+        {
+          "ar": "دَارٌ",
+          "okunus": "dârun",
+          "tr": "ev / yurt / kurum",
+          "vezin": "فَعَل",
+          "moduleId": "03"
+        }
+      ]
+    },
+    {
+      "kok": "ذ-ك-ر",
+      "kelimeler": [
+        {
+          "ar": "مُذَكَّرٌ",
+          "okunus": "muzekkerun",
+          "tr": "eril (müzekker)",
+          "vezin": "مُفَعَّل",
+          "moduleId": "03"
+        }
+      ]
+    },
+    {
       "kok": "ر-س-ل",
       "kelimeler": [
         {
@@ -365,6 +624,18 @@
       ]
     },
     {
+      "kok": "س-ج-د",
+      "kelimeler": [
+        {
+          "ar": "مَسَاجِدُ",
+          "okunus": "mesâcidu",
+          "tr": "camiler / mescitler",
+          "vezin": "مَفَاعِل",
+          "moduleId": "03"
+        }
+      ]
+    },
+    {
       "kok": "س-و-ق",
       "kelimeler": [
         {
@@ -373,6 +644,18 @@
           "tr": "çarşı / piyasa",
           "vezin": "فَعْل",
           "moduleId": "01"
+        }
+      ]
+    },
+    {
+      "kok": "س-ي-ر",
+      "kelimeler": [
+        {
+          "ar": "سَيَّارَةٌ",
+          "okunus": "seyyâratun",
+          "tr": "araba / otomobil",
+          "vezin": "فَعَّالَة",
+          "moduleId": "03"
         }
       ]
     },
@@ -473,14 +756,14 @@
       ]
     },
     {
-      "kok": "ط-ل-ب",
+      "kok": "ط-ب-ب",
       "kelimeler": [
         {
-          "ar": "طَالِبٌ",
-          "okunus": "tâlibun",
-          "tr": "öğrenci",
-          "vezin": "فَاعِل",
-          "moduleId": "01"
+          "ar": "طَبِيبَةٌ",
+          "okunus": "tabîbetun",
+          "tr": "kadın doktor",
+          "vezin": "فَعِيلَة",
+          "moduleId": "03"
         }
       ]
     },
@@ -493,6 +776,30 @@
           "tr": "marife (belirli) / bilgi",
           "vezin": "مَفْعِلَة",
           "moduleId": "02"
+        }
+      ]
+    },
+    {
+      "kok": "ع-ي-ن",
+      "kelimeler": [
+        {
+          "ar": "عَيْنٌ",
+          "okunus": "‘aynun",
+          "tr": "göz / pınar / kaynak",
+          "vezin": "فَعْل",
+          "moduleId": "03"
+        }
+      ]
+    },
+    {
+      "kok": "غ-ر-ف",
+      "kelimeler": [
+        {
+          "ar": "غُرْفَةٌ",
+          "okunus": "gurfetun",
+          "tr": "oda",
+          "vezin": "فُعْلَة",
+          "moduleId": "03"
         }
       ]
     },
@@ -533,18 +840,6 @@
       ]
     },
     {
-      "kok": "ق-ل-م",
-      "kelimeler": [
-        {
-          "ar": "قَلَمٌ",
-          "okunus": "kalemun",
-          "tr": "kalem",
-          "vezin": "فَعَل",
-          "moduleId": "01"
-        }
-      ]
-    },
-    {
       "kok": "ق-م-ر",
       "kelimeler": [
         {
@@ -557,14 +852,14 @@
       ]
     },
     {
-      "kok": "ك-ب-ر",
+      "kok": "ق-و-ع",
       "kelimeler": [
         {
-          "ar": "كَبِيرٌ",
-          "okunus": "kebîrun",
-          "tr": "büyük",
-          "vezin": "فَعِيل",
-          "moduleId": "01"
+          "ar": "قَاعَةٌ",
+          "okunus": "kâ‘atun",
+          "tr": "salon / derslik / amfi",
+          "vezin": "فَعَلَة",
+          "moduleId": "03"
         }
       ]
     },
@@ -581,18 +876,6 @@
       ]
     },
     {
-      "kok": "م-د-ن",
-      "kelimeler": [
-        {
-          "ar": "مَدِينَةٌ",
-          "okunus": "medînetun",
-          "tr": "şehir",
-          "vezin": "فَعِيلَة",
-          "moduleId": "01"
-        }
-      ]
-    },
-    {
       "kok": "م-ل-و",
       "kelimeler": [
         {
@@ -605,6 +888,18 @@
       ]
     },
     {
+      "kok": "م-ه-ر",
+      "kelimeler": [
+        {
+          "ar": "مَاهِرٌ",
+          "okunus": "mâhirun",
+          "tr": "yetenekli / usta",
+          "vezin": "فَاعِل",
+          "moduleId": "03"
+        }
+      ]
+    },
+    {
       "kok": "ن-ج-م",
       "kelimeler": [
         {
@@ -612,18 +907,6 @@
           "okunus": "necmun",
           "tr": "yıldız",
           "vezin": "فَعْل",
-          "moduleId": "02"
-        }
-      ]
-    },
-    {
-      "kok": "ن-ف-ذ",
-      "kelimeler": [
-        {
-          "ar": "نَافِذَةٌ",
-          "okunus": "nâfizetun",
-          "tr": "pencere",
-          "vezin": "فَاعِلَة",
           "moduleId": "02"
         }
       ]
@@ -677,6 +960,18 @@
       ]
     },
     {
+      "kok": "ه-ن-د-س",
+      "kelimeler": [
+        {
+          "ar": "مُهَنْدِسٌ",
+          "okunus": "muhendisun",
+          "tr": "mühendis",
+          "vezin": "مُفَعْلِل",
+          "moduleId": "03"
+        }
+      ]
+    },
+    {
       "kok": "و-ض-ح",
       "kelimeler": [
         {
@@ -689,6 +984,18 @@
       ]
     },
     {
+      "kok": "و-ظ-ف",
+      "kelimeler": [
+        {
+          "ar": "مُوَظَّفٌ",
+          "okunus": "muvazzafun",
+          "tr": "memur / çalışan",
+          "vezin": "مُفَعَّل",
+          "moduleId": "03"
+        }
+      ]
+    },
+    {
       "kok": "و-ل-د",
       "kelimeler": [
         {
@@ -697,6 +1004,18 @@
           "tr": "çocuk / oğul",
           "vezin": "فَعَل",
           "moduleId": "01"
+        }
+      ]
+    },
+    {
+      "kok": "ي-د-ي",
+      "kelimeler": [
+        {
+          "ar": "يَدٌ",
+          "okunus": "yedun",
+          "tr": "el",
+          "vezin": "فَع",
+          "moduleId": "03"
         }
       ]
     }
