@@ -1,0 +1,791 @@
+{
+  "id": "07",
+  "slug": "modul_07",
+  "phaseId": 1,
+  "cilt": 1,
+  "cefr": "A1",
+  "category": "Edatlar & Nahiv",
+  "title": "Harf-i Cerler, Şibh-i Cümle & Haberin Öne Geçmesi",
+  "arabicTitle": "حُرُوفُ الْجَرِّ وَشِبْهُ الْجُمْلَةِ وَتَقْدِيمُ الْخَبَرِ",
+  "summary": "Temel harf-i cerler (فِي، عَلَى، مِنْ، إِلَى، عَنْ، بِـ، لِـ، كَـ), yer-zaman zarfları, şibh-i cümle haberin nekre mübtedânın önüne zorunlu geçmesi, عِنْدَ/لِـ/مَعَ ile sahiplik & 'var' yapıları ve harf-i cerlerin zamirlere bitişirken geçirdiği ses değişimleri.",
+  "grammar": [
+    {
+      "id": "m07_g1",
+      "baslik": "Temel Harf-i Cerler ve İsimleri Mecrûr (Kesralı) Yapma Kuralı",
+      "arBaslik": "حُرُوفُ الْجَرِّ وَالِاسْمُ الْمَجْرُورُ",
+      "mantik": "Türkçede 'evDE, okulA, çarşıDAN, kalemLE, arkadaş İÇİN' derken ismin SONUNA hâl ekleri (-de, -e, -den, -le) getiririz. Arapçada ise bu görevi ismin ÖNÜNE gelen ve **Harf-i Cer (حُرُوفُ الْجَرِّ)** adı verilen edatlar üstlenir! 'Cer' sözlükte 'çekmek' demektir; çünkü bu harfler kendilerinden hemen sonra gelen ismin son harekesini aşağıya, yani **KESRA (ـِ / ـٍ)** harekesine çeker.\nEn temel 8 harf-i cer: **فِي** (içinde / -de), **عَلَى** (üzerinde), **مِنْ** (-den / -dan), **إِلَى** (-e / -a), **عَنْ** (hakkında / -den uzak), **بِـ** (ile / vasıtasıyla), **لِـ** (için / -e ait), **كَـ** (gibi). Son üç harf (بِـ، لِـ، كَـ) tek harfli olduğu için isme doğrudan BİTİŞİR! Altın yazım kuralı: **لِـ** harfi başında **ال** bulunan bir isme bitiştiğinde elif harfi düşer: `لِـ + الْمُعَلِّمِ → لِلْمُعَلِّمِ` (öğretmen için)!",
+      "formul": "Harf-i Cer (فِي / عَلَى / مِنْ / إِلَى / عَنْ / بِـ / لِـ / كَـ) + İsim (MECRÛR: ـِ marife / ـٍ nekre)",
+      "formulAr": "فِي الْبَيْتِ · عَلَى الْمَكْتَبِ · مِنَ الْمَدْرَسَةِ · لِلْمُعَلِّمِ",
+      "tablo": {
+        "baslik": "En Sık Kullanılan 8 Harf-i Cer, Anlamları ve Mecrûr Örnekleri",
+        "sutunlar": ["Harf-i Cer", "Temel Anlamı", "Örnek Terkip", "Okunuş", "Türkçe Çeviri"],
+        "satirlar": [
+          { "hucreler": ["فِي", "-de / içinde", "فِي الصَّفِّ", "fi's-saffi", "sınıfta / sınıfın içinde"], "ses": "فِي الصَّفِّ" },
+          { "hucreler": ["عَلَى", "üzerinde / -e", "عَلَى الطَّاوِلَةِ", "‘ale't-tâvileti", "masanın üzerinde"], "ses": "عَلَى الطَّاوِلَةِ" },
+          { "hucreler": ["مِنْ", "-den / -dan", "مِنَ الْجَامِعَةِ", "mine'l-câmi‘ati", "üniversiteden"], "ses": "مِنَ الْجَامِعَةِ" },
+          { "hucreler": ["إِلَى", "-e / -a doğru", "إِلَى الْمَسْجِدِ", "ile'l-mescidi", "mescide"], "ses": "إِلَى الْمَسْجِدِ" },
+          { "hucreler": ["عَنْ", "hakkında / -den", "عَنِ الدَّرْسِ", "‘ani'd-dersi", "ders hakkında"], "ses": "عَنِ الدَّرْسِ" },
+          { "hucreler": ["بِـ (bitişir)", "ile / -de", "بِالْقَلَمِ", "bi'l-kalemi", "kalem ile"], "ses": "بِالْقَلَمِ" },
+          { "hucreler": ["لِـ (bitişir)", "için / -e ait", "لِلطَّالِبِ", "li't-tâlibi", "öğrenci için"], "ses": "لِلطَّالِبِ" },
+          { "hucreler": ["كَـ (bitişir)", "gibi", "كَالْأَسَدِ", "ke'l-esedi", "aslan gibi"], "ses": "كَالْأَسَدِ" }
+        ]
+      },
+      "trKiyas": "Harika bir geçiş kuralı: Sükûnla biten **مِنْ** ve **عَنْ** harflerinden sonra **ال** takılı bir isim gelirse iki sükûn yan yana gelemez! Bu yüzden **مِنْ** fethayla (**مِنَ الْبَيْتِ**), **عَنْ** ise kesrayla (**عَنِ الْبَيْتِ**) geçilir. Ayrıca **بِـ** ve **كَـ** bitişirken ال'in elifi kalır (`بِالْقَلَمِ`), ama **لِـ** bitişirken elifi düşer (`لِلْقَلَمِ`)!",
+      "sikHatalar": [
+        "Harf-i cerden sonra gelen ismi dammeli bırakmak (فِي الْبَيْتُ YANLIŞ → doğrusu فِي الْبَيْتِ!).",
+        "لِـ harfini ال takılı isme eklerken elifi silmemek (لِالْمُعَلِّمِ YANLIŞ → doğrusu لِلْمُعَلِّمِ!).",
+        "فِي ile عَلَى'yı karıştırmak: 'masanın üstünde' için فِي الْمَكْتَبِ (masanın içinde/çekmecesinde) yerine عَلَى الْمَكْتَبِ denir."
+      ],
+      "ornekler": [
+        { "ar": "الْكِتَابُ عَلَى الْمَكْتَبِ وَالْقَلَمُ فِي الْحَقِيبَةِ.", "okunus": "El-kitâbu ‘ale'l-mektebi ve'l-kalemu fi'l-hakîbeti.", "tr": "Kitap masanın üzerinde ve kalem çantanın içindedir.", "not": "عَلَى (üzerinde) ve فِي (içinde) → her iki isim de mecrûr!" },
+        { "ar": "خَرَجَ الطَّالِبُ مِنَ الْبَيْتِ وَذَهَبَ إِلَى الْمَدْرَسَةِ.", "okunus": "Harace't-tâlibu mine'l-beyti ve zehebe ile'l-medreseti.", "tr": "Öğrenci evden çıktı ve okula gitti.", "not": "مِنْ + الْبَيْتِ → مِنَ الْبَيْتِ (geçiş fethası)." },
+        { "ar": "كَتَبْتُ الدَّرْسَ بِالْقَلَمِ الْأَزْرَقِ فِي الدَّفْتَرِ.", "okunus": "Ketebtu'd-derse bi'l-kalemi'l-ezraki fi'd-defteri.", "tr": "Dersi deftere mavi kalemle yazdım.", "not": "بِـ alet/vasıta bildirir; sıfatı الْأَزْرَقِ de kesralı uyar!" },
+        { "ar": "هٰذِهِ الْهَدِيَّةُ الْجَمِيلَةُ لِلْأُمِّ الْحَنُونِ.", "okunus": "Hâzihi'l-hediyyetu'l-cemîletu li'l-ummi'l-hanûni.", "tr": "Bu güzel hediye şefkatli anne içindir.", "not": "لِـ + الْأُمِّ → لِلْأُمِّ (elif düşer)." },
+        { "ar": "سَأَلَ الْمُدَرِّسُ الطُّلَّابَ عَنِ الْوَاجِبِ الْمَنْزِلِيِّ.", "okunus": "Seele'l-muderrisu't-tullâbe ‘ani'l-vâcibi'l-menziliyyi.", "tr": "Öğretmen öğrencilere ev ödevi hakkında sordu.", "not": "عَنْ + الْوَاجِبِ → عَنِ الْوَاجِبِ (geçiş kesrası)." },
+        { "ar": "الْوَقْتُ كَالسَّيْفِ وَالْعِلْمُ كَالنُّورِ.", "okunus": "El-vaktu ke's-seyfi ve'l-‘ilmu ke'n-nûri.", "tr": "Vakit kılıç gibidir ve ilim nur gibidir.", "not": "كَـ benzetme (teşbih) harf-i ceridir." }
+      ],
+      "tatbikler": [
+        { "id": "m07_g1_d1", "tip": "bosluk", "soru": "الطَّالِبُ يَجْلِسُ ....... الْكُرْسِيِّ. (Öğrenci sandalyenin üzerinde oturuyor) boşluğuna hangisi gelir?", "secenekler": ["فِي", "عَلَى", "مِنْ", "عَنْ"], "dogruIndeks": 1, "aciklama": "Sandalyenin üzerinde oturmak için عَلَى harf-i ceri kullanılır." },
+        { "id": "m07_g1_d2", "tip": "donusturme", "soru": "لِـ harf-i ceri + الْمُدِيرُ (müdür) kelimesi birleştiğinde doğru imlâ ve hareke hangisidir?", "secenekler": ["لِالْمُدِيرِ", "لِلْمُدِيرِ", "لِلْمُدِيرُ", "لِالْمُدِيرُ"], "dogruIndeks": 1, "aciklama": "لِـ bitişince ال'in elifi düşer ve isim kesralı olur: لِلْمُدِيرِ." },
+        { "id": "m07_g1_d3", "tip": "hata_bul", "soru": "'ذَهَبَ أَحْمَدُ إِلَى الْمَسْجِدُ' cümlesindeki gramer hatası nedir?", "secenekler": ["إِلَى harf-i cerinden sonra gelen الْمَسْجِدُ mecrûr (الْمَسْجِدِ) olmalıdır", "أَحْمَدُ kesralı olmalı", "ذَهَبَ müennes olmalı", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "Harf-i cerden sonra gelen isim daima mecrûrdur: إِلَى الْمَسْجِدِ." },
+        { "id": "m07_g1_d4", "tip": "tr_ar", "soru": "'Deftere kalem ile yazdım' cümlesinde 'kalem ile' ifadesi nasıl yazılır?", "secenekler": ["بِالْقَلَمِ", "بِالْقَلَمُ", "لِلْقَلَمِ", "كَالْقَلَمِ"], "dogruIndeks": 0, "aciklama": "Vasıta/alet bildiren 'ile' karşılığı بِـ harfidir ve ismi mecrûr yapar: بِالْقَلَمِ." },
+        { "id": "m07_g1_d5", "tip": "bosluk", "soru": "خَرَجْتُ ....... الْفَصْلِ. (Sınıftan çıktım) boşluğuna geçiş harekesiyle hangisi gelir?", "secenekler": ["مِنَ", "مِنِ", "عَنَ", "إِلَى"], "dogruIndeks": 0, "aciklama": "مِنْ harfi ال takılı isimden önce fethayla (مِنَ) geçilir: مِنَ الْفَصْلِ." },
+        { "id": "m07_g1_d6", "tip": "bosluk", "soru": "تَحَدَّثَ الْمُعَلِّمُ ....... التَّارِيخِ. (Öğretmen tarih hakkında konuştu) boşluğuna hangisi gelir?", "secenekler": ["عَنِ", "إِلَى", "كَـ", "عَلَى"], "dogruIndeks": 0, "aciklama": "Bir konu hakkında konuşmak için عَنْ kullanılır; ال önünde kesrayla عَنِ okunur." },
+        { "id": "m07_g1_d7", "tip": "donusturme", "soru": "بِـ harf-i ceri + السَّيَّارَةُ (araba) kelimesi birleşince hangisi doğru olur?", "secenekler": ["بِالسَّيَّارَةِ", "بِسَّيَّارَةِ", "بِالسَّيَّارَةُ", "لِلسَّيَّارَةِ"], "dogruIndeks": 0, "aciklama": "بِـ bitiştiğinde ال'in elifi DÜŞMEZ ve isim kesralı olur: بِالسَّيَّارَةِ." },
+        { "id": "m07_g1_d8", "tip": "tr_ar", "soru": "'Çocuk çiçek gibidir' cümlesi hangisidir?", "secenekler": ["الطِّفْلُ كَالزَّهْرَةِ", "الطِّفْلُ لِلزَّهْرَةِ", "الطِّفْلُ بِالزَّهْرَةِ", "الطِّفْلُ فِي الزَّهْرَةِ"], "dogruIndeks": 0, "aciklama": "'Gibi' anlamı veren teşbih harfi كَـ'dir: كَالزَّهْرَةِ." },
+        { "id": "m07_g1_d9", "tip": "hata_bul", "soru": "'أَشْرَبُ الْمَاءَ فِي كُوبٌ نَظِيفٌ' cümlesinin doğru hâli hangisidir?", "secenekler": ["أَشْرَبُ الْمَاءَ فِي كُوبٍ نَظِيفٍ", "أَشْرَبُ الْمَاءَ فِي كُوبٍ نَظِيفٌ", "أَشْرَبُ الْمَاءَ فِي كُوبًا نَظِيفًا", "Cümle doğrudur"], "dogruIndeks": 0, "aciklama": "Nekre isim harf-i cerle kesratân (كُوبٍ) olur, sıfatı da ona uyup kesratân (نَظِيفٍ) olur!" },
+        { "id": "m07_g1_d10", "tip": "bosluk", "soru": "لِـ harfi + اللُّغَةُ (dil) gibi ل harfiyle başlayan ال takılı bir isme bitişince nasıl yazılır?", "secenekler": ["لِلُّغَةِ", "لِلْلُغَةِ", "لِاللُّغَةِ", "لَلُّغَةِ"], "dogruIndeks": 0, "aciklama": "Üç ل yan yana gelmesin diye ال'in tamamı düşer ve şedde kalır: لِلُّغَةِ (dil için)!" }
+      ]
+    },
+    {
+      "id": "m07_g2",
+      "baslik": "Yer ve Zaman Zarfları (Zarf-ı Mekân & Zarf-ı Zamân)",
+      "arBaslik": "ظَرْفُ الْمَكَانِ وَظَرْفُ الزَّمَانِ",
+      "mantik": "Harf-i cerler dışında, bir nesnenin tam konumunu ('önünde, arkasında, üstünde, altında, arasında, yanında') veya zamanını ('önce, sonra') bildiren kelimelere **Zarf (الظَّرْفُ)** denir. Zarfları öğrenmenin harika bir kolaylığı vardır: Zarflar aslında birer **İSİMDİR** ve kendilerinden sonra gelen isimle **İZÂFET (isim tamlaması)** kurarlar!\nBu ne anlama gelir? Zarf daima **fethalı (mansub)** okunur (`أَمَامَ، خَلْفَ، تَحْتَ، فَوْقَ، بَيْنَ، قَبْلَ، بَعْدَ`), kendisinden hemen sonra gelen isim ise **MUZÂFUN İLEYH** olduğu için DAİMA **MECRÛR (kesralı)** olur! Örnek: `أَمَامَ الْبَيْتِ` (evin önünde), `تَحْتَ الشَّجَرَةِ` (ağacın altında), `بَعْدَ الدَّرْسِ` (dersten sonra). Yani tek bir kuralla (M06'daki izâfet!) tüm yer ve zaman zarflarını kusursuz kullanabilirsiniz!",
+      "formul": "Zarf (Mansub: أَمَامَ / خَلْفَ / فَوْقَ / تَحْتَ / بَيْنَ / عِنْدَ / قَبْلَ / بَعْدَ) + Muzâfun İleyh (DAİMA MECRÛR!)",
+      "formulAr": "أَمَامَ الْمَدْرَسَةِ · تَحْتَ الشَّجَرَةِ · بَعْدَ الصَّلَاةِ",
+      "tablo": {
+        "baslik": "Temel Yer ve Zaman Zarfları (Hepsi Kendisinden Sonraki İsmi Kesralar)",
+        "sutunlar": ["Zarf", "Okunuş", "Anlamı", "Terkip Örneği", "Türkçesi"],
+        "satirlar": [
+          { "hucreler": ["أَمَامَ", "emâme", "önünde", "أَمَامَ الْمَسْجِدِ", "mescidin önünde"], "ses": "أَمَامَ الْمَسْجِدِ" },
+          { "hucreler": ["خَلْفَ / وَرَاءَ", "halfe / verâe", "arkasında", "خَلْفَ الْبَيْتِ", "evin arkasında"], "ses": "خَلْفَ الْبَيْتِ" },
+          { "hucreler": ["فَوْقَ", "fevka", "üstünde", "فَوْقَ السَّطْحِ", "çatının üstünde"], "ses": "فَوْقَ السَّطْحِ" },
+          { "hucreler": ["تَحْتَ", "tahte", "altında", "تَحْتَ الطَّاوِلَةِ", "masanın altında"], "ses": "تَحْتَ الطَّاوِلَةِ" },
+          { "hucreler": ["بَيْنَ", "beyne", "arasında", "بَيْنَ الشَّجَرَتَيْنِ", "iki ağacın arasında"], "ses": "بَيْنَ الشَّجَرَتَيْنِ" },
+          { "hucreler": ["بِجَانِبِ / جَانِبَ", "bi-cânibi", "yanında", "بِجَانِبِ الْبَابِ", "kapının yanında"], "ses": "بِجَانِبِ الْبَابِ" },
+          { "hucreler": ["قَبْلَ / بَعْدَ", "kable / ba‘de", "önce / sonra", "قَبْلَ النَّوْمِ / بَعْدَ الدَّرْسِ", "uykudan önce / dersten sonra"], "ses": "قَبْلَ النَّوْمِ بَعْدَ الدَّرْسِ" }
+        ]
+      },
+      "trKiyas": "Çok kritik bir kıyas: **مَعَ** (ile / beraber) kelimesi harf-i cer değil, bir **ZARF**tır; sonu fethalı okunur ve sonraki ismi kesralar (`مَعَ الصَّدِيقِ` — 'me‘a's-sadîki'). Ayrıca bir zarfın başına harf-i cer gelirse (ör. `مِنْ قَبْلِ` veya `مِنْ تَحْتِ`), o zaman zarfın kendisi de kesra alır!",
+      "sikHatalar": [
+        "Zarfın sonunu dammeli okumak (أَمَامُ الْبَيْتِ veya تَحْتُ الشَّجَرَةِ YANLIŞ → doğrusu أَمَامَ الْبَيْتِ / تَحْتَ الشَّجَرَةِ).",
+        "Zarftan sonra gelen ismi dammeli bırakmak (بَعْدَ الدَّرْسُ YANLIŞ → muzâfun ileyh daima kesralıdır: بَعْدَ الدَّرْسِ!).",
+        "فَوْقَ ile عَلَى farkını kaçırmak: عَلَى genelde temas ederek üzerinde olmayı (الْكِتَابُ عَلَى الْمَكْتَبِ), فَوْقَ ise temaslı veya havada/üstünde olmayı (الْمِصْبَاحُ فَوْقَ الْمَكْتَبِ) anlatır."
+      ],
+      "ornekler": [
+        { "ar": "السَّيَّارَةُ الْجَدِيدَةُ أَمَامَ الْبَيْتِ، وَالْحَدِيقَةُ خَلْفَ الْبَيْتِ.", "okunus": "Es-seyyâratu'l-cedîdetu emâme'l-beyti, ve'l-hadîkatu halfe'l-beyti.", "tr": "Yeni araba evin önünde, bahçe ise evin arkasındadır.", "not": "أَمَامَ ve خَلْفَ zarfları + الْبَيْتِ muzâfun ileyh." },
+        { "ar": "الْقِطَّةُ الصَّغِيرَةُ نَائِمَةٌ تَحْتَ الطَّاوِلَةِ.", "okunus": "El-kittatu's-sagîratu nâimetun tahte't-tâvileti.", "tr": "Küçük kedi masanın altında uyuyor.", "not": "تَحْتَ + الطَّاوِلَةِ (kesralı)." },
+        { "ar": "الْمِصْبَاحُ الْمُضِيءُ فَوْقَ الرَّفِّ الْخَشَبِيِّ.", "okunus": "El-misbâhu'l-mudîu fevka'r-raffi'l-haşebiyyi.", "tr": "Parlak lamba ahşap rafın üstündedir.", "not": "فَوْقَ temas şartı olmadan üstünde demektir." },
+        { "ar": "الْمَكْتَبَةُ تَقَعُ بَيْنَ الْمَسْجِدِ وَالْجَامِعَةِ.", "okunus": "El-mektebetu teka‘u beyne'l-mescidi ve'l-câmi‘ati.", "tr": "Kütüphane cami ile üniversitenin arasında yer alır.", "not": "بَيْنَ iki şeyi bağlarken ikisi de mecrûr olur." },
+        { "ar": "أَقْرَأُ كِتَابًا مُفِيدًا قَبْلَ النَّوْمِ كُلَّ لَيْلَةٍ.", "okunus": "Ekrau kitâben mufîden kable'n-nevmi kulle leyletin.", "tr": "Her gece uykudan önce faydalı bir kitap okurum.", "not": "قَبْلَ zaman zarfı + النَّوْمِ." },
+        { "ar": "ذَهَبْتُ مَعَ أُسْرَتِي إِلَى الْبَحْرِ بَعْدَ الِامْتِحَانِ.", "okunus": "Zehebtu me‘a usratî ile'l-bahri ba‘de'l-imtihâni.", "tr": "Sınavdan sonra ailemle birlikte denize gittim.", "not": "مَعَ (beraber) ve بَعْدَ (sonra) ikisi de fethalı zarf!" }
+      ],
+      "tatbikler": [
+        { "id": "m07_g2_d1", "tip": "bosluk", "soru": "الْحِذَاءُ ....... السَّرِيرِ. (Ayakkabı yatağın altındadır) boşluğuna hangisi gelir?", "secenekler": ["فَوْقَ", "تَحْتَ", "قَبْلَ", "بَعْدَ"], "dogruIndeks": 1, "aciklama": "'Altında' anlamındaki yer zarfı تَحْتَ'dir." },
+        { "id": "m07_g2_d2", "tip": "hata_bul", "soru": "'أَمَامُ الْمَدْرَسَةِ حَدِيقَةٌ' cümlesindeki hareke hatası nedir?", "secenekler": ["أَمَامَ yer zarfı fethalı (mansub) olmalıdır: أَمَامَ الْمَدْرَسَةِ", "الْمَدْرَسَةِ dammeli olmalı", "حَدِيقَةٌ kesralı olmalı", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "Yer ve zaman zarfları mansub (fethalı) okunur: أَمَامَ." },
+        { "id": "m07_g2_d3", "tip": "tr_ar", "soru": "'Dersten sonra kütüphaneye gidiyorum' cümlesinde 'dersten sonra' ifadesi hangisidir?", "secenekler": ["بَعْدَ الدَّرْسِ", "قَبْلَ الدَّرْسِ", "بَعْدُ الدَّرْسُ", "تَحْتَ الدَّرْسِ"], "dogruIndeks": 0, "aciklama": "بَعْدَ (sonra) + الدَّرْسِ (muzâfun ileyh, mecrûr)." },
+        { "id": "m07_g2_d4", "tip": "bosluk", "soru": "جَلَسَ عَلِيٌّ ....... أَحْمَدَ وَعُمَرَ. (Ali, Ahmed ile Ömer'in arasına oturdu) boşluğuna hangisi gelir?", "secenekler": ["بَيْنَ", "تَحْتَ", "فَوْقَ", "قَبْلَ"], "dogruIndeks": 0, "aciklama": "'Arasında / arasına' anlamındaki zarf بَيْنَ'dir." },
+        { "id": "m07_g2_d5", "tip": "donusturme", "soru": "'خَلْفَ' zarfı ile 'الْمُسْتَشْفَى' (hastane) birleşince ne anlam verir?", "secenekler": ["Hastanenin önünde", "Hastanenin arkasında", "Hastanenin içinde", "Hastanenin üstünde"], "dogruIndeks": 1, "aciklama": "خَلْفَ (ve eş anlamlısı وَرَاءَ) 'arkasında' demektir." },
+        { "id": "m07_g2_d6", "tip": "bosluk", "soru": "أَغْسِلُ يَدَيَّ ....... الطَّعَامِ. (Yemekten önce ellerimi yıkarım) boşluğuna hangisi gelir?", "secenekler": ["قَبْلَ", "فَوْقَ", "خَلْفَ", "حَوْلَ"], "dogruIndeks": 0, "aciklama": "قَبْلَ الطَّعَامِ = yemekten önce." },
+        { "id": "m07_g2_d7", "tip": "hata_bul", "soru": "'مَعَ الصَّدِيقُ' ifadesindeki hata nedir?", "secenekler": ["مَعَ zarfından sonraki isim muzâfun ileyh olduğu için mecrûr (الصَّدِيقِ) olmalıdır", "مَعَ dammeli olmalı", "ال kaldırılmalı", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "Doğrusu: مَعَ الصَّدِيقِ (arkadaşla beraber)." },
+        { "id": "m07_g2_d8", "tip": "tr_ar", "soru": "'Kuş ağacın üstündedir' cümlesi hangisidir?", "secenekler": ["الْعُصْفُورُ فَوْقَ الشَّجَرَةِ", "الْعُصْفُورُ تَحْتَ الشَّجَرَةِ", "الْعُصْفُورُ خَلْفَ الشَّجَرَةِ", "الْعُصْفُورُ قَبْلَ الشَّجَرَةِ"], "dogruIndeks": 0, "aciklama": "فَوْقَ الشَّجَرَةِ = ağacın üstünde." },
+        { "id": "m07_g2_d9", "tip": "bosluk", "soru": "يَجْلِسُ الطُّلَّابُ ....... الطَّاوِلَةِ الْمُسْتَدِيرَةِ. (Öğrenciler yuvarlak masanın etrafında oturuyorlar)", "secenekler": ["حَوْلَ", "قَبْلَ", "بَعْدَ", "تَحْتَ"], "dogruIndeks": 0, "aciklama": "حَوْلَ = etrafında / çevresinde." },
+        { "id": "m07_g2_d10", "tip": "bosluk", "soru": "Zarfın başına harf-i cer gelirse (ör. 'مِنْ ....... الشَّجَرَةِ' — ağacın altından) zarfın son harekesi ne olur?", "secenekler": ["تَحْتِ (kesra)", "تَحْتُ (damme)", "تَحْتَ (fetha)", "تَحْتْ (sükûn)"], "dogruIndeks": 0, "aciklama": "Zarf bir isim olduğu için başına مِنْ harf-i ceri gelince kesra alır: مِنْ تَحْتِ الشَّجَرَةِ!" }
+      ]
+    },
+    {
+      "id": "m07_g3",
+      "baslik": "Şibh-i Cümle & Haberin Mübtedâdan Öne Geçmesi (تَقْدِيمُ الْخَبَرِ)",
+      "arBaslik": "شِبْهُ الْجُمْلَةِ وَتَقْدِيمُ الْخَبَرِ عَلَى الْمُبْتَدَأِ",
+      "mantik": "Arapçada **Harf-i Cer + Mecrûr** (`فِي الْبَيْتِ`) veya **Zarf + Muzâfun İleyh** (`أَمَامَ الْبَيْتِ`) öbeğine **Şibh-i Cümle (شِبْهُ الْجُمْلَةِ — cümlemsi)** denir. Bir isim cümlesinde haber bu şibh-i cümlelerden biri olabilir: `الطَّالِبُ فِي الصَّفِّ` (Öğrenci sınıftadır).\nŞimdi Arapça nahvinin en zarif ve en sık karşılaşılan sırrına geldik! Eğer mübtedâ **NEKRE** (belirsiz, ال'siz: `طَالِبٌ` — bir öğrenci) ise, Arapça belirsiz bir kelimeyle cümleye başlamayı sevmez! Bu yüzden **Şibh-i Cümle Haber ZORUNLU OLARAK EN BAŞA GEÇER** (Haber-i Mukaddem), nekre mübtedâ ise arkaya gider (Mübtedâ-i Muahhar) ve Türkçeye **'...-de ... VARDIR'** diye çevrilir! Kıyasla ve hayran kal:\n• **الطَّالِبُ فِي الصَّفِّ** → *Öğrenci sınıftadır.* (Mübtedâ marife, normal sıra)\n• **فِي الصَّفِّ طَالِبٌ** → *Sınıfta bir öğrenci VARDIR!* (Mübtedâ nekre, şibh-i cümle haber zorunlu öne geçti!)",
+      "formul": "Marife Mübtedâ + Şibh-i Cümle = '... -dedir'  |  Şibh-i Cümle (Öne Geçen Haber) + Nekre Mübtedâ = '...-de ... VARDIR'",
+      "formulAr": "الطَّالِبُ فِي الصَّفِّ  ≠  فِي الصَّفِّ طَالِبٌ",
+      "tablo": {
+        "baslik": "Normal Sıra vs. Öne Geçen Şibh-i Cümle Haber (Anlam Farkı)",
+        "sutunlar": ["Normal Sıra (Marife Mübtedâ)", "Türkçesi", "Devrik Sıra (Nekre Mübtedâ)", "Türkçesi ('Vardır')"],
+        "satirlar": [
+          { "hucreler": ["الْكِتَابُ عَلَى الْمَكْتَبِ", "Kitap masanın üzerindedir.", "عَلَى الْمَكْتَبِ كِتَابٌ", "Masanın üzerinde bir kitap vardır."], "ses": "الْكِتَابُ عَلَى الْمَكْتَبِ، عَلَى الْمَكْتَبِ كِتَابٌ" },
+          { "hucreler": ["الْمُعَلِّمُ فِي الْغُرْفَةِ", "Öğretmen odadadır.", "فِي الْغُرْفَةِ مُعَلِّمٌ", "Odada bir öğretmen vardır."], "ses": "الْمُعَلِّمُ فِي الْغُرْفَةِ، فِي الْغُرْفَةِ مُعَلِّمٌ" },
+          { "hucreler": ["السَّيَّارَةُ أَمَامَ الْبَيْتِ", "Araba evin önündedir.", "أَمَامَ الْبَيْتِ سَيَّارَةٌ", "Evin önünde bir araba vardır."], "ses": "السَّيَّارَةُ أَمَامَ الْبَيْتِ، أَمَامَ الْبَيْتِ سَيَّارَةٌ" },
+          { "hucreler": ["الطُّلَّابُ فِي الْحَدِيقَةِ", "Öğrenciler bahçededir.", "فِي الْحَدِيقَةِ طُلَّابٌ كَثِيرُونَ", "Bahçede çok öğrenci vardır."], "ses": "فِي الْحَدِيقَةِ طُلَّابٌ كَثِيرُونَ" }
+        ]
+      },
+      "trKiyas": "Türkçedeki o müthiş vurgu farkıyla birebir aynıdır! Türkçede de 'Kitap masada' (belirli kitap) derken özne başta, 'Masada bir kitap var' (belirsiz kitap) derken yer ifadesi baştadır! Tek dikkat edeceğin nokta: Öne geçmiş şibh-i cümleden sonra gelen nekre isim (`طَالِبٌ`, `كِتَابٌ`) cümlenin **MÜBTEDÂSI** olduğu için **DAİMA MERFÛ (dammetân: ـٌ)** olur, sakın fethalı okuma!",
+      "sikHatalar": [
+        "Nekre mübtedâyla cümleye başlamak (طَالِبٌ فِي الصَّفِّ YANLIŞ/ZAYIF → doğrusu فِي الصَّفِّ طَالِبٌ!).",
+        "Öne geçen haberden sonraki mübtedâyı mansub veya mecrûr okumak (فِي الصَّفِّ طَالِبًا YANLIŞ → doğrusu فِي الصَّفِّ طَالِبٌ!).",
+        "'فِي الْغُرْفَةِ سَرِيرٌ' cümlesinde ayrıca 'var' kelimesi aramak; şibh-i cümlenin öne geçmesi zaten 'vardır' anlamını üretir!"
+      ],
+      "ornekler": [
+        { "ar": "فِي بَيْتِنَا غُرَفٌ وَاسِعَةٌ وَحَدِيقَةٌ جَمِيلَةٌ.", "okunus": "Fî beytinâ gurafun vâsi‘atun ve hadîkatun cemîletun.", "tr": "Evimizde geniş odalar ve güzel bir bahçe vardır.", "not": "فِي بَيْتِنَا (haber-i mukaddem) + غُرَفٌ (mübtedâ-i muahhar, merfû!)." },
+        { "ar": "عَلَى الطَّاوِلَةِ فِنْجَانُ قَهْوَةٍ وَكُوبُ مَاءٍ.", "okunus": "‘Ale't-tâvileti fincânu kahvetin ve kûbu mâin.", "tr": "Masanın üzerinde bir fincan kahve ve bir bardak su vardır.", "not": "عَلَى الطَّاوِلَةِ öne geçti; فِنْجَانُ merfû mübtedâ." },
+        { "ar": "أَمَامَ الْجَامِعَةِ مَحَطَّةُ حَافِلَاتٍ كَبِيرَةٌ.", "okunus": "Emâme'l-câmi‘ati mahattatu hâfilâtin kebîratun.", "tr": "Üniversitenin önünde büyük bir otobüs durağı vardır.", "not": "Zarf şibh-i cümlesi haber olarak öne geçti." },
+        { "ar": "فِي هٰذِهِ الْمَدِينَةِ مَتَاحِفُ قَدِيمَةٌ وَمَسَاجِدُ تَارِيخِيَّةٌ.", "okunus": "Fî hâzihi'l-medîneti metâhifu kadîmetun ve mesâcidu târîhiyyetun.", "tr": "Bu şehirde eski müzeler ve tarihi camiler vardır.", "not": "مَتَاحِفُ akılsız çoğul → sıfatı قَدِيمَةٌ tekil müennes." },
+        { "ar": "فِي الْحَقِيبَةِ دَفْتَرٌ وَقَلَمٌ وَمِفْتَاحٌ.", "okunus": "Fi'l-hakîbeti defterun ve kalemun ve miftâhun.", "tr": "Çantada bir defter, bir kalem ve bir anahtar vardır.", "not": "Üçü de merfû (dammetân)." },
+        { "ar": "بَيْنَ الْجِبَالِ قَرْيَةٌ صَغِيرَةٌ هَادِئَةٌ.", "okunus": "Beyne'l-cibâli karyetun sagîratun hâdietun.", "tr": "Dağların arasında küçük, sakin bir köy vardır.", "not": "بَيْنَ الْجِبَالِ (haber) + قَرْيَةٌ (mübtedâ)." }
+      ],
+      "tatbikler": [
+        { "id": "m07_g3_d1", "tip": "tr_ar", "soru": "'Sınıfta bir öğrenci vardır' cümlesinin gramer açısından en doğru Arapçası hangisidir?", "secenekler": ["فِي الصَّفِّ طَالِبٌ", "طَالِبٌ فِي الصَّفِّ", "فِي الصَّفِّ طَالِبًا", "الطَّالِبُ فِي الصَّفِّ"], "dogruIndeks": 0, "aciklama": "Mübtedâ nekre (طَالِبٌ) olduğu için şibh-i cümle haber (فِي الصَّفِّ) zorunlu öne geçer ve طَالِبٌ merfû kalır." },
+        { "id": "m07_g3_d2", "tip": "bosluk", "soru": "'الْقَلَمُ فِي الْحَقِيبَةِ' ile 'فِي الْحَقِيبَةِ قَلَمٌ' arasındaki anlam farkı nedir?", "secenekler": ["1. 'Kalem çantadadır' — 2. 'Çantada bir kalem vardır'", "İkisi tamamen aynıdır", "1. çoğul — 2. tekildir", "2. cümle yanlıştır"], "dogruIndeks": 0, "aciklama": "Marife başta olunca belirli nesnenin yerini, şibh-i cümle başta + nekre sonda olunca 'vardır' anlamını verir." },
+        { "id": "m07_g3_d3", "tip": "hata_bul", "soru": "'عَلَى الرَّفِّ كُتُبٍ كَثِيرَةٍ' cümlesindeki i'rab hatası nedir?", "secenekler": ["كُتُبٌ mübtedâ-i muahhar olduğu için merfû (كُتُبٌ كَثِيرَةٌ) olmalıdır", "عَلَى yerine فِي gelmeli", "الرَّفِّ dammeli olmalı", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "Öne geçen şibh-i cümle haberdir; arkasından gelen isim mübtedâ olduğu için merfû (damme) okunur!" },
+        { "id": "m07_g3_d4", "tip": "donusturme", "soru": "'الْمَسْجِدُ أَمَامَ السُّوقِ' (Cami çarşının önündedir) cümlesini 'Çarşının önünde bir cami vardır' şekline dönüştürün:", "secenekler": ["أَمَامَ السُّوقِ مَسْجِدٌ", "مَسْجِدٌ أَمَامَ السُّوقِ", "أَمَامَ السُّوقِ الْمَسْجِدُ", "أَمَامَ السُّوقِ مَسْجِدًا"], "dogruIndeks": 0, "aciklama": "Şibh-i cümle (أَمَامَ السُّوقِ) başa, nekre merfû mübtedâ (مَسْجِدٌ) sona gelir." },
+        { "id": "m07_g3_d5", "tip": "bosluk", "soru": "فِي الْمَدِينَةِ ....... جَدِيدَةٌ. (Şehirde yeni bir kütüphane vardır) boşluğuna hangisi gelir?", "secenekler": ["مَكْتَبَةٌ", "مَكْتَبَةً", "مَكْتَبَةٍ", "الْمَكْتَبَةُ"], "dogruIndeks": 0, "aciklama": "Nekre merfû mübtedâ: مَكْتَبَةٌ." },
+        { "id": "m07_g3_d6", "tip": "tr_ar", "soru": "'Ağacın altında bir kedi vardır' cümlesi hangisidir?", "secenekler": ["تَحْتَ الشَّجَرَةِ قِطَّةٌ", "الْقِطَّةُ تَحْتَ الشَّجَرَةِ", "تَحْتَ الشَّجَرَةِ قِطَّةً", "قِطَّةٌ تَحْتَ الشَّجَرَةِ"], "dogruIndeks": 0, "aciklama": "Zarf şibh-i cümlesi öne geçer + nekre merfû mübtedâ: تَحْتَ الشَّجَرَةِ قِطَّةٌ." },
+        { "id": "m07_g3_d7", "tip": "bosluk", "soru": "Aşağıdakilerden hangisi 'Şibh-i Cümle' DEĞİLDİR?", "secenekler": ["فِي الْبَيْتِ", "أَمَامَ الْمَدْرَسَةِ", "عَلَى الطَّاوِلَةِ", "طَالِبٌ مُجْتَهِدٌ"], "dogruIndeks": 3, "aciklama": "طَالِبٌ مُجْتَهِدٌ sıfat tamlamasıdır; şibh-i cümle yalnızca câr-mecrûr veya zarf öbeğidir." },
+        { "id": "m07_g3_d8", "tip": "bosluk", "soru": "'فِي الْبَيْتِ ضَيْفٌ كَرِيمٌ' cümlesinde mübtedâ hangisidir?", "secenekler": ["فِي الْبَيْتِ", "ضَيْفٌ", "كَرِيمٌ", "الْبَيْتِ"], "dogruIndeks": 1, "aciklama": "فِي الْبَيْتِ öne geçmiş haber, ضَيْفٌ sona kalmış mübtedâ, كَرِيمٌ ise onun sıfatıdır." },
+        { "id": "m07_g3_d9", "tip": "tr_ar", "soru": "'Bahçede güzel çiçekler vardır' cümlesi hangisidir?", "secenekler": ["فِي الْحَدِيقَةِ أَزْهَارٌ جَمِيلَةٌ", "فِي الْحَدِيقَةِ أَزْهَارٌ جَمِيلُونَ", "الْأَزْهَارُ فِي الْحَدِيقَةِ جَمِيلَةٌ", "فِي الْحَدِيقَةِ أَزْهَارًا جَمِيلَةً"], "dogruIndeks": 0, "aciklama": "أَزْهَارٌ (akılsız çoğul, merfû mübtedâ) + جَمِيلَةٌ (tekil müennes sıfat)." },
+        { "id": "m07_g3_d10", "tip": "hata_bul", "soru": "'خَلْفَ الْمَسْجِدِ حَدِيقَةً كَبِيرَةً' cümlesinin doğru şekli hangisidir?", "secenekler": ["خَلْفَ الْمَسْجِدِ حَدِيقَةٌ كَبِيرَةٌ", "خَلْفَ الْمَسْجِدُ حَدِيقَةٌ كَبِيرَةٌ", "خَلْفُ الْمَسْجِدِ حَدِيقَةٌ كَبِيرَةٌ", "Cümle doğrudur"], "dogruIndeks": 0, "aciklama": "خَلْفَ (fetha) + الْمَسْجِدِ (kesra) + حَدِيقَةٌ كَبِيرَةٌ (dammetân — merfû mübtedâ ve sıfatı)." }
+      ]
+    },
+    {
+      "id": "m07_g4",
+      "baslik": "Sahiplik ve 'Var / Yok' Yapıları (عِنْدَ · لِـ · مَعَ · هُنَاكَ)",
+      "arBaslik": "التَّعْبِيرُ عَنِ الْمِلْكِيَّةِ وَالْوُجُودِ (عِنْدَ / لِـ / مَعَ / هُنَاكَ)",
+      "mantik": "Türkçede 'Benim bir kitabım var', 'İki kardeşim var', 'Yanımda kalem var' derken hep 'var' kelimesini kullanırız; İngilizcede ise 'have' fiili vardır. Arapçada ise 'have' gibi tek bir fiil yerine az önce öğrendiğin **Öne Geçen Şibh-i Cümle** sistemiyle 3 süper zarif sahiplik kalıbı kurulur!\n1) **عِنْدَ + Zamir/İsim** (genel sahiplik, evde/elinde bulunma): `عِنْدِي سَيَّارَةٌ` (Arabam var), `عِنْدَ أَحْمَدَ وَقْتٌ` (Ahmed'in vakti var).\n2) **لِـ + Zamir/İsim** (aidiyet, akrabalık, kurum/yer özellikleri): `لِي أَخٌ وَأُخْتٌ` (Bir erkek ve bir kız kardeşim var), `لِلْبَيْتِ بَابَانِ` (Evin iki kapısı var).\n3) **مَعَ + Zamir/İsim** (tam şu an üzerinde/yanında taşıma): `مَعِي جَوَازُ السَّفَرِ` (Yanımda pasaport var).\nOlumsuz yapmak ('yok') için başa sadece **لَيْسَ** (veya konuşmada **لَا يُوجَدُ**) eklenir: `لَيْسَ عِنْدِي وَقْتٌ` (Vaktim yok)! Genel 'orada ... var' demek içinse **هُنَاكَ** (`هُنَاكَ سُؤَالٌ` — Bir soru var) kullanılır!",
+      "formul": "عِنْدِي / لِي / مَعِي / هُنَاكَ (Öne Geçen Haber) + Sahip Olunan Şey (MERFÛ Mübtedâ!)",
+      "formulAr": "عِنْدِي كِتَابٌ · لِي أَخٌ · مَعِي قَلَمٌ · هُنَاكَ مَطْعَمٌ",
+      "tablo": {
+        "baslik": "4 Sahiplik ve Varlık Kalıbının İnce Nüansları",
+        "sutunlar": ["Kalıp", "Kullanım Alanı", "Olumlu Örnek", "Olumsuz Örnek ('Yok')", "Türkçesi"],
+        "satirlar": [
+          { "hucreler": ["عِنْدَ + Zamir", "Genel sahiplik, eşya, zaman, randevu", "عِنْدِي حَاسُوبٌ", "لَيْسَ عِنْدِي حَاسُوبٌ", "Bilgisayarım var / yok"], "ses": "عِنْدِي حَاسُوبٌ، لَيْسَ عِنْدِي حَاسُوبٌ" },
+          { "hucreler": ["لِـ + Zamir/İsim", "Akrabalık, aidiyet, cansız parça", "لِي صَدِيقٌ وَفِيٌّ", "لَيْسَ لِي سَيَّارَةٌ", "Vefalı bir arkadaşım var"], "ses": "لِي صَدِيقٌ وَفِيٌّ" },
+          { "hucreler": ["مَعَ + Zamir", "Şu an cebinde / yanında taşıma", "مَعِي مِفْتَاحٌ", "لَيْسَ مَعِي نُقُودٌ", "Yanımda anahtar var / para yok"], "ses": "مَعِي مِفْتَاحٌ، لَيْسَ مَعِي نُقُودٌ" },
+          { "hucreler": ["هُنَاكَ", "Genel varlık ('var / orada var')", "هُنَاكَ مُشْكِلَةٌ", "لَا يُوجَدُ مُشْكِلَةٌ", "Bir sorun var / sorun yok"], "ses": "هُنَاكَ مُشْكِلَةٌ" }
+        ]
+      },
+      "trKiyas": "Çok güzel bir nüans: Bir bina veya nesnenin parçasından bahsederken (`Evin iki kapısı var`, `Sınıfın üç penceresi var`) Arapçada **عِنْدَ** değil **لِـ** kullanılır: `لِلْبَيْتِ بَابَانِ`! Çünkü عِنْدَ daha çok bilinçli sahiplik veya 'yanında' anlamı taşır (`عِنْدَ الْبَابِ` = kapının yanında!).",
+      "sikHatalar": [
+        "'عِنْدِي كِتَابًا' şeklinde sahip olunan nesneyi fethalı okumak (YANLIŞ! Arapçada bu nesne değil MÜBTEDÂDIR → doğrusu عِنْدِي كِتَابٌ!).",
+        "Cansız bir nesnenin parçası için عِنْدَ kullanmak ('عِنْدَ الْبَيْتِ بَابٌ' = evin yanında kapı var gibi anlaşılır → doğrusu لِلْبَيْتِ بَابٌ!).",
+        "مَعِي yerine genel sahiplikte (evde duran ev/araba için) مَعِي demek; مَعِي o an yanında/üstünde olan şeyler içindir."
+      ],
+      "ornekler": [
+        { "ar": "عِنْدِي دَرْسٌ مُهِمٌّ فِي الصَّبَاحِ وَاجْتِمَاعٌ فِي الْمَسَاءِ.", "okunus": "‘İndî dersun muhimmun fi's-sabâhi ve'ctimâ‘un fi'l-mesâi.", "tr": "Sabah önemli bir dersim ve akşam bir toplantım var.", "not": "عِنْدِي + merfû mübtedâ (دَرْسٌ)." },
+        { "ar": "لِي أَخٌ كَبِيرٌ يَعْمَلُ مُهَنْدِسًا وَأُخْتٌ صَغِيرَةٌ فِي الْجَامِعَةِ.", "okunus": "Lî ahun kebîrun ya‘melu muhendisen ve uhtun sagîratun fi'l-câmi‘ati.", "tr": "Mühendis olarak çalışan büyük bir abim ve üniversitede küçük bir kız kardeşim var.", "not": "Akrabalık ilişkilerinde لِي çok doğal ve yaygındır." },
+        { "ar": "هَلْ مَعَكَ قَلَمٌ إِضَافِيٌّ؟ نَعَمْ، مَعِي قَلَمَانِ.", "okunus": "Hel me‘ake kalemun idâfiyyun? Ne‘am, me‘î kalemâni.", "tr": "Yanında fazladan bir kalem var mı? Evet, yanımda iki kalem var.", "not": "Anlık yanında taşıma → مَعَكَ / مَعِي; ikil merfû قَلَمَانِ." },
+        { "ar": "لِلْمَسْجِدِ مِئْذَنَتَانِ عَالِيَتَانِ وَقُبَّةٌ كَبِيرَةٌ.", "okunus": "Li'l-mescidi mi'zenetâni ‘âliyetâni ve kubbetun kebîratun.", "tr": "Caminin iki yüksek minaresi ve büyük bir kubbesi var.", "not": "Cansız nesne parçaları için لِـ kullanılır!" },
+        { "ar": "لَيْسَ عِنْدِي وَقْتٌ الْيَوْمَ، وَلٰكِنْ عِنْدِي وَقْتٌ غَدًا.", "okunus": "Leyse ‘indî vaktun el-yevme, ve lâkin ‘indî vaktun gaden.", "tr": "Bugün vaktim yok ama yarın vaktim var.", "not": "لَيْسَ عِنْدِي = bende yok / ...-im yok." },
+        { "ar": "هُنَاكَ مَطْعَمٌ لَذِيذٌ بِجَانِبِ الْمَحَطَّةِ.", "okunus": "Hunâke mat‘amun lezîzun bi-cânibi'l-mahattati.", "tr": "İstasyonun yanında lezzetli bir lokanta var.", "not": "هُنَاكَ (orada / var) + nekre merfû isim." }
+      ],
+      "tatbikler": [
+        { "id": "m07_g4_d1", "tip": "tr_ar", "soru": "'Benim yeni bir kitabım var' cümlesinin doğru Arapçası hangisidir?", "secenekler": ["عِنْدِي كِتَابٌ جَدِيدٌ", "عِنْدِي كِتَابًا جَدِيدًا", "عِنْدِي الْكِتَابُ جَدِيدٌ", "فِي كِتَابٌ جَدِيدٌ"], "dogruIndeks": 0, "aciklama": "عِنْدِي öne geçen haber, كِتَابٌ جَدِيدٌ ise merfû (dammetân) mübtedâdır." },
+        { "id": "m07_g4_d2", "tip": "bosluk", "soru": "....... السَّيَّارَةِ أَرْبَعَةُ أَبْوَابٍ. (Arabanın dört kapısı var) boşluğuna en uygun edat hangisidir?", "secenekler": ["لِـ (لِلسَّيَّارَةِ)", "عِنْدَ", "مَعَ", "عَنْ"], "dogruIndeks": 0, "aciklama": "Cansız bir nesnenin parçalarını anlatırken لِـ kullanılır: لِلسَّيَّارَةِ." },
+        { "id": "m07_g4_d3", "tip": "bosluk", "soru": "'Şu an cebinde/yanında para var mı?' sorusu için en doğal kalıp hangisidir?", "secenekler": ["هَلْ مَعَكَ نُقُودٌ؟", "هَلْ فَوْقَكَ نُقُودٌ؟", "هَلْ تَحْتَكَ نُقُودٌ؟", "هَلْ عَنْكَ نُقُودٌ؟"], "dogruIndeks": 0, "aciklama": "O an üzerinde/yanında taşımak için مَعَ kullanılır: هَلْ مَعَكَ نُقُودٌ؟" },
+        { "id": "m07_g4_d4", "tip": "hata_bul", "soru": "'عِنْدَهُ سَيَّارَةً جَمِيلَةً' cümlesindeki hata nedir?", "secenekler": ["سَيَّارَةٌ جَمِيلَةٌ mübtedâ-i muahhar olduğu için merfû (dammetân) olmalıdır", "عِنْدَهُ yerine عِنْدِهِ olmalı", "جَمِيلَةٌ müzekker olmalı", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "Arapçada عِنْدَهُ cümlesinde sahip olunan şey nesne değil MÜBTEDÂDIR: عِنْدَهُ سَيَّارَةٌ جَمِيلَةٌ." },
+        { "id": "m07_g4_d5", "tip": "donusturme", "soru": "'عِنْدِي سُؤَالٌ' (Bir sorum var) cümlesini olumsuz ('Sorum yok') yapınız:", "secenekler": ["لَيْسَ عِنْدِي سُؤَالٌ", "لَا عِنْدِي سُؤَالٌ", "مَا سُؤَالٌ عِنْدِي", "عِنْدِي غَيْرُ سُؤَالٍ"], "dogruIndeks": 0, "aciklama": "İsim cümlesi / şibh-i cümle sahiplik yapısı لَيْسَ ile olumsuz yapılır: لَيْسَ عِنْدِي سُؤَالٌ." },
+        { "id": "m07_g4_d6", "tip": "tr_ar", "soru": "'Kızımın iki güzel arkadaşı var' (kız) cümlesi hangisidir?", "secenekler": ["لِابْنَتِي صَدِيقَتَانِ جَمِيلَتَانِ", "لِابْنَتِي صَدِيقَتَيْنِ جَمِيلَتَيْنِ", "لِابْنَتِي صَدِيقَانِ جَمِيلَانِ", "مَعَ ابْنَتِي صَدِيقَتَيْنِ"], "dogruIndeks": 0, "aciklama": "Mübtedâ ikil merfû (ـَانِ) olmalıdır: صَدِيقَتَانِ جَمِيلَتَانِ." },
+        { "id": "m07_g4_d7", "tip": "bosluk", "soru": "....... فُرْصَةٌ جَيِّدَةٌ لِلتَّعَلُّمِ. (Öğrenmek için iyi bir fırsat var) boşluğuna hangisi gelir?", "secenekler": ["هُنَاكَ", "إِلَى", "عَنْ", "بِـ"], "dogruIndeks": 0, "aciklama": "Genel 'var / mevcut' anlamı هُنَاكَ ile verilir." },
+        { "id": "m07_g4_d8", "tip": "bosluk", "soru": "'عِنْدَ الْبَابِ رَجُلٌ' cümlesinin anlamı nedir?", "secenekler": ["Kapının yanında bir adam vardır", "Adamın bir kapısı vardır", "Kapı adamın elindedir", "Adam kapının içindedir"], "dogruIndeks": 0, "aciklama": "عِنْدَ yer bildirirken 'yanında / huzurunda' demektir: عِنْدَ الْبَابِ رَجُلٌ." },
+        { "id": "m07_g4_d9", "tip": "tr_ar", "soru": "'Onun (kadın) geniş bir evi var' cümlesi hangisidir?", "secenekler": ["عِنْدَهَا بَيْتٌ وَاسِعٌ", "عِنْدَهُ بَيْتٌ وَاسِعٌ", "عِنْدَهَا بَيْتًا وَاسِعًا", "لَهَا بَيْتٌ وَاسِعَةٌ"], "dogruIndeks": 0, "aciklama": "عِنْدَهَا (onun var) + بَيْتٌ وَاسِعٌ (merfû mübtedâ + sıfat)." },
+        { "id": "m07_g4_d10", "tip": "bosluk", "soru": "'لِلّٰهِ الْحَمْدُ' (Hamd Allah'a mahsustur) cümlesinde لِـ harf-i ceri hangi anlamı verir?", "secenekler": ["Aidiyet / mahsus olma", "Zaman", "Benzetme", "Vasıta"], "dogruIndeks": 0, "aciklama": "لِـ burada aidiyet ve tahsis (sadece O'na ait olma) anlamı taşır." }
+      ]
+    },
+    {
+      "id": "m07_g5",
+      "baslik": "Harf-i Cerlerin Zamirlere Bitişmesi ve Ses Değişimleri",
+      "arBaslik": "اِتِّصَالُ حُرُوفِ الْجَرِّ بِالضَّمَائِرِ",
+      "mantik": "Türkçede 'bende, sende, onda, benimle, seninle, onun için, bana, sana' dediğimiz gibi Arapçada da harf-i cerler doğrudan muttasıl zamirlere bitişir! Fakat burada **4 şahane ses ve imlâ kuralı** vardır ki bunları bir kez öğrendin mi Arapça metinlerin %30'u anında gözünde çözülür:\n1) **عَلَى** ve **إِلَى** zamire bitiştiğinde sonundaki elif-i maksûre (ى) cezimli **يْ**'ye dönüşür: `عَلَيْكَ، عَلَيْهِ، إِلَيْكَ، إِلَيْهِ، عَلَيَّ، إِلَيَّ`!\n2) **لِـ** (kesralı) açık isimde kesralı (`لِلطَّالِبِ`) iken, **ـِي** dışındaki TÜM zamirlere bitişirken **FETHALI (لَـ)** olur: `لَكَ، لَكِ، لَهُ، لَهَا، لَنَا، لَهُمْ` (sadece 1. tekilde **لِي** kesralı kalır!).\n3) **مِنْ** ve **عَنْ** harfleri **ـِي** ve **ـنَا** zamirlerine bitişirken nûn şeddelenir: `مِنِّي، مِنَّا، عَنِّي، عَنَّا`!\n4) **فِي، بِـ، عَلَيْـ، إِلَيْـ** gibi kesra veya cezimli `يْ` ile bitenlerden sonra `ـهُ / ـهُمْ / ـهُنَّ` kesralı okunur: `فِيهِ، بِهِ، عَلَيْهِ، إِلَيْهِمْ`!",
+      "formul": "عَلَى/إِلَى + Zamir → عَلَيْـ/إِلَيْـ  |  لِـ + Zamir → لَـ (sadece لِي)  |  مِنْ/عَنْ + نِي/نَا → مِنِّي/عَنَّا",
+      "formulAr": "لَهُ · لِي · عَلَيْهِ · إِلَيْكَ · فِيهِ · بِهِ · مِنِّي · عَنَّا",
+      "tablo": {
+        "baslik": "Harf-i Cer + Muttasıl Zamir Altın Çekim Matrisi",
+        "sutunlar": ["Harf-i Cer", "Ben (ـِي)", "Biz (ـنَا)", "Sen E/K (ـكَ/ـكِ)", "O E/K (ـهُ/ـهَا)", "Onlar E (ـهُمْ)"],
+        "satirlar": [
+          { "hucreler": ["لِـ (için)", "لِي", "لَنَا", "لَكَ / لَكِ", "لَهُ / لَهَا", "لَهُمْ"], "ses": "لِي لَنَا لَكَ لَكِ لَهُ لَهَا لَهُمْ" },
+          { "hucreler": ["فِي (içinde)", "فِيَّ", "فِينَا", "فِيكَ / فِيكِ", "فِيهِ / فِيهَا", "فِيهِمْ"], "ses": "فِيَّ فِينَا فِيكَ فِيهِ فِيهَا فِيهِمْ" },
+          { "hucreler": ["بِـ (ile)", "بِي", "بِنَا", "بِكَ / بِكِ", "بِهِ / بِهَا", "بِهِمْ"], "ses": "بِي بِنَا بِكَ بِهِ بِهَا بِهِمْ" },
+          { "hucreler": ["عَلَى (üzerinde)", "عَلَيَّ", "عَلَيْنَا", "عَلَيْكَ / عَلَيْكِ", "عَلَيْهِ / عَلَيْهَا", "عَلَيْهِمْ"], "ses": "عَلَيَّ عَلَيْنَا عَلَيْكَ عَلَيْهِ عَلَيْهَا عَلَيْهِمْ" },
+          { "hucreler": ["إِلَى (-e doğru)", "إِلَيَّ", "إِلَيْنَا", "إِلَيْكَ / إِلَيْكِ", "إِلَيْهِ / إِلَيْهَا", "إِلَيْهِمْ"], "ses": "إِلَيَّ إِلَيْنَا إِلَيْكَ إِلَيْهِ إِلَيْهَا إِلَيْهِمْ" },
+          { "hucreler": ["مِنْ (-den)", "مِنِّي", "مِنَّا", "مِنْكَ / مِنْكِ", "مِنْهُ / مِنْهَا", "مِنْهُمْ"], "ses": "مِنِّي مِنَّا مِنْكَ مِنْهُ مِنْهَا مِنْهُمْ" },
+          { "hucreler": ["عَنْ (hakkında)", "عَنِّي", "عَنَّا", "عَنْكَ / عَنْكِ", "عَنْهُ / عَنْهَا", "عَنْهُمْ"], "ses": "عَنِّي عَنَّا عَنْكَ عَنْهُ عَنْهَا عَنْهُمْ" }
+        ]
+      },
+      "trKiyas": "Günlük selamlaşma cümlesi **السَّلَامُ عَلَيْكُمْ** (Selam üzerinize olsun!) işte tam bu kuralın canlı örneğidir: `عَلَى + كُمْ → عَلَيْكُمْ`! Aynı şekilde **شُكْرًا لَكَ** (Sana teşekkürler: `لِـ + كَ → لَكَ`) ve **أَهْلًا بِكَ** (Hoş geldin: `بِـ + كَ → بِكَ`) ifadelerini artık ezbere değil, mantığıyla biliyorsun!",
+      "sikHatalar": [
+        "لِـ harfini zamirle kesralı okumak (لِكَ veya لِهُ YANLIŞ → doğrusu لَكَ / لَهُ; sadece لِي kesralıdır!).",
+        "عَلَيْهُ veya إِلَيْهُ diye dammeyle okumak (YANLIŞ! Cezimli يْ'den sonra kesra gelir → عَلَيْهِ / إِلَيْهِ!).",
+        "مِنْ + نِي birleşimini şeddesiz مِنِي yazmak (YANLIŞ → doğrusu şeddeli مِنِّي ve عَنِّي!)."
+      ],
+      "ornekler": [
+        { "ar": "السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ.", "okunus": "Es-selâmu ‘aleykum ve rahmetullâhi ve berekâtuhu.", "tr": "Allah'ın selamı, rahmeti ve bereketi üzerinize olsun.", "not": "عَلَى + كُمْ → عَلَيْكُمْ (ى → يْ)." },
+        { "ar": "شُكْرًا جَزِيلًا لَكَ يَا أَخِي، وَبَارَكَ اللّٰهُ فِيكَ.", "okunus": "Şukran cezîlen leke yâ ahî, ve bârakallâhu fîke.", "tr": "Sana çok teşekkür ederim kardeşim, Allah seni bereketlendirsin.", "not": "لِـ + كَ → لَكَ (fethalı); فِي + كَ → فِيكَ." },
+        { "ar": "هٰذِهِ الرِّسَالَةُ مِنِّي إِلَيْكَ يَا صَدِيقِي الْعَزِيزَ.", "okunus": "Hâzihi'r-risâletu minnî ileyke yâ sadîki'l-‘azîze.", "tr": "Bu mektup benden sana (yazılmıştır), sevgili dostum.", "not": "مِنْ + نِي → مِنِّي (şedde); إِلَى + كَ → إِلَيْكَ." },
+        { "ar": "الْمَدْرَسَةُ قَرِيبَةٌ مِنَّا، نَذْهَبُ إِلَيْهَا مَشْيًا.", "okunus": "El-medresetu karîbetun minnâ, nezhebu ileyhâ meşyen.", "tr": "Okul bize yakındır, ona yürüyerek gideriz.", "not": "مِنْ + نَا → مِنَّا; إِلَى + هَا → إِلَيْهَا." },
+        { "ar": "نَظَرَ الْمُعَلِّمُ إِلَيْهِ وَسَأَلَهُ عَنْ دَرْسِهِ.", "okunus": "Nezara'l-mu‘allimu ileyhi ve seelehu ‘an dersihi.", "tr": "Öğretmen ona baktı ve ona dersini sordu.", "not": "إِلَى + هُ → إِلَيْهِ (يْ sonrası kesra uyumu!)." },
+        { "ar": "هٰذَا الْكِتَابُ فِيهِ مَعْلُومَاتٌ قَيِّمَةٌ، أَنَا سَعِيدٌ بِهِ.", "okunus": "Hâze'l-kitâbu fîhi ma‘lûmâtun kayyimetun, ene sa‘îdun bihi.", "tr": "Bu kitabın içinde değerli bilgiler var, onunla mutluyum.", "not": "فِي + هُ → فِيهِ; بِـ + هُ → بِهِ." }
+      ],
+      "tatbikler": [
+        { "id": "m07_g5_d1", "tip": "donusturme", "soru": "لِـ harf-i ceri ile ـهُ (o erkek) zamiri birleştiğinde doğru okunuş hangisidir?", "secenekler": ["لَهُ", "لِهُ", "لِهِ", "لَيْهِ"], "dogruIndeks": 0, "aciklama": "لِـ harfi ـِي dışındaki tüm zamirlerle fethalı (لَـ) okunur: لَهُ." },
+        { "id": "m07_g5_d2", "tip": "donusturme", "soru": "عَلَى + هُ (onun üzerine) birleşiminin doğru yazılışı ve harekesi hangisidir?", "secenekler": ["عَلَيْهِ", "عَلَيْهُ", "عَلَاهُ", "عَلِيهِ"], "dogruIndeks": 0, "aciklama": "ى harfi يْ'ye döner; cezimli يْ'den sonra هُ kesralanıp هِ olur: عَلَيْهِ." },
+        { "id": "m07_g5_d3", "tip": "bosluk", "soru": "مِنْ + نِي (benden) birleşimi hangisidir?", "secenekler": ["مِنِّي", "مِنِي", "مَنِّي", "مِنْيِي"], "dogruIndeks": 0, "aciklama": "İki nûn birleşip şeddelenir: مِنِّي." },
+        { "id": "m07_g5_d4", "tip": "hata_bul", "soru": "'شُكْرًا لِكَ يَا صَدِيقِي' cümlesindeki hareke hatası nedir?", "secenekler": ["لِكَ değil fethalı لَكَ olmalıdır", "شُكْرًا dammeli olmalı", "صَدِيقِي yanlış", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "لِـ + كَ → لَكَ (sadece 1. tekil لِي kesralı kalır)." },
+        { "id": "m07_g5_d5", "tip": "bosluk", "soru": "نَظَرَ الطِّفْلُ ....... (Çocuk ona [kadına] baktı) boşluğuna hangisi gelir?", "secenekler": ["إِلَيْهَا", "إِلَيْهِ", "إِلَاهَا", "إِلِيهَا"], "dogruIndeks": 0, "aciklama": "إِلَى + هَا → إِلَيْهَا." },
+        { "id": "m07_g5_d6", "tip": "donusturme", "soru": "عَنْ + نَا (bizden / bizim hakkımızda) birleşimi hangisidir?", "secenekler": ["عَنَّا", "عَنَا", "عِنَّا", "عَنْهَا"], "dogruIndeks": 0, "aciklama": "عَنْ + نَا → iki nûn şeddelenir: عَنَّا." },
+        { "id": "m07_g5_d7", "tip": "bosluk", "soru": "الْبَيْتُ كَبِيرٌ وَ....... حَدِيقَةٌ جَمِيلَةٌ. (Ev büyüktür ve onda güzel bir bahçe vardır)", "secenekler": ["فِيهِ", "فِيهُ", "فِيهَا", "بِهُ"], "dogruIndeks": 0, "aciklama": "الْبَيْتُ müzekker olduğu için فِي + هُ → فِيهِ." },
+        { "id": "m07_g5_d8", "tip": "tr_ar", "soru": "'Sana (kadın) teşekkür ederim' ifadesinin doğru Arapçası hangisidir?", "secenekler": ["شُكْرًا لَكِ", "شُكْرًا لَكَ", "شُكْرًا لِكِ", "شُكْرًا إِلَيْكِ"], "dogruIndeks": 0, "aciklama": "لِـ + كِ → لَكِ (لَ fethalı, كِ kesralı)." },
+        { "id": "m07_g5_d9", "tip": "bosluk", "soru": "عَلَى + ي (benim üzerime) birleşimi nasıl okunur?", "secenekler": ["عَلَيَّ", "عَلَيْيِ", "عَلَايَ", "عَلِى"], "dogruIndeks": 0, "aciklama": "İki yâ şeddelenir ve sonu fethalı olur: عَلَيَّ ('aleyye)!" },
+        { "id": "m07_g5_d10", "tip": "bosluk", "soru": "بِـ + هِمْ (onlarla) birleşiminde ه harfi hangi harekeyi alır?", "secenekler": ["Kesra (بِهِمْ)", "Damme (بِهُمْ)", "Fetha (بَهَمْ)", "Sükûn (بِهْمْ)"], "dogruIndeks": 0, "aciklama": "بِ kesralı olduğu için ses uyumuyla هِمْ okunur: بِهِمْ." }
+      ]
+    }
+  ],
+  "workshop": {
+    "motors": [
+      {
+        "id": "m07_mot1",
+        "baslik": "Harf-i Cerle Konum Cümlesi Motoru",
+        "aciklama": "Marife özne + harf-i cer + mecrûr mekân seçerek anında doğru konum cümleleri üret.",
+        "slotlar": [
+          {
+            "etiket": "Marife Mübtedâ",
+            "secenekler": [
+              { "ar": "الْكِتَابُ", "okunus": "el-kitâbu", "tr": "Kitap" },
+              { "ar": "الطَّالِبُ", "okunus": "et-tâlibu", "tr": "Öğrenci" },
+              { "ar": "الْمُعَلِّمُ", "okunus": "el-mu‘allimu", "tr": "Öğretmen" },
+              { "ar": "الْقَلَمُ", "okunus": "el-kalemu", "tr": "Kalem" },
+              { "ar": "الْحَاسُوبُ", "okunus": "el-hâsûbu", "tr": "Bilgisayar" },
+              { "ar": "الْهَاتِفُ", "okunus": "el-hâtifu", "tr": "Telefon" }
+            ]
+          },
+          {
+            "etiket": "Şibh-i Cümle Haber",
+            "secenekler": [
+              { "ar": "عَلَى الْمَكْتَبِ", "okunus": "‘ale'l-mektebi", "tr": "masanın üzerindedir." },
+              { "ar": "فِي الْغُرْفَةِ", "okunus": "fi'l-gurfeti", "tr": "odadadır." },
+              { "ar": "فِي الْحَقِيبَةِ", "okunus": "fi'l-hakîbeti", "tr": "çantadadır." },
+              { "ar": "فِي الْمَكْتَبَةِ", "okunus": "fi'l-mektebeti", "tr": "kütüphanededir." },
+              { "ar": "عَلَى الرَّفِّ", "okunus": "‘ale'r-raffi", "tr": "rafın üzerindedir." },
+              { "ar": "فِي الصَّفِّ", "okunus": "fi's-saffi", "tr": "sınıftadır." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m07_mot2",
+        "baslik": "Öne Geçen Haber ('...-de ... Vardır') Motoru",
+        "aciklama": "Şibh-i cümleyi başa, nekre merfû mübtedâyı sona koyarak kusursuz 'vardır' cümleleri kur.",
+        "slotlar": [
+          {
+            "etiket": "Haber-i Mukaddem (Mekân)",
+            "secenekler": [
+              { "ar": "فِي الصَّفِّ", "okunus": "Fi's-saffi", "tr": "Sınıfta" },
+              { "ar": "فِي الْبَيْتِ", "okunus": "Fi'l-beyti", "tr": "Evde" },
+              { "ar": "عَلَى الطَّاوِلَةِ", "okunus": "‘Ale't-tâvileti", "tr": "Masanın üzerinde" },
+              { "ar": "أَمَامَ الْمَدْرَسَةِ", "okunus": "Emâme'l-medreseti", "tr": "Okulun önünde" },
+              { "ar": "فِي الْحَدِيقَةِ", "okunus": "Fi'l-hadîkati", "tr": "Bahçede" },
+              { "ar": "فِي الْمَدِينَةِ", "okunus": "Fi'l-medîneti", "tr": "Şehirde" }
+            ]
+          },
+          {
+            "etiket": "Mübtedâ-i Muahhar (Nekre)",
+            "secenekler": [
+              { "ar": "طَالِبٌ مُجْتَهِدٌ", "okunus": "tâlibun muctehidun", "tr": "çalışkan bir öğrenci vardır." },
+              { "ar": "كِتَابٌ جَدِيدٌ", "okunus": "kitâbun cedîdun", "tr": "yeni bir kitap vardır." },
+              { "ar": "حَدِيقَةٌ جَمِيلَةٌ", "okunus": "hadîkatun cemîletun", "tr": "güzel bir bahçe vardır." },
+              { "ar": "مَسْجِدٌ كَبِيرٌ", "okunus": "mescidun kebîrun", "tr": "büyük bir cami vardır." },
+              { "ar": "شَجَرَةٌ عَالِيَةٌ", "okunus": "şeceratun ‘âliyetun", "tr": "yüksek bir ağaç vardır." },
+              { "ar": "مَكْتَبَةٌ وَاسِعَةٌ", "okunus": "mektebetun vâsi‘atun", "tr": "geniş bir kütüphane vardır." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m07_mot3",
+        "baslik": "Yer Zarfı + Muzâfun İleyh Motoru",
+        "aciklama": "Fethalı yer zarflarını mecrûr mekân isimleriyle birleştirerek konum tarifi yap.",
+        "slotlar": [
+          {
+            "etiket": "Özne",
+            "secenekler": [
+              { "ar": "الْمَسْجِدُ", "okunus": "El-mescidu", "tr": "Cami" },
+              { "ar": "السَّيَّارَةُ", "okunus": "Es-seyyâratu", "tr": "Araba" },
+              { "ar": "الْمَكْتَبَةُ", "okunus": "El-mektebetu", "tr": "Kütüphane" },
+              { "ar": "الْقِطَّةُ", "okunus": "El-kittatu", "tr": "Kedi" },
+              { "ar": "الْمَطْعَمُ", "okunus": "El-mat‘amu", "tr": "Lokanta" },
+              { "ar": "الْحَدِيقَةُ", "okunus": "El-hadîkatu", "tr": "Bahçe" }
+            ]
+          },
+          {
+            "etiket": "Yer Zarfı",
+            "secenekler": [
+              { "ar": "أَمَامَ", "okunus": "emâme", "tr": "önündedir:" },
+              { "ar": "خَلْفَ", "okunus": "halfe", "tr": "arkasındadır:" },
+              { "ar": "بِجَانِبِ", "okunus": "bi-cânibi", "tr": "yanındadır:" },
+              { "ar": "تَحْتَ", "okunus": "tahte", "tr": "altındadır:" },
+              { "ar": "فَوْقَ", "okunus": "fevka", "tr": "üstündedir:" },
+              { "ar": "قُرْبَ", "okunus": "kurbe", "tr": "yakınındadır:" }
+            ]
+          },
+          {
+            "etiket": "Muzâfun İleyh (Mecrûr)",
+            "secenekler": [
+              { "ar": "الْجَامِعَةِ", "okunus": "el-câmi‘ati", "tr": "üniversitenin" },
+              { "ar": "الْبَيْتِ", "okunus": "el-beyti", "tr": "evin" },
+              { "ar": "الشَّجَرَةِ", "okunus": "eş-şecerati", "tr": "ağacın" },
+              { "ar": "السُّوقِ", "okunus": "es-sûki", "tr": "çarşının" },
+              { "ar": "الْمَحَطَّةِ", "okunus": "el-mahattati", "tr": "istasyonun" },
+              { "ar": "الْمُسْتَشْفَى", "okunus": "el-musteşfâ", "tr": "hastanenin" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m07_mot4",
+        "baslik": "عِنْدَ / لِـ / مَعَ Sahiplik Motoru",
+        "aciklama": "Farklı şahıslarla 'var' cümleleri kur ve sahip olunan ismin daima merfû kaldığını gör.",
+        "slotlar": [
+          {
+            "etiket": "Sahiplik Kalıbı",
+            "secenekler": [
+              { "ar": "عِنْدِي", "okunus": "‘İndî", "tr": "Benim ... var:" },
+              { "ar": "عِنْدَكَ", "okunus": "‘İndeke", "tr": "Senin ... var:" },
+              { "ar": "عِنْدَهُ", "okunus": "‘İndehu", "tr": "Onun (E) ... var:" },
+              { "ar": "لِي", "okunus": "Lî", "tr": "Benim ... var (aidiyet):" },
+              { "ar": "لَنَا", "okunus": "Lenâ", "tr": "Bizim ... var:" },
+              { "ar": "مَعِي", "okunus": "Me‘î", "tr": "Yanımda ... var:" }
+            ]
+          },
+          {
+            "etiket": "Sahip Olunan (Merfû)",
+            "secenekler": [
+              { "ar": "كِتَابٌ مُفِيدٌ", "okunus": "kitâbun mufîdun", "tr": "faydalı bir kitap" },
+              { "ar": "سُؤَالٌ مُهِمٌّ", "okunus": "suâlun muhimmun", "tr": "önemli bir soru" },
+              { "ar": "وَقْتٌ كَافٍ", "okunus": "vaktun kâfin", "tr": "yeterli vakit" },
+              { "ar": "قَلَمٌ أَزْرَقُ", "okunus": "kalemun ezraku", "tr": "mavi bir kalem" },
+              { "ar": "مَوْعِدٌ مُهِمٌّ", "okunus": "mev‘idun muhimmun", "tr": "önemli bir randevu" },
+              { "ar": "صَدِيقٌ وَفِيٌّ", "okunus": "sadîkun vefiyyun", "tr": "vefalı bir arkadaş" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m07_mot5",
+        "baslik": "Yönelme ve Hareket (مِنْ ... إِلَى ...) Motoru",
+        "aciklama": "Bir yerden çıkıp başka bir yere gitme cümlelerini harf-i cer geçişleriyle pratik yap.",
+        "slotlar": [
+          {
+            "etiket": "Başlangıç (مِنَ)",
+            "secenekler": [
+              { "ar": "أَذْهَبُ مِنَ الْبَيْتِ", "okunus": "Ezhebu mine'l-beyti", "tr": "Evden giderim" },
+              { "ar": "أَخْرُجُ مِنَ الصَّفِّ", "okunus": "Ahrucu mine's-saffi", "tr": "Sınıftan çıkarım" },
+              { "ar": "أَرْجِعُ مِنَ الْجَامِعَةِ", "okunus": "Erci‘u mine'l-câmi‘ati", "tr": "Üniversiteden dönerim" },
+              { "ar": "أُسَافِرُ مِنْ إِسْطَنْبُولَ", "okunus": "Usâfiru min İstânbûle", "tr": "İstanbul'dan yolculuk ederim" },
+              { "ar": "أَخْرُجُ مِنَ الْمَكْتَبِ", "okunus": "Ahrucu mine'l-mektebi", "tr": "Ofisten çıkarım" },
+              { "ar": "أَرْجِعُ مِنَ السُّوقِ", "okunus": "Erci‘u mine's-sûki", "tr": "Çarşıdan dönerim" }
+            ]
+          },
+          {
+            "etiket": "Varış (إِلَى)",
+            "secenekler": [
+              { "ar": "إِلَى الْمَدْرَسَةِ", "okunus": "ile'l-medreseti", "tr": "okula." },
+              { "ar": "إِلَى الْمَسْجِدِ", "okunus": "ile'l-mescidi", "tr": "camiye." },
+              { "ar": "إِلَى الْمَكْتَبَةِ", "okunus": "ile'l-mektebeti", "tr": "kütüphaneye." },
+              { "ar": "إِلَى الْعَمَلِ", "okunus": "ile'l-‘ameli", "tr": "işe." },
+              { "ar": "إِلَى الْمَطَارِ", "okunus": "ile'l-matâri", "tr": "havalimanına." },
+              { "ar": "إِلَى الْبَيْتِ", "okunus": "ile'l-beyti", "tr": "eve." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m07_mot6",
+        "baslik": "Harf-i Cer + Zamir Kombinasyon Motoru",
+        "aciklama": "Zamirle birleşmiş harf-i cerleri (لَكَ، عَلَيْهِ، إِلَيْهَا، مِنْهُ) günlük kalıplarda birleştir.",
+        "slotlar": [
+          {
+            "etiket": "Başlangıç Kalıbı",
+            "secenekler": [
+              { "ar": "شُكْرًا جَزِيلًا", "okunus": "Şukran cezîlen", "tr": "Çok teşekkürler" },
+              { "ar": "السَّلَامُ", "okunus": "Es-selâmu", "tr": "Selam" },
+              { "ar": "هٰذِهِ الْهَدِيَّةُ", "okunus": "Hâzihi'l-hediyyetu", "tr": "Bu hediye" },
+              { "ar": "نَحْنُ سُعَدَاءُ", "okunus": "Nahnu su‘adâu", "tr": "Biz mutluyuz" },
+              { "ar": "هٰذِهِ الرِّسَالَةُ", "okunus": "Hâzihi'r-risâletu", "tr": "Bu mektup" },
+              { "ar": "بَارَكَ اللّٰهُ", "okunus": "Bârakallâhu", "tr": "Allah bereket versin" }
+            ]
+          },
+          {
+            "etiket": "Harf-i Cer + Zamir",
+            "secenekler": [
+              { "ar": "لَكَ يَا صَدِيقِي", "okunus": "leke yâ sadîkî", "tr": "sana, arkadaşım." },
+              { "ar": "عَلَيْكُمْ جَمِيعًا", "okunus": "‘aleykum cemî‘an", "tr": "hepinizin üzerine olsun." },
+              { "ar": "مِنِّي إِلَيْكِ", "okunus": "minnî ileyki", "tr": "benden sana (K)." },
+              { "ar": "بِكُمْ كَثِيرًا", "okunus": "bikum kesîran", "tr": "sizinle çok." },
+              { "ar": "فِيكُمْ وَفِي عَمَلِكُمْ", "okunus": "fîkum ve fî ‘amelikum", "tr": "size ve işinize." },
+              { "ar": "لَهُمْ جَمِيعًا", "okunus": "lehum cemî‘an", "tr": "onların hepsi için." }
+            ]
+          }
+        ]
+      }
+    ],
+    "merdivenler": [
+      {
+        "id": "m07_lad1",
+        "baslik": "A1 → B2 Merdiveni: Odadaki Kitaptan Kütüphane Tasvirine",
+        "adimlar": [
+          { "seviye": "A1", "ar": "فِي الْغُرْفَةِ كِتَابٌ.", "okunus": "Fi'l-gurfeti kitâbun.", "tr": "Odada bir kitap vardır.", "ekleme": "Öne geçen şibh-i cümle haber + nekre mübtedâ" },
+          { "seviye": "A1+", "ar": "عَلَى الْمَكْتَبِ فِي الْغُرْفَةِ كِتَابٌ جَدِيدٌ.", "okunus": "‘Ale'l-mektebi fi'l-gurfeti kitâbun cedîdun.", "tr": "Odadaki masanın üzerinde yeni bir kitap vardır.", "ekleme": "İkinci harf-i cer (عَلَى) + sıfat (جَدِيدٌ)" },
+          { "seviye": "A2", "ar": "عَلَى الْمَكْتَبِ الْخَشَبِيِّ كِتَابٌ جَدِيدٌ عَنِ اللُّغَةِ الْعَرَبِيَّةِ.", "okunus": "‘Ale'l-mektebi'l-haşebiyyi kitâbun cedîdun ‘ani'l-lugati'l-‘arabiyyeti.", "tr": "Ahşap masanın üzerinde Arap dili hakkında yeni bir kitap vardır.", "ekleme": "عَنْ harf-i ceri ile konu belirtme" },
+          { "seviye": "B1", "ar": "عَلَى الْمَكْتَبِ الْخَشَبِيِّ بِجَانِبِ النَّافِذَةِ كِتَابٌ قَيِّمٌ عَنِ اللُّغَةِ وَالتَّارِيخِ.", "okunus": "‘Ale'l-mektebi'l-haşebiyyi bi-cânibi'n-nâfizeti kitâbun kayyimun ‘ani'l-lugati ve't-târîhi.", "tr": "Pencerenin yanındaki ahşap masanın üzerinde dil ve tarih hakkında değerli bir kitap vardır.", "ekleme": "Yer zarfı (بِجَانِبِ) ile ayrıntılı konum" },
+          { "seviye": "B2", "ar": "عَلَى الْمَكْتَبِ الْخَشَبِيِّ بِجَانِبِ النَّافِذَةِ كِتَابٌ قَيِّمٌ فِيهِ مَعْلُومَاتٌ نَادِرَةٌ لِلْبَاحِثِينَ.", "okunus": "‘Ale'l-mektebi'l-haşebiyyi bi-cânibi'n-nâfizeti kitâbun kayyimun fîhi ma‘lûmâtun nâdiratun li'l-bâhisîne.", "tr": "Pencerenin yanındaki ahşap masanın üzerinde, içinde araştırmacılar için nadir bilgilerin bulunduğu değerli bir kitap vardır.", "ekleme": "İç içe şibh-i cümle sıfatı (فِيهِ مَعْلُومَاتٌ) + لِـ" }
+        ]
+      },
+      {
+        "id": "m07_lad2",
+        "baslik": "A1 → B2 Merdiveni: Sahiplikten Kurumsal Vizyona",
+        "adimlar": [
+          { "seviye": "A1", "ar": "عِنْدِي صَدِيقٌ.", "okunus": "‘İndî sadîkun.", "tr": "Bir arkadaşım var.", "ekleme": "عِنْدَ + zamir sahiplik çekirdeği" },
+          { "seviye": "A1+", "ar": "لِي صَدِيقٌ عَزِيزٌ فِي الْجَامِعَةِ.", "okunus": "Lî sadîkun ‘azîzun fi'l-câmi‘ati.", "tr": "Üniversitede değerli bir arkadaşım var.", "ekleme": "لِي + sıfat + mekân" },
+          { "seviye": "A2", "ar": "لِي صَدِيقٌ عَزِيزٌ، عِنْدَهُ مَكْتَبَةٌ صَغِيرَةٌ فِي بَيْتِهِ.", "okunus": "Lî sadîkun ‘azîzun, ‘indehu mektebetun sagîratun fî beytihi.", "tr": "Değerli bir arkadaşım var; evinde küçük bir kütüphanesi var.", "ekleme": "İkinci sahiplik cümlesi (عِنْدَهُ)" },
+          { "seviye": "B1", "ar": "لِي صَدِيقٌ عَزِيزٌ، عِنْدَهُ مَكْتَبَةٌ غَنِيَّةٌ فِيهَا كُتُبٌ مِنْ دُوَلٍ مُخْتَلِفَةٍ.", "okunus": "Lî sadîkun ‘azîzun, ‘indehu mektebetun ganiyyetun fîhâ kutubun min duvelin muhtelifetin.", "tr": "Değerli bir arkadaşım var; içinde farklı ülkelerden kitaplar bulunan zengin bir kütüphanesi var.", "ekleme": "فِيهَا + مِنْ harf-i cerli zincir" },
+          { "seviye": "B2", "ar": "لِي صَدِيقٌ عَزِيزٌ عِنْدَهُ خِبْرَةٌ وَاسِعَةٌ فِي التَّرْجَمَةِ، وَلَهُ فَضْلٌ كَبِيرٌ عَلَيَّ.", "okunus": "Lî sadîkun ‘azîzun ‘indehu hibratun vâsi‘atun fi't-tercemeti, ve lehu fadlun kebîrun ‘aleyye.", "tr": "Tercümede geniş tecrübesi olan değerli bir arkadaşım var ve benim üzerimde büyük emeği vardır.", "ekleme": "Soyut sahiplik (خِبْرَةٌ / فَضْلٌ) + عَلَيَّ" }
+        ]
+      },
+      {
+        "id": "m07_lad3",
+        "baslik": "A1 → B2 Merdiveni: Okula Gidişten Günlük Rota Planına",
+        "adimlar": [
+          { "seviye": "A1", "ar": "أَذْهَبُ إِلَى الْمَدْرَسَةِ.", "okunus": "Ezhebu ile'l-medreseti.", "tr": "Okula giderim.", "ekleme": "إِلَى yönelme harf-i ceri" },
+          { "seviye": "A1+", "ar": "أَذْهَبُ مِنَ الْبَيْتِ إِلَى الْمَدْرَسَةِ بِالْحَافِلَةِ.", "okunus": "Ezhebu mine'l-beyti ile'l-medreseti bi'l-hâfileti.", "tr": "Evden okula otobüsle giderim.", "ekleme": "مِنَ ... إِلَى ... + بِـ (vasıta)" },
+          { "seviye": "A2", "ar": "أَخْرُجُ مِنَ الْبَيْتِ قَبْلَ السَّاعَةِ الثَّامِنَةِ وَأَذْهَبُ مَعَ أَخِي إِلَى الْمَدْرَسَةِ.", "okunus": "Ahrucu mine'l-beyti kable's-sâ‘ati's-sâmineti ve ezhebu me‘a ahî ile'l-medreseti.", "tr": "Saat sekizden önce evden çıkar ve kardeşimle okula giderim.", "ekleme": "قَبْلَ zaman zarfı + مَعَ birliktelik" },
+          { "seviye": "B1", "ar": "أَخْرُجُ مِنَ الْبَيْتِ فِي الصَّبَاحِ الْبَاكِرِ وَأَمُرُّ أَمَامَ الْحَدِيقَةِ فِي طَرِيقِي إِلَى الْجَامِعَةِ.", "okunus": "Ahrucu mine'l-beyti fi's-sabâhi'l-bâkiri ve emurru emâme'l-hadîkati fî tarîkî ile'l-câmi‘ati.", "tr": "Sabah erkenden evden çıkar ve üniversite yolumda bahçenin önünden geçerim.", "ekleme": "أَمَامَ yer zarfı + فِي طَرِيقِي" },
+          { "seviye": "B2", "ar": "بَعْدَ الِانْتِهَاءِ مِنَ الْمُحَاضَرَاتِ فِي الْجَامِعَةِ، أَتَوَجَّهُ مُبَاشَرَةً إِلَى الْمَكْتَبَةِ الْمَرْكَزِيَّةِ لِلْبَحْثِ.", "okunus": "Ba‘de'l-intihâi mine'l-muhâdarâti fi'l-câmi‘ati, eteveccehu mubâşeraten ile'l-mektebeti'l-merkeziyyeti li'l-bahsi.", "tr": "Üniversitedeki derslerin bitiminden sonra araştırma için doğrudan merkez kütüphaneye yönelirim.", "ekleme": "بَعْدَ + مِنْ + إِلَى + لِـ amaç harfi" }
+        ]
+      },
+      {
+        "id": "m07_lad4",
+        "baslik": "A1 → B2 Merdiveni: Mahalle Tarifinden Şehir Planına",
+        "adimlar": [
+          { "seviye": "A1", "ar": "الْمَسْجِدُ أَمَامَ الْبَيْتِ.", "okunus": "El-mescidu emâme'l-beyti.", "tr": "Cami evin önündedir.", "ekleme": "أَمَامَ yer zarfı" },
+          { "seviye": "A1+", "ar": "الْمَسْجِدُ أَمَامَ الْبَيْتِ وَالْمَدْرَسَةُ خَلْفَ الْبَيْتِ.", "okunus": "El-mescidu emâme'l-beyti ve'l-medresetu halfe'l-beyti.", "tr": "Cami evin önünde, okul evin arkasındadır.", "ekleme": "Karşıt zarf: خَلْفَ" },
+          { "seviye": "A2", "ar": "بَيْتُنَا يَقَعُ بَيْنَ الْمَسْجِدِ الْكَبِيرِ وَالْحَدِيقَةِ الْعَامَّةِ.", "okunus": "Beytunâ yeka‘u beyne'l-mescidi'l-kebîri ve'l-hadîkati'l-‘âmmeti.", "tr": "Evimiz büyük cami ile halk bahçesinin arasında yer alır.", "ekleme": "بَيْنَ ... وَ ... ikili konum" },
+          { "seviye": "B1", "ar": "حَوْلَ حَيِّنَا مَحَلَّاتٌ تِجَارِيَّةٌ، وَبِجَانِبِ الْمَحَطَّةِ مَطْعَمٌ هَادِئٌ لِلْعَائِلَاتِ.", "okunus": "Havle hayyinâ mahallâtun ticâriyyetun, ve bi-cânibi'l-mahattati mat‘amun hâdiun li'l-‘âilâti.", "tr": "Mahallemizin etrafında dükkanlar, istasyonun yanında ise aileler için sakin bir lokanta vardır.", "ekleme": "حَوْلَ + بِجَانِبِ öne geçen haberler" },
+          { "seviye": "B2", "ar": "تَتَمَيَّزُ مَدِينَتُنَا بِمَوْقِعِهَا الْجُغْرَافِيِّ بَيْنَ الْبَحْرِ وَالْجَبَلِ، وَفِيهَا مَرَافِقُ حَدِيثَةٌ لِلسُّكَّانِ.", "okunus": "Tetemeyyezu medînetunâ bi-mevki‘ihe'l-cugrâfiyyi beyne'l-bahri ve'l-cebeli, ve fîhâ merâfiku hadîsetun li's-sukkâni.", "tr": "Şehrimiz deniz ile dağ arasındaki coğrafi konumuyla öne çıkar ve içinde sakinler için modern tesisler bulunur.", "ekleme": "بِـ + بَيْنَ + فِيهَا + لِـ akademik cümle" }
+        ]
+      }
+    ],
+    "bloklar": [
+      { "id": "m07_b01", "hedefAr": "الْكِتَابُ عَلَى الْمَكْتَبِ", "tr": "Kitap masanın üzerindedir.", "karisik": ["الْمَكْتَبِ", "الْكِتَابُ", "عَلَى"] },
+      { "id": "m07_b02", "hedefAr": "فِي الصَّفِّ طَالِبٌ جَدِيدٌ", "tr": "Sınıfta yeni bir öğrenci vardır.", "karisik": ["جَدِيدٌ", "فِي", "طَالِبٌ", "الصَّفِّ"] },
+      { "id": "m07_b03", "hedefAr": "الْقِطَّةُ تَحْتَ الشَّجَرَةِ", "tr": "Kedi ağacın altındadır.", "karisik": ["الشَّجَرَةِ", "الْقِطَّةُ", "تَحْتَ"] },
+      { "id": "m07_b04", "hedefAr": "أَمَامَ الْبَيْتِ سَيَّارَةٌ جَمِيلَةٌ", "tr": "Evin önünde güzel bir araba vardır.", "karisik": ["جَمِيلَةٌ", "الْبَيْتِ", "سَيَّارَةٌ", "أَمَامَ"] },
+      { "id": "m07_b05", "hedefAr": "عِنْدِي كِتَابٌ مُفِيدٌ", "tr": "Faydalı bir kitabım var.", "karisik": ["مُفِيدٌ", "عِنْدِي", "كِتَابٌ"] },
+      { "id": "m07_b06", "hedefAr": "لَيْسَ عِنْدِي وَقْتٌ الْيَوْمَ", "tr": "Bugün vaktim yok.", "karisik": ["الْيَوْمَ", "وَقْتٌ", "لَيْسَ", "عِنْدِي"] },
+      { "id": "m07_b07", "hedefAr": "ذَهَبَ الطَّالِبُ إِلَى الْمَكْتَبَةِ", "tr": "Öğrenci kütüphaneye gitti.", "karisik": ["الْمَكْتَبَةِ", "ذَهَبَ", "إِلَى", "الطَّالِبُ"] },
+      { "id": "m07_b08", "hedefAr": "خَرَجْتُ مِنَ الْبَيْتِ صَبَاحًا", "tr": "Sabahleyin evden çıktım.", "karisik": ["صَبَاحًا", "الْبَيْتِ", "خَرَجْتُ", "مِنَ"] },
+      { "id": "m07_b09", "hedefAr": "كَتَبْتُ الدَّرْسَ بِالْقَلَمِ الْأَزْرَقِ", "tr": "Dersi mavi kalemle yazdım.", "karisik": ["الْأَزْرَقِ", "الدَّرْسَ", "كَتَبْتُ", "بِالْقَلَمِ"] },
+      { "id": "m07_b10", "hedefAr": "الْمَسْجِدُ بَيْنَ الْمَدْرَسَةِ وَالسُّوقِ", "tr": "Cami okul ile çarşının arasındadır.", "karisik": ["وَالسُّوقِ", "بَيْنَ", "الْمَسْجِدُ", "الْمَدْرَسَةِ"] },
+      { "id": "m07_b11", "hedefAr": "لِي أَخٌ كَبِيرٌ وَأُخْتٌ صَغِيرَةٌ", "tr": "Büyük bir abim ve küçük bir kız kardeşim var.", "karisik": ["صَغِيرَةٌ", "لِي", "كَبِيرٌ", "وَأُخْتٌ", "أَخٌ"] },
+      { "id": "m07_b12", "hedefAr": "هٰذِهِ الْهَدِيَّةُ مِنِّي إِلَيْكَ", "tr": "Bu hediye benden sanadır.", "karisik": ["إِلَيْكَ", "الْهَدِيَّةُ", "مِنِّي", "هٰذِهِ"] },
+      { "id": "m07_b13", "hedefAr": "هُنَاكَ مَطْعَمٌ بِجَانِبِ الْمَحَطَّةِ", "tr": "İstasyonun yanında bir lokanta var.", "karisik": ["الْمَحَطَّةِ", "مَطْعَمٌ", "هُنَاكَ", "بِجَانِبِ"] },
+      { "id": "m07_b14", "hedefAr": "أَقْرَأُ الْقُرْآنَ قَبْلَ النَّوْمِ", "tr": "Uykudan önce Kur'an okurum.", "karisik": ["النَّوْمِ", "أَقْرَأُ", "قَبْلَ", "الْقُرْآنَ"] },
+      { "id": "m07_b15", "hedefAr": "شُكْرًا جَزِيلًا لَكَ يَا أَخِي", "tr": "Sana çok teşekkür ederim kardeşim.", "karisik": ["أَخِي", "لَكَ", "شُكْرًا", "يَا", "جَزِيلًا"] }
+    ]
+  },
+  "readings": [
+    {
+      "id": "m07_r1",
+      "baslik": "Çalışma Odamda Her Şey Yerli Yerinde",
+      "arBaslik": "فِي غُرْفَةِ دِرَاسَتِي كُلُّ شَيْءٍ فِي مَكَانِهِ",
+      "seviye": "A1",
+      "paragraflar": [
+        {
+          "ar": "فِي بَيْتِنَا غُرْفَةٌ هَادِئَةٌ لِلدِّرَاسَةِ وَالْقِرَاءَةِ. أَمَامَ النَّافِذَةِ مَكْتَبٌ خَشَبِيٌّ كَبِيرٌ، وَخَلْفَ الْمَكْتَبِ كُرْسِيٌّ مُرِيحٌ. فَوْقَ الْمَكْتَبِ مِصْبَاحٌ أَبْيَضُ يُضِيءُ الْغُرْفَةَ فِي الْمَسَاءِ.",
+          "okunus": "Fî beytinâ gurfetun hâdietun li'd-dirâseti ve'l-kirâeti. Emâme'n-nâfizeti mektebun haşebiyyun kebîrun, ve halfe'l-mektebi kursiyyun murîhun. Fevka'l-mektebi misbâhun ebyadu yudîu'l-gurfete fi'l-mesâi.",
+          "tr": "Evimizde ders çalışma ve okuma için sakin bir oda vardır. Pencerenin önünde büyük ahşap bir masa, masanın arkasında rahat bir sandalye vardır. Masanın üstünde akşamları odayı aydınlatan beyaz bir lamba vardır.",
+          "analiz": [
+            { "kelime": "فِي بَيْتِنَا", "kok": "ب ي ت", "gramer": "Şibh-i cümle (öne geçen haber)", "tr": "evimizde" },
+            { "kelime": "أَمَامَ النَّافِذَةِ", "kok": "أ م م", "gramer": "Yer zarfı (mansub) + muzâfun ileyh", "tr": "pencerenin önünde" },
+            { "kelime": "لِلدِّرَاسَةِ", "kok": "د ر س", "gramer": "لِـ harf-i ceri + mecrûr (elif düştü)", "tr": "ders çalışma için" }
+          ]
+        },
+        {
+          "ar": "عَلَى الْمَكْتَبِ حَاسُوبٌ مَحْمُولٌ وَدَفْتَرٌ وَقَلَمٌ وَسَاعَةٌ صَغِيرَةٌ. بِجَانِبِ الْمَكْتَبِ رَفٌّ طَوِيلٌ، وَعَلَى الرَّفِّ كُتُبٌ كَثِيرَةٌ عَنِ اللُّغَةِ الْعَرَبِيَّةِ وَالتَّارِيخِ وَالْأَدَبِ.",
+          "okunus": "‘Ale'l-mektebi hâsûbun mahmûlun ve defterun ve kalemun ve sâ‘atun sagîratun. Bi-cânibi'l-mektebi raffun tavîlun, ve ‘ale'r-raffi kutubun kesîratun ‘ani'l-lugati'l-‘arabiyyeti ve't-târîhi ve'l-edebi.",
+          "tr": "Masanın üzerinde bir dizüstü bilgisayar, bir defter, bir kalem ve küçük bir saat vardır. Masanın yanında uzun bir raf, rafın üzerinde ise Arap dili, tarih ve edebiyat hakkında birçok kitap vardır.",
+          "analiz": [
+            { "kelime": "عَلَى الرَّفِّ", "kok": "ر ف ف", "gramer": "Câr-mecrûr (öne geçen haber)", "tr": "rafın üzerinde" },
+            { "kelime": "عَنِ اللُّغَةِ", "kok": "ل غ و", "gramer": "عَنْ + ال geçiş kesrası (عَنِ)", "tr": "dil hakkında" }
+          ]
+        },
+        {
+          "ar": "تَحْتَ الْمَكْتَبِ حَقِيبَتِي الْمَدْرَسِيَّةُ، وَفِيهَا قَامُوسٌ عَرَبِيٌّ وَأَوْرَاقُ التَّمَارِينِ. لِي عَادَةٌ جَمِيلَةٌ: أُرَتِّبُ غُرْفَتِي قَبْلَ النَّوْمِ كُلَّ يَوْمٍ.",
+          "okunus": "Tahte'l-mektebi hakîbeti'l-medresiyyetu, ve fîhâ kâmûsun ‘arabiyyun ve evrâku't-temârîni. Lî ‘âdetun cemîletun: urattibu gurfetî kable'n-nevmi kulle yevmin.",
+          "tr": "Masanın altında okul çantam vardır ve içinde Arapça bir sözlük ile alıştırma kâğıtları vardır. Güzel bir alışkanlığım var: Her gün uyumadan önce odamı toplarım.",
+          "analiz": [
+            { "kelime": "فِيهَا", "kok": "—", "gramer": "فِي + هَا (حَقِيبَة müennesine döner)", "tr": "onun içinde" },
+            { "kelime": "قَبْلَ النَّوْمِ", "kok": "ق ب ل", "gramer": "Zaman zarfı + muzâfun ileyh", "tr": "uykudan önce" }
+          ]
+        },
+        {
+          "ar": "عِنْدِي فِي هٰذِهِ الْغُرْفَةِ كُلُّ مَا أَحْتَاجُ إِلَيْهِ لِلنَّجَاحِ. إِنَّ النِّظَامَ فِي الْمَكَانِ يُسَاعِدُ عَلَى التَّرْكِيزِ وَالسَّعَادَةِ.",
+          "okunus": "‘İndî fî hâzihi'l-gurfeti kullu mâ ahtâcu ileyhi li'n-necâhi. İnne'n-nizâme fi'l-mekâni yusâ‘idu ‘ale't-terkîzi ve's-sa‘âdeti.",
+          "tr": "Bu odada başarı için ihtiyaç duyduğum her şey bende mevcuttur. Mekândaki düzen odaklanmaya ve mutluluğa yardımcı olur.",
+          "analiz": [
+            { "kelime": "إِلَيْهِ", "kok": "—", "gramer": "إِلَى + هُ → يْ sonrası kesra uyumu", "tr": "ona" },
+            { "kelime": "لِلنَّجَاحِ", "kok": "ن ج ح", "gramer": "لِـ + النَّجَاحِ (elif düştü)", "tr": "başarı için" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m07_r1_q1", "soru": "Pencerenin önünde ne vardır?", "secenekler": ["Büyük ahşap bir masa", "Büyük bir yatak", "Bir televizyon", "Bir dolap"], "dogruIndeks": 0, "aciklama": "Metinde 'أَمَامَ النَّافِذَةِ مَكْتَبٌ خَشَبِيٌّ كَبِيرٌ' denmektedir." },
+        { "id": "m07_r1_q2", "soru": "Rafın üzerindeki kitaplar hangi konular hakkındadır?", "secenekler": ["Arap dili, tarih ve edebiyat", "Tıp ve kimya", "Spor ve müzik", "Ekonomi ve hukuk"], "dogruIndeks": 0, "aciklama": "'عَنِ اللُّغَةِ الْعَرَبِيَّةِ وَالتَّارِيخِ وَالْأَدَبِ' ifadesi geçmektedir." },
+        { "id": "m07_r1_q3", "soru": "Okul çantası nerede durmaktadır?", "secenekler": ["Masanın altında", "Sandalyenin üstünde", "Kapının arkasında", "Rafın üstünde"], "dogruIndeks": 0, "aciklama": "'تَحْتَ الْمَكْتَبِ حَقِيبَتِي الْمَدْرَسِيَّةُ' (Masanın altında)." },
+        { "id": "m07_r1_q4", "soru": "Yazar odasını ne zaman toplar?", "secenekler": ["Her gün uyumadan önce", "Sadece hafta sonları", "Sabah kahvaltıdan sonra", "Ayda bir kez"], "dogruIndeks": 0, "aciklama": "'أُرَتِّبُ غُرْفَتِي قَبْلَ النَّوْمِ كُلَّ يَوْمٍ'." },
+        { "id": "m07_r1_q5", "soru": "Metindeki 'فِيهَا قَامُوسٌ' ifadesinde هَا zamiri neye dönmektedir?", "secenekler": ["حَقِيبَتِي (çantama)", "الْمَكْتَبِ (masaya)", "الرَّفِّ (rafa)", "الْمِصْبَاحِ (lambaya)"], "dogruIndeks": 0, "aciklama": "حَقِيبَة müennes olduğu için 'içinde' anlamında فِيهَا zamiri ona döner." }
+      ]
+    },
+    {
+      "id": "m07_r2",
+      "baslik": "Mahallemizin Haritası",
+      "arBaslik": "خَرِيطَةُ حَيِّنَا الْجَمِيلِ",
+      "seviye": "A1",
+      "paragraflar": [
+        {
+          "ar": "أَسْكُنُ مَعَ أُسْرَتِي فِي حَيٍّ هَادِئٍ وَنَظِيفٍ. بَيْتُنَا يَقَعُ بَيْنَ مَسْجِدٍ قَدِيمٍ وَحَدِيقَةٍ وَاسِعَةٍ. أَمَامَ الْبَيْتِ شَارِعٌ عَرِيضٌ وَأَشْجَارٌ خَضْرَاءُ.",
+          "okunus": "Eskunu me‘a usratî fî hayyin hâdiin ve nazîfin. Beytunâ yeka‘u beyne mescidin kadîmin ve hadîkatin vâsi‘atin. Emâme'l-beyti şâri‘un ‘arîdun ve eşcârun hadrâu.",
+          "tr": "Ailemle birlikte sakin ve temiz bir mahallede oturuyorum. Evimiz eski bir cami ile geniş bir bahçenin arasında yer alır. Evin önünde geniş bir cadde ve yeşil ağaçlar vardır.",
+          "analiz": [
+            { "kelime": "مَعَ أُسْرَتِي", "kok": "أ س ر", "gramer": "Zarf (مَعَ) + muzâfun ileyh", "tr": "ailemle beraber" },
+            { "kelime": "بَيْنَ مَسْجِدٍ", "kok": "ب ي ن", "gramer": "Yer zarfı + nekre mecrûr", "tr": "bir caminin arasında" }
+          ]
+        },
+        {
+          "ar": "بِجَانِبِ الْمَسْجِدِ مَخْبَزٌ صَغِيرٌ نَشْتَرِي مِنْهُ الْخُبْزَ الطَّازَجَ كُلَّ صَبَاحٍ. وَخَلْفَ الْحَدِيقَةِ مَدْرَسَةٌ ابْتِدَائِيَّةٌ، يَذْهَبُ إِلَيْهَا أَطْفَالُ الْحَيِّ مَشْيًا عَلَى الْأَقْدَامِ.",
+          "okunus": "Bi-cânibi'l-mescidi mahbezun sagîrun neşterî minhu'l-hubze't-tâzece kulle sabâhin. Ve halfe'l-hadîkati medresetun ibtidâiyyetun, yezhebu ileyhâ etfâlu'l-hayyi meşyen ‘ale'l-akdâmi.",
+          "tr": "Caminin yanında her sabah taze ekmek aldığımız küçük bir fırın vardır. Bahçenin arkasında ise mahalle çocuklarının yürüyerek gittiği bir ilkokul vardır.",
+          "analiz": [
+            { "kelime": "مِنْهُ", "kok": "—", "gramer": "مِنْ + هُ (مَخْبَز kelimesine döner)", "tr": "ondan" },
+            { "kelime": "إِلَيْهَا", "kok": "—", "gramer": "إِلَى + هَا (مَدْرَسَة kelimesine döner)", "tr": "ona / oraya" }
+          ]
+        },
+        {
+          "ar": "فِي نِهَايَةِ الشَّارِعِ هُنَاكَ مَحَطَّةُ حَافِلَاتٍ وَصَيْدَلِيَّةٌ وَسُوقٌ كَبِيرٌ. أَذْهَبُ مِنَ الْبَيْتِ إِلَى الْمَحَطَّةِ فِي خَمْسِ دَقَائِقَ، وَمِنْهَا أَرْكَبُ الْحَافِلَةَ إِلَى الْجَامِعَةِ.",
+          "okunus": "Fî nihâyeti'ş-şâri‘i hunâke mahattatu hâfilâtin ve saydeliyyetun ve sûkun kebîrun. Ezhebu mine'l-beyti ile'l-mahattati fî hamsi dekâika, ve minhâ erkebu'l-hâfilete ile'l-câmi‘ati.",
+          "tr": "Caddenin sonunda bir otobüs durağı, bir eczane ve büyük bir çarşı vardır. Evden durağa beş dakikada giderim ve oradan üniversiteye otobüse binerim.",
+          "analiz": [
+            { "kelime": "هُنَاكَ", "kok": "—", "gramer": "Varlık/işaret zarfı", "tr": "orada / var" },
+            { "kelime": "مِنْهَا", "kok": "—", "gramer": "مِنْ + هَا (مَحَطَّة kelimesine döner)", "tr": "oradan" }
+          ]
+        },
+        {
+          "ar": "لِحَيِّنَا جَوٌّ دَافِئٌ وَجِيرَانٌ طَيِّبُونَ. نُحِبُّ هٰذَا الْمَكَانَ كَثِيرًا، لِأَنَّ كُلَّ الْخِدْمَاتِ قَرِيبَةٌ مِنَّا وَفِيهِ رَاحَةٌ وَأَمَانٌ.",
+          "okunus": "Li-hayyinâ cevvun dâfiun ve cîrânun tayyibûne. Nuhibbu hâze'l-mekâne kesîran, li-enne kulle'l-hidemâti karîbetun minnâ ve fîhi râhatun ve emânun.",
+          "tr": "Mahallemizin sıcak bir havası ve iyi komşuları var. Bu yeri çok seviyoruz; çünkü bütün hizmetler bize yakın ve içinde huzur ile güven vardır.",
+          "analiz": [
+            { "kelime": "لِحَيِّنَا", "kok": "ح ي ي", "gramer": "لِـ (aidiyet) + izâfet", "tr": "mahallemizin ... var" },
+            { "kelime": "مِنَّا", "kok": "—", "gramer": "مِنْ + نَا (şeddeli birleşim)", "tr": "bizden / bize" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m07_r2_q1", "soru": "Yazarın evi hangi iki yerin arasındadır?", "secenekler": ["Eski bir cami ile geniş bir bahçenin", "Okul ile hastanenin", "Çarşı ile istasyonun", "Fırın ile eczanenin"], "dogruIndeks": 0, "aciklama": "'بَيْنَ مَسْجِدٍ قَدِيمٍ وَحَدِيقَةٍ وَاسِعَةٍ'." },
+        { "id": "m07_r2_q2", "soru": "Fırın nerede yer almaktadır?", "secenekler": ["Caminin yanında", "Okulun arkasında", "Caddenin sonunda", "Bahçenin içinde"], "dogruIndeks": 0, "aciklama": "'بِجَانِبِ الْمَسْجِدِ مَخْبَزٌ صَغِيرٌ'." },
+        { "id": "m07_r2_q3", "soru": "Yazar evden otobüs durağına ne kadar sürede gider?", "secenekler": ["Beş dakikada", "Yirmi dakikada", "Yarım saatte", "Bir saatte"], "dogruIndeks": 0, "aciklama": "'فِي خَمْسِ دَقَائِقَ'." },
+        { "id": "m07_r2_q4", "soru": "Caddenin sonunda aşağıdakilerden hangisi YOKTUR?", "secenekler": ["Hastane", "Otobüs durağı", "Eczane", "Büyük çarşı"], "dogruIndeks": 0, "aciklama": "Caddenin sonunda durak, eczane ve çarşı vardır; hastane geçmez." },
+        { "id": "m07_r2_q5", "soru": "Metindeki 'قَرِيبَةٌ مِنَّا' ifadesi hangi iki parçanın birleşimidir?", "secenekler": ["مِنْ + نَا", "مِنْ + هَا", "عَنْ + نَا", "فِي + نَا"], "dogruIndeks": 0, "aciklama": "مِنْ + نَا birleşince iki nûn şeddelenir: مِنَّا." }
+      ]
+    },
+    {
+      "id": "m07_r3",
+      "baslik": "Yolculuk Çantamda Neler Var?",
+      "arBaslik": "مَاذَا فِي حَقِيبَةِ السَّفَرِ؟",
+      "seviye": "A1",
+      "paragraflar": [
+        {
+          "ar": "عِنْدِي غَدًا رِحْلَةٌ قَصِيرَةٌ إِلَى مَدِينَةِ أَنْقَرَةَ بِالْقِطَارِ السَّرِيعِ. قَبْلَ السَّفَرِ أُجَهِّزُ حَقِيبَتِي بِعِنَايَةٍ حَتَّى لَا أَنْسَى شَيْئًا مُهِمًّا.",
+          "okunus": "‘İndî gaden rihletun kasîratun ilâ medîneti Enkara bi'l-kitâri's-serî‘i. Kable's-seferi ucehhizu hakîbetî bi-‘inâyetin hattâ lâ ensâ şey'en muhimmen.",
+          "tr": "Yarın hızlı trenle Ankara şehrine kısa bir yolculuğum var. Yolculuktan önce önemli bir şeyi unutmamak için çantamı özenle hazırlıyorum.",
+          "analiz": [
+            { "kelime": "بِالْقِطَارِ", "kok": "ق ط ر", "gramer": "بِـ (vasıta harf-i ceri) + mecrûr", "tr": "tren ile" },
+            { "kelime": "قَبْلَ السَّفَرِ", "kok": "س ف ر", "gramer": "Zaman zarfı + muzâfun ileyh", "tr": "yolculuktan önce" }
+          ]
+        },
+        {
+          "ar": "فِي الْحَقِيبَةِ الْكَبِيرَةِ مَلَابِسُ نَظِيفَةٌ وَمِعْطَفٌ دَافِئٌ لِلْمَسَاءِ. أَمَّا فِي حَقِيبَةِ الظَّهْرِ الصَّغِيرَةِ فَفِيهَا كِتَابٌ لِلْقِرَاءَةِ وَشَاحِنُ الْهَاتِفِ وَزُجَاجَةُ مَاءٍ.",
+          "okunus": "Fi'l-hakîbeti'l-kebîrati melâbisu nazîfatun ve mi‘tafun dâfiun li'l-mesâi. Emmâ fî hakîbeti'z-zahri's-sagîrati fe-fîhâ kitâbun li'l-kirâeti ve şâhinu'l-hâtifi ve zucâcetu mâin.",
+          "tr": "Büyük valizde temiz kıyafetler ve akşam için sıcak bir palto vardır. Küçük sırt çantasının içinde ise okumak için bir kitap, telefon şarj aleti ve bir şişe su vardır.",
+          "analiz": [
+            { "kelime": "لِلْقِرَاءَةِ", "kok": "ق ر أ", "gramer": "لِـ + الْقِرَاءَةِ (elif düştü)", "tr": "okumak için" },
+            { "kelime": "مَلَابِسُ نَظِيفَةٌ", "kok": "ل ب س", "gramer": "Akılsız çoğul + tekil müennes sıfat", "tr": "temiz kıyafetler" }
+          ]
+        },
+        {
+          "ar": "مَعِي أَيْضًا تَذْكِرَةُ الْقِطَارِ وَبِطَاقَةُ الْهُوِيَّةِ وَبَعْضُ النُّقُودِ فِي مِحْفَظَتِي. لَيْسَ مَعِي أَغْرَاضٌ ثَقِيلَةٌ، لِأَنَّ السَّفَرَ الْخَفِيفَ أَجْمَلُ وَأَرْيَحُ.",
+          "okunus": "Me‘î eydan tezkiratu'l-kitâri ve bitâkatu'l-huviyyeti ve ba‘du'n-nukûdi fî mihfazatî. Leyse me‘î agrâdun sakîletun, li-enne's-sefera'l-hafîfe ecmelu ve eryahu.",
+          "tr": "Yanımda ayrıca tren bileti, kimlik kartı ve cüzdanımda biraz para var. Yanımda ağır eşyalar yok; çünkü hafif yolculuk daha güzel ve daha rahattır.",
+          "analiz": [
+            { "kelime": "مَعِي", "kok": "—", "gramer": "Anlık yanında taşıma zarfı + zamir", "tr": "yanımda" },
+            { "kelime": "لَيْسَ مَعِي", "kok": "ل ي س", "gramer": "Olumsuz sahiplik kalıbı", "tr": "yanımda yok" }
+          ]
+        },
+        {
+          "ar": "بَعْدَ الْوُصُولِ إِلَى الْمَحَطَّةِ سَأَلْتَقِي بِصَدِيقِي عُمَرَ أَمَامَ الْبَوَّابَةِ الرَّئِيسِيَّةِ. لَهُ فِكْرَةٌ رَائِعَةٌ عَنْ جَوْلَةٍ فِي الْمَتْحَفِ التَّارِيخِيِّ.",
+          "okunus": "Ba‘de'l-vusûli ile'l-mahattati se-eltekî bi-sadîkî ‘Umera emâme'l-bevvâbeti'r-raîsiyyeti. Lehu fikratun râi‘atun ‘an cevletin fi'l-methafi't-târîhiyyi.",
+          "tr": "İstasyona vardıktan sonra ana kapının önünde arkadaşım Ömer ile buluşacağım. Onun tarih müzesinde bir gezi hakkında harika bir fikri var.",
+          "analiz": [
+            { "kelime": "بَعْدَ الْوُصُولِ", "kok": "و ص ل", "gramer": "Zaman zarfı + mecrûr mastar", "tr": "vardıktan sonra" },
+            { "kelime": "لَهُ فِكْرَةٌ", "kok": "ف ك ر", "gramer": "لَـ + هُ (fethalı!) + merfû mübtedâ", "tr": "onun bir fikri var" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m07_r3_q1", "soru": "Yazar Ankara'ya hangi ulaşım aracıyla gidecektir?", "secenekler": ["Hızlı trenle", "Uçakla", "Otobüsle", "Gemiyle"], "dogruIndeks": 0, "aciklama": "'بِالْقِطَارِ السَّرِيعِ' (hızlı trenle)." },
+        { "id": "m07_r3_q2", "soru": "Küçük sırt çantasının içinde hangisi vardır?", "secenekler": ["Kitap, telefon şarjı ve su", "Palto ve ayakkabı", "Televizyon ve masa", "Sadece kıyafetler"], "dogruIndeks": 0, "aciklama": "'كِتَابٌ لِلْقِرَاءَةِ وَشَاحِنُ الْهَاتِفِ وَزُجَاجَةُ مَاءٍ'." },
+        { "id": "m07_r3_q3", "soru": "Yazarın yanında neden ağır eşyalar yoktur?", "secenekler": ["Çünkü hafif yolculuk daha güzel ve rahattır", "Çünkü çantası kaybolmuştur", "Çünkü tren izin vermemektedir", "Çünkü hiç eşyası yoktur"], "dogruIndeks": 0, "aciklama": "'لِأَنَّ السَّفَرَ الْخَفِيفَ أَجْمَلُ وَأَرْيَحُ'." },
+        { "id": "m07_r3_q4", "soru": "Yazar arkadaşı Ömer ile nerede buluşacaktır?", "secenekler": ["Ana kapının önünde", "Müzenin arkasında", "Otelin içinde", "Parkın yanında"], "dogruIndeks": 0, "aciklama": "'أَمَامَ الْبَوَّابَةِ الرَّئِيسِيَّةِ'." },
+        { "id": "m07_r3_q5", "soru": "Metindeki 'لَهُ فِكْرَةٌ' ifadesinde لَ harfi neden fethalıdır?", "secenekler": ["لِـ harf-i ceri ـِي dışındaki zamirlere bitişince fethalı (لَـ) okunur", "Çünkü geçmiş zaman fiilidir", "Çünkü çoğuldur", "Çünkü zarftır"], "dogruIndeks": 0, "aciklama": "لِـ + هُ → لَهُ (zamirlerle fethalı)." }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "m07_d1",
+      "baslik": "Kayıp Anahtar Nerede?",
+      "ortam": "Evde aceleyle evden çıkmaya hazırlanan iki kardeş",
+      "replikler": [
+        { "konusan": "طارق", "ar": "السَّلَامُ عَلَيْكِ يَا مَرْيَمُ، هَلْ رَأَيْتِ مِفْتَاحَ السَّيَّارَةِ؟", "okunus": "Es-selâmu ‘aleyki yâ Meryemu, hel raeyti miftâha's-seyyârati?", "tr": "Selamün aleyküm Meryem, arabanın anahtarını gördün mü?" },
+        { "konusan": "مريم", "ar": "وَعَلَيْكَ السَّلَامُ يَا طَارِقُ. هَلْ بَحَثْتَ عَلَى الطَّاوِلَةِ؟", "okunus": "Ve ‘aleyke's-selâmu yâ Târiku. Hel behaste ‘ale't-tâvileti?", "tr": "Aleykümselam Tarık. Masanın üzerine baktın mı?" },
+        { "konusan": "طارق", "ar": "نَعَمْ، عَلَى الطَّاوِلَةِ كِتَابٌ وَهَاتِفٌ فَقَطْ، وَلَيْسَ عَلَيْهَا مِفْتَاحٌ.", "okunus": "Ne‘am, ‘ale't-tâvileti kitâbun ve hâtifun fakat, ve leyse ‘aleyhâ miftâhun.", "tr": "Evet, masanın üzerinde sadece bir kitap ve telefon var; üzerinde anahtar yok." },
+        { "konusan": "مريم", "ar": "انْظُرْ تَحْتَ الْجَرِيدَةِ أَوْ بِجَانِبِ الْبَابِ.", "okunus": "Unzur tahte'l-cerîdeti ev bi-cânibi'l-bâbi.", "tr": "Gazetenin altına veya kapının yanına bak." },
+        { "konusan": "طارق", "ar": "بَحَثْتُ تَحْتَ الْجَرِيدَةِ وَخَلْفَ الْكُرْسِيِّ أَيْضًا، وَلَمْ أَجِدْهُ.", "okunus": "Behastu tahte'l-cerîdeti ve halfe'l-kursiyyi eydan, ve lem ecidhu.", "tr": "Gazetenin altına ve sandalyenin arkasına da baktım, bulamadım." },
+        { "konusan": "مريم", "ar": "هَلْ هُوَ فِي جَيْبِ مِعْطَفِكَ أَوْ فِي حَقِيبَتِكَ؟", "okunus": "Hel huve fî ceybi mi‘tafike ev fî hakîbetike?", "tr": "Paltonun cebinde veya çantanda olabilir mi?" },
+        { "konusan": "طارق", "ar": "فِي حَقِيبَتِي دَفْتَرٌ وَقَلَمٌ وَمِحْفَظَةٌ، وَلَيْسَ فِيهَا الْمِفْتَاحُ.", "okunus": "Fî hakîbetî defterun ve kalemun ve mihfazatun, ve leyse fîhe'l-miftâhu.", "tr": "Çantamda defter, kalem ve cüzdan var ama içinde anahtar yok." },
+        { "konusan": "مريم", "ar": "اِنْتَظِرْ لَحْظَةً! مَاذَا فَوْقَ الرَّفِّ بِجَانِبِ السَّاعَةِ؟", "okunus": "İntezir lahzaten! Mâzâ fevka'r-raffi bi-cânibi's-sâ‘ati?", "tr": "Bir dakika bekle! Saatin yanındaki rafın üstünde ne var?" },
+        { "konusan": "طارق", "ar": "آهٍ! نَعَمْ! هَا هُوَ الْمِفْتَاحُ فَوْقَ الرَّفِّ بَيْنَ السَّاعَةِ وَالْمِصْبَاحِ!", "okunus": "Âh! Ne‘am! Hâ huve'l-miftâhu fevka'r-raffi beyne's-sâ‘ati ve'l-misbâhi!", "tr": "Ah! Evet! İşte anahtar rafın üstünde, saat ile lambanın arasında!" },
+        { "konusan": "مريم", "ar": "الْحَمْدُ لِلّٰهِ! هَلْ مَعَكَ الْآنَ رُخْصَةُ الْقِيَادَةِ وَالْهَاتِفُ؟", "okunus": "El-hamdu lillâhi! Hel me‘ake'l-âne ruhsatu'l-kiyâdeti ve'l-hâtifu?", "tr": "Elhamdülillah! Şimdi yanında ehliyet ve telefon var mı?" },
+        { "konusan": "طارق", "ar": "نَعَمْ، كُلُّ شَيْءٍ مَعِي. شُكْرًا جَزِيلًا لَكِ يَا أُخْتِي!", "okunus": "Ne‘am, kullu şey'in me‘î. Şukran cezîlen leki yâ uhtî!", "tr": "Evet, her şey yanımda. Sana çok teşekkür ederim kardeşim!" },
+        { "konusan": "مريم", "ar": "عَفْوًا يَا أَخِي، فِي أَمَانِ اللّٰهِ وَتَوَخَّ الْحَذَرَ فِي الطَّرِيقِ.", "okunus": "‘Afven yâ ahî, fî emânillâhi ve tevahha'l-hazera fi't-tarîki.", "tr": "Rica ederim abim, Allah'a emanet ol ve yolda dikkatli ol." }
+      ],
+      "partner": [
+        { "soruAr": "أَيْنَ الْكِتَابُ وَالْهَاتِفُ؟", "soruTr": "Kitap ve telefon nerede?", "ipucu": "Masanın üzerinde (عَلَى + mecrûr).", "secenekler": ["عَلَى الطَّاوِلَةِ.", "عَلَى الطَّاوِلَةُ.", "فِي الطَّاوِلَةُ."], "dogruIndeks": 0, "aciklama": "Harf-i cerden sonra isim kesralı olur: عَلَى الطَّاوِلَةِ." },
+        { "soruAr": "أَيْنَ وَجَدَ طَارِقٌ الْمِفْتَاحَ؟", "soruTr": "Tarık anahtarı nerede buldu?", "ipucu": "Rafın üstünde (فَوْقَ + mecrûr).", "secenekler": ["فَوْقَ الرَّفِّ بَيْنَ السَّاعَةِ وَالْمِصْبَاحِ.", "فَوْقُ الرَّفُّ.", "تَحْتَ الطَّاوِلَةُ."], "dogruIndeks": 0, "aciklama": "فَوْقَ ve بَيْنَ zarfları fethalı, arkalarındaki isimler kesralıdır." },
+        { "soruAr": "هَلْ مَعَكَ هَاتِفُكَ الْآنَ؟", "soruTr": "Şu an yanında telefonun var mı?", "ipucu": "Evet, yanımda (مَعِي).", "secenekler": ["نَعَمْ، هَاتِفِي مَعِي.", "نَعَمْ، هَاتِفِي عَنِّي.", "نَعَمْ، هَاتِفِي قَبْلِي."], "dogruIndeks": 0, "aciklama": "Üzerinde/yanında bulundurmak için مَعِي kullanılır." },
+        { "soruAr": "مَاذَا فِي حَقِيبَتِكَ؟", "soruTr": "Çantanda ne var?", "ipucu": "Öne geçen haber + nekre merfû mübtedâ.", "secenekler": ["فِي حَقِيبَتِي دَفْتَرٌ وَقَلَمٌ.", "فِي حَقِيبَتِي دَفْتَرًا وَقَلَمًا.", "دَفْتَرٌ حَقِيبَتِي."], "dogruIndeks": 0, "aciklama": "فِي حَقِيبَتِي öne geçen haber; دَفْتَرٌ وَقَلَمٌ merfû mübtedâdır." },
+        { "soruAr": "كَيْفَ تَشْكُرُ أُخْتَكَ بِالْعَرَبِيَّةِ؟", "soruTr": "Kız kardeşine Arapça nasıl teşekkür edersin?", "ipucu": "لِـ + كِ → لَكِ (fethalı لَ, kesralı كِ).", "secenekler": ["شُكْرًا جَزِيلًا لَكِ!", "شُكْرًا جَزِيلًا لِكِ!", "شُكْرًا جَزِيلًا لَكَ!"], "dogruIndeks": 0, "aciklama": "Kadına teşekkür: شُكْرًا جَزِيلًا لَكِ!" }
+      ]
+    },
+    {
+      "id": "m07_d2",
+      "baslik": "Şehirde Adres Sorma",
+      "ortam": "Bir ziyaretçi sokakta bir yerliden kütüphanenin yerini soruyor",
+      "replikler": [
+        { "konusan": "الزائر", "ar": "لَوْ سَمَحْتَ يَا أَخِي، هَلِ الْمَكْتَبَةُ الْعَامَّةُ قَرِيبَةٌ مِنْ هُنَا؟", "okunus": "Lev semahte yâ ahî, heli'l-mektebetu'l-‘âmmetu karîbetun min hunâ?", "tr": "Affedersiniz kardeşim, halk kütüphanesi buradan yakın mı?" },
+        { "konusan": "المواطن", "ar": "أَهْلًا بِكَ! نَعَمْ، هِيَ قَرِيبَةٌ جِدًّا، تَبْعُدُ خَمْسَ دَقَائِقَ فَقَطْ.", "okunus": "Ehlen bike! Ne‘am, hiye karîbetun cidden, teb‘udu hamse dekâika fakat.", "tr": "Hoş geldin! Evet, çok yakın, sadece beş dakika uzaklıkta." },
+        { "konusan": "الزائر", "ar": "كَيْفَ أَذْهَبُ إِلَيْهَا مِنْ هٰذَا الشَّارِعِ؟", "okunus": "Keyfe ezhebu ileyhâ min hâze'ş-şâri‘i?", "tr": "Bu caddeden oraya nasıl giderim?" },
+        { "konusan": "المواطن", "ar": "سِرْ مُبَاشَرَةً أَمَامَ هٰذَا الْمَسْجِدِ حَتَّى نِهَايَةِ الشَّارِعِ.", "okunus": "Sir mubâşeraten emâme hâze'l-mescidi hattâ nihâyeti'ş-şâri‘i.", "tr": "Bu caminin önünden caddenin sonuna kadar dümdüz yürü." },
+        { "konusan": "الزائر", "ar": "وَبَعْدَ نِهَايَةِ الشَّارِعِ، هَلْ أَتَّجِهُ يَمِينًا أَمْ يَسَارًا؟", "okunus": "Ve ba‘de nihâyeti'ş-şâri‘i, hel ettecîhu yemînen em yesâran?", "tr": "Caddenin sonundan sonra sağa mı sola mı döneyim?" },
+        { "konusan": "المواطن", "ar": "اِتَّجِهْ يَمِينًا، سَتَجِدُ حَدِيقَةً كَبِيرَةً عَلَى يَسَارِكَ.", "okunus": "İttecih yemînen, se-tecidu hadîkaten kebîraten ‘alâ yesârike.", "tr": "Sağa dön, solunda büyük bir park göreceksin." },
+        { "konusan": "الزائر", "ar": "هَلِ الْمَكْتَبَةُ دَاخِلَ الْحَدِيقَةِ أَمْ بِجَانِبِهَا؟", "okunus": "Heli'l-mektebetu dâhile'l-hadîkati em bi-cânibihâ?", "tr": "Kütüphane parkın içinde mi yoksa yanında mı?" },
+        { "konusan": "المواطن", "ar": "الْمَكْتَبَةُ بِجَانِبِ الْحَدِيقَةِ، بَيْنَ الْمَتْحَفِ وَالْبَنْكِ الْمَرْكَزِيِّ.", "okunus": "El-mektebetu bi-cânibi'l-hadîkati, beyne'l-methafi ve'l-benki'l-merkeziyyi.", "tr": "Kütüphane parkın yanında, müze ile merkez bankasının arasındadır." },
+        { "konusan": "الزائر", "ar": "هَلْ هُنَاكَ مَقْهًى قَرِيبٌ مِنَ الْمَكْتَبَةِ؟", "okunus": "Hel hunâke makhen karîbun mine'l-mektebeti?", "tr": "Kütüphaneye yakın bir kafe var mı?" },
+        { "konusan": "المواطن", "ar": "نَعَمْ، أَمَامَ الْمَكْتَبَةِ مَقْهًى هَادِئٌ فِيهِ قَهْوَةٌ لَذِيذَةٌ.", "okunus": "Ne‘am, emâme'l-mektebeti makhen hâdiun fîhi kahvetun lezîzetun.", "tr": "Evet, kütüphanenin önünde içinde lezzetli kahve olan sakin bir kafe var." },
+        { "konusan": "الزائر", "ar": "شُكْرًا جَزِيلًا لَكَ عَلَى هٰذَا الشَّرْحِ الْوَاضِحِ!", "okunus": "Şukran cezîlen leke ‘alâ hâze'ş-şerhi'l-vâdihi!", "tr": "Bu açık tarif için sana çok teşekkür ederim!" },
+        { "konusan": "المواطن", "ar": "لَا شُكْرَ عَلَى وَاجِبٍ، وَأَتَمَنَّى لَكَ يَوْمًا سَعِيدًا فِي مَدِينَتِنَا.", "okunus": "Lâ şukra ‘alâ vâcibin, ve etemennâ leke yevmen sa‘îden fî medînetinâ.", "tr": "Rica ederim, şehrimizde sana mutlu bir gün dilerim." }
+      ],
+      "partner": [
+        { "soruAr": "أَيْنَ تَقَعُ الْمَكْتَبَةُ الْعَامَّةُ؟", "soruTr": "Halk kütüphanesi nerede yer alıyor?", "ipucu": "Müze ile bankanın arasında (بَيْنَ ... وَ ...).", "secenekler": ["بَيْنَ الْمَتْحَفِ وَالْبَنْكِ الْمَرْكَزِيِّ.", "تَحْتَ الْبَنْكُ.", "قَبْلَ الْمَسْجِدُ."], "dogruIndeks": 0, "aciklama": "بَيْنَ zarfı iki mecrûr ismi bağlar." },
+        { "soruAr": "هَلْ هُنَاكَ مَقْهًى قَرِيبٌ مِنَ الْمَكْتَبَةِ؟", "soruTr": "Kütüphaneye yakın bir kafe var mı?", "ipucu": "Evet, kütüphanenin önünde sakin bir kafe var.", "secenekler": ["نَعَمْ، أَمَامَ الْمَكْتَبَةِ مَقْهًى هَادِئٌ.", "نَعَمْ، مَقْهًى أَمَامُ الْمَكْتَبَةُ.", "لَا، فَوْقَ الْبَحْرِ."], "dogruIndeks": 0, "aciklama": "أَمَامَ الْمَكْتَبَةِ öne geçen haber, مَقْهًى هَادِئٌ nekre mübtedâdır." },
+        { "soruAr": "هَلِ الْمَكْتَبَةُ قَرِيبَةٌ مِنْ هُنَا؟", "soruTr": "Kütüphane buradan yakın mı?", "ipucu": "قَرِيبَةٌ مِنْ kalıbı.", "secenekler": ["نَعَمْ، هِيَ قَرِيبَةٌ جِدًّا مِنْ هُنَا.", "نَعَمْ، هُوَ قَرِيبٌ إِلَى هُنَا.", "لَا، هِيَ عَلَى هُنَا."], "dogruIndeks": 0, "aciklama": "قَرِيبٌ kelimesi مِنْ harf-i ceriyle kullanılır." },
+        { "soruAr": "كَيْفَ نَصِفُ مَكَانَ الْحَدِيقَةِ عَلَى يَسَارِ الشَّارِعِ؟", "soruTr": "Parkın sol tarafta olduğunu nasıl söyleriz?", "ipucu": "عَلَى يَسَارِكَ.", "secenekler": ["سَتَجِدُ حَدِيقَةً كَبِيرَةً عَلَى يَسَارِكَ.", "سَتَجِدُ حَدِيقَةً مِنْ يَسَارُكَ.", "سَتَجِدُ حَدِيقَةً عَنْ يَسَارَكَ."], "dogruIndeks": 0, "aciklama": "Sağında/solunda ifadeleri عَلَى يَمِينِكَ / عَلَى يَسَارِكَ şeklinde kurulur." },
+        { "soruAr": "مَاذَا تَقُولُ رَدًّا عَلَى 'شُكْرًا جَزِيلًا لَكَ'؟", "soruTr": "'Sana çok teşekkürler' sözüne ne cevap verirsin?", "ipucu": "Rica ederim kalıbı (لَا شُكْرَ عَلَى وَاجِبٍ).", "secenekler": ["لَا شُكْرَ عَلَى وَاجِبٍ.", "شُكْرًا لِكَ.", "عَلَى وَاجِبٌ."], "dogruIndeks": 0, "aciklama": "عَلَى harf-i ceri + nekre mecrûr: لَا شُكْرَ عَلَى وَاجِبٍ." }
+      ]
+    },
+    {
+      "id": "m07_d3",
+      "baslik": "Kiralık Daire Gezisi",
+      "ortam": "Emlak danışmanı ile daire arayan aile daireyi inceliyor",
+      "replikler": [
+        { "konusan": "السمسار", "ar": "تَفَضَّلُوا! هٰذِهِ الشَّقَّةُ فِي الطَّابَقِ الثَّالِثِ وَلَهَا إِطْلَالَةٌ جَمِيلَةٌ.", "okunus": "Tefaddalû! Hâzihi'ş-şakkatu fi't-tâbiki's-sâlisi ve lehâ itlâletun cemîletun.", "tr": "Buyurun! Bu daire üçüncü katta ve güzel bir manzarası var." },
+        { "konusan": "الأب", "ar": "مَا شَاءَ اللّٰهُ! كَمْ غُرْفَةً فِي هٰذِهِ الشَّقَّةِ؟", "okunus": "Mâ şâallâhu! Kem gurfeten fî hâzihi'ş-şakkati?", "tr": "Maşallah! Bu dairede kaç oda var?" },
+        { "konusan": "السمسار", "ar": "فِيهَا ثَلَاثُ غُرَفِ نَوْمٍ وَصَالَةٌ وَاسِعَةٌ وَمَطْبَخٌ حَدِيثٌ وَحَمَّامَانِ.", "okunus": "Fîhâ selâsu gurafi nevmin ve sâletun vâsi‘atun ve matbahun hadîsun ve hammâmâni.", "tr": "İçinde üç yatak odası, geniş bir salon, modern bir mutfak ve iki banyo var." },
+        { "konusan": "الأم", "ar": "هَلْ لِلشَّقَّةِ شُرْفَةٌ كَبِيرَةٌ؟", "okunus": "Hel li'ş-şakkati şurfetun kebîratun?", "tr": "Dairenin büyük bir balkonu var mı?" },
+        { "konusan": "السمسار", "ar": "نَعَمْ، لَهَا شُرْفَتَانِ: شُرْفَةٌ أَمَامَ الصَّالَةِ وَشُرْفَةٌ بِجَانِبِ الْمَطْبَخِ.", "okunus": "Ne‘am, lehâ şurfetâni: şurfetun emâme's-sâleti ve şurfetun bi-cânibi'l-matbahi.", "tr": "Evet, iki balkonu var: salonun önünde bir balkon ve mutfağın yanında bir balkon." },
+        { "konusan": "الأب", "ar": "هَلْ هُنَاكَ مَوْقِفُ سَيَّارَاتٍ تَحْتَ الْبِنَايَةِ؟", "okunus": "Hel hunâke mevkifu seyyârâtin tahte'l-binâyeti?", "tr": "Binanın altında otopark var mı?" },
+        { "konusan": "السمسار", "ar": "نَعَمْ، تَحْتَ الْبِنَايَةِ مَوْقِفٌ وَاسِعٌ، وَخَلْفَهَا حَدِيقَةٌ لِلْأَطْفَالِ.", "okunus": "Ne‘am, tahte'l-binâyeti mevkifun vâsi‘un, ve halfehâ hadîkatun li'l-etfâli.", "tr": "Evet, binanın altında geniş bir otopark ve arkasında çocuklar için bir park var." },
+        { "konusan": "الأم", "ar": "وَهَلِ الْبِنَايَةُ قَرِيبَةٌ مِنَ الْمَدْرَسَةِ وَالسُّوقِ؟", "okunus": "Ve heli'l-binâyetu karîbetun mine'l-medreseti ve's-sûki?", "tr": "Peki bina okula ve çarşıya yakın mı?" },
+        { "konusan": "السمسار", "ar": "نَعَمْ، الْمَدْرَسَةُ أَمَامَ الْبِنَايَةِ، وَالسُّوقُ عَلَى بُعْدِ دَقِيقَتَيْنِ مَشْيًا.", "okunus": "Ne‘am, el-medresetu emâme'l-binâyeti, ve's-sûku ‘alâ bu‘di dakîkateyni meşyen.", "tr": "Evet, okul binanın önünde, çarşı ise yürüyerek iki dakika mesafede." },
+        { "konusan": "الأب", "ar": "هَلْ عِنْدَكُمْ مِصْعَدٌ فِي الْبِنَايَةِ؟", "okunus": "Hel ‘indekum mis‘adun fi'l-binâyeti?", "tr": "Binada asansörünüz var mı?" },
+        { "konusan": "السمسار", "ar": "بِالتَّأْكِيدِ، فِي الْبِنَايَةِ مِصْعَدَانِ حَدِيثَانِ وَنِظَامُ أَمْنٍ دَائِمٌ.", "okunus": "Bi't-te'kîdi, fi'l-binâyeti mis‘adâni hadîsâni ve nizâmu emnin dâimun.", "tr": "Elbette, binada iki modern asansör ve sürekli güvenlik sistemi var." },
+        { "konusan": "الأب", "ar": "الشَّقَّةُ مُنَاسِبَةٌ جِدًّا لَنَا! سَنَتَحَدَّثُ عَنِ الْإِيجَارِ فِي مَكْتَبِكَ.", "okunus": "Eş-şakkatu munâsibetun cidden lenâ! Se-netehaddesu ‘ani'l-îcâri fî mektebike.", "tr": "Daire bizim için çok uygun! Ofisinde kira hakkında konuşacağız." }
+      ],
+      "partner": [
+        { "soruAr": "فِي أَيِّ طَابَقٍ تَقَعُ الشَّقَّةُ؟", "soruTr": "Daire hangi katta yer alıyor?", "ipucu": "Üçüncü katta (فِي + mecrûr).", "secenekler": ["فِي الطَّابَقِ الثَّالِثِ.", "فِي الطَّابَقُ الثَّالِثُ.", "عَلَى الطَّابَقُ."], "dogruIndeks": 0, "aciklama": "فِي الطَّابَقِ الثَّالِثِ — hem isim hem sıfatı kesralı." },
+        { "soruAr": "هَلْ لِلشَّقَّةِ شُرْفَةٌ؟", "soruTr": "Dairenin balkonu var mı?", "ipucu": "Evet, iki balkonu var (لَهَا + ikil merfû).", "secenekler": ["نَعَمْ، لَهَا شُرْفَتَانِ.", "نَعَمْ، لَهَا شُرْفَتَيْنِ.", "نَعَمْ، لِهَا شُرْفَتَانِ."], "dogruIndeks": 0, "aciklama": "لَهَا öne geçen haber, شُرْفَتَانِ ikil merfû mübtedâdır." },
+        { "soruAr": "أَيْنَ مَوْقِفُ السَّيَّارَاتِ؟", "soruTr": "Otopark nerede?", "ipucu": "Binanın altında (تَحْتَ + mecrûr).", "secenekler": ["تَحْتَ الْبِنَايَةِ.", "تَحْتُ الْبِنَايَةُ.", "فَوْقَ السَّمَاءِ."], "dogruIndeks": 0, "aciklama": "تَحْتَ الْبِنَايَةِ = binanın altında." },
+        { "soruAr": "أَيْنَ حَدِيقَةُ الْأَطْفَالِ؟", "soruTr": "Çocuk parkı nerede?", "ipucu": "Binanın arkasında (خَلْفَهَا).", "secenekler": ["خَلْفَ الْبِنَايَةِ.", "قَبْلَ الْبِنَايَةِ.", "بِالْبِنَايَةِ."], "dogruIndeks": 0, "aciklama": "خَلْفَ = arkasında." },
+        { "soruAr": "عَنْ مَاذَا سَيَتَحَدَّثُ الْأَبُ فِي الْمَكْتَبِ؟", "soruTr": "Baba ofiste ne hakkında konuşacak?", "ipucu": "Kira hakkında (عَنِ الْإِيجَارِ).", "secenekler": ["عَنِ الْإِيجَارِ.", "عَنَ الْإِيجَارُ.", "مِنِ الْإِيجَارُ."], "dogruIndeks": 0, "aciklama": "عَنْ + ال → عَنِ الْإِيجَارِ." }
+      ]
+    },
+    {
+      "id": "m07_d4",
+      "baslik": "Üniversite Kantininde Ders Planı",
+      "ortam": "İki arkadaş ders aralarında zamanlarını ve eşyalarını konuşuyor",
+      "replikler": [
+        { "konusan": "سلمان", "ar": "صَبَاحُ الْخَيْرِ يَا زَيْدُ! هَلْ عِنْدَكَ مُحَاضَرَةٌ الْآنَ؟", "okunus": "Sabâhu'l-hayri yâ Zeydu! Hel ‘indeke muhâdaratun el-âne?", "tr": "Günaydın Zeyd! Şu an dersin var mı?" },
+        { "konusan": "زيد", "ar": "صَبَاحُ النُّورِ يَا سَلْمَانُ! لَا، لَيْسَ عِنْدِي مُحَاضَرَةٌ قَبْلَ الظُّهْرِ.", "okunus": "Sabâhu'n-nûri yâ Selmânu! Lâ, leyse ‘indî muhâdaratun kable'z-zuhri.", "tr": "Günaydın Selman! Hayır, öğleden önce dersim yok." },
+        { "konusan": "سلمان", "ar": "مُمْتَازٌ! عِنْدِي فِكْرَةٌ جَيِّدَةٌ: لِنَدْرُسْ مَعًا فِي الْمَكْتَبَةِ.", "okunus": "Mumtâzun! ‘İndî fikratun ceyyidetun: li-nedrus me‘an fi'l-mektebeti.", "tr": "Harika! İyi bir fikrim var: Kütüphanede birlikte çalışalım." },
+        { "konusan": "زيد", "ar": "فِكْرَةٌ رَائِعَةٌ! هَلْ مَعَكَ كِتَابُ النَّحْوِ وَالدَّفْتَرُ؟", "okunus": "Fikratun râi‘atun! Hel me‘ake kitâbu'n-nahvi ve'd-defteru?", "tr": "Harika fikir! Yanında nahiv kitabı ve defter var mı?" },
+        { "konusan": "سلمان", "ar": "نَعَمْ، كِتَابُ النَّحْوِ مَعِي، وَلٰكِنْ لَيْسَ مَعِي قَلَمٌ أَحْمَرُ.", "okunus": "Ne‘am, kitâbu'n-nahvi me‘î, ve lâkin leyse me‘î kalemun ahmeru.", "tr": "Evet, nahiv kitabı yanımda ama yanımda kırmızı kalem yok." },
+        { "konusan": "زيد", "ar": "لَا تَقْلَقْ، مَعِي قَلَمَانِ وَسَأُعْطِيكَ وَاحِدًا مِنْهُمَا.", "okunus": "Lâ taklak, me‘î kalemâni ve se-u‘tîke vâhiden minhumâ.", "tr": "Endişelenme, yanımda iki kalem var ve onlardan birini sana vereceğim." },
+        { "konusan": "سلمان", "ar": "شُكْرًا لَكَ! هَلْ عِنْدَكَ سُؤَالٌ عَنْ دَرْسِ حُرُوفِ الْجَرِّ؟", "okunus": "Şukran leke! Hel ‘indeke suâlun ‘an dersi hurûfi'l-cerri?", "tr": "Teşekkür ederim! Harf-i cerler dersi hakkında bir sorun var mı?" },
+        { "konusan": "زيد", "ar": "نَعَمْ، عِنْدِي سُؤَالٌ عَنْ تَقْدِيمِ الْخَبَرِ وَعَنِ الْفَرْقِ بَيْنَ عِنْدَ وَلِـ.", "okunus": "Ne‘am, ‘indî suâlun ‘an takdîmi'l-haberi ve ‘ani'l-farki beyne ‘inde ve li.", "tr": "Evet, haberin öne geçmesi ile عِنْدَ ve لِـ arasındaki fark hakkında bir sorum var." },
+        { "konusan": "سلمان", "ar": "سَهْلٌ جِدًّا! فِي كِتَابِي أَمْثِلَةٌ وَاضِحَةٌ عَنْهُمَا، سَأَشْرَحُهَا لَكَ.", "okunus": "Sehlun cidden! Fî kitâbî emsiletun vâdihatun ‘anhumâ, se-eşrahuhâ leke.", "tr": "Çok kolay! Kitabımda ikisi hakkında açık örnekler var, sana anlatacağım." },
+        { "konusan": "زيد", "ar": "جَزَاكَ اللّٰهُ خَيْرًا! أَيْنَ سَنَجْلِسُ فِي الْمَكْتَبَةِ؟", "okunus": "Cezâkallâhu hayran! Eyne se-neclisu fi'l-mektebeti?", "tr": "Allah razı olsun! Kütüphanede nerede oturacağız?" },
+        { "konusan": "سلمان", "ar": "هُنَاكَ طَاوِلَةٌ هَادِئَةٌ فِي الطَّابَقِ الثَّانِي بِجَانِبِ النَّافِذَةِ.", "okunus": "Hunâke tâviletun hâdietun fi't-tâbiki's-sânî bi-cânibi'n-nâfizeti.", "tr": "İkinci katta pencerenin yanında sakin bir masa var." },
+        { "konusan": "زيد", "ar": "هَيَّا بِنَا إِلَيْهَا قَبْلَ أَنْ تَمْتَلِئَ الْقَاعَةُ!", "okunus": "Heyyâ binâ ileyhâ kable en temtelie'l-kâ‘atu!", "tr": "Salon dolmadan haydi oraya gidelim!" }
+      ],
+      "partner": [
+        { "soruAr": "هَلْ عِنْدَكَ وَقْتٌ بَعْدَ الظُّهْرِ؟", "soruTr": "Öğleden sonra vaktin var mı?", "ipucu": "Evet, öğleden sonra vaktim var (عِنْدِي وَقْتٌ).", "secenekler": ["نَعَمْ، عِنْدِي وَقْتٌ بَعْدَ الظُّهْرِ.", "نَعَمْ، عِنْدِي وَقْتًا بَعْدُ الظُّهْرُ.", "نَعَمْ، عَنْدِي وَقْتٍ."], "dogruIndeks": 0, "aciklama": "عِنْدِي وَقْتٌ (merfû) + بَعْدَ الظُّهْرِ (zarf + mecrûr)." },
+        { "soruAr": "هَلْ مَعَكَ قَلَمٌ إِضَافِيٌّ؟", "soruTr": "Yanında fazladan kalem var mı?", "ipucu": "Evet, yanımda iki kalem var (مَعِي قَلَمَانِ).", "secenekler": ["نَعَمْ، مَعِي قَلَمَانِ.", "نَعَمْ، مَعِي قَلَمَيْنِ.", "نَعَمْ، لِي قَلَمًا."], "dogruIndeks": 0, "aciklama": "İkil merfû mübtedâ: قَلَمَانِ." },
+        { "soruAr": "كَيْفَ تَقُولُ 'لَيْسَ عِنْدِي مُحَاضَرَةٌ' بِمَعْنًى مُمَاثِلٍ؟", "soruTr": "'Dersim yok' cümlesinde olumsuzluk edatı hangisidir?", "ipucu": "İsim/sahiplik cümlesi olumsuzu لَيْسَ.", "secenekler": ["لَيْسَ عِنْدِي مُحَاضَرَةٌ.", "عَلَى عِنْدِي مُحَاضَرَةٌ.", "إِلَى عِنْدِي مُحَاضَرَةٌ."], "dogruIndeks": 0, "aciklama": "لَيْسَ عِنْدِي = bende yok." },
+        { "soruAr": "أَيْنَ الطَّاوِلَةُ الْهَادِئَةُ؟", "soruTr": "Sakin masa nerede?", "ipucu": "İkinci katta pencerenin yanında.", "secenekler": ["فِي الطَّابَقِ الثَّانِي بِجَانِبِ النَّافِذَةِ.", "عَلَى الطَّابَقُ الثَّانِي.", "بَيْنَ الطَّابَقِ."], "dogruIndeks": 0, "aciklama": "فِي الطَّابَقِ الثَّانِي بِجَانِبِ النَّافِذَةِ." },
+        { "soruAr": "مَا مَعْنَى 'هَيَّا بِنَا'؟", "soruTr": "'هَيَّا بِنَا' ne demektir?", "ipucu": "بِـ + نَا kalıbıyla 'haydi gidelim!'.", "secenekler": ["Haydi gidelim!", "Güle güle!", "Otur!", "Hoş geldin!"], "dogruIndeks": 0, "aciklama": "هَيَّا بِنَا günlük Arapçada 'haydi / hadi gidelim' demektir." }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "id": "m07_fc01", "ar": "فِي", "harekesiz": "في", "okunus": "fî", "tr": "-de / içinde", "kok": "—", "vezin": "حَرْفُ جَرٍّ", "turevler": [{ "ar": "فِيهِ", "tr": "onun içinde (E)" }, { "ar": "فِيهَا", "tr": "onun içinde (K)" }], "ekBilgi": "En sık kullanılan yer ve zaman harf-i ceri; ismi kesralar.", "ornek": "الطَّالِبُ فِي الصَّفِّ.", "ornekTr": "Öğrenci sınıftadır.", "kullanimNotu": "Mekânın içine vurgu yapar.", "tur": "harf" },
+    { "id": "m07_fc02", "ar": "عَلَى", "harekesiz": "على", "okunus": "‘alâ", "tr": "üzerinde / -e", "kok": "—", "vezin": "حَرْفُ جَرٍّ", "turevler": [{ "ar": "عَلَيْهِ", "tr": "onun üzerinde" }, { "ar": "عَلَيْكُمْ", "tr": "üzerinize" }], "ekBilgi": "Zamirle birleşince ى → يْ olur (عَلَيْكَ، عَلَيْهِ).", "ornek": "الْكِتَابُ عَلَى الْمَكْتَبِ.", "ornekTr": "Kitap masanın üzerindedir.", "kullanimNotu": "Yüzeye temas ederek üstünde olma.", "tur": "harf" },
+    { "id": "m07_fc03", "ar": "مِنْ", "harekesiz": "من", "okunus": "min", "tr": "-den / -dan", "kok": "—", "vezin": "حَرْفُ جَرٍّ", "turevler": [{ "ar": "مِنِّي", "tr": "benden" }, { "ar": "مِنَّا", "tr": "bizden" }], "ekBilgi": "ال önünde مِنَ okunur; نِي/نَا ile şeddelenir.", "ornek": "خَرَجْتُ مِنَ الْبَيْتِ.", "ornekTr": "Evden çıktım.", "kullanimNotu": "Başlangıç noktası ve parça bildirir.", "tur": "harf" },
+    { "id": "m07_fc04", "ar": "إِلَى", "harekesiz": "إلى", "okunus": "ilâ", "tr": "-e / -a doğru", "kok": "—", "vezin": "حَرْفُ جَرٍّ", "turevler": [{ "ar": "إِلَيْكَ", "tr": "sana" }, { "ar": "إِلَيْهِ", "tr": "ona" }], "ekBilgi": "Zamirle birleşince ى → يْ olur (إِلَيْهِ، إِلَيْهَا).", "ornek": "ذَهَبَ إِلَى الْمَسْجِدِ.", "ornekTr": "Camiye gitti.", "kullanimNotu": "Yönelme ve varış noktası bildirir.", "tur": "harf" },
+    { "id": "m07_fc05", "ar": "عَنْ", "harekesiz": "عن", "okunus": "‘an", "tr": "hakkında / -den", "kok": "—", "vezin": "حَرْفُ جَرٍّ", "turevler": [{ "ar": "عَنِّي", "tr": "benden / hakkımda" }, { "ar": "عَنْهُ", "tr": "onun hakkında" }], "ekBilgi": "ال önünde kesrayla عَنِ okunur (عَنِ الدَّرْسِ).", "ornek": "سَأَلْتُ عَنِ الْوَقْتِ.", "ornekTr": "Vakit hakkında sordum.", "kullanimNotu": "Konu belirtme ve uzaklaşma bildirir.", "tur": "harf" },
+    { "id": "m07_fc06", "ar": "بِـ", "harekesiz": "ب", "okunus": "bi-", "tr": "ile / vasıtasıyla", "kok": "—", "vezin": "حَرْفُ جَرٍّ", "turevler": [{ "ar": "بِهِ", "tr": "onunla" }, { "ar": "بِكَ", "tr": "seninle" }], "ekBilgi": "İsme bitişir; ال takısının elifi düşmez (بِالْقَلَمِ).", "ornek": "كَتَبْتُ بِالْقَلَمِ.", "ornekTr": "Kalemle yazdım.", "kullanimNotu": "Alet, ulaşım aracı ve sebep bildirir.", "tur": "harf" },
+    { "id": "m07_fc07", "ar": "لِـ", "harekesiz": "ل", "okunus": "li- / le-", "tr": "için / -e ait", "kok": "—", "vezin": "حَرْفُ جَرٍّ", "turevler": [{ "ar": "لِي", "tr": "benim / bana" }, { "ar": "لَهُ", "tr": "onun / ona" }], "ekBilgi": "ال ile elif düşer (لِلْمُعَلِّمِ); zamirle لَـ fethalı olur (لَكَ).", "ornek": "هٰذِهِ الْهَدِيَّةُ لِلْأُمِّ.", "ornekTr": "Bu hediye anne içindir.", "kullanimNotu": "Aidiyet, sahiplik ve amaç bildirir.", "tur": "harf" },
+    { "id": "m07_fc08", "ar": "كَـ", "harekesiz": "ك", "okunus": "ke-", "tr": "gibi", "kok": "—", "vezin": "حَرْفُ جَرٍّ", "turevler": [{ "ar": "كَالْأَسَدِ", "tr": "aslan gibi" }, { "ar": "كَالشَّمْسِ", "tr": "güneş gibi" }], "ekBilgi": "Açık isimlere bitişir, benzetme (teşbih) yapar.", "ornek": "الْوَقْتُ كَالسَّيْفِ.", "ornekTr": "Vakit kılıç gibidir.", "kullanimNotu": "Zamirle doğrudan bitişmez (مِثْلَهُ kullanılır).", "tur": "harf" },
+    { "id": "m07_fc09", "ar": "أَمَامَ", "harekesiz": "أمام", "okunus": "emâme", "tr": "önünde", "kok": "أ م م", "vezin": "فَعَال", "turevler": [{ "ar": "أَمَامِي", "tr": "önümde" }, { "ar": "إِمَامٌ", "tr": "önder / imam" }], "ekBilgi": "Yer zarfı (mansub); arkasındaki isim mecrûrdur.", "ornek": "السَّيَّارَةُ أَمَامَ الْبَيْتِ.", "ornekTr": "Araba evin önündedir.", "kullanimNotu": "Zıddı: خَلْفَ / وَرَاءَ.", "tur": "zarf" },
+    { "id": "m07_fc10", "ar": "خَلْفَ", "harekesiz": "خلف", "okunus": "halfe", "tr": "arkasında", "kok": "خ ل ف", "vezin": "فَعْل", "turevler": [{ "ar": "خَلْفِي", "tr": "arkamda" }, { "ar": "خَلِيفَةٌ", "tr": "halife / ardıl" }], "ekBilgi": "Yer zarfı; وَرَاءَ ile eş anlamlıdır.", "ornek": "الْحَدِيقَةُ خَلْفَ الْمَدْرَسَةِ.", "ornekTr": "Bahçe okulun arkasındadır.", "kullanimNotu": "Sonraki isim daima kesralıdır.", "tur": "zarf" },
+    { "id": "m07_fc11", "ar": "فَوْقَ", "harekesiz": "فوق", "okunus": "fevka", "tr": "üstünde / yukarısında", "kok": "ف و ق", "vezin": "فَعْل", "turevler": [{ "ar": "فَوْقَنَا", "tr": "üstümüzde" }, { "ar": "تَفَوُّقٌ", "tr": "üstünlük" }], "ekBilgi": "Temaslı veya havada üstte olmayı bildirir.", "ornek": "الْمِصْبَاحُ فَوْقَ الْمَكْتَبِ.", "ornekTr": "Lamba masanın üstündedir.", "kullanimNotu": "Zıddı: تَحْتَ.", "tur": "zarf" },
+    { "id": "m07_fc12", "ar": "تَحْتَ", "harekesiz": "تحت", "okunus": "tahte", "tr": "altında", "kok": "ت ح ت", "vezin": "فَعْل", "turevler": [{ "ar": "تَحْتَهُ", "tr": "onun altında" }, { "ar": "مِنْ تَحْتِ", "tr": "altından" }], "ekBilgi": "Yer zarfı (mansub); مِنْ gelirse kesralanır.", "ornek": "الْقِطَّةُ تَحْتَ الشَّجَرَةِ.", "ornekTr": "Kedi ağacın altındadır.", "kullanimNotu": "Zıddı: فَوْقَ.", "tur": "zarf" },
+    { "id": "m07_fc13", "ar": "بَيْنَ", "harekesiz": "بين", "okunus": "beyne", "tr": "arasında", "kok": "ب ي ن", "vezin": "فَعْل", "turevler": [{ "ar": "بَيْنَنَا", "tr": "aramızda" }, { "ar": "بَيْنَهُمْ", "tr": "aralarında" }], "ekBilgi": "İki şeyin ortasını veya aralarındaki ilişkiyi bildirir.", "ornek": "بَيْتُنَا بَيْنَ الْمَسْجِدِ وَالسُّوقِ.", "ornekTr": "Evimiz cami ile çarşının arasındadır.", "kullanimNotu": "İki isim وَ ile bağlanır ve ikisi de kesralanır.", "tur": "zarf" },
+    { "id": "m07_fc14", "ar": "بِجَانِبِ", "harekesiz": "بجانب", "okunus": "bi-cânibi", "tr": "yanında", "kok": "ج ن ب", "vezin": "بِـ + فَاعِل", "turevler": [{ "ar": "جَانِبٌ", "tr": "yan / taraf" }, { "ar": "أَجْنَبِيٌّ", "tr": "yabancı" }], "ekBilgi": "بِـ + جَانِبِ + muzâfun ileyh.", "ornek": "الْمَقْهَى بِجَانِبِ الْمَحَطَّةِ.", "ornekTr": "Kafe istasyonun yanındadır.", "kullanimNotu": "Adres tarifinde çok sık kullanılır.", "tur": "zarf" },
+    { "id": "m07_fc15", "ar": "حَوْلَ", "harekesiz": "حول", "okunus": "havle", "tr": "etrafında / hakkında", "kok": "ح و ل", "vezin": "فَعْل", "turevler": [{ "ar": "حَوْلَنَا", "tr": "etrafımızda" }, { "ar": "حَالٌ", "tr": "durum" }], "ekBilgi": "Yer zarfı; akademik dilde 'hakkında' anlamında da kullanılır.", "ornek": "جَلَسْنَا حَوْلَ الطَّاوِلَةِ.", "ornekTr": "Masanın etrafında oturduk.", "kullanimNotu": "YDS'de 'حَوْلَ الْمَوْضُوعِ' (konu hakkında) sık çıkar.", "tur": "zarf" },
+    { "id": "m07_fc16", "ar": "عِنْدَ", "harekesiz": "عند", "okunus": "‘inde", "tr": "yanında / -de var", "kok": "ع ن د", "vezin": "فِعْل", "turevler": [{ "ar": "عِنْدِي", "tr": "bende var / yanımda" }, { "ar": "عِنْدَمَا", "tr": "-dığı zaman" }], "ekBilgi": "Hem mekân ('yanında') hem sahiplik ('var') bildirir.", "ornek": "عِنْدِي سُؤَالٌ مُهِمٌّ.", "ornekTr": "Önemli bir sorum var.", "kullanimNotu": "Arkasından gelen sahip olunan isim merfûdur.", "tur": "zarf" },
+    { "id": "m07_fc17", "ar": "مَعَ", "harekesiz": "مع", "okunus": "me‘a", "tr": "ile / beraber / yanında", "kok": "—", "vezin": "ظَرْف", "turevler": [{ "ar": "مَعِي", "tr": "benimle / yanımda" }, { "ar": "مَعًا", "tr": "birlikte" }], "ekBilgi": "Harf-i cer değil zarftır; sonu fethalıdır.", "ornek": "أَذْهَبُ مَعَ صَدِيقِي.", "ornekTr": "Arkadaşımla birlikte giderim.", "kullanimNotu": "مَعِي anlık yanında taşımayı da anlatır.", "tur": "zarf" },
+    { "id": "m07_fc18", "ar": "قَبْلَ", "harekesiz": "قبل", "okunus": "kable", "tr": "önce", "kok": "ق ب ل", "vezin": "فَعْل", "turevler": [{ "ar": "قَبْلَ قَلِيلٍ", "tr": "az önce" }, { "ar": "مُسْتَقْبَلٌ", "tr": "gelecek" }], "ekBilgi": "Zaman zarfı (mansub); sonraki ismi kesralar.", "ornek": "أَغْسِلُ يَدَيَّ قَبْلَ الطَّعَامِ.", "ornekTr": "Yemekten önce ellerimi yıkarım.", "kullanimNotu": "Zıddı: بَعْدَ.", "tur": "zarf" },
+    { "id": "m07_fc19", "ar": "بَعْدَ", "harekesiz": "بعد", "okunus": "ba‘de", "tr": "sonra", "kok": "ب ع د", "vezin": "فَعْل", "turevler": [{ "ar": "بَعْدَ قَلِيلٍ", "tr": "az sonra" }, { "ar": "بَعِيدٌ", "tr": "uzak" }], "ekBilgi": "Zaman zarfı (mansub).", "ornek": "نَلْتَقِي بَعْدَ الدَّرْسِ.", "ornekTr": "Dersten sonra buluşuruz.", "kullanimNotu": "Zıddı: قَبْلَ.", "tur": "zarf" },
+    { "id": "m07_fc20", "ar": "هُنَاكَ", "harekesiz": "هناك", "okunus": "hunâke", "tr": "orada / vardır", "kok": "—", "vezin": "اِسْمُ إِشَارَةٍ", "turevler": [{ "ar": "هُنَا", "tr": "burada" }, { "ar": "مِنْ هُنَاكَ", "tr": "oradan" }], "ekBilgi": "Cümle başında nekre isimle 'var' anlamı verir.", "ornek": "هُنَاكَ مَطْعَمٌ قَرِيبٌ.", "ornekTr": "Yakında bir lokanta var.", "kullanimNotu": "Modern Arapçada 'there is / there are' karşılığıdır.", "tur": "zarf" },
+    { "id": "m07_fc21", "ar": "رَفٌّ", "harekesiz": "رف", "okunus": "raffun", "tr": "raf", "kok": "ر ف ف", "vezin": "فَعْل", "turevler": [{ "ar": "رُفُوفٌ", "tr": "raflar (çoğul)" }, { "ar": "عَلَى الرَّفِّ", "tr": "rafın üzerinde" }], "ekBilgi": "Çoğulu: رُفُوفٌ.", "ornek": "الْكُتُبُ عَلَى الرَّفِّ.", "ornekTr": "Kitaplar rafın üzerindedir.", "kullanimNotu": "Kütüphane ve ev metinlerinde sık geçer.", "tur": "isim" },
+    { "id": "m07_fc22", "ar": "مِصْبَاحٌ", "harekesiz": "مصباح", "okunus": "misbâhun", "tr": "lamba", "kok": "ص ب ح", "vezin": "مِفْعَال", "turevler": [{ "ar": "مَصَابِيحُ", "tr": "lambalar" }, { "ar": "صَبَاحٌ", "tr": "sabah" }], "ekBilgi": "Âlet ismi (مِفْعَال); çoğulu مَصَابِيحُ.", "ornek": "الْمِصْبَاحُ فَوْقَ الْمَكْتَبِ.", "ornekTr": "Lamba masanın üstündedir.", "kullanimNotu": "ص-ب-ح (aydınlık/sabah) kökündendir.", "tur": "isim" },
+    { "id": "m07_fc23", "ar": "شَارِعٌ", "harekesiz": "شارع", "okunus": "şâri‘un", "tr": "cadde / sokak", "kok": "ش ر ع", "vezin": "فَاعِل", "turevler": [{ "ar": "شَوَارِعُ", "tr": "caddeler" }, { "ar": "مَشْرُوعٌ", "tr": "proje" }], "ekBilgi": "Çoğulu: شَوَارِعُ.", "ornek": "أَمَامَ الْبَيْتِ شَارِعٌ عَرِيضٌ.", "ornekTr": "Evin önünde geniş bir cadde vardır.", "kullanimNotu": "Adres tarifinin temel kelimesidir.", "tur": "isim" },
+    { "id": "m07_fc24", "ar": "مَحَطَّةٌ", "harekesiz": "محطة", "okunus": "mahattatun", "tr": "istasyon / durak", "kok": "ح ط ط", "vezin": "مَفْعَلَة", "turevler": [{ "ar": "مَحَطَّاتٌ", "tr": "istasyonlar" }, { "ar": "مَحَطَّةُ الْقِطَارِ", "tr": "tren istasyonu" }], "ekBilgi": "Mekân ismi; çoğulu مَحَطَّاتٌ.", "ornek": "الْمَحَطَّةُ قَرِيبَةٌ مِنَ الْبَيْتِ.", "ornekTr": "Durak eve yakındır.", "kullanimNotu": "Hem otobüs durağı hem tren garı için kullanılır.", "tur": "isim" },
+    { "id": "m07_fc25", "ar": "قِطَارٌ", "harekesiz": "قطار", "okunus": "kitârun", "tr": "tren", "kok": "ق ط ر", "vezin": "فِعَال", "turevler": [{ "ar": "قِطَارَاتٌ", "tr": "trenler" }, { "ar": "الْقِطَارُ السَّرِيعُ", "tr": "hızlı tren" }], "ekBilgi": "Çoğulu: قِطَارَاتٌ.", "ornek": "أُسَافِرُ بِالْقِطَارِ السَّرِيعِ.", "ornekTr": "Hızlı trenle yolculuk ederim.", "kullanimNotu": "بِـ harf-i ceriyle kullanılır.", "tur": "isim" },
+    { "id": "m07_fc26", "ar": "حَافِلَةٌ", "harekesiz": "حافلة", "okunus": "hâfiletun", "tr": "otobüs", "kok": "ح ف ل", "vezin": "فَاعِلَة", "turevler": [{ "ar": "حَافِلَاتٌ", "tr": "otobüsler" }, { "ar": "حَفْلَةٌ", "tr": "tören / parti" }], "ekBilgi": "Çoğulu: حَافِلَاتٌ.", "ornek": "أَذْهَبُ إِلَى الْجَامِعَةِ بِالْحَافِلَةِ.", "ornekTr": "Üniversiteye otobüsle giderim.", "kullanimNotu": "Modern Fasih Arapçada standart otobüs kelimesi.", "tur": "isim" },
+    { "id": "m07_fc27", "ar": "شَقَّةٌ", "harekesiz": "شقة", "okunus": "şakkatun", "tr": "daire (apartman)", "kok": "ش ق ق", "vezin": "فَعْلَة", "turevler": [{ "ar": "شُقَقٌ", "tr": "daireler" }, { "ar": "مَشَقَّةٌ", "tr": "zorluk" }], "ekBilgi": "Çoğulu: شُقَقٌ.", "ornek": "فِي الشَّقَّةِ ثَلَاثُ غُرَفٍ.", "ornekTr": "Dairede üç oda vardır.", "kullanimNotu": "Konut ve kira diyaloglarının anahtar kelimesi.", "tur": "isim" },
+    { "id": "m07_fc28", "ar": "طَابَقٌ", "harekesiz": "طابق", "okunus": "tâbakun", "tr": "kat (bina katı)", "kok": "ط ب ق", "vezin": "فَاعَل", "turevler": [{ "ar": "طَوَابِقُ", "tr": "katlar" }, { "ar": "طَبَقٌ", "tr": "tabak" }], "ekBilgi": "Çoğulu: طَوَابِقُ; 'طَابِقٌ' telaffuzu da yaygındır.", "ornek": "غُرْفَتِي فِي الطَّابَقِ الثَّانِي.", "ornekTr": "Odam ikinci kattadır.", "kullanimNotu": "فِي الطَّابَقِ kalıbıyla kullanılır.", "tur": "isim" },
+    { "id": "m07_fc29", "ar": "شُرْفَةٌ", "harekesiz": "شرفة", "okunus": "şurfetun", "tr": "balkon", "kok": "ش ر ف", "vezin": "فُعْلَة", "turevler": [{ "ar": "شُرَفٌ", "tr": "balkonlar" }, { "ar": "شَرَفٌ", "tr": "şeref / yücelik" }], "ekBilgi": "Çoğulu: شُرَفٌ / شُرُفَاتٌ.", "ornek": "لِلشَّقَّةِ شُرْفَةٌ وَاسِعَةٌ.", "ornekTr": "Dairenin geniş bir balkonu var.", "kullanimNotu": "لِـ aidiyet harfiyle sık kullanılır.", "tur": "isim" },
+    { "id": "m07_fc30", "ar": "مَتْحَفٌ", "harekesiz": "متحف", "okunus": "methafun", "tr": "müze", "kok": "ت ح ف", "vezin": "مَفْعَل", "turevler": [{ "ar": "مَتَاحِفُ", "tr": "müzeler" }, { "ar": "تُحْفَةٌ", "tr": "nadide eser" }], "ekBilgi": "Çoğulu: مَتَاحِفُ (gayr-i munsarif).", "ornek": "فِي الْمَدِينَةِ مَتْحَفٌ تَارِيخِيٌّ.", "ornekTr": "Şehirde tarihi bir müze vardır.", "kullanimNotu": "Kültür ve seyahat metinlerinin temel sözcüğü.", "tur": "isim" },
+    { "id": "m07_fc31", "ar": "قَرِيبٌ", "harekesiz": "قريب", "okunus": "karîbun", "tr": "yakın", "kok": "ق ر ب", "vezin": "فَعِيل", "turevler": [{ "ar": "قَرِيبَةٌ", "tr": "yakın (K)" }, { "ar": "أَقَارِبُ", "tr": "akrabalar" }], "ekBilgi": "Daima مِنْ harf-i ceriyle kullanılır (قَرِيبٌ مِنْ).", "ornek": "الْمَدْرَسَةُ قَرِيبَةٌ مِنَ الْبَيْتِ.", "ornekTr": "Okul eve yakındır.", "kullanimNotu": "Türkçede 'eve' (-e) deriz ama Arapçada مِنْ (-den) gelir!", "tur": "sifat" },
+    { "id": "m07_fc32", "ar": "بَعِيدٌ", "harekesiz": "بعيد", "okunus": "ba‘îdun", "tr": "uzak", "kok": "ب ع د", "vezin": "فَعِيل", "turevler": [{ "ar": "بَعِيدَةٌ", "tr": "uzak (K)" }, { "ar": "بُعْدٌ", "tr": "uzaklık / mesafe" }], "ekBilgi": "Daima عَنْ harf-i ceriyle kullanılır (بَعِيدٌ عَنْ).", "ornek": "الْمَطَارُ بَعِيدٌ عَنِ الْمَرْكَزِ.", "ornekTr": "Havalimanı merkezden uzaktır.", "kullanimNotu": "قَرِيبٌ مِنْ ↔ بَعِيدٌ عَنْ çiftini birlikte ezberle!", "tur": "sifat" }
+  ]
+}

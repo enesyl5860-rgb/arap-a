@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T22:56:57.935Z",
+  "generatedAt": "2026-11-22T23:16:18.631Z",
   "prepositionalVerbs": [
     {
       "ar": "بَحَثَ عَنْ",
@@ -370,6 +370,141 @@
       "arBaslik": "كَلِمَاتٌ مُلَازِمَةٌ لِلْإِضَافَةِ (كُلّ، بَعْض، جَمِيع، غَيْر، مِثْل)",
       "formul": "كُلُّ + Nekre Tekil ('her') | كُلُّ + Marife Çoğul ('bütün') | بَعْضُ / جَمِيعُ / غَيْرُ / مِثْلُ + MECRÛR!",
       "mantik": "Arapçada özellikle okuma parçalarında ve YDS sınavlarında neredeyse her paragrafta karşımıza çıkan 5 özel kelime vardır ki bunlar neredeyse her zaman MUZÂF (tamlanan) olarak kullanılır ve arkalarındaki kelimeyi KESRALI (muzâfun ileyh) yaparlar:\n1) **كُلُّ (kul…"
+    },
+    {
+      "id": "m07_g1",
+      "moduleId": "07",
+      "cefr": "A1",
+      "baslik": "Temel Harf-i Cerler ve İsimleri Mecrûr (Kesralı) Yapma Kuralı",
+      "arBaslik": "حُرُوفُ الْجَرِّ وَالِاسْمُ الْمَجْرُورُ",
+      "formul": "Harf-i Cer (فِي / عَلَى / مِنْ / إِلَى / عَنْ / بِـ / لِـ / كَـ) + İsim (MECRÛR: ـِ marife / ـٍ nekre)",
+      "mantik": "Türkçede 'evDE, okulA, çarşıDAN, kalemLE, arkadaş İÇİN' derken ismin SONUNA hâl ekleri (-de, -e, -den, -le) getiririz. Arapçada ise bu görevi ismin ÖNÜNE gelen ve **Harf-i Cer (حُرُوفُ الْجَرِّ)** adı verilen edatlar üstlenir! 'Cer' sözlükte 'çekmek' demektir;…"
+    },
+    {
+      "id": "m07_g2",
+      "moduleId": "07",
+      "cefr": "A1",
+      "baslik": "Yer ve Zaman Zarfları (Zarf-ı Mekân & Zarf-ı Zamân)",
+      "arBaslik": "ظَرْفُ الْمَكَانِ وَظَرْفُ الزَّمَانِ",
+      "formul": "Zarf (Mansub: أَمَامَ / خَلْفَ / فَوْقَ / تَحْتَ / بَيْنَ / عِنْدَ / قَبْلَ / بَعْدَ) + Muzâfun İleyh (DAİMA MECRÛR!)",
+      "mantik": "Harf-i cerler dışında, bir nesnenin tam konumunu ('önünde, arkasında, üstünde, altında, arasında, yanında') veya zamanını ('önce, sonra') bildiren kelimelere **Zarf (الظَّرْفُ)** denir. Zarfları öğrenmenin harika bir kolaylığı vardır: Zarflar aslında birer **İ…"
+    },
+    {
+      "id": "m07_g3",
+      "moduleId": "07",
+      "cefr": "A1",
+      "baslik": "Şibh-i Cümle & Haberin Mübtedâdan Öne Geçmesi (تَقْدِيمُ الْخَبَرِ)",
+      "arBaslik": "شِبْهُ الْجُمْلَةِ وَتَقْدِيمُ الْخَبَرِ عَلَى الْمُبْتَدَأِ",
+      "formul": "Marife Mübtedâ + Şibh-i Cümle = '... -dedir'  |  Şibh-i Cümle (Öne Geçen Haber) + Nekre Mübtedâ = '...-de ... VARDIR'",
+      "mantik": "Arapçada **Harf-i Cer + Mecrûr** (`فِي الْبَيْتِ`) veya **Zarf + Muzâfun İleyh** (`أَمَامَ الْبَيْتِ`) öbeğine **Şibh-i Cümle (شِبْهُ الْجُمْلَةِ — cümlemsi)** denir. Bir isim cümlesinde haber bu şibh-i cümlelerden biri olabilir: `الطَّالِبُ فِي الصَّفِّ` (Öğr…"
+    },
+    {
+      "id": "m07_g4",
+      "moduleId": "07",
+      "cefr": "A1",
+      "baslik": "Sahiplik ve 'Var / Yok' Yapıları (عِنْدَ · لِـ · مَعَ · هُنَاكَ)",
+      "arBaslik": "التَّعْبِيرُ عَنِ الْمِلْكِيَّةِ وَالْوُجُودِ (عِنْدَ / لِـ / مَعَ / هُنَاكَ)",
+      "formul": "عِنْدِي / لِي / مَعِي / هُنَاكَ (Öne Geçen Haber) + Sahip Olunan Şey (MERFÛ Mübtedâ!)",
+      "mantik": "Türkçede 'Benim bir kitabım var', 'İki kardeşim var', 'Yanımda kalem var' derken hep 'var' kelimesini kullanırız; İngilizcede ise 'have' fiili vardır. Arapçada ise 'have' gibi tek bir fiil yerine az önce öğrendiğin **Öne Geçen Şibh-i Cümle** sistemiyle 3 süper…"
+    },
+    {
+      "id": "m07_g5",
+      "moduleId": "07",
+      "cefr": "A1",
+      "baslik": "Harf-i Cerlerin Zamirlere Bitişmesi ve Ses Değişimleri",
+      "arBaslik": "اِتِّصَالُ حُرُوفِ الْجَرِّ بِالضَّمَائِرِ",
+      "formul": "عَلَى/إِلَى + Zamir → عَلَيْـ/إِلَيْـ  |  لِـ + Zamir → لَـ (sadece لِي)  |  مِنْ/عَنْ + نِي/نَا → مِنِّي/عَنَّا",
+      "mantik": "Türkçede 'bende, sende, onda, benimle, seninle, onun için, bana, sana' dediğimiz gibi Arapçada da harf-i cerler doğrudan muttasıl zamirlere bitişir! Fakat burada **4 şahane ses ve imlâ kuralı** vardır ki bunları bir kez öğrendin mi Arapça metinlerin %30'u anın…"
+    },
+    {
+      "id": "m08_g1",
+      "moduleId": "08",
+      "cefr": "A1",
+      "baslik": "هَلْ ve أَ Soru Harfleri ile Seçenek Sorusu (أَ... أَمْ...)",
+      "arBaslik": "حَرْفَا الِاسْتِفْهَامِ: هَلْ وَالْهَمْزَةُ (أَ)",
+      "formul": "Evet/Hayır: هَلْ / أَ + Cümle → نَعَمْ (Evet) / لَا (Hayır)  |  Seçenek: أَ + Seçenek 1 + أَمْ + Seçenek 2؟",
+      "mantik": "Türkçede 'Öğrenci misin?', 'Kitabı okudun mu?' derken soru eki (-mi, -mu) cümlenin SONUNA veya ortasına gelir. Arapçada ise tüm soru edatları **HER ZAMAN CÜMLENİN EN BAŞINA** oturur! Bir cümleyi anında 'evet/hayır' sorusuna çevirmenin 2 aracı vardır: **هَلْ** …"
+    },
+    {
+      "id": "m08_g2",
+      "moduleId": "08",
+      "cefr": "A1",
+      "baslik": "Temel 6 Soru İsmi (مَا/مَاذَا · مَنْ · أَيْنَ · مَتَى · كَيْفَ · لِمَاذَا)",
+      "arBaslik": "أَسْمَاءُ الِاسْتِفْهَامِ الْأَسَاسِيَّةُ",
+      "formul": "مَا (İsimle) / مَاذَا (Fiille) · مَنْ (Kim) · أَيْنَ (Nerede) · مَتَى (Ne zaman) · كَيْفَ (Nasıl) · لِمَاذَا (Niçin)",
+      "mantik": "Günlük hayatta bilgi almak için kullandığımız 'Ne, Kim, Nerede, Ne zaman, Nasıl, Niçin' soruları Arapçada **Soru İsimleri (أَسْمَاءُ الِاسْتِفْهَامِ)** olarak bilinir ve her zaman cümlenin **EN BAŞINDA** yer alırlar!\n1) **مَا** (Ne? — isim cümlesinde: `مَا اسْ…"
+    },
+    {
+      "id": "m08_g3",
+      "moduleId": "08",
+      "cefr": "A1",
+      "baslik": "كَمْ (Kaç?) ve أَيُّ / أَيَّةُ (Hangi?) Soru İsimlerinin Özel Kuralları",
+      "arBaslik": "أَحْكَامُ «كَمْ» الِاسْتِفْهَامِيَّةِ وَ«أَيِّ»",
+      "formul": "كَمْ + Tekil Nekre Mansub İsim (كَمْ كِتَابًا؟)  |  أَيُّ / أَيَّ / أَيِّ + Mecrûr Muzâfun İleyh (فِي أَيِّ يَوْمٍ؟)",
+      "mantik": "Arapçada diğer tüm soru isimleri son harekesi değişmeyen (mebnî) kelimelerdir; fakat **كَمْ** (Kaç?) ve **أَيُّ** (Hangi?) kendilerinden sonra gelen isimle çok özel ve YDS'de bile sürekli sorulan iki muhteşem kurala sahiptir:\n1) **كَمْ (Kaç?):** Arkasından gel…"
+    },
+    {
+      "id": "m08_g4",
+      "moduleId": "08",
+      "cefr": "A1",
+      "baslik": "Harf-i Cer + Soru مَا Birleşmeleri (لِمَ · بِمَ · عَمَّ · فِيمَ · مِمَّ)",
+      "arBaslik": "دُخُولُ حُرُوفِ الْجَرِّ عَلَى «مَا» الِاسْتِفْهَامِيَّةِ",
+      "formul": "Harf-i Cer + Soru مَا → Elif DÜŞER (مَ):  لِمَ · بِمَ · فِيمَ · عَمَّ · مِمَّ · إِلَامَ · عَلَامَ",
+      "mantik": "Arapçanın en zarif imlâ ve ses kurallarından biriyle tanışmaya hazır mısın? Kur'an-ı Kerim'de (`عَمَّ يَتَسَاءَلُونَ` — Nebe Suresi 1. ayet!) ve modern haber/YDS metinlerinde karşımıza çok sık çıkan **عَمَّ، لِمَ، بِمَ، فِيمَ، مِمَّ، إِلَامَ، عَلَامَ** kelimel…"
+    },
+    {
+      "id": "m08_g5",
+      "moduleId": "08",
+      "cefr": "A1",
+      "baslik": "Olumsuz Soruya بَلَى Cevabı & Günlük İletişimde Nezaket Kalıpları",
+      "arBaslik": "الْجَوَابُ بِـ«بَلَى» وَأَسَالِيبُ التَّوَاصُلِ الْمُهَذَّبِ",
+      "formul": "Olumsuz Soru (أَلَيْسَ / أَلَمْ / أَلَا) → Olumlu Cevap: بَلَى!  |  Olumsuz Cevap: نَعَمْ (lâ/leyse...)",
+      "mantik": "Arapçanın mantık harikalarından biri: Biri sana **OLUMSUZ BİR SORU** sorarsa — örneğin `أَلَيْسَ الْكِتَابُ مُفِيدًا؟` (Kitap faydalı **DEĞİL Mİ**?) — ve sen **'Bilakis, evet faydalıdır!'** (olumlu!) demek istiyorsan, sakın `نَعَمْ` deme! Çünkü Arapçada olumsu…"
+    },
+    {
+      "id": "m09_g1",
+      "moduleId": "09",
+      "cefr": "A1",
+      "baslik": "Sülâsî Mâzi Fiilin Mantığı ve 14 Şahıs Çekimi",
+      "arBaslik": "تَصْرِيفُ الْفِعْلِ الْمَاضِي الثُّلَاثِيِّ (١٤ صِيغَةً)",
+      "formul": "Mâzi Fiil = 3 Harfli Kök (فَعَلَ / فَعِلَ / فَعُلَ) + Sona Gelen Şahıs Eki (ـَا / ـُوا / ـَتْ / ـْنَ / ـْتَ / ـْتِ / ـْتُمْ / ـْتُ / ـْنَا)",
+      "mantik": "Arapçada fiillerin temel sözlük hâli Türkçedeki gibi mastar ('yazmak') değil, 3. tekil eril geçmiş zaman (**Mâzi — الْفِعْلُ الْمَاضِي**) olan **كَتَبَ** ('O erkek yazdı') şeklidir! Üç kök harfinden oluşan bu fiillere **Sülâsî Mücerred** denir. İlk harf (ف) ve…"
+    },
+    {
+      "id": "m09_g2",
+      "moduleId": "09",
+      "cefr": "A1",
+      "baslik": "Mâzi Fiilin Binası (3. Harf Hareke Değişimi) & Özne Zamirleri",
+      "arBaslik": "بِنَاءُ الْفِعْلِ الْمَاضِي وَضَمَائِرُ الرَّفْعِ الْمُتَّصِلَةِ",
+      "formul": "كَتَبَ/كَتَبَا/كَتَبَتْ (Fetha)  |  كَتَبُوا (Damme)  |  كَتَبْنَ/كَتَبْتَ/كَتَبْتُ/كَتَبْنَا (Sükûn)",
+      "mantik": "Mâzi fiilin sonuna ek getirirken 3. kök harfinin (ör. `كَتَبَ` fiilindeki **ب** harfinin) nasıl değiştiğini tek bakışta çözen 3 altın kural vardır:\n1) **Fetha üzere mebnî (Normal hâl):** İlk 5 sığada (كَتَبَ، كَتَبَا، كَتَبَتْ، كَتَبَتَا) son kök harf **FETHAL…"
+    },
+    {
+      "id": "m09_g3",
+      "moduleId": "09",
+      "cefr": "A1",
+      "baslik": "Fiil Cümlesi (الْجُمْلَةُ الْفِعْلِيَّةُ) & Merfû Fâil Mimarisi",
+      "arBaslik": "الْجُمْلَةُ الْفِعْلِيَّةُ وَأَحْكَامُ الْفَاعِلِ",
+      "formul": "Fiil Cümlesi = Fiil + Fâil (DAİMA MERFÛ: ـُ / ـَانِ / ـُونَ) + Nesne (Mansub) / Harf-i Cer",
+      "mantik": "Modül 05'te isimle başlayan **İsim Cümlesi**ni (`الطَّالِبُ مُجْتَهِدٌ`) öğrenmiştik. Şimdi Arapçanın ikinci dev sütunu olan **Fiil Cümlesi (الْجُمْلَةُ الْفِعْلِيَّةُ)** sahneye çıkıyor! Bir cümle FİİL ile başlıyorsa o bir fiil cümlesidir ve doğal dizilimi Tü…"
+    },
+    {
+      "id": "m09_g4",
+      "moduleId": "09",
+      "cefr": "A1",
+      "baslik": "Açık Fâilde Fiilin Tekil Kalması & Cinsiyet Uyumu (ALTIN NAHİV KURALI)",
+      "arBaslik": "إِفْرَادُ الْفِعْلِ مَعَ الْفَاعِلِ الظَّاهِرِ وَتَأْنِيثُهُ",
+      "formul": "Fiil Başta: Fiil (DAİMA TEKİL, sadece Cinsiyet uyumu!) + Açık Fâil  ≠  İsim Başta: Mübtedâ + Fiil (Sayı + Cinsiyet tam uyum!)",
+      "mantik": "İşte Arapça öğrenenlerin %90'ının ilk başta tökezlediği, ama bir kez kavrayınca asla unutmadığı **EN ÖNEMLİ NAHİV KURALI**:\n1) **FİİL BAŞTA + AÇIK FÂİL SONRA (Fiil Cümlesi):** Fâil tekil de olsa, ikil de olsa, çoğul da olsa fiil **DAİMA TEKİL (MÜFRED)** kalır!…"
+    },
+    {
+      "id": "m09_g5",
+      "moduleId": "09",
+      "cefr": "A1",
+      "baslik": "Fâilin 3 Çeşidi (Açık · Bitişik Zamir · Gizli) & قَدْ / لَقَدْ Pekiştirmesi",
+      "arBaslik": "أَنْوَاعُ الْفَاعِلِ وَتَوْكِيدُ الْمَاضِي بِـ«قَدْ / لَقَدْ»",
+      "formul": "Fâil = Açık İsim / Bitişik Zamir / Müstetir (هُوَ/هِيَ)  |  قَدْ / لَقَدْ + Mâzi = Kesinlik & Yakın Geçmiş ('Gerçekten / -mış')",
+      "mantik": "Her fiilin MUTLAKA bir fâili (öznesi) vardır; fâilsiz fiil olmaz! Arapçada fâil tam **3 biçimde** karşımıza çıkar:\n1) **Açık İsim (اِسْمٌ ظَاهِرٌ):** `كَتَبَ أَحْمَدُ الدَّرْسَ` (Fâil: أَحْمَدُ).\n2) **Bitişik Zamir (ضَمِيرٌ مُتَّصِلٌ):** `كَتَبْتُ الدَّرْسَ` (…"
     }
   ],
   "quickPractice": [
@@ -1272,6 +1407,456 @@
       ],
       "dogruIndeks": 2,
       "aciklama": "غَيْرُ muzâftır; ardından gelen isim kesralı (mecrûr) olur: غَيْرُ مُمْكِنٍ."
+    },
+    {
+      "id": "atlas_m07_g1_d1",
+      "moduleId": "07",
+      "kategori": "Edatlar & Nahiv",
+      "soru": "الطَّالِبُ يَجْلِسُ ....... الْكُرْسِيِّ. (Öğrenci sandalyenin üzerinde oturuyor) boşluğuna hangisi gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "فِي",
+        "عَلَى",
+        "مِنْ",
+        "عَنْ"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "Sandalyenin üzerinde oturmak için عَلَى harf-i ceri kullanılır."
+    },
+    {
+      "id": "atlas_m07_g1_d2",
+      "moduleId": "07",
+      "kategori": "Edatlar & Nahiv",
+      "soru": "لِـ harf-i ceri + الْمُدِيرُ (müdür) kelimesi birleştiğinde doğru imlâ ve hareke hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "لِالْمُدِيرِ",
+        "لِلْمُدِيرِ",
+        "لِلْمُدِيرُ",
+        "لِالْمُدِيرُ"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "لِـ bitişince ال'in elifi düşer ve isim kesralı olur: لِلْمُدِيرِ."
+    },
+    {
+      "id": "atlas_m07_g2_d1",
+      "moduleId": "07",
+      "kategori": "Edatlar & Nahiv",
+      "soru": "الْحِذَاءُ ....... السَّرِيرِ. (Ayakkabı yatağın altındadır) boşluğuna hangisi gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "فَوْقَ",
+        "تَحْتَ",
+        "قَبْلَ",
+        "بَعْدَ"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "'Altında' anlamındaki yer zarfı تَحْتَ'dir."
+    },
+    {
+      "id": "atlas_m07_g2_d2",
+      "moduleId": "07",
+      "kategori": "Edatlar & Nahiv",
+      "soru": "'أَمَامُ الْمَدْرَسَةِ حَدِيقَةٌ' cümlesindeki hareke hatası nedir?",
+      "soruAr": "",
+      "secenekler": [
+        "أَمَامَ yer zarfı fethalı (mansub) olmalıdır: أَمَامَ الْمَدْرَسَةِ",
+        "الْمَدْرَسَةِ dammeli olmalı",
+        "حَدِيقَةٌ kesralı olmalı",
+        "Hata yoktur"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Yer ve zaman zarfları mansub (fethalı) okunur: أَمَامَ."
+    },
+    {
+      "id": "atlas_m07_g3_d1",
+      "moduleId": "07",
+      "kategori": "Edatlar & Nahiv",
+      "soru": "'Sınıfta bir öğrenci vardır' cümlesinin gramer açısından en doğru Arapçası hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "فِي الصَّفِّ طَالِبٌ",
+        "طَالِبٌ فِي الصَّفِّ",
+        "فِي الصَّفِّ طَالِبًا",
+        "الطَّالِبُ فِي الصَّفِّ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Mübtedâ nekre (طَالِبٌ) olduğu için şibh-i cümle haber (فِي الصَّفِّ) zorunlu öne geçer ve طَالِبٌ merfû kalır."
+    },
+    {
+      "id": "atlas_m07_g3_d2",
+      "moduleId": "07",
+      "kategori": "Edatlar & Nahiv",
+      "soru": "'الْقَلَمُ فِي الْحَقِيبَةِ' ile 'فِي الْحَقِيبَةِ قَلَمٌ' arasındaki anlam farkı nedir?",
+      "soruAr": "",
+      "secenekler": [
+        "1. 'Kalem çantadadır' — 2. 'Çantada bir kalem vardır'",
+        "İkisi tamamen aynıdır",
+        "1. çoğul — 2. tekildir",
+        "2. cümle yanlıştır"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Marife başta olunca belirli nesnenin yerini, şibh-i cümle başta + nekre sonda olunca 'vardır' anlamını verir."
+    },
+    {
+      "id": "atlas_m07_g4_d1",
+      "moduleId": "07",
+      "kategori": "Edatlar & Nahiv",
+      "soru": "'Benim yeni bir kitabım var' cümlesinin doğru Arapçası hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "عِنْدِي كِتَابٌ جَدِيدٌ",
+        "عِنْدِي كِتَابًا جَدِيدًا",
+        "عِنْدِي الْكِتَابُ جَدِيدٌ",
+        "فِي كِتَابٌ جَدِيدٌ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "عِنْدِي öne geçen haber, كِتَابٌ جَدِيدٌ ise merfû (dammetân) mübtedâdır."
+    },
+    {
+      "id": "atlas_m07_g4_d2",
+      "moduleId": "07",
+      "kategori": "Edatlar & Nahiv",
+      "soru": "....... السَّيَّارَةِ أَرْبَعَةُ أَبْوَابٍ. (Arabanın dört kapısı var) boşluğuna en uygun edat hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "لِـ (لِلسَّيَّارَةِ)",
+        "عِنْدَ",
+        "مَعَ",
+        "عَنْ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Cansız bir nesnenin parçalarını anlatırken لِـ kullanılır: لِلسَّيَّارَةِ."
+    },
+    {
+      "id": "atlas_m07_g5_d1",
+      "moduleId": "07",
+      "kategori": "Edatlar & Nahiv",
+      "soru": "لِـ harf-i ceri ile ـهُ (o erkek) zamiri birleştiğinde doğru okunuş hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "لَهُ",
+        "لِهُ",
+        "لِهِ",
+        "لَيْهِ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "لِـ harfi ـِي dışındaki tüm zamirlerle fethalı (لَـ) okunur: لَهُ."
+    },
+    {
+      "id": "atlas_m07_g5_d2",
+      "moduleId": "07",
+      "kategori": "Edatlar & Nahiv",
+      "soru": "عَلَى + هُ (onun üzerine) birleşiminin doğru yazılışı ve harekesi hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "عَلَيْهِ",
+        "عَلَيْهُ",
+        "عَلَاهُ",
+        "عَلِيهِ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "ى harfi يْ'ye döner; cezimli يْ'den sonra هُ kesralanıp هِ olur: عَلَيْهِ."
+    },
+    {
+      "id": "atlas_m08_g1_d1",
+      "moduleId": "08",
+      "kategori": "İletişim & Nahiv",
+      "soru": "....... تُفَضِّلُ الْقِطَارَ أَمِ الطَّائِرَةَ؟ (Treni mi yoksa uçağı mı tercih edersin?) boşluğuna hangisi gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "أَ (أَتُفَضِّلُ)",
+        "هَلْ",
+        "مَا",
+        "مَنْ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "أَمْ (yoksa) ile kurulan seçenek sorularında هَلْ değil أَ kullanılır: أَتُفَضِّلُ."
+    },
+    {
+      "id": "atlas_m08_g1_d2",
+      "moduleId": "08",
+      "kategori": "İletişim & Nahiv",
+      "soru": "....... الطَّقْسُ جَمِيلٌ الْيَوْمَ؟ cümlesinde geçiş harekesiyle doğru okunuş hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "هَلِ",
+        "هَلَ",
+        "هَلُ",
+        "هَلْ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Sükûnlu هَلْ harfinden sonra ال gelince kesra ile هَلِ okunur."
+    },
+    {
+      "id": "atlas_m08_g2_d1",
+      "moduleId": "08",
+      "kategori": "İletişim & Nahiv",
+      "soru": "....... اسْمُ هٰذِهِ الْمَدِينَةِ؟ (Bu şehrin adı nedir?) boşluğuna hangisi gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "مَا",
+        "مَاذَا",
+        "مَنْ",
+        "كَيْفَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "İsimle başlayan 'nedir?' sorusunda مَا kullanılır: مَا اسْمُ..."
+    },
+    {
+      "id": "atlas_m08_g2_d2",
+      "moduleId": "08",
+      "kategori": "İletişim & Nahiv",
+      "soru": "....... تَكْتُبُ فِي الدَّفْتَرِ؟ (Deftere ne yazıyorsun?) boşluğuna en doğal soru ismi hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "مَاذَا",
+        "مَنْ",
+        "أَيْنَ",
+        "مَتَى"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Fiil cümlesinde nesneyi sorarken مَاذَا kullanılır."
+    },
+    {
+      "id": "atlas_m08_g3_d1",
+      "moduleId": "08",
+      "kategori": "İletişim & Nahiv",
+      "soru": "كَمْ ....... عِنْدَكَ؟ (Kaç kalemin var?) boşluğuna doğru kelime hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "قَلَمًا",
+        "قَلَمٌ",
+        "أَقْلَامٍ",
+        "قَلَمٍ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Soru كَمْ'inden sonra tekil, nekre ve mansub (fethatân) isim gelir: قَلَمًا."
+    },
+    {
+      "id": "atlas_m08_g3_d2",
+      "moduleId": "08",
+      "kategori": "İletişim & Nahiv",
+      "soru": "فِي ....... سَاعَةٍ يَبْدَأُ الدَّرْسُ؟ (Ders saat kaçta başlıyor?) boşluğuna doğru harekeli şekil hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "أَيِّ",
+        "أَيُّ",
+        "أَيَّ",
+        "أَيٍّ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "أَيُّ mu'rabdır ve muzâftır; فِي harf-i cerinden sonra tek kesra alır: فِي أَيِّ."
+    },
+    {
+      "id": "atlas_m08_g4_d1",
+      "moduleId": "08",
+      "kategori": "İletişim & Nahiv",
+      "soru": "عَنْ + soru مَا birleştiğinde doğru yazılış hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "عَمَّ؟",
+        "عَنْمَا؟",
+        "عَمَّا؟",
+        "عَنِمَ؟"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Nûn mîme dönüşür (şedde) ve soru مَا'sının elifi düşer: عَمَّ؟"
+    },
+    {
+      "id": "atlas_m08_g4_d2",
+      "moduleId": "08",
+      "kategori": "İletişim & Nahiv",
+      "soru": "مِنْ + soru مَا ('Neyden?') birleşimi hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "مِمَّ؟",
+        "مِنْمَا؟",
+        "مِمَّا؟",
+        "مَنْمَ؟"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "مِنْ + مَا → مِمَّ؟ (elif düşer)."
+    },
+    {
+      "id": "atlas_m08_g5_d1",
+      "moduleId": "08",
+      "kategori": "İletişim & Nahiv",
+      "soru": "أَلَيْسَ هٰذَا الْكِتَابُ رَائِعًا؟ — .......، هُوَ رَائِعٌ جِدًّا! boşluğuna doğru cevap edatı hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "بَلَى",
+        "نَعَمْ",
+        "لَا",
+        "هَلْ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Olumsuz soruya (أَلَيْسَ) olumlu cevap بَلَى ile verilir."
+    },
+    {
+      "id": "atlas_m08_g5_d2",
+      "moduleId": "08",
+      "kategori": "İletişim & Nahiv",
+      "soru": "أَلَمْ تَقْرَأِ الدَّرْسَ؟ (Dersi okumadın mı?) sorusuna 'Bilakis, okudum!' cevabı hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "بَلَى، قَرَأْتُهُ!",
+        "نَعَمْ، قَرَأْتُهُ!",
+        "لَا، قَرَأْتُهُ!",
+        "نَعَمْ، لَمْ أَقْرَأْهُ."
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Olumsuzluğu iptal edip olumlu onay vermek için بَلَى kullanılır."
+    },
+    {
+      "id": "atlas_m09_g1_d1",
+      "moduleId": "09",
+      "kategori": "Sarf & Nahiv",
+      "soru": "شَرِبَ (içti) fiilinin 'Ben içtim' çekimi hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "شَرِبْتُ",
+        "شَرَبْتُ",
+        "شَرِبْتَ",
+        "شَرِبَتْ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Orta harf kesralı kalır, 3. harf cezimlenir ve ـتُ eklenir: شَرِبْتُ."
+    },
+    {
+      "id": "atlas_m09_g1_d2",
+      "moduleId": "09",
+      "kategori": "Sarf & Nahiv",
+      "soru": "الطَّالِبَاتُ ....... الدَّرْسَ. (Kız öğrenciler dersi yazdılar) boşluğuna hangisi gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "كَتَبْنَ",
+        "كَتَبْنَا",
+        "كَتَبُوا",
+        "كَتَبَتْ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "3. çoğul dişil (هُنَّ) eki kısa نَ'dir: كَتَبْنَ."
+    },
+    {
+      "id": "atlas_m09_g2_d1",
+      "moduleId": "09",
+      "kategori": "Sarf & Nahiv",
+      "soru": "قَرَأْتُ (okudum) fiilinde 3. kök harfi olan hemze (أ) hangi hareke üzere mebnîdir?",
+      "soruAr": "",
+      "secenekler": [
+        "Sükûn (قَرَأْتُ)",
+        "Fetha",
+        "Damme",
+        "Kesra"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Harekeli özne zamiri (تُ) bitiştiği için sükûn üzere mebnîdir."
+    },
+    {
+      "id": "atlas_m09_g2_d2",
+      "moduleId": "09",
+      "kategori": "Sarf & Nahiv",
+      "soru": "دَخَلُوا (girdiler) fiilinde ل harfinin harekesi nedir?",
+      "soruAr": "",
+      "secenekler": [
+        "Damme (دَخَلُوا)",
+        "Fetha",
+        "Sükûn",
+        "Kesra"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Cemaat vâvı (ـُوا) bitişince 3. harf dammeli olur."
+    },
+    {
+      "id": "atlas_m09_g3_d1",
+      "moduleId": "09",
+      "kategori": "Sarf & Nahiv",
+      "soru": "وَقَفَ ....... أَمَامَ السَّبُّورَةِ. (İki öğretmen tahtanın önünde durdu) boşluğuna doğru fâil hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "الْمُعَلِّمَانِ",
+        "الْمُعَلِّمَيْنِ",
+        "الْمُعَلِّمِينَ",
+        "الْمُعَلِّمَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Fâil merfûdur; ikilde ref' alâmeti elif (ـَانِ) olur: الْمُعَلِّمَانِ."
+    },
+    {
+      "id": "atlas_m09_g3_d2",
+      "moduleId": "09",
+      "kategori": "Sarf & Nahiv",
+      "soru": "حَضَرَ ....... الْحَفْلَ. (Misafirler törene katıldı) boşluğuna hangisi gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "الْمَدْعُوُّونَ",
+        "الْمَدْعُوِّينَ",
+        "الْمَدْعُوَّ",
+        "الْمَدْعُوِّ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Cemi müzekker sâlim fâil vâv ile (ـُونَ) merfûdur."
+    },
+    {
+      "id": "atlas_m09_g4_d1",
+      "moduleId": "09",
+      "kategori": "Sarf & Nahiv",
+      "soru": "....... الطُّلَّابُ الدَّرْسَ. (Öğrenciler dersi anladı) boşluğuna doğru fiil hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "فَهِمَ",
+        "فَهِمُوا",
+        "فَهِمَا",
+        "فَهِمَتْ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Açık fâil (الطُّلَّابُ) fiilden sonra geldiği için fiil DAİMA TEKİL kalır: فَهِمَ."
+    },
+    {
+      "id": "atlas_m09_g4_d2",
+      "moduleId": "09",
+      "kategori": "Sarf & Nahiv",
+      "soru": "الطُّلَّابُ ....... الدَّرْسَ. (Öğrenciler dersi anladılar — isim başta!) boşluğuna hangisi gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "فَهِمُوا",
+        "فَهِمَ",
+        "فَهِمَتْ",
+        "فَهِمْنَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Özne başta (isim cümlesi) olduğu için fiil sayıca da uyar: فَهِمُوا."
+    },
+    {
+      "id": "atlas_m09_g5_d1",
+      "moduleId": "09",
+      "kategori": "Sarf & Nahiv",
+      "soru": "'قَدْ وَصَلَ الضَّيْفُ' cümlesinde قَدْ hangi anlamı katar?",
+      "soruAr": "",
+      "secenekler": [
+        "Kesinlik / yakın geçmiş (vardı bile / muhakkak vardı)",
+        "İhtimal (belki)",
+        "Olumsuzluk (varmadı)",
+        "Soru (vardı mı?)"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "قَدْ + Mâzi daima kesinlik (tahkik) veya yakın geçmiş (takrib) bildirir."
+    },
+    {
+      "id": "atlas_m09_g5_d2",
+      "moduleId": "09",
+      "kategori": "Sarf & Nahiv",
+      "soru": "'أَحْمَدُ كَتَبَ الدَّرْسَ' cümlesinde كَتَبَ fiilinin fâili nedir?",
+      "soruAr": "",
+      "secenekler": [
+        "Fiilde gizli (müstetir) هُوَ zamiri",
+        "أَحْمَدُ (fâil)",
+        "الدَّرْسَ",
+        "Fâili yoktur"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "أَحْمَدُ fiilden önce geldiği için mübtedâdır; كَتَبَ fiilinin fâili gizli هُوَ zamiridir."
     }
   ]
 }

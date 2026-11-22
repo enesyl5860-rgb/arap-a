@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T22:56:57.936Z",
-  "totalItems": 289,
+  "generatedAt": "2026-11-22T23:16:18.633Z",
+  "totalItems": 400,
   "items": [
     {
       "id": "search_mod_01",
@@ -2686,6 +2686,1101 @@
       "subtitle": "Gramer Kuralı · M06",
       "ar": "كَلِمَاتٌ مُلَازِمَةٌ لِلْإِضَافَةِ (كُلّ، بَعْض، جَمِيع، غَيْر، مِثْل)",
       "keywords": "كُلُّ + Nekre Tekil ('her') | كُلُّ + Marife Çoğul ('bütün') | بَعْضُ / جَمِيعُ / غَيْرُ / مِثْلُ + MECRÛR! Arapçada özellikle okuma parçalarında ve YDS sınavlarında neredeyse her paragrafta karşımıza çıkan 5 özel kelime vardır "
+    },
+    {
+      "id": "search_card_m07_fc01",
+      "type": "card",
+      "moduleId": "07",
+      "title": "-de / içinde (fî)",
+      "subtitle": "SRS Kartı · M07 · Kök: —",
+      "ar": "فِي",
+      "kok": "—",
+      "keywords": "في حَرْفُ جَرٍّ harf"
+    },
+    {
+      "id": "search_card_m07_fc02",
+      "type": "card",
+      "moduleId": "07",
+      "title": "üzerinde / -e (‘alâ)",
+      "subtitle": "SRS Kartı · M07 · Kök: —",
+      "ar": "عَلَى",
+      "kok": "—",
+      "keywords": "على حَرْفُ جَرٍّ harf"
+    },
+    {
+      "id": "search_card_m07_fc03",
+      "type": "card",
+      "moduleId": "07",
+      "title": "-den / -dan (min)",
+      "subtitle": "SRS Kartı · M07 · Kök: —",
+      "ar": "مِنْ",
+      "kok": "—",
+      "keywords": "من حَرْفُ جَرٍّ harf"
+    },
+    {
+      "id": "search_card_m07_fc04",
+      "type": "card",
+      "moduleId": "07",
+      "title": "-e / -a doğru (ilâ)",
+      "subtitle": "SRS Kartı · M07 · Kök: —",
+      "ar": "إِلَى",
+      "kok": "—",
+      "keywords": "إلى حَرْفُ جَرٍّ harf"
+    },
+    {
+      "id": "search_card_m07_fc05",
+      "type": "card",
+      "moduleId": "07",
+      "title": "hakkında / -den (‘an)",
+      "subtitle": "SRS Kartı · M07 · Kök: —",
+      "ar": "عَنْ",
+      "kok": "—",
+      "keywords": "عن حَرْفُ جَرٍّ harf"
+    },
+    {
+      "id": "search_card_m07_fc06",
+      "type": "card",
+      "moduleId": "07",
+      "title": "ile / vasıtasıyla (bi-)",
+      "subtitle": "SRS Kartı · M07 · Kök: —",
+      "ar": "بِـ",
+      "kok": "—",
+      "keywords": "ب حَرْفُ جَرٍّ harf"
+    },
+    {
+      "id": "search_card_m07_fc07",
+      "type": "card",
+      "moduleId": "07",
+      "title": "için / -e ait (li- / le-)",
+      "subtitle": "SRS Kartı · M07 · Kök: —",
+      "ar": "لِـ",
+      "kok": "—",
+      "keywords": "ل حَرْفُ جَرٍّ harf"
+    },
+    {
+      "id": "search_card_m07_fc08",
+      "type": "card",
+      "moduleId": "07",
+      "title": "gibi (ke-)",
+      "subtitle": "SRS Kartı · M07 · Kök: —",
+      "ar": "كَـ",
+      "kok": "—",
+      "keywords": "ك حَرْفُ جَرٍّ harf"
+    },
+    {
+      "id": "search_card_m07_fc09",
+      "type": "card",
+      "moduleId": "07",
+      "title": "önünde (emâme)",
+      "subtitle": "SRS Kartı · M07 · Kök: أ م م",
+      "ar": "أَمَامَ",
+      "kok": "أ م م",
+      "keywords": "أمام فَعَال zarf"
+    },
+    {
+      "id": "search_card_m07_fc10",
+      "type": "card",
+      "moduleId": "07",
+      "title": "arkasında (halfe)",
+      "subtitle": "SRS Kartı · M07 · Kök: خ ل ف",
+      "ar": "خَلْفَ",
+      "kok": "خ ل ف",
+      "keywords": "خلف فَعْل zarf"
+    },
+    {
+      "id": "search_card_m07_fc11",
+      "type": "card",
+      "moduleId": "07",
+      "title": "üstünde / yukarısında (fevka)",
+      "subtitle": "SRS Kartı · M07 · Kök: ف و ق",
+      "ar": "فَوْقَ",
+      "kok": "ف و ق",
+      "keywords": "فوق فَعْل zarf"
+    },
+    {
+      "id": "search_card_m07_fc12",
+      "type": "card",
+      "moduleId": "07",
+      "title": "altında (tahte)",
+      "subtitle": "SRS Kartı · M07 · Kök: ت ح ت",
+      "ar": "تَحْتَ",
+      "kok": "ت ح ت",
+      "keywords": "تحت فَعْل zarf"
+    },
+    {
+      "id": "search_card_m07_fc13",
+      "type": "card",
+      "moduleId": "07",
+      "title": "arasında (beyne)",
+      "subtitle": "SRS Kartı · M07 · Kök: ب ي ن",
+      "ar": "بَيْنَ",
+      "kok": "ب ي ن",
+      "keywords": "بين فَعْل zarf"
+    },
+    {
+      "id": "search_card_m07_fc14",
+      "type": "card",
+      "moduleId": "07",
+      "title": "yanında (bi-cânibi)",
+      "subtitle": "SRS Kartı · M07 · Kök: ج ن ب",
+      "ar": "بِجَانِبِ",
+      "kok": "ج ن ب",
+      "keywords": "بجانب بِـ + فَاعِل zarf"
+    },
+    {
+      "id": "search_card_m07_fc15",
+      "type": "card",
+      "moduleId": "07",
+      "title": "etrafında / hakkında (havle)",
+      "subtitle": "SRS Kartı · M07 · Kök: ح و ل",
+      "ar": "حَوْلَ",
+      "kok": "ح و ل",
+      "keywords": "حول فَعْل zarf"
+    },
+    {
+      "id": "search_card_m07_fc16",
+      "type": "card",
+      "moduleId": "07",
+      "title": "yanında / -de var (‘inde)",
+      "subtitle": "SRS Kartı · M07 · Kök: ع ن د",
+      "ar": "عِنْدَ",
+      "kok": "ع ن د",
+      "keywords": "عند فِعْل zarf"
+    },
+    {
+      "id": "search_card_m07_fc17",
+      "type": "card",
+      "moduleId": "07",
+      "title": "ile / beraber / yanında (me‘a)",
+      "subtitle": "SRS Kartı · M07 · Kök: —",
+      "ar": "مَعَ",
+      "kok": "—",
+      "keywords": "مع ظَرْف zarf"
+    },
+    {
+      "id": "search_card_m07_fc18",
+      "type": "card",
+      "moduleId": "07",
+      "title": "önce (kable)",
+      "subtitle": "SRS Kartı · M07 · Kök: ق ب ل",
+      "ar": "قَبْلَ",
+      "kok": "ق ب ل",
+      "keywords": "قبل فَعْل zarf"
+    },
+    {
+      "id": "search_card_m07_fc19",
+      "type": "card",
+      "moduleId": "07",
+      "title": "sonra (ba‘de)",
+      "subtitle": "SRS Kartı · M07 · Kök: ب ع د",
+      "ar": "بَعْدَ",
+      "kok": "ب ع د",
+      "keywords": "بعد فَعْل zarf"
+    },
+    {
+      "id": "search_card_m07_fc20",
+      "type": "card",
+      "moduleId": "07",
+      "title": "orada / vardır (hunâke)",
+      "subtitle": "SRS Kartı · M07 · Kök: —",
+      "ar": "هُنَاكَ",
+      "kok": "—",
+      "keywords": "هناك اِسْمُ إِشَارَةٍ zarf"
+    },
+    {
+      "id": "search_card_m07_fc21",
+      "type": "card",
+      "moduleId": "07",
+      "title": "raf (raffun)",
+      "subtitle": "SRS Kartı · M07 · Kök: ر ف ف",
+      "ar": "رَفٌّ",
+      "kok": "ر ف ف",
+      "keywords": "رف فَعْل isim"
+    },
+    {
+      "id": "search_card_m07_fc22",
+      "type": "card",
+      "moduleId": "07",
+      "title": "lamba (misbâhun)",
+      "subtitle": "SRS Kartı · M07 · Kök: ص ب ح",
+      "ar": "مِصْبَاحٌ",
+      "kok": "ص ب ح",
+      "keywords": "مصباح مِفْعَال isim"
+    },
+    {
+      "id": "search_card_m07_fc23",
+      "type": "card",
+      "moduleId": "07",
+      "title": "cadde / sokak (şâri‘un)",
+      "subtitle": "SRS Kartı · M07 · Kök: ش ر ع",
+      "ar": "شَارِعٌ",
+      "kok": "ش ر ع",
+      "keywords": "شارع فَاعِل isim"
+    },
+    {
+      "id": "search_card_m07_fc24",
+      "type": "card",
+      "moduleId": "07",
+      "title": "istasyon / durak (mahattatun)",
+      "subtitle": "SRS Kartı · M07 · Kök: ح ط ط",
+      "ar": "مَحَطَّةٌ",
+      "kok": "ح ط ط",
+      "keywords": "محطة مَفْعَلَة isim"
+    },
+    {
+      "id": "search_card_m07_fc25",
+      "type": "card",
+      "moduleId": "07",
+      "title": "tren (kitârun)",
+      "subtitle": "SRS Kartı · M07 · Kök: ق ط ر",
+      "ar": "قِطَارٌ",
+      "kok": "ق ط ر",
+      "keywords": "قطار فِعَال isim"
+    },
+    {
+      "id": "search_card_m07_fc26",
+      "type": "card",
+      "moduleId": "07",
+      "title": "otobüs (hâfiletun)",
+      "subtitle": "SRS Kartı · M07 · Kök: ح ف ل",
+      "ar": "حَافِلَةٌ",
+      "kok": "ح ف ل",
+      "keywords": "حافلة فَاعِلَة isim"
+    },
+    {
+      "id": "search_card_m07_fc27",
+      "type": "card",
+      "moduleId": "07",
+      "title": "daire (apartman) (şakkatun)",
+      "subtitle": "SRS Kartı · M07 · Kök: ش ق ق",
+      "ar": "شَقَّةٌ",
+      "kok": "ش ق ق",
+      "keywords": "شقة فَعْلَة isim"
+    },
+    {
+      "id": "search_card_m07_fc28",
+      "type": "card",
+      "moduleId": "07",
+      "title": "kat (bina katı) (tâbakun)",
+      "subtitle": "SRS Kartı · M07 · Kök: ط ب ق",
+      "ar": "طَابَقٌ",
+      "kok": "ط ب ق",
+      "keywords": "طابق فَاعَل isim"
+    },
+    {
+      "id": "search_card_m07_fc29",
+      "type": "card",
+      "moduleId": "07",
+      "title": "balkon (şurfetun)",
+      "subtitle": "SRS Kartı · M07 · Kök: ش ر ف",
+      "ar": "شُرْفَةٌ",
+      "kok": "ش ر ف",
+      "keywords": "شرفة فُعْلَة isim"
+    },
+    {
+      "id": "search_card_m07_fc30",
+      "type": "card",
+      "moduleId": "07",
+      "title": "müze (methafun)",
+      "subtitle": "SRS Kartı · M07 · Kök: ت ح ف",
+      "ar": "مَتْحَفٌ",
+      "kok": "ت ح ف",
+      "keywords": "متحف مَفْعَل isim"
+    },
+    {
+      "id": "search_card_m07_fc31",
+      "type": "card",
+      "moduleId": "07",
+      "title": "yakın (karîbun)",
+      "subtitle": "SRS Kartı · M07 · Kök: ق ر ب",
+      "ar": "قَرِيبٌ",
+      "kok": "ق ر ب",
+      "keywords": "قريب فَعِيل sifat"
+    },
+    {
+      "id": "search_card_m07_fc32",
+      "type": "card",
+      "moduleId": "07",
+      "title": "uzak (ba‘îdun)",
+      "subtitle": "SRS Kartı · M07 · Kök: ب ع د",
+      "ar": "بَعِيدٌ",
+      "kok": "ب ع د",
+      "keywords": "بعيد فَعِيل sifat"
+    },
+    {
+      "id": "search_gram_m07_g1",
+      "type": "grammar",
+      "moduleId": "07",
+      "title": "Temel Harf-i Cerler ve İsimleri Mecrûr (Kesralı) Yapma Kuralı",
+      "subtitle": "Gramer Kuralı · M07",
+      "ar": "حُرُوفُ الْجَرِّ وَالِاسْمُ الْمَجْرُورُ",
+      "keywords": "Harf-i Cer (فِي / عَلَى / مِنْ / إِلَى / عَنْ / بِـ / لِـ / كَـ) + İsim (MECRÛR: ـِ marife / ـٍ nekre) Türkçede 'evDE, okulA, çarşıDAN, kalemLE, arkadaş İÇİN' derken ismin SONUNA hâl ekleri (-de, -e, -den, -le) getiririz. A"
+    },
+    {
+      "id": "search_gram_m07_g2",
+      "type": "grammar",
+      "moduleId": "07",
+      "title": "Yer ve Zaman Zarfları (Zarf-ı Mekân & Zarf-ı Zamân)",
+      "subtitle": "Gramer Kuralı · M07",
+      "ar": "ظَرْفُ الْمَكَانِ وَظَرْفُ الزَّمَانِ",
+      "keywords": "Zarf (Mansub: أَمَامَ / خَلْفَ / فَوْقَ / تَحْتَ / بَيْنَ / عِنْدَ / قَبْلَ / بَعْدَ) + Muzâfun İleyh (DAİMA MECRÛR!) Harf-i cerler dışında, bir nesnenin tam konumunu ('önünde, arkasında, üstünde, altında, arasında, yanında') veya zamanın"
+    },
+    {
+      "id": "search_gram_m07_g3",
+      "type": "grammar",
+      "moduleId": "07",
+      "title": "Şibh-i Cümle & Haberin Mübtedâdan Öne Geçmesi (تَقْدِيمُ الْخَبَرِ)",
+      "subtitle": "Gramer Kuralı · M07",
+      "ar": "شِبْهُ الْجُمْلَةِ وَتَقْدِيمُ الْخَبَرِ عَلَى الْمُبْتَدَأِ",
+      "keywords": "Marife Mübtedâ + Şibh-i Cümle = '... -dedir'  |  Şibh-i Cümle (Öne Geçen Haber) + Nekre Mübtedâ = '...-de ... VARDIR' Arapçada **Harf-i Cer + Mecrûr** (`فِي الْبَيْتِ`) veya **Zarf + Muzâfun İleyh** (`أَمَامَ الْبَيْتِ`) öbeğine **Şibh-i "
+    },
+    {
+      "id": "search_gram_m07_g4",
+      "type": "grammar",
+      "moduleId": "07",
+      "title": "Sahiplik ve 'Var / Yok' Yapıları (عِنْدَ · لِـ · مَعَ · هُنَاكَ)",
+      "subtitle": "Gramer Kuralı · M07",
+      "ar": "التَّعْبِيرُ عَنِ الْمِلْكِيَّةِ وَالْوُجُودِ (عِنْدَ / لِـ / مَعَ / هُنَاكَ)",
+      "keywords": "عِنْدِي / لِي / مَعِي / هُنَاكَ (Öne Geçen Haber) + Sahip Olunan Şey (MERFÛ Mübtedâ!) Türkçede 'Benim bir kitabım var', 'İki kardeşim var', 'Yanımda kalem var' derken hep 'var' kelimesini kullanırız; İngili"
+    },
+    {
+      "id": "search_gram_m07_g5",
+      "type": "grammar",
+      "moduleId": "07",
+      "title": "Harf-i Cerlerin Zamirlere Bitişmesi ve Ses Değişimleri",
+      "subtitle": "Gramer Kuralı · M07",
+      "ar": "اِتِّصَالُ حُرُوفِ الْجَرِّ بِالضَّمَائِرِ",
+      "keywords": "عَلَى/إِلَى + Zamir → عَلَيْـ/إِلَيْـ  |  لِـ + Zamir → لَـ (sadece لِي)  |  مِنْ/عَنْ + نِي/نَا → مِنِّي/عَنَّا Türkçede 'bende, sende, onda, benimle, seninle, onun için, bana, sana' dediğimiz gibi Arapçada da harf-i cerler doğrudan"
+    },
+    {
+      "id": "search_card_m08_fc01",
+      "type": "card",
+      "moduleId": "08",
+      "title": "... mı / mi? (Soru harfi) (hel)",
+      "subtitle": "SRS Kartı · M08 · Kök: —",
+      "ar": "هَلْ",
+      "kok": "—",
+      "keywords": "هل حَرْفُ اسْتِفْهَامٍ harf"
+    },
+    {
+      "id": "search_card_m08_fc02",
+      "type": "card",
+      "moduleId": "08",
+      "title": "yoksa / mı? (em)",
+      "subtitle": "SRS Kartı · M08 · Kök: —",
+      "ar": "أَمْ",
+      "kok": "—",
+      "keywords": "أم حَرْفُ عَطْفٍ harf"
+    },
+    {
+      "id": "search_card_m08_fc03",
+      "type": "card",
+      "moduleId": "08",
+      "title": "ne? (İsimlerle) (mâ)",
+      "subtitle": "SRS Kartı · M08 · Kök: —",
+      "ar": "مَا",
+      "kok": "—",
+      "keywords": "ما اِسْمُ اسْتِفْهَامٍ soru"
+    },
+    {
+      "id": "search_card_m08_fc04",
+      "type": "card",
+      "moduleId": "08",
+      "title": "ne? (Fiillerle) (mâzâ)",
+      "subtitle": "SRS Kartı · M08 · Kök: —",
+      "ar": "مَاذَا",
+      "kok": "—",
+      "keywords": "ماذا اِسْمُ اسْتِفْهَامٍ soru"
+    },
+    {
+      "id": "search_card_m08_fc05",
+      "type": "card",
+      "moduleId": "08",
+      "title": "kim? (men)",
+      "subtitle": "SRS Kartı · M08 · Kök: —",
+      "ar": "مَنْ",
+      "kok": "—",
+      "keywords": "من اِسْمُ اسْتِفْهَامٍ soru"
+    },
+    {
+      "id": "search_card_m08_fc06",
+      "type": "card",
+      "moduleId": "08",
+      "title": "nerede? (eyne)",
+      "subtitle": "SRS Kartı · M08 · Kök: —",
+      "ar": "أَيْنَ",
+      "kok": "—",
+      "keywords": "أين اِسْمُ اسْتِفْهَامٍ soru"
+    },
+    {
+      "id": "search_card_m08_fc07",
+      "type": "card",
+      "moduleId": "08",
+      "title": "ne zaman? (metâ)",
+      "subtitle": "SRS Kartı · M08 · Kök: —",
+      "ar": "مَتَى",
+      "kok": "—",
+      "keywords": "متى اِسْمُ اسْتِفْهَامٍ soru"
+    },
+    {
+      "id": "search_card_m08_fc08",
+      "type": "card",
+      "moduleId": "08",
+      "title": "nasıl? (keyfe)",
+      "subtitle": "SRS Kartı · M08 · Kök: —",
+      "ar": "كَيْفَ",
+      "kok": "—",
+      "keywords": "كيف اِسْمُ اسْتِفْهَامٍ soru"
+    },
+    {
+      "id": "search_card_m08_fc09",
+      "type": "card",
+      "moduleId": "08",
+      "title": "niçin / neden? (limâzâ)",
+      "subtitle": "SRS Kartı · M08 · Kök: —",
+      "ar": "لِمَاذَا",
+      "kok": "—",
+      "keywords": "لماذا اِسْمُ اسْتِفْهَامٍ soru"
+    },
+    {
+      "id": "search_card_m08_fc10",
+      "type": "card",
+      "moduleId": "08",
+      "title": "kaç? (kem)",
+      "subtitle": "SRS Kartı · M08 · Kök: —",
+      "ar": "كَمْ",
+      "kok": "—",
+      "keywords": "كم اِسْمُ اسْتِفْهَامٍ soru"
+    },
+    {
+      "id": "search_card_m08_fc11",
+      "type": "card",
+      "moduleId": "08",
+      "title": "hangi? (eyyu)",
+      "subtitle": "SRS Kartı · M08 · Kök: —",
+      "ar": "أَيُّ",
+      "kok": "—",
+      "keywords": "أي اِسْمُ اسْتِفْهَامٍ soru"
+    },
+    {
+      "id": "search_card_m08_fc12",
+      "type": "card",
+      "moduleId": "08",
+      "title": "kaça / ne kadar? (bi-kem)",
+      "subtitle": "SRS Kartı · M08 · Kök: —",
+      "ar": "بِكَمْ",
+      "kok": "—",
+      "keywords": "بكم بِـ + كَمْ soru"
+    },
+    {
+      "id": "search_card_m08_fc13",
+      "type": "card",
+      "moduleId": "08",
+      "title": "ne hakkında / neyi? (‘amme)",
+      "subtitle": "SRS Kartı · M08 · Kök: —",
+      "ar": "عَمَّ",
+      "kok": "—",
+      "keywords": "عم عَنْ + مَا soru"
+    },
+    {
+      "id": "search_card_m08_fc14",
+      "type": "card",
+      "moduleId": "08",
+      "title": "hangi konuda / neyi? (fîme)",
+      "subtitle": "SRS Kartı · M08 · Kök: —",
+      "ar": "فِيمَ",
+      "kok": "—",
+      "keywords": "فيم فِي + مَا soru"
+    },
+    {
+      "id": "search_card_m08_fc15",
+      "type": "card",
+      "moduleId": "08",
+      "title": "ne ile / neyle? (bime)",
+      "subtitle": "SRS Kartı · M08 · Kök: —",
+      "ar": "بِمَ",
+      "kok": "—",
+      "keywords": "بم بِـ + مَا soru"
+    },
+    {
+      "id": "search_card_m08_fc16",
+      "type": "card",
+      "moduleId": "08",
+      "title": "neyden / nelerden? (mimme)",
+      "subtitle": "SRS Kartı · M08 · Kök: —",
+      "ar": "مِمَّ",
+      "kok": "—",
+      "keywords": "مم مِنْ + مَا soru"
+    },
+    {
+      "id": "search_card_m08_fc17",
+      "type": "card",
+      "moduleId": "08",
+      "title": "niçin? (lime)",
+      "subtitle": "SRS Kartı · M08 · Kök: —",
+      "ar": "لِمَ",
+      "kok": "—",
+      "keywords": "لم لِـ + مَا soru"
+    },
+    {
+      "id": "search_card_m08_fc18",
+      "type": "card",
+      "moduleId": "08",
+      "title": "evet (ne‘am)",
+      "subtitle": "SRS Kartı · M08 · Kök: ن ع م",
+      "ar": "نَعَمْ",
+      "kok": "ن ع م",
+      "keywords": "نعم حَرْفُ جَوَابٍ harf"
+    },
+    {
+      "id": "search_card_m08_fc19",
+      "type": "card",
+      "moduleId": "08",
+      "title": "bilakis / elbette (evet!) (belâ)",
+      "subtitle": "SRS Kartı · M08 · Kök: —",
+      "ar": "بَلَى",
+      "kok": "—",
+      "keywords": "بلى حَرْفُ جَوَابٍ harf"
+    },
+    {
+      "id": "search_card_m08_fc20",
+      "type": "card",
+      "moduleId": "08",
+      "title": "affedersiniz / izninizle (lev semahte)",
+      "subtitle": "SRS Kartı · M08 · Kök: س م ح",
+      "ar": "لَوْ سَمَحْتَ",
+      "kok": "س م ح",
+      "keywords": "لو سمحت تَعْبِيرٌ ifade"
+    },
+    {
+      "id": "search_card_m08_fc21",
+      "type": "card",
+      "moduleId": "08",
+      "title": "lütfen (E) (min fadlike)",
+      "subtitle": "SRS Kartı · M08 · Kök: ف ض ل",
+      "ar": "مِنْ فَضْلِكَ",
+      "kok": "ف ض ل",
+      "keywords": "من فضلك تَعْبِيرٌ ifade"
+    },
+    {
+      "id": "search_card_m08_fc22",
+      "type": "card",
+      "moduleId": "08",
+      "title": "buyurun (E) (tefaddal)",
+      "subtitle": "SRS Kartı · M08 · Kök: ف ض ل",
+      "ar": "تَفَضَّلْ",
+      "kok": "ف ض ل",
+      "keywords": "تفضل تَفَعَّلْ ifade"
+    },
+    {
+      "id": "search_card_m08_fc23",
+      "type": "card",
+      "moduleId": "08",
+      "title": "memnuniyetle (bi-kulli surûrin)",
+      "subtitle": "SRS Kartı · M08 · Kök: س ر ر",
+      "ar": "بِكُلِّ سُرُورٍ",
+      "kok": "س ر ر",
+      "keywords": "بكل سرور تَعْبِيرٌ ifade"
+    },
+    {
+      "id": "search_card_m08_fc24",
+      "type": "card",
+      "moduleId": "08",
+      "title": "önemli değil / sorun yok (lâ be'se)",
+      "subtitle": "SRS Kartı · M08 · Kök: ب أ س",
+      "ar": "لَا بَأْسَ",
+      "kok": "ب أ س",
+      "keywords": "لا بأس تَعْبِيرٌ ifade"
+    },
+    {
+      "id": "search_card_m08_fc25",
+      "type": "card",
+      "moduleId": "08",
+      "title": "pasaport (cevâzu's-seferi)",
+      "subtitle": "SRS Kartı · M08 · Kök: ج و ز",
+      "ar": "جَوَازُ السَّفَرِ",
+      "kok": "ج و ز",
+      "keywords": "جواز السفر إِضَافَة isim"
+    },
+    {
+      "id": "search_card_m08_fc26",
+      "type": "card",
+      "moduleId": "08",
+      "title": "adres / başlık (‘unvânun)",
+      "subtitle": "SRS Kartı · M08 · Kök: ع ن ن",
+      "ar": "عُنْوَانٌ",
+      "kok": "ع ن ن",
+      "keywords": "عنوان فُعْلَان isim"
+    },
+    {
+      "id": "search_card_m08_fc27",
+      "type": "card",
+      "moduleId": "08",
+      "title": "görüş / fikir (ra'yun)",
+      "subtitle": "SRS Kartı · M08 · Kök: ر أ ي",
+      "ar": "رَأْيٌ",
+      "kok": "ر أ ي",
+      "keywords": "رأي فَعْل isim"
+    },
+    {
+      "id": "search_card_m08_fc28",
+      "type": "card",
+      "moduleId": "08",
+      "title": "soru (suâlun)",
+      "subtitle": "SRS Kartı · M08 · Kök: س أ ل",
+      "ar": "سُؤَالٌ",
+      "kok": "س أ ل",
+      "keywords": "سؤال فُعَال isim"
+    },
+    {
+      "id": "search_card_m08_fc29",
+      "type": "card",
+      "moduleId": "08",
+      "title": "cevap / yanıt (cevâbun)",
+      "subtitle": "SRS Kartı · M08 · Kök: ج و ب",
+      "ar": "جَوَابٌ",
+      "kok": "ج و ب",
+      "keywords": "جواب فَعَال isim"
+    },
+    {
+      "id": "search_card_m08_fc30",
+      "type": "card",
+      "moduleId": "08",
+      "title": "fiyat (si‘run)",
+      "subtitle": "SRS Kartı · M08 · Kök: س ع ر",
+      "ar": "سِعْرٌ",
+      "kok": "س ع ر",
+      "keywords": "سعر فِعْل isim"
+    },
+    {
+      "id": "search_card_m08_fc31",
+      "type": "card",
+      "moduleId": "08",
+      "title": "muayenehane / klinik (‘iyâdetun)",
+      "subtitle": "SRS Kartı · M08 · Kök: ع و د",
+      "ar": "عِيَادَةٌ",
+      "kok": "ع و د",
+      "keywords": "عيادة فِعَالَة isim"
+    },
+    {
+      "id": "search_card_m08_fc32",
+      "type": "card",
+      "moduleId": "08",
+      "title": "baş ağrısı (sudâ‘un)",
+      "subtitle": "SRS Kartı · M08 · Kök: ص د ع",
+      "ar": "صُدَاعٌ",
+      "kok": "ص د ع",
+      "keywords": "صداع فُعَال isim"
+    },
+    {
+      "id": "search_gram_m08_g1",
+      "type": "grammar",
+      "moduleId": "08",
+      "title": "هَلْ ve أَ Soru Harfleri ile Seçenek Sorusu (أَ... أَمْ...)",
+      "subtitle": "Gramer Kuralı · M08",
+      "ar": "حَرْفَا الِاسْتِفْهَامِ: هَلْ وَالْهَمْزَةُ (أَ)",
+      "keywords": "Evet/Hayır: هَلْ / أَ + Cümle → نَعَمْ (Evet) / لَا (Hayır)  |  Seçenek: أَ + Seçenek 1 + أَمْ + Seçenek 2؟ Türkçede 'Öğrenci misin?', 'Kitabı okudun mu?' derken soru eki (-mi, -mu) cümlenin SONUNA veya ortasına gelir. Arapçada "
+    },
+    {
+      "id": "search_gram_m08_g2",
+      "type": "grammar",
+      "moduleId": "08",
+      "title": "Temel 6 Soru İsmi (مَا/مَاذَا · مَنْ · أَيْنَ · مَتَى · كَيْفَ · لِمَاذَا)",
+      "subtitle": "Gramer Kuralı · M08",
+      "ar": "أَسْمَاءُ الِاسْتِفْهَامِ الْأَسَاسِيَّةُ",
+      "keywords": "مَا (İsimle) / مَاذَا (Fiille) · مَنْ (Kim) · أَيْنَ (Nerede) · مَتَى (Ne zaman) · كَيْفَ (Nasıl) · لِمَاذَا (Niçin) Günlük hayatta bilgi almak için kullandığımız 'Ne, Kim, Nerede, Ne zaman, Nasıl, Niçin' soruları Arapçada **Soru İsimler"
+    },
+    {
+      "id": "search_gram_m08_g3",
+      "type": "grammar",
+      "moduleId": "08",
+      "title": "كَمْ (Kaç?) ve أَيُّ / أَيَّةُ (Hangi?) Soru İsimlerinin Özel Kuralları",
+      "subtitle": "Gramer Kuralı · M08",
+      "ar": "أَحْكَامُ «كَمْ» الِاسْتِفْهَامِيَّةِ وَ«أَيِّ»",
+      "keywords": "كَمْ + Tekil Nekre Mansub İsim (كَمْ كِتَابًا؟)  |  أَيُّ / أَيَّ / أَيِّ + Mecrûr Muzâfun İleyh (فِي أَيِّ يَوْمٍ؟) Arapçada diğer tüm soru isimleri son harekesi değişmeyen (mebnî) kelimelerdir; fakat **كَمْ** (Kaç?) ve **أَيُّ** (Hangi"
+    },
+    {
+      "id": "search_gram_m08_g4",
+      "type": "grammar",
+      "moduleId": "08",
+      "title": "Harf-i Cer + Soru مَا Birleşmeleri (لِمَ · بِمَ · عَمَّ · فِيمَ · مِمَّ)",
+      "subtitle": "Gramer Kuralı · M08",
+      "ar": "دُخُولُ حُرُوفِ الْجَرِّ عَلَى «مَا» الِاسْتِفْهَامِيَّةِ",
+      "keywords": "Harf-i Cer + Soru مَا → Elif DÜŞER (مَ):  لِمَ · بِمَ · فِيمَ · عَمَّ · مِمَّ · إِلَامَ · عَلَامَ Arapçanın en zarif imlâ ve ses kurallarından biriyle tanışmaya hazır mısın? Kur'an-ı Kerim'de (`عَمَّ يَتَسَاءَلُونَ` — "
+    },
+    {
+      "id": "search_gram_m08_g5",
+      "type": "grammar",
+      "moduleId": "08",
+      "title": "Olumsuz Soruya بَلَى Cevabı & Günlük İletişimde Nezaket Kalıpları",
+      "subtitle": "Gramer Kuralı · M08",
+      "ar": "الْجَوَابُ بِـ«بَلَى» وَأَسَالِيبُ التَّوَاصُلِ الْمُهَذَّبِ",
+      "keywords": "Olumsuz Soru (أَلَيْسَ / أَلَمْ / أَلَا) → Olumlu Cevap: بَلَى!  |  Olumsuz Cevap: نَعَمْ (lâ/leyse...) Arapçanın mantık harikalarından biri: Biri sana **OLUMSUZ BİR SORU** sorarsa — örneğin `أَلَيْسَ الْكِتَابُ مُفِيدًا؟` ("
+    },
+    {
+      "id": "search_card_m09_fc01",
+      "type": "card",
+      "moduleId": "09",
+      "title": "yazdı (ketebe)",
+      "subtitle": "SRS Kartı · M09 · Kök: ك ت ب",
+      "ar": "كَتَبَ",
+      "kok": "ك ت ب",
+      "keywords": "كتب فَعَلَ fiil"
+    },
+    {
+      "id": "search_card_m09_fc02",
+      "type": "card",
+      "moduleId": "09",
+      "title": "okudu (karae)",
+      "subtitle": "SRS Kartı · M09 · Kök: ق ر أ",
+      "ar": "قَرَأَ",
+      "kok": "ق ر أ",
+      "keywords": "قرأ فَعَلَ fiil"
+    },
+    {
+      "id": "search_card_m09_fc03",
+      "type": "card",
+      "moduleId": "09",
+      "title": "anladı (fehime)",
+      "subtitle": "SRS Kartı · M09 · Kök: ف ه م",
+      "ar": "فَهِمَ",
+      "kok": "ف ه م",
+      "keywords": "فهم فَعِلَ fiil"
+    },
+    {
+      "id": "search_card_m09_fc04",
+      "type": "card",
+      "moduleId": "09",
+      "title": "gitti (zehebe)",
+      "subtitle": "SRS Kartı · M09 · Kök: ذ ه ب",
+      "ar": "ذَهَبَ",
+      "kok": "ذ ه ب",
+      "keywords": "ذهب فَعَلَ fiil"
+    },
+    {
+      "id": "search_card_m09_fc05",
+      "type": "card",
+      "moduleId": "09",
+      "title": "döndü (raca‘a)",
+      "subtitle": "SRS Kartı · M09 · Kök: ر ج ع",
+      "ar": "رَجَعَ",
+      "kok": "ر ج ع",
+      "keywords": "رجع فَعَلَ fiil"
+    },
+    {
+      "id": "search_card_m09_fc06",
+      "type": "card",
+      "moduleId": "09",
+      "title": "girdi (dehale)",
+      "subtitle": "SRS Kartı · M09 · Kök: د خ ل",
+      "ar": "دَخَلَ",
+      "kok": "د خ ل",
+      "keywords": "دخل فَعَلَ fiil"
+    },
+    {
+      "id": "search_card_m09_fc07",
+      "type": "card",
+      "moduleId": "09",
+      "title": "çıktı (harace)",
+      "subtitle": "SRS Kartı · M09 · Kök: خ ر ج",
+      "ar": "خَرَجَ",
+      "kok": "خ ر ج",
+      "keywords": "خرج فَعَلَ fiil"
+    },
+    {
+      "id": "search_card_m09_fc08",
+      "type": "card",
+      "moduleId": "09",
+      "title": "oturdu (celese)",
+      "subtitle": "SRS Kartı · M09 · Kök: ج ل س",
+      "ar": "جَلَسَ",
+      "kok": "ج ل س",
+      "keywords": "جلس فَعَلَ fiil"
+    },
+    {
+      "id": "search_card_m09_fc09",
+      "type": "card",
+      "moduleId": "09",
+      "title": "açtı (feteha)",
+      "subtitle": "SRS Kartı · M09 · Kök: ف ت ح",
+      "ar": "فَتَحَ",
+      "kok": "ف ت ح",
+      "keywords": "فتح فَعَلَ fiil"
+    },
+    {
+      "id": "search_card_m09_fc10",
+      "type": "card",
+      "moduleId": "09",
+      "title": "içti (şeribe)",
+      "subtitle": "SRS Kartı · M09 · Kök: ش ر ب",
+      "ar": "شَرِبَ",
+      "kok": "ش ر ب",
+      "keywords": "شرب فَعِلَ fiil"
+    },
+    {
+      "id": "search_card_m09_fc11",
+      "type": "card",
+      "moduleId": "09",
+      "title": "yedi (ekele)",
+      "subtitle": "SRS Kartı · M09 · Kök: أ ك ل",
+      "ar": "أَكَلَ",
+      "kok": "أ ك ل",
+      "keywords": "أكل فَعَلَ fiil"
+    },
+    {
+      "id": "search_card_m09_fc12",
+      "type": "card",
+      "moduleId": "09",
+      "title": "duydu / işitti (semi‘a)",
+      "subtitle": "SRS Kartı · M09 · Kök: س م ع",
+      "ar": "سَمِعَ",
+      "kok": "س م ع",
+      "keywords": "سمع فَعِلَ fiil"
+    },
+    {
+      "id": "search_card_m09_fc13",
+      "type": "card",
+      "moduleId": "09",
+      "title": "anlattı / açıkladı (şeraha)",
+      "subtitle": "SRS Kartı · M09 · Kök: ش ر ح",
+      "ar": "شَرَحَ",
+      "kok": "ش ر ح",
+      "keywords": "شرح فَعَلَ fiil"
+    },
+    {
+      "id": "search_card_m09_fc14",
+      "type": "card",
+      "moduleId": "09",
+      "title": "başardı / sınavı geçti (necaha)",
+      "subtitle": "SRS Kartı · M09 · Kök: ن ج ح",
+      "ar": "نَجَحَ",
+      "kok": "ن ج ح",
+      "keywords": "نجح فَعَلَ fiil"
+    },
+    {
+      "id": "search_card_m09_fc15",
+      "type": "card",
+      "moduleId": "09",
+      "title": "katıldı / hazır bulundu (hadara)",
+      "subtitle": "SRS Kartı · M09 · Kök: ح ض ر",
+      "ar": "حَضَرَ",
+      "kok": "ح ض ر",
+      "keywords": "حضر فَعَلَ fiil"
+    },
+    {
+      "id": "search_card_m09_fc16",
+      "type": "card",
+      "moduleId": "09",
+      "title": "ulaştı / vardı (vasale)",
+      "subtitle": "SRS Kartı · M09 · Kök: و ص ل",
+      "ar": "وَصَلَ",
+      "kok": "و ص ل",
+      "keywords": "وصل فَعَلَ fiil"
+    },
+    {
+      "id": "search_card_m09_fc17",
+      "type": "card",
+      "moduleId": "09",
+      "title": "ezberledi / korudu (hafiza)",
+      "subtitle": "SRS Kartı · M09 · Kök: ح ف ظ",
+      "ar": "حَفِظَ",
+      "kok": "ح ف ظ",
+      "keywords": "حفظ فَعِلَ fiil"
+    },
+    {
+      "id": "search_card_m09_fc18",
+      "type": "card",
+      "moduleId": "09",
+      "title": "sevindi (feriha)",
+      "subtitle": "SRS Kartı · M09 · Kök: ف ر ح",
+      "ar": "فَرِحَ",
+      "kok": "ف ر ح",
+      "keywords": "فرح فَعِلَ fiil"
+    },
+    {
+      "id": "search_card_m09_fc19",
+      "type": "card",
+      "moduleId": "09",
+      "title": "oynadı (le‘ibe)",
+      "subtitle": "SRS Kartı · M09 · Kök: ل ع ب",
+      "ar": "لَعِبَ",
+      "kok": "ل ع ب",
+      "keywords": "لعب فَعِلَ fiil"
+    },
+    {
+      "id": "search_card_m09_fc20",
+      "type": "card",
+      "moduleId": "09",
+      "title": "çalıştı / iş yaptı (‘amile)",
+      "subtitle": "SRS Kartı · M09 · Kök: ع م ل",
+      "ar": "عَمِلَ",
+      "kok": "ع م ل",
+      "keywords": "عمل فَعِلَ fiil"
+    },
+    {
+      "id": "search_card_m09_fc21",
+      "type": "card",
+      "moduleId": "09",
+      "title": "pişirdi (tabaha)",
+      "subtitle": "SRS Kartı · M09 · Kök: ط ب خ",
+      "ar": "طَبَخَ",
+      "kok": "ط ب خ",
+      "keywords": "طبخ فَعَلَ fiil"
+    },
+    {
+      "id": "search_card_m09_fc22",
+      "type": "card",
+      "moduleId": "09",
+      "title": "çizdi (raseme)",
+      "subtitle": "SRS Kartı · M09 · Kök: ر س م",
+      "ar": "رَسَمَ",
+      "kok": "ر س م",
+      "keywords": "رسم فَعَلَ fiil"
+    },
+    {
+      "id": "search_card_m09_fc23",
+      "type": "card",
+      "moduleId": "09",
+      "title": "teşekkür etti / şükretti (şekera)",
+      "subtitle": "SRS Kartı · M09 · Kök: ش ك ر",
+      "ar": "شَكَرَ",
+      "kok": "ش ك ر",
+      "keywords": "شكر فَعَلَ fiil"
+    },
+    {
+      "id": "search_card_m09_fc24",
+      "type": "card",
+      "moduleId": "09",
+      "title": "göründü / ortaya çıktı (zahera)",
+      "subtitle": "SRS Kartı · M09 · Kök: ظ ه ر",
+      "ar": "ظَهَرَ",
+      "kok": "ظ ه ر",
+      "keywords": "ظهر فَعَلَ fiil"
+    },
+    {
+      "id": "search_card_m09_fc25",
+      "type": "card",
+      "moduleId": "09",
+      "title": "düştü / döküldü (sakata)",
+      "subtitle": "SRS Kartı · M09 · Kök: س ق ط",
+      "ar": "سَقَطَ",
+      "kok": "س ق ط",
+      "keywords": "سقط فَعَلَ fiil"
+    },
+    {
+      "id": "search_card_m09_fc26",
+      "type": "card",
+      "moduleId": "09",
+      "title": "indi / yağdı (nezele)",
+      "subtitle": "SRS Kartı · M09 · Kök: ن ز ل",
+      "ar": "نَزَلَ",
+      "kok": "ن ز ل",
+      "keywords": "نزل فَعَلَ fiil"
+    },
+    {
+      "id": "search_card_m09_fc27",
+      "type": "card",
+      "moduleId": "09",
+      "title": "muhakkak / -mış (Mâzi önünde) (kad)",
+      "subtitle": "SRS Kartı · M09 · Kök: —",
+      "ar": "قَدْ",
+      "kok": "—",
+      "keywords": "قد حَرْفُ تَحْقِيقٍ harf"
+    },
+    {
+      "id": "search_card_m09_fc28",
+      "type": "card",
+      "moduleId": "09",
+      "title": "gerçekten / şüphesiz (lekad)",
+      "subtitle": "SRS Kartı · M09 · Kök: —",
+      "ar": "لَقَدْ",
+      "kok": "—",
+      "keywords": "لقد لَـ + قَدْ harf"
+    },
+    {
+      "id": "search_card_m09_fc29",
+      "type": "card",
+      "moduleId": "09",
+      "title": "dün (emsi)",
+      "subtitle": "SRS Kartı · M09 · Kök: أ م س",
+      "ar": "أَمْسِ",
+      "kok": "أ م س",
+      "keywords": "أمس ظَرْفُ زَمَانٍ zarf"
+    },
+    {
+      "id": "search_card_m09_fc30",
+      "type": "card",
+      "moduleId": "09",
+      "title": "sonra / ardından (summe)",
+      "subtitle": "SRS Kartı · M09 · Kök: —",
+      "ar": "ثُمَّ",
+      "kok": "—",
+      "keywords": "ثم حَرْفُ عَطْفٍ harf"
+    },
+    {
+      "id": "search_card_m09_fc31",
+      "type": "card",
+      "moduleId": "09",
+      "title": "sonuç (netîcetun)",
+      "subtitle": "SRS Kartı · M09 · Kök: ن ت ج",
+      "ar": "نَتِيجَةٌ",
+      "kok": "ن ت ج",
+      "keywords": "نتيجة فَعِيلَة isim"
+    },
+    {
+      "id": "search_card_m09_fc32",
+      "type": "card",
+      "moduleId": "09",
+      "title": "rapor (takrîrun)",
+      "subtitle": "SRS Kartı · M09 · Kök: ق ر ر",
+      "ar": "تَقْرِيرٌ",
+      "kok": "ق ر ر",
+      "keywords": "تقرير تَفْعِيل isim"
+    },
+    {
+      "id": "search_gram_m09_g1",
+      "type": "grammar",
+      "moduleId": "09",
+      "title": "Sülâsî Mâzi Fiilin Mantığı ve 14 Şahıs Çekimi",
+      "subtitle": "Gramer Kuralı · M09",
+      "ar": "تَصْرِيفُ الْفِعْلِ الْمَاضِي الثُّلَاثِيِّ (١٤ صِيغَةً)",
+      "keywords": "Mâzi Fiil = 3 Harfli Kök (فَعَلَ / فَعِلَ / فَعُلَ) + Sona Gelen Şahıs Eki (ـَا / ـُوا / ـَتْ / ـْنَ / ـْتَ / ـْتِ / ـْتُمْ / ـْتُ / ـْنَا) Arapçada fiillerin temel sözlük hâli Türkçedeki gibi mastar ('yazmak') değil, 3. tekil eril geçmiş zaman (**Mâzi — الْفِ"
+    },
+    {
+      "id": "search_gram_m09_g2",
+      "type": "grammar",
+      "moduleId": "09",
+      "title": "Mâzi Fiilin Binası (3. Harf Hareke Değişimi) & Özne Zamirleri",
+      "subtitle": "Gramer Kuralı · M09",
+      "ar": "بِنَاءُ الْفِعْلِ الْمَاضِي وَضَمَائِرُ الرَّفْعِ الْمُتَّصِلَةِ",
+      "keywords": "كَتَبَ/كَتَبَا/كَتَبَتْ (Fetha)  |  كَتَبُوا (Damme)  |  كَتَبْنَ/كَتَبْتَ/كَتَبْتُ/كَتَبْنَا (Sükûn) Mâzi fiilin sonuna ek getirirken 3. kök harfinin (ör. `كَتَبَ` fiilindeki **ب** harfinin) nasıl değiştiğini tek bakışta "
+    },
+    {
+      "id": "search_gram_m09_g3",
+      "type": "grammar",
+      "moduleId": "09",
+      "title": "Fiil Cümlesi (الْجُمْلَةُ الْفِعْلِيَّةُ) & Merfû Fâil Mimarisi",
+      "subtitle": "Gramer Kuralı · M09",
+      "ar": "الْجُمْلَةُ الْفِعْلِيَّةُ وَأَحْكَامُ الْفَاعِلِ",
+      "keywords": "Fiil Cümlesi = Fiil + Fâil (DAİMA MERFÛ: ـُ / ـَانِ / ـُونَ) + Nesne (Mansub) / Harf-i Cer Modül 05'te isimle başlayan **İsim Cümlesi**ni (`الطَّالِبُ مُجْتَهِدٌ`) öğrenmiştik. Şimdi Arapçanın ikinci dev sütunu "
+    },
+    {
+      "id": "search_gram_m09_g4",
+      "type": "grammar",
+      "moduleId": "09",
+      "title": "Açık Fâilde Fiilin Tekil Kalması & Cinsiyet Uyumu (ALTIN NAHİV KURALI)",
+      "subtitle": "Gramer Kuralı · M09",
+      "ar": "إِفْرَادُ الْفِعْلِ مَعَ الْفَاعِلِ الظَّاهِرِ وَتَأْنِيثُهُ",
+      "keywords": "Fiil Başta: Fiil (DAİMA TEKİL, sadece Cinsiyet uyumu!) + Açık Fâil  ≠  İsim Başta: Mübtedâ + Fiil (Sayı + Cinsiyet tam uyum!) İşte Arapça öğrenenlerin %90'ının ilk başta tökezlediği, ama bir kez kavrayınca asla unutmadığı **EN ÖNEMLİ NAHİV KURALI"
+    },
+    {
+      "id": "search_gram_m09_g5",
+      "type": "grammar",
+      "moduleId": "09",
+      "title": "Fâilin 3 Çeşidi (Açık · Bitişik Zamir · Gizli) & قَدْ / لَقَدْ Pekiştirmesi",
+      "subtitle": "Gramer Kuralı · M09",
+      "ar": "أَنْوَاعُ الْفَاعِلِ وَتَوْكِيدُ الْمَاضِي بِـ«قَدْ / لَقَدْ»",
+      "keywords": "Fâil = Açık İsim / Bitişik Zamir / Müstetir (هُوَ/هِيَ)  |  قَدْ / لَقَدْ + Mâzi = Kesinlik & Yakın Geçmiş ('Gerçekten / -mış') Her fiilin MUTLAKA bir fâili (öznesi) vardır; fâilsiz fiil olmaz! Arapçada fâil tam **3 biçimde** karşımıza çıkar:\n1) **"
     },
     {
       "id": "search_verb_0",

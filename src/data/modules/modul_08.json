@@ -1,0 +1,775 @@
+{
+  "id": "08",
+  "slug": "modul_08",
+  "phaseId": 1,
+  "cilt": 1,
+  "cefr": "A1",
+  "category": "İletişim & Nahiv",
+  "title": "Arapça'da Soru Yapıları & Günlük İletişim",
+  "arabicTitle": "أَدَوَاتُ الْاِسْتِفْهَامِ وَالتَّوَاصُلُ الْيَوْمِيُّ",
+  "summary": "هَلْ ve أَ soru harfleri (أَ... أَمْ... seçenek sorusu), temel soru isimleri (مَا/مَاذَا، مَنْ، أَيْنَ، مَتَى، كَيْفَ، لِمَاذَا), كَمْ ve أَيُّ kalıpları, harf-i cer + مَا birleşmeleri (لِمَ/بِمَ/عَمَّ/فِيمَ/مِمَّ) ve olumsuz soruya بَلَى cevap sistemi.",
+  "grammar": [
+    {
+      "id": "m08_g1",
+      "baslik": "هَلْ ve أَ Soru Harfleri ile Seçenek Sorusu (أَ... أَمْ...)",
+      "arBaslik": "حَرْفَا الِاسْتِفْهَامِ: هَلْ وَالْهَمْزَةُ (أَ)",
+      "mantik": "Türkçede 'Öğrenci misin?', 'Kitabı okudun mu?' derken soru eki (-mi, -mu) cümlenin SONUNA veya ortasına gelir. Arapçada ise tüm soru edatları **HER ZAMAN CÜMLENİN EN BAŞINA** oturur! Bir cümleyi anında 'evet/hayır' sorusuna çevirmenin 2 aracı vardır: **هَلْ** (hel) ve kelimeye bitişen **أَ** (hemze-i istifham).\nÖrnek: `أَنْتَ طَالِبٌ` (Sen öğrencisin) → `هَلْ أَنْتَ طَالِبٌ؟` veya `أَأَنْتَ طَالِبٌ؟` (Sen öğrenci misin?).\nİkisi arasındaki **ALTIN FARK**: Eğer karşındakine **'X mi, yoksa Y mi?'** diye iki seçenek sunuyorsan (**أَمْ** — yoksa), Fasih Arapçada mutlaka **أَ** (hemze) kullanılır, **هَلْ** kullanılmaz! Ayrıca `أَ` olumsuz cümlelerin başına da gelebilir (`أَلَيْسَ...؟`), oysa `هَلْ` olumsuz cümlenin başına gelmez! Geçiş kuralı: `هَلْ` kelimesinden sonra `ال` takılı bir isim gelirse iki sükûn yan yana gelmesin diye kesrayla okunur: `هَلِ الطَّالِبُ هُنَا؟`!",
+      "formul": "Evet/Hayır: هَلْ / أَ + Cümle → نَعَمْ (Evet) / لَا (Hayır)  |  Seçenek: أَ + Seçenek 1 + أَمْ + Seçenek 2؟",
+      "formulAr": "هَلْ أَنْتَ جَاهِزٌ؟ · أَشَايًا تُرِيدُ أَمْ قَهْوَةً؟",
+      "tablo": {
+        "baslik": "هَلْ ve أَ Soru Harflerinin Kullanım Farkları",
+        "sutunlar": ["Soru Türü", "Kalıp", "Arapça Örnek", "Cevap", "Türkçe Anlam"],
+        "satirlar": [
+          { "hucreler": ["Olumlu İsim/Fiil", "هَلْ + Cümle", "هَلْ تَتَكَلَّمُ الْعَرَبِيَّةَ؟", "نَعَمْ / لَا", "Arapça konuşuyor musun?"], "ses": "هَلْ تَتَكَلَّمُ الْعَرَبِيَّةَ؟" },
+          { "hucreler": ["ال Önünde Geçiş", "هَلِ + الـ...", "هَلِ الدَّرْسُ سَهْلٌ؟", "نَعَمْ، هُوَ سَهْلٌ", "Ders kolay mı?"], "ses": "هَلِ الدَّرْسُ سَهْلٌ؟" },
+          { "hucreler": ["Seçenek (… mı yoksa … mı?)", "أَ... أَمْ...", "أَطَبِيبٌ أَنْتَ أَمْ مُهَنْدِسٌ؟", "أَنَا مُهَنْدِسٌ", "Doktor musun yoksa mühendis mi?"], "ses": "أَطَبِيبٌ أَنْتَ أَمْ مُهَنْدِسٌ؟" },
+          { "hucreler": ["Olumsuz Soru", "أَ + لَيْسَ / لَا / لَمْ", "أَلَيْسَ هٰذَا جَمِيلًا؟", "بَلَى! (Bilakis evet!)", "Bu güzel değil mi?"], "ses": "أَلَيْسَ هٰذَا جَمِيلًا؟" }
+        ]
+      },
+      "trKiyas": "Çok zarif bir incelik: `أَ... أَمْ...` sorusuna ASLA `نَعَمْ` (evet) veya `لَا` (hayır) diye cevap verilmez! 'Çay mı istersin yoksa kahve mi?' sorusuna 'Evet' demek gibi garip olur; doğrudan seçeneklerden biri söylenir (`أُرِيدُ قَهْوَةً`). Ayrıca `أَ` harfi kendisinden sonraki kelimeye daima BİTİŞİK yazılır (`أَطَالِبٌ`, `أَذَهَبْتَ`)!",
+      "sikHatalar": [
+        "Seçenek sorusunda (أَمْ) başa هَلْ koymak ('هَلْ شَايًا تُرِيدُ أَمْ قَهْوَةً' YANLIŞ → doğrusu أَشَايًا تُرِيدُ أَمْ قَهْوَةً؟).",
+        "هَلْ harfini olumsuz cümlede kullanmak ('هَلْ لَيْسَ عِنْدَكَ وَقْتٌ' YANLIŞ → doğrusu أَلَيْسَ عِنْدَكَ وَقْتٌ؟).",
+        "Arapça soru işaretini soldan sağa (?) yazmak; Arapça metinlerde soru işareti ters yöne bakar: **؟**!"
+      ],
+      "ornekler": [
+        { "ar": "هَلْ أَنْتَ طَالِبٌ جَدِيدٌ فِي هٰذِهِ الْجَامِعَةِ؟ نَعَمْ، أَنَا طَالِبٌ جَدِيدٌ.", "okunus": "Hel ente tâlibun cedîdun fî hâzihi'l-câmi‘ati? Ne‘am, ene tâlibun cedîdun.", "tr": "Bu üniversitede yeni bir öğrenci misin? Evet, yeni bir öğrenciyim.", "not": "Standart هَلْ + olumlu isim cümlesi." },
+        { "ar": "هَلِ الْمَكْتَبَةُ مَفْتُوحَةٌ الْيَوْمَ؟ لَا، الْمَكْتَبَةُ مُغْلَقَةٌ الْيَوْمَ.", "okunus": "Heli'l-mektebetu meftûhatun el-yevme? Lâ, el-mektebetu muglakatun el-yevme.", "tr": "Kütüphane bugün açık mı? Hayır, kütüphane bugün kapalı.", "not": "هَلْ + ال geçişi → هَلِ." },
+        { "ar": "أَتَشْرَبُ شَايًا أَمْ قَهْوَةً؟ أَشْرَبُ قَهْوَةً مِنْ فَضْلِكَ.", "okunus": "E-teşrabu şâyen em kahveten? Eşrabu kahveten min fadlike.", "tr": "Çay mı içersin yoksa kahve mi? Lütfen kahve içerim.", "not": "Seçenek sorusunda أَ... أَمْ... kalıbı." },
+        { "ar": "أَأَنْتَ مِنْ إِسْطَنْبُولَ أَمْ مِنْ أَنْقَرَةَ؟ أَنَا مِنْ إِسْطَنْبُولَ.", "okunus": "E-ente min İstânbûle em min Enkara? Ene min İstânbûle.", "tr": "İstanbul'dan mısın yoksa Ankara'dan mı? İstanbul'danım.", "not": "Seçenek sorusuna doğrudan şehir adıyla cevap verilir." },
+        { "ar": "هَلْ فَهِمْتَ الدَّرْسَ جَيِّدًا؟ نَعَمْ، فَهِمْتُهُ تَمَامًا.", "okunus": "Hel fehimte'd-derse ceyyiden? Ne‘am, fehimtuhu temâmen.", "tr": "Dersi iyi anladın mı? Evet, onu tamamen anladım.", "not": "هَلْ + mâzi fiil cümlesi." },
+        { "ar": "أَقَرَأْتَ هٰذَا الْكِتَابَ أَمْ لَا؟ قَرَأْتُهُ فِي الْأُسْبُوعِ الْمَاضِي.", "okunus": "E-kara'te hâze'l-kitâbe em lâ? Kara'tuhu fi'l-usbû‘i'l-mâdî.", "tr": "Bu kitabı okudun mu yoksa okumadın mı? Geçen hafta okudum.", "not": "أَ... أَمْ لَا (... mı yoksa değil mi?)." }
+      ],
+      "tatbikler": [
+        { "id": "m08_g1_d1", "tip": "bosluk", "soru": "....... تُفَضِّلُ الْقِطَارَ أَمِ الطَّائِرَةَ؟ (Treni mi yoksa uçağı mı tercih edersin?) boşluğuna hangisi gelir?", "secenekler": ["أَ (أَتُفَضِّلُ)", "هَلْ", "مَا", "مَنْ"], "dogruIndeks": 0, "aciklama": "أَمْ (yoksa) ile kurulan seçenek sorularında هَلْ değil أَ kullanılır: أَتُفَضِّلُ." },
+        { "id": "m08_g1_d2", "tip": "bosluk", "soru": "....... الطَّقْسُ جَمِيلٌ الْيَوْمَ؟ cümlesinde geçiş harekesiyle doğru okunuş hangisidir?", "secenekler": ["هَلِ", "هَلَ", "هَلُ", "هَلْ"], "dogruIndeks": 0, "aciklama": "Sükûnlu هَلْ harfinden sonra ال gelince kesra ile هَلِ okunur." },
+        { "id": "m08_g1_d3", "tip": "hata_bul", "soru": "'هَلْ لَيْسَ أَحْمَدُ فِي الْبَيْتِ؟' sorusundaki nahiv hatası nedir?", "secenekler": ["هَلْ olumsuz cümle başına gelmez; doğrusu 'أَلَيْسَ أَحْمَدُ فِي الْبَيْتِ؟'", "الْبَيْتِ dammeli olmalı", "أَحْمَدُ kesralı olmalı", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "Olumsuz sorular yalnızca hemze (أَ) ile kurulur." },
+        { "id": "m08_g1_d4", "tip": "tr_ar", "soru": "'Sen öğretmen misin yoksa öğrenci mi?' sorusu hangisidir?", "secenekler": ["أَمُعَلِّمٌ أَنْتَ أَمْ طَالِبٌ؟", "هَلْ مُعَلِّمٌ أَنْتَ أَمْ طَالِبٌ؟", "مَا مُعَلِّمٌ أَنْتَ أَمْ طَالِبٌ؟", "كَيْفَ مُعَلِّمٌ أَنْتَ؟"], "dogruIndeks": 0, "aciklama": "Seçenek sorusu: أَمُعَلِّمٌ أَنْتَ أَمْ طَالِبٌ؟" },
+        { "id": "m08_g1_d5", "tip": "bosluk", "soru": "'أَشَايًا تُرِيدُ أَمْ عَصِيرًا؟' sorusuna en uygun cevap hangisidir?", "secenekler": ["أُرِيدُ عَصِيرًا، مِنْ فَضْلِكَ.", "نَعَمْ.", "لَا.", "بَلَى."], "dogruIndeks": 0, "aciklama": "أَ... أَمْ... sorusuna نَعَمْ/لَا değil, tercih edilen seçenekle cevap verilir." },
+        { "id": "m08_g1_d6", "tip": "donusturme", "soru": "'الِامْتِحَانُ سَهْلٌ' (Sınav kolaydır) cümlesini soru yapınız:", "secenekler": ["هَلِ الِامْتِحَانُ سَهْلٌ؟", "الِامْتِحَانُ سَهْلٌ هَلْ؟", "مَنْ الِامْتِحَانُ سَهْلٌ؟", "لِمَاذَا الِامْتِحَانُ؟"], "dogruIndeks": 0, "aciklama": "Soru harfi daima cümlenin en başına gelir: هَلِ الِامْتِحَانُ سَهْلٌ؟" },
+        { "id": "m08_g1_d7", "tip": "bosluk", "soru": "هَلْ عِنْدَكَ أَخٌ؟ sorusunun olumsuz cevabı hangisidir?", "secenekler": ["لَا، لَيْسَ عِنْدِي أَخٌ.", "نَعَمْ، لَيْسَ عِنْدِي أَخٌ.", "بَلَى، لَيْسَ عِنْدِي أَخٌ.", "لَا، عِنْدِي أَخٌ."], "dogruIndeks": 0, "aciklama": "Olumlu soruya olumsuz cevap لَا + olumsuz cümleyle verilir." },
+        { "id": "m08_g1_d8", "tip": "tr_ar", "soru": "'Arapça öğreniyor musun?' sorusu hangisidir?", "secenekler": ["هَلْ تَتَعَلَّمُ اللُّغَةَ الْعَرَبِيَّةَ؟", "مَنْ تَتَعَلَّمُ اللُّغَةَ الْعَرَبِيَّةَ؟", "أَيْنَ تَتَعَلَّمُ اللُّغَةَ الْعَرَبِيَّةَ؟", "مَتَى تَتَعَلَّمُ اللُّغَةَ الْعَرَبِيَّةَ؟"], "dogruIndeks": 0, "aciklama": "Evet/Hayır fiil sorusu هَلْ ile kurulur." },
+        { "id": "m08_g1_d9", "tip": "bosluk", "soru": "Arapçada soru harfleri (هَلْ / أَ) kelimenin i'rabını (son harekesini) değiştirir mi?", "secenekler": ["Hayır, hiçbir harekeyi değiştirmezler", "Evet, ismi kesralarlar", "Evet, fiili cezmederler", "Evet, ismi mansub yaparlar"], "dogruIndeks": 0, "aciklama": "هَلْ ve أَ gayr-i âmildir; sadece soru anlamı katarlar, hareke değiştirmezler." },
+        { "id": "m08_g1_d10", "tip": "bosluk", "soru": "'أَقَرِيبٌ بَيْتُكَ أَمْ بَعِيدٌ؟' sorusunun anlamı nedir?", "secenekler": ["Evin yakın mı yoksa uzak mı?", "Evin nerede?", "Evin ne kadar büyük?", "Evin kimin?"], "dogruIndeks": 0, "aciklama": "قَرِيبٌ (yakın) أَمْ (yoksa) بَعِيدٌ (uzak)." }
+      ]
+    },
+    {
+      "id": "m08_g2",
+      "baslik": "Temel 6 Soru İsmi (مَا/مَاذَا · مَنْ · أَيْنَ · مَتَى · كَيْفَ · لِمَاذَا)",
+      "arBaslik": "أَسْمَاءُ الِاسْتِفْهَامِ الْأَسَاسِيَّةُ",
+      "mantik": "Günlük hayatta bilgi almak için kullandığımız 'Ne, Kim, Nerede, Ne zaman, Nasıl, Niçin' soruları Arapçada **Soru İsimleri (أَسْمَاءُ الِاسْتِفْهَامِ)** olarak bilinir ve her zaman cümlenin **EN BAŞINDA** yer alırlar!\n1) **مَا** (Ne? — isim cümlesinde: `مَا اسْمُكَ؟` Adın ne?) ve **مَاذَا** (Ne? — fiil cümlesinde: `مَاذَا تَفْعَلُ؟` Ne yapıyorsun?).\n2) **مَنْ** (Kim? — sadece insanlar/akıllılar için: `مَنْ هٰذَا؟` Bu kim?).\n3) **أَيْنَ** (Nerede? — yer sorar: `أَيْنَ تَسْكُنُ؟`; başına `مِنْ` gelince `مِنْ أَيْنَ؟` [Nereden?], `إِلَى` gelince `إِلَى أَيْنَ؟` [Nereye?] olur!).\n4) **مَتَى** (Ne zaman? — zaman sorar: `مَتَى يَبْدَأُ الدَّرْسُ؟`).\n5) **كَيْفَ** (Nasıl? — durum/vasıta sorar: `كَيْفَ حَالُكَ؟`).\n6) **لِمَاذَا** (Niçin / Neden? — sebep sorar, cevabında genelde **لِأَنَّ** [çünkü] veya **لِـ** [için] gelir!).",
+      "formul": "مَا (İsimle) / مَاذَا (Fiille) · مَنْ (Kim) · أَيْنَ (Nerede) · مَتَى (Ne zaman) · كَيْفَ (Nasıl) · لِمَاذَا (Niçin)",
+      "formulAr": "مَا اسْمُكَ؟ · مَاذَا تَقْرَأُ؟ · مِنْ أَيْنَ أَنْتَ؟ · مَتَى نَلْتَقِي؟",
+      "tablo": {
+        "baslik": "Temel Soru İsimleri ve Günlük İletişim Örnekleri",
+        "sutunlar": ["Soru İsmi", "Okunuş", "Anlamı", "Örnek Soru", "Örnek Cevap"],
+        "satirlar": [
+          { "hucreler": ["مَا", "mâ", "Ne? (İsimlerle)", "مَا عَمَلُكَ؟", "أَنَا مُهَنْدِسٌ."], "ses": "مَا عَمَلُكَ؟ أَنَا مُهَنْدِسٌ" },
+          { "hucreler": ["مَاذَا", "mâzâ", "Ne? (Fiillerle)", "مَاذَا تَدْرُسُ؟", "أَدْرُسُ الطِّبَّ."], "ses": "مَاذَا تَدْرُسُ؟ أَدْرُسُ الطِّبَّ" },
+          { "hucreler": ["مَنْ", "men", "Kim? (İnsan)", "مَنْ هٰذَا الرَّجُلُ؟", "هُوَ أُسْتَاذُنَا."], "ses": "مَنْ هٰذَا الرَّجُلُ؟ هُوَ أُسْتَاذُنَا" },
+          { "hucreler": ["أَيْنَ / مِنْ أَيْنَ", "eyne / min eyne", "Nerede / Nereden?", "مِنْ أَيْنَ أَنْتَ؟", "أَنَا مِنْ تُرْكِيَا."], "ses": "مِنْ أَيْنَ أَنْتَ؟ أَنَا مِنْ تُرْكِيَا" },
+          { "hucreler": ["مَتَى", "metâ", "Ne zaman?", "مَتَى تَسْتَيْقِظُ؟", "أَسْتَيْقِظُ مُبَكِّرًا."], "ses": "مَتَى تَسْتَيْقِظُ؟ أَسْتَيْقِظُ مُبَكِّرًا" },
+          { "hucreler": ["كَيْفَ", "keyfe", "Nasıl?", "كَيْفَ حَالُكَ؟", "بِخَيْرٍ وَالْحَمْدُ لِلّٰهِ."], "ses": "كَيْفَ حَالُكَ؟ بِخَيْرٍ وَالْحَمْدُ لِلّٰهِ" },
+          { "hucreler": ["لِمَاذَا", "limâzâ", "Niçin / Neden?", "لِمَاذَا تَتَعَلَّمُ الْعَرَبِيَّةَ؟", "لِأَنَّهَا لُغَةٌ جَمِيلَةٌ."], "ses": "لِمَاذَا تَتَعَلَّمُ الْعَرَبِيَّةَ؟" }
+        ]
+      },
+      "trKiyas": "Çok sık yapılan bir hata: **مِنْ** (kesralı = -den) ile **مَنْ** (fethalı = Kim?) harf olarak aynıdır ama harekesiyle bambaşka iki kelimedir! `مِنْ أَيْنَ` (nereden) — `مَنْ أَنْتَ` (sen kimsin). Bir de **مَا** vs **مَاذَا** ayrımı: İsimle başlayan sorularda (`مَا اسْمُكَ؟`, `مَا لَوْنُهُ؟`) daima **مَا**, fiille başlayan sorularda (`مَاذَا تَأْكُلُ؟`, `مَاذَا قَالَ؟`) ise **مَاذَا** tercih edilir!",
+      "sikHatalar": [
+        "İsimle 'Adın ne?' derken مَاذَا اسْمُكَ demek (YANLIŞ → doğrusu مَا اسْمُكَ؟!).",
+        "مَنْ (Kim?) ile مِنْ (-den) harekesini karıştırmak (مِنْ هٰذَا YANLIŞ → doğrusu مَنْ هٰذَا؟!).",
+        "'Nereye gidiyorsun?' derken إِلَى'yı unutmak: أَيْنَ تَذْهَبُ yerine Fasih Arapçada **إِلَى أَيْنَ تَذْهَبُ؟** kullanılır!"
+      ],
+      "ornekler": [
+        { "ar": "مَا اسْمُكَ الْكَامِلُ، وَمَا جِنْسِيَّتُكَ؟", "okunus": "Me'smuke'l-kâmilu, ve mâ cinsiyyetuke?", "tr": "Tam adın ne ve uyruğun ne?", "not": "İsim cümlesi sorusunda مَا kullanılır." },
+        { "ar": "مَاذَا تَفْعَلُ فِي وَقْتِ فَرَاغِكَ؟ أَقْرَأُ الرِّوَايَاتِ.", "okunus": "Mâzâ tef‘alu fî vakti ferâgike? Ekrau'r-rivâyâti.", "tr": "Boş vaktinde ne yaparsın? Roman okurum.", "not": "Fiil cümlesi sorusunda مَاذَا kullanılır." },
+        { "ar": "مَنْ يَجْلِسُ بِجَانِبِ الْمُدِيرِ؟ هُوَ ضَيْفٌ مِنْ قَطَرَ.", "okunus": "Men yeclisu bi-cânibi'l-mudîri? Huve dayfun min Katara.", "tr": "Müdürün yanında kim oturuyor? O Katar'dan bir misafirdir.", "not": "مَنْ (fethalı) = kim?" },
+        { "ar": "إِلَى أَيْنَ أَنْتَ ذَاهِبٌ الْآنَ؟ أَنَا ذَاهِبٌ إِلَى السُّوقِ.", "okunus": "İlâ eyne ente zâhibun el-âne? Ene zâhibun ile's-sûki.", "tr": "Şu an nereye gidiyorsun? Çarşıya gidiyorum.", "not": "إِلَى أَيْنَ = nereye? / مِنْ أَيْنَ = nereden?" },
+        { "ar": "مَتَى يَبْدَأُ الِامْتِحَانُ النِّهَائِيُّ؟ يَبْدَأُ يَوْمَ الْإِثْنَيْنِ.", "okunus": "Metâ yebdeu'l-imtihânu'n-nihâiyyu? Yebdeu yevme'l-isneyni.", "tr": "Final sınavı ne zaman başlıyor? Pazartesi günü başlıyor.", "not": "مَتَى zaman sorar." },
+        { "ar": "لِمَاذَا تَأَخَّرْتَ عَنِ الدَّرْسِ؟ لِأَنَّ الطَّرِيقَ كَانَ مُزْدَحِمًا.", "okunus": "Limâzâ teahharte ‘ani'd-dersi? Li-enne't-tarîka kâne muzdahimen.", "tr": "Derse neden geç kaldın? Çünkü yol kalabalıktı.", "not": "لِمَاذَا sorusunun doğal cevabı لِأَنَّ (çünkü)!" }
+      ],
+      "tatbikler": [
+        { "id": "m08_g2_d1", "tip": "bosluk", "soru": "....... اسْمُ هٰذِهِ الْمَدِينَةِ؟ (Bu şehrin adı nedir?) boşluğuna hangisi gelir?", "secenekler": ["مَا", "مَاذَا", "مَنْ", "كَيْفَ"], "dogruIndeks": 0, "aciklama": "İsimle başlayan 'nedir?' sorusunda مَا kullanılır: مَا اسْمُ..." },
+        { "id": "m08_g2_d2", "tip": "bosluk", "soru": "....... تَكْتُبُ فِي الدَّفْتَرِ؟ (Deftere ne yazıyorsun?) boşluğuna en doğal soru ismi hangisidir?", "secenekler": ["مَاذَا", "مَنْ", "أَيْنَ", "مَتَى"], "dogruIndeks": 0, "aciklama": "Fiil cümlesinde nesneyi sorarken مَاذَا kullanılır." },
+        { "id": "m08_g2_d3", "tip": "tr_ar", "soru": "'Nereden geliyorsun / Nerelisin?' sorusu hangisidir?", "secenekler": ["مِنْ أَيْنَ أَنْتَ؟", "إِلَى أَيْنَ أَنْتَ؟", "مَنْ أَيْنَ أَنْتَ؟", "كَيْفَ أَيْنَ أَنْتَ؟"], "dogruIndeks": 0, "aciklama": "مِنْ (-den) + أَيْنَ (nerede) = مِنْ أَيْنَ (nereden)." },
+        { "id": "m08_g2_d4", "tip": "bosluk", "soru": "....... تَذْهَبُ إِلَى الْمَدْرَسَةِ؟ — بِالْحَافِلَةِ. (Cevaba göre boşluğa ne gelir?)", "secenekler": ["كَيْفَ", "مَتَى", "مَنْ", "أَيْنَ"], "dogruIndeks": 0, "aciklama": "'Otobüsle' cevabı vasıta/nasıl bildirir → كَيْفَ!" },
+        { "id": "m08_g2_d5", "tip": "bosluk", "soru": "....... تَعْلَمُ اللُّغَةَ الْعَرَبِيَّةَ؟ — لِأَنَّهَا لُغَةُ الْقُرْآنِ وَالثَّقَافَةِ.", "secenekler": ["لِمَاذَا", "مَتَى", "مَنْ", "أَيْنَ"], "dogruIndeks": 0, "aciklama": "Cevapta لِأَنَّ (çünkü) olduğu için soru لِمَاذَا (niçin) olmalıdır." },
+        { "id": "m08_g2_d6", "tip": "hata_bul", "soru": "'مِنْ هٰذَا الطَّالِبُ؟' sorusundaki hata nedir?", "secenekler": ["'Kim?' için kesralı مِنْ değil, fethalı مَنْ yazılmalıdır", "الطَّالِبُ kesralı olmalı", "هٰذَا yerine هٰذِهِ gelmeli", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "مِنْ = -den (harf-i cer), مَنْ = kim (soru ismi)!" },
+        { "id": "m08_g2_d7", "tip": "tr_ar", "soru": "'Nereye gidiyorsun?' sorusunun en fasih Arapçası hangisidir?", "secenekler": ["إِلَى أَيْنَ تَذْهَبُ؟", "مِنْ أَيْنَ تَذْهَبُ؟", "مَتَى تَذْهَبُ؟", "مَنْ تَذْهَبُ؟"], "dogruIndeks": 0, "aciklama": "Yönelme sorusu إِلَى أَيْنَ (nereye) ile kurulur." },
+        { "id": "m08_g2_d8", "tip": "bosluk", "soru": "....... تُغَادِرُ الطَّائِرَةُ؟ — فِي السَّاعَةِ التَّاسِعَةِ صَبَاحًا.", "secenekler": ["مَتَى", "أَيْنَ", "مَنْ", "كَيْفَ"], "dogruIndeks": 0, "aciklama": "Saat/zaman cevabının sorusu مَتَى (ne zaman?)." },
+        { "id": "m08_g2_d9", "tip": "bosluk", "soru": "....... طَرَقَ الْبَابَ؟ — صَدِيقُكَ سَعِيدٌ.", "secenekler": ["مَنْ", "مَا", "أَيْنَ", "لِمَاذَا"], "dogruIndeks": 0, "aciklama": "İnsan özne (صَدِيقُكَ) sorulurken مَنْ (kim?) kullanılır." },
+        { "id": "m08_g2_d10", "tip": "bosluk", "soru": "'كَيْفَ حَالُكَ؟' sorusuna en klasik ve kibar cevap hangisidir?", "secenekler": ["بِخَيْرٍ وَالْحَمْدُ لِلّٰهِ.", "أَنَا مِنْ إِسْطَنْبُولَ.", "السَّاعَةُ الثَّالِثَةُ.", "اسْمِي عَلِيٌّ."], "dogruIndeks": 0, "aciklama": "بِخَيْرٍ وَالْحَمْدُ لِلّٰهِ = İyiyim, elhamdülillah." }
+      ]
+    },
+    {
+      "id": "m08_g3",
+      "baslik": "كَمْ (Kaç?) ve أَيُّ / أَيَّةُ (Hangi?) Soru İsimlerinin Özel Kuralları",
+      "arBaslik": "أَحْكَامُ «كَمْ» الِاسْتِفْهَامِيَّةِ وَ«أَيِّ»",
+      "mantik": "Arapçada diğer tüm soru isimleri son harekesi değişmeyen (mebnî) kelimelerdir; fakat **كَمْ** (Kaç?) ve **أَيُّ** (Hangi?) kendilerinden sonra gelen isimle çok özel ve YDS'de bile sürekli sorulan iki muhteşem kurala sahiptir:\n1) **كَمْ (Kaç?):** Arkasından gelen sayılan isim (**Temyiz**) DAİMA **TEKİL (müfred), NEKRE ve MANSUB (fethatân: ـًا / ـً)** olur! Türkçede de 'Kaç kitaplar?' değil 'Kaç kitap?' (tekil!) deriz: `كَمْ كِتَابًا عِنْدَكَ؟` (Kaç kitabın var?), `كَمْ طَالِبًا فِي الصَّفِّ؟` (Sınıfta kaç öğrenci var?). Fiyat sorarken başına `بِـ` gelir: **بِكَمْ هٰذَا؟** (Bu kaça?).\n2) **أَيُّ (Hangi?):** İ'rabı değişen (mu'rab) **TEK** soru ismidir (`أَيُّ / أَيَّ / أَيِّ`)! Her zaman **MUZÂF** olur, yani arkasından gelen isim DAİMA **MECRÛR (kesralı)** olur: `أَيُّ يَوْمٍ هٰذَا؟` (Bu hangi gündür?), `فِي أَيِّ كُلِّيَّةٍ تَدْرُسُ؟` (Hangi fakültede okuyorsun?), `أَيَّ كِتَابٍ تَقْرَأُ؟` (Hangi kitabı okuyorsun?).",
+      "formul": "كَمْ + Tekil Nekre Mansub İsim (كَمْ كِتَابًا؟)  |  أَيُّ / أَيَّ / أَيِّ + Mecrûr Muzâfun İleyh (فِي أَيِّ يَوْمٍ؟)",
+      "formulAr": "كَمْ طَالِبًا فِي الصَّفِّ؟ · بِكَمْ هٰذَا؟ · فِي أَيِّ مَدِينَةٍ تَسْكُنُ؟",
+      "tablo": {
+        "baslik": "كَمْ ve أَيُّ Soru İsimlerinin Yapısal Kıyaslaması",
+        "sutunlar": ["Soru İsmi", "Sonraki İsmin Durumu", "Örnek Soru", "Anlamı"],
+        "satirlar": [
+          { "hucreler": ["كَمْ (Kaç?)", "Tekil + Nekre + Mansub (ـًا)", "كَمْ غُرْفَةً فِي الشَّقَّةِ؟", "Dairede kaç oda var?"], "ses": "كَمْ غُرْفَةً فِي الشَّقَّةِ؟" },
+          { "hucreler": ["بِكَمْ (Kaça?)", "Fiyat sorusu", "بِكَمْ هٰذَا الْقَمِيصُ؟", "Bu gömlek kaça?"], "ses": "بِكَمْ هٰذَا الْقَمِيصُ؟" },
+          { "hucreler": ["أَيُّ (Merfû)", "Muzâfun ileyh (Mecrûr: ـٍ)", "أَيُّ كِتَابٍ أَفْضَلُ؟", "Hangi kitap daha iyidir?"], "ses": "أَيُّ كِتَابٍ أَفْضَلُ؟" },
+          { "hucreler": ["أَيَّ (Mansub)", "Nesne konumunda + Mecrûr", "أَيَّ لُغَةٍ تَتَعَلَّمُ؟", "Hangi dili öğreniyorsun?"], "ses": "أَيَّ لُغَةٍ تَتَعَلَّمُ؟" },
+          { "hucreler": ["فِي أَيِّ (Mecrûr)", "Harf-i cer sonrası + Mecrûr", "فِي أَيِّ طَابَقٍ مَكْتَبُكَ؟", "Ofisin hangi katta?"], "ses": "فِي أَيِّ طَابَقٍ مَكْتَبُكَ؟" }
+        ]
+      },
+      "trKiyas": "Harika bir hatırlama kancası: `كَمْ` sonrası **TEKİL FETHATÂN** (`كَمْ سَاعَةً`, `كَمْ أَخًا`, `كَمْ طَالِبًا`), `أَيُّ` sonrası ise **KESRA** (`أَيُّ سَاعَةٍ`, `أَيُّ طَالِبٍ`)! Ayrıca müennes isimlerde `أَيَّةُ` şekli de kullanılabilir ama modern Arapçada hem eril hem dişil için `أَيُّ` kullanımı tamamen doğru ve yaygındır (`أَيُّ مَدِينَةٍ؟`).",
+      "sikHatalar": [
+        "كَمْ kelimesinden sonra çoğul veya merfû isim getirmek ('كَمْ كُتُبٌ عِنْدَكَ' YANLIŞ → doğrusu كَمْ كِتَابًا عِنْدَكَ؟!).",
+        "فِي أَيُّ يَوْمٍ diye أَيُّ'yu dammeli bırakmak (YANLIŞ! أَيُّ mu'rabdır, فِي'den sonra kesralanır: فِي أَيِّ يَوْمٍ؟!).",
+        "أَيُّ kelimesinden sonra gelen ismi fethalı okumak ('أَيُّ كِتَابًا' YANLIŞ → muzâfun ileyh daima kesralıdır: أَيُّ كِتَابٍ!)."
+      ],
+      "ornekler": [
+        { "ar": "كَمْ طَالِبًا فِي هٰذَا الصَّفِّ؟ فِيهِ عِشْرُونَ طَالِبًا.", "okunus": "Kem tâliben fî hâze's-saffi? Fîhi ‘işrûne tâliben.", "tr": "Bu sınıfta kaç öğrenci var? İçinde yirmi öğrenci var.", "not": "كَمْ + tekil nekre mansub: طَالِبًا." },
+        { "ar": "كَمْ عُمْرُكَ يَا أَحْمَدُ؟ عُمْرِي عِشْرُونَ سَنَةً.", "okunus": "Kem ‘umruke yâ Ahmedu? ‘Umrî ‘işrûne seneten.", "tr": "Yaşın kaç Ahmed? Yaşım yirmi (yirmi yaşındayım).", "not": "كَمْ عُمْرُكَ sabit günlük kalıptır." },
+        { "ar": "بِكَمْ هٰذَا الْكِتَابُ الْجَمِيلُ؟ هُوَ بِخَمْسِينَ لِيرَةً.", "okunus": "Bi-kem hâze'l-kitâbu'l-cemîlu? Huve bi-hamsîne lîraten.", "tr": "Bu güzel kitap kaça? O elli liradır.", "not": "Fiyat sormak için بِكَمْ kalıbı kullanılır." },
+        { "ar": "فِي أَيِّ جَامِعَةٍ تَدْرُسُ أُخْتُكَ؟ تَدْرُسُ فِي جَامِعَةِ إِسْطَنْبُولَ.", "okunus": "Fî eyyi câmi‘atin tedrusu uhtuke? Tedrusu fî câmi‘ati İstânbûle.", "tr": "Kız kardeşin hangi üniversitede okuyor? İstanbul Üniversitesinde okuyor.", "not": "فِي + أَيِّ (kesra) + جَامِعَةٍ (kesratân)." },
+        { "ar": "أَيَّ رِيَاضَةٍ تُحِبُّ أَكْثَرَ؟ أُحِبُّ السِّبَاحَةَ وَكُرَةَ الْقَدَمِ.", "okunus": "Eyye riyâdatin tuhibbu eksera? Uhibbu's-sibâhate ve kurate'l-kademi.", "tr": "En çok hangi sporu seversin? Yüzmeyi ve futbolu severim.", "not": "Nesne konumunda olduğu için أَيَّ fethalı!" },
+        { "ar": "مِنْ أَيِّ بَلَدٍ أَنْتَ يَا صَدِيقِي؟ أَنَا مِنَ الْأُرْدُنِّ.", "okunus": "Min eyyi beledin ente yâ sadîkî? Ene mine'l-Urdunni.", "tr": "Hangi ülkedensin arkadaşım? Ürdün'denim.", "not": "مِنْ + أَيِّ + بَلَدٍ (ikisi de mecrûr)." }
+      ],
+      "tatbikler": [
+        { "id": "m08_g3_d1", "tip": "bosluk", "soru": "كَمْ ....... عِنْدَكَ؟ (Kaç kalemin var?) boşluğuna doğru kelime hangisidir?", "secenekler": ["قَلَمًا", "قَلَمٌ", "أَقْلَامٍ", "قَلَمٍ"], "dogruIndeks": 0, "aciklama": "Soru كَمْ'inden sonra tekil, nekre ve mansub (fethatân) isim gelir: قَلَمًا." },
+        { "id": "m08_g3_d2", "tip": "bosluk", "soru": "فِي ....... سَاعَةٍ يَبْدَأُ الدَّرْسُ؟ (Ders saat kaçta başlıyor?) boşluğuna doğru harekeli şekil hangisidir?", "secenekler": ["أَيِّ", "أَيُّ", "أَيَّ", "أَيٍّ"], "dogruIndeks": 0, "aciklama": "أَيُّ mu'rabdır ve muzâftır; فِي harf-i cerinden sonra tek kesra alır: فِي أَيِّ." },
+        { "id": "m08_g3_d3", "tip": "tr_ar", "soru": "'Bu çanta kaça?' sorusu Arapçada nasıl sorulur?", "secenekler": ["بِكَمْ هٰذِهِ الْحَقِيبَةُ؟", "كَمْ هٰذِهِ الْحَقِيبَةُ؟", "مِنْ كَمْ هٰذِهِ الْحَقِيبَةُ؟", "فِي أَيِّ حَقِيبَةٍ؟"], "dogruIndeks": 0, "aciklama": "Fiyat sorarken بِكَمْ kalıbı kullanılır." },
+        { "id": "m08_g3_d4", "tip": "hata_bul", "soru": "'كَمْ أَخْوَاتٍ لَكَ؟' sorusundaki nahiv hatası nedir?", "secenekler": ["كَمْ sonrası tekil mansub gelmelidir: 'كَمْ أُخْتًا لَكَ؟'", "لَكَ yerine لِكَ olmalı", "كَمْ yerine مَنْ gelmeli", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "Soru كَمْ'i daima tekil mansub ister: كَمْ أُخْتًا لَكَ؟" },
+        { "id": "m08_g3_d5", "tip": "bosluk", "soru": "أَيُّ ....... هٰذَا؟ (Bu hangi gündür?) boşluğuna hangisi gelir?", "secenekler": ["يَوْمٍ", "يَوْمًا", "يَوْمٌ", "الْيَوْمَ"], "dogruIndeks": 0, "aciklama": "أَيُّ daima muzâftır; arkasındaki muzâfun ileyh mecrûr olur: يَوْمٍ." },
+        { "id": "m08_g3_d6", "tip": "tr_ar", "soru": "'Hangi kitabı okuyorsun?' (أَيَّ nesne) cümlesi hangisidir?", "secenekler": ["أَيَّ كِتَابٍ تَقْرَأُ؟", "أَيُّ كِتَابًا تَقْرَأُ؟", "أَيِّ كِتَابٍ تَقْرَأُ؟", "كَمْ كِتَابٍ تَقْرَأُ؟"], "dogruIndeks": 0, "aciklama": "تَقْرَأُ fiilinin nesnesi olduğu için أَيَّ (mansub) + كِتَابٍ (muzâfun ileyh, mecrûr)." },
+        { "id": "m08_g3_d7", "tip": "bosluk", "soru": "Soru isimleri arasında son harekesi cümledeki görevine göre değişen (mu'rab) tek soru ismi hangisidir?", "secenekler": ["أَيُّ", "مَنْ", "أَيْنَ", "مَتَى"], "dogruIndeks": 0, "aciklama": "Yalnızca أَيُّ mu'rabdır (أَيُّ / أَيَّ / أَيِّ); diğerleri mebnîdir." },
+        { "id": "m08_g3_d8", "tip": "bosluk", "soru": "كَمْ ....... تَدْرُسُ فِي الْيَوْمِ؟ (Günde kaç saat çalışırsın?)", "secenekler": ["سَاعَةً", "سَاعَاتٍ", "سَاعَةٌ", "سَاعَةٍ"], "dogruIndeks": 0, "aciklama": "كَمْ + tekil nekre mansub: سَاعَةً." },
+        { "id": "m08_g3_d9", "tip": "donusturme", "soru": "'تَسْكُنُ فِي مَدِينَةِ أَنْقَرَةَ' cevabına 'Hangi şehirde oturuyorsun?' sorusunu oluşturun:", "secenekler": ["فِي أَيِّ مَدِينَةٍ تَسْكُنُ؟", "فِي أَيُّ مَدِينَةٍ تَسْكُنُ؟", "فِي كَمْ مَدِينَةً تَسْكُنُ؟", "أَيْنَ أَيِّ مَدِينَةٍ؟"], "dogruIndeks": 0, "aciklama": "فِي + أَيِّ + مَدِينَةٍ تَسْكُنُ؟" },
+        { "id": "m08_g3_d10", "tip": "bosluk", "soru": "كَمِ السَّاعَةُ الْآنَ؟ sorusunun anlamı nedir?", "secenekler": ["Şu an saat kaç?", "Kaç saatin var?", "Hangi saat daha pahalı?", "Saat nerede?"], "dogruIndeks": 0, "aciklama": "كَمِ السَّاعَةُ الْآنَ؟ günlük Arapçada 'Şu an saat kaç?' demektir (ال önünde كَمِ geçilir)." }
+      ]
+    },
+    {
+      "id": "m08_g4",
+      "baslik": "Harf-i Cer + Soru مَا Birleşmeleri (لِمَ · بِمَ · عَمَّ · فِيمَ · مِمَّ)",
+      "arBaslik": "دُخُولُ حُرُوفِ الْجَرِّ عَلَى «مَا» الِاسْتِفْهَامِيَّةِ",
+      "mantik": "Arapçanın en zarif imlâ ve ses kurallarından biriyle tanışmaya hazır mısın? Kur'an-ı Kerim'de (`عَمَّ يَتَسَاءَلُونَ` — Nebe Suresi 1. ayet!) ve modern haber/YDS metinlerinde karşımıza çok sık çıkan **عَمَّ، لِمَ، بِمَ، فِيمَ، مِمَّ، إِلَامَ، عَلَامَ** kelimeleri aslında iki basit parçanın birleşimidir: **Harf-i Cer + Soru مَا**!\nAltın Kural: Soru soran **مَا** kelimesinin başına bir **harf-i cer** geldiğinde, onu diğer `مَا`'lardan (ismi mevsûl/olumsuzluk) ayırt etmek için **مَا'nın sonundaki ELİF (ا) ZORUNLU OLARAK DÜŞER** ve geriye sadece fethalı **مَ** kalır!\n• `لِـ + مَا → لِمَ؟` (Niçin?)\n• `بِـ + مَا → بِمَ؟` (Ne ile?)\n• `فِي + مَا → فِيمَ؟` (Ne içinde / hangi konuda?)\n• `عَنْ + مَا → عَمَّ؟` (Ne hakkında? — nûn mîme dönüşüp şeddelenir!)\n• `مِنْ + مَا → مِمَّ؟` (Neyden? — nûn mîme dönüşüp şeddelenir!)\n• `إِلَى + مَا → إِلَامَ؟` (Ne zamana / nereye kadar?) ve `عَلَى + مَا → عَلَامَ؟` (Ne üzerine?).",
+      "formul": "Harf-i Cer + Soru مَا → Elif DÜŞER (مَ):  لِمَ · بِمَ · فِيمَ · عَمَّ · مِمَّ · إِلَامَ · عَلَامَ",
+      "formulAr": "عَمَّ تَبْحَثُ؟ · بِمَ تَكْتُبُ؟ · فِيمَ تُفَكِّرُ؟ · لِمَ تَأَخَّرْتَ؟",
+      "tablo": {
+        "baslik": "Harf-i Cer + Soru مَا Birleşim Tablosu (Elif Hazfi)",
+        "sutunlar": ["Birleşim", "Sonuç", "Okunuş", "Anlamı", "Örnek Soru"],
+        "satirlar": [
+          { "hucreler": ["لِـ + مَا", "لِمَ؟", "lime?", "Niçin / Neden?", "لِمَ تَبْكِي يَا طِفْلُ؟"], "ses": "لِمَ تَبْكِي يَا طِفْلُ؟" },
+          { "hucreler": ["بِـ + مَا", "بِمَ؟", "bime?", "Ne ile / Neyle?", "بِمَ تَكْتُبُ الدَّرْسَ؟"], "ses": "بِمَ تَكْتُبُ الدَّرْسَ؟" },
+          { "hucreler": ["فِي + مَا", "فِيمَ؟", "fîme?", "Hangi konuda / Nede?", "فِيمَ تُفَكِّرُ الْآنَ؟"], "ses": "فِيمَ تُفَكِّرُ الْآنَ؟" },
+          { "hucreler": ["عَنْ + مَا", "عَمَّ؟", "‘amme?", "Ne hakkında / Neyi?", "عَمَّ تَبْحَثُ يَا أَخِي؟"], "ses": "عَمَّ تَبْحَثُ يَا أَخِي؟" },
+          { "hucreler": ["مِنْ + مَا", "مِمَّ؟", "mimme?", "Neyden?", "مِمَّ يَتَكَوَّنُ الْمَاءُ؟"], "ses": "مِمَّ يَتَكَوَّنُ الْمَاءُ؟" },
+          { "hucreler": ["إِلَى + مَا", "إِلَامَ؟", "ilâme?", "Ne zamana kadar?", "إِلَامَ هٰذَا الْخِلَافُ؟"], "ses": "إِلَامَ هٰذَا الْخِلَافُ؟" }
+        ]
+      },
+      "trKiyas": "Harika bir YDS/YÖKDİL ayırt edicisi: Eğer `مَا` soru değil de 'şey' anlamında (ismi mevsûl) ise elif DÜŞMEZ: `فِيمَا يَلِي` (aşağıdaki hususlarda), `مِمَّا يَدُلُّ عَلَى` (şuna delalet eden şeyden)! Ama **SORU** cümlesinde elif MUTLAKA düşer: `عَمَّ تَتَحَدَّثُ؟` (Ne hakkında konuşuyorsun?)!",
+      "sikHatalar": [
+        "Soru cümlesinde elifi düşürmeden 'عَنْ مَا تَبْحَثُ؟' veya 'بِمَا تَكْتُبُ؟' yazmak (YANLIŞ → doğrusu عَمَّ تَبْحَثُ؟ / بِمَ تَكْتُبُ؟!).",
+        "عَمَّ kelimesini 'amca' anlamındaki عَمٌّ ile karıştırmak (cümlenin başında ve soru işaretiyle 'عَمَّ' daima 'ne hakkında?' demektir!).",
+        "لِمَ'yı cezm edatı لَمْ ile karıştırmak: لَمْ (-medi, fethalı lâ + sükûnlu mîm), لِمَ (niçin, kesralı li + fethalı me!)."
+      ],
+      "ornekler": [
+        { "ar": "عَمَّ تَبْحَثُ فِي الْمَكْتَبَةِ؟ أَبْحَثُ عَنْ قَامُوسٍ عَرَبِيٍّ.", "okunus": "‘Amme tebhasu fi'l-mektebeti? Ebhasu ‘an kâmûsin ‘arabiyyin.", "tr": "Kütüphanede ne arıyorsun? Arapça bir sözlük arıyorum.", "not": "عَنْ + مَا → عَمَّ (بَحَثَ عَنْ ile!)." },
+        { "ar": "فِيمَ تُفَكِّرُ يَا سَعِيدُ؟ أُفَكِّرُ فِي مُسْتَقْبَلِي الدِّرَاسِيِّ.", "okunus": "Fîme tufekkiru yâ Sa‘îdu? Ufekkiru fî mustakbeli'd-dirâsiyyi.", "tr": "Ne hakkında düşünüyorsun Said? Eğitim geleceğimi düşünüyorum.", "not": "فِي + مَا → فِيمَ (فَكَّرَ فِي ile!)." },
+        { "ar": "بِمَ تُسَافِرُ إِلَى أَنْقَرَةَ؟ أُسَافِرُ بِالْقِطَارِ السَّرِيعِ.", "okunus": "Bime tusâfiru ilâ Enkara? Usâfiru bi'l-kitâri's-serî‘i.", "tr": "Ankara'ya ne ile seyahat ediyorsun? Hızlı trenle seyahat ediyorum.", "not": "بِـ + مَا → بِمَ." },
+        { "ar": "مِمَّ تَشْكُو يَا سَيِّدِي؟ أَشْكُو مِنْ صُدَاعٍ خَفِيفٍ.", "okunus": "Mimme teşkû yâ seyyidî? Eşkû min sudâ‘in hafîfin.", "tr": "Neyden şikâyetçisin beyefendi? Hafif bir baş ağrısından şikâyetçiyim.", "not": "مِنْ + مَا → مِمَّ (doktor muayenesinin klasik sorusu!)." },
+        { "ar": "لِمَ لَمْ تَحْضُرْ دَرْسَ الْأَمْسِ؟ لِأَنِّي كُنْتُ مَرِيضًا.", "okunus": "Lime lem tahdur derse'l-emsi? Li-ennî kuntu marîdan.", "tr": "Dünkü derse niçin katılmadın? Çünkü hastaydım.", "not": "لِمَ (niçin) ve لَمْ (-medi) yan yana! Harekelerine dikkat!" },
+        { "ar": "عَلَامَ يَدُلُّ هٰذَا الْمِثَالُ؟ يَدُلُّ عَلَى أَهَمِّيَّةِ الصَّبْرِ.", "okunus": "‘Alâme yedullu hâze'l-misâlu? Yedullu ‘alâ ehemmiyyeti's-sabri.", "tr": "Bu örnek neye işaret ediyor? Sabrın önemine işaret ediyor.", "not": "عَلَى + مَا → عَلَامَ (دَلَّ عَلَى ile!)." }
+      ],
+      "tatbikler": [
+        { "id": "m08_g4_d1", "tip": "donusturme", "soru": "عَنْ + soru مَا birleştiğinde doğru yazılış hangisidir?", "secenekler": ["عَمَّ؟", "عَنْمَا؟", "عَمَّا؟", "عَنِمَ؟"], "dogruIndeks": 0, "aciklama": "Nûn mîme dönüşür (şedde) ve soru مَا'sının elifi düşer: عَمَّ؟" },
+        { "id": "m08_g4_d2", "tip": "donusturme", "soru": "مِنْ + soru مَا ('Neyden?') birleşimi hangisidir?", "secenekler": ["مِمَّ؟", "مِنْمَا؟", "مِمَّا؟", "مَنْمَ؟"], "dogruIndeks": 0, "aciklama": "مِنْ + مَا → مِمَّ؟ (elif düşer)." },
+        { "id": "m08_g4_d3", "tip": "bosluk", "soru": "....... تُفَكِّرُ يَا صَدِيقِي؟ (Ne düşünüyorsun arkadaşım?) boşluğuna hangisi gelir?", "secenekler": ["فِيمَ", "فِيمَا", "عَلَامَا", "بِمَا"], "dogruIndeks": 0, "aciklama": "فَكَّرَ فِي fiiliyle soru: فِيمَ (فِي + soru مَا, elif düşer)." },
+        { "id": "m08_g4_d4", "tip": "hata_bul", "soru": "'بِمَا تَكْتُبُ الدَّرْسَ؟' sorusundaki imlâ hatası nedir?", "secenekler": ["Soru مَا'sının elifi düşmeli: 'بِمَ تَكْتُبُ الدَّرْسَ؟'", "الدَّرْسَ dammeli olmalı", "تَكْتُبُ yanlış", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "Harf-i cer + soru مَا birleşiminde elif daima düşer: بِمَ." },
+        { "id": "m08_g4_d5", "tip": "bosluk", "soru": "....... يَتَكَوَّنُ هٰذَا الطَّعَامُ؟ (Bu yemek nelerden oluşuyor?) boşluğuna hangisi gelir?", "secenekler": ["مِمَّ", "عَمَّ", "بِمَ", "لِمَ"], "dogruIndeks": 0, "aciklama": "تَكَوَّنَ مِنْ (-den oluşmak) fiiliyle soru مِمَّ (neyden) kurulur." },
+        { "id": "m08_g4_d6", "tip": "tr_ar", "soru": "'Ne arıyorsun?' (بَحَثَ عَنْ) sorusu Arapçada nasıl sorulur?", "secenekler": ["عَمَّ تَبْحَثُ؟", "مِمَّ تَبْحَثُ؟", "بِمَ تَبْحَثُ؟", "لِمَ تَبْحَثُ؟"], "dogruIndeks": 0, "aciklama": "بَحَثَ عَنْ (aramak) fiili عَنْ ile kullanıldığı için soru عَمَّ تَبْحَثُ؟ olur." },
+        { "id": "m08_g4_d7", "tip": "bosluk", "soru": "'لِمَ' ve 'لَمْ' kelimeleri arasındaki anlam farkı nedir?", "secenekler": ["لِمَ = Niçin? (soru), لَمْ = -medi (olumsuzluk)", "İkisi de 'niçin?' demektir", "لِمَ = -medi, لَمْ = niçin?", "İkisi de zamirdir"], "dogruIndeks": 0, "aciklama": "لِمَ = لِـ + مَا (niçin?); لَمْ ise muzâriyi cezmeden geçmiş olumsuzluk edatıdır." },
+        { "id": "m08_g4_d8", "tip": "donusturme", "soru": "إِلَى + soru مَا ('Ne zamana kadar?') birleşimi hangisidir?", "secenekler": ["إِلَامَ؟", "إِلَيْمَا؟", "إِلَى مَا؟", "إِلَمَ؟"], "dogruIndeks": 0, "aciklama": "إِلَى'nın elif-i maksûresi dik elife döner, مَا'nın elifi düşer: إِلَامَ؟" },
+        { "id": "m08_g4_d9", "tip": "bosluk", "soru": "....... تَشْكُو؟ — أَشْكُو مِنْ أَلَمٍ فِي رَأْسِي. (Doktorun hastaya sorusu)", "secenekler": ["مِمَّ", "فِيمَ", "إِلَامَ", "لِمَ"], "dogruIndeks": 0, "aciklama": "شَكَا مِنْ (-den şikâyet etmek) → مِمَّ تَشْكُو؟" },
+        { "id": "m08_g4_d10", "tip": "bosluk", "soru": "لِمَاذَا ve لِمَ arasındaki fark nedir?", "secenekler": ["İkisi de 'Niçin?' demektir; لِمَ daha kısa ve vecizdir", "لِمَ sadece geçmiş zamanda kullanılır", "لِمَاذَا sadece kadınlara sorulur", "Anlamları tamamen zıttır"], "dogruIndeks": 0, "aciklama": "لِمَ ve لِمَاذَا eş anlamlıdır ('niçin?')." }
+      ]
+    },
+    {
+      "id": "m08_g5",
+      "baslik": "Olumsuz Soruya بَلَى Cevabı & Günlük İletişimde Nezaket Kalıpları",
+      "arBaslik": "الْجَوَابُ بِـ«بَلَى» وَأَسَالِيبُ التَّوَاصُلِ الْمُهَذَّبِ",
+      "mantik": "Arapçanın mantık harikalarından biri: Biri sana **OLUMSUZ BİR SORU** sorarsa — örneğin `أَلَيْسَ الْكِتَابُ مُفِيدًا؟` (Kitap faydalı **DEĞİL Mİ**?) — ve sen **'Bilakis, evet faydalıdır!'** (olumlu!) demek istiyorsan, sakın `نَعَمْ` deme! Çünkü Arapçada olumsuz soruya `نَعَمْ` dersen, karşındakinin olumsuz yargısını onaylamış ('Evet, dediğin gibi faydalı DEĞİL!') olursun!\nBunun yerine Arapçada olumsuzluğu kırıp **OLUMLU** cevap veren özel sihirli bir kelime vardır: **بَلَى** (Bilakis / Evet, öyledir)! Kur'an'daki meşhur `أَلَسْتُ بِرَبِّكُمْ؟ قَالُوا بَلَى!` ('Ben sizin Rabbiniz değil miyim? Dediler ki: Evet/Elbette öylesin!') ayeti bu kuralın en unutulmaz örneğidir!\n• Olumsuz soruya **OLUMLU** cevap → **بَلَى** (`أَلَسْتَ طَالِبًا؟ — بَلَى، أَنَا طَالِبٌ!`: Öğrenci değil misin? — Bilakis, öğrenciyim!)\n• Olumsuz soruya **OLUMSUZ** cevap → **نَعَمْ** (`أَلَسْتَ طَالِبًا؟ — نَعَمْ، لَسْتُ طَالِبًا.`: Öğrenci değil misin? — Evet, öğrenci değilim.)",
+      "formul": "Olumsuz Soru (أَلَيْسَ / أَلَمْ / أَلَا) → Olumlu Cevap: بَلَى!  |  Olumsuz Cevap: نَعَمْ (lâ/leyse...)",
+      "formulAr": "أَلَيْسَ الدَّرْسُ سَهْلًا؟ — بَلَى، الدَّرْسُ سَهْلٌ جِدًّا!",
+      "tablo": {
+        "baslik": "Olumlu vs. Olumsuz Soruya Cevap Tablosu + Günlük Nezaket Kalıpları",
+        "sutunlar": ["Soru Tipi", "Örnek Soru", "Olumlu Cevap", "Olumsuz Cevap"],
+        "satirlar": [
+          { "hucreler": ["Olumlu Soru (هَلْ)", "هَلْ أَنْتَ جَاهِزٌ؟ (Hazır mısın?)", "نَعَمْ، أَنَا جَاهِزٌ.", "لَا، لَسْتُ جَاهِزًا."], "ses": "هَلْ أَنْتَ جَاهِزٌ؟ نَعَمْ أَنَا جَاهِزٌ" },
+          { "hucreler": ["Olumsuz Soru (أَلَيْسَ)", "أَلَسْتَ جَاهِزًا؟ (Hazır değil misin?)", "بَلَى، أَنَا جَاهِزٌ! (Bilakis hazırım!)", "نَعَمْ، لَسْتُ جَاهِزًا. (Evet değilim.)"], "ses": "أَلَسْتَ جَاهِزًا؟ بَلَى أَنَا جَاهِزٌ" },
+          { "hucreler": ["Olumsuz Fiil Sorusu", "أَلَمْ تَفْهَمِ الدَّرْسَ؟ (Anlamadın mı?)", "بَلَى، فَهِمْتُهُ! (Bilakis anladım!)", "نَعَمْ، لَمْ أَفْهَمْهُ. (Evet anlamadım.)"], "ses": "أَلَمْ تَفْهَمِ الدَّرْسَ؟ بَلَى فَهِمْتُهُ" },
+          { "hucreler": ["Nezaket İfadeleri", "لَوْ سَمَحْتَ / مِنْ فَضْلِكَ", "تَفَضَّلْ / بِكُلِّ سُرُورٍ", "عَفْوًا / لَا بَأْسَ"], "ses": "لَوْ سَمَحْتَ، مِنْ فَضْلِكَ، بِكُلِّ سُرُورٍ" }
+        ]
+      },
+      "trKiyas": "Türkçede 'Gelmiyor musun?' sorusuna 'Evet geliyorum' derken aslında mantıksal bir bulanıklık oluşur; Arapça bunu **بَلَى** kelimesiyle bıçak gibi netleştirmiştir! YDS/YÖKDİL diyalog tamamlama sorularında `أَلَيْسَ...؟` veya `أَلَمْ...؟` gördüğün anda şıklarda **بَلَى** aramak sana altın puan kazandırır!",
+      "sikHatalar": [
+        "Olumsuz soruya ('أَلَيْسَ الطَّقْسُ جَمِيلًا؟') 'Evet güzel' anlamında نَعَمْ الطَّقْسُ جَمِيلٌ demek (YANLIŞ → doğrusu بَلَى، الطَّقْسُ جَمِيلٌ!).",
+        "Olumlu soruya ('هَلْ أَنْتَ طَالِبٌ؟') بَلَى diye cevap vermek (YANLIŞ! بَلَى sadece olumsuz sorudan sonra kullanılır!).",
+        "Kadına 'Affedersiniz' derken لَوْ سَمَحْتَ (erkeğe) demek; kadına **لَوْ سَمَحْتِ** (kesralı تِ) ve **مِنْ فَضْلِكِ** denir!"
+      ],
+      "ornekler": [
+        { "ar": "أَلَيْسَ الْعِلْمُ نُورًا؟ بَلَى، الْعِلْمُ نُورٌ يُضِيءُ الْحَيَاةَ.", "okunus": "E-leyse'l-‘ilmu nûran? Belâ, el-‘ilmu nûrun yudîu'l-hayâte.", "tr": "İlim nur değil midir? Elbette (bilakis), ilim hayatı aydınlatan bir nurdur.", "not": "Olumsuz soruya olumlu cevap: بَلَى!" },
+        { "ar": "أَلَمْ تَزُرْ مَدِينَةَ إِسْطَنْبُولَ مِنْ قَبْلُ؟ بَلَى، زُرْتُهَا مَرَّتَيْنِ.", "okunus": "E-lem tezur medînete İstânbûle min kablu? Belâ, zurtuhâ merrateyni.", "tr": "Daha önce İstanbul şehrini ziyaret etmedin mi? Bilakis, onu iki kez ziyaret ettim.", "not": "أَلَمْ (etmedin mi?) → بَلَى (ettim!)." },
+        { "ar": "أَلَا تُحِبُّ الْقَهْوَةَ التُّرْكِيَّةَ؟ بَلَى، أُحِبُّهَا كَثِيرًا!", "okunus": "E-lâ tuhibbu'l-kahvete't-turkiyyete? Belâ, uhibbuhâ kesîran!", "tr": "Türk kahvesini sevmiyor musun? Bilakis, onu çok seviyorum!", "not": "أَلَا + muzâri fiil → بَلَى." },
+        { "ar": "أَلَسْتَ مُتْعَبًا الْيَوْمَ؟ نَعَمْ، لَسْتُ مُتْعَبًا، أَنَا نَشِيطٌ.", "okunus": "E-leste mut‘aben el-yevme? Ne‘am, lestu mut‘aben, ene neşîtun.", "tr": "Bugün yorgun değil misin? Evet, yorgun değilim, dinçim.", "not": "Olumsuz yargıyı onaylarken نَعَمْ kullanılır." },
+        { "ar": "لَوْ سَمَحْتَ يَا أُسْتَاذُ، هَلْ يُمْكِنُ أَنْ أَسْأَلَ سُؤَالًا؟ بِكُلِّ سُرُورٍ، تَفَضَّلْ!", "okunus": "Lev semahte yâ ustâzu, hel yumkinu en es'ele suâlen? Bi-kulli surûrin, tefaddal!", "tr": "Affedersiniz hocam, bir soru sorabilir miyim? Memnuniyetle, buyurun!", "not": "Günlük iletişimde en zarif izin isteme kalıbı." },
+        { "ar": "مَا رَأْيُكَ فِي هٰذَا الْبَرْنَامَجِ؟ أَظُنُّ أَنَّهُ مُفِيدٌ وَمُمْتِعٌ جِدًّا.", "okunus": "Mâ ra'yuke fî hâze'l-bernâmeci? Ezunnu ennehu mufîdun ve mumti‘un cidden.", "tr": "Bu program hakkında görüşün ne? Onun çok faydalı ve keyifli olduğunu düşünüyorum.", "not": "مَا رَأْيُكَ فِي...؟ (Görüşün nedir?)." }
+      ],
+      "tatbikler": [
+        { "id": "m08_g5_d1", "tip": "bosluk", "soru": "أَلَيْسَ هٰذَا الْكِتَابُ رَائِعًا؟ — .......، هُوَ رَائِعٌ جِدًّا! boşluğuna doğru cevap edatı hangisidir?", "secenekler": ["بَلَى", "نَعَمْ", "لَا", "هَلْ"], "dogruIndeks": 0, "aciklama": "Olumsuz soruya (أَلَيْسَ) olumlu cevap بَلَى ile verilir." },
+        { "id": "m08_g5_d2", "tip": "bosluk", "soru": "أَلَمْ تَقْرَأِ الدَّرْسَ؟ (Dersi okumadın mı?) sorusuna 'Bilakis, okudum!' cevabı hangisidir?", "secenekler": ["بَلَى، قَرَأْتُهُ!", "نَعَمْ، قَرَأْتُهُ!", "لَا، قَرَأْتُهُ!", "نَعَمْ، لَمْ أَقْرَأْهُ."], "dogruIndeks": 0, "aciklama": "Olumsuzluğu iptal edip olumlu onay vermek için بَلَى kullanılır." },
+        { "id": "m08_g5_d3", "tip": "hata_bul", "soru": "'هَلْ أَنْتَ مُسْتَعِدٌّ؟ — بَلَى، أَنَا مُسْتَعِدٌّ' diyaloğundaki hata nedir?", "secenekler": ["Soru olumlu (هَلْ) olduğu için بَلَى değil نَعَمْ kullanılmalıdır", "مُسْتَعِدٌّ müennes olmalı", "هَلْ yerine أَيْنَ gelmeli", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "بَلَى yalnızca olumsuz sorulardan sonra kullanılır; olumlu soruda نَعَمْ gelir." },
+        { "id": "m08_g5_d4", "tip": "bosluk", "soru": "'أَلَسْتَ مَرِيضًا؟' (Hasta değil misin?) sorusuna biri 'نَعَمْ' diye cevap verirse ne demek istemiştir?", "secenekler": ["Evet, dediğin gibi hasta DEĞİLİM", "Evet, hastayım", "Bilmiyorum", "Doktora gittim"], "dogruIndeks": 0, "aciklama": "Olumsuz soruya نَعَمْ demek, sorudaki olumsuzluğu ('hasta değilim') onaylamaktır." },
+        { "id": "m08_g5_d5", "tip": "tr_ar", "soru": "Bir kadına 'Affedersiniz, lütfen...' diye hitap ederken hangisi doğrudur?", "secenekler": ["لَوْ سَمَحْتِ، مِنْ فَضْلِكِ...", "لَوْ سَمَحْتَ، مِنْ فَضْلِكَ...", "لَوْ سَمَحَ، مِنْ فَضْلِهِ...", "لَوْ سَمَحْتُمْ، مِنْ فَضْلِي..."], "dogruIndeks": 0, "aciklama": "Kadına hitap: لَوْ سَمَحْتِ (kesralı تِ) ve مِنْ فَضْلِكِ (kesralı كِ)." },
+        { "id": "m08_g5_d6", "tip": "bosluk", "soru": "'بِكُلِّ سُرُورٍ' nezaket ifadesinin Türkçe karşılığı nedir?", "secenekler": ["Memnuniyetle / Büyük bir sevinçle", "Üzgünüm", "Hoşça kal", "Ne zaman?"], "dogruIndeks": 0, "aciklama": "سُرُور = sevinç/memnuniyet; بِكُلِّ سُرُورٍ = memnuniyetle." },
+        { "id": "m08_g5_d7", "tip": "tr_ar", "soru": "'Bu ders hakkında görüşün nedir?' sorusu hangisidir?", "secenekler": ["مَا رَأْيُكَ فِي هٰذَا الدَّرْسِ؟", "كَمْ رَأْيُكَ فِي هٰذَا الدَّرْسِ؟", "مَنْ رَأْيُكَ فِي هٰذَا الدَّرْسِ؟", "مَتَى رَأْيُكَ فِي هٰذَا الدَّرْسِ؟"], "dogruIndeks": 0, "aciklama": "Görüş sorma kalıbı: مَا رَأْيُكَ فِي...؟" },
+        { "id": "m08_g5_d8", "tip": "bosluk", "soru": "أَلَا تَعْرِفُ عُنْوَانَ الْمَكْتَبَةِ؟ — .......، أَعْرِفُهُ جَيِّدًا!", "secenekler": ["بَلَى", "لَا", "نَعَمْ", "مَا"], "dogruIndeks": 0, "aciklama": "أَلَا (bilmiyor musun?) olumsuz sorusuna 'Bilakis, biliyorum' → بَلَى!" },
+        { "id": "m08_g5_d9", "tip": "bosluk", "soru": "Birisi size 'تَفَضَّلْ!' dediğinde ne demek istemiştir?", "secenekler": ["Buyurun!", "Dur!", "Teşekkürler!", "Hoşça kal!"], "dogruIndeks": 0, "aciklama": "تَفَضَّلْ (E) / تَفَضَّلِي (K) = Buyurun!" },
+        { "id": "m08_g5_d10", "tip": "bosluk", "soru": "Birisi sizden özür dilediğinde ('آسِفٌ جِدًّا!') vereceğiniz en kibar 'Önemli değil / Sorun yok' cevabı hangisidir?", "secenekler": ["لَا بَأْسَ!", "لِمَاذَا؟", "بِكَمْ؟", "أَيْنَ؟"], "dogruIndeks": 0, "aciklama": "لَا بَأْسَ = Önemli değil / Sorun yok." }
+      ]
+    }
+  ],
+  "workshop": {
+    "motors": [
+      {
+        "id": "m08_mot1",
+        "baslik": "Tanışma ve Temel Bilgi Soruları Motoru",
+        "aciklama": "Soru ismi + isim/fiil birleştirerek kusursuz tanışma soruları üret.",
+        "slotlar": [
+          {
+            "etiket": "Soru Başlangıcı",
+            "secenekler": [
+              { "ar": "مَا", "okunus": "Mâ", "tr": "Nedir" },
+              { "ar": "أَيْنَ", "okunus": "Eyne", "tr": "Nerededir" },
+              { "ar": "كَيْفَ", "okunus": "Keyfe", "tr": "Nasıldır" },
+              { "ar": "هَلْ", "okunus": "Hel", "tr": "... mı?" },
+              { "ar": "كَمْ", "okunus": "Kem", "tr": "Kaçtır" },
+              { "ar": "مِنْ أَيْنَ", "okunus": "Min eyne", "tr": "Neredendir" }
+            ]
+          },
+          {
+            "etiket": "Devam Öbeği",
+            "secenekler": [
+              { "ar": "اسْمُكَ الْكَرِيمُ؟", "okunus": "ismuke'l-kerîmu?", "tr": "değerli adınız?" },
+              { "ar": "عُنْوَانُ بَيْتِكَ؟", "okunus": "‘unvânu beytike?", "tr": "ev adresin?" },
+              { "ar": "حَالُ أُسْرَتِكَ؟", "okunus": "hâlu usratike?", "tr": "ailenin hâli?" },
+              { "ar": "عَمَلُكَ الْجَدِيدُ؟", "okunus": "‘ameluke'l-cedîdu?", "tr": "yeni işin?" },
+              { "ar": "عُمْرُ أَخِيكَ؟", "okunus": "‘umru ahîke?", "tr": "kardeşinin yaşı?" },
+              { "ar": "صَدِيقُكَ الْعَزِيزُ؟", "okunus": "sadîkuke'l-‘azîzu?", "tr": "değerli arkadaşın?" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m08_mot2",
+        "baslik": "أَ... أَمْ... Seçenek Sorusu Motoru",
+        "aciklama": "Hemze + ilk seçenek + أَمْ + ikinci seçenek yapısını akıcı biçimde üret.",
+        "slotlar": [
+          {
+            "etiket": "أَ + İlk Seçenek",
+            "secenekler": [
+              { "ar": "أَشَايًا تُرِيدُ", "okunus": "E-şâyen turîdu", "tr": "Çay mı istersin" },
+              { "ar": "أَطَالِبٌ أَنْتَ", "okunus": "E-tâlibun ente", "tr": "Öğrenci misin" },
+              { "ar": "أَبِالْقِطَارِ تُسَافِرُ", "okunus": "E-bi'l-kitâri tusâfiru", "tr": "Trenle mi yolculuk edersin" },
+              { "ar": "أَفِي الصَّبَاحِ تَدْرُسُ", "okunus": "E-fi's-sabâhi tedrusu", "tr": "Sabah mı çalışırsın" },
+              { "ar": "أَكِتَابًا تَقْرَأُ", "okunus": "E-kitâben takrau", "tr": "Kitap mı okuyorsun" },
+              { "ar": "أَقَرِيبٌ بَيْتُكَ", "okunus": "E-karîbun beytuke", "tr": "Evin yakın mı" }
+            ]
+          },
+          {
+            "etiket": "أَمْ + İkinci Seçenek",
+            "secenekler": [
+              { "ar": "أَمْ قَهْوَةً؟", "okunus": "em kahveten?", "tr": "yoksa kahve mi?" },
+              { "ar": "أَمْ مُوَظَّفٌ؟", "okunus": "em muvazzafun?", "tr": "yoksa memur mu?" },
+              { "ar": "أَمْ بِالطَّائِرَةِ؟", "okunus": "em bi't-tâirati?", "tr": "yoksa uçakla mı?" },
+              { "ar": "أَمْ فِي الْمَسَاءِ؟", "okunus": "em fi'l-mesâi?", "tr": "yoksa akşam mı?" },
+              { "ar": "أَمْ مَجَلَّةً؟", "okunus": "em mecelleten?", "tr": "yoksa dergi mi?" },
+              { "ar": "أَمْ بَعِيدٌ؟", "okunus": "em ba‘îdun?", "tr": "yoksa uzak mı?" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m08_mot3",
+        "baslik": "كَمْ + Tekil Mansub Temyiz Motoru",
+        "aciklama": "كَمْ sonrası tekil fethatânlı isim ve mekân/sahiplik ekleyerek kusursuz sayı soruları üret.",
+        "slotlar": [
+          {
+            "etiket": "كَمْ + Tekil Mansub",
+            "secenekler": [
+              { "ar": "كَمْ كِتَابًا", "okunus": "Kem kitâben", "tr": "Kaç kitap" },
+              { "ar": "كَمْ طَالِبًا", "okunus": "Kem tâliben", "tr": "Kaç öğrenci" },
+              { "ar": "كَمْ غُرْفَةً", "okunus": "Kem gurfeten", "tr": "Kaç oda" },
+              { "ar": "كَمْ قَلَمًا", "okunus": "Kem kalemen", "tr": "Kaç kalem" },
+              { "ar": "كَمْ سَاعَةً", "okunus": "Kem sâ‘aten", "tr": "Kaç saat" },
+              { "ar": "كَمْ أَخًا", "okunus": "Kem ehan", "tr": "Kaç kardeş" }
+            ]
+          },
+          {
+            "etiket": "Devam / Bağlam",
+            "secenekler": [
+              { "ar": "عِنْدَكَ فِي الْبَيْتِ؟", "okunus": "‘indeke fi'l-beyti?", "tr": "evinde var?" },
+              { "ar": "فِي هٰذَا الصَّفِّ؟", "okunus": "fî hâze's-saffi?", "tr": "bu sınıfta var?" },
+              { "ar": "فِي الشَّقَّةِ الْجَدِيدَةِ؟", "okunus": "fi'ş-şakkati'l-cedîdeti?", "tr": "yeni dairede var?" },
+              { "ar": "فِي حَقِيبَتِكَ؟", "okunus": "fî hakîbetike?", "tr": "çantanda var?" },
+              { "ar": "تَدْرُسُ فِي الْيَوْمِ؟", "okunus": "tedrusu fi'l-yevmi?", "tr": "günde çalışırsın?" },
+              { "ar": "لَكَ يَا صَدِيقِي؟", "okunus": "leke yâ sadîkî?", "tr": "senin var arkadaşım?" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m08_mot4",
+        "baslik": "أَيُّ / فِي أَيِّ + Mecrûr Muzâfun İleyh Motoru",
+        "aciklama": "أَيِّ harf-i cerle kesralanırken arkasındaki ismin de daima mecrûr olduğunu pratiğe dök.",
+        "slotlar": [
+          {
+            "etiket": "Harf-i Cer + أَيِّ + Mecrûr",
+            "secenekler": [
+              { "ar": "فِي أَيِّ مَدِينَةٍ", "okunus": "Fî eyyi medînetin", "tr": "Hangi şehirde" },
+              { "ar": "فِي أَيِّ كُلِّيَّةٍ", "okunus": "Fî eyyi kulliyyetin", "tr": "Hangi fakültede" },
+              { "ar": "فِي أَيِّ يَوْمٍ", "okunus": "Fî eyyi yevmin", "tr": "Hangi günde" },
+              { "ar": "فِي أَيِّ طَابَقٍ", "okunus": "Fî eyyi tâbikin", "tr": "Hangi katta" },
+              { "ar": "مِنْ أَيِّ بَلَدٍ", "okunus": "Min eyyi beledin", "tr": "Hangi ülkeden" },
+              { "ar": "إِلَى أَيِّ مَكَانٍ", "okunus": "İlâ eyyi mekânin", "tr": "Hangi yere" }
+            ]
+          },
+          {
+            "etiket": "Yüklem / Fiil",
+            "secenekler": [
+              { "ar": "تَسْكُنُ أُسْرَتُكَ؟", "okunus": "teskunu usratuke?", "tr": "ailen oturuyor?" },
+              { "ar": "تَدْرُسُ اللُّغَةَ الْعَرَبِيَّةَ؟", "okunus": "tedrusu'l-lugate'l-‘arabiyyete?", "tr": "Arapça okuyorsun?" },
+              { "ar": "يَبْدَأُ الدَّرْسُ الْجَدِيدُ؟", "okunus": "yebdeu'd-dersu'l-cedîdu?", "tr": "yeni ders başlıyor?" },
+              { "ar": "يَقَعُ مَكْتَبُ الْمُدِيرِ؟", "okunus": "yeka‘u mektebu'l-mudîri?", "tr": "müdürün ofisi bulunuyor?" },
+              { "ar": "جَاءَ هٰذَا الضَّيْفُ؟", "okunus": "câe hâze'd-dayfu?", "tr": "bu misafir geldi?" },
+              { "ar": "سَتُسَافِرُ فِي الْعُطْلَةِ؟", "okunus": "se-tusâfiru fi'l-‘utleti?", "tr": "tatilde seyahat edeceksin?" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m08_mot5",
+        "baslik": "Harf-i Cer + Soru مَا (عَمَّ / فِيمَ / بِمَ / مِمَّ / لِمَ) Motoru",
+        "aciklama": "Elifi düşmüş soru birleşimleriyle doğal ve fasih sorular oluştur.",
+        "slotlar": [
+          {
+            "etiket": "Birleşik Soru",
+            "secenekler": [
+              { "ar": "عَمَّ", "okunus": "‘Amme", "tr": "Ne hakkında" },
+              { "ar": "فِيمَ", "okunus": "Fîme", "tr": "Hangi konuda / Neyi" },
+              { "ar": "بِمَ", "okunus": "Bime", "tr": "Ne ile" },
+              { "ar": "مِمَّ", "okunus": "Mimme", "tr": "Neyden" },
+              { "ar": "لِمَ", "okunus": "Lime", "tr": "Niçin" },
+              { "ar": "عَلَامَ", "okunus": "‘Alâme", "tr": "Ne üzerine / Neye" }
+            ]
+          },
+          {
+            "etiket": "Fiil Bağlamı",
+            "secenekler": [
+              { "ar": "تَبْحَثُ الْآنَ؟", "okunus": "tebhasu'l-âne?", "tr": "şu an arıyorsun?" },
+              { "ar": "تُفَكِّرُ يَا صَدِيقِي؟", "okunus": "tufekkiru yâ sadîkî?", "tr": "düşünüyorsun arkadaşım?" },
+              { "ar": "تَكْتُبُ رِسَالَتَكَ؟", "okunus": "tektubu risâleteke?", "tr": "mektubunu yazıyorsun?" },
+              { "ar": "تَشْكُو يَا مَرِيضُ؟", "okunus": "teşkû yâ marîdu?", "tr": "şikâyetçisin hasta?" },
+              { "ar": "تَتَحَدَّثُ فِي الْمُحَاضَرَةِ؟", "okunus": "tetehaddesu fi'l-muhâdarati?", "tr": "derste konuşuyorsun?" },
+              { "ar": "يَدُلُّ هٰذَا النَّصُّ؟", "okunus": "yedullu hâze'n-nassu?", "tr": "bu metin işaret ediyor?" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m08_mot6",
+        "baslik": "Olumsuz Soru + بَلَى Cevap Motoru",
+        "aciklama": "أَلَيْسَ / أَلَمْ sorularına بَلَى ile keskin ve doğru olumlu cevaplar ver.",
+        "slotlar": [
+          {
+            "etiket": "Olumsuz Soru",
+            "secenekler": [
+              { "ar": "أَلَيْسَ الدَّرْسُ سَهْلًا؟", "okunus": "E-leyse'd-dersu sehlen?", "tr": "Ders kolay değil mi?" },
+              { "ar": "أَلَيْسَ الطَّقْسُ جَمِيلًا؟", "okunus": "E-leyse't-taksu cemîlen?", "tr": "Hava güzel değil mi?" },
+              { "ar": "أَلَسْتَ طَالِبًا هُنَا؟", "okunus": "E-leste tâliben hunâ?", "tr": "Burada öğrenci değil misin?" },
+              { "ar": "أَلَمْ تَقْرَأِ الْكِتَابَ؟", "okunus": "E-lem takrai'l-kitâbe?", "tr": "Kitabı okumadın mı?" },
+              { "ar": "أَلَا تُحِبُّ الشَّايَ؟", "okunus": "E-lâ tuhibbu'ş-şâye?", "tr": "Çayı sevmiyor musun?" },
+              { "ar": "أَلَيْسَ الْمَطْعَمُ قَرِيبًا؟", "okunus": "E-leyse'l-mat‘amu karîben?", "tr": "Lokanta yakın değil mi?" }
+            ]
+          },
+          {
+            "etiket": "بَلَى Cevabı",
+            "secenekler": [
+              { "ar": "بَلَى، سَهْلٌ وَوَاضِحٌ جِدًّا!", "okunus": "Belâ, sehlun ve vâdihun cidden!", "tr": "Bilakis, çok kolay ve açık!" },
+              { "ar": "بَلَى، جَمِيلٌ وَلَطِيفٌ جِدًّا!", "okunus": "Belâ, cemîlun ve latîfun cidden!", "tr": "Bilakis, çok güzel ve hoş!" },
+              { "ar": "بَلَى، أَنَا طَالِبٌ فِي السَّنَةِ الثَّانِيَةِ!", "okunus": "Belâ, ene tâlibun fi's-seneti's-sâniyeti!", "tr": "Bilakis, ikinci sınıf öğrencisiyim!" },
+              { "ar": "بَلَى، قَرَأْتُهُ كَامِلًا!", "okunus": "Belâ, kara'tuhu kâmilen!", "tr": "Bilakis, tamamını okudum!" },
+              { "ar": "بَلَى، أُحِبُّهُ كَثِيرًا!", "okunus": "Belâ, uhibbuhu kesîran!", "tr": "Bilakis, onu çok severim!" },
+              { "ar": "بَلَى، هُوَ قَرِيبٌ مِنَّا جِدًّا!", "okunus": "Belâ, huve karîbun minnâ cidden!", "tr": "Bilakis, bize çok yakın!" }
+            ]
+          }
+        ]
+      }
+    ],
+    "merdivenler": [
+      {
+        "id": "m08_lad1",
+        "baslik": "A1 → B2 Merdiveni: Basit Tanışmadan Mülakat Sorusuna",
+        "adimlar": [
+          { "seviye": "A1", "ar": "مَا اسْمُكَ؟", "okunus": "Me'smuke?", "tr": "Adın ne?", "ekleme": "En temel مَا sorusu" },
+          { "seviye": "A1+", "ar": "مَا اسْمُكَ، وَمِنْ أَيْنَ أَنْتَ؟", "okunus": "Me'smuke, ve min eyne ente?", "tr": "Adın ne ve nerelisin?", "ekleme": "مِنْ أَيْنَ eklendi" },
+          { "seviye": "A2", "ar": "لَوْ سَمَحْتَ، فِي أَيِّ كُلِّيَّةٍ تَدْرُسُ وَمَا تَخَصُّصُكَ؟", "okunus": "Lev semahte, fî eyyi kulliyyetin tedrusu ve mâ tehassusuke?", "tr": "Affedersiniz, hangi fakültede okuyorsunuz ve bölümünüz nedir?", "ekleme": "Nezaket (لَوْ سَمَحْتَ) + فِي أَيِّ" },
+          { "seviye": "B1", "ar": "لِمَاذَا اخْتَرْتَ هٰذَا التَّخَصُّصَ، وَكَمْ سَنَةً بَقِيَتْ لِلتَّخَرُّجِ؟", "okunus": "Limâze'hterte hâze't-tehassusa, ve kem seneten bakiyet li't-teharruci?", "tr": "Bu bölümü niçin seçtin ve mezuniyete kaç yıl kaldı?", "ekleme": "لِمَاذَا + كَمْ سَنَةً" },
+          { "seviye": "B2", "ar": "مَا رَأْيُكَ فِي تَعَلُّمِ اللُّغَاتِ الْأَجْنَبِيَّةِ، وَفِيمَ تُفَكِّرُ بَعْدَ التَّخَرُّجِ؟", "okunus": "Mâ ra'yuke fî te‘allumi'l-lugâti'l-ecnebiyyeti, ve fîme tufekkiru ba‘de't-teharruci?", "tr": "Yabancı dil öğrenmek hakkında görüşün nedir ve mezuniyetten sonra ne planlıyorsun?", "ekleme": "مَا رَأْيُكَ فِي + فِيمَ (elif hazfi)" }
+        ]
+      },
+      {
+        "id": "m08_lad2",
+        "baslik": "A1 → B2 Merdiveni: Alışveriş Sorularının Genişlemesi",
+        "adimlar": [
+          { "seviye": "A1", "ar": "بِكَمْ هٰذَا؟", "okunus": "Bi-kem hâzâ?", "tr": "Bu kaça?", "ekleme": "Temel fiyat sorusu" },
+          { "seviye": "A1+", "ar": "مِنْ فَضْلِكَ، بِكَمْ هٰذَا الْكِتَابُ الْعَرَبِيُّ؟", "okunus": "Min fadlike, bi-kem hâze'l-kitâbu'l-‘arabiyyu?", "tr": "Lütfen, bu Arapça kitap kaça?", "ekleme": "مِنْ فَضْلِكَ + sıfat tamlaması" },
+          { "seviye": "A2", "ar": "هَلْ عِنْدَكُمْ نُسْخَةٌ أُخْرَى، وَكَمْ سِعْرُ الْكِتَابَيْنِ مَعًا؟", "okunus": "Hel ‘indekum nushatun uhrâ, ve kem si‘ru'l-kitâbeyni me‘an?", "tr": "Başka bir nüshanız var mı ve iki kitabın birlikte fiyatı kaç?", "ekleme": "هَلْ + كَمْ سِعْرُ" },
+          { "seviye": "B1", "ar": "أَتَقْبَلُونَ الدَّفْعَ بِالْبِطَاقَةِ الْبَنْكِيَّةِ أَمْ نَقْدًا فَقَطْ؟", "okunus": "E-takbelûne'd-def‘a bi'l-bitâkati'l-benkiyyeti em nakden fakat?", "tr": "Banka kartıyla ödeme kabul ediyor musunuz yoksa sadece nakit mi?", "ekleme": "أَ... أَمْ... seçenek sorusu" },
+          { "seviye": "B2", "ar": "أَلَيْسَ هُنَاكَ خَصْمٌ خَاصٌّ لِطُلَّابِ الْجَامِعَةِ عِنْدَ شِرَاءِ الْمَجْمُوعَةِ الْكَامِلَةِ؟", "okunus": "E-leyse hunâke hasmun hâssun li-tullâbi'l-câmi‘ati ‘inde şirâi'l-mecmû‘ati'l-kâmileti?", "tr": "Tam seti satın alırken üniversite öğrencilerine özel bir indirim yok mu?", "ekleme": "أَلَيْسَ olumsuz sorusu (بَلَى bekler)" }
+        ]
+      },
+      {
+        "id": "m08_lad3",
+        "baslik": "A1 → B2 Merdiveni: Yolculuk ve Saat Sormadan Rezervasyona",
+        "adimlar": [
+          { "seviye": "A1", "ar": "مَتَى الْقِطَارُ؟", "okunus": "Mete'l-kitâru?", "tr": "Tren ne zaman?", "ekleme": "Temel مَتَى sorusu" },
+          { "seviye": "A1+", "ar": "مَتَى يَنْطَلِقُ الْقِطَارُ إِلَى أَنْقَرَةَ؟", "okunus": "Metâ yentaliku'l-kitâru ilâ Enkara?", "tr": "Ankara'ya tren ne zaman hareket ediyor?", "ekleme": "Fiil + yönelme" },
+          { "seviye": "A2", "ar": "كَمْ سَاعَةً تَسْتَغْرِقُ الرِّحْلَةُ، وَمِنْ أَيِّ رَصِيفٍ يَنْطَلِقُ الْقِطَارُ؟", "okunus": "Kem sâ‘aten testagriku'r-rihletu, ve min eyyi rasîfin yentaliku'l-kitâru?", "tr": "Yolculuk kaç saat sürüyor ve tren hangi perondan kalkıyor?", "ekleme": "كَمْ سَاعَةً + مِنْ أَيِّ" },
+          { "seviye": "B1", "ar": "بِمَ تَنْصَحُنِي: أَأَحْجِزُ تَذْكِرَةً فِي الدَّرَجَةِ الْأُولَى أَمِ الثَّانِيَةِ؟", "okunus": "Bime tensahunî: e-ehcizu tezkiraten fi'd-dereceti'l-ûlâ emi's-sâniyeti?", "tr": "Bana ne tavsiye edersin: Birinci sınıftan mı yoksa ikinci sınıftan mı bilet ayırtayım?", "ekleme": "بِمَ + أَ... أَمْ..." },
+          { "seviye": "B2", "ar": "أَلَمْ تُعْلِنِ الْمَحَطَّةُ بَعْدُ عَنْ مَوْعِدِ وُصُولِ الْقِطَارِ السَّرِيعِ الْقَادِمِ مِنَ الْعَاصِمَةِ؟", "okunus": "E-lem tu‘lini'l-mahattatu ba‘du ‘an mev‘idi vusûli'l-kitâri's-serî‘i'l-kâdimi mine'l-‘âsimeti?", "tr": "İstasyon başkentten gelen hızlı trenin varış saatini henüz duyurmadı mı?", "ekleme": "أَلَمْ olumsuz soru + akademik izâfet" }
+        ]
+      },
+      {
+        "id": "m08_lad4",
+        "baslik": "A1 → B2 Merdiveni: Akademik Araştırma Sorusuna Yükseliş",
+        "adimlar": [
+          { "seviye": "A1", "ar": "مَاذَا تَقْرَأُ؟", "okunus": "Mâzâ takrau?", "tr": "Ne okuyorsun?", "ekleme": "Temel مَاذَا sorusu" },
+          { "seviye": "A1+", "ar": "عَمَّ يَتَحَدَّثُ هٰذَا الْكِتَابُ؟", "okunus": "‘Amme yetehaddesu hâze'l-kitâbu?", "tr": "Bu kitap ne hakkında konuşuyor?", "ekleme": "عَمَّ (عَنْ + مَا)" },
+          { "seviye": "A2", "ar": "مَنْ مُؤَلِّفُ هٰذَا الْكِتَابِ، وَمَتَى صَدَرَتْ طَبْعَتُهُ الْأُولَى؟", "okunus": "Men muellifu hâze'l-kitâbi, ve metâ sadarat tab‘atuhu'l-ûlâ?", "tr": "Bu kitabın yazarı kim ve ilk baskısı ne zaman çıktı?", "ekleme": "مَنْ + مَتَى" },
+          { "seviye": "B1", "ar": "مِمَّ يَتَكَوَّنُ الْفَصْلُ الثَّانِي، وَعَلَامَ يَعْتَمِدُ الْبَاحِثُ فِي دِرَاسَتِهِ؟", "okunus": "Mimme yetekevvenu'l-faslu's-sânî, ve ‘alâme ya‘temidu'l-bâhisu fî dirâsetihi?", "tr": "İkinci bölüm nelerden oluşuyor ve araştırmacı çalışmasında neye dayanıyor?", "ekleme": "مِمَّ + عَلَامَ birleşik soruları" },
+          { "seviye": "B2", "ar": "أَلَيْسَ مِنْ الْأَفْضَلِ أَنْ نُقَارِنَ بَيْنَ مَصَادِرَ مُتَعَدِّدَةٍ قَبْلَ كِتَابَةِ الْخُلَاصَةِ النِّهَائِيَّةِ؟", "okunus": "E-leyse mine'l-efdali en nukârine beyne mesâdira mute‘addidetin kable kitâbeti'l-hulâsati'n-nihâiyyeti?", "tr": "Son özeti yazmadan önce birden fazla kaynağı karşılaştırmamız daha iyi değil midir?", "ekleme": "أَلَيْسَ + akademik üslup" }
+        ]
+      }
+    ],
+    "bloklar": [
+      { "id": "m08_b01", "hedefAr": "هَلْ أَنْتَ طَالِبٌ جَدِيدٌ؟", "tr": "Sen yeni bir öğrenci misin?", "karisik": ["طَالِبٌ", "أَنْتَ", "هَلْ", "جَدِيدٌ؟"] },
+      { "id": "m08_b02", "hedefAr": "أَشَايًا تُرِيدُ أَمْ قَهْوَةً؟", "tr": "Çay mı istersin yoksa kahve mi?", "karisik": ["قَهْوَةً؟", "تُرِيدُ", "أَشَايًا", "أَمْ"] },
+      { "id": "m08_b03", "hedefAr": "مِنْ أَيْنَ أَنْتَ يَا أَخِي؟", "tr": "Nerelisin kardeşim?", "karisik": ["أَخِي؟", "أَيْنَ", "أَنْتَ", "مِنْ", "يَا"] },
+      { "id": "m08_b04", "hedefAr": "إِلَى أَيْنَ تَذْهَبُ الْآنَ؟", "tr": "Şu an nereye gidiyorsun?", "karisik": ["الْآنَ؟", "أَيْنَ", "تَذْهَبُ", "إِلَى"] },
+      { "id": "m08_b05", "hedefAr": "مَاذَا تَفْعَلُ فِي وَقْتِ فَرَاغِكَ؟", "tr": "Boş vaktinde ne yaparsın?", "karisik": ["فَرَاغِكَ؟", "تَفْعَلُ", "مَاذَا", "وَقْتِ", "فِي"] },
+      { "id": "m08_b06", "hedefAr": "كَمْ طَالِبًا فِي هٰذَا الصَّفِّ؟", "tr": "Bu sınıfta kaç öğrenci var?", "karisik": ["الصَّفِّ؟", "طَالِبًا", "كَمْ", "هٰذَا", "فِي"] },
+      { "id": "m08_b07", "hedefAr": "بِكَمْ هٰذَا الْكِتَابُ الْجَمِيلُ؟", "tr": "Bu güzel kitap kaça?", "karisik": ["الْجَمِيلُ؟", "هٰذَا", "بِكَمْ", "الْكِتَابُ"] },
+      { "id": "m08_b08", "hedefAr": "فِي أَيِّ جَامِعَةٍ تَدْرُسُ؟", "tr": "Hangi üniversitede okuyorsun?", "karisik": ["تَدْرُسُ؟", "أَيِّ", "فِي", "جَامِعَةٍ"] },
+      { "id": "m08_b09", "hedefAr": "عَمَّ تَبْحَثُ فِي الْمَكْتَبَةِ؟", "tr": "Kütüphanede ne arıyorsun?", "karisik": ["الْمَكْتَبَةِ؟", "تَبْحَثُ", "عَمَّ", "فِي"] },
+      { "id": "m08_b10", "hedefAr": "فِيمَ تُفَكِّرُ يَا صَدِيقِي؟", "tr": "Ne düşünüyorsun arkadaşım?", "karisik": ["صَدِيقِي؟", "تُفَكِّرُ", "يَا", "فِيمَ"] },
+      { "id": "m08_b11", "hedefAr": "مِمَّ تَشْكُو يَا سَيِّدِي؟", "tr": "Neyden şikâyetçisin beyefendi?", "karisik": ["سَيِّدِي؟", "تَشْكُو", "مِمَّ", "يَا"] },
+      { "id": "m08_b12", "hedefAr": "أَلَيْسَ الدَّرْسُ سَهْلًا الْيَوْمَ؟", "tr": "Bugün ders kolay değil mi?", "karisik": ["الْيَوْمَ؟", "سَهْلًا", "أَلَيْسَ", "الدَّرْسُ"] },
+      { "id": "m08_b13", "hedefAr": "بَلَى، الدَّرْسُ سَهْلٌ جِدًّا!", "tr": "Bilakis, ders çok kolay!", "karisik": ["جِدًّا!", "سَهْلٌ", "بَلَى،", "الدَّرْسُ"] },
+      { "id": "m08_b14", "hedefAr": "لِمَاذَا تَتَعَلَّمُ اللُّغَةَ الْعَرَبِيَّةَ؟", "tr": "Niçin Arapça öğreniyorsun?", "karisik": ["الْعَرَبِيَّةَ؟", "تَتَعَلَّمُ", "لِمَاذَا", "اللُّغَةَ"] },
+      { "id": "m08_b15", "hedefAr": "مَا رَأْيُكَ فِي هٰذَا الْكِتَابِ؟", "tr": "Bu kitap hakkında görüşün nedir?", "karisik": ["الْكِتَابِ؟", "رَأْيُكَ", "مَا", "هٰذَا", "فِي"] }
+    ]
+  },
+  "readings": [
+    {
+      "id": "m08_r1",
+      "baslik": "Üniversitenin İlk Günü ve Yeni Arkadaşlık",
+      "arBaslik": "الْيَوْمُ الْأَوَّلُ فِي الْجَامِعَةِ وَصَدَاقَةٌ جَدِيدَةٌ",
+      "seviye": "A1",
+      "paragraflar": [
+        {
+          "ar": "فِي الْيَوْمِ الْأَوَّلِ مِنَ الْعَامِ الدِّرَاسِيِّ، دَخَلَ سَامِي قَاعَةَ الْمُحَاضَرَاتِ وَجَلَسَ بِجَانِبِ شَابٍّ مُبْتَسِمٍ. سَلَّمَ عَلَيْهِ وَسَأَلَهُ: «السَّلَامُ عَلَيْكُمْ، مَا اسْمُكَ وَمِنْ أَيْنَ أَنْتَ؟».",
+          "okunus": "Fi'l-yevmi'l-evveli mine'l-‘âmi'd-dirâsiyyi, dehale Sâmî kâ‘ate'l-muhâdarâti ve celese bi-cânibi şâbbin mubtesimin. Selleme ‘aleyhi ve seelehu: «Es-selâmu ‘aleykum, me'smuke ve min eyne ente?».",
+          "tr": "Eğitim yılının ilk gününde Sami ders salonuna girdi ve gülümseyen bir gencin yanına oturdu. Ona selam verdi ve sordu: 'Selamün aleyküm, adın ne ve nerelisin?'.",
+          "analiz": [
+            { "kelime": "مَا اسْمُكَ", "kok": "س م و", "gramer": "مَا soru ismi + isim cümlesi", "tr": "adın ne" },
+            { "kelime": "مِنْ أَيْنَ", "kok": "أ ي ن", "gramer": "Harf-i cer + yer soru ismi", "tr": "nereden" }
+          ]
+        },
+        {
+          "ar": "أَجَابَ الشَّابُّ بِسُرُورٍ: «وَعَلَيْكُمُ السَّلَامُ، اسْمِي حَسَنٌ، وَأَنَا مِنْ مَدِينَةِ بُورْصَا. وَأَنْتَ، مِنْ أَيِّ مَدِينَةٍ جِئْتَ؟ وَفِي أَيِّ سَنَةٍ تَدْرُسُ؟».",
+          "okunus": "Ecâbe'ş-şâbbu bi-surûrin: «Ve ‘aleykumu's-selâmu, ismî Hasenun, ve ene min medîneti Bûrsâ. Ve ente, min eyyi medînetin ci'te? Ve fî eyyi senetin tedrusu?».",
+          "tr": "Genç sevinçle cevap verdi: 'Aleykümselam, adım Hasan ve Bursa şehrindenim. Peki sen hangi şehirden geldin ve kaçıncı sınıfta okuyorsun?'.",
+          "analiz": [
+            { "kelime": "مِنْ أَيِّ مَدِينَةٍ", "kok": "م د ن", "gramer": "مِنْ + أَيِّ (mecrûr) + muzâfun ileyh", "tr": "hangi şehirden" },
+            { "kelime": "فِي أَيِّ سَنَةٍ", "kok": "س ن و", "gramer": "فِي + أَيِّ + mecrûr", "tr": "hangi yılda" }
+          ]
+        },
+        {
+          "ar": "قَالَ سَامِي: «أَنَا مِنْ إِسْطَنْبُولَ، وَهٰذِهِ سَنَتِي الْأُولَى. كَمْ مَادَّةً تَدْرُسُ هٰذَا الْفَصْلَ؟ وَهَلِ الدُّرُوسُ صَعْبَةٌ أَمْ سَهْلَةٌ؟» فَضَحِكَ حَسَنٌ وَقَالَ: «أَدْرُسُ سِتَّ مَوَادَّ، وَأَلَيْسَ الْجِدُّ وَالِاجْتِهَادُ يَجْعَلَانِ كُلَّ شَيْءٍ سَهْلًا؟».",
+          "okunus": "Kâle Sâmî: «Ene min İstânbûle, ve hâzihi seneti'l-ûlâ. Kem mâddeten tedrusu hâze'l-fasle? Ve heli'd-durûsu sa‘betun em sehletun?» Fe-dahike Hasenun ve kâle: «Edrusu sitte mevâdde, ve e-leyse'l-ciddu ve'l-ictihâdu yec‘alâni kulle şey'in sehlen?».",
+          "tr": "Sami dedi ki: 'İstanbul'danım ve bu benim ilk yılım. Bu dönem kaç ders alıyorsun? Dersler zor mu kolay mı?' Hasan güldü ve dedi ki: 'Altı ders alıyorum; ciddiyet ve gayret her şeyi kolaylaştırmaz mı?'.",
+          "analiz": [
+            { "kelime": "كَمْ مَادَّةً", "kok": "م د د", "gramer": "كَمْ + tekil mansub temyiz", "tr": "kaç ders" },
+            { "kelime": "أَلَيْسَ", "kok": "ل ي س", "gramer": "Olumsuz soru (بَلَى cevabı bekler)", "tr": "... değil mi?" }
+          ]
+        },
+        {
+          "ar": "أَجَابَ سَامِي مُبْتَسِمًا: «بَلَى، صَدَقْتَ! لِمَاذَا لَا نُذَاكِرُ مَعًا فِي الْمَكْتَبَةِ بَعْدَ الْمُحَاضَرَةِ؟». فَرِحَ حَسَنٌ بِهٰذِهِ الْفِكْرَةِ، وَاتَّفَقَا عَلَى اللِّقَاءِ كُلَّ يَوْمٍ.",
+          "okunus": "Ecâbe Sâmî mubtesimen: «Belâ, sadakte! Limâzâ lâ nuzâkiru me‘an fi'l-mektebeti ba‘de'l-muhâdarati?». Feriha Hasenun bi-hâzihi'l-fikrati, ve'ttefakâ ‘ale'l-likâi kulle yevmin.",
+          "tr": "Sami gülümseyerek cevap verdi: 'Bilakis, doğru söyledin! Dersten sonra neden kütüphanede birlikte çalışmıyoruz?'. Hasan bu fikre sevindi ve her gün buluşmak üzere anlaştılar.",
+          "analiz": [
+            { "kelime": "بَلَى", "kok": "—", "gramer": "Olumsuz soruya olumlu cevap harfi", "tr": "bilakis / elbette" },
+            { "kelime": "لِمَاذَا", "kok": "—", "gramer": "Sebep soru ismi", "tr": "niçin / neden" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m08_r1_q1", "soru": "Hasan hangi şehirdendir?", "secenekler": ["Bursa", "İstanbul", "Ankara", "İzmir"], "dogruIndeks": 0, "aciklama": "'اسْمِي حَسَنٌ، وَأَنَا مِنْ مَدِينَةِ بُورْصَا'." },
+        { "id": "m08_r1_q2", "soru": "Hasan bu dönem kaç ders almaktadır?", "secenekler": ["Altı ders", "Üç ders", "On ders", "İki ders"], "dogruIndeks": 0, "aciklama": "'أَدْرُسُ سِتَّ مَوَادَّ'." },
+        { "id": "m08_r1_q3", "soru": "Sami neden 'نَعَمْ' yerine 'بَلَى' diye cevap vermiştir?", "secenekler": ["Çünkü Hasan'ın sorusu 'أَلَيْسَ...' şeklinde olumsuz bir soruydu", "Çünkü cümle gelecek zamandaydı", "Çünkü olumsuz cevap vermek istedi", "Çünkü soru كَمْ ile başlıyordu"], "dogruIndeks": 0, "aciklama": "Olumsuz soruya (أَلَيْسَ) olumlu onay بَلَى ile verilir." },
+        { "id": "m08_r1_q4", "soru": "Sami dersten sonra ne yapmayı teklif etti?", "secenekler": ["Kütüphanede birlikte ders çalışmayı", "Sinemaya gitmeyi", "Bursa'ya seyahat etmeyi", "Futbol oynamayı"], "dogruIndeks": 0, "aciklama": "'لِمَاذَا لَا نُذَاكِرُ مَعًا فِي الْمَكْتَبَةِ بَعْدَ الْمُحَاضَرَةِ؟'." },
+        { "id": "m08_r1_q5", "soru": "'كَمْ مَادَّةً' ifadesinde مَادَّةً neden fethatân (mansub) olmuştur?", "secenekler": ["Soru كَمْ'inden sonra tekil mansub temyiz gelir", "Harf-i cerden sonra geldiği için", "Mübtedâ olduğu için", "Çoğul olduğu için"], "dogruIndeks": 0, "aciklama": "كَمْ istifhamiyyenin temyizi daima tekil, nekre ve mansubdur." }
+      ]
+    },
+    {
+      "id": "m08_r2",
+      "baslik": "Doktor Muayenesinde Sorular ve Cevaplar",
+      "arBaslik": "فِي عِيَادَةِ الطَّبِيبِ",
+      "seviye": "A1",
+      "paragraflar": [
+        {
+          "ar": "شَعَرَ كَرِيمٌ بِتَعَبٍ خَفِيفٍ فِي الصَّبَاحِ، فَذَهَبَ إِلَى عِيَادَةِ الطَّبِيبِ الْقَرِيبَةِ مِنْ بَيْتِهِ. اِسْتَقْبَلَهُ الطَّبِيبُ بِابْتِسَامَةٍ لَطِيفَةٍ وَسَأَلَهُ: «أَهْلًا يَا كَرِيمُ، مِمَّ تَشْكُو الْيَوْمَ؟».",
+          "okunus": "Şe‘ara Kerîmun bi-te‘abin hafîfin fi's-sabâhi, fe-zehebe ilâ ‘iyâdeti't-tabîbi'l-karîbeti min beytihi. İstekbelehu't-tabîbu bi'btisâmetin latîfetin ve seelehu: «Ehlen yâ Kerîmu, mimme teşkû'l-yevme?».",
+          "tr": "Kerim sabah hafif bir yorgunluk hissetti ve evine yakın olan doktor muayenehanesine gitti. Doktor onu hoş bir gülümsemeyle karşıladı ve sordu: 'Hoş geldin Kerim, bugün neyden şikâyetçisin?'.",
+          "analiz": [
+            { "kelime": "مِمَّ", "kok": "—", "gramer": "مِنْ + soru مَا (elif hazfi)", "tr": "neyden" },
+            { "kelime": "تَشْكُو", "kok": "ش ك و", "gramer": "Muzâri fiil (مِنْ ile kullanılır)", "tr": "şikâyet ediyorsun" }
+          ]
+        },
+        {
+          "ar": "قَالَ كَرِيمٌ: «أَشْكُو مِنْ صُدَاعٍ وَأَلَمٍ فِي الْحَلْقِ». فَسَأَلَ الطَّبِيبُ: «مَتَى بَدَأَ هٰذَا الْأَلَمُ؟ وَهَلْ عِنْدَكَ حُمَّى أَوْ سُعَالٌ؟». أَجَابَ كَرِيمٌ: «بَدَأَ مَسَاءَ أَمْسِ، وَلَيْسَ عِنْدِي حُمَّى».",
+          "okunus": "Kâle Kerîmun: «Eşkû min sudâ‘in ve elemin fi'l-halki». Fe-seele't-tabîbu: «Metâ bedee hâze'l-elemu? Ve hel ‘indeke hummâ ev su‘âlun?». Ecâbe Kerîmun: «Bedee mesâe emsi, ve leyse ‘indî hummâ».",
+          "tr": "Kerim dedi ki: 'Baş ağrısından ve boğaz ağrısından şikâyetçiyim'. Doktor sordu: 'Bu ağrı ne zaman başladı? Ateşin veya öksürüğün var mı?'. Kerim cevapladı: 'Dün akşam başladı, ateşim yok'.",
+          "analiz": [
+            { "kelime": "مَتَى", "kok": "—", "gramer": "Zaman soru ismi", "tr": "ne zaman" },
+            { "kelime": "هَلْ عِنْدَكَ", "kok": "ع ن د", "gramer": "Soru harfi + sahiplik zarfı", "tr": "sende ... var mı?" }
+          ]
+        },
+        {
+          "ar": "فَحَصَ الطَّبِيبُ كَرِيمًا بِعِنَايَةٍ ثُمَّ سَأَلَهُ: «كَمْ سَاعَةً تَنَامُ فِي اللَّيْلِ؟ وَهَلْ شَرِبْتَ مَاءً بَارِدًا جِدًّا؟». قَالَ كَرِيمٌ: «أَنَامُ خَمْسَ سَاعَاتٍ فَقَطْ، وَشَرِبْتُ عَصِيرًا بَارِدًا بَعْدَ الرِّيَاضَةِ».",
+          "okunus": "Fehasa't-tabîbu Kerîmen bi-‘inâyetin summe seelehu: «Kem sâ‘aten tenâmu fi'l-leyli? Ve hel şeribte mâen bâridan cidden?». Kâle Kerîmun: «Enâmu hamse sâ‘âtin fakat, ve şeribtu ‘asîran bâridan ba‘de'r-riyâdati».",
+          "tr": "Doktor Kerim'i özenle muayene etti sonra ona sordu: 'Gece kaç saat uyuyorsun? Çok soğuk su içtin mi?'. Kerim dedi ki: 'Sadece beş saat uyuyorum ve spordan sonra soğuk meyve suyu içtim'.",
+          "analiz": [
+            { "kelime": "كَمْ سَاعَةً", "kok": "س و ع", "gramer": "كَمْ + tekil mansub temyiz", "tr": "kaç saat" },
+            { "kelime": "هَلْ شَرِبْتَ", "kok": "ش ر ب", "gramer": "Soru harfi + mâzi fiil", "tr": "içtin mi" }
+          ]
+        },
+        {
+          "ar": "قَالَ الطَّبِيبُ: «لَا تَقْلَقْ، هٰذَا زُكَامٌ خَفِيفٌ. خُذْ هٰذَا الدَّوَاءَ مَرَّتَيْنِ فِي الْيَوْمِ، وَاشْرَبْ سَوَائِلَ دَافِئَةً». شَكَرَهُ كَرِيمٌ وَقَالَ: «شُكْرًا جَزِيلًا يَا دُكْتُورُ، كَيْفَ أَحْمِي صِحَّتِي؟». قَالَ الطَّبِيبُ: «بِالنَّوْمِ الْكَافِي وَالطَّعَامِ الصِّحِّيِّ».",
+          "okunus": "Kâle't-tabîbu: «Lâ taklak, hâzâ zukâmun hafîfun. Huz hâze'd-devâe merrateyni fi'l-yevmi, ve'şrab sevâile dâfieten». Şekerahû Kerîmun ve kâle: «Şukran cezîlen yâ duktûru, keyfe ehmî sıhhatî?». Kâle't-tabîbu: «Bi'n-nevmi'l-kâfî ve't-ta‘âmi's-sıhhiyyi».",
+          "tr": "Doktor dedi ki: 'Endişelenme, bu hafif bir nezle. Bu ilacı günde iki kez al ve ılık sıvılar iç'. Kerim teşekkür etti ve sordu: 'Çok teşekkürler doktor bey, sağlığımı nasıl korurum?'. Doktor dedi: 'Yeterli uyku ve sağlıklı yemekle'.",
+          "analiz": [
+            { "kelime": "كَيْفَ", "kok": "—", "gramer": "Durum/yöntem soru ismi", "tr": "nasıl" },
+            { "kelime": "بِالنَّوْمِ", "kok": "ن و م", "gramer": "بِـ vasıta harf-i ceri + mecrûr", "tr": "uyku ile" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m08_r2_q1", "soru": "Kerim neyden şikâyetçidir?", "secenekler": ["Baş ağrısı ve boğaz ağrısından", "Diş ağrısından", "Bacak kırığından", "Göz ağrısından"], "dogruIndeks": 0, "aciklama": "'أَشْكُو مِنْ صُدَاعٍ وَأَلَمٍ فِي الْحَلْقِ'." },
+        { "id": "m08_r2_q2", "soru": "Kerim'in ağrısı ne zaman başlamıştır?", "secenekler": ["Dün akşam", "Geçen hafta", "Bir ay önce", "Öğleden sonra"], "dogruIndeks": 0, "aciklama": "'بَدَأَ مَسَاءَ أَمْسِ'." },
+        { "id": "m08_r2_q3", "soru": "Kerim gece kaç saat uyumaktadır?", "secenekler": ["Sadece beş saat", "Dokuz saat", "On saat", "Sekiz saat"], "dogruIndeks": 0, "aciklama": "'أَنَامُ خَمْسَ سَاعَاتٍ فَقَطْ'." },
+        { "id": "m08_r2_q4", "soru": "Doktor Kerim'e ilacı günde kaç kez almasını söyledi?", "secenekler": ["İki kez", "Beş kez", "Bir kez", "Dört kez"], "dogruIndeks": 0, "aciklama": "'خُذْ هٰذَا الدَّوَاءَ مَرَّتَيْنِ فِي الْيَوْمِ'." },
+        { "id": "m08_r2_q5", "soru": "Metindeki 'مِمَّ تَشْكُو؟' ifadesinde مِمَّ hangi iki parçanın birleşimidir?", "secenekler": ["مِنْ + soru مَا", "مَنْ + مَا", "فِي + مَا", "عَنْ + مَا"], "dogruIndeks": 0, "aciklama": "مِنْ + مَا → مِمَّ (nûn şeddeli mîme döner, elif düşer)." }
+      ]
+    },
+    {
+      "id": "m08_r3",
+      "baslik": "Kitap Fuarında Bir Röportaj",
+      "arBaslik": "مُقَابَلَةٌ قَصِيرَةٌ فِي مَعْرِضِ الْكِتَابِ",
+      "seviye": "A1",
+      "paragraflar": [
+        {
+          "ar": "فِي مَعْرِضِ الْكِتَابِ الدَّوْلِيِّ، اِلْتَقَى صَحَفِيٌّ بِقَارِئَةٍ شَابَّةٍ تَحْمِلُ كُتُبًا كَثِيرَةً. قَالَ لَهَا: «لَوْ سَمَحْتِ، هَلْ يُمْكِنُ أَنْ أَطْرَحَ عَلَيْكِ بَعْضَ الْأَسْئِلَةِ؟». أَجَابَتْ: «تَفَضَّلْ بِكُلِّ سُرُورٍ!».",
+          "okunus": "Fî ma‘ridi'l-kitâbi'd-devliyyi, iltekâ sahafiyyun bi-kârietin şâbbetin tahmilu kutuben kesîraten. Kâle lehâ: «Lev semahti, hel yumkinu en etraha ‘aleyki ba‘da'l-es'ileti?». Ecâbet: «Tefaddal bi-kulli surûrin!».",
+          "tr": "Uluslararası kitap fuarında bir gazeteci elinde birçok kitap taşıyan genç bir kadın okurla karşılaştı. Ona dedi ki: 'Affedersiniz, size bazı sorular sorabilir miyim?'. O cevap verdi: 'Buyurun, memnuniyetle!'.",
+          "analiz": [
+            { "kelime": "لَوْ سَمَحْتِ", "kok": "س م ح", "gramer": "Kadına hitap nezaket kalıbı", "tr": "affedersiniz (K)" },
+            { "kelime": "عَلَيْكِ", "kok": "—", "gramer": "عَلَى + كِ (kadın muhatap)", "tr": "sana / size (K)" }
+          ]
+        },
+        {
+          "ar": "سَأَلَ الصَّحَفِيُّ: «أَيَّ نَوْعٍ مِنَ الْكُتُبِ تُفَضِّلِينَ؟ أَتُحِبِّينَ الرِّوَايَاتِ أَمِ الْكُتُبَ التَّارِيخِيَّةَ؟». قَالَتِ الْقَارِئَةُ: «أُفَضِّلُ الْكُتُبَ التَّارِيخِيَّةَ وَكُتُبَ السِّيَرِ، لِأَنَّهَا تُعَلِّمُنَا دُرُوسَ الْحَيَاةِ».",
+          "okunus": "Seele's-sahafiyyu: «Eyye nev‘in mine'l-kutubi tufaddilîne? E-tuhibbîne'r-rivâyâti emi'l-kutube't-târîhiyyete?». Kâleti'l-kârietu: «Ufaddilu'l-kutube't-târîhiyyete ve kutube's-siyeri, li-ennehâ tu‘allimunâ durûse'l-hayâti».",
+          "tr": "Gazeteci sordu: 'Ne tür kitapları tercih edersiniz? Romanları mı yoksa tarih kitaplarını mı seversiniz?'. Okur dedi ki: 'Tarih kitaplarını ve biyografi kitaplarını tercih ederim; çünkü onlar bize hayat dersleri öğretir'.",
+          "analiz": [
+            { "kelime": "أَيَّ نَوْعٍ", "kok": "ن و ع", "gramer": "أَيَّ (mansub nesne) + muzâfun ileyh", "tr": "hangi türü" },
+            { "kelime": "أَتُحِبِّينَ ... أَمْ", "kok": "ح ب ب", "gramer": "Seçenek sorusu (أَ... أَمْ...)", "tr": "... mı yoksa ... mı?" }
+          ]
+        },
+        {
+          "ar": "ثُمَّ سَأَلَ الصَّحَفِيُّ: «كَمْ كِتَابًا تَقْرَئِينَ فِي الشَّهْرِ تَقْرِيبًا؟ وَعَمَّ يَتَحَدَّثُ الْكِتَابُ الَّذِي فِي يَدِكِ؟». أَجَابَتْ: «أَقْرَأُ ثَلَاثَةَ كُتُبٍ فِي الشَّهْرِ، وَهٰذَا الْكِتَابُ يَتَحَدَّثُ عَنْ تَارِيخِ الْعُلُومِ الْعَرَبِيَّةِ».",
+          "okunus": "Summe seele's-sahafiyyu: «Kem kitâben takraîne fi'ş-şehri takrîben? Ve ‘amme yetehaddesu'l-kitâbu'llezî fî yediki?». Ecâbet: «Ekrau selâsete kutubin fi'ş-şehri, ve hâze'l-kitâbu yetehaddesu ‘an târîhi'l-‘ulûmi'l-‘arabiyyeti».",
+          "tr": "Sonra gazeteci sordu: 'Ayda yaklaşık kaç kitap okuyorsunuz? Elinizdeki kitap ne hakkında konuşuyor?'. Cevap verdi: 'Ayda üç kitap okuyorum ve bu kitap Arap bilimlerinin tarihi hakkında konuşuyor'.",
+          "analiz": [
+            { "kelime": "كَمْ كِتَابًا", "kok": "ك ت ب", "gramer": "كَمْ + tekil mansub", "tr": "kaç kitap" },
+            { "kelime": "عَمَّ", "kok": "—", "gramer": "عَنْ + soru مَا (elif hazfi)", "tr": "ne hakkında" }
+          ]
+        },
+        {
+          "ar": "فِي النِّهَايَةِ سَأَلَهَا: «أَلَيْسَتِ الْقِرَاءَةُ الْوَرَقِيَّةُ أَجْمَلَ مِنَ الْقِرَاءَةِ عَلَى الشَّاشَةِ؟». اِبْتَسَمَتْ وَقَالَتْ: «بَلَى، لِلْكِتَابِ الْوَرَقِيِّ رَائِحَةٌ خَاصَّةٌ وَمُتْعَةٌ لَا تُوصَفُ!». شَكَرَهَا الصَّحَفِيُّ وَتَمَنَّى لَهَا قِرَاءَةً مُمْتِعَةً.",
+          "okunus": "Fi'n-nihâyeti seelehâ: «E-leysetil-kirâetu'l-varakiyyetu ecmele mine'l-kirâeti ‘ale'ş-şâşeti?». İbtesemet ve kâlet: «Belâ, li'l-kitâbi'l-varakiyyi râihatun hâssatun ve mut‘atun lâ tûsafu!». Şekerahâ's-sahafiyyu ve temennâ lehâ kirâeten mumti‘aten.",
+          "tr": "Sonunda ona sordu: 'Kâğıt kitap okumak ekrandan okumaktan daha güzel değil midir?'. Gülümsedi ve dedi ki: 'Bilakis (elbette), kâğıt kitabın özel bir kokusu ve tarif edilemez bir tadı vardır!'. Gazeteci ona teşekkür etti ve keyifli okumalar diledi.",
+          "analiz": [
+            { "kelime": "أَلَيْسَتْ", "kok": "ل ي س", "gramer": "Hemze + müennes لَيْسَتْ (olumsuz soru)", "tr": "... değil midir? (K)" },
+            { "kelime": "بَلَى", "kok": "—", "gramer": "Olumsuz soruya olumlu cevap", "tr": "bilakis / elbette" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m08_r3_q1", "soru": "Röportaj nerede yapılmaktadır?", "secenekler": ["Uluslararası kitap fuarında", "Üniversite kantininde", "Havalimanında", "Hastanede"], "dogruIndeks": 0, "aciklama": "'فِي مَعْرِضِ الْكِتَابِ الدَّوْلِيِّ'." },
+        { "id": "m08_r3_q2", "soru": "Genç okur hangi tür kitapları tercih etmektedir?", "secenekler": ["Tarih ve biyografi kitaplarını", "Sadece spor dergilerini", "Yemek tariflerini", "Çizgi romanları"], "dogruIndeks": 0, "aciklama": "'أُفَضِّلُ الْكُتُبَ التَّارِيخِيَّةَ وَكُتُبَ السِّيَرِ'." },
+        { "id": "m08_r3_q3", "soru": "Genç okur ayda kaç kitap okumaktadır?", "secenekler": ["Üç kitap", "Bir kitap", "On kitap", "Yedi kitap"], "dogruIndeks": 0, "aciklama": "'أَقْرَأُ ثَلَاثَةَ كُتُبٍ فِي الشَّهْرِ'." },
+        { "id": "m08_r3_q4", "soru": "Elindeki kitap hangi konudadır?", "secenekler": ["Arap bilimlerinin tarihi", "Modern mimari", "Deniz canlıları", "Geometri kuralları"], "dogruIndeks": 0, "aciklama": "'يَتَحَدَّثُ عَنْ تَارِيخِ الْعُلُومِ الْعَرَبِيَّةِ'." },
+        { "id": "m08_r3_q5", "soru": "Gazeteci kadına hitap ederken 'لَوْ سَمَحْتِ' kelimesinde ت harfini neden kesralı okumuştur?", "secenekler": ["Kadına (2. tekil müennes) hitap ettiği için", "Çünkü çoğuldur", "Çünkü harf-i cerden sonra geldiği için", "Çünkü geçmiş zaman değildir"], "dogruIndeks": 0, "aciklama": "Erkeğe لَوْ سَمَحْتَ, kadına لَوْ سَمَحْتِ denir." }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "m08_d1",
+      "baslik": "Havaalanı Pasaport Kontrolünde",
+      "ortam": "Yolcu pasaport gişesinde görevlinin temel sorularını yanıtlıyor",
+      "replikler": [
+        { "konusan": "الموظف", "ar": "أَهْلًا وَسَهْلًا! جَوَازُ السَّفَرِ مِنْ فَضْلِكَ.", "okunus": "Ehlen ve sehlen! Cevâzu's-seferi min fadlike.", "tr": "Hoş geldiniz! Pasaportunuz lütfen." },
+        { "konusan": "المسافر", "ar": "تَفَضَّلْ يَا سَيِّدِي، هٰذَا جَوَازُ سَفَرِي.", "okunus": "Tefaddal yâ seyyidî, hâzâ cevâzu seferî.", "tr": "Buyurun beyefendi, bu benim pasaportum." },
+        { "konusan": "الموظف", "ar": "مَا اسْمُكَ الْكَامِلُ، وَمِنْ أَيِّ بَلَدٍ جِئْتَ؟", "okunus": "Me'smuke'l-kâmilu, ve min eyyi beledin ci'te?", "tr": "Tam adınız nedir ve hangi ülkeden geldiniz?" },
+        { "konusan": "المسافر", "ar": "اسْمِي يُوسُفُ أَحْمَدُ، وَجِئْتُ مِنْ تُرْكِيَا.", "okunus": "İsmî Yûsufu Ahmedu, ve ci'tu min Turkiyâ.", "tr": "Adım Yusuf Ahmed ve Türkiye'den geldim." },
+        { "konusan": "الموظف", "ar": "لِمَاذَا تَزُورُ هٰذَا الْبَلَدَ؟ أَلِلسِّيَاحَةِ أَمْ لِلْعَمَلِ؟", "okunus": "Limâzâ tezûru hâze'l-belede? E-li's-siyâhati em li'l-‘ameli?", "tr": "Bu ülkeyi niçin ziyaret ediyorsunuz? Turizm için mi yoksa iş için mi?" },
+        { "konusan": "المسافر", "ar": "لِلدِّرَاسَةِ وَالْمُشَارَكَةِ فِي دَوْرَةِ اللُّغَةِ الْعَرَبِيَّةِ.", "okunus": "Li'd-dirâseti ve'l-muşâraketi fî devrati'l-lugati'l-‘arabiyyeti.", "tr": "Eğitim ve Arapça dil kursuna katılmak için." },
+        { "konusan": "الموظف", "ar": "رَائِعٌ! كَمْ يَوْمًا سَتُقِيمُ هُنَا؟", "okunus": "Râi‘un! Kem yevmen se-tukîmu hunâ?", "tr": "Harika! Burada kaç gün kalacaksınız?" },
+        { "konusan": "المسافر", "ar": "سَأُقِيمُ ثَلَاثِينَ يَوْمًا، حَتَّى نِهَايَةِ الشَّهْرِ.", "okunus": "Se-ukîmu selâsîne yevmen, hattâ nihâyeti'ş-şehri.", "tr": "Ay sonuna kadar otuz gün kalacağım." },
+        { "konusan": "الموظف", "ar": "وَفِي أَيِّ فُنْدُقٍ أَوْ سَكَنٍ سَتُقِيمُ؟", "okunus": "Ve fî eyyi fundukin ev sekenin se-tukîmu?", "tr": "Peki hangi otelde veya yurtta kalacaksınız?" },
+        { "konusan": "المسافر", "ar": "سَأُقِيمُ فِي السَّكَنِ الْجَامِعِيِّ بِجَانِبِ الْكُلِّيَّةِ.", "okunus": "Se-ukîmu fi's-sekeni'l-câmi‘iyyi bi-cânibi'l-kulliyyeti.", "tr": "Fakültenin yanındaki üniversite yurdunda kalacağım." },
+        { "konusan": "الموظف", "ar": "مُمْتَازٌ! هَلْ عِنْدَكَ أَيُّ سُؤَالٍ آخَرَ؟", "okunus": "Mumtâzun! Hel ‘indeke eyyu suâlin âhara?", "tr": "Mükemmel! Başka herhangi bir sorunuz var mı?" },
+        { "konusan": "المسافر", "ar": "لَا، شُكْرًا جَزِيلًا لَكَ عَلَى لُطْفِكَ!", "okunus": "Lâ, şukran cezîlen leke ‘alâ lutfike!", "tr": "Hayır, nezaketiniz için çok teşekkür ederim!" }
+      ],
+      "partner": [
+        { "soruAr": "مِنْ أَيِّ بَلَدٍ جِئْتَ؟", "soruTr": "Hangi ülkeden geldin?", "ipucu": "Türkiye'den geldim (جِئْتُ مِنْ...).", "secenekler": ["جِئْتُ مِنْ تُرْكِيَا.", "جِئْتُ إِلَى تُرْكِيَا.", "جِئْتُ فَوْقَ تُرْكِيَا."], "dogruIndeks": 0, "aciklama": "مِنْ أَيْنَ / مِنْ أَيِّ بَلَدٍ sorusuna مِنْ ile cevap verilir." },
+        { "soruAr": "أَلِلسِّيَاحَةِ جِئْتَ أَمْ لِلدِّرَاسَةِ؟", "soruTr": "Turizm için mi geldin yoksa eğitim için mi?", "ipucu": "Seçenek sorusuna doğrudan seçenekle cevap ver.", "secenekler": ["جِئْتُ لِلدِّرَاسَةِ.", "نَعَمْ، جِئْتُ.", "لَا، لِلسِّيَاحَةِ لَا."], "dogruIndeks": 0, "aciklama": "أَ... أَمْ... sorusuna doğrudan tercih edilen seçenek söylenir." },
+        { "soruAr": "كَمْ يَوْمًا سَتُقِيمُ هُنَا؟", "soruTr": "Burada kaç gün kalacaksın?", "ipucu": "Sayı + gün.", "secenekler": ["سَأُقِيمُ ثَلَاثِينَ يَوْمًا.", "سَأُقِيمُ فِي الْبَيْتِ.", "سَأُقِيمُ بِالْقِطَارِ."], "dogruIndeks": 0, "aciklama": "كَمْ يَوْمًا süre/sayı sorar." },
+        { "soruAr": "فِي أَيِّ مَكَانٍ سَتُقِيمُ؟", "soruTr": "Hangi yerde kalacaksın?", "ipucu": "Üniversite yurdunda (فِي السَّكَنِ الْجَامِعِيِّ).", "secenekler": ["فِي السَّكَنِ الْجَامِعِيِّ.", "عَلَى السَّكَنُ.", "بَيْنَ يَوْمَيْنِ."], "dogruIndeks": 0, "aciklama": "فِي أَيِّ مَكَانٍ sorusuna فِي + mecrûr ile cevap verilir." },
+        { "soruAr": "جَوَازُ السَّفَرِ مِنْ فَضْلِكَ.", "soruTr": "Pasaportunuz lütfen.", "ipucu": "Buyurun! (تَفَضَّلْ).", "secenekler": ["تَفَضَّلْ، هٰذَا جَوَازُ سَفَرِي.", "مَتَى جَوَازُ سَفَرِي؟", "بِكَمْ هٰذَا؟"], "dogruIndeks": 0, "aciklama": "تَفَضَّلْ = Buyurun." }
+      ]
+    },
+    {
+      "id": "m08_d2",
+      "baslik": "Kırtasiyede Alışveriş",
+      "ortam": "Öğrenci kırtasiyeden defter ve kalem alıyor",
+      "replikler": [
+        { "konusan": "البائع", "ar": "أَهْلًا بِكِ فِي مَكْتَبَتِنَا! كَيْفَ أُسَاعِدُكِ الْيَوْمَ؟", "okunus": "Ehlen biki fî mektebetinâ! Keyfe usâ‘iduki'l-yevme?", "tr": "Kırtasiyemize hoş geldiniz! Bugün size nasıl yardımcı olabilirim?" },
+        { "konusan": "سلمى", "ar": "شُكْرًا لَكَ! أَبْحَثُ عَنْ دَفَاتِرَ جَمِيلَةٍ وَقَلَمِ حِبْرٍ أَزْرَقَ.", "okunus": "Şukran leke! Ebhasu ‘an defâtira cemîletin ve kalemi hibrin ezraka.", "tr": "Teşekkürler! Güzel defterler ve mavi mürekkepli bir kalem arıyorum." },
+        { "konusan": "البائع", "ar": "عِنْدَنَا أَنْوَاعٌ كَثِيرَةٌ. أَيَّ حَجْمٍ تُرِيدِينَ: كَبِيرًا أَمْ صَغِيرًا؟", "okunus": "‘İndenâ envâ‘un kesîratun. Eyye hacmin turîdîne: kebîran em sagîran?", "tr": "Birçok çeşidimiz var. Hangi boyutu istersiniz: büyük mü yoksa küçük mü?" },
+        { "konusan": "سلمى", "ar": "أُرِيدُ دَفْتَرًا كَبِيرًا لِقَوَاعِدِ النَّحْوِ، بِكَمْ هٰذَا الدَّفْتَرُ؟", "okunus": "Urîdu defteran kebîran li-kavâ‘idi'n-nahvi, bi-kem hâze'd-defteru?", "tr": "Nahiv kuralları için büyük bir defter istiyorum, bu defter kaça?" },
+        { "konusan": "البائع", "ar": "هٰذَا الدَّفْتَرُ بِعِشْرِينَ لِيرَةً فَقَطْ، وَوَرَقُهُ مُمْتَازٌ جِدًّا.", "okunus": "Hâze'd-defteru bi-‘işrîne lîraten fakat, ve varakuhu mumtâzun cidden.", "tr": "Bu defter sadece yirmi lira ve kâğıdı çok kaliteli." },
+        { "konusan": "سلمى", "ar": "جَيِّدٌ جِدًّا! كَمْ وَرَقَةً فِي هٰذَا الدَّفْتَرِ؟", "okunus": "Ceyyidun cidden! Kem varakaten fî hâze'd-defteri?", "tr": "Çok iyi! Bu defterde kaç yaprak var?" },
+        { "konusan": "البائع", "ar": "فِيهِ مِئَةُ وَرَقَةٍ. كَمْ دَفْتَرًا تُرِيدِينَ؟", "okunus": "Fîhi mietu varakatin. Kem defteran turîdîne?", "tr": "İçinde yüz yaprak var. Kaç defter istersiniz?" },
+        { "konusan": "سلمى", "ar": "أُرِيدُ دَفْتَرَيْنِ وَقَلَمًا أَزْرَقَ، مِنْ فَضْلِكَ.", "okunus": "Urîdu deftereyni ve kalemen ezraka, min fadlike.", "tr": "Lütfen iki defter ve bir mavi kalem istiyorum." },
+        { "konusan": "البائع", "ar": "أَلَا تُرِيدِينَ مِمْحَاةً أَوْ مِسْطَرَةً أَيْضًا؟", "okunus": "E-lâ turîdîne mimhâten ev mistaraten eydan?", "tr": "Bir silgi veya cetvel de istemiyor musunuz?" },
+        { "konusan": "سلمى", "ar": "بَلَى، أُرِيدُ مِسْطَرَةً صَغِيرَةً أَيْضًا! كَمِ الْحِسَابُ كُلُّهُ؟", "okunus": "Belâ, urîdu mistaraten sagîraten eydan! Kemi'l-hisâbu kulluhu?", "tr": "Bilakis (evet), küçük bir cetvel de istiyorum! Toplam hesap ne kadar?" },
+        { "konusan": "البائع", "ar": "الْحِسَابُ سِتُّونَ لِيرَةً. تَفَضَّلِي الْكِيسَ.", "okunus": "El-hisâbu sittûne lîraten. Tefaddali'l-kîse.", "tr": "Hesap altmış lira. Buyurun poşeti." },
+        { "konusan": "سلمى", "ar": "تَفَضَّلِ النُّقُودَ، شُكْرًا لَكَ وَمَعَ السَّلَامَةِ!", "okunus": "Tefaddali'n-nukûde, şukran leke ve me‘a's-selâmeti!", "tr": "Buyurun parayı, teşekkür ederim, hoşça kalın!" }
+      ],
+      "partner": [
+        { "soruAr": "بِكَمْ هٰذَا الدَّفْتَرُ؟", "soruTr": "Bu defter kaça?", "ipucu": "Yirmi lira (بِعِشْرِينَ لِيرَةً).", "secenekler": ["بِعِشْرِينَ لِيرَةً فَقَطْ.", "عَلَى الطَّاوِلَةِ.", "مِنْ أَنْقَرَةَ."], "dogruIndeks": 0, "aciklama": "Fiyat cevabı بِـ harf-i ceriyle verilir: بِعِشْرِينَ لِيرَةً." },
+        { "soruAr": "كَمْ دَفْتَرًا تُرِيدِينَ؟", "soruTr": "Kaç defter istiyorsun?", "ipucu": "İki defter (nesne → دَفْتَرَيْنِ).", "secenekler": ["أُرِيدُ دَفْتَرَيْنِ.", "أُرِيدُ دَفْتَرَانِ.", "أُرِيدُ دَفَاتِرُ."], "dogruIndeks": 0, "aciklama": "أُرِيدُ fiilinin nesnesi ikil mansub olur: دَفْتَرَيْنِ." },
+        { "soruAr": "أَلَا تُرِيدِينَ مِسْطَرَةً؟", "soruTr": "Cetvel istemiyor musun?", "ipucu": "Olumsuz soruya olumlu cevap: بَلَى!", "secenekler": ["بَلَى، أُرِيدُ مِسْطَرَةً!", "نَعَمْ، أُرِيدُ مِسْطَرَةً!", "لَا، أُرِيدُ مِسْطَرَةً!"], "dogruIndeks": 0, "aciklama": "أَلَا olumsuz sorusuna olumlu cevap بَلَى ile verilir." },
+        { "soruAr": "كَمِ الْحِسَابُ؟", "soruTr": "Hesap ne kadar?", "ipucu": "Altmış lira.", "secenekler": ["الْحِسَابُ سِتُّونَ لِيرَةً.", "الْحِسَابُ سَهْلٌ.", "الْحِسَابُ فِي الصَّفِّ."], "dogruIndeks": 0, "aciklama": "كَمِ الْحِسَابُ alışverişte 'Hesap ne kadar?' demektir." },
+        { "soruAr": "كَيْفَ نَسْأَلُ عَنْ عَدَدِ الْأَوْرَاقِ فِي الدَّفْتَرِ؟", "soruTr": "Defterdeki yaprak sayısını nasıl sorarız?", "ipucu": "كَمْ + tekil mansub (وَرَقَةً).", "secenekler": ["كَمْ وَرَقَةً فِي الدَّفْتَرِ؟", "كَمْ أَوْرَاقٌ فِي الدَّفْتَرِ؟", "أَيُّ وَرَقَةً فِي الدَّفْتَرِ؟"], "dogruIndeks": 0, "aciklama": "كَمْ وَرَقَةً فِي الدَّفْتَرِ؟" }
+      ]
+    },
+    {
+      "id": "m08_d3",
+      "baslik": "Lokantada Sipariş Verme",
+      "ortam": "İki arkadaş lokantada garsonla sohbet ederek sipariş veriyor",
+      "replikler": [
+        { "konusan": "النادل", "ar": "مَسَاءُ الْخَيْرِ! أَهْلًا بِكُمَا. هٰذِهِ قَائِمَةُ الطَّعَامِ، تَفَضَّلَا.", "okunus": "Mesâu'l-hayri! Ehlen bikumâ. Hâzihi kâimetu't-ta‘âmi, tefaddalâ.", "tr": "İyi akşamlar! İkiniz de hoş geldiniz. Bu yemek menüsü, buyurun." },
+        { "konusan": "أحمد", "ar": "مَسَاءُ النُّورِ! مَاذَا عِنْدَكُمْ مِنَ الشُّورْبَةِ الْيَوْمَ؟", "okunus": "Mesâu'n-nûri! Mâzâ ‘indekum mine'ş-şûrbeti'l-yevme?", "tr": "İyi akşamlar! Bugün çorbalardan neleriniz var?" },
+        { "konusan": "النادل", "ar": "عِنْدَنَا شُورْبَةُ الْعَدَسِ وَشُورْبَةُ الدَّجَاجِ. أَيَّهُمَا تُفَضِّلَانِ؟", "okunus": "‘İndenâ şûrbetu'l-‘adesi ve şûrbetu'd-decâci. Eyyehumâ tufaddilâni?", "tr": "Mercimek çorbamız ve tavuk çorbamız var. Hangisini tercih edersiniz?" },
+        { "konusan": "أحمد", "ar": "أَنَا أُفَضِّلُ شُورْبَةَ الْعَدَسِ، وَأَنْتَ يَا عُمَرُ، مَاذَا تَطْلُبُ؟", "okunus": "Ene ufaddilu şûrbete'l-‘adesi, ve ente yâ ‘Umeru, mâzâ tatlubu?", "tr": "Ben mercimek çorbasını tercih ederim, peki sen Ömer, ne sipariş edersin?" },
+        { "konusan": "عمر", "ar": "مِمَّ تَتَكَوَّنُ السَّلَطَةُ الْخَاصَّةُ لَوْ سَمَحْتَ؟", "okunus": "Mimme tetekevvenu's-salatatu'l-hâssatu lev semahte?", "tr": "Affedersiniz, özel salata nelerden oluşuyor?" },
+        { "konusan": "النادل", "ar": "تَتَكَوَّنُ مِنَ الطَّمَاطِمِ وَالْخِيَارِ وَالْجُبْنِ وَزَيْتِ الزَّيْتُونِ.", "okunus": "Tetekevvenu mine't-tamâtimi ve'l-hiyâri ve'l-cubni ve zeyti'z-zeytûni.", "tr": "Domates, salatalık, peynir ve zeytinyağından oluşuyor." },
+        { "konusan": "عمر", "ar": "مُمْتَازٌ! أَطْلُبُ السَّلَطَةَ الْخَاصَّةَ وَطَبَقَ كَبَابٍ مَشْوِيٍّ.", "okunus": "Mumtâzun! Etlubu's-salatate'l-hâssate ve tabaka kebâbin meşviyyin.", "tr": "Harika! Özel salata ve bir tabak ızgara kebap istiyorum." },
+        { "konusan": "النادل", "ar": "وَمَاذَا تَشْرَبَانِ؟ أَعَصِيرًا طَازَجًا أَمْ مَاءً مَعْدِنِيًّا؟", "okunus": "Ve mâzâ teşrabâni? E-‘asîran tâzecen em mâen ma‘deniyyen?", "tr": "Peki ne içersiniz? Taze meyve suyu mu yoksa maden suyu mu?" },
+        { "konusan": "أحمد", "ar": "عَصِيرَ بُرْتُقَالٍ طَازَجًا وَقَارُورَةَ مَاءٍ، مِنْ فَضْلِكَ.", "okunus": "‘Asîra burtukâlin tâzecen ve kârûrate mâin, min fadlike.", "tr": "Lütfen taze portakal suyu ve bir şişe su." },
+        { "konusan": "النادل", "ar": "أَلَا تُرِيدَانِ شَايًا تُرْكِيًّا بَعْدَ الطَّعَامِ؟", "okunus": "E-lâ turîdâni şâyen turkiyyen ba‘de't-ta‘âmi?", "tr": "Yemekten sonra Türk çayı istemez misiniz?" },
+        { "konusan": "عمر", "ar": "بَلَى، بِالتَّأْكِيدِ! كُوبَيْنِ مِنَ الشَّايِ بَعْدَ الْعَشَاءِ.", "okunus": "Belâ, bi't-te'kîdi! Kûbeyni mine'ş-şâyi ba‘de'l-‘aşâi.", "tr": "Elbette (bilakis)! Akşam yemeğinden sonra iki bardak çay." },
+        { "konusan": "النادل", "ar": "عَلَى الرَّأْسِ وَالْعَيْنِ! الطَّعَامُ سَيَكُونُ جَاهِزًا خِلَالَ عَشْرِ دَقَائِقَ.", "okunus": "‘Ale'r-ra'si ve'l-‘ayni! Et-ta‘âmu se-yekûnu câhizen hilâle ‘aşri dekâika.", "tr": "Başım gözüm üstüne! Yemek on dakika içinde hazır olacak." }
+      ],
+      "partner": [
+        { "soruAr": "مَاذَا تَطْلُبُ مِنَ الطَّعَامِ؟", "soruTr": "Yemekten ne sipariş edersin?", "ipucu": "Mercimek çorbası (أَطْلُبُ شُورْبَةَ الْعَدَسِ).", "secenekler": ["أَطْلُبُ شُورْبَةَ الْعَدَسِ.", "أَذْهَبُ إِلَى الْمَدْرَسَةِ.", "أَسْكُنُ فِي بُورْصَا."], "dogruIndeks": 0, "aciklama": "مَاذَا تَطْلُبُ sorusuna أَطْلُبُ + nesne ile cevap verilir." },
+        { "soruAr": "أَعَصِيرًا تَشْرَبُ أَمْ شَايًا؟", "soruTr": "Meyve suyu mu içersin yoksa çay mı?", "ipucu": "Doğrudan içeceğini seç.", "secenekler": ["أَشْرَبُ عَصِيرَ بُرْتُقَالٍ.", "نَعَمْ، أَشْرَبُ.", "بَلَى، مَاءً."], "dogruIndeks": 0, "aciklama": "أَ... أَمْ... sorusuna tercih edilen içecekle cevap verilir." },
+        { "soruAr": "مِمَّ تَتَكَوَّنُ السَّلَطَةُ؟", "soruTr": "Salata nelerden oluşuyor?", "ipucu": "مِنَ ... (domates ve salatalıktan).", "secenekler": ["تَتَكَوَّنُ مِنَ الطَّمَاطِمِ وَالْخِيَارِ.", "تَتَكَوَّنُ إِلَى الطَّمَاطِمِ.", "تَتَكَوَّنُ فَوْقَ الطَّمَاطِمِ."], "dogruIndeks": 0, "aciklama": "مِمَّ sorusuna مِنْ ile cevap verilir." },
+        { "soruAr": "أَلَا تُرِيدُ شَايًا بَعْدَ الطَّعَامِ؟", "soruTr": "Yemekten sonra çay istemiyor musun?", "ipucu": "Elbette isterim! (بَلَى).", "secenekler": ["بَلَى، أُرِيدُ كُوبًا مِنَ الشَّايِ!", "نَعَمْ، أُرِيدُ شَايًا!", "لَا، بَلَى!"], "dogruIndeks": 0, "aciklama": "Olumsuz soruya olumlu cevap بَلَى ile verilir." },
+        { "soruAr": "مَا مَعْنَى 'عَلَى الرَّأْسِ وَالْعَيْنِ'؟", "soruTr": "'عَلَى الرَّأْسِ وَالْعَيْنِ' ne demektir?", "ipucu": "Türkçedeki birebir karşılığı!", "secenekler": ["Başım gözüm üstüne!", "Başım ağrıyor!", "Yemek bitti!", "Hesap nerede?"], "dogruIndeks": 0, "aciklama": "Arap kültüründe çok sıcak ve nazik bir onay ifadesidir." }
+      ]
+    },
+    {
+      "id": "m08_d4",
+      "baslik": "Sınıfta Hocaya Soru Sormak",
+      "ortam": "Arapça dersinde öğrenci kurallar hakkında hocasına sorular yöneltiyor",
+      "replikler": [
+        { "konusan": "الطالب", "ar": "لَوْ سَمَحْتَ يَا أُسْتَاذُ، عِنْدِي سُؤَالٌ عَنْ دَرْسِ الْيَوْمِ.", "okunus": "Lev semahte yâ ustâzu, ‘indî suâlun ‘an dersi'l-yevmi.", "tr": "Affedersiniz hocam, bugünkü ders hakkında bir sorum var." },
+        { "konusan": "الأستاذ", "ar": "تَفَضَّلْ يَا بُنَيَّ! عَمَّ تَسْأَلُ؟", "okunus": "Tefaddal yâ buneyye! ‘Amme tes'elu?", "tr": "Buyur evladım! Ne hakkında soruyorsun?" },
+        { "konusan": "الطالب", "ar": "لِمَ نَحْذِفُ الْأَلِفَ فِي «عَمَّ» وَ«بِمَ» وَ«فِيمَ»؟", "okunus": "Lime nahzifu'l-elife fî «‘amme» ve «bime» ve «fîme»?", "tr": "'عَمَّ', 'بِمَ' ve 'فِيمَ' kelimelerinde elifi niçin düşürüyoruz?" },
+        { "konusan": "الأستاذ", "ar": "سُؤَالٌ ذَكِيٌّ جِدًّا! نَحْذِفُهَا لِلتَّمْيِيزِ بَيْنَ «مَا» الِاسْتِفْهَامِيَّةِ وَ«مَا» الْمَوْصُولَةِ.", "okunus": "Suâlun zekiyyun cidden! Nahzifuhâ li't-temyîzi beyne «mâ» el-istifhâmiyyeti ve «mâ» el-mevsûleti.", "tr": "Çok zekice bir soru! Soru مَا'sı ile bağlaç/ismi mevsûl مَا'yı ayırt etmek için düşürüyoruz." },
+        { "konusan": "الطالب", "ar": "فَهِمْتُ! وَمَتَى نَسْتَخْدِمُ «بَلَى» بَدَلًا مِنْ «نَعَمْ»؟", "okunus": "Fehimtu! Ve metâ nestahdimu «belâ» bedelen min «ne‘am»?", "tr": "Anladım! Peki ne zaman 'نَعَمْ' yerine 'بَلَى' kullanıyoruz?" },
+        { "konusan": "الأستاذ", "ar": "عِنْدَمَا يَكُونُ السُّؤَالُ مَنْفِيًّا، مِثْلَ: «أَلَيْسَ الْعِلْمُ مُهِمًّا؟» فَتُجِيبُ: «بَلَى!».", "okunus": "‘İndemâ yekûnu's-suâlu menfiyyen, misle: «E-leyse'l-‘ilmu muhimmen?» fe-tucîbu: «Belâ!».", "tr": "Soru olumsuz olduğunda, mesela 'İlim önemli değil midir?' dendiğinde 'بَلَى!' diye cevap verirsin." },
+        { "konusan": "الطالب", "ar": "وَكَمْ تَمْرِينًا سَنَحُلُّ فِي الْوَاجِبِ الْمَنْزِلِيِّ؟", "okunus": "Ve kem temrînen se-nehullu fi'l-vâcibi'l-menziliyyi?", "tr": "Peki ev ödevinde kaç alıştırma çözeceğiz?" },
+        { "konusan": "الأستاذ", "ar": "سَتَحُلُّونَ عَشَرَةَ تَمَارِينَ فِي الصَّفْحَةِ الثَّامِنَةِ.", "okunus": "Se-tehullûne ‘aşerate temârîne fi's-safhati's-sâmineti.", "tr": "Sekizinci sayfadaki on alıştırmayı çözeceksiniz." },
+        { "konusan": "الطالب", "ar": "فِي أَيِّ يَوْمٍ نُسَلِّمُ الْوَاجِبَ يَا أُسْتَاذُ؟", "okunus": "Fî eyyi yevmin nusellimu'l-vâcibe yâ ustâzu?", "tr": "Ödevi hangi gün teslim ediyoruz hocam?" },
+        { "konusan": "الأستاذ", "ar": "يَوْمَ الْخَمِيسِ قَبْلَ السَّاعَةِ الرَّابِعَةِ مَسَاءً.", "okunus": "Yevme'l-hamîsi kable's-sâ‘ati'r-râbi‘ati mesâen.", "tr": "Perşembe günü akşam saat dörtten önce." },
+        { "konusan": "الطالب", "ar": "أَلَيْسَتْ قَوَاعِدُ الِاسْتِفْهَامِ وَاضِحَةً وَمُنَظَّمَةً جِدًّا؟", "okunus": "E-leyset kavâ‘idu'l-istifhâmi vâdihaten ve munazzameten cidden?", "tr": "Soru kuralları çok açık ve düzenli değil mi?" },
+        { "konusan": "الأستاذ", "ar": "بَلَى يَا بُنَيَّ، اللُّغَةُ الْعَرَبِيَّةُ لُغَةُ مَنْطِقٍ وَجَمَالٍ!", "okunus": "Belâ yâ buneyye, el-lugatu'l-‘arabiyyetu lugatu mantıkin ve cemâlin!", "tr": "Elbette evladım, Arap dili mantık ve güzellik dilidir!" }
+      ],
+      "partner": [
+        { "soruAr": "عَمَّ يَسْأَلُ الطَّالِبُ الْأُسْتَاذَ؟", "soruTr": "Öğrenci hocaya ne hakkında soruyor?", "ipucu": "Bugünkü ders hakkında (عَنْ دَرْسِ الْيَوْمِ).", "secenekler": ["عَنْ دَرْسِ الْيَوْمِ وَقَوَاعِدِ الِاسْتِفْهَامِ.", "عَنِ الطَّقْسِ.", "عَنْ تَذْكِرَةِ الْقِطَارِ."], "dogruIndeks": 0, "aciklama": "عَمَّ sorusunun cevabı عَنْ ile verilir." },
+        { "soruAr": "مَتَى نَسْتَخْدِمُ «بَلَى»؟", "soruTr": "Ne zaman 'بَلَى' kullanırız?", "ipucu": "Soru olumsuz olduğunda ve olumlu cevap verirken.", "secenekler": ["فِي الْجَوَابِ الْمُثْبَتِ عَنِ السُّؤَالِ الْمَنْفِيِّ.", "فِي كُلِّ سُؤَالٍ.", "فَقَطْ مَعَ كَمْ."], "dogruIndeks": 0, "aciklama": "Olumsuz soruya olumlu cevapta بَلَى kullanılır." },
+        { "soruAr": "كَمْ تَمْرِينًا فِي الْوَاجِبِ؟", "soruTr": "Ödevde kaç alıştırma var?", "ipucu": "On alıştırma (عَشَرَةَ تَمَارِينَ).", "secenekler": ["عَشَرَةُ تَمَارِينَ.", "تَمْرِينٌ وَاحِدٌ.", "مِئَةُ تَمْرِينٍ."], "dogruIndeks": 0, "aciklama": "Hoca on alıştırma verdi." },
+        { "soruAr": "فِي أَيِّ يَوْمٍ يُسَلِّمُ الطُّلَّابُ الْوَاجِبَ؟", "soruTr": "Öğrenciler ödevi hangi gün teslim ediyor?", "ipucu": "Perşembe günü (يَوْمَ الْخَمِيسِ).", "secenekler": ["يَوْمَ الْخَمِيسِ.", "يَوْمَ الْأَحَدِ.", "يَوْمَ السَّبْتِ."], "dogruIndeks": 0, "aciklama": "Diyalogda 'يَوْمَ الْخَمِيسِ' belirtildi." },
+        { "soruAr": "أَلَيْسَتِ اللُّغَةُ الْعَرَبِيَّةُ جَمِيلَةً؟", "soruTr": "Arap dili güzel değil midir?", "ipucu": "Elbette güzeldir! (بَلَى).", "secenekler": ["بَلَى، هِيَ جَمِيلَةٌ جِدًّا!", "نَعَمْ، هِيَ جَمِيلَةٌ!", "لَا، هِيَ جَمِيلَةٌ!"], "dogruIndeks": 0, "aciklama": "أَلَيْسَتْ olumsuz sorusuna olumlu onay: بَلَى!" }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "id": "m08_fc01", "ar": "هَلْ", "harekesiz": "هل", "okunus": "hel", "tr": "... mı / mi? (Soru harfi)", "kok": "—", "vezin": "حَرْفُ اسْتِفْهَامٍ", "turevler": [{ "ar": "هَلِ الدَّرْسُ", "tr": "ders ... mı?" }, { "ar": "هَلْ يُمْكِنُ", "tr": "mümkün mü?" }], "ekBilgi": "Olumlu evet/hayır sorularında kullanılır; ال önünde هَلِ okunur.", "ornek": "هَلْ أَنْتَ جَاهِزٌ؟", "ornekTr": "Hazır mısın?", "kullanimNotu": "Olumsuz cümlede ve أَمْ seçenek sorusunda kullanılmaz.", "tur": "harf" },
+    { "id": "m08_fc02", "ar": "أَمْ", "harekesiz": "أم", "okunus": "em", "tr": "yoksa / mı?", "kok": "—", "vezin": "حَرْفُ عَطْفٍ", "turevler": [{ "ar": "أَ... أَمْ...", "tr": "... mı yoksa ... mı?" }, { "ar": "أَمْ لَا", "tr": "yoksa değil mi?" }], "ekBilgi": "Seçenek sorularında hemze (أَ) ile eşleşir.", "ornek": "أَشَايًا تُرِيدُ أَمْ قَهْوَةً؟", "ornekTr": "Çay mı istersin yoksa kahve mi?", "kullanimNotu": "Düz cümlede 'veya' için أَوْ, soruda أَمْ kullanılır.", "tur": "harf" },
+    { "id": "m08_fc03", "ar": "مَا", "harekesiz": "ما", "okunus": "mâ", "tr": "ne? (İsimlerle)", "kok": "—", "vezin": "اِسْمُ اسْتِفْهَامٍ", "turevler": [{ "ar": "مَا اسْمُكَ؟", "tr": "adın ne?" }, { "ar": "مَا رَأْيُكَ؟", "tr": "görüşün ne?" }], "ekBilgi": "İsim cümlesi sorularında kullanılır.", "ornek": "مَا عَمَلُكَ يَا أَخِي؟", "ornekTr": "İşin nedir kardeşim?", "kullanimNotu": "Harf-i cer gelince elifi düşer (لِمَ / بِمَ / عَمَّ).", "tur": "soru" },
+    { "id": "m08_fc04", "ar": "مَاذَا", "harekesiz": "ماذا", "okunus": "mâzâ", "tr": "ne? (Fiillerle)", "kok": "—", "vezin": "اِسْمُ اسْتِفْهَامٍ", "turevler": [{ "ar": "مَاذَا تَفْعَلُ؟", "tr": "ne yapıyorsun?" }, { "ar": "مَاذَا تَقْرَأُ؟", "tr": "ne okuyorsun?" }], "ekBilgi": "Fiil cümlesi sorularında standart 'ne?' edatıdır.", "ornek": "مَاذَا تَدْرُسُ فِي الْجَامِعَةِ؟", "ornekTr": "Üniversitede ne okuyorsun?", "kullanimNotu": "مَاذَا + isim cümlesi yerine مَا tercih edilir.", "tur": "soru" },
+    { "id": "m08_fc05", "ar": "مَنْ", "harekesiz": "من", "okunus": "men", "tr": "kim?", "kok": "—", "vezin": "اِسْمُ اسْتِفْهَامٍ", "turevler": [{ "ar": "مَنْ هٰذَا؟", "tr": "bu kim?" }, { "ar": "لِمَنْ؟", "tr": "kimin / kime?" }], "ekBilgi": "Akıllı varlıklar (insanlar) için kullanılır.", "ornek": "مَنْ مُعَلِّمُ هٰذَا الصَّفِّ؟", "ornekTr": "Bu sınıfın öğretmeni kim?", "kullanimNotu": "مِنْ (-den) ile harekesine dikkat et!", "tur": "soru" },
+    { "id": "m08_fc06", "ar": "أَيْنَ", "harekesiz": "أين", "okunus": "eyne", "tr": "nerede?", "kok": "—", "vezin": "اِسْمُ اسْتِفْهَامٍ", "turevler": [{ "ar": "مِنْ أَيْنَ؟", "tr": "nereden?" }, { "ar": "إِلَى أَيْنَ؟", "tr": "nereye?" }], "ekBilgi": "Mekân soran zarf-soru ismidir.", "ornek": "أَيْنَ تَقَعُ الْمَكْتَبَةُ؟", "ornekTr": "Kütüphane nerede yer alıyor?", "kullanimNotu": "مِنْ ve إِلَى ile yön soruları üretir.", "tur": "soru" },
+    { "id": "m08_fc07", "ar": "مَتَى", "harekesiz": "متى", "okunus": "metâ", "tr": "ne zaman?", "kok": "—", "vezin": "اِسْمُ اسْتِفْهَامٍ", "turevler": [{ "ar": "مَتَى يَبْدَأُ؟", "tr": "ne zaman başlar?" }, { "ar": "إِلَى مَتَى؟", "tr": "ne zamana kadar?" }], "ekBilgi": "Hem geçmiş hem gelecek zamanı sorar.", "ornek": "مَتَى يَبْدَأُ الِامْتِحَانُ؟", "ornekTr": "Sınav ne zaman başlıyor?", "kullanimNotu": "Mebnîdir, sonu değişmez.", "tur": "soru" },
+    { "id": "m08_fc08", "ar": "كَيْفَ", "harekesiz": "كيف", "okunus": "keyfe", "tr": "nasıl?", "kok": "—", "vezin": "اِسْمُ اسْتِفْهَامٍ", "turevler": [{ "ar": "كَيْفَ حَالُكَ؟", "tr": "nasılsın?" }, { "ar": "كَيْفِيَّةٌ", "tr": "nitelik / yöntem" }], "ekBilgi": "Hâl, durum ve vasıta sorar.", "ornek": "كَيْفَ تَذْهَبُ إِلَى الْعَمَلِ؟", "ornekTr": "İşe nasıl gidiyorsun?", "kullanimNotu": "Cevabında çoğu kez بِـ veya hâl gelir.", "tur": "soru" },
+    { "id": "m08_fc09", "ar": "لِمَاذَا", "harekesiz": "لماذا", "okunus": "limâzâ", "tr": "niçin / neden?", "kok": "—", "vezin": "اِسْمُ اسْتِفْهَامٍ", "turevler": [{ "ar": "لِمَ؟", "tr": "niçin? (kısa)" }, { "ar": "لِأَنَّ", "tr": "çünkü" }], "ekBilgi": "Sebep sorar; cevabı genelde لِأَنَّ veya لِـ ile başlar.", "ornek": "لِمَاذَا تَتَعَلَّمُ الْعَرَبِيَّةَ؟", "ornekTr": "Niçin Arapça öğreniyorsun?", "kullanimNotu": "لِمَ ile aynı anlamdadır.", "tur": "soru" },
+    { "id": "m08_fc10", "ar": "كَمْ", "harekesiz": "كم", "okunus": "kem", "tr": "kaç?", "kok": "—", "vezin": "اِسْمُ اسْتِفْهَامٍ", "turevler": [{ "ar": "بِكَمْ؟", "tr": "kaça?" }, { "ar": "كَمِ السَّاعَةُ؟", "tr": "saat kaç?" }], "ekBilgi": "Soru كَمْ'i arkasından tekil, nekre, mansub isim ister.", "ornek": "كَمْ كِتَابًا قَرَأْتَ؟", "ornekTr": "Kaç kitap okudun?", "kullanimNotu": "ال önünde kesrayla كَمِ geçilir.", "tur": "soru" },
+    { "id": "m08_fc11", "ar": "أَيُّ", "harekesiz": "أي", "okunus": "eyyu", "tr": "hangi?", "kok": "—", "vezin": "اِسْمُ اسْتِفْهَامٍ", "turevler": [{ "ar": "فِي أَيِّ", "tr": "hangisinde" }, { "ar": "أَيَّةُ", "tr": "hangi (K)" }], "ekBilgi": "Mu'rab (أَيُّ/أَيَّ/أَيِّ) olan tek soru ismidir; daima muzâftır.", "ornek": "فِي أَيِّ مَدِينَةٍ تَسْكُنُ؟", "ornekTr": "Hangi şehirde oturuyorsun?", "kullanimNotu": "Arkasındaki isim daima kesralıdır.", "tur": "soru" },
+    { "id": "m08_fc12", "ar": "بِكَمْ", "harekesiz": "بكم", "okunus": "bi-kem", "tr": "kaça / ne kadar?", "kok": "—", "vezin": "بِـ + كَمْ", "turevler": [{ "ar": "بِكَمْ هٰذَا؟", "tr": "bu kaça?" }, { "ar": "كَمِ السِّعْرُ؟", "tr": "fiyatı kaç?" }], "ekBilgi": "Alışverişte fiyat sormanın en temel kalıbı.", "ornek": "بِكَمْ هٰذِهِ الْحَقِيبَةُ؟", "ornekTr": "Bu çanta kaça?", "kullanimNotu": "Cevap da بِـ + fiyat ile verilir.", "tur": "soru" },
+    { "id": "m08_fc13", "ar": "عَمَّ", "harekesiz": "عم", "okunus": "‘amme", "tr": "ne hakkında / neyi?", "kok": "—", "vezin": "عَنْ + مَا", "turevler": [{ "ar": "عَمَّ تَبْحَثُ؟", "tr": "ne arıyorsun?" }, { "ar": "عَمَّ تَتَحَدَّثُ؟", "tr": "ne hakkında konuşuyorsun?" }], "ekBilgi": "عَنْ + soru مَا birleşimi; elif hazfedilmiştir.", "ornek": "عَمَّ يَتَحَدَّثُ النَّصُّ؟", "ornekTr": "Metin ne hakkında konuşuyor?", "kullanimNotu": "Kur'an'da ve YDS sorularında çok sık görülür.", "tur": "soru" },
+    { "id": "m08_fc14", "ar": "فِيمَ", "harekesiz": "فيم", "okunus": "fîme", "tr": "hangi konuda / neyi?", "kok": "—", "vezin": "فِي + مَا", "turevler": [{ "ar": "فِيمَ تُفَكِّرُ؟", "tr": "ne düşünüyorsun?" }, { "ar": "فِيمَا", "tr": "... hususunda (soru değil)" }], "ekBilgi": "فِي + soru مَا; elifi düşer.", "ornek": "فِيمَ تُفَكِّرُ الْآنَ؟", "ornekTr": "Şu an ne düşünüyorsun?", "kullanimNotu": "فَكَّرَ فِي fiiliyle doğal çift oluşturur.", "tur": "soru" },
+    { "id": "m08_fc15", "ar": "بِمَ", "harekesiz": "بم", "okunus": "bime", "tr": "ne ile / neyle?", "kok": "—", "vezin": "بِـ + مَا", "turevler": [{ "ar": "بِمَ تَكْتُبُ؟", "tr": "ne ile yazıyorsun?" }, { "ar": "بِمَ تَشْعُرُ؟", "tr": "ne hissediyorsun?" }], "ekBilgi": "بِـ + soru مَا; elifi düşer.", "ornek": "بِمَ تَنْصَحُنِي يَا أَخِي؟", "ornekTr": "Bana ne tavsiye edersin kardeşim?", "kullanimNotu": "بِـ ile kullanılan tüm fiillerde soru yapar.", "tur": "soru" },
+    { "id": "m08_fc16", "ar": "مِمَّ", "harekesiz": "مم", "okunus": "mimme", "tr": "neyden / nelerden?", "kok": "—", "vezin": "مِنْ + مَا", "turevler": [{ "ar": "مِمَّ تَشْكُو؟", "tr": "neyden şikâyetçisin?" }, { "ar": "مِمَّ يَتَكَوَّنُ؟", "tr": "nelerden oluşur?" }], "ekBilgi": "مِنْ + soru مَا; nûn mîme dönüşür ve elif düşer.", "ornek": "مِمَّ يَتَكَوَّنُ الْمَاءُ؟", "ornekTr": "Su nelerden oluşur?", "kullanimNotu": "Muayene ve içerik sorularının anahtarı.", "tur": "soru" },
+    { "id": "m08_fc17", "ar": "لِمَ", "harekesiz": "لم", "okunus": "lime", "tr": "niçin?", "kok": "—", "vezin": "لِـ + مَا", "turevler": [{ "ar": "لِمَاذَا", "tr": "niçin?" }, { "ar": "لِأَنَّ", "tr": "çünkü" }], "ekBilgi": "لِـ + soru مَا; لَمْ (-medi) ile karıştırılmamalı.", "ornek": "لِمَ تَأَخَّرْتَ الْيَوْمَ؟", "ornekTr": "Bugün niçin geç kaldın?", "kullanimNotu": "Kısa ve edebî sebep sorusudur.", "tur": "soru" },
+    { "id": "m08_fc18", "ar": "نَعَمْ", "harekesiz": "نعم", "okunus": "ne‘am", "tr": "evet", "kok": "ن ع م", "vezin": "حَرْفُ جَوَابٍ", "turevler": [{ "ar": "نِعْمَةٌ", "tr": "nimet" }, { "ar": "بِالتَّأْكِيدِ", "tr": "elbette" }], "ekBilgi": "Olumlu soruya olumlu, olumsuz soruya olumsuz onay verir.", "ornek": "نَعَمْ، فَهِمْتُ الدَّرْسَ.", "ornekTr": "Evet, dersi anladım.", "kullanimNotu": "Olumsuz soruda 'bilakis' demek için بَلَى kullanılır.", "tur": "harf" },
+    { "id": "m08_fc19", "ar": "بَلَى", "harekesiz": "بلى", "okunus": "belâ", "tr": "bilakis / elbette (evet!)", "kok": "—", "vezin": "حَرْفُ جَوَابٍ", "turevler": [{ "ar": "أَلَيْسَ ...؟ بَلَى!", "tr": "... değil mi? Bilakis!" }, { "ar": "أَلَمْ ...؟ بَلَى!", "tr": "... -medi mi? Bilakis!" }], "ekBilgi": "Sadece olumsuz soruyu olumluya çevirmek için kullanılır.", "ornek": "أَلَيْسَ الْعِلْمُ نُورًا؟ بَلَى!", "ornekTr": "İlim nur değil midir? Bilakis (evet)!", "kullanimNotu": "YDS diyalog sorularında altın değerindedir.", "tur": "harf" },
+    { "id": "m08_fc20", "ar": "لَوْ سَمَحْتَ", "harekesiz": "لو سمحت", "okunus": "lev semahte", "tr": "affedersiniz / izninizle", "kok": "س م ح", "vezin": "تَعْبِيرٌ", "turevler": [{ "ar": "لَوْ سَمَحْتِ", "tr": "affedersiniz (K)" }, { "ar": "مِنْ فَضْلِكَ", "tr": "lütfen (E)" }], "ekBilgi": "Nazikçe dikkat çekmek veya soru sormak için kullanılır.", "ornek": "لَوْ سَمَحْتَ، أَيْنَ الْمَحَطَّةُ؟", "ornekTr": "Affedersiniz, istasyon nerede?", "kullanimNotu": "Kadına لَوْ سَمَحْتِ denir.", "tur": "ifade" },
+    { "id": "m08_fc21", "ar": "مِنْ فَضْلِكَ", "harekesiz": "من فضلك", "okunus": "min fadlike", "tr": "lütfen (E)", "kok": "ف ض ل", "vezin": "تَعْبِيرٌ", "turevler": [{ "ar": "مِنْ فَضْلِكِ", "tr": "lütfen (K)" }, { "ar": "فَضْلٌ", "tr": "lütuf / erdem" }], "ekBilgi": "En kibar rica kalıbıdır.", "ornek": "كُوبَ مَاءٍ مِنْ فَضْلِكَ.", "ornekTr": "Lütfen bir bardak su.", "kullanimNotu": "Cümlenin başında veya sonunda yer alabilir.", "tur": "ifade" },
+    { "id": "m08_fc22", "ar": "تَفَضَّلْ", "harekesiz": "تفضل", "okunus": "tefaddal", "tr": "buyurun (E)", "kok": "ف ض ل", "vezin": "تَفَعَّلْ", "turevler": [{ "ar": "تَفَضَّلِي", "tr": "buyurun (K)" }, { "ar": "تَفَضَّلُوا", "tr": "buyurun (çoğul)" }], "ekBilgi": "V. bab emir; misafir ağırlama ve bir şey uzatmada kullanılır.", "ornek": "تَفَضَّلْ بِالْجُلُوسِ.", "ornekTr": "Buyurun oturun.", "kullanimNotu": "Türkçedeki 'buyurun'un her anlamına oturur.", "tur": "ifade" },
+    { "id": "m08_fc23", "ar": "بِكُلِّ سُرُورٍ", "harekesiz": "بكل سرور", "okunus": "bi-kulli surûrin", "tr": "memnuniyetle", "kok": "س ر ر", "vezin": "تَعْبِيرٌ", "turevler": [{ "ar": "مَسْرُورٌ", "tr": "mutlu / memnun" }, { "ar": "سُرُورٌ", "tr": "sevinç" }], "ekBilgi": "Rica ve tekliflere sıcak bir kabul cevabıdır.", "ornek": "سَأُسَاعِدُكَ بِكُلِّ سُرُورٍ.", "ornekTr": "Sana memnuniyetle yardım edeceğim.", "kullanimNotu": "لَا بَأْسَ ile birlikte günlük nezaketin temelidir.", "tur": "ifade" },
+    { "id": "m08_fc24", "ar": "لَا بَأْسَ", "harekesiz": "لا بأس", "okunus": "lâ be'se", "tr": "önemli değil / sorun yok", "kok": "ب أ س", "vezin": "تَعْبِيرٌ", "turevler": [{ "ar": "بَأْسٌ", "tr": "zarar / sakınca" }, { "ar": "لَا بَأْسَ عَلَيْكَ", "tr": "geçmiş olsun" }], "ekBilgi": "Özür kabulünde veya 'zararı yok' anlamında kullanılır.", "ornek": "لَا بَأْسَ، هٰذَا أَمْرٌ بَسِيطٌ.", "ornekTr": "Önemli değil, bu basit bir şey.", "kullanimNotu": "Hastaya 'لَا بَأْسَ طَهُورٌ إِنْ شَاءَ اللّٰهُ' denir.", "tur": "ifade" },
+    { "id": "m08_fc25", "ar": "جَوَازُ السَّفَرِ", "harekesiz": "جواز السفر", "okunus": "cevâzu's-seferi", "tr": "pasaport", "kok": "ج و ز", "vezin": "إِضَافَة", "turevler": [{ "ar": "سَفَرٌ", "tr": "yolculuk" }, { "ar": "تَذْكِرَةٌ", "tr": "bilet" }], "ekBilgi": "İsim tamlaması; çoğulu جَوَازَاتُ السَّفَرِ.", "ornek": "هٰذَا جَوَازُ سَفَرِي.", "ornekTr": "Bu benim pasaportum.", "kullanimNotu": "Seyahat ve havalimanı diyaloglarının anahtar tamlaması.", "tur": "isim" },
+    { "id": "m08_fc26", "ar": "عُنْوَانٌ", "harekesiz": "عنوان", "okunus": "‘unvânun", "tr": "adres / başlık", "kok": "ع ن ن", "vezin": "فُعْلَان", "turevler": [{ "ar": "عَنَاوِينُ", "tr": "adresler / başlıklar" }, { "ar": "عُنْوَانُ الْبَرِيدِ", "tr": "e-posta adresi" }], "ekBilgi": "Hem ev adresi hem kitap/makale başlığı anlamına gelir.", "ornek": "مَا عُنْوَانُ هٰذَا الْكِتَابِ؟", "ornekTr": "Bu kitabın başlığı nedir?", "kullanimNotu": "Çoğulu عَنَاوِينُ.", "tur": "isim" },
+    { "id": "m08_fc27", "ar": "رَأْيٌ", "harekesiz": "رأي", "okunus": "ra'yun", "tr": "görüş / fikir", "kok": "ر أ ي", "vezin": "فَعْل", "turevler": [{ "ar": "آرَاءٌ", "tr": "görüşler" }, { "ar": "مَا رَأْيُكَ؟", "tr": "görüşün ne?" }], "ekBilgi": "Çoğulu: آرَاءٌ.", "ornek": "مَا رَأْيُكَ فِي هٰذِهِ الْفِكْرَةِ؟", "ornekTr": "Bu fikir hakkında görüşün ne?", "kullanimNotu": "فِي harf-i ceriyle kullanılır.", "tur": "isim" },
+    { "id": "m08_fc28", "ar": "سُؤَالٌ", "harekesiz": "سؤال", "okunus": "suâlun", "tr": "soru", "kok": "س أ ل", "vezin": "فُعَال", "turevler": [{ "ar": "أَسْئِلَةٌ", "tr": "sorular" }, { "ar": "سَأَلَ", "tr": "sordu" }], "ekBilgi": "Çoğulu: أَسْئِلَةٌ.", "ornek": "عِنْدِي سُؤَالٌ مُهِمٌّ.", "ornekTr": "Önemli bir sorum var.", "kullanimNotu": "Zıddı: جَوَابٌ / إِجَابَةٌ.", "tur": "isim" },
+    { "id": "m08_fc29", "ar": "جَوَابٌ", "harekesiz": "جواب", "okunus": "cevâbun", "tr": "cevap / yanıt", "kok": "ج و ب", "vezin": "فَعَال", "turevler": [{ "ar": "أَجْوِبَةٌ", "tr": "cevaplar" }, { "ar": "أَجَابَ", "tr": "cevap verdi" }], "ekBilgi": "Çoğulu: أَجْوِبَةٌ.", "ornek": "هٰذَا جَوَابٌ صَحِيحٌ وَوَاضِحٌ.", "ornekTr": "Bu doğru ve açık bir cevaptır.", "kullanimNotu": "Eş anlamlısı: إِجَابَةٌ.", "tur": "isim" },
+    { "id": "m08_fc30", "ar": "سِعْرٌ", "harekesiz": "سعر", "okunus": "si‘run", "tr": "fiyat", "kok": "س ع ر", "vezin": "فِعْل", "turevler": [{ "ar": "أَسْعَارٌ", "tr": "fiyatlar" }, { "ar": "سِعْرٌ مُنَاسِبٌ", "tr": "uygun fiyat" }], "ekBilgi": "Çoğulu: أَسْعَارٌ.", "ornek": "كَمْ سِعْرُ هٰذَا الْكِتَابِ؟", "ornekTr": "Bu kitabın fiyatı kaç?", "kullanimNotu": "ثَمَنٌ kelimesi de fiyat/bedel anlamında kullanılır.", "tur": "isim" },
+    { "id": "m08_fc31", "ar": "عِيَادَةٌ", "harekesiz": "عيادة", "okunus": "‘iyâdetun", "tr": "muayenehane / klinik", "kok": "ع و د", "vezin": "فِعَالَة", "turevler": [{ "ar": "عِيَادَاتٌ", "tr": "klinikler" }, { "ar": "طَبِيبٌ", "tr": "doktor" }], "ekBilgi": "Çoğulu: عِيَادَاتٌ.", "ornek": "ذَهَبَ إِلَى عِيَادَةِ الطَّبِيبِ.", "ornekTr": "Doktorun muayenehanesine gitti.", "kullanimNotu": "عَادَ الْمَرِيضَ (hastayı ziyaret etti) kökündendir.", "tur": "isim" },
+    { "id": "m08_fc32", "ar": "صُدَاعٌ", "harekesiz": "صداع", "okunus": "sudâ‘un", "tr": "baş ağrısı", "kok": "ص د ع", "vezin": "فُعَال", "turevler": [{ "ar": "أَلَمٌ", "tr": "ağrı" }, { "ar": "زُكَامٌ", "tr": "nezle" }], "ekBilgi": "فُعَال vezni Arapçada sıkça hastalık adı türetir (صُدَاعٌ، سُعَالٌ، زُكَامٌ).", "ornek": "أَشْكُو مِنْ صُدَاعٍ خَفِيفٍ.", "ornekTr": "Hafif bir baş ağrısından şikâyetçiyim.", "kullanimNotu": "Sağlık YÖKDİL metinlerinin temel sözcüklerindendir.", "tur": "isim" }
+  ]
+}
