@@ -1,0 +1,497 @@
+{
+  "generatedAt": "2026-11-22T22:17:30.881Z",
+  "prepositionalVerbs": [
+    {
+      "ar": "بَحَثَ عَنْ",
+      "tr": "aramak, araştırmak",
+      "kategori": "عَنْ",
+      "ornek": "يَبْحَثُ الطَّالِبُ عَنِ الْكِتَابِ فِي الْمَكْتَبَةِ.",
+      "ornekTr": "Öğrenci kütüphanede kitabı arıyor.",
+      "not": "عَنْ ile \"aramak\", فِي ile \"derinlemesine incelemek\" anlamına gelir."
+    },
+    {
+      "ar": "اِعْتَمَدَ عَلَى",
+      "tr": "-e dayanmak, güvenmek",
+      "kategori": "عَلَى",
+      "ornek": "تَعْتَمِدُ اللُّغَةُ الْعَرَبِيَّةُ عَلَى نِظَامِ الْجُذُورِ.",
+      "ornekTr": "Arap dili kök sistemine dayanır.",
+      "not": "YDS/YÖKDİL metinlerinde en sık geçen akademik fiillerdendir."
+    },
+    {
+      "ar": "أَدَّى إِلَى",
+      "tr": "-e yol açmak, sebep olmak",
+      "kategori": "إِلَى",
+      "ornek": "يُؤَدِّي التَّكْرَارُ الْمُنْتَظَمُ إِلَى إِتْقَانِ اللُّغَةِ.",
+      "ornekTr": "Düzenli tekrar dilde ustalaşmaya yol açar.",
+      "not": "Neden–sonuç sorularında مِمَّا يُؤَدِّي إِلَى kalıbıyla çok sık çıkar."
+    },
+    {
+      "ar": "سَاهَمَ فِي",
+      "tr": "-e katkıda bulunmak",
+      "kategori": "فِي",
+      "ornek": "سَاهَمَتِ الْقِرَاءَةُ الْيَوْمِيَّةُ فِي تَطْوِيرِ الْمُفْرَدَاتِ.",
+      "ornekTr": "Günlük okuma kelime dağarcığının gelişimine katkıda bulundu.",
+      "not": "أَسْهَمَ فِي eş anlamlısı olarak da kullanılır."
+    },
+    {
+      "ar": "تَمَكَّنَ مِنْ",
+      "tr": "-i başarmak, -ebilmek",
+      "kategori": "مِنْ",
+      "ornek": "تَمَكَّنَ الْمُتَعَلِّمُ مِنْ قِرَاءَةِ النَّصِّ بِلَا حَرَكَاتٍ.",
+      "ornekTr": "Öğrenen, metni harekesiz okumayı başardı.",
+      "not": "اِسْتَطَاعَ fiilinin harf-i cerli akademik karşılığıdır."
+    },
+    {
+      "ar": "رَغِبَ فِي / رَغِبَ عَنْ",
+      "tr": "istemek (فِي) / yüz çevirmek (عَنْ)",
+      "kategori": "Anlam Değiştiren",
+      "ornek": "أَرْغَبُ فِي تَعَلُّمِ الْعَرَبِيَّةِ الْفُصْحَى.",
+      "ornekTr": "Fasih Arapça öğrenmek istiyorum.",
+      "not": "Harf-i cer değişince anlam tam zıddına döner!"
+    }
+  ],
+  "connectors": [
+    {
+      "ar": "بِالرَّغْمِ مِنْ / عَلَى الرَّغْمِ مِنْ",
+      "tr": "-e rağmen",
+      "grup": "Zıtlık / Rağmenlik",
+      "ornek": "تَعَلَّمَ الْقِرَاءَةَ بِالرَّغْمِ مِنْ ضِيقِ الْوَقْتِ.",
+      "ornekTr": "Vaktin darlığına rağmen okumayı öğrendi.",
+      "not": "Ardından isim/mastar (mecrûr) gelir; cümle gelecekse أَنَّ eklenir."
+    },
+    {
+      "ar": "نَظَرًا لِـ / بِسَبَبِ",
+      "tr": "-den dolayı, sebebiyle",
+      "grup": "Sebep",
+      "ornek": "تَأَجَّلَ الدَّرْسُ نَظَرًا لِلسَّفَرِ.",
+      "ornekTr": "Yolculuk sebebiyle ders ertelendi.",
+      "not": "Ardından isim veya mastar gelir; cümle için نَظَرًا لِأَنَّ kullanılır."
+    },
+    {
+      "ar": "فَضْلًا عَنْ / بِالْإِضَافَةِ إِلَى",
+      "tr": "-e ek olarak, yanı sıra",
+      "grup": "Ekleme",
+      "ornek": "يَدْرُسُ الصَّرْفَ فَضْلًا عَنِ النَّحْوِ.",
+      "ornekTr": "Nahvin yanı sıra sarf da okuyor.",
+      "not": "Olumlu ekleme sorularında sıkça doğru seçenektir."
+    },
+    {
+      "ar": "إِلَّا أَنَّ / غَيْرَ أَنَّ / بَيْدَ أَنَّ",
+      "tr": "ancak, ne var ki, şu kadar var ki",
+      "grup": "İstidrâk / Zıtlık",
+      "ornek": "الْكِتَابُ طَوِيلٌ، إِلَّا أَنَّ أُسْلُوبَهُ سَهْلٌ.",
+      "ornekTr": "Kitap uzundur, ancak üslubu kolaydır.",
+      "not": "İnne ailesi gibi amel eder; ardından isim cümlesi gelir."
+    },
+    {
+      "ar": "مِمَّا أَدَّى إِلَى",
+      "tr": "bu da ...-e yol açtı",
+      "grup": "Sonuç",
+      "ornek": "تَدَرَّبَ كَثِيرًا، مِمَّا أَدَّى إِلَى نَجَاحِهِ.",
+      "ornekTr": "Çok çalıştı, bu da başarısına yol açtı.",
+      "not": "Önceki cümlenin tamamının sonucunu bağlar."
+    },
+    {
+      "ar": "بَيْنَمَا / فِي حِينِ",
+      "tr": "iken, oysa",
+      "grup": "Karşılaştırma & Zaman",
+      "ornek": "الْحُرُوفُ الشَّمْسِيَّةُ تُدْغَمُ، بَيْنَمَا الْقَمَرِيَّةُ تُظْهَرُ.",
+      "ornekTr": "Şemsî harfler idğam edilirken, kamerî harfler açık okunur.",
+      "not": "İki farklı durumu karşılaştırır."
+    }
+  ],
+  "grammarCards": [
+    {
+      "id": "m01_g1",
+      "moduleId": "01",
+      "cefr": "A1",
+      "baslik": "28 Harf Sistemi, Sağdan Sola Akış ve Birleşmeyen 6 Harf",
+      "arBaslik": "الْحُرُوفُ الْهِجَائِيَّةُ وَالْحُرُوفُ الرَّافِسَةُ",
+      "formul": "28 Harf = 22 Çift Yönlü Birleşen + 6 Tek Yönlü (ا د ذ ر ز و)",
+      "mantik": "Arap yazısı sağdan sola doğru akar ve el yazısı gibi harfler birbirine tutunarak kelime oluşturur. Bunu el ele tutuşan insanlardan oluşan bir halkaya benzetebiliriz: 28 harften 22'si hem sağındaki hem solundaki harfle el ele tutuşur (başta, ortada, sonda ve mü…"
+    },
+    {
+      "id": "m01_g2",
+      "moduleId": "01",
+      "cefr": "A1",
+      "baslik": "Kısa Harekeler (Fetha, Kesra, Damme) ve Sükûn (Cezm)",
+      "arBaslik": "الْحَرَكَاتُ الْقَصِيرَةُ وَالسُّكُونُ",
+      "formul": "Fetha (ـَ: a/e) · Kesra (ـِ: i/ı) · Damme (ـُ: u/ü) · Sükûn (ـْ: ünlüsüz duruş)",
+      "mantik": "Arap alfabesindeki 28 harfin tamamı ünsüz gibi çalışır; ünlü sesleri ise harflerin üstüne veya altına konulan minik işaretler, yani 'harekeler' verir. Harekeleri müziğin notaları gibi düşünebilirsiniz: harf enstrümandır, hareke ise hangi sesin çıkacağını belir…"
+    },
+    {
+      "id": "m01_g3",
+      "moduleId": "01",
+      "cefr": "A1",
+      "baslik": "Med Harfleri (Uzun Ünlüler: ا، و، ي)",
+      "arBaslik": "حُرُوفُ الْمَدِّ (الْحَرَكَاتُ الطَّوِيلَةُ)",
+      "formul": "Fetha + ا = â (بَا) · Damme + و = û (بُو) · Kesra + ي = î (بِي)",
+      "mantik": "Arapçada kısa ünlü ile uzun ünlü arasındaki fark sadece 'vurgu' değil, doğrudan ANLAM farkıdır! Örneğin كَتَبَ 'yazdı' demektir; ama ilk heceyi uzatıp كَاتَبَ dediğinizde 'mektuplaştı' anlamına gelir. Uzun ünlü elde etmek için kısa harekenin kendi 'uzatma kard…"
+    },
+    {
+      "id": "m01_g4",
+      "moduleId": "01",
+      "cefr": "A1",
+      "baslik": "Şedde (Çift Ünsüz / İkizleme) Gücü",
+      "arBaslik": "الشَّدَّةُ (التَّضْعِيفُ)",
+      "formul": "Harf + Şedde (ـّ) = 1. Harf (Sükûnlu) + 2. Harf (Harekeli) | دَرَّسَ = دَرْ + رَسَ",
+      "mantik": "Şedde (ـّ), Arapçada aynı iki ünsüz harfi yan yana yazmak yerine tek harf yazıp üzerine küçük bir 'w' (şın başı) koyma sistemidir. İlk harf sükûnlu (durur), ikinci harf harekelidir! Türkçedeki 'anne', 'dikkat', 'millet' kelimelerindeki çift harf baskısı gibidi…"
+    },
+    {
+      "id": "m01_g5",
+      "moduleId": "01",
+      "cefr": "A1",
+      "baslik": "Tenvîn (ـٌ، ـٍ، ـً) — Belirsizlik Nûnu ve Fetha Tenvîn Elifi",
+      "arBaslik": "التَّنْوِينُ (نُونُ التَّنْكِيرِ)",
+      "formul": "Damme Tenvîn: ـٌ (-un) · Kesra Tenvîn: ـٍ (-in) · Fetha Tenvîn: ـً + ا (-en) [ة ve اء hariç]",
+      "mantik": "Tenvîn, kelimenin son harfine yazılan 'çift hareke'dir ve sadece İSİMLERİN sonunda bulunur (fiillerde asla tenvîn olmaz!). Okunuşta sonuna gizli bir '-n' sesi ekler: ـٌ (-un), ـٍ (-in), ـً (-en/an). Bu '-n' sesi yazıda ن harfiyle yazılmaz, sadece okunur. Tenvî…"
+    },
+    {
+      "id": "m02_g1",
+      "moduleId": "02",
+      "cefr": "A1",
+      "baslik": "Kelime Çeşitleri (İsim – Fiil – Harf) ve Tanıma Alâmetleri",
+      "arBaslik": "أَقْسَامُ الْكَلِمَةِ: الْاِسْمُ وَالْفِعْلُ وَالْحَرْفُ",
+      "formul": "Kelime = İsim (ال / Tenvîn / ة / Cer) + Fiil (Mâzi / Muzâri / Emir) + Harf (Tek başına anlamı eksik bağlayıcı)",
+      "mantik": "Arapçada ne kadar uzun bir metin okursanız okuyun — ister A1 diyalogu ister 500 kelimelik YDS paragrafı olsun — karşınıza çıkan her kelime yalnızca 3 büyük kutudan birine girer: İSİM (الْاِسْمُ), FİİL (الْفِعْلُ) ve HARF/EDAT (الْحَرْفُ). Bunu bir makinenin üç…"
+    },
+    {
+      "id": "m02_g2",
+      "moduleId": "02",
+      "cefr": "A1",
+      "baslik": "Marife (Belirli) ve Nekre (Belirsiz) Sistemi",
+      "arBaslik": "الْمَعْرِفَةُ وَالنَّكِرَةُ",
+      "formul": "Nekre (Tenvînli: كِتَابٌ) + ال ← Marife (Tek Harekeli: الْكِتَابُ) | ال + Tenvîn ASLA bir arada olmaz!",
+      "mantik": "Türkçede 'Bir kitap aldım' dediğimizde herhangi bir kitaptan, 'Kitabı aldım' dediğimizde ise hem konuşanın hem dinleyenin bildiği belirli bir kitaptan söz ederiz. Arapçada bu ayrım tüm cümle yapısının (mübtedâ-haber, sıfat tamlaması, hâl) omurgasıdır! Herhangi…"
+    },
+    {
+      "id": "m02_g3",
+      "moduleId": "02",
+      "cefr": "A1",
+      "baslik": "Şemsî (Güneş) ve Kamerî (Ay) Harfler — ال Okuma Kuralı",
+      "arBaslik": "الْحُرُوفُ الشَّمْسِيَّةُ وَالْحُرُوفُ الْقَمَرِيَّةُ",
+      "formul": "Kamerî (14 Harf: اِبْغِ حَجَّكَ وَخَفْ عَقِيمَهُ) → الْـ okunur | Şemsî (14 Harf) → ل okunmaz, sonraki harf şeddelenir",
+      "mantik": "Arapçada ال belirlilik takısı yazıda HER ZAMAN 'ال' diye yazılır; ancak okunuşta alfabedeki 28 harf tam ortadan ikiye bölünür (14 + 14)! Neden? Tamamen dilin ergonomisi yüzünden! Ağzınızda 'l' (ل) sesini çıkardığınız yere çok yakın olan 14 harf (ت ث د ذ ر ز س …"
+    },
+    {
+      "id": "m02_g4",
+      "moduleId": "02",
+      "cefr": "A1",
+      "baslik": "Vasıl Hemzesi (ا) ve Kat' Hemzesi (أ / إ)",
+      "arBaslik": "هَمْزَةُ الْوَصْلِ وَهَمْزَةُ الْقَطْعِ",
+      "formul": "وَ Testi: Okunuyorsa Kat' Hemzesi (أ / إ) · Düşüp bağlanıyorsa Vasıl Hemzesi (ا — işaretsiz)",
+      "mantik": "Arapçada kelime başında iki farklı Elif görürsünüz: Birinin başında küçük 'ء' işareti vardır (أَ، إِ، أُ), diğerinin başında ise bu işaret YOKTUR (ا). İşte bu iki hemze çok farklı davranır! KAT' HEMZESİ (أَ / إِ) 'inatçı hemzedir': İster cümlenin başında ister…"
+    },
+    {
+      "id": "m02_g5",
+      "moduleId": "02",
+      "cefr": "A1",
+      "baslik": "Hemzenin Yazım Kuralları (Kürsü / Harekeler Güç Sırası)",
+      "arBaslik": "قَوَاعِدُ كِتَابَةِ الْهَمْزَةِ (الْمُتَوَسِّطَةُ وَالْمُتَطَرِّفَةُ)",
+      "formul": "Hareke Güç Sırası: Kesra (ئ) > Damme (ؤ) > Fetha (أ) > Sükûn (ء)",
+      "mantik": "Öğrencilerin en çok çekindiği imlâ konusu olan 'hemze neden bazen ئ bazen ؤ bazen أ bazen de satırda ء yazılıyor?' sorusunun aslında tek bir matematiksel sırrı vardır! Hemze kelimenin ortasında veya sonunda oturmak için kendine bir 'kürsü/koltuk' seçer. Bu kol…"
+    }
+  ],
+  "quickPractice": [
+    {
+      "id": "atlas_m01_g1_d1",
+      "moduleId": "01",
+      "kategori": "Fonetik & Yazı",
+      "soru": "Aşağıdakilerden hangisi kendinden sonraki harfe BİRLEŞMEYEN 6 harften biri DEĞİLDİR?",
+      "soruAr": "",
+      "secenekler": [
+        "د (Dâl)",
+        "ر (Râ)",
+        "ل (Lâm)",
+        "و (Vâv)"
+      ],
+      "dogruIndeks": 2,
+      "aciklama": "ل (Lâm) çift yönlü birleşen bir harftir; kendinden sonraki harfe bağlanır. Birleşmeyenler ا د ذ ر ز و harfleridir."
+    },
+    {
+      "id": "atlas_m01_g1_d2",
+      "moduleId": "01",
+      "kategori": "Fonetik & Yazı",
+      "soru": "ك + ت + ب harfleri bitişik yazıldığında doğru görünüm hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "كَتَبَ",
+        "ك ت ب",
+        "كَتَ بَ",
+        "قَتَبَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "ك، ت ve ب harflerinin tamamı çift yönlü birleştiği için tek parça hâlinde كَتَبَ yazılır."
+    },
+    {
+      "id": "atlas_m01_g2_d1",
+      "moduleId": "01",
+      "kategori": "Fonetik & Yazı",
+      "soru": "Harfin ALTINA konulan ve ince harflerde 'i' sesi veren hareke hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "Fetha (ـَ)",
+        "Kesra (ـِ)",
+        "Damme (ـُ)",
+        "Sükûn (ـْ)"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "Kesra (esre) harfin altına yazılır ve 'i/ı' sesi verir."
+    },
+    {
+      "id": "atlas_m01_g2_d2",
+      "moduleId": "01",
+      "kategori": "Fonetik & Yazı",
+      "soru": "كُتُبٌ (kitaplar) kelimesinin doğru okunuşu hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "ketebun",
+        "kitâbun",
+        "kutubun",
+        "kâtibun"
+      ],
+      "dogruIndeks": 2,
+      "aciklama": "İlk iki harf damme (ـُ), son harf damme tenvînli (ـٌ) olduğu için 'kutubun' okunur."
+    },
+    {
+      "id": "atlas_m01_g3_d1",
+      "moduleId": "01",
+      "kategori": "Fonetik & Yazı",
+      "soru": "Bir harfin kesrasını (ـِ) 2 birim uzatarak 'î' sesi veren med harfi hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "ا (Elif)",
+        "و (Vâv)",
+        "ي (Yâ)",
+        "ه (Hâ)"
+      ],
+      "dogruIndeks": 2,
+      "aciklama": "Kesra + harekesiz ي uzun 'î' sesi verir (örn. كَبِيرٌ)."
+    },
+    {
+      "id": "atlas_m01_g3_d2",
+      "moduleId": "01",
+      "kategori": "Fonetik & Yazı",
+      "soru": "Aşağıdaki kelimelerden hangisinde و (Vâv) harfi MED HARFİ DEĞİLDİR (ünsüz 'v' olarak okunur)?",
+      "soruAr": "",
+      "secenekler": [
+        "نُورٌ",
+        "سُوقٌ",
+        "وَلَدٌ",
+        "أُسْبُوعٌ"
+      ],
+      "dogruIndeks": 2,
+      "aciklama": "وَلَدٌ kelimesinde و harfi kelime başındadır ve fetha harekesi taşır; bu nedenle med değil ünsüz 'v'dir."
+    },
+    {
+      "id": "atlas_m01_g4_d1",
+      "moduleId": "01",
+      "kategori": "Fonetik & Yazı",
+      "soru": "Şedde (ـّ) taşıyan bir harf fonetik olarak nasıl açılır?",
+      "soruAr": "",
+      "secenekler": [
+        "İki sükûnlu harf",
+        "Birinci harf sükûnlu + ikinci harf harekeli",
+        "Birinci harf harekeli + ikinci harf sükûnlu",
+        "Uzun bir med harfi"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "Şeddeli harfin ilki daima sükûnlu, ikincisi ise şeddenin üzerindeki/altındaki harekeyi taşır."
+    },
+    {
+      "id": "atlas_m01_g4_d2",
+      "moduleId": "01",
+      "kategori": "Fonetik & Yazı",
+      "soru": "عَلِمَ (bildi) fiilinin orta harfine şedde konulduğunda oluşan عَلَّمَ fiilinin anlamı nedir?",
+      "soruAr": "",
+      "secenekler": [
+        "Unuttu",
+        "Öğretti",
+        "Okudu",
+        "Yazdı"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "Orta harfin şeddelenmesi (II. Bab) fiili geçişli/ettirgen yapar: عَلِمَ (bildi) → عَلَّمَ (öğretti)."
+    },
+    {
+      "id": "atlas_m01_g5_d1",
+      "moduleId": "01",
+      "kategori": "Fonetik & Yazı",
+      "soru": "Tenvîn yalnızca hangi kelime türünün sonunda bulunabilir?",
+      "soruAr": "",
+      "secenekler": [
+        "Fiillerde",
+        "İsimlerde",
+        "Harf-i cerlerde",
+        "Tüm kelimelerde"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "Tenvîn ismin en belirgin alâmetlerinden biridir; fiiller ve harfler asla tenvîn almaz."
+    },
+    {
+      "id": "atlas_m01_g5_d2",
+      "moduleId": "01",
+      "kategori": "Fonetik & Yazı",
+      "soru": "Aşağıdaki fetha tenvînli yazılışlardan hangisi YANLIŞTIR?",
+      "soruAr": "",
+      "secenekler": [
+        "كِتَابًا",
+        "قَلَمًا",
+        "مَدْرَسَةًا",
+        "مَاءً"
+      ],
+      "dogruIndeks": 2,
+      "aciklama": "ة (tâ-i merbûta) ile biten isimlere fetha tenvîninde destek elifi eklenmez; doğrusu مَدْرَسَةً."
+    },
+    {
+      "id": "atlas_m02_g1_d1",
+      "moduleId": "02",
+      "kategori": "Temel Nahiv & İmlâ",
+      "soru": "Arapça gramerinde kelimeler kaç ana kısma ayrılır?",
+      "soruAr": "",
+      "secenekler": [
+        "2 (İsim ve Fiil)",
+        "3 (İsim, Fiil ve Harf)",
+        "5 (İsim, Fiil, Sıfat, Zarf, Bağlaç)",
+        "8"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "Arapçada tüm kelimeler İsim (اِسْم), Fiil (فِعْل) ve Harf (حَرْف) olmak üzere 3 ana gruba ayrılır."
+    },
+    {
+      "id": "atlas_m02_g1_d2",
+      "moduleId": "02",
+      "kategori": "Temel Nahiv & İmlâ",
+      "soru": "Aşağıdakilerden hangisi bir kelimenin İSİM olduğunu kesin olarak kanıtlayan alâmetlerden biridir?",
+      "soruAr": "",
+      "secenekler": [
+        "Başına سَـ alması",
+        "Başına ال veya sonuna tenvîn alması",
+        "Başına لَمْ alması",
+        "Başına قَدْ alması"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "ال belirlilik takısı ve tenvîn sadece isimlere mahsustur; سَـ، لَمْ، قَدْ ise fiil alâmetidir."
+    },
+    {
+      "id": "atlas_m02_g2_d1",
+      "moduleId": "02",
+      "kategori": "Temel Nahiv & İmlâ",
+      "soru": "قَلَمٌ (bir kalem) nekre ismini ال ile marife yaptığımızda doğru yazılış hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "الْقَلَمٌ",
+        "الْقَلَمُ",
+        "قَلَمُ",
+        "الْقَلَمًا"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "Başa ال geldiğinde sondaki tenvîn düşer ve tek hareke (damme) kalır: الْقَلَمُ."
+    },
+    {
+      "id": "atlas_m02_g2_d2",
+      "moduleId": "02",
+      "kategori": "Temel Nahiv & İmlâ",
+      "soru": "'الْبَيْتُ كَبِيرٌ' (Marife + Nekre) ile 'الْبَيْتُ الْكَبِيرُ' (Marife + Marife) arasındaki fark nedir?",
+      "soruAr": "",
+      "secenekler": [
+        "İlki tam cümle ('Ev büyüktür'), ikincisi sıfat tamlaması ('büyük ev')",
+        "İkisi de aynı anlamdadır",
+        "İlki sıfat tamlaması, ikincisi tam cümledir",
+        "İkisi de fiil cümlesidir"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Marife + Nekre isim cümlesi (Mübtedâ + Haber), Marife + Marife ise sıfat tamlaması kurar."
+    },
+    {
+      "id": "atlas_m02_g3_d1",
+      "moduleId": "02",
+      "kategori": "Temel Nahiv & İmlâ",
+      "soru": "Aşağıdaki kelimelerden hangisinde ال takısının ل harfi OKUNMAZ (Şemsîdir)?",
+      "soruAr": "",
+      "secenekler": [
+        "الْقَمَرُ",
+        "الْبَيْتُ",
+        "الدَّرْسُ",
+        "الْمَكْتَبُ"
+      ],
+      "dogruIndeks": 2,
+      "aciklama": "د (Dâl) şemsî bir harftir; bu yüzden الدَّرْسُ 'ed-dersu' şeklinde idğamla okunur."
+    },
+    {
+      "id": "atlas_m02_g3_d2",
+      "moduleId": "02",
+      "kategori": "Temel Nahiv & İmlâ",
+      "soru": "الشَّمْسُ kelimesinin doğru telaffuzu hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "el-şemsu",
+        "eş-şemsu",
+        "e-şemsu",
+        "el-semsu"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "ش şemsîdir; ل düşer ve ش şeddeli okunur: eş-şemsu."
+    },
+    {
+      "id": "atlas_m02_g4_d1",
+      "moduleId": "02",
+      "kategori": "Temel Nahiv & İmlâ",
+      "soru": "Bir kelimenin başındaki hemzenin Vasıl mı Kat' mı olduğunu anlamak için uygulanan en pratik test nedir?",
+      "soruAr": "",
+      "secenekler": [
+        "Sonuna tenvîn koymak",
+        "Başına 'وَ' (ve) getirip okumak",
+        "Kelimeyi çoğul yapmak",
+        "Harfleri saymak"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "وَ eklenince hemze okunuyorsa Kat' (وَأَحْمَدُ), düşüp bağlanıyorsa Vasıldır (وَاسْمٌ = ve'smun)."
+    },
+    {
+      "id": "atlas_m02_g4_d2",
+      "moduleId": "02",
+      "kategori": "Temel Nahiv & İmlâ",
+      "soru": "Aşağıdaki yazılışlardan hangisi imlâ açısından YANLIŞTIR?",
+      "soruAr": "",
+      "secenekler": [
+        "أَحْمَدُ",
+        "إِلَى",
+        "إِسْمٌ",
+        "أَنَا"
+      ],
+      "dogruIndeks": 2,
+      "aciklama": "اِسْمٌ (isim) vasıl hemzeli 7 isimden biridir; başına küçük hemze (ء) konulmaz (doğrusu: اِسْمٌ)."
+    },
+    {
+      "id": "atlas_m02_g5_d1",
+      "moduleId": "02",
+      "kategori": "Temel Nahiv & İmlâ",
+      "soru": "Orta hemzenin koltuğunu belirleyen hareke güç sıralaması (en güçlüden en zayıfa) hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "Fetha > Damme > Kesra > Sükûn",
+        "Kesra > Damme > Fetha > Sükûn",
+        "Damme > Kesra > Sükûn > Fetha",
+        "Sükûn > Fetha > Damme > Kesra"
+      ],
+      "dogruIndeks": 1,
+      "aciklama": "En güçlü hareke daima Kesra (ئ), sonra Damme (ؤ), sonra Fetha (أ), en zayıf Sükûndur (ء)."
+    },
+    {
+      "id": "atlas_m02_g5_d2",
+      "moduleId": "02",
+      "kategori": "Temel Nahiv & İmlâ",
+      "soru": "سُؤَالٌ (soru) kelimesinde hemze neden و (ؤ) üzerine yazılmıştır?",
+      "soruAr": "",
+      "secenekler": [
+        "Hemze fethalı, önceki س dammeli; damme fethadan güçlüdür",
+        "Çünkü sonda yer alır",
+        "Çünkü vasıl hemzesidir",
+        "Çünkü şemsîdir"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "سُ (damme) vs. أَ (fetha): Damme fethayı yendiği için koltuk ؤ olur."
+    }
+  ]
+}

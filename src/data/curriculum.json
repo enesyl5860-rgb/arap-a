@@ -1,0 +1,701 @@
+{
+  "version": "4.0.0",
+  "title": "0'dan B2'ye + YDS/YÖKDİL Tam Kapsamlı Arapça Külliyatı",
+  "arabicTitle": "مَوْسُوعَةُ اللُّغَةِ الْعَرَبِيَّةِ الشَّامِلَةُ",
+  "subtitle": "Prof. Dr. Hüseyin Günday & Prof. Dr. Şener Şahin Sistematiği + YDS/YÖKDİL Sınav Hazırlığı",
+  "totalModules": 55,
+  "totalFinals": 4,
+  "totalVolumes": 5,
+  "volumes": [
+    {
+      "cilt": 1,
+      "title": "Cilt 1: Temel Ses, Yazı, İsim ve İlk Cümleler",
+      "arabicTitle": "الْمُجَلَّدُ الْأَوَّلُ: الْأَسَاسِيَّاتُ وَالْجُمْلَةُ الْأُولَى",
+      "cefr": "0 → A1",
+      "phaseId": 1,
+      "modules": ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11"],
+      "finalId": "final_a1"
+    },
+    {
+      "cilt": 2,
+      "title": "Cilt 2: Sülâsî Fiil Sistemi, Kipler ve İ'rab Derinliği",
+      "arabicTitle": "الْمُجَلَّدُ الثَّانِي: نِظَامُ الْأَفْعَالِ وَالْإِعْرَابِ",
+      "cefr": "A1 → A2",
+      "phaseId": 2,
+      "modules": ["12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"],
+      "finalId": "final_a2"
+    },
+    {
+      "cilt": 3,
+      "title": "Cilt 3: Mezîd Fiiller, Müştak İsimler ve Aksâm-ı Seb'a",
+      "arabicTitle": "الْمُجَلَّدُ الثَّالِثُ: الصَّرْفُ الْمُتَقَدِّمُ وَالْمُشْتَقَّاتُ",
+      "cefr": "A2 → B1",
+      "phaseId": 3,
+      "modules": ["24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34"],
+      "finalId": null
+    },
+    {
+      "cilt": 4,
+      "title": "Cilt 4: İleri Nahiv, 5 Mef'ûl ve Cümle İ'rabı",
+      "arabicTitle": "الْمُجَلَّدُ الرَّابِعُ: النَّحْوُ الْمُتَقَدِّمُ وَإِعْرَابُ الْجُمَلِ",
+      "cefr": "B1 → B1+",
+      "phaseId": 4,
+      "modules": ["35", "36", "37", "38", "39", "40", "41", "42", "43", "44", "45"],
+      "finalId": "final_b1"
+    },
+    {
+      "cilt": 5,
+      "title": "Cilt 5: Akademik Arapça, Bağlaçlar Atlası ve YDS/YÖKDİL Ustalığı",
+      "arabicTitle": "الْمُجَلَّدُ الْخَامِسُ: الْعَرَبِيَّةُ الْأَكَادِيمِيَّةُ وَالِاخْتِبَارَاتُ",
+      "cefr": "B1+ → B2 / YDS–YÖKDİL",
+      "phaseId": 5,
+      "modules": ["46", "47", "48", "49", "50", "51", "52", "53", "54", "55"],
+      "finalId": "final_b2"
+    }
+  ],
+  "phases": [
+    {
+      "id": 1,
+      "code": "FAZ-1",
+      "title": "Faz 1: Temel Ses, Yazı, İsim ve İlk Cümleler",
+      "cefr": "0 → A1",
+      "cilt": 1,
+      "description": "Arap alfabesi ve ses sisteminden başlayarak isim cümlesi, sıfat/isim tamlaması, zamirler, harf-i cerler ve mâzi-muzâri fiil temellerini kurar.",
+      "finalId": "final_a1",
+      "modules": [
+        {
+          "id": "01",
+          "slug": "modul_01",
+          "title": "Arap Alfabesi, Harf Birleşmeleri, Hareke, Med ve Şedde",
+          "arabicTitle": "الْحُرُوفُ الْعَرَبِيَّةُ وَالْحَرَكَاتُ وَالْمَدُّ وَالشَّدَّةُ",
+          "cefr": "A1",
+          "category": "Fonetik & Yazı",
+          "summary": "28 harfin başta/ortada/sonda yazılışı, birleşmeyen 6 harf, kısa harekeler, sükûn, tenvîn, şedde ve uzun ünlüler (med harfleri).",
+          "topics": ["28 Harf & Birleşmeler", "Birleşmeyen 6 Harf", "Fetha/Kesra/Damme/Sükûn", "Tenvîn & Şedde", "Med Harfleri (ا و ي)"]
+        },
+        {
+          "id": "02",
+          "slug": "modul_02",
+          "title": "Kelime Çeşitleri, Marife–Nekre, Şemsî–Kamerî & Hemze",
+          "arabicTitle": "أَقْسَامُ الْكَلِمَةِ وَالْمَعْرِفَةُ وَالنَّكِرَةُ وَالْهَمْزَةُ",
+          "cefr": "A1",
+          "category": "Temel Nahiv & İmlâ",
+          "summary": "İsim–Fiil–Harf ayrımı, belirlilik takısı (ال), şemsî ve kamerî harfler, vasıl ve kat' hemzesi ile hemze imlâ temelleri.",
+          "topics": ["İsim–Fiil–Harf", "Marife & Nekre (ال)", "Şemsî & Kamerî Harfler", "Vasıl & Kat' Hemzesi", "Hemze Yazım Temelleri"]
+        },
+        {
+          "id": "03",
+          "slug": "modul_03",
+          "title": "Müzekker–Müennes & Müfred–Tesniye–Cemi",
+          "arabicTitle": "الْمُذَكَّرُ وَالْمُؤَنَّثُ وَالْمُفْرَدُ وَالْمُثَنَّى وَالْجَمْعُ",
+          "cefr": "A1",
+          "category": "İsim Morfolojisi",
+          "summary": "Tâ-i merbûta ve semâî müenneslik, ikil (-َانِ/-َيْنِ), düzenli eril/dişil çoğullar ve Cemi Teksir (kırık çoğul) mantığı.",
+          "topics": ["Müzekker & Müennes", "Tesniye (İkil)", "Cemi Müzekker Sâlim", "Cemi Müennes Sâlim", "Cemi Teksir Giriş"]
+        },
+        {
+          "id": "04",
+          "slug": "modul_04",
+          "title": "Munfasıl Zamirler & İsm-i İşâretler",
+          "arabicTitle": "الضَّمَائِرُ الْمُنْفَصِلَةُ وَأَسْمَاءُ الْإِشَارَةِ",
+          "cefr": "A1",
+          "category": "Zamirler & İşaret",
+          "summary": "14 şahıslı merfû munfasıl zamirler, yakın/uzak işaret isimleri ve işaret sıfatı/zamiri ayrımı.",
+          "topics": ["14 Merfû Munfasıl Zamir", "Yakın İşaret İsimleri", "Uzak İşaret İsimleri", "İşaret + Marife İsim Uyumu", "Tanıtma Cümleleri"]
+        },
+        {
+          "id": "05",
+          "slug": "modul_05",
+          "title": "İsim Cümlesi (Mübtedâ–Haber) & Sıfat Tamlaması",
+          "arabicTitle": "الْجُمْلَةُ الْاِسْمِيَّةُ وَالنَّعْتُ وَالْمَنْعُوتُ",
+          "cefr": "A1",
+          "category": "Temel Nahiv",
+          "summary": "Mübtedâ–Haber uyumu, temel ref' alâmeti, 4 yönden sıfat–mevsûf uyumu ve akılsız çoğulların tekil müennes hükmü.",
+          "topics": ["Mübtedâ & Haber", "4 Yönden Sıfat Uyumu", "Gayr-i Âkil Çoğul Kuralı", "İsim Cümlesi vs. Sıfat Tamlaması", "Ref' Alâmeti"]
+        },
+        {
+          "id": "06",
+          "slug": "modul_06",
+          "title": "Muttasıl İyelik Zamirleri & İsim Tamlaması (İzâfet)",
+          "arabicTitle": "الضَّمَائِرُ الْمُتَّصِلَةُ بِالْاِسْمِ وَالْإِضَافَةُ",
+          "cefr": "A1",
+          "category": "Tamlamalar",
+          "summary": "İsimlere bitişen iyelik zamirleri, muzâf–muzâfun ileyh kuralları, zincirleme tamlama ve tamlamada sıfat yerleşimi.",
+          "topics": ["İyelik Zamirleri", "Muzâf Şartları", "Muzâfun İleyh (Mecrûr)", "Zincirleme İzâfet", "Tamlamada Sıfat"]
+        },
+        {
+          "id": "07",
+          "slug": "modul_07",
+          "title": "Harf-i Cerler, Şibh-i Cümle & Haberin Öne Geçmesi",
+          "arabicTitle": "حُرُوفُ الْجَرِّ وَشِبْهُ الْجُمْلَةِ وَتَقْدِيمُ الْخَبَرِ",
+          "cefr": "A1",
+          "category": "Edatlar & Nahiv",
+          "summary": "Temel harf-i cerler, cer alâmeti, şibh-i cümle haberin öne geçmesi ve عِنْدَ/لِـ/فِي ile var/yok ve sahiplik yapıları.",
+          "topics": ["Temel Harf-i Cerler", "Şibh-i Cümle", "Haberin Öne Geçmesi", "عِنْدَ / لِـ Sahiplik", "Var / Yok Kalıpları"]
+        },
+        {
+          "id": "08",
+          "slug": "modul_08",
+          "title": "Arapça'da Soru Yapıları & Günlük İletişim",
+          "arabicTitle": "أَدَوَاتُ الْاِسْتِفْهَامِ وَالتَّوَاصُلُ الْيَوْمِيُّ",
+          "cefr": "A1",
+          "category": "İletişim & Nahiv",
+          "summary": "Soru harfleri ve isimleri (هَلْ، أَ، مَا، مَنْ، أَيْنَ، مَتَى، كَيْفَ، كَمْ، لِمَاذَا، أَيُّ), نَعَمْ/لَا/بَلَى cevap sistemi.",
+          "topics": ["هَلْ ve أَ Soru Harfleri", "Soru İsimleri", "Harf-i Cer + مَا (بِمَ/لِمَ/عَمَّ)", "بَلَى Cevap Kuralı", "Tanışma & Günlük Diyalog"]
+        },
+        {
+          "id": "09",
+          "slug": "modul_09",
+          "title": "Mâzi Fiil (14 Şahıs) & Fiil Cümlesi Temelleri",
+          "arabicTitle": "الْفِعْلُ الْمَاضِي وَالْجُمْلَةُ الْفِعْلِيَّةُ",
+          "cefr": "A1",
+          "category": "Sarf & Nahiv",
+          "summary": "Sülâsî mâzi 14 şahıs çekimi, merfû muttasıl zamirler, fiil–fâil cinsiyet ve sayı uyumu, açık ve gizli fâil.",
+          "topics": ["Mâzi 14 Şahıs Çekimi", "Merfû Muttasıl Zamirler", "Fiil–Fâil Uyumu", "Açık vs. Müstetir Fâil", "İsim vs. Fiil Cümlesi"]
+        },
+        {
+          "id": "10",
+          "slug": "modul_10",
+          "title": "Muzâri Fiil, Mef'ûlün Bih & Mansub Muttasıl Zamirler",
+          "arabicTitle": "الْفِعْلُ الْمُضَارِعُ وَالْمَفْعُولُ بِهِ وَضَمَائِرُ النَّصْبِ",
+          "cefr": "A1",
+          "category": "Sarf & Nahiv",
+          "summary": "Muzâri 14 şahıs çekimi, şimdiki/geniş/gelecek zaman (سَـ/سَوْفَ), nesne (mef'ûlün bih) ve fiile bitişen nesne zamirleri.",
+          "topics": ["Muzâri 14 Şahıs Çekimi", "Muzâraat Harfleri (أَنَيْتُ)", "سَـ / سَوْفَ Gelecek Zaman", "Mef'ûlün Bih (Mansub)", "Fiile Bitişen Zamirler"]
+        },
+        {
+          "id": "11",
+          "slug": "modul_11",
+          "title": "Temel Olumsuzluklar, Saatler, Zaman & Sayılar (1–10)",
+          "arabicTitle": "أَدَوَاتُ النَّفْيِ الْأَسَاسِيَّةُ وَالسَّاعَةُ وَالْأَعْدَادُ",
+          "cefr": "A1",
+          "category": "Pratik & Nahiv",
+          "summary": "مَا، لَا ve لَيْسَ ile olumsuzluk; günler, aylar, saat söyleme kalıpları ve 1–10 arası sayıların temel kuralları.",
+          "topics": ["مَا & لَا Fiil Olumsuzluğu", "لَيْسَ İsim Olumsuzluğu", "Saat Söyleme", "Günler & Aylar", "1–10 Sayıları"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "code": "FAZ-2",
+      "title": "Faz 2: Sülâsî Fiil Sistemi, Kipler, İ'rab Derinliği ve Cümle Genişletme",
+      "cefr": "A1 → A2",
+      "cilt": 2,
+      "description": "Sülâsî 6 bab, harf ile i'rab (Esmâ-i ve Ef'âl-i Hamse), nasb/cezm/emir/nehiy/meçhul, İsm-i Mevsûl, Kâne & İnne aileleri ve tam sayı sistemini kavratır.",
+      "finalId": "final_a2",
+      "modules": [
+        {
+          "id": "12",
+          "slug": "modul_12",
+          "title": "Sülâsî Mücerred 6 Bab Sistemi",
+          "arabicTitle": "أَبْوَابُ الْفِعْلِ الثُّلَاثِيِّ الْمُجَرَّدِ السِّتَّةُ",
+          "cefr": "A2",
+          "category": "Sarf",
+          "summary": "1.–6. babların ayn'ul-fiil hareke kalıpları, anlam eğilimleri (lâzım/müteaddi) ve Arapça kök sözlüğü kullanma becerisi.",
+          "topics": ["1.–3. Bablar", "4.–6. Bablar", "Ayn'ul-Fiil Hareke Mantığı", "Sözlükte Bab Okuma", "Sık Kullanılan 60 Kök"]
+        },
+        {
+          "id": "13",
+          "slug": "modul_13",
+          "title": "Tesniye ve Çoğulların İ'rabı (Muzâf Durumları Dahil)",
+          "arabicTitle": "إِعْرَابُ الْمُثَنَّى وَالْجُمُوعِ وَحَذْفُ النُّونِ",
+          "cefr": "A2",
+          "category": "Nahiv & İ'rab",
+          "summary": "Tesniye, Cemi Müzekker/Müennes Sâlim ve Cemi Teksir'in ref'/nasb/cer hâlleri ile muzâf olduklarında nûn'un düşmesi.",
+          "topics": ["Tesniye İ'rabı (انِ/يْنِ)", "Cemi Müzekker İ'rabı (ونَ/ينَ)", "Cemi Müennes İ'rabı (Kesra ile Nasb)", "Muzâfta Nûn Hazfi", "Cemi Teksir İ'rabı"]
+        },
+        {
+          "id": "14",
+          "slug": "modul_14",
+          "title": "Esmâ-i Hamse (Beş İsim) & Ef'âl-i Hamse (Beş Fiil)",
+          "arabicTitle": "الْأَسْمَاءُ الْخَمْسَةُ وَالْأَفْعَالُ الْخَمْسَةُ",
+          "cefr": "A2",
+          "category": "Nahiv & İ'rab",
+          "summary": "أَبٌ، أَخٌ، حَمٌ، فُو، ذُو isimlerinin vâv/elif/yâ ile i'rab şartları ve Ef'âl-i Hamse'de nûn'un sübutu/hazfi.",
+          "topics": ["Esmâ-i Hamse 4 Şartı", "ذُو Kullanımı", "Ef'âl-i Hamse 5 Sığa", "Nûn'un Sübutu & Hazfi", "Mütekellim Yâsı İstisnası"]
+        },
+        {
+          "id": "15",
+          "slug": "modul_15",
+          "title": "Muzâriyi Nasbeden Edatlar & Müevvel Mastar",
+          "arabicTitle": "نَوَاصِبُ الْفِعْلِ الْمُضَارِعِ وَالْمَصْدَرُ الْمُؤَوَّلُ",
+          "cefr": "A2",
+          "category": "Sarf & Nahiv",
+          "summary": "أَنْ، لَنْ، كَيْ، إِذَنْ، حَتَّى ve لَامُ التَّعْلِيلِ ile muzâri nasbı, gelecek zaman kesin olumsuzluğu ve müevvel mastar.",
+          "topics": ["أَنْ + Muzâri (Müevvel Mastar)", "لَنْ Gelecek Olumsuzluğu", "كَيْ & لِـ Amaç Bildirme", "حَتَّى (-e kadar / -sin diye)", "Nasb Alâmetleri"]
+        },
+        {
+          "id": "16",
+          "slug": "modul_16",
+          "title": "Muzâriyi Cezmeden Edatlar, Emr-i Gâib & Nehy-i Gâib",
+          "arabicTitle": "جَوَازِمُ الْفِعْلِ الْمُضَارِعِ وَالْأَمْرُ وَالنَّهْيُ لِلْغَائِبِ",
+          "cefr": "A2",
+          "category": "Sarf & Nahiv",
+          "summary": "لَمْ (Cahd-ı Mutlak), لَمَّا (Cahd-ı Mustağrak), لَامُ الْأَمْرِ (Emr-i Gâib) ve لَا النَّاهِيَةُ (Nehy-i Gâib) çekimleri.",
+          "topics": ["لَمْ (Geçmiş Olumsuzluk)", "لَمَّا (Henüz -medi)", "Emr-i Gâib (لِـ)", "Nehy-i Gâib (لَا)", "Cezm Alâmetleri"]
+        },
+        {
+          "id": "17",
+          "slug": "modul_17",
+          "title": "Emr-i Hâzır ve Nehy-i Hâzır Sistemi",
+          "arabicTitle": "فِعْلُ الْأَمْرِ الْحَاضِرِ وَالنَّهْيُ الْحَاضِرُ",
+          "cefr": "A2",
+          "category": "Sarf",
+          "summary": "Sülâsî sâlim fiillerde emir türetme mekanizması, vasıl hemzesi hareke kuralı ve 6 muhatap şahıs emir/nehiy çekimi.",
+          "topics": ["Emir Türetme 3 Adım", "Vasıl Hemzesi (u / i)", "6 Muhatap Şahıs Çekimi", "Nehy-i Hâzır (لَا تَفْعَلْ)", "Günlük Rica & Yönerge"]
+        },
+        {
+          "id": "18",
+          "slug": "modul_18",
+          "title": "Meçhul (Edilgen) Fiil Çatısı & Nâib-i Fâil",
+          "arabicTitle": "الْفِعْلُ الْمَبْنِيُّ لِلْمَجْهُولِ وَنَائِبُ الْفَاعِلِ",
+          "cefr": "A2",
+          "category": "Sarf & Nahiv",
+          "summary": "Mâzi (فُعِلَ) ve muzâri (يُفْعَلُ) edilgen kurulumu, nâib-i fâilin ref' kuralları ve harf-i cerli meçhul yapılar.",
+          "topics": ["Mâzi Meçhul (فُعِلَ)", "Muzâri Meçhul (يُفْعَلُ)", "Nâib-i Fâil Çeşitleri", "Harf-i Cerli Meçhul", "Basın Arapçasında Edilgen"]
+        },
+        {
+          "id": "19",
+          "slug": "modul_19",
+          "title": "İsm-i Mevsûller (İlgi Zamirleri) & Sıla Cümlesi",
+          "arabicTitle": "الْأَسْمَاءُ الْمَوْصُولَةُ وَجُمْلَةُ الصِّلَةِ",
+          "cefr": "A2",
+          "category": "Nahiv",
+          "summary": "Özel (الَّذِي، الَّتِي…) ve müşterek (مَنْ، مَا) ism-i mevsûller, sıla cümlesi ve âid (dönüş) zamirinin analizi.",
+          "topics": ["Özel İsm-i Mevsûller", "Müşterek مَنْ / مَا", "Sıla Cümlesi Yapısı", "Âid (Dönüş) Zamiri", "Türkçeye -an/-en/-dığı Çeviri"]
+        },
+        {
+          "id": "20",
+          "slug": "modul_20",
+          "title": "Haber Çeşitleri & Sıfat Çeşitleri",
+          "arabicTitle": "أَنْوَاعُ الْخَبَرِ وَأَنْوَاعُ النَّعْتِ",
+          "cefr": "A2",
+          "category": "Nahiv",
+          "summary": "Müfred, isim cümlesi, fiil cümlesi ve şibh-i cümle haber ile cümle sıfat kuralı (nekre sonrası cümle sıfattır).",
+          "topics": ["4 Haber Türü", "Cümle Haberde Râbıt Zamir", "Müfred & Cümle Sıfat", "Nekre + Cümle = Sıfat", "Şibh-i Cümle Sıfat"]
+        },
+        {
+          "id": "21",
+          "slug": "modul_21",
+          "title": "Kâne ve Kardeşleri (Nâkıs Fiiller)",
+          "arabicTitle": "كَانَ وَأَخَوَاتُهَا (الْأَفْعَالُ النَّاقِصَةُ)",
+          "cefr": "A2",
+          "category": "Nahiv",
+          "summary": "كَانَ، أَصْبَحَ، أَمْسَى، ظَلَّ، بَاتَ، صَارَ، لَيْسَ، مَا زَالَ ve مَا دَامَ ile isim cümlesini zamanlandırma ve birleşik zamanlar.",
+          "topics": ["Kâne'nin Ameli (Ref–Nasb)", "Dönüşüm & Süreklilik Fiilleri", "كَانَ + Muzâri (Şimdiki Hikâye)", "كَانَ قَدْ + Mâzi (Miş'li Geçmiş)", "Haberinin Öne Geçmesi"]
+        },
+        {
+          "id": "22",
+          "slug": "modul_22",
+          "title": "İnne ve Kardeşleri, İnne/Enne Okunuşu & Mâ-i Kâffe",
+          "arabicTitle": "إِنَّ وَأَخَوَاتُهَا وَمَا الْكَافَّةُ",
+          "cefr": "A2",
+          "category": "Nahiv",
+          "summary": "إِنَّ، أَنَّ، كَأَنَّ، لٰكِنَّ، لَيْتَ، لَعَلَّ harflerinin ameli, kesralı/fethalı okunma yerleri ve إِنَّمَا yapısı.",
+          "topics": ["6 Harf ve Anlamları", "İnne'nin Ameli (Nasb–Ref)", "إِنَّ vs. أَنَّ Kuralları", "Mâ-i Kâffe (إِنَّمَا)", "Te'kîd Lâmı (لَـ)"]
+        },
+        {
+          "id": "23",
+          "slug": "modul_23",
+          "title": "Sayılar Tam Sistemi (11–1000+, Sıra Sayıları) & Mansub Munfasıl Zamirler",
+          "arabicTitle": "الْأَعْدَادُ وَتَمْيِيزُهَا وَالضَّمَائِرُ الْمُنْفَصِلَةُ الْمَنْصُوبَةُ",
+          "cefr": "A2",
+          "category": "Nahiv & Pratik",
+          "summary": "11–19 mürekkep, 20–90 ukûd, 21–99 ma'tûf, 100/1000, sıra sayıları (الْأَوَّل/الثَّانِي) ve إِيَّاكَ/إِيَّاهُ zamirleri.",
+          "topics": ["11–19 Mürekkep Sayılar", "20–99 Ukûd & Ma'tûf", "100 / 1000 & Tarih Okuma", "Sıra Sayıları", "Mansub Munfasıl (إِيَّا)"]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "code": "FAZ-3",
+      "title": "Faz 3: Mezîd Fiiller, Müştak İsimler ve Aksâm-ı Seb'a (Sarf Ustalığı)",
+      "cefr": "A2 → B1",
+      "cilt": 3,
+      "description": "Mezîd II–X babları, Rubâî fiiller, Te'kîd Nûnu, tüm Mastar ve Müştak İsimler, Maksûr/Mankûs/Memdûd ve Aksâm-ı Seb'a (illetli fiil i'lâl sistemi) eksiksiz işlenir.",
+      "finalId": null,
+      "modules": [
+        {
+          "id": "24",
+          "slug": "modul_24",
+          "title": "Mezîd Fiiller I: II. Bab (Tef'îl) & III. Bab (Müfâale)",
+          "arabicTitle": "الْأَفْعَالُ الْمَزِيدَةُ: بَابُ التَّفْعِيلِ وَبَابُ الْمُفَاعَلَةِ",
+          "cefr": "B1",
+          "category": "İleri Sarf",
+          "summary": "فَعَّلَ يُفَعِّلُ تَفْعِيلًا (geçişli/yoğunluk) ve فَاعَلَ يُفَاعِلُ مُفَاعَلَةً (işteşlik) bablarının tam çekim ve anlam mantığı.",
+          "topics": ["II. Bab Tef'îl (فَعَّلَ)", "III. Bab Müfâale (فَاعَلَ)", "Anlam Katmanları", "Emir & Meçhul Çekimleri", "YDS Yüksek Frekanslı Fiiller"]
+        },
+        {
+          "id": "25",
+          "slug": "modul_25",
+          "title": "Mezîd Fiiller II: IV. Bab (İf'âl) & Lâzım–Müteaddi Dönüşümü",
+          "arabicTitle": "بَابُ الْإِفْعَالِ وَالتَّعْدِيَةُ وَاللُّزُومُ",
+          "cefr": "B1",
+          "category": "İleri Sarf",
+          "summary": "أَفْعَلَ يُفْعِلُ إِفْعَالًا babı, kat' hemzesi kuralı, lâzım–müteaddi geçişlilik mekanizması ve II.–IV. bab farkları.",
+          "topics": ["IV. Bab İf'âl (أَفْعَلَ)", "Kat' Hemzesi Kuralı", "Lâzım → Müteaddi Dönüşümü", "II. Bab vs. IV. Bab Farkı", "İf'âl Emir & Meçhul"]
+        },
+        {
+          "id": "26",
+          "slug": "modul_26",
+          "title": "Mezîd Fiiller III: V. Bab (Tefe'ul) & VI. Bab (Tefâul)",
+          "arabicTitle": "بَابُ التَّفَعُّلِ وَبَابُ التَّفَاعُلِ",
+          "cefr": "B1",
+          "category": "İleri Sarf",
+          "summary": "تَفَعَّلَ (dönüşlülük/tedricilik) ve تَفَاعَلَ (karşılıklılık/gibi görünme) babları; II→V ve III→VI dönüşüm çiftleri.",
+          "topics": ["V. Bab Tefe'ul (تَفَعَّلَ)", "VI. Bab Tefâul (تَفَاعَلَ)", "Mutâvaat (Dönüşlülük)", "II→V ve III→VI Çiftleri", "Muzâri & Mastar Kalıpları"]
+        },
+        {
+          "id": "27",
+          "slug": "modul_27",
+          "title": "Mezîd Fiiller IV: VII. Bab (İnfiâl) & VIII. Bab (İftiâl)",
+          "arabicTitle": "بَابُ الْاِنْفِعَالِ وَبَابُ الْاِفْتِعَالِ",
+          "cefr": "B1",
+          "category": "İleri Sarf",
+          "summary": "اِنْفَعَلَ (edilgenimsi dönüşlülük) ve اِفْتَعَلَ (çaba/dönüşlülük) babları; VIII. babdaki ses uyumu (ibdâl: ص/ض/ط/د/ذ/ز).",
+          "topics": ["VII. Bab İnfiâl (اِنْفَعَلَ)", "VIII. Bab İftiâl (اِفْتَعَلَ)", "İftiâl Tâ Değişimleri (اضْطَرَبَ/ازْدَادَ)", "İnfiâl vs. Meçhul Farkı", "Kök Çözümleme Pratiği"]
+        },
+        {
+          "id": "28",
+          "slug": "modul_28",
+          "title": "Mezîd Fiiller V: IX. & X. Bablar, Rubâî Fiiller & Te'kîd Nûnu",
+          "arabicTitle": "بَابُ الْاِفْعِلَالِ وَالْاِسْتِفْعَالِ وَالرُّبَاعِيُّ وَنُونُ التَّوْكِيدِ",
+          "cefr": "B1",
+          "category": "İleri Sarf",
+          "summary": "اِفْعَلَّ (renk/kusur), اِسْتَفْعَلَ (talep/sayma), Rubâî mücerred/mezîd fiiller ve ağır/hafif Te'kîd Nûnu kuralları.",
+          "topics": ["IX. Bab İf'ilâl (اِحْمَرَّ)", "X. Bab İstif'âl (اِسْتَخْرَجَ)", "Rubâî Mücerred & Mezîd", "Te'kîd Nûnu (Sakîle/Hafîfe)", "10 Bab Karşılaştırma Matrisi"]
+        },
+        {
+          "id": "29",
+          "slug": "modul_29",
+          "title": "Mastar Sistematiği (Aslî, Mimli, Sınâî, Merre, Nevi)",
+          "arabicTitle": "الْمَصَادِرُ وَأَنْوَاعُهَا",
+          "cefr": "B1",
+          "category": "İleri Sarf",
+          "summary": "Sülâsî semâî ve mezîd kıyâsî mastarlar, mimli mastar, yapma mastar (حُرِّيَّة), mastar-ı merre ve mastar-ı nevi.",
+          "topics": ["Sülâsî & Mezîd Mastarlar", "Mimli Mastar", "Yapma (Sınâî) Mastar (-ِيَّة)", "Mastar-ı Merre & Nevi", "Mastarın Fiil Gibi Ameli"]
+        },
+        {
+          "id": "30",
+          "slug": "modul_30",
+          "title": "Müştak İsimler I: İsm-i Fâil, İsm-i Mef'ûl, Mübalağa & Sıfat-ı Müşebbehe",
+          "arabicTitle": "الْمُشْتَقَّاتُ (١): اِسْمُ الْفَاعِلِ وَالْمَفْعُولِ وَالْمُبَالَغَةِ وَالصِّفَةُ الْمُشَبَّهَةُ",
+          "cefr": "B1",
+          "category": "Müştak İsimler",
+          "summary": "Sülâsî ve mezîd fiillerden ism-i fâil (مُفْعِل) ve ism-i mef'ûl (مُفْعَل), mübalağa sığaları ve kalıcı sıfat-ı müşebbehe.",
+          "topics": ["Sülâsî & Mezîd İsm-i Fâil", "Sülâsî & Mezîd İsm-i Mef'ûl", "Mübalağalı İsm-i Fâil", "Sıfat-ı Müşebbehe", "Harekesiz Metinde مُفْعِل/مُفْعَل Ayrımı"]
+        },
+        {
+          "id": "31",
+          "slug": "modul_31",
+          "title": "Müştak İsimler II: Zaman/Mekân, Âlet, Mensûb, Tasğîr & Tafdil",
+          "arabicTitle": "الْمُشْتَقَّاتُ (٢): الزَّمَانُ وَالْمَكَانُ وَالْآلَةُ وَالنِّسْبَةُ وَالتَّصْغِيرُ وَالتَّفْضِيلُ",
+          "cefr": "B1",
+          "category": "Müştak İsimler",
+          "summary": "مَفْعَل/مَفْعِل, مِفْعَل/مِفْعَال/مِفْعَلَة, nisbet yâsı (-ِيّ), küçültme (فُعَيْل) ve karşılaştırma/üstünlük (أَفْعَلُ مِنْ / الْأَفْعَلُ).",
+          "topics": ["İsm-i Zaman & Mekân", "İsm-i Âlet", "İsm-i Mensûb (-ِيّ)", "İsm-i Tasğîr", "İsm-i Tafdil & 4 Kullanımı"]
+        },
+        {
+          "id": "32",
+          "slug": "modul_32",
+          "title": "Maksûr, Mankûs, Memdûd İsimler & Mebnî Kelimeler",
+          "arabicTitle": "الْمَقْصُورُ وَالْمَنْقُوصُ وَالْمَمْدُودُ وَالْمَبْنِيَّاتُ",
+          "cefr": "B1",
+          "category": "İsim Morfolojisi & İ'rab",
+          "summary": "الْفَتَى، الْقَاضِي، الصَّحْرَاءُ isimlerinin takdîrî i'rabı, tenvînli mankûs düşüşü, mebnî isimler ve mebnî fiiller.",
+          "topics": ["İsm-i Maksûr (Takdîrî İ'rab)", "İsm-i Mankûs (قَاضٍ/الْقَاضِي)", "İsm-i Memdûd & Hemze Türleri", "Mebnî İsimler Özeti", "Mebnî Fiiller Özeti"]
+        },
+        {
+          "id": "33",
+          "slug": "modul_33",
+          "title": "Aksâm-ı Seb'a I: Mehmûz, Muzaaf ve Misâl Fiiller",
+          "arabicTitle": "أَقْسَامُ الْفِعْلِ (١): الْمَهْمُوزُ وَالْمُضَاعَفُ وَالْمِثَالُ",
+          "cefr": "B1",
+          "category": "Aksâm-ı Seb'a",
+          "summary": "Hemzeli, şeddeli (idğam çözülmesi) ve ilk harfi illetli (misâl) fiillerin sülâsî ve mezîd bablardaki çekimleri.",
+          "topics": ["Mehmûz Fiiller (أَخَذَ/سَأَلَ/قَرَأَ)", "Muzaaf Fiiller (مَدَّ/مَدَدْتُ)", "Misâl-i Vâvî (وَصَلَ/يَصِلُ)", "Mezîd Bablarda Muzaaf/Misâl", "Emir & Cezm Özellikleri"]
+        },
+        {
+          "id": "34",
+          "slug": "modul_34",
+          "title": "Aksâm-ı Seb'a II: Ecvef, Nâkıs ve Lefîf Fiiller",
+          "arabicTitle": "أَقْسَامُ الْفِعْلِ (٢): الْأَجْوَفُ وَالنَّاقِصُ وَاللَّفِيفُ",
+          "cefr": "B1",
+          "category": "Aksâm-ı Seb'a",
+          "summary": "Ecvef (قَالَ/بَاعَ), nâkıs (دَعَا/رَمَى/رَضِيَ) ve lefîf (وَقَى/شَوَى) fiillerde i'lâl kuralları, cezm/emir ve mezîd çekimleri.",
+          "topics": ["Ecvef Fiiller (قَالَ/قُلْتُ/قُلْ)", "Nâkıs Fiiller (دَعَا/رَمَى/رَضِيَ)", "Lefîf-i Mefrûk & Makrûn", "Mezîd Bablarda Ecvef/Nâkıs", "İ'lâl & Kök Geri Çıkarma"]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "code": "FAZ-4",
+      "title": "Faz 4: İleri Nahiv, 5 Mef'ûl, Cümle İ'rabı ve Özel Üsluplar",
+      "cefr": "B1 → B1+",
+      "cilt": 4,
+      "description": "5 Mef'ûl, Hâl, Temyiz, Mukârebe-Zanne aileleri, Şart cümleleri, Gayr-i Munsarif, İstisnâ, Cinsini Nefyeden Lâ, 4 Tevâbi' ve Cümle İ'rabı sistemini tamamlar.",
+      "finalId": "final_b1",
+      "modules": [
+        {
+          "id": "35",
+          "slug": "modul_35",
+          "title": "5 Mef'ûl I: Çok Mef'ûllü Fiiller & Mef'ûlün Mutlak",
+          "arabicTitle": "الْمَفَاعِيلُ (١): الْمَفْعُولُ بِهِ الْمُتَعَدِّدُ وَالْمَفْعُولُ الْمُطْلَقُ",
+          "cefr": "B1+",
+          "category": "İleri Nahiv",
+          "summary": "İki mef'ûl alan fiiller, mef'ûlün mutlak (pekiştirme, tür, sayı) ve nâib-i mef'ûlün mutlak yapıları.",
+          "topics": ["İki Mef'ûl Alan Fiiller (أَعْطَى/مَنَحَ)", "Mef'ûlün Mutlak 3 İşlevi", "Nâib-i Mef'ûlün Mutlak (كُلّ/جِدًّا/مَرَّةً)", "Hazfedilmiş Fiilli Kalıplar (شُكْرًا/حَقًّا)", "YDS Zarf/Mef'ûl Soruları"]
+        },
+        {
+          "id": "36",
+          "slug": "modul_36",
+          "title": "5 Mef'ûl II: Mef'ûlün Li Eclih, Mef'ûlün Fîh & Mef'ûlün Maah",
+          "arabicTitle": "الْمَفَاعِيلُ (٢): الْمَفْعُولُ لِأَجْلِهِ وَفِيهِ وَمَعَهُ",
+          "cefr": "B1+",
+          "category": "İleri Nahiv",
+          "summary": "Sebep bildiren kalbî mastarlar (رَغْبَةً/حِرْصًا), zaman-mekân zarfları ve beraberlik vâvı (vâv-ı maiyyet) kuralları.",
+          "topics": ["Mef'ûlün Li Eclih (Sebep)", "Mef'ûlün Fîh (Zaman/Mekân Zarfları)", "Mebnî Zarflar (حَيْثُ/أَمْسِ/الْآنَ)", "Mef'ûlün Maah (Beraberlik)", "5 Mef'ûl Karşılaştırması"]
+        },
+        {
+          "id": "37",
+          "slug": "modul_37",
+          "title": "Hâl (I–II): Müfred, Cümle ve Şibh-i Cümle Hâl",
+          "arabicTitle": "الْحَالُ وَأَنْوَاعُهَا وَوَاوُ الْحَالِ",
+          "cefr": "B1+",
+          "category": "İleri Nahiv",
+          "summary": "Sâhibü'l-hâl (marife) & hâl (nekre) dengesi, vâv-ı hâliyye ve cümle sıfat ile cümle hâl arasındaki altın ayrım.",
+          "topics": ["Müfred Hâl & Şartları", "İsim & Fiil Cümlesi Hâl", "Vâv-ı Hâliyye & Râbıt Zamir", "Cümle Sıfat vs. Cümle Hâl", "Çeviride -erek/-arak & -ken"]
+        },
+        {
+          "id": "38",
+          "slug": "modul_38",
+          "title": "Temyiz (Zât & Nisbet) & Kem-i İstifhâmiye / Haberiye",
+          "arabicTitle": "التَّمْيِيزُ وَكَمِ الْاِسْتِفْهَامِيَّةِ وَالْخَبَرِيَّةِ",
+          "cefr": "B1+",
+          "category": "İleri Nahiv",
+          "summary": "Ölçü/sayı/ağırlık temyizi (zât), cümle kapalılığını açan nisbet temyizi ve soru/çokluk bildiren كَمْ yapıları.",
+          "topics": ["Temyiz-i Zât (Ölçü/Sayı)", "Temyiz-i Nisbet (ازْدَادَ عِلْمًا)", "İsm-i Tafdil + Temyiz", "Kem-i İstifhâmiye (Mansub)", "Kem-i Haberiye (Mecrûr)"]
+        },
+        {
+          "id": "39",
+          "slug": "modul_39",
+          "title": "Mukârebe–Recâ–Şurû' Fiilleri & Zanne ve Kardeşleri",
+          "arabicTitle": "أَفْعَالُ الْمُقَارَبَةِ وَالرَّجَاءِ وَالشُّرُوعِ وَظَنَّ وَأَخَوَاتُهَا",
+          "cefr": "B1+",
+          "category": "İleri Nahiv",
+          "summary": "كَادَ/أَوْشَكَ/عَسَى/بَدَأَ/أَخَذَ fiillerinde أَنْ kullanım tablosu; Ef'âl-i Kulûb (ظَنَّ/عَلِمَ/وَجَدَ) ve Tahvîl (جَعَلَ).",
+          "topics": ["Mukârebe (كَادَ/أَوْشَكَ)", "Recâ (عَسَى/حَرَى)", "Şurû' (بَدَأَ/أَخَذَ/شَرَعَ)", "أَنْ Kullanım Tablosu", "Zanne & Kardeşleri (2 Mef'ûl)"]
+        },
+        {
+          "id": "40",
+          "slug": "modul_40",
+          "title": "Şart Cümleleri & Cevap Cümlesinde Fâ (فَـ) Kuralları",
+          "arabicTitle": "أُسْلُوبُ الشَّرْطِ وَاقْتِرَانُ جَوَابِ الشَّرْطِ بِالْفَاءِ",
+          "cefr": "B1+",
+          "category": "İleri Nahiv",
+          "summary": "Cezmeden ve cezmetmeyen şart edatları, şart–cevap fiil zamanları ve cevap cümlesine فَـ gelmesinin zorunlu olduğu 7 yer.",
+          "topics": ["Cezmeden Şart Edatları (إِنْ/مَنْ/مَهْمَا)", "Cezmetmeyenler (إِذَا/لَوْ/لَوْلَا/كُلَّمَا)", "Cevapta فَـ (İsmiyye/Taleb/Câmid/قَدْ/لَنْ/سَـ)", "لَوْ / لَوْلَا Gerçek Dışı Şart", "YDS Şart Sorusu Kalıpları"]
+        },
+        {
+          "id": "41",
+          "slug": "modul_41",
+          "title": "Gayr-i Munsarif (I–II–III) Tam Sistem",
+          "arabicTitle": "الْمَمْنُوعُ مِنَ الصَّرْفِ",
+          "cefr": "B1+",
+          "category": "İleri Nahiv & İ'rab",
+          "summary": "Tenvîn ve kesra almayan 9 kelime grubu (özel isimler, sıfatlar, sığa-i müntehe'l-cümû', memdûd/maksûr) ve munsarif olma şartları.",
+          "topics": ["Tek İlletle Gayr-i Munsarif", "Özel İsimler (6 Grup)", "Sıfatlar (فَعْلَان/أَفْعَل/Sayı)", "Fetha ile Cer Kuralı", "ال veya İzâfetle Kesra Alma"]
+        },
+        {
+          "id": "42",
+          "slug": "modul_42",
+          "title": "İstisnâ Sistemi & Cinsini Nefyeden Lâ",
+          "arabicTitle": "أُسْلُوبُ الْاِسْتِثْنَاءِ وَلَا النَّافِيَةُ لِلْجِنْسِ",
+          "cefr": "B1+",
+          "category": "İleri Nahiv",
+          "summary": "إِلَّا (tâm müsbet/menfî, müferrağ), غَيْر/سِوَى, خَلَا/عَدَا/حَاشَا kuralları ve لَا النَّافِيَةُ لِلْجِنْسِ (لَا شَكَّ/لَا بُدَّ).",
+          "topics": ["إِلَّا ile 3 İstisnâ Hâli", "غَيْرُ ve سِوَى İ'rabı", "خَلَا / عَدَا / حَاشَا", "Cinsini Nefyeden لَا Şartları", "لَا شَكَّ / لَا بُدَّ / لَا مَفَرَّ Kalıpları"]
+        },
+        {
+          "id": "43",
+          "slug": "modul_43",
+          "title": "Özel Üsluplar: Münâdâ, Taaccüb, Medih–Zem, İhtisas & İsim-Fiiller",
+          "arabicTitle": "النِّدَاءُ وَالتَّعَجُّبُ وَالْمَدْحُ وَالذَّمُّ وَالْاِخْتِصَاصُ وَأَسْمَاءُ الْأَفْعَالِ",
+          "cefr": "B1+",
+          "category": "Özel Üsluplar",
+          "summary": "Münâdâ (5 tür), Taaccüb (مَا أَفْعَلَهُ/أَفْعِلْ بِهِ), Medih–Zem (نِعْمَ/بِئْسَ/حَبَّذَا), İhtisas, Tahzîr–İğrâ ve İsim-Fiiller.",
+          "topics": ["Münâdâ (يَا/أَيُّهَا)", "Taaccüb 2 Sığası", "Medih & Zem (نِعْمَ/بِئْسَ)", "İhtisas, Tahzîr & İğrâ", "İsim-Fiiller (هَيْهَاتَ/شَتَّانَ/عَلَيْكَ)"]
+        },
+        {
+          "id": "44",
+          "slug": "modul_44",
+          "title": "4 Tevâbi' Tam Sistem: Na't, Atıf, Te'kîd ve Bedel",
+          "arabicTitle": "التَّوَابِعُ الْأَرْبَعَةُ: النَّعْتُ وَالْعَطْفُ وَالتَّوْكِيدُ وَالْبَدَلُ",
+          "cefr": "B1+",
+          "category": "İleri Nahiv",
+          "summary": "Hakîkî ve sebebî sıfat, 9 atıf harfi, lafzî ve mânevî te'kîd (نَفْس/عَيْن/كُلّ/كِلَا/جَمِيع) ve 4 tür bedel.",
+          "topics": ["Sebebî Sıfat (الْحَسَنُ وَجْهُهُ)", "9 Atıf Harfi & İnce Farkları", "Lafzî & Mânevî Te'kîd", "Bedel-i Mutâbık/Ba'z/İştimal", "Tevâbi' İ'rab Analizi"]
+        },
+        {
+          "id": "45",
+          "slug": "modul_45",
+          "title": "İleri Nahiv Edatları & Cümle İ'rabı (Mahalli Olan/Olmayan)",
+          "arabicTitle": "أَدَوَاتٌ نَحْوِيَّةٌ مُتَقَدِّمَةٌ وَالْجُمَلُ الَّتِي لَهَا مَحَلٌّ مِنَ الْإِعْرَابِ",
+          "cefr": "B1+",
+          "category": "İleri Nahiv",
+          "summary": "Fâ-yı sebebiye, vâv-ı maiyyet, lâm'ul-cuhûd, lafzî izâfet, muhaffef إِنْ/أَنْ, şan zamiri ve cümle i'rabı tam tablosu.",
+          "topics": ["Fâ-yı Sebebiye & Lâm'ul-Cuhûd", "Lafzî İzâfet & Leyse'ye Benzerler", "Şan Zamiri & Muhaffef İnne", "Mahalli Olan 7 Cümle", "Mahalli Olmayan 7 Cümle"]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "code": "FAZ-5",
+      "title": "Faz 5: Akademik Arapça, Bağlaçlar Atlası ve YDS/YÖKDİL Ustalığı",
+      "cefr": "B1+ → B2 / YDS–YÖKDİL",
+      "cilt": 5,
+      "description": "Harf-i cerli fiiller, YDS/YÖKDİL bağlaçlar atlası, Sosyal/Sağlık/Fen okuma alanları, Cloze Test, akademik çeviri, Restatement ve paragraf çözüm stratejilerini kazandırır.",
+      "finalId": "final_b2",
+      "modules": [
+        {
+          "id": "46",
+          "slug": "modul_46",
+          "title": "Harf-i Cerli Fiiller Atlası I (Akademik & Basın)",
+          "arabicTitle": "الْأَفْعَالُ الْمُتَعَدِّيَةُ بِحُرُوفِ الْجَرِّ (١)",
+          "cefr": "B2",
+          "category": "YDS / YÖKDİL",
+          "summary": "Akademik ve basın Arapçasında en yüksek frekanslı 120+ harf-i cerli fiilin harf-i cer gruplarına göre sistemli öğrenimi.",
+          "topics": ["بِـ ile Kullanılan Fiiller", "عَلَى ile Kullanılan Fiiller", "إِلَى & لِـ ile Kullanılan Fiiller", "مِنْ & عَنْ ile Kullanılan Fiiller", "فِي ile Kullanılan Fiiller"]
+        },
+        {
+          "id": "47",
+          "slug": "modul_47",
+          "title": "Harf-i Cerli Fiiller Atlası II (Anlam Değiştirenler & Eşdizimler)",
+          "arabicTitle": "الْأَفْعَالُ الْمُتَعَدِّيَةُ (٢) وَالْمُتَلَازِمَاتُ اللَّفْظِيَّةُ",
+          "cefr": "B2",
+          "category": "YDS / YÖKDİL",
+          "summary": "Harf-i ceri değişince anlamı tamamen değişen fiiller (رَغِبَ فِي/عَنْ، قَامَ بِـ/عَلَى) ve sınavlık kalıp ifadeler.",
+          "topics": ["Anlam Değiştiren 25 Kritik Fiil", "Sınavlık Eşdizimler (Collocations)", "Zarf + İsim Kalıpları", "Akademik İfade Kalıpları", "YDS Boşluk Pratiği"]
+        },
+        {
+          "id": "48",
+          "slug": "modul_48",
+          "title": "YDS/YÖKDİL Bağlaçlar Atlası I (Sebep, Sonuç, Amaç, Zıtlık)",
+          "arabicTitle": "أَدَوَاتُ الرَّبْطِ الْأَكَادِيمِيَّةُ (١)",
+          "cefr": "B2",
+          "category": "YDS / YÖKDİL",
+          "summary": "Sebep–sonuç (نَظَرًا لِـ، مِمَّا أَدَّى إِلَى), amaç (بِهَدَفِ، بُغْيَةَ) ve zıtlık/rağmenlik (بِالرَّغْمِ مِنْ، إِلَّا أَنَّ، بَيْدَ أَنَّ) bağlaçları.",
+          "topics": ["Sebep Bağlaçları (İsim vs. Cümle)", "Sonuç Bağlaçları (مِمَّا/لِذٰلِكَ)", "Zıtlık & Rağmenlik (رَغْمَ/مَعَ أَنَّ)", "İstidrâk (إِلَّا أَنَّ/بَيْدَ أَنَّ)", "Bağlaç Sonrası İ'rab Şartı"]
+        },
+        {
+          "id": "49",
+          "slug": "modul_49",
+          "title": "YDS/YÖKDİL Bağlaçlar Atlası II (Şart, Zaman, Karşılaştırma, Ekleme)",
+          "arabicTitle": "أَدَوَاتُ الرَّبْطِ الْأَكَادِيمِيَّةُ (٢)",
+          "cefr": "B2",
+          "category": "YDS / YÖKDİL",
+          "summary": "Ekleme (فَضْلًا عَنْ، عِلَاوَةً عَلَى), zaman (طَالَمَا، بَيْنَمَا، مُنْذُ), karşılaştırma (عَلَى غِرَارِ، بَدَلًا مِنْ) ve şart (بِحَيْثُ، شَرِيطَةَ).",
+          "topics": ["Ekleme & Pekiştirme", "Zaman & Eşzamanlılık", "Karşılaştırma & Benzetme", "Şart & Kısıtlama (بِحَيْثُ/طَالَمَا)", "Sınavda Bağlaç Çeldiricileri"]
+        },
+        {
+          "id": "50",
+          "slug": "modul_50",
+          "title": "YÖKDİL Sosyal Bilimler Okuma & Kelime Stüdyosu",
+          "arabicTitle": "نُصُوصُ الْعُلُومِ الْاِجْتِمَاعِيَّةِ وَالْإِنْسَانِيَّةِ",
+          "cefr": "B2",
+          "category": "YÖKDİL Sosyal",
+          "summary": "Tarih, kültür, medeniyet, ekonomi, uluslararası ilişkiler ve biyografi alanlarında akademik metinler ve terminoloji.",
+          "topics": ["Tarih & Medeniyet Terminolojisi", "Siyaset & Diplomasi", "Ekonomi & Toplum", "Biyografi Metin Analizi", "Harekesiz Akademik Okuma"]
+        },
+        {
+          "id": "51",
+          "slug": "modul_51",
+          "title": "YÖKDİL Sağlık Bilimleri Okuma & Kelime Stüdyosu",
+          "arabicTitle": "نُصُوصُ الْعُلُومِ الصِّحِّيَّةِ وَالطِّبِّيَّةِ",
+          "cefr": "B2",
+          "category": "YÖKDİL Sağlık",
+          "summary": "Tıp, hastalıklar, bağışıklık, beslenme, genetik ve klinik çalışmalar odaklı akademik metinler ve tıbbi Arapça.",
+          "topics": ["Hastalıklar & Belirtiler", "Tedavi & Farmakoloji", "Beslenme & Halk Sağlığı", "Klinik Araştırma Dili", "Sayısal Veri & Oran İfadeleri"]
+        },
+        {
+          "id": "52",
+          "slug": "modul_52",
+          "title": "YÖKDİL Fen Bilimleri & Teknoloji Okuma Stüdyosu",
+          "arabicTitle": "نُصُوصُ الْعُلُومِ الطَّبِيعِيَّةِ وَالتِّكْنُولُوجِيَا",
+          "cefr": "B2",
+          "category": "YÖKDİL Fen",
+          "summary": "Yapay zekâ, astronomi/uzay, çevre/iklim değişikliği, yenilenebilir enerji ve mühendislik metinleri.",
+          "topics": ["Yapay Zekâ & Dijital Çağ", "Astronomi & Uzay", "İklim & Yenilenebilir Enerji", "Deney & Bilimsel Yöntem", "Neden–Sonuç Zinciri Okuma"]
+        },
+        {
+          "id": "53",
+          "slug": "modul_53",
+          "title": "YDS/YÖKDİL Cloze Test & Cümle Tamamlama Stratejileri",
+          "arabicTitle": "اِسْتِرَاتِيجِيَّاتُ إِكْمَالِ النَّصِّ وَالْجُمَلِ",
+          "cefr": "B2 / YDS",
+          "category": "Sınav Stratejisi",
+          "summary": "Siyak-sibak okuma, zamir referansı eşleştirme, zaman ve bağlaç tutarlılığı ile 5 şıklı Cloze Test çözüm algoritması.",
+          "topics": ["Boşluk Öncesi/Sonrası Analiz", "Zamir & Cinsiyet/Sayı Takibi", "Zaman Uyumu Kontrolü", "Bağlaç Yönü (+ / -)", "Çeldirici Eleme Protokolü"]
+        },
+        {
+          "id": "54",
+          "slug": "modul_54",
+          "title": "Arapça ↔ Türkçe Akademik Çeviri Teknikleri",
+          "arabicTitle": "تِقْنِيَّاتُ التَّرْجَمَةِ الْأَكَادِيمِيَّةِ",
+          "cefr": "B2 / YDS",
+          "category": "Çeviri & Sınav",
+          "summary": "Emrullah İşler & Musa Yıldız sistematiğiyle uzun cümle parçalama, özne–yüklem tespiti, sıla/sıfat/hâl ve edilgen çevirisi.",
+          "topics": ["Özne–Yüklem İskeleti Çıkarma", "Sıla & Sıfat Blokları", "Zaman & Kip Denkliği", "AR→TR Seçenek Eleme", "TR→AR Doğru Karşılık Bulma"]
+        },
+        {
+          "id": "55",
+          "slug": "modul_55",
+          "title": "Restatement, Anlam Bozan Cümle, Diyalog & Paragraf Taktikleri",
+          "arabicTitle": "مَهَارَاتُ الْقِرَاءَةِ الْمُتَقَدِّمَةِ وَتَكْتِيكَاتُ الِاخْتِبَارِ",
+          "cefr": "B2 / YDS",
+          "category": "Sınav Stratejisi",
+          "summary": "Yakın anlam (Restatement), akışı bozan cümle, diyalog tamamlama, paragraf ana fikir/çıkarım soruları ve sınav zaman yönetimi.",
+          "topics": ["Restatement Eşdeğerlikleri", "Anlam Bütünlüğünü Bozan Cümle", "Diyalog Tamamlama İpuçları", "Paragraf Soru Tipleri", "180 Dakika Zaman Yönetimi"]
+        }
+      ]
+    }
+  ],
+  "finals": [
+    {
+      "id": "final_a1",
+      "phaseId": 1,
+      "cilt": 1,
+      "cefr": "A1",
+      "title": "A1 Seviye Sonu Büyük Finali",
+      "arabicTitle": "الْاِخْتِبَارُ النِّهَائِيُّ الشَّامِلُ — الْمُسْتَوَى A1",
+      "description": "Faz 1 (M01–M11) kapsamı: 10 günlük diyalog senaryosu, 10 A1 okuma metni ve 20 soruluk çözümlü değerlendirme sınavı."
+    },
+    {
+      "id": "final_a2",
+      "phaseId": 2,
+      "cilt": 2,
+      "cefr": "A2",
+      "title": "A2 Seviye Sonu Büyük Finali",
+      "arabicTitle": "الْاِخْتِبَارُ النِّهَائِيُّ الشَّامِلُ — الْمُسْتَوَى A2",
+      "description": "Faz 2 (M12–M23) kapsamı: 10 kapsamlı diyalog, 10 A2 okuma metni ve 20 soruluk çözümlü değerlendirme sınavı."
+    },
+    {
+      "id": "final_b1",
+      "phaseId": 4,
+      "cilt": 4,
+      "cefr": "B1+",
+      "title": "B1 / B1+ Seviye Sonu Büyük Finali",
+      "arabicTitle": "الْاِخْتِبَارُ النِّهَائِيُّ الشَّامِلُ — الْمُسْتَوَى B1+",
+      "description": "Faz 3 & Faz 4 (M24–M45) Sarf ve İleri Nahiv kapsamı: 10 diyalog, 10 orta-ileri metin ve 20 soruluk çözümlü değerlendirme sınavı."
+    },
+    {
+      "id": "final_b2",
+      "phaseId": 5,
+      "cilt": 5,
+      "cefr": "B2 / YDS–YÖKDİL",
+      "title": "B2 & YDS/YÖKDİL Büyük Finali",
+      "arabicTitle": "الْاِخْتِبَارُ النِّهَائِيُّ الشَّامِلُ — الْمُسْتَوَى B2 / YDS",
+      "description": "Tüm Külliyat & YDS/YÖKDİL (M46–M55): 10 akademik/günlük diyalog, 10 tam boy YDS/YÖKDİL paragrafı ve 20 soruluk çözümlü deneme."
+    }
+  ]
+}

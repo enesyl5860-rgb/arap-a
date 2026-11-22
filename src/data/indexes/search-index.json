@@ -1,0 +1,1327 @@
+{
+  "generatedAt": "2026-11-22T22:17:30.881Z",
+  "totalItems": 141,
+  "items": [
+    {
+      "id": "search_mod_01",
+      "type": "module",
+      "moduleId": "01",
+      "title": "Modül 01: Arap Alfabesi, Harf Birleşmeleri, Hareke, Med ve Şedde",
+      "subtitle": "FAZ-1 · A1 · Fonetik & Yazı",
+      "ar": "الْحُرُوفُ الْعَرَبِيَّةُ وَالْحَرَكَاتُ وَالْمَدُّ وَالشَّدَّةُ",
+      "keywords": "28 harfin başta/ortada/sonda yazılışı, birleşmeyen 6 harf, kısa harekeler, sükûn, tenvîn, şedde ve uzun ünlüler (med harfleri). 28 Harf & Birleşmeler Birleşmeyen 6 Harf Fetha/Kesra/Damme/Sükûn Tenvîn & Şedde Med Harfleri (ا و ي)"
+    },
+    {
+      "id": "search_mod_02",
+      "type": "module",
+      "moduleId": "02",
+      "title": "Modül 02: Kelime Çeşitleri, Marife–Nekre, Şemsî–Kamerî & Hemze",
+      "subtitle": "FAZ-1 · A1 · Temel Nahiv & İmlâ",
+      "ar": "أَقْسَامُ الْكَلِمَةِ وَالْمَعْرِفَةُ وَالنَّكِرَةُ وَالْهَمْزَةُ",
+      "keywords": "İsim–Fiil–Harf ayrımı, belirlilik takısı (ال), şemsî ve kamerî harfler, vasıl ve kat' hemzesi ile hemze imlâ temelleri. İsim–Fiil–Harf Marife & Nekre (ال) Şemsî & Kamerî Harfler Vasıl & Kat' Hemzesi Hemze Yazım Temelleri"
+    },
+    {
+      "id": "search_mod_03",
+      "type": "module",
+      "moduleId": "03",
+      "title": "Modül 03: Müzekker–Müennes & Müfred–Tesniye–Cemi",
+      "subtitle": "FAZ-1 · A1 · İsim Morfolojisi",
+      "ar": "الْمُذَكَّرُ وَالْمُؤَنَّثُ وَالْمُفْرَدُ وَالْمُثَنَّى وَالْجَمْعُ",
+      "keywords": "Tâ-i merbûta ve semâî müenneslik, ikil (-َانِ/-َيْنِ), düzenli eril/dişil çoğullar ve Cemi Teksir (kırık çoğul) mantığı. Müzekker & Müennes Tesniye (İkil) Cemi Müzekker Sâlim Cemi Müennes Sâlim Cemi Teksir Giriş"
+    },
+    {
+      "id": "search_mod_04",
+      "type": "module",
+      "moduleId": "04",
+      "title": "Modül 04: Munfasıl Zamirler & İsm-i İşâretler",
+      "subtitle": "FAZ-1 · A1 · Zamirler & İşaret",
+      "ar": "الضَّمَائِرُ الْمُنْفَصِلَةُ وَأَسْمَاءُ الْإِشَارَةِ",
+      "keywords": "14 şahıslı merfû munfasıl zamirler, yakın/uzak işaret isimleri ve işaret sıfatı/zamiri ayrımı. 14 Merfû Munfasıl Zamir Yakın İşaret İsimleri Uzak İşaret İsimleri İşaret + Marife İsim Uyumu Tanıtma Cümleleri"
+    },
+    {
+      "id": "search_mod_05",
+      "type": "module",
+      "moduleId": "05",
+      "title": "Modül 05: İsim Cümlesi (Mübtedâ–Haber) & Sıfat Tamlaması",
+      "subtitle": "FAZ-1 · A1 · Temel Nahiv",
+      "ar": "الْجُمْلَةُ الْاِسْمِيَّةُ وَالنَّعْتُ وَالْمَنْعُوتُ",
+      "keywords": "Mübtedâ–Haber uyumu, temel ref' alâmeti, 4 yönden sıfat–mevsûf uyumu ve akılsız çoğulların tekil müennes hükmü. Mübtedâ & Haber 4 Yönden Sıfat Uyumu Gayr-i Âkil Çoğul Kuralı İsim Cümlesi vs. Sıfat Tamlaması Ref' Alâmeti"
+    },
+    {
+      "id": "search_mod_06",
+      "type": "module",
+      "moduleId": "06",
+      "title": "Modül 06: Muttasıl İyelik Zamirleri & İsim Tamlaması (İzâfet)",
+      "subtitle": "FAZ-1 · A1 · Tamlamalar",
+      "ar": "الضَّمَائِرُ الْمُتَّصِلَةُ بِالْاِسْمِ وَالْإِضَافَةُ",
+      "keywords": "İsimlere bitişen iyelik zamirleri, muzâf–muzâfun ileyh kuralları, zincirleme tamlama ve tamlamada sıfat yerleşimi. İyelik Zamirleri Muzâf Şartları Muzâfun İleyh (Mecrûr) Zincirleme İzâfet Tamlamada Sıfat"
+    },
+    {
+      "id": "search_mod_07",
+      "type": "module",
+      "moduleId": "07",
+      "title": "Modül 07: Harf-i Cerler, Şibh-i Cümle & Haberin Öne Geçmesi",
+      "subtitle": "FAZ-1 · A1 · Edatlar & Nahiv",
+      "ar": "حُرُوفُ الْجَرِّ وَشِبْهُ الْجُمْلَةِ وَتَقْدِيمُ الْخَبَرِ",
+      "keywords": "Temel harf-i cerler, cer alâmeti, şibh-i cümle haberin öne geçmesi ve عِنْدَ/لِـ/فِي ile var/yok ve sahiplik yapıları. Temel Harf-i Cerler Şibh-i Cümle Haberin Öne Geçmesi عِنْدَ / لِـ Sahiplik Var / Yok Kalıpları"
+    },
+    {
+      "id": "search_mod_08",
+      "type": "module",
+      "moduleId": "08",
+      "title": "Modül 08: Arapça'da Soru Yapıları & Günlük İletişim",
+      "subtitle": "FAZ-1 · A1 · İletişim & Nahiv",
+      "ar": "أَدَوَاتُ الْاِسْتِفْهَامِ وَالتَّوَاصُلُ الْيَوْمِيُّ",
+      "keywords": "Soru harfleri ve isimleri (هَلْ، أَ، مَا، مَنْ، أَيْنَ، مَتَى، كَيْفَ، كَمْ، لِمَاذَا، أَيُّ), نَعَمْ/لَا/بَلَى cevap sistemi. هَلْ ve أَ Soru Harfleri Soru İsimleri Harf-i Cer + مَا (بِمَ/لِمَ/عَمَّ) بَلَى Cevap Kuralı Tanışma & Günlük Diyalog"
+    },
+    {
+      "id": "search_mod_09",
+      "type": "module",
+      "moduleId": "09",
+      "title": "Modül 09: Mâzi Fiil (14 Şahıs) & Fiil Cümlesi Temelleri",
+      "subtitle": "FAZ-1 · A1 · Sarf & Nahiv",
+      "ar": "الْفِعْلُ الْمَاضِي وَالْجُمْلَةُ الْفِعْلِيَّةُ",
+      "keywords": "Sülâsî mâzi 14 şahıs çekimi, merfû muttasıl zamirler, fiil–fâil cinsiyet ve sayı uyumu, açık ve gizli fâil. Mâzi 14 Şahıs Çekimi Merfû Muttasıl Zamirler Fiil–Fâil Uyumu Açık vs. Müstetir Fâil İsim vs. Fiil Cümlesi"
+    },
+    {
+      "id": "search_mod_10",
+      "type": "module",
+      "moduleId": "10",
+      "title": "Modül 10: Muzâri Fiil, Mef'ûlün Bih & Mansub Muttasıl Zamirler",
+      "subtitle": "FAZ-1 · A1 · Sarf & Nahiv",
+      "ar": "الْفِعْلُ الْمُضَارِعُ وَالْمَفْعُولُ بِهِ وَضَمَائِرُ النَّصْبِ",
+      "keywords": "Muzâri 14 şahıs çekimi, şimdiki/geniş/gelecek zaman (سَـ/سَوْفَ), nesne (mef'ûlün bih) ve fiile bitişen nesne zamirleri. Muzâri 14 Şahıs Çekimi Muzâraat Harfleri (أَنَيْتُ) سَـ / سَوْفَ Gelecek Zaman Mef'ûlün Bih (Mansub) Fiile Bitişen Zamirler"
+    },
+    {
+      "id": "search_mod_11",
+      "type": "module",
+      "moduleId": "11",
+      "title": "Modül 11: Temel Olumsuzluklar, Saatler, Zaman & Sayılar (1–10)",
+      "subtitle": "FAZ-1 · A1 · Pratik & Nahiv",
+      "ar": "أَدَوَاتُ النَّفْيِ الْأَسَاسِيَّةُ وَالسَّاعَةُ وَالْأَعْدَادُ",
+      "keywords": "مَا، لَا ve لَيْسَ ile olumsuzluk; günler, aylar, saat söyleme kalıpları ve 1–10 arası sayıların temel kuralları. مَا & لَا Fiil Olumsuzluğu لَيْسَ İsim Olumsuzluğu Saat Söyleme Günler & Aylar 1–10 Sayıları"
+    },
+    {
+      "id": "search_mod_12",
+      "type": "module",
+      "moduleId": "12",
+      "title": "Modül 12: Sülâsî Mücerred 6 Bab Sistemi",
+      "subtitle": "FAZ-2 · A2 · Sarf",
+      "ar": "أَبْوَابُ الْفِعْلِ الثُّلَاثِيِّ الْمُجَرَّدِ السِّتَّةُ",
+      "keywords": "1.–6. babların ayn'ul-fiil hareke kalıpları, anlam eğilimleri (lâzım/müteaddi) ve Arapça kök sözlüğü kullanma becerisi. 1.–3. Bablar 4.–6. Bablar Ayn'ul-Fiil Hareke Mantığı Sözlükte Bab Okuma Sık Kullanılan 60 Kök"
+    },
+    {
+      "id": "search_mod_13",
+      "type": "module",
+      "moduleId": "13",
+      "title": "Modül 13: Tesniye ve Çoğulların İ'rabı (Muzâf Durumları Dahil)",
+      "subtitle": "FAZ-2 · A2 · Nahiv & İ'rab",
+      "ar": "إِعْرَابُ الْمُثَنَّى وَالْجُمُوعِ وَحَذْفُ النُّونِ",
+      "keywords": "Tesniye, Cemi Müzekker/Müennes Sâlim ve Cemi Teksir'in ref'/nasb/cer hâlleri ile muzâf olduklarında nûn'un düşmesi. Tesniye İ'rabı (انِ/يْنِ) Cemi Müzekker İ'rabı (ونَ/ينَ) Cemi Müennes İ'rabı (Kesra ile Nasb) Muzâfta Nûn Hazfi Cemi Teksir İ'rabı"
+    },
+    {
+      "id": "search_mod_14",
+      "type": "module",
+      "moduleId": "14",
+      "title": "Modül 14: Esmâ-i Hamse (Beş İsim) & Ef'âl-i Hamse (Beş Fiil)",
+      "subtitle": "FAZ-2 · A2 · Nahiv & İ'rab",
+      "ar": "الْأَسْمَاءُ الْخَمْسَةُ وَالْأَفْعَالُ الْخَمْسَةُ",
+      "keywords": "أَبٌ، أَخٌ، حَمٌ، فُو، ذُو isimlerinin vâv/elif/yâ ile i'rab şartları ve Ef'âl-i Hamse'de nûn'un sübutu/hazfi. Esmâ-i Hamse 4 Şartı ذُو Kullanımı Ef'âl-i Hamse 5 Sığa Nûn'un Sübutu & Hazfi Mütekellim Yâsı İstisnası"
+    },
+    {
+      "id": "search_mod_15",
+      "type": "module",
+      "moduleId": "15",
+      "title": "Modül 15: Muzâriyi Nasbeden Edatlar & Müevvel Mastar",
+      "subtitle": "FAZ-2 · A2 · Sarf & Nahiv",
+      "ar": "نَوَاصِبُ الْفِعْلِ الْمُضَارِعِ وَالْمَصْدَرُ الْمُؤَوَّلُ",
+      "keywords": "أَنْ، لَنْ، كَيْ، إِذَنْ، حَتَّى ve لَامُ التَّعْلِيلِ ile muzâri nasbı, gelecek zaman kesin olumsuzluğu ve müevvel mastar. أَنْ + Muzâri (Müevvel Mastar) لَنْ Gelecek Olumsuzluğu كَيْ & لِـ Amaç Bildirme حَتَّى (-e kadar / -sin diye) Nasb Alâmetleri"
+    },
+    {
+      "id": "search_mod_16",
+      "type": "module",
+      "moduleId": "16",
+      "title": "Modül 16: Muzâriyi Cezmeden Edatlar, Emr-i Gâib & Nehy-i Gâib",
+      "subtitle": "FAZ-2 · A2 · Sarf & Nahiv",
+      "ar": "جَوَازِمُ الْفِعْلِ الْمُضَارِعِ وَالْأَمْرُ وَالنَّهْيُ لِلْغَائِبِ",
+      "keywords": "لَمْ (Cahd-ı Mutlak), لَمَّا (Cahd-ı Mustağrak), لَامُ الْأَمْرِ (Emr-i Gâib) ve لَا النَّاهِيَةُ (Nehy-i Gâib) çekimleri. لَمْ (Geçmiş Olumsuzluk) لَمَّا (Henüz -medi) Emr-i Gâib (لِـ) Nehy-i Gâib (لَا) Cezm Alâmetleri"
+    },
+    {
+      "id": "search_mod_17",
+      "type": "module",
+      "moduleId": "17",
+      "title": "Modül 17: Emr-i Hâzır ve Nehy-i Hâzır Sistemi",
+      "subtitle": "FAZ-2 · A2 · Sarf",
+      "ar": "فِعْلُ الْأَمْرِ الْحَاضِرِ وَالنَّهْيُ الْحَاضِرُ",
+      "keywords": "Sülâsî sâlim fiillerde emir türetme mekanizması, vasıl hemzesi hareke kuralı ve 6 muhatap şahıs emir/nehiy çekimi. Emir Türetme 3 Adım Vasıl Hemzesi (u / i) 6 Muhatap Şahıs Çekimi Nehy-i Hâzır (لَا تَفْعَلْ) Günlük Rica & Yönerge"
+    },
+    {
+      "id": "search_mod_18",
+      "type": "module",
+      "moduleId": "18",
+      "title": "Modül 18: Meçhul (Edilgen) Fiil Çatısı & Nâib-i Fâil",
+      "subtitle": "FAZ-2 · A2 · Sarf & Nahiv",
+      "ar": "الْفِعْلُ الْمَبْنِيُّ لِلْمَجْهُولِ وَنَائِبُ الْفَاعِلِ",
+      "keywords": "Mâzi (فُعِلَ) ve muzâri (يُفْعَلُ) edilgen kurulumu, nâib-i fâilin ref' kuralları ve harf-i cerli meçhul yapılar. Mâzi Meçhul (فُعِلَ) Muzâri Meçhul (يُفْعَلُ) Nâib-i Fâil Çeşitleri Harf-i Cerli Meçhul Basın Arapçasında Edilgen"
+    },
+    {
+      "id": "search_mod_19",
+      "type": "module",
+      "moduleId": "19",
+      "title": "Modül 19: İsm-i Mevsûller (İlgi Zamirleri) & Sıla Cümlesi",
+      "subtitle": "FAZ-2 · A2 · Nahiv",
+      "ar": "الْأَسْمَاءُ الْمَوْصُولَةُ وَجُمْلَةُ الصِّلَةِ",
+      "keywords": "Özel (الَّذِي، الَّتِي…) ve müşterek (مَنْ، مَا) ism-i mevsûller, sıla cümlesi ve âid (dönüş) zamirinin analizi. Özel İsm-i Mevsûller Müşterek مَنْ / مَا Sıla Cümlesi Yapısı Âid (Dönüş) Zamiri Türkçeye -an/-en/-dığı Çeviri"
+    },
+    {
+      "id": "search_mod_20",
+      "type": "module",
+      "moduleId": "20",
+      "title": "Modül 20: Haber Çeşitleri & Sıfat Çeşitleri",
+      "subtitle": "FAZ-2 · A2 · Nahiv",
+      "ar": "أَنْوَاعُ الْخَبَرِ وَأَنْوَاعُ النَّعْتِ",
+      "keywords": "Müfred, isim cümlesi, fiil cümlesi ve şibh-i cümle haber ile cümle sıfat kuralı (nekre sonrası cümle sıfattır). 4 Haber Türü Cümle Haberde Râbıt Zamir Müfred & Cümle Sıfat Nekre + Cümle = Sıfat Şibh-i Cümle Sıfat"
+    },
+    {
+      "id": "search_mod_21",
+      "type": "module",
+      "moduleId": "21",
+      "title": "Modül 21: Kâne ve Kardeşleri (Nâkıs Fiiller)",
+      "subtitle": "FAZ-2 · A2 · Nahiv",
+      "ar": "كَانَ وَأَخَوَاتُهَا (الْأَفْعَالُ النَّاقِصَةُ)",
+      "keywords": "كَانَ، أَصْبَحَ، أَمْسَى، ظَلَّ، بَاتَ، صَارَ، لَيْسَ، مَا زَالَ ve مَا دَامَ ile isim cümlesini zamanlandırma ve birleşik zamanlar. Kâne'nin Ameli (Ref–Nasb) Dönüşüm & Süreklilik Fiilleri كَانَ + Muzâri (Şimdiki Hikâye) كَانَ قَدْ + Mâzi (Miş'li Geçmiş) Haberinin Öne Geçmesi"
+    },
+    {
+      "id": "search_mod_22",
+      "type": "module",
+      "moduleId": "22",
+      "title": "Modül 22: İnne ve Kardeşleri, İnne/Enne Okunuşu & Mâ-i Kâffe",
+      "subtitle": "FAZ-2 · A2 · Nahiv",
+      "ar": "إِنَّ وَأَخَوَاتُهَا وَمَا الْكَافَّةُ",
+      "keywords": "إِنَّ، أَنَّ، كَأَنَّ، لٰكِنَّ، لَيْتَ، لَعَلَّ harflerinin ameli, kesralı/fethalı okunma yerleri ve إِنَّمَا yapısı. 6 Harf ve Anlamları İnne'nin Ameli (Nasb–Ref) إِنَّ vs. أَنَّ Kuralları Mâ-i Kâffe (إِنَّمَا) Te'kîd Lâmı (لَـ)"
+    },
+    {
+      "id": "search_mod_23",
+      "type": "module",
+      "moduleId": "23",
+      "title": "Modül 23: Sayılar Tam Sistemi (11–1000+, Sıra Sayıları) & Mansub Munfasıl Zamirler",
+      "subtitle": "FAZ-2 · A2 · Nahiv & Pratik",
+      "ar": "الْأَعْدَادُ وَتَمْيِيزُهَا وَالضَّمَائِرُ الْمُنْفَصِلَةُ الْمَنْصُوبَةُ",
+      "keywords": "11–19 mürekkep, 20–90 ukûd, 21–99 ma'tûf, 100/1000, sıra sayıları (الْأَوَّل/الثَّانِي) ve إِيَّاكَ/إِيَّاهُ zamirleri. 11–19 Mürekkep Sayılar 20–99 Ukûd & Ma'tûf 100 / 1000 & Tarih Okuma Sıra Sayıları Mansub Munfasıl (إِيَّا)"
+    },
+    {
+      "id": "search_mod_24",
+      "type": "module",
+      "moduleId": "24",
+      "title": "Modül 24: Mezîd Fiiller I: II. Bab (Tef'îl) & III. Bab (Müfâale)",
+      "subtitle": "FAZ-3 · B1 · İleri Sarf",
+      "ar": "الْأَفْعَالُ الْمَزِيدَةُ: بَابُ التَّفْعِيلِ وَبَابُ الْمُفَاعَلَةِ",
+      "keywords": "فَعَّلَ يُفَعِّلُ تَفْعِيلًا (geçişli/yoğunluk) ve فَاعَلَ يُفَاعِلُ مُفَاعَلَةً (işteşlik) bablarının tam çekim ve anlam mantığı. II. Bab Tef'îl (فَعَّلَ) III. Bab Müfâale (فَاعَلَ) Anlam Katmanları Emir & Meçhul Çekimleri YDS Yüksek Frekanslı Fiiller"
+    },
+    {
+      "id": "search_mod_25",
+      "type": "module",
+      "moduleId": "25",
+      "title": "Modül 25: Mezîd Fiiller II: IV. Bab (İf'âl) & Lâzım–Müteaddi Dönüşümü",
+      "subtitle": "FAZ-3 · B1 · İleri Sarf",
+      "ar": "بَابُ الْإِفْعَالِ وَالتَّعْدِيَةُ وَاللُّزُومُ",
+      "keywords": "أَفْعَلَ يُفْعِلُ إِفْعَالًا babı, kat' hemzesi kuralı, lâzım–müteaddi geçişlilik mekanizması ve II.–IV. bab farkları. IV. Bab İf'âl (أَفْعَلَ) Kat' Hemzesi Kuralı Lâzım → Müteaddi Dönüşümü II. Bab vs. IV. Bab Farkı İf'âl Emir & Meçhul"
+    },
+    {
+      "id": "search_mod_26",
+      "type": "module",
+      "moduleId": "26",
+      "title": "Modül 26: Mezîd Fiiller III: V. Bab (Tefe'ul) & VI. Bab (Tefâul)",
+      "subtitle": "FAZ-3 · B1 · İleri Sarf",
+      "ar": "بَابُ التَّفَعُّلِ وَبَابُ التَّفَاعُلِ",
+      "keywords": "تَفَعَّلَ (dönüşlülük/tedricilik) ve تَفَاعَلَ (karşılıklılık/gibi görünme) babları; II→V ve III→VI dönüşüm çiftleri. V. Bab Tefe'ul (تَفَعَّلَ) VI. Bab Tefâul (تَفَاعَلَ) Mutâvaat (Dönüşlülük) II→V ve III→VI Çiftleri Muzâri & Mastar Kalıpları"
+    },
+    {
+      "id": "search_mod_27",
+      "type": "module",
+      "moduleId": "27",
+      "title": "Modül 27: Mezîd Fiiller IV: VII. Bab (İnfiâl) & VIII. Bab (İftiâl)",
+      "subtitle": "FAZ-3 · B1 · İleri Sarf",
+      "ar": "بَابُ الْاِنْفِعَالِ وَبَابُ الْاِفْتِعَالِ",
+      "keywords": "اِنْفَعَلَ (edilgenimsi dönüşlülük) ve اِفْتَعَلَ (çaba/dönüşlülük) babları; VIII. babdaki ses uyumu (ibdâl: ص/ض/ط/د/ذ/ز). VII. Bab İnfiâl (اِنْفَعَلَ) VIII. Bab İftiâl (اِفْتَعَلَ) İftiâl Tâ Değişimleri (اضْطَرَبَ/ازْدَادَ) İnfiâl vs. Meçhul Farkı Kök Çözümleme Pratiği"
+    },
+    {
+      "id": "search_mod_28",
+      "type": "module",
+      "moduleId": "28",
+      "title": "Modül 28: Mezîd Fiiller V: IX. & X. Bablar, Rubâî Fiiller & Te'kîd Nûnu",
+      "subtitle": "FAZ-3 · B1 · İleri Sarf",
+      "ar": "بَابُ الْاِفْعِلَالِ وَالْاِسْتِفْعَالِ وَالرُّبَاعِيُّ وَنُونُ التَّوْكِيدِ",
+      "keywords": "اِفْعَلَّ (renk/kusur), اِسْتَفْعَلَ (talep/sayma), Rubâî mücerred/mezîd fiiller ve ağır/hafif Te'kîd Nûnu kuralları. IX. Bab İf'ilâl (اِحْمَرَّ) X. Bab İstif'âl (اِسْتَخْرَجَ) Rubâî Mücerred & Mezîd Te'kîd Nûnu (Sakîle/Hafîfe) 10 Bab Karşılaştırma Matrisi"
+    },
+    {
+      "id": "search_mod_29",
+      "type": "module",
+      "moduleId": "29",
+      "title": "Modül 29: Mastar Sistematiği (Aslî, Mimli, Sınâî, Merre, Nevi)",
+      "subtitle": "FAZ-3 · B1 · İleri Sarf",
+      "ar": "الْمَصَادِرُ وَأَنْوَاعُهَا",
+      "keywords": "Sülâsî semâî ve mezîd kıyâsî mastarlar, mimli mastar, yapma mastar (حُرِّيَّة), mastar-ı merre ve mastar-ı nevi. Sülâsî & Mezîd Mastarlar Mimli Mastar Yapma (Sınâî) Mastar (-ِيَّة) Mastar-ı Merre & Nevi Mastarın Fiil Gibi Ameli"
+    },
+    {
+      "id": "search_mod_30",
+      "type": "module",
+      "moduleId": "30",
+      "title": "Modül 30: Müştak İsimler I: İsm-i Fâil, İsm-i Mef'ûl, Mübalağa & Sıfat-ı Müşebbehe",
+      "subtitle": "FAZ-3 · B1 · Müştak İsimler",
+      "ar": "الْمُشْتَقَّاتُ (١): اِسْمُ الْفَاعِلِ وَالْمَفْعُولِ وَالْمُبَالَغَةِ وَالصِّفَةُ الْمُشَبَّهَةُ",
+      "keywords": "Sülâsî ve mezîd fiillerden ism-i fâil (مُفْعِل) ve ism-i mef'ûl (مُفْعَل), mübalağa sığaları ve kalıcı sıfat-ı müşebbehe. Sülâsî & Mezîd İsm-i Fâil Sülâsî & Mezîd İsm-i Mef'ûl Mübalağalı İsm-i Fâil Sıfat-ı Müşebbehe Harekesiz Metinde مُفْعِل/مُفْعَل Ayrımı"
+    },
+    {
+      "id": "search_mod_31",
+      "type": "module",
+      "moduleId": "31",
+      "title": "Modül 31: Müştak İsimler II: Zaman/Mekân, Âlet, Mensûb, Tasğîr & Tafdil",
+      "subtitle": "FAZ-3 · B1 · Müştak İsimler",
+      "ar": "الْمُشْتَقَّاتُ (٢): الزَّمَانُ وَالْمَكَانُ وَالْآلَةُ وَالنِّسْبَةُ وَالتَّصْغِيرُ وَالتَّفْضِيلُ",
+      "keywords": "مَفْعَل/مَفْعِل, مِفْعَل/مِفْعَال/مِفْعَلَة, nisbet yâsı (-ِيّ), küçültme (فُعَيْل) ve karşılaştırma/üstünlük (أَفْعَلُ مِنْ / الْأَفْعَلُ). İsm-i Zaman & Mekân İsm-i Âlet İsm-i Mensûb (-ِيّ) İsm-i Tasğîr İsm-i Tafdil & 4 Kullanımı"
+    },
+    {
+      "id": "search_mod_32",
+      "type": "module",
+      "moduleId": "32",
+      "title": "Modül 32: Maksûr, Mankûs, Memdûd İsimler & Mebnî Kelimeler",
+      "subtitle": "FAZ-3 · B1 · İsim Morfolojisi & İ'rab",
+      "ar": "الْمَقْصُورُ وَالْمَنْقُوصُ وَالْمَمْدُودُ وَالْمَبْنِيَّاتُ",
+      "keywords": "الْفَتَى، الْقَاضِي، الصَّحْرَاءُ isimlerinin takdîrî i'rabı, tenvînli mankûs düşüşü, mebnî isimler ve mebnî fiiller. İsm-i Maksûr (Takdîrî İ'rab) İsm-i Mankûs (قَاضٍ/الْقَاضِي) İsm-i Memdûd & Hemze Türleri Mebnî İsimler Özeti Mebnî Fiiller Özeti"
+    },
+    {
+      "id": "search_mod_33",
+      "type": "module",
+      "moduleId": "33",
+      "title": "Modül 33: Aksâm-ı Seb'a I: Mehmûz, Muzaaf ve Misâl Fiiller",
+      "subtitle": "FAZ-3 · B1 · Aksâm-ı Seb'a",
+      "ar": "أَقْسَامُ الْفِعْلِ (١): الْمَهْمُوزُ وَالْمُضَاعَفُ وَالْمِثَالُ",
+      "keywords": "Hemzeli, şeddeli (idğam çözülmesi) ve ilk harfi illetli (misâl) fiillerin sülâsî ve mezîd bablardaki çekimleri. Mehmûz Fiiller (أَخَذَ/سَأَلَ/قَرَأَ) Muzaaf Fiiller (مَدَّ/مَدَدْتُ) Misâl-i Vâvî (وَصَلَ/يَصِلُ) Mezîd Bablarda Muzaaf/Misâl Emir & Cezm Özellikleri"
+    },
+    {
+      "id": "search_mod_34",
+      "type": "module",
+      "moduleId": "34",
+      "title": "Modül 34: Aksâm-ı Seb'a II: Ecvef, Nâkıs ve Lefîf Fiiller",
+      "subtitle": "FAZ-3 · B1 · Aksâm-ı Seb'a",
+      "ar": "أَقْسَامُ الْفِعْلِ (٢): الْأَجْوَفُ وَالنَّاقِصُ وَاللَّفِيفُ",
+      "keywords": "Ecvef (قَالَ/بَاعَ), nâkıs (دَعَا/رَمَى/رَضِيَ) ve lefîf (وَقَى/شَوَى) fiillerde i'lâl kuralları, cezm/emir ve mezîd çekimleri. Ecvef Fiiller (قَالَ/قُلْتُ/قُلْ) Nâkıs Fiiller (دَعَا/رَمَى/رَضِيَ) Lefîf-i Mefrûk & Makrûn Mezîd Bablarda Ecvef/Nâkıs İ'lâl & Kök Geri Çıkarma"
+    },
+    {
+      "id": "search_mod_35",
+      "type": "module",
+      "moduleId": "35",
+      "title": "Modül 35: 5 Mef'ûl I: Çok Mef'ûllü Fiiller & Mef'ûlün Mutlak",
+      "subtitle": "FAZ-4 · B1+ · İleri Nahiv",
+      "ar": "الْمَفَاعِيلُ (١): الْمَفْعُولُ بِهِ الْمُتَعَدِّدُ وَالْمَفْعُولُ الْمُطْلَقُ",
+      "keywords": "İki mef'ûl alan fiiller, mef'ûlün mutlak (pekiştirme, tür, sayı) ve nâib-i mef'ûlün mutlak yapıları. İki Mef'ûl Alan Fiiller (أَعْطَى/مَنَحَ) Mef'ûlün Mutlak 3 İşlevi Nâib-i Mef'ûlün Mutlak (كُلّ/جِدًّا/مَرَّةً) Hazfedilmiş Fiilli Kalıplar (شُكْرًا/حَقًّا) YDS Zarf/Mef'ûl Soruları"
+    },
+    {
+      "id": "search_mod_36",
+      "type": "module",
+      "moduleId": "36",
+      "title": "Modül 36: 5 Mef'ûl II: Mef'ûlün Li Eclih, Mef'ûlün Fîh & Mef'ûlün Maah",
+      "subtitle": "FAZ-4 · B1+ · İleri Nahiv",
+      "ar": "الْمَفَاعِيلُ (٢): الْمَفْعُولُ لِأَجْلِهِ وَفِيهِ وَمَعَهُ",
+      "keywords": "Sebep bildiren kalbî mastarlar (رَغْبَةً/حِرْصًا), zaman-mekân zarfları ve beraberlik vâvı (vâv-ı maiyyet) kuralları. Mef'ûlün Li Eclih (Sebep) Mef'ûlün Fîh (Zaman/Mekân Zarfları) Mebnî Zarflar (حَيْثُ/أَمْسِ/الْآنَ) Mef'ûlün Maah (Beraberlik) 5 Mef'ûl Karşılaştırması"
+    },
+    {
+      "id": "search_mod_37",
+      "type": "module",
+      "moduleId": "37",
+      "title": "Modül 37: Hâl (I–II): Müfred, Cümle ve Şibh-i Cümle Hâl",
+      "subtitle": "FAZ-4 · B1+ · İleri Nahiv",
+      "ar": "الْحَالُ وَأَنْوَاعُهَا وَوَاوُ الْحَالِ",
+      "keywords": "Sâhibü'l-hâl (marife) & hâl (nekre) dengesi, vâv-ı hâliyye ve cümle sıfat ile cümle hâl arasındaki altın ayrım. Müfred Hâl & Şartları İsim & Fiil Cümlesi Hâl Vâv-ı Hâliyye & Râbıt Zamir Cümle Sıfat vs. Cümle Hâl Çeviride -erek/-arak & -ken"
+    },
+    {
+      "id": "search_mod_38",
+      "type": "module",
+      "moduleId": "38",
+      "title": "Modül 38: Temyiz (Zât & Nisbet) & Kem-i İstifhâmiye / Haberiye",
+      "subtitle": "FAZ-4 · B1+ · İleri Nahiv",
+      "ar": "التَّمْيِيزُ وَكَمِ الْاِسْتِفْهَامِيَّةِ وَالْخَبَرِيَّةِ",
+      "keywords": "Ölçü/sayı/ağırlık temyizi (zât), cümle kapalılığını açan nisbet temyizi ve soru/çokluk bildiren كَمْ yapıları. Temyiz-i Zât (Ölçü/Sayı) Temyiz-i Nisbet (ازْدَادَ عِلْمًا) İsm-i Tafdil + Temyiz Kem-i İstifhâmiye (Mansub) Kem-i Haberiye (Mecrûr)"
+    },
+    {
+      "id": "search_mod_39",
+      "type": "module",
+      "moduleId": "39",
+      "title": "Modül 39: Mukârebe–Recâ–Şurû' Fiilleri & Zanne ve Kardeşleri",
+      "subtitle": "FAZ-4 · B1+ · İleri Nahiv",
+      "ar": "أَفْعَالُ الْمُقَارَبَةِ وَالرَّجَاءِ وَالشُّرُوعِ وَظَنَّ وَأَخَوَاتُهَا",
+      "keywords": "كَادَ/أَوْشَكَ/عَسَى/بَدَأَ/أَخَذَ fiillerinde أَنْ kullanım tablosu; Ef'âl-i Kulûb (ظَنَّ/عَلِمَ/وَجَدَ) ve Tahvîl (جَعَلَ). Mukârebe (كَادَ/أَوْشَكَ) Recâ (عَسَى/حَرَى) Şurû' (بَدَأَ/أَخَذَ/شَرَعَ) أَنْ Kullanım Tablosu Zanne & Kardeşleri (2 Mef'ûl)"
+    },
+    {
+      "id": "search_mod_40",
+      "type": "module",
+      "moduleId": "40",
+      "title": "Modül 40: Şart Cümleleri & Cevap Cümlesinde Fâ (فَـ) Kuralları",
+      "subtitle": "FAZ-4 · B1+ · İleri Nahiv",
+      "ar": "أُسْلُوبُ الشَّرْطِ وَاقْتِرَانُ جَوَابِ الشَّرْطِ بِالْفَاءِ",
+      "keywords": "Cezmeden ve cezmetmeyen şart edatları, şart–cevap fiil zamanları ve cevap cümlesine فَـ gelmesinin zorunlu olduğu 7 yer. Cezmeden Şart Edatları (إِنْ/مَنْ/مَهْمَا) Cezmetmeyenler (إِذَا/لَوْ/لَوْلَا/كُلَّمَا) Cevapta فَـ (İsmiyye/Taleb/Câmid/قَدْ/لَنْ/سَـ) لَوْ / لَوْلَا Gerçek Dışı Şart YDS Şart Sorusu Kalıpları"
+    },
+    {
+      "id": "search_mod_41",
+      "type": "module",
+      "moduleId": "41",
+      "title": "Modül 41: Gayr-i Munsarif (I–II–III) Tam Sistem",
+      "subtitle": "FAZ-4 · B1+ · İleri Nahiv & İ'rab",
+      "ar": "الْمَمْنُوعُ مِنَ الصَّرْفِ",
+      "keywords": "Tenvîn ve kesra almayan 9 kelime grubu (özel isimler, sıfatlar, sığa-i müntehe'l-cümû', memdûd/maksûr) ve munsarif olma şartları. Tek İlletle Gayr-i Munsarif Özel İsimler (6 Grup) Sıfatlar (فَعْلَان/أَفْعَل/Sayı) Fetha ile Cer Kuralı ال veya İzâfetle Kesra Alma"
+    },
+    {
+      "id": "search_mod_42",
+      "type": "module",
+      "moduleId": "42",
+      "title": "Modül 42: İstisnâ Sistemi & Cinsini Nefyeden Lâ",
+      "subtitle": "FAZ-4 · B1+ · İleri Nahiv",
+      "ar": "أُسْلُوبُ الْاِسْتِثْنَاءِ وَلَا النَّافِيَةُ لِلْجِنْسِ",
+      "keywords": "إِلَّا (tâm müsbet/menfî, müferrağ), غَيْر/سِوَى, خَلَا/عَدَا/حَاشَا kuralları ve لَا النَّافِيَةُ لِلْجِنْسِ (لَا شَكَّ/لَا بُدَّ). إِلَّا ile 3 İstisnâ Hâli غَيْرُ ve سِوَى İ'rabı خَلَا / عَدَا / حَاشَا Cinsini Nefyeden لَا Şartları لَا شَكَّ / لَا بُدَّ / لَا مَفَرَّ Kalıpları"
+    },
+    {
+      "id": "search_mod_43",
+      "type": "module",
+      "moduleId": "43",
+      "title": "Modül 43: Özel Üsluplar: Münâdâ, Taaccüb, Medih–Zem, İhtisas & İsim-Fiiller",
+      "subtitle": "FAZ-4 · B1+ · Özel Üsluplar",
+      "ar": "النِّدَاءُ وَالتَّعَجُّبُ وَالْمَدْحُ وَالذَّمُّ وَالْاِخْتِصَاصُ وَأَسْمَاءُ الْأَفْعَالِ",
+      "keywords": "Münâdâ (5 tür), Taaccüb (مَا أَفْعَلَهُ/أَفْعِلْ بِهِ), Medih–Zem (نِعْمَ/بِئْسَ/حَبَّذَا), İhtisas, Tahzîr–İğrâ ve İsim-Fiiller. Münâdâ (يَا/أَيُّهَا) Taaccüb 2 Sığası Medih & Zem (نِعْمَ/بِئْسَ) İhtisas, Tahzîr & İğrâ İsim-Fiiller (هَيْهَاتَ/شَتَّانَ/عَلَيْكَ)"
+    },
+    {
+      "id": "search_mod_44",
+      "type": "module",
+      "moduleId": "44",
+      "title": "Modül 44: 4 Tevâbi' Tam Sistem: Na't, Atıf, Te'kîd ve Bedel",
+      "subtitle": "FAZ-4 · B1+ · İleri Nahiv",
+      "ar": "التَّوَابِعُ الْأَرْبَعَةُ: النَّعْتُ وَالْعَطْفُ وَالتَّوْكِيدُ وَالْبَدَلُ",
+      "keywords": "Hakîkî ve sebebî sıfat, 9 atıf harfi, lafzî ve mânevî te'kîd (نَفْس/عَيْن/كُلّ/كِلَا/جَمِيع) ve 4 tür bedel. Sebebî Sıfat (الْحَسَنُ وَجْهُهُ) 9 Atıf Harfi & İnce Farkları Lafzî & Mânevî Te'kîd Bedel-i Mutâbık/Ba'z/İştimal Tevâbi' İ'rab Analizi"
+    },
+    {
+      "id": "search_mod_45",
+      "type": "module",
+      "moduleId": "45",
+      "title": "Modül 45: İleri Nahiv Edatları & Cümle İ'rabı (Mahalli Olan/Olmayan)",
+      "subtitle": "FAZ-4 · B1+ · İleri Nahiv",
+      "ar": "أَدَوَاتٌ نَحْوِيَّةٌ مُتَقَدِّمَةٌ وَالْجُمَلُ الَّتِي لَهَا مَحَلٌّ مِنَ الْإِعْرَابِ",
+      "keywords": "Fâ-yı sebebiye, vâv-ı maiyyet, lâm'ul-cuhûd, lafzî izâfet, muhaffef إِنْ/أَنْ, şan zamiri ve cümle i'rabı tam tablosu. Fâ-yı Sebebiye & Lâm'ul-Cuhûd Lafzî İzâfet & Leyse'ye Benzerler Şan Zamiri & Muhaffef İnne Mahalli Olan 7 Cümle Mahalli Olmayan 7 Cümle"
+    },
+    {
+      "id": "search_mod_46",
+      "type": "module",
+      "moduleId": "46",
+      "title": "Modül 46: Harf-i Cerli Fiiller Atlası I (Akademik & Basın)",
+      "subtitle": "FAZ-5 · B2 · YDS / YÖKDİL",
+      "ar": "الْأَفْعَالُ الْمُتَعَدِّيَةُ بِحُرُوفِ الْجَرِّ (١)",
+      "keywords": "Akademik ve basın Arapçasında en yüksek frekanslı 120+ harf-i cerli fiilin harf-i cer gruplarına göre sistemli öğrenimi. بِـ ile Kullanılan Fiiller عَلَى ile Kullanılan Fiiller إِلَى & لِـ ile Kullanılan Fiiller مِنْ & عَنْ ile Kullanılan Fiiller فِي ile Kullanılan Fiiller"
+    },
+    {
+      "id": "search_mod_47",
+      "type": "module",
+      "moduleId": "47",
+      "title": "Modül 47: Harf-i Cerli Fiiller Atlası II (Anlam Değiştirenler & Eşdizimler)",
+      "subtitle": "FAZ-5 · B2 · YDS / YÖKDİL",
+      "ar": "الْأَفْعَالُ الْمُتَعَدِّيَةُ (٢) وَالْمُتَلَازِمَاتُ اللَّفْظِيَّةُ",
+      "keywords": "Harf-i ceri değişince anlamı tamamen değişen fiiller (رَغِبَ فِي/عَنْ، قَامَ بِـ/عَلَى) ve sınavlık kalıp ifadeler. Anlam Değiştiren 25 Kritik Fiil Sınavlık Eşdizimler (Collocations) Zarf + İsim Kalıpları Akademik İfade Kalıpları YDS Boşluk Pratiği"
+    },
+    {
+      "id": "search_mod_48",
+      "type": "module",
+      "moduleId": "48",
+      "title": "Modül 48: YDS/YÖKDİL Bağlaçlar Atlası I (Sebep, Sonuç, Amaç, Zıtlık)",
+      "subtitle": "FAZ-5 · B2 · YDS / YÖKDİL",
+      "ar": "أَدَوَاتُ الرَّبْطِ الْأَكَادِيمِيَّةُ (١)",
+      "keywords": "Sebep–sonuç (نَظَرًا لِـ، مِمَّا أَدَّى إِلَى), amaç (بِهَدَفِ، بُغْيَةَ) ve zıtlık/rağmenlik (بِالرَّغْمِ مِنْ، إِلَّا أَنَّ، بَيْدَ أَنَّ) bağlaçları. Sebep Bağlaçları (İsim vs. Cümle) Sonuç Bağlaçları (مِمَّا/لِذٰلِكَ) Zıtlık & Rağmenlik (رَغْمَ/مَعَ أَنَّ) İstidrâk (إِلَّا أَنَّ/بَيْدَ أَنَّ) Bağlaç Sonrası İ'rab Şartı"
+    },
+    {
+      "id": "search_mod_49",
+      "type": "module",
+      "moduleId": "49",
+      "title": "Modül 49: YDS/YÖKDİL Bağlaçlar Atlası II (Şart, Zaman, Karşılaştırma, Ekleme)",
+      "subtitle": "FAZ-5 · B2 · YDS / YÖKDİL",
+      "ar": "أَدَوَاتُ الرَّبْطِ الْأَكَادِيمِيَّةُ (٢)",
+      "keywords": "Ekleme (فَضْلًا عَنْ، عِلَاوَةً عَلَى), zaman (طَالَمَا، بَيْنَمَا، مُنْذُ), karşılaştırma (عَلَى غِرَارِ، بَدَلًا مِنْ) ve şart (بِحَيْثُ، شَرِيطَةَ). Ekleme & Pekiştirme Zaman & Eşzamanlılık Karşılaştırma & Benzetme Şart & Kısıtlama (بِحَيْثُ/طَالَمَا) Sınavda Bağlaç Çeldiricileri"
+    },
+    {
+      "id": "search_mod_50",
+      "type": "module",
+      "moduleId": "50",
+      "title": "Modül 50: YÖKDİL Sosyal Bilimler Okuma & Kelime Stüdyosu",
+      "subtitle": "FAZ-5 · B2 · YÖKDİL Sosyal",
+      "ar": "نُصُوصُ الْعُلُومِ الْاِجْتِمَاعِيَّةِ وَالْإِنْسَانِيَّةِ",
+      "keywords": "Tarih, kültür, medeniyet, ekonomi, uluslararası ilişkiler ve biyografi alanlarında akademik metinler ve terminoloji. Tarih & Medeniyet Terminolojisi Siyaset & Diplomasi Ekonomi & Toplum Biyografi Metin Analizi Harekesiz Akademik Okuma"
+    },
+    {
+      "id": "search_mod_51",
+      "type": "module",
+      "moduleId": "51",
+      "title": "Modül 51: YÖKDİL Sağlık Bilimleri Okuma & Kelime Stüdyosu",
+      "subtitle": "FAZ-5 · B2 · YÖKDİL Sağlık",
+      "ar": "نُصُوصُ الْعُلُومِ الصِّحِّيَّةِ وَالطِّبِّيَّةِ",
+      "keywords": "Tıp, hastalıklar, bağışıklık, beslenme, genetik ve klinik çalışmalar odaklı akademik metinler ve tıbbi Arapça. Hastalıklar & Belirtiler Tedavi & Farmakoloji Beslenme & Halk Sağlığı Klinik Araştırma Dili Sayısal Veri & Oran İfadeleri"
+    },
+    {
+      "id": "search_mod_52",
+      "type": "module",
+      "moduleId": "52",
+      "title": "Modül 52: YÖKDİL Fen Bilimleri & Teknoloji Okuma Stüdyosu",
+      "subtitle": "FAZ-5 · B2 · YÖKDİL Fen",
+      "ar": "نُصُوصُ الْعُلُومِ الطَّبِيعِيَّةِ وَالتِّكْنُولُوجِيَا",
+      "keywords": "Yapay zekâ, astronomi/uzay, çevre/iklim değişikliği, yenilenebilir enerji ve mühendislik metinleri. Yapay Zekâ & Dijital Çağ Astronomi & Uzay İklim & Yenilenebilir Enerji Deney & Bilimsel Yöntem Neden–Sonuç Zinciri Okuma"
+    },
+    {
+      "id": "search_mod_53",
+      "type": "module",
+      "moduleId": "53",
+      "title": "Modül 53: YDS/YÖKDİL Cloze Test & Cümle Tamamlama Stratejileri",
+      "subtitle": "FAZ-5 · B2 / YDS · Sınav Stratejisi",
+      "ar": "اِسْتِرَاتِيجِيَّاتُ إِكْمَالِ النَّصِّ وَالْجُمَلِ",
+      "keywords": "Siyak-sibak okuma, zamir referansı eşleştirme, zaman ve bağlaç tutarlılığı ile 5 şıklı Cloze Test çözüm algoritması. Boşluk Öncesi/Sonrası Analiz Zamir & Cinsiyet/Sayı Takibi Zaman Uyumu Kontrolü Bağlaç Yönü (+ / -) Çeldirici Eleme Protokolü"
+    },
+    {
+      "id": "search_mod_54",
+      "type": "module",
+      "moduleId": "54",
+      "title": "Modül 54: Arapça ↔ Türkçe Akademik Çeviri Teknikleri",
+      "subtitle": "FAZ-5 · B2 / YDS · Çeviri & Sınav",
+      "ar": "تِقْنِيَّاتُ التَّرْجَمَةِ الْأَكَادِيمِيَّةِ",
+      "keywords": "Emrullah İşler & Musa Yıldız sistematiğiyle uzun cümle parçalama, özne–yüklem tespiti, sıla/sıfat/hâl ve edilgen çevirisi. Özne–Yüklem İskeleti Çıkarma Sıla & Sıfat Blokları Zaman & Kip Denkliği AR→TR Seçenek Eleme TR→AR Doğru Karşılık Bulma"
+    },
+    {
+      "id": "search_mod_55",
+      "type": "module",
+      "moduleId": "55",
+      "title": "Modül 55: Restatement, Anlam Bozan Cümle, Diyalog & Paragraf Taktikleri",
+      "subtitle": "FAZ-5 · B2 / YDS · Sınav Stratejisi",
+      "ar": "مَهَارَاتُ الْقِرَاءَةِ الْمُتَقَدِّمَةِ وَتَكْتِيكَاتُ الِاخْتِبَارِ",
+      "keywords": "Yakın anlam (Restatement), akışı bozan cümle, diyalog tamamlama, paragraf ana fikir/çıkarım soruları ve sınav zaman yönetimi. Restatement Eşdeğerlikleri Anlam Bütünlüğünü Bozan Cümle Diyalog Tamamlama İpuçları Paragraf Soru Tipleri 180 Dakika Zaman Yönetimi"
+    },
+    {
+      "id": "search_card_m01_c1",
+      "type": "card",
+      "moduleId": "01",
+      "title": "sabah (sabâhun)",
+      "subtitle": "SRS Kartı · M01 · Kök: ص-ب-ح",
+      "ar": "صَبَاحٌ",
+      "kok": "ص-ب-ح",
+      "keywords": "صباح فَعَال İsim"
+    },
+    {
+      "id": "search_card_m01_c2",
+      "type": "card",
+      "moduleId": "01",
+      "title": "harf / edat (harfun)",
+      "subtitle": "SRS Kartı · M01 · Kök: ح-ر-ف",
+      "ar": "حَرْفٌ",
+      "kok": "ح-ر-ف",
+      "keywords": "حرف فَعْل İsim"
+    },
+    {
+      "id": "search_card_m01_c3",
+      "type": "card",
+      "moduleId": "01",
+      "title": "hareke / hareket (harekatun)",
+      "subtitle": "SRS Kartı · M01 · Kök: ح-ر-ك",
+      "ar": "حَرَكَةٌ",
+      "kok": "ح-ر-ك",
+      "keywords": "حركة فَعَلَة İsim"
+    },
+    {
+      "id": "search_card_m01_c4",
+      "type": "card",
+      "moduleId": "01",
+      "title": "kalem (kalemun)",
+      "subtitle": "SRS Kartı · M01 · Kök: ق-ل-م",
+      "ar": "قَلَمٌ",
+      "kok": "ق-ل-م",
+      "keywords": "قلم فَعَل İsim"
+    },
+    {
+      "id": "search_card_m01_c5",
+      "type": "card",
+      "moduleId": "01",
+      "title": "kitap (kitâbun)",
+      "subtitle": "SRS Kartı · M01 · Kök: ك-ت-ب",
+      "ar": "كِتَابٌ",
+      "kok": "ك-ت-ب",
+      "keywords": "كتاب فِعَال İsim"
+    },
+    {
+      "id": "search_card_m01_c6",
+      "type": "card",
+      "moduleId": "01",
+      "title": "defter (defterun)",
+      "subtitle": "SRS Kartı · M01 · Kök: د-ف-ت-ر",
+      "ar": "دَفْتَرٌ",
+      "kok": "د-ف-ت-ر",
+      "keywords": "دفتر فَعْلَل İsim"
+    },
+    {
+      "id": "search_card_m01_c7",
+      "type": "card",
+      "moduleId": "01",
+      "title": "ders (dersun)",
+      "subtitle": "SRS Kartı · M01 · Kök: د-ر-س",
+      "ar": "دَرْسٌ",
+      "kok": "د-ر-س",
+      "keywords": "درس فَعْل İsim"
+    },
+    {
+      "id": "search_card_m01_c8",
+      "type": "card",
+      "moduleId": "01",
+      "title": "kapı / bölüm (bab) (bâbun)",
+      "subtitle": "SRS Kartı · M01 · Kök: ب-و-ب",
+      "ar": "بَابٌ",
+      "kok": "ب-و-ب",
+      "keywords": "باب فَعَل İsim"
+    },
+    {
+      "id": "search_card_m01_c9",
+      "type": "card",
+      "moduleId": "01",
+      "title": "ışık / nur (nûrun)",
+      "subtitle": "SRS Kartı · M01 · Kök: ن-و-ر",
+      "ar": "نُورٌ",
+      "kok": "ن-و-ر",
+      "keywords": "نور فُعْل İsim"
+    },
+    {
+      "id": "search_card_m01_c10",
+      "type": "card",
+      "moduleId": "01",
+      "title": "şedde / şiddet (şeddetun)",
+      "subtitle": "SRS Kartı · M01 · Kök: ش-د-د",
+      "ar": "شَدَّةٌ",
+      "kok": "ش-د-د",
+      "keywords": "شدة فَعْلَة İsim"
+    },
+    {
+      "id": "search_card_m01_c11",
+      "type": "card",
+      "moduleId": "01",
+      "title": "öğretmen (mu‘allimun)",
+      "subtitle": "SRS Kartı · M01 · Kök: ع-ل-م",
+      "ar": "مُعَلِّمٌ",
+      "kok": "ع-ل-م",
+      "keywords": "معلم مُفَعِّل İsim"
+    },
+    {
+      "id": "search_card_m01_c12",
+      "type": "card",
+      "moduleId": "01",
+      "title": "yazı tahtası (sebbûratun)",
+      "subtitle": "SRS Kartı · M01 · Kök: س-ب-ر",
+      "ar": "سَبُّورَةٌ",
+      "kok": "س-ب-ر",
+      "keywords": "سبورة فَعُّولَة İsim"
+    },
+    {
+      "id": "search_card_m01_c13",
+      "type": "card",
+      "moduleId": "01",
+      "title": "teşekkür ederim (şukran)",
+      "subtitle": "SRS Kartı · M01 · Kök: ش-ك-ر",
+      "ar": "شُكْرًا",
+      "kok": "ش-ك-ر",
+      "keywords": "شكرا فُعْلًا İfade"
+    },
+    {
+      "id": "search_card_m01_c14",
+      "type": "card",
+      "moduleId": "01",
+      "title": "ev / şiir beyti (beytun)",
+      "subtitle": "SRS Kartı · M01 · Kök: ب-ي-ت",
+      "ar": "بَيْتٌ",
+      "kok": "ب-ي-ت",
+      "keywords": "بيت فَعْل İsim"
+    },
+    {
+      "id": "search_card_m01_c15",
+      "type": "card",
+      "moduleId": "01",
+      "title": "okuma (kırâetun)",
+      "subtitle": "SRS Kartı · M01 · Kök: ق-ر-أ",
+      "ar": "قِرَاءَةٌ",
+      "kok": "ق-ر-أ",
+      "keywords": "قراءة فِعَالَة İsim"
+    },
+    {
+      "id": "search_card_m01_c16",
+      "type": "card",
+      "moduleId": "01",
+      "title": "yazma / yazı (kitâbetun)",
+      "subtitle": "SRS Kartı · M01 · Kök: ك-ت-ب",
+      "ar": "كِتَابَةٌ",
+      "kok": "ك-ت-ب",
+      "keywords": "كتابة فِعَالَة İsim"
+    },
+    {
+      "id": "search_card_m01_c17",
+      "type": "card",
+      "moduleId": "01",
+      "title": "ses / oy (savtun)",
+      "subtitle": "SRS Kartı · M01 · Kök: ص-و-ت",
+      "ar": "صَوْتٌ",
+      "kok": "ص-و-ت",
+      "keywords": "صوت فَعْل İsim"
+    },
+    {
+      "id": "search_card_m01_c18",
+      "type": "card",
+      "moduleId": "01",
+      "title": "öğrenci (tâlibun)",
+      "subtitle": "SRS Kartı · M01 · Kök: ط-ل-ب",
+      "ar": "طَالِبٌ",
+      "kok": "ط-ل-ب",
+      "keywords": "طالب فَاعِل İsim"
+    },
+    {
+      "id": "search_card_m01_c19",
+      "type": "card",
+      "moduleId": "01",
+      "title": "çalışma masası / ofis (mektebun)",
+      "subtitle": "SRS Kartı · M01 · Kök: ك-ت-ب",
+      "ar": "مَكْتَبٌ",
+      "kok": "ك-ت-ب",
+      "keywords": "مكتب مَفْعَل İsim"
+    },
+    {
+      "id": "search_card_m01_c20",
+      "type": "card",
+      "moduleId": "01",
+      "title": "sınıf / sıra (saffun)",
+      "subtitle": "SRS Kartı · M01 · Kök: ص-ف-ف",
+      "ar": "صَفٌّ",
+      "kok": "ص-ف-ف",
+      "keywords": "صف فَعْل İsim"
+    },
+    {
+      "id": "search_card_m01_c21",
+      "type": "card",
+      "moduleId": "01",
+      "title": "büyük (kebîrun)",
+      "subtitle": "SRS Kartı · M01 · Kök: ك-ب-ر",
+      "ar": "كَبِيرٌ",
+      "kok": "ك-ب-ر",
+      "keywords": "كبير فَعِيل Sıfat"
+    },
+    {
+      "id": "search_card_m01_c22",
+      "type": "card",
+      "moduleId": "01",
+      "title": "dünya / âlem (‘âlemun)",
+      "subtitle": "SRS Kartı · M01 · Kök: ع-ل-م",
+      "ar": "عَالَمٌ",
+      "kok": "ع-ل-م",
+      "keywords": "عالم فَاعَل İsim"
+    },
+    {
+      "id": "search_card_m01_c23",
+      "type": "card",
+      "moduleId": "01",
+      "title": "güzel (cemîlun)",
+      "subtitle": "SRS Kartı · M01 · Kök: ج-م-ل",
+      "ar": "جَمِيلٌ",
+      "kok": "ج-م-ل",
+      "keywords": "جميل فَعِيل Sıfat"
+    },
+    {
+      "id": "search_card_m01_c24",
+      "type": "card",
+      "moduleId": "01",
+      "title": "yeni (cedîdun)",
+      "subtitle": "SRS Kartı · M01 · Kök: ج-د-د",
+      "ar": "جَدِيدٌ",
+      "kok": "ج-د-د",
+      "keywords": "جديد فَعِيل Sıfat"
+    },
+    {
+      "id": "search_card_m01_c25",
+      "type": "card",
+      "moduleId": "01",
+      "title": "önemli (muhimmun)",
+      "subtitle": "SRS Kartı · M01 · Kök: ه-م-م",
+      "ar": "مُهِمٌّ",
+      "kok": "ه-م-م",
+      "keywords": "مهم مُفْعِل Sıfat"
+    },
+    {
+      "id": "search_card_m01_c26",
+      "type": "card",
+      "moduleId": "01",
+      "title": "çanta (hakîbetun)",
+      "subtitle": "SRS Kartı · M01 · Kök: ح-ق-ب",
+      "ar": "حَقِيبَةٌ",
+      "kok": "ح-ق-ب",
+      "keywords": "حقيبة فَعِيلَة İsim"
+    },
+    {
+      "id": "search_card_m01_c27",
+      "type": "card",
+      "moduleId": "01",
+      "title": "çarşı / piyasa (sûkun)",
+      "subtitle": "SRS Kartı · M01 · Kök: س-و-ق",
+      "ar": "سُوقٌ",
+      "kok": "س-و-ق",
+      "keywords": "سوق فَعْل İsim"
+    },
+    {
+      "id": "search_card_m01_c28",
+      "type": "card",
+      "moduleId": "01",
+      "title": "açık / net (vâdihun)",
+      "subtitle": "SRS Kartı · M01 · Kök: و-ض-ح",
+      "ar": "وَاضِحٌ",
+      "kok": "و-ض-ح",
+      "keywords": "واضح فَاعِل Sıfat"
+    },
+    {
+      "id": "search_card_m01_c29",
+      "type": "card",
+      "moduleId": "01",
+      "title": "ders verdi / öğretti (derrese)",
+      "subtitle": "SRS Kartı · M01 · Kök: د-ر-س",
+      "ar": "دَرَّسَ",
+      "kok": "د-ر-س",
+      "keywords": "درس فَعَّلَ Fiil"
+    },
+    {
+      "id": "search_card_m01_c30",
+      "type": "card",
+      "moduleId": "01",
+      "title": "öğretti (‘alleme)",
+      "subtitle": "SRS Kartı · M01 · Kök: ع-ل-م",
+      "ar": "عَلَّمَ",
+      "kok": "ع-ل-م",
+      "keywords": "علم فَعَّلَ Fiil"
+    },
+    {
+      "id": "search_card_m01_c31",
+      "type": "card",
+      "moduleId": "01",
+      "title": "çocuk / oğul (veledun)",
+      "subtitle": "SRS Kartı · M01 · Kök: و-ل-د",
+      "ar": "وَلَدٌ",
+      "kok": "و-ل-د",
+      "keywords": "ولد فَعَل İsim"
+    },
+    {
+      "id": "search_card_m01_c32",
+      "type": "card",
+      "moduleId": "01",
+      "title": "şehir (medînetun)",
+      "subtitle": "SRS Kartı · M01 · Kök: م-د-ن",
+      "ar": "مَدِينَةٌ",
+      "kok": "م-د-ن",
+      "keywords": "مدينة فَعِيلَة İsim"
+    },
+    {
+      "id": "search_gram_m01_g1",
+      "type": "grammar",
+      "moduleId": "01",
+      "title": "28 Harf Sistemi, Sağdan Sola Akış ve Birleşmeyen 6 Harf",
+      "subtitle": "Gramer Kuralı · M01",
+      "ar": "الْحُرُوفُ الْهِجَائِيَّةُ وَالْحُرُوفُ الرَّافِسَةُ",
+      "keywords": "28 Harf = 22 Çift Yönlü Birleşen + 6 Tek Yönlü (ا د ذ ر ز و) Arap yazısı sağdan sola doğru akar ve el yazısı gibi harfler birbirine tutunarak kelime oluşturur. Bunu el ele tutuşan i"
+    },
+    {
+      "id": "search_gram_m01_g2",
+      "type": "grammar",
+      "moduleId": "01",
+      "title": "Kısa Harekeler (Fetha, Kesra, Damme) ve Sükûn (Cezm)",
+      "subtitle": "Gramer Kuralı · M01",
+      "ar": "الْحَرَكَاتُ الْقَصِيرَةُ وَالسُّكُونُ",
+      "keywords": "Fetha (ـَ: a/e) · Kesra (ـِ: i/ı) · Damme (ـُ: u/ü) · Sükûn (ـْ: ünlüsüz duruş) Arap alfabesindeki 28 harfin tamamı ünsüz gibi çalışır; ünlü sesleri ise harflerin üstüne veya altına konulan minik işar"
+    },
+    {
+      "id": "search_gram_m01_g3",
+      "type": "grammar",
+      "moduleId": "01",
+      "title": "Med Harfleri (Uzun Ünlüler: ا، و، ي)",
+      "subtitle": "Gramer Kuralı · M01",
+      "ar": "حُرُوفُ الْمَدِّ (الْحَرَكَاتُ الطَّوِيلَةُ)",
+      "keywords": "Fetha + ا = â (بَا) · Damme + و = û (بُو) · Kesra + ي = î (بِي) Arapçada kısa ünlü ile uzun ünlü arasındaki fark sadece 'vurgu' değil, doğrudan ANLAM farkıdır! Örneğin كَتَبَ 'yazdı' d"
+    },
+    {
+      "id": "search_gram_m01_g4",
+      "type": "grammar",
+      "moduleId": "01",
+      "title": "Şedde (Çift Ünsüz / İkizleme) Gücü",
+      "subtitle": "Gramer Kuralı · M01",
+      "ar": "الشَّدَّةُ (التَّضْعِيفُ)",
+      "keywords": "Harf + Şedde (ـّ) = 1. Harf (Sükûnlu) + 2. Harf (Harekeli) | دَرَّسَ = دَرْ + رَسَ Şedde (ـّ), Arapçada aynı iki ünsüz harfi yan yana yazmak yerine tek harf yazıp üzerine küçük bir 'w' (şın başı) koyma s"
+    },
+    {
+      "id": "search_gram_m01_g5",
+      "type": "grammar",
+      "moduleId": "01",
+      "title": "Tenvîn (ـٌ، ـٍ، ـً) — Belirsizlik Nûnu ve Fetha Tenvîn Elifi",
+      "subtitle": "Gramer Kuralı · M01",
+      "ar": "التَّنْوِينُ (نُونُ التَّنْكِيرِ)",
+      "keywords": "Damme Tenvîn: ـٌ (-un) · Kesra Tenvîn: ـٍ (-in) · Fetha Tenvîn: ـً + ا (-en) [ة ve اء hariç] Tenvîn, kelimenin son harfine yazılan 'çift hareke'dir ve sadece İSİMLERİN sonunda bulunur (fiillerde asla tenvîn olmaz!"
+    },
+    {
+      "id": "search_card_m02_c1",
+      "type": "card",
+      "moduleId": "02",
+      "title": "isim / ad (ismun)",
+      "subtitle": "SRS Kartı · M02 · Kök: س-م-و",
+      "ar": "اِسْمٌ",
+      "kok": "س-م-و",
+      "keywords": "اسم اِفْع İsim"
+    },
+    {
+      "id": "search_card_m02_c2",
+      "type": "card",
+      "moduleId": "02",
+      "title": "fiil / eylem (fi‘lun)",
+      "subtitle": "SRS Kartı · M02 · Kök: ف-ع-ل",
+      "ar": "فِعْلٌ",
+      "kok": "ف-ع-ل",
+      "keywords": "فعل فِعْل İsim"
+    },
+    {
+      "id": "search_card_m02_c3",
+      "type": "card",
+      "moduleId": "02",
+      "title": "marife (belirli) / bilgi (ma‘rifetun)",
+      "subtitle": "SRS Kartı · M02 · Kök: ع-ر-ف",
+      "ar": "مَعْرِفَةٌ",
+      "kok": "ع-ر-ف",
+      "keywords": "معرفة مَفْعِلَة Terim"
+    },
+    {
+      "id": "search_card_m02_c4",
+      "type": "card",
+      "moduleId": "02",
+      "title": "nekre (belirsiz) (nekiratun)",
+      "subtitle": "SRS Kartı · M02 · Kök: ن-ك-ر",
+      "ar": "نَكِرَةٌ",
+      "kok": "ن-ك-ر",
+      "keywords": "نكرة فَعِلَة Terim"
+    },
+    {
+      "id": "search_card_m02_c5",
+      "type": "card",
+      "moduleId": "02",
+      "title": "güneş (şemsun)",
+      "subtitle": "SRS Kartı · M02 · Kök: ش-م-س",
+      "ar": "شَمْسٌ",
+      "kok": "ش-م-س",
+      "keywords": "شمس فَعْل İsim"
+    },
+    {
+      "id": "search_card_m02_c6",
+      "type": "card",
+      "moduleId": "02",
+      "title": "ay (gök cismi) (kamerun)",
+      "subtitle": "SRS Kartı · M02 · Kök: ق-م-ر",
+      "ar": "قَمَرٌ",
+      "kok": "ق-م-ر",
+      "keywords": "قمر فَعَل İsim"
+    },
+    {
+      "id": "search_card_m02_c7",
+      "type": "card",
+      "moduleId": "02",
+      "title": "yıldız (necmun)",
+      "subtitle": "SRS Kartı · M02 · Kök: ن-ج-م",
+      "ar": "نَجْمٌ",
+      "kok": "ن-ج-م",
+      "keywords": "نجم فَعْل İsim"
+    },
+    {
+      "id": "search_card_m02_c8",
+      "type": "card",
+      "moduleId": "02",
+      "title": "üniversite (câmi‘atun)",
+      "subtitle": "SRS Kartı · M02 · Kök: ج-م-ع",
+      "ar": "جَامِعَةٌ",
+      "kok": "ج-م-ع",
+      "keywords": "جامعة فَاعِلَة İsim"
+    },
+    {
+      "id": "search_card_m02_c9",
+      "type": "card",
+      "moduleId": "02",
+      "title": "okul / ekol (medresetun)",
+      "subtitle": "SRS Kartı · M02 · Kök: د-ر-س",
+      "ar": "مَدْرَسَةٌ",
+      "kok": "د-ر-س",
+      "keywords": "مدرسة مَفْعَلَة İsim"
+    },
+    {
+      "id": "search_card_m02_c10",
+      "type": "card",
+      "moduleId": "02",
+      "title": "pencere (nâfizetun)",
+      "subtitle": "SRS Kartı · M02 · Kök: ن-ف-ذ",
+      "ar": "نَافِذَةٌ",
+      "kok": "ن-ف-ذ",
+      "keywords": "نافذة فَاعِلَة İsim"
+    },
+    {
+      "id": "search_card_m02_c11",
+      "type": "card",
+      "moduleId": "02",
+      "title": "oğul (ibnun)",
+      "subtitle": "SRS Kartı · M02 · Kök: ب-ن-و",
+      "ar": "اِبْنٌ",
+      "kok": "ب-ن-و",
+      "keywords": "ابن اِفْع İsim"
+    },
+    {
+      "id": "search_card_m02_c12",
+      "type": "card",
+      "moduleId": "02",
+      "title": "hemze (gırtlak duruşu) (hemzetun)",
+      "subtitle": "SRS Kartı · M02 · Kök: ه-م-ز",
+      "ar": "هَمْزَةٌ",
+      "kok": "ه-م-ز",
+      "keywords": "همزة فَعْلَة Terim"
+    },
+    {
+      "id": "search_card_m02_c13",
+      "type": "card",
+      "moduleId": "02",
+      "title": "sordu / istedi (seele)",
+      "subtitle": "SRS Kartı · M02 · Kök: س-أ-ل",
+      "ar": "سَأَلَ",
+      "kok": "س-أ-ل",
+      "keywords": "سأل فَعَلَ Fiil"
+    },
+    {
+      "id": "search_card_m02_c14",
+      "type": "card",
+      "moduleId": "02",
+      "title": "soru (suâlun)",
+      "subtitle": "SRS Kartı · M02 · Kök: س-أ-ل",
+      "ar": "سُؤَالٌ",
+      "kok": "س-أ-ل",
+      "keywords": "سؤال فُعَال İsim"
+    },
+    {
+      "id": "search_card_m02_c15",
+      "type": "card",
+      "moduleId": "02",
+      "title": "soruldu (edilgen) (suile)",
+      "subtitle": "SRS Kartı · M02 · Kök: س-أ-ل",
+      "ar": "سُئِلَ",
+      "kok": "س-أ-ل",
+      "keywords": "سئل فُعِلَ Fiil"
+    },
+    {
+      "id": "search_card_m02_c16",
+      "type": "card",
+      "moduleId": "02",
+      "title": "okudu (karae)",
+      "subtitle": "SRS Kartı · M02 · Kök: ق-ر-أ",
+      "ar": "قَرَأَ",
+      "kok": "ق-ر-أ",
+      "keywords": "قرأ فَعَلَ Fiil"
+    },
+    {
+      "id": "search_card_m02_c17",
+      "type": "card",
+      "moduleId": "02",
+      "title": "başladı (bedee)",
+      "subtitle": "SRS Kartı · M02 · Kök: ب-د-أ",
+      "ar": "بَدَأَ",
+      "kok": "ب-د-أ",
+      "keywords": "بدأ فَعَلَ Fiil"
+    },
+    {
+      "id": "search_card_m02_c18",
+      "type": "card",
+      "moduleId": "02",
+      "title": "gökyüzü / sema (semâun)",
+      "subtitle": "SRS Kartı · M02 · Kök: س-م-و",
+      "ar": "سَمَاءٌ",
+      "kok": "س-م-و",
+      "keywords": "سماء فَعَال İsim"
+    },
+    {
+      "id": "search_card_m02_c19",
+      "type": "card",
+      "moduleId": "02",
+      "title": "sahil / kıyı (şâtiun)",
+      "subtitle": "SRS Kartı · M02 · Kök: ش-ط-أ",
+      "ar": "شَاطِئٌ",
+      "kok": "ش-ط-أ",
+      "keywords": "شاطئ فَاعِل İsim"
+    },
+    {
+      "id": "search_card_m02_c20",
+      "type": "card",
+      "moduleId": "02",
+      "title": "parça / bölüm / cüz (cuz'un)",
+      "subtitle": "SRS Kartı · M02 · Kök: ج-ز-أ",
+      "ar": "جُزْءٌ",
+      "kok": "ج-ز-أ",
+      "keywords": "جزء فُعْل İsim"
+    },
+    {
+      "id": "search_card_m02_c21",
+      "type": "card",
+      "moduleId": "02",
+      "title": "şey (şey'un)",
+      "subtitle": "SRS Kartı · M02 · Kök: ش-ي-أ",
+      "ar": "شَيْءٌ",
+      "kok": "ش-ي-أ",
+      "keywords": "شيء فَعْل İsim"
+    },
+    {
+      "id": "search_card_m02_c22",
+      "type": "card",
+      "moduleId": "02",
+      "title": "inci (lu'luun)",
+      "subtitle": "SRS Kartı · M02 · Kök: ل-أ-ل-أ",
+      "ar": "لُؤْلُؤٌ",
+      "kok": "ل-أ-ل-أ",
+      "keywords": "لؤلؤ فُعْلُل İsim"
+    },
+    {
+      "id": "search_card_m02_c23",
+      "type": "card",
+      "moduleId": "02",
+      "title": "mesele / problem (mes'eletun)",
+      "subtitle": "SRS Kartı · M02 · Kök: س-أ-ل",
+      "ar": "مَسْأَلَةٌ",
+      "kok": "س-أ-ل",
+      "keywords": "مسألة مَفْعَلَة İsim"
+    },
+    {
+      "id": "search_card_m02_c24",
+      "type": "card",
+      "moduleId": "02",
+      "title": "imlâ / yazım kuralları (imlâun)",
+      "subtitle": "SRS Kartı · M02 · Kök: م-ل-و",
+      "ar": "إِمْلَاءٌ",
+      "kok": "م-ل-و",
+      "keywords": "إملاء إِفْعَال İsim"
+    },
+    {
+      "id": "search_card_m02_c25",
+      "type": "card",
+      "moduleId": "02",
+      "title": "hata / yanlış (hataun)",
+      "subtitle": "SRS Kartı · M02 · Kök: خ-ط-أ",
+      "ar": "خَطَأٌ",
+      "kok": "خ-ط-أ",
+      "keywords": "خطأ فَعَل İsim"
+    },
+    {
+      "id": "search_card_m02_c26",
+      "type": "card",
+      "moduleId": "02",
+      "title": "gönderdi (ersele)",
+      "subtitle": "SRS Kartı · M02 · Kök: ر-س-ل",
+      "ar": "أَرْسَلَ",
+      "kok": "ر-س-ل",
+      "keywords": "أرسل أَفْعَلَ Fiil"
+    },
+    {
+      "id": "search_card_m02_c27",
+      "type": "card",
+      "moduleId": "02",
+      "title": "aç! (emir) (iftah)",
+      "subtitle": "SRS Kartı · M02 · Kök: ف-ت-ح",
+      "ar": "اِفْتَحْ",
+      "kok": "ف-ت-ح",
+      "keywords": "افتح اِفْعَلْ Fiil"
+    },
+    {
+      "id": "search_card_m02_c28",
+      "type": "card",
+      "moduleId": "02",
+      "title": "kök (dilbilgisi & bitki) (cezrun)",
+      "subtitle": "SRS Kartı · M02 · Kök: ج-ذ-ر",
+      "ar": "جَذْرٌ",
+      "kok": "ج-ذ-ر",
+      "keywords": "جذر فَعْل Terim"
+    },
+    {
+      "id": "search_card_m02_c29",
+      "type": "card",
+      "moduleId": "02",
+      "title": "cümle (cumletun)",
+      "subtitle": "SRS Kartı · M02 · Kök: ج-م-ل",
+      "ar": "جُمْلَةٌ",
+      "kok": "ج-م-ل",
+      "keywords": "جملة فُعْلَة Terim"
+    },
+    {
+      "id": "search_card_m02_c30",
+      "type": "card",
+      "moduleId": "02",
+      "title": "kural / temel / üs (kâ‘idetun)",
+      "subtitle": "SRS Kartı · M02 · Kök: ق-ع-د",
+      "ar": "قَاعِدَةٌ",
+      "kok": "ق-ع-د",
+      "keywords": "قاعدة فَاعِلَة İsim"
+    },
+    {
+      "id": "search_card_m02_c31",
+      "type": "card",
+      "moduleId": "02",
+      "title": "okuyucu (kâriun)",
+      "subtitle": "SRS Kartı · M02 · Kök: ق-ر-أ",
+      "ar": "قَارِئٌ",
+      "kok": "ق-ر-أ",
+      "keywords": "قارئ فَاعِل İsim"
+    },
+    {
+      "id": "search_card_m02_c32",
+      "type": "card",
+      "moduleId": "02",
+      "title": "-e / -a doğru (ilâ)",
+      "subtitle": "SRS Kartı · M02 · Kök: ح-ر-ف",
+      "ar": "إِلَى",
+      "kok": "ح-ر-ف",
+      "keywords": "إلى حَرْف جَرّ Harf"
+    },
+    {
+      "id": "search_gram_m02_g1",
+      "type": "grammar",
+      "moduleId": "02",
+      "title": "Kelime Çeşitleri (İsim – Fiil – Harf) ve Tanıma Alâmetleri",
+      "subtitle": "Gramer Kuralı · M02",
+      "ar": "أَقْسَامُ الْكَلِمَةِ: الْاِسْمُ وَالْفِعْلُ وَالْحَرْفُ",
+      "keywords": "Kelime = İsim (ال / Tenvîn / ة / Cer) + Fiil (Mâzi / Muzâri / Emir) + Harf (Tek başına anlamı eksik bağlayıcı) Arapçada ne kadar uzun bir metin okursanız okuyun — ister A1 diyalogu ister 500 kelimelik YDS paragrafı olsun — karşınız"
+    },
+    {
+      "id": "search_gram_m02_g2",
+      "type": "grammar",
+      "moduleId": "02",
+      "title": "Marife (Belirli) ve Nekre (Belirsiz) Sistemi",
+      "subtitle": "Gramer Kuralı · M02",
+      "ar": "الْمَعْرِفَةُ وَالنَّكِرَةُ",
+      "keywords": "Nekre (Tenvînli: كِتَابٌ) + ال ← Marife (Tek Harekeli: الْكِتَابُ) | ال + Tenvîn ASLA bir arada olmaz! Türkçede 'Bir kitap aldım' dediğimizde herhangi bir kitaptan, 'Kitabı aldım' dediğimizde ise hem konuşanın hem dinleyeni"
+    },
+    {
+      "id": "search_gram_m02_g3",
+      "type": "grammar",
+      "moduleId": "02",
+      "title": "Şemsî (Güneş) ve Kamerî (Ay) Harfler — ال Okuma Kuralı",
+      "subtitle": "Gramer Kuralı · M02",
+      "ar": "الْحُرُوفُ الشَّمْسِيَّةُ وَالْحُرُوفُ الْقَمَرِيَّةُ",
+      "keywords": "Kamerî (14 Harf: اِبْغِ حَجَّكَ وَخَفْ عَقِيمَهُ) → الْـ okunur | Şemsî (14 Harf) → ل okunmaz, sonraki harf şeddelenir Arapçada ال belirlilik takısı yazıda HER ZAMAN 'ال' diye yazılır; ancak okunuşta alfabedeki 28 harf tam ortadan ikiye bö"
+    },
+    {
+      "id": "search_gram_m02_g4",
+      "type": "grammar",
+      "moduleId": "02",
+      "title": "Vasıl Hemzesi (ا) ve Kat' Hemzesi (أ / إ)",
+      "subtitle": "Gramer Kuralı · M02",
+      "ar": "هَمْزَةُ الْوَصْلِ وَهَمْزَةُ الْقَطْعِ",
+      "keywords": "وَ Testi: Okunuyorsa Kat' Hemzesi (أ / إ) · Düşüp bağlanıyorsa Vasıl Hemzesi (ا — işaretsiz) Arapçada kelime başında iki farklı Elif görürsünüz: Birinin başında küçük 'ء' işareti vardır (أَ، إِ، أُ), diğerinin baş"
+    },
+    {
+      "id": "search_gram_m02_g5",
+      "type": "grammar",
+      "moduleId": "02",
+      "title": "Hemzenin Yazım Kuralları (Kürsü / Harekeler Güç Sırası)",
+      "subtitle": "Gramer Kuralı · M02",
+      "ar": "قَوَاعِدُ كِتَابَةِ الْهَمْزَةِ (الْمُتَوَسِّطَةُ وَالْمُتَطَرِّفَةُ)",
+      "keywords": "Hareke Güç Sırası: Kesra (ئ) > Damme (ؤ) > Fetha (أ) > Sükûn (ء) Öğrencilerin en çok çekindiği imlâ konusu olan 'hemze neden bazen ئ bazen ؤ bazen أ bazen de satırda ء yazılıyor?' sorus"
+    },
+    {
+      "id": "search_verb_0",
+      "type": "verb",
+      "title": "aramak, araştırmak",
+      "subtitle": "Harf-i Cerli Fiil (عَنْ)",
+      "ar": "بَحَثَ عَنْ",
+      "keywords": "عَنْ ile \"aramak\", فِي ile \"derinlemesine incelemek\" anlamına gelir."
+    },
+    {
+      "id": "search_verb_1",
+      "type": "verb",
+      "title": "-e dayanmak, güvenmek",
+      "subtitle": "Harf-i Cerli Fiil (عَلَى)",
+      "ar": "اِعْتَمَدَ عَلَى",
+      "keywords": "YDS/YÖKDİL metinlerinde en sık geçen akademik fiillerdendir."
+    },
+    {
+      "id": "search_verb_2",
+      "type": "verb",
+      "title": "-e yol açmak, sebep olmak",
+      "subtitle": "Harf-i Cerli Fiil (إِلَى)",
+      "ar": "أَدَّى إِلَى",
+      "keywords": "Neden–sonuç sorularında مِمَّا يُؤَدِّي إِلَى kalıbıyla çok sık çıkar."
+    },
+    {
+      "id": "search_verb_3",
+      "type": "verb",
+      "title": "-e katkıda bulunmak",
+      "subtitle": "Harf-i Cerli Fiil (فِي)",
+      "ar": "سَاهَمَ فِي",
+      "keywords": "أَسْهَمَ فِي eş anlamlısı olarak da kullanılır."
+    },
+    {
+      "id": "search_verb_4",
+      "type": "verb",
+      "title": "-i başarmak, -ebilmek",
+      "subtitle": "Harf-i Cerli Fiil (مِنْ)",
+      "ar": "تَمَكَّنَ مِنْ",
+      "keywords": "اِسْتَطَاعَ fiilinin harf-i cerli akademik karşılığıdır."
+    },
+    {
+      "id": "search_verb_5",
+      "type": "verb",
+      "title": "istemek (فِي) / yüz çevirmek (عَنْ)",
+      "subtitle": "Harf-i Cerli Fiil (Anlam Değiştiren)",
+      "ar": "رَغِبَ فِي / رَغِبَ عَنْ",
+      "keywords": "Harf-i cer değişince anlam tam zıddına döner!"
+    },
+    {
+      "id": "search_conn_0",
+      "type": "connector",
+      "title": "-e rağmen",
+      "subtitle": "YDS/YÖKDİL Bağlaç (Zıtlık / Rağmenlik)",
+      "ar": "بِالرَّغْمِ مِنْ / عَلَى الرَّغْمِ مِنْ",
+      "keywords": "Ardından isim/mastar (mecrûr) gelir; cümle gelecekse أَنَّ eklenir."
+    },
+    {
+      "id": "search_conn_1",
+      "type": "connector",
+      "title": "-den dolayı, sebebiyle",
+      "subtitle": "YDS/YÖKDİL Bağlaç (Sebep)",
+      "ar": "نَظَرًا لِـ / بِسَبَبِ",
+      "keywords": "Ardından isim veya mastar gelir; cümle için نَظَرًا لِأَنَّ kullanılır."
+    },
+    {
+      "id": "search_conn_2",
+      "type": "connector",
+      "title": "-e ek olarak, yanı sıra",
+      "subtitle": "YDS/YÖKDİL Bağlaç (Ekleme)",
+      "ar": "فَضْلًا عَنْ / بِالْإِضَافَةِ إِلَى",
+      "keywords": "Olumlu ekleme sorularında sıkça doğru seçenektir."
+    },
+    {
+      "id": "search_conn_3",
+      "type": "connector",
+      "title": "ancak, ne var ki, şu kadar var ki",
+      "subtitle": "YDS/YÖKDİL Bağlaç (İstidrâk / Zıtlık)",
+      "ar": "إِلَّا أَنَّ / غَيْرَ أَنَّ / بَيْدَ أَنَّ",
+      "keywords": "İnne ailesi gibi amel eder; ardından isim cümlesi gelir."
+    },
+    {
+      "id": "search_conn_4",
+      "type": "connector",
+      "title": "bu da ...-e yol açtı",
+      "subtitle": "YDS/YÖKDİL Bağlaç (Sonuç)",
+      "ar": "مِمَّا أَدَّى إِلَى",
+      "keywords": "Önceki cümlenin tamamının sonucunu bağlar."
+    },
+    {
+      "id": "search_conn_5",
+      "type": "connector",
+      "title": "iken, oysa",
+      "subtitle": "YDS/YÖKDİL Bağlaç (Karşılaştırma & Zaman)",
+      "ar": "بَيْنَمَا / فِي حِينِ",
+      "keywords": "İki farklı durumu karşılaştırır."
+    }
+  ]
+}

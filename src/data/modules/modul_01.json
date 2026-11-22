@@ -1,0 +1,1408 @@
+{
+  "id": "01",
+  "slug": "modul_01",
+  "phaseId": 1,
+  "cilt": 1,
+  "cefr": "A1",
+  "category": "Fonetik & Yazı",
+  "title": "Arap Alfabesi, Harf Birleşmeleri, Hareke, Med ve Şedde",
+  "arabicTitle": "الْحُرُوفُ الْعَرَبِيَّةُ وَالْحَرَكَاتُ وَالْمَدُّ وَالشَّدَّةُ",
+  "summary": "28 harfin başta/ortada/sonda yazılışı, kendinden sonrakine birleşmeyen 6 harf, kısa harekeler (fetha, kesra, damme, sükûn), tenvîn, şedde ve uzun ünlü (med) sistemi.",
+  "grammar": [
+    {
+      "id": "m01_g1",
+      "baslik": "28 Harf Sistemi, Sağdan Sola Akış ve Birleşmeyen 6 Harf",
+      "arBaslik": "الْحُرُوفُ الْهِجَائِيَّةُ وَالْحُرُوفُ الرَّافِسَةُ",
+      "mantik": "Arap yazısı sağdan sola doğru akar ve el yazısı gibi harfler birbirine tutunarak kelime oluşturur. Bunu el ele tutuşan insanlardan oluşan bir halkaya benzetebiliriz: 28 harften 22'si hem sağındaki hem solundaki harfle el ele tutuşur (başta, ortada, sonda ve müstakil olmak üzere 4 görünüme sahiptir). Ancak 6 özel harf (ا، د، ذ، ر، ز، و) yalnızca sağından tutunur, soluna el uzatmaz; yani kendinden sonra gelen harfle birleşmez. Bu 6 harfi ('birleşmeyen / tek yönlü harfler') ilk günde ezberlemek, Arapça yazıyı okurken kelimelerin nerede bölünüp nerede birleştiğini anında çözmenizi sağlar.",
+      "formul": "28 Harf = 22 Çift Yönlü Birleşen + 6 Tek Yönlü (ا د ذ ر ز و)",
+      "formulAr": "ا — د — ذ — ر — ز — و",
+      "tablo": {
+        "baslik": "Birleşmeyen 6 Harf ve Örnek Harf Konumları",
+        "sutunlar": ["Harf Grubu", "Tekil", "Başta", "Ortada", "Sonda", "Örnek Kelime"],
+        "satirlar": [
+          { "hucreler": ["Elif (Tek Yönlü)", "ا", "أَ", "ـا", "ـا", "أَنَا (Ben)"], "ses": "أَنَا" },
+          { "hucreler": ["Dâl / Zâl (Tek Yönlü)", "د / ذ", "دَ / ذَ", "ـد / ـذ", "ـد / ـذ", "دَرْسٌ (Ders)"], "ses": "دَرْسٌ" },
+          { "hucreler": ["Râ / Zây (Tek Yönlü)", "ر / ز", "رَ / زَ", "ـر / ـز", "ـر / ـز", "زَهْرَةٌ (Çiçek)"], "ses": "زَهْرَةٌ" },
+          { "hucreler": ["Vâv (Tek Yönlü)", "و", "وَ", "ـو", "ـو", "وَلَدٌ (Çocuk)"], "ses": "وَلَدٌ" },
+          { "hucreler": ["Bâ Grubu (Çift Yönlü)", "ب", "بـ", "ـبـ", "ـب", "بَابٌ (Kapı)"], "ses": "بَابٌ" },
+          { "hucreler": ["Kâf (Çift Yönlü)", "ك", "كـ", "ـكـ", "ـك", "كِتَابٌ (Kitap)"], "ses": "كِتَابٌ" },
+          { "hucreler": ["Ayn (Çift Yönlü)", "ع", "عـ", "ـعـ", "ـع", "عِلْمٌ (İlim)"], "ses": "عِلْمٌ" },
+          { "hucreler": ["Hâ (Çift Yönlü)", "ه", "هـ", "ـهـ", "ـه", "نَهْرٌ (Nehir)"], "ses": "نَهْرٌ" }
+        ]
+      },
+      "trKiyas": "Türkçede her harf yanındaki harften ayrı durur (k-i-t-a-p). Arapçada ise harfler bitişik yazıldığı için baş-orta-son şekilleri değişir; fakat harfin 'kimliği' (nokta sayısı ve yeri) asla değişmez. Örneğin ب (altta 1 nokta), ت (üstte 2 nokta), ث (üstte 3 nokta) nerede olursa olsun noktalarından tanınır.",
+      "sikHatalar": [
+        "Birleşmeyen 6 harften sonra gelen boşluğu ayrı bir kelime sanmak (ör. دَرْسٌ tek kelimedir, د ve ر sonrasına birleşmediği için parçalı görünür).",
+        "ل (Lâm) harfini ا (Elif) ile karıştırmak: Elif sola birleşmez, Lâm ise solundaki harfe birleşir (لَمْ vs. أَمْ).",
+        "ت (üstte 2 nokta) ile ي (sonda/ortada altta 2 nokta) ve ن (üstte 1 nokta) ile ب (altta 1 nokta) harflerinin nokta yerlerini karıştırmak."
+      ],
+      "ornekler": [
+        { "ar": "كَتَبَ الطَّالِبُ دَرْسَهُ.", "okunus": "Ketebe't-tâlibu dersehû.", "tr": "Öğrenci dersini yazdı.", "not": "ك-ت-ب üçü de çift yönlü birleşen harflerdir." },
+        { "ar": "دَرَسَ وَلَدٌ فِي دَارٍ.", "okunus": "Derese veledun fî dârin.", "tr": "Bir çocuk bir evde ders çalıştı.", "not": "دَرَسَ ve دَارٍ kelimelerinde د-ر-ا tek yönlüdür." },
+        { "ar": "هٰذَا بَيْتٌ وَاسِعٌ.", "okunus": "Hâzâ beytun vâsi‘un.", "tr": "Bu geniş bir evdir.", "not": "ب-ي-ت tamamen birleşirken و-ا ayrılır." },
+        { "ar": "قَرَأَ أَحْمَدُ كِتَابًا.", "okunus": "Karae Ahmedu kitâben.", "tr": "Ahmed bir kitap okudu.", "not": "ق-ر birleşir ama ر sonrası أ ayrılır." },
+        { "ar": "نَهْرُ النِّيلِ طَوِيلٌ.", "okunus": "Nehru'n-Nîli tavîlun.", "tr": "Nil Nehri uzundur.", "not": "ه harfinin ortadaki (ـهـ) şekline dikkat." },
+        { "ar": "زَارَ زَيْدٌ مَدِينَةً جَمِيلَةً.", "okunus": "Zâra Zeydun medîneten cemîleten.", "tr": "Zeyd güzel bir şehri ziyaret etti.", "not": "زَارَ tamamen tek yönlü harflerden (ز-ا-ر) oluşur." }
+      ],
+      "tatbikler": [
+        {
+          "id": "m01_g1_d1",
+          "tip": "bosluk",
+          "soru": "Aşağıdakilerden hangisi kendinden sonraki harfe BİRLEŞMEYEN 6 harften biri DEĞİLDİR?",
+          "secenekler": ["د (Dâl)", "ر (Râ)", "ل (Lâm)", "و (Vâv)"],
+          "dogruIndeks": 2,
+          "aciklama": "ل (Lâm) çift yönlü birleşen bir harftir; kendinden sonraki harfe bağlanır. Birleşmeyenler ا د ذ ر ز و harfleridir."
+        },
+        {
+          "id": "m01_g1_d2",
+          "tip": "donusturme",
+          "soru": "ك + ت + ب harfleri bitişik yazıldığında doğru görünüm hangisidir?",
+          "secenekler": ["كَتَبَ", "ك ت ب", "كَتَ بَ", "قَتَبَ"],
+          "dogruIndeks": 0,
+          "aciklama": "ك، ت ve ب harflerinin tamamı çift yönlü birleştiği için tek parça hâlinde كَتَبَ yazılır."
+        },
+        {
+          "id": "m01_g1_d3",
+          "tip": "donusturme",
+          "soru": "د + ر + س harfleri doğru birleştirildiğinde hangisi oluşur?",
+          "secenekler": ["دَرَسَ", "دَرسَ", "دَرِسَ", "زَرَسَ"],
+          "dogruIndeks": 0,
+          "aciklama": "د ve ر tek yönlü olduğu için üçü de ayrı durur ama tek bir kelime oluşturur: دَرَسَ."
+        },
+        {
+          "id": "m01_g1_d4",
+          "tip": "hata_bul",
+          "soru": "Bir öğrenci 'بَابٌ' kelimesinde ا (Elif) ile sonraki ب harfini birbirine bağlamıştır. Hata nerededir?",
+          "secenekler": ["ب harfi birleşmez", "ا (Elif) kendinden sonraki harfe asla birleşmez", "Tenvîn başta olur", "Kelime soldan sağa yazılmalıydı"],
+          "dogruIndeks": 1,
+          "aciklama": "Elif tek yönlü 6 harften biridir; sağındaki ب'ye tutunur (بَا) ama solundaki ب'ye bağlanmaz (بَابٌ)."
+        },
+        {
+          "id": "m01_g1_d5",
+          "tip": "bosluk",
+          "soru": "لَام (Lâm) ile أَلِف (Elif) harflerini kelime içinde ayıran en pratik ipucu nedir?",
+          "secenekler": ["Elif sola birleşir, Lâm birleşmez", "Lâm sola birleşir, Elif sola birleşmez", "İkisi de noktalıdır", "Elif sadece kelime sonunda gelir"],
+          "dogruIndeks": 1,
+          "aciklama": "Lâm solundaki harfe bağlanır (لَمْ), Elif ise solundaki harfe bağlanmaz (أَمْ)."
+        },
+        {
+          "id": "m01_g1_d6",
+          "tip": "donusturme",
+          "soru": "ب + ي + ت harfleri birleştirilip 'ev' kelimesi oluşturulduğunda hangisi doğrudur?",
+          "secenekler": ["بَيْتٌ", "بِيتٌ", "نَيْتٌ", "تَيْبٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "ب başta (بـ), ي ortada (ـيـ), ت sonda (ـت) birleşerek بَيْتٌ (ev) olur."
+        },
+        {
+          "id": "m01_g1_d7",
+          "tip": "hata_bul",
+          "soru": "Aşağıdaki kelimelerden hangisinde TÜM harfler tek yönlüdür (hiçbir harf diğerine birleşmez)?",
+          "secenekler": ["وَرْدٌ", "كِتَابٌ", "قَلَمٌ", "مَدْرَسَةٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "وَرْدٌ (gül) kelimesindeki و، ر، د harflerinin üçü de birleşmeyen 6 harftendir."
+        },
+        {
+          "id": "m01_g1_d8",
+          "tip": "tr_ar",
+          "soru": "'Kapı' anlamına gelen ve içinde Elif bulunan kelime hangisidir?",
+          "secenekler": ["بَابٌ", "بَيْتٌ", "دَرْسٌ", "نَهْرٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "بَابٌ (bâbun) 'kapı' demektir; ilk ب Elif'e birleşir, Elif ikinci ب'den ayrılır."
+        },
+        {
+          "id": "m01_g1_d9",
+          "tip": "tr_ar",
+          "soru": "'Çocuk' (erkek çocuk) anlamına gelen ve و ile başlayan kelime hangisidir?",
+          "secenekler": ["وَلَدٌ", "قَلَمٌ", "عِلْمٌ", "دَارٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "وَلَدٌ (veledun) 'çocuk' demektir; و kendinden sonraki ل harfine birleşmez."
+        },
+        {
+          "id": "m01_g1_d10",
+          "tip": "bosluk",
+          "soru": "قَلَمٌ kelimesindeki harflerin sırasıyla tekil yazılışı hangisidir?",
+          "secenekler": ["ق + ل + م", "ف + ا + م", "ك + ل + م", "ق + ا + ن"],
+          "dogruIndeks": 0,
+          "aciklama": "ق (üstte 2 nokta) + ل (sola birleşen dik çizgi) + م (sonda kapalı kanca) = قَلَمٌ."
+        }
+      ]
+    },
+    {
+      "id": "m01_g2",
+      "baslik": "Kısa Harekeler (Fetha, Kesra, Damme) ve Sükûn (Cezm)",
+      "arBaslik": "الْحَرَكَاتُ الْقَصِيرَةُ وَالسُّكُونُ",
+      "mantik": "Arap alfabesindeki 28 harfin tamamı ünsüz gibi çalışır; ünlü sesleri ise harflerin üstüne veya altına konulan minik işaretler, yani 'harekeler' verir. Harekeleri müziğin notaları gibi düşünebilirsiniz: harf enstrümandır, hareke ise hangi sesin çıkacağını belirler. Üç kısa hareke vardır: Fetha (ـَ) 'e/a', Kesra (ـِ) 'i/ı', Damme (ـُ) 'u/ü' sesi verir. Sükûn/Cezm (ـْ) ise 'dur!' işaretidir; üzerine geldiği harfi ünlüsüz bırakır ve kendisinden önceki harekeli harfle tek bir kapalı hece oluşturur (مِنْ = min).",
+      "formul": "Fetha (ـَ: a/e) · Kesra (ـِ: i/ı) · Damme (ـُ: u/ü) · Sükûn (ـْ: ünlüsüz duruş)",
+      "formulAr": "كَ (ke) · كِ (ki) · كُ (ku) · أَكْ (ek)",
+      "tablo": {
+        "baslik": "4 Temel Ses İşareti ve Kalın/İnce Harf Farkı",
+        "sutunlar": ["İşaret", "Adı", "İnce Harfte", "Kalın Harfte", "Örnek Kelime"],
+        "satirlar": [
+          { "hucreler": ["ـَ", "Fetha (Üstün)", "بَ (be)", "قَ (ka)", "قَلَمٌ (kalem)"], "ses": "قَلَمٌ" },
+          { "hucreler": ["ـِ", "Kesra (Esre)", "بِ (bi)", "قِ (kı/ki)", "كِتَابٌ (kitap)"], "ses": "كِتَابٌ" },
+          { "hucreler": ["ـُ", "Damme (Ötre)", "بُ (bu)", "قُ (ku)", "كُتُبٌ (kitaplar)"], "ses": "كُتُبٌ" },
+          { "hucreler": ["ـْ", "Sükûn (Cezm)", "مِنْ (min)", "قَدْ (kad)", "مَكْتَبٌ (masa/ofis)"], "ses": "مَكْتَبٌ" }
+        ]
+      },
+      "trKiyas": "Türkçede 'a, e, ı, i, o, ö, u, ü' şeklinde 8 ünlü vardır ve her biri ayrı harf olarak yazılır. Arapçada ise 3 temel ünlü harekesi vardır ve harfin ince (ت، س، د، ك) ya da kalın/mufahham (ص، ض، ط، ظ، ق، خ، غ) oluşuna göre 'e↔a' tonu doğal biçimde şekillenir. Örneğin سَ 'se' okunurken صَ 'sa' okunur.",
+      "sikHatalar": [
+        "Sükûnlu (cezimli) harfe istemsizce kısa bir ünlü eklemek (مَكْتَبٌ kelimesini 'meketeb' değil 'mek-teb' okumak gerekir).",
+        "Kalın 7 harfi (خ ص ض غ ط ق ظ) ince gibi okumak (قَلْبٌ 'kalp' ile كَلْبٌ 'köpek' anlamca tamamen farklıdır!).",
+        "Arapçada kelimenin ilk harfinin sükûnla başlayamayacağını unutmak."
+      ],
+      "ornekler": [
+        { "ar": "قَلْبٌ سَلِيمٌ خَيْرٌ كَثِيرٌ.", "okunus": "Kalbun selîmun hayrun kesîrun.", "tr": "Selim (temiz) bir kalp büyük bir hayırdır.", "not": "قَلْبٌ kalın ق ile 'kalp', كَلْبٌ ince ك ile 'köpek' demektir." },
+        { "ar": "عَلِمَ الرَّجُلُ الْحَقَّ.", "okunus": "‘Alime'r-raculu'l-hakka.", "tr": "Adam gerçeği bildi.", "not": "عَ (a) - لِ (i) - مَ (e) üç farklı hareke bir arada." },
+        { "ar": "كُتِبَ الدَّرْسُ عَلَى السَّبُّورَةِ.", "okunus": "Kutibe'd-dersu ‘ale's-sebbûrati.", "tr": "Ders tahtaya yazıldı.", "not": "كُتِبَ (damme + kesra + fetha) edilgen ses kalıbıdır." },
+        { "ar": "يَجْلِسُ الطَّالِبُ فِي الصَّفِّ.", "okunus": "Yeclisu't-tâlibu fi's-saffi.", "tr": "Öğrenci sınıfta oturuyor.", "not": "يَجْـ hecesinde ج sükûnludur (yec-li-su)." },
+        { "ar": "شَرِبَ الطِّفْلُ حَلِيبًا.", "okunus": "Şeribe't-tıflu halîben.", "tr": "Çocuk süt içti.", "not": "طِفْلٌ kelimesinde ف sükûnlu kapalı hece yapar." },
+        { "ar": "ذَهَبَ أَخِي إِلَى الْمَكْتَبِ.", "okunus": "Zehebe ehî ile'l-mektebi.", "tr": "Kardeşim ofise gitti.", "not": "مَكْتَبٌ = مَكْ + تَ + بٌ." }
+      ],
+      "tatbikler": [
+        {
+          "id": "m01_g2_d1",
+          "tip": "bosluk",
+          "soru": "Harfin ALTINA konulan ve ince harflerde 'i' sesi veren hareke hangisidir?",
+          "secenekler": ["Fetha (ـَ)", "Kesra (ـِ)", "Damme (ـُ)", "Sükûn (ـْ)"],
+          "dogruIndeks": 1,
+          "aciklama": "Kesra (esre) harfin altına yazılır ve 'i/ı' sesi verir."
+        },
+        {
+          "id": "m01_g2_d2",
+          "tip": "donusturme",
+          "soru": "كُتُبٌ (kitaplar) kelimesinin doğru okunuşu hangisidir?",
+          "secenekler": ["ketebun", "kitâbun", "kutubun", "kâtibun"],
+          "dogruIndeks": 2,
+          "aciklama": "İlk iki harf damme (ـُ), son harf damme tenvînli (ـٌ) olduğu için 'kutubun' okunur."
+        },
+        {
+          "id": "m01_g2_d3",
+          "tip": "hata_bul",
+          "soru": "مَكْتَبٌ kelimesini 'meketebun' şeklinde okuyan öğrenci hangi işareti gözden kaçırmıştır?",
+          "secenekler": ["ك üzerindeki sükûnu (ـْ)", "ب üzerindeki tenvîni", "م üzerindeki fethayı", "ت üzerindeki fethayı"],
+          "dogruIndeks": 0,
+          "aciklama": "ك üzerinde sükûn vardır; bu yüzden 'mek-te-bun' şeklinde iki kapalı-açık heceyle okunur."
+        },
+        {
+          "id": "m01_g2_d4",
+          "tip": "bosluk",
+          "soru": "Aşağıdakilerden hangisi kalın (mufahham) okunan 7 harften (خ ص ض غ ط ق ظ) biridir?",
+          "secenekler": ["س", "ت", "ق", "د"],
+          "dogruIndeks": 2,
+          "aciklama": "ق (Kâf) kalın okunan 7 harftendir; fetha aldığında 'ka' şeklinde kalın ses çıkarır."
+        },
+        {
+          "id": "m01_g2_d5",
+          "tip": "tr_ar",
+          "soru": "'Kalp' anlamına gelen kalın ق harfli kelime hangisidir?",
+          "secenekler": ["كَلْبٌ", "قَلْبٌ", "قَلَمٌ", "عِلْمٌ"],
+          "dogruIndeks": 1,
+          "aciklama": "قَلْبٌ (kalbun) 'kalp', كَلْبٌ (kelbun) ise 'köpek' demektir."
+        },
+        {
+          "id": "m01_g2_d6",
+          "tip": "donusturme",
+          "soru": "يَكْتُبُ kelimesinin hece bölünümü ve doğru okunuşu hangisidir?",
+          "secenekler": ["yek-tu-bu", "ya-ke-tu-bu", "yik-ti-bi", "yuk-te-bu"],
+          "dogruIndeks": 0,
+          "aciklama": "يَـ + كْ (sükûn) = 'yek', تـُ = 'tu', بُ = 'bu' -> yektubu."
+        },
+        {
+          "id": "m01_g2_d7",
+          "tip": "hata_bul",
+          "soru": "Arapça ses sistemine göre aşağıdakilerden hangisi İMKÂNSIZDIR?",
+          "secenekler": ["Kelimenin fetha ile başlaması", "Kelimenin sükûnla (cezimle) başlaması", "Kelimenin ortasında sükûn bulunması", "Kelimenin damme ile bitmesi"],
+          "dogruIndeks": 1,
+          "aciklama": "Fasih Arapçada hiçbir kelime sükûnlu bir harfle başlamaz; bu yüzden gerekirse başa vasıl hemzesi getirilir."
+        },
+        {
+          "id": "m01_g2_d8",
+          "tip": "bosluk",
+          "soru": "شَرِبَ (içti) fiilindeki hareke dizilimi sırasıyla nasıldır?",
+          "secenekler": ["Fetha – Kesra – Fetha", "Damme – Kesra – Fetha", "Fetha – Fetha – Fetha", "Kesra – Fetha – Damme"],
+          "dogruIndeks": 0,
+          "aciklama": "شَ (fetha) + رِ (kesra) + بَ (fetha) = şeribe."
+        },
+        {
+          "id": "m01_g2_d9",
+          "tip": "tr_ar",
+          "soru": "'Masa / Ofis' anlamındaki مَكْتَبٌ kelimesi kaç hecelidir?",
+          "secenekler": ["2 hece (mek-teb)", "3 hece (mek-te-bun)", "4 hece (me-ke-te-bun)", "1 hece"],
+          "dogruIndeks": 1,
+          "aciklama": "Tenvînli okunuşta مَكْ - تَ - بٌ üç hecedir (vakıf/duruş hâlinde mek-teb olur)."
+        },
+        {
+          "id": "m01_g2_d10",
+          "tip": "donusturme",
+          "soru": "كَتَبَ fiilini edilgen 'كُتِبَ' (yazıldı) hâline getirirken hangi hareke değişimi yapılır?",
+          "secenekler": ["İlk harf damme, sondan bir önceki kesra olur", "Tüm harfler kesra olur", "Son harf sükûn olur", "İlk harf sükûn olur"],
+          "dogruIndeks": 0,
+          "aciklama": "Sadece iki harekenin değişmesi (كَتَبَ → كُتِبَ) fiili etkenden edilgene çevirir; harekelerin gramerdeki gücü budur!"
+        }
+      ]
+    },
+    {
+      "id": "m01_g3",
+      "baslik": "Med Harfleri (Uzun Ünlüler: ا، و، ي)",
+      "arBaslik": "حُرُوفُ الْمَدِّ (الْحَرَكَاتُ الطَّوِيلَةُ)",
+      "mantik": "Arapçada kısa ünlü ile uzun ünlü arasındaki fark sadece 'vurgu' değil, doğrudan ANLAM farkıdır! Örneğin كَتَبَ 'yazdı' demektir; ama ilk heceyi uzatıp كَاتَبَ dediğinizde 'mektuplaştı' anlamına gelir. Uzun ünlü elde etmek için kısa harekenin kendi 'uzatma kardeşi' olan Med Harfi (harekesiz olarak) yanına gelir: Fetha'yı harekesiz Elif (ـَا → â), Damme'yi harekesiz Vâv (ـُو → û), Kesra'yı ise harekesiz Yâ (ـِي → î) yaklaşık 2 birim (bir elif miktarı) uzatır.",
+      "formul": "Fetha + ا = â (بَا) · Damme + و = û (بُو) · Kesra + ي = î (بِي)",
+      "formulAr": "كِتَابٌ (â) · نُورٌ (û) · كَبِيرٌ (î)",
+      "tablo": {
+        "baslik": "3 Med Harfi ve Kısa/Uzun Anlam Karşılaştırması",
+        "sutunlar": ["Med Türü", "Kalıp", "Ses Değeri", "Kısa Örnek", "Uzun (Medli) Örnek"],
+        "satirlar": [
+          { "hucreler": ["Elif Meddi", "ـَا", "uzun â (2 birim)", "عَلَمٌ (bayrak)", "عَالَمٌ (âlem/dünya)"], "ses": "عَالَمٌ" },
+          { "hucreler": ["Vâv Meddi", "ـُو", "uzun û (2 birim)", "سُرُجٌ (eyerler)", "سُوقٌ (çarşı)"], "ses": "سُوقٌ" },
+          { "hucreler": ["Yâ Meddi", "ـِي", "uzun î (2 birim)", "جَمَلٌ (deve)", "جَمِيلٌ (güzel)"], "ses": "جَمِيلٌ" },
+          { "hucreler": ["Asar/Kısa Elif (ـٰ)", "ـٰ", "yazılmayan â", "—", "هٰذَا / اللّٰهُ (hâzâ)"], "ses": "هٰذَا" }
+        ]
+      },
+      "trKiyas": "Türkçede 'hala' (babanın kız kardeşi) ile 'hâlâ' (henüz) arasındaki uzunluk farkı Arapçada dilin tamamına yayılmıştır. Ayrıca و ve ي harfleri kendi üzerlerinde hareke taşıyorsa (ör. وَلَدٌ، يَوْمٌ) med harfi değil, normal ünsüz (v / y) olarak okunur!",
+      "sikHatalar": [
+        "Üzerinde hareke bulunan و veya ي harfini med sanıp uzatmak (وَلَدٌ 'ûled' değil 'veled' okunur).",
+        "يَوْمٌ (yevm) veya بَيْتٌ (beyt) gibi fetha + sükûnlu و/ي (Lîn) yapılarını med zannetmek.",
+        "Uzun heceyi kısa okumak: جَمَلٌ (deve) yerine جَمِيلٌ (güzel) demek için î sesini mutlaka belirgin uzatmak gerekir."
+      ],
+      "ornekler": [
+        { "ar": "هٰذَا كِتَابٌ كَبِيرٌ وَجَمِيلٌ.", "okunus": "Hâzâ kitâbun kebîrun ve cemîlun.", "tr": "Bu büyük ve güzel bir kitaptır.", "not": "كِتَابٌ (â), كَبِيرٌ ve جَمِيلٌ (î) medleri bir arada." },
+        { "ar": "نُورُ الْعِلْمِ يَهْدِي الْعُقُولَ.", "okunus": "Nûru'l-‘ilmi yehdi'l-‘ukûle.", "tr": "İlmin nuru akıllara yol gösterir.", "not": "نُور ve عُقُول kelimelerinde vâv meddi (û) vardır." },
+        { "ar": "فِي السُّوقِ فَوَاكِهُ طَازَجَةٌ.", "okunus": "Fi's-sûki fevâkihu tâzecetun.", "tr": "Çarşıda taze meyveler vardır.", "not": "سُوق (û), فَوَاكِه ve طَازَجَة (â) medlidir." },
+        { "ar": "صَدِيقِي يَعِيشُ فِي مَدِينَةٍ بَعِيدَةٍ.", "okunus": "Sadîkî ya‘îşu fî medînetin ba‘îdetin.", "tr": "Arkadaşım uzak bir şehirde yaşıyor.", "not": "Yâ meddi (î) kelime ortasında ve sonunda gelebilir." },
+        { "ar": "الْعَالَمُ الْعَرَبِيُّ وَاسِعٌ وَمُتَنَوِّعٌ.", "okunus": "El-‘âlemu'l-‘arabiyyu vâsi‘un ve mutenevvi‘un.", "tr": "Arap dünyası geniş ve çeşitlidir.", "not": "عَالَمٌ (dünya) medli, عَلَمٌ (bayrak) medsizdir." },
+        { "ar": "نَحْنُ نَزُورُ الْجَامِعَةَ كُلَّ أُسْبُوعٍ.", "okunus": "Nahnu nezûru'l-câmi‘ate kulle usbû‘in.", "tr": "Her hafta üniversiteyi ziyaret ediyoruz.", "not": "نَزُورُ (û), جَامِعَة (â), أُسْبُوع (û)." }
+      ],
+      "tatbikler": [
+        {
+          "id": "m01_g3_d1",
+          "tip": "bosluk",
+          "soru": "Bir harfin kesrasını (ـِ) 2 birim uzatarak 'î' sesi veren med harfi hangisidir?",
+          "secenekler": ["ا (Elif)", "و (Vâv)", "ي (Yâ)", "ه (Hâ)"],
+          "dogruIndeks": 2,
+          "aciklama": "Kesra + harekesiz ي uzun 'î' sesi verir (örn. كَبِيرٌ)."
+        },
+        {
+          "id": "m01_g3_d2",
+          "tip": "hata_bul",
+          "soru": "Aşağıdaki kelimelerden hangisinde و (Vâv) harfi MED HARFİ DEĞİLDİR (ünsüz 'v' olarak okunur)?",
+          "secenekler": ["نُورٌ", "سُوقٌ", "وَلَدٌ", "أُسْبُوعٌ"],
+          "dogruIndeks": 2,
+          "aciklama": "وَلَدٌ kelimesinde و harfi kelime başındadır ve fetha harekesi taşır; bu nedenle med değil ünsüz 'v'dir."
+        },
+        {
+          "id": "m01_g3_d3",
+          "tip": "donusturme",
+          "soru": "عَلَمٌ (bayrak) kelimesinin ilk hecesine Elif meddi eklendiğinde oluşan kelime ve anlamı nedir?",
+          "secenekler": ["عَالَمٌ (âlem/dünya)", "عُلُومٌ (ilimler)", "عَلِيمٌ (bilen)", "مَعْلُومٌ (bilinen)"],
+          "dogruIndeks": 0,
+          "aciklama": "Sadece ilk harfe eklenen Elif meddi kelimeyi عَلَمٌ (bayrak) iken عَالَمٌ (dünya) yapar."
+        },
+        {
+          "id": "m01_g3_d4",
+          "tip": "bosluk",
+          "soru": "صَدِيقٌ (arkadaş) kelimesinde hangi med harfi vardır?",
+          "secenekler": ["Elif meddi (â)", "Vâv meddi (û)", "Yâ meddi (î)", "Med harfi yoktur"],
+          "dogruIndeks": 2,
+          "aciklama": "د harfinin kesrasından sonra harekesiz ي geldiği için 'sa-dî-kun' şeklinde Yâ meddi vardır."
+        },
+        {
+          "id": "m01_g3_d5",
+          "tip": "hata_bul",
+          "soru": "يَوْمٌ (gün) kelimesindeki و harfi neden med harfi sayılmaz?",
+          "secenekler": ["Öncesinde damme değil fetha vardır", "Kelime sonundadır", "Şeddelidir", "Noktalıdır"],
+          "dogruIndeks": 0,
+          "aciklama": "Vâv'ın med olması için kendinden önceki harfin dammeli (ـُ) olması gerekir; يَوْمٌ kelimesinde fetha + سükûnlu و (yevm) vardır."
+        },
+        {
+          "id": "m01_g3_d6",
+          "tip": "tr_ar",
+          "soru": "'Işık / Nur' anlamına gelen Vâv medli kelime hangisidir?",
+          "secenekler": ["نَارٌ", "نُورٌ", "نَهْرٌ", "نَجْمٌ"],
+          "dogruIndeks": 1,
+          "aciklama": "نُورٌ (nûrun) 'nur/ışık', نَارٌ (nârun) ise 'ateş' demektir — med harfi anlamı tamamen değiştirir!"
+        },
+        {
+          "id": "m01_g3_d7",
+          "tip": "donusturme",
+          "soru": "كَبِيرٌ (büyük) kelimesinin doğru uzunluklu okunuşu hangisidir?",
+          "secenekler": ["kebirun", "kebîrun", "kâbirun", "kubûrun"],
+          "dogruIndeks": 1,
+          "aciklama": "بِ + ي = 'bî' şeklinde uzatılır: kebîrun."
+        },
+        {
+          "id": "m01_g3_d8",
+          "tip": "bosluk",
+          "soru": "هٰذَا (bu) kelimesindeki küçük dik çizgi (ـٰ) neyi gösterir?",
+          "secenekler": ["Sükûnu", "Yazılmayan ama okunan uzun 'â' (hançer elif)", "Şeddeyi", "Kesra tenvînini"],
+          "dogruIndeks": 1,
+          "aciklama": "Hançer Elif (الألف الخنجرية) yazıda yer almayan ama 'hâzâ' gibi uzatılarak okunan med sesini gösterir."
+        },
+        {
+          "id": "m01_g3_d9",
+          "tip": "tr_ar",
+          "soru": "'Şehir' anlamına gelen ve içinde Yâ meddi bulunan kelime hangisidir?",
+          "secenekler": ["مَدِينَةٌ", "مَدْرَسَةٌ", "مَكْتَبٌ", "جَامِعَةٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "مَدِينَةٌ (medînetun) içinde دِ + ي = 'dî' meddi bulunur."
+        },
+        {
+          "id": "m01_g3_d10",
+          "tip": "hata_bul",
+          "soru": "Aşağıdaki kelimelerden hangisinde HEM Elif meddi HEM Yâ meddi vardır?",
+          "secenekler": ["تَارِيخٌ", "كِتَابٌ", "نُورٌ", "جَمِيلٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "تَارِيخٌ (târîhun - tarih) kelimesinde تَا (Elif meddi) ve رِي (Yâ meddi) bir arada bulunur."
+        }
+      ]
+    },
+    {
+      "id": "m01_g4",
+      "baslik": "Şedde (Çift Ünsüz / İkizleme) Gücü",
+      "arBaslik": "الشَّدَّةُ (التَّضْعِيفُ)",
+      "mantik": "Şedde (ـّ), Arapçada aynı iki ünsüz harfi yan yana yazmak yerine tek harf yazıp üzerine küçük bir 'w' (şın başı) koyma sistemidir. İlk harf sükûnlu (durur), ikinci harf harekelidir! Türkçedeki 'anne', 'dikkat', 'millet' kelimelerindeki çift harf baskısı gibidir. Ancak Arapçada şedde sadece telaffuz değil, bambaşka bir gramer motorudur: دَرَسَ 'ders çalıştı' iken orta harfe şedde koyduğunuzda دَرَّسَ 'ders verdi / öğretti' olur! Yani tek bir küçük şedde işareti öğrenciden öğretmene geçirir.",
+      "formul": "Harf + Şedde (ـّ) = 1. Harf (Sükûnlu) + 2. Harf (Harekeli) | دَرَّسَ = دَرْ + رَسَ",
+      "formulAr": "دَرَسَ (çalıştı) ← دَرَّسَ (öğretti)",
+      "tablo": {
+        "baslik": "Şeddenin Telaffuz ve Anlam Üzerindeki Etkisi",
+        "sutunlar": ["Şeddesiz", "Anlamı", "Şeddeli", "Açılımı", "Yeni Anlamı"],
+        "satirlar": [
+          { "hucreler": ["دَرَسَ", "ders çalıştı", "دَرَّسَ", "دَرْ + رَسَ", "ders verdi / öğretti"], "ses": "دَرَّسَ" },
+          { "hucreler": ["عَلِمَ", "bildi", "عَلَّمَ", "عَلْ + لَمَ", "öğretti"], "ses": "عَلَّمَ" },
+          { "hucreler": ["مُدَرِس", "—", "مُدَرِّسٌ", "مُدَرْ + رِسٌ", "öğretmen (müderris)"], "ses": "مُدَرِّسٌ" },
+          { "hucreler": ["جَدٌ", "—", "جَدٌّ", "جَدْ + دٌ", "dede / ciddiyet"], "ses": "جَدٌّ" },
+          { "hucreler": ["عَرَبٌ", "Araplar", "عَرَبِيٌّ", "عَرَبِيْ + يٌ", "Arapça / Arap'a ait"], "ses": "عَرَبِيٌّ" }
+        ]
+      },
+      "trKiyas": "Türkçede 'eli' (organ) ile 'elli' (50 sayısı) nasıl şedde/çift harf ile ayrılıyorsa, Arapçada da şeddeyi atlamak anlamı bozar. Dikkat: Şedde + Kesra kombinasyonu modern baskılarda genellikle harfin üstünde şeddenin HEMEN ALTINA (ـِّ) yazılır; bunu şedde + fetha (ـَّ) ile karıştırmayın!",
+      "sikHatalar": [
+        "Şeddenin altındaki kesrayı (ـِّ) fetha (ـَّ) sanıp 'muderres' okumak — doğrusu مُدَرِّسٌ (muderrisun).",
+        "Şeddeli harfi tek harf gibi hızlıca geçmek (مُعَلِّمٌ kelimesinde çift 'll' mutlaka bastırılmalıdır).",
+        "Kelime sonundaki şeddeli ي (عَرَبِيٌّ = ‘arabiyyun) ile normal uzun 'î' sesini (عَرَبِي) karıştırmak."
+      ],
+      "ornekler": [
+        { "ar": "الْمُعَلِّمُ يُعَلِّمُ الطُّلَّابَ الْعَرَبِيَّةَ.", "okunus": "El-mu‘allimu yu‘allimu't-tullâbe'l-‘arabiyyete.", "tr": "Öğretmen öğrencilere Arapça öğretiyor.", "not": "مُعَلِّمٌ، طُلَّابٌ، عَرَبِيَّةٌ hepsi şeddelidir." },
+        { "ar": "دَرَّسَ الْأُسْتَاذُ دَرْسًا مُهِمًّا.", "okunus": "Derrese'l-ustâzu dersen muhimmen.", "tr": "Hoca önemli bir ders anlattı.", "not": "دَرَّسَ (öğretti) ve مُهِمًّا (önemli) şeddelidir." },
+        { "ar": "أُمِّي تُحِبُّ الْقَهْوَةَ التُّرْكِيَّةَ.", "okunus": "Ummî tuhibbu'l-kahvete't-turkiyyete.", "tr": "Annem Türk kahvesini sever.", "not": "أُمِّي (annem) ve تُحِبُّ (sever) çift ünsüz taşır." },
+        { "ar": "الصَّفُّ نَظِيفٌ وَمُرَتَّبٌ.", "okunus": "Es-saffu nazîfun ve murattebun.", "tr": "Sınıf temiz ve düzenlidir.", "not": "صَفّ (sınıf) ve مُرَتَّب (düzenli)." },
+        { "ar": "كُلُّ يَوْمٍ أَقْرَأُ نَصًّا جَدِيدًا.", "okunus": "Kulle yevmin ekrau nassan cedîden.", "tr": "Her gün yeni bir metin okuyorum.", "not": "كُلُّ (her) ve نَصًّا (metin)." },
+        { "ar": "السَّبُّورَةُ أَمَامَ الطُّلَّابِ.", "okunus": "Es-sebbûratu emâme't-tullâbi.", "tr": "Tahta öğrencilerin önündedir.", "not": "سَبُّورَة kelimesinde şedde + damme + vâv meddi bir aradadır." }
+      ],
+      "tatbikler": [
+        {
+          "id": "m01_g4_d1",
+          "tip": "bosluk",
+          "soru": "Şedde (ـّ) taşıyan bir harf fonetik olarak nasıl açılır?",
+          "secenekler": ["İki sükûnlu harf", "Birinci harf sükûnlu + ikinci harf harekeli", "Birinci harf harekeli + ikinci harf sükûnlu", "Uzun bir med harfi"],
+          "dogruIndeks": 1,
+          "aciklama": "Şeddeli harfin ilki daima sükûnlu, ikincisi ise şeddenin üzerindeki/altındaki harekeyi taşır."
+        },
+        {
+          "id": "m01_g4_d2",
+          "tip": "donusturme",
+          "soru": "عَلِمَ (bildi) fiilinin orta harfine şedde konulduğunda oluşan عَلَّمَ fiilinin anlamı nedir?",
+          "secenekler": ["Unuttu", "Öğretti", "Okudu", "Yazdı"],
+          "dogruIndeks": 1,
+          "aciklama": "Orta harfin şeddelenmesi (II. Bab) fiili geçişli/ettirgen yapar: عَلِمَ (bildi) → عَلَّمَ (öğretti)."
+        },
+        {
+          "id": "m01_g4_d3",
+          "tip": "hata_bul",
+          "soru": "مُعَلِّمٌ kelimesinde ل harfi üzerindeki şedde ve kesra nasıl okunmalıdır?",
+          "secenekler": ["mu‘alemun", "mu‘allimun", "mu‘âlimun", "ma‘lûmun"],
+          "dogruIndeks": 1,
+          "aciklama": "ل şeddeli ve kesralıdır: مُ + عَلْ + لِ + مٌ = mu‘allimun."
+        },
+        {
+          "id": "m01_g4_d4",
+          "tip": "bosluk",
+          "soru": "Modern Arapça metinlerde şeddenin HEMEN ALTINA konulan küçük çizgi (ـِّ) hangi harekedir?",
+          "secenekler": ["Fetha", "Kesra", "Damme", "Sükûn"],
+          "dogruIndeks": 1,
+          "aciklama": "Harfin üstündeki şeddenin altına yazılan çizgi kesradır (ـِّ); fetha ise şeddenin üstüne (ـَّ) yazılır."
+        },
+        {
+          "id": "m01_g4_d5",
+          "tip": "tr_ar",
+          "soru": "'Önemli' anlamına gelen şeddeli sıfat hangisidir?",
+          "secenekler": ["مُهِمٌّ", "كَبِيرٌ", "جَدِيدٌ", "قَرِيبٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "مُهِمٌّ (muhimmun) son م harfinde şedde taşır."
+        },
+        {
+          "id": "m01_g4_d6",
+          "tip": "donusturme",
+          "soru": "سَبُّورَةٌ (tahta) kelimesinde şeddeli harf hangisidir?",
+          "secenekler": ["س", "ب", "ر", "ة"],
+          "dogruIndeks": 1,
+          "aciklama": "ب harfi hem şeddeli hem dammelidir (seb-bû-ra-tun)."
+        },
+        {
+          "id": "m01_g4_d7",
+          "tip": "tr_ar",
+          "soru": "'Annem' anlamına gelen şeddeli kelime hangisidir?",
+          "secenekler": ["أُمِّي", "أَبِي", "أَخِي", "أُخْتِي"],
+          "dogruIndeks": 0,
+          "aciklama": "أُمٌّ (anne) kelimesinde م şeddelidir; iyelik yâsı gelince أُمِّي (ummî) olur."
+        },
+        {
+          "id": "m01_g4_d8",
+          "tip": "hata_bul",
+          "soru": "دَرَسَ (çalıştı) ile دَرَّسَ (öğretti) arasındaki tek yazılış farkı nedir?",
+          "secenekler": ["ر harfinin üzerindeki şedde", "س harfinin tenvîni", "د harfinin kesrası", "Elif meddi"],
+          "dogruIndeks": 0,
+          "aciklama": "Sadece ر üzerindeki şedde fiilin anlamını 'çalıştı'dan 'öğretti'ye çevirir."
+        },
+        {
+          "id": "m01_g4_d9",
+          "tip": "bosluk",
+          "soru": "كُلُّ (her/bütün) kelimesi nasıl açılır?",
+          "secenekler": ["كُلْ + لُ", "كُ + لُ", "كَلْ + لَ", "كُو + لُ"],
+          "dogruIndeks": 0,
+          "aciklama": "كُلُّ = كُلْ + لُ (kul-lu)."
+        },
+        {
+          "id": "m01_g4_d10",
+          "tip": "tr_ar",
+          "soru": "'Sınıf' anlamına gelen ve sonunda şeddeli ف bulunan kelime hangisidir?",
+          "secenekler": ["صَفٌّ", "دَرْسٌ", "نَصٌّ", "بَابٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "صَفٌّ (saffun) 'sınıf / sıra' demektir."
+        }
+      ]
+    },
+    {
+      "id": "m01_g5",
+      "baslik": "Tenvîn (ـٌ، ـٍ، ـً) — Belirsizlik Nûnu ve Fetha Tenvîn Elifi",
+      "arBaslik": "التَّنْوِينُ (نُونُ التَّنْكِيرِ)",
+      "mantik": "Tenvîn, kelimenin son harfine yazılan 'çift hareke'dir ve sadece İSİMLERİN sonunda bulunur (fiillerde asla tenvîn olmaz!). Okunuşta sonuna gizli bir '-n' sesi ekler: ـٌ (-un), ـٍ (-in), ـً (-en/an). Bu '-n' sesi yazıda ن harfiyle yazılmaz, sadece okunur. Tenvîn, Türkçedeki 'bir' (belirsizlik) kelimesi gibi çalışır: كِتَابٌ 'herhangi bir kitap' demektir. Çok önemli bir yazım kuralı: Fetha tenvînli (ـً) kelimelerin sonuna destek olarak fazladan bir Elif (كِتَابًا) eklenir; ancak kelime ة (tâ-i merbûta) veya eliften sonra gelen ء ile bitiyorsa bu destek Elifi YAZILMAZ (مَدِينَةً، سَمَاءً).",
+      "formul": "Damme Tenvîn: ـٌ (-un) · Kesra Tenvîn: ـٍ (-in) · Fetha Tenvîn: ـً + ا (-en) [ة ve اء hariç]",
+      "formulAr": "كِتَابٌ · كِتَابٍ · كِتَابًا | مَدْرَسَةً",
+      "tablo": {
+        "baslik": "3 Tenvîn Hâli ve Destek Elifi Kuralı",
+        "sutunlar": ["Tenvîn Türü", "İşaret", "Ses", "Normal İsim", "ة / اء Bitişli (Elifsiz)"],
+        "satirlar": [
+          { "hucreler": ["Damme Tenvîn (Ref)", "ـٌ", "-un", "طَالِبٌ (bir öğrenci)", "طَالِبَةٌ (bir kız öğrenci)"], "ses": "طَالِبٌ" },
+          { "hucreler": ["Kesra Tenvîn (Cer)", "ـٍ", "-in", "طَالِبٍ", "طَالِبَةٍ"], "ses": "طَالِبٍ" },
+          { "hucreler": ["Fetha Tenvîn (Nasb)", "ـً", "-en / -an", "طَالِبًا (Elif eklenir!)", "طَالِبَةً (Elif EKLENMEZ!)"], "ses": "طَالِبًا" },
+          { "hucreler": ["Hemze (اء) İstisnası", "ـً", "-en", "شَيْئًا (Elif eklenir)", "مَاءً / سَمَاءً (Elif eklenmez)"], "ses": "مَاءً" }
+        ]
+      },
+      "trKiyas": "Türkçede 'bir kitap' derken başa ayrı bir 'bir' kelimesi koyarız. Arapçada ise başa kelime koymak yerine ismin son harekesini çiftleriz (كِتَابٌ). Ayrıca kelimenin başına 'ال' (belirlilik) geldiğinde tenvîn anında düşer — 'ال' ile tenvîn asla aynı kelimede yan yana barınamaz!",
+      "sikHatalar": [
+        "Tenvînin çıkardığı '-n' sesini kelime sonuna gerçek ن harfiyle yazmak (شُكْرًا yerine yanlışlıkla شُكْرَن yazmak).",
+        "ة (tâ-i merbûta) ile biten fetha tenvînli isme fazladan Elif koymak (مَدِينَةًا YANLIŞ, doğrusu مَدِينَةً).",
+        "Başına ال alan bir kelimeye tenvîn koymak (الْكِتَابٌ YANLIŞ, doğrusu الْكِتَابُ)."
+      ],
+      "ornekler": [
+        { "ar": "شُكْرًا جَزِيلًا يَا صَدِيقِي!", "okunus": "Şukran cezîlen yâ sadîkî!", "tr": "Çok teşekkür ederim arkadaşım!", "not": "شُكْرًا ve جَزِيلًا fetha tenvîni + destek elifi taşır." },
+        { "ar": "اشْتَرَيْتُ قَلَمًا وَدَفْتَرًا وَحَقِيبَةً.", "okunus": "İştereytu kalemen ve defteren ve hakîbeten.", "tr": "Bir kalem, bir defter ve bir çanta aldım.", "not": "قَلَمًا ve دَفْتَرًا elif alır; حَقِيبَةً (ة ile bittiği için) elif almaz." },
+        { "ar": "شَرِبْتُ مَاءً بَارِدًا.", "okunus": "Şeribtu mâen bâridan.", "tr": "Soğuk bir su içtim.", "not": "مَاءً elif+hemze ile bittiğinden sonuna ikinci elif eklenmez." },
+        { "ar": "هٰذَا بَيْتٌ كَبِيرٌ فِي قَرْيَةٍ جَمِيلَةٍ.", "okunus": "Hâzâ beytun kebîrun fî karyetin cemîletin.", "tr": "Bu güzel bir köyde büyük bir evdir.", "not": "Damme tenvîn (ـٌ) ve kesra tenvîn (ـٍ) birlikte." },
+        { "ar": "أَهْلًا وَسَهْلًا بِكُمْ جَمِيعًا.", "okunus": "Ehlen ve sehlen bikum cemî‘an.", "tr": "Hepiniz hoş geldiniz.", "not": "Günlük kalıp ifadelerin çoğu fetha tenvînli zarf/mastardır." },
+        { "ar": "قَرَأْتُ كِتَابًا مُفِيدًا الْيَوْمَ.", "okunus": "Kara'tu kitâben mufîden el-yevme.", "tr": "Bugün faydalı bir kitap okudum.", "not": "الْيَوْمَ başında ال olduğu için tenvîn almaz." }
+      ],
+      "tatbikler": [
+        {
+          "id": "m01_g5_d1",
+          "tip": "bosluk",
+          "soru": "Tenvîn yalnızca hangi kelime türünün sonunda bulunabilir?",
+          "secenekler": ["Fiillerde", "İsimlerde", "Harf-i cerlerde", "Tüm kelimelerde"],
+          "dogruIndeks": 1,
+          "aciklama": "Tenvîn ismin en belirgin alâmetlerinden biridir; fiiller ve harfler asla tenvîn almaz."
+        },
+        {
+          "id": "m01_g5_d2",
+          "tip": "hata_bul",
+          "soru": "Aşağıdaki fetha tenvînli yazılışlardan hangisi YANLIŞTIR?",
+          "secenekler": ["كِتَابًا", "قَلَمًا", "مَدْرَسَةًا", "مَاءً"],
+          "dogruIndeks": 2,
+          "aciklama": "ة (tâ-i merbûta) ile biten isimlere fetha tenvîninde destek elifi eklenmez; doğrusu مَدْرَسَةً."
+        },
+        {
+          "id": "m01_g5_d3",
+          "tip": "donusturme",
+          "soru": "شُكْرٌ kelimesinin fetha tenvînli (mansub) doğru yazılışı hangisidir?",
+          "secenekler": ["شُكْرَن", "شُكْرًا", "شُكْرٍ", "شُكْرَ"],
+          "dogruIndeks": 1,
+          "aciklama": "Tenvîndeki '-n' sesi ن harfiyle yazılmaz; ر üzerine fetha tenvîni + destek elifi ile شُكْرًا yazılır."
+        },
+        {
+          "id": "m01_g5_d4",
+          "tip": "hata_bul",
+          "soru": "الْكِتَابٌ yazılışındaki gramer hatası nedir?",
+          "secenekler": ["Elif eksik", "ال belirlilik takısı ile tenvîn aynı kelimede bulunamaz", "ت harfi şeddeli olmalı", "ب kesralı olmalı"],
+          "dogruIndeks": 1,
+          "aciklama": "ال belirlilik, tenvîn ise belirsizlik bildirir; ikisi aynı anda bir isimde bulunamaz (doğrusu: الْكِتَابُ veya كِتَابٌ)."
+        },
+        {
+          "id": "m01_g5_d5",
+          "tip": "donusturme",
+          "soru": "قَلَمٌ (bir kalem) kelimesi kesra tenvînli (harf-i cer sonrası) hâle gelirse nasıl yazılır?",
+          "secenekler": ["قَلَمًا", "قَلَمٍ", "قَلَمٌ", "قَلَمِ"],
+          "dogruIndeks": 1,
+          "aciklama": "Kesra tenvîni (ـٍ) 'kalemin' okunur ve sonuna elif eklenmez."
+        },
+        {
+          "id": "m01_g5_d6",
+          "tip": "bosluk",
+          "soru": "سَمَاءً (bir gökyüzü) kelimesine fetha tenvîninde neden destek Elifi eklenmemiştir?",
+          "secenekler": ["Çünkü fiildir", "Çünkü hemzeden hemen önce zaten bir Elif vardır (اء)", "Çünkü özel isimdir", "Çünkü çoğuldur"],
+          "dogruIndeks": 1,
+          "aciklama": "Hemzenin iki elif arasında sıkışmaması için اء ile biten kelimelere ikinci elif yazılmaz: سَمَاءً."
+        },
+        {
+          "id": "m01_g5_d7",
+          "tip": "tr_ar",
+          "soru": "'Çok teşekkürler' ifadesinin doğru Arapça yazılışı hangisidir?",
+          "secenekler": ["شُكْرًا جَزِيلًا", "شُكْرَن جَزِيلَن", "الشُّكْرًا جَزِيلًا", "شُكْرٍ جَزِيلٍ"],
+          "dogruIndeks": 0,
+          "aciklama": "Doğru kalıp fetha tenvîniyle شُكْرًا جَزِيلًا (şukran cezîlen) şeklindedir."
+        },
+        {
+          "id": "m01_g5_d8",
+          "tip": "tr_ar",
+          "soru": "'Hoş geldiniz' kalıp ifadesi hangisidir?",
+          "secenekler": ["أَهْلًا وَسَهْلًا", "عَفْوًا", "صَبَاحًا", "طَبْعًا"],
+          "dogruIndeks": 0,
+          "aciklama": "أَهْلًا وَسَهْلًا (ehlen ve sehlen) fetha tenvîni taşıyan en yaygın karşılama kalıbıdır."
+        },
+        {
+          "id": "m01_g5_d9",
+          "tip": "bosluk",
+          "soru": "رَجُلٌ (bir adam) kelimesindeki ـٌ işareti Türkçeye genellikle nasıl yansır?",
+          "secenekler": ["Şu adam", "Bir adam (belirsiz)", "Adamlar", "Adamın"],
+          "dogruIndeks": 1,
+          "aciklama": "Tenvîn ismin nekre (belirsiz) olduğunu gösterir: 'bir adam'."
+        },
+        {
+          "id": "m01_g5_d10",
+          "tip": "hata_bul",
+          "soru": "Aşağıdaki kelimelerden hangisi fetha tenvîni aldığında sonuna destek Elifi ALIR?",
+          "secenekler": ["غُرْفَةً", "سَمَاءً", "دَفْتَرًا", "مَدِينَةً"],
+          "dogruIndeks": 2,
+          "aciklama": "دَفْتَرٌ kelimesi normal bir harfle (ر) bittiği için fetha tenvîninde destek elifi alır: دَفْتَرًا."
+        }
+      ]
+    }
+  ],
+  "workshop": {
+    "motors": [
+      {
+        "id": "m01_wm1",
+        "baslik": "Temel Tanıtma Kalıbı (Bu bir ...dır)",
+        "formul": "İşaret + Nekre İsim (Tenvînli) + Sıfat (Tenvînli)",
+        "slotlar": [
+          {
+            "etiket": "1. İşaret",
+            "secenekler": [
+              { "ar": "هٰذَا", "okunus": "Hâzâ", "tr": "Bu" },
+              { "ar": "ذٰلِكَ", "okunus": "Zâlike", "tr": "Şu / O" },
+              { "ar": "هُنَا", "okunus": "Hunâ", "tr": "Burada" },
+              { "ar": "هُنَاكَ", "okunus": "Hunâke", "tr": "Orada" },
+              { "ar": "عِنْدِي", "okunus": "‘İndî", "tr": "Bende var" },
+              { "ar": "فِي يَدِي", "okunus": "Fî yedî", "tr": "Elimde var" }
+            ]
+          },
+          {
+            "etiket": "2. İsim (Tenvînli)",
+            "secenekler": [
+              { "ar": "كِتَابٌ", "okunus": "kitâbun", "tr": "bir kitap" },
+              { "ar": "قَلَمٌ", "okunus": "kalemun", "tr": "bir kalem" },
+              { "ar": "دَفْتَرٌ", "okunus": "defterun", "tr": "bir defter" },
+              { "ar": "بَيْتٌ", "okunus": "beytun", "tr": "bir ev" },
+              { "ar": "مَكْتَبٌ", "okunus": "mektebun", "tr": "bir masa" },
+              { "ar": "بَابٌ", "okunus": "bâbun", "tr": "bir kapı" }
+            ]
+          },
+          {
+            "etiket": "3. Sıfat (Medli / Şeddeli)",
+            "secenekler": [
+              { "ar": "جَدِيدٌ", "okunus": "cedîdun", "tr": "yeni" },
+              { "ar": "كَبِيرٌ", "okunus": "kebîrun", "tr": "büyük" },
+              { "ar": "جَمِيلٌ", "okunus": "cemîlun", "tr": "güzel" },
+              { "ar": "مُهِمٌّ", "okunus": "muhimmun", "tr": "önemli" },
+              { "ar": "نَظِيفٌ", "okunus": "nazîfun", "tr": "temiz" },
+              { "ar": "قَدِيمٌ", "okunus": "kadîmun", "tr": "eski" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m01_wm2",
+        "baslik": "Mâzi Fiil + Fâil + Fetha Tenvînli Nesne",
+        "formul": "Fiil (Mâzi) + Fâil + Nesne (ـًا)",
+        "slotlar": [
+          {
+            "etiket": "1. Fiil",
+            "secenekler": [
+              { "ar": "كَتَبَ", "okunus": "Ketebe", "tr": "yazdı" },
+              { "ar": "قَرَأَ", "okunus": "Karae", "tr": "okudu" },
+              { "ar": "دَرَسَ", "okunus": "Derese", "tr": "çalıştı" },
+              { "ar": "فَهِمَ", "okunus": "Fehime", "tr": "anladı" },
+              { "ar": "حَفِظَ", "okunus": "Hafiza", "tr": "ezberledi" },
+              { "ar": "نَقَلَ", "okunus": "Nekale", "tr": "aktardı" }
+            ]
+          },
+          {
+            "etiket": "2. Fâil (Özne)",
+            "secenekler": [
+              { "ar": "الطَّالِبُ", "okunus": "et-tâlibu", "tr": "öğrenci" },
+              { "ar": "الْوَلَدُ", "okunus": "el-veledu", "tr": "çocuk" },
+              { "ar": "أَحْمَدُ", "okunus": "Ahmedu", "tr": "Ahmed" },
+              { "ar": "زَيْدٌ", "okunus": "Zeydun", "tr": "Zeyd" },
+              { "ar": "الصَّدِيقُ", "okunus": "es-sadîku", "tr": "arkadaş" },
+              { "ar": "الْمُتَعَلِّمُ", "okunus": "el-mute‘allimu", "tr": "öğrenen" }
+            ]
+          },
+          {
+            "etiket": "3. Nesne (Fetha Tenvînli)",
+            "secenekler": [
+              { "ar": "دَرْسًا", "okunus": "dersen", "tr": "bir ders" },
+              { "ar": "كِتَابًا", "okunus": "kitâben", "tr": "bir kitap" },
+              { "ar": "نَصًّا", "okunus": "nassan", "tr": "bir metin" },
+              { "ar": "حَرْفًا", "okunus": "harfen", "tr": "bir harf" },
+              { "ar": "مِثَالًا", "okunus": "misâlen", "tr": "bir örnek" },
+              { "ar": "سَطْرًا", "okunus": "satran", "tr": "bir satır" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m01_wm3",
+        "baslik": "Şeddeli Fiil Kalıbı (Öğretmek / Düzenlemek)",
+        "formul": "Şeddeli Fiil + Özne + Belirli Nesne",
+        "slotlar": [
+          {
+            "etiket": "1. Şeddeli Fiil",
+            "secenekler": [
+              { "ar": "عَلَّمَ", "okunus": "‘Alleme", "tr": "öğretti" },
+              { "ar": "دَرَّسَ", "okunus": "Derrese", "tr": "ders verdi" },
+              { "ar": "رَتَّبَ", "okunus": "Rattebe", "tr": "düzenledi" },
+              { "ar": "صَحَّحَ", "okunus": "Sahhaha", "tr": "düzeltti" },
+              { "ar": "جَهَّزَ", "okunus": "Cehheze", "tr": "hazırladı" },
+              { "ar": "وَسَّعَ", "okunus": "Vesse‘a", "tr": "genişletti" }
+            ]
+          },
+          {
+            "etiket": "2. Özne",
+            "secenekler": [
+              { "ar": "الْمُعَلِّمُ", "okunus": "el-mu‘allimu", "tr": "öğretmen" },
+              { "ar": "الْأُسْتَاذُ", "okunus": "el-ustâzu", "tr": "hoca" },
+              { "ar": "الْمُدَرِّسُ", "okunus": "el-muderrisu", "tr": "eğitmen" },
+              { "ar": "الْوَالِدُ", "okunus": "el-vâlidu", "tr": "baba" },
+              { "ar": "الْخَبِيرُ", "okunus": "el-habîru", "tr": "uzman" },
+              { "ar": "الْمُدِيرُ", "okunus": "el-mudîru", "tr": "müdür" }
+            ]
+          },
+          {
+            "etiket": "3. Nesne",
+            "secenekler": [
+              { "ar": "الْحُرُوفَ", "okunus": "el-hurûfe", "tr": "harfleri" },
+              { "ar": "الْحَرَكَاتِ", "okunus": "el-harekâti", "tr": "harekeleri" },
+              { "ar": "الْمَكْتَبَ", "okunus": "el-mektebe", "tr": "masayı" },
+              { "ar": "الدَّفْتَرَ", "okunus": "ed-deftere", "tr": "defteri" },
+              { "ar": "النَّصَّ", "okunus": "en-nassa", "tr": "metni" },
+              { "ar": "الصَّفَّ", "okunus": "es-saffe", "tr": "sınıfı" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m01_wm4",
+        "baslik": "Mekân + Kesra Tenvînli İsim Yapısı",
+        "formul": "Yer Zarfı / Harf-i Cer + Nekre İsim (ـٍ) + Sıfat (ـٍ)",
+        "slotlar": [
+          {
+            "etiket": "1. Başlangıç",
+            "secenekler": [
+              { "ar": "أَدْرُسُ فِي", "okunus": "Edrusu fî", "tr": "...de ders çalışırım" },
+              { "ar": "أَقْرَأُ فِي", "okunus": "Ekrau fî", "tr": "...de okurum" },
+              { "ar": "أَجْلِسُ فِي", "okunus": "Eclisu fî", "tr": "...de otururum" },
+              { "ar": "أَكْتُبُ فِي", "okunus": "Ektubu fî", "tr": "...de yazarım" },
+              { "ar": "أَعِيشُ فِي", "okunus": "E‘îşu fî", "tr": "...de yaşarım" },
+              { "ar": "أَعْمَلُ فِي", "okunus": "E‘melu fî", "tr": "...de çalışırım" }
+            ]
+          },
+          {
+            "etiket": "2. Mekân (Kesra Tenvîn)",
+            "secenekler": [
+              { "ar": "صَفٍّ", "okunus": "saffin", "tr": "bir sınıfta" },
+              { "ar": "بَيْتٍ", "okunus": "beytin", "tr": "bir evde" },
+              { "ar": "مَكْتَبٍ", "okunus": "mektebin", "tr": "bir ofiste" },
+              { "ar": "مَرْكَزٍ", "okunus": "merkezin", "tr": "bir merkezde" },
+              { "ar": "مَعْهَدٍ", "okunus": "ma‘hedin", "tr": "bir enstitüde" },
+              { "ar": "مَكَانٍ", "okunus": "mekânin", "tr": "bir yerde" }
+            ]
+          },
+          {
+            "etiket": "3. Sıfat (Kesra Tenvîn)",
+            "secenekler": [
+              { "ar": "هَادِئٍ", "okunus": "hâdiin", "tr": "sakin" },
+              { "ar": "وَاسِعٍ", "okunus": "vâsi‘in", "tr": "geniş" },
+              { "ar": "جَمِيلٍ", "okunus": "cemîlin", "tr": "güzel" },
+              { "ar": "نَظِيفٍ", "okunus": "nazîfin", "tr": "temiz" },
+              { "ar": "قَرِيبٍ", "okunus": "karîbin", "tr": "yakın" },
+              { "ar": "جَدِيدٍ", "okunus": "cedîdin", "tr": "yeni" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m01_wm5",
+        "baslik": "Medli Sıfatlarla İsim Cümlesi Kurma",
+        "formul": "Belirli Mübtedâ + Uzun Ünlülü (Medli) Haber",
+        "slotlar": [
+          {
+            "etiket": "1. Mübtedâ",
+            "secenekler": [
+              { "ar": "الدَّرْسُ", "okunus": "Ed-dersu", "tr": "Ders" },
+              { "ar": "الْكِتَابُ", "okunus": "El-kitâbu", "tr": "Kitap" },
+              { "ar": "الْخَطُّ", "okunus": "El-hattu", "tr": "Yazı" },
+              { "ar": "الصَّوْتُ", "okunus": "Es-savtu", "tr": "Ses" },
+              { "ar": "النَّصُّ", "okunus": "En-nassu", "tr": "Metin" },
+              { "ar": "الطَّرِيقُ", "okunus": "Et-tarîku", "tr": "Yol" }
+            ]
+          },
+          {
+            "etiket": "2. Medli Haber",
+            "secenekler": [
+              { "ar": "وَاضِحٌ", "okunus": "vâdihun", "tr": "açıktır" },
+              { "ar": "مُفِيدٌ", "okunus": "mufîdun", "tr": "faydalıdır" },
+              { "ar": "جَمِيلٌ", "okunus": "cemîlun", "tr": "güzeldir" },
+              { "ar": "طَوِيلٌ", "okunus": "tavîlun", "tr": "uzundur" },
+              { "ar": "قَصِيرٌ", "okunus": "kasîrun", "tr": "kısadır" },
+              { "ar": "بَسِيطٌ", "okunus": "besîtun", "tr": "basittir" }
+            ]
+          },
+          {
+            "etiket": "3. Pekiştirme (Tenvînli)",
+            "secenekler": [
+              { "ar": "جِدًّا", "okunus": "cidden", "tr": "çok" },
+              { "ar": "حَقًّا", "okunus": "hakkan", "tr": "gerçekten" },
+              { "ar": "دَائِمًا", "okunus": "dâimen", "tr": "daima" },
+              { "ar": "الْيَوْمَ", "okunus": "el-yevme", "tr": "bugün" },
+              { "ar": "لِلْغَايَةِ", "okunus": "li'l-gâyeti", "tr": "son derece" },
+              { "ar": "أَيْضًا", "okunus": "eydan", "tr": "ayrıca" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m01_wm6",
+        "baslik": "Günlük Nezaket & Tenvînli Zarf Kalıpları",
+        "formul": "Nezaket İfadesi + Hitap + Ek İfade",
+        "slotlar": [
+          {
+            "etiket": "1. Nezaket Kalıbı",
+            "secenekler": [
+              { "ar": "شُكْرًا", "okunus": "Şukran", "tr": "Teşekkürler" },
+              { "ar": "أَهْلًا", "okunus": "Ehlen", "tr": "Hoş geldin" },
+              { "ar": "عَفْوًا", "okunus": "‘Afven", "tr": "Rica ederim" },
+              { "ar": "مَرْحَبًا", "okunus": "Merhaben", "tr": "Merhaba" },
+              { "ar": "صَبَاحًا", "okunus": "Sabâhan", "tr": "Sabahleyin" },
+              { "ar": "طَبْعًا", "okunus": "Tab‘an", "tr": "Elbette" }
+            ]
+          },
+          {
+            "etiket": "2. Destek",
+            "secenekler": [
+              { "ar": "جَزِيلًا", "okunus": "cezîlen", "tr": "çok" },
+              { "ar": "وَسَهْلًا", "okunus": "ve sehlen", "tr": "ve sefa geldin" },
+              { "ar": "جَمِيعًا", "okunus": "cemî‘an", "tr": "hep birlikte" },
+              { "ar": "دَائِمًا", "okunus": "dâimen", "tr": "her zaman" },
+              { "ar": "كَثِيرًا", "okunus": "kesîran", "tr": "bolca" },
+              { "ar": "بِكُمْ", "okunus": "bikum", "tr": "sizlere" }
+            ]
+          },
+          {
+            "etiket": "3. Hitap",
+            "secenekler": [
+              { "ar": "يَا أُسْتَاذُ", "okunus": "yâ ustâzu", "tr": "ey hocam" },
+              { "ar": "يَا صَدِيقِي", "okunus": "yâ sadîkî", "tr": "ey arkadaşım" },
+              { "ar": "يَا أَخِي", "okunus": "yâ ehî", "tr": "ey kardeşim" },
+              { "ar": "يَا أُخْتِي", "okunus": "yâ uhtî", "tr": "ey kız kardeşim" },
+              { "ar": "يَا طَالِبُ", "okunus": "yâ tâlibu", "tr": "ey öğrenci" },
+              { "ar": "يَا مُعَلِّمُ", "okunus": "yâ mu‘allimu", "tr": "ey öğretmen" }
+            ]
+          }
+        ]
+      }
+    ],
+    "merdivenler": [
+      {
+        "id": "m01_lad1",
+        "baslik": "Kitap Okuma Cümlesinin 5 Basamakta Büyümesi",
+        "adimlar": [
+          { "seviye": "A1.1", "ar": "كِتَابٌ جَدِيدٌ.", "okunus": "Kitâbun cedîdun.", "tr": "Yeni bir kitap.", "ekleme": "Tenvînli temel isim + sıfat" },
+          { "seviye": "A1.2", "ar": "قَرَأَ الطَّالِبُ كِتَابًا جَدِيدًا.", "okunus": "Karae't-tâlibu kitâben cedîden.", "tr": "Öğrenci yeni bir kitap okudu.", "ekleme": "Fiil + Fâil + Fetha tenvînli nesne" },
+          { "seviye": "A2", "ar": "قَرَأَ الطَّالِبُ كِتَابًا جَدِيدًا فِي الصَّفِّ.", "okunus": "Karae't-tâlibu kitâben cedîden fi's-saffi.", "tr": "Öğrenci sınıfta yeni bir kitap okudu.", "ekleme": "Mekân zarfı (فِي الصَّفِّ)" },
+          { "seviye": "B1", "ar": "قَرَأَ الطَّالِبُ كِتَابًا جَدِيدًا عَنِ الْحُرُوفِ الْعَرَبِيَّةِ فِي الصَّفِّ صَبَاحًا.", "okunus": "Karae't-tâlibu kitâben cedîden ‘ani'l-hurûfi'l-‘arabiyyeti fi's-saffi sabâhan.", "tr": "Öğrenci sabahleyin sınıfta Arap harfleri hakkında yeni bir kitap okudu.", "ekleme": "Konu belirtme + tenvînli zaman zarfı" },
+          { "seviye": "B2", "ar": "قَرَأَ الطَّالِبُ الْمُجْتَهِدُ كِتَابًا جَدِيدًا عَنِ الْحُرُوفِ وَالْحَرَكَاتِ فِي الصَّفِّ صَبَاحًا لِيُحَسِّنَ نُطْقَهُ.", "okunus": "Karae't-tâlibu'l-muctehidu kitâben cedîden ‘ani'l-hurûfi ve'l-harekâti fi's-saffi sabâhan li-yuhassine nutkahu.", "tr": "Çalışkan öğrenci telaffuzunu geliştirmek için sabahleyin sınıfta harfler ve harekeler hakkında yeni bir kitap okudu.", "ekleme": "Sıfat + amaç bildiren لِـ + şeddeli fiil" }
+        ]
+      },
+      {
+        "id": "m01_lad2",
+        "baslik": "Şeddeli Fiil ile Öğretim Cümlesi Genişletme",
+        "adimlar": [
+          { "seviye": "A1.1", "ar": "مُعَلِّمٌ مُهِمٌّ.", "okunus": "Mu‘allimun muhimmun.", "tr": "Önemli bir öğretmen.", "ekleme": "İki şeddeli kelime" },
+          { "seviye": "A1.2", "ar": "عَلَّمَ الْمُعَلِّمُ الْحُرُوفَ.", "okunus": "‘Alleme'l-mu‘allimu'l-hurûfe.", "tr": "Öğretmen harfleri öğretti.", "ekleme": "Şeddeli II. bab fiil (عَلَّمَ)" },
+          { "seviye": "A2", "ar": "عَلَّمَ الْمُعَلِّمُ الطُّلَّابَ الْحُرُوفَ وَالْحَرَكَاتِ.", "okunus": "‘Alleme'l-mu‘allimu't-tullâbe'l-hurûfe ve'l-harekâti.", "tr": "Öğretmen öğrencilere harfleri ve harekeleri öğretti.", "ekleme": "İki nesneli yapı" },
+          { "seviye": "B1", "ar": "عَلَّمَ الْمُعَلِّمُ الطُّلَّابَ الْحُرُوفَ وَالْحَرَكَاتِ عَلَى السَّبُّورَةِ بِوُضُوحٍ.", "okunus": "‘Alleme'l-mu‘allimu't-tullâbe'l-hurûfe ve'l-harekâti ‘ale's-sebbûrati bi-vudûhin.", "tr": "Öğretmen öğrencilere tahtada açık bir şekilde harfleri ve harekeleri öğretti.", "ekleme": "Mekân + tarz (بِوُضُوحٍ)" },
+          { "seviye": "B2", "ar": "عَلَّمَ الْمُعَلِّمُ الطُّلَّابَ الْجُدُدَ الْحُرُوفَ وَالْحَرَكَاتِ عَلَى السَّبُّورَةِ بِوُضُوحٍ حَتَّى يَقْرَؤُوا بِطَلَاقَةٍ.", "okunus": "‘Alleme'l-mu‘allimu't-tullâbe'l-cudude'l-hurûfe ve'l-harekâti ‘ale's-sebbûrati bi-vudûhin hattâ yakraû bi-talâkatin.", "tr": "Öğretmen yeni öğrencilere akıcı okuyabilmeleri için tahtada açık bir şekilde harfleri ve harekeleri öğretti.", "ekleme": "حَتَّى amaç yan cümlesi" }
+        ]
+      },
+      {
+        "id": "m01_lad3",
+        "baslik": "Med Harfli İsim Cümlesinden Akademik İfadeye",
+        "adimlar": [
+          { "seviye": "A1.1", "ar": "الْعِلْمُ نُورٌ.", "okunus": "El-‘ilmu nûrun.", "tr": "İlim nurdur.", "ekleme": "Vâv medli temel isim cümlesi" },
+          { "seviye": "A1.2", "ar": "الْعِلْمُ نُورٌ كَبِيرٌ.", "okunus": "El-‘ilmu nûrun kebîrun.", "tr": "İlim büyük bir nurdur.", "ekleme": "Yâ medli sıfat" },
+          { "seviye": "A2", "ar": "الْعِلْمُ نُورٌ كَبِيرٌ فِي حَيَاةِ الْإِنْسَانِ.", "okunus": "El-‘ilmu nûrun kebîrun fî hayâti'l-insâni.", "tr": "İlim insanın hayatında büyük bir nurdur.", "ekleme": "İsim tamlaması ile yer bağlamı" },
+          { "seviye": "B1", "ar": "الْعِلْمُ النَّافِعُ نُورٌ كَبِيرٌ يَهْدِي الْإِنْسَانَ فِي حَيَاتِهِ.", "okunus": "El-‘ilmu'n-nâfi‘u nûrun kebîrun yehdi'l-insâne fî hayâtihî.", "tr": "Faydalı ilim, insanı hayatında doğruya ulaştıran büyük bir nurdur.", "ekleme": "Cümle sıfat (يَهْدِي)" },
+          { "seviye": "B2", "ar": "إِنَّ الْعِلْمَ النَّافِعَ نُورٌ كَبِيرٌ يَهْدِي الْإِنْسَانَ فِي حَيَاتِهِ وَيَفْتَحُ لَهُ آفَاقًا وَاسِعَةً.", "okunus": "İnne'l-‘ilme'n-nâfi‘a nûrun kebîrun yehdi'l-insâne fî hayâtihî ve yeftahu lehû âfâkan vâsi‘aten.", "tr": "Şüphesiz faydalı ilim, insana hayatında yol gösteren ve ona geniş ufuklar açan büyük bir nurdur.", "ekleme": "إِنَّ pekiştirmesi + atıf cümlesi" }
+        ]
+      },
+      {
+        "id": "m01_lad4",
+        "baslik": "Sınıf ve Yazı Pratiği Merdiveni",
+        "adimlar": [
+          { "seviye": "A1.1", "ar": "دَرْسٌ سَهْلٌ.", "okunus": "Dersun sehlun.", "tr": "Kolay bir ders.", "ekleme": "Sükûnlu iki temel kelime" },
+          { "seviye": "A1.2", "ar": "هٰذَا دَرْسٌ سَهْلٌ وَمُفِيدٌ.", "okunus": "Hâzâ dersun sehlun ve mufîdun.", "tr": "Bu kolay ve faydalı bir derstir.", "ekleme": "Hançer elifli işaret + atıf" },
+          { "seviye": "A2", "ar": "أَكْتُبُ هٰذَا الدَّرْسَ السَّهْلَ فِي دَفْتَرٍ نَظِيفٍ.", "okunus": "Ektubu hâze'd-derse's-sehle fî defterin nazîfin.", "tr": "Bu kolay dersi temiz bir deftere yazıyorum.", "ekleme": "Muzâri fiil + kesra tenvîn" },
+          { "seviye": "B1", "ar": "أَكْتُبُ هٰذَا الدَّرْسَ السَّهْلَ فِي دَفْتَرٍ نَظِيفٍ وَأَقْرَؤُهُ بِصَوْتٍ وَاضِحٍ.", "okunus": "Ektubu hâze'd-derse's-sehle fî defterin nazîfin ve ekrauhu bi-savtin vâdihin.", "tr": "Bu kolay dersi temiz bir deftere yazıyor ve açık bir sesle okuyorum.", "ekleme": "Eşzamanlı ikinci eylem" },
+          { "seviye": "B2", "ar": "أَحْرِصُ يَوْمِيًّا عَلَى كِتَابَةِ الدَّرْسِ فِي دَفْتَرٍ نَظِيفٍ وَقِرَاءَتِهِ بِصَوْتٍ وَاضِحٍ لِتَثْبِيتِ الْحَرَكَاتِ.", "okunus": "Ehrisu yevmiyyen ‘alâ kitâbeti'd-dersi fî defterin nazîfin ve kırâetihî bi-savtin vâdihin li-tesbîti'l-harekâti.", "tr": "Harekeleri pekiştirmek için her gün dersi temiz bir deftere yazmaya ve açık bir sesle okumaya özen gösteriyorum.", "ekleme": "Harf-i cerli akademik fiil (أَحْرِصُ عَلَى)" }
+        ]
+      }
+    ],
+    "bloklar": [
+      { "id": "m01_wb1", "tr": "Bu yeni bir kitaptır.", "ipucu": "İşaret + isim + sıfat", "hedefAr": "هٰذَا كِتَابٌ جَدِيدٌ", "karisik": ["جَدِيدٌ", "هٰذَا", "كِتَابٌ"] },
+      { "id": "m01_wb2", "tr": "Öğrenci bir ders yazdı.", "ipucu": "Fiil + Fâil + Fetha tenvînli nesne", "hedefAr": "كَتَبَ الطَّالِبُ دَرْسًا", "karisik": ["دَرْسًا", "كَتَبَ", "الطَّالِبُ"] },
+      { "id": "m01_wb3", "tr": "Çok teşekkürler arkadaşım.", "ipucu": "İki fetha tenvînli kelime + hitap", "hedefAr": "شُكْرًا جَزِيلًا يَا صَدِيقِي", "karisik": ["صَدِيقِي", "جَزِيلًا", "شُكْرًا", "يَا"] },
+      { "id": "m01_wb4", "tr": "İlim büyük bir nurdur.", "ipucu": "Mübtedâ + haber + sıfat", "hedefAr": "الْعِلْمُ نُورٌ كَبِيرٌ", "karisik": ["كَبِيرٌ", "الْعِلْمُ", "نُورٌ"] },
+      { "id": "m01_wb5", "tr": "Öğretmen harfleri öğretti.", "ipucu": "Şeddeli fiil başta", "hedefAr": "عَلَّمَ الْمُعَلِّمُ الْحُرُوفَ", "karisik": ["الْحُرُوفَ", "الْمُعَلِّمُ", "عَلَّمَ"] },
+      { "id": "m01_wb6", "tr": "Bu geniş bir evdir.", "ipucu": "هٰذَا + بَيْتٌ + وَاسِعٌ", "hedefAr": "هٰذَا بَيْتٌ وَاسِعٌ", "karisik": ["وَاسِعٌ", "بَيْتٌ", "هٰذَا"] },
+      { "id": "m01_wb7", "tr": "Soğuk bir su içtim.", "ipucu": "مَاءً elif almaz, بَارِدًا elif alır", "hedefAr": "شَرِبْتُ مَاءً بَارِدًا", "karisik": ["بَارِدًا", "شَرِبْتُ", "مَاءً"] },
+      { "id": "m01_wb8", "tr": "Sınıf temiz ve düzenlidir.", "ipucu": "İki şeddeli kelimeye dikkat", "hedefAr": "الصَّفُّ نَظِيفٌ وَمُرَتَّبٌ", "karisik": ["وَمُرَتَّبٌ", "الصَّفُّ", "نَظِيفٌ"] },
+      { "id": "m01_wb9", "tr": "Bir kalem ve bir çanta aldım.", "ipucu": "قَلَمًا elif alır, حَقِيبَةً almaz", "hedefAr": "اشْتَرَيْتُ قَلَمًا وَحَقِيبَةً", "karisik": ["وَحَقِيبَةً", "اشْتَرَيْتُ", "قَلَمًا"] },
+      { "id": "m01_wb10", "tr": "Ahmed yeni bir metin okudu.", "ipucu": "Fiil + Ahmed + nesne + sıfat", "hedefAr": "قَرَأَ أَحْمَدُ نَصًّا جَدِيدًا", "karisik": ["جَدِيدًا", "أَحْمَدُ", "قَرَأَ", "نَصًّا"] },
+      { "id": "m01_wb11", "tr": "Ders çok açıktır.", "ipucu": "الدَّرْسُ + وَاضِحٌ + جِدًّا", "hedefAr": "الدَّرْسُ وَاضِحٌ جِدًّا", "karisik": ["جِدًّا", "الدَّرْسُ", "وَاضِحٌ"] },
+      { "id": "m01_wb12", "tr": "Her gün Arapça okuyorum.", "ipucu": "كُلَّ يَوْمٍ başta veya sonda", "hedefAr": "أَقْرَأُ الْعَرَبِيَّةَ كُلَّ يَوْمٍ", "karisik": ["يَوْمٍ", "الْعَرَبِيَّةَ", "كُلَّ", "أَقْرَأُ"] },
+      { "id": "m01_wb13", "tr": "Tahta öğrencilerin önündedir.", "ipucu": "السَّبُّورَةُ başta", "hedefAr": "السَّبُّورَةُ أَمَامَ الطُّلَّابِ", "karisik": ["الطُّلَّابِ", "السَّبُّورَةُ", "أَمَامَ"] },
+      { "id": "m01_wb14", "tr": "Hepiniz hoş geldiniz.", "ipucu": "أَهْلًا وَسَهْلًا kalıbı", "hedefAr": "أَهْلًا وَسَهْلًا بِكُمْ جَمِيعًا", "karisik": ["جَمِيعًا", "بِكُمْ", "وَسَهْلًا", "أَهْلًا"] },
+      { "id": "m01_wb15", "tr": "Hoca önemli bir ders anlattı.", "ipucu": "Şeddeli دَرَّسَ fiili başta", "hedefAr": "دَرَّسَ الْأُسْتَاذُ دَرْسًا مُهِمًّا", "karisik": ["مُهِمًّا", "الْأُسْتَاذُ", "دَرَّسَ", "دَرْسًا"] }
+    ]
+  },
+  "readings": [
+    {
+      "id": "m01_r1",
+      "baslik": "Arapça Sınıfta İlk Gün",
+      "arBaslik": "الْيَوْمُ الْأَوَّلُ فِي صَفِّ الْعَرَبِيَّةِ",
+      "paragraflar": [
+        {
+          "ar": "فِي صَبَاحٍ جَمِيلٍ، دَخَلَ الطَّالِبُ طَارِقٌ صَفَّ اللُّغَةِ الْعَرَبِيَّةِ لِلْمَرَّةِ الْأُولَى. كَانَ الصَّفُّ وَاسِعًا وَنَظِيفًا، وَأَمَامَ الطُّلَّابِ سَبُّورَةٌ كَبِيرَةٌ وَمَكْتَبٌ مُرَتَّبٌ.",
+          "okunus": "Fî sabâhin cemîlin, dehale't-tâlibu Târikun saffe'l-lugati'l-‘arabiyyeti li'l-merrati'l-ûlâ. Kâne's-saffu vâsi‘an ve nazîfen, ve emâme't-tullâbi sebbûratun kebîratun ve mektebun murattebun.",
+          "tr": "Güzel bir sabahta öğrenci Tarık ilk kez Arapça sınıfına girdi. Sınıf geniş ve temizdi; öğrencilerin önünde büyük bir tahta ve düzenli bir masa vardı.",
+          "analiz": [
+            { "kelime": "صَبَاحٍ", "kok": "ص-ب-ح", "gramer": "İsim (kesra tenvînli)", "tr": "bir sabah", "cardId": "m01_c1" },
+            { "kelime": "سَبُّورَةٌ", "kok": "س-ب-ر", "gramer": "İsim (şeddeli + vâv medli)", "tr": "tahta", "cardId": "m01_c12" },
+            { "kelime": "مُرَتَّبٌ", "kok": "ر-ت-ب", "gramer": "Sıfat (şeddeli)", "tr": "düzenli" }
+          ]
+        },
+        {
+          "ar": "رَحَّبَ الْمُعَلِّمُ بِالطُّلَّابِ وَقَالَ: أَهْلًا وَسَهْلًا بِكُمْ جَمِيعًا! كَتَبَ الْمُعَلِّمُ عَلَى السَّبُّورَةِ ثَمَانِيَةً وَعِشْرِينَ حَرْفًا بِخَطٍّ وَاضِحٍ وَجَمِيلٍ.",
+          "okunus": "Rahhabe'l-mu‘allimu bi't-tullâbi ve kâle: Ehlen ve sehlen bikum cemî‘an! Ketebe'l-mu‘allimu ‘ale's-sebbûrati semâniyeten ve ‘işrîne harfen bi-hattin vâdihin ve cemîlin.",
+          "tr": "Öğretmen öğrencileri karşıladı ve 'Hepiniz hoş geldiniz!' dedi. Öğretmen tahtaya açık ve güzel bir yazıyla yirmi sekiz harf yazdı.",
+          "analiz": [
+            { "kelime": "الْمُعَلِّمُ", "kok": "ع-ل-م", "gramer": "İsm-i Fâil (şeddeli)", "tr": "öğretmen", "cardId": "m01_c11" },
+            { "kelime": "حَرْفًا", "kok": "ح-ر-ف", "gramer": "İsim (fetha tenvîni + elif)", "tr": "harf", "cardId": "m01_c2" }
+          ]
+        },
+        {
+          "ar": "شَرَحَ الْمُعَلِّمُ الْحُرُوفَ الَّتِي لَا تَتَّصِلُ بِمَا بَعْدَهَا، وَهِيَ سِتَّةُ حُرُوفٍ: الْأَلِفُ وَالدَّالُ وَالذَّالُ وَالرَّاءُ وَالزَّايُ وَالْوَاوُ. فَهِمَ طَارِقٌ الْقَاعِدَةَ بِسُرْعَةٍ وَكَتَبَ أَمْثِلَةً فِي دَفْتَرِهِ.",
+          "okunus": "Şeraha'l-mu‘allimu'l-hurûfe'l-letî lâ tettesilu bimâ ba‘dehâ, ve hiye sittetu hurûfin: el-elifu ve'd-dâlu ve'z-zâlu ve'r-râu ve'z-zâyu ve'l-vâvu. Fehime Târikun el-kâ‘idete bi-sur‘atin ve ketebe emsileten fî defterihî.",
+          "tr": "Öğretmen kendinden sonrakine birleşmeyen harfleri açıkladı; bunlar altı harftir: Elif, Dâl, Zâl, Râ, Zây ve Vâv. Tarık kuralı hızla anladı ve defterine örnekler yazdı.",
+          "analiz": [
+            { "kelime": "دَفْتَرِهِ", "kok": "د-ف-ت-ر", "gramer": "İsim + iyelik zamiri", "tr": "defterinde", "cardId": "m01_c6" },
+            { "kelime": "أَمْثِلَةً", "kok": "م-ث-ل", "gramer": "Çoğul isim (ة ile elifsiz tenvîn)", "tr": "örnekler" }
+          ]
+        },
+        {
+          "ar": "فِي نِهَايَةِ الدَّرْسِ، قَرَأَ طَارِقٌ كَلِمَاتٍ بَسِيطَةً مِثْلَ كِتَابٍ وَقَلَمٍ وَبَابٍ وَنُورٍ. قَالَ طَارِقٌ فَرِحًا: الْقِرَاءَةُ الْعَرَبِيَّةُ سَهْلَةٌ وَمُمْتِعَةٌ جِدًّا!",
+          "okunus": "Fî nihâyeti'd-dersi, karae Târikun kelimâtin besîtatin misle kitâbin ve kalemin ve bâbin ve nûrin. Kâle Târikun ferihan: El-kırâetu'l-‘arabiyyetu sehletun ve mumti‘atun cidden!",
+          "tr": "Dersin sonunda Tarık; kitap, kalem, kapı ve nur gibi basit kelimeleri okudu. Tarık sevinçle dedi ki: Arapça okuma çok kolay ve keyifliymiş!",
+          "analiz": [
+            { "kelime": "الْقِرَاءَةُ", "kok": "ق-ر-أ", "gramer": "Mastar (merfû)", "tr": "okuma", "cardId": "m01_c15" },
+            { "kelime": "نُورٍ", "kok": "ن-و-ر", "gramer": "Vâv medli + kesra tenvîn", "tr": "nur / ışık", "cardId": "m01_c9" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m01_r1_q1", "soru": "Tarık sınıfa ne zaman girdi?", "secenekler": ["Akşamleyin", "Güzel bir sabahta", "Gece yarısı", "Öğle tatilinde"], "dogruIndeks": 1, "aciklama": "İlk cümlede 'فِي صَبَاحٍ جَمِيلٍ' (güzel bir sabahta) geçmektedir." },
+        { "id": "m01_r1_q2", "soru": "Öğretmen tahtaya kaç harf yazdı?", "secenekler": ["24 harf", "26 harf", "28 harf", "32 harf"], "dogruIndeks": 2, "aciklama": "ثَمَانِيَةً وَعِشْرِينَ حَرْفًا = 28 harf." },
+        { "id": "m01_r1_q3", "soru": "Metne göre kendinden sonrakine birleşmeyen kaç harf vardır?", "secenekler": ["4 harf", "6 harf", "8 harf", "10 harf"], "dogruIndeks": 1, "aciklama": "سِتَّةُ حُرُوفٍ = 6 harf (ا د ذ ر ز و)." },
+        { "id": "m01_r1_q4", "soru": "Tarık örnekleri nereye yazdı?", "secenekler": ["Tahtaya", "Kitabına", "Defterine", "Masaya"], "dogruIndeks": 2, "aciklama": "فِي دَفْتَرِهِ = defterine." },
+        { "id": "m01_r1_q5", "soru": "Ders sonunda Tarık Arapça okuma hakkında ne düşündü?", "secenekler": ["Çok zor olduğunu", "Çok kolay ve keyifli olduğunu", "Çok uzun sürdüğünü", "Sıkıcı olduğunu"], "dogruIndeks": 1, "aciklama": "سَهْلَةٌ وَمُمْتِعَةٌ جِدًّا = çok kolay ve keyifli." }
+      ]
+    },
+    {
+      "id": "m01_r2",
+      "baslik": "Harekelerin ve Meddin Sırrı",
+      "arBaslik": "سِرُّ الْحَرَكَاتِ وَحُرُوفِ الْمَدِّ",
+      "paragraflar": [
+        {
+          "ar": "جَلَسَتْ سَلْمَى فِي الْمَكْتَبَةِ تَدْرُسُ الْحَرَكَاتِ الْقَصِيرَةَ وَالطَّوِيلَةَ. لَاحَظَتْ أَنَّ حَرَكَةً وَاحِدَةً قَدْ تُغَيِّرُ مَعْنَى الْكَلِمَةِ كُلِّهِ.",
+          "okunus": "Celeset Selmâ fi'l-mektebeti tedrusu'l-harekâti'l-kasîrate ve't-tavîlete. Lâhazat enne harekaten vâhideten kad tugayyiru ma‘ne'l-kelimeti kullihî.",
+          "tr": "Selma kütüphanede oturup kısa ve uzun harekeleri çalışıyordu. Tek bir harekenin kelimenin tüm anlamını değiştirebildiğini fark etti.",
+          "analiz": [
+            { "kelime": "الْمَكْتَبَةِ", "kok": "ك-ت-ب", "gramer": "İsm-i Mekân (mecrûr)", "tr": "kütüphane", "cardId": "m01_c5" },
+            { "kelime": "الْحَرَكَاتِ", "kok": "ح-ر-ك", "gramer": "Cemi Müennes Sâlim", "tr": "harekeler", "cardId": "m01_c3" }
+          ]
+        },
+        {
+          "ar": "فَفِي كَلِمَةِ «عَلَمٌ» نَرَى حَرَكَاتٍ قَصِيرَةً، وَمَعْنَاهَا رَايَةٌ. أَمَّا إِذَا أَضَفْنَا أَلِفَ الْمَدِّ فَتُصْبِحُ «عَالَمٌ» وَمَعْنَاهَا الْكَوْنُ وَالدُّنْيَا.",
+          "okunus": "Fe-fî kelimeti ‘alemun nerâ harekâtin kasîratin, ve ma‘nâhâ râyetun. Emmâ izâ edafnâ elife'l-meddi fe-tusbihu ‘âlemun ve ma‘nâhâ el-kevnu ve'd-dunyâ.",
+          "tr": "Örneğin 'alemun' kelimesinde kısa harekeler görürüz ve anlamı bayraktır. Ama Elif meddi eklersek 'âlemun' olur ve anlamı kâinat ve dünyadır.",
+          "analiz": [
+            { "kelime": "عَلَمٌ", "kok": "ع-ل-م", "gramer": "Medsiz isim", "tr": "bayrak" },
+            { "kelime": "عَالَمٌ", "kok": "ع-ل-م", "gramer": "Elif medli isim", "tr": "dünya / âlem", "cardId": "m01_c22" }
+          ]
+        },
+        {
+          "ar": "ثُمَّ قَارَنَتْ بَيْنَ «دَرَسَ» بِدُونِ شَدَّةٍ وَ«دَرَّسَ» بِالشَّدَّةِ. قَالَتْ سَلْمَى: الطَّالِبُ يَدْرُسُ، وَالْأُسْتَاذُ يُدَرِّسُ! مَا أَدَقَّ هٰذَا النِّظَامَ الصَّوْتِيَّ!",
+          "okunus": "Summe kâranet beyne derese bi-dûni şeddetin ve derrese bi'ş-şeddeti. Kâlet Selmâ: Et-tâlibu yedrusu, ve'l-ustâzu yuderrisu! Mâ edakka hâze'n-nizâme's-savtiyye!",
+          "tr": "Sonra şeddesiz 'derese' ile şeddeli 'derrese'yi karşılaştırdı. Selma dedi ki: Öğrenci ders çalışır, hoca ders verir! Bu ses sistemi ne kadar ince!",
+          "analiz": [
+            { "kelime": "الشَّدَّةِ", "kok": "ش-د-د", "gramer": "Şeddeli isim", "tr": "şedde", "cardId": "m01_c10" },
+            { "kelime": "يُدَرِّسُ", "kok": "د-ر-س", "gramer": "II. Bab muzâri (şeddeli)", "tr": "ders veriyor" }
+          ]
+        },
+        {
+          "ar": "وَقَبْلَ أَنْ تَخْرُجَ مِنَ الْمَكْتَبَةِ، سَجَّلَتْ صَوْتَهَا وَهِيَ تَقْرَأُ الْأَمْثِلَةَ بِبُطْءٍ ثُمَّ بِسُرْعَةٍ طَبِيعِيَّةٍ. هٰكَذَا تَتَعَوَّدُ الْأُذُنُ عَلَى التَّمِيزِ بَيْنَ الطَّوِيلِ وَالْقَصِيرِ.",
+          "okunus": "Ve kable en tahruce mine'l-mektebeti, seccelet savtehâ ve hiye takrau'l-emsilete bi-but'in summe bi-sur‘atin tabî‘iyyetin. Hâkezâ tete‘avvedu'l-uzunu ‘ale't-temyîzi beyne't-tavîli ve'l-kasîri.",
+          "tr": "Kütüphaneden çıkmadan önce örnekleri önce yavaş, sonra doğal hızda okurken sesini kaydetti. Kulak uzun ile kısayı ayırt etmeye işte böyle alışır.",
+          "analiz": [
+            { "kelime": "صَوْتَهَا", "kok": "ص-و-ت", "gramer": "İsim + zamir", "tr": "sesini", "cardId": "m01_c17" },
+            { "kelime": "طَبِيعِيَّةٍ", "kok": "ط-ب-ع", "gramer": "İsm-i Mensûb (şeddeli ي)", "tr": "doğal" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m01_r2_q1", "soru": "Selma harekeleri nerede çalışıyordu?", "secenekler": ["Evde", "Kütüphanede", "Parkta", "Çarşıda"], "dogruIndeks": 1, "aciklama": "فِي الْمَكْتَبَةِ = kütüphanede." },
+        { "id": "m01_r2_q2", "soru": "عَلَمٌ kelimesi Elif meddi alınca hangi anlama gelir?", "secenekler": ["Bayrak", "Kalem", "Dünya / Kâinat", "Öğretmen"], "dogruIndeks": 2, "aciklama": "عَالَمٌ = kâinat ve dünya." },
+        { "id": "m01_r2_q3", "soru": "Metne göre دَرَّسَ (şeddeli) fiilini kim yapar?", "secenekler": ["Öğrenci", "Hoca / Öğretmen", "Kütüphaneci", "Çocuk"], "dogruIndeks": 1, "aciklama": "وَالْأُسْتَاذُ يُدَرِّسُ = hoca ders verir." },
+        { "id": "m01_r2_q4", "soru": "Selma çıkmadan önce telaffuzunu geliştirmek için ne yaptı?", "secenekler": ["Kitap satın aldı", "Sesini kaydedip yavaş ve doğal hızda okudu", "Arkadaşını aradı", "Sadece sessiz okudu"], "dogruIndeks": 1, "aciklama": "سَجَّلَتْ صَوْتَهَا... بِبُطْءٍ ثُمَّ بِسُرْعَةٍ طَبِيعِيَّةٍ." },
+        { "id": "m01_r2_q5", "soru": "Bu alıştırmanın kulağa sağladığı fayda nedir?", "secenekler": ["Hızlı yazmak", "Uzun ve kısa sesleri ayırt etmeye alışmak", "Sadece ezber yapmak", "Çeviri yapmak"], "dogruIndeks": 1, "aciklama": "التَّمْيِيزِ بَيْنَ الطَّوِيلِ وَالْقَصِيرِ." }
+      ]
+    },
+    {
+      "id": "m01_r3",
+      "baslik": "Kırtasiyede Küçük Bir Alışveriş",
+      "arBaslik": "تَسَوُّقٌ بَسِيطٌ فِي الْمَكْتَبَةِ التِّجَارِيَّةِ",
+      "paragraflar": [
+        {
+          "ar": "ذَهَبَ يُوسُفُ إِلَى دُكَّانِ الْأَدَوَاتِ الْمَدْرَسِيَّةِ لِيَشْتَرِيَ لَوَازِمَ دِرَاسَتِهِ الْجَدِيدَةِ. كَانَ الدُّكَّانُ مَلِيئًا بِالْكُتُبِ وَالدَّفَاتِرِ وَالْأَقْلَامِ الْمُلَوَّنَةِ.",
+          "okunus": "Zehebe Yûsufu ilâ dukkâni'l-edevâti'l-medresiyyeti li-yeşteriye levâzime dirâsetihi'l-cedîdeti. Kâne'd-dukkânu melîen bi'l-kutubi ve'd-defâtiri ve'l-eklâmi'l-mulevveneti.",
+          "tr": "Yusuf yeni eğitiminin malzemelerini almak için okul gereçleri dükkânına gitti. Dükkân kitaplar, defterler ve renkli kalemlerle doluydu.",
+          "analiz": [
+            { "kelime": "دُكَّانِ", "kok": "د-ك-ن", "gramer": "Şeddeli + Elif medli", "tr": "dükkân" },
+            { "kelime": "مَلِيئًا", "kok": "م-ل-أ", "gramer": "Fetha tenvînli sıfat", "tr": "dolu" }
+          ]
+        },
+        {
+          "ar": "اِخْتَارَ يُوسُفُ قَلَمًا أَزْرَقَ وَدَفْتَرًا كَبِيرًا لِتَدْرِيبِ الْخَطِّ الْعَرَبِيِّ، وَاشْتَرَى أَيْضًا حَقِيبَةً خَفِيفَةً وَمِسْطَرَةً صَغِيرَةً.",
+          "okunus": "İhtâra Yûsufu kalemen ezraka ve defteren kebîren li-tedrîbi'l-hatti'l-‘arabiyyi, ve'şterâ eydan hakîbeten hafîfeten ve mistaraten sagîraten.",
+          "tr": "Yusuf Arapça yazı pratiği için mavi bir kalem ve büyük bir defter seçti; ayrıca hafif bir çanta ve küçük bir cetvel aldı.",
+          "analiz": [
+            { "kelime": "قَلَمًا", "kok": "ق-ل-م", "gramer": "Fetha tenvîni + elif", "tr": "bir kalem", "cardId": "m01_c4" },
+            { "kelime": "حَقِيبَةً", "kok": "ح-ق-ب", "gramer": "ة ile elifsiz tenvîn", "tr": "bir çanta", "cardId": "m01_c26" }
+          ]
+        },
+        {
+          "ar": "أَعْطَاهُ الْبَائِعُ كُرَّاسَةً إِضَافِيَّةً هَدِيَّةً وَقَالَ: هٰذِهِ كُرَّاسَةٌ خَاصَّةٌ بِكِتَابَةِ الْحُرُوفِ وَتَنْوِينِ الْأَسْمَاءِ. اِبْتَسَمَ يُوسُفُ وَقَالَ: شُكْرًا جَزِيلًا!",
+          "okunus": "E‘tâhu'l-bâi‘u kurrâseten idâfiyyeten hediyyeten ve kâle: Hâzihî kurrâsetun hâssatun bi-kitâbeti'l-hurûfi ve tenvîni'l-esmâi. İbteseme Yûsufu ve kâle: Şukran cezîlen!",
+          "tr": "Satıcı ona hediye olarak fazladan bir deftercik verdi ve 'Bu, harfleri yazmaya ve isimleri tenvînlemeye özel bir çalışma defteridir' dedi. Yusuf gülümsedi ve 'Çok teşekkürler!' dedi.",
+          "analiz": [
+            { "kelime": "كُرَّاسَةً", "kok": "ك-ر-س", "gramer": "Şeddeli + medli + ة tenvîn", "tr": "çalışma defteri" },
+            { "kelime": "شُكْرًا", "kok": "ش-ك-ر", "gramer": "Fetha tenvînli kalıp", "tr": "teşekkürler", "cardId": "m01_c13" }
+          ]
+        },
+        {
+          "ar": "عَادَ يُوسُفُ إِلَى بَيْتِهِ مُبَكِّرًا وَبَدَأَ يَكْتُبُ أَوَّلَ صَفْحَةٍ بِعِنَايَةٍ. كَانَ يَضَعُ كُلَّ نُقْطَةٍ وَكُلَّ حَرَكَةٍ فِي مَكَانِهَا الصَّحِيحِ.",
+          "okunus": "‘Âde Yûsufu ilâ beytihî mubekkiren ve bedee yektubu evvele safhatin bi-‘inâyetin. Kâne yeda‘u kulle nuktatın ve kulle harekatin fî mekânihe's-sahîhi.",
+          "tr": "Yusuf evine erkenden döndü ve ilk sayfayı özenle yazmaya başladı. Her noktayı ve her harekeyi doğru yerine koyuyordu.",
+          "analiz": [
+            { "kelime": "مُبَكِّرًا", "kok": "ب-ك-ر", "gramer": "Şeddeli hâl/zarf", "tr": "erkenden" },
+            { "kelime": "نُقْطَةٍ", "kok": "ن-ق-ط", "gramer": "Kesra tenvînli isim", "tr": "nokta" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m01_r3_q1", "soru": "Yusuf kırtasiyeye neden gitti?", "secenekler": ["Sadece kitap okumak için", "Yeni eğitim malzemelerini almak için", "Arkadaşını görmek için", "Çalışmak için"], "dogruIndeks": 1, "aciklama": "لِيَشْتَرِيَ لَوَازِمَ دِرَاسَتِهِ الْجَدِيدَةِ." },
+        { "id": "m01_r3_q2", "soru": "Yusuf'un seçtiği kalemin rengi nedir?", "secenekler": ["Kırmızı", "Yeşil", "Mavi", "Siyah"], "dogruIndeks": 2, "aciklama": "قَلَمًا أَزْرَقَ = mavi bir kalem." },
+        { "id": "m01_r3_q3", "soru": "Satıcı Yusuf'a hediye olarak ne verdi?", "secenekler": ["Bir kalem", "Harf ve tenvîn çalışma defteri", "Büyük bir sözlük", "Bir çanta"], "dogruIndeks": 1, "aciklama": "كُرَّاسَةً إِضَافِيَّةً هَدِيَّةً... خَاصَّةٌ بِكِتَابَةِ الْحُرُوفِ وَتَنْوِينِ الْأَسْمَاءِ." },
+        { "id": "m01_r3_q4", "soru": "Metinde fetha tenvînli olup destek Elifi ALMAYAN kelime hangisidir?", "secenekler": ["قَلَمًا", "دَفْتَرًا", "حَقِيبَةً", "مُبَكِّرًا"], "dogruIndeks": 2, "aciklama": "حَقِيبَةً kelimesi ة ile bittiği için destek elifi almaz." },
+        { "id": "m01_r3_q5", "soru": "Yusuf eve dönünce ne yaptı?", "secenekler": ["Uyudu", "İlk sayfayı nokta ve harekelerine özen göstererek yazdı", "Televizyon izledi", "Tekrar dışarı çıktı"], "dogruIndeks": 1, "aciklama": "بَدَأَ يَكْتُبُ أَوَّلَ صَفْحَةٍ بِعِنَايَةٍ." }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "m01_dlg1",
+      "baslik": "Sınıfta Tanışma ve İlk Ders",
+      "ortam": "Dil kursu sınıfı — Öğretmen ile yeni öğrenci arasında",
+      "replikler": [
+        { "konusan": "المُعَلِّم", "ar": "السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ، أَهْلًا وَسَهْلًا بِكُمْ!", "okunus": "Es-selâmu ‘aleykum ve rahmetullâhi, ehlen ve sehlen bikum!", "tr": "Selamün aleyküm, hepiniz hoş geldiniz!" },
+        { "konusan": "عُمَر", "ar": "وَعَلَيْكُمُ السَّلَامُ يَا أُسْتَاذُ، شُكْرًا جَزِيلًا.", "okunus": "Ve ‘aleykumu's-selâmu yâ ustâzu, şukran cezîlen.", "tr": "Aleykümselam hocam, çok teşekkür ederim." },
+        { "konusan": "المُعَلِّم", "ar": "مَا اسْمُكَ يَا أَخِي؟", "okunus": "Masmuke yâ ehî?", "tr": "Adın nedir kardeşim?" },
+        { "konusan": "عُمَر", "ar": "اِسْمِي عُمَرُ، أَنَا طَالِبٌ جَدِيدٌ.", "okunus": "İsmî ‘Umeru, ene tâlibun cedîdun.", "tr": "Adım Ömer, ben yeni bir öğrenciyim." },
+        { "konusan": "المُعَلِّم", "ar": "تَشَرَّفْنَا يَا عُمَرُ! هَلْ تَعْرِفُ الْحُرُوفَ الْعَرَبِيَّةَ؟", "okunus": "Teşerrefnâ yâ ‘Umeru! Hel ta‘rifu'l-hurûfe'l-‘arabiyyete?", "tr": "Memnun oldum Ömer! Arap harflerini biliyor musun?" },
+        { "konusan": "عُمَر", "ar": "نَعَمْ، أَعْرِفُ الْحُرُوفَ، وَلٰكِنْ أُرِيدُ تَعَلُّمَ الْحَرَكَاتِ جَيِّدًا.", "okunus": "Na‘am, e‘rifu'l-hurûfe, ve lâkin urîdu te‘allume'l-harekâti ceyyiden.", "tr": "Evet, harfleri biliyorum ama harekeleri iyice öğrenmek istiyorum." },
+        { "konusan": "المُعَلِّم", "ar": "مُمْتَازٌ! هٰذَا دَرْسُنَا الْأَوَّلُ الْيَوْمَ.", "okunus": "Mumtâzun! Hâzâ dersune'l-evvelu'l-yevme.", "tr": "Harika! Bugünkü ilk dersimiz bu." },
+        { "konusan": "عُمَر", "ar": "هَلْ هُنَاكَ كِتَابٌ خَاصٌّ لِلْقِرَاءَةِ؟", "okunus": "Hel hunâke kitâbun hâssun li'l-kırâeti?", "tr": "Okuma için özel bir kitap var mı?" },
+        { "konusan": "المُعَلِّم", "ar": "نَعَمْ، هٰذَا كِتَابٌ وَاضِحٌ وَكُلُّ كَلِمَاتِهِ بِالْحَرَكَاتِ.", "okunus": "Na‘am, hâzâ kitâbun vâdihun ve kullu kelimâtihî bi'l-harekâti.", "tr": "Evet, bu açık bir kitaptır ve tüm kelimeleri harekelidir." },
+        { "konusan": "عُمَر", "ar": "رَائِعٌ! وَهَلْ نَتَدَرَّبُ عَلَى النُّطْقِ أَيْضًا؟", "okunus": "Râi‘un! Ve hel netederrebu ‘ale'n-nutki eydan?", "tr": "Müthiş! Telaffuz pratiği de yapacak mıyız?" },
+        { "konusan": "المُعَلِّم", "ar": "طَبْعًا! نَسْمَعُ الصَّوْتَ ثُمَّ نُكَرِّرُهُ مَعًا.", "okunus": "Tab‘an! Nesme‘u's-savte summe nukerriruhû me‘an.", "tr": "Elbette! Sesi dinleyip sonra birlikte tekrar edeceğiz." },
+        { "konusan": "عُمَر", "ar": "شُكْرًا يَا أُسْتَاذُ، أَنَا مُتَحَمِّسٌ جِدًّا لِلدَّرْسِ!", "okunus": "Şukran yâ ustâzu, ene mutehammisun cidden li'd-dersi!", "tr": "Teşekkürler hocam, ders için çok heyecanlıyım!" }
+      ],
+      "partner": [
+        {
+          "soruAr": "أَهْلًا وَسَهْلًا بِكَ فِي صَفِّ الْعَرَبِيَّةِ! مَا اسْمُكَ؟",
+          "soruTr": "Arapça sınıfına hoş geldin! Adın nedir?",
+          "ipucu": "اِسْمِي ... (Adım ...) kalıbıyla kendini tanıt.",
+          "secenekler": [
+            { "ar": "اِسْمِي عُمَرُ، أَنَا طَالِبٌ جَدِيدٌ.", "tr": "Adım Ömer, ben yeni bir öğrenciyim." },
+            { "ar": "هٰذَا قَلَمٌ كَبِيرٌ.", "tr": "Bu büyük bir kalemdir." },
+            { "ar": "الدَّرْسُ طَوِيلٌ.", "tr": "Ders uzundur." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "مَا اسْمُكَ sorusuna اِسْمِي (adım...) ile karşılık verilir."
+        },
+        {
+          "soruAr": "هَلْ تَعْرِفُ الْحُرُوفَ الْعَرَبِيَّةَ؟",
+          "soruTr": "Arap harflerini biliyor musun?",
+          "ipucu": "نَعَمْ (evet) veya لَا (hayır) ile başlayıp açıkla.",
+          "secenekler": [
+            { "ar": "نَعَمْ، أَعْرِفُ الْحُرُوفَ وَأَتَعَلَّمُ الْحَرَكَاتِ.", "tr": "Evet, harfleri biliyorum ve harekeleri öğreniyorum." },
+            { "ar": "شُكْرًا عَلَى الطَّعَامِ.", "tr": "Yemek için teşekkürler." },
+            { "ar": "السَّبُّورَةُ أَمَامَ الصَّفِّ.", "tr": "Tahta sınıfın önünde." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "هَلْ sorusu نَعَمْ veya لَا ile yanıtlanır."
+        },
+        {
+          "soruAr": "هَلْ مَعَكَ دَفْتَرٌ وَقَلَمٌ الْيَوْمَ؟",
+          "soruTr": "Bugün yanında defter ve kalem var mı?",
+          "ipucu": "Yanında olduğunu ifade etmek için نَعَمْ، مَعِي... kullan.",
+          "secenekler": [
+            { "ar": "نَعَمْ، مَعِي دَفْتَرٌ نَظِيفٌ وَقَلَمٌ أَزْرَقُ.", "tr": "Evet, yanımda temiz bir defter ve mavi bir kalem var." },
+            { "ar": "أَنَا فِي الْبَيْتِ.", "tr": "Ben evdeyim." },
+            { "ar": "عَفْوًا يَا صَدِيقِي.", "tr": "Rica ederim arkadaşım." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "مَعَكَ sorusuna مَعِي (yanımda) şeklinde yanıt verilir."
+        },
+        {
+          "soruAr": "تَفَضَّلْ، هٰذَا كِتَابُ الْقِرَاءَةِ الْجَدِيدُ.",
+          "soruTr": "Buyur, bu yeni okuma kitabı.",
+          "ipucu": "Fetha tenvînli nezaket kalıbıyla teşekkür et.",
+          "secenekler": [
+            { "ar": "شُكْرًا جَزِيلًا يَا أُسْتَاذُ!", "tr": "Çok teşekkür ederim hocam!" },
+            { "ar": "أَيْنَ السُّوقُ؟", "tr": "Çarşı nerede?" },
+            { "ar": "دَرَسَ الطَّالِبُ.", "tr": "Öğrenci ders çalıştı." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "شُكْرًا جَزِيلًا en doğal teşekkür kalıbıdır."
+        },
+        {
+          "soruAr": "هَلْ أَنْتَ مُسْتَعِدٌّ لِلْبَدْءِ؟",
+          "soruTr": "Başlamaya hazır mısın?",
+          "ipucu": "طَبْعًا (elbette) ile olumlu cevap ver.",
+          "secenekler": [
+            { "ar": "طَبْعًا! أَنَا مُسْتَعِدٌّ تَمَامًا.", "tr": "Elbette! Tamamen hazırım." },
+            { "ar": "الْكِتَابُ قَدِيمٌ.", "tr": "Kitap eskidir." },
+            { "ar": "نَهْرُ النِّيلِ طَوِيلٌ.", "tr": "Nil Nehri uzundur." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "طَبْعًا (elbette) tenvînli pekiştirme cevabıdır."
+        }
+      ]
+    },
+    {
+      "id": "m01_dlg2",
+      "baslik": "Kırtasiyede Defter ve Kalem Seçimi",
+      "ortam": "Kırtasiye dükkânı — Müşteri ve satıcı",
+      "replikler": [
+        { "konusan": "البَائِع", "ar": "مَرْحَبًا بِكَ، كَيْفَ أُسَاعِدُكَ؟", "okunus": "Merhaben bike, keyfe usâ‘iduke?", "tr": "Merhaba, size nasıl yardımcı olabilirim?" },
+        { "konusan": "زَيْنَب", "ar": "أُرِيدُ دَفْتَرًا كَبِيرًا لِلْكِتَابَةِ الْعَرَبِيَّةِ.", "okunus": "Urîdu defteren kebîren li'l-kitâbeti'l-‘arabiyyeti.", "tr": "Arapça yazmak için büyük bir defter istiyorum." },
+        { "konusan": "البَائِع", "ar": "تَفَضَّلِي، هٰذَا دَفْتَرٌ مُسَطَّرٌ وَجَمِيلٌ.", "okunus": "Tefaddalî, hâzâ defterun musattarun ve cemîlun.", "tr": "Buyurun, bu çizgili ve güzel bir defter." },
+        { "konusan": "زَيْنَب", "ar": "مُمْتَازٌ! وَهَلْ عِنْدَكَ قَلَمُ خَطٍّ؟", "okunus": "Mumtâzun! Ve hel ‘indeke kalemu hattin?", "tr": "Harika! Peki kaligrafi/yazı kaleminiz var mı?" },
+        { "konusan": "البَائِع", "ar": "نَعَمْ، عِنْدَنَا قَلَمٌ أَسْوَدُ وَقَلَمٌ أَزْرَقُ.", "okunus": "Na‘am, ‘indenâ kalemun esvedu ve kalemun ezraku.", "tr": "Evet, siyah bir kalemimiz ve mavi bir kalemimiz var." },
+        { "konusan": "زَيْنَب", "ar": "أُرِيدُ قَلَمًا أَسْوَدَ وَحَقِيبَةً صَغِيرَةً أَيْضًا.", "okunus": "Urîdu kalemen esvede ve hakîbeten sagîraten eydan.", "tr": "Siyah bir kalem ve küçük bir çanta da istiyorum." },
+        { "konusan": "البَائِع", "ar": "حَاضِرٌ، هٰذِهِ حَقِيبَةٌ خَفِيفَةٌ وَقَوِيَّةٌ.", "okunus": "Hâdirun, hâzihî hakîbetun hafîfetun ve kaviyyetun.", "tr": "Tabii, bu hafif ve sağlam bir çanta." },
+        { "konusan": "زَيْنَب", "ar": "هَلْ تُوجَدُ كُتُبٌ مُشَكَّلَةٌ لِلْمُبْتَدِئِينَ؟", "okunus": "Hel tûcedu kutubun muşekkeletun li'l-mubtediîne?", "tr": "Başlangıç seviyesi için harekeli kitaplar var mı?" },
+        { "konusan": "البَائِع", "ar": "نَعَمْ، هٰذَا كِتَابٌ مُفِيدٌ جِدًّا وَفِيهِ أَمْثِلَةٌ كَثِيرَةٌ.", "okunus": "Na‘am, hâzâ kitâbun mufîdun cidden ve fîhi emsiletun kesîratun.", "tr": "Evet, bu çok faydalı bir kitap ve içinde pek çok örnek var." },
+        { "konusan": "زَيْنَب", "ar": "سَآخُذُ الْكِتَابَ أَيْضًا. كَمِ السِّعْرُ كُلُّهُ؟", "okunus": "Se-âhuzu'l-kitâbe eydan. Kemi's-si‘ru kulluhû?", "tr": "Kitabı da alacağım. Toplam fiyatı ne kadar?" },
+        { "konusan": "البَائِع", "ar": "مِئَةُ لِيرَةٍ فَقَطْ يَا أُخْتِي.", "okunus": "Mietu lîratin fakat yâ uhtî.", "tr": "Sadece yüz lira kardeşim." },
+        { "konusan": "زَيْنَب", "ar": "تَفَضَّلْ، شُكْرًا جَزِيلًا! مَعَ السَّلَامَةِ.", "okunus": "Tefaddal, şukran cezîlen! Me‘a's-selâmeti.", "tr": "Buyurun, çok teşekkürler! Hoşça kalın." }
+      ],
+      "partner": [
+        {
+          "soruAr": "مَرْحَبًا، كَيْفَ أُسَاعِدُكَ الْيَوْمَ؟",
+          "soruTr": "Merhaba, bugün size nasıl yardımcı olabilirim?",
+          "ipucu": "أُرِيدُ (istiyorum) + fetha tenvînli isim kullan.",
+          "secenekler": [
+            { "ar": "أُرِيدُ دَفْتَرًا وَقَلَمًا مِنْ فَضْلِكَ.", "tr": "Lütfen bir defter ve bir kalem istiyorum." },
+            { "ar": "الْعِلْمُ نُورٌ.", "tr": "İlim nurdur." },
+            { "ar": "كَتَبَ أَحْمَدُ دَرْسَهُ.", "tr": "Ahmed dersini yazdı." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "أُرِيدُ sonrası nesne fetha tenvînli gelir (دَفْتَرًا وَقَلَمًا)."
+        },
+        {
+          "soruAr": "أَيَّ لَوْنٍ تُفَضِّلُ لِلْقَلَمِ؟",
+          "soruTr": "Kalem için hangi rengi tercih edersin?",
+          "ipucu": "أُفَضِّلُ (tercih ederim) ile renk belirt.",
+          "secenekler": [
+            { "ar": "أُفَضِّلُ قَلَمًا أَزْرَقَ.", "tr": "Mavi bir kalem tercih ederim." },
+            { "ar": "فِي الصَّفِّ سَبُّورَةٌ.", "tr": "Sınıfta tahta var." },
+            { "ar": "نَعَمْ، هٰذَا بَابٌ.", "tr": "Evet, bu bir kapı." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "تُفَضِّلُ sorusu أُفَضِّلُ ile yanıtlanır."
+        },
+        {
+          "soruAr": "هَلْ تُرِيدُ حَقِيبَةً أَيْضًا؟",
+          "soruTr": "Bir çanta da ister misin?",
+          "ipucu": "نَعَمْ ile ة bitişli elifsiz tenvîn (حَقِيبَةً) kullan.",
+          "secenekler": [
+            { "ar": "نَعَمْ، أُرِيدُ حَقِيبَةً خَفِيفَةً.", "tr": "Evet, hafif bir çanta istiyorum." },
+            { "ar": "الدَّرْسُ سَهْلٌ.", "tr": "Ders kolaydır." },
+            { "ar": "أَهْلًا وَسَهْلًا.", "tr": "Hoş geldin." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "حَقِيبَةً خَفِيفَةً doğru tenvîn uyumu taşır."
+        },
+        {
+          "soruAr": "هٰذَا كِتَابٌ مُشَكَّلٌ لِلْمُبْتَدِئِينَ، هَلْ يُعْجِبُكَ؟",
+          "soruTr": "Bu başlangıç için harekeli bir kitap, beğendin mi?",
+          "ipucu": "Beğendiğini جَمِيلٌ veya مُمْتَازٌ ile söyle.",
+          "secenekler": [
+            { "ar": "نَعَمْ، هُوَ كِتَابٌ مُفِيدٌ وَوَاضِحٌ جِدًّا.", "tr": "Evet, çok faydalı ve açık bir kitap." },
+            { "ar": "مَا اسْمُكَ؟", "tr": "Adın ne?" },
+            { "ar": "أَمَامَ الْبَيْتِ نَهْرٌ.", "tr": "Evin önünde nehir var." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Kitabı niteleyen olumlu sıfat cümlesi."
+        },
+        {
+          "soruAr": "تَفَضَّلْ أَغْرَاضَكَ، شُكْرًا لِزِيَارَتِكَ!",
+          "soruTr": "Eşyaların buyur, ziyaretin için teşekkürler!",
+          "ipucu": "Teşekkür ve veda ifadesi kullan.",
+          "secenekler": [
+            { "ar": "شُكْرًا جَزِيلًا، مَعَ السَّلَامَةِ!", "tr": "Çok teşekkürler, hoşça kalın!" },
+            { "ar": "أَيْنَ الْمَكْتَبَةُ؟", "tr": "Kütüphane nerede?" },
+            { "ar": "قَرَأْتُ نَصًّا.", "tr": "Bir metin okudum." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "مَعَ السَّلَامَةِ standart vedalaşma kalıbıdır."
+        }
+      ]
+    },
+    {
+      "id": "m01_dlg3",
+      "baslik": "İki Arkadaşın Telaffuz ve Med Pratiği",
+      "ortam": "Üniversite kafeteryası — İki öğrenci birlikte tekrar yapıyor",
+      "replikler": [
+        { "konusan": "كَرِيم", "ar": "صَبَاحَ الْخَيْرِ يَا هِشَامُ! هَلْ دَرَسْتَ دَرْسَ الْمَدِّ؟", "okunus": "Sabâha'l-hayri yâ Hişâmu! Hel dereste derse'l-meddi?", "tr": "Günaydın Hişam! Med dersini çalıştın mı?" },
+        { "konusan": "هِشَام", "ar": "صَبَاحَ النُّورِ! نَعَمْ، دَرَسْتُهُ وَتَدَرَّبْتُ عَلَى الصَّوْتِ الطَّوِيلِ.", "okunus": "Sabâha'n-nûri! Na‘am, derestuhû ve tederrebtu ‘ale's-savti't-tavîli.", "tr": "Günaydın! Evet, çalıştım ve uzun ses pratiği yaptım." },
+        { "konusan": "كَرِيم", "ar": "إِذَنْ، مَا الْفَرْقُ بَيْنَ «عَلَمٌ» وَ«عَالَمٌ»؟", "okunus": "İzen, me'l-farku beyne ‘alemun ve ‘âlemun?", "tr": "Öyleyse 'alemun' ile 'âlemun' arasındaki fark nedir?" },
+        { "konusan": "هِشَام", "ar": "«عَلَمٌ» بِدُونِ مَدٍّ يَعْنِي رَايَةً، وَ«عَالَمٌ» بِأَلِفِ الْمَدِّ يَعْنِي الدُّنْيَا.", "okunus": "‘Alemun bi-dûni meddin ya‘nî râyeten, ve ‘âlemun bi-elifi'l-meddi ya‘nî ed-dunyâ.", "tr": "Medsiz 'alemun' bayrak demek, Elif medli 'âlemun' ise dünya demek." },
+        { "konusan": "كَرِيم", "ar": "أَحْسَنْتَ! وَمَا الْفَرْقُ بَيْنَ «نَارٌ» وَ«نُورٌ»؟", "okunus": "Ahsente! Ve me'l-farku beyne nârun ve nûrun?", "tr": "Aferin! Peki 'nârun' ile 'nûrun' arasındaki fark ne?" },
+        { "konusan": "هِشَام", "ar": "«نَارٌ» بِأَلِفِ الْمَدِّ، وَ«نُورٌ» بِوَاوِ الْمَدِّ وَمَعْنَاهُ الضَّوْءُ.", "okunus": "Nârun bi-elifi'l-meddi, ve nûrun bi-vâvi'l-meddi ve ma‘nâhu'd-dav'u.", "tr": "'Nârun' (ateş) Elif medli, 'nûrun' (nur) Vâv medlidir ve ışık demektir." },
+        { "konusan": "كَرِيم", "ar": "رَائِعٌ جِدًّا! الْآنَ اِقْرَأْ هٰذِهِ الْكَلِمَةَ: مُعَلِّمٌ.", "okunus": "Râi‘un cidden! El-âne ikra' hâzihi'l-kelimete: mu‘allimun.", "tr": "Harika! Şimdi şu kelimeyi oku: mu‘allimun." },
+        { "konusan": "هِشَام", "ar": "مُعَلِّمٌ! اللَّامُ هُنَا مُشَدَّدَةٌ وَمَكْسُورَةٌ.", "okunus": "Mu‘allimun! El-lâmu hunâ muşeddedetun ve meksûratun.", "tr": "Mu‘allimun! Buradaki Lâm şeddeli ve kesralıdır." },
+        { "konusan": "كَرِيم", "ar": "صَحِيحٌ! وَكَيْفَ نَكْتُبُ «مَدِينَةٌ» بِتَنْوِينِ الْفَتْحِ؟", "okunus": "Sahîhun! Ve keyfe nektubu medînetun bi-tenvîni'l-fethi?", "tr": "Doğru! Peki 'medînetun' kelimesini fetha tenvîniyle nasıl yazarız?" },
+        { "konusan": "هِشَام", "ar": "نَكْتُبُهَا «مَدِينَةً» بِدُونِ أَلِفٍ فِي النِّهَايَةِ لِأَنَّهَا تَنْتَهِي بِتَاءٍ مَرْبُوطَةٍ.", "okunus": "Nektubuhâ medîneten bi-dûni elifin fi'n-nihâyeti li-ennehâ tentehî bi-tâin merbûtatin.", "tr": "Tâ-i merbûta ile bittiği için sonuna Elif koymadan 'مَدِينَةً' yazarız." },
+        { "konusan": "كَرِيم", "ar": "مَا شَاءَ اللّٰهُ! أَنْتَ مُسْتَعِدٌّ تَمَامًا لِلدَّرْسِ الثَّانِي.", "okunus": "Mâşâallâhu! Ente muste‘iddun temâmen li'd-dersi's-sânî.", "tr": "Maşallah! İkinci derse tamamen hazırsın." },
+        { "konusan": "هِشَام", "ar": "شُكْرًا يَا كَرِيمُ، التَّدْرِيبُ مَعَ صَدِيقٍ مُفِيدٌ جِدًّا!", "okunus": "Şukran yâ Kerîmu, et-tedrîbu me‘a sadîkin mufîdun cidden!", "tr": "Teşekkürler Kerim, bir arkadaşla pratik yapmak çok faydalı!" }
+      ],
+      "partner": [
+        {
+          "soruAr": "صَبَاحَ الْخَيْرِ! كَيْفَ حَالُكَ الْيَوْمَ؟",
+          "soruTr": "Günaydın! Bugün nasılsın?",
+          "ipucu": "صَبَاحَ النُّورِ (günaydın cevabı) + بِخَيْرٍ kullan.",
+          "secenekler": [
+            { "ar": "صَبَاحَ النُّورِ! أَنَا بِخَيْرٍ وَالْحَمْدُ لِلّٰهِ.", "tr": "Günaydın! İyiyim, elhamdülillah." },
+            { "ar": "هٰذَا دَفْتَرٌ قَدِيمٌ.", "tr": "Bu eski bir defter." },
+            { "ar": "عَلَمٌ وَعَالَمٌ.", "tr": "Bayrak ve dünya." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "صَبَاحَ الْخَيْرِ selamına صَبَاحَ النُّورِ ile cevap verilir."
+        },
+        {
+          "soruAr": "أَيُّ كَلِمَةٍ تَحْتَوِي عَلَى وَاوِ الْمَدِّ؟",
+          "soruTr": "Hangi kelime Vâv meddi içerir?",
+          "ipucu": "Damme + harekesiz و ara.",
+          "secenekler": [
+            { "ar": "كَلِمَةُ «نُورٌ» تَحْتَوِي عَلَى وَاوِ الْمَدِّ.", "tr": "'Nûrun' kelimesi Vâv meddi içerir." },
+            { "ar": "كَلِمَةُ «وَلَدٌ» تَحْتَوِي عَلَى وَاوِ الْمَدِّ.", "tr": "'Veledun' kelimesi Vâv meddi içerir." },
+            { "ar": "كَلِمَةُ «يَوْمٌ» تَحْتَوِي عَلَى وَاوِ الْمَدِّ.", "tr": "'Yevmun' kelimesi Vâv meddi içerir." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "نُورٌ kelimesinde damme + harekesiz vâv gerçek meddir."
+        },
+        {
+          "soruAr": "مَا مَعْنَى الْفِعْلِ «دَرَّسَ» بِالشَّدَّةِ؟",
+          "soruTr": "Şeddeli 'derrese' fiilinin anlamı nedir?",
+          "ipucu": "Şedde işi başkasına yaptırmaya (öğretmeye) çevirir.",
+          "secenekler": [
+            { "ar": "مَعْنَاهُ «عَلَّمَ الدَّرْسَ» لِلطُّلَّابِ.", "tr": "Anlamı öğrencilere 'ders verdi / öğretti'dir." },
+            { "ar": "مَعْنَاهُ «نَامَ».", "tr": "Anlamı 'uyudu'dur." },
+            { "ar": "مَعْنَاهُ «شَرِبَ».", "tr": "Anlamı 'içti'dir." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "دَرَسَ çalıştı, دَرَّسَ öğretti demektir."
+        },
+        {
+          "soruAr": "هَلْ نُضِيفُ أَلِفًا فِي آخِرِ «شُكْرًا»؟",
+          "soruTr": "'Şukran' kelimesinin sonuna Elif ekler miyiz?",
+          "ipucu": "ر normal harftir, fetha tenvîninde destek elifi alır.",
+          "secenekler": [
+            { "ar": "نَعَمْ، نَكْتُبُهَا «شُكْرًا» بِالْأَلِفِ.", "tr": "Evet, Elif ile 'شُكْرًا' yazarız." },
+            { "ar": "لَا، نَكْتُبُهَا بِالنُّونِ.", "tr": "Hayır, nûn harfiyle yazarız." },
+            { "ar": "لَا تَأْخُذُ تَنْوِينًا.", "tr": "Tenvîn almaz." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "ة ve اء dışındaki isimler fetha tenvîninde destek elifi alır."
+        },
+        {
+          "soruAr": "هَلْ نَلْتَقِي غَدًا لِلدَّرْسِ الثَّانِي؟",
+          "soruTr": "Yarın ikinci ders için buluşalım mı?",
+          "ipucu": "Olumlu ve istekli bir yanıt seç.",
+          "secenekler": [
+            { "ar": "بِكُلِّ سُرُورٍ! إِلَى اللِّقَاءِ غَدًا.", "tr": "Memnuniyetle! Yarın görüşmek üzere." },
+            { "ar": "الْقَلَمُ عَلَى الْمَكْتَبِ.", "tr": "Kalem masanın üzerinde." },
+            { "ar": "مَاءً بَارِدًا.", "tr": "Soğuk bir su." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "بِكُلِّ سُرُورٍ (memnuniyetle) ve إِلَى اللِّقَاءِ (görüşmek üzere)."
+        }
+      ]
+    },
+    {
+      "id": "m01_dlg4",
+      "baslik": "Kütüphanede Ev Ödevi ve Harf Birleştirme",
+      "ortam": "Kütüphane çalışma masası — Abla ile küçük kardeşi",
+      "replikler": [
+        { "konusan": "مَرْيَم", "ar": "مَاذَا تَكْتُبُ يَا سَامِي؟", "okunus": "Mâzâ tektubu yâ Sâmî?", "tr": "Ne yazıyorsun Sami?" },
+        { "konusan": "سَامِي", "ar": "أَكْتُبُ وَاجِبَ اللُّغَةِ الْعَرَبِيَّةِ فِي دَفْتَرِي.", "okunus": "Ektubu vâcibe'l-lugati'l-‘arabiyyeti fî defterî.", "tr": "Defterime Arapça ödevimi yazıyorum." },
+        { "konusan": "مَرْيَم", "ar": "أَرِنِي خَطَّكَ! مَا أَجْمَلَ هٰذِهِ الْكَلِمَاتِ!", "okunus": "Erinî hattake! Mâ ecmele hâzihi'l-kelimâti!", "tr": "Yazını göster bana! Bu kelimeler ne kadar güzel!" },
+        { "konusan": "سَامِي", "ar": "عِنْدِي سُؤَالٌ صَغِيرٌ: هَلْ يَتَّصِلُ حَرْفُ الزَّايِ بِمَا بَعْدَهُ؟", "okunus": "‘İndî suâlun sagîrun: Hel yettesilu harfu'z-zâyi bimâ ba‘dehû?", "tr": "Küçük bir sorum var: Zây (ز) harfi kendinden sonrakine birleşir mi?" },
+        { "konusan": "مَرْيَم", "ar": "لَا، الزَّايُ مِنَ الْحُرُوفِ السِّتَّةِ الَّتِي لَا تَتَّصِلُ بِمَا بَعْدَهَا.", "okunus": "Lâ, ez-zâyu mine'l-hurûfi's-sitteti'l-letî lâ tettesilu bimâ ba‘dehâ.", "tr": "Hayır, Zây kendinden sonrakine birleşmeyen altı harftendir." },
+        { "konusan": "سَامِي", "ar": "مِثْلُ كَلِمَةِ «زَهْرَةٌ» وَ«زَارَ»، أَلَيْسَ كَذٰلِكَ؟", "okunus": "Misle kelimeti zehratun ve zâra, e-leyse kezâlike?", "tr": "'Zehratun' (çiçek) ve 'zâra' (ziyaret etti) kelimeleri gibi, öyle değil mi?" },
+        { "konusan": "مَرْيَم", "ar": "بِالضَّبْطِ! انْظُرْ إِلَى كَلِمَةِ «وَرْدٌ» أَيْضًا، كُلُّ حُرُوفِهَا مُنْفَصِلَةٌ.", "okunus": "Bi'd-dabti! Unzur ilâ kelimeti verdun eydan, kullu hurûfihâ munfasilatun.", "tr": "Aynen öyle! 'Verdun' (gül) kelimesine de bak, tüm harfleri ayrı durur." },
+        { "konusan": "سَامِي", "ar": "وَلٰكِنْ فِي كَلِمَةِ «مَدْرَسَةٌ» تَتَّصِلُ الْمِيمُ بِالدَّالِ، ثُمَّ تَنْفَصِلُ الدَّالُ عَنِ الرَّاءِ.", "okunus": "Ve lâkin fî kelimeti medresetun tettesilu'l-mîmu bi'd-dâli, summe tenfasilu'd-dâlu ‘ani'r-râi.", "tr": "Ama 'medresetun' (okul) kelimesinde Mîm Dâl'a birleşir, sonra Dâl Râ'dan ayrılır." },
+        { "konusan": "مَرْيَم", "ar": "عَبْقَرِيٌّ يَا سَامِي! فَهِمْتَ السِّرَّ كُلَّهُ.", "okunus": "‘Abkariyyun yâ Sâmî! Fehimte's-sirra kullehû.", "tr": "Harikasın Sami! Sırrın tamamını anladın." },
+        { "konusan": "سَامِي", "ar": "هَلْ يُمْكِنُنِي أَنْ أَقْرَأَ لَكِ الْفِقْرَةَ الْقَصِيرَةَ؟", "okunus": "Hel yumkinunî en ekrae leki'l-fikrate'l-kasîrate?", "tr": "Sana kısa paragrafı okuyabilir miyim?" },
+        { "konusan": "مَرْيَم", "ar": "تَفَضَّلْ، أَنَا أَسْمَعُكَ بِانْتِبَاهٍ.", "okunus": "Tefaddal, ene esme‘uke bi'ntibâhin.", "tr": "Buyur, seni dikkatle dinliyorum." },
+        { "konusan": "سَامِي", "ar": "شُكْرًا يَا أُخْتِي، مُسَاعَدَتُكِ تَجْعَلُ التَّعَلُّمَ سَهْلًا جِدًّا!", "okunus": "Şukran yâ uhtî, musâ‘adetuki tec‘alu't-te‘allume sehlen cidden!", "tr": "Teşekkürler ablacığım, yardımın öğrenmeyi çok kolaylaştırıyor!" }
+      ],
+      "partner": [
+        {
+          "soruAr": "مَاذَا تَكْتُبُ فِي دَفْتَرِكَ؟",
+          "soruTr": "Defterine ne yazıyorsun?",
+          "ipucu": "أَكْتُبُ (yazıyorum) ile başla.",
+          "secenekler": [
+            { "ar": "أَكْتُبُ وَاجِبَ الْحُرُوفِ وَالْحَرَكَاتِ.", "tr": "Harfler ve harekeler ödevini yazıyorum." },
+            { "ar": "مَعَ السَّلَامَةِ.", "tr": "Hoşça kal." },
+            { "ar": "نُورٌ وَنَارٌ.", "tr": "Nur ve ateş." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "مَاذَا تَكْتُبُ sorusuna أَكْتُبُ ile cevap verilir."
+        },
+        {
+          "soruAr": "هَلْ يَتَّصِلُ حَرْفُ الدَّالِ (د) بِالْحَرْفِ الَّذِي بَعْدَهُ؟",
+          "soruTr": "Dâl (د) harfi kendinden sonraki harfe birleşir mi?",
+          "ipucu": "د birleşmeyen 6 harftendir.",
+          "secenekler": [
+            { "ar": "لَا، حَرْفُ الدَّالِ لَا يَتَّصِلُ بِمَا بَعْدَهُ.", "tr": "Hayır, Dâl harfi kendinden sonrakine birleşmez." },
+            { "ar": "نَعَمْ، يَتَّصِلُ دَائِمًا.", "tr": "Evet, daima birleşir." },
+            { "ar": "الدَّالُ حَرْفُ مَدٍّ.", "tr": "Dâl bir med harfidir." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "ا د ذ ر ز و kendinden sonrakine birleşmez."
+        },
+        {
+          "soruAr": "أَعْطِنِي مِثَالًا لِكَلِمَةٍ كُلُّ حُرُوفِهَا مُنْفَصِلَةٌ.",
+          "soruTr": "Tüm harfleri ayrı duran bir kelimeye örnek ver.",
+          "ipucu": "وَرْدٌ veya دَرَسَ gibi bir kelime seç.",
+          "secenekler": [
+            { "ar": "كَلِمَةُ «وَرْدٌ» وَكَلِمَةُ «دَرَسَ».", "tr": "'Verdun' (gül) ve 'derese' (çalıştı) kelimeleri." },
+            { "ar": "كَلِمَةُ «كِتَابٌ».", "tr": "'Kitâbun' kelimesi." },
+            { "ar": "كَلِمَةُ «قَلَمٌ».", "tr": "'Kalemun' kelimesi." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "و، ر، د harflerinin hepsi tek yönlüdür."
+        },
+        {
+          "soruAr": "أَحْسَنْتَ! هَلْ تُرِيدُ أَنْ تَقْرَأَ النَّصَّ الْآنَ؟",
+          "soruTr": "Aferin! Şimdi metni okumak ister misin?",
+          "ipucu": "نَعَمْ، بِكُلِّ سُرُورٍ ile kabul et.",
+          "secenekler": [
+            { "ar": "نَعَمْ، بِكُلِّ سُرُورٍ، سَأَقْرَأُ بِصَوْتٍ وَاضِحٍ.", "tr": "Evet, memnuniyetle, açık bir sesle okuyacağım." },
+            { "ar": "شُكْرًا عَلَى الْكِتَابِ.", "tr": "Kitap için teşekkürler." },
+            { "ar": "الْبَيْتُ كَبِيرٌ.", "tr": "Ev büyüktür." }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Soruya doğrudan ve doğal onay cevabı."
+        },
+        {
+          "soruAr": "قِرَاءَتُكَ رَائِعَةٌ يَا بَطَلُ!",
+          "soruTr": "Okuman harika kahraman!",
+          "ipucu": "Teşekkür ederek karşılık ver.",
+          "secenekler": [
+            { "ar": "شُكْرًا جَزِيلًا عَلَى مُسَاعَدَتِكِ!", "tr": "Yardımın için çok teşekkür ederim!" },
+            { "ar": "مَا اسْمُكَ؟", "tr": "Adın ne?" },
+            { "ar": "أَيْنَ الصَّفُّ؟", "tr": "Sınıf nerede?" }
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Övgüye şükranla karşılık verilir."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "id": "m01_c1", "ar": "صَبَاحٌ", "harekesiz": "صباح", "okunus": "sabâhun", "tr": "sabah", "kok": "ص-ب-ح", "vezin": "فَعَال", "turevler": [{ "ar": "أَصْبَحَ", "tr": "sabahladı / oldu" }, { "ar": "مِصْبَاحٌ", "tr": "lamba" }], "ekBilgi": "Elif medli + damme tenvîn", "ornek": "فِي صَبَاحٍ جَمِيلٍ دَخَلْتُ الصَّفَّ.", "ornekTr": "Güzel bir sabahta sınıfa girdim.", "kullanimNotu": "صَبَاحَ الْخَيْرِ (günaydın) kalıbında çok sık kullanılır.", "tur": "İsim" },
+    { "id": "m01_c2", "ar": "حَرْفٌ", "harekesiz": "حرف", "okunus": "harfun", "tr": "harf / edat", "kok": "ح-ر-ف", "vezin": "فَعْل", "turevler": [{ "ar": "حُرُوفٌ", "tr": "harfler" }, { "ar": "حَرْفِيٌّ", "tr": "harfi harfine" }], "ekBilgi": "Çoğulu: حُرُوفٌ (kırık çoğul)", "ornek": "فِي اللُّغَةِ الْعَرَبِيَّةِ ثَمَانِيَةٌ وَعِشْرُونَ حَرْفًا.", "ornekTr": "Arap dilinde yirmi sekiz harf vardır.", "kullanimNotu": "Nahivde 'edat' anlamında da (حَرْفُ جَرٍّ) kullanılır.", "tur": "İsim" },
+    { "id": "m01_c3", "ar": "حَرَكَةٌ", "harekesiz": "حركة", "okunus": "harekatun", "tr": "hareke / hareket", "kok": "ح-ر-ك", "vezin": "فَعَلَة", "turevler": [{ "ar": "حَرَكَاتٌ", "tr": "harekeler" }, { "ar": "مُتَحَرِّكٌ", "tr": "harekeli / hareketli" }], "ekBilgi": "Müennes (ة ile biter); çoğulu: حَرَكَاتٌ", "ornek": "الْحَرَكَةُ تُغَيِّرُ مَعْنَى الْكَلِمَةِ.", "ornekTr": "Hareke kelimenin anlamını değiştirir.", "kullanimNotu": "Fetha tenvîninde elif almaz: حَرَكَةً.", "tur": "İsim" },
+    { "id": "m01_c4", "ar": "قَلَمٌ", "harekesiz": "قلم", "okunus": "kalemun", "tr": "kalem", "kok": "ق-ل-م", "vezin": "فَعَل", "turevler": [{ "ar": "أَقْلَامٌ", "tr": "kalemler" }, { "ar": "مِقْلَمَةٌ", "tr": "kalemlik" }], "ekBilgi": "Kalın ق harfiyle başlar; çoğulu: أَقْلَامٌ", "ornek": "أَكْتُبُ الدَّرْسَ بِقَلَمٍ أَزْرَقَ.", "ornekTr": "Dersi mavi bir kalemle yazıyorum.", "kullanimNotu": "قَلَمًا şeklinde destek elifi alır.", "tur": "İsim" },
+    { "id": "m01_c5", "ar": "كِتَابٌ", "harekesiz": "كتاب", "okunus": "kitâbun", "tr": "kitap", "kok": "ك-ت-ب", "vezin": "فِعَال", "turevler": [{ "ar": "كَتَبَ", "tr": "yazdı" }, { "ar": "مَكْتَبَةٌ", "tr": "kütüphane" }, { "ar": "كَاتِبٌ", "tr": "yazar" }], "ekBilgi": "Çoğulu: كُتُبٌ (kutubun)", "ornek": "هٰذَا كِتَابٌ مُفِيدٌ وَوَاضِحٌ.", "ornekTr": "Bu faydalı ve açık bir kitaptır.", "kullanimNotu": "ك-ت-ب kökü Arapçada en bereketli kök ailelerindendir.", "tur": "İsim" },
+    { "id": "m01_c6", "ar": "دَفْتَرٌ", "harekesiz": "دفتر", "okunus": "defterun", "tr": "defter", "kok": "د-ف-ت-ر", "vezin": "فَعْلَل", "turevler": [{ "ar": "دَفَاتِرُ", "tr": "defterler" }, { "ar": "دَفْتَرِي", "tr": "defterim" }], "ekBilgi": "Çoğulu: دَفَاتِرُ (gayr-i munsarif)", "ornek": "كَتَبْتُ الْأَمْثِلَةَ فِي دَفْتَرٍ نَظِيفٍ.", "ornekTr": "Örnekleri temiz bir deftere yazdım.", "kullanimNotu": "د tek yönlüdür, sonraki ف'ye birleşmez.", "tur": "İsim" },
+    { "id": "m01_c7", "ar": "دَرْسٌ", "harekesiz": "درس", "okunus": "dersun", "tr": "ders", "kok": "د-ر-س", "vezin": "فَعْل", "turevler": [{ "ar": "دُرُوسٌ", "tr": "dersler" }, { "ar": "مَدْرَسَةٌ", "tr": "okul" }, { "ar": "مُدَرِّسٌ", "tr": "öğretmen" }], "ekBilgi": "Çoğulu: دُرُوسٌ", "ornek": "هٰذَا دَرْسٌ سَهْلٌ وَمُهِمٌّ.", "ornekTr": "Bu kolay ve önemli bir derstir.", "kullanimNotu": "د ve ر tek yönlü olduğu için üç harf ayrı durur.", "tur": "İsim" },
+    { "id": "m01_c8", "ar": "بَابٌ", "harekesiz": "باب", "okunus": "bâbun", "tr": "kapı / bölüm (bab)", "kok": "ب-و-ب", "vezin": "فَعَل", "turevler": [{ "ar": "أَبْوَابٌ", "tr": "kapılar / bablar" }, { "ar": "بَوَّابٌ", "tr": "kapıcı" }], "ekBilgi": "Elif medli; çoğulu: أَبْوَابٌ", "ornek": "بَابُ الصَّفِّ مَفْتُوحٌ.", "ornekTr": "Sınıfın kapısı açıktır.", "kullanimNotu": "Sarf ilminde 'fiil kalıbı/babı' anlamında da kullanılır.", "tur": "İsim" },
+    { "id": "m01_c9", "ar": "نُورٌ", "harekesiz": "نور", "okunus": "nûrun", "tr": "ışık / nur", "kok": "ن-و-ر", "vezin": "فُعْل", "turevler": [{ "ar": "أَنْوَارٌ", "tr": "nurlar / ışıklar" }, { "ar": "مُنِيرٌ", "tr": "aydınlatıcı" }], "ekBilgi": "Vâv medli (û); çoğulu: أَنْوَارٌ", "ornek": "الْعِلْمُ نُورٌ كَبِيرٌ فِي الْحَيَاةِ.", "ornekTr": "İlim hayatta büyük bir nurdur.", "kullanimNotu": "نَارٌ (ateş) ile med farkına dikkat!", "tur": "İsim" },
+    { "id": "m01_c10", "ar": "شَدَّةٌ", "harekesiz": "شدة", "okunus": "şeddetun", "tr": "şedde / şiddet", "kok": "ش-د-د", "vezin": "فَعْلَة", "turevler": [{ "ar": "شَدِيدٌ", "tr": "şiddetli / güçlü" }, { "ar": "مُشَدَّدٌ", "tr": "şeddeli" }], "ekBilgi": "د harfi şeddelidir", "ornek": "الشَّدَّةُ تَجْعَلُ الْحَرْفَ حَرْفَيْنِ.", "ornekTr": "Şedde bir harfi iki harf yapar.", "kullanimNotu": "İlk harf sükûnlu, ikincisi harekeli okunur.", "tur": "İsim" },
+    { "id": "m01_c11", "ar": "مُعَلِّمٌ", "harekesiz": "معلم", "okunus": "mu‘allimun", "tr": "öğretmen", "kok": "ع-ل-م", "vezin": "مُفَعِّل", "turevler": [{ "ar": "عَلَّمَ", "tr": "öğretti" }, { "ar": "تَعْلِيمٌ", "tr": "eğitim" }, { "ar": "عِلْمٌ", "tr": "ilim" }], "ekBilgi": "ل şeddeli ve kesralı; müennesi: مُعَلِّمَةٌ", "ornek": "الْمُعَلِّمُ يَشْرَحُ الْقَاعِدَةَ بِوُضُوحٍ.", "ornekTr": "Öğretmen kuralı açıkça anlatıyor.", "kullanimNotu": "Şedde altı kesraya (ـِّ) dikkat edin.", "tur": "İsim" },
+    { "id": "m01_c12", "ar": "سَبُّورَةٌ", "harekesiz": "سبورة", "okunus": "sebbûratun", "tr": "yazı tahtası", "kok": "س-ب-ر", "vezin": "فَعُّولَة", "turevler": [{ "ar": "سَبُّورَاتٌ", "tr": "tahtalar" }, { "ar": "سَبَرَ", "tr": "ölçtü/yokladı" }], "ekBilgi": "Şedde + Vâv meddi bir arada", "ornek": "كَتَبَ الْأُسْتَاذُ الْحُرُوفَ عَلَى السَّبُّورَةِ.", "ornekTr": "Hoca harfleri tahtaya yazdı.", "kullanimNotu": "Sınıf diyaloğunun temel kelimesidir.", "tur": "İsim" },
+    { "id": "m01_c13", "ar": "شُكْرًا", "harekesiz": "شكرا", "okunus": "şukran", "tr": "teşekkür ederim", "kok": "ش-ك-ر", "vezin": "فُعْلًا", "turevler": [{ "ar": "شَكَرَ", "tr": "teşekkür etti" }, { "ar": "شَاكِرٌ", "tr": "şükreden" }], "ekBilgi": "Fetha tenvînli + destek elifi", "ornek": "شُكْرًا جَزِيلًا عَلَى مُسَاعَدَتِكَ!", "ornekTr": "Yardımın için çok teşekkür ederim!", "kullanimNotu": "Asla ن harfiyle yazılmaz.", "tur": "İfade" },
+    { "id": "m01_c14", "ar": "بَيْتٌ", "harekesiz": "بيت", "okunus": "beytun", "tr": "ev / şiir beyti", "kok": "ب-ي-ت", "vezin": "فَعْل", "turevler": [{ "ar": "بُيُوتٌ", "tr": "evler" }, { "ar": "بَاتَ", "tr": "geceledi" }], "ekBilgi": "Fetha + sükûnlu ي (Lîn); çoğulu: بُيُوتٌ", "ornek": "هٰذَا بَيْتٌ وَاسِعٌ وَجَمِيلٌ.", "ornekTr": "Bu geniş ve güzel bir evdir.", "kullanimNotu": "ي burada med değil sükûnlu ünsüzdür (beyt).", "tur": "İsim" },
+    { "id": "m01_c15", "ar": "قِرَاءَةٌ", "harekesiz": "قراءة", "okunus": "kırâetun", "tr": "okuma", "kok": "ق-ر-أ", "vezin": "فِعَالَة", "turevler": [{ "ar": "قَرَأَ", "tr": "okudu" }, { "ar": "قَارِئٌ", "tr": "okuyucu" }, { "ar": "مَقْرُوءٌ", "tr": "okunmuş" }], "ekBilgi": "Elif medli + satırda hemze", "ornek": "الْقِرَاءَةُ الْيَوْمِيَّةُ مُفِيدَةٌ جِدًّا.", "ornekTr": "Günlük okuma çok faydalıdır.", "kullanimNotu": "Hemze yazımına örnek: Eliften sonra fethalı hemze satıra yazılır.", "tur": "İsim" },
+    { "id": "m01_c16", "ar": "كِتَابَةٌ", "harekesiz": "كتابة", "okunus": "kitâbetun", "tr": "yazma / yazı", "kok": "ك-ت-ب", "vezin": "فِعَالَة", "turevler": [{ "ar": "كَتَبَ", "tr": "yazdı" }, { "ar": "مَكْتُوبٌ", "tr": "yazılı" }], "ekBilgi": "Mastar (müennes)", "ornek": "تَتَدَرَّبُ الطَّالِبَةُ عَلَى كِتَابَةِ الْحُرُوفِ.", "ornekTr": "Kız öğrenci harfleri yazma pratiği yapıyor.", "kullanimNotu": "Mastar kalıbı فِعَالَة meslek ve beceri bildirir.", "tur": "İsim" },
+    { "id": "m01_c17", "ar": "صَوْتٌ", "harekesiz": "صوت", "okunus": "savtun", "tr": "ses / oy", "kok": "ص-و-ت", "vezin": "فَعْل", "turevler": [{ "ar": "أَصْوَاتٌ", "tr": "sesler" }, { "ar": "صَوْتِيٌّ", "tr": "sesli / fonetik" }], "ekBilgi": "Kalın ص harfiyle başlar; çoğulu: أَصْوَاتٌ", "ornek": "أَقْرَأُ النَّصَّ بِصَوْتٍ وَاضِحٍ.", "ornekTr": "Metni açık bir sesle okuyorum.", "kullanimNotu": "Basın Arapçasında 'seçim oyu' anlamına da gelir.", "tur": "İsim" },
+    { "id": "m01_c18", "ar": "طَالِبٌ", "harekesiz": "طالب", "okunus": "tâlibun", "tr": "öğrenci", "kok": "ط-ل-ب", "vezin": "فَاعِل", "turevler": [{ "ar": "طُلَّابٌ", "tr": "öğrenciler" }, { "ar": "طَلَبَ", "tr": "istedi" }, { "ar": "طَالِبَةٌ", "tr": "kız öğrenci" }], "ekBilgi": "Kalın ط + Elif meddi", "ornek": "طَارِقٌ طَالِبٌ مُجْتَهِدٌ.", "ornekTr": "Tarık çalışkan bir öğrencidir.", "kullanimNotu": "Kök anlamı 'ilim talep eden'dir.", "tur": "İsim" },
+    { "id": "m01_c19", "ar": "مَكْتَبٌ", "harekesiz": "مكتب", "okunus": "mektebun", "tr": "çalışma masası / ofis", "kok": "ك-ت-ب", "vezin": "مَفْعَل", "turevler": [{ "ar": "مَكَاتِبُ", "tr": "ofisler / masalar" }, { "ar": "مَكْتَبَةٌ", "tr": "kütüphane" }], "ekBilgi": "İsm-i Mekân; ك sükûnludur", "ornek": "الْكِتَابُ عَلَى الْمَكْتَبِ.", "ornekTr": "Kitap masanın üzerindedir.", "kullanimNotu": "Sonuna ة gelince مَكْتَبَةٌ (kütüphane/kitabevi) olur.", "tur": "İsim" },
+    { "id": "m01_c20", "ar": "صَفٌّ", "harekesiz": "صف", "okunus": "saffun", "tr": "sınıf / sıra", "kok": "ص-ف-ف", "vezin": "فَعْل", "turevler": [{ "ar": "صُفُوفٌ", "tr": "sınıflar / saflar" }, { "ar": "صَفَّ", "tr": "dizdi" }], "ekBilgi": "Kalın ص + şeddeli ف", "ornek": "الصَّفُّ نَظِيفٌ وَهَادِئٌ.", "ornekTr": "Sınıf temiz ve sakindir.", "kullanimNotu": "Sondaki şeddeye vurgu yapılır.", "tur": "İsim" },
+    { "id": "m01_c21", "ar": "كَبِيرٌ", "harekesiz": "كبير", "okunus": "kebîrun", "tr": "büyük", "kok": "ك-ب-ر", "vezin": "فَعِيل", "turevler": [{ "ar": "كِبَارٌ", "tr": "büyükler" }, { "ar": "أَكْبَرُ", "tr": "en büyük" }], "ekBilgi": "Yâ medli sıfat (î)", "ornek": "هٰذَا بَيْتٌ كَبِيرٌ جِدًّا.", "ornekTr": "Bu çok büyük bir evdir.", "kullanimNotu": "Zıddı: صَغِيرٌ (küçük).", "tur": "Sıfat" },
+    { "id": "m01_c22", "ar": "عَالَمٌ", "harekesiz": "عالم", "okunus": "‘âlemun", "tr": "dünya / âlem", "kok": "ع-ل-م", "vezin": "فَاعَل", "turevler": [{ "ar": "عَوَالِمُ", "tr": "âlemler" }, { "ar": "عَالَمِيٌّ", "tr": "küresel / uluslararası" }], "ekBilgi": "Elif medli (â); ل fethalıdır!", "ornek": "الْعَالَمُ الْعَرَبِيُّ غَنِيٌّ بِالثَّقَافَةِ.", "ornekTr": "Arap dünyası kültür bakımından zengindir.", "kullanimNotu": "عَالِمٌ (ل kesralı) 'bilgin/âlim', عَالَمٌ (ل fethalı) 'dünya' demektir.", "tur": "İsim" },
+    { "id": "m01_c23", "ar": "جَمِيلٌ", "harekesiz": "جميل", "okunus": "cemîlun", "tr": "güzel", "kok": "ج-م-ل", "vezin": "فَعِيل", "turevler": [{ "ar": "جَمَالٌ", "tr": "güzellik" }, { "ar": "أَجْمَلُ", "tr": "en güzel" }], "ekBilgi": "Yâ medli sıfat; müennesi: جَمِيلَةٌ", "ornek": "خَطُّكَ جَمِيلٌ وَوَاضِحٌ.", "ornekTr": "Yazın güzel ve açık.", "kullanimNotu": "جَمَلٌ (medsiz) 'deve' demektir!", "tur": "Sıfat" },
+    { "id": "m01_c24", "ar": "جَدِيدٌ", "harekesiz": "جديد", "okunus": "cedîdun", "tr": "yeni", "kok": "ج-د-د", "vezin": "فَعِيل", "turevler": [{ "ar": "جُدُدٌ", "tr": "yeniler" }, { "ar": "تَجْدِيدٌ", "tr": "yenileme" }], "ekBilgi": "Yâ medli sıfat", "ornek": "اشْتَرَيْتُ دَفْتَرًا جَدِيدًا.", "ornekTr": "Yeni bir defter satın aldım.", "kullanimNotu": "Zıddı: قَدِيمٌ (eski).", "tur": "Sıfat" },
+    { "id": "m01_c25", "ar": "مُهِمٌّ", "harekesiz": "مهم", "okunus": "muhimmun", "tr": "önemli", "kok": "ه-م-م", "vezin": "مُفْعِل", "turevler": [{ "ar": "أَهَمِّيَّةٌ", "tr": "önem" }, { "ar": "أَهَمُّ", "tr": "en önemli" }], "ekBilgi": "Son م harfi şeddelidir", "ornek": "تَعَلُّمُ الْحَرَكَاتِ أَمْرٌ مُهِمٌّ.", "ornekTr": "Harekeleri öğrenmek önemli bir iştir.", "kullanimNotu": "YDS/YÖKDİL metinlerinde çok yüksek frekanslıdır.", "tur": "Sıfat" },
+    { "id": "m01_c26", "ar": "حَقِيبَةٌ", "harekesiz": "حقيبة", "okunus": "hakîbetun", "tr": "çanta", "kok": "ح-ق-ب", "vezin": "فَعِيلَة", "turevler": [{ "ar": "حَقَائِبُ", "tr": "çantalar" }, { "ar": "حُقْبَةٌ", "tr": "dönem / çağ" }], "ekBilgi": "Müennes (ة); çoğulu: حَقَائِبُ", "ornek": "حَقِيبَةُ الطَّالِبِ خَفِيفَةٌ.", "ornekTr": "Öğrencinin çantası hafiftir.", "kullanimNotu": "Fetha tenvîninde elif almaz: حَقِيبَةً.", "tur": "İsim" },
+    { "id": "m01_c27", "ar": "سُوقٌ", "harekesiz": "سوق", "okunus": "sûkun", "tr": "çarşı / piyasa", "kok": "س-و-ق", "vezin": "فَعْل", "turevler": [{ "ar": "أَسْوَاقٌ", "tr": "çarşılar / piyasalar" }, { "ar": "تَسَوُّقٌ", "tr": "alışveriş" }], "ekBilgi": "Vâv medli (û)", "ornek": "ذَهَبْتُ إِلَى السُّوقِ صَبَاحًا.", "ornekTr": "Sabahleyin çarşıya gittim.", "kullanimNotu": "Ekonomi metinlerinde 'piyasa' anlamında kullanılır.", "tur": "İsim" },
+    { "id": "m01_c28", "ar": "وَاضِحٌ", "harekesiz": "واضح", "okunus": "vâdihun", "tr": "açık / net", "kok": "و-ض-ح", "vezin": "فَاعِل", "turevler": [{ "ar": "وُضُوحٌ", "tr": "açıklık / netlik" }, { "ar": "أَوْضَحَ", "tr": "açıkladı" }], "ekBilgi": "Elif medli + kalın ض harfi", "ornek": "الشَّرْحُ وَاضِحٌ وَسَهْلٌ.", "ornekTr": "Açıklama net ve kolaydır.", "kullanimNotu": "بِوُضُوحٍ (açıkça) zarf kalıbı çok yaygındır.", "tur": "Sıfat" },
+    { "id": "m01_c29", "ar": "دَرَّسَ", "harekesiz": "درس", "okunus": "derrese", "tr": "ders verdi / öğretti", "kok": "د-ر-س", "vezin": "فَعَّلَ", "turevler": [{ "ar": "يُدَرِّسُ", "tr": "ders veriyor" }, { "ar": "تَدْرِيسٌ", "tr": "öğretim" }], "ekBilgi": "II. Bab şeddeli fiil", "ornek": "دَرَّسَ الْأُسْتَاذُ الصَّرْفَ وَالنَّحْوَ.", "ornekTr": "Hoca sarf ve nahiv dersi verdi.", "kullanimNotu": "دَرَسَ (çalıştı) ile şedde farkına dikkat!", "tur": "Fiil" },
+    { "id": "m01_c30", "ar": "عَلَّمَ", "harekesiz": "علم", "okunus": "‘alleme", "tr": "öğretti", "kok": "ع-ل-م", "vezin": "فَعَّلَ", "turevler": [{ "ar": "يُعَلِّمُ", "tr": "öğretiyor" }, { "ar": "تَعَلَّمَ", "tr": "öğrendi" }], "ekBilgi": "II. Bab şeddeli fiil", "ornek": "عَلَّمَ الْمُعَلِّمُ الطُّلَّابَ النُّطْقَ الصَّحِيحَ.", "ornekTr": "Öğretmen öğrencilere doğru telaffuzu öğretti.", "kullanimNotu": "İki mef'ûl (kime + neyi) alabilir.", "tur": "Fiil" },
+    { "id": "m01_c31", "ar": "وَلَدٌ", "harekesiz": "ولد", "okunus": "veledun", "tr": "çocuk / oğul", "kok": "و-ل-د", "vezin": "فَعَل", "turevler": [{ "ar": "أَوْلَادٌ", "tr": "çocuklar" }, { "ar": "وَالِدٌ", "tr": "baba" }, { "ar": "مَوْلِدٌ", "tr": "doğum" }], "ekBilgi": "Tek yönlü و ve د harflerini içerir", "ornek": "هٰذَا وَلَدٌ ذَكِيٌّ وَمُؤَدَّبٌ.", "ornekTr": "Bu zeki ve terbiyeli bir çocuktur.", "kullanimNotu": "و burada harekeli olduğu için med değil 'v' ünsüzüdür.", "tur": "İsim" },
+    { "id": "m01_c32", "ar": "مَدِينَةٌ", "harekesiz": "مدينة", "okunus": "medînetun", "tr": "şehir", "kok": "م-د-ن", "vezin": "فَعِيلَة", "turevler": [{ "ar": "مُدُنٌ", "tr": "şehirler" }, { "ar": "مَدَنِيٌّ", "tr": "medenî / sivil" }], "ekBilgi": "Yâ medli + ة (müennes); çoğulu: مُدُنٌ", "ornek": "أَعِيشُ فِي مَدِينَةٍ كَبِيرَةٍ وَجَمِيلَةٍ.", "ornekTr": "Büyük ve güzel bir şehirde yaşıyorum.", "kullanimNotu": "Fetha tenvîninde destek elifi almaz: مَدِينَةً.", "tur": "İsim" }
+  ]
+}

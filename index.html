@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>Arapça Külliyatı v4.0 — 0'dan B2'ye + YDS/YÖKDİL Tam Kapsamlı Eğitim Platformu</title>
+    <meta
+      name="description"
+      content="0'dan B2'ye + YDS/YÖKDİL Tam Kapsamlı Arapça Külliyatı: 55 modül, 4 büyük seviye finali, 3 kademeli hareke köprüsü, sesli gölgeleme, akıllı SRS tekrar ve 5 ciltli A4 PDF kitap seti."
+    />
+    <script>
+      (function () {
+        try {
+          const saved = localStorage.getItem('arapca_kulliyati_theme');
+          const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+          if (saved === 'dark' || (!saved && prefersDark)) {
+            document.documentElement.classList.add('dark');
+          }
+        } catch (_) {}
+      })();
+    </script>
+  </head>
+  <body class="bg-[var(--bg-canvas)] text-[var(--text-primary)] antialiased selection:bg-[var(--accent-soft)] selection:text-[var(--accent-strong)]">
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
