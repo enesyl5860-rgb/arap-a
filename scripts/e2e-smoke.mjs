@@ -106,9 +106,24 @@ async function run() {
     await page.click('#btn-flip-card');
     await page.click('#btn-srs-rate-3');
 
-    // 7) Seviye Finalleri
+    // 7) Seviye Finalleri — A1 Büyük Finali tam doğrulama
     await page.click('#nav-finals');
     await page.waitForSelector('#btn-select-final_a1');
+    await page.click('#btn-select-final_a1');
+    await page.waitForFunction(() => document.body.textContent.includes('20 Soruluk Sınav (20)'), { timeout: 8000 });
+    await page.getByRole('button', { name: '10 Okuma (10)', exact: true }).click();
+    await page.waitForFunction(() => document.body.textContent.includes('Ailemiz ve Sıcak Evimiz'), { timeout: 5000 });
+    await page.getByRole('button', { name: '10 Diyalog (10)', exact: true }).click();
+    await page.waitForFunction(() => document.body.textContent.includes('Üniversite Kayıt Masasında Tanışma'), { timeout: 5000 });
+
+    // Modül 11 lazy yükleme doğrulama
+    await page.selectOption('#select-active-module', '11');
+    await page.click('#nav-grammar');
+    await page.waitForFunction(() => document.body.textContent.includes('Modül 11'), { timeout: 8000 });
+
+    // Cilt 1 PDF erişilebilirlik kontrolü
+    const pdfRes = await fetch(`${URL}/pdf/arapca-kulliyati-cilt-1.pdf`, { method: 'HEAD' });
+    if (!pdfRes.ok) throw new Error(`Cilt 1 PDF sunulamadı: HTTP ${pdfRes.status}`);
 
     // 8) Referans Atlası & YDS Laboratuvarı
     await page.click('#nav-atlas');
@@ -135,7 +150,7 @@ async function run() {
       throw new Error(`Tarayıcı hataları: console=${JSON.stringify(consoleErrors)}, page=${JSON.stringify(pageErrors)}`);
     }
 
-    console.log('PLAYWRIGHT E2E BAŞARILI! 8 bölüm, lazy loading (M01 & M02), 3 hareke modu, SRS, Ctrl+K, tema ve yedekleme %100 geçti (0 hata).');
+    console.log('PLAYWRIGHT E2E BAŞARILI! 8 bölüm, lazy loading (M01, M02, M11), A1 Büyük Finali (10 Diyalog/10 Okuma/20 Soru), Cilt 1 PDF, 3 hareke modu, SRS, Ctrl+K, tema ve yedekleme %100 geçti (0 hata).');
   } finally {
     server.kill('SIGTERM');
   }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T23:16:18.625Z",
-  "totalCards": 288,
+  "generatedAt": "2026-11-22T23:35:58.248Z",
+  "totalCards": 352,
   "modules": [
     {
       "id": "01",
@@ -53,6 +53,18 @@
     {
       "id": "09",
       "title": "Mâzi Fiil (14 Şahıs) & Fiil Cümlesi Temelleri",
+      "cefr": "A1",
+      "count": 32
+    },
+    {
+      "id": "10",
+      "title": "Muzâri Fiil, Mef'ûlün Bih & Mansub Muttasıl Zamirler",
+      "cefr": "A1",
+      "count": 32
+    },
+    {
+      "id": "11",
+      "title": "Temel Olumsuzluklar, Saatler, Zaman & Sayılar (1–10)",
       "cefr": "A1",
       "count": 32
     }
@@ -7604,6 +7616,1670 @@
       "kullanimNotu": "II. bab mastar kalıbındadır (تَفْعِيل).",
       "tur": "isim",
       "moduleId": "09",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc01",
+      "ar": "يَكْتُبُ",
+      "harekesiz": "يكتب",
+      "okunus": "yektubu",
+      "tr": "yazıyor / yazar",
+      "kok": "ك ت ب",
+      "vezin": "يَفْعُلُ",
+      "turevler": [
+        {
+          "ar": "أَكْتُبُ",
+          "tr": "yazıyorum"
+        },
+        {
+          "ar": "يَكْتُبُونَ",
+          "tr": "yazıyorlar"
+        }
+      ],
+      "ekBilgi": "1. bab muzâri; 2. kök harfi dammelidir.",
+      "ornek": "أَكْتُبُ الدَّرْسَ الْآنَ.",
+      "ornekTr": "Şu an dersi yazıyorum.",
+      "kullanimNotu": "Muzâri çekimlerinin ana model fiilidir.",
+      "tur": "fiil",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc02",
+      "ar": "يَقْرَأُ",
+      "harekesiz": "يقرأ",
+      "okunus": "yakrau",
+      "tr": "okuyor / okur",
+      "kok": "ق ر أ",
+      "vezin": "يَفْعَلُ",
+      "turevler": [
+        {
+          "ar": "أَقْرَأُ",
+          "tr": "okuyorum"
+        },
+        {
+          "ar": "تَقْرَئِينَ",
+          "tr": "okuyorsun (K)"
+        }
+      ],
+      "ekBilgi": "3. bab muzâri; 2. kök harfi fethalıdır.",
+      "ornek": "أَقْرَأُ كِتَابًا كُلَّ لَيْلَةٍ.",
+      "ornekTr": "Her gece bir kitap okurum.",
+      "kullanimNotu": "أَنْتِ çekiminde hemze نَبْرَة (ئ) üzerine yazılır: تَقْرَئِينَ.",
+      "tur": "fiil",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc03",
+      "ar": "يَفْهَمُ",
+      "harekesiz": "يفهم",
+      "okunus": "yefhemu",
+      "tr": "anlıyor / anlar",
+      "kok": "ف ه م",
+      "vezin": "يَفْعَلُ",
+      "turevler": [
+        {
+          "ar": "أَفْهَمُ",
+          "tr": "anlıyorum"
+        },
+        {
+          "ar": "نَفْهَمُ",
+          "tr": "anlıyoruz"
+        }
+      ],
+      "ekBilgi": "4. bab muzâri (فَعِلَ → يَفْعَلُ).",
+      "ornek": "الطُّلَّابُ يَفْهَمُونَ الدَّرْسَ.",
+      "ornekTr": "Öğrenciler dersi anlıyorlar.",
+      "kullanimNotu": "Doğrudan nesne (mef'ûlün bih) alır.",
+      "tur": "fiil",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc04",
+      "ar": "يَدْرُسُ",
+      "harekesiz": "يدرس",
+      "okunus": "yedrusu",
+      "tr": "ders çalışıyor / okuyor",
+      "kok": "د ر س",
+      "vezin": "يَفْعُلُ",
+      "turevler": [
+        {
+          "ar": "دِرَاسَةٌ",
+          "tr": "eğitim / çalışma"
+        },
+        {
+          "ar": "مَدْرَسَةٌ",
+          "tr": "okul"
+        }
+      ],
+      "ekBilgi": "1. bab muzâri; bölüm/üniversite eğitimi için kullanılır.",
+      "ornek": "أَدْرُسُ فِي كُلِّيَّةِ الطِّبِّ.",
+      "ornekTr": "Tıp fakültesinde okuyorum.",
+      "kullanimNotu": "يُدَرِّسُ (II. bab) 'ders veriyor / okutuyor' demektir!",
+      "tur": "fiil",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc05",
+      "ar": "يَجْلِسُ",
+      "harekesiz": "يجلس",
+      "okunus": "yeclisu",
+      "tr": "oturuyor / oturur",
+      "kok": "ج ل س",
+      "vezin": "يَفْعِلُ",
+      "turevler": [
+        {
+          "ar": "أَجْلِسُ",
+          "tr": "oturuyorum"
+        },
+        {
+          "ar": "مَجْلِسٌ",
+          "tr": "oturma yeri / meclis"
+        }
+      ],
+      "ekBilgi": "2. bab muzâri (2. kök harfi kesralı).",
+      "ornek": "يَجْلِسُ الطَّالِبُ فِي الصَّفِّ.",
+      "ornekTr": "Öğrenci sınıfta oturuyor.",
+      "kullanimNotu": "عَلَى / فِي ile kullanılır.",
+      "tur": "fiil",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc06",
+      "ar": "يَذْهَبُ",
+      "harekesiz": "يذهب",
+      "okunus": "yezhebu",
+      "tr": "gidiyor / gider",
+      "kok": "ذ ه ب",
+      "vezin": "يَفْعَلُ",
+      "turevler": [
+        {
+          "ar": "سَأَذْهَبُ",
+          "tr": "gideceğim"
+        },
+        {
+          "ar": "نَذْهَبُ",
+          "tr": "gidiyoruz"
+        }
+      ],
+      "ekBilgi": "3. bab muzâri; إِلَى ile kullanılır.",
+      "ornek": "سَأَذْهَبُ إِلَى الْمَكْتَبَةِ غَدًا.",
+      "ornekTr": "Yarın kütüphaneye gideceğim.",
+      "kullanimNotu": "Zıddı: يَرْجِعُ (dönüyor).",
+      "tur": "fiil",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc07",
+      "ar": "يَشْرَبُ",
+      "harekesiz": "يشرب",
+      "okunus": "yeşrabu",
+      "tr": "içiyor / içer",
+      "kok": "ش ر ب",
+      "vezin": "يَفْعَلُ",
+      "turevler": [
+        {
+          "ar": "أَشْرَبُ",
+          "tr": "içiyorum"
+        },
+        {
+          "ar": "مَشْرُوبَاتٌ",
+          "tr": "içecekler"
+        }
+      ],
+      "ekBilgi": "4. bab muzâri.",
+      "ornek": "أَشْرَبُ الشَّايَ كُلَّ صَبَاحٍ.",
+      "ornekTr": "Her sabah çay içerim.",
+      "kullanimNotu": "Doğrudan mansub nesne alır.",
+      "tur": "fiil",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc08",
+      "ar": "يَأْكُلُ",
+      "harekesiz": "يأكل",
+      "okunus": "ye'kulu",
+      "tr": "yiyor / yer",
+      "kok": "أ ك ل",
+      "vezin": "يَفْعُلُ",
+      "turevler": [
+        {
+          "ar": "آكُلُ",
+          "tr": "yiyorum (أَأْ → آ)"
+        },
+        {
+          "ar": "نَأْكُلُ",
+          "tr": "yiyoruz"
+        }
+      ],
+      "ekBilgi": "1. tekilde iki hemze birleşir ve medli آكُلُ olur!",
+      "ornek": "آكُلُ الْفَوَاكِهَ الطَّازَجَةَ.",
+      "ornekTr": "Taze meyveler yerim.",
+      "kullanimNotu": "آكُلُ (yiyorum) ve آخُذُ (alıyorum) medli yazılır!",
+      "tur": "fiil",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc09",
+      "ar": "يَأْخُذُ",
+      "harekesiz": "يأخذ",
+      "okunus": "ye'huzu",
+      "tr": "alıyor / alır",
+      "kok": "أ خ ذ",
+      "vezin": "يَفْعُلُ",
+      "turevler": [
+        {
+          "ar": "آخُذُ",
+          "tr": "alıyorum"
+        },
+        {
+          "ar": "مَأْخُوذٌ",
+          "tr": "alınmış"
+        }
+      ],
+      "ekBilgi": "1. bab; 1. tekil: آخُذُ (medli elif!).",
+      "ornek": "سَآخُذُ مِظَلَّتِي مَعِي.",
+      "ornekTr": "Şemsiyemi yanıma alacağım.",
+      "kullanimNotu": "İlaç/ders/karar almak için de kullanılır.",
+      "tur": "fiil",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc10",
+      "ar": "يَسْكُنُ",
+      "harekesiz": "يسكن",
+      "okunus": "yeskunu",
+      "tr": "oturuyor / ikamet ediyor",
+      "kok": "س ك ن",
+      "vezin": "يَفْعُلُ",
+      "turevler": [
+        {
+          "ar": "سَكَنٌ",
+          "tr": "konut / yurt"
+        },
+        {
+          "ar": "مَسْكَنٌ",
+          "tr": "ev / mesken"
+        }
+      ],
+      "ekBilgi": "فِي harf-i ceriyle kullanılır.",
+      "ornek": "أَسْكُنُ فِي مَدِينَةِ بُورْصَا.",
+      "ornekTr": "Bursa şehrinde oturuyorum.",
+      "kullanimNotu": "جَلَسَ sandalyede oturmak, سَكَنَ bir şehirde/evde ikamet etmektir!",
+      "tur": "fiil",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc11",
+      "ar": "يُحِبُّ",
+      "harekesiz": "يحب",
+      "okunus": "yuhibbu",
+      "tr": "seviyor / sever",
+      "kok": "ح ب ب",
+      "vezin": "يُفْعِلُ",
+      "turevler": [
+        {
+          "ar": "أُحِبُّكَ",
+          "tr": "seni seviyorum (E)"
+        },
+        {
+          "ar": "مَحَبَّةٌ",
+          "tr": "sevgi"
+        }
+      ],
+      "ekBilgi": "IV. bab muzaaf fiil (أَحَبَّ → يُحِبُّ); ön eki dammelidir (يُ/أُ).",
+      "ornek": "أُحِبُّ اللُّغَةَ الْعَرَبِيَّةَ كَثِيرًا.",
+      "ornekTr": "Arap dilini çok seviyorum.",
+      "kullanimNotu": "Nesne zamirleriyle çok sık kullanılır (أُحِبُّهُ / أُحِبُّكُمْ).",
+      "tur": "fiil",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc12",
+      "ar": "يُسَاعِدُ",
+      "harekesiz": "يساعد",
+      "okunus": "yusâ‘idu",
+      "tr": "yardım ediyor / eder",
+      "kok": "س ع د",
+      "vezin": "يُفَاعِلُ",
+      "turevler": [
+        {
+          "ar": "مُسَاعَدَةٌ",
+          "tr": "yardım"
+        },
+        {
+          "ar": "يُسَاعِدُنِي",
+          "tr": "bana yardım ediyor"
+        }
+      ],
+      "ekBilgi": "III. bab (سَاعَدَ → يُسَاعِدُ); doğrudan nesne alır.",
+      "ornek": "يُسَاعِدُنِي صَدِيقِي دَائِمًا.",
+      "ornekTr": "Arkadaşım bana daima yardım eder.",
+      "kullanimNotu": "Türkçedeki '-e'ye rağmen Arapçada doğrudan mansub nesne alır!",
+      "tur": "fiil",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc13",
+      "ar": "يُشَجِّعُ",
+      "harekesiz": "يشجع",
+      "okunus": "yuşecci‘u",
+      "tr": "teşvik ediyor / cesaretlendiriyor",
+      "kok": "ش ج ع",
+      "vezin": "يُفَعِّلُ",
+      "turevler": [
+        {
+          "ar": "تَشْجِيعٌ",
+          "tr": "teşvik"
+        },
+        {
+          "ar": "شُجَاعٌ",
+          "tr": "cesur"
+        }
+      ],
+      "ekBilgi": "II. bab; عَلَى harf-i ceriyle kullanılır (يُشَجِّعُهُ عَلَى).",
+      "ornek": "يُشَجِّعُنَا الْأُسْتَاذُ عَلَى الْقِرَاءَةِ.",
+      "ornekTr": "Hoca bizi okumaya teşvik ediyor.",
+      "kullanimNotu": "Eğitim ve motivasyon metinlerinde çok yaygındır.",
+      "tur": "fiil",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc14",
+      "ar": "يَحْتَرِمُ",
+      "harekesiz": "يحترم",
+      "okunus": "yahterimu",
+      "tr": "saygı duyuyor / hürmet ediyor",
+      "kok": "ح ر م",
+      "vezin": "يَفْتَعِلُ",
+      "turevler": [
+        {
+          "ar": "اِحْتِرَامٌ",
+          "tr": "saygı"
+        },
+        {
+          "ar": "مُحْتَرَمٌ",
+          "tr": "saygın"
+        }
+      ],
+      "ekBilgi": "VIII. bab; doğrudan mansub nesne alır.",
+      "ornek": "نَحْتَرِمُ الْمُعَلِّمِينَ وَالْمُعَلِّمَاتِ.",
+      "ornekTr": "Erkek ve kadın öğretmenlere saygı duyarız.",
+      "kullanimNotu": "Harf-i cersiz doğrudan nesne alır.",
+      "tur": "fiil",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc15",
+      "ar": "يُكَرِّمُ",
+      "harekesiz": "يكرم",
+      "okunus": "yukerrimu",
+      "tr": "ödüllendiriyor / ikramda bulunuyor",
+      "kok": "ك ر م",
+      "vezin": "يُفَعِّلُ",
+      "turevler": [
+        {
+          "ar": "تَكْرِيمٌ",
+          "tr": "ödüllendirme / onurlandırma"
+        },
+        {
+          "ar": "كَرِيمٌ",
+          "tr": "cömert"
+        }
+      ],
+      "ekBilgi": "II. bab; tören ve başarı haberlerinde sık geçer.",
+      "ornek": "تُكَرِّمُ الْجَامِعَةُ الْمُتَفَوِّقِينَ.",
+      "ornekTr": "Üniversite başarılı öğrencileri ödüllendiriyor.",
+      "kullanimNotu": "Doğrudan nesne alır.",
+      "tur": "fiil",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc16",
+      "ar": "يُسَافِرُ",
+      "harekesiz": "يسافر",
+      "okunus": "yusâfiru",
+      "tr": "seyahat ediyor / yolculuk ediyor",
+      "kok": "س ف ر",
+      "vezin": "يُفَاعِلُ",
+      "turevler": [
+        {
+          "ar": "سَفَرٌ",
+          "tr": "yolculuk"
+        },
+        {
+          "ar": "مُسَافِرٌ",
+          "tr": "yolcu"
+        }
+      ],
+      "ekBilgi": "III. bab; إِلَى + yer, بِـ + araç ile kullanılır.",
+      "ornek": "سَوْفَ أُسَافِرُ بِالْقِطَارِ.",
+      "ornekTr": "Trenle seyahat edeceğim.",
+      "kullanimNotu": "سَـ / سَوْفَ ile çok sık eşleşir.",
+      "tur": "fiil",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc17",
+      "ar": "يَبْدَأُ",
+      "harekesiz": "يبدأ",
+      "okunus": "yebdeu",
+      "tr": "başlıyor / başlar",
+      "kok": "ب د أ",
+      "vezin": "يَفْعَلُ",
+      "turevler": [
+        {
+          "ar": "بِدَايَةٌ",
+          "tr": "başlangıç"
+        },
+        {
+          "ar": "مَبْدَأٌ",
+          "tr": "ilke / prensip"
+        }
+      ],
+      "ekBilgi": "3. bab mehmûzu'l-lâm.",
+      "ornek": "سَيَبْدَأُ الدَّرْسُ بَعْدَ قَلِيلٍ.",
+      "ornekTr": "Ders az sonra başlayacak.",
+      "kullanimNotu": "Zıddı: يَنْتَهِي (bitiyor).",
+      "tur": "fiil",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc18",
+      "ar": "يَنْتَظِرُ",
+      "harekesiz": "ينتظر",
+      "okunus": "yenteziru",
+      "tr": "bekliyor / bekler",
+      "kok": "ن ظ ر",
+      "vezin": "يَفْتَعِلُ",
+      "turevler": [
+        {
+          "ar": "اِنْتِظَارٌ",
+          "tr": "bekleme"
+        },
+        {
+          "ar": "يَنْتَظِرُنِي",
+          "tr": "beni bekliyor"
+        }
+      ],
+      "ekBilgi": "VIII. bab; doğrudan nesne alır (harf-i cersiz!).",
+      "ornek": "أَنْتَظِرُكَ أَمَامَ الْمَحَطَّةِ.",
+      "ornekTr": "Seni istasyonun önünde bekliyorum.",
+      "kullanimNotu": "يَنْتَظِرُ + nesne (ör. أَنْتَظِرُ الْحَافِلَةَ).",
+      "tur": "fiil",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc19",
+      "ar": "يَتَعَلَّمُ",
+      "harekesiz": "يتعلم",
+      "okunus": "yete‘allemu",
+      "tr": "öğreniyor / öğrenir",
+      "kok": "ع ل م",
+      "vezin": "يَتَفَعَّلُ",
+      "turevler": [
+        {
+          "ar": "تَعَلُّمٌ",
+          "tr": "öğrenme"
+        },
+        {
+          "ar": "مُتَعَلِّمٌ",
+          "tr": "öğrenen"
+        }
+      ],
+      "ekBilgi": "V. bab (تَعَلَّمَ → يَتَعَلَّمُ).",
+      "ornek": "نَتَعَلَّمُ كَلِمَاتٍ جَدِيدَةً كُلَّ يَوْمٍ.",
+      "ornekTr": "Her gün yeni kelimeler öğreniyoruz.",
+      "kullanimNotu": "يُعَلِّمُ (öğretiyor) ↔ يَتَعَلَّمُ (öğreniyor) çiftine dikkat!",
+      "tur": "fiil",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc20",
+      "ar": "يُعَلِّمُ",
+      "harekesiz": "يعلم",
+      "okunus": "yu‘allimu",
+      "tr": "öğretiyor / öğretir",
+      "kok": "ع ل م",
+      "vezin": "يُفَعِّلُ",
+      "turevler": [
+        {
+          "ar": "تَعْلِيمٌ",
+          "tr": "eğitim / öğretim"
+        },
+        {
+          "ar": "مُعَلِّمٌ",
+          "tr": "öğretmen"
+        }
+      ],
+      "ekBilgi": "II. bab; çift nesne alabilir (يُعَلِّمُنَا الْعَرَبِيَّةَ).",
+      "ornek": "يُعَلِّمُنَا الْأُسْتَاذُ قَوَاعِدَ النَّحْوِ.",
+      "ornekTr": "Hoca bize nahiv kurallarını öğretiyor.",
+      "kullanimNotu": "مُعَلِّمٌ bu fiilin ism-i fâilidir.",
+      "tur": "fiil",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc21",
+      "ar": "يَتَكَلَّمُ",
+      "harekesiz": "يتكلم",
+      "okunus": "yetekellemu",
+      "tr": "konuşuyor / konuşur",
+      "kok": "ك ل م",
+      "vezin": "يَتَفَعَّلُ",
+      "turevler": [
+        {
+          "ar": "كَلَامٌ",
+          "tr": "söz / konuşma"
+        },
+        {
+          "ar": "مُتَكَلِّمٌ",
+          "tr": "konuşan / 1. şahıs"
+        }
+      ],
+      "ekBilgi": "V. bab; dil adıyla doğrudan kullanılır.",
+      "ornek": "هَلْ تَتَكَلَّمُ اللُّغَةَ الْعَرَبِيَّةَ؟",
+      "ornekTr": "Arapça konuşuyor musun?",
+      "kullanimNotu": "يَتَحَدَّثُ ile eş anlamlıdır.",
+      "tur": "fiil",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc22",
+      "ar": "يَتَنَاوَلُ",
+      "harekesiz": "يتناول",
+      "okunus": "yetenâvelu",
+      "tr": "yiyor / alıyor / ele alıyor",
+      "kok": "ن و ل",
+      "vezin": "يَتَفَاعَلُ",
+      "turevler": [
+        {
+          "ar": "تَنَاوُلٌ",
+          "tr": "alma / ele alma"
+        },
+        {
+          "ar": "فَطُورٌ",
+          "tr": "kahvaltı"
+        }
+      ],
+      "ekBilgi": "VI. bab; yemek/ilaç almak ve akademik dilde 'konuyu ele almak'!",
+      "ornek": "أَتَنَاوَلُ الْفَطُورَ فِي السَّاعَةِ السَّابِعَةِ.",
+      "ornekTr": "Saat yedide kahvaltı yaparım.",
+      "kullanimNotu": "YDS metinlerinde 'يَتَنَاوَلُ الْمَقَالُ' (makale ... konusunu ele alıyor) çok çıkar!",
+      "tur": "fiil",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc23",
+      "ar": "يَسْتَيْقِظُ",
+      "harekesiz": "يستيقظ",
+      "okunus": "yesteykizu",
+      "tr": "uyanıyor / uyanır",
+      "kok": "ي ق ظ",
+      "vezin": "يَسْتَفْعِلُ",
+      "turevler": [
+        {
+          "ar": "اِسْتِيقَاظٌ",
+          "tr": "uyanma"
+        },
+        {
+          "ar": "يَقِظٌ",
+          "tr": "uyanık / dikkatli"
+        }
+      ],
+      "ekBilgi": "X. bab; günlük rutinlerin açılış fiilidir.",
+      "ornek": "أَسْتَيْقِظُ مُبَكِّرًا كُلَّ صَبَاحٍ.",
+      "ornekTr": "Her sabah erken uyanırım.",
+      "kullanimNotu": "Zıddı: يَنَامُ (uyuyor).",
+      "tur": "fiil",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc24",
+      "ar": "سَـ",
+      "harekesiz": "س",
+      "okunus": "se-",
+      "tr": "-ecek / -acak (Yakın gelecek)",
+      "kok": "—",
+      "vezin": "حَرْفُ اسْتِقْبَالٍ",
+      "turevler": [
+        {
+          "ar": "سَأَذْهَبُ",
+          "tr": "gideceğim"
+        },
+        {
+          "ar": "سَنَقْرَأُ",
+          "tr": "okuyacağız"
+        }
+      ],
+      "ekBilgi": "Muzâri fiile bitişir; son harekeyi değiştirmez.",
+      "ornek": "سَأَزُورُ جَدِّي غَدًا.",
+      "ornekTr": "Yarın dedemi ziyaret edeceğim.",
+      "kullanimNotu": "Yalnızca olumlu muzâriye eklenir.",
+      "tur": "harf",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc25",
+      "ar": "سَوْفَ",
+      "harekesiz": "سوف",
+      "okunus": "sevfe",
+      "tr": "-ecek / -acak (Uzak gelecek)",
+      "kok": "—",
+      "vezin": "حَرْفُ تَسْوِيفٍ",
+      "turevler": [
+        {
+          "ar": "سَوْفَ أُسَافِرُ",
+          "tr": "seyahat edeceğim"
+        },
+        {
+          "ar": "سَوْفَ تَرَى",
+          "tr": "göreceksin"
+        }
+      ],
+      "ekBilgi": "Muzâri fiilden ayrı yazılır; son harekeyi değiştirmez.",
+      "ornek": "سَوْفَ نَنْجَحُ بِإِذْنِ اللّٰهِ.",
+      "ornekTr": "Allah'ın izniyle başaracağız.",
+      "kullanimNotu": "سَـ'den daha uzun vadeli/genel gelecek bildirir.",
+      "tur": "harf",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc26",
+      "ar": "غَدًا",
+      "harekesiz": "غدا",
+      "okunus": "gaden",
+      "tr": "yarın",
+      "kok": "غ د و",
+      "vezin": "ظَرْفُ زَمَانٍ",
+      "turevler": [
+        {
+          "ar": "بَعْدَ غَدٍ",
+          "tr": "öbür gün"
+        },
+        {
+          "ar": "الْغَدُ",
+          "tr": "yarın / gelecek"
+        }
+      ],
+      "ekBilgi": "Mansub zaman zarfı; gelecek zamanın anahtar ipucudur.",
+      "ornek": "سَنَلْتَقِي غَدًا صَبَاحًا.",
+      "ornekTr": "Yarın sabah buluşacağız.",
+      "kullanimNotu": "أَمْسِ (dün) ↔ الْيَوْمَ (bugün) ↔ غَدًا (yarın).",
+      "tur": "zarf",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc27",
+      "ar": "الْآنَ",
+      "harekesiz": "الآن",
+      "okunus": "el-âne",
+      "tr": "şimdi / şu an",
+      "kok": "أ و ن",
+      "vezin": "ظَرْفُ زَمَانٍ",
+      "turevler": [
+        {
+          "ar": "حَتَّى الْآنَ",
+          "tr": "şimdiye kadar"
+        },
+        {
+          "ar": "مِنَ الْآنَ",
+          "tr": "şimdiden itibaren"
+        }
+      ],
+      "ekBilgi": "Fetha üzere mebnî zaman zarfı; muzâriye şimdiki zaman vurgusu katar.",
+      "ornek": "أَكْتُبُ الْوَاجِبَ الْآنَ.",
+      "ornekTr": "Şu an ödevi yazıyorum.",
+      "kullanimNotu": "Başına harf-i cer gelse de sonu fethalı kalır (مِنَ الْآنَ!).",
+      "tur": "zarf",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc28",
+      "ar": "دَائِمًا",
+      "harekesiz": "دائما",
+      "okunus": "dâimen",
+      "tr": "daima / her zaman",
+      "kok": "د و م",
+      "vezin": "فَاعِلًا",
+      "turevler": [
+        {
+          "ar": "دَائِمٌ",
+          "tr": "sürekli"
+        },
+        {
+          "ar": "أَحْيَانًا",
+          "tr": "bazen"
+        }
+      ],
+      "ekBilgi": "Sıklık zarfı; geniş zaman muzâriyle çok uyumludur.",
+      "ornek": "أُحِبُّ الْقِرَاءَةَ دَائِمًا.",
+      "ornekTr": "Okumayı her zaman severim.",
+      "kullanimNotu": "دَائِمًا (daima) ↔ أَحْيَانًا (bazen) ↔ نَادِرًا (nadiren).",
+      "tur": "zarf",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc29",
+      "ar": "مُبَكِّرًا",
+      "harekesiz": "مبكرا",
+      "okunus": "mubekkiran",
+      "tr": "erkenden / erken",
+      "kok": "ب ك ر",
+      "vezin": "مُفَعِّلًا",
+      "turevler": [
+        {
+          "ar": "مُتَأَخِّرًا",
+          "tr": "geç"
+        },
+        {
+          "ar": "الصَّبَاحُ الْبَاكِرُ",
+          "tr": "erken sabah"
+        }
+      ],
+      "ekBilgi": "Zaman/hâl zarfı olarak sık kullanılır.",
+      "ornek": "أَنَامُ مُبَكِّرًا وَأَسْتَيْقِظُ مُبَكِّرًا.",
+      "ornekTr": "Erken uyur ve erken uyanırım.",
+      "kullanimNotu": "Zıddı: مُتَأَخِّرًا (geç).",
+      "tur": "zarf",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc30",
+      "ar": "مُلَاحَظَةٌ",
+      "harekesiz": "ملاحظة",
+      "okunus": "mulâhazatun",
+      "tr": "not / gözlem",
+      "kok": "ل ح ظ",
+      "vezin": "مُفَاعَلَة",
+      "turevler": [
+        {
+          "ar": "مُلَاحَظَاتٌ",
+          "tr": "notlar"
+        },
+        {
+          "ar": "لَحْظَةٌ",
+          "tr": "an / saniye"
+        }
+      ],
+      "ekBilgi": "Çoğulu مُلَاحَظَاتٌ (nesne hâlinde kesralı: الْمُلَاحَظَاتِ).",
+      "ornek": "يَكْتُبُ الطَّالِبُ الْمُلَاحَظَاتِ.",
+      "ornekTr": "Öğrenci notları yazıyor.",
+      "kullanimNotu": "Cemi müennes sâlim nasb alâmeti pratiği için harikadır.",
+      "tur": "isim",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc31",
+      "ar": "مَهَارَةٌ",
+      "harekesiz": "مهارة",
+      "okunus": "mehâratun",
+      "tr": "beceri / yetenek",
+      "kok": "م ه ر",
+      "vezin": "فَعَالَة",
+      "turevler": [
+        {
+          "ar": "مَهَارَاتٌ",
+          "tr": "beceriler"
+        },
+        {
+          "ar": "مَاهِرٌ",
+          "tr": "yetenekli / usta"
+        }
+      ],
+      "ekBilgi": "Çoğulu مَهَارَاتٌ.",
+      "ornek": "أُطَوِّرُ مَهَارَاتِي اللُّغَوِيَّةَ.",
+      "ornekTr": "Dil becerilerimi geliştiriyorum.",
+      "kullanimNotu": "4 dil becerisi: مَهَارَاتُ اللُّغَةِ الْأَرْبَعُ.",
+      "tur": "isim",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m10_fc32",
+      "ar": "مِظَلَّةٌ",
+      "harekesiz": "مظلة",
+      "okunus": "mizelletun",
+      "tr": "şemsiye",
+      "kok": "ظ ل ل",
+      "vezin": "مِفْعَلَة",
+      "turevler": [
+        {
+          "ar": "مِظَلَّاتٌ",
+          "tr": "şemsiyeler"
+        },
+        {
+          "ar": "ظِلٌّ",
+          "tr": "gölge"
+        }
+      ],
+      "ekBilgi": "Âlet ismi (ظ-ل-ل 'gölge' kökünden).",
+      "ornek": "قَدْ يَنْزِلُ الْمَطَرُ، فَخُذْ مِظَلَّتَكَ.",
+      "ornekTr": "Yağmur yağabilir, şemsiyeni al.",
+      "kullanimNotu": "Hem yağmur şemsiyesi hem güneşlik/paraşüt anlamı taşır.",
+      "tur": "isim",
+      "moduleId": "10",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc01",
+      "ar": "لَيْسَ",
+      "harekesiz": "ليس",
+      "okunus": "leyse",
+      "tr": "değildir (İsim cümlesi olumsuzu)",
+      "kok": "ل ي س",
+      "vezin": "فِعْلٌ نَاقِصٌ",
+      "turevler": [
+        {
+          "ar": "لَسْتُ",
+          "tr": "değilim"
+        },
+        {
+          "ar": "لَيْسَتْ",
+          "tr": "değildir (K)"
+        }
+      ],
+      "ekBilgi": "İsmini merfû, haberini mansub yapar.",
+      "ornek": "لَيْسَ الدَّرْسُ صَعْبًا.",
+      "ornekTr": "Ders zor değildir.",
+      "kullanimNotu": "Sükûnlu eklerde ortadaki ي düşer (لَسْتُ/لَسْتَ/لَسْنَا).",
+      "tur": "fiil",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc02",
+      "ar": "مَا",
+      "harekesiz": "ما",
+      "okunus": "mâ",
+      "tr": "...-medi / -madı (Mâzi olumsuzu)",
+      "kok": "—",
+      "vezin": "حَرْفُ نَفْيٍ",
+      "turevler": [
+        {
+          "ar": "مَا ذَهَبْتُ",
+          "tr": "gitmedim"
+        },
+        {
+          "ar": "مَا فَهِمْتُ",
+          "tr": "anlamadım"
+        }
+      ],
+      "ekBilgi": "Mâzi fiilin önüne gelir ve hareke değiştirmez.",
+      "ornek": "مَا نَزَلَ الْمَطَرُ أَمْسِ.",
+      "ornekTr": "Dün yağmur yağmadı.",
+      "kullanimNotu": "Soru مَا'sı ile cümle yapısından ayırt edilir.",
+      "tur": "harf",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc03",
+      "ar": "لَا",
+      "harekesiz": "لا",
+      "okunus": "lâ",
+      "tr": "...-maz / -mıyor (Muzâri olumsuzu)",
+      "kok": "—",
+      "vezin": "حَرْفُ نَفْيٍ",
+      "turevler": [
+        {
+          "ar": "لَا أَعْرِفُ",
+          "tr": "bilmiyorum"
+        },
+        {
+          "ar": "لَا يَتَأَخَّرُونَ",
+          "tr": "geç kalmazlar"
+        }
+      ],
+      "ekBilgi": "Olumsuzluk (nefy) لَا'sı muzâriyi merfû bırakır.",
+      "ornek": "لَا أَشْرَبُ الْقَهْوَةَ لَيْلًا.",
+      "ornekTr": "Gece kahve içmem.",
+      "kullanimNotu": "Yasaklama لَا'sı ise muzâriyi cezmeder (لَا تَكْتُبْ).",
+      "tur": "harf",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc04",
+      "ar": "السَّاعَةُ",
+      "harekesiz": "الساعة",
+      "okunus": "es-sâ‘atu",
+      "tr": "saat",
+      "kok": "س و ع",
+      "vezin": "فَعَلَة",
+      "turevler": [
+        {
+          "ar": "سَاعَاتٌ",
+          "tr": "saatler"
+        },
+        {
+          "ar": "كَمِ السَّاعَةُ؟",
+          "tr": "saat kaç?"
+        }
+      ],
+      "ekBilgi": "Müennes olduğu için saat numaraları hep ة'li sıra sayısıyla gelir.",
+      "ornek": "السَّاعَةُ السَّابِعَةُ وَالنِّصْفُ.",
+      "ornekTr": "Saat yedi buçuk.",
+      "kullanimNotu": "Çoğulu سَاعَاتٌ (dişil → أَرْبَعُ سَاعَاتٍ).",
+      "tur": "isim",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc05",
+      "ar": "الرُّبْعُ",
+      "harekesiz": "الربع",
+      "okunus": "er-rub‘u",
+      "tr": "çeyrek (15 dakika / 1/4)",
+      "kok": "ر ب ع",
+      "vezin": "فُعْل",
+      "turevler": [
+        {
+          "ar": "وَالرُّبْعُ",
+          "tr": "çeyrek geçiyor"
+        },
+        {
+          "ar": "إِلَّا الرُّبْعَ",
+          "tr": "çeyrek var"
+        }
+      ],
+      "ekBilgi": "أَرْبَعَة (dört) kökünden kesir ismidir.",
+      "ornek": "السَّاعَةُ الثَّالِثَةُ وَالرُّبْعُ.",
+      "ornekTr": "Saat üçü çeyrek geçiyor.",
+      "kullanimNotu": "إِلَّا sonrası mansub: إِلَّا الرُّبْعَ.",
+      "tur": "isim",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc06",
+      "ar": "النِّصْفُ",
+      "harekesiz": "النصف",
+      "okunus": "en-nısfu",
+      "tr": "buçuk / yarım (30 dakika / 1/2)",
+      "kok": "ن ص ف",
+      "vezin": "فِعْل",
+      "turevler": [
+        {
+          "ar": "وَالنِّصْفُ",
+          "tr": "buçuk"
+        },
+        {
+          "ar": "نِصْفُ سَاعَةٍ",
+          "tr": "yarım saat"
+        }
+      ],
+      "ekBilgi": "Çoğulu أَنْصَافٌ.",
+      "ornek": "أَسْتَيْقِظُ فِي السَّاعَةِ السَّادِسَةِ وَالنِّصْفِ.",
+      "ornekTr": "Saat altı buçukta uyanırım.",
+      "kullanimNotu": "Saat söylemede en sık kullanılan kesir.",
+      "tur": "isim",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc07",
+      "ar": "الثُّلُثُ",
+      "harekesiz": "الثلث",
+      "okunus": "es-sulusu",
+      "tr": "yirmi dakika / üçte bir (1/3)",
+      "kok": "ث ل ث",
+      "vezin": "فُعُل",
+      "turevler": [
+        {
+          "ar": "وَالثُّلُثُ",
+          "tr": "yirmi geçiyor"
+        },
+        {
+          "ar": "إِلَّا الثُّلُثَ",
+          "tr": "yirmi var"
+        }
+      ],
+      "ekBilgi": "ثَلَاثَة (üç) kökünden kesir ismidir.",
+      "ornek": "الِاجْتِمَاعُ فِي السَّاعَةِ الثَّانِيَةِ وَالثُّلُثِ.",
+      "ornekTr": "Toplantı ikiyi yirmi geçe.",
+      "kullanimNotu": "Saatlerin Arapçaya özgü en pratik ifadesidir.",
+      "tur": "isim",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc08",
+      "ar": "دَقِيقَةٌ",
+      "harekesiz": "دقيقة",
+      "okunus": "dakîkatun",
+      "tr": "dakika",
+      "kok": "د ق ق",
+      "vezin": "فَعِيلَة",
+      "turevler": [
+        {
+          "ar": "دَقَائِقُ",
+          "tr": "dakikalar"
+        },
+        {
+          "ar": "خَمْسُ دَقَائِقَ",
+          "tr": "beş dakika"
+        }
+      ],
+      "ekBilgi": "Çoğulu دَقَائِقُ (gayr-i munsarif → tenvînsiz fetha ile mecrûr: خَمْسُ دَقَائِقَ!).",
+      "ornek": "بَقِيَتْ عَشْرُ دَقَائِقَ.",
+      "ornekTr": "On dakika kaldı.",
+      "kullanimNotu": "دَقِيقَةٌ dişil olduğu için sayıları ة'siz gelir!",
+      "tur": "isim",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc09",
+      "ar": "تَمَامًا",
+      "harekesiz": "تماما",
+      "okunus": "temâmen",
+      "tr": "tam / tamamen",
+      "kok": "ت م م",
+      "vezin": "فَعَالًا",
+      "turevler": [
+        {
+          "ar": "تَمَامٌ",
+          "tr": "tamlık"
+        },
+        {
+          "ar": "مُمْتَازٌ",
+          "tr": "mükemmel"
+        }
+      ],
+      "ekBilgi": "Tam saatlerde (:00) kullanılır.",
+      "ornek": "السَّاعَةُ الثَّامِنَةُ تَمَامًا.",
+      "ornekTr": "Saat tam sekiz.",
+      "kullanimNotu": "Ayrıca 'tamamen anladım' (فَهِمْتُهُ تَمَامًا) anlamında kullanılır.",
+      "tur": "zarf",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc10",
+      "ar": "الْأَحَدُ",
+      "harekesiz": "الأحد",
+      "okunus": "el-ehadu",
+      "tr": "Pazar günü",
+      "kok": "أ ح د",
+      "vezin": "أَفْعَل",
+      "turevler": [
+        {
+          "ar": "يَوْمَ الْأَحَدِ",
+          "tr": "Pazar günü"
+        },
+        {
+          "ar": "وَاحِدٌ",
+          "tr": "bir"
+        }
+      ],
+      "ekBilgi": "Arapçada haftanın 1. günüdür.",
+      "ornek": "سَنَرْجِعُ يَوْمَ الْأَحَدِ.",
+      "ornekTr": "Pazar günü döneceğiz.",
+      "kullanimNotu": "Pazartesi ile karıştırma!",
+      "tur": "isim",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc11",
+      "ar": "الْإِثْنَيْنِ",
+      "harekesiz": "الإثنين",
+      "okunus": "el-isneyni",
+      "tr": "Pazartesi günü",
+      "kok": "ث ن ي",
+      "vezin": "اِفْعَيْنِ",
+      "turevler": [
+        {
+          "ar": "يَوْمَ الْإِثْنَيْنِ",
+          "tr": "Pazartesi günü"
+        },
+        {
+          "ar": "اِثْنَانِ",
+          "tr": "iki"
+        }
+      ],
+      "ekBilgi": "Haftanın 2. günüdür (iki kökünden).",
+      "ornek": "يَبْدَأُ الْأُسْبُوعُ يَوْمَ الْإِثْنَيْنِ.",
+      "ornekTr": "Hafta pazartesi günü başlar.",
+      "kullanimNotu": "يَوْمَ الْإِثْنَيْنِ kalıbıyla kullanılır.",
+      "tur": "isim",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc12",
+      "ar": "الثُّلَاثَاءُ",
+      "harekesiz": "الثلاثاء",
+      "okunus": "es-sulâsâu",
+      "tr": "Salı günü",
+      "kok": "ث ل ث",
+      "vezin": "فُعَالَاء",
+      "turevler": [
+        {
+          "ar": "يَوْمَ الثُّلَاثَاءِ",
+          "tr": "Salı günü"
+        },
+        {
+          "ar": "ثَلَاثَةٌ",
+          "tr": "üç"
+        }
+      ],
+      "ekBilgi": "Haftanın 3. günüdür.",
+      "ornek": "عِنْدِي مَوْعِدٌ يَوْمَ الثُّلَاثَاءِ.",
+      "ornekTr": "Salı günü randevum var.",
+      "kullanimNotu": "ثَلَاثَة (3) kökünden kolayca hatırlanır.",
+      "tur": "isim",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc13",
+      "ar": "الْأَرْبِعَاءُ",
+      "harekesiz": "الأربعاء",
+      "okunus": "el-erbi‘âu",
+      "tr": "Çarşamba günü",
+      "kok": "ر ب ع",
+      "vezin": "أَفْعِلَاء",
+      "turevler": [
+        {
+          "ar": "يَوْمَ الْأَرْبِعَاءِ",
+          "tr": "Çarşamba günü"
+        },
+        {
+          "ar": "أَرْبَعَةٌ",
+          "tr": "dört"
+        }
+      ],
+      "ekBilgi": "Haftanın 4. günüdür.",
+      "ornek": "الِاجْتِمَاعُ يَوْمَ الْأَرْبِعَاءِ.",
+      "ornekTr": "Toplantı çarşamba günüdür.",
+      "kullanimNotu": "أَرْبَعَة (4) kökünden hatırlanır.",
+      "tur": "isim",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc14",
+      "ar": "الْخَمِيسُ",
+      "harekesiz": "الخميس",
+      "okunus": "el-hamîsu",
+      "tr": "Perşembe günü",
+      "kok": "خ م س",
+      "vezin": "فَعِيل",
+      "turevler": [
+        {
+          "ar": "يَوْمَ الْخَمِيسِ",
+          "tr": "Perşembe günü"
+        },
+        {
+          "ar": "خَمْسَةٌ",
+          "tr": "beş"
+        }
+      ],
+      "ekBilgi": "Haftanın 5. günüdür.",
+      "ornek": "أُسَلِّمُ الْوَاجِبَ يَوْمَ الْخَمِيسِ.",
+      "ornekTr": "Ödevi perşembe günü teslim ederim.",
+      "kullanimNotu": "خَمْسَة (5) kökünden hatırlanır.",
+      "tur": "isim",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc15",
+      "ar": "الْجُمُعَةُ",
+      "harekesiz": "الجمعة",
+      "okunus": "el-cumu‘atu",
+      "tr": "Cuma günü",
+      "kok": "ج م ع",
+      "vezin": "فُعُلَة",
+      "turevler": [
+        {
+          "ar": "يَوْمَ الْجُمُعَةِ",
+          "tr": "Cuma günü"
+        },
+        {
+          "ar": "جَامِعٌ",
+          "tr": "cami"
+        }
+      ],
+      "ekBilgi": "Toplanma (جَمَعَ) kökünden; haftanın 6. günüdür.",
+      "ornek": "أُصَلِّي صَلَاةَ الْجُمُعَةِ فِي الْمَسْجِدِ.",
+      "ornekTr": "Camide cuma namazını kılarım.",
+      "kullanimNotu": "Türkçedeki Cuma kelimesiyle aynıdır.",
+      "tur": "isim",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc16",
+      "ar": "السَّبْتُ",
+      "harekesiz": "السبت",
+      "okunus": "es-sebtu",
+      "tr": "Cumartesi günü",
+      "kok": "س ب ت",
+      "vezin": "فَعْل",
+      "turevler": [
+        {
+          "ar": "يَوْمَ السَّبْتِ",
+          "tr": "Cumartesi günü"
+        },
+        {
+          "ar": "عُطْلَةٌ",
+          "tr": "tatil"
+        }
+      ],
+      "ekBilgi": "Haftanın 7. günüdür.",
+      "ornek": "الِامْتِحَانُ يَوْمَ السَّبْتِ صَبَاحًا.",
+      "ornekTr": "Sınav cumartesi sabahıdır.",
+      "kullanimNotu": "يَوْمَا السَّبْتِ وَالْأَحَدِ = hafta sonu.",
+      "tur": "isim",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc17",
+      "ar": "الرَّبِيعُ",
+      "harekesiz": "الربيع",
+      "okunus": "er-rabî‘u",
+      "tr": "ilkbahar",
+      "kok": "ر ب ع",
+      "vezin": "فَعِيل",
+      "turevler": [
+        {
+          "ar": "فَصْلُ الرَّبِيعِ",
+          "tr": "ilkbahar mevsimi"
+        },
+        {
+          "ar": "رَبِيعُ الْأَوَّلِ",
+          "tr": "Rebiülevvel ayı"
+        }
+      ],
+      "ekBilgi": "4 mevsimden ilki.",
+      "ornek": "تَتَفَتَّحُ الْأَزْهَارُ فِي فَصْلِ الرَّبِيعِ.",
+      "ornekTr": "İlkbahar mevsiminde çiçekler açar.",
+      "kullanimNotu": "Zıddı: الْخَرِيفُ (sonbahar).",
+      "tur": "isim",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc18",
+      "ar": "الصَّيْفُ",
+      "harekesiz": "الصيف",
+      "okunus": "es-sayfu",
+      "tr": "yaz",
+      "kok": "ص ي ف",
+      "vezin": "فَعْل",
+      "turevler": [
+        {
+          "ar": "صَيْفِيٌّ",
+          "tr": "yazlık"
+        },
+        {
+          "ar": "فِي الصَّيْفِ",
+          "tr": "yazın"
+        }
+      ],
+      "ekBilgi": "Sıcak yaz mevsimi.",
+      "ornek": "نُسَافِرُ إِلَى الْبَحْرِ فِي الصَّيْفِ.",
+      "ornekTr": "Yazın denize seyahat ederiz.",
+      "kullanimNotu": "Zıddı: الشِّتَاءُ (kış).",
+      "tur": "isim",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc19",
+      "ar": "الْخَرِيفُ",
+      "harekesiz": "الخريف",
+      "okunus": "el-harîfu",
+      "tr": "sonbahar",
+      "kok": "خ ر ف",
+      "vezin": "فَعِيل",
+      "turevler": [
+        {
+          "ar": "فَصْلُ الْخَرِيفِ",
+          "tr": "sonbahar mevsimi"
+        },
+        {
+          "ar": "خَرِيفِيٌّ",
+          "tr": "sonbahara ait"
+        }
+      ],
+      "ekBilgi": "Yaprak dökümü ve okulların açılış mevsimi.",
+      "ornek": "تَسْقُطُ الْأَوْرَاقُ فِي الْخَرِيفِ.",
+      "ornekTr": "Sonbaharda yapraklar dökülür.",
+      "kullanimNotu": "الرَّبِيعُ ile karıştırılmamalı.",
+      "tur": "isim",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc20",
+      "ar": "الشِّتَاءُ",
+      "harekesiz": "الشتاء",
+      "okunus": "eş-şitâu",
+      "tr": "kış",
+      "kok": "ش ت و",
+      "vezin": "فِعَال",
+      "turevler": [
+        {
+          "ar": "شَتَوِيٌّ",
+          "tr": "kışlık"
+        },
+        {
+          "ar": "فِي الشِّتَاءِ",
+          "tr": "kışın"
+        }
+      ],
+      "ekBilgi": "Soğuk ve yağışlı mevsim.",
+      "ornek": "يَنْزِلُ الثَّلْجُ فِي فَصْلِ الشِّتَاءِ.",
+      "ornekTr": "Kış mevsiminde kar yağar.",
+      "kullanimNotu": "Kur'an'da Kureyş Suresi'nde geçer (رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ).",
+      "tur": "isim",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc21",
+      "ar": "وَاحِدٌ",
+      "harekesiz": "واحد",
+      "okunus": "vâhidun",
+      "tr": "bir (1)",
+      "kok": "و ح د",
+      "vezin": "فَاعِل",
+      "turevler": [
+        {
+          "ar": "وَاحِدَةٌ",
+          "tr": "bir (K)"
+        },
+        {
+          "ar": "وَحِيدٌ",
+          "tr": "tek / yalnız"
+        }
+      ],
+      "ekBilgi": "Sayılan isimden sonra sıfat olarak gelir ve cinsiyette tam uyar.",
+      "ornek": "عِنْدِي قَلَمٌ وَاحِدٌ وَحَقِيبَةٌ وَاحِدَةٌ.",
+      "ornekTr": "Bir kalemim ve bir çantam var.",
+      "kullanimNotu": "1 ve 2 sayıları zıtlık kuralına girmez, tam uyar!",
+      "tur": "sayi",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc22",
+      "ar": "اِثْنَانِ",
+      "harekesiz": "اثنان",
+      "okunus": "isnâni",
+      "tr": "iki (2)",
+      "kok": "ث ن ي",
+      "vezin": "اِفْعَانِ",
+      "turevler": [
+        {
+          "ar": "اِثْنَتَانِ",
+          "tr": "iki (K)"
+        },
+        {
+          "ar": "اِثْنَيْنِ",
+          "tr": "iki (mansub/mecrûr)"
+        }
+      ],
+      "ekBilgi": "Tesniye i'rabı alır (اِثْنَانِ / اِثْنَيْنِ); sıfat olarak isimden sonra gelir.",
+      "ornek": "اِشْتَرَيْتُ كِتَابَيْنِ اثْنَيْنِ.",
+      "ornekTr": "İki kitap satın aldım.",
+      "kullanimNotu": "Hemzesi vasıl hemzesidir!",
+      "tur": "sayi",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc23",
+      "ar": "ثَلَاثَةٌ",
+      "harekesiz": "ثلاثة",
+      "okunus": "selâsetun",
+      "tr": "üç (3)",
+      "kok": "ث ل ث",
+      "vezin": "فَعَالَة",
+      "turevler": [
+        {
+          "ar": "ثَلَاثُ",
+          "tr": "üç (dişil isimle)"
+        },
+        {
+          "ar": "ثَالِثٌ",
+          "tr": "üçüncü"
+        }
+      ],
+      "ekBilgi": "3–10 zıtlık kuralı başlar: eril isimle ة'li, dişil isimle ة'siz!",
+      "ornek": "قَرَأْتُ ثَلَاثَةَ كُتُبٍ وَثَلَاثَ قِصَصٍ.",
+      "ornekTr": "Üç kitap ve üç hikâye okudum.",
+      "kullanimNotu": "Sayılan isim daima çoğul mecrûrdur.",
+      "tur": "sayi",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc24",
+      "ar": "أَرْبَعَةٌ",
+      "harekesiz": "أربعة",
+      "okunus": "erba‘atun",
+      "tr": "dört (4)",
+      "kok": "ر ب ع",
+      "vezin": "أَفْعَلَة",
+      "turevler": [
+        {
+          "ar": "أَرْبَعُ",
+          "tr": "dört (dişil isimle)"
+        },
+        {
+          "ar": "رَابِعٌ",
+          "tr": "dördüncü"
+        }
+      ],
+      "ekBilgi": "3–10 zıtlık kuralına uyar.",
+      "ornek": "فِي السَّنَةِ أَرْبَعَةُ فُصُولٍ.",
+      "ornekTr": "Yılda dört mevsim vardır.",
+      "kullanimNotu": "الرُّبْعُ (çeyrek) ve الْأَرْبِعَاءُ (çarşamba) aynı köktendir.",
+      "tur": "sayi",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc25",
+      "ar": "خَمْسَةٌ",
+      "harekesiz": "خمسة",
+      "okunus": "hamsetun",
+      "tr": "beş (5)",
+      "kok": "خ م س",
+      "vezin": "فَعْلَة",
+      "turevler": [
+        {
+          "ar": "خَمْسُ",
+          "tr": "beş (dişil isimle)"
+        },
+        {
+          "ar": "خَامِسٌ",
+          "tr": "beşinci"
+        }
+      ],
+      "ekBilgi": "3–10 zıtlık kuralına uyar.",
+      "ornek": "عِنْدِي خَمْسَةُ أَقْلَامٍ وَخَمْسُ دَفَاتِرَ.",
+      "ornekTr": "Beş kalemim var.",
+      "kullanimNotu": "الْخَمِيسُ (perşembe) aynı köktendir.",
+      "tur": "sayi",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc26",
+      "ar": "سِتَّةٌ",
+      "harekesiz": "ستة",
+      "okunus": "sittetun",
+      "tr": "altı (6)",
+      "kok": "س د س",
+      "vezin": "فِعْلَة",
+      "turevler": [
+        {
+          "ar": "سِتُّ",
+          "tr": "altı (dişil isimle)"
+        },
+        {
+          "ar": "سَادِسٌ",
+          "tr": "altıncı"
+        }
+      ],
+      "ekBilgi": "Kökü س-د-س'dir (bu yüzden sıra sayısı سَادِسٌ olur!).",
+      "ornek": "قَرَأْتُ سِتَّ قِصَصٍ فِي سِتَّةِ أَيَّامٍ.",
+      "ornekTr": "Altı günde altı hikâye okudum.",
+      "kullanimNotu": "سِتَّةٌ ↔ سَادِسٌ kök bağına dikkat et!",
+      "tur": "sayi",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc27",
+      "ar": "سَبْعَةٌ",
+      "harekesiz": "سبعة",
+      "okunus": "seb‘atun",
+      "tr": "yedi (7)",
+      "kok": "س ب ع",
+      "vezin": "فَعْلَة",
+      "turevler": [
+        {
+          "ar": "سَبْعُ",
+          "tr": "yedi (dişil isimle)"
+        },
+        {
+          "ar": "سَابِعٌ",
+          "tr": "yedinci"
+        }
+      ],
+      "ekBilgi": "3–10 zıtlık kuralına uyar.",
+      "ornek": "فِي الْأُسْبُوعِ سَبْعَةُ أَيَّامٍ.",
+      "ornekTr": "Haftada yedi gün vardır.",
+      "kullanimNotu": "أُسْبُوعٌ (hafta) kelimesi 'yedi' kökündendir!",
+      "tur": "sayi",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc28",
+      "ar": "ثَمَانِيَةٌ",
+      "harekesiz": "ثمانية",
+      "okunus": "semâniyetun",
+      "tr": "sekiz (8)",
+      "kok": "ث م ن",
+      "vezin": "فَعَالِيَة",
+      "turevler": [
+        {
+          "ar": "ثَمَانِي",
+          "tr": "sekiz (dişil isimle)"
+        },
+        {
+          "ar": "ثَامِنٌ",
+          "tr": "sekizinci"
+        }
+      ],
+      "ekBilgi": "Dişil sayılanla muzâf olduğunda ثَمَانِي (yâ ile) yazılır.",
+      "ornek": "مَرَّتْ ثَمَانِيَةُ أَشْهُرٍ.",
+      "ornekTr": "Sekiz ay geçti.",
+      "kullanimNotu": "ثَمَانِي طَالِبَاتٍ (dişil sayılanla).",
+      "tur": "sayi",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc29",
+      "ar": "تِسْعَةٌ",
+      "harekesiz": "تسعة",
+      "okunus": "tis‘atun",
+      "tr": "dokuz (9)",
+      "kok": "ت س ع",
+      "vezin": "فِعْلَة",
+      "turevler": [
+        {
+          "ar": "تِسْعُ",
+          "tr": "dokuz (dişil isimle)"
+        },
+        {
+          "ar": "تَاسِعٌ",
+          "tr": "dokuzuncu"
+        }
+      ],
+      "ekBilgi": "3–10 zıtlık kuralına uyar.",
+      "ornek": "حَفِظْتُ تِسْعَ كَلِمَاتٍ وَتِسْعَةَ أَفْعَالٍ.",
+      "ornekTr": "Dokuz kelime ve dokuz fiil ezberledim.",
+      "kullanimNotu": "تِسْعُونَ = doksan.",
+      "tur": "sayi",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc30",
+      "ar": "عَشَرَةٌ",
+      "harekesiz": "عشرة",
+      "okunus": "‘aşeratun",
+      "tr": "on (10)",
+      "kok": "ع ش ر",
+      "vezin": "فَعَلَة",
+      "turevler": [
+        {
+          "ar": "عَشْرُ",
+          "tr": "on (dişil isimle — ش sükûnlu!)"
+        },
+        {
+          "ar": "عَاشِرٌ",
+          "tr": "onuncu"
+        }
+      ],
+      "ekBilgi": "Eril sayılanla عَشَرَةُ (fethalı ش), dişil sayılanla عَشْرُ (sükûnlu ش)!",
+      "ornek": "فِي الصَّفِّ عَشَرَةُ طُلَّابٍ وَعَشْرُ طَالِبَاتٍ.",
+      "ornekTr": "Sınıfta on erkek ve on kız öğrenci vardır.",
+      "kullanimNotu": "ش harekesi en klasik sınav sorusudur!",
+      "tur": "sayi",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc31",
+      "ar": "أُسْبُوعٌ",
+      "harekesiz": "أسبوع",
+      "okunus": "usbû‘un",
+      "tr": "hafta",
+      "kok": "س ب ع",
+      "vezin": "أُفْعُول",
+      "turevler": [
+        {
+          "ar": "أَسَابِيعُ",
+          "tr": "haftalar"
+        },
+        {
+          "ar": "عُطْلَةُ نِهَايَةِ الْأُسْبُوعِ",
+          "tr": "hafta sonu tatili"
+        }
+      ],
+      "ekBilgi": "س-ب-ع (yedi) kökündendir; çoğulu أَسَابِيعُ.",
+      "ornek": "سَأُسَافِرُ فِي الْأُسْبُوعِ الْقَادِمِ.",
+      "ornekTr": "Gelecek hafta seyahat edeceğim.",
+      "kullanimNotu": "Zaman ifadelerinin temel taşıdır.",
+      "tur": "isim",
+      "moduleId": "11",
+      "cefr": "A1"
+    },
+    {
+      "id": "m11_fc32",
+      "ar": "شَهْرٌ",
+      "harekesiz": "شهر",
+      "okunus": "şehrun",
+      "tr": "ay",
+      "kok": "ش ه ر",
+      "vezin": "فَعْل",
+      "turevler": [
+        {
+          "ar": "أَشْهُرٌ / شُهُورٌ",
+          "tr": "aylar"
+        },
+        {
+          "ar": "شَهْرِيٌّ",
+          "tr": "aylık"
+        }
+      ],
+      "ekBilgi": "Eril isimdir (bu yüzden 3–10 ile ة'li sayı alır: ثَلَاثَةُ أَشْهُرٍ!).",
+      "ornek": "يَتَكَوَّنُ الْفَصْلُ مِنْ ثَلَاثَةِ أَشْهُرٍ.",
+      "ornekTr": "Mevsim üç aydan oluşur.",
+      "kullanimNotu": "أَشْهُرٌ azlık çoğulu 3–10 ile en doğal kullanımdır.",
+      "tur": "isim",
+      "moduleId": "11",
       "cefr": "A1"
     }
   ]

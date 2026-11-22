@@ -1,0 +1,777 @@
+{
+  "id": "11",
+  "slug": "modul_11",
+  "phaseId": 1,
+  "cilt": 1,
+  "cefr": "A1",
+  "category": "Pratik & Nahiv",
+  "title": "Temel Olumsuzluklar, Saatler, Zaman & Sayılar (1–10)",
+  "arabicTitle": "أَدَوَاتُ النَّفْيِ الْأَسَاسِيَّةُ وَالسَّاعَةُ وَالْأَعْدَادُ",
+  "summary": "مَا (mâzi) ve لَا (muzâri) ile fiil olumsuzluğu, لَيْسَ çekimi ve haberini mansub yapma kuralı, Arapça saat söyleme sistemi (وَالنِّصْفُ/وَالرُّبْعُ/إِلَّا الرُّبْعَ), haftanın günleri-aylar-mevsimler ve 1–10 sayılarının altın 3–10 cinsiyet zıtlığı kuralı.",
+  "grammar": [
+    {
+      "id": "m11_g1",
+      "baslik": "Fiil Olumsuzluğu: مَا (Mâzi) ve لَا (Muzâri)",
+      "arBaslik": "نَفْيُ الْفِعْلِ الْمَاضِي بِـ«مَا» وَالْمُضَارِعِ بِـ«لَا»",
+      "mantik": "Modül 09 ve 10'da geçmiş zaman (Mâzi) ve şimdiki/geniş zaman (Muzâri) cümleleri kurmayı öğrendik. Şimdi bu cümleleri tek bir dokunuşla nasıl olumsuz ('yazmadım / yazmıyorum') yapacağımızı görelim!\n1) **مَا + Mâzi Fiil (Geçmiş Olumsuzluk):** Mâzi fiilin hemen başına **مَا** (mâ-i nâfiye) konur ve hiçbir harekeyi değiştirmez! Örnek: `كَتَبْتُ الدَّرْسَ` (Dersi yazdım) → `مَا كَتَبْتُ الدَّرْسَ` (Dersi yazmadım); `مَا ذَهَبَ أَحْمَدُ` (Ahmed gitmedi).\n2) **لَا + Muzâri Fiil (Şimdiki/Geniş Olumsuzluk):** Muzâri fiilin hemen başına **لَا** (lâ-i nâfiye) konur ve muzârinin son harekesini ASLA DEĞİŞTİRMEZ (damme/nûn kalır)! Örnek: `أَشْرَبُ الْقَهْوَةَ` (Kahve içerim) → `لَا أَشْرَبُ الْقَهْوَةَ` (Kahve içmem / içmiyorum); `الطُّلَّابُ لَا يَتَأَخَّرُونَ` (Öğrenciler geç kalmazlar).",
+      "formul": "Geçmiş Olumsuz: مَا + Mâzi (Değişim yok)  |  Şimdiki/Geniş Olumsuz: لَا + Muzâri (Merfû kalır!)",
+      "formulAr": "مَا ذَهَبْتُ أَمْسِ · لَا أَشْرَبُ الْقَهْوَةَ · لَا يَفْهَمُونَ",
+      "tablo": {
+        "baslik": "Olumlu vs. Olumsuz Fiil Cümlesi Kıyaslaması",
+        "sutunlar": ["Zaman", "Olumlu Cümle", "Olumsuz Cümle", "Türkçe Olumsuz"],
+        "satirlar": [
+          { "hucreler": ["Mâzi (Geçmiş)", "فَهِمْتُ السُّؤَالَ.", "مَا فَهِمْتُ السُّؤَالَ.", "Soruyu anlamadım."], "ses": "مَا فَهِمْتُ السُّؤَالَ" },
+          { "hucreler": ["Mâzi (3. şahıs)", "حَضَرَ الْمُدِيرُ.", "مَا حَضَرَ الْمُدِيرُ.", "Müdür katılmadı."], "ses": "مَا حَضَرَ الْمُدِيرُ" },
+          { "hucreler": ["Muzâri (Şimdiki/Geniş)", "أَعْرِفُ الْعُنْوَانَ.", "لَا أَعْرِفُ الْعُنْوَانَ.", "Adresi bilmiyorum."], "ses": "لَا أَعْرِفُ الْعُنْوَانَ" },
+          { "hucreler": ["Muzâri (Çoğul)", "الطُّلَّابُ يَكْذِبُونَ.", "الطُّلَّابُ لَا يَكْذِبُونَ.", "Öğrenciler yalan söylemezler."], "ses": "الطُّلَّابُ لَا يَكْذِبُونَ" }
+        ]
+      },
+      "trKiyas": "Harika bir ön bilgi: Faz 2'de göreceğimiz **لَمْ** (geçmiş olumsuz: `لَمْ أَكْتُبْ`) ve **لَنْ** (gelecek olumsuz: `لَنْ أَكْتُبَ`) muzârinin sonunu değiştirir; oysa bugünkü **مَا** (mâzi önünde) ve **لَا** (muzâri önünde) fiilin sonuna **HİÇ DOKUNMAZ**! Ayrıca sakın `لَا أَكْتُبُ` (olumsuzluk: yazmıyorum) ile `لَا تَكْتُبْ` (yasaklama/nehiy: yazma!) arasında karıştırma: Olumsuzluk `لَا`sı dammeli (`لَا تَكْتُبُ` = yazmıyorsun), yasaklama `لَا`sı cezimli (`لَا تَكْتُبْ` = yazma!) olur!",
+      "sikHatalar": [
+        "Mâzi fiili لَا ile olumsuz yapmaya çalışmak ('لَا ذَهَبْتُ أَمْسِ' YANLIŞ → doğrusu مَا ذَهَبْتُ أَمْسِ!).",
+        "Olumsuzluk لَا'sından sonra muzâriyi cezm/fetha yapmak ('لَا أَعْرِفْ' YANLIŞ → doğrusu dammeli لَا أَعْرِفُ!).",
+        "İsim cümlesini مَا/لَا yerine لَيْسَ ile olumsuz yapmayı unutmak ('أَنَا لَا طَالِبٌ' zayıf/hatalı → doğrusu لَسْتُ طَالِبًا!)."
+      ],
+      "ornekler": [
+        { "ar": "مَا سَافَرْتُ إِلَى أَنْقَرَةَ هٰذَا الْعَامَ، وَلٰكِنْ سَأُسَافِرُ قَرِيبًا.", "okunus": "Mâ sâfertu ilâ Enkara hâze'l-‘âme, ve lâkin se-usâfiru karîben.", "tr": "Bu yıl Ankara'ya seyahat etmedim ama yakında seyahat edeceğim.", "not": "مَا + mâzi (sâfertu)." },
+        { "ar": "مَا نَزَلَ الْمَطَرُ أَمْسِ، وَكَانَ الطَّقْسُ مُشْمِسًا.", "okunus": "Mâ nezele'l-mataru emsi, ve kâne't-taksu muşmisen.", "tr": "Dün yağmur yağmadı ve hava güneşliydi.", "not": "مَا + 3. tekil mâzi." },
+        { "ar": "أَنَا لَا أَشْرَبُ الْقَهْوَةَ فِي اللَّيْلِ، أَشْرَبُ الشَّايَ الْأَخْضَرَ.", "okunus": "Ene lâ eşrabu'l-kahvete fi'l-leyli, eşrabu'ş-şâye'l-ahdara.", "tr": "Gece kahve içmem, yeşil çay içerim.", "not": "لَا + merfû muzâri (أَشْرَبُ)." },
+        { "ar": "لَا يَعْرِفُ الضَّيْفُ طَرِيقَ الْمَحَطَّةِ، فَسَأُسَاعِدُهُ.", "okunus": "Lâ ya‘rifu'd-dayfu tarîka'l-mahattati, fe-se-usâ‘iduhu.", "tr": "Misafir istasyonun yolunu bilmiyor, bu yüzden ona yardım edeceğim.", "not": "لَا + merfû muzâri (يَعْرِفُ)." },
+        { "ar": "الْمُجْتَهِدُونَ لَا يُضَيِّعُونَ أَوْقَاتَهُمْ فِي الْكَسَلِ.", "okunus": "El-muctehidûne lâ yudayyi‘ûne evkâtehum fi'l-keseli.", "tr": "Çalışkanlar vakitlerini tembellikte boşa harcamazlar.", "not": "لَا nâfiyeden sonra sondaki ن düşmez: يُضَيِّعُونَ!" },
+        { "ar": "مَا قَرَأَتْ سَلْمَى الرِّوَايَةَ بَعْدُ، هِيَ تَقْرَأُ كِتَابَ النَّحْوِ الْآنَ.", "okunus": "Mâ karaet Selmâ'r-rivâyete ba‘du, hiye takrau kitâbe'n-nahvi'l-âne.", "tr": "Selma romanı henüz okumadı, şu an nahiv kitabını okuyor.", "not": "مَا + müennes mâzi (قَرَأَتْ)." }
+      ],
+      "tatbikler": [
+        { "id": "m11_g1_d1", "tip": "donusturme", "soru": "'ذَهَبْتُ إِلَى السُّوقِ أَمْسِ' cümlesini olumsuz ('Gitmedim') yapınız:", "secenekler": ["مَا ذَهَبْتُ إِلَى السُّوقِ أَمْسِ", "لَا ذَهَبْتُ إِلَى السُّوقِ أَمْسِ", "لَيْسَ ذَهَبْتُ إِلَى السُّوقِ أَمْسِ", "لَا أَذْهَبْ إِلَى السُّوقِ أَمْسِ"], "dogruIndeks": 0, "aciklama": "Mâzi fiilin temel olumsuzluk edatı مَا'dır: مَا ذَهَبْتُ." },
+        { "id": "m11_g1_d2", "tip": "donusturme", "soru": "'أَفْهَمُ هٰذِهِ الْكَلِمَةَ' (Bu kelimeyi anlıyorum) cümlesini olumsuz yapınız:", "secenekler": ["لَا أَفْهَمُ هٰذِهِ الْكَلِمَةَ", "لَا أَفْهَمْ هٰذِهِ الْكَلِمَةَ", "لَيْسَ أَفْهَمُ هٰذِهِ الْكَلِمَةَ", "لَا أَفْهَمَ هٰذِهِ الْكَلِمَةَ"], "dogruIndeks": 0, "aciklama": "لَا + muzâri merfû (dammeli) kalır: لَا أَفْهَمُ." },
+        { "id": "m11_g1_d3", "tip": "hata_bul", "soru": "'الطُّلَّابُ لَا يَكْتُبُوا الْوَاجِبَ' cümlesindeki gramer hatası nedir?", "secenekler": ["Olumsuzluk لَا'sı sondaki ن harfini düşürmez; doğrusu 'لَا يَكْتُبُونَ'", "لَا yerine مَا gelmeli", "الْوَاجِبَ dammeli olmalı", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "Lâ-i nâfiye gayr-i âmildir; sondaki ن korunur: لَا يَكْتُبُونَ." },
+        { "id": "m11_g1_d4", "tip": "bosluk", "soru": "....... أَشْرَبُ الْمَشْرُوبَاتِ الْغَازِيَّةَ أَبَدًا. (Asla gazlı içecek içmem) boşluğuna hangisi gelir?", "secenekler": ["لَا", "لَيْسَ", "هَلْ", "قَدْ"], "dogruIndeks": 0, "aciklama": "Geniş zaman fiil olumsuzluğu لَا ile yapılır: لَا أَشْرَبُ." },
+        { "id": "m11_g1_d5", "tip": "bosluk", "soru": "'لَا تَكْتُبُ' (dammeli) ile 'لَا تَكْتُبْ' (cezimli) arasındaki anlam farkı nedir?", "secenekler": ["لَا تَكْتُبُ = Yazmıyorsun (olumsuzluk) — لَا تَكْتُبْ = Yazma! (yasaklama)", "İkisi de 'Yazma!' demektir", "İkisi de 'Yazmıyorsun' demektir", "لَا تَكْتُبُ geçmiş zamandır"], "dogruIndeks": 0, "aciklama": "Lâ-i nâfiye (dammeli) haber verir; lâ-i nâhiye (cezimli) yasaklar!" },
+        { "id": "m11_g1_d6", "tip": "tr_ar", "soru": "'Dün öğretmen gelmedi' cümlesi hangisidir?", "secenekler": ["مَا حَضَرَ الْمُعَلِّمُ أَمْسِ", "لَا حَضَرَ الْمُعَلِّمُ أَمْسِ", "لَيْسَ حَضَرَ الْمُعَلِّمُ أَمْسِ", "مَا يَحْضُرُ الْمُعَلِّمُ أَمْسِ"], "dogruIndeks": 0, "aciklama": "Mâzi olumsuzu: مَا حَضَرَ الْمُعَلِّمُ أَمْسِ." },
+        { "id": "m11_g1_d7", "tip": "bosluk", "soru": "أُمِّي ....... تُحِبُّ الضَّوْضَاءَ. (Annem gürültüyü sevmez) boşluğuna hangisi gelir?", "secenekler": ["لَا", "مَا", "لَيْسَ", "أَمْ"], "dogruIndeks": 0, "aciklama": "تُحِبُّ muzâri fiildir → لَا تُحِبُّ." },
+        { "id": "m11_g1_d8", "tip": "bosluk", "soru": "مَا سَمِعْتُ الْجَرَسَ. cümlesinde مَا hangi türdür?", "secenekler": ["Olumsuzluk (Nefy) edatı ('duymadım')", "Soru ismi ('ne?')", "Harf-i cer", "Zamir"], "dogruIndeks": 0, "aciklama": "Düz cümlede mâzi önünde مَا olumsuzluk bildirir." },
+        { "id": "m11_g1_d9", "tip": "tr_ar", "soru": "'Onun adını bilmiyorum' cümlesi hangisidir?", "secenekler": ["لَا أَعْرِفُ اسْمَهُ", "مَا أَعْرِفُ اسْمَهُ", "لَسْتُ أَعْرِفُ اسْمُهُ", "لَا أَعْرِفْ اسْمَهُ"], "dogruIndeks": 0, "aciklama": "لَا + أَعْرِفُ (merfû) + اسْمَهُ (mansub)." },
+        { "id": "m11_g1_d10", "tip": "bosluk", "soru": "مَا + mâzi fiilde fiilin son harekesi değişir mi?", "secenekler": ["Hayır, hiçbir değişiklik olmaz", "Evet, kesralı olur", "Evet, cezimli olur", "Evet, dammeli olur"], "dogruIndeks": 0, "aciklama": "Olumsuzluk مَا'sı fiilin binasına dokunmaz." }
+      ]
+    },
+    {
+      "id": "m11_g2",
+      "baslik": "İsim Cümlesi Olumsuzluğu: لَيْسَ ('Değildir') ve Çekimi",
+      "arBaslik": "نَفْيُ الْجُمْلَةِ الِاسْمِيَّةِ بِـ«لَيْسَ» وَتَصْرِيفُهَا",
+      "mantik": "Türkçede isim cümlelerini olumsuz yaparken cümlenin sonuna **'değil'** ('Öğrenci değilim', 'Sınav zor değil') ekleriz. Arapçada bu işi üstlenen muhteşem kelime **لَيْسَ** ('değildir') fiilidir! `لَيْسَ` çekimli bir nakıs fiildir (Kâne ailesinin en önemli üyesidir!) ve cümleye girdiğinde **ALTIN BİR İZ BIRAKIR**:\n• **Mübtedâyı (لَيْسَ'nin İsmi):** **MERFÛ (damme)** bırakır!\n• **Haberi (لَيْسَ'nin Haberi):** **MANSUB (fetha / ـًا / ـَيْنِ / ـِينَ / ـَاتٍ)** yapar!! Kıyasla:\n  `الدَّرْسُ صَعْبٌ.` (Ders zordur.) → **لَيْسَ الدَّرْسُ صَعْبًا.** (Ders zor değildir! `صَعْبٌ` → `صَعْبًا` oldu!)\n  `أَنَا مُتْعَبٌ.` (Ben yorgunum.) → **لَسْتُ مُتْعَبًا.** (Ben yorgun değilim!)\nBonus: `لَيْسَ` çekilirken 6. sığadan sonra (sükûnlu ekler gelince) ortadaki **ي** düşer: `لَيْسَ، لَيْسَتْ، لَسْتَ، لَسْتِ، لَسْتُ، لَسْنَا`! Ayrıca haberin başına vurgu için zâid **بِـ** getirilebilir: `لَسْتُ بِكَسُولٍ` (Kesinlikle tembel değilim!).",
+      "formul": "لَيْسَ + İsim (MERFÛ: ـُ) + Haber (MANSUB: ـًا / ـَيْنِ / ـِينَ / ـَاتٍ  VEYA  بِـ + Mecrûr)",
+      "formulAr": "لَيْسَ الدَّرْسُ صَعْبًا · لَسْتُ مَرِيضًا · لَيْسَتِ الْمَدْرَسَةُ بَعِيدَةً",
+      "tablo": {
+        "baslik": "لَيْسَ Fiilinin En Çok Kullanılan Çekimleri ve Örnekleri",
+        "sutunlar": ["Şahıs", "لَيْسَ Çekimi", "Okunuş", "Örnek Cümle (Haber Mansub!)", "Türkçesi"],
+        "satirlar": [
+          { "hucreler": ["هُوَ (O E)", "لَيْسَ", "leyse", "لَيْسَ الطَّقْسُ بَارِدًا.", "Hava soğuk değil."], "ses": "لَيْسَ الطَّقْسُ بَارِدًا" },
+          { "hucreler": ["هِيَ (O K)", "لَيْسَتْ", "leyset", "لَيْسَتِ الشَّقَّةُ صَغِيرَةً.", "Daire küçük değil."], "ses": "لَيْسَتِ الشَّقَّةُ صَغِيرَةً" },
+          { "hucreler": ["هُمْ (Onlar E)", "لَيْسُوا", "leysû", "هُمْ لَيْسُوا غَائِبِينَ.", "Onlar yok/devamsız değiller."], "ses": "هُمْ لَيْسُوا غَائِبِينَ" },
+          { "hucreler": ["أَنْتَ / أَنْتِ", "لَسْتَ / لَسْتِ", "leste / lesti", "لَسْتَ مُتَأَخِّرًا / لَسْتِ مُتَأَخِّرَةً.", "Geç kalmış değilsin."], "ses": "لَسْتَ مُتَأَخِّرًا، لَسْتِ مُتَأَخِّرَةً" },
+          { "hucreler": ["أَنَا (Ben)", "لَسْتُ", "lestu", "لَسْتُ مُتْعَبًا الْيَوْمَ.", "Bugün yorgun değilim."], "ses": "لَسْتُ مُتْعَبًا الْيَوْمَ" },
+          { "hucreler": ["نَحْنُ (Biz)", "لَسْنَا", "lesnâ", "نَحْنُ لَسْنَا كُسَالَى.", "Biz tembel değiliz."], "ses": "نَحْنُ لَسْنَا كُسَالَى" }
+        ]
+      },
+      "trKiyas": "Harika bir pekiştirme ipucu: Kur'an'da ve edebî Arapçada `لَيْسَ` haberinin başında çok sık **بِـ** görürsün (`أَلَيْسَ اللّٰهُ بِكَافٍ عَبْدَهُ` / `لَسْتُ بِمُقَصِّرٍ`). Bu `بِـ` harfi cümleye 'hiç de ... değil!' şeklinde güç katar ve arkasındaki haberi lafzen kesralar!",
+      "sikHatalar": [
+        "لَيْسَ haberini dammeli bırakmak ('لَيْسَ الْكِتَابُ غَالٍ/غَالِيٌ' veya 'لَسْتُ طَالِبٌ' YANLIŞ → doğrusu لَسْتُ طَالِبًا!).",
+        "1. ve 2. şahısta ي harfini düşürmeden 'لَيْسْتُ' yazmak (YANLIŞ! İki sükûn yan yana gelince ي düşer → doğrusu لَسْتُ / لَسْتَ / لَسْنَا!).",
+        "Müennes isimde لَيْسَ kullanmak ('لَيْسَ الْمَكْتَبَةُ مُغْلَقَةً' YANLIŞ → doğrusu لَيْسَتِ الْمَكْتَبَةُ مُغْلَقَةً!)."
+      ],
+      "ornekler": [
+        { "ar": "لَيْسَ الِامْتِحَانُ صَعْبًا عَلَى الطَّالِبِ الْمُجْتَهِدِ.", "okunus": "Leyse'l-imtihânu sa‘ben ‘ale't-tâlibi'l-muctehidi.", "tr": "Çalışkan öğrenci için sınav zor değildir.", "not": "الِامْتِحَانُ (merfû) + صَعْبًا (mansub haber!)." },
+        { "ar": "لَيْسَتِ الْمَدِينَةُ بَعِيدَةً عَنِ الْبَحْرِ.", "okunus": "Leyseti'l-medînetu ba‘îdeten ‘ani'l-bahri.", "tr": "Şehir denizden uzak değildir.", "not": "لَيْسَتْ + ال geçişi → لَيْسَتِ; haber بَعِيدَةً (mansub)." },
+        { "ar": "لَسْتُ مَرِيضًا، أَنَا بِخَيْرٍ وَالْحَمْدُ لِلّٰهِ.", "okunus": "Lestu marîdan, ene bi-hayrin ve'l-hamdu lillâhi.", "tr": "Hasta değilim, elhamdülillah iyiyim.", "not": "لَسْتُ (ben değilim — ي düştü!) + مَرِيضًا (mansub)." },
+        { "ar": "الْمُهَنْدِسُونَ لَيْسُوا غَائِبِينَ عَنِ الِاجْتِمَاعِ.", "okunus": "El-muhendisûne leysû gâibîne ‘ani'l-ictimâ‘i.", "tr": "Mühendisler toplantıdan devamsız (yok) değiller.", "not": "Cemi müzekker haber ـِينَ ile mansub: غَائِبِينَ!" },
+        { "ar": "لَيْسَ عِنْدِي سَيَّارَةٌ، وَلٰكِنْ عِنْدِي دَرَّاجَةٌ.", "okunus": "Leyse ‘indî seyyâratun, ve lâkin ‘indî derrâcetun.", "tr": "Arabam yok ama bisikletim var.", "not": "Şibh-i cümle öne geçince سَيَّارَةٌ لَيْسَ'nin merfû ismi kalır!" },
+        { "ar": "لَيْسَ النَّجَاحُ بِمُسْتَحِيلٍ لِمَنْ يَجْتَهِدُ.", "okunus": "Leyse'n-necâhu bi-mustehîlin li-men yectehidu.", "tr": "Gayret eden kimse için başarı hiç de imkânsız değildir.", "not": "Zâid بِـ ile pekiştirilmiş haber: بِمُسْتَحِيلٍ." }
+      ],
+      "tatbikler": [
+        { "id": "m11_g2_d1", "tip": "donusturme", "soru": "'الطَّقْسُ حَارٌّ' (Hava sıcaktır) cümlesini لَيْسَ ile olumsuz yapınız:", "secenekler": ["لَيْسَ الطَّقْسُ حَارًّا", "لَيْسَ الطَّقْسُ حَارٌّ", "لَيْسَ الطَّقْسَ حَارٌّ", "لَيْسَتِ الطَّقْسُ حَارًّا"], "dogruIndeks": 0, "aciklama": "لَيْسَ ismini merfû (الطَّقْسُ), haberini mansub (حَارًّا) yapar." },
+        { "id": "m11_g2_d2", "tip": "bosluk", "soru": "أَنَا ....... مُسْتَعْجِلًا الْيَوْمَ. (Bugün acelem yok / aceleci değilim) boşluğuna doğru çekim hangisidir?", "secenekler": ["لَسْتُ", "لَيْسْتُ", "لَيْسَ", "لَسْتَ"], "dogruIndeks": 0, "aciklama": "1. tekil çekimde ي düşer: لَسْتُ." },
+        { "id": "m11_g2_d3", "tip": "hata_bul", "soru": "'لَيْسَتِ الْحَقِيبَةُ ثَقِيلَةٌ' cümlesindeki i'rab hatası nedir?", "secenekler": ["Haber mansub olmalıdır: ثَقِيلَةً", "الْحَقِيبَةُ fethalı olmalı", "لَيْسَتِ yerine لَيْسَ gelmeli", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "لَيْسَ'nin haberi daima mansubdur: لَيْسَتِ الْحَقِيبَةُ ثَقِيلَةً." },
+        { "id": "m11_g2_d4", "tip": "bosluk", "soru": "الطُّلَّابُ لَيْسُوا ....... . (Öğrenciler tembel/yorgun değiller) boşluğuna doğru mansub haber hangisidir?", "secenekler": ["مُتْعَبِينَ", "مُتْعَبُونَ", "مُتْعَبٌ", "مُتْعَبَانِ"], "dogruIndeks": 0, "aciklama": "Cemi müzekker sâlim haber ـِينَ ile mansub olur: مُتْعَبِينَ." },
+        { "id": "m11_g2_d5", "tip": "tr_ar", "soru": "'Biz hazır değiliz' cümlesi hangisidir?", "secenekler": ["لَسْنَا جَاهِزِينَ", "لَسْنَا جَاهِزُونَ", "لَيْسْنَا جَاهِزِينَ", "لَسْتُمْ جَاهِزِينَ"], "dogruIndeks": 0, "aciklama": "نَحْنُ → لَسْنَا + mansub haber جَاهِزِينَ." },
+        { "id": "m11_g2_d6", "tip": "bosluk", "soru": "هَلْ أَنْتِ حَزِينَةٌ يَا زَيْنَبُ؟ — لَا، ....... حَزِينَةً!", "secenekler": ["لَسْتُ", "لَسْتِ", "لَيْسَتْ", "لَسْتَ"], "dogruIndeks": 0, "aciklama": "Ben (erkek de kadın da) daima لَسْتُ der: لَسْتُ حَزِينَةً!" },
+        { "id": "m11_g2_d7", "tip": "bosluk", "soru": "'لَيْسَ الْأَمْرُ بِسَهْلٍ' cümlesinde بِـ harfinin görevi nedir?", "secenekler": ["Olumsuzluğu pekiştiren zâid (vurgulayıcı) harf-i cerdir", "Vasıta ('ile') bildirir", "Soru yapar", "Mekân bildirir"], "dogruIndeks": 0, "aciklama": "لَيْسَ haberine gelen بِـ vurgu katar ('hiç de kolay değil!')." },
+        { "id": "m11_g2_d8", "tip": "donusturme", "soru": "'الْمَكْتَبَةُ مَفْتُوحَةٌ' cümlesini لَيْسَ ile olumsuz yapınız:", "secenekler": ["لَيْسَتِ الْمَكْتَبَةُ مَفْتُوحَةً", "لَيْسَ الْمَكْتَبَةُ مَفْتُوحَةً", "لَيْسَتِ الْمَكْتَبَةُ مَفْتُوحَةٌ", "لَيْسَتْ مَفْتُوحَةٌ الْمَكْتَبَةُ"], "dogruIndeks": 0, "aciklama": "الْمَكْتَبَةُ müennes → لَيْسَتِ + merfû isim + mansub haber (مَفْتُوحَةً)." },
+        { "id": "m11_g2_d9", "tip": "bosluk", "soru": "'الطَّالِبَاتُ لَسْنَ غَائِبَاتٍ' cümlesinde غَائِبَاتٍ neden kesratân almıştır?", "secenekler": ["Cemi müennes sâlim haber olduğu için kesra ile mansubdur", "Harf-i cer almıştır", "Fâildir", "Sıfattır"], "dogruIndeks": 0, "aciklama": "لَسْنَ'nin haberi cemi müennes sâlim → kesra ile mansub: غَائِبَاتٍ!" },
+        { "id": "m11_g2_d10", "tip": "tr_ar", "soru": "'Sen (kadın) yalnız değilsin' cümlesi hangisidir?", "secenekler": ["لَسْتِ وَحِيدَةً", "لَسْتَ وَحِيدَةً", "لَسْتِ وَحِيدَةٌ", "لَيْسَتْ وَحِيدَةً"], "dogruIndeks": 0, "aciklama": "2. tekil dişil لَسْتِ + mansub müennes haber وَحِيدَةً." }
+      ]
+    },
+    {
+      "id": "m11_g3",
+      "baslik": "Saat Sorma ve Saat Söyleme Sistemi (كَمِ السَّاعَةُ الْآنَ؟)",
+      "arBaslik": "السَّاعَةُ وَالتَّعْبِيرُ عَنِ الْوَقْتِ",
+      "mantik": "Günlük konuşmada, randevu alırken ve ulaşımda en çok ihtiyacın olan kalıp saat söylemektir! Arapçada saat söylemenin **ALTIN MANTIĞI** şudur: **السَّاعَةُ** (saat) kelimesi müennes olduğu için, saat numaraları 1'den 12'ye kadar **SIRA SAYILARININ MÜENNES (ة'li) ŞEKLİYLE** sıfat tamlaması olarak söylenir:\n`السَّاعَةُ الْوَاحِدَةُ` (Saat 1 — 'birinci saat'), `السَّاعَةُ الثَّانِيَةُ` (Saat 2), `الثَّالِثَةُ` (3), `الرَّابِعَةُ` (4), `الْخَامِسَةُ` (5), `السَّادِسَةُ` (6), `السَّابِعَةُ` (7), `الثَّامِنَةُ` (8), `التَّاسِعَةُ` (9), `الْعَاشِرَةُ` (10), `الْحَادِيَةَ عَشْرَةَ` (11), `الثَّانِيَةَ عَشْرَةَ` (12)!\nDakikaları eklemek için sadece **2 sihri** bilmen yeter:\n• **Geçiyor (+):** **وَ** bağlacıyla eklenir → `وَالرُّبْعُ` (çeyrek geçiyor — :15), `وَالثُّلُثُ` (yirmi geçiyor — :20), `وَالنِّصْفُ` (buçuk — :30), `وَخَمْسُ دَقَائِقَ` (beş geçiyor — :05).\n• **Var (-):** **إِلَّا** ('hariç / kala') ile çıkarılır → `إِلَّا الرُّبْعَ` (çeyrek var — :45), `إِلَّا الثُّلُثَ` (yirmi var — :40), `إِلَّا عَشْرَ دَقَائِقَ` (on var — :50)!",
+      "formul": "كَمِ السَّاعَةُ؟ → السَّاعَةُ + Sıra Sayısı (Müennes) + تَمَامًا (Tam) / وَالرُّبْعُ (:15) / وَالنِّصْفُ (:30) / إِلَّا الرُّبْعَ (:45)",
+      "formulAr": "السَّاعَةُ الثَّالِثَةُ وَالنِّصْفُ · السَّاعَةُ السَّابِعَةُ إِلَّا الرُّبْعَ",
+      "tablo": {
+        "baslik": "Saat Söyleme ve Dakika Kalıpları Referans Tablosu",
+        "sutunlar": ["Dijital Saat", "Arapça Söylenişi", "Okunuş", "Türkçe"],
+        "satirlar": [
+          { "hucreler": ["01:00 / 02:00", "السَّاعَةُ الْوَاحِدَةُ / الثَّانِيَةُ تَمَامًا", "el-vâhidetu / es-sâniyetu temâmen", "Tam saat bir / iki"], "ses": "السَّاعَةُ الْوَاحِدَةُ تَمَامًا، السَّاعَةُ الثَّانِيَةُ" },
+          { "hucreler": ["03:15", "السَّاعَةُ الثَّالِثَةُ وَالرُّبْعُ", "es-sâlisetu ve'r-rub‘u", "Saat üçü çeyrek geçiyor"], "ses": "السَّاعَةُ الثَّالِثَةُ وَالرُّبْعُ" },
+          { "hucreler": ["05:20", "السَّاعَةُ الْخَامِسَةُ وَالثُّلُثُ", "el-hâmisetu ve's-sulusu", "Saat beşi yirmi geçiyor (1/3)"], "ses": "السَّاعَةُ الْخَامِسَةُ وَالثُّلُثُ" },
+          { "hucreler": ["07:30", "السَّاعَةُ السَّابِعَةُ وَالنِّصْفُ", "es-sâbi‘atu ve'n-nısfu", "Saat yedi buçuk"], "ses": "السَّاعَةُ السَّابِعَةُ وَالنِّصْفُ" },
+          { "hucreler": ["08:45", "السَّاعَةُ التَّاسِعَةُ إِلَّا الرُّبْعَ", "et-tâsi‘atu ille'r-rub‘a", "Saat dokuza çeyrek var"], "ses": "السَّاعَةُ التَّاسِعَةُ إِلَّا الرُّبْعَ" },
+          { "hucreler": ["11:00 / 12:00", "الْحَادِيَةَ عَشْرَةَ / الثَّانِيَةَ عَشْرَةَ", "el-hâdiyete ‘aşrate / es-sâniyete ‘aşrate", "Saat on bir / on iki"], "ses": "السَّاعَةُ الْحَادِيَةَ عَشْرَةَ، السَّاعَةُ الثَّانِيَةَ عَشْرَةَ" }
+        ]
+      },
+      "trKiyas": "Çok hoş bir kültür detayı: Türkçede 20 dakika için 'yirmi geçiyor / yirmi var' deriz; Arapçada ise 60 dakikanın üçte biri olduğu için kesir kelimesi olan **الثُّلُثُ** (üçte bir = 20 dk!) kullanılır: `الرَّابِعَةُ وَالثُّلُثُ` (4:20), `الْخَامِسَةُ إِلَّا الثُّلُثَ` (4:40)! Bir de 'Saat kaçta?' sorusu: **فِي أَيِّ سَاعَةٍ؟** → `فِي السَّاعَةِ الثَّامِنَةِ صَبَاحًا` (Sabah saat sekizde)!",
+      "sikHatalar": [
+        "Saat 1 için السَّاعَةُ الْأُولَى demek (الْأُولَى sadece 'ilk saat/1. ders saati' demektir; saat 1:00 daima **السَّاعَةُ الْوَاحِدَةُ**!).",
+        "إِلَّا'dan sonraki çeyrek/yirmiyi dammeli okumak (إِلَّا الرُّبْعُ yerine istisna olduğu için mansub **إِلَّا الرُّبْعَ** okunur!).",
+        "11 ve 12 saatlerini dammeli okumak (الْحَادِيَةُ عَشْرَةُ YANLIŞ → 11–19 arası bileşik sayılar fetha üzere mebnîdir: **الْحَادِيَةَ عَشْرَةَ / الثَّانِيَةَ عَشْرَةَ**!)."
+      ],
+      "ornekler": [
+        { "ar": "كَمِ السَّاعَةُ الْآنَ؟ السَّاعَةُ الْآنَ الْعَاشِرَةُ وَالرُّبْعُ صَبَاحًا.", "okunus": "Kemi's-sâ‘atu'l-âne? Es-sâ‘atu'l-âne'l-‘âşiratu ve'r-rub‘u sabâhan.", "tr": "Şu an saat kaç? Şu an saat sabah onu çeyrek geçiyor.", "not": "10:15 = الْعَاشِرَةُ وَالرُّبْعُ." },
+        { "ar": "أَسْتَيْقِظُ كُلَّ يَوْمٍ فِي السَّاعَةِ السَّادِسَةِ وَالنِّصْفِ صَبَاحًا.", "okunus": "Esteykizu kulle yevmin fi's-sâ‘ati's-sâdiseti ve'n-nısfi sabâhan.", "tr": "Her gün sabah saat altı buçukta uyanırım.", "not": "فِي السَّاعَةِ ile hem saat hem النِّصْفِ kesralanır!" },
+        { "ar": "يَنْطَلِقُ الْقِطَارُ فِي السَّاعَةِ الرَّابِعَةِ إِلَّا الرُّبْعَ عَصْرًا.", "okunus": "Yentaliku'l-kitâru fi's-sâ‘ati'r-râbi‘ati ille'r-rub‘a ‘asran.", "tr": "Tren ikindi saat dörde çeyrek kala (15:45) hareket eder.", "not": "إِلَّا الرُّبْعَ = çeyrek kala." },
+        { "ar": "نَتَنَاوَلُ الْغَدَاءَ فِي السَّاعَةِ الثَّانِيَةَ عَشْرَةَ وَالنِّصْفِ ظُهْرًا.", "okunus": "Netenâvelu'l-gadâe fi's-sâ‘ati's-sâniyete ‘aşrate ve'n-nısfi zuhran.", "tr": "Öğle saat on iki buçukta öğle yemeği yeriz.", "not": "12 = الثَّانِيَةَ عَشْرَةَ (fetha üzere mebnî)." },
+        { "ar": "اَلْمَوْعِدُ فِي السَّاعَةِ الثَّامِنَةِ إِلَّا عَشْرَ دَقَائِقَ مَسَاءً.", "okunus": "El-mev‘idu fi's-sâ‘ati's-sâmineti illâ ‘aşra dekâika mesâen.", "tr": "Randevu akşam saat sekize on dakika kala (19:50).", "not": "إِلَّا عَشْرَ دَقَائِقَ = on dakika kala." },
+        { "ar": "أَنَامُ فِي السَّاعَةِ الْحَادِيَةَ عَشْرَةَ لَيْلًا تَمَامًا.", "okunus": "Enâmu fi's-sâ‘ati'l-hâdiyete ‘aşrate leylen temâmen.", "tr": "Gece tam saat on birde uyurum.", "not": "11 = الْحَادِيَةَ عَشْرَةَ; تَمَامًا = tam." }
+      ],
+      "tatbikler": [
+        { "id": "m11_g3_d1", "tip": "tr_ar", "soru": "'Saat 06:30' (Altı buçuk) Arapçada nasıl söylenir?", "secenekler": ["السَّاعَةُ السَّادِسَةُ وَالنِّصْفُ", "السَّاعَةُ السَّابِعَةُ وَالنِّصْفُ", "السَّاعَةُ السَّادِسَةُ وَالرُّبْعُ", "السَّاعَةُ السَّادِسَةُ إِلَّا النِّصْفَ"], "dogruIndeks": 0, "aciklama": "السَّادِسَةُ (6) + وَالنِّصْفُ (buçuk)." },
+        { "id": "m11_g3_d2", "tip": "bosluk", "soru": "'السَّاعَةُ الْخَامِسَةُ إِلَّا الرُّبْعَ' hangi dijital saati gösterir?", "secenekler": ["04:45 (Beşe çeyrek var)", "05:15 (Beşi çeyrek geçiyor)", "05:45 (Altıya çeyrek var)", "04:15 (Dördü çeyrek geçiyor)"], "dogruIndeks": 0, "aciklama": "الْخَامِسَةُ (5) إِلَّا الرُّبْعَ (çeyrek kala) = 04:45." },
+        { "id": "m11_g3_d3", "tip": "bosluk", "soru": "'Saat 01:00' için doğru Arapça ifade hangisidir?", "secenekler": ["السَّاعَةُ الْوَاحِدَةُ تَمَامًا", "السَّاعَةُ الْأُولَى تَمَامًا", "السَّاعَةُ وَاحِدٌ تَمَامًا", "السَّاعَةُ الْوَاحِدُ تَمَامًا"], "dogruIndeks": 0, "aciklama": "Saat 1:00 daima السَّاعَةُ الْوَاحِدَةُ şeklinde söylenir." },
+        { "id": "m11_g3_d4", "tip": "bosluk", "soru": "'وَالثُّلُثُ' ifadesi saatte kaç dakikayı gösterir?", "secenekler": ["20 dakika (60'ın 1/3'ü)", "15 dakika", "30 dakika", "10 dakika"], "dogruIndeks": 0, "aciklama": "الرُّبْعُ = 15 dk, الثُّلُثُ = 20 dk, النِّصْفُ = 30 dk!" },
+        { "id": "m11_g3_d5", "tip": "tr_ar", "soru": "'Saat 09:15' (Dokuzu çeyrek geçiyor) hangisidir?", "secenekler": ["السَّاعَةُ التَّاسِعَةُ وَالرُّبْعُ", "السَّاعَةُ الثَّامِنَةُ وَالرُّبْعُ", "السَّاعَةُ التَّاسِعَةُ إِلَّا الرُّبْعَ", "السَّاعَةُ الْعَاشِرَةُ وَالرُّبْعُ"], "dogruIndeks": 0, "aciklama": "التَّاسِعَةُ (9) + وَالرُّبْعُ (:15)." },
+        { "id": "m11_g3_d6", "tip": "bosluk", "soru": "كَمِ ....... الْآنَ؟ (Şu an saat kaç?) boşluğuna hangisi gelir?", "secenekler": ["السَّاعَةُ", "سَاعَةً", "السَّاعَةِ", "سَاعَاتٌ"], "dogruIndeks": 0, "aciklama": "كَمِ السَّاعَةُ الْآنَ؟ sabit saat sorma kalıbıdır." },
+        { "id": "m11_g3_d7", "tip": "hata_bul", "soru": "'السَّاعَةُ الْحَادِيَةُ عَشْرَةُ' ifadesindeki hareke hatası nedir?", "secenekler": ["11 (الْحَادِيَةَ عَشْرَةَ) her iki parçasıyla fetha üzere mebnî okunmalıdır", "عَشْرَةَ yerine عَشَرَ olmalı", "السَّاعَةُ kesralı olmalı", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "11 ve 12 saatleri fethalı mebnîdir: الْحَادِيَةَ عَشْرَةَ / الثَّانِيَةَ عَشْرَةَ." },
+        { "id": "m11_g3_d8", "tip": "bosluk", "soru": "'يَبْدَأُ الدَّرْسُ فِي السَّاعَةِ الثَّامِنَةِ وَعَشْرِ دَقَائِقَ' ders saat kaçta başlar?", "secenekler": ["08:10", "07:50", "08:20", "08:30"], "dogruIndeks": 0, "aciklama": "الثَّامِنَةِ (8) وَعَشْرِ دَقَائِقَ (10 dakika geçiyor) = 08:10." },
+        { "id": "m11_g3_d9", "tip": "tr_ar", "soru": "'Akşam saat yedide' ifadesi hangisidir?", "secenekler": ["فِي السَّاعَةِ السَّابِعَةِ مَسَاءً", "فِي السَّاعَةِ السَّابِعَةِ صَبَاحًا", "فِي السَّاعَةِ السَّادِسَةِ مَسَاءً", "السَّاعَةُ السَّابِعَةُ مَسَاءً"], "dogruIndeks": 0, "aciklama": "'-de' için فِي السَّاعَةِ + السَّابِعَةِ (7) + مَسَاءً (akşam)." },
+        { "id": "m11_g3_d10", "tip": "bosluk", "soru": "'السَّاعَةُ الثَّانِيَةَ عَشْرَةَ ظُهْرًا' hangi saattir?", "secenekler": ["Öğle 12:00", "Gece 11:00", "Sabah 02:00", "Akşam 10:00"], "dogruIndeks": 0, "aciklama": "الثَّانِيَةَ عَشْرَةَ = 12, ظُهْرًا = öğle." }
+      ]
+    },
+    {
+      "id": "m11_g4",
+      "baslik": "Haftanın Günleri, Aylar ve Dört Mevsim",
+      "arBaslik": "أَيَّامُ الْأُسْبُوعِ وَالشُّهُورُ وَالْفُصُولُ الْأَرْبَعَةُ",
+      "mantik": "Arapçada haftanın günlerini ezberlemek süper kolaydır; çünkü ilk 5 gün bildiğin **1'DEN 5'E KADAR SAYILARDAN** türetilmiştir! Hafta **Pazar (1. gün)** ile başlar:\n• 1. Gün: **الْأَحَدُ** (Pazar — 'bir' kökünden!)\n• 2. Gün: **الْإِثْنَيْنِ** (Pazartesi — 'iki' kökünden!)\n• 3. Gün: **الثُّلَاثَاءُ** (Salı — 'üç' kökünden!)\n• 4. Gün: **الْأَرْبِعَاءُ** (Çarşamba — 'dört' kökünden!)\n• 5. Gün: **الْخَمِيسُ** (Perşembe — 'beş' kökünden!)\n• 6. Gün: **الْجُمُعَةُ** (Cuma — toplanma günü!)\n• 7. Gün: **السَّبْتُ** (Cumartesi — dinlenme günü!)\nCümlede 'Cuma günü' derken zaman zarfı olduğu için **يَوْمَ** fethalı, gün adı muzâfun ileyh olduğu için mecrûr olur: `يَوْمَ الْجُمُعَةِ`! Dört mevsim de harika akar: **الرَّبِيعُ** (İlkbahar), **الصَّيْفُ** (Yaz), **الْخَرِيفُ** (Sonbahar), **الشِّتَاءُ** (Kış)!",
+      "formul": "Zaman Zarfı: يَوْمَ (Fethalı!) + Gün Adı (Mecrûr)  |  فِي فَصْلِ + Mevsim (الرَّبِيعِ / الصَّيْفِ / الْخَرِيفِ / الشِّتَاءِ)",
+      "formulAr": "يَوْمَ الْجُمُعَةِ · فِي فَصْلِ الرَّبِيعِ · شَهْرُ رَمَضَانَ",
+      "tablo": {
+        "baslik": "Haftanın 7 Günü ve 4 Mevsim Tablosu",
+        "sutunlar": ["Gün / Mevsim", "Arapçası", "Okunuş", "Kök Bağlantısı / Not"],
+        "satirlar": [
+          { "hucreler": ["Pazar / Pazartesi", "الْأَحَدُ / الْإِثْنَيْنِ", "el-Ehadu / el-İsneyni", "1. gün (أَحَد) / 2. gün (اِثْنَانِ)"], "ses": "يَوْمُ الْأَحَدِ، يَوْمُ الْإِثْنَيْنِ" },
+          { "hucreler": ["Salı / Çarşamba", "الثُّلَاثَاءُ / الْأَرْبِعَاءُ", "es-Sulâsâu / el-Erbi‘âu", "3. gün (ثَلَاثَة) / 4. gün (أَرْبَعَة)"], "ses": "يَوْمُ الثُّلَاثَاءِ، يَوْمُ الْأَرْبِعَاءِ" },
+          { "hucreler": ["Perşembe / Cuma", "الْخَمِيسُ / الْجُمُعَةُ", "el-Hamîsu / el-Cumu‘atu", "5. gün (خَمْسَة) / Toplanma (جَمَعَ)"], "ses": "يَوْمُ الْخَمِيسِ، يَوْمُ الْجُمُعَةِ" },
+          { "hucreler": ["Cumartesi", "السَّبْتُ", "es-Sebtu", "7. gün (hafta sonu / dinlenme)"], "ses": "يَوْمُ السَّبْتِ" },
+          { "hucreler": ["İlkbahar / Yaz", "الرَّبِيعُ / الصَّيْفُ", "er-Rabî‘u / es-Sayfu", "فِي فَصْلِ الرَّبِيعِ / الصَّيْفِ"], "ses": "الرَّبِيعُ، الصَّيْفُ" },
+          { "hucreler": ["Sonbahar / Kış", "الْخَرِيفُ / الشِّتَاءُ", "el-Harîfu / eş-Şitâu", "فِي فَصْلِ الْخَرِيفِ / الشِّتَاءِ"], "ses": "الْخَرِيفُ، الشِّتَاءُ" }
+        ]
+      },
+      "trKiyas": "Çok faydalı bir bilgi: Arap dünyasında hem **Hicrî Aylar** (`مُحَرَّم، صَفَر، رَبِيع الْأَوَّل... رَمَضَان، شَوَّال، ذُو الْحِجَّة`) hem de **Milâdî Aylar** (Mısır/Körfez'de `يَنَايِر، فِبْرَايِر، مَارِس... دِيسَمْبِر`, Şam/Irak'ta Türkçemize çok benzeyen `كَانُونُ الثَّانِي، شُبَاطُ، آذَارُ، نِيسَانُ، أَيَّارُ، حَزِيرَانُ، تَمُّوزُ، آبُ، أَيْلُولُ، تِشْرِينُ الْأَوَّلُ، تِشْرِينُ الثَّانِي، كَانُونُ الْأَوَّلُ`) kullanılır! Türkçe ay adlarımız (Şubat, Nisan, Temmuz, Eylül!) doğrudan Arapça/Süryanice takvimden gelir!",
+      "sikHatalar": [
+        "'Pazartesi günü' derken يَوْمَ الْأَحَدِ demek (الْأَحَدُ = Pazar, الْإِثْنَيْنِ = Pazartesi!).",
+        "Türkçedeki 'Cuma' gibi يَوْمَ الْجُمُعَةَ diye fethalı okumak (muzâfun ileyh olduğu için mecrûr: يَوْمَ الْجُمُعَةِ!).",
+        "الرَّبِيعُ (İlkbahar) ile الْخَرِيفُ (Sonbahar) kelimelerini karıştırmak (yapraklar الْخَرِيفُ'te dökülür, çiçekler الرَّبِيعُ'te açar!)."
+      ],
+      "ornekler": [
+        { "ar": "يَبْدَأُ الْأُسْبُوعُ الدِّرَاسِيُّ فِي تُرْكِيَا يَوْمَ الْإِثْنَيْنِ وَيَنْتَهِي يَوْمَ الْجُمُعَةِ.", "okunus": "Yebdeu'l-usbû‘u'd-dirâsiyyu fî Turkiyâ yevme'l-isneyni ve yentehî yevme'l-cumu‘ati.", "tr": "Türkiye'de okul haftası pazartesi günü başlar ve cuma günü biter.", "not": "يَوْمَ (zaman zarfı, fetha) + gün adı (mecrûr)." },
+        { "ar": "عُطْلَةُ نِهَايَةِ الْأُسْبُوعِ هِيَ يَوْمَا السَّبْتِ وَالْأَحَدِ.", "okunus": "‘Utletu nihâyeti'l-usbû‘i hiye yevme's-sebti ve'l-ehadi.", "tr": "Hafta sonu tatili cumartesi ve pazar günleridir.", "not": "يَوْمَانِ muzâf olunca ن düştü: يَوْمَا." },
+        { "ar": "تَتَفَتَّحُ الْأَزْهَارُ فِي فَصْلِ الرَّبِيعِ وَيَعْتَدِلُ الطَّقْسُ.", "okunus": "Tetefettehu'l-ezhâru fî fasli'r-rabî‘i ve ya‘tedilu't-taksu.", "tr": "İlkbahar mevsiminde çiçekler açar ve hava ılımanlaşır.", "not": "فِي فَصْلِ الرَّبِيعِ = ilkbahar mevsiminde." },
+        { "ar": "فِي فَصْلِ الصَّيْفِ تَرْتَفِعُ الْحَرَارَةُ، وَفِي فَصْلِ الشِّتَاءِ تَتَسَاقَطُ الثُّلُوجُ.", "okunus": "Fî fasli's-sayfi tertefi‘u'l-harâratu, ve fî fasli'ş-şitâi tetesâkatu's-sulûcu.", "tr": "Yaz mevsiminde sıcaklık yükselir, kış mevsiminde ise karlar yağar.", "not": "الصَّيْفُ (yaz) ↔ الشِّتَاءُ (kış)." },
+        { "ar": "يَسْقُطُ وَرَقُ الْأَشْجَارِ فِي فَصْلِ الْخَرِيفِ، وَتَكْثُرُ الْأَمْطَارُ.", "okunus": "Yeskutu varaku'l-eşcâri fî fasli'l-harîfi, ve teksuru'l-emtâru.", "tr": "Sonbahar mevsiminde ağaçların yaprakları dökülür ve yağmurlar artar.", "not": "الْخَرِيفُ = sonbahar." },
+        { "ar": "نَصُومُ فِي شَهْرِ رَمَضَانَ الْمُبَارَكِ وَنَحْتَفِلُ بِعِيدِ الْفِطْرِ فِي شَوَّالٍ.", "okunus": "Nesûmu fî şehri Ramadâne'l-mubâreki ve nahtefilu bi-‘îdi'l-fitri fî Şevvâlin.", "tr": "Mübarek Ramazan ayında oruç tutarız ve Şevval'de Ramazan Bayramını kutlarız.", "not": "Hicrî aylar: رَمَضَان / شَوَّال." }
+      ],
+      "tatbikler": [
+        { "id": "m11_g4_d1", "tip": "bosluk", "soru": "Arapçada 'Çarşamba' günü hangisidir?", "secenekler": ["الْأَرْبِعَاءُ", "الثُّلَاثَاءُ", "الْخَمِيسُ", "الْإِثْنَيْنِ"], "dogruIndeks": 0, "aciklama": "4. gün (أَرْبَعَة kökünden): الْأَرْبِعَاءُ (Çarşamba)." },
+        { "id": "m11_g4_d2", "tip": "bosluk", "soru": "يَوْمُ الْأَحَدِ hangi gündür?", "secenekler": ["Pazar", "Pazartesi", "Cumartesi", "Cuma"], "dogruIndeks": 0, "aciklama": "الْأَحَدُ = Pazar (1. gün)." },
+        { "id": "m11_g4_d3", "tip": "bosluk", "soru": "سَنَلْتَقِي ....... الْخَمِيسِ الْقَادِمِ. (Gelecek perşembe buluşacağız) boşluğuna doğru hareke hangisidir?", "secenekler": ["يَوْمَ", "يَوْمُ", "يَوْمِ", "يَوْمًا"], "dogruIndeks": 0, "aciklama": "Zaman zarfı ve muzâf olduğu için tenvînsiz fethalı: يَوْمَ الْخَمِيسِ." },
+        { "id": "m11_g4_d4", "tip": "bosluk", "soru": "Aşağıdakilerden hangisi 'Sonbahar' mevsimidir?", "secenekler": ["الْخَرِيفُ", "الرَّبِيعُ", "الصَّيْفُ", "الشِّتَاءُ"], "dogruIndeks": 0, "aciklama": "الْخَرِيفُ = sonbahar, الرَّبِيعُ = ilkbahar." },
+        { "id": "m11_g4_d5", "tip": "tr_ar", "soru": "'Kış mevsiminde hava soğuktur' cümlesi hangisidir?", "secenekler": ["الطَّقْسُ بَارِدٌ فِي فَصْلِ الشِّتَاءِ", "الطَّقْسُ بَارِدٌ فِي فَصْلِ الصَّيْفِ", "الطَّقْسُ حَارٌّ فِي فَصْلِ الشِّتَاءِ", "الطَّقْسُ بَارِدٌ فِي فَصْلِ الرَّبِيعِ"], "dogruIndeks": 0, "aciklama": "الشِّتَاءُ = kış." },
+        { "id": "m11_g4_d6", "tip": "bosluk", "soru": "Salı gününün Arapçası hangisidir?", "secenekler": ["الثُّلَاثَاءُ", "الْإِثْنَيْنِ", "الْأَرْبِعَاءُ", "السَّبْتُ"], "dogruIndeks": 0, "aciklama": "3. gün (ثَلَاثَة kökünden): الثُّلَاثَاءُ (Salı)." },
+        { "id": "m11_g4_d7", "tip": "bosluk", "soru": "Hangi gün 'beş' (خَمْسَة) sayısıyla aynı köktendir?", "secenekler": ["الْخَمِيسُ (Perşembe)", "الْجُمُعَةُ (Cuma)", "السَّبْتُ (Cumartesi)", "الْأَحَدُ (Pazar)"], "dogruIndeks": 0, "aciklama": "Pazardan itibaren 5. gün: الْخَمِيسُ (Perşembe)." },
+        { "id": "m11_g4_d8", "tip": "hata_bul", "soru": "'أَزُورُ جَدِّي يَوْمُ السَّبْتِ' cümlesindeki hata nedir?", "secenekler": ["يَوْمَ zaman zarfı mansub (fethalı) olmalıdır: يَوْمَ السَّبْتِ", "السَّبْتِ dammeli olmalı", "أَزُورُ fethalı olmalı", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "Zaman zarfı mansub okunur: يَوْمَ السَّبْتِ." },
+        { "id": "m11_g4_d9", "tip": "bosluk", "soru": "فِي أَيِّ فَصْلٍ تَتَفَتَّحُ الْأَزْهَارُ؟ (Çiçekler hangi mevsimde açar?)", "secenekler": ["فِي فَصْلِ الرَّبِيعِ", "فِي فَصْلِ الشِّتَاءِ", "فِي فَصْلِ الْخَرِيفِ", "فِي يَوْمِ السَّبْتِ"], "dogruIndeks": 0, "aciklama": "الرَّبِيعُ = ilkbahar." },
+        { "id": "m11_g4_d10", "tip": "bosluk", "soru": "Cumartesi gününün Arapçası hangisidir?", "secenekler": ["السَّبْتُ", "الْجُمُعَةُ", "الْأَحَدُ", "الْخَمِيسُ"], "dogruIndeks": 0, "aciklama": "السَّبْتُ = Cumartesi." }
+      ]
+    },
+    {
+      "id": "m11_g5",
+      "baslik": "1–10 Sayıları & Ünlü 3–10 Cinsiyet Zıtlığı Kuralı (الْعَدَدُ وَالْمَعْدُودُ)",
+      "arBaslik": "الْأَعْدَادُ مِن ١ إِلَى ١٠ وَأَحْكَامُهَا",
+      "mantik": "Arapça sayı sisteminin temel taşını 1'den 10'a kadar olan kurallar oluşturur! Bu kuralı iki basit gruba ayırdığında asla kafan karışmaz:\n1) **1 ve 2 Sayıları (وَاحِدٌ / اِثْنَانِ) — TAM UYUM & SIFAT:** Sayılan isim ÖNCE, sayı SONRA gelir ve sıfat gibi cinsiyette %100 uyar! (`كِتَابٌ وَاحِدٌ` [1 kitap], `سَيَّارَةٌ وَاحِدَةٌ` [1 araba], `طَالِبَانِ اثْنَانِ` [2 erkek öğrenci], `طَالِبَتَانِ اثْنَتَانِ` [2 kız öğrenci]). Aslında Arapçada tekil ve ikil zaten 1 ve 2'yi verdiği için `وَاحِدٌ / اِثْنَانِ` sadece vurgu için eklenir!\n2) **3'ten 10'a Kadar (ثَلَاثَةٌ ... عَشَرَةٌ) — 3 ALTIN KURAL:**\n   • **Sıra:** Sayı ÖNCE (muzâf), sayılan isim SONRA (muzâfun ileyh) gelir.\n   • **Sayılan İsim (Temyiz):** DAİMA **ÇOĞUL** ve **MECRÛR (kesratân)** olur (`طُلَّابٍ`, `كُتُبٍ`, `طَالِبَاتٍ`)!\n   • **CİNSİYET ZITLIĞI (Ünlü Kural!):** Sayılan ismin **TEKİL** hâli erilse (ör. `طَالِبٌ`), sayı **ة'Lİ (dişil görünüm)** gelir: **ثَلَاثَةُ طُلَّابٍ**! Sayılan ismin **TEKİL** hâli dişilse (ör. `طَالِبَةٌ`), sayı **ة'SİZ (eril görünüm)** gelir: **ثَلَاثُ طَالِبَاتٍ**!",
+      "formul": "1–2: İsim + Sayı (Tam Uyum)  |  3–10: Sayı (Tekile Cinsiyetçe ZIT!) + ÇOĞUL MECRÛR İsim",
+      "formulAr": "ثَلَاثَةُ كُتُبٍ (tekil: كِتَابٌ E)  ≠  ثَلَاثُ غُرَفٍ (tekil: غُرْفَةٌ K)",
+      "tablo": {
+        "baslik": "1–10 Sayıları (Müzekker ve Müennes Sayılan İsimlerle Tam Tablo)",
+        "sutunlar": ["Sayı", "Eril İsimle (كِتَابٌ → كُتُبٍ)", "Dişil İsimle (غُرْفَةٌ → غُرَفٍ)", "Kural Özeti"],
+        "satirlar": [
+          { "hucreler": ["1", "كِتَابٌ وَاحِدٌ", "غُرْفَةٌ وَاحِدَةٌ", "Sıfat gibi arkada & TAM UYUM"], "ses": "كِتَابٌ وَاحِدٌ، غُرْفَةٌ وَاحِدَةٌ" },
+          { "hucreler": ["2", "كِتَابَانِ اثْنَانِ", "غُرْفَتَانِ اثْنَتَانِ", "Sıfat gibi arkada & TAM UYUM"], "ses": "كِتَابَانِ اثْنَانِ، غُرْفَتَانِ اثْنَتَانِ" },
+          { "hucreler": ["3 / 4", "ثَلَاثَةُ كُتُبٍ / أَرْبَعَةُ كُتُبٍ", "ثَلَاثُ غُرَفٍ / أَرْبَعُ غُرَفٍ", "ZIT Cinsiyet + Çoğul Mecrûr!"], "ses": "ثَلَاثَةُ كُتُبٍ، ثَلَاثُ غُرَفٍ" },
+          { "hucreler": ["5 / 6", "خَمْسَةُ كُتُبٍ / سِتَّةُ كُتُبٍ", "خَمْسُ غُرَفٍ / سِتُّ غُرَفٍ", "ZIT Cinsiyet + Çoğul Mecrûr!"], "ses": "خَمْسَةُ كُتُبٍ، خَمْسُ غُرَفٍ" },
+          { "hucreler": ["7 / 8", "سَبْعَةُ كُتُبٍ / ثَمَانِيَةُ كُتُبٍ", "سَبْعُ غُرَفٍ / ثَمَانِي غُرَفٍ", "ZIT Cinsiyet + Çoğul Mecrûr!"], "ses": "سَبْعَةُ كُتُبٍ، سَبْعُ غُرَفٍ" },
+          { "hucreler": ["9 / 10", "تِسْعَةُ كُتُبٍ / عَشَرَةُ كُتُبٍ", "تِسْعُ غُرَفٍ / عَشْرُ غُرَفٍ", "10'da ش: عَشَرَةُ (fetha) vs عَشْرُ (sükûn)!"], "ses": "تِسْعَةُ كُتُبٍ، عَشَرَةُ كُتُبٍ، عَشْرُ غُرَفٍ" }
+        ]
+      },
+      "trKiyas": "EN BÜYÜK TUZAĞI ŞİMDİDEN ÇÖKERT: Cinsiyet zıtlığını belirlerken ASLA çoğula değil, kelimenin **TEKİLİNE** bak! Mesela `جُنَيْهَاتٌ` (sterlinler) veya `حَمَّامَاتٌ` (banyolar) çoğulda `ـَات` ile bitse de tekilleri `جُنَيْهٌ` ve `حَمَّامٌ` ERİLDİR! Bu yüzden '3 banyo' = **ثَلَاثَةُ حَمَّامَاتٍ** (ة'li!) olur! Aynı şekilde `أَيَّامٌ` (günler) kelimesinin tekili `يَوْمٌ` (eril) olduğu için '5 gün' = **خَمْسَةُ أَيَّامٍ**, ama `لَيَالٍ` (geceler) kelimesinin tekili `لَيْلَةٌ` (dişil) olduğu için '5 gece' = **خَمْسُ لَيَالٍ** olur!",
+      "sikHatalar": [
+        "3–10 arasında sayıyı sayılanla aynı cinsiyette yapmak ('ثَلَاثُ طُلَّابٍ' YANLIŞ → طَالِبٌ erildir, zıt olarak ثَلَاثَةُ طُلَّابٍ!).",
+        "3–10 arasında Türkçedeki gibi tekil isim getirmek ('خَمْسَةُ كِتَابٍ' YANLIŞ → mutlaka çoğul mecrûr: خَمْسَةُ كُتُبٍ!).",
+        "عَشْرُ (dişil sayılan) ile عَشَرَةُ (eril sayılan) içindeki ش harfinin harekesini karıştırmak: عَشَرَةُ طُلَّابٍ (şîn fethalı) vs. عَشْرُ طَالِبَاتٍ (şîn sükûnlu)!"
+      ],
+      "ornekler": [
+        { "ar": "فِي حَقِيبَتِي كِتَابٌ وَاحِدٌ وَمِسْطَرَةٌ وَاحِدَةٌ وَقَلَمَانِ اثْنَانِ.", "okunus": "Fî hakîbetî kitâbun vâhidun ve mistaratun vâhidetun ve kalemâni'snâni.", "tr": "Çantamda bir kitap, bir cetvel ve iki kalem vardır.", "not": "1 ve 2 sayıları isimden sonra ve tam uyumlu!" },
+        { "ar": "قَرَأْتُ خَمْسَةَ كُتُبٍ وَثَلَاثَ مَجَلَّاتٍ فِي هٰذَا الشَّهْرِ.", "okunus": "Kara'tu hamsete kutubin ve selâse mecellâtin fî hâze'ş-şehri.", "tr": "Bu ay beş kitap ve üç dergi okudum.", "not": "كِتَابٌ (E) → خَمْسَةَ; مَجَلَّةٌ (K) → ثَلَاثَ (nesne oldukları için fethalı!)." },
+        { "ar": "فِي الشَّقَّةِ أَرْبَعُ غُرَفٍ وَسِتُّ نَوَافِذَ.", "okunus": "Fi'ş-şakkati erba‘u gurafin ve sittu nevâfize.", "tr": "Dairede dört oda ve altı pencere vardır.", "not": "غُرْفَةٌ ve نَافِذَةٌ dişil → أَرْبَعُ ve سِتُّ (ة'siz)." },
+        { "ar": "تَتَكَوَّنُ الْأُسْبُوعُ مِنْ سَبْعَةِ أَيَّامٍ وَتَبْدَأُ الْعُطْلَةُ بَعْدَ خَمْسَةِ أَيَّامٍ.", "okunus": "Yetekevvenu'l-usbû‘u min seb‘ati eyyâmin ve tebdeu'l-‘utletu ba‘de hamseti eyyâmin.", "tr": "Hafta yedi günden oluşur ve tatil beş gün sonra başlar.", "not": "يَوْمٌ eril → سَبْعَةِ أَيَّامٍ / خَمْسَةِ أَيَّامٍ." },
+        { "ar": "فِي الصَّفِّ عَشَرَةُ طُلَّابٍ وَعَشْرُ طَالِبَاتٍ.", "okunus": "Fi's-saffi ‘aşeratu tullâbin ve ‘aşru tâlibâtin.", "tr": "Sınıfta on erkek öğrenci ve on kız öğrenci vardır.", "not": "عَشَرَةُ (ش fethalı) vs. عَشْرُ (ش sükûnlu)!" },
+        { "ar": "حَفِظْتُ ثَمَانِيَ كَلِمَاتٍ جَدِيدَةٍ وَتِسْعَةَ أَفْعَالٍ الْيَوْمَ.", "okunus": "Hafiztu semâniye kelimâtin cedîdetin ve tis‘ate ef‘âlin el-yevme.", "tr": "Bugün sekiz yeni kelime ve dokuz fiil ezberledim.", "not": "كَلِمَةٌ (K) → ثَمَانِيَ; فِعْلٌ (E) → تِسْعَةَ." }
+      ],
+      "tatbikler": [
+        { "id": "m11_g5_d1", "tip": "bosluk", "soru": "اِشْتَرَيْتُ ....... أَقْلَامٍ. (Üç kalem satın aldım — tekil: قَلَمٌ eril) boşluğuna hangisi gelir?", "secenekler": ["ثَلَاثَةَ", "ثَلَاثَ", "ثَلَاثَةٌ", "ثَلَاثٌ"], "dogruIndeks": 0, "aciklama": "قَلَمٌ erildir → sayı zıt olarak ة'li (ثَلَاثَةَ), muzâf olduğu için tenvînsiz ve nesne olduğu için fethalıdır!" },
+        { "id": "m11_g5_d2", "tip": "bosluk", "soru": "فِي الْحَدِيقَةِ ....... شَجَرَاتٍ. (Bahçede beş ağaç vardır — tekil: شَجَرَةٌ dişil)", "secenekler": ["خَمْسُ", "خَمْسَةُ", "خَمْسَ", "خَمْسٌ"], "dogruIndeks": 0, "aciklama": "شَجَرَةٌ dişildir → sayı zıt (ة'siz: خَمْسُ), mübtedâ-i muahhar olduğu için merfû (damme) ve muzâf (tenvînsiz)!" },
+        { "id": "m11_g5_d3", "tip": "hata_bul", "soru": "'فِي الصَّفِّ سَبْعَةُ طَالِبٍ' cümlesindeki gramer hatası nedir?", "secenekler": ["3–10 arasında sayılan isim çoğul mecrûr olmalıdır: 'سَبْعَةُ طُلَّابٍ'", "سَبْعَةُ yerine سَبْعُ olmalı", "فِي yerine عَلَى gelmeli", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "3–10 arası temyiz daima çoğul mecrûr gelir: سَبْعَةُ طُلَّابٍ." },
+        { "id": "m11_g5_d4", "tip": "tr_ar", "soru": "'Yedi gün' (يَوْمٌ — eril) ifadesi hangisidir?", "secenekler": ["سَبْعَةُ أَيَّامٍ", "سَبْعُ أَيَّامٍ", "سَبْعَةُ يَوْمٍ", "سَبْعُ يَوْمٍ"], "dogruIndeks": 0, "aciklama": "يَوْمٌ eril olduğu için zıt cinsiyet: سَبْعَةُ أَيَّامٍ." },
+        { "id": "m11_g5_d5", "tip": "bosluk", "soru": "عِنْدِي ....... سَاعَاتٍ. (Dokuz saatim var — tekil: سَاعَةٌ dişil)", "secenekler": ["تِسْعُ", "تِسْعَةُ", "تِسْعًا", "تِسْعَةٌ"], "dogruIndeks": 0, "aciklama": "سَاعَةٌ dişildir → sayı ة'siz ve merfû muzâf: تِسْعُ سَاعَاتٍ." },
+        { "id": "m11_g5_d6", "tip": "bosluk", "soru": "'On kız öğrenci' ifadesinde عَشْر kelimesinin doğru harekesi hangisidir?", "secenekler": ["عَشْرُ طَالِبَاتٍ (ش sükûnlu)", "عَشَرَةُ طَالِبَاتٍ", "عَشَرُ طَالِبَاتٍ", "عَشْرَةُ طَالِبَاتٍ"], "dogruIndeks": 0, "aciklama": "Dişil sayılanla عَشْرُ (şîn sükûnlu), eril sayılanla عَشَرَةُ (şîn fethalı)!" },
+        { "id": "m11_g5_d7", "tip": "tr_ar", "soru": "'Bir güzel kitap' ve 'Bir güzel okul' ifadeleri hangisidir?", "secenekler": ["كِتَابٌ وَاحِدٌ وَمَدْرَسَةٌ وَاحِدَةٌ", "وَاحِدٌ كِتَابٌ وَوَاحِدَةٌ مَدْرَسَةٌ", "كِتَابٌ وَاحِدَةٌ وَمَدْرَسَةٌ وَاحِدٌ", "وَاحِدُ كُتُبٍ وَوَاحِدَةُ مَدَارِسَ"], "dogruIndeks": 0, "aciklama": "1 ve 2 sayıları isimden SONRA gelir ve sıfat gibi tam uyar." },
+        { "id": "m11_g5_d8", "tip": "bosluk", "soru": "حَفِظْتُ ....... كَلِمَاتٍ. (On kelime ezberledim — tekil: كَلِمَةٌ dişil)", "secenekler": ["عَشْرَ", "عَشَرَةَ", "عَشْرُ", "عَشَرَ"], "dogruIndeks": 0, "aciklama": "كَلِمَةٌ dişil → عَشْرَ (ة'siz, nesne olduğu için fethalı)." },
+        { "id": "m11_g5_d9", "tip": "hata_bul", "soru": "'قَرَأْتُ أَرْبَعَ كُتُبٍ' cümlesindeki hata nedir?", "secenekler": ["كُتُبٍ tekili كِتَابٌ (eril) olduğu için sayı ة'li olmalıdır: أَرْبَعَةَ كُتُبٍ", "كُتُبٍ fethalı olmalı", "قَرَأْتُ yanlış", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "كِتَابٌ erildir → 3–10 zıtlığı gereği أَرْبَعَةَ كُتُبٍ!" },
+        { "id": "m11_g5_d10", "tip": "bosluk", "soru": "3–10 arası sayılarda cinsiyet zıtlığı kelimenin hangi hâline bakılarak belirlenir?", "secenekler": ["Sayılan ismin TEKİL (müfred) hâline bakılır", "Çoğulunun son harfine bakılır", "Cümlenin fiiline bakılır", "Sıfatına bakılır"], "dogruIndeks": 0, "aciklama": "Her zaman tekil (müfred) hâlin cinsiyeti esas alınır!" }
+      ]
+    }
+  ],
+  "workshop": {
+    "motors": [
+      {
+        "id": "m11_mot1",
+        "baslik": "مَا / لَا Fiil Olumsuzluğu Motoru",
+        "aciklama": "Geçmişte مَا + mâzi, şimdiki/geniş zamanda لَا + merfû muzâri eşleştir.",
+        "slotlar": [
+          {
+            "etiket": "Olumsuz Fiil",
+            "secenekler": [
+              { "ar": "مَا ذَهَبْتُ", "okunus": "Mâ zehebtu", "tr": "Gitmedim" },
+              { "ar": "مَا قَرَأْتُ", "okunus": "Mâ kara'tu", "tr": "Okumadım" },
+              { "ar": "مَا سَمِعْتُ", "okunus": "Mâ semi‘tu", "tr": "Duymadım" },
+              { "ar": "لَا أَشْرَبُ", "okunus": "Lâ eşrabu", "tr": "İçmem / içmiyorum" },
+              { "ar": "لَا أَعْرِفُ", "okunus": "Lâ a‘rifu", "tr": "Bilmiyorum" },
+              { "ar": "لَا أَنْسَى", "okunus": "Lâ ensâ", "tr": "Unutmam" }
+            ]
+          },
+          {
+            "etiket": "Tamamlayıcı",
+            "secenekler": [
+              { "ar": "إِلَى السُّوقِ أَمْسِ.", "okunus": "ile's-sûki emsi.", "tr": "dün çarşıya." },
+              { "ar": "هٰذَا الْخَبَرَ قَبْلَ الْيَوْمِ.", "okunus": "hâze'l-habera kable'l-yevmi.", "tr": "bugünden önce bu haberi." },
+              { "ar": "الْقَهْوَةَ فِي اللَّيْلِ.", "okunus": "el-kahvete fi'l-leyli.", "tr": "geceleyin kahveyi." },
+              { "ar": "عُنْوَانَ هٰذَا الشَّارِعِ.", "okunus": "‘unvâne hâze'ş-şâri‘i.", "tr": "bu caddenin adresini." },
+              { "ar": "دُرُوسِي وَوَاجِبَاتِي أَبَدًا.", "okunus": "durûsî ve vâcibâtî ebeden.", "tr": "derslerimi ve ödevlerimi asla." },
+              { "ar": "تِلْكَ الْقِصَّةَ بَعْدُ.", "okunus": "tilke'l-kıssate ba‘du.", "tr": "o hikâyeyi henüz." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m11_mot2",
+        "baslik": "لَيْسَ İsim Olumsuzluğu (Merfû + Mansub) Motoru",
+        "aciklama": "لَيْسَ çekimini ve mansub haberini kusursuz eşleştirerek isim cümlesi olumsuzluğu kur.",
+        "slotlar": [
+          {
+            "etiket": "لَيْسَ + İsim",
+            "secenekler": [
+              { "ar": "لَيْسَ الدَّرْسُ", "okunus": "Leyse'd-dersu", "tr": "Ders ... değildir:" },
+              { "ar": "لَيْسَ الطَّقْسُ", "okunus": "Leyse't-taksu", "tr": "Hava ... değildir:" },
+              { "ar": "لَيْسَ الْكِتَابُ", "okunus": "Leyse'l-kitâbu", "tr": "Kitap ... değildir:" },
+              { "ar": "لَيْسَ الطَّرِيقُ", "okunus": "Leyse't-tarîku", "tr": "Yol ... değildir:" },
+              { "ar": "لَسْتُ", "okunus": "Lestu", "tr": "Ben ... değilim:" },
+              { "ar": "لَسْتَ", "okunus": "Leste", "tr": "Sen (E) ... değilsin:" }
+            ]
+          },
+          {
+            "etiket": "Mansub Haber (ـًا)",
+            "secenekler": [
+              { "ar": "صَعْبًا أَبَدًا.", "okunus": "sa‘ben ebeden.", "tr": "asla zor." },
+              { "ar": "بَارِدًا الْيَوْمَ.", "okunus": "bâridan el-yevme.", "tr": "bugün soğuk." },
+              { "ar": "غَالِيًا جِدًّا.", "okunus": "gâliyen cidden.", "tr": "çok pahalı." },
+              { "ar": "بَعِيدًا عَنِ الْمَرْكَزِ.", "okunus": "ba‘îden ‘ani'l-merkezi.", "tr": "merkezden uzak." },
+              { "ar": "مُتْعَبًا الْآنَ.", "okunus": "mut‘aben el-âne.", "tr": "şu an yorgun." },
+              { "ar": "مُتَأَخِّرًا عَنِ الْمَوْعِدِ.", "okunus": "muteahhiran ‘ani'l-mev‘idi.", "tr": "randevuya geç kalmış." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m11_mot3",
+        "baslik": "Saat & Dakika Kurucu Motor",
+        "aciklama": "Saat numarasını ve dakika kalıbını seçerek gerçek saat ifadeleri üret.",
+        "slotlar": [
+          {
+            "etiket": "Saat (Müennes Sıra Sayısı)",
+            "secenekler": [
+              { "ar": "السَّاعَةُ الْوَاحِدَةُ", "okunus": "Es-sâ‘atu'l-vâhidetu", "tr": "Saat bir" },
+              { "ar": "السَّاعَةُ الثَّالِثَةُ", "okunus": "Es-sâ‘atu's-sâlisetu", "tr": "Saat üç" },
+              { "ar": "السَّاعَةُ السَّابِعَةُ", "okunus": "Es-sâ‘atu's-sâbi‘atu", "tr": "Saat yedi" },
+              { "ar": "السَّاعَةُ الثَّامِنَةُ", "okunus": "Es-sâ‘atu's-sâminetu", "tr": "Saat sekiz" },
+              { "ar": "السَّاعَةُ الْعَاشِرَةُ", "okunus": "Es-sâ‘atu'l-‘âşiratu", "tr": "Saat on" },
+              { "ar": "السَّاعَةُ الثَّانِيَةَ عَشْرَةَ", "okunus": "Es-sâ‘atu's-sâniyete ‘aşrate", "tr": "Saat on iki" }
+            ]
+          },
+          {
+            "etiket": "Dakika & Vakit",
+            "secenekler": [
+              { "ar": "تَمَامًا صَبَاحًا.", "okunus": "temâmen sabâhan.", "tr": "tam (sabah)." },
+              { "ar": "وَالرُّبْعُ صَبَاحًا.", "okunus": "ve'r-rub‘u sabâhan.", "tr": "çeyrek geçiyor (sabah)." },
+              { "ar": "وَالثُّلُثُ ظُهْرًا.", "okunus": "ve's-sulusu zuhran.", "tr": "yirmi geçiyor (öğle)." },
+              { "ar": "وَالنِّصْفُ مَسَاءً.", "okunus": "ve'n-nısfu mesâen.", "tr": "buçuk (akşam)." },
+              { "ar": "إِلَّا الرُّبْعَ عَصْرًا.", "okunus": "ille'r-rub‘a ‘asran.", "tr": "çeyrek var (ikindi)." },
+              { "ar": "إِلَّا عَشْرَ دَقَائِقَ لَيْلًا.", "okunus": "illâ ‘aşra dekâika leylen.", "tr": "on dakika var (gece)." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m11_mot4",
+        "baslik": "Gün ve Mevsim Planlama Motoru",
+        "aciklama": "Haftanın günleri ve dört mevsimle akıcı zaman cümleleri üret.",
+        "slotlar": [
+          {
+            "etiket": "Eylem",
+            "secenekler": [
+              { "ar": "نَلْتَقِي", "okunus": "Neltekî", "tr": "Buluşuruz" },
+              { "ar": "يَبْدَأُ الدَّرْسُ", "okunus": "Yebdeu'd-dersu", "tr": "Ders başlar" },
+              { "ar": "أَزُورُ جَدِّي", "okunus": "Ezûru ceddî", "tr": "Dedemi ziyaret ederim" },
+              { "ar": "نُسَافِرُ إِلَى الْقَرْيَةِ", "okunus": "Nusâfiru ile'l-karyeti", "tr": "Köye seyahat ederiz" },
+              { "ar": "يَعْتَدِلُ الطَّقْسُ", "okunus": "Ya‘tedilu't-taksu", "tr": "Hava ılımanlaşır" },
+              { "ar": "يَنْزِلُ الثَّلْجُ", "okunus": "Yenzilu's-selcu", "tr": "Kar yağar" }
+            ]
+          },
+          {
+            "etiket": "Gün veya Mevsim",
+            "secenekler": [
+              { "ar": "يَوْمَ الْإِثْنَيْنِ صَبَاحًا.", "okunus": "yevme'l-isneyni sabâhan.", "tr": "pazartesi sabahı." },
+              { "ar": "يَوْمَ الْأَرْبِعَاءِ مَسَاءً.", "okunus": "yevme'l-erbi‘âi mesâen.", "tr": "çarşamba akşamı." },
+              { "ar": "يَوْمَ الْجُمُعَةِ بَعْدَ الصَّلَاةِ.", "okunus": "yevme'l-cumu‘ati ba‘de's-salâti.", "tr": "cuma namazından sonra." },
+              { "ar": "يَوْمَ السَّبْتِ وَالْأَحَدِ.", "okunus": "yevme's-sebti ve'l-ehadi.", "tr": "cumartesi ve pazar günü." },
+              { "ar": "فِي فَصْلِ الرَّبِيعِ.", "okunus": "fî fasli'r-rabî‘i.", "tr": "ilkbahar mevsiminde." },
+              { "ar": "فِي فَصْلِ الشِّتَاءِ.", "okunus": "fî fasli'ş-şitâi.", "tr": "kış mevsiminde." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m11_mot5",
+        "baslik": "3–10 Zıtlık Motoru (Eril Sayılan → ة'li Sayı!)",
+        "aciklama": "Tekili eril olan isimlerle (كِتَابٌ، طَالِبٌ، قَلَمٌ، يَوْمٌ) ة'li sayıları ve çoğul mecrûru eşleştir.",
+        "slotlar": [
+          {
+            "etiket": "ة'li Sayı (3–10)",
+            "secenekler": [
+              { "ar": "ثَلَاثَةُ", "okunus": "Selâsetu", "tr": "Üç" },
+              { "ar": "أَرْبَعَةُ", "okunus": "Erba‘atu", "tr": "Dört" },
+              { "ar": "خَمْسَةُ", "okunus": "Hamsetu", "tr": "Beş" },
+              { "ar": "سِتَّةُ", "okunus": "Sittetu", "tr": "Altı" },
+              { "ar": "سَبْعَةُ", "okunus": "Seb‘atu", "tr": "Yedi" },
+              { "ar": "عَشَرَةُ", "okunus": "‘Aşeratu", "tr": "On" }
+            ]
+          },
+          {
+            "etiket": "Çoğul Mecrûr (Tekili Eril)",
+            "secenekler": [
+              { "ar": "كُتُبٍ مُفِيدَةٍ", "okunus": "kutubin mufîdetin", "tr": "faydalı kitap" },
+              { "ar": "طُلَّابٍ مُجْتَهِدِينَ", "okunus": "tullâbin muctehidîne", "tr": "çalışkan erkek öğrenci" },
+              { "ar": "أَقْلَامٍ مَلَوَّنَةٍ", "okunus": "aklâmin mulevvenetin", "tr": "renkli kalem" },
+              { "ar": "أَيَّامٍ جَمِيلَةٍ", "okunus": "eyyâmin cemîletin", "tr": "güzel gün" },
+              { "ar": "دَفَاتِرَ جَدِيدَةٍ", "okunus": "defâtira cedîdetin", "tr": "yeni defter" },
+              { "ar": "بُيُوتٍ وَاسِعَةٍ", "okunus": "buyûtin vâsi‘atin", "tr": "geniş ev" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m11_mot6",
+        "baslik": "3–10 Zıtlık Motoru (Dişil Sayılan → ة'siz Sayı!)",
+        "aciklama": "Tekili dişil olan isimlerle (غُرْفَةٌ، طَالِبَةٌ، سَاعَةٌ، كَلِمَةٌ) ة'siz sayıları eşleştir.",
+        "slotlar": [
+          {
+            "etiket": "ة'siz Sayı (3–10)",
+            "secenekler": [
+              { "ar": "ثَلَاثُ", "okunus": "Selâsu", "tr": "Üç" },
+              { "ar": "أَرْبَعُ", "okunus": "Erba‘u", "tr": "Dört" },
+              { "ar": "خَمْسُ", "okunus": "Hamsu", "tr": "Beş" },
+              { "ar": "سَبْعُ", "okunus": "Seb‘u", "tr": "Yedi" },
+              { "ar": "تِسْعُ", "okunus": "Tis‘u", "tr": "Dokuz" },
+              { "ar": "عَشْرُ", "okunus": "‘Aşru", "tr": "On" }
+            ]
+          },
+          {
+            "etiket": "Çoğul Mecrûr (Tekili Dişil)",
+            "secenekler": [
+              { "ar": "غُرَفٍ وَاسِعَةٍ", "okunus": "gurafin vâsi‘atin", "tr": "geniş oda" },
+              { "ar": "طَالِبَاتٍ نَشِيطَاتٍ", "okunus": "tâlibâtin neşîtâtin", "tr": "çalışkan kız öğrenci" },
+              { "ar": "سَاعَاتٍ فِي الْيَوْمِ", "okunus": "sâ‘âtin fi'l-yevmi", "tr": "günde ... saat" },
+              { "ar": "كَلِمَاتٍ جَدِيدَةٍ", "okunus": "kelimâtin cedîdetin", "tr": "yeni kelime" },
+              { "ar": "مَجَلَّاتٍ ثَقَافِيَّةٍ", "okunus": "mecellâtin sekâfiyyetin", "tr": "kültür dergisi" },
+              { "ar": "شَجَرَاتٍ خَضْرَاءَ", "okunus": "şecerâtin hadrâe", "tr": "yeşil ağaç" }
+            ]
+          }
+        ]
+      }
+    ],
+    "merdivenler": [
+      {
+        "id": "m11_lad1",
+        "baslik": "A1 → B2 Merdiveni: Olumsuzluktan Kararlı İradeye",
+        "adimlar": [
+          { "seviye": "A1", "ar": "لَيْسَ الدَّرْسُ صَعْبًا.", "okunus": "Leyse'd-dersu sa‘ben.", "tr": "Ders zor değildir.", "ekleme": "لَيْسَ + mansub haber" },
+          { "seviye": "A1+", "ar": "لَيْسَ الدَّرْسُ صَعْبًا، وَلَا أَشْعُرُ بِالتَّعَبِ.", "okunus": "Leyse'd-dersu sa‘ben, ve lâ eş‘uru bi't-te‘abi.", "tr": "Ders zor değil ve yorgunluk hissetmiyorum.", "ekleme": "لَا + merfû muzâri eklendi" },
+          { "seviye": "A2", "ar": "مَا تَرَكْتُ الْمُذَاكَرَةَ أَمْسِ، وَلَسْتُ كَسُولًا فِي تَعَلُّمِ اللُّغَةِ.", "okunus": "Mâ teraktu'l-muzâkerate emsi, ve lestu kesûlen fî te‘allumi'l-lugati.", "tr": "Dün ders çalışmayı bırakmadım ve dil öğrenmede tembel değilim.", "ekleme": "مَا + mâzi & لَسْتُ + mansub" },
+          { "seviye": "B1", "ar": "لَيْسَ تَعَلُّمُ الْعَرَبِيَّةِ بِمُسْتَحِيلٍ؛ فَمَنْ لَا يَسْتَسْلِمُ يَصِلُ إِلَى هَدَفِهِ.", "okunus": "Leyse te‘allumu'l-‘arabiyyeti bi-mustehîlin; fe-men lâ yesteslimu yasilu ilâ hedefihi.", "tr": "Arapça öğrenmek hiç de imkânsız değildir; pes etmeyen hedefine ulaşır.", "ekleme": "Zâid بِـ + geniş zaman olumsuzu" },
+          { "seviye": "B2", "ar": "مَا حَقَّقَ النَّاجِحُونَ أَهْدَافَهُمْ بِالصُّدْفَةِ، وَلَيْسَتِ الصُّعُوبَاتُ عَائِقًا أَمَامَ أَصْحَابِ الْعَزِيمَةِ.", "okunus": "Mâ hakkaka'n-nâcihûne ehdâfehum bi's-sudfeti, ve leyseti's-su‘ûbâtu ‘âikan emâme eshâbi'l-‘azîmeti.", "tr": "Başarılı insanlar hedeflerine tesadüfen ulaşmadılar ve zorluklar kararlılık sahipleri önünde bir engel değildir.", "ekleme": "Akademik çift olumsuzluk (مَا + لَيْسَتْ)" }
+        ]
+      },
+      {
+        "id": "m11_lad2",
+        "baslik": "A1 → B2 Merdiveni: Saatten Zaman Yönetimine",
+        "adimlar": [
+          { "seviye": "A1", "ar": "السَّاعَةُ السَّابِعَةُ وَالنِّصْفُ.", "okunus": "Es-sâ‘atu's-sâbi‘atu ve'n-nısfu.", "tr": "Saat yedi buçuk.", "ekleme": "Temel saat ifadesi" },
+          { "seviye": "A1+", "ar": "أَخْرُجُ مِنَ الْبَيْتِ فِي السَّاعَةِ السَّابِعَةِ وَالنِّصْفِ صَبَاحًا.", "okunus": "Ahrucu mine'l-beyti fi's-sâ‘ati's-sâbi‘ati ve'n-nısfi sabâhan.", "tr": "Sabah saat yedi buçukta evden çıkarım.", "ekleme": "فِي السَّاعَةِ + صَبَاحًا" },
+          { "seviye": "A2", "ar": "تَبْدَأُ الْمُحَاضَرَةُ فِي السَّاعَةِ التَّاسِعَةِ إِلَّا الرُّبْعَ وَتَسْتَمِرُّ سَاعَتَيْنِ.", "okunus": "Tebdeu'l-muhâdaratu fi's-sâ‘ati't-tâsi‘ati ille'r-rub‘a ve testemirru sâ‘ateyni.", "tr": "Ders dokuza çeyrek kala başlar ve iki saat sürer.", "ekleme": "إِلَّا الرُّبْعَ + ikil süre" },
+          { "seviye": "B1", "ar": "أُخَصِّصُ كُلَّ يَوْمٍ سَاعَتَيْنِ صَبَاحًا وَسَاعَةً مَسَاءً لِلْقِرَاءَةِ، وَلَا أُضَيِّعُ وَقْتِي.", "okunus": "Uhassisu kulle yevmin sâ‘ateyni sabâhan ve sâ‘aten mesâen li'l-kirâeti, ve lâ udayyi‘u vaktî.", "tr": "Her gün sabah iki saat, akşam bir saat okumaya ayırırım ve vaktimi boşa harcamam.", "ekleme": "Zaman planı + لَا olumsuzu" },
+          { "seviye": "B2", "ar": "إِنَّ تَنْظِيمَ الْوَقْتِ بِدِقَّةٍ بَيْنَ الصَّبَاحِ وَالْمَسَاءِ يَمْنَحُ الْإِنْسَانَ هُدُوءًا وَإِنْتَاجِيَّةً عَالِيَةً طَوَالَ الْأُسْبُوعِ.", "okunus": "İnne tenzîme'l-vakti bi-dikkatin beyne's-sabâhi ve'l-mesâi yemnehu'l-insâne hudûen ve intâciyyeten ‘âliyeten tavâle'l-usbû‘i.", "tr": "Sabah ile akşam arasında zamanı titizlikle düzenlemek insana hafta boyunca huzur ve yüksek verimlilik kazandırır.", "ekleme": "Soyut zaman yönetimi cümlesi" }
+        ]
+      },
+      {
+        "id": "m11_lad3",
+        "baslik": "A1 → B2 Merdiveni: 3–10 Sayılarından İstatistik Cümlesine",
+        "adimlar": [
+          { "seviye": "A1", "ar": "عِنْدِي ثَلَاثَةُ كُتُبٍ.", "okunus": "‘İndî selâsetu kutubin.", "tr": "Üç kitabım var.", "ekleme": "3–10 zıtlık + çoğul mecrûr" },
+          { "seviye": "A1+", "ar": "عِنْدِي ثَلَاثَةُ كُتُبٍ وَأَرْبَعُ مَجَلَّاتٍ.", "okunus": "‘İndî selâsetu kutubin ve erba‘u mecellâtin.", "tr": "Üç kitabım ve dört dergim var.", "ekleme": "Eril (ثَلَاثَةُ) + Dişil (أَرْبَعُ) yan yana" },
+          { "seviye": "A2", "ar": "قَرَأْتُ خَمْسَةَ كُتُبٍ وَحَفِظْتُ عَشْرَ قَصَائِدَ خِلَالَ سِتَّةِ أَشْهُرٍ.", "okunus": "Kara'tu hamsete kutubin ve hafiztu ‘aşra kasâida hilâle sitteti eşhurin.", "tr": "Altı ay boyunca beş kitap okudum ve on şiir ezberledim.", "ekleme": "Üç ayrı 3–10 zıtlık tamlaması" },
+          { "seviye": "B1", "ar": "يَضُمُّ فَرِيقُنَا سَبْعَةَ طُلَّابٍ وَثَمَانِيَ طَالِبَاتٍ مِنْ تِسْعِ مُدُنٍ مُخْتَلِفَةٍ.", "okunus": "Yedummu ferîkunâ seb‘ate tullâbin ve semâniye tâlibâtin min tis‘i mudunin muhtelifetin.", "tr": "Ekibimiz dokuz farklı şehirden yedi erkek ve sekiz kız öğrenciyi barındırıyor.", "ekleme": "7, 8, 9 sayıları tek cümlede!" },
+          { "seviye": "B2", "ar": "شَارَكَ فِي الْمُؤْتَمَرِ عَشَرَةُ أَسَاتِذَةٍ وَعَشْرُ بَاحِثَاتٍ، وَقَدَّمُوا سِتَّ أَوْرَاقٍ عِلْمِيَّةٍ خِلَالَ ثَلَاثَةِ أَيَّامٍ.", "okunus": "Şârake fi'l-mu'temeri ‘aşeratu esâtizetin ve ‘aşru bâhisâtin, ve kaddemû sitte evrâkin ‘ilmiyyetin hilâle selâseti eyyâmin.", "tr": "Konferansa on erkek hoca ve on kadın araştırmacı katıldı ve üç gün boyunca altı bilimsel bildiri sundular.", "ekleme": "عَشَرَةُ vs عَشْرُ + akademik rapor" }
+        ]
+      },
+      {
+        "id": "m11_lad4",
+        "baslik": "A1 → B2 Merdiveni: Mevsimlerden İklim Tasvirine",
+        "adimlar": [
+          { "seviye": "A1", "ar": "أُحِبُّ فَصْلَ الرَّبِيعِ.", "okunus": "Uhibbu fasle'r-rabî‘i.", "tr": "İlkbahar mevsimini severim.", "ekleme": "Mevsim + izâfet" },
+          { "seviye": "A1+", "ar": "فِي فَصْلِ الرَّبِيعِ لَيْسَ الطَّقْسُ حَارًّا وَلَا بَارِدًا.", "okunus": "Fî fasli'r-rabî‘i leyse't-taksu hârran ve lâ bâridan.", "tr": "İlkbahar mevsiminde hava ne sıcaktır ne de soğuktur.", "ekleme": "لَيْسَ ... وَلَا ... (ne ... ne de ...)" },
+          { "seviye": "A2", "ar": "فِي السَّنَةِ أَرْبَعَةُ فُصُولٍ وَاثْنَا عَشَرَ شَهْرًا، وَلِكُلِّ فَصْلٍ جَمَالُهُ الْخَاصُّ.", "okunus": "Fi's-seneti erba‘atu fusûlin ve'snâ ‘aşera şehran, ve li-kulli faslin cemâluhu'l-hâssu.", "tr": "Yılda dört mevsim ve on iki ay vardır; her mevsimin kendine özgü güzelliği vardır.", "ekleme": "أَرْبَعَةُ فُصُولٍ (فَصْلٌ eril!)" },
+          { "seviye": "B1", "ar": "يَخْرُجُ النَّاسُ يَوْمَ السَّبْتِ وَالْأَحَدِ إِلَى الْحَدَائِقِ فِي الرَّبِيعِ، أَمَّا فِي الشِّتَاءِ فَيُفَضِّلُونَ الْجُلُوسَ فِي الْبُيُوتِ الدَّافِئَةِ.", "okunus": "Yahrucu'n-nâsu yevme's-sebti ve'l-ehadi ile'l-hadâiki fi'r-rabî‘i, emmâ fi'ş-şitâi fe-yufaddilûne'l-culûse fi'l-buyûti'd-dâfieti.", "tr": "İnsanlar ilkbaharda cumartesi ve pazar günleri parklara çıkarlar; kışın ise sıcak evlerde oturmayı tercih ederler.", "ekleme": "Günler + mevsim karşılaştırması" },
+          { "seviye": "B2", "ar": "يَتَمَيَّزُ مُنَاخُ بِلَادِنَا بِتَنَوُّعِ الْفُصُولِ الْأَرْبَعَةِ، مِمَّا يَجْعَلُ السِّيَاحَةَ مُمْكِنَةً طَوَالَ أَشْهُرِ السَّنَةِ دُونَ انْقِطَاعٍ.", "okunus": "Yetemeyyezu munâhu bilâdinâ bi-tenevvu‘i'l-fusûli'l-erba‘ati, mimmâ yec‘alu's-siyâhate mumkineten tavâle eşhuri's-seneti dûne'nkitâ‘in.", "tr": "Ülkemizin iklimi dört mevsimin çeşitliliğiyle öne çıkar; bu da yılın tüm ayları boyunca kesintisiz turizmi mümkün kılar.", "ekleme": "Akademik coğrafya cümlesi" }
+        ]
+      }
+    ],
+    "bloklar": [
+      { "id": "m11_b01", "hedefAr": "مَا ذَهَبْتُ إِلَى السُّوقِ أَمْسِ", "tr": "Dün çarşıya gitmedim.", "karisik": ["أَمْسِ", "ذَهَبْتُ", "مَا", "السُّوقِ", "إِلَى"] },
+      { "id": "m11_b02", "hedefAr": "لَا أَشْرَبُ الْقَهْوَةَ فِي اللَّيْلِ", "tr": "Gece kahve içmem.", "karisik": ["اللَّيْلِ", "أَشْرَبُ", "لَا", "الْقَهْوَةَ", "فِي"] },
+      { "id": "m11_b03", "hedefAr": "لَيْسَ الِامْتِحَانُ صَعْبًا الْيَوْمَ", "tr": "Bugün sınav zor değildir.", "karisik": ["الْيَوْمَ", "الِامْتِحَانُ", "لَيْسَ", "صَعْبًا"] },
+      { "id": "m11_b04", "hedefAr": "لَيْسَتِ الْمَدْرَسَةُ بَعِيدَةً عَنِ الْبَيْتِ", "tr": "Okul evden uzak değildir.", "karisik": ["الْبَيْتِ", "بَعِيدَةً", "لَيْسَتِ", "عَنِ", "الْمَدْرَسَةُ"] },
+      { "id": "m11_b05", "hedefAr": "لَسْتُ مُتْعَبًا أَنَا نَشِيطٌ", "tr": "Yorgun değilim, dinçim.", "karisik": ["نَشِيطٌ", "مُتْعَبًا", "لَسْتُ", "أَنَا"] },
+      { "id": "m11_b06", "hedefAr": "السَّاعَةُ الْآنَ الثَّالِثَةُ وَالنِّصْفُ", "tr": "Şu an saat üç buçuk.", "karisik": ["وَالنِّصْفُ", "الْآنَ", "السَّاعَةُ", "الثَّالِثَةُ"] },
+      { "id": "m11_b07", "hedefAr": "السَّاعَةُ التَّاسِعَةُ إِلَّا الرُّبْعَ", "tr": "Saat dokuza çeyrek var.", "karisik": ["الرُّبْعَ", "التَّاسِعَةُ", "السَّاعَةُ", "إِلَّا"] },
+      { "id": "m11_b08", "hedefAr": "يَبْدَأُ الدَّرْسُ يَوْمَ الْإِثْنَيْنِ صَبَاحًا", "tr": "Ders pazartesi sabahı başlar.", "karisik": ["صَبَاحًا", "الدَّرْسُ", "يَبْدَأُ", "الْإِثْنَيْنِ", "يَوْمَ"] },
+      { "id": "m11_b09", "hedefAr": "تَتَفَتَّحُ الْأَزْهَارُ فِي فَصْلِ الرَّبِيعِ", "tr": "İlkbahar mevsiminde çiçekler açar.", "karisik": ["الرَّبِيعِ", "الْأَزْهَارُ", "تَتَفَتَّحُ", "فَصْلِ", "فِي"] },
+      { "id": "m11_b10", "hedefAr": "فِي حَقِيبَتِي كِتَابٌ وَاحِدٌ وَقَلَمَانِ", "tr": "Çantamda bir kitap ve iki kalem vardır.", "karisik": ["وَقَلَمَانِ", "وَاحِدٌ", "حَقِيبَتِي", "فِي", "كِتَابٌ"] },
+      { "id": "m11_b11", "hedefAr": "قَرَأْتُ خَمْسَةَ كُتُبٍ هٰذَا الشَّهْرَ", "tr": "Bu ay beş kitap okudum.", "karisik": ["الشَّهْرَ", "كُتُبٍ", "قَرَأْتُ", "هٰذَا", "خَمْسَةَ"] },
+      { "id": "m11_b12", "hedefAr": "فِي الشَّقَّةِ أَرْبَعُ غُرَفٍ وَاسِعَةٍ", "tr": "Dairede dört geniş oda vardır.", "karisik": ["وَاسِعَةٍ", "غُرَفٍ", "فِي", "أَرْبَعُ", "الشَّقَّةِ"] },
+      { "id": "m11_b13", "hedefAr": "فِي الصَّفِّ عَشَرَةُ طُلَّابٍ وَعَشْرُ طَالِبَاتٍ", "tr": "Sınıfta on erkek ve on kız öğrenci vardır.", "karisik": ["طَالِبَاتٍ", "طُلَّابٍ", "الصَّفِّ", "وَعَشْرُ", "فِي", "عَشَرَةُ"] },
+      { "id": "m11_b14", "hedefAr": "فِي الْأُسْبُوعِ سَبْعَةُ أَيَّامٍ", "tr": "Haftada yedi gün vardır.", "karisik": ["أَيَّامٍ", "الْأُسْبُوعِ", "سَبْعَةُ", "فِي"] },
+      { "id": "m11_b15", "hedefAr": "لَيْسَ الطَّقْسُ بَارِدًا فِي الصَّيْفِ", "tr": "Yazın hava soğuk değildir.", "karisik": ["الصَّيْفِ", "بَارِدًا", "لَيْسَ", "فِي", "الطَّقْسُ"] }
+    ]
+  },
+  "readings": [
+    {
+      "id": "m11_r1",
+      "baslik": "Haftalık Ders ve Yaşam Takvimim",
+      "arBaslik": "جَدْوَلِي الْأُسْبُوعِيُّ وَتَنْظِيمُ الْوَقْتِ",
+      "seviye": "A1",
+      "paragraflar": [
+        {
+          "ar": "فِي الْأُسْبُوعِ سَبْعَةُ أَيَّامٍ، وَأَنَا أُحِبُّ تَنْظِيمَ أَوْقَاتِي جَيِّدًا. يَوْمَ الْإِثْنَيْنِ وَالثُّلَاثَاءِ وَالْأَرْبِعَاءِ أَذْهَبُ إِلَى الْجَامِعَةِ فِي السَّاعَةِ الثَّامِنَةِ وَالنِّصْفِ صَبَاحًا، وَلَا أَتَأَخَّرُ عَنِ الْمُحَاضَرَاتِ أَبَدًا.",
+          "okunus": "Fi'l-usbû‘i seb‘atu eyyâmin, ve ene uhibbu tenzîme evkâtî ceyyiden. Yevme'l-isneyni ve's-sulâsâi ve'l-erbi‘âi ezhebu ile'l-câmi‘ati fi's-sâ‘ati's-sâmineti ve'n-nısfi sabâhan, ve lâ eteahharu ‘ani'l-muhâdarâti ebeden.",
+          "tr": "Haftada yedi gün vardır ve ben vakitlerimi iyi düzenlemeyi severim. Pazartesi, salı ve çarşamba günleri sabah saat sekiz buçukta üniversiteye giderim ve derslere asla geç kalmam.",
+          "analiz": [
+            { "kelime": "سَبْعَةُ أَيَّامٍ", "kok": "س ب ع", "gramer": "3–10 zıtlığı: يَوْمٌ (eril) → ة'li sayı + çoğul mecrûr", "tr": "yedi gün" },
+            { "kelime": "لَا أَتَأَخَّرُ", "kok": "أ خ ر", "gramer": "لَا + merfû muzâri olumsuzu", "tr": "geç kalmam" }
+          ]
+        },
+        {
+          "ar": "عِنْدِي فِي كُلِّ يَوْمٍ أَرْبَعُ سَاعَاتٍ مِنَ الدُّرُوسِ النَّظَرِيَّةِ وَسَاعَتَانِ لِلتَّطْبِيقِ. يَوْمَ الْخَمِيسِ لَيْسَ عِنْدِي مُحَاضَرَاتٌ صَبَاحِيَّةٌ، لِذٰلِكَ أَذْهَبُ إِلَى الْمَكْتَبَةِ فِي السَّاعَةِ الْعَاشِرَةِ وَالرُّبْعِ.",
+          "okunus": "‘İndî fî kulli yevmin erba‘u sâ‘âtin mine'd-durûsi'n-nazariyyeti ve sâ‘atâni li't-tatbîki. Yevme'l-hamîsi leyse ‘indî muhâdarâtun sabâhiyyetun, li-zâlike ezhebu ile'l-mektebeti fi's-sâ‘ati'l-‘âşirati ve'r-rub‘i.",
+          "tr": "Her gün dört saat teorik dersim ve iki saat uygulama dersim var. Perşembe günü sabah derslerim yok, bu yüzden saat onu çeyrek geçe kütüphaneye giderim.",
+          "analiz": [
+            { "kelime": "أَرْبَعُ سَاعَاتٍ", "kok": "ر ب ع", "gramer": "سَاعَةٌ (dişil) → ة'siz sayı + çoğul mecrûr", "tr": "dört saat" },
+            { "kelime": "لَيْسَ عِنْدِي", "kok": "ل ي س", "gramer": "Sahiplik olumsuzluğu", "tr": "bende yok" }
+          ]
+        },
+        {
+          "ar": "يَوْمَ الْجُمُعَةِ أُصَلِّي صَلَاةَ الْجُمُعَةِ فِي الْمَسْجِدِ الْكَبِيرِ، ثُمَّ أَجْتَمِعُ مَعَ خَمْسَةِ أَصْدِقَاءَ فِي السَّاعَةِ الثَّالِثَةِ إِلَّا الرُّبْعَ. نَتَحَدَّثُ بِالْعَرَبِيَّةِ وَنُرَاجِعُ ثَلَاثَةَ دُرُوسٍ مَعًا.",
+          "okunus": "Yevme'l-cumu‘ati usallî salâte'l-cumu‘ati fi'l-mescidi'l-kebîri, summe ectemi‘u me‘a hamseti esdikâe fi's-sâ‘ati's-sâliseti ille'r-rub‘a. Netehaddesu bi'l-‘arabiyyeti ve nurâci‘u selâsete durûsin me‘an.",
+          "tr": "Cuma günü büyük camide cuma namazını kılarım, sonra saat üçe çeyrek kala beş arkadaşla buluşurum. Arapça konuşur ve birlikte üç dersi tekrar ederiz.",
+          "analiz": [
+            { "kelime": "إِلَّا الرُّبْعَ", "kok": "ر ب ع", "gramer": "Saat kalıbı (çeyrek kala, mansub)", "tr": "çeyrek var" },
+            { "kelime": "ثَلَاثَةَ دُرُوسٍ", "kok": "ث ل ث", "gramer": "دَرْسٌ (eril) → ة'li sayı (mansub) + çoğul mecrûr", "tr": "üç ders" }
+          ]
+        },
+        {
+          "ar": "أَمَّا يَوْمَا السَّبْتِ وَالْأَحَدِ فَهُمَا لِلرَّاحَةِ وَالْأُسْرَةِ. أَمْسِ مَا خَرَجْتُ مِنَ الْبَيْتِ لِأَنَّ الطَّقْسَ كَانَ مُمْطِرًا، وَلٰكِنْ لَسْتُ حَزِينًا؛ فَقَدْ قَرَأْتُ سِتَّ قِصَصٍ قَصِيرَةٍ وَاسْتَمْتَعْتُ كَثِيرًا.",
+          "okunus": "Emmâ yevme's-sebti ve'l-ehadi fe-humâ li'r-râhati ve'l-usrati. Emsi mâ haractu mine'l-beyti li-enne't-taksa kâne mumtiran, ve lâkin lestu hazînen; fe-kad kara'tu sitte kısasin kasîratin ve'stemta‘tu kesîran.",
+          "tr": "Cumartesi ve pazar günleri ise dinlenme ve aile içindir. Dün hava yağmurlu olduğu için evden çıkmadım ama üzgün değilim; çünkü altı kısa hikâye okudum ve çok keyif aldım.",
+          "analiz": [
+            { "kelime": "مَا خَرَجْتُ / لَسْتُ حَزِينًا", "kok": "ل ي س", "gramer": "Mâzi olumsuzu + لَيْسَ (1. tekil) + mansub haber", "tr": "çıkmadım / üzgün değilim" },
+            { "kelime": "سِتَّ قِصَصٍ", "kok": "س د س", "gramer": "قِصَّةٌ (dişil) → ة'siz sayı (سِتَّ)", "tr": "altı hikâye" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m11_r1_q1", "soru": "Yazar pazartesi, salı ve çarşamba günleri saat kaçta üniversiteye gider?", "secenekler": ["Sabah 08:30'da", "Sabah 10:15'te", "Öğle 12:30'da", "İkindi 14:45'te"], "dogruIndeks": 0, "aciklama": "'فِي السَّاعَةِ الثَّامِنَةِ وَالنِّصْفِ صَبَاحًا'." },
+        { "id": "m11_r1_q2", "soru": "Yazarın perşembe günü neden kütüphaneye gitmeye vakti vardır?", "secenekler": ["Çünkü perşembe günü sabah dersleri yoktur", "Çünkü okul kapalıdır", "Çünkü hastadır", "Çünkü tatildir"], "dogruIndeks": 0, "aciklama": "'يَوْمَ الْخَمِيسِ لَيْسَ عِنْدِي مُحَاضَرَاتٌ صَبَاحِيَّةٌ'." },
+        { "id": "m11_r1_q3", "soru": "Cuma günü beş arkadaşla saat kaçta buluşmaktadır?", "secenekler": ["Saat 02:45'te (üçe çeyrek kala)", "Saat 03:15'te", "Saat 03:30'da", "Saat 04:00'te"], "dogruIndeks": 0, "aciklama": "'فِي السَّاعَةِ الثَّالِثَةِ إِلَّا الرُّبْعَ' = üçe çeyrek kala." },
+        { "id": "m11_r1_q4", "soru": "Yazar dün evde kaldığında ne okudu?", "secenekler": ["Altı kısa hikâye", "Üç gazete", "On kitap", "İki dergi"], "dogruIndeks": 0, "aciklama": "'قَرَأْتُ سِتَّ قِصَصٍ قَصِيرَةٍ'." },
+        { "id": "m11_r1_q5", "soru": "'سِتَّ قِصَصٍ' ifadesinde سِتَّ neden ة'siz yazılmıştır?", "secenekler": ["قِصَصٍ kelimesinin tekili قِصَّةٌ dişil olduğu için 3–10 zıtlığı gereği sayı ة'siz gelir", "Çünkü nesne değildir", "Çünkü 1–2 kuralına uyar", "Çünkü çoğul eril olduğu için"], "dogruIndeks": 0, "aciklama": "قِصَّةٌ (K) ↔ سِتَّ (ة'siz)." }
+      ]
+    },
+    {
+      "id": "m11_r2",
+      "baslik": "Yılın Dört Güzel Mevsimi",
+      "arBaslik": "فُصُولُ السَّنَةِ الْأَرْبَعَةُ",
+      "seviye": "A1",
+      "paragraflar": [
+        {
+          "ar": "فِي السَّنَةِ أَرْبَعَةُ فُصُولٍ جَمِيلَةٍ وَمُتَنَوِّعَةٍ: الرَّبِيعُ، وَالصَّيْفُ، وَالْخَرِيفُ، وَالشِّتَاءُ. يَتَكَوَّنُ كُلُّ فَصْلٍ مِنْ ثَلَاثَةِ أَشْهُرٍ، وَلَيْسَ فَصْلٌ أَقَلَّ جَمَالًا مِنْ غَيْرِهِ.",
+          "okunus": "Fi's-seneti erba‘atu fusûlin cemîletin ve mutenevvi‘atin: er-rabî‘u, ve's-sayfu, ve'l-harîfu, ve'ş-şitâu. Yetekevvenu kullu faslin min selâseti eşhurin, ve leyse faslun ekalle cemâlen min gayrihi.",
+          "tr": "Yılda dört güzel ve çeşitli mevsim vardır: İlkbahar, yaz, sonbahar ve kış. Her mevsim üç aydan oluşur ve hiçbir mevsim diğerinden daha az güzel değildir.",
+          "analiz": [
+            { "kelime": "أَرْبَعَةُ فُصُولٍ", "kok": "ف ص ل", "gramer": "فَصْلٌ (eril) → ة'li sayı (أَرْبَعَةُ)", "tr": "dört mevsim" },
+            { "kelime": "ثَلَاثَةِ أَشْهُرٍ", "kok": "ش ه ر", "gramer": "شَهْرٌ (eril) → ة'li sayı (ثَلَاثَةِ, mecrûr)", "tr": "üç ay" }
+          ]
+        },
+        {
+          "ar": "فِي فَصْلِ الرَّبِيعِ يَعْتَدِلُ الطَّقْسُ، فَلَيْسَ الْجَوُّ حَارًّا وَلَا بَارِدًا. تَخْضَرُّ الْأَشْجَارُ وَتَتَفَتَّحُ الْأَزْهَارُ الْمُلَوَّنَةُ، وَتُغَرِّدُ الْعَصَافِيرُ فِي الصَّبَاحِ الْبَاكِرِ.",
+          "okunus": "Fî fasli'r-rabî‘i ya‘tedilu't-taksu, fe-leyse'l-cevvu hârran ve lâ bâridan. Tahdarru'l-eşcâru ve tetefettehu'l-ezhâru'l-mulevvenetu, ve tugarridu'l-‘asâfîru fi's-sabâhi'l-bâkiri.",
+          "tr": "İlkbahar mevsiminde hava ılımanlaşır; hava ne sıcaktır ne de soğuktur. Ağaçlar yeşerir, renkli çiçekler açar ve serçeler sabah erkenden cıvıldar.",
+          "analiz": [
+            { "kelime": "لَيْسَ الْجَوُّ حَارًّا", "kok": "ل ي س", "gramer": "لَيْسَ + merfû isim + mansub haber", "tr": "hava sıcak değil" },
+            { "kelime": "تَتَفَتَّحُ الْأَزْهَارُ", "kok": "ف ت ح", "gramer": "Akılsız çoğul + tekil müennes muzâri", "tr": "çiçekler açar" }
+          ]
+        },
+        {
+          "ar": "بَعْدَ الرَّبِيعِ يَأْتِي الصَّيْفُ؛ فَتَطُولُ أَيَّامُهُ وَتَقْصُرُ لَيَالِيهِ. يُسَافِرُ النَّاسُ إِلَى الشَّوَاطِئِ وَالْجِبَالِ وَيَأْكُلُونَ الْفَوَاكِهَ اللَّذِيذَةَ. ثُمَّ يَأْتِي الْخَرِيفُ فَتَتَسَاقَطُ أَوْرَاقُ الْأَشْجَارِ الصَّفْرَاءُ وَتَبْدَأُ الْمَدَارِسُ.",
+          "okunus": "Ba‘de'r-rabî‘i ye'ti's-sayfu; fe-tatûlu eyyâmuhu ve taksuru leyâlîhi. Yusâfiru'n-nâsu ile'ş-şevâtii ve'l-cibâli ve ye'kulûne'l-fevâkihe'l-lezîzete. Summe ye'ti'l-harîfu fe-tetesâkatu evrâku'l-eşcâri's-safrâu ve tebdeu'l-medârisu.",
+          "tr": "İlkbahardan sonra yaz gelir; günleri uzar ve geceleri kısalır. İnsanlar sahillere ve dağlara seyahat eder, lezzetli meyveler yerler. Sonra sonbahar gelir; sarı ağaç yaprakları dökülür ve okullar başlar.",
+          "analiz": [
+            { "kelime": "تَطُولُ أَيَّامُهُ", "kok": "ط و ل", "gramer": "Akılsız çoğul (أَيَّام) → tekil müennes muzâri", "tr": "günleri uzar" },
+            { "kelime": "الْخَرِيفُ", "kok": "خ ر ف", "gramer": "Mevsim ismi (sonbahar)", "tr": "sonbahar" }
+          ]
+        },
+        {
+          "ar": "أَمَّا الشِّتَاءُ فَهُوَ فَصْلُ الْمَطَرِ وَالثَّلْجِ وَالْبَرَكَةِ. لَا يَخْرُجُ الْأَطْفَالُ كَثِيرًا فِي اللَّيَالِي الْبَارِدَةِ، بَلْ يَجْلِسُونَ مَعَ عَائِلَاتِهِمْ وَيَشْرَبُونَ السَّحْلَبَ وَالشَّايَ السَّاخِنَ. سُبْحَانَ اللّٰهِ الَّذِي خَلَقَ هٰذَا النِّظَامَ الْبَدِيعَ!",
+          "okunus": "Emmâ'ş-şitâu fe-huve faslu'l-matari ve's-selci ve'l-beraketi. Lâ yahrucu'l-etfâlu kesîran fi'l-leyâli'l-bârideti, bel yeclisûne me‘a ‘âilâtihim ve yeşrabûne's-sahlebe ve'ş-şâye's-sâhine. Subhânallâhi'llezî halaka hâze'n-nizâme'l-bedî‘a!",
+          "tr": "Kış ise yağmur, kar ve bereket mevsimidir. Çocuklar soğuk gecelerde pek dışarı çıkmazlar; bilakis aileleriyle oturur, salep ve sıcak çay içerler. Bu muhteşem düzeni yaratan Allah'ı tesbih ederiz!",
+          "analiz": [
+            { "kelime": "لَا يَخْرُجُ", "kok": "خ ر ج", "gramer": "لَا + merfû muzâri olumsuzu", "tr": "çıkmaz" },
+            { "kelime": "فَصْلُ الْمَطَرِ", "kok": "ف ص ل", "gramer": "İsim tamlaması (izâfet)", "tr": "yağmur mevsimi" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m11_r2_q1", "soru": "Her mevsim kaç aydan oluşmaktadır?", "secenekler": ["Üç aydan", "Dört aydan", "Altı aydan", "İki aydan"], "dogruIndeks": 0, "aciklama": "'يَتَكَوَّنُ كُلُّ فَصْلٍ مِنْ ثَلَاثَةِ أَشْهُرٍ'." },
+        { "id": "m11_r2_q2", "soru": "Hangi mevsimde hava ne sıcak ne soğuktur?", "secenekler": ["İlkbaharda", "Yazın", "Kışın", "Aralıkta"], "dogruIndeks": 0, "aciklama": "'فِي فَصْلِ الرَّبِيعِ يَعْتَدِلُ الطَّقْسُ، فَلَيْسَ الْجَوُّ حَارًّا وَلَا بَارِدًا'." },
+        { "id": "m11_r2_q3", "soru": "Yaz mevsiminin günleri ve geceleri nasıldır?", "secenekler": ["Günleri uzar, geceleri kısalır", "Günleri kısalır, geceleri uzar", "İkisi de her zaman eşittir", "Kar yağar"], "dogruIndeks": 0, "aciklama": "'فَتَطُولُ أَيَّامُهُ وَتَقْصُرُ لَيَالِيهِ'." },
+        { "id": "m11_r2_q4", "soru": "Okullar hangi mevsimde başlar?", "secenekler": ["Sonbaharda", "Kış ortasında", "Yaz ortasında", "İlkbaharda"], "dogruIndeks": 0, "aciklama": "'ثُمَّ يَأْتِي الْخَرِيفُ ... وَتَبْدَأُ الْمَدَارِسُ'." },
+        { "id": "m11_r2_q5", "soru": "'أَرْبَعَةُ فُصُولٍ' tamlamasında أَرْبَعَةُ neden ة'lidir?", "secenekler": ["فُصُولٍ kelimesinin tekili فَصْلٌ eril olduğu için 3–10 zıtlığı gereği sayı ة'li gelir", "Çünkü فَصْلٌ dişildir", "Çünkü sıfattır", "Çünkü harf-i cer almıştır"], "dogruIndeks": 0, "aciklama": "فَصْلٌ (E) ↔ أَرْبَعَةُ (ة'li)!" }
+      ]
+    },
+    {
+      "id": "m11_r3",
+      "baslik": "Sınıfımızdaki On Güzel Alışkanlık",
+      "arBaslik": "عَشْرُ عَادَاتٍ جَمِيلَةٍ فِي صَفِّنَا",
+      "seviye": "A1",
+      "paragraflar": [
+        {
+          "ar": "فِي صَفِّ اللُّغَةِ الْعَرَبِيَّةِ عَشَرَةُ طُلَّابٍ وَعَشْرُ طَالِبَاتٍ، وَلَنَا مُعَلِّمٌ حَكِيمٌ وَصَبُورٌ. لَيْسَ الصَّفُّ كَبِيرًا جِدًّا، وَلٰكِنَّهُ نَظِيفٌ وَمُشْرِقٌ وَمَلِيءٌ بِالْحَمَاسِ.",
+          "okunus": "Fî saffi'l-lugati'l-‘arabiyyeti ‘aşeratu tullâbin ve ‘aşru tâlibâtin, ve lenâ mu‘allimun hakîmun ve sabûrun. Leyse's-saffu kebîran cidden, ve lâkinnehu nazîfun ve muşrikun ve melîun bi'l-hamâsi.",
+          "tr": "Arapça sınıfında on erkek öğrenci ve on kız öğrenci vardır; bilge ve sabırlı bir öğretmenimiz var. Sınıf çok büyük değildir, fakat temiz, aydınlık ve heyecan doludur.",
+          "analiz": [
+            { "kelime": "عَشَرَةُ طُلَّابٍ / عَشْرُ طَالِبَاتٍ", "kok": "ع ش ر", "gramer": "10 sayısında ش harekesi + zıtlık (عَشَرَةُ vs عَشْرُ)", "tr": "on erkek / on kız öğrenci" },
+            { "kelime": "لَيْسَ الصَّفُّ كَبِيرًا", "kok": "ل ي س", "gramer": "لَيْسَ + merfû isim + mansub haber", "tr": "sınıf büyük değildir" }
+          ]
+        },
+        {
+          "ar": "اِتَّفَقْنَا فِي بِدَايَةِ السَّنَةِ عَلَى عَشْرِ عَادَاتٍ جَمِيلَةٍ. أَوَّلًا: نَصِلُ قَبْلَ السَّاعَةِ التَّاسِعَةِ بِخَمْسِ دَقَائِقَ وَلَا نَتَأَخَّرُ. ثَانِيًا: لَا نَسْتَخْدِمُ الْهَاتِفَ أَثْنَاءَ الدَّرْسِ أَبَدًا.",
+          "okunus": "İttefaknâ fî bidâyeti's-seneti ‘alâ ‘aşri ‘âdâtin cemîletin. Evvelen: nasilu kable's-sâ‘ati't-tâsi‘ati bi-hamsi dekâika ve lâ neteahharu. Sâniyen: lâ nestahdimu'l-hâtife esnâe'd-dersi ebeden.",
+          "tr": "Yılın başında on güzel alışkanlık üzerinde anlaştık. Birincisi: Saat dokuza beş dakika kala ulaşır ve geç kalmayız. İkincisi: Ders sırasında asla telefon kullanmayız.",
+          "analiz": [
+            { "kelime": "عَشْرِ عَادَاتٍ", "kok": "ع و د", "gramer": "عَادَةٌ (dişil) → عَشْرِ (ة'siz, mecrûr)", "tr": "on alışkanlık" },
+            { "kelime": "لَا نَسْتَخْدِمُ", "kok": "خ د م", "gramer": "لَا + 1. çoğul muzâri", "tr": "kullanmayız" }
+          ]
+        },
+        {
+          "ar": "ثَالِثًا: نَحْفَظُ كُلَّ يَوْمٍ سَبْعَ كَلِمَاتٍ جَدِيدَةٍ وَنَكْتُبُ ثَلَاثَ جُمَلٍ مُفِيدَةٍ. رَابِعًا: نَتَكَلَّمُ بِالْعَرَبِيَّةِ الْفُصْحَى دَاخِلَ الصَّفِّ وَلَا نَخْجَلُ مِنَ الْخَطَأِ، لِأَنَّ الْخَطَأَ طَرِيقُ التَّعَلُّمِ.",
+          "okunus": "Sâlisen: nahfazu kulle yevmin seb‘a kelimâtin cedîdetin ve nektubu selâse cumelin mufîdetin. Râbi‘an: netekellemu bi'l-‘arabiyyeti'l-fushâ dâhile's-saffi ve lâ nahcelu mine'l-hatai, li-enne'l-hatae tarîku't-te‘allumi.",
+          "tr": "Üçüncüsü: Her gün yedi yeni kelime ezberler ve üç faydalı cümle yazarız. Dördüncüsü: Sınıf içinde Fasih Arapça konuşur ve hata yapmaktan utanmayız; çünkü hata öğrenmenin yoludur.",
+          "analiz": [
+            { "kelime": "سَبْعَ كَلِمَاتٍ", "kok": "س ب ع", "gramer": "كَلِمَةٌ (K) → سَبْعَ (mansub, ة'siz)", "tr": "yedi kelime" },
+            { "kelime": "ثَلَاثَ جُمَلٍ", "kok": "ج م ل", "gramer": "جُمْلَةٌ (K) → ثَلَاثَ (mansub, ة'siz)", "tr": "üç cümle" }
+          ]
+        },
+        {
+          "ar": "فِي نِهَايَةِ كُلِّ شَهْرٍ نَقْرَأُ كِتَابًا وَاحِدًا وَنُقَدِّمُ عَرْضًا قَصِيرًا أَمَامَ الزُّمَلَاءِ. لَقَدْ مَرَّتْ ثَمَانِيَةُ أَشْهُرٍ عَلَى هٰذَا النِّظَامِ، وَمَا نَدِمَ أَحَدٌ مِنَّا، بَلْ أَصْبَحْنَا نَفْهَمُ الْعَرَبِيَّةَ بِثِقَةٍ وَفَرَحٍ!",
+          "okunus": "Fî nihâyeti kulli şehrin nekrau kitâben vâhiden ve nukaddimu ‘ardan kasîran emâme'z-zumelâi. Lekad merrat semâniyetu eşhurin ‘alâ hâze'n-nizâmi, ve mâ nedime ehadun minnâ, bel esbahnâ nefhemu'l-‘arabiyyete bi-sikatin ve ferahin!",
+          "tr": "Her ayın sonunda bir kitap okur ve arkadaşların önünde kısa bir sunum yaparız. Bu sistemin üzerinden sekiz ay geçti ve bizden kimse pişman olmadı; bilakis Arapçayı özgüven ve sevinçle anlar hâle geldik!",
+          "analiz": [
+            { "kelime": "ثَمَانِيَةُ أَشْهُرٍ", "kok": "ث م ن", "gramer": "شَهْرٌ (E) → ثَمَانِيَةُ (ة'li, merfû)", "tr": "sekiz ay" },
+            { "kelime": "مَا نَدِمَ", "kok": "ن د م", "gramer": "مَا + mâzi olumsuzu", "tr": "pişman olmadı" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m11_r3_q1", "soru": "Sınıfta toplam kaç öğrenci vardır?", "secenekler": ["Yirmi (10 erkek + 10 kız)", "On (5 erkek + 5 kız)", "On beş", "Otuz"], "dogruIndeks": 0, "aciklama": "'عَشَرَةُ طُلَّابٍ وَعَشْرُ طَالِبَاتٍ' = 20 öğrenci." },
+        { "id": "m11_r3_q2", "soru": "Öğrenciler sınıfa saat kaçta ulaşmaktadır?", "secenekler": ["08:55'te (dokuza beş kala)", "09:05'te", "09:30'da", "08:00'de"], "dogruIndeks": 0, "aciklama": "'قَبْلَ السَّاعَةِ التَّاسِعَةِ بِخَمْسِ دَقَائِقَ'." },
+        { "id": "m11_r3_q3", "soru": "Öğrenciler her gün kaç yeni kelime ezberliyorlar?", "secenekler": ["Yedi yeni kelime", "Üç kelime", "On beş kelime", "İki kelime"], "dogruIndeks": 0, "aciklama": "'نَحْفَظُ كُلَّ يَوْمٍ سَبْعَ كَلِمَاتٍ جَدِيدَةٍ'." },
+        { "id": "m11_r3_q4", "soru": "Bu sistemin üzerinden ne kadar süre geçmiştir?", "secenekler": ["Sekiz ay", "Üç hafta", "İki yıl", "Beş gün"], "dogruIndeks": 0, "aciklama": "'لَقَدْ مَرَّتْ ثَمَانِيَةُ أَشْهُرٍ'." },
+        { "id": "m11_r3_q5", "soru": "Metindeki 'كِتَابًا وَاحِدًا' ifadesinde sayı neden isimden sonra gelmiştir?", "secenekler": ["1 ve 2 sayıları isimden sonra sıfat olarak gelir ve tam uyum sağlar", "Çünkü 3–10 kuralına uyar", "Çünkü çoğuldur", "Çünkü olumsuz cümledir"], "dogruIndeks": 0, "aciklama": "1 ve 2 sayıları (وَاحِدٌ / اِثْنَانِ) daima sıfattır." }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "m11_d1",
+      "baslik": "Tren İstasyonunda Saat ve Bilet",
+      "ortam": "Yolcu gişede tren saatlerini ve kaç bilet alacağını konuşuyor",
+      "replikler": [
+        { "konusan": "المسافر", "ar": "السَّلَامُ عَلَيْكُمْ! لَوْ سَمَحْتَ، كَمِ السَّاعَةُ الْآنَ؟", "okunus": "Es-selâmu ‘aleykum! Lev semahte, kemi's-sâ‘atu'l-âne?", "tr": "Selamün aleyküm! Affedersiniz, şu an saat kaç?" },
+        { "konusan": "الموظف", "ar": "وَعَلَيْكُمُ السَّلَامُ! السَّاعَةُ الْآنَ الْعَاشِرَةُ وَالرُّبْعُ صَبَاحًا.", "okunus": "Ve ‘aleykumu's-selâmu! Es-sâ‘atu'l-âne'l-‘âşiratu ve'r-rub‘u sabâhan.", "tr": "Aleykümselam! Şu an saat sabah onu çeyrek geçiyor." },
+        { "konusan": "المسافر", "ar": "مَتَى يَنْطَلِقُ الْقِطَارُ التَّالِي إِلَى قُونْيَا؟", "okunus": "Metâ yentaliku'l-kitâru't-tâlî ilâ Kûnyâ?", "tr": "Konya'ya bir sonraki tren ne zaman kalkıyor?" },
+        { "konusan": "الموظف", "ar": "يَنْطَلِقُ فِي السَّاعَةِ الْحَادِيَةَ عَشْرَةَ إِلَّا الرُّبْعَ، أَيْ بَعْدَ نِصْفِ سَاعَةٍ.", "okunus": "Yentaliku fi's-sâ‘ati'l-hâdiyete ‘aşrate ille'r-rub‘a, ey ba‘de nısfi sâ‘atin.", "tr": "Saat on bire çeyrek kala, yani yarım saat sonra kalkıyor." },
+        { "konusan": "المسافر", "ar": "مُمْتَازٌ! هَلْ هٰذَا الْقِطَارُ بَطِيءٌ؟", "okunus": "Mumtâzun! Hel hâze'l-kitâru batîun?", "tr": "Harika! Bu tren yavaş mı?" },
+        { "konusan": "الموظف", "ar": "لَا، لَيْسَ بَطِيئًا أَبَدًا؛ هُوَ الْقِطَارُ السَّرِيعُ وَيَصِلُ فِي السَّاعَةِ الثَّانِيَةِ وَالنِّصْفِ.", "okunus": "Lâ, leyse batîen ebeden; huve'l-kitâru's-serî‘u ve yasilu fi's-sâ‘ati's-sâniyeti ve'n-nısfi.", "tr": "Hayır, hiç yavaş değil; hızlı trendir ve saat iki buçukta varır." },
+        { "konusan": "المسافر", "ar": "رَائِعٌ! أُرِيدُ ثَلَاثَ تَذَاكِرَ لِي وَلِزَوْجَتِي وَابْنِي، مِنْ فَضْلِكَ.", "okunus": "Râi‘un! Urîdu selâse tezâkira lî ve li-zevcetî ve'bnî, min fadlike.", "tr": "Harika! Lütfen kendim, eşim ve oğlum için üç bilet istiyorum." },
+        { "konusan": "الموظف", "ar": "حَاضِرٌ! هَلْ تُرِيدُونَ تَذَاكِرَ ذَهَابٍ وَإِيَابٍ أَمْ ذَهَابٍ فَقَطْ؟", "okunus": "Hâdirun! Hel turîdûne tezâkira zehâbin ve iyâbin em zehâbin fakat?", "tr": "Tamam! Gidiş-dönüş bileti mi yoksa sadece gidiş mi istersiniz?" },
+        { "konusan": "المسافر", "ar": "ذَهَابٍ وَإِيَابٍ، سَنَرْجِعُ يَوْمَ الْأَحَدِ فِي السَّاعَةِ السَّادِسَةِ مَسَاءً.", "okunus": "Zehâbin ve iyâbin, se-nerci‘u yevme'l-ehadi fi's-sâ‘ati's-sâdiseti mesâen.", "tr": "Gidiş-dönüş, pazar günü akşam saat altıda döneceğiz." },
+        { "konusan": "الموظف", "ar": "تَفَضَّلِ التَّذَاكِرَ الثَّلَاثَ! الْقِطَارُ يَنْطَلِقُ مِنَ الرَّصِيفِ الرَّابِعِ.", "okunus": "Tefaddali't-tezâkira's-selâse! El-kitâru yentaliku mine'r-rasîfi'r-râbi‘i.", "tr": "Buyurun üç bileti! Tren dördüncü perondan kalkıyor." },
+        { "konusan": "المسافر", "ar": "شُكْرًا جَزِيلًا لَكَ! هَلْ بَقِيَ وَقْتٌ كَافٍ لِشُرْبِ كُوبِ شَايٍ؟", "okunus": "Şukran cezîlen leke! Hel bakiye vaktun kâfin li-şurbi kûbi şâyin?", "tr": "Çok teşekkür ederim! Bir bardak çay içmek için yeterli vakit kaldı mı?" },
+        { "konusan": "الموظف", "ar": "نَعَمْ، لَسْتَ مُتَأَخِّرًا، بَقِيَتْ عِشْرُونَ دَقِيقَةً تَقْرِيبًا. رِحْلَةً سَعِيدَةً!", "okunus": "Ne‘am, leste muteahhiran, bakiyet ‘işrûne dakîkaten takrîben. Rihleten sa‘îdeten!", "tr": "Evet, geç kalmış değilsiniz, yaklaşık yirmi dakika kaldı. İyi yolculuklar!" }
+      ],
+      "partner": [
+        { "soruAr": "كَمِ السَّاعَةُ الْآنَ فِي الْحِوَارِ؟", "soruTr": "Diyalogda şu an saat kaç?", "ipucu": "Sabah 10:15 (الْعَاشِرَةُ وَالرُّبْعُ).", "secenekler": ["السَّاعَةُ الْعَاشِرَةُ وَالرُّبْعُ صَبَاحًا.", "السَّاعَةُ التَّاسِعَةُ وَالنِّصْفُ.", "السَّاعَةُ الثَّالِثَةُ تَمَامًا."], "dogruIndeks": 0, "aciklama": "10:15 = الْعَاشِرَةُ وَالرُّبْعُ." },
+        { "soruAr": "هَلِ الْقِطَارُ بَطِيءٌ؟", "soruTr": "Tren yavaş mı?", "ipucu": "Hayır, yavaş değil (لَيْسَ بَطِيئًا — mansub!).", "secenekler": ["لَا، لَيْسَ بَطِيئًا أَبَدًا.", "لَا، لَيْسَ بَطِيءٌ أَبَدًا.", "لَا، لَيْسَتْ بَطِيئًا."], "dogruIndeks": 0, "aciklama": "لَيْسَ + mansub haber: لَيْسَ بَطِيئًا." },
+        { "soruAr": "كَمْ تَذْكِرَةً طَلَبَ الْمُسَافِرُ؟", "soruTr": "Yolcu kaç bilet istedi?", "ipucu": "تَذْكِرَةٌ dişil → ة'siz sayı: ثَلَاثَ تَذَاكِرَ.", "secenekler": ["ثَلَاثَ تَذَاكِرَ.", "ثَلَاثَةَ تَذَاكِرَ.", "ثَلَاثُ تَذْكِرَةٍ."], "dogruIndeks": 0, "aciklama": "تَذْكِرَةٌ dişil olduğu için 3 sayısı ة'siz gelir: ثَلَاثَ تَذَاكِرَ." },
+        { "soruAr": "فِي أَيِّ يَوْمٍ سَيَرْجِعُ الْمُسَافِرُ؟", "soruTr": "Yolcu hangi gün dönecek?", "ipucu": "Pazar günü (يَوْمَ الْأَحَدِ).", "secenekler": ["يَوْمَ الْأَحَدِ مَسَاءً.", "يَوْمَ الْإِثْنَيْنِ صَبَاحًا.", "يَوْمَ الْخَمِيسِ."], "dogruIndeks": 0, "aciklama": "الْأَحَدُ = Pazar." },
+        { "soruAr": "كَيْفَ تَقُولُ 'أَنْتَ مُتَأَخِّرٌ' بِالنَّفْيِ (لَيْسَ)؟", "soruTr": "'Sen geç kalmışsın' cümlesini olumsuz ('Geç kalmış değilsin') yapın:", "ipucu": "لَسْتَ + mansub haber.", "secenekler": ["لَسْتَ مُتَأَخِّرًا.", "لَسْتَ مُتَأَخِّرٌ.", "لَيْسْتَ مُتَأَخِّرًا."], "dogruIndeks": 0, "aciklama": "2. tekil eril: لَسْتَ مُتَأَخِّرًا." }
+      ]
+    },
+    {
+      "id": "m11_d2",
+      "baslik": "Pazarda 1–10 Sayılarıyla Alışveriş",
+      "ortam": "Anne ve kızı semt pazarında taze sebze ve meyve alıyor",
+      "replikler": [
+        { "konusan": "الأم", "ar": "صَبَاحُ الْخَيْرِ يَا عَمُّ! هَلْ هٰذِهِ الْفَوَاكِهُ طَازَجَةٌ؟", "okunus": "Sabâhu'l-hayri yâ ‘ammu! Hel hâzihi'l-fevâkihu tâzecetun?", "tr": "Günaydın amca! Bu meyveler taze mi?" },
+        { "konusan": "البائع", "ar": "صَبَاحُ النُّورِ! نَعَمْ، قَطَفْنَاهَا الصَّبَاحَ، وَلَيْسَتْ قَدِيمَةً أَبَدًا!", "okunus": "Sabâhu'n-nûri! Ne‘am, katafnâhe's-sabâha, ve leyset kadîmeten ebeden!", "tr": "Günaydın! Evet, onları bu sabah topladık, hiç eski değiller!" },
+        { "konusan": "الأم", "ar": "مُمْتَازٌ! أَعْطِنِي خَمْسَ تُفَّاحَاتٍ حَمْرَاءَ وَسِتَّ بُرْتُقَالَاتٍ.", "okunus": "Mumtâzun! A‘tinî hamse tuffâhâtin hamrâe ve sitte burtukâlâtin.", "tr": "Harika! Bana beş kırmızı elma ve altı portakal ver." },
+        { "konusan": "البائع", "ar": "تَفَضَّلِي! وَهَلْ تُرِيدِينَ بَطِّيخَةً وَاحِدَةً؟ إِنَّهَا حُلْوَةٌ جِدًّا!", "okunus": "Tefaddalî! Ve hel turîdîne battîhaten vâhideten? İnnehâ hulvetun cidden!", "tr": "Buyurun! Bir tane karpuz ister misiniz? Çok tatlıdır!" },
+        { "konusan": "سلمى", "ar": "نَعَمْ يَا أُمِّي، أَنَا أُحِبُّ الْبَطِّيخَ فِي فَصْلِ الصَّيْفِ!", "okunus": "Ne‘am yâ ummî, ene uhibbu'l-battîha fî fasli's-sayfi!", "tr": "Evet anneciğim, yaz mevsiminde karpuzu çok severim!" },
+        { "konusan": "الأم", "ar": "حَسَنًا، خُذْ بَطِّيخَةً وَاحِدَةً، وَأَعْطِنَا أَرْبَعَةَ أَكْيَاسٍ صَغِيرَةٍ مِنْ فَضْلِكَ.", "okunus": "Hasenen, huz battîhaten vâhideten, ve a‘tinâ erba‘ate ekyâsin sagîratin min fadlike.", "tr": "Pekâlâ, bir karpuz alalım ve bize lütfen dört küçük poşet ver." },
+        { "konusan": "البائع", "ar": "مَاذَا أَيْضًا يَا سَيِّدَتِي؟ عِنْدِي خِيَارٌ وَطَمَاطِمُ وَلَيْمُونٌ.", "okunus": "Mâzâ eydan yâ seyyidetî? ‘İndî hiyârun ve tamâtimu ve leymûnun.", "tr": "Başka ne istersiniz hanımefendi? Salatalık, domates ve limonum var." },
+        { "konusan": "الأم", "ar": "أُرِيدُ سَبْعَ لَيْمُونَاتٍ وَثَمَانِيَ طَمَاطِمَ، لَا أُرِيدُ خِيَارًا الْيَوْمَ.", "okunus": "Urîdu seb‘a leymûnâtin ve semâniye tamâtime, lâ urîdu hiyâran el-yevme.", "tr": "Yedi limon ve sekiz domates istiyorum, bugün salatalık istemiyorum." },
+        { "konusan": "البائع", "ar": "هَلِ اشْتَرَيْتِ الْخُبْزَ مِنَ الْمَخْبَزِ أَيْضًا؟", "okunus": "Heli'şterayti'l-hubze mine'l-mahbezi eydan?", "tr": "Fırından ekmek de aldınız mı?" },
+        { "konusan": "الأم", "ar": "لَا، مَا اشْتَرَيْتُهُ بَعْدُ؛ سَأَشْتَرِي رَغِيفَيْنِ اثْنَيْنِ بَعْدَ قَلِيلٍ.", "okunus": "Lâ, me'şteraytuhu ba‘du; se-eşterî ragîfeyni'sneyni ba‘de kalîlin.", "tr": "Hayır, henüz almadım; az sonra iki somun ekmek alacağım." },
+        { "konusan": "البائع", "ar": "جَيِّدٌ جِدًّا! الْحِسَابُ لَيْسَ غَالِيًا: تِسْعُونَ لِيرَةً فَقَطْ.", "okunus": "Ceyyidun cidden! El-hisâbu leyse gâliyen: tis‘ûne lîraten fakat.", "tr": "Çok iyi! Hesap pahalı değil: Sadece doksan lira." },
+        { "konusan": "الأم", "ar": "تَفَضَّلْ، بَارَكَ اللّٰهُ فِي رِزْقِكَ يَا عَمُّ!", "okunus": "Tefaddal, bârakallâhu fî rizkike yâ ‘ammu!", "tr": "Buyurun, Allah rızkınızı bereketlendirsin amca!" }
+      ],
+      "partner": [
+        { "soruAr": "كَمْ تُفَّاحَةً طَلَبَتِ الْأُمُّ؟", "soruTr": "Anne kaç elma istedi?", "ipucu": "تُفَّاحَةٌ dişil → ة'siz sayı: خَمْسَ تُفَّاحَاتٍ.", "secenekler": ["خَمْسَ تُفَّاحَاتٍ.", "خَمْسَةَ تُفَّاحَاتٍ.", "خَمْسُ تُفَّاحَةٍ."], "dogruIndeks": 0, "aciklama": "تُفَّاحَةٌ dişil olduğu için خَمْسَ (ة'siz) kullanılır." },
+        { "soruAr": "لِمَاذَا قَالَتِ الْأُمُّ 'أَرْبَعَةَ أَكْيَاسٍ' بِالتَّاءِ الْمَرْبُوطَةِ؟", "soruTr": "Anne neden 'أَرْبَعَةَ أَكْيَاسٍ' derken sayıyı ة'li söyledi?", "ipucu": "أَكْيَاسٍ tekili كِيسٌ (eril) olduğu için!", "secenekler": ["Çünkü كِيسٌ (tekili) erildir; 3–10 zıtlığı gereği sayı ة'li gelir", "Çünkü كِيسٌ dişildir", "Çünkü 1–2 kuralıdır"], "dogruIndeks": 0, "aciklama": "كِيسٌ (E) ↔ أَرْبَعَةَ (ة'li)." },
+        { "soruAr": "هَلِ اشْتَرَتِ الْأُمُّ الْخُبْزَ؟", "soruTr": "Anne ekmeği aldı mı?", "ipucu": "Hayır, henüz almadı (مَا اشْتَرَتْهُ بَعْدُ).", "secenekler": ["لَا، مَا اشْتَرَتْهُ بَعْدُ.", "لَا، لَا اشْتَرَتْهُ بَعْدُ.", "لَا، لَيْسَ اشْتَرَتْهُ."], "dogruIndeks": 0, "aciklama": "Mâzi olumsuzu مَا ile yapılır." },
+        { "soruAr": "كَيْفَ نَصِفُ: 'Fiyat pahalı değildir'?", "soruTr": "'Fiyat pahalı değil' nasıl söylenir?", "ipucu": "لَيْسَ + mansub haber (غَالِيًا).", "secenekler": ["السِّعْرُ لَيْسَ غَالِيًا.", "السِّعْرُ لَيْسَ غَالٍ.", "السِّعْرُ لَا غَالِيًا."], "dogruIndeks": 0, "aciklama": "لَيْسَ غَالِيًا." },
+        { "soruAr": "كَمْ رَغِيفًا سَتَشْتَرِي الْأُمُّ؟", "soruTr": "Anne kaç somun ekmek alacak?", "ipucu": "İki somun (رَغِيفَيْنِ اثْنَيْنِ).", "secenekler": ["رَغِيفَيْنِ اثْنَيْنِ.", "رَغِيفَانِ اثْنَتَانِ.", "اِثْنَيْنِ أَرْغِفَةٍ."], "dogruIndeks": 0, "aciklama": "2 sayısı isimden sonra sıfat gibi tam uyar." }
+      ]
+    },
+    {
+      "id": "m11_d3",
+      "baslik": "Randevu Planlama ve Gün Seçimi",
+      "ortam": "İki iş arkadaşı toplantı günü ve saatini ayarlıyor",
+      "replikler": [
+        { "konusan": "طارق", "ar": "أَهْلًا يَا كَرِيمُ! مَتَى نَعْقِدُ اجْتِمَاعَ الْفَرِيقِ هٰذَا الْأُسْبُوعَ؟", "okunus": "Ehlen yâ Kerîmu! Metâ na‘kidu'ctimâ‘a'l-ferîki hâze'l-usbû‘a?", "tr": "Merhaba Kerim! Bu hafta ekip toplantısını ne zaman yapalım?" },
+        { "konusan": "كريم", "ar": "يَوْمَ الْإِثْنَيْنِ لَسْتُ مَوْجُودًا فِي الْمَكْتَبِ، عِنْدِي سَفَرٌ قَصِيرٌ.", "okunus": "Yevme'l-isneyni lestu mevcûden fi'l-mektebi, ‘indî seferun kasîrun.", "tr": "Pazartesi günü ofiste değilim, kısa bir seyahatim var." },
+        { "konusan": "طارق", "ar": "مَا رَأْيُكَ فِي يَوْمِ الثُّلَاثَاءِ فِي السَّاعَةِ الْعَاشِرَةِ صَبَاحًا؟", "okunus": "Mâ ra'yuke fî yevmi's-sulâsâi fi's-sâ‘ati'l-‘âşirati sabâhan?", "tr": "Salı günü sabah saat on hakkında ne dersin?" },
+        { "konusan": "كريم", "ar": "يَوْمَ الثُّلَاثَاءِ صَبَاحًا لَا أَسْتَطِيعُ، لِأَنَّ عِنْدِي مَوْعِدًا عِنْدَ طَبِيبِ الْأَسْنَانِ.", "okunus": "Yevme's-sulâsâi sabâhan lâ estatî‘u, li-enne ‘indî mev‘iden ‘inde tabîbi'l-esnâni.", "tr": "Salı sabahı yapamam, çünkü diş doktorunda randevum var." },
+        { "konusan": "طارق", "ar": "طَيِّبٌ، هَلْ يَوْمُ الْأَرْبِعَاءِ مُنَاسِبٌ لَكَ وَلِلزُّمَلَاءِ؟", "okunus": "Tayyibun, hel yevmu'l-erbi‘âi munâsibun leke ve li'z-zumelâi?", "tr": "Peki, çarşamba günü sana ve arkadaşlara uygun mu?" },
+        { "konusan": "كريم", "ar": "نَعَمْ! يَوْمُ الْأَرْبِعَاءِ مُمْتَازٌ! فِي أَيِّ سَاعَةٍ نَبْدَأُ؟", "okunus": "Ne‘am! Yevmu'l-erbi‘âi mumtâzun! Fî eyyi sâ‘atin nebdeu?", "tr": "Evet! Çarşamba günü harika! Saat kaçta başlayalım?" },
+        { "konusan": "طارق", "ar": "مَا رَأْيُكَ فِي السَّاعَةِ الثَّانِيَةِ وَالثُّلُثِ بَعْدَ الظُّهْرِ؟", "okunus": "Mâ ra'yuke fi's-sâ‘ati's-sâniyeti ve's-sulusi ba‘de'z-zuhri?", "tr": "Öğleden sonra saat ikiyi yirmi geçe (14:20) nasıl?" },
+        { "konusan": "كريم", "ar": "مُنَاسِبٌ جِدًّا! كَمْ شَخْصًا سَيَحْضُرُ الِاجْتِمَاعَ؟", "okunus": "Munâsibun cidden! Kem şahsan se-yahduru'l-ictimâ‘a?", "tr": "Çok uygun! Toplantıya kaç kişi katılacak?" },
+        { "konusan": "طارق", "ar": "سَيَحْضُرُ سِتَّةُ مُهَنْدِسِينَ وَأَرْبَعُ مُهَنْدِسَاتٍ، أَيْ عَشَرَةُ أَشْخَاصٍ.", "okunus": "Se-yahduru sittetu muhendisîne ve erba‘u muhendisâtin, ey ‘aşeratu eşhâsin.", "tr": "Altı erkek mühendis ve dört kadın mühendis, yani on kişi katılacak." },
+        { "konusan": "كريم", "ar": "هَلِ الِاجْتِمَاعُ طَوِيلٌ؟ عِنْدِي دَرْسٌ فِي السَّاعَةِ الْخَامِسَةِ.", "okunus": "Heli'l-ictimâ‘u tavîlun? ‘İndî dersun fi's-sâ‘ati'l-hâmiseti.", "tr": "Toplantı uzun mu? Saat beşte dersim var." },
+        { "konusan": "طارق", "ar": "لَا، لَيْسَ طَوِيلًا؛ سَيَنْتَهِي فِي السَّاعَةِ الرَّابِعَةِ إِلَّا عَشْرَ دَقَائِقَ.", "okunus": "Lâ, leyse tavîlen; se-yentehî fi's-sâ‘ati'r-râbi‘ati illâ ‘aşra dekâika.", "tr": "Hayır, uzun değil; saat dörde on dakika kala (15:50) bitecek." },
+        { "konusan": "كريم", "ar": "مُمْتَازٌ! سَأُحَضِّرُ تَقْرِيرَ الْمَشْرُوعِ قَبْلَ يَوْمِ الْأَرْبِعَاءِ، أَرَاكَ عَلَى خَيْرٍ!", "okunus": "Mumtâzun! Se-uhaddiru takrîra'l-meşrû‘i kable yevmi'l-erbi‘âi, erâke ‘alâ hayrin!", "tr": "Harika! Çarşamba gününden önce proje raporunu hazırlayacağım, hayırla görüşürüz!" }
+      ],
+      "partner": [
+        { "soruAr": "فِي أَيِّ يَوْمٍ سَيُعْقَدُ الِاجْتِمَاعُ؟", "soruTr": "Toplantı hangi gün yapılacak?", "ipucu": "Çarşamba günü (يَوْمَ الْأَرْبِعَاءِ).", "secenekler": ["يَوْمَ الْأَرْبِعَاءِ.", "يَوْمَ الْإِثْنَيْنِ.", "يَوْمَ الثُّلَاثَاءِ."], "dogruIndeks": 0, "aciklama": "Çarşamba = الْأَرْبِعَاءُ." },
+        { "soruAr": "فِي أَيِّ سَاعَةٍ يَبْدَأُ الِاجْتِمَاعُ؟", "soruTr": "Toplantı saat kaçta başlıyor?", "ipucu": "Öğleden sonra 14:20 (الثَّانِيَةِ وَالثُّلُثِ).", "secenekler": ["فِي السَّاعَةِ الثَّانِيَةِ وَالثُّلُثِ بَعْدَ الظُّهْرِ.", "فِي السَّاعَةِ الثَّانِيَةِ وَالنِّصْفِ.", "فِي السَّاعَةِ الْعَاشِرَةِ صَبَاحًا."], "dogruIndeks": 0, "aciklama": "وَالثُّلُثُ = yirmi geçiyor." },
+        { "soruAr": "كَمْ مُهَنْدِسًا وَكَمْ مُهَنْدِسَةً سَيَحْضُرُونَ؟", "soruTr": "Kaç erkek ve kaç kadın mühendis katılacak?", "ipucu": "6 erkek mühendis (سِتَّةُ مُهَنْدِسِينَ) ve 4 kadın mühendis (أَرْبَعُ مُهَنْدِسَاتٍ).", "secenekler": ["سِتَّةُ مُهَنْدِسِينَ وَأَرْبَعُ مُهَنْدِسَاتٍ.", "سِتُّ مُهَنْدِسِينَ وَأَرْبَعَةُ مُهَنْدِسَاتٍ.", "سِتَّةُ مُهَنْدِسُونَ."], "dogruIndeks": 0, "aciklama": "3–10 zıtlığı + çoğul mecrûr (ـِينَ / ـَاتٍ)." },
+        { "soruAr": "مَتَى يَنْتَهِي الِاجْتِمَاعُ؟", "soruTr": "Toplantı ne zaman bitiyor?", "ipucu": "15:50'de (الرَّابِعَةِ إِلَّا عَشْرَ دَقَائِقَ).", "secenekler": ["فِي السَّاعَةِ الرَّابِعَةِ إِلَّا عَشْرَ دَقَائِقَ.", "فِي السَّاعَةِ الْخَامِسَةِ تَمَامًا.", "فِي السَّاعَةِ الثَّامِنَةِ."], "dogruIndeks": 0, "aciklama": "Dörde on kala = الرَّابِعَةِ إِلَّا عَشْرَ دَقَائِقَ." },
+        { "soruAr": "لِمَاذَا لَا يَسْتَطِيعُ كَرِيمٌ يَوْمَ الْإِثْنَيْنِ؟", "soruTr": "Kerim pazartesi günü neden katılamıyor?", "ipucu": "Ofiste değil (لَسْتُ مَوْجُودًا → لَيْسَ مَوْجُودًا).", "secenekler": ["لِأَنَّهُ لَيْسَ مَوْجُودًا فِي الْمَكْتَبِ.", "لِأَنَّهُ نَائِمٌ.", "لِأَنَّ الْيَوْمَ عُطْلَةٌ."], "dogruIndeks": 0, "aciklama": "لَيْسَ مَوْجُودًا = mevcut değil / yok." }
+      ]
+    },
+    {
+      "id": "m11_d4",
+      "baslik": "A1 Seviyesi Biterken Kutlama Sohbeti",
+      "ortam": "Öğrenci ve hoca Faz 1'in (Modül 01–11) tamamlanmasını kutluyor",
+      "replikler": [
+        { "konusan": "الأستاذ", "ar": "أَلْفُ مَبْرُوكٍ يَا سَمِيرُ! لَقَدْ أَنْهَيْتَ جَمِيعَ دُرُوسِ الْمُسْتَوَى الْأَوَّلِ!", "okunus": "Elfu mebrûkin yâ Semîru! Lekad enheyte cemî‘a durûsi'l-musteve'l-evveli!", "tr": "Binlerce tebrikler Samir! Birinci seviyenin tüm derslerini gerçekten bitirdin!" },
+        { "konusan": "سمير", "ar": "شُكْرًا جَزِيلًا يَا أُسْتَاذُ! لَوْلَا مُسَاعَدَتُكَ مَا وَصَلْتُ إِلَى هٰذَا الْمُسْتَوَى.", "okunus": "Şukran cezîlen yâ ustâzu! Levlâ musâ‘adetuke mâ vasaltu ilâ hâze'l-mustevâ.", "tr": "Çok teşekkürler hocam! Yardımınız olmasaydı bu seviyeye ulaşamazdım." },
+        { "konusan": "الأستاذ", "ar": "قَبْلَ ثَلَاثَةِ أَشْهُرٍ مَا كُنْتَ تَعْرِفُ إِلَّا الْحُرُوفَ، وَالْآنَ تَتَكَلَّمُ وَتَقْرَأُ بِثِقَةٍ!", "okunus": "Kable selâseti eşhurin mâ kunte ta‘rifu ille'l-hurûfe, ve'l-âne tetekellemu ve takrau bi-sikatin!", "tr": "Üç ay önce sadece harfleri biliyordun, şimdi ise özgüvenle konuşuyor ve okuyorsun!" },
+        { "konusan": "سمير", "ar": "حَقًّا! فِي الْبِدَايَةِ ظَنَنْتُ أَنَّ الْعَرَبِيَّةَ صَعْبَةٌ، وَلٰكِنَّهَا لَيْسَتْ صَعْبَةً أَبَدًا!", "okunus": "Hakkan! Fi'l-bidâyeti zanentu enne'l-‘arabiyyete sa‘betun, ve lâkinnehâ leyset sa‘beten ebeden!", "tr": "Gerçekten! Başlangıçta Arapçanın zor olduğunu sandım ama hiç de zor değilmiş!" },
+        { "konusan": "الأستاذ", "ar": "كَمْ سَاعَةً دَرَسْتَ فِي الْأُسْبُوعِ خِلَالَ هٰذِهِ الْمَرْحَلَةِ؟", "okunus": "Kem sâ‘aten dereste fi'l-usbû‘i hilâle hâzihi'l-merhaleti?", "tr": "Bu aşama boyunca haftada kaç saat çalıştın?" },
+        { "konusan": "سمير", "ar": "دَرَسْتُ سَبْعَ سَاعَاتٍ فِي الْأُسْبُوعِ تَقْرِيبًا؛ سَاعَةً وَاحِدَةً كُلَّ يَوْمٍ.", "okunus": "Derestu seb‘a sâ‘âtin fi'l-usbû‘i takrîben; sâ‘aten vâhideten kulle yevmin.", "tr": "Haftada yaklaşık yedi saat çalıştım; her gün bir saat." },
+        { "konusan": "الأستاذ", "ar": "هٰذَا هُوَ السِّرُّ: سَاعَةٌ وَاحِدَةٌ كُلَّ يَوْمٍ لَا تُتْعِبُكَ وَتَصْنَعُ مُعْجِزَةً!", "okunus": "Hâzâ huve's-sirru: sâ‘atun vâhidetun kulle yevmin lâ tut‘ibuke ve tasna‘u mu‘cizeten!", "tr": "İşte sır bu: Her gün bir saat seni yormaz ve mucize yaratır!" },
+        { "konusan": "سمير", "ar": "مَتَى سَيَكُونُ الِامْتِحَانُ النِّهَائِيُّ لِلْمُسْتَوَى الْأَوَّلِ؟", "okunus": "Metâ se-yekûnu'l-imtihânu'n-nihâiyyu li'l-musteve'l-evveli?", "tr": "Birinci seviyenin büyük final sınavı ne zaman olacak?" },
+        { "konusan": "الأستاذ", "ar": "سَيَكُونُ يَوْمَ السَّبْتِ فِي السَّاعَةِ التَّاسِعَةِ وَالنِّصْفِ صَبَاحًا.", "okunus": "Se-yekûnu yevme's-sebti fi's-sâ‘ati't-tâsi‘ati ve'n-nısfi sabâhan.", "tr": "Cumartesi günü sabah saat dokuz buçukta olacak." },
+        { "konusan": "سمير", "ar": "أَنَا جَاهِزٌ تَمَامًا، وَلَسْتُ قَلِقًا أَبَدًا؛ فَقَدْ رَاجَعْتُ جَمِيعَ الْقَوَاعِدِ!", "okunus": "Ene câhizun temâmen, ve lestu kalikan ebeden; fe-kad râca‘tu cemî‘a'l-kavâ‘idi!", "tr": "Tamamen hazırım ve hiç endişeli değilim; çünkü tüm kuralları tekrar ettim!" },
+        { "konusan": "الأستاذ", "ar": "أَحْسَنْتَ! وَبَعْدَ النَّجَاحِ سَنَنْتَقِلُ مَعًا إِلَى الْمُسْتَوَى الثَّانِي وَأَبْوَابِ الْأَفْعَالِ!", "okunus": "Ahsente! Ve ba‘de'n-necâhi se-nentakilu me‘an ile'l-musteve's-sânî ve ebvâbi'l-ef‘âli!", "tr": "Aferin! Başarıdan sonra birlikte ikinci seviyeye ve fiil bablarına geçeceğiz!" },
+        { "konusan": "سمير", "ar": "أَنَا مُتَحَمِّسٌ جِدًّا! جَزَاكَ اللّٰهُ خَيْرًا يَا أُسْتَاذِي الْعَزِيزَ!", "okunus": "Ene mutehammisun cidden! Cezâkallâhu hayran yâ ustâzi'l-‘azîze!", "tr": "Çok heyecanlıyım! Allah sizden razı olsun değerli hocam!" }
+      ],
+      "partner": [
+        { "soruAr": "كَمْ سَاعَةً دَرَسَ سَمِيرٌ فِي الْأُسْبُوعِ؟", "soruTr": "Samir haftada kaç saat çalıştı?", "ipucu": "سَاعَةٌ dişil → ة'siz sayı: سَبْعَ سَاعَاتٍ.", "secenekler": ["سَبْعَ سَاعَاتٍ فِي الْأُسْبُوعِ.", "سَبْعَةَ سَاعَاتٍ فِي الْأُسْبُوعِ.", "سَبْعُ سَاعَةٍ."], "dogruIndeks": 0, "aciklama": "سَاعَةٌ dişil olduğu için سَبْعَ (mansub, ة'siz)." },
+        { "soruAr": "هَلِ اللُّغَةُ الْعَرَبِيَّةُ صَعْبَةٌ فِي رَأْيِ سَمِيرٍ الْآنَ؟", "soruTr": "Samir'e göre Arapça şimdi zor mu?", "ipucu": "Hayır, hiç zor değil (لَيْسَتْ صَعْبَةً أَبَدًا).", "secenekler": ["لَا، لَيْسَتْ صَعْبَةً أَبَدًا!", "لَا، لَيْسَ صَعْبَةٌ أَبَدًا!", "نَعَمْ، هِيَ صَعْبَةٌ جِدًّا."], "dogruIndeks": 0, "aciklama": "لَيْسَتْ + mansub müennes haber: صَعْبَةً." },
+        { "soruAr": "مَتَى الِامْتِحَانُ النِّهَائِيُّ لِلْمُسْتَوَى الْأَوَّلِ؟", "soruTr": "A1 final sınavı ne zaman?", "ipucu": "Cumartesi sabah 09:30'da.", "secenekler": ["يَوْمَ السَّبْتِ فِي السَّاعَةِ التَّاسِعَةِ وَالنِّصْفِ صَبَاحًا.", "يَوْمَ الْأَحَدِ مَسَاءً.", "يَوْمَ الْخَمِيسِ ظُهْرًا."], "dogruIndeks": 0, "aciklama": "التَّاسِعَةِ وَالنِّصْفِ = 09:30." },
+        { "soruAr": "هَلْ سَمِيرٌ قَلِقٌ مِنَ الِامْتِحَانِ؟", "soruTr": "Samir sınavdan endişeli mi?", "ipucu": "Hayır, endişeli değil (لَيْسَ قَلِقًا).", "secenekler": ["لَا، هُوَ لَيْسَ قَلِقًا أَبَدًا.", "لَا، هُوَ لَيْسَ قَلِقٌ.", "نَعَمْ، هُوَ لَسْتُ قَلِقًا."], "dogruIndeks": 0, "aciklama": "3. tekil eril لَيْسَ + mansub قَلِقًا." },
+        { "soruAr": "قَبْلَ كَمْ شَهْرٍ بَدَأَ سَمِيرٌ تَعَلُّمَ الْعَرَبِيَّةِ؟", "soruTr": "Samir Arapça öğrenmeye kaç ay önce başladı?", "ipucu": "شَهْرٌ eril → ة'li sayı: قَبْلَ ثَلَاثَةِ أَشْهُرٍ.", "secenekler": ["قَبْلَ ثَلَاثَةِ أَشْهُرٍ.", "قَبْلَ ثَلَاثِ أَشْهُرٍ.", "قَبْلَ ثَلَاثَةٍ شَهْرٍ."], "dogruIndeks": 0, "aciklama": "شَهْرٌ erildir → ثَلَاثَةِ أَشْهُرٍ." }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "id": "m11_fc01", "ar": "لَيْسَ", "harekesiz": "ليس", "okunus": "leyse", "tr": "değildir (İsim cümlesi olumsuzu)", "kok": "ل ي س", "vezin": "فِعْلٌ نَاقِصٌ", "turevler": [{ "ar": "لَسْتُ", "tr": "değilim" }, { "ar": "لَيْسَتْ", "tr": "değildir (K)" }], "ekBilgi": "İsmini merfû, haberini mansub yapar.", "ornek": "لَيْسَ الدَّرْسُ صَعْبًا.", "ornekTr": "Ders zor değildir.", "kullanimNotu": "Sükûnlu eklerde ortadaki ي düşer (لَسْتُ/لَسْتَ/لَسْنَا).", "tur": "fiil" },
+    { "id": "m11_fc02", "ar": "مَا", "harekesiz": "ما", "okunus": "mâ", "tr": "...-medi / -madı (Mâzi olumsuzu)", "kok": "—", "vezin": "حَرْفُ نَفْيٍ", "turevler": [{ "ar": "مَا ذَهَبْتُ", "tr": "gitmedim" }, { "ar": "مَا فَهِمْتُ", "tr": "anlamadım" }], "ekBilgi": "Mâzi fiilin önüne gelir ve hareke değiştirmez.", "ornek": "مَا نَزَلَ الْمَطَرُ أَمْسِ.", "ornekTr": "Dün yağmur yağmadı.", "kullanimNotu": "Soru مَا'sı ile cümle yapısından ayırt edilir.", "tur": "harf" },
+    { "id": "m11_fc03", "ar": "لَا", "harekesiz": "لا", "okunus": "lâ", "tr": "...-maz / -mıyor (Muzâri olumsuzu)", "kok": "—", "vezin": "حَرْفُ نَفْيٍ", "turevler": [{ "ar": "لَا أَعْرِفُ", "tr": "bilmiyorum" }, { "ar": "لَا يَتَأَخَّرُونَ", "tr": "geç kalmazlar" }], "ekBilgi": "Olumsuzluk (nefy) لَا'sı muzâriyi merfû bırakır.", "ornek": "لَا أَشْرَبُ الْقَهْوَةَ لَيْلًا.", "ornekTr": "Gece kahve içmem.", "kullanimNotu": "Yasaklama لَا'sı ise muzâriyi cezmeder (لَا تَكْتُبْ).", "tur": "harf" },
+    { "id": "m11_fc04", "ar": "السَّاعَةُ", "harekesiz": "الساعة", "okunus": "es-sâ‘atu", "tr": "saat", "kok": "س و ع", "vezin": "فَعَلَة", "turevler": [{ "ar": "سَاعَاتٌ", "tr": "saatler" }, { "ar": "كَمِ السَّاعَةُ؟", "tr": "saat kaç?" }], "ekBilgi": "Müennes olduğu için saat numaraları hep ة'li sıra sayısıyla gelir.", "ornek": "السَّاعَةُ السَّابِعَةُ وَالنِّصْفُ.", "ornekTr": "Saat yedi buçuk.", "kullanimNotu": "Çoğulu سَاعَاتٌ (dişil → أَرْبَعُ سَاعَاتٍ).", "tur": "isim" },
+    { "id": "m11_fc05", "ar": "الرُّبْعُ", "harekesiz": "الربع", "okunus": "er-rub‘u", "tr": "çeyrek (15 dakika / 1/4)", "kok": "ر ب ع", "vezin": "فُعْل", "turevler": [{ "ar": "وَالرُّبْعُ", "tr": "çeyrek geçiyor" }, { "ar": "إِلَّا الرُّبْعَ", "tr": "çeyrek var" }], "ekBilgi": "أَرْبَعَة (dört) kökünden kesir ismidir.", "ornek": "السَّاعَةُ الثَّالِثَةُ وَالرُّبْعُ.", "ornekTr": "Saat üçü çeyrek geçiyor.", "kullanimNotu": "إِلَّا sonrası mansub: إِلَّا الرُّبْعَ.", "tur": "isim" },
+    { "id": "m11_fc06", "ar": "النِّصْفُ", "harekesiz": "النصف", "okunus": "en-nısfu", "tr": "buçuk / yarım (30 dakika / 1/2)", "kok": "ن ص ف", "vezin": "فِعْل", "turevler": [{ "ar": "وَالنِّصْفُ", "tr": "buçuk" }, { "ar": "نِصْفُ سَاعَةٍ", "tr": "yarım saat" }], "ekBilgi": "Çoğulu أَنْصَافٌ.", "ornek": "أَسْتَيْقِظُ فِي السَّاعَةِ السَّادِسَةِ وَالنِّصْفِ.", "ornekTr": "Saat altı buçukta uyanırım.", "kullanimNotu": "Saat söylemede en sık kullanılan kesir.", "tur": "isim" },
+    { "id": "m11_fc07", "ar": "الثُّلُثُ", "harekesiz": "الثلث", "okunus": "es-sulusu", "tr": "yirmi dakika / üçte bir (1/3)", "kok": "ث ل ث", "vezin": "فُعُل", "turevler": [{ "ar": "وَالثُّلُثُ", "tr": "yirmi geçiyor" }, { "ar": "إِلَّا الثُّلُثَ", "tr": "yirmi var" }], "ekBilgi": "ثَلَاثَة (üç) kökünden kesir ismidir.", "ornek": "الِاجْتِمَاعُ فِي السَّاعَةِ الثَّانِيَةِ وَالثُّلُثِ.", "ornekTr": "Toplantı ikiyi yirmi geçe.", "kullanimNotu": "Saatlerin Arapçaya özgü en pratik ifadesidir.", "tur": "isim" },
+    { "id": "m11_fc08", "ar": "دَقِيقَةٌ", "harekesiz": "دقيقة", "okunus": "dakîkatun", "tr": "dakika", "kok": "د ق ق", "vezin": "فَعِيلَة", "turevler": [{ "ar": "دَقَائِقُ", "tr": "dakikalar" }, { "ar": "خَمْسُ دَقَائِقَ", "tr": "beş dakika" }], "ekBilgi": "Çoğulu دَقَائِقُ (gayr-i munsarif → tenvînsiz fetha ile mecrûr: خَمْسُ دَقَائِقَ!).", "ornek": "بَقِيَتْ عَشْرُ دَقَائِقَ.", "ornekTr": "On dakika kaldı.", "kullanimNotu": "دَقِيقَةٌ dişil olduğu için sayıları ة'siz gelir!", "tur": "isim" },
+    { "id": "m11_fc09", "ar": "تَمَامًا", "harekesiz": "تماما", "okunus": "temâmen", "tr": "tam / tamamen", "kok": "ت م م", "vezin": "فَعَالًا", "turevler": [{ "ar": "تَمَامٌ", "tr": "tamlık" }, { "ar": "مُمْتَازٌ", "tr": "mükemmel" }], "ekBilgi": "Tam saatlerde (:00) kullanılır.", "ornek": "السَّاعَةُ الثَّامِنَةُ تَمَامًا.", "ornekTr": "Saat tam sekiz.", "kullanimNotu": "Ayrıca 'tamamen anladım' (فَهِمْتُهُ تَمَامًا) anlamında kullanılır.", "tur": "zarf" },
+    { "id": "m11_fc10", "ar": "الْأَحَدُ", "harekesiz": "الأحد", "okunus": "el-ehadu", "tr": "Pazar günü", "kok": "أ ح د", "vezin": "أَفْعَل", "turevler": [{ "ar": "يَوْمَ الْأَحَدِ", "tr": "Pazar günü" }, { "ar": "وَاحِدٌ", "tr": "bir" }], "ekBilgi": "Arapçada haftanın 1. günüdür.", "ornek": "سَنَرْجِعُ يَوْمَ الْأَحَدِ.", "ornekTr": "Pazar günü döneceğiz.", "kullanimNotu": "Pazartesi ile karıştırma!", "tur": "isim" },
+    { "id": "m11_fc11", "ar": "الْإِثْنَيْنِ", "harekesiz": "الإثنين", "okunus": "el-isneyni", "tr": "Pazartesi günü", "kok": "ث ن ي", "vezin": "اِفْعَيْنِ", "turevler": [{ "ar": "يَوْمَ الْإِثْنَيْنِ", "tr": "Pazartesi günü" }, { "ar": "اِثْنَانِ", "tr": "iki" }], "ekBilgi": "Haftanın 2. günüdür (iki kökünden).", "ornek": "يَبْدَأُ الْأُسْبُوعُ يَوْمَ الْإِثْنَيْنِ.", "ornekTr": "Hafta pazartesi günü başlar.", "kullanimNotu": "يَوْمَ الْإِثْنَيْنِ kalıbıyla kullanılır.", "tur": "isim" },
+    { "id": "m11_fc12", "ar": "الثُّلَاثَاءُ", "harekesiz": "الثلاثاء", "okunus": "es-sulâsâu", "tr": "Salı günü", "kok": "ث ل ث", "vezin": "فُعَالَاء", "turevler": [{ "ar": "يَوْمَ الثُّلَاثَاءِ", "tr": "Salı günü" }, { "ar": "ثَلَاثَةٌ", "tr": "üç" }], "ekBilgi": "Haftanın 3. günüdür.", "ornek": "عِنْدِي مَوْعِدٌ يَوْمَ الثُّلَاثَاءِ.", "ornekTr": "Salı günü randevum var.", "kullanimNotu": "ثَلَاثَة (3) kökünden kolayca hatırlanır.", "tur": "isim" },
+    { "id": "m11_fc13", "ar": "الْأَرْبِعَاءُ", "harekesiz": "الأربعاء", "okunus": "el-erbi‘âu", "tr": "Çarşamba günü", "kok": "ر ب ع", "vezin": "أَفْعِلَاء", "turevler": [{ "ar": "يَوْمَ الْأَرْبِعَاءِ", "tr": "Çarşamba günü" }, { "ar": "أَرْبَعَةٌ", "tr": "dört" }], "ekBilgi": "Haftanın 4. günüdür.", "ornek": "الِاجْتِمَاعُ يَوْمَ الْأَرْبِعَاءِ.", "ornekTr": "Toplantı çarşamba günüdür.", "kullanimNotu": "أَرْبَعَة (4) kökünden hatırlanır.", "tur": "isim" },
+    { "id": "m11_fc14", "ar": "الْخَمِيسُ", "harekesiz": "الخميس", "okunus": "el-hamîsu", "tr": "Perşembe günü", "kok": "خ م س", "vezin": "فَعِيل", "turevler": [{ "ar": "يَوْمَ الْخَمِيسِ", "tr": "Perşembe günü" }, { "ar": "خَمْسَةٌ", "tr": "beş" }], "ekBilgi": "Haftanın 5. günüdür.", "ornek": "أُسَلِّمُ الْوَاجِبَ يَوْمَ الْخَمِيسِ.", "ornekTr": "Ödevi perşembe günü teslim ederim.", "kullanimNotu": "خَمْسَة (5) kökünden hatırlanır.", "tur": "isim" },
+    { "id": "m11_fc15", "ar": "الْجُمُعَةُ", "harekesiz": "الجمعة", "okunus": "el-cumu‘atu", "tr": "Cuma günü", "kok": "ج م ع", "vezin": "فُعُلَة", "turevler": [{ "ar": "يَوْمَ الْجُمُعَةِ", "tr": "Cuma günü" }, { "ar": "جَامِعٌ", "tr": "cami" }], "ekBilgi": "Toplanma (جَمَعَ) kökünden; haftanın 6. günüdür.", "ornek": "أُصَلِّي صَلَاةَ الْجُمُعَةِ فِي الْمَسْجِدِ.", "ornekTr": "Camide cuma namazını kılarım.", "kullanimNotu": "Türkçedeki Cuma kelimesiyle aynıdır.", "tur": "isim" },
+    { "id": "m11_fc16", "ar": "السَّبْتُ", "harekesiz": "السبت", "okunus": "es-sebtu", "tr": "Cumartesi günü", "kok": "س ب ت", "vezin": "فَعْل", "turevler": [{ "ar": "يَوْمَ السَّبْتِ", "tr": "Cumartesi günü" }, { "ar": "عُطْلَةٌ", "tr": "tatil" }], "ekBilgi": "Haftanın 7. günüdür.", "ornek": "الِامْتِحَانُ يَوْمَ السَّبْتِ صَبَاحًا.", "ornekTr": "Sınav cumartesi sabahıdır.", "kullanimNotu": "يَوْمَا السَّبْتِ وَالْأَحَدِ = hafta sonu.", "tur": "isim" },
+    { "id": "m11_fc17", "ar": "الرَّبِيعُ", "harekesiz": "الربيع", "okunus": "er-rabî‘u", "tr": "ilkbahar", "kok": "ر ب ع", "vezin": "فَعِيل", "turevler": [{ "ar": "فَصْلُ الرَّبِيعِ", "tr": "ilkbahar mevsimi" }, { "ar": "رَبِيعُ الْأَوَّلِ", "tr": "Rebiülevvel ayı" }], "ekBilgi": "4 mevsimden ilki.", "ornek": "تَتَفَتَّحُ الْأَزْهَارُ فِي فَصْلِ الرَّبِيعِ.", "ornekTr": "İlkbahar mevsiminde çiçekler açar.", "kullanimNotu": "Zıddı: الْخَرِيفُ (sonbahar).", "tur": "isim" },
+    { "id": "m11_fc18", "ar": "الصَّيْفُ", "harekesiz": "الصيف", "okunus": "es-sayfu", "tr": "yaz", "kok": "ص ي ف", "vezin": "فَعْل", "turevler": [{ "ar": "صَيْفِيٌّ", "tr": "yazlık" }, { "ar": "فِي الصَّيْفِ", "tr": "yazın" }], "ekBilgi": "Sıcak yaz mevsimi.", "ornek": "نُسَافِرُ إِلَى الْبَحْرِ فِي الصَّيْفِ.", "ornekTr": "Yazın denize seyahat ederiz.", "kullanimNotu": "Zıddı: الشِّتَاءُ (kış).", "tur": "isim" },
+    { "id": "m11_fc19", "ar": "الْخَرِيفُ", "harekesiz": "الخريف", "okunus": "el-harîfu", "tr": "sonbahar", "kok": "خ ر ف", "vezin": "فَعِيل", "turevler": [{ "ar": "فَصْلُ الْخَرِيفِ", "tr": "sonbahar mevsimi" }, { "ar": "خَرِيفِيٌّ", "tr": "sonbahara ait" }], "ekBilgi": "Yaprak dökümü ve okulların açılış mevsimi.", "ornek": "تَسْقُطُ الْأَوْرَاقُ فِي الْخَرِيفِ.", "ornekTr": "Sonbaharda yapraklar dökülür.", "kullanimNotu": "الرَّبِيعُ ile karıştırılmamalı.", "tur": "isim" },
+    { "id": "m11_fc20", "ar": "الشِّتَاءُ", "harekesiz": "الشتاء", "okunus": "eş-şitâu", "tr": "kış", "kok": "ش ت و", "vezin": "فِعَال", "turevler": [{ "ar": "شَتَوِيٌّ", "tr": "kışlık" }, { "ar": "فِي الشِّتَاءِ", "tr": "kışın" }], "ekBilgi": "Soğuk ve yağışlı mevsim.", "ornek": "يَنْزِلُ الثَّلْجُ فِي فَصْلِ الشِّتَاءِ.", "ornekTr": "Kış mevsiminde kar yağar.", "kullanimNotu": "Kur'an'da Kureyş Suresi'nde geçer (رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ).", "tur": "isim" },
+    { "id": "m11_fc21", "ar": "وَاحِدٌ", "harekesiz": "واحد", "okunus": "vâhidun", "tr": "bir (1)", "kok": "و ح د", "vezin": "فَاعِل", "turevler": [{ "ar": "وَاحِدَةٌ", "tr": "bir (K)" }, { "ar": "وَحِيدٌ", "tr": "tek / yalnız" }], "ekBilgi": "Sayılan isimden sonra sıfat olarak gelir ve cinsiyette tam uyar.", "ornek": "عِنْدِي قَلَمٌ وَاحِدٌ وَحَقِيبَةٌ وَاحِدَةٌ.", "ornekTr": "Bir kalemim ve bir çantam var.", "kullanimNotu": "1 ve 2 sayıları zıtlık kuralına girmez, tam uyar!", "tur": "sayi" },
+    { "id": "m11_fc22", "ar": "اِثْنَانِ", "harekesiz": "اثنان", "okunus": "isnâni", "tr": "iki (2)", "kok": "ث ن ي", "vezin": "اِفْعَانِ", "turevler": [{ "ar": "اِثْنَتَانِ", "tr": "iki (K)" }, { "ar": "اِثْنَيْنِ", "tr": "iki (mansub/mecrûr)" }], "ekBilgi": "Tesniye i'rabı alır (اِثْنَانِ / اِثْنَيْنِ); sıfat olarak isimden sonra gelir.", "ornek": "اِشْتَرَيْتُ كِتَابَيْنِ اثْنَيْنِ.", "ornekTr": "İki kitap satın aldım.", "kullanimNotu": "Hemzesi vasıl hemzesidir!", "tur": "sayi" },
+    { "id": "m11_fc23", "ar": "ثَلَاثَةٌ", "harekesiz": "ثلاثة", "okunus": "selâsetun", "tr": "üç (3)", "kok": "ث ل ث", "vezin": "فَعَالَة", "turevler": [{ "ar": "ثَلَاثُ", "tr": "üç (dişil isimle)" }, { "ar": "ثَالِثٌ", "tr": "üçüncü" }], "ekBilgi": "3–10 zıtlık kuralı başlar: eril isimle ة'li, dişil isimle ة'siz!", "ornek": "قَرَأْتُ ثَلَاثَةَ كُتُبٍ وَثَلَاثَ قِصَصٍ.", "ornekTr": "Üç kitap ve üç hikâye okudum.", "kullanimNotu": "Sayılan isim daima çoğul mecrûrdur.", "tur": "sayi" },
+    { "id": "m11_fc24", "ar": "أَرْبَعَةٌ", "harekesiz": "أربعة", "okunus": "erba‘atun", "tr": "dört (4)", "kok": "ر ب ع", "vezin": "أَفْعَلَة", "turevler": [{ "ar": "أَرْبَعُ", "tr": "dört (dişil isimle)" }, { "ar": "رَابِعٌ", "tr": "dördüncü" }], "ekBilgi": "3–10 zıtlık kuralına uyar.", "ornek": "فِي السَّنَةِ أَرْبَعَةُ فُصُولٍ.", "ornekTr": "Yılda dört mevsim vardır.", "kullanimNotu": "الرُّبْعُ (çeyrek) ve الْأَرْبِعَاءُ (çarşamba) aynı köktendir.", "tur": "sayi" },
+    { "id": "m11_fc25", "ar": "خَمْسَةٌ", "harekesiz": "خمسة", "okunus": "hamsetun", "tr": "beş (5)", "kok": "خ م س", "vezin": "فَعْلَة", "turevler": [{ "ar": "خَمْسُ", "tr": "beş (dişil isimle)" }, { "ar": "خَامِسٌ", "tr": "beşinci" }], "ekBilgi": "3–10 zıtlık kuralına uyar.", "ornek": "عِنْدِي خَمْسَةُ أَقْلَامٍ وَخَمْسُ دَفَاتِرَ.", "ornekTr": "Beş kalemim var.", "kullanimNotu": "الْخَمِيسُ (perşembe) aynı köktendir.", "tur": "sayi" },
+    { "id": "m11_fc26", "ar": "سِتَّةٌ", "harekesiz": "ستة", "okunus": "sittetun", "tr": "altı (6)", "kok": "س د س", "vezin": "فِعْلَة", "turevler": [{ "ar": "سِتُّ", "tr": "altı (dişil isimle)" }, { "ar": "سَادِسٌ", "tr": "altıncı" }], "ekBilgi": "Kökü س-د-س'dir (bu yüzden sıra sayısı سَادِسٌ olur!).", "ornek": "قَرَأْتُ سِتَّ قِصَصٍ فِي سِتَّةِ أَيَّامٍ.", "ornekTr": "Altı günde altı hikâye okudum.", "kullanimNotu": "سِتَّةٌ ↔ سَادِسٌ kök bağına dikkat et!", "tur": "sayi" },
+    { "id": "m11_fc27", "ar": "سَبْعَةٌ", "harekesiz": "سبعة", "okunus": "seb‘atun", "tr": "yedi (7)", "kok": "س ب ع", "vezin": "فَعْلَة", "turevler": [{ "ar": "سَبْعُ", "tr": "yedi (dişil isimle)" }, { "ar": "سَابِعٌ", "tr": "yedinci" }], "ekBilgi": "3–10 zıtlık kuralına uyar.", "ornek": "فِي الْأُسْبُوعِ سَبْعَةُ أَيَّامٍ.", "ornekTr": "Haftada yedi gün vardır.", "kullanimNotu": "أُسْبُوعٌ (hafta) kelimesi 'yedi' kökündendir!", "tur": "sayi" },
+    { "id": "m11_fc28", "ar": "ثَمَانِيَةٌ", "harekesiz": "ثمانية", "okunus": "semâniyetun", "tr": "sekiz (8)", "kok": "ث م ن", "vezin": "فَعَالِيَة", "turevler": [{ "ar": "ثَمَانِي", "tr": "sekiz (dişil isimle)" }, { "ar": "ثَامِنٌ", "tr": "sekizinci" }], "ekBilgi": "Dişil sayılanla muzâf olduğunda ثَمَانِي (yâ ile) yazılır.", "ornek": "مَرَّتْ ثَمَانِيَةُ أَشْهُرٍ.", "ornekTr": "Sekiz ay geçti.", "kullanimNotu": "ثَمَانِي طَالِبَاتٍ (dişil sayılanla).", "tur": "sayi" },
+    { "id": "m11_fc29", "ar": "تِسْعَةٌ", "harekesiz": "تسعة", "okunus": "tis‘atun", "tr": "dokuz (9)", "kok": "ت س ع", "vezin": "فِعْلَة", "turevler": [{ "ar": "تِسْعُ", "tr": "dokuz (dişil isimle)" }, { "ar": "تَاسِعٌ", "tr": "dokuzuncu" }], "ekBilgi": "3–10 zıtlık kuralına uyar.", "ornek": "حَفِظْتُ تِسْعَ كَلِمَاتٍ وَتِسْعَةَ أَفْعَالٍ.", "ornekTr": "Dokuz kelime ve dokuz fiil ezberledim.", "kullanimNotu": "تِسْعُونَ = doksan.", "tur": "sayi" },
+    { "id": "m11_fc30", "ar": "عَشَرَةٌ", "harekesiz": "عشرة", "okunus": "‘aşeratun", "tr": "on (10)", "kok": "ع ش ر", "vezin": "فَعَلَة", "turevler": [{ "ar": "عَشْرُ", "tr": "on (dişil isimle — ش sükûnlu!)" }, { "ar": "عَاشِرٌ", "tr": "onuncu" }], "ekBilgi": "Eril sayılanla عَشَرَةُ (fethalı ش), dişil sayılanla عَشْرُ (sükûnlu ش)!", "ornek": "فِي الصَّفِّ عَشَرَةُ طُلَّابٍ وَعَشْرُ طَالِبَاتٍ.", "ornekTr": "Sınıfta on erkek ve on kız öğrenci vardır.", "kullanimNotu": "ش harekesi en klasik sınav sorusudur!", "tur": "sayi" },
+    { "id": "m11_fc31", "ar": "أُسْبُوعٌ", "harekesiz": "أسبوع", "okunus": "usbû‘un", "tr": "hafta", "kok": "س ب ع", "vezin": "أُفْعُول", "turevler": [{ "ar": "أَسَابِيعُ", "tr": "haftalar" }, { "ar": "عُطْلَةُ نِهَايَةِ الْأُسْبُوعِ", "tr": "hafta sonu tatili" }], "ekBilgi": "س-ب-ع (yedi) kökündendir; çoğulu أَسَابِيعُ.", "ornek": "سَأُسَافِرُ فِي الْأُسْبُوعِ الْقَادِمِ.", "ornekTr": "Gelecek hafta seyahat edeceğim.", "kullanimNotu": "Zaman ifadelerinin temel taşıdır.", "tur": "isim" },
+    { "id": "m11_fc32", "ar": "شَهْرٌ", "harekesiz": "شهر", "okunus": "şehrun", "tr": "ay", "kok": "ش ه ر", "vezin": "فَعْل", "turevler": [{ "ar": "أَشْهُرٌ / شُهُورٌ", "tr": "aylar" }, { "ar": "شَهْرِيٌّ", "tr": "aylık" }], "ekBilgi": "Eril isimdir (bu yüzden 3–10 ile ة'li sayı alır: ثَلَاثَةُ أَشْهُرٍ!).", "ornek": "يَتَكَوَّنُ الْفَصْلُ مِنْ ثَلَاثَةِ أَشْهُرٍ.", "ornekTr": "Mevsim üç aydan oluşur.", "kullanimNotu": "أَشْهُرٌ azlık çoğulu 3–10 ile en doğal kullanımdır.", "tur": "isim" }
+  ]
+}

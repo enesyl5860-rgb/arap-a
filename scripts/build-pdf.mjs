@@ -280,6 +280,44 @@ function buildDocumentHtml({ title, arabicTitle, subtitle, badge, modules, final
 
   let finalHtml = '';
   if (finalData) {
+    const finalDialoguesHtml = (finalData.diyaloglar || [])
+      .map(
+        (d, di) => `
+        <div class="dialogue-block">
+          <h3>Diyalog ${di + 1}: ${esc(d.baslik)}</h3>
+          ${d.ortam ? `<div class="note">${esc(d.ortam)}</div>` : ''}
+          <table class="dlg-table">
+            <tbody>
+              ${(d.replikler || [])
+                .map(
+                  (line) => `
+                <tr>
+                  <td class="speaker">${esc(line.konusan)}</td>
+                  <td class="ar-cell">${esc(line.ar)}</td>
+                  <td>${esc(line.tr)}</td>
+                </tr>`
+                )
+                .join('')}
+            </tbody>
+          </table>
+        </div>`
+      )
+      .join('');
+
+    const finalReadingsHtml = (finalData.okumalar || [])
+      .map(
+        (r, ri) => `
+        <div class="reading-block">
+          <h3>Okuma ${ri + 1}: ${esc(r.baslik)}${r.arBaslik ? ` <span class="ar-inline">${esc(r.arBaslik)}</span>` : ''}</h3>
+          <div class="para-block">
+            <div class="ar-para">${esc(r.ar)}</div>
+            ${r.okunus ? `<div class="tr-line"><em>${esc(r.okunus)}</em></div>` : ''}
+            <div class="tr-line">${esc(r.tr)}</div>
+          </div>
+        </div>`
+      )
+      .join('');
+
     const examHtml = (finalData.sinav || [])
       .map((q, qi) => {
         const letter = String.fromCharCode(65 + q.dogruIndeks);
@@ -288,7 +326,9 @@ function buildDocumentHtml({ title, arabicTitle, subtitle, badge, modules, final
           answer: `${letter}) ${q.secenekler[q.dogruIndeks]}`,
           explanation: q.aciklama
         });
-        return `<div class="drill-item"><strong>${qi + 1}.</strong> ${esc(q.soru)}<div class="drill-opts">${q.secenekler
+        return `<div class="drill-item"><strong>${qi + 1}.</strong> ${esc(q.soru)}${
+          q.soruAr ? ` <span class="ar-inline">${esc(q.soruAr)}</span>` : ''
+        }<div class="drill-opts">${q.secenekler
           .map((o, oi) => `<span><strong>${String.fromCharCode(65 + oi)})</strong> ${esc(o)}</span>`)
           .join('')}</div></div>`;
       })
@@ -299,7 +339,13 @@ function buildDocumentHtml({ title, arabicTitle, subtitle, badge, modules, final
           <div class="chapter-kicker">SEVİYE SONU BÜYÜK FİNAL</div>
           <h2>${esc(finalData.title)}</h2>
           <div class="ar-chapter">${esc(finalData.arabicTitle)}</div>
+          ${finalData.description ? `<p>${esc(finalData.description)}</p>` : ''}
         </div>
+        <h2 class="section-heading">I. 10 Diyalog Senaryosu</h2>
+        ${finalDialoguesHtml}
+        <h2 class="section-heading">II. 10 Kapsamlı Okuma Metni</h2>
+        ${finalReadingsHtml}
+        <h2 class="section-heading">III. 20 Soruluk Çözümlü Değerlendirme Sınavı</h2>
         ${examHtml}
       </section>`;
   }

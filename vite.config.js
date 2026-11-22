@@ -11,6 +11,7 @@ export default defineConfig({
         manualChunks(id) {
           if (id.includes('node_modules/react')) return 'vendor-react';
           if (id.includes('node_modules/lucide-react')) return 'vendor-icons';
+          if (id.includes('/src/data/indexes/')) return 'data-indexes';
         }
       }
     }

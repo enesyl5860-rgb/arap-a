@@ -295,16 +295,45 @@ function validateFinal(filePath) {
   const fname = path.basename(filePath);
   const fin = JSON.parse(fs.readFileSync(filePath, 'utf8'));
   const tag = fin.id || fname;
+  if (!fin.title || !fin.arabicTitle) err(tag, 'title veya arabicTitle eksik');
+  assertVocalized(`${tag}.arabicTitle`, fin.arabicTitle, 0.45);
   if (!Array.isArray(fin.diyaloglar) || fin.diyaloglar.length < 10) {
     err(tag, `Büyük finalde en az 10 diyalog olmalı (bulunan: ${fin.diyaloglar?.length || 0})`);
+  } else {
+    fin.diyaloglar.forEach((d, di) => {
+      if (d.id) registerId(`${tag}.diyaloglar[${di}]`, d.id);
+      if (!d.baslik || !Array.isArray(d.replikler) || d.replikler.length < 4) {
+        err(`${tag}.diyaloglar[${di}]`, 'baslik eksik veya en az 4 replik olmalı');
+      } else {
+        d.replikler.forEach((line, li) => {
+          assertVocalized(`${tag}.diyaloglar[${di}].r[${li}]`, line.ar, 0.45);
+          if (!line.konusan || !line.tr) err(`${tag}.diyaloglar[${di}].r[${li}]`, 'konusan veya tr eksik');
+        });
+      }
+    });
   }
   if (!Array.isArray(fin.okumalar) || fin.okumalar.length < 10) {
     err(tag, `Büyük finalde en az 10 okuma metni olmalı (bulunan: ${fin.okumalar?.length || 0})`);
+  } else {
+    fin.okumalar.forEach((r, ri) => {
+      if (r.id) registerId(`${tag}.okumalar[${ri}]`, r.id);
+      assertVocalized(`${tag}.okumalar[${ri}].ar`, r.ar, 0.45);
+      if (!r.baslik || !r.tr) err(`${tag}.okumalar[${ri}]`, 'baslik veya tr eksik');
+    });
   }
   if (!Array.isArray(fin.sinav) || fin.sinav.length < 20) {
     err(tag, `Büyük finalde en az 20 sınav sorusu olmalı (bulunan: ${fin.sinav?.length || 0})`);
   } else {
-    fin.sinav.forEach((q, i) => registerId(`${tag}.sinav[${i}]`, q.id));
+    fin.sinav.forEach((q, i) => {
+      const qt = `${tag}.sinav[${i}]`;
+      registerId(qt, q.id);
+      if (!q.soru || !q.aciklama) err(qt, 'soru veya aciklama eksik');
+      if (!Array.isArray(q.secenekler) || q.secenekler.length < 4) {
+        err(qt, 'En az 4 seçenek olmalı');
+      } else if (typeof q.dogruIndeks !== 'number' || q.dogruIndeks < 0 || q.dogruIndeks >= q.secenekler.length) {
+        err(qt, `Geçersiz dogruIndeks: ${q.dogruIndeks}`);
+      }
+    });
   }
 }
 

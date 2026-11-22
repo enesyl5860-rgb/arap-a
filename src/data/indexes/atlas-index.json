@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T23:16:18.631Z",
+  "generatedAt": "2026-11-22T23:35:58.254Z",
   "prepositionalVerbs": [
     {
       "ar": "بَحَثَ عَنْ",
@@ -505,6 +505,96 @@
       "arBaslik": "أَنْوَاعُ الْفَاعِلِ وَتَوْكِيدُ الْمَاضِي بِـ«قَدْ / لَقَدْ»",
       "formul": "Fâil = Açık İsim / Bitişik Zamir / Müstetir (هُوَ/هِيَ)  |  قَدْ / لَقَدْ + Mâzi = Kesinlik & Yakın Geçmiş ('Gerçekten / -mış')",
       "mantik": "Her fiilin MUTLAKA bir fâili (öznesi) vardır; fâilsiz fiil olmaz! Arapçada fâil tam **3 biçimde** karşımıza çıkar:\n1) **Açık İsim (اِسْمٌ ظَاهِرٌ):** `كَتَبَ أَحْمَدُ الدَّرْسَ` (Fâil: أَحْمَدُ).\n2) **Bitişik Zamir (ضَمِيرٌ مُتَّصِلٌ):** `كَتَبْتُ الدَّرْسَ` (…"
+    },
+    {
+      "id": "m10_g1",
+      "moduleId": "10",
+      "cefr": "A1",
+      "baslik": "Muzâri Fiil Mantığı & أَنَيْتُ (Muzâraat) Harfleri",
+      "arBaslik": "الْفِعْلُ الْمُضَارِعُ وَحُرُوفُ الْمُضَارَعَةِ (أَنَيْتُ)",
+      "formul": "Muzâri = أَنَيْتُ (أَ / نَ / يَ / تَ) + 1. Kök Harfi Cezimli + 2. Kök Harfi (u/i/a) + 3. Kök Harfi DAMMELİ (ـُ)",
+      "mantik": "Modül 09'da geçmiş zamanı (**Mâzi**: `كَتَبَ` — yazdı) öğrendik. Şimdi sıra hem **ŞİMDİKİ ZAMAN** ('yazıyor') hem de **GENİŞ ZAMAN** ('yazar') anlamını tek başına karşılayan **Muzâri Fiil (الْفِعْلُ الْمُضَارِعُ)** sisteminde! Mâzi fiilden muzâri yapmak için 3…"
+    },
+    {
+      "id": "m10_g2",
+      "moduleId": "10",
+      "cefr": "A1",
+      "baslik": "Muzâri Fiilin Eksiksiz 14 Şahıs Çekimi",
+      "arBaslik": "تَصْرِيفُ الْفِعْلِ الْمُضَارِعِ مَعَ الضَّمَائِرِ كُلِّهَا (١٤ صِيغَةً)",
+      "formul": "İkil: ـَانِ · Eril Çoğul: ـُونَ · Sen Kadın: تَـ...ـِينَ · Kadınlar Çoğulu: يَـ/تَـ...ـْنَ",
+      "mantik": "Mâzi fiilde ekler sadece SONA geliyordu; muzâri fiilde ise **hem BAŞA (أَنَيْتُ) hem SONA** ekler gelir! İlk bakışta kalabalık görünse de içinde muhteşem bir matematik simetrisi gizlidir:\n• **4 Sade Dammeli Form:** `يَكْتُبُ / تَكْتُبُ / أَكْتُبُ / نَكْتُبُ` (…"
+    },
+    {
+      "id": "m10_g3",
+      "moduleId": "10",
+      "cefr": "A1",
+      "baslik": "Gelecek Zaman (سَـ & سَوْفَ) ve Muzâri Önünde قَدْ (İhtimal)",
+      "arBaslik": "الْمُسْتَقْبَلُ بِـ«سَـ / سَوْفَ» وَالِاحْتِمَالُ بِـ«قَدْ + مُضَارِع»",
+      "formul": "Yakın Gelecek: سَـ + Muzâri (bitişik)  |  Uzak Gelecek: سَوْفَ + Muzâri (ayrı)  |  İhtimal: قَدْ + Muzâri (-ebilir)",
+      "mantik": "Arapçada gelecek zaman ('-ecek / -acak') kurmak dünyanın en kolay dil kuralıdır! Hiç yeni bir fiil çekimi ezberlemene gerek yok! Tek yapman gereken, az önce öğrendiğin **Muzâri Fiilin** hemen başına iki edattan birini eklemek:\n1) **سَـ** (Sin-i İstikbâl — fiil…"
+    },
+    {
+      "id": "m10_g4",
+      "moduleId": "10",
+      "cefr": "A1",
+      "baslik": "Mef'ûlün Bih (الْمَفْعُولُ بِهِ — Nesne) & 4 Nasb Alâmeti",
+      "arBaslik": "الْمَفْعُولُ بِهِ وَعَلَامَاتُ نَصْبِهِ",
+      "formul": "Mef'ûlün Bih (DAİMA MANSUB): Tekil/Kırık → ـَ/ـًا  |  İkil → ـَيْنِ  |  Cemi Müzekker → ـِينَ  |  Cemi Müennes → ـَاتِ/ـَاتٍ (KESRA!)",
+      "mantik": "Bir fiil cümlesinde eylemi yapan kişiye **Fâil (Özne — daima Merfû)**, eylemden doğrudan etkilenen ('Kimi? Neyi?') varlığa ise **Mef'ûlün Bih (الْمَفْعُولُ بِهِ — Nesne)** denir! Mef'ûlün Bih'in asla değişmeyen anayasası şudur: **Mef'ûlün Bih HER ZAMAN MANSUBD…"
+    },
+    {
+      "id": "m10_g5",
+      "moduleId": "10",
+      "cefr": "A1",
+      "baslik": "Fiile Bitişen Mansub Muttasıl (Nesne) Zamirleri & Nûn-u Vikâye (ـنِي)",
+      "arBaslik": "ضَمَائِرُ النَّصْبِ الْمُتَّصِلَةُ بِالْفِعْلِ وَنُونُ الْوِقَايَةِ",
+      "formul": "Fiil + Nesne Zamiri (ـنِي / ـنَا / ـكَ / ـكِ / ـهُ / ـهَا / ـهُمْ / ـهُنَّ)  |  ـتُمْ + Zamir → ـتُمُوهُ",
+      "mantik": "Modül 06'da isme bitişen iyelik zamirlerini (`كِتَابُكَ، كِتَابُهُ، كِتَابُهَا`) öğrenmiştik. Müjde: **FİİLE BİTİŞİP NESNE (Mef'ûlün Bih) OLAN ZAMİRLER NEREDEYSE AYNISIDIR!** 'Onu okudum' (`قَرَأْتُهُ`), 'Seni seviyorum' (`أُحِبُّكَ`), 'Bize yardım etti' (`سَا…"
+    },
+    {
+      "id": "m11_g1",
+      "moduleId": "11",
+      "cefr": "A1",
+      "baslik": "Fiil Olumsuzluğu: مَا (Mâzi) ve لَا (Muzâri)",
+      "arBaslik": "نَفْيُ الْفِعْلِ الْمَاضِي بِـ«مَا» وَالْمُضَارِعِ بِـ«لَا»",
+      "formul": "Geçmiş Olumsuz: مَا + Mâzi (Değişim yok)  |  Şimdiki/Geniş Olumsuz: لَا + Muzâri (Merfû kalır!)",
+      "mantik": "Modül 09 ve 10'da geçmiş zaman (Mâzi) ve şimdiki/geniş zaman (Muzâri) cümleleri kurmayı öğrendik. Şimdi bu cümleleri tek bir dokunuşla nasıl olumsuz ('yazmadım / yazmıyorum') yapacağımızı görelim!\n1) **مَا + Mâzi Fiil (Geçmiş Olumsuzluk):** Mâzi fiilin hemen b…"
+    },
+    {
+      "id": "m11_g2",
+      "moduleId": "11",
+      "cefr": "A1",
+      "baslik": "İsim Cümlesi Olumsuzluğu: لَيْسَ ('Değildir') ve Çekimi",
+      "arBaslik": "نَفْيُ الْجُمْلَةِ الِاسْمِيَّةِ بِـ«لَيْسَ» وَتَصْرِيفُهَا",
+      "formul": "لَيْسَ + İsim (MERFÛ: ـُ) + Haber (MANSUB: ـًا / ـَيْنِ / ـِينَ / ـَاتٍ  VEYA  بِـ + Mecrûr)",
+      "mantik": "Türkçede isim cümlelerini olumsuz yaparken cümlenin sonuna **'değil'** ('Öğrenci değilim', 'Sınav zor değil') ekleriz. Arapçada bu işi üstlenen muhteşem kelime **لَيْسَ** ('değildir') fiilidir! `لَيْسَ` çekimli bir nakıs fiildir (Kâne ailesinin en önemli üyesi…"
+    },
+    {
+      "id": "m11_g3",
+      "moduleId": "11",
+      "cefr": "A1",
+      "baslik": "Saat Sorma ve Saat Söyleme Sistemi (كَمِ السَّاعَةُ الْآنَ؟)",
+      "arBaslik": "السَّاعَةُ وَالتَّعْبِيرُ عَنِ الْوَقْتِ",
+      "formul": "كَمِ السَّاعَةُ؟ → السَّاعَةُ + Sıra Sayısı (Müennes) + تَمَامًا (Tam) / وَالرُّبْعُ (:15) / وَالنِّصْفُ (:30) / إِلَّا الرُّبْعَ (:45)",
+      "mantik": "Günlük konuşmada, randevu alırken ve ulaşımda en çok ihtiyacın olan kalıp saat söylemektir! Arapçada saat söylemenin **ALTIN MANTIĞI** şudur: **السَّاعَةُ** (saat) kelimesi müennes olduğu için, saat numaraları 1'den 12'ye kadar **SIRA SAYILARININ MÜENNES (ة'li…"
+    },
+    {
+      "id": "m11_g4",
+      "moduleId": "11",
+      "cefr": "A1",
+      "baslik": "Haftanın Günleri, Aylar ve Dört Mevsim",
+      "arBaslik": "أَيَّامُ الْأُسْبُوعِ وَالشُّهُورُ وَالْفُصُولُ الْأَرْبَعَةُ",
+      "formul": "Zaman Zarfı: يَوْمَ (Fethalı!) + Gün Adı (Mecrûr)  |  فِي فَصْلِ + Mevsim (الرَّبِيعِ / الصَّيْفِ / الْخَرِيفِ / الشِّتَاءِ)",
+      "mantik": "Arapçada haftanın günlerini ezberlemek süper kolaydır; çünkü ilk 5 gün bildiğin **1'DEN 5'E KADAR SAYILARDAN** türetilmiştir! Hafta **Pazar (1. gün)** ile başlar:\n• 1. Gün: **الْأَحَدُ** (Pazar — 'bir' kökünden!)\n• 2. Gün: **الْإِثْنَيْنِ** (Pazartesi — 'iki' …"
+    },
+    {
+      "id": "m11_g5",
+      "moduleId": "11",
+      "cefr": "A1",
+      "baslik": "1–10 Sayıları & Ünlü 3–10 Cinsiyet Zıtlığı Kuralı (الْعَدَدُ وَالْمَعْدُودُ)",
+      "arBaslik": "الْأَعْدَادُ مِن ١ إِلَى ١٠ وَأَحْكَامُهَا",
+      "formul": "1–2: İsim + Sayı (Tam Uyum)  |  3–10: Sayı (Tekile Cinsiyetçe ZIT!) + ÇOĞUL MECRÛR İsim",
+      "mantik": "Arapça sayı sisteminin temel taşını 1'den 10'a kadar olan kurallar oluşturur! Bu kuralı iki basit gruba ayırdığında asla kafan karışmaz:\n1) **1 ve 2 Sayıları (وَاحِدٌ / اِثْنَانِ) — TAM UYUM & SIFAT:** Sayılan isim ÖNCE, sayı SONRA gelir ve sıfat gibi cinsiyet…"
     }
   ],
   "quickPractice": [
@@ -1857,6 +1947,306 @@
       ],
       "dogruIndeks": 0,
       "aciklama": "أَحْمَدُ fiilden önce geldiği için mübtedâdır; كَتَبَ fiilinin fâili gizli هُوَ zamiridir."
+    },
+    {
+      "id": "atlas_m10_g1_d1",
+      "moduleId": "10",
+      "kategori": "Sarf & Nahiv",
+      "soru": "يَدْرُسُ (o çalışıyor) fiilini 'Ben çalışıyorum (أَنَا)' yapınız:",
+      "soruAr": "",
+      "secenekler": [
+        "أَدْرُسُ",
+        "نَدْرُسُ",
+        "تَدْرُسُ",
+        "اُدْرُسْ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "1. tekil muzâraat harfi hemzeli أَ'dir: أَدْرُسُ."
+    },
+    {
+      "id": "atlas_m10_g1_d2",
+      "moduleId": "10",
+      "kategori": "Sarf & Nahiv",
+      "soru": "نَحْنُ ....... إِلَى الْمَسْجِدِ. (Biz camiye gidiyoruz) boşluğuna hangisi gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "نَذْهَبُ",
+        "أَذْهَبُ",
+        "يَذْهَبُ",
+        "تَذْهَبُ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "نَحْنُ (biz) muzâraat harfi نَ'dir: نَذْهَبُ."
+    },
+    {
+      "id": "atlas_m10_g2_d1",
+      "moduleId": "10",
+      "kategori": "Sarf & Nahiv",
+      "soru": "مَاذَا ....... يَا فَاطِمَةُ؟ (Ne okuyorsun Fatma?) boşluğuna doğru çekim hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "تَقْرَئِينَ",
+        "تَقْرَأُ",
+        "يَقْرَئِينَ",
+        "تَقْرَأْنَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "2. tekil dişil (أَنْتِ) çekimi تَـ...ـِينَ'dir: تَقْرَئِينَ."
+    },
+    {
+      "id": "atlas_m10_g2_d2",
+      "moduleId": "10",
+      "kategori": "Sarf & Nahiv",
+      "soru": "الْمُعَلِّمَاتُ ....... الدَّرْسَ لِلطَّالِبَاتِ. (Kadın öğretmenler dersi anlatıyorlar) boşluğuna hangisi gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "يَشْرَحْنَ",
+        "تَشْرَحْنَ",
+        "يَشْرَحُونَ",
+        "تَشْرَحُ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "3. çoğul dişil (هُنَّ) يَ ile başlar ve نَ ile biter: يَشْرَحْنَ."
+    },
+    {
+      "id": "atlas_m10_g3_d1",
+      "moduleId": "10",
+      "kategori": "Sarf & Nahiv",
+      "soru": "'أَقْرَأُ الْكِتَابَ' (Kitabı okuyorum) cümlesini yakın gelecek ('Okuyacağım') yapınız:",
+      "soruAr": "",
+      "secenekler": [
+        "سَأَقْرَأُ الْكِتَابَ",
+        "سَأَقْرَأَ الْكِتَابَ",
+        "سَ قَرَأْتُ الْكِتَابَ",
+        "قَدْ قَرَأْتُ الْكِتَابَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "سَـ fiile bitişir ve son hareke damme (merfû) kalır: سَأَقْرَأُ."
+    },
+    {
+      "id": "atlas_m10_g3_d2",
+      "moduleId": "10",
+      "kategori": "Sarf & Nahiv",
+      "soru": "....... أُسَافِرُ إِلَى تُرْكِيَا فِي الصَّيْفِ الْقَادِمِ. (Gelecek yaz seyahat edeceğim — uzak gelecek)",
+      "soruAr": "",
+      "secenekler": [
+        "سَوْفَ",
+        "لَقَدْ",
+        "قَدْ",
+        "أَمْسِ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Uzak gelecek zaman edatı سَوْفَ'dir."
+    },
+    {
+      "id": "atlas_m10_g4_d1",
+      "moduleId": "10",
+      "kategori": "Sarf & Nahiv",
+      "soru": "حَفِظَ الطَّالِبُ ....... الْجَدِيدَةَ. (Öğrenci yeni kelimeleri ezberledi) boşluğuna doğru harekeli kelime hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "الْكَلِمَاتِ",
+        "الْكَلِمَاتَ",
+        "الْكَلِمَاتُ",
+        "الْكَلِمَاتٍ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Cemi müennes sâlim (الْكَلِمَاتُ) nasb hâlinde daima KESRA alır: الْكَلِمَاتِ!"
+    },
+    {
+      "id": "atlas_m10_g4_d2",
+      "moduleId": "10",
+      "kategori": "Sarf & Nahiv",
+      "soru": "اِشْتَرَى أَبِي ....... جَمِيلَيْنِ. (Babam iki güzel kitap satın aldı)",
+      "soruAr": "",
+      "secenekler": [
+        "كِتَابَيْنِ",
+        "كِتَابَانِ",
+        "كِتَابَاتٍ",
+        "كِتَابٌ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "İkil (tesniye) nesne ـَيْنِ ile mansub olur: كِتَابَيْنِ."
+    },
+    {
+      "id": "atlas_m10_g5_d1",
+      "moduleId": "10",
+      "kategori": "Sarf & Nahiv",
+      "soru": "سَاعَدَ (yardım etti) fiiline 'bana (1. tekil)' nesne zamiri bitişince hangisi doğru olur?",
+      "soruAr": "",
+      "secenekler": [
+        "سَاعَدَنِي",
+        "سَاعَدِي",
+        "سَاعَدْنِي",
+        "سَاعَدَانِي"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Fiil + 1. tekil nesne zamirinde Nûn-u Vikâye girer: سَاعَدَنِي."
+    },
+    {
+      "id": "atlas_m10_g5_d2",
+      "moduleId": "10",
+      "kategori": "Sarf & Nahiv",
+      "soru": "قَرَأْتُمْ (siz okudunuz) + هُ (onu) birleştiğinde doğru yazılış hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "قَرَأْتُمُوهُ",
+        "قَرَأْتُمْهُ",
+        "قَرَأْتُمُهُ",
+        "قَرَأْتُمَاهُ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "ـتُمْ ekine nesne zamiri bitişince araya vâv girer: قَرَأْتُمُوهُ."
+    },
+    {
+      "id": "atlas_m11_g1_d1",
+      "moduleId": "11",
+      "kategori": "Pratik & Nahiv",
+      "soru": "'ذَهَبْتُ إِلَى السُّوقِ أَمْسِ' cümlesini olumsuz ('Gitmedim') yapınız:",
+      "soruAr": "",
+      "secenekler": [
+        "مَا ذَهَبْتُ إِلَى السُّوقِ أَمْسِ",
+        "لَا ذَهَبْتُ إِلَى السُّوقِ أَمْسِ",
+        "لَيْسَ ذَهَبْتُ إِلَى السُّوقِ أَمْسِ",
+        "لَا أَذْهَبْ إِلَى السُّوقِ أَمْسِ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Mâzi fiilin temel olumsuzluk edatı مَا'dır: مَا ذَهَبْتُ."
+    },
+    {
+      "id": "atlas_m11_g1_d2",
+      "moduleId": "11",
+      "kategori": "Pratik & Nahiv",
+      "soru": "'أَفْهَمُ هٰذِهِ الْكَلِمَةَ' (Bu kelimeyi anlıyorum) cümlesini olumsuz yapınız:",
+      "soruAr": "",
+      "secenekler": [
+        "لَا أَفْهَمُ هٰذِهِ الْكَلِمَةَ",
+        "لَا أَفْهَمْ هٰذِهِ الْكَلِمَةَ",
+        "لَيْسَ أَفْهَمُ هٰذِهِ الْكَلِمَةَ",
+        "لَا أَفْهَمَ هٰذِهِ الْكَلِمَةَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "لَا + muzâri merfû (dammeli) kalır: لَا أَفْهَمُ."
+    },
+    {
+      "id": "atlas_m11_g2_d1",
+      "moduleId": "11",
+      "kategori": "Pratik & Nahiv",
+      "soru": "'الطَّقْسُ حَارٌّ' (Hava sıcaktır) cümlesini لَيْسَ ile olumsuz yapınız:",
+      "soruAr": "",
+      "secenekler": [
+        "لَيْسَ الطَّقْسُ حَارًّا",
+        "لَيْسَ الطَّقْسُ حَارٌّ",
+        "لَيْسَ الطَّقْسَ حَارٌّ",
+        "لَيْسَتِ الطَّقْسُ حَارًّا"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "لَيْسَ ismini merfû (الطَّقْسُ), haberini mansub (حَارًّا) yapar."
+    },
+    {
+      "id": "atlas_m11_g2_d2",
+      "moduleId": "11",
+      "kategori": "Pratik & Nahiv",
+      "soru": "أَنَا ....... مُسْتَعْجِلًا الْيَوْمَ. (Bugün acelem yok / aceleci değilim) boşluğuna doğru çekim hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "لَسْتُ",
+        "لَيْسْتُ",
+        "لَيْسَ",
+        "لَسْتَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "1. tekil çekimde ي düşer: لَسْتُ."
+    },
+    {
+      "id": "atlas_m11_g3_d1",
+      "moduleId": "11",
+      "kategori": "Pratik & Nahiv",
+      "soru": "'Saat 06:30' (Altı buçuk) Arapçada nasıl söylenir?",
+      "soruAr": "",
+      "secenekler": [
+        "السَّاعَةُ السَّادِسَةُ وَالنِّصْفُ",
+        "السَّاعَةُ السَّابِعَةُ وَالنِّصْفُ",
+        "السَّاعَةُ السَّادِسَةُ وَالرُّبْعُ",
+        "السَّاعَةُ السَّادِسَةُ إِلَّا النِّصْفَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "السَّادِسَةُ (6) + وَالنِّصْفُ (buçuk)."
+    },
+    {
+      "id": "atlas_m11_g3_d2",
+      "moduleId": "11",
+      "kategori": "Pratik & Nahiv",
+      "soru": "'السَّاعَةُ الْخَامِسَةُ إِلَّا الرُّبْعَ' hangi dijital saati gösterir?",
+      "soruAr": "",
+      "secenekler": [
+        "04:45 (Beşe çeyrek var)",
+        "05:15 (Beşi çeyrek geçiyor)",
+        "05:45 (Altıya çeyrek var)",
+        "04:15 (Dördü çeyrek geçiyor)"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "الْخَامِسَةُ (5) إِلَّا الرُّبْعَ (çeyrek kala) = 04:45."
+    },
+    {
+      "id": "atlas_m11_g4_d1",
+      "moduleId": "11",
+      "kategori": "Pratik & Nahiv",
+      "soru": "Arapçada 'Çarşamba' günü hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "الْأَرْبِعَاءُ",
+        "الثُّلَاثَاءُ",
+        "الْخَمِيسُ",
+        "الْإِثْنَيْنِ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "4. gün (أَرْبَعَة kökünden): الْأَرْبِعَاءُ (Çarşamba)."
+    },
+    {
+      "id": "atlas_m11_g4_d2",
+      "moduleId": "11",
+      "kategori": "Pratik & Nahiv",
+      "soru": "يَوْمُ الْأَحَدِ hangi gündür?",
+      "soruAr": "",
+      "secenekler": [
+        "Pazar",
+        "Pazartesi",
+        "Cumartesi",
+        "Cuma"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "الْأَحَدُ = Pazar (1. gün)."
+    },
+    {
+      "id": "atlas_m11_g5_d1",
+      "moduleId": "11",
+      "kategori": "Pratik & Nahiv",
+      "soru": "اِشْتَرَيْتُ ....... أَقْلَامٍ. (Üç kalem satın aldım — tekil: قَلَمٌ eril) boşluğuna hangisi gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "ثَلَاثَةَ",
+        "ثَلَاثَ",
+        "ثَلَاثَةٌ",
+        "ثَلَاثٌ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "قَلَمٌ erildir → sayı zıt olarak ة'li (ثَلَاثَةَ), muzâf olduğu için tenvînsiz ve nesne olduğu için fethalıdır!"
+    },
+    {
+      "id": "atlas_m11_g5_d2",
+      "moduleId": "11",
+      "kategori": "Pratik & Nahiv",
+      "soru": "فِي الْحَدِيقَةِ ....... شَجَرَاتٍ. (Bahçede beş ağaç vardır — tekil: شَجَرَةٌ dişil)",
+      "soruAr": "",
+      "secenekler": [
+        "خَمْسُ",
+        "خَمْسَةُ",
+        "خَمْسَ",
+        "خَمْسٌ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "شَجَرَةٌ dişildir → sayı zıt (ة'siz: خَمْسُ), mübtedâ-i muahhar olduğu için merfû (damme) ve muzâf (tenvînsiz)!"
     }
   ]
 }
