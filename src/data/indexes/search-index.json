@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-23T09:11:25.161Z",
-  "totalItems": 1029,
+  "generatedAt": "2026-11-23T09:38:31.627Z",
+  "totalItems": 1144,
   "items": [
     {
       "id": "search_mod_01",
@@ -9986,6 +9986,1141 @@
       "subtitle": "Gramer Kuralı · M26",
       "ar": "أَشْهَرُ أَفْعَالِ التَّفَعُّلِ وَالتَّفَاعُلِ فِي الِاخْتِبَارَاتِ مَعَ حُرُوفِ الْجَرِّ",
       "keywords": "تَعَرَّضَ لِـ · تَمَكَّنَ مِنْ · تَكَوَّنَ مِنْ · تَوَقَّفَ عَنْ (bırakmak) ≠ عَلَى (-e bağlı olmak) · تَعَامَلَ مَعَ · تَنَاوَلَ YDS ve YÖKDİL Arapçada en yüksek puan getiren hazinelerden biri de **V. ve VI. bab harf-i cerli fiilleridir**! Bu fiille"
+    },
+    {
+      "id": "search_card_m27_f01",
+      "type": "card",
+      "moduleId": "27",
+      "title": "yola çıkmak, hareket etmek, başlamak (intalaka – yentaliku)",
+      "subtitle": "SRS Kartı · M27 · Kök: ط-ل-ق",
+      "ar": "اِنْطَلَقَ – يَنْطَلِقُ",
+      "kok": "ط-ل-ق",
+      "keywords": "انطلق - ينطلق اِنْفَعَلَ (VII. Bab) fiil"
+    },
+    {
+      "id": "search_card_m27_f02",
+      "type": "card",
+      "moduleId": "27",
+      "title": "kırılmak (kendi kendine/sonuç) (inkesera – yenkesiru)",
+      "subtitle": "SRS Kartı · M27 · Kök: ك-س-ر",
+      "ar": "اِنْكَسَرَ – يَنْكَسِرُ",
+      "kok": "ك-س-ر",
+      "keywords": "انكسر - ينكسر اِنْفَعَلَ (VII. Bab) fiil"
+    },
+    {
+      "id": "search_card_m27_f03",
+      "type": "card",
+      "moduleId": "27",
+      "title": "kesilmek, kopmak (inkata‘a – yenkati‘u)",
+      "subtitle": "SRS Kartı · M27 · Kök: ق-ط-ع",
+      "ar": "اِنْقَطَعَ – يَنْقَطِعُ",
+      "kok": "ق-ط-ع",
+      "keywords": "انقطع - ينقطع اِنْفَعَلَ (VII. Bab) fiil"
+    },
+    {
+      "id": "search_card_m27_f04",
+      "type": "card",
+      "moduleId": "27",
+      "title": "toplanmak, akdedilmek (konferans/toplantı) (in‘akade – yen‘akıdu)",
+      "subtitle": "SRS Kartı · M27 · Kök: ع-ق-د",
+      "ar": "اِنْعَقَدَ – يَنْعَقِدُ",
+      "kok": "ع-ق-د",
+      "keywords": "انعقد - ينعقد اِنْفَعَلَ (VII. Bab) fiil"
+    },
+    {
+      "id": "search_card_m27_f05",
+      "type": "card",
+      "moduleId": "27",
+      "title": "katılmak, dâhil olmak (indamme – yendammu ilâ)",
+      "subtitle": "SRS Kartı · M27 · Kök: ض-م-م",
+      "ar": "اِنْضَمَّ – يَنْضَمُّ إِلَى",
+      "kok": "ض-م-م",
+      "keywords": "انضم - ينضم إلى اِنْفَعَلَ (Muzaaf VII. Bab) fiil"
+    },
+    {
+      "id": "search_card_m27_f06",
+      "type": "card",
+      "moduleId": "27",
+      "title": "çekilmek, geri çekilmek (insehabe – yensehıbu min)",
+      "subtitle": "SRS Kartı · M27 · Kök: س-ح-ب",
+      "ar": "اِنْسَحَبَ – يَنْسَحِبُ مِنْ",
+      "kok": "س-ح-ب",
+      "keywords": "انسحب - ينسحب من اِنْفَعَلَ (VII. Bab) fiil"
+    },
+    {
+      "id": "search_card_m27_f07",
+      "type": "card",
+      "moduleId": "27",
+      "title": "çökmek, yıkılmak (inhâra – yenhâru)",
+      "subtitle": "SRS Kartı · M27 · Kök: ه-و-ر",
+      "ar": "اِنْهَارَ – يَنْهَارُ",
+      "kok": "ه-و-ر",
+      "keywords": "انهار - ينهار اِنْفَعَلَ (Ecvef VII. Bab) fiil"
+    },
+    {
+      "id": "search_card_m27_f08",
+      "type": "card",
+      "moduleId": "27",
+      "title": "bölünmek, ayrılmak (inkaseme – yenkasimu ilâ)",
+      "subtitle": "SRS Kartı · M27 · Kök: ق-س-م",
+      "ar": "اِنْقَسَمَ – يَنْقَسِمُ إِلَى",
+      "kok": "ق-س-م",
+      "keywords": "انقسم - ينقسم إلى اِنْفَعَلَ (VII. Bab) fiil"
+    },
+    {
+      "id": "search_card_m27_f09",
+      "type": "card",
+      "moduleId": "27",
+      "title": "sönmek (ateş/ışık) (intafee – yentafiu)",
+      "subtitle": "SRS Kartı · M27 · Kök: ط-ف-أ",
+      "ar": "اِنْطَفَأَ – يَنْطَفِئُ",
+      "kok": "ط-ف-أ",
+      "keywords": "انطفأ - ينطفئ اِنْفَعَلَ (VII. Bab) fiil"
+    },
+    {
+      "id": "search_card_m27_f10",
+      "type": "card",
+      "moduleId": "27",
+      "title": "açılmak (kendiliğinden/sonuç) (infeteha – yenfetihu)",
+      "subtitle": "SRS Kartı · M27 · Kök: ف-ت-ح",
+      "ar": "اِنْفَتَحَ – يَنْفَتِحُ",
+      "kok": "ف-ت-ح",
+      "keywords": "انفتح - ينفتح اِنْفَعَلَ (VII. Bab) fiil"
+    },
+    {
+      "id": "search_card_m27_f11",
+      "type": "card",
+      "moduleId": "27",
+      "title": "toplanmak, bir araya gelmek (icteme‘a – yectemi‘u)",
+      "subtitle": "SRS Kartı · M27 · Kök: ج-م-ع",
+      "ar": "اِجْتَمَعَ – يَجْتَمِعُ",
+      "kok": "ج-م-ع",
+      "keywords": "اجتمع - يجتمع اِفْتَعَلَ (VIII. Bab) fiil"
+    },
+    {
+      "id": "search_card_m27_f12",
+      "type": "card",
+      "moduleId": "27",
+      "title": "çok çalışmak, gayret etmek, içtihat etmek (ictehede – yectehidu)",
+      "subtitle": "SRS Kartı · M27 · Kök: ج-ه-د",
+      "ar": "اِجْتَهَدَ – يَجْتَهِدُ",
+      "kok": "ج-ه-د",
+      "keywords": "اجتهد - يجتهد اِفْتَعَلَ (VIII. Bab) fiil"
+    },
+    {
+      "id": "search_card_m27_f13",
+      "type": "card",
+      "moduleId": "27",
+      "title": "keşfetmek, ortaya çıkarmak (ikteşefe – yekteşifu)",
+      "subtitle": "SRS Kartı · M27 · Kök: ك-ش-ف",
+      "ar": "اِكْتَشَفَ – يَكْتَشِفُ",
+      "kok": "ك-ش-ف",
+      "keywords": "اكتشف - يكتشف اِفْتَعَلَ (VIII. Bab) fiil"
+    },
+    {
+      "id": "search_card_m27_f14",
+      "type": "card",
+      "moduleId": "27",
+      "title": "saygı duymak, hürmet etmek (ihterame – yahterimu)",
+      "subtitle": "SRS Kartı · M27 · Kök: ح-ر-م",
+      "ar": "اِحْتَرَمَ – يَحْتَرِمُ",
+      "kok": "ح-ر-م",
+      "keywords": "احترم - يحترم اِفْتَعَلَ (VIII. Bab) fiil"
+    },
+    {
+      "id": "search_card_m27_f15",
+      "type": "card",
+      "moduleId": "27",
+      "title": "beklemek (intezara – yenteziru)",
+      "subtitle": "SRS Kartı · M27 · Kök: ن-ظ-ر",
+      "ar": "اِنْتَظَرَ – يَنْتَظِرُ",
+      "kok": "ن-ظ-ر",
+      "keywords": "انتظر - ينتظر اِفْتَعَلَ (VIII. Bab) fiil"
+    },
+    {
+      "id": "search_card_m27_f16",
+      "type": "card",
+      "moduleId": "27",
+      "title": "seçmek, tercih etmek (ihtâra – yahtâru)",
+      "subtitle": "SRS Kartı · M27 · Kök: خ-ي-ر",
+      "ar": "اِخْتَارَ – يَخْتَارُ",
+      "kok": "خ-ي-ر",
+      "keywords": "اختار - يختار اِفْتَعَلَ (Ecvef VIII. Bab) fiil"
+    },
+    {
+      "id": "search_card_m27_f17",
+      "type": "card",
+      "moduleId": "27",
+      "title": "ihtiyaç duymak (ihtâce – yahtâcu ilâ)",
+      "subtitle": "SRS Kartı · M27 · Kök: ح-و-ج",
+      "ar": "اِحْتَاجَ – يَحْتَاجُ إِلَى",
+      "kok": "ح-و-ج",
+      "keywords": "احتاج - يحتاج إلى اِفْتَعَلَ (Ecvef VIII. Bab) fiil"
+    },
+    {
+      "id": "search_card_m27_f18",
+      "type": "card",
+      "moduleId": "27",
+      "title": "ilgilenmek, önem vermek (ihtemme – yehtemmu bi-)",
+      "subtitle": "SRS Kartı · M27 · Kök: ه-م-م",
+      "ar": "اِهْتَمَّ – يَهْتَمُّ بِـ",
+      "kok": "ه-م-م",
+      "keywords": "اهتم - يهتم بـ اِفْتَعَلَ (Muzaaf VIII. Bab) fiil"
+    },
+    {
+      "id": "search_card_m27_f19",
+      "type": "card",
+      "moduleId": "27",
+      "title": "önermek, teklif etmek (ikteraha – yakterihu)",
+      "subtitle": "SRS Kartı · M27 · Kök: ق-ر-ح",
+      "ar": "اِقْتَرَحَ – يَقْتَرِحُ",
+      "kok": "ق-ر-ح",
+      "keywords": "اقترح - يقترح اِفْتَعَلَ (VIII. Bab) fiil"
+    },
+    {
+      "id": "search_card_m27_f20",
+      "type": "card",
+      "moduleId": "27",
+      "title": "icat etmek, yenilik üretmek (ibtekara – yebtekiru)",
+      "subtitle": "SRS Kartı · M27 · Kök: ب-ك-ر",
+      "ar": "اِبْتَكَرَ – يَبْتَكِرُ",
+      "kok": "ب-ك-ر",
+      "keywords": "ابتكر - يبتكر اِفْتَعَلَ (VIII. Bab) fiil"
+    },
+    {
+      "id": "search_card_m27_f21",
+      "type": "card",
+      "moduleId": "27",
+      "title": "çalkalanmak, bozulmak, paniğe kapılmak (idtarabe – yadtaribu)",
+      "subtitle": "SRS Kartı · M27 · Kök: ض-ر-ب",
+      "ar": "اِضْطَرَبَ – يَضْطَرِبُ",
+      "kok": "ض-ر-ب",
+      "keywords": "اضطرب - يضطرب اِفْتَعَلَ (İbdâl: ت→ط) fiil"
+    },
+    {
+      "id": "search_card_m27_f22",
+      "type": "card",
+      "moduleId": "27",
+      "title": "mecbur kalmak, zorunda kalmak (idtarra – yadtarru ilâ)",
+      "subtitle": "SRS Kartı · M27 · Kök: ض-ر-ر",
+      "ar": "اِضْطَرَّ – يَضْطَرُّ إِلَى",
+      "kok": "ض-ر-ر",
+      "keywords": "اضطر - يضطر إلى اِفْتَعَلَ (İbdâl: ت→ط) fiil"
+    },
+    {
+      "id": "search_card_m27_f23",
+      "type": "card",
+      "moduleId": "27",
+      "title": "incelemek, bilgi sahibi olmak, muttali olmak (ittala‘a – yattali‘u ‘alâ)",
+      "subtitle": "SRS Kartı · M27 · Kök: ط-ل-ع",
+      "ar": "اِطَّلَعَ – يَطَّلِعُ عَلَى",
+      "kok": "ط-ل-ع",
+      "keywords": "اطلع - يطلع على اِفْتَعَلَ (İbdâl: ط+ت→طّ) fiil"
+    },
+    {
+      "id": "search_card_m27_f24",
+      "type": "card",
+      "moduleId": "27",
+      "title": "artmak, çoğalmak (izdâde – yezdâdu)",
+      "subtitle": "SRS Kartı · M27 · Kök: ز-ي-د",
+      "ar": "اِزْدَادَ – يَزْدَادُ",
+      "kok": "ز-ي-د",
+      "keywords": "ازداد - يزداد اِفْتَعَلَ (İbdâl: ت→د) fiil"
+    },
+    {
+      "id": "search_card_m27_f25",
+      "type": "card",
+      "moduleId": "27",
+      "title": "gelişmek, parlamak, refaha kavuşmak (izdehera – yezdehiru)",
+      "subtitle": "SRS Kartı · M27 · Kök: ز-ه-ر",
+      "ar": "اِزْدَهَرَ – يَزْدَهِرُ",
+      "kok": "ز-ه-ر",
+      "keywords": "ازدهر - يزدهر اِفْتَعَلَ (İbdâl: ت→د) fiil"
+    },
+    {
+      "id": "search_card_m27_f26",
+      "type": "card",
+      "moduleId": "27",
+      "title": "iletişime geçmek, telefonla aramak, bitişmek (ittesale – yettesılu bi-)",
+      "subtitle": "SRS Kartı · M27 · Kök: و-ص-ل",
+      "ar": "اِتَّصَلَ – يَتَّصِلُ بِـ",
+      "kok": "و-ص-ل",
+      "keywords": "اتصل - يتصل بـ اِفْتَعَلَ (İbdâl: و→تّ) fiil"
+    },
+    {
+      "id": "search_card_m27_f27",
+      "type": "card",
+      "moduleId": "27",
+      "title": "anlaşmak, uzlaşmak, hemfikir olmak (ittefaka – yettefıku ‘alâ)",
+      "subtitle": "SRS Kartı · M27 · Kök: و-ف-ق",
+      "ar": "اِتَّفَقَ – يَتَّفِقُ عَلَى",
+      "kok": "و-ف-ق",
+      "keywords": "اتفق - يتفق على اِفْتَعَلَ (İbdâl: و→تّ) fiil"
+    },
+    {
+      "id": "search_card_m27_f28",
+      "type": "card",
+      "moduleId": "27",
+      "title": "almak (karar/önlem), edinmek (ittehaze – yettehızu)",
+      "subtitle": "SRS Kartı · M27 · Kök: أ-خ-ذ",
+      "ar": "اِتَّخَذَ – يَتَّخِذُ",
+      "kok": "أ-خ-ذ",
+      "keywords": "اتخذ - يتخذ اِفْتَعَلَ (İbdâl: أ→تّ) fiil"
+    },
+    {
+      "id": "search_card_m27_f29",
+      "type": "card",
+      "moduleId": "27",
+      "title": "dayanmak, güvenmek (harf-i cersiz: onaylamak) (i‘temede – ya‘temidu ‘alâ)",
+      "subtitle": "SRS Kartı · M27 · Kök: ع-م-د",
+      "ar": "اِعْتَمَدَ – يَعْتَمِدُ عَلَى",
+      "kok": "ع-م-د",
+      "keywords": "اعتمد - يعتمد على اِفْتَعَلَ (VIII. Bab) fiil"
+    },
+    {
+      "id": "search_card_m27_f30",
+      "type": "card",
+      "moduleId": "27",
+      "title": "-ile sınırlı kalmak, yetinmek (iktasara – yaktesiru ‘alâ)",
+      "subtitle": "SRS Kartı · M27 · Kök: ق-ص-ر",
+      "ar": "اِقْتَصَرَ – يَقْتَصِرُ عَلَى",
+      "kok": "ق-ص-ر",
+      "keywords": "اقتصر - يقتصر على اِفْتَعَلَ (VIII. Bab) fiil"
+    },
+    {
+      "id": "search_card_m27_f31",
+      "type": "card",
+      "moduleId": "27",
+      "title": "niteliğini taşımak, ... ile öne çıkmak (itteseme – yettesimu bi-)",
+      "subtitle": "SRS Kartı · M27 · Kök: و-س-م",
+      "ar": "اِتَّسَمَ – يَتَّسِمُ بِـ",
+      "kok": "و-س-م",
+      "keywords": "اتسم - يتسم بـ اِفْتَعَلَ (İbdâl: و→تّ) fiil"
+    },
+    {
+      "id": "search_card_m27_f32",
+      "type": "card",
+      "moduleId": "27",
+      "title": "-den yoksun olmak, eksiği olmak (iftekara – yeftekıru ilâ)",
+      "subtitle": "SRS Kartı · M27 · Kök: ف-ق-ر",
+      "ar": "اِفْتَقَرَ – يَفْتَقِرُ إِلَى",
+      "kok": "ف-ق-ر",
+      "keywords": "افتقر - يفتقر إلى اِفْتَعَلَ (VIII. Bab) fiil"
+    },
+    {
+      "id": "search_gram_m27_g1",
+      "type": "grammar",
+      "moduleId": "27",
+      "title": "VII. Bab: İnfiâl (اِنْفَعَلَ – يَنْفَعِلُ – اِنْفِعَالًا) — Edilgenimsi Dönüşlülük",
+      "subtitle": "Gramer Kuralı · M27",
+      "ar": "بَابُ الِانْفِعَالِ (اِنْفَعَلَ – يَنْفَعِلُ – اِنْفِعَالًا)",
+      "keywords": "Mâzi: اِنْفَعَلَ (Vasıl!) | Muzâri: يَنْفَعِلُ (Fetha + Kesra) | Emir: اِنْفَعِلْ! | Mastar: اِنْفِعَالًا | Daima LÂZIM! Şimdi 5 harfli (humâsî) mezîd babların vasıl hemzesiyle başlayan grubuna geçiyoruz! İlk durağımız **VII. Bab (İnfiâl: اِ"
+    },
+    {
+      "id": "search_gram_m27_g2",
+      "type": "grammar",
+      "moduleId": "27",
+      "title": "İnfiâl (VII. Bab) vs. Meçhul Fiil İnce Anlam Farkı",
+      "subtitle": "Gramer Kuralı · M27",
+      "ar": "الْفَرْقُ بَيْنَ بَابِ الِانْفِعَالِ وَالْفِعْلِ الْمَبْنِيِّ لِلْمَجْهُولِ",
+      "keywords": "Meçhul (فُعِلَ) = Dış bir fâil tarafından yapıldı | VII. Bab (اِنْفَعَلَ) = Kendi kendine / sonuç odaklı gerçekleşti Öğrencilerin en çok merak ettiği nefis bir soru: **'كُسِرَ الْكُوبُ' de 'Bardak kırıldı' demek, 'اِنْكَسَرَ الْكُوبُ' de"
+    },
+    {
+      "id": "search_gram_m27_g3",
+      "type": "grammar",
+      "moduleId": "27",
+      "title": "VIII. Bab: İftiâl (اِفْتَعَلَ – يَفْتَعِلُ – اِفْتِعَالًا) — Çekim, Emir & Meçhul",
+      "subtitle": "Gramer Kuralı · M27",
+      "ar": "بَابُ الِافْتِعَالِ (اِفْتَعَلَ – يَفْتَعِلُ – اِفْتِعَالًا)",
+      "keywords": "Mâzi: اِفْتَعَلَ (Vasıl!) | Muzâri: يَفْتَعِلُ | Emir: اِفْتَعِلْ! | Mastar: اِفْتِعَالًا | Meçhul: اُفْتُعِلَ / يُفْتَعَلُ Şimdi Arapçanın en zengin, en üretken ve YDS'de en çok karşına çıkan bablarından birine geldik: **VIII. Bab (İftiâl: اِف"
+    },
+    {
+      "id": "search_gram_m27_g4",
+      "type": "grammar",
+      "moduleId": "27",
+      "title": "VIII. Babın Efsanevi Ses Uyumu (İbdâl): ت → ط, ت → د, و/ي → ت!",
+      "subtitle": "Gramer Kuralı · M27",
+      "ar": "الْإِبْدَالُ فِي بَابِ الِافْتِعَالِ (ص/ض/ط/ظ ← ط | د/ذ/ز ← د | و/ي ← ت)",
+      "keywords": "ص/ض/ط/ظ + ت → ط (اِضْطَرَبَ) | د/ذ/ز + ت → د (اِزْدَادَ) | و/ي/أَخَذَ + ت → تّ (اِتَّصَلَ/اِتَّخَذَ) İşte Arapça sarfında öğrencilerin yıllarca 'Bunun kökü ne?!' diye şaşırdığı ama 3 dakikada tüm sırrı çözülen **VIII. Bab"
+    },
+    {
+      "id": "search_gram_m27_g5",
+      "type": "grammar",
+      "moduleId": "27",
+      "title": "YDS Kök Çözümleme Dedektifliği & VII.–VIII. Bab Harf-i Cerli Fiilleri",
+      "subtitle": "Gramer Kuralı · M27",
+      "ar": "اسْتِخْرَاجُ الْجُذُورِ وَأَفْعَالُ الِانْفِعَالِ وَالِافْتِعَالِ فِي الِاخْتِبَارَاتِ",
+      "keywords": "اِعْتَمَدَ عَلَى · اِقْتَصَرَ عَلَى · اِلْتَزَمَ بِـ · اِرْتَبَطَ بِـ · اِتَّسَمَ بِـ · اِفْتَقَرَ إِلَى YDS / YÖKDİL sınavında metin okurken karşına uzun bir VIII. bab kelimesi çıktığında (mesela `اِقْتِصَادِيَّة، مُصْطَلَحَ"
+    },
+    {
+      "id": "search_card_m28_f01",
+      "type": "card",
+      "moduleId": "28",
+      "title": "kızarmak, kıpkırmızı olmak (ihmarra – yahmarru)",
+      "subtitle": "SRS Kartı · M28 · Kök: ح-م-ر",
+      "ar": "اِحْمَرَّ – يَحْمَرُّ",
+      "kok": "ح-م-ر",
+      "keywords": "احمر - يحمر اِفْعَلَّ (IX. Bab) fiil"
+    },
+    {
+      "id": "search_card_m28_f02",
+      "type": "card",
+      "moduleId": "28",
+      "title": "yeşermek, yemyeşil olmak (ihdarra – yahdarru)",
+      "subtitle": "SRS Kartı · M28 · Kök: خ-ض-ر",
+      "ar": "اِخْضَرَّ – يَخْضَرُّ",
+      "kok": "خ-ض-ر",
+      "keywords": "اخضر - يخضر اِفْعَلَّ (IX. Bab) fiil"
+    },
+    {
+      "id": "search_card_m28_f03",
+      "type": "card",
+      "moduleId": "28",
+      "title": "sararmak (isfarra – yasfarru)",
+      "subtitle": "SRS Kartı · M28 · Kök: ص-ف-ر",
+      "ar": "اِصْفَرَّ – يَصْفَرُّ",
+      "kok": "ص-ف-ر",
+      "keywords": "اصفر - يصفر اِفْعَلَّ (IX. Bab) fiil"
+    },
+    {
+      "id": "search_card_m28_f04",
+      "type": "card",
+      "moduleId": "28",
+      "title": "ağarmak, bembeyaz olmak (ibyadda – yebyaddu)",
+      "subtitle": "SRS Kartı · M28 · Kök: ب-ي-ض",
+      "ar": "اِبْيَضَّ – يَبْيَضُّ",
+      "kok": "ب-ي-ض",
+      "keywords": "ابيض - يبيض اِفْعَلَّ (IX. Bab) fiil"
+    },
+    {
+      "id": "search_card_m28_f05",
+      "type": "card",
+      "moduleId": "28",
+      "title": "kararmak, simsiyah olmak (isvedde – yesveddu)",
+      "subtitle": "SRS Kartı · M28 · Kök: س-و-د",
+      "ar": "اِسْوَدَّ – يَسْوَدُّ",
+      "kok": "س-و-د",
+      "keywords": "اسود - يسود اِفْعَلَّ (IX. Bab) fiil"
+    },
+    {
+      "id": "search_card_m28_f06",
+      "type": "card",
+      "moduleId": "28",
+      "title": "eğrilmek, çarpılmak (i‘vecce – ya‘veccu)",
+      "subtitle": "SRS Kartı · M28 · Kök: ع-و-ج",
+      "ar": "اِعْوَجَّ – يَعْوَجُّ",
+      "kok": "ع-و-ج",
+      "keywords": "اعوج - يعوج اِفْعَلَّ (IX. Bab) fiil"
+    },
+    {
+      "id": "search_card_m28_f07",
+      "type": "card",
+      "moduleId": "28",
+      "title": "kullanmak, istihdam etmek (istehdeme – yestehdimu)",
+      "subtitle": "SRS Kartı · M28 · Kök: خ-د-م",
+      "ar": "اِسْتَخْدَمَ – يَسْتَخْدِمُ",
+      "kok": "خ-د-م",
+      "keywords": "استخدم - يستخدم اِسْتَفْعَلَ (X. Bab) fiil"
+    },
+    {
+      "id": "search_card_m28_f08",
+      "type": "card",
+      "moduleId": "28",
+      "title": "çıkarmak, özütlemek, belge almak (istahrace – yestahricu)",
+      "subtitle": "SRS Kartı · M28 · Kök: خ-ر-ج",
+      "ar": "اِسْتَخْرَجَ – يَسْتَخْرِجُ",
+      "kok": "خ-ر-ج",
+      "keywords": "استخرج - يستخرج اِسْتَفْعَلَ (X. Bab) fiil"
+    },
+    {
+      "id": "search_card_m28_f09",
+      "type": "card",
+      "moduleId": "28",
+      "title": "bağışlanma dilemek (istiğfar) (istagfera – yestagfiru)",
+      "subtitle": "SRS Kartı · M28 · Kök: غ-ف-ر",
+      "ar": "اِسْتَغْفَرَ – يَسْتَغْفِرُ",
+      "kok": "غ-ف-ر",
+      "keywords": "استغفر - يستغفر اِسْتَفْعَلَ (Talep X. Bab) fiil"
+    },
+    {
+      "id": "search_card_m28_f10",
+      "type": "card",
+      "moduleId": "28",
+      "title": "izin istemek (iste'zene – yeste'zinu)",
+      "subtitle": "SRS Kartı · M28 · Kök: أ-ذ-ن",
+      "ar": "اِسْتَأْذَنَ – يَسْتَأْذِنُ",
+      "kok": "أ-ذ-ن",
+      "keywords": "استأذن - يستأذن اِسْتَفْعَلَ (Talep X. Bab) fiil"
+    },
+    {
+      "id": "search_card_m28_f11",
+      "type": "card",
+      "moduleId": "28",
+      "title": "güzel bulmak, beğenmek (istahsene – yestahsinu)",
+      "subtitle": "SRS Kartı · M28 · Kök: ح-س-ن",
+      "ar": "اِسْتَحْسَنَ – يَسْتَحْسِنُ",
+      "kok": "ح-س-ن",
+      "keywords": "استحسن - يستحسن اِسْتَفْعَلَ (Sayma X. Bab) fiil"
+    },
+    {
+      "id": "search_card_m28_f12",
+      "type": "card",
+      "moduleId": "28",
+      "title": "faydalanmak, yararlanmak (istefâde – yestefîdu min)",
+      "subtitle": "SRS Kartı · M28 · Kök: ف-ي-د",
+      "ar": "اِسْتَفَادَ – يَسْتَفِيدُ مِنْ",
+      "kok": "ف-ي-د",
+      "keywords": "استفاد - يستفيد من اِسْتَفْعَلَ (Ecvef X. Bab) fiil"
+    },
+    {
+      "id": "search_card_m28_f13",
+      "type": "card",
+      "moduleId": "28",
+      "title": "-ebilmek, gücü yetmek (istatâ‘a – yestatî‘u)",
+      "subtitle": "SRS Kartı · M28 · Kök: ط-و-ع",
+      "ar": "اِسْتَطَاعَ – يَسْتَطِيعُ",
+      "kok": "ط-و-ع",
+      "keywords": "استطاع - يستطيع اِسْتَفْعَلَ (Ecvef X. Bab) fiil"
+    },
+    {
+      "id": "search_card_m28_f14",
+      "type": "card",
+      "moduleId": "28",
+      "title": "devam etmek, sürmek (istemerra – yestemirru fî)",
+      "subtitle": "SRS Kartı · M28 · Kök: م-ر-ر",
+      "ar": "اِسْتَمَرَّ – يَسْتَمِرُّ فِي",
+      "kok": "م-ر-ر",
+      "keywords": "استمر - يستمر في اِسْتَفْعَلَ (Muzaaf X. Bab) fiil"
+    },
+    {
+      "id": "search_card_m28_f15",
+      "type": "card",
+      "moduleId": "28",
+      "title": "(süre) almak, sürmek (istagraka – yestagriku)",
+      "subtitle": "SRS Kartı · M28 · Kök: غ-ر-ق",
+      "ar": "اِسْتَغْرَقَ – يَسْتَغْرِقُ",
+      "kok": "غ-ر-ق",
+      "keywords": "استغرق - يستغرق اِسْتَفْعَلَ (X. Bab) fiil"
+    },
+    {
+      "id": "search_card_m28_f16",
+      "type": "card",
+      "moduleId": "28",
+      "title": "yatırım yapmak, değerlendirmek (istesmera – yestesmiru)",
+      "subtitle": "SRS Kartı · M28 · Kök: ث-م-ر",
+      "ar": "اِسْتَثْمَرَ – يَسْتَثْمِرُ",
+      "kok": "ث-م-ر",
+      "keywords": "استثمر - يستثمر اِسْتَفْعَلَ (X. Bab) fiil"
+    },
+    {
+      "id": "search_card_m28_f17",
+      "type": "card",
+      "moduleId": "28",
+      "title": "dayanmak, istinat etmek (istenede – yestenidu ilâ)",
+      "subtitle": "SRS Kartı · M28 · Kök: س-ن-د",
+      "ar": "اِسْتَنَدَ – يَسْتَنِدُ إِلَى",
+      "kok": "س-ن-د",
+      "keywords": "استند - يستند إلى اِسْتَفْعَلَ (X. Bab) fiil"
+    },
+    {
+      "id": "search_card_m28_f18",
+      "type": "card",
+      "moduleId": "28",
+      "title": "hedeflemek, amaçlamak (istehdefe – yestehdifu)",
+      "subtitle": "SRS Kartı · M28 · Kök: ه-د-ف",
+      "ar": "اِسْتَهْدَفَ – يَسْتَهْدِفُ",
+      "kok": "ه-د-ف",
+      "keywords": "استهدف - يستهدف اِسْتَفْعَلَ (X. Bab) fiil"
+    },
+    {
+      "id": "search_card_m28_f19",
+      "type": "card",
+      "moduleId": "28",
+      "title": "uzak ihtimal görmek, ihtimal dışı bırakmak (isteb‘ade – yesteb‘idu)",
+      "subtitle": "SRS Kartı · M28 · Kök: ب-ع-د",
+      "ar": "اِسْتَبْعَدَ – يَسْتَبْعِدُ",
+      "kok": "ب-ع-د",
+      "keywords": "استبعد - يستبعد اِسْتَفْعَلَ (Sayma X. Bab) fiil"
+    },
+    {
+      "id": "search_card_m28_f20",
+      "type": "card",
+      "moduleId": "28",
+      "title": "-e ihtiyacı olmamak, onsuz yapabilmek (istagnâ – yestagnî ‘an)",
+      "subtitle": "SRS Kartı · M28 · Kök: غ-ن-ي",
+      "ar": "اِسْتَغْنَى – يَسْتَغْنِي عَنْ",
+      "kok": "غ-ن-ي",
+      "keywords": "استغنى - يستغني عن اِسْتَفْعَلَ (Nâkıs X. Bab) fiil"
+    },
+    {
+      "id": "search_card_m28_f21",
+      "type": "card",
+      "moduleId": "28",
+      "title": "hazırlanmak, hazır olmak (iste‘adde – yeste‘iddu li-)",
+      "subtitle": "SRS Kartı · M28 · Kök: ع-د-د",
+      "ar": "اِسْتَعَدَّ – يَسْتَعِدُّ لِـ",
+      "kok": "ع-د-د",
+      "keywords": "استعد - يستعد لـ اِسْتَفْعَلَ (Muzaaf X. Bab) fiil"
+    },
+    {
+      "id": "search_card_m28_f22",
+      "type": "card",
+      "moduleId": "28",
+      "title": "danışmak, istişare etmek (isteşâra – yesteşîru)",
+      "subtitle": "SRS Kartı · M28 · Kök: ش-و-ر",
+      "ar": "اِسْتَشَارَ – يَسْتَشِيرُ",
+      "kok": "ش-و-ر",
+      "keywords": "استشار - يستشير اِسْتَفْعَلَ (Ecvef X. Bab) fiil"
+    },
+    {
+      "id": "search_card_m28_f23",
+      "type": "card",
+      "moduleId": "28",
+      "title": "karşılamak (misafir/gelecek) (istekbele – yestekbilu)",
+      "subtitle": "SRS Kartı · M28 · Kök: ق-ب-ل",
+      "ar": "اِسْتَقْبَلَ – يَسْتَقْبِلُ",
+      "kok": "ق-ب-ل",
+      "keywords": "استقبل - يستقبل اِسْتَفْعَلَ (X. Bab) fiil"
+    },
+    {
+      "id": "search_card_m28_f24",
+      "type": "card",
+      "moduleId": "28",
+      "title": "yardım dilemek, yararlanmak (iste‘âne – yeste‘înu bi-)",
+      "subtitle": "SRS Kartı · M28 · Kök: ع-و-ن",
+      "ar": "اِسْتَعَانَ – يَسْتَعِينُ بِـ",
+      "kok": "ع-و-ن",
+      "keywords": "استعان - يستعين بـ اِسْتَفْعَلَ (Ecvef X. Bab) fiil"
+    },
+    {
+      "id": "search_card_m28_f25",
+      "type": "card",
+      "moduleId": "28",
+      "title": "tercüme etmek, çevirmek (terceme – yutercimu)",
+      "subtitle": "SRS Kartı · M28 · Kök: ت-ر-ج-م",
+      "ar": "تَرْجَمَ – يُتَرْجِمُ",
+      "kok": "ت-ر-ج-م",
+      "keywords": "ترجم - يترجم فَعْلَلَ (Rubâî Mücerred) fiil"
+    },
+    {
+      "id": "search_card_m28_f26",
+      "type": "card",
+      "moduleId": "28",
+      "title": "kontrol altına almak, hâkim olmak (saytara – yusaytıru ‘alâ)",
+      "subtitle": "SRS Kartı · M28 · Kök: س-ي-ط-ر",
+      "ar": "سَيْطَرَ – يُسَيْطِرُ عَلَى",
+      "kok": "س-ي-ط-ر",
+      "keywords": "سيطر - يسيطر على فَعْلَلَ (Rubâî Mücerred) fiil"
+    },
+    {
+      "id": "search_card_m28_f27",
+      "type": "card",
+      "moduleId": "28",
+      "title": "delille ispatlamak, kanıtlamak (berhene – yuberhinu ‘alâ)",
+      "subtitle": "SRS Kartı · M28 · Kök: ب-ر-ه-ن",
+      "ar": "بَرْهَنَ – يُبَرْهِنُ عَلَى",
+      "kok": "ب-ر-ه-ن",
+      "keywords": "برهن - يبرهن على فَعْلَلَ (Rubâî Mücerred) fiil"
+    },
+    {
+      "id": "search_card_m28_f28",
+      "type": "card",
+      "moduleId": "28",
+      "title": "içini rahatlatmak, güvence vermek (tam'ene – yutam'inu)",
+      "subtitle": "SRS Kartı · M28 · Kök: ط-م-أ-ن",
+      "ar": "طَمْأَنَ – يُطَمْئِنُ",
+      "kok": "ط-م-أ-ن",
+      "keywords": "طمأن - يطمئن فَعْلَلَ (Rubâî Mücerred) fiil"
+    },
+    {
+      "id": "search_card_m28_f29",
+      "type": "card",
+      "moduleId": "28",
+      "title": "huzur bulmak, içi rahatlamak, tatmin olmak (itme'enne – yatmeinnu)",
+      "subtitle": "SRS Kartı · M28 · Kök: ط-م-أ-ن",
+      "ar": "اِطْمَأَنَّ – يَطْمَئِنُّ",
+      "kok": "ط-م-أ-ن",
+      "keywords": "اطمأن - يطمئن اِفْعَلَلَّ (Rubâî Mezîd II) fiil"
+    },
+    {
+      "id": "search_card_m28_f30",
+      "type": "card",
+      "moduleId": "28",
+      "title": "yuvarlanmak (tedahrace – yetedahracu)",
+      "subtitle": "SRS Kartı · M28 · Kök: د-ح-ر-ج",
+      "ar": "تَدَحْرَجَ – يَتَدَحْرَجُ",
+      "kok": "د-ح-ر-ج",
+      "keywords": "تدحرج - يتدحرج تَفَعْلَلَ (Rubâî Mezîd I) fiil"
+    },
+    {
+      "id": "search_card_m28_f31",
+      "type": "card",
+      "moduleId": "28",
+      "title": "saçılmak, dağılmak (teba‘sera – yeteba‘seru)",
+      "subtitle": "SRS Kartı · M28 · Kök: ب-ع-ث-ر",
+      "ar": "تَبَعْثَرَ – يَتَبَعْثَرُ",
+      "kok": "ب-ع-ث-ر",
+      "keywords": "تبعثر - يتبعثر تَفَعْلَلَ (Rubâî Mezîd I) fiil"
+    },
+    {
+      "id": "search_card_m28_f32",
+      "type": "card",
+      "moduleId": "28",
+      "title": "Te'kîd (Pekiştirme) Nûnu (ـنَّ / ـنْ) (nûnu't-tevkîdi)",
+      "subtitle": "SRS Kartı · M28 · Kök: أ-ك-د",
+      "ar": "نُونُ التَّوْكِيدِ",
+      "kok": "أ-ك-د",
+      "keywords": "نون التوكيد مُصْطَلَحٌ صَرْفِيٌّ terim"
+    },
+    {
+      "id": "search_gram_m28_g1",
+      "type": "grammar",
+      "moduleId": "28",
+      "title": "IX. Bab: İf'ilâl (اِفْعَلَّ – يَفْعَلُّ – اِفْعِلَالًا) — Renkler ve Fiziksel Kusurlar",
+      "subtitle": "Gramer Kuralı · M28",
+      "ar": "بَابُ الِافْعِلَالِ (اِفْعَلَّ – يَفْعَلُّ – اِفْعِلَالًا) لِلْأَلْوَانِ وَالْعُيُوبِ",
+      "keywords": "Mâzi: اِفْعَلَّ (Vasıl!) | Muzâri: يَفْعَلُّ | Mastar: اِفْعِلَالًا (Şedde çözülür!) | Daima LÂZIM! Mezîd fiillerin en özel, en görsel ve en dar amaçlı babı **IX. Bab (İf'ilâl: اِفْعَلَّ – يَفْعَلُّ – اِفْعِلَالًا)**dır!"
+    },
+    {
+      "id": "search_gram_m28_g2",
+      "type": "grammar",
+      "moduleId": "28",
+      "title": "X. Bab: İstif'âl (اِسْتَفْعَلَ – يَسْتَفْعِلُ – اِسْتِفْعَالًا) — Talep, Sayma & Dönüşme",
+      "subtitle": "Gramer Kuralı · M28",
+      "ar": "بَابُ الِاسْتِفْعَالِ (اِسْتَفْعَلَ – يَسْتَفْعِلُ – اِسْتِفْعَالًا)",
+      "keywords": "Mâzi: اِسْتَفْعَلَ (Vasıl!) | Muzâri: يَسْتَفْعِلُ | Emir: اِسْتَفْعِلْ! | Mastar: اِسْتِفْعَالًا (Ecvef: اِسْتِفَالَةً) Mezîd fiillerin zirvesi ve 10 babın en kolay tanınan yıldızı: **X. Bab (İstif'âl: اِسْتَفْعَلَ – يَسْتَفْعِلُ – اِسْتِفْ"
+    },
+    {
+      "id": "search_gram_m28_g3",
+      "type": "grammar",
+      "moduleId": "28",
+      "title": "Rubâî (4 Kök Harfli) Mücerred ve Mezîd Fiiller (تَرْجَمَ / تَدَحْرَجَ / اِطْمَأَنَّ)",
+      "subtitle": "Gramer Kuralı · M28",
+      "ar": "الْفِعْلُ الرُّبَاعِيُّ الْمُجَرَّدُ وَالْمَزِيدُ (فَعْلَلَ – تَفَعْلَلَ – اِفْعَلَلَّ)",
+      "keywords": "Mücerred: فَعْلَلَ – يُفَعْلِلُ – فَعْلَلَةً | Mezîd I: تَفَعْلَلَ – يَتَفَعْلَلُ – تَفَعْلُلًا | Mezîd II: اِفْعَلَلَّ – يَفْعَلِلُّ – اِفْعِلَّالًا Şimdiye dek hep 3 harfli (sülâsî) kökleri gördük; peki Arapçada kök harfi baştan **4 tane** olan (Rubâî) fiiller yok mu?"
+    },
+    {
+      "id": "search_gram_m28_g4",
+      "type": "grammar",
+      "moduleId": "28",
+      "title": "Te'kîd Nûnu (نُونُ التَّوْكِيدِ الثَّقِيلَةُ وَالْخَفِيفَةُ) — Kesin Vurgu ve Yemin Sistemi",
+      "subtitle": "Gramer Kuralı · M28",
+      "ar": "نُونُ التَّوْكِيدِ الثَّقِيلَةُ وَالْخَفِيفَةُ وَأَحْكَامُ تَوْكِيدِ الْفِعْلِ",
+      "keywords": "وَاللّٰهِ + لَـ + Muzâri (Olumlu, Gelecek) + نَّ = VACİP! | Emir / Nehiy / Soru + نَّ = CAİZ! | Fetha Mebnî! Arapçada bir eylemi 'MUTLAKA / KESİNLİKLE' vurgusuyla çelik gibi pekiştirmek istediğimizde fiilin sonuna **Te'kîd Nûnu ("
+    },
+    {
+      "id": "search_gram_m28_g5",
+      "type": "grammar",
+      "moduleId": "28",
+      "title": "Büyük 10 Bab Karşılaştırma Matrisi (I–X Bablar + Rubâî) & YDS Özeti",
+      "subtitle": "Gramer Kuralı · M28",
+      "ar": "الْجَدْوَلُ الشَّامِلُ لِلْأَبْوَابِ الْعَشَرَةِ وَالرُّبَاعِيِّ",
+      "keywords": "4 Harfli (II, III, IV, Rubâî) = يُـ | 5–6 Harfli (VII–X) = Vasıl ا | Sadece IV. Bab = Kat' أَ/إِ! Tebrikler!! M24'ten M28'e kadar Arapça fiil sisteminin **TÜM 10 BABINI** ve **RUBÂÎ** fiilleri bitirdin! Şimdi kuş bakış"
+    },
+    {
+      "id": "search_card_m29_fc1",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Tarım / ziraat (Zirâ‘atun)",
+      "subtitle": "SRS Kartı · M29 · Kök: ز-ر-ع",
+      "ar": "زِرَاعَةٌ",
+      "kok": "ز-ر-ع",
+      "keywords": "زراعة فِعَالَةٌ Sülâsî Mastar"
+    },
+    {
+      "id": "search_card_m29_fc2",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Ticaret (Ticâratun)",
+      "subtitle": "SRS Kartı · M29 · Kök: ت-ج-ر",
+      "ar": "تِجَارَةٌ",
+      "kok": "ت-ج-ر",
+      "keywords": "تجارة فِعَالَةٌ Sülâsî Mastar"
+    },
+    {
+      "id": "search_card_m29_fc3",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Sanayi / endüstri / zanaat (Sınâ‘atun)",
+      "subtitle": "SRS Kartı · M29 · Kök: ص-ن-ع",
+      "ar": "صِنَاعَةٌ",
+      "kok": "ص-ن-ع",
+      "keywords": "صناعة فِعَالَةٌ Sülâsî Mastar"
+    },
+    {
+      "id": "search_card_m29_fc4",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Baş ağrısı (Sudâ‘un)",
+      "subtitle": "SRS Kartı · M29 · Kök: ص-د-ع",
+      "ar": "صُدَاعٌ",
+      "kok": "ص-د-ع",
+      "keywords": "صداع فُعَالٌ Sülâsî Mastar"
+    },
+    {
+      "id": "search_card_m29_fc5",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Öksürük (Su‘âlun)",
+      "subtitle": "SRS Kartı · M29 · Kök: س-ع-ل",
+      "ar": "سُعَالٌ",
+      "kok": "س-ع-ل",
+      "keywords": "سعال فُعَالٌ Sülâsî Mastar"
+    },
+    {
+      "id": "search_card_m29_fc6",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Nezle / soğuk algınlığı (Zukâmun)",
+      "subtitle": "SRS Kartı · M29 · Kök: ز-ك-م",
+      "ar": "زُكَامٌ",
+      "kok": "ز-ك-م",
+      "keywords": "زكام فُعَالٌ Sülâsî Mastar"
+    },
+    {
+      "id": "search_card_m29_fc7",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Kaynama / coşma (Galeyânun)",
+      "subtitle": "SRS Kartı · M29 · Kök: غ-ل-ي",
+      "ar": "غَلَيَانٌ",
+      "kok": "غ-ل-ي",
+      "keywords": "غليان فَعَلَانٌ Sülâsî Mastar"
+    },
+    {
+      "id": "search_card_m29_fc8",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Uçuş / havacılık (Tayerânun)",
+      "subtitle": "SRS Kartı · M29 · Kök: ط-ي-ر",
+      "ar": "طَيَرَانٌ",
+      "kok": "ط-ي-ر",
+      "keywords": "طيران فَعَلَانٌ Sülâsî Mastar"
+    },
+    {
+      "id": "search_card_m29_fc9",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Akış / akım / cereyan (Cereyânun)",
+      "subtitle": "SRS Kartı · M29 · Kök: ج-ر-ي",
+      "ar": "جَرَيَانٌ",
+      "kok": "ج-ر-ي",
+      "keywords": "جريان فَعَلَانٌ Sülâsî Mastar"
+    },
+    {
+      "id": "search_card_m29_fc10",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Kalkınma / geliştirme (Tenmiyetun)",
+      "subtitle": "SRS Kartı · M29 · Kök: ن-م-و",
+      "ar": "تَنْمِيَةٌ",
+      "kok": "ن-م-و",
+      "keywords": "تنمية تَفْعِلَةٌ Mezîd Mastar"
+    },
+    {
+      "id": "search_card_m29_fc11",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Üretim / prodüksiyon (İntâcun)",
+      "subtitle": "SRS Kartı · M29 · Kök: ن-ت-ج",
+      "ar": "إِنْتَاجٌ",
+      "kok": "ن-ت-ج",
+      "keywords": "إنتاج إِفْعَالٌ Mezîd Mastar"
+    },
+    {
+      "id": "search_card_m29_fc12",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Programlama / yazılım (Bermecetun)",
+      "subtitle": "SRS Kartı · M29 · Kök: ب-ر-م-ج",
+      "ar": "بَرْمَجَةٌ",
+      "kok": "ب-ر-م-ج",
+      "keywords": "برمجة فَعْلَلَةٌ Rubâî Mastar"
+    },
+    {
+      "id": "search_card_m29_fc13",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Çaba / gayret (= سَعْيٌ) (Mes‘an)",
+      "subtitle": "SRS Kartı · M29 · Kök: س-ع-ي",
+      "ar": "مَسْعًى",
+      "kok": "س-ع-ي",
+      "keywords": "مسعى مَفْعَلٌ Mimli Mastar"
+    },
+    {
+      "id": "search_card_m29_fc14",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Talep / istek (= طَلَبٌ) (Matlabun)",
+      "subtitle": "SRS Kartı · M29 · Kök: ط-ل-ب",
+      "ar": "مَطْلَبٌ",
+      "kok": "ط-ل-ب",
+      "keywords": "مطلب مَفْعَلٌ Mimli Mastar"
+    },
+    {
+      "id": "search_card_m29_fc15",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Duruş / tavır / tutum (veya durak) (Mevkıfun)",
+      "subtitle": "SRS Kartı · M29 · Kök: و-ق-ف",
+      "ar": "مَوْقِفٌ",
+      "kok": "و-ق-ف",
+      "keywords": "موقف مَفْعِلٌ Mimli Mastar"
+    },
+    {
+      "id": "search_card_m29_fc16",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Sevgi / muhabbet (= حُبٌّ) (Mehabbetun)",
+      "subtitle": "SRS Kartı · M29 · Kök: ح-ب-ب",
+      "ar": "مَحَبَّةٌ",
+      "kok": "ح-ب-ب",
+      "keywords": "محبة مَفْعَلَةٌ Mimli Mastar"
+    },
+    {
+      "id": "search_card_m29_fc17",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Bağışlama / mağfiret (= غُفْرَانٌ) (Magfiratun)",
+      "subtitle": "SRS Kartı · M29 · Kök: غ-ف-ر",
+      "ar": "مَغْفِرَةٌ",
+      "kok": "غ-ف-ر",
+      "keywords": "مغفرة مَفْعِلَةٌ Mimli Mastar"
+    },
+    {
+      "id": "search_card_m29_fc18",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Fayda / yarar / menfaat (= نَفْعٌ) (Menfe‘atun)",
+      "subtitle": "SRS Kartı · M29 · Kök: ن-ف-ع",
+      "ar": "مَنْفَعَةٌ",
+      "kok": "ن-ف-ع",
+      "keywords": "منفعة مَفْعَلَةٌ Mimli Mastar"
+    },
+    {
+      "id": "search_card_m29_fc19",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Başlangıç / hareket noktası (= اِنْطِلَاقٌ) (Muntalekun)",
+      "subtitle": "SRS Kartı · M29 · Kök: ط-ل-ق",
+      "ar": "مُنْطَلَقٌ",
+      "kok": "ط-ل-ق",
+      "keywords": "منطلق مُنْفَعَلٌ Mimli Mastar"
+    },
+    {
+      "id": "search_card_m29_fc20",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Kazanım / kazanç (= كَسْبٌ) (Meksebun)",
+      "subtitle": "SRS Kartı · M29 · Kök: ك-س-ب",
+      "ar": "مَكْسَبٌ",
+      "kok": "ك-س-ب",
+      "keywords": "مكسب مَفْعَلٌ Mimli Mastar"
+    },
+    {
+      "id": "search_card_m29_fc21",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Özgürlük / hürriyet (Hurriyyetun)",
+      "subtitle": "SRS Kartı · M29 · Kök: ح-ر-ر",
+      "ar": "حُرِّيَّةٌ",
+      "kok": "ح-ر-ر",
+      "keywords": "حرية فُعْلِيَّةٌ (ـِيَّة) Sınâî Mastar"
+    },
+    {
+      "id": "search_card_m29_fc22",
+      "type": "card",
+      "moduleId": "29",
+      "title": "İnsanlık / insaniyet (İnsâniyyetun)",
+      "subtitle": "SRS Kartı · M29 · Kök: أ-ن-س",
+      "ar": "إِنْسَانِيَّةٌ",
+      "kok": "أ-ن-س",
+      "keywords": "إنسانية فِعْلَانِيَّةٌ (ـِيَّة) Sınâî Mastar"
+    },
+    {
+      "id": "search_card_m29_fc23",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Sorumluluk / mesuliyet (Mes’ûliyyetun)",
+      "subtitle": "SRS Kartı · M29 · Kök: س-أ-ل",
+      "ar": "مَسْؤُولِيَّةٌ",
+      "kok": "س-أ-ل",
+      "keywords": "مسؤولية مَفْعُولِيَّةٌ (ـِيَّة) Sınâî Mastar"
+    },
+    {
+      "id": "search_card_m29_fc24",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Şeffaflık / saydamlık (Şefâfiyyetun)",
+      "subtitle": "SRS Kartı · M29 · Kök: ش-ف-ف",
+      "ar": "شَفَافِيَّةٌ",
+      "kok": "ش-ف-ف",
+      "keywords": "شفافية فَعَالِيَّةٌ (ـِيَّة) Sınâî Mastar"
+    },
+    {
+      "id": "search_card_m29_fc25",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Nesnellik / objektiflik (Mevdû‘iyyetun)",
+      "subtitle": "SRS Kartı · M29 · Kök: و-ض-ع",
+      "ar": "مَوْضُوعِيَّةٌ",
+      "kok": "و-ض-ع",
+      "keywords": "موضوعية مَفْعُولِيَّةٌ (ـِيَّة) Sınâî Mastar"
+    },
+    {
+      "id": "search_card_m29_fc26",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Etkinlik / verimlilik (Fâ‘iliyyetun)",
+      "subtitle": "SRS Kartı · M29 · Kök: ف-ع-ل",
+      "ar": "فَاعِلِيَّةٌ",
+      "kok": "ف-ع-ل",
+      "keywords": "فاعلية فَاعِلِيَّةٌ (ـِيَّة) Sınâî Mastar"
+    },
+    {
+      "id": "search_card_m29_fc27",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Süreklilik / devamlılık (İstimrâriyyetun)",
+      "subtitle": "SRS Kartı · M29 · Kök: م-ر-ر",
+      "ar": "اِسْتِمْرَارِيَّةٌ",
+      "kok": "م-ر-ر",
+      "keywords": "استمرارية اِسْتِفْعَالِيَّةٌ (ـِيَّة) Sınâî Mastar"
+    },
+    {
+      "id": "search_card_m29_fc28",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Bencillik / egoizm (Enâniyyetun)",
+      "subtitle": "SRS Kartı · M29 · Kök: أ-ن-ا",
+      "ar": "أَنَانِيَّةٌ",
+      "kok": "أ-ن-ا",
+      "keywords": "أنانية ـِيَّةٌ Sınâî Mastar"
+    },
+    {
+      "id": "search_card_m29_fc29",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Nitelik / yapılış şekli / keyfiyet (Keyfiyyetun)",
+      "subtitle": "SRS Kartı · M29 · Kök: ك-ي-ف",
+      "ar": "كَيْفِيَّةٌ",
+      "kok": "ك-ي-ف",
+      "keywords": "كيفية ـِيَّةٌ Sınâî Mastar"
+    },
+    {
+      "id": "search_card_m29_fc30",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Bir bakış (1 kez) (Nazratun)",
+      "subtitle": "SRS Kartı · M29 · Kök: ن-ظ-ر",
+      "ar": "نَظْرَةٌ",
+      "kok": "ن-ظ-ر",
+      "keywords": "نظرة فَعْلَةٌ Mastar-ı Merre"
+    },
+    {
+      "id": "search_card_m29_fc31",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Bir oturuş / oturum / celse (Celsetun)",
+      "subtitle": "SRS Kartı · M29 · Kök: ج-ل-س",
+      "ar": "جَلْسَةٌ",
+      "kok": "ج-ل-س",
+      "keywords": "جلسة فَعْلَةٌ Mastar-ı Merre"
+    },
+    {
+      "id": "search_card_m29_fc32",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Oturuş tarzı / biçimi (Cilsetun)",
+      "subtitle": "SRS Kartı · M29 · Kök: ج-ل-س",
+      "ar": "جِلْسَةٌ",
+      "kok": "ج-ل-س",
+      "keywords": "جلسة فِعْلَةٌ Mastar-ı Nevi"
+    },
+    {
+      "id": "search_card_m29_fc33",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Duruş biçimi / tarzı (Vıkfetun)",
+      "subtitle": "SRS Kartı · M29 · Kök: و-ق-ف",
+      "ar": "وِقْفَةٌ",
+      "kok": "و-ق-ف",
+      "keywords": "وقفة فِعْلَةٌ Mastar-ı Nevi"
+    },
+    {
+      "id": "search_card_m29_fc34",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Yürüyüş tarzı / biçimi (Mişyetun)",
+      "subtitle": "SRS Kartı · M29 · Kök: م-ش-ي",
+      "ar": "مِشْيَةٌ",
+      "kok": "م-ش-ي",
+      "keywords": "مشية فِعْلَةٌ Mastar-ı Nevi"
+    },
+    {
+      "id": "search_card_m29_fc35",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Bir atılım / tek çıkış (İntılâkatun)",
+      "subtitle": "SRS Kartı · M29 · Kök: ط-ل-ق",
+      "ar": "اِنْطِلَاقَةٌ",
+      "kok": "ط-ل-ق",
+      "keywords": "انطلاقة اِنْفِعَالَةٌ Mezîd Merre"
+    },
+    {
+      "id": "search_card_m29_fc36",
+      "type": "card",
+      "moduleId": "29",
+      "title": "Bir gülümseyiş / tebessüm (İbtisâmetun)",
+      "subtitle": "SRS Kartı · M29 · Kök: ب-س-م",
+      "ar": "اِبْتِسَامَةٌ",
+      "kok": "ب-س-م",
+      "keywords": "ابتسامة اِفْتِعَالَةٌ Mezîd Merre"
+    },
+    {
+      "id": "search_gram_m29_g1",
+      "type": "grammar",
+      "moduleId": "29",
+      "title": "Sülâsî Semâî & Mezîd Kıyâsî Mastarlar — İsimleştirmenin Ana Motoru",
+      "subtitle": "Gramer Kuralı · M29",
+      "ar": "الْمَصْدَرُ الصَّرِيحُ: السَّمَاعِيُّ فِي الثُّلَاثِيِّ وَالْقِيَاسِيُّ فِي الْمَزِيدِ",
+      "keywords": "Sülâsî: Semâî (فِعَالَة meslek, فُعَال hastalık, فَعَلَان hareket, فُعُول lâzım) | Mezîd II–X: %100 Kıyâsî! **Mastar (الْمَصْدَرُ)**, Arapçada zaman ve şahıs kaydı olmaksızın bir eylemin/oluşun **saf adını** bildiren isimdir (Tü"
+    },
+    {
+      "id": "search_gram_m29_g2",
+      "type": "grammar",
+      "moduleId": "29",
+      "title": "Mimli Mastar (الْمَصْدَرُ الْمِيمِيُّ) — Başında Fazladan 'م' Bulunan Mastar",
+      "subtitle": "Gramer Kuralı · M29",
+      "ar": "الْمَصْدَرُ الْمِيمِيُّ وَصِيَاغَتُهُ مِنَ الثُّلَاثِيِّ وَغَيْرِ الثُّلَاثِيِّ",
+      "keywords": "Sülâsî: مَفْعَلٌ (genel) / مَفْعِلٌ (misâl-i vâvî) + bazılarında ة | Mezîd: مُـ + sondan önceki fetha (ism-i mef'ûl kalıbı)! **Mimli Mastar (الْمَصْدَرُ الْمِيمِيُّ)**, anlamca normal (aslî) mastarla **birebir aynı** olup yalnızca başına fazlada"
+    },
+    {
+      "id": "search_gram_m29_g3",
+      "type": "grammar",
+      "moduleId": "29",
+      "title": "Yapma (Sınâî) Mastar (الْمَصْدَرُ الصِّنَاعِيُّ) — Türkçedeki '-lik / -lık / -izm' Fabrikası",
+      "subtitle": "Gramer Kuralı · M29",
+      "ar": "الْمَصْدَرُ الصِّنَاعِيُّ (ـِيَّة) وَالْفَرْقُ بَيْنَهُ وَبَيْنَ الِاسْمِ الْمَنْسُوبِ",
+      "keywords": "İsim + ـِيَّةٌ = Sınâî Mastar (-lik/-lık/-izm) | ŞART: Cümlede SIFAT (na't) konumunda OLMAYACAK! (Sıfat ise İsm-i Mensûb!) Modern Arapça, felsefe, siyaset, sosyoloji, bilim ve YDS/YÖKDİL metinlerinin **en üretken** soyut isim makinesi **Sınâî "
+    },
+    {
+      "id": "search_gram_m29_g4",
+      "type": "grammar",
+      "moduleId": "29",
+      "title": "Mastar-ı Merre (فَعْلَة — 'Bir Kez') & Mastar-ı Nevi / Hey'et (فِعْلَة — 'Tarz/Biçim')",
+      "subtitle": "Gramer Kuralı · M29",
+      "ar": "اِسْمُ الْمَرَّةِ (فَعْلَة) وَاسْمُ الْهَيْئَةِ / النَّوْعِ (فِعْلَة)",
+      "keywords": "Mastar-ı Merre (1 kez): Sülâsî فَعْلَةٌ (fetha!) | Mezîd: Mastar + ة (zaten ة varsa + وَاحِدَةٌ) || Mastar-ı Nevi (tarz): Sülâsî فِعْلَةٌ (kesra!) Arapça o kadar hassas bir dildir ki, **sadece ilk harfin harekesini Fetha (`فَـ`) veya Kesra (`فِـ`) yaparak** bir eylem"
+    },
+    {
+      "id": "search_gram_m29_g5",
+      "type": "grammar",
+      "moduleId": "29",
+      "title": "Mastarın Fiil Gibi Amel Etmesi (إِعْمَالُ الْمَصْدَرِ) — İsim Kılığındaki Fiil!",
+      "subtitle": "Gramer Kuralı · M29",
+      "ar": "عَمَلُ الْمَصْدَرِ عَمَلَ فِعْلِهِ (إِضَافَتُهُ إِلَى فَاعِلِهِ أَوْ مَفْعُولِهِ)",
+      "keywords": "Mastar (= أَنْ + Fiil) → Fâiline muzâf + Mef'ûlü MANSUB! | قِرَاءَتُكَ الْكِتَابَ / إِطْعَامٌ يَتِيمًا B1 → B2 düzeyinde Arapça metinleri ve YDS/YÖKDİL paragraflarını okurken karşına çıkacak **en hayati nahiv sırrı** şudur:"
     },
     {
       "id": "search_verb_0",

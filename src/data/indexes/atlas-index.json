@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T09:11:25.159Z",
+  "generatedAt": "2026-11-23T09:38:31.624Z",
   "prepositionalVerbs": [
     {
       "ar": "بَحَثَ عَنْ",
@@ -1270,6 +1270,141 @@
       "arBaslik": "أَشْهَرُ أَفْعَالِ التَّفَعُّلِ وَالتَّفَاعُلِ فِي الِاخْتِبَارَاتِ مَعَ حُرُوفِ الْجَرِّ",
       "formul": "تَعَرَّضَ لِـ · تَمَكَّنَ مِنْ · تَكَوَّنَ مِنْ · تَوَقَّفَ عَنْ (bırakmak) ≠ عَلَى (-e bağlı olmak) · تَعَامَلَ مَعَ · تَنَاوَلَ",
       "mantik": "YDS ve YÖKDİL Arapçada en yüksek puan getiren hazinelerden biri de **V. ve VI. bab harf-i cerli fiilleridir**! Bu fiiller sınav metinlerinin neredeyse her paragrafında karşına çıkar ve harf-i cerleriyle birlikte tek bir kalıp gibi ezberlenmelidir: (1) `تَعَرَّ…"
+    },
+    {
+      "id": "m27_g1",
+      "moduleId": "27",
+      "cefr": "B1",
+      "baslik": "VII. Bab: İnfiâl (اِنْفَعَلَ – يَنْفَعِلُ – اِنْفِعَالًا) — Edilgenimsi Dönüşlülük",
+      "arBaslik": "بَابُ الِانْفِعَالِ (اِنْفَعَلَ – يَنْفَعِلُ – اِنْفِعَالًا)",
+      "formul": "Mâzi: اِنْفَعَلَ (Vasıl!) | Muzâri: يَنْفَعِلُ (Fetha + Kesra) | Emir: اِنْفَعِلْ! | Mastar: اِنْفِعَالًا | Daima LÂZIM!",
+      "mantik": "Şimdi 5 harfli (humâsî) mezîd babların vasıl hemzesiyle başlayan grubuna geçiyoruz! İlk durağımız **VII. Bab (İnfiâl: اِنْفَعَلَ – يَنْفَعِلُ – اِنْفِعَالًا)**! Kökün başına vasıl hemzesi ve sakin bir nûn (`اِنْـ`) eklenerek kurulur: `كَسَرَ` (kırdı) → `اِنْكَ…"
+    },
+    {
+      "id": "m27_g2",
+      "moduleId": "27",
+      "cefr": "B1",
+      "baslik": "İnfiâl (VII. Bab) vs. Meçhul Fiil İnce Anlam Farkı",
+      "arBaslik": "الْفَرْقُ بَيْنَ بَابِ الِانْفِعَالِ وَالْفِعْلِ الْمَبْنِيِّ لِلْمَجْهُولِ",
+      "formul": "Meçhul (فُعِلَ) = Dış bir fâil tarafından yapıldı | VII. Bab (اِنْفَعَلَ) = Kendi kendine / sonuç odaklı gerçekleşti",
+      "mantik": "Öğrencilerin en çok merak ettiği nefis bir soru: **'كُسِرَ الْكُوبُ' de 'Bardak kırıldı' demek, 'اِنْكَسَرَ الْكُوبُ' de 'Bardak kırıldı' demek! Peki aralarında ne fark var?'** İşte farkı 1 saniyede hisset: (1) **Meçhul Fiil (`كُسِرَ الْكُوبُ`):** Arkasında bi…"
+    },
+    {
+      "id": "m27_g3",
+      "moduleId": "27",
+      "cefr": "B1",
+      "baslik": "VIII. Bab: İftiâl (اِفْتَعَلَ – يَفْتَعِلُ – اِفْتِعَالًا) — Çekim, Emir & Meçhul",
+      "arBaslik": "بَابُ الِافْتِعَالِ (اِفْتَعَلَ – يَفْتَعِلُ – اِفْتِعَالًا)",
+      "formul": "Mâzi: اِفْتَعَلَ (Vasıl!) | Muzâri: يَفْتَعِلُ | Emir: اِفْتَعِلْ! | Mastar: اِفْتِعَالًا | Meçhul: اُفْتُعِلَ / يُفْتَعَلُ",
+      "mantik": "Şimdi Arapçanın en zengin, en üretken ve YDS'de en çok karşına çıkan bablarından birine geldik: **VIII. Bab (İftiâl: اِفْتَعَلَ – يَفْتَعِلُ – اِفْتِعَالًا)**! Bu bab, üç harfli kökün **1. harfi ile 2. harfi arasına** bir **`تَ`** ekleyip başa vasıl hemzesi ko…"
+    },
+    {
+      "id": "m27_g4",
+      "moduleId": "27",
+      "cefr": "B1",
+      "baslik": "VIII. Babın Efsanevi Ses Uyumu (İbdâl): ت → ط, ت → د, و/ي → ت!",
+      "arBaslik": "الْإِبْدَالُ فِي بَابِ الِافْتِعَالِ (ص/ض/ط/ظ ← ط | د/ذ/ز ← د | و/ي ← ت)",
+      "formul": "ص/ض/ط/ظ + ت → ط (اِضْطَرَبَ) | د/ذ/ز + ت → د (اِزْدَادَ) | و/ي/أَخَذَ + ت → تّ (اِتَّصَلَ/اِتَّخَذَ)",
+      "mantik": "İşte Arapça sarfında öğrencilerin yıllarca 'Bunun kökü ne?!' diye şaşırdığı ama 3 dakikada tüm sırrı çözülen **VIII. Bab İbdâl (Ses Uyumu) Mucizesi**! VIII. babda kökün 1. harfinin hemen ardına ince bir **`ت`** gelir (`اِفْتَعَلَ`). Ancak bazı harflerin ardınd…"
+    },
+    {
+      "id": "m27_g5",
+      "moduleId": "27",
+      "cefr": "B1",
+      "baslik": "YDS Kök Çözümleme Dedektifliği & VII.–VIII. Bab Harf-i Cerli Fiilleri",
+      "arBaslik": "اسْتِخْرَاجُ الْجُذُورِ وَأَفْعَالُ الِانْفِعَالِ وَالِافْتِعَالِ فِي الِاخْتِبَارَاتِ",
+      "formul": "اِعْتَمَدَ عَلَى · اِقْتَصَرَ عَلَى · اِلْتَزَمَ بِـ · اِرْتَبَطَ بِـ · اِتَّسَمَ بِـ · اِفْتَقَرَ إِلَى",
+      "mantik": "YDS / YÖKDİL sınavında metin okurken karşına uzun bir VIII. bab kelimesi çıktığında (mesela `اِقْتِصَادِيَّة، مُصْطَلَحَات، مُتَّهِم، مُضْطَرِب، اِلْتِزَام`) artık asla panikleme! **3 Adımlı Kök Dedektifliği:** (1) Baştaki `اِـ` veya `مُـ` ön ekini soy, (2) 2.…"
+    },
+    {
+      "id": "m28_g1",
+      "moduleId": "28",
+      "cefr": "B1",
+      "baslik": "IX. Bab: İf'ilâl (اِفْعَلَّ – يَفْعَلُّ – اِفْعِلَالًا) — Renkler ve Fiziksel Kusurlar",
+      "arBaslik": "بَابُ الِافْعِلَالِ (اِفْعَلَّ – يَفْعَلُّ – اِفْعِلَالًا) لِلْأَلْوَانِ وَالْعُيُوبِ",
+      "formul": "Mâzi: اِفْعَلَّ (Vasıl!) | Muzâri: يَفْعَلُّ | Mastar: اِفْعِلَالًا (Şedde çözülür!) | Daima LÂZIM!",
+      "mantik": "Mezîd fiillerin en özel, en görsel ve en dar amaçlı babı **IX. Bab (İf'ilâl: اِفْعَلَّ – يَفْعَلُّ – اِفْعِلَالًا)**dır! Kökün başına vasıl hemzesi getirilir ve **son harfi (lâm'ul-fiil) şeddelenir**: `حَمِرَ` → `اِحْمَرَّ` (kıpkırmızı oldu / kızardı), `خَضِرَ…"
+    },
+    {
+      "id": "m28_g2",
+      "moduleId": "28",
+      "cefr": "B1",
+      "baslik": "X. Bab: İstif'âl (اِسْتَفْعَلَ – يَسْتَفْعِلُ – اِسْتِفْعَالًا) — Talep, Sayma & Dönüşme",
+      "arBaslik": "بَابُ الِاسْتِفْعَالِ (اِسْتَفْعَلَ – يَسْتَفْعِلُ – اِسْتِفْعَالًا)",
+      "formul": "Mâzi: اِسْتَفْعَلَ (Vasıl!) | Muzâri: يَسْتَفْعِلُ | Emir: اِسْتَفْعِلْ! | Mastar: اِسْتِفْعَالًا (Ecvef: اِسْتِفَالَةً)",
+      "mantik": "Mezîd fiillerin zirvesi ve 10 babın en kolay tanınan yıldızı: **X. Bab (İstif'âl: اِسْتَفْعَلَ – يَسْتَفْعِلُ – اِسْتِفْعَالًا)**! Kökün başına vasıl hemzeli **`اِسْتَـ`** (3 fazla harf) eklenerek 6 harfli (südâsî) fiil kurulur: `خَرَجَ` → `اِسْتَخْرَجَ` (çıka…"
+    },
+    {
+      "id": "m28_g3",
+      "moduleId": "28",
+      "cefr": "B1",
+      "baslik": "Rubâî (4 Kök Harfli) Mücerred ve Mezîd Fiiller (تَرْجَمَ / تَدَحْرَجَ / اِطْمَأَنَّ)",
+      "arBaslik": "الْفِعْلُ الرُّبَاعِيُّ الْمُجَرَّدُ وَالْمَزِيدُ (فَعْلَلَ – تَفَعْلَلَ – اِفْعَلَلَّ)",
+      "formul": "Mücerred: فَعْلَلَ – يُفَعْلِلُ – فَعْلَلَةً | Mezîd I: تَفَعْلَلَ – يَتَفَعْلَلُ – تَفَعْلُلًا | Mezîd II: اِفْعَلَلَّ – يَفْعَلِلُّ – اِفْعِلَّالًا",
+      "mantik": "Şimdiye dek hep 3 harfli (sülâsî) kökleri gördük; peki Arapçada kök harfi baştan **4 tane** olan (Rubâî) fiiller yok mu? Elbette var ve sayıları çok makul olduğu için 2 dakikada tamamını kavrayabilirsin! (1) **Rubâî Mücerred (`فَعْلَلَ – يُفَعْلِلُ – فَعْلَلَة…"
+    },
+    {
+      "id": "m28_g4",
+      "moduleId": "28",
+      "cefr": "B1",
+      "baslik": "Te'kîd Nûnu (نُونُ التَّوْكِيدِ الثَّقِيلَةُ وَالْخَفِيفَةُ) — Kesin Vurgu ve Yemin Sistemi",
+      "arBaslik": "نُونُ التَّوْكِيدِ الثَّقِيلَةُ وَالْخَفِيفَةُ وَأَحْكَامُ تَوْكِيدِ الْفِعْلِ",
+      "formul": "وَاللّٰهِ + لَـ + Muzâri (Olumlu, Gelecek) + نَّ = VACİP! | Emir / Nehiy / Soru + نَّ = CAİZ! | Fetha Mebnî!",
+      "mantik": "Arapçada bir eylemi 'MUTLAKA / KESİNLİKLE' vurgusuyla çelik gibi pekiştirmek istediğimizde fiilin sonuna **Te'kîd Nûnu (Pekiştirme Nûnu)** ekleriz! İki çeşidi vardır: (1) **Ağır (Sakîle) Te'kîd Nûnu:** fethalı şeddeli `ـنَّ` (`لَأَجْتَهِدَنَّ` = Mutlaka çok ça…"
+    },
+    {
+      "id": "m28_g5",
+      "moduleId": "28",
+      "cefr": "B1",
+      "baslik": "Büyük 10 Bab Karşılaştırma Matrisi (I–X Bablar + Rubâî) & YDS Özeti",
+      "arBaslik": "الْجَدْوَلُ الشَّامِلُ لِلْأَبْوَابِ الْعَشَرَةِ وَالرُّبَاعِيِّ",
+      "formul": "4 Harfli (II, III, IV, Rubâî) = يُـ | 5–6 Harfli (VII–X) = Vasıl ا | Sadece IV. Bab = Kat' أَ/إِ!",
+      "mantik": "Tebrikler!! M24'ten M28'e kadar Arapça fiil sisteminin **TÜM 10 BABINI** ve **RUBÂÎ** fiilleri bitirdin! Şimdi kuş bakışı bakarak tüm sistemi tek bir 'kokpit ekranında' birleştirelim! 10 babı aklında tutmanın en pratik 3 altın anahtarı: ① **MUZÂRAAT HARFİ KURA…"
+    },
+    {
+      "id": "m29_g1",
+      "moduleId": "29",
+      "cefr": "B1",
+      "baslik": "Sülâsî Semâî & Mezîd Kıyâsî Mastarlar — İsimleştirmenin Ana Motoru",
+      "arBaslik": "الْمَصْدَرُ الصَّرِيحُ: السَّمَاعِيُّ فِي الثُّلَاثِيِّ وَالْقِيَاسِيُّ فِي الْمَزِيدِ",
+      "formul": "Sülâsî: Semâî (فِعَالَة meslek, فُعَال hastalık, فَعَلَان hareket, فُعُول lâzım) | Mezîd II–X: %100 Kıyâsî!",
+      "mantik": "**Mastar (الْمَصْدَرُ)**, Arapçada zaman ve şahıs kaydı olmaksızın bir eylemin/oluşun **saf adını** bildiren isimdir (Türkçedeki `-mek/-mak, -me/-ma, -iş/-uş` eklerinin tam karşılığıdır: `كَتَبَ` → `كِتَابَةٌ` [yazmak/yazı], `قَرَأَ` → `قِرَاءَةٌ` [okumak/okum…"
+    },
+    {
+      "id": "m29_g2",
+      "moduleId": "29",
+      "cefr": "B1",
+      "baslik": "Mimli Mastar (الْمَصْدَرُ الْمِيمِيُّ) — Başında Fazladan 'م' Bulunan Mastar",
+      "arBaslik": "الْمَصْدَرُ الْمِيمِيُّ وَصِيَاغَتُهُ مِنَ الثُّلَاثِيِّ وَغَيْرِ الثُّلَاثِيِّ",
+      "formul": "Sülâsî: مَفْعَلٌ (genel) / مَفْعِلٌ (misâl-i vâvî) + bazılarında ة | Mezîd: مُـ + sondan önceki fetha (ism-i mef'ûl kalıbı)!",
+      "mantik": "**Mimli Mastar (الْمَصْدَرُ الْمِيمِيُّ)**, anlamca normal (aslî) mastarla **birebir aynı** olup yalnızca başına fazladan (zâid) bir **م** harfi getirilerek oluşturulan mastardır (yalnızca III. babdaki `مُفَاعَلَةٌ` mimli mastar sayılmaz, o III. babın aslî mas…"
+    },
+    {
+      "id": "m29_g3",
+      "moduleId": "29",
+      "cefr": "B1",
+      "baslik": "Yapma (Sınâî) Mastar (الْمَصْدَرُ الصِّنَاعِيُّ) — Türkçedeki '-lik / -lık / -izm' Fabrikası",
+      "arBaslik": "الْمَصْدَرُ الصِّنَاعِيُّ (ـِيَّة) وَالْفَرْقُ بَيْنَهُ وَبَيْنَ الِاسْمِ الْمَنْسُوبِ",
+      "formul": "İsim + ـِيَّةٌ = Sınâî Mastar (-lik/-lık/-izm) | ŞART: Cümlede SIFAT (na't) konumunda OLMAYACAK! (Sıfat ise İsm-i Mensûb!)",
+      "mantik": "Modern Arapça, felsefe, siyaset, sosyoloji, bilim ve YDS/YÖKDİL metinlerinin **en üretken** soyut isim makinesi **Sınâî (Yapma) Mastar (الْمَصْدَرُ الصِّنَاعِيُّ)**dır! Kurulumu çocuk oyuncağı kadar kolaydır: Herhangi bir ismin (câmid, müştak, hatta zamir veya…"
+    },
+    {
+      "id": "m29_g4",
+      "moduleId": "29",
+      "cefr": "B1",
+      "baslik": "Mastar-ı Merre (فَعْلَة — 'Bir Kez') & Mastar-ı Nevi / Hey'et (فِعْلَة — 'Tarz/Biçim')",
+      "arBaslik": "اِسْمُ الْمَرَّةِ (فَعْلَة) وَاسْمُ الْهَيْئَةِ / النَّوْعِ (فِعْلَة)",
+      "formul": "Mastar-ı Merre (1 kez): Sülâsî فَعْلَةٌ (fetha!) | Mezîd: Mastar + ة (zaten ة varsa + وَاحِدَةٌ) || Mastar-ı Nevi (tarz): Sülâsî فِعْلَةٌ (kesra!)",
+      "mantik": "Arapça o kadar hassas bir dildir ki, **sadece ilk harfin harekesini Fetha (`فَـ`) veya Kesra (`فِـ`) yaparak** bir eylemin **'kaç kez (1 kere)'** mi yoksa **'hangi tarzda / biçimde'** mi yapıldığını tek kelimede söyler! **(1) Mastar-ı Merre (اِسْمُ الْمَرَّةِ …"
+    },
+    {
+      "id": "m29_g5",
+      "moduleId": "29",
+      "cefr": "B1",
+      "baslik": "Mastarın Fiil Gibi Amel Etmesi (إِعْمَالُ الْمَصْدَرِ) — İsim Kılığındaki Fiil!",
+      "arBaslik": "عَمَلُ الْمَصْدَرِ عَمَلَ فِعْلِهِ (إِضَافَتُهُ إِلَى فَاعِلِهِ أَوْ مَفْعُولِهِ)",
+      "formul": "Mastar (= أَنْ + Fiil) → Fâiline muzâf + Mef'ûlü MANSUB! | قِرَاءَتُكَ الْكِتَابَ / إِطْعَامٌ يَتِيمًا",
+      "mantik": "B1 → B2 düzeyinde Arapça metinleri ve YDS/YÖKDİL paragraflarını okurken karşına çıkacak **en hayati nahiv sırrı** şudur: **Mastar bir İSİM olmasına rağmen, kendi fiili gibi AMEL EDER; yani fâil (özne) merfû ve mef'ûlün bih (nesne) MANSUB alabilir!** Nasıl yani…"
     }
   ],
   "quickPractice": [
@@ -5172,6 +5307,456 @@
       ],
       "dogruIndeks": 0,
       "aciklama": "تَمَكَّنَ مِنْ = -ebilmek, muktedir olmak."
+    },
+    {
+      "id": "atlas_m27_t1",
+      "moduleId": "27",
+      "kategori": "İleri Sarf",
+      "soru": "'اِنْطَلَقَ' (hareket etti/başladı) fiilinin muzâri ve mastarı hangisinde doğru verilmiştir?",
+      "soruAr": "",
+      "secenekler": [
+        "يَنْطَلِقُ – اِنْطِلَاقًا",
+        "يُنْطَلِقُ – إِنْطِلَاقًا",
+        "يَنْطَلَقُ – اِنْطَلَاقًا",
+        "يَطَّلِقُ – اِطِّلَاقًا"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "VII. bab muzârisi يَنْفَعِلُ (يَنْطَلِقُ), mastarı vasıl hemzeli اِنْفِعَالًا (اِنْطِلَاقًا)."
+    },
+    {
+      "id": "atlas_m27_t2",
+      "moduleId": "27",
+      "kategori": "İleri Sarf",
+      "soru": "Aşağıdaki fiillerden hangisi VII. bab (İnfiâl) DEĞİLDİR (başındaki ن harfi kök harfidir)?",
+      "soruAr": "",
+      "secenekler": [
+        "اِنْتَظَرَ (bekledi — kök ن-ظ-ر, VIII. bab!)",
+        "اِنْكَسَرَ (kırıldı — kök ك-س-ر)",
+        "اِنْفَتَحَ (açıldı — kök ف-ت-ح)",
+        "اِنْسَحَبَ (çekildi — kök س-ح-ب)"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "اِنْتَظَرَ'nin kökü ن-ظ-ر'dır; اِ + ن + تَ + ظ + ر → VIII. bab (اِفْتَعَلَ)!"
+    },
+    {
+      "id": "atlas_m27_t11",
+      "moduleId": "27",
+      "kategori": "İleri Sarf",
+      "soru": "'اِنْكَسَرَ الْغُصْنُ' cümlesinde 'الْغُصْنُ' kelimesinin nahivdeki konumu nedir?",
+      "soruAr": "",
+      "secenekler": [
+        "Fâil (اِنْكَسَرَ etken bir VII. bab fiilidir!)",
+        "Nâib-i fâil",
+        "Mef'ûlün bih",
+        "Haber"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Meçhul كُسِرَ الْغُصْنُ'de nâib-i fâil olur; ama etken اِنْكَسَرَ الْغُصْنُ'de normal merfû FÂİLDİR!"
+    },
+    {
+      "id": "atlas_m27_t12",
+      "moduleId": "27",
+      "kategori": "İleri Sarf",
+      "soru": "'أَطْفَأَ رَجُلُ الْإِطْفَاءِ النَّارَ فَـ..... النَّارُ.' (İtfaiyeci ateşi söndürdü, ateş de söndü) boşluğuna hangi VII. bab fiil gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "اِنْطَفَأَتِ",
+        "أُطْفِئَتِ",
+        "طَفِئَتْ",
+        "اِطَّفَأَتِ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "أَطْفَأَ (IV. bab: söndürdü) fiilinin VII. bab mutâvaatı اِنْطَفَأَ (söndü)!"
+    },
+    {
+      "id": "atlas_m27_t21",
+      "moduleId": "27",
+      "kategori": "İleri Sarf",
+      "soru": "'اِكْتَشَفَ الْبَاحِثُونَ مَخْطُوطَةً نَادِرَةً.' cümlesinin mâzi meçhul (edilgen) şekli hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "اُكْتُشِفَتْ مَخْطُوطَةٌ نَادِرَةٌ.",
+        "اِكْتُشِفَتْ مَخْطُوطَةٌ نَادِرَةٌ.",
+        "كُشِفَتْ مَخْطُوطَةٌ نَادِرَةٌ.",
+        "اُكْتَشَفَتْ مَخْطُوطَةٌ نَادِرَةٌ."
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "VIII. bab mâzi meçhulde 1. ve 3. harf dammelenir: اُفْتُعِلَ → اُكْتُشِفَتْ."
+    },
+    {
+      "id": "atlas_m27_t22",
+      "moduleId": "27",
+      "kategori": "İleri Sarf",
+      "soru": "'اِخْتَارَ' (seçti) ecvef VIII. bab fiilinin tekil eril emri (أَنْتَ) ve mâzi meçhulü hangisinde doğrudur?",
+      "soruAr": "",
+      "secenekler": [
+        "اِخْتَرْ / اُخْتِيرَ",
+        "اِخْتَارْ / اُخْتَارَ",
+        "أَخْتِرْ / اُخْتُورَ",
+        "خْتَرْ / خِيرَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Ecvef VIII. bab: tekil emirde iki sakin çakışmasın diye elif düşer (اِخْتَرْ), mâzi meçhul اُخْتِيرَ."
+    },
+    {
+      "id": "atlas_m27_t31",
+      "moduleId": "27",
+      "kategori": "İleri Sarf",
+      "soru": "'اِتَّصَلَ' (bağlandı/aradı) ve 'اِتَّفَقَ' (anlaştı) fiillerinin 3 harfli saf kökleri sırasıyla nedir?",
+      "soruAr": "",
+      "secenekler": [
+        "و-ص-ل ve و-ف-ق",
+        "ت-ص-ل ve ت-ف-ق",
+        "أ-ص-ل ve أ-ف-ق",
+        "ص-ل-ي ve ف-ق-ه"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Misâl-i vâvî köklerin VIII. babında و harfi ت'ye dönüşür ve idğam olur: اِوْتَصَلَ → اِتَّصَلَ; اِوْتَفَقَ → اِتَّفَقَ."
+    },
+    {
+      "id": "atlas_m27_t32",
+      "moduleId": "27",
+      "kategori": "İleri Sarf",
+      "soru": "'اِزْدَادَ' (arttı) ve 'اِزْدَهَرَ' (gelişti/parladı) fiillerinde ت harfi neden د harfine dönüşmüştür?",
+      "soruAr": "",
+      "secenekler": [
+        "Kökün 1. harfi ز olduğu için VIII. babın ت harfi ses uyumuyla د olur",
+        "Köklerinde د harfi bulunduğu için",
+        "VII. bab oldukları için",
+        "IV. bab oldukları için"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Kök 1. harfi د، ذ، ز ise VIII. babın ت harfi د'ye çevrilir: ز-ي-د → اِزْدَادَ; ز-ه-ر → اِزْدَهَرَ."
+    },
+    {
+      "id": "atlas_m27_t41",
+      "moduleId": "27",
+      "kategori": "İleri Sarf",
+      "soru": "'تَفْتَقِرُ هٰذِهِ الْمِنْطَقَةُ ..... الْأَمْطَارِ فِي فَصْلِ الصَّيْفِ.' (Bu bölge yaz mevsiminde yağmurlardan yoksundur) boşluğuna ne gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "إِلَى",
+        "مِنْ",
+        "عَنْ",
+        "عَلَى"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "اِفْتَقَرَ إِلَى = -den yoksun olmak, eksiği olmak."
+    },
+    {
+      "id": "atlas_m27_t42",
+      "moduleId": "27",
+      "kategori": "İleri Sarf",
+      "soru": "'يَتَّسِمُ النِّظَامُ الْجَدِيدُ ..... السُّرْعَةِ وَالْأَمَانِ.' (Yeni sistem hız ve güvenlik özelliğini taşıyor) boşluğuna hangi harf-i cer gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "بِـ (بِالسُّرْعَةِ)",
+        "عَلَى",
+        "مِنْ",
+        "عَنْ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "اِتَّسَمَ بِـ (kök و-س-م) = ... özelliğini taşımak."
+    },
+    {
+      "id": "atlas_m28_t1",
+      "moduleId": "28",
+      "kategori": "İleri Sarf",
+      "soru": "'اِخْضَرَّ' (yeşerdi) fiilinin muzâri ve mastarı hangisinde doğru verilmiştir?",
+      "soruAr": "",
+      "secenekler": [
+        "يَخْضَرُّ – اِخْضِرَارًا",
+        "يُخْضَرُّ – إِخْضِرَارًا",
+        "يَخْضِرُّ – اِخْضَرَارًا",
+        "يَخْضَرُّ – خُضْرَةً"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "IX. bab muzârisi يَفْعَلُّ (يَخْضَرُّ), vasıl hemzeli mastarı اِفْعِلَالًا (اِخْضِرَارًا)."
+    },
+    {
+      "id": "atlas_m28_t2",
+      "moduleId": "28",
+      "kategori": "İleri Sarf",
+      "soru": "'اِصْفَرَّ' (sarardı) fiilinin 1. çoğul mâzisi (نَحْنُ) nasıl çekimlenir?",
+      "soruAr": "",
+      "secenekler": [
+        "اِصْفَرَرْنَا",
+        "اِصْفَرَّنَا",
+        "اِصْفِرَرْنَا",
+        "صَفَرَرْنَا"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Sakin zamire bitişince IX. babın sondaki şeddesi çözülür: اِصْفَرَرْنَا."
+    },
+    {
+      "id": "atlas_m28_t11",
+      "moduleId": "28",
+      "kategori": "İleri Sarf",
+      "soru": "'اِسْتَخْرَجَ الْعُمَّالُ النِّفْطَ.' cümlesinin mâzi meçhul (edilgen) şekli hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "اُسْتُخْرِجَ النِّفْطُ.",
+        "اِسْتُخْرِجَ النِّفْطُ.",
+        "اُسْتَخْرِجَ النِّفْطُ.",
+        "يُسْتَخْرَجُ النِّفْطُ."
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "X. bab mâzi meçhulde 1. ve 3. harf dammelenir: اُسْتُفْعِلَ → اُسْتُخْرِجَ النِّفْطُ."
+    },
+    {
+      "id": "atlas_m28_t12",
+      "moduleId": "28",
+      "kategori": "İleri Sarf",
+      "soru": "Aşağıdaki fiillerden hangisi X. bab DEĞİL, VIII. babdır (başındaki س harfi kök harfidir)?",
+      "soruAr": "",
+      "secenekler": [
+        "اِسْتَمَعَ (dinledi — kök س-م-ع, VIII. bab!)",
+        "اِسْتَغْفَرَ (af diledi — kök غ-ف-ر)",
+        "اِسْتَخْدَمَ (kullandı — kök خ-د-م)",
+        "اِسْتَقْبَلَ (karşıladı — kök ق-ب-ل)"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "اِسْتَمَعَ'nin kökü س-م-ع'dır; س kök harfi, ت ise VIII. bab ekidir (mastarı اِسْتِمَاعٌ)!"
+    },
+    {
+      "id": "atlas_m28_t21",
+      "moduleId": "28",
+      "kategori": "İleri Sarf",
+      "soru": "'تَرْجَمَ' (tercüme etti) fiilinin muzâri etken ve muzâri meçhul biçimleri hangisinde doğru verilmiştir?",
+      "soruAr": "",
+      "secenekler": [
+        "يُتَرْجِمُ / يُتَرْجَمُ",
+        "يَتَرْجَمُ / يُتَرْجَمُ",
+        "يَتَرْجِمُ / يَتُرْجَمُ",
+        "يُتَرَجِّمُ / يُتَرَجَّمُ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "تَرْجَمَ 4 kök harfli Rubâî Mücerreddir: etken يُتَرْجِمُ (damme + kesra), meçhul يُتَرْجَمُ (damme + fetha)."
+    },
+    {
+      "id": "atlas_m28_t22",
+      "moduleId": "28",
+      "kategori": "İleri Sarf",
+      "soru": "'سَيْطَرَ الْفَرِيقُ ..... الْمُبَارَاةِ مُنْذُ الدَّقِيقَةِ الْأُولَى.' (Takım ilk dakikadan itibaren maça hâkim oldu) boşluğuna ne gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "عَلَى",
+        "مِنْ",
+        "عَنْ",
+        "بِـ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "سَيْطَرَ عَلَى = kontrol etmek, hâkim olmak."
+    },
+    {
+      "id": "atlas_m28_t31",
+      "moduleId": "28",
+      "kategori": "İleri Sarf",
+      "soru": "'وَاللّٰهِ لَـ..... فِي عَمَلِي!' (Vallahi işimde mutlaka samimi olacağım — أُخْلِصُ) boşluğuna vacip Te'kîd Nûnuyla ne gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "لَأُخْلِصَنَّ",
+        "لَأُخْلِصُ",
+        "لَأُخْلِصُنَّ",
+        "لَأُخْلِصِنَّ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "4 yemin şartı tamam (vacip) ve 1. tekil → fetha üzere mebnî لَأُخْلِصَنَّ!"
+    },
+    {
+      "id": "atlas_m28_t32",
+      "moduleId": "28",
+      "kategori": "İleri Sarf",
+      "soru": "Aşağıdaki cümlelerin hangisinde Te'kîd Nûnu getirmek YASAKTIR (mümteni)?",
+      "soruAr": "",
+      "secenekler": [
+        "وَاللّٰهِ لَسَوْفَ أُسَافِرُ غَدًا. (لَـ ile fiil arasına سَوْفَ girmiş!)",
+        "وَاللّٰهِ لَأُسَافِرَنَّ غَدًا.",
+        "لَا تَكْذِبَنَّ يَا بُنَيَّ!",
+        "اِجْتَهِدَنَّ فِي دَرْسِكَ!"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "لَـ ile fiil arasına سَوْفَ girdiği için Te'kîd Nûnu yasaklanır (mümteni)."
+    },
+    {
+      "id": "atlas_m28_t41",
+      "moduleId": "28",
+      "kategori": "İleri Sarf",
+      "soru": "Aşağıdaki bablardan hangilerinin muzâraat harfi DAMMELİ (يُـ) okunur?",
+      "soruAr": "",
+      "secenekler": [
+        "Mâzisi 4 harfli olan II., III., IV. bablar ve Rubâî Mücerred",
+        "Yalnızca V. ve VI. bablar",
+        "Yalnızca VII., VIII., IX. ve X. bablar",
+        "Tüm 10 babın tamamı"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Arapçada yalnızca 4 harfli mâzilerin (فَعَّلَ، فَاعَلَ، أَفْعَلَ، فَعْلَلَ) muzâraat harfi dammelidir (يُـ)."
+    },
+    {
+      "id": "atlas_m28_t42",
+      "moduleId": "28",
+      "kategori": "İleri Sarf",
+      "soru": "'لَا يَسْتَغْنِي الْبَاحِثُ ..... الْمَعَاجِمِ اللُّغَوِيَّةِ.' (Araştırmacı dil sözlüklerinden müstağni kalamaz) boşluğuna ne gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "عَنِ",
+        "إِلَى",
+        "فِي",
+        "عَلَى"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "اِسْتَغْنَى عَنْ = -e ihtiyacı olmamak / onsuz olabilmek."
+    },
+    {
+      "id": "atlas_m29_t1",
+      "moduleId": "29",
+      "kategori": "İleri Sarf",
+      "soru": "Sülâsî fiillerde 'meslek, zanaat ve uzmanlık' bildiren mastarlar en sık hangi vezinde gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "فِعَالَةٌ (زِرَاعَةٌ، تِجَارَةٌ، خِيَاطَةٌ)",
+        "فُعَالٌ (سُعَالٌ، صُدَاعٌ)",
+        "فَعَلَانٌ (طَيَرَانٌ، غَلَيَانٌ)",
+        "فُعْلَةٌ (حُمْرَةٌ، خُضْرَةٌ)"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Meslek ve zanaat bildiren sülâsî mastarların karakteristik kalıbı فِعَالَةٌ'dur."
+    },
+    {
+      "id": "atlas_m29_t2",
+      "moduleId": "29",
+      "kategori": "İleri Sarf",
+      "soru": "'صَدَعَ / سَعَلَ / زَكَمَ' gibi hastalık bildiren fiillerin mastar vezni hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "فُعَالٌ (صُدَاعٌ، سُعَالٌ، زُكَامٌ)",
+        "فِعَالَةٌ",
+        "فُعُولٌ",
+        "تَفْعِيلٌ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Hastalık bildiren sülâsî mastarlar فُعَالٌ vezninde gelir."
+    },
+    {
+      "id": "atlas_m29_t11",
+      "moduleId": "29",
+      "kategori": "İleri Sarf",
+      "soru": "Aşağıdakilerden hangisi 'Mimli Mastar' DEĞİLDİR (III. babın aslî mastarıdır)?",
+      "soruAr": "",
+      "secenekler": [
+        "مُشَارَكَةٌ (شَارَكَ → مُشَارَكَةً)",
+        "مَحَبَّةٌ (حَبَّ → مَحَبَّةً)",
+        "مَسْعًى (سَعَى → مَسْعًى)",
+        "مُنْطَلَقٌ (اِنْطَلَقَ → مُنْطَلَقًا)"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "مُفَاعَلَةٌ (مُشَارَكَةٌ) III. babın aslî mastarıdır; mimli mastar kategorisine girmez."
+    },
+    {
+      "id": "atlas_m29_t12",
+      "moduleId": "29",
+      "kategori": "İleri Sarf",
+      "soru": "Misâl-i vâvî olan 'وَقَفَ' ve 'وَعَدَ' fiillerinin mimli mastar kalıbı hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "مَفْعِلٌ (مَوْقِفٌ، مَوْعِدٌ)",
+        "مَفْعَلٌ (مَوْقَفٌ، مَوْعَدٌ)",
+        "مُفْعَلٌ (مُوقَفٌ، مُوعَدٌ)",
+        "مَفْعُولٌ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Muzâride vavı düşen misâl-i vâvî fiillerin mimli mastarı مَفْعِلٌ (orta harfi kesralı) kalıbındadır."
+    },
+    {
+      "id": "atlas_m29_t21",
+      "moduleId": "29",
+      "kategori": "İleri Sarf",
+      "soru": "Hangi cümlede altı çizili 'الْإِنْسَانِيَّة' kelimesi SINÂÎ (YAPMA) MASTARDIR?",
+      "soruAr": "",
+      "secenekler": [
+        "تَدْعُو الْأَدْيَانُ إِلَى الْإِنْسَانِيَّةِ وَالرَّحْمَةِ.",
+        "قَرَأْتُ مَقَالًا عَنِ الْقِيَمِ الْإِنْسَانِيَّةِ.",
+        "هٰذِهِ مُسَاعَدَةٌ إِنْسَانِيَّةٌ عَاجِلَةٌ.",
+        "أَشَادَ بِالْمُبَادَرَةِ الْإِنْسَانِيَّةِ."
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "İlk cümlede الْإِنْسَانِيَّةِ sıfat değil, harf-i cerden sonra gelen bağımsız soyut isimdir (Sınâî Mastar). Diğer üçünde müennes ismin sıfatı olduğu için İsm-i Mensûb'dur!"
+    },
+    {
+      "id": "atlas_m29_t22",
+      "moduleId": "29",
+      "kategori": "İleri Sarf",
+      "soru": "Aşağıdaki cümlelerden hangisinde 'الْوَطَنِيَّة' İSM-İ MENSÛB (nisbet sıfatı) olarak kullanılmıştır?",
+      "soruAr": "",
+      "secenekler": [
+        "نَحْتَفِلُ بِالذِّكْرَى الْوَطَنِيَّةِ كُلَّ عَامٍ.",
+        "الْوَطَنِيَّةُ شُعُورٌ نَبِيلٌ.",
+        "غَرَسَ الْمُعَلِّمُ الْوَطَنِيَّةَ فِي نُفُوسِ الطُّلَّابِ.",
+        "تَتَجَلَّى الْوَطَنِيَّةُ فِي الْعَمَلِ الْمُخْلِصِ."
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "'بِالذِّكْرَى الْوَطَنِيَّةِ' (millî/ulusal anma) terkibinde sıfat konumunda olduğu için İsm-i Mensûb'dur."
+    },
+    {
+      "id": "atlas_m29_t31",
+      "moduleId": "29",
+      "kategori": "İleri Sarf",
+      "soru": "Sülâsî fiillerden Mastar-ı Merre (bir kez) ve Mastar-ı Nevi (tarz) kalıpları sırasıyla hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "فَعْلَةٌ (fethalı) – فِعْلَةٌ (kesralı)",
+        "فِعْلَةٌ – فَعْلَةٌ",
+        "فُعْلَةٌ – فَعْلَةٌ",
+        "مَفْعَلٌ – مَفْعِلٌ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Mastar-ı Merre = فَعْلَةٌ (bir kez); Mastar-ı Nevi/Hey'et = فِعْلَةٌ (eylemin tarzı/biçimi)."
+    },
+    {
+      "id": "atlas_m29_t32",
+      "moduleId": "29",
+      "kategori": "İleri Sarf",
+      "soru": "'وَقَفَ الْجُنْدِيُّ وِقْفَةَ الْبَطَلِ' cümlesinde 'وِقْفَةَ' hangi mastar türüdür?",
+      "soruAr": "",
+      "secenekler": [
+        "Mastar-ı Nevi / Hey'et (duruş tarzı)",
+        "Mastar-ı Merre (bir kez duruş)",
+        "Mimli Mastar",
+        "Sınâî Mastar"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Kesralı وِقْفَةَ (فِعْلَة) + muzâfun ileyh الْبَطَلِ → kahraman duruş tarzı (Mastar-ı Nevi)."
+    },
+    {
+      "id": "atlas_m29_t41",
+      "moduleId": "29",
+      "kategori": "İleri Sarf",
+      "soru": "'أَسْعَدَنِي قِرَاءَتُكَ الْكِتَابَ' cümlesinde 'الْكِتَابَ' kelimesi neden MANSUB (fethalı) okunmuştur?",
+      "soruAr": "",
+      "secenekler": [
+        "قِرَاءَة mastarının fiil gibi amel etmesiyle mef'ûlün bih olduğu için",
+        "أَسْعَدَ fiilinin ikinci nesnesi olduğu için",
+        "Hâl olduğu için",
+        "Temyîz olduğu için"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "قِرَاءَتُكَ mastarı (أَنْ تَقْرَأَ anlamında) fiil gibi amel etmiş ve الْكِتَابَ kelimesini mef'ûlün bih olarak nasbetmiştir."
+    },
+    {
+      "id": "atlas_m29_t42",
+      "moduleId": "29",
+      "kategori": "İleri Sarf",
+      "soru": "'إِكْرَامُ الْوَلَدِ _____ وَاجِبٌ' boşluğuna gramer bakımından DOĞRU olan hangisi gelmelidir?",
+      "soruAr": "",
+      "secenekler": [
+        "وَالِدَيْهِ (mansub — ي ile!)",
+        "وَالِدَاهُ (merfû)",
+        "وَالِدُوْهُ",
+        "وَالِدٌ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "إِكْرَامُ mastarının mef'ûlün bihi olduğu için tesniye mansub hâli وَالِدَيْهِ gelir."
     }
   ]
 }

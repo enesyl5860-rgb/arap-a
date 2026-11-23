@@ -1,0 +1,1257 @@
+{
+  "id": "29",
+  "slug": "modul_29",
+  "phaseId": 3,
+  "cilt": 3,
+  "cefr": "B1",
+  "title": "Mastar Sistematiği (Aslî, Mimli, Sınâî, Merre, Nevi)",
+  "arabicTitle": "الْمَصَادِرُ وَأَنْوَاعُهَا",
+  "category": "İleri Sarf",
+  "summary": "Sülâsî semâî ve mezîd kıyâsî mastarlar, mimli mastar (مَفْعَل/مَفْعِل), yapma (sınâî) mastar (ـِيَّة: حُرِّيَّة/إِنْسَانِيَّة), mastar-ı merre (فَعْلَة), mastar-ı nevi (فِعْلَة) ve mastarın fiil gibi ameli.",
+  "grammar": [
+    {
+      "id": "m29_g1",
+      "baslik": "Sülâsî Semâî & Mezîd Kıyâsî Mastarlar — İsimleştirmenin Ana Motoru",
+      "arBaslik": "الْمَصْدَرُ الصَّرِيحُ: السَّمَاعِيُّ فِي الثُّلَاثِيِّ وَالْقِيَاسِيُّ فِي الْمَزِيدِ",
+      "mantik": "**Mastar (الْمَصْدَرُ)**, Arapçada zaman ve şahıs kaydı olmaksızın bir eylemin/oluşun **saf adını** bildiren isimdir (Türkçedeki `-mek/-mak, -me/-ma, -iş/-uş` eklerinin tam karşılığıdır: `كَتَبَ` → `كِتَابَةٌ` [yazmak/yazı], `قَرَأَ` → `قِرَاءَةٌ` [okumak/okuma])! Arapça mastar sisteminin iki büyük yarısı vardır: **(1) Sülâsî Mücerred (3 harfli) Mastarlar SEMÂÎDİR (işitmeye dayalı):** Tek bir formülü yoktur, sözlükten/kullanımdan öğrenilir; ancak anlam alanlarına göre çok güçlü eğilimler taşır: **Meslek/Sanat** → `فِعَالَةٌ` (`زِرَاعَةٌ` tarım, `تِجَارَةٌ` ticaret, `خِيَاطَةٌ` terzilik, `صِنَاعَةٌ` sanayi), **Hastalık** → `فُعَالٌ` (`سُعَالٌ` öksürük, `صُدَاعٌ` baş ağrısı, `زُكَامٌ` nezle), **Renk** → `فُعْلَةٌ` (`حُمْرَةٌ` kızıllık, `خُضْرَةٌ` yeşillik), **Hareket/Çalkantı** → `فَعَلَانٌ` (`غَلَيَانٌ` kaynama, `طَيَرَانٌ` uçuş, `جَرَيَانٌ` akış), **Ses** → `فُعَالٌ / فَعِيلٌ` (`صُرَاخٌ` çığlık, `نُبَاحٌ` havlama, `صَهِيلٌ` kişneme), **Lâzım `فَعَلَ`** → `فُعُولٌ` (`دُخُولٌ، خُرُوجٌ، جُلُوسٌ`), **Müteaddi `فَعَلَ`** → `فَعْلٌ` (`فَتْحٌ، ضَرْبٌ، نَصْرٌ`). **(2) Mezîd ve Rubâî Mastarlar %100 KIYÂSÎDİR (kurallı):** Babı bildiğin saniye mastarını ezbersiz üretirsin: II `تَفْعِيلٌ` (`تَعْلِيمٌ`), III `مُفَاعَلَةٌ/فِعَالٌ` (`مُشَارَكَةٌ/جِهَادٌ`), IV `إِفْعَالٌ` (`إِكْرَامٌ`), V `تَفَعُّلٌ` (`تَعَلُّمٌ`), VI `تَفَاعُلٌ` (`تَعَاوُنٌ`), VII `اِنْفِعَالٌ` (`اِنْكِسَارٌ`), VIII `اِفْتِعَالٌ` (`اِجْتِهَادٌ`), IX `اِفْعِلَالٌ` (`اِحْمِرَارٌ`), X `اِسْتِفْعَالٌ` (`اِسْتِقْبَالٌ`), Rubâî `فَعْلَلَةٌ` (`تَرْجَمَةٌ`)!",
+      "formul": "Sülâsî: Semâî (فِعَالَة meslek, فُعَال hastalık, فَعَلَان hareket, فُعُول lâzım) | Mezîd II–X: %100 Kıyâsî!",
+      "formulAr": "زِرَاعَةٌ / صُدَاعٌ / طَيَرَانٌ / دُخُولٌ  |  تَعْلِيمٌ – مُشَارَكَةٌ – إِكْرَامٌ – تَعَلُّمٌ – تَعَاوُنٌ – اِنْكِسَارٌ – اِجْتِهَادٌ – اِسْتِقْبَالٌ",
+      "tablo": {
+        "baslik": "Sülâsî Anlam Eğilimleri ve Mezîd Kıyâsî Mastar Karşılaştırması",
+        "sutunlar": ["Kategori / Bab", "Mastar Vezni", "Örnek Fiil → Mastar", "Türkçe Karşılığı"],
+        "satirlar": [
+          { "hucreler": ["Sülâsî Meslek/Sanat", "فِعَالَةٌ", "زَرَعَ → زِرَاعَةٌ / تَجَرَ → تِجَارَةٌ", "tarım / ticaret"], "ar": "زِرَاعَةٌ وَتِجَارَةٌ وَصِنَاعَةٌ" },
+          { "hucreler": ["Sülâsî Hastalık", "فُعَالٌ", "سَعَلَ → سُعَالٌ / صَدَعَ → صُدَاعٌ", "öksürük / baş ağrısı"], "ar": "سُعَالٌ وَصُدَاعٌ وَزُكَامٌ" },
+          { "hucreler": ["Sülâsî Hareket/Akış", "فَعَلَانٌ", "طَارَ → طَيَرَانٌ / غَلَى → غَلَيَانٌ", "uçuş / kaynama"], "ar": "طَيَرَانٌ وَغَلَيَانٌ وَجَرَيَانٌ" },
+          { "hucreler": ["Sülâsî Lâzım (فَعَلَ)", "فُعُولٌ", "دَخَلَ → دُخُولٌ / خَرَجَ → خُرُوجٌ", "giriş / çıkış"], "ar": "دُخُولٌ وَخُرُوجٌ وَجُلُوسٌ" },
+          { "hucreler": ["Mezîd II / III / IV", "تَفْعِيل / مُفَاعَلَة / إِفْعَال", "تَعْلِيمٌ / مُشَارَكَةٌ / إِكْرَامٌ", "öğretme / katılım / ikram"], "ar": "تَعْلِيمٌ وَمُشَارَكَةٌ وَإِكْرَامٌ" },
+          { "hucreler": ["Mezîd V / VI / VIII / X", "تَفَعُّل / تَفَاعُل / اِفْتِعَال / اِسْتِفْعَال", "تَقَدُّمٌ / تَعَاوُنٌ / اِجْتِهَادٌ / اِسْتِثْمَارٌ", "ilerleme / iş birliği / çaba / yatırım"], "ar": "تَقَدُّمٌ وَتَعَاوُنٌ وَاجْتِهَادٌ وَاسْتِثْمَارٌ" }
+        ]
+      },
+      "trKiyas": "Türkçedeki Osmanlıca ve günlük kelimelerin neredeyse yarısı Arapça mastarlardır! `Ticaret, ziraat, sanayi, duhul, huruc, talim, katılım/müşareke, ikram, tekâmül, taavün, inkılap, içtihat, istikbal, tercüme` kelimelerinin tamamı bu tabloda gördüğün mastar vezinlerinden Türkçeye geçmiş yaşayan hazinelerdir!",
+      "sikHatalar": [
+        "IV. bab mastarı (إِفْعَالٌ: إِكْرَامٌ، إِسْلَامٌ، إِنْتَاجٌ) kat' hemzeli olduğu hâlde hemzesini yazmamak — halbuki VII, VIII, IX, X bab mastarları (اِنْكِسَارٌ، اِجْتِهَادٌ، اِسْتِقْبَالٌ) vasıl hemzelidir!",
+        "II. bab nâkıs fiillerin mastarını تَفْعِيل sanmak (✗ تَرْبِيي — ✓ تَرْبِيَةٌ، تَنْمِيَةٌ، تَسْمِيَةٌ; sonu illetli olunca تَفْعِلَةٌ gelir!).",
+        "Mastarları fiil gibi zaman çekimine sokmaya çalışmak — mastar bir İSİMDİR; başında ال alır, tenvin alır, harf-i cerden sonra mecrûr olur (`بِالِاجْتِهَادِ`)."
+      ],
+      "ornekler": [
+        { "ar": "تَشْتَهِرُ هٰذِهِ الْمِنْطَقَةُ بِالزِّرَاعَةِ وَالتِّجَارَةِ وَالصِّنَاعَةِ الْخَفِيفَةِ.", "okunus": "Teştehiru hâzihi'l-mıntakatu bi'z-zirâ‘ati ve't-ticârati ve's-sınâ‘ati'l-hafîfeti.", "tr": "Bu bölge tarım, ticaret ve hafif sanayi ile meşhurdur.", "not": "فِعَالَةٌ (meslek/sanat sülâsî mastarları)" },
+        { "ar": "شَعَرَ الْمَرِيضُ بِصُدَاعٍ شَدِيدٍ وَسُعَالٍ مُسْتَمِرٍّ مُنْذُ الصَّبَاحِ.", "okunus": "Şe‘ara'l-merîdu bi-sudâ‘in şedîdin ve su‘âlin mustemirrin munzu's-sabâhi.", "tr": "Hasta sabahtan beri şiddetli bir baş ağrısı ve sürekli bir öksürük hissetti.", "not": "فُعَالٌ (hastalık mastarları)" },
+        { "ar": "وُصُولُ الْمَاءِ إِلَى دَرَجَةِ الْغَلَيَانِ يَحْتَاجُ إِلَى دَقَائِقَ قَلِيلَةٍ.", "okunus": "Vusûlu'l-mâi ilâ dereceti'l-galeyâni yahtâcu ilâ dekâika kalîletin.", "tr": "Suyun kaynama derecesine ulaşması birkaç dakika gerektirir.", "not": "وُصُولٌ (فُعُول) + غَلَيَانٌ (فَعَلَان hareket)" },
+        { "ar": "تَعْتَمِدُ النَّهْضَةُ الْعِلْمِيَّةُ عَلَى التَّعْلِيمِ وَالتَّعَاوُنِ وَالِاجْتِهَادِ الْمُتَوَاصِلِ.", "okunus": "Ta‘temidu'n-nahdatu'l-‘ilmiyyetu ‘ale't-ta‘lîmi ve't-te‘âvuni ve'l-ictihâdi'l-mutevâsıli.", "tr": "Bilimsel kalkınma eğitime, iş birliğine ve kesintisiz çabaya dayanır.", "not": "II. bab (تَعْلِيم) + VI. bab (تَعَاوُن) + VIII. bab (اِجْتِهَاد)" },
+        { "ar": "إِنْتَاجُ الطَّاقَةِ النَّظِيفَةِ وَاسْتِثْمَارُهَا مِنْ أَوْلَوِيَّاتِ الْعَصْرِ الْحَدِيثِ.", "okunus": "İntâcu't-tâkati'n-nazîfeti ve'stismâruhâ min evleviyyâti'l-‘asri'l-hadîsi.", "tr": "Temiz enerji üretimi ve ona yatırım yapmak modern çağın önceliklerindendir.", "not": "إِنْتَاجٌ (IV. bab kat' hemze!) + اِسْتِثْمَارٌ (X. bab vasıl hemze!)" },
+        { "ar": "يُؤَدِّي التَّسَرُّعُ فِي اتِّخَاذِ الْقَرَارَاتِ إِلَى النَّدَمِ غَالِبًا.", "okunus": "Yu’eddi't-teserru‘u fî'ttihâzi'l-karârâti ile'n-nedemi gâliben.", "tr": "Karar almada acele etmek çoğunlukla pişmanlığa yol açar.", "not": "تَسَرُّعٌ (V. bab) + اِتِّخَاذٌ (VIII. bab) + نَدَمٌ (sülâsî)" }
+      ],
+      "tatbikler": [
+        {
+          "id": "m29_t1",
+          "tip": "bosluk",
+          "soru": "Sülâsî fiillerde 'meslek, zanaat ve uzmanlık' bildiren mastarlar en sık hangi vezinde gelir?",
+          "secenekler": ["فِعَالَةٌ (زِرَاعَةٌ، تِجَارَةٌ، خِيَاطَةٌ)", "فُعَالٌ (سُعَالٌ، صُدَاعٌ)", "فَعَلَانٌ (طَيَرَانٌ، غَلَيَانٌ)", "فُعْلَةٌ (حُمْرَةٌ، خُضْرَةٌ)"],
+          "dogruIndeks": 0,
+          "aciklama": "Meslek ve zanaat bildiren sülâsî mastarların karakteristik kalıbı فِعَالَةٌ'dur."
+        },
+        {
+          "id": "m29_t2",
+          "tip": "bosluk",
+          "soru": "'صَدَعَ / سَعَلَ / زَكَمَ' gibi hastalık bildiren fiillerin mastar vezni hangisidir?",
+          "secenekler": ["فُعَالٌ (صُدَاعٌ، سُعَالٌ، زُكَامٌ)", "فِعَالَةٌ", "فُعُولٌ", "تَفْعِيلٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "Hastalık bildiren sülâsî mastarlar فُعَالٌ vezninde gelir."
+        },
+        {
+          "id": "m29_t3",
+          "tip": "bosluk",
+          "soru": "Aşağıdaki mezîd fiil → mastar eşleşmelerinden hangisi DOĞRUDUR?",
+          "secenekler": ["تَعَاوَنَ → تَعَاوُنٌ (VI. bab)", "أَكْرَمَ → اِكْرَامٌ (vasıl hemzeli)", "رَبَّى → تَرْبِيٌ", "اِسْتَخْرَجَ → إِسْتِخْرَاجٌ (kat' hemzeli)"],
+          "dogruIndeks": 0,
+          "aciklama": "VI. bab تَفَاعَلَ → تَفَاعُلٌ (تَعَاوُنٌ) doğrudur. أَكْرَمَ → إِكْرَامٌ (kat' hemze!), رَبَّى → تَرْبِيَةٌ, اِسْتَخْرَجَ → اِسْتِخْرَاجٌ (vasıl hemze!)."
+        },
+        {
+          "id": "m29_t4",
+          "tip": "bosluk",
+          "soru": "'غَلَى' (kaynadı) ve 'طَارَ' (uçtu) fiillerinin hareket/çalkantı bildiren mastarları hangisidir?",
+          "secenekler": ["غَلَيَانٌ – طَيَرَانٌ (فَعَلَانٌ)", "غُلُوٌّ – طُيُورٌ", "غِلَايَةٌ – طِيَارَةٌ", "تَغْلِيَةٌ – تَطْيِيرٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "Hareket, akış ve çalkantı bildiren sülâsî fiillerin mastarı فَعَلَانٌ (غَلَيَانٌ، طَيَرَانٌ) kalıbında gelir."
+        },
+        {
+          "id": "m29_t5",
+          "tip": "hata",
+          "soru": "Hangi mezîd mastarın hemze yazımı YANLIŞTIR?",
+          "secenekler": ["إِجْتِهَادٌ (VIII. babda kat' hemzesi yazılmış!)", "إِكْرَامٌ (IV. bab kat' hemzesi)", "اِسْتِقْبَالٌ (X. bab vasıl hemzesi)", "اِنْكِسَارٌ (VII. bab vasıl hemzesi)"],
+          "dogruIndeks": 0,
+          "aciklama": "VIII. bab (5 harfli) mastarı VASIL hemzelidir: doğru yazım اِجْتِهَادٌ'dur (hemze işareti konmaz!)."
+        },
+        {
+          "id": "m29_t6",
+          "tip": "bosluk",
+          "soru": "'دَخَلَ / خَرَجَ / جَلَسَ / وَصَلَ' gibi lâzım sülâsî fiillerin baskın mastar kalıbı hangisidir?",
+          "secenekler": ["فُعُولٌ (دُخُولٌ، خُرُوجٌ، جُلُوسٌ، وُصُولٌ)", "فِعَالَةٌ", "فُعَالٌ", "فَعَلَانٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "فَعَلَ kalıbındaki geçişsiz (lâzım) fiillerin mastarı çoğunlukla فُعُولٌ gelir."
+        },
+        {
+          "id": "m29_t7",
+          "tip": "bosluk",
+          "soru": "'نَمَّى' (geliştirdi — II. bab nâkıs) fiilinin kıyâsî mastarı hangisidir?",
+          "secenekler": ["تَنْمِيَةٌ", "تَنْمِيمٌ", "إِنْمَاءٌ", "تَنَامِيٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "II. bab nâkıs fiillerin mastarı تَفْعِلَةٌ kalıbında gelir: نَمَّى → تَنْمِيَةٌ (kalkınma/geliştirme), رَبَّى → تَرْبِيَةٌ."
+        },
+        {
+          "id": "m29_t8",
+          "tip": "ceviri",
+          "soru": "'تَعْتَمِدُ النَّهْضَةُ عَلَى التَّعْلِيمِ وَالِاجْتِهَادِ' cümlesindeki iki mezîd mastarın babı hangisidir?",
+          "secenekler": ["التَّعْلِيم (II. bab) – الِاجْتِهَاد (VIII. bab)", "التَّعْلِيم (V. bab) – الِاجْتِهَاد (VII. bab)", "التَّعْلِيم (IV. bab) – الِاجْتِهَاد (X. bab)", "İkisi de sülâsî semâî mastardır"],
+          "dogruIndeks": 0,
+          "aciklama": "عَلَّمَ → تَعْلِيمٌ (II. bab), اِجْتَهَدَ → اِجْتِهَادٌ (VIII. bab)."
+        },
+        {
+          "id": "m29_t9",
+          "tip": "bosluk",
+          "soru": "'تَرْجَمَ' (Rubâî mücerred) fiilinin kıyâsî mastarı hangisidir?",
+          "secenekler": ["تَرْجَمَةٌ (فَعْلَلَةٌ)", "تَتَرْجُمٌ", "تَرْجِيمٌ", "اِسْتِرْجَامٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "Rubâî mücerred (فَعْلَلَ) fiillerin kıyâsî mastarı فَعْلَلَةٌ'dir: تَرْجَمَ → تَرْجَمَةٌ."
+        },
+        {
+          "id": "m29_t10",
+          "tip": "bosluk",
+          "soru": "Sülâsî mastarların 'semâî', mezîd mastarların 'kıyâsî' olması ne demektir?",
+          "secenekler": ["Sülâsî mastarlar sözlükten/kullanımdan öğrenilir; mezîd mastarlar bab formülüne göre kesin kuralla türetilir", "Sülâsî mastarlar sadece konuşmada, mezîd mastarlar sadece yazıda kullanılır", "Sülâsî mastarlar mebnîdir, mezîd mastarlar mu'rabdır", "Mezîd fiillerin mastarı yoktur"],
+          "dogruIndeks": 0,
+          "aciklama": "Semâî = işitmeye/sözlüğe dayalı; Kıyâsî = düzenli sarf formülüyle kurallı türetilen."
+        }
+      ]
+    },
+    {
+      "id": "m29_g2",
+      "baslik": "Mimli Mastar (الْمَصْدَرُ الْمِيمِيُّ) — Başında Fazladan 'م' Bulunan Mastar",
+      "arBaslik": "الْمَصْدَرُ الْمِيمِيُّ وَصِيَاغَتُهُ مِنَ الثُّلَاثِيِّ وَغَيْرِ الثُّلَاثِيِّ",
+      "mantik": "**Mimli Mastar (الْمَصْدَرُ الْمِيمِيُّ)**, anlamca normal (aslî) mastarla **birebir aynı** olup yalnızca başına fazladan (zâid) bir **م** harfi getirilerek oluşturulan mastardır (yalnızca III. babdaki `مُفَاعَلَةٌ` mimli mastar sayılmaz, o III. babın aslî mastarıdır!). Neden mi var? Hem Arapçada üslup zenginliği ve pekiştirme sağlar hem de günlük dilde çok köklü kavramlara dönüşmüştür: `مَسْعًى` (çaba = سَعْيٌ), `مَوْعِدٌ` (söz verme = وَعْدٌ), `مَطْلَبٌ` (talep = طَلَبٌ), `مَحَبَّةٌ` (sevgi = حُبٌّ), `مَعْرِفَةٌ` (bilgi = عِرْفَانٌ), `مَغْفِرَةٌ` (bağışlama = غُفْرَانٌ), `مَرْحَمَةٌ` (merhamet = رَحْمَةٌ)! **Türetme kuralı süper nettir:** **(1) Sülâsî Fiillerden:** İki kalıpta gelir: Genel kalıp **`مَفْعَلٌ`** (`مَدْخَلٌ` giriş, `مَخْرَجٌ` çıkış, `مَقْصَدٌ` amaç, `مَنْهَجٌ` yöntem); eğer fiil **misâl-i vâvî** (ilk harfi `و` olup muzâride düşen) ise **`مَفْعِلٌ`** (`وَعَدَ` → `مَوْعِدٌ`, `وَقَفَ` → `مَوْقِفٌ`, `وَضَعَ` → `مَوْضِعٌ`)! Bazen sonuna kapalı tâ (`ة`) eklenir: `مَحَبَّةٌ، مَوَدَّةٌ، مَسَرَّةٌ، مَغْفِرَةٌ، مَنْفَعَةٌ`. **(2) Mezîd (3 Harften Fazla) Fiillerden:** Tıpkı **ism-i mef'ûl** gibi kurulur: Muzâraat harfi ötreli **`مُـ`** yapılır, sondan bir önceki harf **fethalanır** (`أَخْرَجَ → مُخْرَجٌ`, `اِنْطَلَقَ → مُنْطَلَقٌ`, `اِلْتَقَى → مُلْتَقًى`, `اِسْتَقْبَلَ → مُسْتَقْبَلٌ`)! **Altın Ayırım Testi:** `مُخْرَجٌ` veya `مُنْطَلَقٌ` kelimesini cümlede gördüğünde yerine **aslî mastarı** koyabiliyorsan o **mimli mastardır** (`سَعَيْتُ مَسْعًى كَرِيمًا` = `سَعْيًا كَرِيمًا`); yer bildiriyorsa **ism-i mekân**, zaman bildiriyorsa **ism-i zaman**, etkilenen varlığı bildiriyorsa **ism-i mef'ûl**dür!",
+      "formul": "Sülâsî: مَفْعَلٌ (genel) / مَفْعِلٌ (misâl-i vâvî) + bazılarında ة | Mezîd: مُـ + sondan önceki fetha (ism-i mef'ûl kalıbı)!",
+      "formulAr": "طَلَبَ → مَطْلَبٌ  |  وَعَدَ → مَوْعِدٌ  |  حَبَّ → مَحَبَّةٌ  |  اِنْطَلَقَ → مُنْطَلَقٌ  |  قَلَبَ → مُنْقَلَبٌ",
+      "tablo": {
+        "baslik": "Mimli Mastar Türetme ve İsm-i Mekân/Zaman/Mef'ûl Ayırım Testi",
+        "sutunlar": ["Kök & Fiil", "Mimli Mastar", "Aslî Mastar Eşiti", "Bağlam Ayırım Örneği"],
+        "satirlar": [
+          { "hucreler": ["س-ع-ي (سَعَى)", "مَسْعًى", "سَعْيٌ (çabalama)", "سَعَيْتُ مَسْعًى جَمِيلًا (Mimli Mastar!)"], "ar": "سَعَيْتُ مَسْعًى جَمِيلًا" },
+          { "hucreler": ["ط-ل-ب (طَلَبَ)", "مَطْلَبٌ", "طَلَبٌ (isteme/talep)", "هٰذَا مَطْلَبٌ عَادِلٌ (adil bir talep)"], "ar": "هٰذَا مَطْلَبٌ عَادِلٌ" },
+          { "hucreler": ["و-ع-د (وَعَدَ misâl)", "مَوْعِدٌ (مَفْعِل)", "وَعْدٌ (söz verme)", "أَخْلَفَ مَوْعِدَهُ (sözünden döndü)"], "ar": "أَخْلَفَ مَوْعِدَهُ" },
+          { "hucreler": ["غ-ف-ر / ح-ب-ب (+ة)", "مَغْفِرَةٌ / مَحَبَّةٌ", "غُفْرَانٌ / حُبٌّ", "نَسْأَلُ اللّٰهَ الْمَغْفِرَةَ وَالْمَحَبَّةَ"], "ar": "نَسْأَلُ اللّٰهَ الْمَغْفِرَةَ" },
+          { "hucreler": ["ن-ط-ل-ق (اِنْطَلَقَ)", "مُنْطَلَقٌ (Mezîd)", "اِنْطِلَاقٌ (başlama)", "اِنْطَلَقَ الْمَشْرُوعُ مُنْطَلَقًا قَوِيًّا"], "ar": "اِنْطَلَقَ مُنْطَلَقًا قَوِيًّا" },
+          { "hucreler": ["خ-ر-ج (أَخْرَجَ)", "مُخْرَجٌ (Mezîd)", "إِخْرَاجٌ (çıkarma)", "وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ (İsrâ 80)"], "ar": "وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ" }
+        ]
+      },
+      "trKiyas": "Türkçedeki `merhamet, mağfiret, muhabbet, meveddet, menfaat, marifet, maksat, matlap, mesai` kelimelerinin hepsi Arapçanın Mimli Mastarlarıdır! Bir kelimenin başında `me-/ma-` görüp de eylem/soyut kavram anlamı alıyorsan (yer veya zaman değilse), o kelimenin Mimli Mastar olduğunu hemen fark edersin!",
+      "sikHatalar": [
+        "III. babın aslî mastarı olan مُفَاعَلَةٌ (مُشَارَكَةٌ، مُسَاعَدَةٌ) kalıbını mimli mastar sanmak — III. babda مُفَاعَلَةٌ aslî mastardır, mimli mastar sayılmaz!",
+        "Aynı kalıbı (مُنْطَلَقٌ / مُلْتَقًى / مَدْخَلٌ) her yerde ism-i mekân sanmak — yerine aslî mastar (اِنْطِلَاقٌ / اِلْتِقَاءٌ / دُخُولٌ) koyduğunda anlam bozulmuyorsa o MİMLİ MASTARdır!",
+        "Misâl-i vâvî fiillerin (وَعَدَ، وَقَفَ) mimli mastarını مَوْعَدٌ diye fethalı okumak (✓ مَوْعِدٌ، مَوْقِفٌ — orta harfi kesralı مَفْعِلٌ!)."
+      ],
+      "ornekler": [
+        { "ar": "أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ.", "okunus": "Edhilnî mudhale sıdkın ve ahricnî muhrace sıdkın.", "tr": "Beni doğruluk girişiyle girdir ve doğruluk çıkışıyla çıkar (İsrâ 80).", "not": "مُدْخَلَ / مُخْرَجَ (IV. babdan mimli mastar = إِدْخَالًا / إِخْرَاجًا)" },
+        { "ar": "سَعَى الْمُحْسِنُونَ مَسْعًى كَرِيمًا لِخِدْمَةِ الْفُقَرَاءِ وَالْمُحْتَاجِينَ.", "okunus": "Se‘a'l-muhsinûne mes‘an kerîmen li-hıdmeti'l-fukarâi ve'l-muhtâcîne.", "tr": "Hayırseverler fakirlere ve ihtiyaç sahiplerine hizmet için onurlu bir çaba gösterdiler.", "not": "مَسْعًى = سَعْيًا (mef'ûl-i mutlak olarak mimli mastar)" },
+        { "ar": "تَقُومُ الْعَلَاقَاتُ الْإِنْسَانِيَّةُ السَّلِيمَةُ عَلَى الْمَحَبَّةِ وَالْمَوَدَّةِ وَالْمَرْحَمَةِ.", "okunus": "Tekûmu'l-‘alâkâtu'l-insâniyyetu's-selîmetu ‘ale'l-mehabbeti ve'l-meveddeti ve'l-merhameti.", "tr": "Sağlıklı insan ilişkileri sevgi, dostluk ve merhamet üzerine kurulur.", "not": "مَحَبَّة / مَوَدَّة / مَرْحَمَة (sonu ة'li mimli mastarlar)" },
+        { "ar": "مَوْقِفُكَ الشُّجَاعُ فِي هٰذِهِ الْقَضِيَّةِ يَسْتَحِقُّ التَّقْدِيرَ وَالِاحْتِرَامَ.", "okunus": "Mevkıfuke'ş-şucâ‘u fî hâzihi'l-kadiyyeti yestahıkku't-takdîra ve'l-ihtirâme.", "tr": "Bu meseledeki cesur duruşun takdir ve saygıyı hak ediyor.", "not": "مَوْقِفٌ (وَقَفَ misâl-i vâvî → مَفْعِلٌ)" },
+        { "ar": "اِنْطَلَقَ الْمَشْرُوعُ التَّعْلِيمِيُّ مُنْطَلَقًا قَوِيًّا وَمُنَظَّمًا.", "okunus": "İntaleka'l-meşrû‘u't-ta‘lîmiyyu muntalekan kaviyyen ve munazzamen.", "tr": "Eğitim projesi güçlü ve düzenli bir başlangıç yaptı.", "not": "مُنْطَلَقًا = اِنْطِلَاقًا (VII. babdan mimli mastar)" },
+        { "ar": "فِي طَلَبِ الْعِلْمِ مَنْفَعَةٌ عَظِيمَةٌ لِلْفَرْدِ وَالْمُجْتَمَعِ مَعًا.", "okunus": "Fî talebi'l-‘ilmi menfe‘atun ‘azîmetun li'l-ferdi ve'l-mucteme‘i me‘an.", "tr": "İlim talebinde hem birey hem toplum için büyük bir fayda vardır.", "not": "مَنْفَعَةٌ = نَفْعٌ (sonu ة'li mimli mastar)" }
+      ],
+      "tatbikler": [
+        {
+          "id": "m29_t11",
+          "tip": "bosluk",
+          "soru": "Aşağıdakilerden hangisi 'Mimli Mastar' DEĞİLDİR (III. babın aslî mastarıdır)?",
+          "secenekler": ["مُشَارَكَةٌ (شَارَكَ → مُشَارَكَةً)", "مَحَبَّةٌ (حَبَّ → مَحَبَّةً)", "مَسْعًى (سَعَى → مَسْعًى)", "مُنْطَلَقٌ (اِنْطَلَقَ → مُنْطَلَقًا)"],
+          "dogruIndeks": 0,
+          "aciklama": "مُفَاعَلَةٌ (مُشَارَكَةٌ) III. babın aslî mastarıdır; mimli mastar kategorisine girmez."
+        },
+        {
+          "id": "m29_t12",
+          "tip": "bosluk",
+          "soru": "Misâl-i vâvî olan 'وَقَفَ' ve 'وَعَدَ' fiillerinin mimli mastar kalıbı hangisidir?",
+          "secenekler": ["مَفْعِلٌ (مَوْقِفٌ، مَوْعِدٌ)", "مَفْعَلٌ (مَوْقَفٌ، مَوْعَدٌ)", "مُفْعَلٌ (مُوقَفٌ، مُوعَدٌ)", "مَفْعُولٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "Muzâride vavı düşen misâl-i vâvî fiillerin mimli mastarı مَفْعِلٌ (orta harfi kesralı) kalıbındadır."
+        },
+        {
+          "id": "m29_t13",
+          "tip": "bosluk",
+          "soru": "'اِنْطَلَقَ السِّبَاقُ مُنْطَلَقًا سَرِيعًا' cümlesinde 'مُنْطَلَقًا' kelimesi hangi türevdir?",
+          "secenekler": ["Mimli Mastar (= اِنْطِلَاقًا)", "İsm-i Mekân", "İsm-i Zaman", "İsm-i Fâil"],
+          "dogruIndeks": 0,
+          "aciklama": "Yerine aslî mastar (اِنْطِلَاقًا سَرِيعًا) konduğunda anlam birebir aynı kaldığı için Mimli Mastardır."
+        },
+        {
+          "id": "m29_t14",
+          "tip": "bosluk",
+          "soru": "'هٰذَا الْمَيْدَانُ مُنْطَلَقُ السِّبَاقِ' (Bu meydan yarışın başlangıç yeridir) cümlesinde 'مُنْطَلَقُ' hangisidir?",
+          "secenekler": ["İsm-i Mekân", "Mimli Mastar", "İsm-i Zaman", "Sınâî Mastar"],
+          "dogruIndeks": 0,
+          "aciklama": "'الْمَيْدَانُ' (meydan) yer belirttiği için buradaki مُنْطَلَقُ ism-i mekândır."
+        },
+        {
+          "id": "m29_t15",
+          "tip": "bosluk",
+          "soru": "Mezîd (3 harften fazla) fiillerden Mimli Mastar hangi kalıpla birebir aynı kurulur?",
+          "secenekler": ["Mezîd İsm-i Mef'ûl kalıbıyla (مُـ + sondan önceki fetha)", "Mezîd İsm-i Fâil kalıbıyla (مُـ + sondan önceki kesra)", "فَعْلَةٌ kalıbıyla", "فِعَالَةٌ kalıbıyla"],
+          "dogruIndeks": 0,
+          "aciklama": "3 harften fazla fiillerde Mimli Mastar, İsm-i Mef'ûl, İsm-i Zaman ve İsm-i Mekân aynı kalıpta (مُـ + sondan önceki fetha) gelir; ayrımı bağlam belirler."
+        },
+        {
+          "id": "m29_t16",
+          "tip": "bosluk",
+          "soru": "'مَغْفِرَةٌ' (bağışlama) ve 'مَنْفَعَةٌ' (fayda) kelimelerinin ortak özelliği nedir?",
+          "secenekler": ["Sonuna ة eklenmiş sülâsî mimli mastarlardır", "Sınâî (yapma) mastarlardır", "Mastar-ı merredirler", "III. bab aslî mastarlarıdır"],
+          "dogruIndeks": 0,
+          "aciklama": "مَغْفِرَةٌ (= غُفْرَانٌ) ve مَنْفَعَةٌ (= نَفْعٌ), sonuna ة almış sülâsî mimli mastarlardır."
+        },
+        {
+          "id": "m29_t17",
+          "tip": "hata",
+          "soru": "'أَخْرَجَ' (IV. bab) fiilinin mimli mastarı hangisinde DOĞRU harekelenmiştir?",
+          "secenekler": ["مُخْرَجٌ (mîm ötreli, râ fethalı)", "مَخْرَجٌ (sülâsî خَرَجَ'nindir)", "مُخْرِجٌ (ism-i fâildir)", "مِخْرَجٌ (ism-i âlettir)"],
+          "dogruIndeks": 0,
+          "aciklama": "IV. bab أَخْرَجَ → يُخْرِجُ → mimli mastar مُخْرَجٌ (sülâsî خَرَجَ → مَخْرَجٌ)."
+        },
+        {
+          "id": "m29_t18",
+          "tip": "bosluk",
+          "soru": "'طَلَبَ' (istedi) fiilinden türeyen mimli mastar hangisidir?",
+          "secenekler": ["مَطْلَبٌ", "مَطْلُوبٌ", "طَالِبٌ", "مُطَالَبَةٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "Sülâsî طَلَبَ → مَفْعَلٌ → مَطْلَبٌ (= طَلَبٌ)."
+        },
+        {
+          "id": "m29_t19",
+          "tip": "ceviri",
+          "soru": "'وَقَفَ مَوْقِفًا نَبِيلًا' ifadesinin anlamı ve 'مَوْقِفًا' kelimesinin türü hangisidir?",
+          "secenekler": ["Soylu bir duruş sergiledi — Mimli Mastar", "Soylu bir durakta durdu — İsm-i Mekân", "Soylu bir vakitte durdu — İsm-i Zaman", "Soylu bir durdurucu oldu — İsm-i Fâil"],
+          "dogruIndeks": 0,
+          "aciklama": "وَقَفَ مَوْقِفًا (= وُقُوفًا) soyut duruş/tavır bildirir; Mimli Mastardır."
+        },
+        {
+          "id": "m29_t20",
+          "tip": "bosluk",
+          "soru": "Kur'an'daki 'وَمَنْ يَتَّقِ اللّٰهَ يَجْعَلْ لَهُ مَخْرَجًا' ayetinde 'مَخْرَجًا' kelimesinin temel işlevi nedir?",
+          "secenekler": ["Sülâsî خَرَجَ'den مَفْعَلٌ kalıbında çıkış / çıkış yolu (mimli mastar / mekân)", "IV. babdan ism-i fâil", "Mastar-ı merre", "Sınâî mastar"],
+          "dogruIndeks": 0,
+          "aciklama": "خَرَجَ → مَخْرَجٌ (مَفْعَلٌ kalıbı; 'çıkış / kurtuluş yolu' anlamında)."
+        }
+      ]
+    },
+    {
+      "id": "m29_g3",
+      "baslik": "Yapma (Sınâî) Mastar (الْمَصْدَرُ الصِّنَاعِيُّ) — Türkçedeki '-lik / -lık / -izm' Fabrikası",
+      "arBaslik": "الْمَصْدَرُ الصِّنَاعِيُّ (ـِيَّة) وَالْفَرْقُ بَيْنَهُ وَبَيْنَ الِاسْمِ الْمَنْسُوبِ",
+      "mantik": "Modern Arapça, felsefe, siyaset, sosyoloji, bilim ve YDS/YÖKDİL metinlerinin **en üretken** soyut isim makinesi **Sınâî (Yapma) Mastar (الْمَصْدَرُ الصِّنَاعِيُّ)**dır! Kurulumu çocuk oyuncağı kadar kolaydır: Herhangi bir ismin (câmid, müştak, hatta zamir veya soru isminin!) sonuna **şeddeli bir yâ + kapalı tâ (`ـِيَّةٌ`)** eklersin ve Türkçedeki **`-lik / -lık / -luk / -izm`** soyut kavramını anında üretirsin: `حُرٌّ` (özgür) → `حُرِّيَّةٌ` (özgürlük), `إِنْسَانٌ` (insan) → `إِنْسَانِيَّةٌ` (insanlık), `مَسْؤُولٌ` (sorumlu) → `مَسْؤُولِيَّةٌ` (sorumluluk), `وَطَنٌ` (vatan) → `وَطَنِيَّةٌ` (vatanseverlik), `عَالَمٌ` (dünya) → `عَالَمِيَّةٌ` (evrensellik), `كَيْفَ` (nasıl) → `كَيْفِيَّةٌ` (nitelik), `كَمْ` (kaç) → `كَمِّيَّةٌ` (nicelik/miktar), `أَنَا` (ben) → `أَنَانِيَّةٌ` (bencillik)! **YDS/YÖKDİL'in EN MEŞHUR SINAV TUZAĞI — Sınâî Mastar vs. Müennes İsm-i Mensûb:** Şekil olarak ikisi de **`ـِيَّةٌ`** ile biter (`الْإِنْسَانِيَّةُ`)! Peki nasıl ayıracağız? **Tek satırlık demir yasa:** Eğer kelime cümlede **SIFAT (na't)** veya sıfata atfedilmiş (ma'tûf) konumda **DEĞİLSE** (mübteda, haber, fâil, mef'ûl, mecrûr ise) → **SINÂÎ MASTARDIR** (`الْإِنْسَانِيَّةُ قِيمَةٌ عَظِيمَةٌ` = İnsanlık büyük bir değerdir)! Eğer bir müennes ismin **SIFATI** olarak gelmişse → **İSM-İ MENSÛB (Nisbet Sıfatı)DUR** (`الْقِيَمُ الْإِنْسَانِيَّةُ عَظِيمَةٌ` = İnsani değerler büyüktür)!",
+      "formul": "İsim + ـِيَّةٌ = Sınâî Mastar (-lik/-lık/-izm) | ŞART: Cümlede SIFAT (na't) konumunda OLMAYACAK! (Sıfat ise İsm-i Mensûb!)",
+      "formulAr": "الْحُرِّيَّةُ حَقٌّ (مَصْدَرٌ صِنَاعِيٌّ)  ≠  الْمَرْأَةُ الْحُرَّةُ / الْحُقُوقُ الْإِنْسَانِيَّةُ (اِسْمٌ مَنْسُوبٌ / نَعْتٌ)",
+      "tablo": {
+        "baslik": "Yüksek Frekanslı Sınâî Mastarlar ve İsm-i Mensûb Karşılaştırması",
+        "sutunlar": ["Kök Kelime", "Sınâî Mastar (ـِيَّة)", "Türkçe Karşılığı", "Sınâî Mastar mı vs. İsm-i Mensûb mu?"],
+        "satirlar": [
+          { "hucreler": ["حُرٌّ (özgür)", "حُرِّيَّةٌ", "özgürlük / hürriyet", "الْحُرِّيَّةُ أَغْلَى مَا يَمْلِكُهُ الْإِنْسَانُ (Sınâî!)"], "ar": "الْحُرِّيَّةُ أَغْلَى مَا يَمْلِكُهُ الْإِنْسَانُ" },
+          { "hucreler": ["إِنْسَانٌ (insan)", "إِنْسَانِيَّةٌ", "insanlık", "تَحْتَاجُ الْإِنْسَانِيَّةُ (Sınâî) ≠ الْحُقُوقُ الْإِنْسَانِيَّةُ (Mensûb)"], "ar": "الْإِنْسَانِيَّةُ ≠ الْحُقُوقُ الْإِنْسَانِيَّةُ" },
+          { "hucreler": ["مَسْؤُولٌ (sorumlu)", "مَسْؤُولِيَّةٌ", "sorumluluk", "تَحَمُّلُ الْمَسْؤُولِيَّةِ دَلِيلُ النُّضْجِ (Sınâî!)"], "ar": "تَحَمُّلُ الْمَسْؤُولِيَّةِ دَلِيلُ النُّضْجِ" },
+          { "hucreler": ["وَطَنٌ (vatan)", "وَطَنِيَّةٌ", "vatanseverlik", "الْوَطَنِيَّةُ عَمَلٌ وَإِخْلَاصٌ (Sınâî) ≠ الْوَحْدَةُ الْوَطَنِيَّةُ (Mensûb)"], "ar": "الْوَطَنِيَّةُ ≠ الْوَحْدَةُ الْوَطَنِيَّةُ" },
+          { "hucreler": ["فَاعِلٌ (etkin)", "فَاعِلِيَّةٌ", "etkinlik / verimlilik", "زَادَتْ فَاعِلِيَّةُ الْبَرْنَامَجِ التَّعْلِيمِيِّ (Sınâî!)"], "ar": "زَادَتْ فَاعِلِيَّةُ الْبَرْنَامَجِ" },
+          { "hucreler": ["أَنَا / كَيْفَ / كَمْ", "أَنَانِيَّةٌ / كَيْفِيَّةٌ / كَمِّيَّةٌ", "bencillik / nitelik / nicelik", "الْأَنَانِيَّةُ تُفْسِدُ الصَّدَاقَةَ (Sınâî!)"], "ar": "الْأَنَانِيَّةُ تُفْسِدُ الصَّدَاقَةَ" }
+        ]
+      },
+      "trKiyas": "Türkçedeki `hürriyet, insaniyet, mesuliyet, milliyet, medeniyet, şahsiyet, keyfiyet, kemmiyet, samimiyet, emniyet` kelimelerinin hepsi Arapçanın Sınâî Mastarıdır! Modern Arapça haberlerde `الدِّيمُقْرَاطِيَّةُ` (demokrasi), `الشَّفَافِيَّةُ` (şeffaflık), `الِاسْتِمْرَارِيَّةُ` (süreklilik), `الْمَوْضُوعِيَّةُ` (nesnellik) gibi her gün yeni kavramlar bu tek `ـِيَّة` ekiyle üretilir!",
+      "sikHatalar": [
+        "Sıfat (na't) konumundaki ـِيَّة kelimesini Sınâî Mastar sanmak (`الدِّرَاسَةُ الْعِلْمِيَّةُ` → burada الْعِلْمِيَّةُ sıfattır, İsm-i Mensûb'dur; `الْعِلْمِيَّةُ أَسَاسُ النَّجَاحِ` cümlesinde ise Sınâî Mastardır!).",
+        "Sınâî mastarın yâ harfini şeddesiz okumak (✗ حُرِيَة — ✓ حُرِّيَّةٌ; ي her zaman şeddeli `ـِيَّة` okunur!).",
+        "الْاِشْتِرَاكِيَّةُ وَالْوَحْدَةُ الْوَطَنِيَّةُ gibi cümlelerde sadece cümle sonundaki kelimeye bakıp önceki kelimenin sıfat olup olmadığını kontrol etmemek."
+      ],
+      "ornekler": [
+        { "ar": "الْحُرِّيَّةُ الْمَسْؤُولَةُ تُعَزِّزُ كَرَامَةَ الْإِنْسَانِ وَتَقَدُّمَ الْمُجْتَمَعِ.", "okunus": "El-hurriyyetu'l-mes’ûletu tu‘azzizu kerâmete'l-insâni ve tekaddume'l-mucteme‘i.", "tr": "Sorumlu özgürlük, insan onurunu ve toplumun ilerlemesini güçlendirir.", "not": "الْحُرِّيَّةُ = mübteda (sıfat değil!) → Sınâî Mastar" },
+        { "ar": "تَحَمُّلُ الْمَسْؤُولِيَّةِ أَمَامَ التَّحَدِّيَاتِ مِنْ صِفَاتِ الْقَادَةِ النَّاجِحِينَ.", "okunus": "Tehammulu'l-mes’ûliyyeti emâme't-tehaddiyâti min sıfâti'l-kâdeti'n-nâcihîne.", "tr": "Zorluklar karşısında sorumluluk üstlenmek başarılı liderlerin özelliklerindendir.", "not": "الْمَسْؤُولِيَّةِ = muzâfun ileyh → Sınâî Mastar" },
+        { "ar": "الشَّفَافِيَّةُ وَالْمَوْضُوعِيَّةُ ضَرُورِيَّتَانِ فِي الْبَحْثِ الْعِلْمِيِّ وَالصَّحَافَةِ.", "okunus": "Eş-şefâfiyyetu ve'l-mevdû‘iyyetu darûriyyetâni fi'l-bahsi'l-‘ilmiyyi ve's-sahâfeti.", "tr": "Bilimsel araştırmada ve gazetecilikte şeffaflık ve nesnellik zorunludur.", "not": "الشَّفَافِيَّةُ + الْمَوْضُوعِيَّةُ (modern sınâî mastarlar)" },
+        { "ar": "الْقَضَايَا الْإِنْسَانِيَّةُ تَتَطَلَّبُ تَعَاوُنًا دَوْلِيًّا عَاجِلًا.", "okunus": "El-kadâya'l-insâniyyetu tetetallebu te‘âvunen devliyyen ‘âcilen.", "tr": "İnsani meseleler acil uluslararası iş birliği gerektirir.", "not": "الْإِنْسَانِيَّةُ burada sıfat (na't) → İsm-i Mensûb!" },
+        { "ar": "تُسَاهِمُ الْوَطَنِيَّةُ الصَّادِقَةُ فِي بِنَاءِ الْأَوْطَانِ وَازْدِهَارِهَا.", "okunus": "Tusâhimu'l-vataniyyetu's-sâdıkatu fî binâi'l-evtâni ve'zdihârihâ.", "tr": "Samimi vatanseverlik vatanların inşasına ve gelişmesine katkıda bulunur.", "not": "الْوَطَنِيَّةُ = fâil → Sınâî Mastar" },
+        { "ar": "الْأَنَانِيَّةُ وَالِاتِّكَالِيَّةُ تَعُوقَانِ نَجَاحَ الْعَمَلِ الْجَمَاعِيِّ.", "okunus": "El-enâniyyetu ve'l-ittikâliyyetu te‘ûkâni necâha'l-‘ameli'l-cemâ‘iyyi.", "tr": "Bencillik ve başkasına yaslanma eğilimi ekip çalışmasının başarısını engeller.", "not": "أَنَا → أَنَانِيَّةٌ | اِتِّكَال → اِتِّكَالِيَّةٌ" }
+      ],
+      "tatbikler": [
+        {
+          "id": "m29_t21",
+          "tip": "bosluk",
+          "soru": "Hangi cümlede altı çizili 'الْإِنْسَانِيَّة' kelimesi SINÂÎ (YAPMA) MASTARDIR?",
+          "secenekler": ["تَدْعُو الْأَدْيَانُ إِلَى الْإِنْسَانِيَّةِ وَالرَّحْمَةِ.", "قَرَأْتُ مَقَالًا عَنِ الْقِيَمِ الْإِنْسَانِيَّةِ.", "هٰذِهِ مُسَاعَدَةٌ إِنْسَانِيَّةٌ عَاجِلَةٌ.", "أَشَادَ بِالْمُبَادَرَةِ الْإِنْسَانِيَّةِ."],
+          "dogruIndeks": 0,
+          "aciklama": "İlk cümlede الْإِنْسَانِيَّةِ sıfat değil, harf-i cerden sonra gelen bağımsız soyut isimdir (Sınâî Mastar). Diğer üçünde müennes ismin sıfatı olduğu için İsm-i Mensûb'dur!"
+        },
+        {
+          "id": "m29_t22",
+          "tip": "bosluk",
+          "soru": "Aşağıdaki cümlelerden hangisinde 'الْوَطَنِيَّة' İSM-İ MENSÛB (nisbet sıfatı) olarak kullanılmıştır?",
+          "secenekler": ["نَحْتَفِلُ بِالذِّكْرَى الْوَطَنِيَّةِ كُلَّ عَامٍ.", "الْوَطَنِيَّةُ شُعُورٌ نَبِيلٌ.", "غَرَسَ الْمُعَلِّمُ الْوَطَنِيَّةَ فِي نُفُوسِ الطُّلَّابِ.", "تَتَجَلَّى الْوَطَنِيَّةُ فِي الْعَمَلِ الْمُخْلِصِ."],
+          "dogruIndeks": 0,
+          "aciklama": "'بِالذِّكْرَى الْوَطَنِيَّةِ' (millî/ulusal anma) terkibinde sıfat konumunda olduğu için İsm-i Mensûb'dur."
+        },
+        {
+          "id": "m29_t23",
+          "tip": "bosluk",
+          "soru": "Sınâî Mastar oluşturmak için bir ismin sonuna hangi ek getirilir?",
+          "secenekler": ["Şeddeli yâ + kapalı tâ (ـِيَّةٌ)", "Elif + nûn (ـَانٌ)", "Başta ötreli mîm (مُـ)", "Sadece kapalı tâ (ـَةٌ)"],
+          "dogruIndeks": 0,
+          "aciklama": "Sınâî mastar formülü: İsim + ـِيَّةٌ (حُرٌّ → حُرِّيَّةٌ، مَسْؤُولٌ → مَسْؤُولِيَّةٌ)."
+        },
+        {
+          "id": "m29_t24",
+          "tip": "bosluk",
+          "soru": "'مَوْضُوعٌ' (konu) kelimesinden türetilen 'nesnellik / objektiflik' anlamındaki sınâî mastar hangisidir?",
+          "secenekler": ["مَوْضُوعِيَّةٌ", "تَوْضِيعٌ", "مَوْضِعٌ", "وَضْعِيٌّ"],
+          "dogruIndeks": 0,
+          "aciklama": "مَوْضُوعٌ + ـِيَّةٌ → مَوْضُوعِيَّةٌ (nesnellik)."
+        },
+        {
+          "id": "m29_t25",
+          "tip": "bosluk",
+          "soru": "'كَيْفَ' (nasıl) ve 'كَمْ' (kaç) soru isimlerinden türeyen sınâî mastar çifti hangisidir?",
+          "secenekler": ["كَيْفِيَّةٌ (nitelik) – كَمِّيَّةٌ (nicelik)", "كَيَافَةٌ – كُمُومٌ", "تَكْيِيفٌ – تَكْمِيمٌ", "مَكْيَفٌ – مَكْمَمٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "كَيْفَ → كَيْفِيَّةٌ (nitelik/keyfiyet) ve كَمْ → كَمِّيَّةٌ (nicelik/kemmiyet)."
+        },
+        {
+          "id": "m29_t26",
+          "tip": "bosluk",
+          "soru": "'الشَّفَافِيَّةُ تُعَزِّزُ الثِّقَةَ' cümlesinde 'الشَّفَافِيَّةُ' ne anlama gelir ve i'rabı nedir?",
+          "secenekler": ["Şeffaflık — Mübteda (merfû), Sınâî Mastar", "Şeffaf — Sıfat (merfû), İsm-i Mensûb", "Şeffaflaştırma — Haber, II. bab mastar", "Şeffaflık — Mef'ûlün bih (mansub)"],
+          "dogruIndeks": 0,
+          "aciklama": "Cümle başında mübteda (sıfat değil) olduğu için Sınâî Mastardır: 'Şeffaflık güveni güçlendirir.'"
+        },
+        {
+          "id": "m29_t27",
+          "tip": "hata",
+          "soru": "Hangi ifade Sınâî Mastar kuralı açısından YANLIŞTIR?",
+          "secenekler": ["Sınâî mastar cümlede sıfat (na't) olarak kullanıldığında da sınâî mastar sayılır.", "Sınâî mastar hem câmid hem müştak isimlerden türetilebilir.", "Sınâî mastarın sonundaki yâ şeddeli okunur (ـِيَّةٌ).", "Sınâî mastar soyut kavram (Türkçedeki -lik/-lık/-izm) bildirir."],
+          "dogruIndeks": 0,
+          "aciklama": "Altın şart: ـِيَّة ile biten kelime sıfat (na't) konumunda gelirse artık Sınâî Mastar değil, İsm-i Mensûb'dur!"
+        },
+        {
+          "id": "m29_t28",
+          "tip": "bosluk",
+          "soru": "'أَنَا' (ben) zamirinden türetilen 'bencillik' anlamındaki sınâî mastar hangisidir?",
+          "secenekler": ["أَنَانِيَّةٌ", "أَنَوِيٌّ", "إِنَانَةٌ", "تَأَنُّنٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "أَنَا zamirinden türeyen sınâî mastar أَنَانِيَّةٌ (bencillik) kelimesidir."
+        },
+        {
+          "id": "m29_t29",
+          "tip": "bosluk",
+          "soru": "'الِاسْتِمْرَارِيَّةُ فِي التَّعَلُّمِ سِرُّ النَّجَاحِ' cümlesinde 'الِاسْتِمْرَارِيَّةُ' hangi anlamdadır?",
+          "secenekler": ["Süreklilik / devamlılık", "Durdurma", "İstemek", "Yatırım"],
+          "dogruIndeks": 0,
+          "aciklama": "اِسْتِمْرَارٌ (devam etme) + ـِيَّةٌ → اِسْتِمْرَارِيَّةٌ (süreklilik)."
+        },
+        {
+          "id": "m29_t30",
+          "tip": "ceviri",
+          "soru": "'تَحَمُّلُ الْمَسْؤُولِيَّةِ دَلِيلُ النُّضْجِ' cümlesinin en doğru çevirisi hangisidir?",
+          "secenekler": ["Sorumluluk üstlenmek olgunluğun göstergesidir.", "Sorumlu kişi olgunluğa delil getirdi.", "Olgun sorumluluklar çok önemlidir.", "Sorumluluktan kaçmak olgunluktur."],
+          "dogruIndeks": 0,
+          "aciklama": "تَحَمُّلُ (üstlenmek — V. bab mastar) + الْمَسْؤُولِيَّةِ (sorumluluk — Sınâî Mastar) + دَلِيلُ النُّضْجِ (olgunluğun göstergesi)."
+        }
+      ]
+    },
+    {
+      "id": "m29_g4",
+      "baslik": "Mastar-ı Merre (فَعْلَة — 'Bir Kez') & Mastar-ı Nevi / Hey'et (فِعْلَة — 'Tarz/Biçim')",
+      "arBaslik": "اِسْمُ الْمَرَّةِ (فَعْلَة) وَاسْمُ الْهَيْئَةِ / النَّوْعِ (فِعْلَة)",
+      "mantik": "Arapça o kadar hassas bir dildir ki, **sadece ilk harfin harekesini Fetha (`فَـ`) veya Kesra (`فِـ`) yaparak** bir eylemin **'kaç kez (1 kere)'** mi yoksa **'hangi tarzda / biçimde'** mi yapıldığını tek kelimede söyler! **(1) Mastar-ı Merre (اِسْمُ الْمَرَّةِ — 'Bir Kezlik Eylem'):** Sülâsî fiillerden daima **`فَعْلَةٌ`** (ilk harf FETHALI!) kalıbında gelir: `ضَرَبَ` → `ضَرْبَةٌ` (bir vuruş), `جَلَسَ` → `جَلْسَةٌ` (bir oturuş / tek oturum), `نَظَرَ` → `نَظْرَةٌ` (bir bakış), `أَكَلَ` → `أَكْلَةٌ` (bir öğün/yiyiş), `خَطَا` → `خَطْوَةٌ` (bir adım)! **Peki ya sülâsî fiilin aslî mastarı zaten `ة` ile bitiyorsa (`رَحْمَةٌ، دَعْوَةٌ`)?** O zaman yanına **`وَاحِدَةٌ`** sıfatı eklenir: `دَعَوْتُهُ دَعْوَةً وَاحِدَةً` (Onu bir kez davet ettim)! **Mezîd fiillerden Mastar-ı Merre:** Aslî mastarın sonuna **`ة`** eklenir: `اِنْطَلَقَ` → `اِنْطِلَاقٌ` → `اِنْطِلَاقَةٌ` (bir fırlayış/atılım), `اِبْتَسَمَ` → `اِبْتِسَامٌ` → `اِبْتِسَامَةٌ` (bir gülümseyiş)! Aslî mastarı zaten `ة` ile bitiyorsa (`إِقَامَةٌ، اِسْتِفَادَةٌ`) yanına `وَاحِدَةٌ` konur (`إِقَامَةً وَاحِدَةً`). **(2) Mastar-ı Nevi / Hey'et (اِسْمُ الْهَيْئَةِ — 'Eylemin Tarzı/Biçimi'):** Sadece **sülâsî fiillerden** ve daima **`فِعْلَةٌ`** (ilk harf KESRALI!) kalıbında gelir: `جَلَسَ` → `جِلْسَةٌ` (oturuş tarzı — `جَلَسَ جِلْسَةَ الْعُلَمَاءِ` = Âlimlerin oturuşu gibi oturdu), `مَشَى` → `مِشْيَةٌ` (yürüyüş tarzı — `مَشَى مِشْيَةَ الْوَاثِقِ` = Kendinden emin bir yürüyüşle yürüdü), `وَقَفَ` → `وِقْفَةٌ` (duruş biçimi), `نَظَرَ` → `نِظْرَةٌ` (bakış tarzı)! Bu yüzden cümlede çoğunlukla bir **sıfat** (`جِلْسَةً مُعْتَدِلَةً`) veya **muzâfun ileyh** (`مِشْيَةَ الْأَبْطَالِ`) ile birlikte gelir!",
+      "formul": "Mastar-ı Merre (1 kez): Sülâsî فَعْلَةٌ (fetha!) | Mezîd: Mastar + ة (zaten ة varsa + وَاحِدَةٌ) || Mastar-ı Nevi (tarz): Sülâsî فِعْلَةٌ (kesra!)",
+      "formulAr": "جَلَسَ جَلْسَةً (bir kez oturdu — مَرَّة)  ≠  جَلَسَ جِلْسَةَ الْأَدِيبِ (edipçe oturdu — هَيْئَة / نَوْع)",
+      "tablo": {
+        "baslik": "Mastar-ı Merre (فَعْلَة) ve Mastar-ı Nevi (فِعْلَة) Karşılaştırma Tablosu",
+        "sutunlar": ["Sülâsî / Mezîd Fiil", "Mastar-ı Merre (1 Kez)", "Mastar-ı Nevi (Tarz)", "Örnek Kullanım Farkı"],
+        "satirlar": [
+          { "hucreler": ["جَلَسَ (oturdu)", "جَلْسَةٌ (bir oturuş)", "جِلْسَةٌ (oturuş tarzı)", "جَلَسْتُ جَلْسَةً ≠ جَلَسْتُ جِلْسَةَ الْمُؤَدَّبِ"], "ar": "جَلْسَةٌ (مَرَّة) ≠ جِلْسَةٌ (هَيْئَة)" },
+          { "hucreler": ["وَقَفَ (durdu)", "وَقْفَةٌ (bir duruş)", "وِقْفَةٌ (duruş biçimi)", "وَقَفَ وَقْفَةً ≠ وَقَفَ وِقْفَةَ الْبَطَلِ"], "ar": "وَقْفَةٌ (مَرَّة) ≠ وِقْفَةٌ (هَيْئَة)" },
+          { "hucreler": ["نَظَرَ (baktı)", "نَظْرَةٌ (bir bakış)", "نِظْرَةٌ (bakış tarzı)", "نَظَرَ نَظْرَةً ≠ نَظَرَ نِظْرَةَ الْمُشْفِقِ"], "ar": "نَظْرَةٌ (مَرَّة) ≠ نِظْرَةٌ (هَيْئَة)" },
+          { "hucreler": ["مَشَى (yürüdü)", "مَشْيَةٌ (bir yürüyüş)", "مِشْيَةٌ (yürüyüş tarzı)", "مَشَى مِشْيَةَ الْوَاثِقِ بِنَفْسِهِ"], "ar": "مَشْيَةٌ (مَرَّة) ≠ مِشْيَةٌ (هَيْئَة)" },
+          { "hucreler": ["دَعَا (aslîsi دَعْوَةٌ)", "دَعْوَةٌ وَاحِدَةٌ", "دِعْوَةٌ (davet tarzı)", "دَعَوْتُهُ دَعْوَةً وَاحِدَةً (وَاحِدَة şart!)"], "ar": "دَعَوْتُهُ دَعْوَةً وَاحِدَةً" },
+          { "hucreler": ["اِنْطَلَقَ / اِبْتَسَمَ (Mezîd)", "اِنْطِلَاقَةٌ / اِبْتِسَامَةٌ", "(Mezîd'den فِعْلَة gelmez)", "اِبْتَسَمَ اِبْتِسَامَةً لَطِيفَةً"], "ar": "اِنْطِلَاقَةٌ وَابْتِسَامَةٌ" }
+        ]
+      },
+      "trKiyas": "Tek bir hareke mucizesi: `عَلَّمَ → جَلْسَة` (fethalı) = 'bir oturum / celse' (Türkçedeki *mahkeme celsesi* buradan gelir!); `جِلْسَة` (kesralı) = 'oturuş biçimi, postür'! `وَقْفَة` = bir duraklama / vakfe; `وِقْفَة` = heybetli duruş tarzı!",
+      "sikHatalar": [
+        "فَعْلَةٌ (merre — fetha) ile فِعْلَةٌ (nevi — kesra) harekelerini karıştırmak: Hatırlama kodu → Fetha 'F' = Ferdi/Tek (1 kez), Kesra 'K' = Kalite/Tarz!",
+        "Aslî mastarı zaten ة ile biten fiillerde (رَحْمَةٌ، إِقَامَةٌ، اِسْتِشَارَةٌ) Mastar-ı Merre için وَاحِدَةٌ eklemeyi unutmak (`أَقَامَ إِقَامَةً وَاحِدَةً`).",
+        "Mezîd fiillerden فِعْلَةٌ kalıbında Mastar-ı Nevi türetmeye çalışmak — klasik kıyâsî kurala göre Mastar-ı Nevi (فِعْلَة) yalnızca SÜLÂSÎ fiillerden türetilir."
+      ],
+      "ornekler": [
+        { "ar": "نَظَرَ الْغَرِيبُ نَظْرَةً سَرِيعَةً إِلَى السَّاعَةِ ثُمَّ غَادَرَ الْمَحَطَّةَ.", "okunus": "Nazara'l-garîbu nazraten serî‘aten ile's-sâ‘ati summe gâdera'l-mahattate.", "tr": "Yabancı saate hızlı bir bakış attı, sonra istasyondan ayrıldı.", "not": "نَظْرَةً (فَعْلَة — Mastar-ı Merre: bir bakış)" },
+        { "ar": "وَقَفَ الْقَائِدُ وِقْفَةَ الشُّجْعَانِ أَمَامَ التَّحَدِّيَاتِ الصَّعْبَةِ.", "okunus": "Vekafe'l-kâidu vıkfete'ş-şuc‘âni emâme't-tehaddiyâti's-sa‘beti.", "tr": "Komutan zorlu meydan okumalar karşısında cesurların duruşuyla durdu.", "not": "وِقْفَةَ (فِعْلَة — Mastar-ı Nevi: duruş tarzı)" },
+        { "ar": "جَلَسَ الطِّفْلُ جِلْسَةً مُعْتَدِلَةً وَهُوَ يَسْتَمِعُ إِلَى قِصَّةِ جَدِّهِ.", "okunus": "Celese't-tıflu cilseten mu‘tedileten ve huve yestemi‘u ilâ kıssati ceddihî.", "tr": "Çocuk dedesinin hikâyesini dinlerken düzgün bir oturuşla oturdu.", "not": "جِلْسَةً (فِعْلَة — Mastar-ı Nevi + sıfat)" },
+        { "ar": "حَقَّقَ الْمَشْرُوعُ اِنْطِلَاقَةً قَوِيَّةً فِي السُّوقِ الْعَالَمِيَّةِ.", "okunus": "Hakkaka'l-meşrû‘u intılâkaten kaviyyeten fi's-sûkı'l-‘âlemiyyeti.", "tr": "Proje küresel pazarda güçlü bir atılım gerçekleştirdi.", "not": "اِنْطِلَاقَةً (Mezîd mastar + ة = Mastar-ı Merre)" },
+        { "ar": "اِسْتَفَدْتُ مِنَ الدَّوْرَةِ اِسْتِفَادَةً وَاحِدَةً غَيَّرَتْ مَسَارَ عَمَلِي.", "okunus": "İstefedtu mine'd-devrati istifâdeten vâhıdeten gayyerat mesâra ‘amelî.", "tr": "Kurstan işimin yönünü değiştiren tek bir (benzersiz) istifade sağladım.", "not": "اِسْتِفَادَةً وَاحِدَةً (aslî mastar ة'li olduğu için وَاحِدَةٌ eklendi!)" },
+        { "ar": "مَشَى الْفَائِزُ مِشْيَةَ الْوَاثِقِ بِنَفْسِهِ نَحْوَ مِنْصَّةِ التَّكْرِيمِ.", "okunus": "Meşa'l-fâizu mişyete'l-vâsıkı bi-nefsihî nahve minassati't-tekrîmi.", "tr": "Kazanan kişi kendine güvenen bir yürüyüşle ödül kürsüsüne doğru yürüdü.", "not": "مِشْيَةَ (فِعْلَة — Mastar-ı Nevi: yürüyüş tarzı)" }
+      ],
+      "tatbikler": [
+        {
+          "id": "m29_t31",
+          "tip": "bosluk",
+          "soru": "Sülâsî fiillerden Mastar-ı Merre (bir kez) ve Mastar-ı Nevi (tarz) kalıpları sırasıyla hangisidir?",
+          "secenekler": ["فَعْلَةٌ (fethalı) – فِعْلَةٌ (kesralı)", "فِعْلَةٌ – فَعْلَةٌ", "فُعْلَةٌ – فَعْلَةٌ", "مَفْعَلٌ – مَفْعِلٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "Mastar-ı Merre = فَعْلَةٌ (bir kez); Mastar-ı Nevi/Hey'et = فِعْلَةٌ (eylemin tarzı/biçimi)."
+        },
+        {
+          "id": "m29_t32",
+          "tip": "bosluk",
+          "soru": "'وَقَفَ الْجُنْدِيُّ وِقْفَةَ الْبَطَلِ' cümlesinde 'وِقْفَةَ' hangi mastar türüdür?",
+          "secenekler": ["Mastar-ı Nevi / Hey'et (duruş tarzı)", "Mastar-ı Merre (bir kez duruş)", "Mimli Mastar", "Sınâî Mastar"],
+          "dogruIndeks": 0,
+          "aciklama": "Kesralı وِقْفَةَ (فِعْلَة) + muzâfun ileyh الْبَطَلِ → kahraman duruş tarzı (Mastar-ı Nevi)."
+        },
+        {
+          "id": "m29_t33",
+          "tip": "bosluk",
+          "soru": "'ضَرَبَ' fiilinden 'tek bir vuruş' anlamında Mastar-ı Merre hangisidir?",
+          "secenekler": ["ضَرْبَةٌ", "ضِرْبَةٌ", "مَضْرَبٌ", "تَضْرِيبٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "فَعْلَةٌ → ضَرْبَةٌ (bir vuruş; 'ضَرْبَةُ جَزَاءٍ' = penaltı vuruşu!)."
+        },
+        {
+          "id": "m29_t34",
+          "tip": "bosluk",
+          "soru": "Aslî mastarı zaten 'ة' ile biten 'أَقَامَ → إِقَامَةٌ' fiilinden Mastar-ı Merre nasıl yapılır?",
+          "secenekler": ["إِقَامَةٌ وَاحِدَةٌ (sonuna وَاحِدَةٌ sıfatı eklenerek)", "إِقَامَتَانِ", "مُقَامَةٌ", "قِيمَةٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "Aslî mastar ة ile bitiyorsa karışıklığı önlemek için وَاحِدَةٌ sıfatı getirilir."
+        },
+        {
+          "id": "m29_t35",
+          "tip": "bosluk",
+          "soru": "'اِبْتَسَمَ' (VIII. bab — gülümsedi) fiilinin Mastar-ı Merresi hangisidir?",
+          "secenekler": ["اِبْتِسَامَةٌ (aslî mastar اِبْتِسَامٌ + ة)", "بَسْمَةٌ", "بِسْمَةٌ", "مُبْتَسَمٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "Mezîd fiillerde Mastar-ı Merre = Aslî Mastar + ة → اِبْتِسَامٌ + ة = اِبْتِسَامَةٌ."
+        },
+        {
+          "id": "m29_t36",
+          "tip": "bosluk",
+          "soru": "'جَلَسَ الطَّالِبُ جَلْسَةً' ile 'جَلَسَ الطَّالِبُ جِلْسَةً مُنَظَّمَةً' arasındaki fark nedir?",
+          "secenekler": ["Birincisi 'bir kez oturdu' (Merre), ikincisi 'düzenli bir tarzda oturdu' (Nevi)", "Birincisi yer, ikincisi zaman bildirir", "İkisi arasında hiçbir anlam farkı yoktur", "Birincisi çoğul, ikincisi tekildir"],
+          "dogruIndeks": 0,
+          "aciklama": "جَلْسَةً (fetha = bir kezlik oturuş); جِلْسَةً (kesra = oturuş tarzı/biçimi)."
+        },
+        {
+          "id": "m29_t37",
+          "tip": "bosluk",
+          "soru": "Hadis-i şerifteki 'فَأَحْسِنُوا الذِّبْحَةَ' (Kesim tarzını güzelleştirin) ifadesinde 'الذِّبْحَةَ' neden kesralı okunmuştur?",
+          "secenekler": ["Kesim biçimini/tarzını bildiren Mastar-ı Nevi (فِعْلَة) olduğu için", "Bir kez kesmeyi bildirdiği için", "İsm-i âlet olduğu için", "Sınâî mastar olduğu için"],
+          "dogruIndeks": 0,
+          "aciklama": "الذِّبْحَةَ (فِعْلَة) kesme tarzını ve hassasiyetini anlatan Mastar-ı Nevidir."
+        },
+        {
+          "id": "m29_t38",
+          "tip": "hata",
+          "soru": "Hangi eşleştirme YANLIŞTIR?",
+          "secenekler": ["مَشَى → مِشْيَةٌ (Mastar-ı Merre — bir kez yürüyüş)", "نَظَرَ → نَظْرَةٌ (Mastar-ı Merre — bir bakış)", "نَظَرَ → نِظْرَةٌ (Mastar-ı Nevi — bakış tarzı)", "اِنْطَلَقَ → اِنْطِلَاقَةٌ (Mezîd Mastar-ı Merre)"],
+          "dogruIndeks": 0,
+          "aciklama": "مِشْيَةٌ kesralı (فِعْلَة) olduğu için Mastar-ı Merre değil, Mastar-ı Nevi (yürüyüş tarzı)dir!"
+        },
+        {
+          "id": "m29_t39",
+          "tip": "bosluk",
+          "soru": "'رَحِمَ' (aslî mastarı رَحْمَةٌ) fiilinin 'bir kez merhamet etme' anlamındaki Mastar-ı Merresi hangisidir?",
+          "secenekler": ["رَحْمَةٌ وَاحِدَةٌ", "رِحْمَةٌ", "مَرْحَمَةٌ", "تَرْحِيمَةٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "Aslî mastarı zaten فَعْلَة (رَحْمَةٌ) olduğu için Merre anlamı وَاحِدَةٌ ile belirtilir."
+        },
+        {
+          "id": "m29_t40",
+          "tip": "ceviri",
+          "soru": "'خَطَا الْعَالِمُ خَطْوَةً جَرِيئَةً نَحْوَ الِاكْتِشَافِ' cümlesinde 'خَطْوَةً' ne tür bir mastardır?",
+          "secenekler": ["Mastar-ı Merre (فَعْلَة — cesur bir adım)", "Mastar-ı Nevi", "Mimli Mastar", "Sınâî Mastar"],
+          "dogruIndeks": 0,
+          "aciklama": "خَطَا → خَطْوَةٌ (فَعْلَة kalıbı: bir adım — Mastar-ı Merre)."
+        }
+      ]
+    },
+    {
+      "id": "m29_g5",
+      "baslik": "Mastarın Fiil Gibi Amel Etmesi (إِعْمَالُ الْمَصْدَرِ) — İsim Kılığındaki Fiil!",
+      "arBaslik": "عَمَلُ الْمَصْدَرِ عَمَلَ فِعْلِهِ (إِضَافَتُهُ إِلَى فَاعِلِهِ أَوْ مَفْعُولِهِ)",
+      "mantik": "B1 → B2 düzeyinde Arapça metinleri ve YDS/YÖKDİL paragraflarını okurken karşına çıkacak **en hayati nahiv sırrı** şudur: **Mastar bir İSİM olmasına rağmen, kendi fiili gibi AMEL EDER; yani fâil (özne) merfû ve mef'ûlün bih (nesne) MANSUB alabilir!** Nasıl yani? Türkçede *'Senin bu kitabı okuman beni sevindirdi'* dediğinde *'okuman'* (mastar) nasıl *'bu kitabı'* diye belirtili nesne alabiliyorsa, Arapçada da **`أَسْعَدَنِي قِرَاءَتُكَ الْكِتَابَ`** denir! Dikkat et: `قِرَاءَةُ` (mastar) + `ـكَ` (lafzen muzâfun ileyh ama **anlamca FÂİL!**) + **`الْكِتَابَ`** (**MANSUB mef'ûlün bih!**)! Mastarın fiil gibi amel ettiği **3 klasik kalıp** vardır: **(1) En yaygın olanı — Fâiline Muzâf Mastar (90% kullanım!):** `إِكْرَامُ الْوَلَدِ وَالِدَيْهِ وَاجِبٌ` (Çocuğun anne-babasına ikram etmesi vaciptir) → `الْوَلَدِ` lafzen mecrûr (muzâfun ileyh), mahallen merfû fâil; **`وَالِدَيْهِ`** tesniye **mansub** (ي ile!) mef'ûlün bih! **(2) Tenvinli (Münevven) Mastar:** `أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ يَتِيمًا` (Beled 14–15: Yahut açlık gününde bir yetimi doyurmak) → `إِطْعَامٌ` (tenvinli mastar) + **`يَتِيمًا`** (mansub mef'ûlün bih!). **(3) Mef'ûlüne Muzâf Mastar (sonra fâil merfû gelir!):** `أَعْجَبَنِي إِكْرَامُ الضَّيْفِ الْمُضِيفُ` (Ev sahibinin misafire ikramı hoşuma gitti — fâil `الْمُضِيفُ` merfû!). **Temel şart:** Mastarın yerine **`أَنْ + fiil`** (müevvel mastar) koyabilmelisin (`قِرَاءَتُكَ الْكِتَابَ` = `أَنْ تَقْرَأَ الْكِتَابَ`)!",
+      "formul": "Mastar (= أَنْ + Fiil) → Fâiline muzâf + Mef'ûlü MANSUB! | قِرَاءَتُكَ الْكِتَابَ / إِطْعَامٌ يَتِيمًا",
+      "formulAr": "أَسْعَدَنِي قِرَاءَتُكَ الْكِتَابَ  |  إِكْرَامُ الْوَلَدِ وَالِدَيْهِ وَاجِبٌ  |  إِطْعَامٌ يَتِيمًا",
+      "tablo": {
+        "baslik": "Mastarın Fiil Gibi Amelinin 3 Yapısı ve İ'rab Çözümlemesi",
+        "sutunlar": ["Yapı Türü", "Arapça Örnek", "Mastar + Özne/Nesne İ'rabı", "Müevvel Mastar Eşiti"],
+        "satirlar": [
+          { "hucreler": ["1. Fâiline Muzâf (En Sık!)", "أَسْعَدَنِي قِرَاءَتُكَ الْكِتَابَ", "قِرَاءَةُ (mastar) + كَ (fâil/muzâfun ileyh) + الْكِتَابَ (mef'ûl mansub!)", "أَسْعَدَنِي أَنْ تَقْرَأَ الْكِتَابَ"], "ar": "أَسْعَدَنِي قِرَاءَتُكَ الْكِتَابَ" },
+          { "hucreler": ["1b. İsim Fâile Muzâf", "إِكْرَامُ الطَّالِبِ أُسْتَاذَهُ فَضِيلَةٌ", "الطَّالِبِ (fâil/mecrûr) + أُسْتَاذَهُ (mef'ûl mansub!)", "أَنْ يُكْرِمَ الطَّالِبُ أُسْتَاذَهُ"], "ar": "إِكْرَامُ الطَّالِبِ أُسْتَاذَهُ فَضِيلَةٌ" },
+          { "hucreler": ["2. Tenvinli (Münevven)", "إِطْعَامٌ يَتِيمًا عَمَلٌ صَالِحٌ", "إِطْعَامٌ (tenvinli mastar) + يَتِيمًا (mef'ûl mansub!)", "أَنْ يُطْعِمَ يَتِيمًا"], "ar": "إِطْعَامٌ يَتِيمًا عَمَلٌ صَالِحٌ" },
+          { "hucreler": ["2b. Tenvinli + Fâil + Mef'ûl", "أَعْجَبَنِي احْتِرَامٌ طَالِبٌ مُعَلِّمَهُ", "طَالِبٌ (fâil merfû) + مُعَلِّمَهُ (mef'ûl mansub)", "أَنْ يَحْتَرِمَ طَالِبٌ مُعَلِّمَهُ"], "ar": "احْتِرَامٌ طَالِبٌ مُعَلِّمَهُ" },
+          { "hucreler": ["3. Mef'ûlüne Muzâf", "سَرَّنِي فَهْمُ الدَّرْسِ الطَّالِبُ", "الدَّرْسِ (mef'ûl/mecrûr) + الطَّالِبُ (fâil merfû!)", "أَنْ يَفْهَمَ الطَّالِبُ الدَّرْسَ"], "ar": "سَرَّنِي فَهْمُ الدَّرْسِ الطَّالِبُ" },
+          { "hucreler": ["Kur'an Şâhidi (Bakara 251)", "وَلَوْلَا دَفْعُ اللّٰهِ النَّاسَ", "اللّٰهِ (fâil/mecrûr) + النَّاسَ (mef'ûl mansub!)", "وَلَوْلَا أَنْ يَدْفَعَ اللّٰهُ النَّاسَ"], "ar": "وَلَوْلَا دَفْعُ اللّٰهِ النَّاسَ" }
+        ]
+      },
+      "trKiyas": "Türkçedeki *'Allah'ın insanları savması'*, *'Senin ödevi bitirmen'*, *'Öğrencinin hocasına saygı duyması'* gibi `-me/-ma` fiilimsili yan cümlelerin Arapçadaki en zarif ve en akademik karşılığı, fâiline muzâf olmuş ve nesnesini mansub almış amel eden mastardır! Modern gazete başlıklarında her paragrafta 2–3 kez görürsün: `إِطْلَاقُ الشَّرِكَةِ مَشْرُوعًا جَدِيدًا` (Şirketin yeni bir proje başlatması)!",
+      "sikHatalar": [
+        "إِكْرَامُ الطَّالِبِ أُسْتَاذَهُ gibi bir cümlede fiil göremediği için أُسْتَاذَهُ kelimesinin neden mansub (fethalı) olduğuna şaşırmak — onu nasbeden kelime fiil değil, amel eden إِكْرَامُ mastarıdır!",
+        "Mastarın tamlama (izâfet) hâlinde fâiline muzâf iken tenvin koymak (✗ إِكْرَامٌ الطَّالِبِ — ✓ إِكْرَامُ الطَّالِبِ).",
+        "Amel eden mastarı sadece sülâsî sanmak — mezîd mastarlar (إِكْرَامُ، تَعْلِيمُ، اِحْتِرَامُ، اِسْتِخْدَامُ) basın Arapçasında sülâsîlerden bile daha sık nesne alır!"
+      ],
+      "ornekler": [
+        { "ar": "أَسْعَدَنِي كَثِيرًا قِرَاءَتُكَ الْكِتَابَ الْمُفِيدَ فِي وَقْتِ فَرَاغِكَ.", "okunus": "Es‘adenî kesîran kırâ’etuke'l-kitâbe'l-mufîde fî vakti ferâgıke.", "tr": "Boş vaktinde faydalı kitabı okuman beni çok sevindirdi.", "not": "قِرَاءَةُ (mastar) + كَ (fâil) + الْكِتَابَ (mansub mef'ûl!)" },
+        { "ar": "إِكْرَامُ الْأَبْنَاءِ وَالِدَيْهِمْ مِنْ أَعْظَمِ الْقِيَمِ الْأَخْلَاقِيَّةِ.", "okunus": "İkrâmu'l-ebnâi vâlideyhim min a‘zami'l-kıyemi'l-ahlâkıyyeti.", "tr": "Çocukların anne-babalarına ikram etmesi en yüce ahlaki değerlerdendir.", "not": "وَالِدَيْهِمْ = tesniye mansub mef'ûlün bih (ي ile!)" },
+        { "ar": "أَعْلَنَتِ الشَّرِكَةُ عَنْ إِطْلَاقِهَا مَشْرُوعًا جَدِيدًا لِلطَّاقَةِ الشَّمْسِيَّةِ.", "okunus": "A‘leneti'ş-şeriketu ‘an ıtlâkıhâ meşrû‘an cedîden li't-tâkati'ş-şemsiyyeti.", "tr": "Şirket güneş enerjisi için yeni bir proje başlattığını duyurdu.", "not": "إِطْلَاقِهَا (mastar + fâil zamir) + مَشْرُوعًا (mansub mef'ûl!)" },
+        { "ar": "وَلَوْلَا دَفْعُ اللّٰهِ النَّاسَ بَعْضَهُمْ بِبَعْضٍ لَفَسَدَتِ الْأَرْضُ.", "okunus": "Ve levlâ def‘ullâhi'n-nâse ba‘dahum bi-ba‘dın le-fesedeti'l-ardu.", "tr": "Eğer Allah'ın insanları birbiriyle savması olmasaydı yeryüzü bozulurdu (Bakara 251).", "not": "دَفْعُ (mastar) + اللّٰهِ (fâil) + النَّاسَ (mansub mef'ûl!)" },
+        { "ar": "إِطْعَامٌ فَقِيرًا وَمُسَاعَدَةٌ مُحْتَاجًا يُدْخِلَانِ السُّرُورَ عَلَى الْقَلْبِ.", "okunus": "İt‘âmun fakîran ve musâ‘adetun muhtâcen yudhilâni's-surûra ‘ale'l-kalbi.", "tr": "Bir fakiri doyurmak ve bir muhtaca yardım etmek kalbe sevinç verir.", "not": "Tenvinli mastar (إِطْعَامٌ / مُسَاعَدَةٌ) + mansub mef'ûl (فَقِيرًا / مُحْتَاجًا)" },
+        { "ar": "سَرَّ الْمُدِيرَ إِتْقَانُ الْمُوَظَّفِينَ أَعْمَالَهُمْ قَبْلَ الْمَوْعِدِ الْمُحَدَّدِ.", "okunus": "Serra'l-mudîra itkânu'l-muvazzafîne a‘mâlehum kable'l-mev‘ıdi'l-muhaddedi.", "tr": "Çalışanların işlerini belirlenen süreden önce kusursuz yapması müdürü sevindirdi.", "not": "إِتْقَانُ (IV. bab mastar) + الْمُوَظَّفِينَ (fâil) + أَعْمَالَهُمْ (mansub mef'ûl!)" }
+      ],
+      "tatbikler": [
+        {
+          "id": "m29_t41",
+          "tip": "bosluk",
+          "soru": "'أَسْعَدَنِي قِرَاءَتُكَ الْكِتَابَ' cümlesinde 'الْكِتَابَ' kelimesi neden MANSUB (fethalı) okunmuştur?",
+          "secenekler": ["قِرَاءَة mastarının fiil gibi amel etmesiyle mef'ûlün bih olduğu için", "أَسْعَدَ fiilinin ikinci nesnesi olduğu için", "Hâl olduğu için", "Temyîz olduğu için"],
+          "dogruIndeks": 0,
+          "aciklama": "قِرَاءَتُكَ mastarı (أَنْ تَقْرَأَ anlamında) fiil gibi amel etmiş ve الْكِتَابَ kelimesini mef'ûlün bih olarak nasbetmiştir."
+        },
+        {
+          "id": "m29_t42",
+          "tip": "bosluk",
+          "soru": "'إِكْرَامُ الْوَلَدِ _____ وَاجِبٌ' boşluğuna gramer bakımından DOĞRU olan hangisi gelmelidir?",
+          "secenekler": ["وَالِدَيْهِ (mansub — ي ile!)", "وَالِدَاهُ (merfû)", "وَالِدُوْهُ", "وَالِدٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "إِكْرَامُ mastarının mef'ûlün bihi olduğu için tesniye mansub hâli وَالِدَيْهِ gelir."
+        },
+        {
+          "id": "m29_t43",
+          "tip": "bosluk",
+          "soru": "'وَلَوْلَا دَفْعُ اللّٰهِ النَّاسَ' ayetinde 'دَفْعُ' mastarının fâili ve mef'ûlün bihi sırasıyla hangisidir?",
+          "secenekler": ["Fâil: اللّٰهِ (lafzen muzâfun ileyh) | Mef'ûl: النَّاسَ (mansub)", "Fâil: النَّاسَ | Mef'ûl: اللّٰهِ", "İkisi de muzâfun ileyhtir", "Bu cümlede mef'ûl yoktur"],
+          "dogruIndeks": 0,
+          "aciklama": "Mastar fâiline (اللّٰهِ) muzâf olmuş, mef'ûlün bihini (النَّاسَ) açık fetha ile nasbetmiştir."
+        },
+        {
+          "id": "m29_t44",
+          "tip": "bosluk",
+          "soru": "Amel eden mastarın temel şartı, cümlede yerine neyin konulabilmesidir?",
+          "secenekler": ["أَنْ + fiil (müevvel mastar)", "لَمْ + fiil", "لَيْسَ + isim", "إِنَّ + haber"],
+          "dogruIndeks": 0,
+          "aciklama": "Mastar, yerine أَنْ + fiil (veya مَا + fiil) konulabiliyorsa fiil gibi amel eder."
+        },
+        {
+          "id": "m29_t45",
+          "tip": "bosluk",
+          "soru": "'أَعْلَنَتِ الشَّرِكَةُ عَنْ إِطْلَاقِهَا _____ جَدِيدًا' boşluğuna hangisi gelir?",
+          "secenekler": ["مَشْرُوعًا (mansub mef'ûlün bih)", "مَشْرُوعٌ (merfû)", "مَشْرُوعٍ (mecrûr)", "مَشَارِيعُ"],
+          "dogruIndeks": 0,
+          "aciklama": "إِطْلَاقِهَا (başlatması) amel eden mastardır; nesnesi مَشْرُوعًا mansub gelir."
+        },
+        {
+          "id": "m29_t46",
+          "tip": "bosluk",
+          "soru": "'إِطْعَامٌ يَتِيمًا فِي يَوْمٍ صَعْبٍ' ifadesinde mastar hangi hâlde amel etmiştir?",
+          "secenekler": ["Tenvinli (münevven) mastar olarak", "Fâiline muzâf olarak", "Mef'ûlüne muzâf olarak", "ال takılı olarak"],
+          "dogruIndeks": 0,
+          "aciklama": "إِطْعَامٌ tenvinli gelmiş ve يَتِيمًا kelimesini mef'ûlün bih olarak nasbetmiştir."
+        },
+        {
+          "id": "m29_t47",
+          "tip": "hata",
+          "soru": "Hangi cümlede mastarın ameliyle ilgili i'rab HATASI yapılmıştır?",
+          "secenekler": ["أَعْجَبَنِي إِتْقَانُ الطَّالِبِ وَاجِبُهُ (✗ وَاجِبُهُ merfû yazılmış!)", "أَعْجَبَنِي إِتْقَانُ الطَّالِبِ وَاجِبَهُ", "أَسْعَدَنِي فَهْمُكَ الدَّرْسَ", "إِطْعَامٌ فَقِيرًا عَمَلٌ كَرِيمٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "إِتْقَانُ mastarının nesnesi mansub olmalıdır: doğru şekli وَاجِبَهُ'dur."
+        },
+        {
+          "id": "m29_t48",
+          "tip": "bosluk",
+          "soru": "'أَسْعَدَنِي فَهْمُكَ الدَّرْسَ' cümlesinde 'ـكَ' zamirinin tam i'rabı hangisidir?",
+          "secenekler": ["Lafzen muzâfun ileyh (mecrûr), anlamca/mahallen فَهْم mastarının FÂİLİ", "Mef'ûlün bih (mansub)", "Haber", "Sıfat"],
+          "dogruIndeks": 0,
+          "aciklama": "Mastar fâiline muzâf olunca zamir lafzen cer mahallinde muzâfun ileyh, anlamca fâildir."
+        },
+        {
+          "id": "m29_t49",
+          "tip": "ceviri",
+          "soru": "'سَرَّ الْمُدِيرَ إِتْقَانُ الْمُوَظَّفِينَ أَعْمَالَهُمْ' cümlesinin doğru çevirisi hangisidir?",
+          "secenekler": ["Çalışanların işlerini kusursuz yapması müdürü sevindirdi.", "Müdür çalışanlara işlerini kusursuz yaptırdı.", "Çalışanlar müdürün işini kusursuz buldu.", "İşler müdürü ve çalışanları sevindirdi."],
+          "dogruIndeks": 0,
+          "aciklama": "سَرَّ (sevindirdi) + الْمُدِيرَ (müdürü — mef'ûl) + إِتْقَانُ (kusursuz yapması — fâil & amel eden mastar) + الْمُوَظَّفِينَ (çalışanların) + أَعْمَالَهُمْ (işlerini)."
+        },
+        {
+          "id": "m29_t50",
+          "tip": "bosluk",
+          "soru": "Modern Arapça basın dilinde amel eden mastarın en yaygın formu hangisidir?",
+          "secenekler": ["Fâiline muzâf mastar + mansub mef'ûl (إِطْلَاقُ الشَّرِكَةِ مَشْرُوعًا)", "ال takılı mastar + merfû fâil", "Mef'ûlüne muzâf + merfû fâil", "Sadece sülâsî mastarlar amel eder"],
+          "dogruIndeks": 0,
+          "aciklama": "Basın ve akademik Arapçada mastar %90 oranında fâiline muzâf olup mef'ûlünü nasbeder."
+        }
+      ]
+    }
+  ],
+  "workshop": {
+    "motors": [
+      {
+        "id": "m29_mot1",
+        "baslik": "Sülâsî Anlam Eğilimli Mastar Motoru",
+        "aciklama": "Sülâsî mastarları anlam kategorisine göre birleştirerek doğal Arapça cümleler kur.",
+        "slotlar": [
+          {
+            "baslik": "Fiil / Başlangıç",
+            "secenekler": [
+              { "ar": "تَشْتَهِرُ الْمَدِينَةُ بِـ", "tr": "Şehir ... ile meşhurdur" },
+              { "ar": "تَعْتَمِدُ الدَّوْلَةُ عَلَى", "tr": "Devlet ...'e dayanır" },
+              { "ar": "يَهْتَمُّ الشَّبَابُ بِـ", "tr": "Gençler ... ile ilgilenir" },
+              { "ar": "شَعَرَ الْمَرِيضُ بِـ", "tr": "Hasta ... hissetti" },
+              { "ar": "ازْدَهَرَتِ الْبِلَادُ بِـ", "tr": "Ülke ... ile gelişti" },
+              { "ar": "لَاحَظَ الْعَالِمُ", "tr": "Bilim insanı ... gözlemledi" }
+            ]
+          },
+          {
+            "baslik": "Sülâsî Mastar",
+            "secenekler": [
+              { "ar": "الزِّرَاعَةِ وَالتِّجَارَةِ", "tr": "tarım ve ticaret (فِعَالَة)" },
+              { "ar": "الصِّنَاعَةِ الْمُتَطَوِّرَةِ", "tr": "gelişmiş sanayi (فِعَالَة)" },
+              { "ar": "صُدَاعٍ وَسُعَالٍ", "tr": "baş ağrısı ve öksürük (فُعَال)" },
+              { "ar": "غَلَيَانِ الْمَاءِ", "tr": "suyun kaynaması (فَعَلَان)" },
+              { "ar": "طَيَرَانِ الطُّيُورِ", "tr": "kuşların uçuşu (فَعَلَان)" },
+              { "ar": "دُخُولِ الْفَصْلِ", "tr": "mevsimin girişi (فُعُول)" }
+            ]
+          },
+          {
+            "baslik": "Zaman / Bağlam",
+            "secenekler": [
+              { "ar": "مُنْذُ زَمَنٍ بَعِيدٍ", "tr": "uzun zamandan beri" },
+              { "ar": "فِي هٰذَا الْعَصْرِ", "tr": "bu çağda" },
+              { "ar": "فِي فَصْلِ الشِّتَاءِ", "tr": "kış mevsiminde" },
+              { "ar": "بِشَكْلٍ مَلْحُوظٍ", "tr": "belirgin bir şekilde" },
+              { "ar": "فِي الْمُخْتَبَرِ الْعِلْمِيِّ", "tr": "bilim laboratuvarında" },
+              { "ar": "بِصُورَةٍ مُسْتَمِرَّةٍ", "tr": "sürekli bir biçimde" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m29_mot2",
+        "baslik": "Mezîd Kıyâsî Mastar Fabrikası (II–X Bab)",
+        "aciklama": "Mezîd fiillerin kıyâsî mastarlarıyla akademik ve kurumsal ifadeler üret.",
+        "slotlar": [
+          {
+            "baslik": "Giriş Kalıbı",
+            "secenekler": [
+              { "ar": "يُسَاهِمُ", "tr": "katkıda bulunur" },
+              { "ar": "يُعَزِّزُ", "tr": "güçlendirir" },
+              { "ar": "يُؤَدِّي", "tr": "yol açar" },
+              { "ar": "يَضْمَنُ", "tr": "garanti eder" },
+              { "ar": "يَرْفَعُ", "tr": "yükseltir" },
+              { "ar": "يَدْعَمُ", "tr": "destekler" }
+            ]
+          },
+          {
+            "baslik": "Mezîd Mastar",
+            "secenekler": [
+              { "ar": "التَّعْلِيمُ الْجَيِّدُ", "tr": "iyi eğitim (II. bab)" },
+              { "ar": "التَّعَاوُنُ الْمُشْتَرَكُ", "tr": "ortak iş birliği (VI. bab)" },
+              { "ar": "الِاجْتِهَادُ الْمُتَوَاصِلُ", "tr": "kesintisiz çaba (VIII. bab)" },
+              { "ar": "الِاسْتِثْمَارُ الذَّكِيُّ", "tr": "akıllı yatırım (X. bab)" },
+              { "ar": "إِنْتَاجُ الطَّاقَةِ", "tr": "enerji üretimi (IV. bab)" },
+              { "ar": "تَقَدُّمُ الْعُلُومِ", "tr": "bilimlerin ilerlemesi (V. bab)" }
+            ]
+          },
+          {
+            "baslik": "Sonuç",
+            "secenekler": [
+              { "ar": "فِي نَهْضَةِ الْمُجْتَمَعِ", "tr": "toplumun kalkınmasında" },
+              { "ar": "مُسْتَوَى الْمَعِيشَةِ", "tr": "yaşam standardını" },
+              { "ar": "اِسْتِقْرَارَ الِاقْتِصَادِ", "tr": "ekonominin istikrarını" },
+              { "ar": "إِلَى تَحْقِيقِ الْأَهْدَافِ", "tr": "hedeflere ulaşmaya" },
+              { "ar": "الِابْتِكَارَ التِّقْنِيَّ", "tr": "teknolojik yeniliği" },
+              { "ar": "الِازْدِهَارَ الثَّقَافِيَّ", "tr": "kültürel refahı" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m29_mot3",
+        "baslik": "Mimli Mastar Değerler Atölyesi",
+        "aciklama": "مَفْعَل / مَفْعِل / مُفْعَل kalıbındaki mimli mastarlarla güçlü cümleler kur.",
+        "slotlar": [
+          {
+            "baslik": "Özne / Yapı",
+            "secenekler": [
+              { "ar": "تَقُومُ الْحَيَاةُ عَلَى", "tr": "Hayat ... üzerine kurulur" },
+              { "ar": "نَسْعَى دَائِمًا إِلَى", "tr": "Her zaman ...'e çabalarız" },
+              { "ar": "هٰذَا يَعْكِسُ", "tr": "Bu ...'i yansıtır" },
+              { "ar": "أَشَادَ الْجَمِيعُ بِـ", "tr": "Herkes ...'i övdü" },
+              { "ar": "فِي هٰذَا الْعَمَلِ", "tr": "Bu işte ... vardır" },
+              { "ar": "اِنْطَلَقَ الْفَرِيقُ", "tr": "Ekip ... başladı" }
+            ]
+          },
+          {
+            "baslik": "Mimli Mastar",
+            "secenekler": [
+              { "ar": "الْمَحَبَّةِ وَالْمَرْحَمَةِ", "tr": "sevgi ve merhamet" },
+              { "ar": "الْمَوْقِفِ الشُّجَاعِ", "tr": "cesur duruş (مَفْعِل)" },
+              { "ar": "مَسْعًى كَرِيمٍ", "tr": "onurlu bir çaba (مَفْعَل)" },
+              { "ar": "مَنْفَعَةٌ عَظِيمَةٌ", "tr": "büyük bir fayda" },
+              { "ar": "مَطْلَبٌ عَادِلٌ", "tr": "adil bir talep" },
+              { "ar": "مُنْطَلَقًا قَوِيًّا", "tr": "güçlü bir başlangıç (Mezîd)" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m29_mot4",
+        "baslik": "Sınâî Mastar vs. İsm-i Mensûb Ayırım Motoru",
+        "aciklama": "ـِيَّة ile biten soyut kavramları mübteda/mef'ûl konumunda (Sınâî Mastar) kullan.",
+        "slotlar": [
+          {
+            "baslik": "Sınâî Mastar (Mübteda)",
+            "secenekler": [
+              { "ar": "الْحُرِّيَّةُ", "tr": "Özgürlük" },
+              { "ar": "الْمَسْؤُولِيَّةُ", "tr": "Sorumluluk" },
+              { "ar": "الشَّفَافِيَّةُ", "tr": "Şeffaflık" },
+              { "ar": "الْمَوْضُوعِيَّةُ", "tr": "Nesnellik" },
+              { "ar": "الْإِنْسَانِيَّةُ", "tr": "İnsanlık" },
+              { "ar": "الِاسْتِمْرَارِيَّةُ", "tr": "Süreklilik" }
+            ]
+          },
+          {
+            "baslik": "Yüklem / Haber",
+            "secenekler": [
+              { "ar": "أَسَاسُ النَّجَاحِ الْمُؤَسَّسِيِّ", "tr": "kurumsal başarının temelidir" },
+              { "ar": "تُعَزِّزُ الثِّقَةَ بَيْنَ النَّاسِ", "tr": "insanlar arasındaki güveni güçlendirir" },
+              { "ar": "مِنْ أَهَمِّ قِيَمِ الْعَصْرِ", "tr": "çağın en önemli değerlerindendir" },
+              { "ar": "تَرْفَعُ جَوْدَةَ الْعَمَلِ الْعِلْمِيِّ", "tr": "bilimsel çalışmanın kalitesini artırır" },
+              { "ar": "تَحْتَاجُ إِلَى وَعْيٍ وَالتِزَامٍ", "tr": "bilinç ve bağlılık gerektirir" },
+              { "ar": "تَصْنَعُ مُسْتَقْبَلًا أَفْضَلَ", "tr": "daha iyi bir gelecek inşa eder" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m29_mot5",
+        "baslik": "Merre (فَعْلَة) ve Nevi (فِعْلَة) Hareke Değiştirici",
+        "aciklama": "Aynı fiilin bir kezlik eylem (fetha) ile tarz/biçim (kesra) farkını canlı gör.",
+        "slotlar": [
+          {
+            "baslik": "Fiil + Fâil",
+            "secenekler": [
+              { "ar": "جَلَسَ الطَّالِبُ", "tr": "Öğrenci oturdu" },
+              { "ar": "وَقَفَ الْقَائِدُ", "tr": "Komutan durdu" },
+              { "ar": "نَظَرَ الْمُعَلِّمُ", "tr": "Öğretmen baktı" },
+              { "ar": "مَشَى الْفَائِزُ", "tr": "Kazanan yürüdü" },
+              { "ar": "اِبْتَسَمَ الطِّفْلُ", "tr": "Çocuk gülümsedi" },
+              { "ar": "خَطَا الْبَاحِثُ", "tr": "Araştırmacı adım attı" }
+            ]
+          },
+          {
+            "baslik": "Merre (فَعْلَة) veya Nevi (فِعْلَة)",
+            "secenekler": [
+              { "ar": "جَلْسَةً قَصِيرَةً", "tr": "kısa bir oturuş (Merre)" },
+              { "ar": "جِلْسَةَ الْعُلَمَاءِ", "tr": "âlimlerin oturuşuyla (Nevi)" },
+              { "ar": "وِقْفَةَ الشُّجْعَانِ", "tr": "cesurların duruşuyla (Nevi)" },
+              { "ar": "نَظْرَةً سَرِيعَةً", "tr": "hızlı bir bakış (Merre)" },
+              { "ar": "مِشْيَةَ الْوَاثِقِ", "tr": "kendinden emin yürüyüşle (Nevi)" },
+              { "ar": "اِبْتِسَامَةً مُشْرِقَةً", "tr": "parlak bir gülümseyişle (Mezîd Merre)" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m29_mot6",
+        "baslik": "Amel Eden Mastar (Fâil + Mansub Mef'ûl) Motoru",
+        "aciklama": "Fâiline muzâf olmuş mastar + mansub mef'ûlün bih kombinasyonları kur.",
+        "slotlar": [
+          {
+            "baslik": "Duygu / Ana Fiil",
+            "secenekler": [
+              { "ar": "أَسْعَدَنِي", "tr": "Beni sevindirdi" },
+              { "ar": "أَعْجَبَنِي", "tr": "Hoşuma gitti" },
+              { "ar": "سَرَّ الْمُدِيرَ", "tr": "Müdürü sevindirdi" },
+              { "ar": "أَثَارَ إِعْجَابَنَا", "tr": "Hayranlığımızı uyandırdı" },
+              { "ar": "مِنَ الْوَاجِبِ", "tr": "Gereklidir" },
+              { "ar": "أَفْرَحَ الْأُسْرَةَ", "tr": "Aileyi mutlu etti" }
+            ]
+          },
+          {
+            "baslik": "Fâiline Muzâf Mastar",
+            "secenekler": [
+              { "ar": "قِرَاءَتُكَ", "tr": "senin okuman" },
+              { "ar": "إِتْقَانُ الْمُوَظَّفِ", "tr": "çalışanın kusursuz yapması" },
+              { "ar": "إِكْرَامُ الْوَلَدِ", "tr": "çocuğun ikram etmesi" },
+              { "ar": "إِطْلَاقُ الشَّرِكَةِ", "tr": "şirketin başlatması" },
+              { "ar": "فَهْمُ الطُّلَّابِ", "tr": "öğrencilerin anlaması" },
+              { "ar": "اِحْتِرَامُ الْإِنْسَانِ", "tr": "insanın saygı duyması" }
+            ]
+          },
+          {
+            "baslik": "Mansub Mef'ûlün Bih",
+            "secenekler": [
+              { "ar": "الْكِتَابَ الْمُفِيدَ", "tr": "faydalı kitabı" },
+              { "ar": "عَمَلَهُ الْيَوْمِيَّ", "tr": "günlük işini" },
+              { "ar": "وَالِدَيْهِ الْكَرِيمَيْنِ", "tr": "değerli anne-babasını" },
+              { "ar": "مَشْرُوعًا جَدِيدًا", "tr": "yeni bir projeyi" },
+              { "ar": "الدَّرْسَ الصَّعْبَ", "tr": "zor dersi" },
+              { "ar": "حُقُوقَ الْآخَرِينَ", "tr": "başkalarının haklarını" }
+            ]
+          }
+        ]
+      }
+    ],
+    "merdivenler": [
+      {
+        "id": "m29_mer1",
+        "baslik": "Sınâî Mastardan Akademik Cümleye (5 Basamak)",
+        "adimlar": [
+          { "seviye": 1, "ar": "الشَّفَافِيَّةُ.", "okunus": "Eş-şefâfiyyetu.", "tr": "Şeffaflık.", "ekleme": "Sınâî mastar (ـِيَّة)" },
+          { "seviye": 2, "ar": "الشَّفَافِيَّةُ ضَرُورِيَّةٌ.", "okunus": "Eş-şefâfiyyetu darûriyyetun.", "tr": "Şeffaflık zorunludur.", "ekleme": "+ haber (ضَرُورِيَّةٌ)" },
+          { "seviye": 3, "ar": "الشَّفَافِيَّةُ وَالْمَوْضُوعِيَّةُ ضَرُورِيَّتَانِ.", "okunus": "Eş-şefâfiyyetu ve'l-mevdû‘iyyetu darûriyyetâni.", "tr": "Şeffaflık ve nesnellik zorunludur.", "ekleme": "+ 2. sınâî mastar + tesniye haber" },
+          { "seviye": 4, "ar": "الشَّفَافِيَّةُ وَالْمَوْضُوعِيَّةُ ضَرُورِيَّتَانِ فِي الْبَحْثِ الْعِلْمِيِّ.", "okunus": "Eş-şefâfiyyetu ve'l-mevdû‘iyyetu darûriyyetâni fi'l-bahsi'l-‘ilmiyyi.", "tr": "Bilimsel araştırmada şeffaflık ve nesnellik zorunludur.", "ekleme": "+ câr-mecrûr (فِي الْبَحْثِ الْعِلْمِيِّ)" },
+          { "seviye": 5, "ar": "الشَّفَافِيَّةُ وَالْمَوْضُوعِيَّةُ ضَرُورِيَّتَانِ فِي الْبَحْثِ الْعِلْمِيِّ لِتَعْزِيزِ الثِّقَةِ.", "okunus": "Eş-şefâfiyyetu ve'l-mevdû‘iyyetu darûriyyetâni fi'l-bahsi'l-‘ilmiyyi li-ta‘zîzi's-sikati.", "tr": "Güveni güçlendirmek için bilimsel araştırmada şeffaflık ve nesnellik zorunludur.", "ekleme": "+ amaç bildiren II. bab mastar (لِتَعْزِيزِ الثِّقَةِ)" }
+        ]
+      },
+      {
+        "id": "m29_mer2",
+        "baslik": "Mastar-ı Nevi ile Edebi Anlatım Merdiveni",
+        "adimlar": [
+          { "seviye": 1, "ar": "وَقَفَ الْقَائِدُ.", "okunus": "Vekafe'l-kâidu.", "tr": "Komutan durdu.", "ekleme": "Sülâsî fiil + fâil" },
+          { "seviye": 2, "ar": "وَقَفَ الْقَائِدُ وِقْفَةً.", "okunus": "Vekafe'l-kâidu vıkfeten.", "tr": "Komutan bir duruş tarzıyla durdu.", "ekleme": "+ Mastar-ı Nevi (فِعْلَة)" },
+          { "seviye": 3, "ar": "وَقَفَ الْقَائِدُ وِقْفَةَ الشُّجْعَانِ.", "okunus": "Vekafe'l-kâidu vıkfete'ş-şuc‘âni.", "tr": "Komutan cesurların duruşuyla durdu.", "ekleme": "+ muzâfun ileyh (الشُّجْعَانِ)" },
+          { "seviye": 4, "ar": "وَقَفَ الْقَائِدُ وِقْفَةَ الشُّجْعَانِ أَمَامَ التَّحَدِّيَاتِ.", "okunus": "Vekafe'l-kâidu vıkfete'ş-şuc‘âni emâme't-tehaddiyâti.", "tr": "Komutan meydan okumalar karşısında cesurların duruşuyla durdu.", "ekleme": "+ mekân zarfı" },
+          { "seviye": 5, "ar": "وَقَفَ الْقَائِدُ وِقْفَةَ الشُّجْعَانِ أَمَامَ التَّحَدِّيَاتِ وَأَلْهَمَ الْجَمِيعَ.", "okunus": "Vekafe'l-kâidu vıkfete'ş-şuc‘âni emâme't-tehaddiyâti ve elheme'l-cemî‘a.", "tr": "Komutan meydan okumalar karşısında cesurların duruşuyla durdu ve herkese ilham verdi.", "ekleme": "+ IV. bab sonuç cümlesi" }
+        ]
+      },
+      {
+        "id": "m29_mer3",
+        "baslik": "Amel Eden Mastar İnşa Merdiveni",
+        "adimlar": [
+          { "seviye": 1, "ar": "قِرَاءَتُكَ.", "okunus": "Kırâ’etuke.", "tr": "Senin okuman.", "ekleme": "Fâiline muzâf mastar" },
+          { "seviye": 2, "ar": "قِرَاءَتُكَ الْكِتَابَ.", "okunus": "Kırâ’etuke'l-kitâbe.", "tr": "Senin kitabı okuman.", "ekleme": "+ mansub mef'ûlün bih (الْكِتَابَ)" },
+          { "seviye": 3, "ar": "أَسْعَدَنِي قِرَاءَتُكَ الْكِتَابَ.", "okunus": "Es‘adenî kırâ’etuke'l-kitâbe.", "tr": "Senin kitabı okuman beni sevindirdi.", "ekleme": "+ ana fiil (أَسْعَدَنِي)" },
+          { "seviye": 4, "ar": "أَسْعَدَنِي قِرَاءَتُكَ الْكِتَابَ بِتَأَمُّلٍ وَفَهْمٍ.", "okunus": "Es‘adenî kırâ’etuke'l-kitâbe bi-te’emmulin ve fehmin.", "tr": "Kitabı derin düşünce ve anlayışla okuman beni sevindirdi.", "ekleme": "+ V. bab ve sülâsî mastarlı hâl" },
+          { "seviye": 5, "ar": "أَسْعَدَنِي كَثِيرًا قِرَاءَتُكَ الْكِتَابَ بِتَأَمُّلٍ وَفَهْمٍ فِي وَقْتِ فَرَاغِكَ.", "okunus": "Es‘adenî kesîran kırâ’etuke'l-kitâbe bi-te’emmulin ve fehmin fî vakti ferâgıke.", "tr": "Boş vaktinde kitabı derin düşünce ve anlayışla okuman beni çok sevindirdi.", "ekleme": "+ derece + zaman zarfı" }
+        ]
+      },
+      {
+        "id": "m29_mer4",
+        "baslik": "Mimli Mastardan Kurumsal Vizyon Cümlesine",
+        "adimlar": [
+          { "seviye": 1, "ar": "اِنْطَلَقَ الْمَشْرُوعُ.", "okunus": "İntaleka'l-meşrû‘u.", "tr": "Proje başladı.", "ekleme": "VII. bab fiil + fâil" },
+          { "seviye": 2, "ar": "اِنْطَلَقَ الْمَشْرُوعُ مُنْطَلَقًا.", "okunus": "İntaleka'l-meşrû‘u muntalekan.", "tr": "Proje bir başlangıç yaptı.", "ekleme": "+ Mezîd mimli mastar (= اِنْطِلَاقًا)" },
+          { "seviye": 3, "ar": "اِنْطَلَقَ الْمَشْرُوعُ مُنْطَلَقًا قَوِيًّا.", "okunus": "İntaleka'l-meşrû‘u muntalekan kaviyyen.", "tr": "Proje güçlü bir başlangıç yaptı.", "ekleme": "+ sıfat (قَوِيًّا)" },
+          { "seviye": 4, "ar": "اِنْطَلَقَ الْمَشْرُوعُ التَّعْلِيمِيُّ مُنْطَلَقًا قَوِيًّا بِفَضْلِ التَّعَاوُنِ.", "okunus": "İntaleka'l-meşrû‘u't-ta‘lîmiyyu muntalekan kaviyyen bi-fadli't-te‘âvuni.", "tr": "Eğitim projesi iş birliği sayesinde güçlü bir başlangıç yaptı.", "ekleme": "+ VI. bab mastar (التَّعَاوُنِ)" },
+          { "seviye": 5, "ar": "اِنْطَلَقَ الْمَشْرُوعُ التَّعْلِيمِيُّ مُنْطَلَقًا قَوِيًّا بِفَضْلِ التَّعَاوُنِ وَالْمَسْؤُولِيَّةِ الْمُشْتَرَكَةِ.", "okunus": "İntaleka'l-meşrû‘u't-ta‘lîmiyyu muntalekan kaviyyen bi-fadli't-te‘âvuni ve'l-mes’ûliyyeti'l-muşteraketi.", "tr": "Eğitim projesi iş birliği ve ortak sorumluluk sayesinde güçlü bir başlangıç yaptı.", "ekleme": "+ Sınâî mastar (الْمَسْؤُولِيَّةِ)" }
+        ]
+      }
+    ],
+    "bloklar": [
+      { "id": "m29_b1", "tr": "Bu bölge tarım ve ticaretle meşhurdur.", "hedefAr": "تَشْتَهِرُ هٰذِهِ الْمِنْطَقَةُ بِالزِّرَاعَةِ وَالتِّجَارَةِ", "karisik": ["بِالزِّرَاعَةِ", "تَشْتَهِرُ", "الْمِنْطَقَةُ", "وَالتِّجَارَةِ", "هٰذِهِ"] },
+      { "id": "m29_b2", "tr": "Hasta şiddetli bir baş ağrısı hissetti.", "hedefAr": "شَعَرَ الْمَرِيضُ بِصُدَاعٍ شَدِيدٍ", "karisik": ["بِصُدَاعٍ", "شَدِيدٍ", "الْمَرِيضُ", "شَعَرَ"] },
+      { "id": "m29_b3", "tr": "Bilimsel kalkınma eğitime ve çabaya dayanır.", "hedefAr": "تَعْتَمِدُ النَّهْضَةُ الْعِلْمِيَّةُ عَلَى التَّعْلِيمِ وَالِاجْتِهَادِ", "karisik": ["عَلَى", "النَّهْضَةُ", "وَالِاجْتِهَادِ", "تَعْتَمِدُ", "التَّعْلِيمِ", "الْعِلْمِيَّةُ"] },
+      { "id": "m29_b4", "tr": "İnsan ilişkileri sevgi ve merhamet üzerine kurulur.", "hedefAr": "تَقُومُ الْعَلَاقَاتُ الْإِنْسَانِيَّةُ عَلَى الْمَحَبَّةِ وَالْمَرْحَمَةِ", "karisik": ["الْمَحَبَّةِ", "تَقُومُ", "وَالْمَرْحَمَةِ", "الْإِنْسَانِيَّةُ", "عَلَى", "الْعَلَاقَاتُ"] },
+      { "id": "m29_b5", "tr": "Senin cesur duruşun takdiri hak ediyor.", "hedefAr": "مَوْقِفُكَ الشُّجَاعُ يَسْتَحِقُّ التَّقْدِيرَ", "karisik": ["التَّقْدِيرَ", "مَوْقِفُكَ", "يَسْتَحِقُّ", "الشُّجَاعُ"] },
+      { "id": "m29_b6", "tr": "Eğitim projesi güçlü bir başlangıç yaptı.", "hedefAr": "اِنْطَلَقَ الْمَشْرُوعُ التَّعْلِيمِيُّ مُنْطَلَقًا قَوِيًّا", "karisik": ["مُنْطَلَقًا", "الْمَشْرُوعُ", "قَوِيًّا", "اِنْطَلَقَ", "التَّعْلِيمِيُّ"] },
+      { "id": "m29_b7", "tr": "Sorumluluk üstlenmek olgunluğun göstergesidir.", "hedefAr": "تَحَمُّلُ الْمَسْؤُولِيَّةِ دَلِيلُ النُّضْجِ", "karisik": ["دَلِيلُ", "الْمَسْؤُولِيَّةِ", "النُّضْجِ", "تَحَمُّلُ"] },
+      { "id": "m29_b8", "tr": "Şeffaflık ve nesnellik araştırmada zorunludur.", "hedefAr": "الشَّفَافِيَّةُ وَالْمَوْضُوعِيَّةُ ضَرُورِيَّتَانِ فِي الْبَحْثِ", "karisik": ["فِي", "ضَرُورِيَّتَانِ", "الشَّفَافِيَّةُ", "الْبَحْثِ", "وَالْمَوْضُوعِيَّةُ"] },
+      { "id": "m29_b9", "tr": "Bencillik gerçek dostluğu bozar.", "hedefAr": "الْأَنَانِيَّةُ تُفْسِدُ الصَّدَاقَةَ الْحَقِيقِيَّةَ", "karisik": ["الصَّدَاقَةَ", "تُفْسِدُ", "الْحَقِيقِيَّةَ", "الْأَنَانِيَّةُ"] },
+      { "id": "m29_b10", "tr": "Yabancı saate hızlı bir bakış attı.", "hedefAr": "نَظَرَ الْغَرِيبُ نَظْرَةً سَرِيعَةً إِلَى السَّاعَةِ", "karisik": ["إِلَى", "نَظْرَةً", "الْغَرِيبُ", "السَّاعَةِ", "نَظَرَ", "سَرِيعَةً"] },
+      { "id": "m29_b11", "tr": "Komutan cesurların duruşuyla durdu.", "hedefAr": "وَقَفَ الْقَائِدُ وِقْفَةَ الشُّجْعَانِ", "karisik": ["الشُّجْعَانِ", "وَقَفَ", "وِقْفَةَ", "الْقَائِدُ"] },
+      { "id": "m29_b12", "tr": "Çocuk düzgün bir oturuşla oturdu.", "hedefAr": "جَلَسَ الطِّفْلُ جِلْسَةً مُعْتَدِلَةً", "karisik": ["جِلْسَةً", "الطِّفْلُ", "مُعْتَدِلَةً", "جَلَسَ"] },
+      { "id": "m29_b13", "tr": "Senin bu faydalı kitabı okuman beni sevindirdi.", "hedefAr": "أَسْعَدَنِي قِرَاءَتُكَ الْكِتَابَ الْمُفِيدَ", "karisik": ["الْكِتَابَ", "أَسْعَدَنِي", "الْمُفِيدَ", "قِرَاءَتُكَ"] },
+      { "id": "m29_b14", "tr": "Çocukların anne-babalarına ikram etmesi vaciptir.", "hedefAr": "إِكْرَامُ الْأَبْنَاءِ وَالِدَيْهِمْ وَاجِبٌ", "karisik": ["وَالِدَيْهِمْ", "إِكْرَامُ", "وَاجِبٌ", "الْأَبْنَاءِ"] },
+      { "id": "m29_b15", "tr": "Şirket yeni bir proje başlattığını duyurdu.", "hedefAr": "أَعْلَنَتِ الشَّرِكَةُ عَنْ إِطْلَاقِهَا مَشْرُوعًا جَدِيدًا", "karisik": ["مَشْرُوعًا", "أَعْلَنَتِ", "عَنْ", "جَدِيدًا", "الشَّرِكَةُ", "إِطْلَاقِهَا"] },
+      { "id": "m29_b16", "tr": "Bir fakiri doyurmak salih bir ameldir.", "hedefAr": "إِطْعَامٌ فَقِيرًا عَمَلٌ صَالِحٌ", "karisik": ["عَمَلٌ", "فَقِيرًا", "صَالِحٌ", "إِطْعَامٌ"] }
+    ]
+  },
+  "readings": [
+    {
+      "id": "m29_r1",
+      "baslik": "Kurumsal Kültürde Şeffaflık ve Sorumluluk",
+      "arBaslik": "الشَّفَافِيَّةُ وَالْمَسْؤُولِيَّةُ فِي الثَّقَافَةِ الْمُؤَسَّسِيَّةِ",
+      "seviye": "B1 — Akademik Makale",
+      "paragraflar": [
+        {
+          "ar": "تَقُومُ الْمُؤَسَّسَاتُ النَّاجِحَةُ فِي الْعَصْرِ الْحَدِيثِ عَلَى مَبَادِئَ وَاضِحَةٍ، فِي مُقَدِّمَتِهَا الشَّفَافِيَّةُ وَالْمَسْؤُولِيَّةُ وَالْمَوْضُوعِيَّةُ. فَحِينَ يَسُودُ الْوُضُوحُ فِي اتِّخَاذِ الْقَرَارَاتِ، تَزْدَادُ الثِّقَةُ بَيْنَ الْإِدَارَةِ وَالْعَامِلِينَ، وَيَتَحَقَّقُ التَّعَاوُنُ الْمُثْمِرُ.",
+          "okunus": "Tekûmu'l-mu’essesâtu'n-nâcihatu fi'l-‘asri'l-hadîsi ‘alâ mebâdi’e vâdıhatin, fî mukaddimetiha'ş-şefâfiyyetu ve'l-mes’ûliyyetu ve'l-mevdû‘iyyetu. Fe-hîne yesûdu'l-vudûhu fî'ttihâzi'l-karârâti, tezdâdu's-sikatu beyne'l-idârati ve'l-‘âmilîne, ve yetehakkaku't-te‘âvunu'l-musmiru.",
+          "tr": "Modern çağda başarılı kurumlar; başlarında şeffaflık, sorumluluk ve nesnelliğin geldiği açık ilkeler üzerine kurulur. Karar almada açıklık hâkim olduğunda yönetim ile çalışanlar arasındaki güven artar ve verimli iş birliği gerçekleşir.",
+          "analiz": [
+            { "kelime": "الشَّفَافِيَّةُ / الْمَسْؤُولِيَّةُ", "kok": "ش-ف-ف / س-أ-ل", "gramer": "Sınâî Mastar (ـِيَّة, sıfat değil!)", "tr": "şeffaflık / sorumluluk" },
+            { "kelime": "اِتِّخَاذِ / التَّعَاوُنُ", "kok": "أ-خ-ذ / ع-و-ن", "gramer": "VIII. ve VI. bab kıyâsî mastarlar", "tr": "alma / iş birliği" }
+          ]
+        },
+        {
+          "ar": "وَلَا تَقْتَصِرُ الْمَسْؤُولِيَّةُ عَلَى الْمُدِيرِينَ فَقَطْ، بَلْ تَشْمَلُ كُلَّ فَرْدٍ فِي الْفَرِيقِ. إِنَّ إِتْقَانَ الْمُوَظَّفِ عَمَلَهُ وَاحْتِرَامَهُ الْمَوَاعِيدَ يَعْكِسَانِ وَعْيَهُ الْمِهَنِيَّ وَحِرْصَهُ عَلَى نَجَاحِ الْمُؤَسَّسَةِ.",
+          "okunus": "Ve lâ taktesıru'l-mes’ûliyyetu ‘ale'l-mudîrîne fakat, bel teşmelu kulle ferdin fi'l-ferîkı. İnne itkâne'l-muvazzafi ‘amelehû ve'htirâmehû'l-mevâ‘îde ya‘kisâni va‘yehu'l-miheniyye ve hırsahû ‘alâ necâhı'l-mu’esseseti.",
+          "tr": "Sorumluluk yalnızca yöneticilerle sınırlı kalmaz, aksine ekipteki her bireyi kapsar. Çalışanın işini kusursuz yapması ve randevulara/sürelere saygı duyması, onun mesleki bilincini ve kurumun başarısına olan özenini yansıtır.",
+          "analiz": [
+            { "kelime": "إِتْقَانَ الْمُوَظَّفِ عَمَلَهُ", "kok": "ت-ق-ن", "gramer": "Amel eden IV. bab mastar + fâil + mansub mef'ûl (عَمَلَهُ)", "tr": "çalışanın işini kusursuz yapması" },
+            { "kelime": "احْتِرَامَهُ الْمَوَاعِيدَ", "kok": "ح-ر-م", "gramer": "Amel eden VIII. bab mastar + zamir fâil + mansub mef'ûl", "tr": "sürelere saygı duyması" }
+          ]
+        },
+        {
+          "ar": "أَمَّا الْأَنَانِيَّةُ وَالِاتِّكَالِيَّةُ فَهُمَا أَكْبَرُ عَائِقَيْنِ أَمَامَ التَّطَوُّرِ. فَالْمُؤَسَّسَةُ الَّتِي تَسْعَى مَسْعًى جَادًّا نَحْوَ الِابْتِكَارِ تُشَجِّعُ الْمُبَادَرَاتِ الْجَمَاعِيَّةَ وَتُكَافِئُ الْفَاعِلِيَّةَ وَالِاسْتِمْرَارِيَّةَ.",
+          "okunus": "Emma'l-enâniyyetu ve'l-ittikâliyyetu fe-humâ ekberu ‘âikayni emâme't-tetavvuri. Fe'l-mu’essesetu'lletî tes‘â mes‘an câdden nahve'l-ibtikâri tuşecci‘u'l-mubâderâti'l-cemâ‘iyyete ve tukâfi’u'l-fâ‘iliyyete ve'l-istimrâriyyete.",
+          "tr": "Bencillik ve başkasına yaslanma eğilimine gelince, bunlar gelişimin önündeki en büyük iki engeldir. Yeniliğe doğru ciddi bir çaba gösteren kurum, kolektif girişimleri teşvik eder ve verimlilik ile sürekliliği ödüllendirir.",
+          "analiz": [
+            { "kelime": "مَسْعًى", "kok": "س-ع-ي", "gramer": "Sülâsî mimli mastar (مَفْعَل = سَعْيًا)", "tr": "çaba" },
+            { "kelime": "الْجَمَاعِيَّةَ ≠ الْفَاعِلِيَّةَ", "kok": "ج-م-ع / ف-ع-ل", "gramer": "الْجَمَاعِيَّة sıfat (İsm-i Mensûb); الْفَاعِلِيَّة mef'ûl (Sınâî Mastar!)", "tr": "kolektif ≠ verimlilik" }
+          ]
+        },
+        {
+          "ar": "وَلِذٰلِكَ أَعْلَنَتْ كُبْرَى الشَّرِكَاتِ عَنْ إِطْلَاقِهَا بَرَامِجَ تَدْرِيبٍ مُتَقَدِّمَةٍ لِتَنْمِيَةِ مَهَارَاتِ الْعَامِلِينَ وَتَرْسِيخِ قِيَمِ الْمَحَبَّةِ وَالْمَوَدَّةِ فِي بِيئَةِ الْعَمَلِ.",
+          "okunus": "Ve li-zâlike a‘lenet kubra'ş-şerikâti ‘an ıtlâkıhâ berâmice tedrîbin mutekaddimetin li-tenmiyeti mehârâti'l-‘âmilîne ve tersîhı kıyemi'l-mehabbeti ve'l-meveddeti fî bî’eti'l-‘ameli.",
+          "tr": "Bu nedenle büyük şirketler, çalışanların becerilerini geliştirmek ve iş ortamında sevgi ile dostluk değerlerini kökleştirmek amacıyla ileri eğitim programları başlattıklarını duyurdular.",
+          "analiz": [
+            { "kelime": "إِطْلَاقِهَا بَرَامِجَ", "kok": "ط-ل-ق", "gramer": "Amel eden IV. bab mastar + gayr-i munsarıf mansub mef'ûl", "tr": "programlar başlatması" },
+            { "kelime": "تَنْمِيَةِ / الْمَحَبَّةِ", "kok": "ن-م-و / ح-ب-ب", "gramer": "II. bab nâkıs mastar (تَفْعِلَة) + sonu ة'li mimli mastar", "tr": "geliştirme / sevgi" }
+          ]
+        }
+      ],
+      "sorular": [
+        {
+          "id": "m29_r1_q1",
+          "soru": "Metnin ilk paragrafına göre başarılı kurumların temelinde hangi üç sınâî mastar yer alır?",
+          "secenekler": ["Şeffaflık (الشَّفَافِيَّة), sorumluluk (الْمَسْؤُولِيَّة) ve nesnellik (الْمَوْضُوعِيَّة)", "Bencillik, hız ve rekabet", "Tarım, ticaret ve sanayi", "Sadece mali kâr ve disiplin"],
+          "dogruIndeks": 0,
+          "aciklama": "İlk cümlede 'فِي مُقَدِّمَتِهَا الشَّفَافِيَّةُ وَالْمَسْؤُولِيَّةُ وَالْمَوْضُوعِيَّةُ' geçmektedir."
+        },
+        {
+          "id": "m29_r1_q2",
+          "soru": "İkinci paragraftaki 'إِتْقَانَ الْمُوَظَّفِ عَمَلَهُ' ifadesinde 'عَمَلَهُ' kelimesinin mansub olma sebebi nedir?",
+          "secenekler": ["إِتْقَان mastarının fiil gibi amel etmesiyle mef'ûlün bih olması", "إِنَّ'nin ismi olması", "Temyîz olması", "Sıfat olması"],
+          "dogruIndeks": 0,
+          "aciklama": "إِتْقَان (IV. bab mastar) fâiline (الْمُوَظَّفِ) muzâf olmuş ve عَمَلَهُ kelimesini mef'ûlün bih olarak nasbetmiştir."
+        },
+        {
+          "id": "m29_r1_q3",
+          "soru": "Üçüncü paragraftaki 'الْمُبَادَرَاتِ الْجَمَاعِيَّةَ' terkibinde 'الْجَمَاعِيَّةَ' neden Sınâî Mastar DEĞİLDİR?",
+          "secenekler": ["الْمُبَادَرَاتِ kelimesinin sıfatı (na't) olduğu için İsm-i Mensûb'dur", "Sonunda ـِيَّة eki olmadığı için", "Fiil olduğu için", "Mimli mastar olduğu için"],
+          "dogruIndeks": 0,
+          "aciklama": "Sıfat konumunda gelen ـِيَّة kelimesi İsm-i Mensûb'dur."
+        },
+        {
+          "id": "m29_r1_q4",
+          "soru": "Metne göre gelişimin önündeki en büyük iki engel nedir?",
+          "secenekler": ["Bencillik (الْأَنَانِيَّة) ve başkasına yaslanma (الِاتِّكَالِيَّة)", "Eğitim ve iş birliği", "Şeffaflık ve süreklilik", "Sevgi ve dostluk"],
+          "dogruIndeks": 0,
+          "aciklama": "'أَمَّا الْأَنَانِيَّةُ وَالِاتِّكَالِيَّةُ فَهُمَا أَكْبَرُ عَائِقَيْنِ أَمَامَ التَّطَوُّرِ.'"
+        },
+        {
+          "id": "m29_r1_q5",
+          "soru": "Dördüncü paragraftaki 'لِتَنْمِيَةِ' kelimesi hangi babın mastarıdır?",
+          "secenekler": ["II. Bab (نَمَّى → تَنْمِيَةٌ — nâkıs fiil تَفْعِلَةٌ kalıbı)", "IV. Bab", "Sınâî Mastar", "Mastar-ı Merre"],
+          "dogruIndeks": 0,
+          "aciklama": "نَمَّى (II. bab nâkıs) fiilinin kıyâsî mastarı تَنْمِيَةٌ'dir."
+        }
+      ]
+    },
+    {
+      "id": "m29_r2",
+      "baslik": "Bilim Tarihinde Bir Bakış ve Bir Adım",
+      "arBaslik": "نَظْرَةٌ وَخَطْوَةٌ فِي تَارِيخِ الْعِلْمِ",
+      "seviye": "B1 — Bilim Tarihi",
+      "paragraflar": [
+        {
+          "ar": "كَثِيرٌ مِنَ الِاكْتِشَافَاتِ الْعِلْمِيَّةِ الْكُبْرَى بَدَأَتْ بِنَظْرَةٍ فَاحِصَةٍ وَتَسَاؤُلٍ بَسِيطٍ. فَالْعَالِمُ الْحَقِيقِيُّ لَا يَمُرُّ بِالظَّوَاهِرِ الطَّبِيعِيَّةِ مُرُورًا عَابِرًا، بَلْ يَقِفُ أَمَامَهَا وَقْفَةَ تَأَمُّلٍ وَيَدْرُسُهَا بِدِقَّةٍ.",
+          "okunus": "Kesîrun mine'l-iktişâfâti'l-‘ilmiyyeti'l-kubrâ bede’et bi-nazratin fâhısatin ve tesâ’ulin besîtın. Fe'l-‘âlimu'l-hakîkıyyu lâ yemurru bi'z-zavâhiri't-tabî‘ıyyeti murûran ‘âbiran, bel yekıfu emâmehâ vakfete te’emmulin ve yedrusuhâ bi-dıkkatin.",
+          "tr": "Büyük bilimsel keşiflerin çoğu inceleyici bir bakışla ve basit bir sorgulamayla başlamıştır. Gerçek bilim insanı doğa olaylarının yanından öylesine geçip gitmez; aksine onların önünde bir tefekkür duruşuyla durur ve onları titizlikle inceler.",
+          "analiz": [
+            { "kelime": "بِنَظْرَةٍ / وَقْفَةَ", "kok": "ن-ظ-ر / و-ق-ف", "gramer": "Mastar-ı Merre (فَعْلَة — bir bakış / bir duruş)", "tr": "bir bakışla / bir duruş" },
+            { "kelime": "تَسَاؤُلٍ / مُرُورًا", "kok": "س-أ-ل / م-ر-ر", "gramer": "VI. bab mastar + sülâsî فُعُول mastar", "tr": "sorgulama / geçiş" }
+          ]
+        },
+        {
+          "ar": "عِنْدَمَا لَاحَظَ الْبَاحِثُ غَلَيَانَ الْمَاءِ وَطَيَرَانَ الطُّيُورِ وَجَرَيَانَ الْأَنْهَارِ، جَلَسَ فِي مُخْتَبَرِهِ جِلْسَةَ الْمُفَكِّرِ الْهَادِئِ، وَسَجَّلَ مُلَاحَظَاتِهِ فِي دَفْتَرِهِ بِخَطٍّ وَاضِحٍ.",
+          "okunus": "‘İndemâ lâhaza'l-bâhisu galeyâne'l-mâi ve tayerâne't-tuyûri ve cereyâne'l-enhâri, celese fî muhtaberihî cilsete'l-mufekkiri'l-hâdi’i, ve seccele mulâhazâtihî fî defterihî bi-hattın vâdıhın.",
+          "tr": "Araştırmacı suyun kaynamasını, kuşların uçuşunu ve nehirlerin akışını gözlemlediğinde laboratuvarında sakin bir düşünürün oturuşuyla oturdu ve gözlemlerini defterine açık bir yazıyla kaydetti.",
+          "analiz": [
+            { "kelime": "غَلَيَانَ / طَيَرَانَ / جَرَيَانَ", "kok": "غ-ل-ي / ط-ي-ر / ج-ر-ي", "gramer": "Hareket bildiren فَعَلَان sülâsî mastarları", "tr": "kaynama / uçuş / akış" },
+            { "kelime": "جِلْسَةَ الْمُفَكِّرِ", "kok": "ج-ل-س", "gramer": "Mastar-ı Nevi (فِعْلَة — kesralı: oturuş tarzı)", "tr": "düşünürün oturuşuyla" }
+          ]
+        },
+        {
+          "ar": "وَبَعْدَ أَشْهُرٍ مِنَ التَّجَارِبِ وَالصَّبْرِ، حَقَّقَ انْطِلَاقَةً نَوْعِيَّةً فِي أَبْحَاثِهِ، فَابْتَسَمَ ابْتِسَامَةً رَاضِيَةً وَمَشَى مِشْيَةَ الْوَاثِقِ نَحْوَ قَاعَةِ الْمُؤْتَمَرِ لِيَعْرِضَ نَتَائِجَهُ.",
+          "okunus": "Ve ba‘de eşhurin mine't-tecâribi ve's-sabri, hakkaka'ntılâkaten nev‘ıyyeten fî ebhâsihî, fe'bteseme'btisâmeten râdıyeten ve meşâ mişyete'l-vâsıkı nahve kâ‘ati'l-mu’temeri li-ya‘rıda netâicehû.",
+          "tr": "Aylar süren deney ve sabrın ardından araştırmalarında nitelikli bir atılım gerçekleştirdi; memnun bir gülümseyişle gülümsedi ve sonuçlarını sunmak üzere konferans salonuna doğru kendinden emin bir yürüyüşle yürüdü.",
+          "analiz": [
+            { "kelime": "انْطِلَاقَةً / ابْتِسَامَةً", "kok": "ط-ل-ق / ب-س-م", "gramer": "Mezîd Mastar-ı Merre (aslî mastar + ة)", "tr": "bir atılım / bir gülümseyiş" },
+            { "kelime": "مِشْيَةَ الْوَاثِقِ", "kok": "م-ش-ي", "gramer": "Mastar-ı Nevi (فِعْلَة — yürüyüş tarzı)", "tr": "kendinden emin yürüyüşle" }
+          ]
+        },
+        {
+          "ar": "فَأَسْعَدَ الْحَاضِرِينَ شَرْحُهُ النَّظَرِيَّةَ بِبَسَاطَةٍ، وَأَدْرَكَ الْجَمِيعُ أَنَّ كُلَّ خَطْوَةٍ صَغِيرَةٍ تَقُودُ إِلَى مَنْفَعَةٍ عَظِيمَةٍ لِلْإِنْسَانِيَّةِ جَمْعَاءَ.",
+          "okunus": "Fe-es‘ade'l-hâdırîne şerhuhu'n-nazariyyete bi-besâtatin, ve edrake'l-cemî‘u enne kulle hatvetin sagîratin tekûdu ilâ menfe‘atin ‘azîmetin li'l-insâniyyeti cem‘â’e.",
+          "tr": "Teoriyi sade bir biçimde açıklaması dinleyicileri çok sevindirdi ve herkes her küçük adımın tüm insanlık için büyük bir faydaya götürdüğünü kavradı.",
+          "analiz": [
+            { "kelime": "شَرْحُهُ النَّظَرِيَّةَ", "kok": "ش-ر-ح", "gramer": "Amel eden mastar + zamir fâil + mansub mef'ûl (النَّظَرِيَّةَ)", "tr": "teoriyi açıklaması" },
+            { "kelime": "مَنْفَعَةٍ / لِلْإِنْسَانِيَّةِ", "kok": "ن-ف-ع / أ-ن-س", "gramer": "Mimli mastar (مَفْعَلَة) + Sınâî mastar (ـِيَّة)", "tr": "fayda / insanlık için" }
+          ]
+        }
+      ],
+      "sorular": [
+        {
+          "id": "m29_r2_q1",
+          "soru": "İkinci paragraftaki 'غَلَيَانَ، طَيَرَانَ، جَرَيَانَ' mastarlarının ortak vezni ve anlam grubu nedir?",
+          "secenekler": ["فَعَلَانٌ — Hareket, akış ve çalkantı bildiren sülâsî mastarlar", "فِعَالَةٌ — Meslek mastarları", "فُعَالٌ — Hastalık mastarları", "Mezîd VIII. bab mastarları"],
+          "dogruIndeks": 0,
+          "aciklama": "Üçü de فَعَلَانٌ vezninde hareket/akış bildiren sülâsî mastarlardır."
+        },
+        {
+          "id": "m29_r2_q2",
+          "soru": "Metindeki 'جِلْسَةَ الْمُفَكِّرِ' ve 'مِشْيَةَ الْوَاثِقِ' ifadelerinde hangi mastar türü kullanılmıştır?",
+          "secenekler": ["Mastar-ı Nevi / Hey'et (فِعْلَة — tarz/biçim)", "Mastar-ı Merre (فَعْلَة — bir kez)", "Mimli Mastar", "Sınâî Mastar"],
+          "dogruIndeks": 0,
+          "aciklama": "İlk harfleri kesralı (جِلْسَة / مِشْيَة) ve muzâfun ileyh ile tarz bildiren Mastar-ı Nevidir."
+        },
+        {
+          "id": "m29_r2_q3",
+          "soru": "Üçüncü paragraftaki 'انْطِلَاقَةً' ve 'ابْتِسَامَةً' kelimeleri nasıl türetilmiştir?",
+          "secenekler": ["VII. ve VIII. bab aslî mastarlarının sonuna ة eklenerek (Mezîd Mastar-ı Merre)", "Sülâsî فَعْلَة kalıbıyla", "Sınâî mastar ekiyle", "Mimli mastar kalıbıyla"],
+          "dogruIndeks": 0,
+          "aciklama": "اِنْطِلَاقٌ + ة = اِنْطِلَاقَةٌ; اِبْتِسَامٌ + ة = اِبْتِسَامَةٌ."
+        },
+        {
+          "id": "m29_r2_q4",
+          "soru": "Son paragraftaki 'شَرْحُهُ النَّظَرِيَّةَ' ifadesinde 'النَّظَرِيَّةَ' neden mansubdur?",
+          "secenekler": ["شَرْح mastarının fiil gibi amel etmesiyle mef'ûlün bih olduğu için", "أَسْعَدَ fiilinin fâili olduğu için", "Haber olduğu için", "Sıfat olduğu için"],
+          "dogruIndeks": 0,
+          "aciklama": "شَرْحُهُ (= أَنْ يَشْرَحَ) amel eden mastar, النَّظَرِيَّةَ ise onun mansub mef'ûlün bihidir."
+        },
+        {
+          "id": "m29_r2_q5",
+          "soru": "Metnin sonunda 'لِلْإِنْسَانِيَّةِ' kelimesinin türü nedir?",
+          "secenekler": ["Sınâî Mastar (sıfat değil, harf-i cerden sonra bağımsız soyut isim)", "İsm-i Mensûb", "Mastar-ı Merre", "Mimli Mastar"],
+          "dogruIndeks": 0,
+          "aciklama": "Sıfat konumunda olmadığı için Sınâî Mastardır ('tüm insanlık için')."
+        }
+      ]
+    },
+    {
+      "id": "m29_r3",
+      "baslik": "Ekonomide Üretim, Ziraat ve Yatırım Dengesi",
+      "arBaslik": "التَّوَازُنُ بَيْنَ الْإِنْتَاجِ وَالزِّرَاعَةِ وَالِاسْتِثْمَارِ",
+      "seviye": "B1 — Ekonomi & Basın",
+      "paragraflar": [
+        {
+          "ar": "يَتَطَلَّبُ الِاقْتِصَادُ الْقَوِيُّ تَوَازُنًا دَقِيقًا بَيْنَ الزِّرَاعَةِ وَالصِّنَاعَةِ وَالتِّجَارَةِ. فَلَا يَكْفِي اسْتِيرَادُ السِّلَعِ الْجَاهِزَةِ، بَلْ لَا بُدَّ مِنَ التَّرْكِيزِ عَلَى الْإِنْتَاجِ الْمَحَلِّيِّ وَتَطْوِيرِ التِّقْنِيَاتِ الْحَدِيثَةِ.",
+          "okunus": "Yetetallebu'l-ıktısâdu'l-kaviyyu tevâzunen dekîkan beyne'z-zirâ‘ati ve's-sınâ‘ati ve't-ticârati. Fe-lâ yekfî'stîrâdu's-sila‘i'l-câhizeti, bel lâ budde mine't-terkîzi ‘ale'l-intâci'l-mahalliyyi ve tatvîri't-tıkniyyâti'l-hadîseti.",
+          "tr": "Güçlü bir ekonomi; tarım, sanayi ve ticaret arasında hassas bir denge gerektirir. Hazır malların ithalatı yeterli değildir; aksine yerli üretime ve modern teknolojilerin geliştirilmesine odaklanmak şarttır.",
+          "analiz": [
+            { "kelime": "تَوَازُنًا / التَّرْكِيزِ / تَطْوِيرِ", "kok": "و-ز-ن / ر-ك-ز / ط-و-ر", "gramer": "VI. bab (تَفَاعُل) ve II. bab (تَفْعِيل) mastarlar", "tr": "denge / odaklanma / geliştirme" },
+            { "kelime": "اسْتِيرَادُ / الْإِنْتَاجِ", "kok": "و-ر-د / ن-ت-ج", "gramer": "X. bab vasıl hemzeli & IV. bab kat' hemzeli mastar", "tr": "ithalat / üretim" }
+          ]
+        },
+        {
+          "ar": "وَقَدْ أَكَّدَ الْخُبَرَاءُ أَنَّ دَعْمَ الدَّوْلَةِ الْمَشَارِيعَ الصَّغِيرَةَ يَخْلُقُ فُرَصَ عَمَلٍ جَدِيدَةً، وَيُشَجِّعُ الشَّبَابَ عَلَى الِاسْتِثْمَارِ فِي مَجَالَاتِ الطَّاقَةِ النَّظِيفَةِ وَالْبَرْمَجَةِ.",
+          "okunus": "Ve kad ekkede'l-huberâ’u enne da‘me'd-devleti'l-meşârî‘a's-sagîrate yahluku furasa ‘amelin cedîdetin, ve yuşecci‘u'ş-şebâbe ‘ale'l-istismâri fî mecâlâti't-tâkati'n-nazîfeti ve'l-bermeceti.",
+          "tr": "Uzmanlar, devletin küçük projeleri desteklemesinin yeni iş fırsatları yarattığını ve gençleri temiz enerji ile yazılım alanlarında yatırıma teşvik ettiğini vurguladı.",
+          "analiz": [
+            { "kelime": "دَعْمَ الدَّوْلَةِ الْمَشَارِيعَ", "kok": "د-ع-م", "gramer": "Amel eden sülâsî mastar + fâil (الدَّوْلَةِ) + mansub mef'ûl (الْمَشَارِيعَ)", "tr": "devletin projeleri desteklemesi" },
+            { "kelime": "الْبَرْمَجَةِ", "kok": "ب-ر-م-ج", "gramer": "Rubâî mücerred kıyâsî mastar (فَعْلَلَة)", "tr": "yazılım / programlama" }
+          ]
+        },
+        {
+          "ar": "كَمَا أَنَّ الْأَوْلَوِيَّةَ الْيَوْمَ تَتَّجِهُ نَحْوَ الِاسْتِدَامَةِ الْبِيئِيَّةِ وَالِاكْتِفَاءِ الذَّاتِيِّ، بِحَيْثُ تَنْطَلِقُ الْمَصَانِعُ مُنْطَلَقًا صَدِيقًا لِلْبِيئَةِ وَتُحَافِظُ عَلَى الْمَوَارِدِ الطَّبِيعِيَّةِ.",
+          "okunus": "Kemâ enne'l-evleviyyete'l-yevme tettecihu nahve'l-istidâmeti'l-bî’iyyeti ve'l-iktifâ’i'z-zâtiyyi, bi-haysu tentalıku'l-mesâni‘u muntalekan sadîkan li'l-bî’eti ve tuhâfızu ‘ale'l-mevâridi't-tabî‘ıyyeti.",
+          "tr": "Ayrıca bugün öncelik, çevresel sürdürülebilirliğe ve kendi kendine yeterliliğe yönelmektedir; öyle ki fabrikalar çevre dostu bir başlangıç yapsın ve doğal kaynakları korusun.",
+          "analiz": [
+            { "kelime": "الْأَوْلَوِيَّةَ", "kok": "أ-و-ل", "gramer": "Sınâî Mastar (ـِيَّة, إِنَّ'nin ismi)", "tr": "öncelik" },
+            { "kelime": "الْبِيئِيَّةِ / مُنْطَلَقًا", "kok": "ب-و-أ / ط-ل-ق", "gramer": "İsm-i Mensûb (sıfat!) + VII. bab mimli mastar", "tr": "çevresel / bir başlangıç" }
+          ]
+        },
+        {
+          "ar": "إِنَّ التَّخْطِيطَ السَّلِيمَ وَالِالْتِزَامَ بِالْجَوْدَةِ هُمَا مَفْتَاحُ الِازْدِهَارِ، وَبِفَضْلِ هٰذَا النَّهْجِ تَتَحَوَّلُ التَّحَدِّيَاتُ إِلَى فُرَصٍ وَمَكْسَبٍ حَقِيقِيٍّ لِلْأَجْيَالِ الْقَادِمَةِ.",
+          "okunus": "İnne't-tahtîta's-selîme ve'l-iltizâme bi'l-cevdeti humâ miftâhu'l-izdihâri, ve bi-fadli hâze'n-nehci tetehavvelu't-tehaddiyâtu ilâ furasın ve meksebin hakîkıyyin li'l-ecyâli'l-kâdimeti.",
+          "tr": "Sağlıklı planlama ve kaliteye bağlılık, refahın anahtarıdır; bu yaklaşım sayesinde zorluklar gelecek nesiller için fırsatlara ve gerçek bir kazanıma dönüşür.",
+          "analiz": [
+            { "kelime": "التَّخْطِيطَ / الِالْتِزَامَ / الِازْدِهَارِ", "kok": "خ-ط-ط / ل-ز-م / ز-ه-ر", "gramer": "II. bab + VIII. bab + VIII. bab (ibdâlli ز+ت→زد) mastarlar", "tr": "planlama / bağlılık / refah" },
+            { "kelime": "مَكْسَبٍ", "kok": "ك-س-ب", "gramer": "Sülâsî mimli mastar (مَفْعَل = كَسْب)", "tr": "kazanım" }
+          ]
+        }
+      ],
+      "sorular": [
+        {
+          "id": "m29_r3_q1",
+          "soru": "İkinci paragraftaki 'دَعْمَ الدَّوْلَةِ الْمَشَارِيعَ' yapısının tam gramer analizi hangisidir?",
+          "secenekler": ["Fâiline (الدَّوْلَةِ) muzâf olmuş amel eden mastar + mansub mef'ûlün bih (الْمَشَارِيعَ)", "Fiil cümlesi", "Mastar-ı merre + sıfat", "Sınâî mastar + haber"],
+          "dogruIndeks": 0,
+          "aciklama": "دَعْمَ (mastar, إِنَّ'nin ismi) + الدَّوْلَةِ (fâil/muzâfun ileyh) + الْمَشَارِيعَ (mansub mef'ûlün bih)."
+        },
+        {
+          "id": "m29_r3_q2",
+          "soru": "Üçüncü paragrafta 'الْأَوْلَوِيَّةَ' ve 'الْبِيئِيَّةِ' kelimeleri sırasıyla hangi kategoridedir?",
+          "secenekler": ["الْأَوْلَوِيَّةَ: Sınâî Mastar | الْبِيئِيَّةِ: İsm-i Mensûb (sıfat)", "İkisi de Sınâî Mastardır", "İkisi de İsm-i Mensûb'dur", "الْأَوْلَوِيَّةَ: Mimli Mastar | الْبِيئِيَّةِ: Sınâî Mastar"],
+          "dogruIndeks": 0,
+          "aciklama": "الْأَوْلَوِيَّةَ sıfat değil (أَنَّ'nin ismi) → Sınâî Mastar; الْبِيئِيَّةِ ise الِاسْتِدَامَةِ kelimesinin sıfatı → İsm-i Mensûb!"
+        },
+        {
+          "id": "m29_r3_q3",
+          "soru": "Metindeki 'الْبَرْمَجَةِ' (programlama) kelimesi hangi mastar kalıbındadır?",
+          "secenekler": ["Rubâî mücerred mastarı (فَعْلَلَةٌ)", "Sülâsî فِعَالَةٌ", "Mastar-ı Nevi", "Mimli Mastar"],
+          "dogruIndeks": 0,
+          "aciklama": "بَرْمَجَ (4 köklü rubâî mücerred) → بَرْمَجَةٌ (فَعْلَلَةٌ)."
+        },
+        {
+          "id": "m29_r3_q4",
+          "soru": "Son paragraftaki 'مَكْسَبٍ' (kazanım) kelimesi hangi mastar türüdür?",
+          "secenekler": ["Sülâsî Mimli Mastar (مَفْعَلٌ = كَسْبٌ)", "Sınâî Mastar", "Mastar-ı Merre", "VIII. bab mastar"],
+          "dogruIndeks": 0,
+          "aciklama": "كَسَبَ → مَكْسَبٌ (مَفْعَل kalıbında mimli mastar)."
+        },
+        {
+          "id": "m29_r3_q5",
+          "soru": "Metne göre güçlü bir ekonomi nelere ihtiyaç duyar?",
+          "secenekler": ["Tarım, sanayi ve ticaret arasında dengeye; yerli üretime ve sürdürülebilirliğe", "Sadece hazır mal ithalatına", "Fabrikaların kapatılmasına", "Yalnızca tek sektöre odaklanmaya"],
+          "dogruIndeks": 0,
+          "aciklama": "İlk ve üçüncü paragraflarda denge, yerli üretim ve sürdürülebilirlik vurgulanmaktadır."
+        }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "m29_d1",
+      "baslik": "Üniversite Seminerinde — Sınâî Mastar mı, İsm-i Mensûb mu?",
+      "ortam": "Dilbilim Seminer Odası",
+      "replikler": [
+        { "konusan": "سَلْمَى", "ar": "السَّلَامُ عَلَيْكُمْ يَا أُسْتَاذُ، عِنْدِي سُؤَالٌ حَوْلَ الْمَصْدَرِ الصِّنَاعِيِّ.", "okunus": "Es-selâmu ‘aleykum yâ ustâzu, ‘indî su’âlun havle'l-masdari's-sınâ‘iyyi.", "tr": "Selamün aleyküm hocam, Sınâî Mastar hakkında bir sorum var." },
+        { "konusan": "الْأُسْتَاذُ", "ar": "وَعَلَيْكُمُ السَّلَامُ يَا سَلْمَى، تَفَضَّلِي، مَا الَّذِي يُشْكِلُ عَلَيْكِ؟", "okunus": "Ve ‘aleykumu's-selâmu yâ Selmâ, tefaddalî, me'llezî yuşkilu ‘aleyki?", "tr": "Aleyküm selam Selma, buyur, seni zorlayan şey nedir?" },
+        { "konusan": "سَلْمَى", "ar": "كَيْفَ أُفَرِّقُ بَيْنَ كَلِمَةِ «الْإِنْسَانِيَّة» مَصْدَرًا صِنَاعِيًّا وَبَيْنَهَا اسْمًا مَنْسُوبًا؟", "okunus": "Keyfe uferriku beyne kelimeti «el-insâniyye» masdaran sınâ‘iyyen ve beyneha'smen mensûben?", "tr": "'El-insâniyye' kelimesinin ne zaman Sınâî Mastar, ne zaman İsm-i Mensûb olduğunu nasıl ayırırım?" },
+        { "konusan": "الْأُسْتَاذُ", "ar": "سُؤَالٌ مُمْتَازٌ! الْقَاعِدَةُ بَسِيطَةٌ جِدًّا: اُنْظُرِي إِلَى مَوْقِعِ الْكَلِمَةِ فِي الْجُمْلَةِ.", "okunus": "Su’âlun mumtâzun! El-kâ‘idetu besîtatun cidden: Unzurî ilâ mevkı‘ı'l-kelimeti fi'l-cumleti.", "tr": "Harika bir soru! Kural çok basit: Kelimenin cümledeki konumuna bak." },
+        { "konusan": "سَلْمَى", "ar": "مَاذَا تَعْنِي بِمَوْقِعِهَا الْإِعْرَابِيِّ يَا أُسْتَاذُ؟", "okunus": "Mâzâ ta‘nî bi-mevkı‘ıha'l-i‘râbiyyi yâ ustâzu?", "tr": "İ'rab konumuyla neyi kastediyorsunuz hocam?" },
+        { "konusan": "الْأُسْتَاذُ", "ar": "إِذَا لَمْ تَكُنْ نَعْتًا وَلَا مَعْطُوفَةً عَلَى نَعْتٍ، فَهِيَ مَصْدَرٌ صِنَاعِيٌّ؛ مِثْلَ: الْإِنْسَانِيَّةُ قِيمَةٌ عَظِيمَةٌ.", "okunus": "İzâ lem tekun na‘ten ve lâ ma‘tûfeten ‘alâ na‘tin, fe-hiye masdarun sınâ‘iyyun; misle: El-insâniyyetu kıymetun ‘azîmetun.", "tr": "Eğer sıfat değilse ve sıfata atfedilmemişse Sınâî Mastardır; örneğin: 'İnsanlık büyük bir değerdir.'" },
+        { "konusan": "سَلْمَى", "ar": "وَإِذَا قُلْنَا: الْقِيَمُ الْإِنْسَانِيَّةُ تَجْمَعُ الشُّعُوبَ؟", "okunus": "Ve izâ kulnâ: El-kıyemu'l-insâniyyetu tecme‘u'ş-şu‘ûbe?", "tr": "Peki 'İnsani değerler halkları birleştirir' dersek?" },
+        { "konusan": "الْأُسْتَاذُ", "ar": "أَحْسَنْتِ! هُنَا وَقَعَتْ نَعْتًا لِـ«الْقِيَم»، فَهِيَ اسْمٌ مَنْسُوبٌ وَلَيْسَتْ مَصْدَرًا صِنَاعِيًّا.", "okunus": "Ahsenti! Hunâ veka‘at na‘ten li-«el-kıyem», fe-hiye'smun mensûbun ve leyset masdaran sınâ‘iyyen.", "tr": "Aferin! Burada 'el-kıyem'in sıfatı olduğu için İsm-i Mensûb'dur, Sınâî Mastar değildir." },
+        { "konusan": "سَلْمَى", "ar": "وَهَلْ يَنْطَبِقُ هٰذَا عَلَى «الْوَطَنِيَّة» وَ«الْمَسْؤُولِيَّة» وَ«الشَّفَافِيَّة» أَيْضًا؟", "okunus": "Ve hel yantabıku hâzâ ‘alâ «el-vataniyye» ve «el-mes’ûliyye» ve «eş-şefâfiyye» eydan?", "tr": "Bu kural 'vataniyye', 'mes'ûliyye' ve 'şefâfiyye' için de geçerli mi?" },
+        { "konusan": "الْأُسْتَاذُ", "ar": "نَعَمْ بِالتَّأْكِيدِ! كُلُّ كَلِمَةٍ تَنْتَهِي بِيَاءٍ مُشَدَّدَةٍ وَتَاءٍ مَرْبُوطَةٍ تَخْضَعُ لِهٰذَا الِاخْتِبَارِ.", "okunus": "Ne‘am bi't-te’kîdi! Kullu kelimetin tentehî bi-yâ’in muşeddedetin ve tâ’in merbûtatin tahda‘u li-hâze'l-ihtibâri.", "tr": "Evet kesinlikle! Şeddeli yâ ve kapalı tâ ile biten her kelime bu teste tabidir." },
+        { "konusan": "سَلْمَى", "ar": "الْآنَ اتَّضَحَ الْفَرْقُ تَمَامًا، شُكْرًا جَزِيلًا لِتَوْضِيحِكَ الْوَافِي يَا أُسْتَاذُ!", "okunus": "El-âne'ttadaha'l-farku temâmen, şukran cezîlen li-tevdîhıke'l-vâfî yâ ustâzu!", "tr": "Şimdi fark tamamen netleşti, kapsamlı açıklamanız için çok teşekkürler hocam!" },
+        { "konusan": "الْأُسْتَاذُ", "ar": "عَفْوًا يَا سَلْمَى، وَأَسْعَدَنِي اهْتِمَامُكِ الدَّقِيقُ بِالنَّحْوِ وَالصَّرْفِ!", "okunus": "‘Afven yâ Selmâ, ve es‘adeni'htimâmuki'd-dekîku bi'n-nahvi ve's-sarfi!", "tr": "Rica ederim Selma, nahiv ve sarfa olan titiz ilgin beni çok sevindirdi!" }
+      ],
+      "partner": [
+        { "soruAr": "كَيْفَ نُمَيِّزُ الْمَصْدَرَ الصِّنَاعِيَّ عَنِ الِاسْمِ الْمَنْسُوبِ؟", "soruTr": "Sınâî mastarı ism-i mensûbdan nasıl ayırırız?", "ipucu": "Cümledeki konumuna (sıfat olup olmamasına) bakarız.", "secenekler": ["نَنْظُرُ إِلَى مَوْقِعِهِ؛ فَإِذَا لَمْ يَكُنْ نَعْتًا فَهُوَ مَصْدَرٌ صِنَاعِيٌّ.", "نَنْظُرُ إِلَى عَدَدِ حُرُوفِهِ فَقَطْ.", "كُلُّ كَلِمَةٍ فِيهَا يَاءٌ هِيَ مَصْدَرٌ صِنَاعِيٌّ."], "dogruIndeks": 0, "aciklama": "Sıfat (na't) konumunda değilse Sınâî Mastar, sıfat ise İsm-i Mensûb'dur." },
+        { "soruAr": "مَا نَوْعُ «الْحُرِّيَّة» فِي جُمْلَةِ: الْحُرِّيَّةُ حَقٌّ لِلْجَمِيعِ؟", "soruTr": "'الْحُرِّيَّةُ حَقٌّ لِلْجَمِيعِ' cümlesinde الْحُرِّيَّة ne tür bir kelimedir?", "ipucu": "Mübteda konumunda (sıfat değil!).", "secenekler": ["هِيَ مَصْدَرٌ صِنَاعِيٌّ لِأَنَّهَا مُبْتَدَأٌ وَلَيْسَتْ نَعْتًا.", "هِيَ اسْمٌ مَنْسُوبٌ.", "هِيَ مَصْدَرٌ مِيمِيٌّ."], "dogruIndeks": 0, "aciklama": "Mübteda olduğu için Sınâî Mastardır." },
+        { "soruAr": "مَا نَوْعُ «الْإِنْسَانِيَّة» فِي جُمْلَةِ: قَرَأْتُ عَنِ الْقِيَمِ الْإِنْسَانِيَّةِ؟", "soruTr": "'قَرَأْتُ عَنِ الْقِيَمِ الْإِنْسَانِيَّةِ' cümlesinde الْإِنْسَانِيَّة nedir?", "ipucu": "الْقِيَمِ kelimesinin sıfatıdır.", "secenekler": ["هِيَ اسْمٌ مَنْسُوبٌ لِأَنَّهَا وَقَعَتْ نَعْتًا.", "هِيَ مَصْدَرٌ صِنَاعِيٌّ.", "هِيَ مَصْدَرُ مَرَّةٍ."], "dogruIndeks": 0, "aciklama": "Sıfat (na't) olduğu için İsm-i Mensûb'dur." },
+        { "soruAr": "هَاتِ مَصْدَرًا صِنَاعِيًّا مِنْ كَلِمَةِ «مَسْؤُول».", "soruTr": "'مَسْؤُول' kelimesinden sınâî mastar türet.", "ipucu": "Sonuna ـِيَّةٌ ekle.", "secenekler": ["مَسْؤُولِيَّةٌ.", "مَسْأَلَةٌ.", "تَسَاؤُلٌ."], "dogruIndeks": 0, "aciklama": "مَسْؤُولٌ + ـِيَّةٌ = مَسْؤُولِيَّةٌ (sorumluluk)." },
+        { "soruAr": "بِمَاذَا يَنْتَهِي الْمَصْدَرُ الصِّنَاعِيُّ دَائِمًا؟", "soruTr": "Sınâî mastar daima ne ile biter?", "ipucu": "Şeddeli yâ + kapalı tâ.", "secenekler": ["يَنْتَهِي بِيَاءٍ مُشَدَّدَةٍ وَتَاءٍ مَرْبُوطَةٍ (ـِيَّةٌ).", "يَنْتَهِي بِأَلِفٍ وَنُونٍ.", "يَبْدَأُ بِمِيمٍ زَائِدَةٍ."], "dogruIndeks": 0, "aciklama": "Sınâî mastar daima ـِيَّةٌ ile biter." }
+      ]
+    },
+    {
+      "id": "m29_d2",
+      "baslik": "Klinikte — Hastalık Bildiren Sülâsî Mastarlar (فُعَال)",
+      "ortam": "Aile Sağlığı Merkezi",
+      "replikler": [
+        { "konusan": "الطَّبِيبُ", "ar": "أَهْلًا بِكَ يَا أَخِي، مِمَّ تَشْكُو الْيَوْمَ؟", "okunus": "Ehlen bike yâ ahî, mimme teşku'l-yevme?", "tr": "Hoş geldin kardeşim, bugün şikâyetin nedir?" },
+        { "konusan": "عُمَرُ", "ar": "أَشْعُرُ بِصُدَاعٍ مُسْتَمِرٍّ وَسُعَالٍ جَافٍّ مُنْذُ يَوْمَيْنِ يَا دُكْتُورُ.", "okunus": "Eş‘uru bi-sudâ‘in mustemirrin ve su‘âlin câffin munzu yevmeyni yâ duktûru.", "tr": "İki gündür sürekli bir baş ağrısı ve kuru öksürük hissediyorum doktor bey." },
+        { "konusan": "الطَّبِيبُ", "ar": "هَلْ يُصَاحِبُ السُّعَالَ زُكَامٌ أَوِ ارْتِفَاعٌ فِي دَرَجَةِ الْحَرَارَةِ؟", "okunus": "Hel yusâhıbu's-su‘âle zukâmun evi'rtifâ‘un fî dereceti'l-harârati?", "tr": "Öksürüğe nezle veya ateş yükselmesi eşlik ediyor mu?" },
+        { "konusan": "عُمَرُ", "ar": "نَعَمْ، عِنْدِي زُكَامٌ خَفِيفٌ وَدُوَارٌ عِنْدَ الْوُقُوفِ بِسُرْعَةٍ.", "okunus": "Ne‘am, ‘indî zukâmun hafîfun ve duvârun ‘inde'l-vukûfi bi-sur‘atin.", "tr": "Evet, hafif bir nezlem ve hızlı ayağa kalkınca baş dönmem var." },
+        { "konusan": "الطَّبِيبُ", "ar": "لَا تَقْلَقْ، هٰذِهِ أَعْرَاضُ نَزْلَةِ بَرْدٍ مَوْسِمِيَّةٍ. دَعْنِي أَفْحَصْ حَلْقَكَ.", "okunus": "Lâ taklak, hâzihî a‘râdu nezleti berdin mevsimiyyetin. Da‘nî efhas halkake.", "tr": "Endişelenme, bunlar mevsimsel bir soğuk algınlığı belirtileri. Boğazını muayene edeyim." },
+        { "konusan": "عُمَرُ", "ar": "تَفَضَّلْ يَا دُكْتُورُ. هَلْ أَحْتَاجُ إِلَى رَاحَةٍ تَامَّةٍ؟", "okunus": "Tefaddal yâ duktûru. Hel ahtâcu ilâ râhatin tâmmetin?", "tr": "Buyurun doktor bey. Tam bir dinlenmeye ihtiyacım var mı?" },
+        { "konusan": "الطَّبِيبُ", "ar": "نَعَمْ، الِاسْتِرَاحَةُ وَشُرْبُ السَّوَائِلِ الدَّافِئَةِ يُسَرِّعَانِ الشِّفَاءَ بِإِذْنِ اللّٰهِ.", "okunus": "Ne‘am, el-istirâhatu ve şurbu's-sevâ’ili'd-dâfi’eti yuserri‘âni'ş-şifâ’e bi-iznillâhi.", "tr": "Evet, dinlenme ve ılık sıvılar içmek Allah'ın izniyle iyileşmeyi hızlandırır." },
+        { "konusan": "عُمَرُ", "ar": "وَمَاذَا عَنِ الدَّوَاءِ؟ كَمْ مَرَّةً أَتَنَاوَلُهُ فِي الْيَوْمِ؟", "okunus": "Ve mâzâ ‘ani'd-devâ’i? Kem merraten etenâveluhû fi'l-yevmi?", "tr": "Peki ilaç ne olacak? Günde kaç kez alacağım?" },
+        { "konusan": "الطَّبِيبُ", "ar": "تَنَاوَلْ جَرْعَةً وَاحِدَةً بَعْدَ الْإِفْطَارِ وَجَرْعَةً أُخْرَى بَعْدَ الْعَشَاءِ.", "okunus": "Tenâvel cer‘aten vâhıdeten ba‘de'l-iftâri ve cer‘aten uhrâ ba‘de'l-‘aşâ’i.", "tr": "Kahvaltıdan sonra bir doz ve akşam yemeğinden sonra bir doz daha al." },
+        { "konusan": "عُمَرُ", "ar": "أَلْتَزِمُ بِتَعْلِيمَاتِكَ بِالدِّقَّةِ يَا دُكْتُورُ. مَتَى أَعُودُ لِلْمُرَاجَعَةِ؟", "okunus": "Eltezimu bi-ta‘lîmâtike bi'd-dıkkati yâ duktûru. Metâ e‘ûdu li'l-murâce‘ati?", "tr": "Talimatlarınıza harfiyen uyacağım doktor bey. Kontrol için ne zaman geleyim?" },
+        { "konusan": "الطَّبِيبُ", "ar": "إِذَا لَمْ يَخْتَفِ الصُّدَاعُ وَالسُّعَالُ خِلَالَ خَمْسَةِ أَيَّامٍ، فَزُرْنِي مَرَّةً أُخْرَى.", "okunus": "İzâ lem yahtefi's-sudâ‘u ve's-su‘âlu hılâle hamseti eyyâmin, fe-zurnî merraten uhrâ.", "tr": "Baş ağrısı ve öksürük beş gün içinde geçmezse beni tekrar ziyaret et." },
+        { "konusan": "عُمَرُ", "ar": "شُكْرًا جَزِيلًا لَكَ عَلَى اهْتِمَامِكَ وَحُسْنِ اسْتِقْبَالِكَ يَا دُكْتُورُ!", "okunus": "Şukran cezîlen leke ‘ale'htimâmike ve husni'stıkbâlike yâ duktûru!", "tr": "İlginiz ve güzel karşılamanız için çok teşekkürler doktor bey!" }
+      ],
+      "partner": [
+        { "soruAr": "مِمَّ يَشْكُو عُمَرُ فِي الْعِيَادَةِ؟", "soruTr": "Ömer klinikte nelerden şikâyet ediyor?", "ipucu": "فُعَال kalıbındaki 4 hastalık mastarı.", "secenekler": ["يَشْكُو مِنْ صُدَاعٍ وَسُعَالٍ وَزُكَامٍ وَدُوَارٍ.", "يَشْكُو مِنْ كَسْرٍ فِي يَدِهِ.", "لَا يَشْكُو مِنْ شَيْءٍ."], "dogruIndeks": 0, "aciklama": "صُدَاع (baş ağrısı), سُعَال (öksürük), زُكَام (nezle), دُوَار (baş dönmesi) — hepsi فُعَال vezninde!" },
+        { "soruAr": "مَا الْوَزْنُ الْمُشْتَرَكُ لِـ«صُدَاع، سُعَال، زُكَام، دُوَار»؟", "soruTr": "صُدَاع، سُعَال، زُكَام، دُوَار kelimelerinin ortak vezni nedir?", "ipucu": "Hastalık bildiren sülâsî mastar kalıbı.", "secenekler": ["وَزْنُ «فُعَالٌ» لِلْأَمْرَاضِ.", "وَزْنُ «فِعَالَةٌ» لِلْحِرَفِ.", "وَزْنُ «فَعَلَانٌ» لِلْحَرَكَةِ."], "dogruIndeks": 0, "aciklama": "Hastalık bildiren sülâsî mastarlar فُعَالٌ veznindedir." },
+        { "soruAr": "مَاذَا نَصَحَ الطَّبِيبُ عُمَرَ لِتَسْرِيعِ الشِّفَاءِ؟", "soruTr": "Doktor iyileşmeyi hızlandırmak için Ömer'e ne tavsiye etti?", "ipucu": "Dinlenme ve ılık sıvılar.", "secenekler": ["نَصَحَهُ بِالِاسْتِرَاحَةِ وَشُرْبِ السَّوَائِلِ الدَّافِئَةِ.", "نَصَحَهُ بِالرَّكْضِ السَّرِيعِ.", "نَصَحَهُ بِالسَّفَرِ فَوْرًا."], "dogruIndeks": 0, "aciklama": "الِاسْتِرَاحَةُ (X. bab mastar) ve شُرْبُ السَّوَائِلِ الدَّافِئَةِ." },
+        { "soruAr": "مَا نَوْعُ «جَرْعَةً وَاحِدَةً» فِي كَلَامِ الطَّبِيبِ؟", "soruTr": "Doktorun sözündeki 'جَرْعَةً وَاحِدَةً' ifadesi nedir?", "ipucu": "Bir kezlik içim/doz (فَعْلَة).", "secenekler": ["مَصْدَرُ مَرَّةٍ (بِمَعْنَى مَرَّةٍ وَاحِدَةٍ).", "مَصْدَرٌ صِنَاعِيٌّ.", "مَصْدَرٌ مِيمِيٌّ."], "dogruIndeks": 0, "aciklama": "جَرْعَةٌ (فَعْلَة) bir yudum / bir doz anlamında Mastar-ı Merredir." },
+        { "soruAr": "مَا بَابُ مَصْدَرِ «اسْتِقْبَال» فِي خِتَامِ الْحِوَارِ؟", "soruTr": "Diyalogu bitiren 'اسْتِقْبَال' mastarı hangi babdandır?", "ipucu": "اِسْتَقْبَلَ → اِسْتِقْبَالٌ.", "secenekler": ["مَصْدَرُ الْبَابِ الْعَاشِرِ (الِاسْتِفْعَالِ).", "مَصْدَرٌ سُلَاسِيٌّ سَمَاعِيٌّ.", "مَصْدَرٌ رُبَاعِيٌّ."], "dogruIndeks": 0, "aciklama": "اِسْتَقْبَلَ (X. bab) → اِسْتِقْبَالٌ (vasıl hemzeli kıyâsî mastar)." }
+      ]
+    },
+    {
+      "id": "m29_d3",
+      "baslik": "Kitap Kulübünde — Amel Eden Mastarlarla Yorumlama",
+      "ortam": "Kültür Merkezi Kitap Kulübü",
+      "replikler": [
+        { "konusan": "طَارِقٌ", "ar": "مَرْحَبًا يَا مَرْيَمُ! أَسْعَدَنِي كَثِيرًا قِرَاءَتُكِ الرِّوَايَةَ الْجَدِيدَةَ قَبْلَ اللِّقَاءِ.", "okunus": "Merhaben yâ Meryemu! Es‘adenî kesîran kırâ’etuki'r-rivâyete'l-cedîdete kable'l-likâ’i.", "tr": "Merhaba Meryem! Buluşmadan önce yeni romanı okuman beni çok sevindirdi." },
+        { "konusan": "مَرْيَمُ", "ar": "أَهْلًا يَا طَارِقُ! وَأَنَا أَعْجَبَنِي تَلْخِيصُكَ الْفُصُولَ الصَّعْبَةَ بِأُسْلُوبٍ سَلِسٍ.", "okunus": "Ehlen yâ Târıku! Ve ene a‘cebenî telhîsuke'l-fusûle's-sa‘bete bi-uslûbin selisin.", "tr": "Hoş bulduk Tarık! Benim de zor bölümleri akıcı bir üslupla özetlemen çok hoşuma gitti." },
+        { "konusan": "طَارِقٌ", "ar": "مَا أَكْثَرُ مَشْهَدٍ أَثَّرَ فِيكِ أَثْنَاءَ مُطَالَعَتِكِ الْكِتَابَ؟", "okunus": "Mâ ekseru meşhedin essera fîki esnâ’e mutâla‘atiki'l-kitâbe?", "tr": "Kitabı mütalaa ederken seni en çok etkileyen sahne hangisiydi?" },
+        { "konusan": "مَرْيَمُ", "ar": "أَثَّرَ فِيَّ مَوْقِفُ الْبَطَلِ الشُّجَاعُ وَوِقْفَتُهُ وِقْفَةَ الْحَقِّ أَمَامَ الظُّلْمِ.", "okunus": "Essera fiyye mevkıfu'l-batali'ş-şucâ‘u ve vıkfetuhû vıkfete'l-hakkı emâme'z-zulmi.", "tr": "Kahramanın cesur tavrı ve zulüm karşısında hak duruşuyla durması beni çok etkiledi." },
+        { "konusan": "طَارِقٌ", "ar": "نَعَمْ! وَمُسَاعَدَتُهُ الْفُقَرَاءَ وَإِطْعَامُهُ الْأَيْتَامَ تُعَلِّمُ الْقَارِئَ مَعْنَى الْإِنْسَانِيَّةِ.", "okunus": "Ne‘am! Ve musâ‘adetuhu'l-fukarâ’e ve ıt‘âmuhu'l-eytâme tu‘allimu'l-kâri’e ma‘ne'l-insâniyyeti.", "tr": "Evet! Fakirlere yardım etmesi ve yetimleri doyurması okura insanlığın anlamını öğretiyor." },
+        { "konusan": "مَرْيَمُ", "ar": "لَاحَظْتُ أَيْضًا أَنَّ الْكَاتِبَ يَنْتَقِدُ الْأَنَانِيَّةَ وَيَدْعُو إِلَى الْمَحَبَّةِ وَالتَّعَاوُنِ.", "okunus": "Lâhaztu eydan enne'l-kâtibe yentekıdu'l-enâniyyete ve yed‘û ile'l-mehabbeti ve't-te‘âvuni.", "tr": "Yazarın bencilliği eleştirdiğini, sevgi ve iş birliğine çağırdığını da fark ettim." },
+        { "konusan": "طَارِقٌ", "ar": "صَحِيحٌ، وَإِتْقَانُ الْكَاتِبِ وَصْفَ الشَّخْصِيَّاتِ جَعَلَ الْأَحْدَاثَ كَأَنَّهَا حَقِيقِيَّةٌ.", "okunus": "Sahîhun, ve itkânu'l-kâtibi vasfe'ş-şahsıyyâti ce‘ale'l-ahdâse ke-ennehâ hakîkıyyetun.", "tr": "Doğru, yazarın karakterleri ustaca betimlemesi olayları gerçekmiş gibi kıldı." },
+        { "konusan": "مَرْيَمُ", "ar": "هَلْ نُشَارِكُ الزُّمَلَاءَ مُلَاحَظَاتِنَا فِي جَلْسَةِ الْيَوْمِ؟", "okunus": "Hel nuşâriku'z-zumelâ’e mulâhazâtinâ fî celseti'l-yevmi?", "tr": "Notlarımızı bugünkü oturumda arkadaşlarla paylaşalım mı?" },
+        { "konusan": "طَارِقٌ", "ar": "بِالتَّأْكِيدِ، فَالتَّنَاقُشُ الْبَنَّاءُ يُثْرِي فَهْمَنَا النَّصَّ وَيَفْتَحُ لَنَا آفَاقًا جَدِيدَةً.", "okunus": "Bi't-te’kîdi, fe't-tenâkuşu'l-bennâ’u yusrî fehmena'n-nassa ve yeftehu lenâ âfâkan cedîdeten.", "tr": "Kesinlikle, yapıcı tartışma metni anlayışımızı zenginleştirir ve bize yeni ufuklar açar." },
+        { "konusan": "مَرْيَمُ", "ar": "مَا الْكِتَابُ الْمُقْتَرَحُ لِلْقِرَاءَةِ فِي الشَّهْرِ الْقَادِمِ؟", "okunus": "Me'l-kitâbu'l-mukterahu li'l-kırâ’eti fi'ş-şehri'l-kâdimi?", "tr": "Gelecek ay okunması önerilen kitap hangisi?" },
+        { "konusan": "طَارِقٌ", "ar": "سَنَقْرَأُ كِتَابًا عَنْ تَارِيخِ الْعُلُومِ وَالِاكْتِشَافَاتِ، وَأَعْتَقِدُ أَنَّ فِيهِ مَنْفَعَةً كَبِيرَةً.", "okunus": "Se-nakra’u kitâben ‘an târîhı'l-‘ulûmi ve'l-iktişâfâti, ve a‘tekıdu enne fîhi menfe‘aten kebîraten.", "tr": "Bilim ve keşifler tarihi üzerine bir kitap okuyacağız; onda büyük bir fayda olduğuna inanıyorum." },
+        { "konusan": "مَرْيَمُ", "ar": "فِكْرَةٌ رَائِعَةٌ! هَيَّا نَدْخُلِ الْقَاعَةَ قَبْلَ انْطِلَاقِ النِّقَاشِ.", "okunus": "Fikratun râ’i‘atun! Heyyâ nedhuli'l-kâ‘ate kable'ntılâkı'n-nikâşi.", "tr": "Harika fikir! Haydi tartışma başlamadan salona girelim." }
+      ],
+      "partner": [
+        { "soruAr": "فِي جُمْلَةِ «أَسْعَدَنِي قِرَاءَتُكِ الرِّوَايَةَ»، مَا إِعْرَابُ «الرِّوَايَةَ»؟", "soruTr": "'أَسْعَدَنِي قِرَاءَتُكِ الرِّوَايَةَ' cümlesinde الرِّوَايَةَ'nin i'rabı nedir?", "ipucu": "قِرَاءَة mastarının nesnesi.", "secenekler": ["مَفْعُولٌ بِهِ مَنْصُوبٌ لِلْمَصْدَرِ «قِرَاءَة».", "فَاعِلٌ مَرْفُوعٌ.", "مُضَافٌ إِلَيْهِ مَجْرُورٌ."], "dogruIndeks": 0, "aciklama": "Amel eden قِرَاءَة mastarının mansub mef'ûlün bihidir." },
+        { "soruAr": "مَاذَا أَعْجَبَ مَرْيَمَ مِنْ عَمَلِ طَارِقٍ؟", "soruTr": "Tarık'ın çalışmasından Meryem'in hoşuna giden neydi?", "ipucu": "تَلْخِيصُكَ الْفُصُولَ الصَّعْبَةَ.", "secenekler": ["أَعْجَبَهَا تَلْخِيصُهُ الْفُصُولَ الصَّعْبَةَ بِأُسْلُوبٍ سَلِسٍ.", "أَعْجَبَهَا رَسْمُهُ الْغِلَافَ.", "لَمْ يُعْجِبْهَا شَيْءٌ."], "dogruIndeks": 0, "aciklama": "تَلْخِيصُكَ (II. bab amel eden mastar) + الْفُصُولَ (mansub mef'ûl)." },
+        { "soruAr": "فِي جُمْلَةِ «وَقَفَ وِقْفَةَ الْحَقِّ»، مَا نَوْعُ «وِقْفَةَ»؟", "soruTr": "'وَقَفَ وِقْفَةَ الْحَقِّ' ifadesinde وِقْفَةَ hangi mastardır?", "ipucu": "İlk harfi kesralı (فِعْلَة).", "secenekler": ["مَصْدَرُ هَيْئَةٍ (نَوْعٍ) عَلَى وَزْنِ فِعْلَةٍ.", "مَصْدَرُ مَرَّةٍ.", "مَصْدَرٌ صِنَاعِيٌّ."], "dogruIndeks": 0, "aciklama": "Kesralı وِقْفَةَ (فِعْلَة) duruş tarzını bildiren Mastar-ı Nevidir." },
+        { "soruAr": "مَا نَوْعُ كَلِمَةِ «مَنْفَعَةً» فِي كَلَامِ طَارِقٍ؟", "soruTr": "Tarık'ın sözündeki 'مَنْفَعَةً' ne tür bir mastardır?", "ipucu": "نَفَعَ → مَنْفَعَةٌ (= نَفْعٌ).", "secenekler": ["مَصْدَرٌ مِيمِيٌّ مَخْتُومٌ بِتَاءٍ مَرْبُوطَةٍ.", "مَصْدَرٌ صِنَاعِيٌّ.", "مَصْدَرُ هَيْئَةٍ."], "dogruIndeks": 0, "aciklama": "مَنْفَعَةٌ sonuna ة eklenmiş sülâsî mimli mastardır." },
+        { "soruAr": "مَا الْكِتَابُ الَّذِي سَيَقْرَؤُونَهُ فِي الشَّهْرِ الْقَادِمِ؟", "soruTr": "Gelecek ay hangi kitabı okuyacaklar?", "ipucu": "Bilim ve keşifler tarihi.", "secenekler": ["سَيَقْرَؤُونَ كِتَابًا عَنْ تَارِيخِ الْعُلُومِ وَالِاكْتِشَافَاتِ.", "سَيَقْرَؤُونَ دِيوَانَ شِعْرٍ قَدِيمٍ.", "سَيَقْرَؤُونَ كِتَابَ طَبْخٍ."], "dogruIndeks": 0, "aciklama": "Bilim ve keşifler tarihi hakkında bir kitap okuyacaklar." }
+      ]
+    },
+    {
+      "id": "m29_d4",
+      "baslik": "Girişimcilik Toplantısında — Mezîd & Mimli Mastarlarla Proje Sunumu",
+      "ortam": "Teknopark Toplantı Salonu",
+      "replikler": [
+        { "konusan": "الْمُدِيرَةُ", "ar": "مَرْحَبًا بِالْفَرِيقِ! نَبْدَأُ الْيَوْمَ جَلْسَةَ تَقْيِيمِ الْمَشْرُوعِ الرَّقْمِيِّ الْجَدِيدِ.", "okunus": "Merhaben bi'l-ferîkı! Nebde’u'l-yevme celsete takyîmi'l-meşrû‘ı'r-rakamiyyi'l-cedîdi.", "tr": "Ekip hoş geldiniz! Bugün yeni dijital projenin değerlendirme oturumuna başlıyoruz." },
+        { "konusan": "يُوسُفُ", "ar": "شُكْرًا يَا أُسْتَاذَةُ. لَقَدِ انْطَلَقَ الْمَشْرُوعُ مُنْطَلَقًا مُشَجِّعًا فِي الشَّهْرِ الْأَوَّلِ.", "okunus": "Şukran yâ ustâzetu. Lekadi'ntaleka'l-meşrû‘u muntalekan muşecci‘an fi'ş-şehri'l-evveli.", "tr": "Teşekkürler hanımefendi. Proje ilk ayda cesaret verici bir başlangıç yaptı." },
+        { "konusan": "الْمُدِيرَةُ", "ar": "رَائِعٌ! أَطْلِعْنَا عَلَى أَرْقَامِ الْإِنْتَاجِ وَنِسْبَةِ فَاعِلِيَّةِ التَّطْبِيقِ.", "okunus": "Râ’i‘un! Atlı‘nâ ‘alâ erkâmi'l-intâci ve nisbeti fâ‘iliyyeti't-tatbîkı.", "tr": "Harika! Bize üretim rakamları ve uygulamanın verimlilik oranı hakkında bilgi ver." },
+        { "konusan": "يُوسُفُ", "ar": "بِفَضْلِ تَطْوِيرِ الْفَرِيقِ الْوَاجِهَةَ، ارْتَفَعَ عَدَدُ الْمُسْتَخْدِمِينَ بِشَكْلٍ مَلْحُوظٍ.", "okunus": "Bi-fadli tatvîri'l-ferîkı'l-vâcihete, irtefe‘a ‘adedu'l-mustahdimîne bi-şeklin melhûzın.", "tr": "Ekibin arayüzü geliştirmesi sayesinde kullanıcı sayısı belirgin biçimde arttı." },
+        { "konusan": "الْمُدِيرَةُ", "ar": "هٰذِهِ انْطِلَاقَةٌ مُمْتَازَةٌ! وَمَاذَا عَنِ اسْتِثْمَارِ التِّقْنِيَّاتِ السَّحَابِيَّةِ؟", "okunus": "Hâzihi'ntılâkatun mumtâzetun! Ve mâzâ ‘ani'stismâri't-tıkniyyâti's-sehâbiyyeti?", "tr": "Bu mükemmel bir atılım! Peki bulut teknolojilerine yatırım ne durumda?" },
+        { "konusan": "يُوسُفُ", "ar": "نَعْمَلُ حَالِيًّا عَلَى تَحْسِينِ الْأَمَانِ وَضَمَانِ اسْتِمْرَارِيَّةِ الْخِدْمَةِ دُونَ انْقِطَاعٍ.", "okunus": "Na‘melu hâliyyen ‘alâ tahsîni'l-emâni ve damâni'stimrâriyyeti'l-hıdmeti dûne'nkıtâ‘ın.", "tr": "Şu anda güvenliği iyileştirme ve hizmetin kesintisiz sürekliliğini garanti altına alma üzerinde çalışıyoruz." },
+        { "konusan": "الْمُدِيرَةُ", "ar": "هَلْ وَاجَهْتُمْ أَيَّ عَقَبَاتٍ فِي التَّرْجَمَةِ أَوِ الْبَرْمَجَةِ؟", "okunus": "Hel vâcehtum eyye ‘akabâtin fi't-tercemeti evi'l-bermeceti?", "tr": "Çeviride veya programlamada herhangi bir engelle karşılaştınız mı?" },
+        { "konusan": "يُوسُفُ", "ar": "وَاجَهْنَا تَحَدِّيًا بَسِيطًا، لٰكِنَّ التَّعَاوُنَ وَتَحَمُّلَ الْمَسْؤُولِيَّةِ سَاعَدَانَا عَلَى حَلِّهِ سَرِيعًا.", "okunus": "Vâcehnâ tehaddiyen besîtan, lâkinne't-te‘âvune ve tehammule'l-mes’ûliyyeti sâ‘adânâ ‘alâ hallihî serî‘an.", "tr": "Küçük bir zorlukla karşılaştık ama iş birliği ve sorumluluk üstlenme onu hızla çözmemize yardımcı oldu." },
+        { "konusan": "الْمُدِيرَةُ", "ar": "سَرَّنِي إِتْقَانُكُمُ الْمَهَامَّ قَبْلَ الْمَوْعِدِ الْمُحَدَّدِ.", "okunus": "Serranî itkânukumu'l-mehâmme kable'l-mev‘ıdi'l-muhaddedi.", "tr": "Görevleri belirlenen tarihten önce kusursuz yapmanız beni sevindirdi." },
+        { "konusan": "يُوسُفُ", "ar": "هٰذَا مَطْلَبٌ أَسَاسِيٌّ فِي مَنْهَجِ عَمَلِنَا، وَنَسْعَى مَسْعًى دَائِمًا لِلتَّمَيُّزِ.", "okunus": "Hâzâ matlabun esâsiyyun fî menheci ‘amelinâ, ve nes‘â mes‘an dâ’imen li't-temeyyuzi.", "tr": "Bu, çalışma yöntemimizde temel bir ilkedir ve mükemmellik için sürekli bir çaba gösteriyoruz." },
+        { "konusan": "الْمُدِيرَةُ", "ar": "أُبَارِكُ لَكُمْ هٰذَا النَّجَاحَ، وَسَنُعْلِنُ عَنْ إِطْلَاقِنَا النُّسْخَةَ الثَّانِيَةَ الْأُسْبُوعَ الْقَادِمَ.", "okunus": "Ubâriku lekum hâze'n-necâha, ve se-nu‘linu ‘an ıtlâkına'n-nushate's-sâniyete'l-usbû‘a'l-kâdime.", "tr": "Bu başarınız için sizleri tebrik ediyorum; gelecek hafta ikinci sürümü başlattığımızı duyuracağız." },
+        { "konusan": "يُوسُفُ", "ar": "شُكْرًا لِثِقَتِكِ وَدَعْمِكِ الْمُسْتَمِرِّ يَا أُسْتَاذَةُ!", "okunus": "Şukran li-sikatiki ve da‘miki'l-mustemirri yâ ustâzetu!", "tr": "Güveniniz ve sürekli desteğiniz için teşekkürler hanımefendi!" }
+      ],
+      "partner": [
+        { "soruAr": "كَيْفَ انْطَلَقَ الْمَشْرُوعُ الرَّقْمِيُّ فِي الشَّهْرِ الْأَوَّلِ؟", "soruTr": "Dijital proje ilk ayda nasıl bir başlangıç yaptı?", "ipucu": "Mimli mastar مُنْطَلَقًا مُشَجِّعًا kullan.", "secenekler": ["اِنْطَلَقَ الْمَشْرُوعُ مُنْطَلَقًا مُشَجِّعًا.", "تَوَقَّفَ الْمَشْرُوعُ فِي الْيَوْمِ الْأَوَّلِ.", "لَمْ يَبْدَأِ الْمَشْرُوعُ بَعْدُ."], "dogruIndeks": 0, "aciklama": "مُنْطَلَقًا (VII. bab mimli mastar = اِنْطِلَاقًا)." },
+        { "soruAr": "فِي جُمْلَةِ «بِفَضْلِ تَطْوِيرِ الْفَرِيقِ الْوَاجِهَةَ»، لِمَاذَا جَاءَتْ «الْوَاجِهَةَ» مَنْصُوبَةً؟", "soruTr": "'بِفَضْلِ تَطْوِيرِ الْفَرِيقِ الْوَاجِهَةَ' ifadesinde الْوَاجِهَةَ neden mansubdur?", "ipucu": "تَطْوِير mastarının nesnesi.", "secenekler": ["لِأَنَّهَا مَفْعُولٌ بِهِ لِلْمَصْدَرِ الْعَامِلِ «تَطْوِير».", "لِأَنَّهَا مُضَافٌ إِلَيْهِ.", "لِأَنَّهَا خَبَرٌ."], "dogruIndeks": 0, "aciklama": "تَطْوِير (II. bab mastar) fâiline muzâf olup الْوَاجِهَةَ kelimesini nasbetmiştir." },
+        { "soruAr": "مَا وَزْنُ «التَّرْجَمَةِ» وَ«الْبَرْمَجَةِ»؟", "soruTr": "التَّرْجَمَةِ ve الْبَرْمَجَةِ hangi mastar veznindedir?", "ipucu": "4 köklü rubâî mücerred.", "secenekler": ["فَعْلَلَةٌ (مَصْدَرُ الرُّبَاعِيِّ الْمُجَرَّدِ).", "فِعَالَةٌ.", "تَفْعِيلٌ."], "dogruIndeks": 0, "aciklama": "تَرْجَمَ → تَرْجَمَةٌ, بَرْمَجَ → بَرْمَجَةٌ (فَعْلَلَةٌ)." },
+        { "soruAr": "مَا نَوْعُ «اسْتِمْرَارِيَّةِ» فِي كَلَامِ يُوسُفَ؟", "soruTr": "Yusuf'un sözündeki 'اسْتِمْرَارِيَّةِ' hangi mastar türüdür?", "ipucu": "Sıfat değil, muzâfun ileyh.", "secenekler": ["مَصْدَرٌ صِنَاعِيٌّ (لِأَنَّهُ لَيْسَ نَعْتًا).", "اسْمٌ مَنْسُوبٌ.", "مَصْدَرُ هَيْئَةٍ."], "dogruIndeks": 0, "aciklama": "Sıfat konumunda olmadığı için Sınâî Mastardır (süreklilik)." },
+        { "soruAr": "مَتَى سَيُعْلِنُونَ عَنْ إِطْلَاقِ النُّسْخَةِ الثَّانِيَةِ؟", "soruTr": "İkinci sürümün lansmanını ne zaman duyuracaklar?", "ipucu": "Gelecek hafta.", "secenekler": ["سَيُعْلِنُونَ عَنْ إِطْلَاقِهَا الْأُسْبُوعَ الْقَادِمَ.", "سَيُعْلِنُونَ بَعْدَ سَنَةٍ.", "أَلْغَوُا النُّسْخَةَ الثَّانِيَةَ."], "dogruIndeks": 0, "aciklama": "سَنُعْلِنُ عَنْ إِطْلَاقِنَا النُّسْخَةَ الثَّانِيَةَ الْأُسْبُوعَ الْقَادِمَ." }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "id": "m29_fc1", "ar": "زِرَاعَةٌ", "harekesiz": "زراعة", "okunus": "Zirâ‘atun", "tr": "Tarım / ziraat", "kok": "ز-ر-ع", "vezin": "فِعَالَةٌ", "turevler": ["زَرَعَ", "مُزَارِعٌ", "مَزْرَعَةٌ"], "ekBilgi": "Meslek/sanat bildiren sülâsî semâî mastar", "ornek": "تَشْتَهِرُ الْمِنْطَقَةُ بِالزِّرَاعَةِ.", "ornekTr": "Bölge tarımla meşhurdur.", "kullanimNotu": "فِعَالَة kalıbı meslek ve zanaatların standart sülâsî kalıbıdır.", "tur": "Sülâsî Mastar" },
+    { "id": "m29_fc2", "ar": "تِجَارَةٌ", "harekesiz": "تجارة", "okunus": "Ticâratun", "tr": "Ticaret", "kok": "ت-ج-ر", "vezin": "فِعَالَةٌ", "turevler": ["تَجَرَ", "تَاجِرٌ", "مَتْجَرٌ"], "ekBilgi": "Meslek/ekonomi bildiren sülâsî mastar", "ornek": "ازْدَهَرَتِ التِّجَارَةُ الْبَحْرِيَّةُ.", "ornekTr": "Deniz ticareti gelişti.", "kullanimNotu": "تِجَارِيٌّ (ticari) ism-i mensûb şeklidir.", "tur": "Sülâsî Mastar" },
+    { "id": "m29_fc3", "ar": "صِنَاعَةٌ", "harekesiz": "صناعة", "okunus": "Sınâ‘atun", "tr": "Sanayi / endüstri / zanaat", "kok": "ص-ن-ع", "vezin": "فِعَالَةٌ", "turevler": ["صَنَعَ", "صَانِعٌ", "مَصْنَعٌ"], "ekBilgi": "Meslek/üretim bildiren sülâsî mastar", "ornek": "تَطَوَّرَتِ الصِّنَاعَةُ الْحَدِيثَةُ.", "ornekTr": "Modern sanayi gelişti.", "kullanimNotu": "الْمَصْدَرُ الصِّنَاعِيُّ (sınâî mastar) terimi buradan gelir.", "tur": "Sülâsî Mastar" },
+    { "id": "m29_fc4", "ar": "صُدَاعٌ", "harekesiz": "صداع", "okunus": "Sudâ‘un", "tr": "Baş ağrısı", "kok": "ص-د-ع", "vezin": "فُعَالٌ", "turevler": ["صَدَعَ", "مَصْدُوعٌ"], "ekBilgi": "Hastalık bildiren sülâsî mastar", "ornek": "شَعَرَ الْمَرِيضُ بِصُدَاعٍ شَدِيدٍ.", "ornekTr": "Hasta şiddetli baş ağrısı hissetti.", "kullanimNotu": "فُعَال kalıbı tıpta hastalık/semptomların ana kalıbıdır.", "tur": "Sülâsî Mastar" },
+    { "id": "m29_fc5", "ar": "سُعَالٌ", "harekesiz": "سعال", "okunus": "Su‘âlun", "tr": "Öksürük", "kok": "س-ع-ل", "vezin": "فُعَالٌ", "turevler": ["سَعَلَ", "يَسْعُلُ"], "ekBilgi": "Hastalık bildiren sülâsî mastar", "ornek": "سُعَالٌ جَافٌّ مُنْذُ الصَّبَاحِ.", "ornekTr": "Sabahtan beri kuru öksürük.", "kullanimNotu": "سُعَالٌ / زُكَامٌ / دُوَارٌ üçlüsünü birlikte ezberle.", "tur": "Sülâsî Mastar" },
+    { "id": "m29_fc6", "ar": "زُكَامٌ", "harekesiz": "زكام", "okunus": "Zukâmun", "tr": "Nezle / soğuk algınlığı", "kok": "ز-ك-م", "vezin": "فُعَالٌ", "turevler": ["زُكِمَ", "مَزْكُومٌ"], "ekBilgi": "Hastalık bildiren sülâsî mastar", "ornek": "عِنْدِي زُكَامٌ خَفِيفٌ الْيَوْمَ.", "ornekTr": "Bugün hafif bir nezlem var.", "kullanimNotu": "فُعَال kalıbında semptom ismi.", "tur": "Sülâsî Mastar" },
+    { "id": "m29_fc7", "ar": "غَلَيَانٌ", "harekesiz": "غليان", "okunus": "Galeyânun", "tr": "Kaynama / coşma", "kok": "غ-ل-ي", "vezin": "فَعَلَانٌ", "turevler": ["غَلَى", "يَغْلِي", "مَغْلِيٌّ"], "ekBilgi": "Hareket/çalkantı bildiren sülâsî mastar", "ornek": "دَرَجَةُ غَلَيَانِ الْمَاءِ مِئَةٌ.", "ornekTr": "Suyun kaynama derecesi yüzdür.", "kullanimNotu": "Türkçedeki 'galeyan' (coşup taşma) buradan gelir.", "tur": "Sülâsî Mastar" },
+    { "id": "m29_fc8", "ar": "طَيَرَانٌ", "harekesiz": "طيران", "okunus": "Tayerânun", "tr": "Uçuş / havacılık", "kok": "ط-ي-ر", "vezin": "فَعَلَانٌ", "turevler": ["طَارَ", "طَائِرَةٌ", "طَيَّارٌ"], "ekBilgi": "Hareket bildiren sülâsî mastar", "ornek": "شَرِكَةُ طَيَرَانٍ دَوْلِيَّةٌ.", "ornekTr": "Uluslararası bir hava yolu şirketi.", "kullanimNotu": "خُطُوطُ الطَّيَرَانِ = hava yolları.", "tur": "Sülâsî Mastar" },
+    { "id": "m29_fc9", "ar": "جَرَيَانٌ", "harekesiz": "جريان", "okunus": "Cereyânun", "tr": "Akış / akım / cereyan", "kok": "ج-ر-ي", "vezin": "فَعَلَانٌ", "turevler": ["جَرَى", "مَجْرًى", "جَارٍ"], "ekBilgi": "Hareket/akış bildiren sülâsî mastar", "ornek": "جَرَيَانُ النَّهْرِ سَرِيعٌ فِي الرَّبِيعِ.", "ornekTr": "Nehrin akışı baharda hızlıdır.", "kullanimNotu": "Türkçedeki 'cereyan' kelimesinin kaynağıdır.", "tur": "Sülâsî Mastar" },
+    { "id": "m29_fc10", "ar": "تَنْمِيَةٌ", "harekesiz": "تنمية", "okunus": "Tenmiyetun", "tr": "Kalkınma / geliştirme", "kok": "ن-م-و", "vezin": "تَفْعِلَةٌ", "turevler": ["نَمَّى", "يُنَمِّي", "مُنَمٍّ"], "ekBilgi": "II. bab nâkıs fiil kıyâsî mastarı", "ornek": "التَّنْمِيَةُ الْمُسْتَدَامَةُ هَدَفٌ عَالَمِيٌّ.", "ornekTr": "Sürdürülebilir kalkınma küresel bir hedeftir.", "kullanimNotu": "Nâkıs II. bab mastarları تَفْعِلَةٌ gelir (تَرْبِيَة، تَسْمِيَة).", "tur": "Mezîd Mastar" },
+    { "id": "m29_fc11", "ar": "إِنْتَاجٌ", "harekesiz": "إنتاج", "okunus": "İntâcun", "tr": "Üretim / prodüksiyon", "kok": "ن-ت-ج", "vezin": "إِفْعَالٌ", "turevler": ["أَنْتَجَ", "مُنْتِجٌ", "مُنْتَجٌ"], "ekBilgi": "IV. bab kıyâsî mastarı — KAT' HEMZELİ!", "ornek": "زَادَ الْإِنْتَاجُ الْمَحَلِّيُّ هٰذَا الْعَامَ.", "ornekTr": "Bu yıl yerli üretim arttı.", "kullanimNotu": "Altındaki hemze (إ) mutlaka yazılır!", "tur": "Mezîd Mastar" },
+    { "id": "m29_fc12", "ar": "بَرْمَجَةٌ", "harekesiz": "برمجة", "okunus": "Bermecetun", "tr": "Programlama / yazılım", "kok": "ب-ر-م-ج", "vezin": "فَعْلَلَةٌ", "turevler": ["بَرْمَجَ", "مُبَرْمِجٌ", "بَرْنَامَجٌ"], "ekBilgi": "Rubâî mücerred kıyâsî mastarı", "ornek": "تَعَلَّمَ الشَّابُّ لُغَاتِ الْبَرْمَجَةِ.", "ornekTr": "Genç, programlama dillerini öğrendi.", "kullanimNotu": "تَرْجَمَةٌ ile aynı rubâî mastar kalıbındadır.", "tur": "Rubâî Mastar" },
+    { "id": "m29_fc13", "ar": "مَسْعًى", "harekesiz": "مسعى", "okunus": "Mes‘an", "tr": "Çaba / gayret (= سَعْيٌ)", "kok": "س-ع-ي", "vezin": "مَفْعَلٌ", "turevler": ["سَعَى", "سَعْيٌ", "مَسَاعٍ"], "ekBilgi": "Sülâsî Mimli Mastar (çoğul: مَسَاعٍ)", "ornek": "سَعَيْتُ مَسْعًى كَرِيمًا.", "ornekTr": "Onurlu bir çaba gösterdim.", "kullanimNotu": "Türkçedeki 'mesai' kelimesinin tekilidir!", "tur": "Mimli Mastar" },
+    { "id": "m29_fc14", "ar": "مَطْلَبٌ", "harekesiz": "مطلب", "okunus": "Matlabun", "tr": "Talep / istek (= طَلَبٌ)", "kok": "ط-ل-ب", "vezin": "مَفْعَلٌ", "turevler": ["طَلَبَ", "طَلَبٌ", "مَطَالِبُ"], "ekBilgi": "Sülâsî Mimli Mastar", "ornek": "هٰذَا مَطْلَبٌ عَادِلٌ وَمَشْرُوعٌ.", "ornekTr": "Bu adil ve meşru bir taleptir.", "kullanimNotu": "Çoğulu مَطَالِبُ gelir.", "tur": "Mimli Mastar" },
+    { "id": "m29_fc15", "ar": "مَوْقِفٌ", "harekesiz": "موقف", "okunus": "Mevkıfun", "tr": "Duruş / tavır / tutum (veya durak)", "kok": "و-ق-ف", "vezin": "مَفْعِلٌ", "turevler": ["وَقَفَ", "وُقُوفٌ", "مَوَاقِفُ"], "ekBilgi": "Misâl-i vâvî Mimli Mastar (orta harf kesralı!)", "ornek": "مَوْقِفُكَ الشُّجَاعُ يَسْتَحِقُّ التَّقْدِيرَ.", "ornekTr": "Cesur tavrın takdiri hak ediyor.", "kullanimNotu": "Tavır bildirirse Mimli Mastar, 'otobüs durağı' bildirirse İsm-i Mekândır.", "tur": "Mimli Mastar" },
+    { "id": "m29_fc16", "ar": "مَحَبَّةٌ", "harekesiz": "محبة", "okunus": "Mehabbetun", "tr": "Sevgi / muhabbet (= حُبٌّ)", "kok": "ح-ب-ب", "vezin": "مَفْعَلَةٌ", "turevler": ["أَحَبَّ", "حُبٌّ", "مَحْبُوبٌ"], "ekBilgi": "Sonuna ة eklenmiş sülâsî Mimli Mastar", "ornek": "الْمَحَبَّةُ تَجْمَعُ الْقُلُوبَ.", "ornekTr": "Sevgi kalpleri birleştirir.", "kullanimNotu": "مَوَدَّةٌ / مَرْحَمَةٌ / مَغْفِرَةٌ ile aynı gruptadır.", "tur": "Mimli Mastar" },
+    { "id": "m29_fc17", "ar": "مَغْفِرَةٌ", "harekesiz": "مغفرة", "okunus": "Magfiratun", "tr": "Bağışlama / mağfiret (= غُفْرَانٌ)", "kok": "غ-ف-ر", "vezin": "مَفْعِلَةٌ", "turevler": ["غَفَرَ", "غُفْرَانٌ", "غَفُورٌ"], "ekBilgi": "Sonuna ة eklenmiş Mimli Mastar", "ornek": "نَسْأَلُ اللّٰهَ الْمَغْفِرَةَ وَالرَّحْمَةَ.", "ornekTr": "Allah'tan bağışlanma ve rahmet dileriz.", "kullanimNotu": "Kur'an'da çok sık geçen Mimli Mastarlardandır.", "tur": "Mimli Mastar" },
+    { "id": "m29_fc18", "ar": "مَنْفَعَةٌ", "harekesiz": "منفعة", "okunus": "Menfe‘atun", "tr": "Fayda / yarar / menfaat (= نَفْعٌ)", "kok": "ن-ف-ع", "vezin": "مَفْعَلَةٌ", "turevler": ["نَفَعَ", "نَفْعٌ", "مَنَافِعُ"], "ekBilgi": "Sonuna ة eklenmiş Mimli Mastar", "ornek": "فِي طَلَبِ الْعِلْمِ مَنْفَعَةٌ عَظِيمَةٌ.", "ornekTr": "İlim talebinde büyük bir fayda vardır.", "kullanimNotu": "Çoğulu مَنَافِعُ (menfaatler/faydalar).", "tur": "Mimli Mastar" },
+    { "id": "m29_fc19", "ar": "مُنْطَلَقٌ", "harekesiz": "منطلق", "okunus": "Muntalekun", "tr": "Başlangıç / hareket noktası (= اِنْطِلَاقٌ)", "kok": "ط-ل-ق", "vezin": "مُنْفَعَلٌ", "turevler": ["اِنْطَلَقَ", "اِنْطِلَاقٌ", "مُنْطَلَقَاتٌ"], "ekBilgi": "VII. babdan Mezîd Mimli Mastar (veya İsm-i Mekân)", "ornek": "اِنْطَلَقَ الْمَشْرُوعُ مُنْطَلَقًا قَوِيًّا.", "ornekTr": "Proje güçlü bir başlangıç yaptı.", "kullanimNotu": "Yerine اِنْطِلَاقًا koyabiliyorsan Mimli Mastardır.", "tur": "Mimli Mastar" },
+    { "id": "m29_fc20", "ar": "مَكْسَبٌ", "harekesiz": "مكسب", "okunus": "Meksebun", "tr": "Kazanım / kazanç (= كَسْبٌ)", "kok": "ك-س-ب", "vezin": "مَفْعَلٌ", "turevler": ["كَسَبَ", "كَسْبٌ", "مَكَاسِبُ"], "ekBilgi": "Sülâsî Mimli Mastar", "ornek": "هٰذَا مَكْسَبٌ حَقِيقِيٌّ لِلْمُجْتَمَعِ.", "ornekTr": "Bu toplum için gerçek bir kazanımdır.", "kullanimNotu": "Çoğulu مَكَاسِبُ (kazanımlar).", "tur": "Mimli Mastar" },
+    { "id": "m29_fc21", "ar": "حُرِّيَّةٌ", "harekesiz": "حرية", "okunus": "Hurriyyetun", "tr": "Özgürlük / hürriyet", "kok": "ح-ر-ر", "vezin": "فُعْلِيَّةٌ (ـِيَّة)", "turevler": ["حُرٌّ", "تَحْرِيرٌ", "أَحْرَارٌ"], "ekBilgi": "Sınâî (Yapma) Mastar", "ornek": "الْحُرِّيَّةُ حَقٌّ أَسَاسِيٌّ لِلْإِنْسَانِ.", "ornekTr": "Özgürlük insanın temel hakkıdır.", "kullanimNotu": "Sıfat konumunda olmadığı sürece Sınâî Mastardır.", "tur": "Sınâî Mastar" },
+    { "id": "m29_fc22", "ar": "إِنْسَانِيَّةٌ", "harekesiz": "إنسانية", "okunus": "İnsâniyyetun", "tr": "İnsanlık / insaniyet", "kok": "أ-ن-س", "vezin": "فِعْلَانِيَّةٌ (ـِيَّة)", "turevler": ["إِنْسَانٌ", "إِنْسَانِيٌّ"], "ekBilgi": "Sınâî Mastar (sıfat olursa İsm-i Mensûb!)", "ornek": "تَحْتَاجُ الْإِنْسَانِيَّةُ إِلَى السَّلَامِ.", "ornekTr": "İnsanlık barışa ihtiyaç duyar.", "kullanimNotu": "الْقِيَمُ الْإِنْسَانِيَّةُ'de sıfat olduğu için İsm-i Mensûb'dur.", "tur": "Sınâî Mastar" },
+    { "id": "m29_fc23", "ar": "مَسْؤُولِيَّةٌ", "harekesiz": "مسؤولية", "okunus": "Mes’ûliyyetun", "tr": "Sorumluluk / mesuliyet", "kok": "س-أ-ل", "vezin": "مَفْعُولِيَّةٌ (ـِيَّة)", "turevler": ["سَأَلَ", "مَسْؤُولٌ", "مَسْؤُولِيَّاتٌ"], "ekBilgi": "İsm-i mef'ûlden türetilmiş Sınâî Mastar", "ornek": "تَحَمُّلُ الْمَسْؤُولِيَّةِ دَلِيلُ النُّضْجِ.", "ornekTr": "Sorumluluk üstlenmek olgunluğun göstergesidir.", "kullanimNotu": "YDS/YÖKDİL'de en sık geçen soyut kavramlardandır.", "tur": "Sınâî Mastar" },
+    { "id": "m29_fc24", "ar": "شَفَافِيَّةٌ", "harekesiz": "شفافية", "okunus": "Şefâfiyyetun", "tr": "Şeffaflık / saydamlık", "kok": "ش-ف-ف", "vezin": "فَعَالِيَّةٌ (ـِيَّة)", "turevler": ["شَفَّافٌ", "شَفَّ"], "ekBilgi": "Modern kurumsal Sınâî Mastar", "ornek": "الشَّفَافِيَّةُ تُعَزِّزُ الثِّقَةَ.", "ornekTr": "Şeffaflık güveni güçlendirir.", "kullanimNotu": "Yönetişim, ekonomi ve basın metinlerinin anahtar kelimesidir.", "tur": "Sınâî Mastar" },
+    { "id": "m29_fc25", "ar": "مَوْضُوعِيَّةٌ", "harekesiz": "موضوعية", "okunus": "Mevdû‘iyyetun", "tr": "Nesnellik / objektiflik", "kok": "و-ض-ع", "vezin": "مَفْعُولِيَّةٌ (ـِيَّة)", "turevler": ["مَوْضُوعٌ", "مَوْضُوعِيٌّ"], "ekBilgi": "Akademik Sınâî Mastar", "ornek": "الْمَوْضُوعِيَّةُ شَرْطُ الْبَحْثِ الْعِلْمِيِّ.", "ornekTr": "Nesnellik bilimsel araştırmanın şartıdır.", "kullanimNotu": "Zıddı: ذَاتِيَّةٌ (öznellik).", "tur": "Sınâî Mastar" },
+    { "id": "m29_fc26", "ar": "فَاعِلِيَّةٌ", "harekesiz": "فاعلية", "okunus": "Fâ‘iliyyetun", "tr": "Etkinlik / verimlilik", "kok": "ف-ع-ل", "vezin": "فَاعِلِيَّةٌ (ـِيَّة)", "turevler": ["فَاعِلٌ", "فَعَّالٌ", "فَعَّالِيَّةٌ"], "ekBilgi": "İsm-i fâilden türetilmiş Sınâî Mastar", "ornek": "زَادَتْ فَاعِلِيَّةُ الْبَرْنَامَجِ.", "ornekTr": "Programın etkinliği arttı.", "kullanimNotu": "فَعَالِيَّةٌ ise daha çok 'etkinlik/organizasyon' anlamında kullanılır.", "tur": "Sınâî Mastar" },
+    { "id": "m29_fc27", "ar": "اِسْتِمْرَارِيَّةٌ", "harekesiz": "استمرارية", "okunus": "İstimrâriyyetun", "tr": "Süreklilik / devamlılık", "kok": "م-ر-ر", "vezin": "اِسْتِفْعَالِيَّةٌ (ـِيَّة)", "turevler": ["اِسْتَمَرَّ", "اِسْتِمْرَارٌ", "مُسْتَمِرٌّ"], "ekBilgi": "X. bab mastarından türetilmiş Sınâî Mastar", "ornek": "الِاسْتِمْرَارِيَّةُ سِرُّ النَّجَاحِ.", "ornekTr": "Süreklilik başarının sırrıdır.", "kullanimNotu": "Mastarların üzerine bile ـِيَّة getirilerek Sınâî Mastar yapılabilir!", "tur": "Sınâî Mastar" },
+    { "id": "m29_fc28", "ar": "أَنَانِيَّةٌ", "harekesiz": "أنانية", "okunus": "Enâniyyetun", "tr": "Bencillik / egoizm", "kok": "أ-ن-ا", "vezin": "ـِيَّةٌ", "turevler": ["أَنَا", "أَنَانِيٌّ"], "ekBilgi": "أَنَا zamirinden türetilmiş Sınâî Mastar", "ornek": "الْأَنَانِيَّةُ تُفْسِدُ الصَّدَاقَةَ.", "ornekTr": "Bencillik dostluğu bozar.", "kullanimNotu": "Zıddı: إِيثَارٌ (diğerkâmlık/başkasını tercih etme).", "tur": "Sınâî Mastar" },
+    { "id": "m29_fc29", "ar": "كَيْفِيَّةٌ", "harekesiz": "كيفية", "okunus": "Keyfiyyetun", "tr": "Nitelik / yapılış şekli / keyfiyet", "kok": "ك-ي-ف", "vezin": "ـِيَّةٌ", "turevler": ["كَيْفَ", "كَمِّيَّةٌ"], "ekBilgi": "كَيْفَ soru isminden Sınâî Mastar", "ornek": "الْكَيْفِيَّةُ أَهَمُّ مِنَ الْكَمِّيَّةِ.", "ornekTr": "Nitelik nicelikten daha önemlidir.", "kullanimNotu": "كَمِّيَّةٌ (nicelik) ile ikiz kavramdır.", "tur": "Sınâî Mastar" },
+    { "id": "m29_fc30", "ar": "نَظْرَةٌ", "harekesiz": "نظرة", "okunus": "Nazratun", "tr": "Bir bakış (1 kez)", "kok": "ن-ظ-ر", "vezin": "فَعْلَةٌ", "turevler": ["نَظَرَ", "نَظَرٌ", "نِظْرَةٌ"], "ekBilgi": "Mastar-ı Merre (ilk harf FETHALI!)", "ornek": "نَظَرَ نَظْرَةً سَرِيعَةً إِلَى السَّاعَةِ.", "ornekTr": "Saate hızlı bir bakış attı.", "kullanimNotu": "نَظْرَةٌ (bir bakış) ≠ نِظْرَةٌ (bakış tarzı).", "tur": "Mastar-ı Merre" },
+    { "id": "m29_fc31", "ar": "جَلْسَةٌ", "harekesiz": "جلسة", "okunus": "Celsetun", "tr": "Bir oturuş / oturum / celse", "kok": "ج-ل-س", "vezin": "فَعْلَةٌ", "turevler": ["جَلَسَ", "جُلُوسٌ", "جِلْسَةٌ"], "ekBilgi": "Mastar-ı Merre (fetha)", "ornek": "بَدَأَتْ جَلْسَةُ التَّقْيِيمِ صَبَاحًا.", "ornekTr": "Değerlendirme oturumu sabah başladı.", "kullanimNotu": "جِلْسَةٌ (kesra) = oturuş tarzı / postür.", "tur": "Mastar-ı Merre" },
+    { "id": "m29_fc32", "ar": "جِلْسَةٌ", "harekesiz": "جلسة", "okunus": "Cilsetun", "tr": "Oturuş tarzı / biçimi", "kok": "ج-ل-س", "vezin": "فِعْلَةٌ", "turevler": ["جَلَسَ", "جَلْسَةٌ", "جُلُوسٌ"], "ekBilgi": "Mastar-ı Nevi / Hey'et (ilk harf KESRALI!)", "ornek": "جَلَسَ الطِّفْلُ جِلْسَةً مُعْتَدِلَةً.", "ornekTr": "Çocuk düzgün bir oturuşla oturdu.", "kullanimNotu": "Çoğunlukla sıfat veya muzâfun ileyh ile birlikte gelir.", "tur": "Mastar-ı Nevi" },
+    { "id": "m29_fc33", "ar": "وِقْفَةٌ", "harekesiz": "وقفة", "okunus": "Vıkfetun", "tr": "Duruş biçimi / tarzı", "kok": "و-ق-ف", "vezin": "فِعْلَةٌ", "turevler": ["وَقَفَ", "وَقْفَةٌ", "مَوْقِفٌ"], "ekBilgi": "Mastar-ı Nevi (kesra)", "ornek": "وَقَفَ الْقَائِدُ وِقْفَةَ الشُّجْعَانِ.", "ornekTr": "Komutan cesurların duruşuyla durdu.", "kullanimNotu": "وَقْفَةٌ (fetha) = bir kez duruş (Merre).", "tur": "Mastar-ı Nevi" },
+    { "id": "m29_fc34", "ar": "مِشْيَةٌ", "harekesiz": "مشية", "okunus": "Mişyetun", "tr": "Yürüyüş tarzı / biçimi", "kok": "م-ش-ي", "vezin": "فِعْلَةٌ", "turevler": ["مَشَى", "مَشْيٌ", "مَشْيَةٌ"], "ekBilgi": "Mastar-ı Nevi (kesra)", "ornek": "مَشَى مِشْيَةَ الْوَاثِقِ بِنَفْسِهِ.", "ornekTr": "Kendine güvenen bir yürüyüşle yürüdü.", "kullanimNotu": "فِعْلَة kalıbı eylemin estetik/nitelik tarzını betimler.", "tur": "Mastar-ı Nevi" },
+    { "id": "m29_fc35", "ar": "اِنْطِلَاقَةٌ", "harekesiz": "انطلاقة", "okunus": "İntılâkatun", "tr": "Bir atılım / tek çıkış", "kok": "ط-ل-ق", "vezin": "اِنْفِعَالَةٌ", "turevler": ["اِنْطَلَقَ", "اِنْطِلَاقٌ", "مُنْطَلَقٌ"], "ekBilgi": "VII. babdan Mezîd Mastar-ı Merre", "ornek": "حَقَّقَ الْمَشْرُوعُ انْطِلَاقَةً قَوِيَّةً.", "ornekTr": "Proje güçlü bir atılım gerçekleştirdi.", "kullanimNotu": "Mezîd mastar + ة formülüyle kurulur.", "tur": "Mezîd Merre" },
+    { "id": "m29_fc36", "ar": "اِبْتِسَامَةٌ", "harekesiz": "ابتسامة", "okunus": "İbtisâmetun", "tr": "Bir gülümseyiş / tebessüm", "kok": "ب-س-م", "vezin": "اِفْتِعَالَةٌ", "turevler": ["اِبْتَسَمَ", "اِبْتِسَامٌ", "مُبْتَسِمٌ"], "ekBilgi": "VIII. babdan Mezîd Mastar-ı Merre", "ornek": "اِبْتَسَمَ الطِّفْلُ ابْتِسَامَةً مُشْرِقَةً.", "ornekTr": "Çocuk parlak bir gülümseyişle gülümsedi.", "kullanimNotu": "اِبْتِسَامٌ + ة → اِبْتِسَامَةٌ.", "tur": "Mezîd Merre" }
+  ]
+}
