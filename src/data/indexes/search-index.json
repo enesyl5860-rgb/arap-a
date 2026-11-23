@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-23T08:43:04.930Z",
-  "totalItems": 918,
+  "generatedAt": "2026-11-23T09:11:25.161Z",
+  "totalItems": 1029,
   "items": [
     {
       "id": "search_mod_01",
@@ -8891,6 +8891,1101 @@
       "subtitle": "Gramer Kuralı · M23",
       "ar": "الضَّمَائِرُ الْمُنْفَصِلَةُ الْمَنْصُوبَةُ (إِيَّاكَ / إِيَّاهُ) وَأُسْلُوبُ التَّحْذِيرِ",
       "keywords": "إِيَّا + Zamir = Ayrı Nesne | ① إِيَّاكَ + Fiil (Hasr) | ② Fiil + Zamir + إِيَّاهُ | ③ إِيَّاكَ وَ + İsim / إِيَّاكَ أَنْ + Muzâri (Tahzîr) Modül 04'te merfû ayrı zamirleri (هُوَ، أَنْتَ، أَنَا), Modül 10'da ise fiile bitişen nesne zamirlerini (رَأَيْتُهُ، أَع"
+    },
+    {
+      "id": "search_card_m24_f01",
+      "type": "card",
+      "moduleId": "24",
+      "title": "öğretmek (‘alleme – yu‘allimu)",
+      "subtitle": "SRS Kartı · M24 · Kök: ع-ل-م",
+      "ar": "عَلَّمَ – يُعَلِّمُ",
+      "kok": "ع-ل-م",
+      "keywords": "علم - يعلم فَعَّلَ (II. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f02",
+      "type": "card",
+      "moduleId": "24",
+      "title": "düzenlemek, organize etmek (nazzame – yunazzımu)",
+      "subtitle": "SRS Kartı · M24 · Kök: ن-ظ-م",
+      "ar": "نَظَّمَ – يُنَظِّمُ",
+      "kok": "ن-ظ-م",
+      "keywords": "نظم - ينظم فَعَّلَ (II. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f03",
+      "type": "card",
+      "moduleId": "24",
+      "title": "geliştirmek (tavvara – yutavviru)",
+      "subtitle": "SRS Kartı · M24 · Kök: ط-و-ر",
+      "ar": "طَوَّرَ – يُطَوِّرُ",
+      "kok": "ط-و-ر",
+      "keywords": "طور - يطور فَعَّلَ (II. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f04",
+      "type": "card",
+      "moduleId": "24",
+      "title": "gerçekleştirmek, başarmak, tahkik etmek (hakkaka – yuhakkıku)",
+      "subtitle": "SRS Kartı · M24 · Kök: ح-ق-ق",
+      "ar": "حَقَّقَ – يُحَقِّقُ",
+      "kok": "ح-ق-ق",
+      "keywords": "حقق - يحقق فَعَّلَ (II. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f05",
+      "type": "card",
+      "moduleId": "24",
+      "title": "uygulamak (tabbaka – yutabbıku)",
+      "subtitle": "SRS Kartı · M24 · Kök: ط-ب-ق",
+      "ar": "طَبَّقَ – يُطَبِّقُ",
+      "kok": "ط-ب-ق",
+      "keywords": "طبق - يطبق فَعَّلَ (II. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f06",
+      "type": "card",
+      "moduleId": "24",
+      "title": "yetiştirmek, terbiye etmek (rabbâ – yurabbî)",
+      "subtitle": "SRS Kartı · M24 · Kök: ر-ب-و",
+      "ar": "رَبَّى – يُرَبِّي",
+      "kok": "ر-ب-و",
+      "keywords": "ربى - يربي فَعَّلَ (Nâkıs II. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f07",
+      "type": "card",
+      "moduleId": "24",
+      "title": "tebrik etmek, kutlamak (بِـ) (hennee – yuhenniu)",
+      "subtitle": "SRS Kartı · M24 · Kök: ه-ن-أ",
+      "ar": "هَنَّأَ – يُهَنِّئُ",
+      "kok": "ه-ن-أ",
+      "keywords": "هنأ - يهنئ فَعَّلَ (Mehmûz II. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f08",
+      "type": "card",
+      "moduleId": "24",
+      "title": "sunmak, takdim etmek (kaddeme – yukaddimu)",
+      "subtitle": "SRS Kartı · M24 · Kök: ق-د-م",
+      "ar": "قَدَّمَ – يُقَدِّمُ",
+      "kok": "ق-د-م",
+      "keywords": "قدم - يقدم فَعَّلَ (II. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f09",
+      "type": "card",
+      "moduleId": "24",
+      "title": "hazırlamak, donatmak (cehheze – yucehhizu)",
+      "subtitle": "SRS Kartı · M24 · Kök: ج-ه-ز",
+      "ar": "جَهَّزَ – يُجَهِّزُ",
+      "kok": "ج-ه-ز",
+      "keywords": "جهز - يجهز فَعَّلَ (II. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f10",
+      "type": "card",
+      "moduleId": "24",
+      "title": "yol açmak, sebep olmak, eda etmek (eddâ – yueddî ilâ)",
+      "subtitle": "SRS Kartı · M24 · Kök: أ-د-ي",
+      "ar": "أَدَّى – يُؤَدِّي إِلَى",
+      "kok": "أ-د-ي",
+      "keywords": "أدى - يؤدي إلى فَعَّلَ (II. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f11",
+      "type": "card",
+      "moduleId": "24",
+      "title": "odaklanmak, yoğunlaşmak (rakkeze – yurakkizu ‘alâ)",
+      "subtitle": "SRS Kartı · M24 · Kök: ر-ك-ز",
+      "ar": "رَكَّزَ – يُرَكِّزُ عَلَى",
+      "kok": "ر-ك-ز",
+      "keywords": "ركز - يركز على فَعَّلَ (II. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f12",
+      "type": "card",
+      "moduleId": "24",
+      "title": "ifade etmek, dile getirmek (‘abbera – yu‘abbiru ‘an)",
+      "subtitle": "SRS Kartı · M24 · Kök: ع-ب-ر",
+      "ar": "عَبَّرَ – يُعَبِّرُ عَنْ",
+      "kok": "ع-ب-ر",
+      "keywords": "عبر - يعبر عن فَعَّلَ (II. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f13",
+      "type": "card",
+      "moduleId": "24",
+      "title": "doğrulamak, inanmak, tasdik etmek (saddaka – yusaddıku)",
+      "subtitle": "SRS Kartı · M24 · Kök: ص-د-ق",
+      "ar": "صَدَّقَ – يُصَدِّقُ",
+      "kok": "ص-د-ق",
+      "keywords": "صدق - يصدق فَعَّلَ (II. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f14",
+      "type": "card",
+      "moduleId": "24",
+      "title": "yalanlamak, tekzip etmek (kezzebe – yukezzibu)",
+      "subtitle": "SRS Kartı · M24 · Kök: ك-ذ-ب",
+      "ar": "كَذَّبَ – يُكَذِّبُ",
+      "kok": "ك-ذ-ب",
+      "keywords": "كذب - يكذب فَعَّلَ (II. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f15",
+      "type": "card",
+      "moduleId": "24",
+      "title": "paramparça etmek, çokça kırmak (kessera – yukessiru)",
+      "subtitle": "SRS Kartı · M24 · Kök: ك-س-ر",
+      "ar": "كَسَّرَ – يُكَسِّرُ",
+      "kok": "ك-س-ر",
+      "keywords": "كسر - يكسر فَعَّلَ (Teksîr II. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f16",
+      "type": "card",
+      "moduleId": "24",
+      "title": "kabuğunu soymak (kaşşara – yukaşşiru)",
+      "subtitle": "SRS Kartı · M24 · Kök: ق-ش-ر",
+      "ar": "قَشَّرَ – يُقَشِّرُ",
+      "kok": "ق-ش-ر",
+      "keywords": "قشر - يقشر فَعَّلَ (Selb II. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f17",
+      "type": "card",
+      "moduleId": "24",
+      "title": "yardım etmek (sâ‘ade – yusâ‘idu)",
+      "subtitle": "SRS Kartı · M24 · Kök: س-ع-د",
+      "ar": "سَاعَدَ – يُسَاعِدُ",
+      "kok": "س-ع-د",
+      "keywords": "ساعد - يساعد فَاعَلَ (III. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f18",
+      "type": "card",
+      "moduleId": "24",
+      "title": "katılmak, paylaşmak (şâraka – yuşâriku fî)",
+      "subtitle": "SRS Kartı · M24 · Kök: ش-ر-ك",
+      "ar": "شَارَكَ – يُشَارِكُ فِي",
+      "kok": "ش-ر-ك",
+      "keywords": "شارك - يشارك في فَاعَلَ (III. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f19",
+      "type": "card",
+      "moduleId": "24",
+      "title": "katkıda bulunmak (sâheme – yusâhimu fî)",
+      "subtitle": "SRS Kartı · M24 · Kök: س-ه-م",
+      "ar": "سَاهَمَ – يُسَاهِمُ فِي",
+      "kok": "س-ه-م",
+      "keywords": "ساهم - يساهم في فَاعَلَ (III. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f20",
+      "type": "card",
+      "moduleId": "24",
+      "title": "diyalog kurmak, söyleşi yapmak (hâvara – yuhâviru)",
+      "subtitle": "SRS Kartı · M24 · Kök: ح-و-ر",
+      "ar": "حَاوَرَ – يُحَاوِرُ",
+      "kok": "ح-و-ر",
+      "keywords": "حاور - يحاور فَاعَلَ (III. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f21",
+      "type": "card",
+      "moduleId": "24",
+      "title": "tartışmak, müzakere etmek (nâkaşe – yunâkışu)",
+      "subtitle": "SRS Kartı · M24 · Kök: ن-ق-ش",
+      "ar": "نَاقَشَ – يُنَاقِشُ",
+      "kok": "ن-ق-ش",
+      "keywords": "ناقش - يناقش فَاعَلَ (III. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f22",
+      "type": "card",
+      "moduleId": "24",
+      "title": "görüşmek, karşılaşmak (kâbele – yukâbilu)",
+      "subtitle": "SRS Kartı · M24 · Kök: ق-ب-ل",
+      "ar": "قَابَلَ – يُقَابِلُ",
+      "kok": "ق-ب-ل",
+      "keywords": "قابل - يقابل فَاعَلَ (III. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f23",
+      "type": "card",
+      "moduleId": "24",
+      "title": "izlemek, gözlemlemek (şâhede – yuşâhidu)",
+      "subtitle": "SRS Kartı · M24 · Kök: ش-ه-د",
+      "ar": "شَاهَدَ – يُشَاهِدُ",
+      "kok": "ش-ه-د",
+      "keywords": "شاهد - يشاهد فَاعَلَ (III. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f24",
+      "type": "card",
+      "moduleId": "24",
+      "title": "korumak, muhafaza etmek (hâfaza – yuhâfizu ‘alâ)",
+      "subtitle": "SRS Kartı · M24 · Kök: ح-ف-ظ",
+      "ar": "حَافَظَ – يُحَافِظُ عَلَى",
+      "kok": "ح-ف-ظ",
+      "keywords": "حافظ - يحافظ على فَاعَلَ (III. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f25",
+      "type": "card",
+      "moduleId": "24",
+      "title": "savunmak, müdafaa etmek (dâfe‘a – yudâfi‘u ‘an)",
+      "subtitle": "SRS Kartı · M24 · Kök: د-ف-ع",
+      "ar": "دَافَعَ – يُدَافِعُ عَنْ",
+      "kok": "د-ف-ع",
+      "keywords": "دافع - يدافع عن فَاعَلَ (III. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f26",
+      "type": "card",
+      "moduleId": "24",
+      "title": "onaylamak, kabul etmek (vâfaka – yuvâfıku ‘alâ)",
+      "subtitle": "SRS Kartı · M24 · Kök: و-ف-ق",
+      "ar": "وَافَقَ – يُوَافِقُ عَلَى",
+      "kok": "و-ف-ق",
+      "keywords": "وافق - يوافق على فَاعَلَ (III. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f27",
+      "type": "card",
+      "moduleId": "24",
+      "title": "sıkıntı çekmek, muzdarip olmak (‘ânâ – yu‘ânî min)",
+      "subtitle": "SRS Kartı · M24 · Kök: ع-ن-ي",
+      "ar": "عَانَى – يُعَانِي مِنْ",
+      "kok": "ع-ن-ي",
+      "keywords": "عانى - يعاني من فَاعَلَ (Nâkıs III. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f28",
+      "type": "card",
+      "moduleId": "24",
+      "title": "sürdürmek, devam ettirmek (vâsale – yuvâsılu)",
+      "subtitle": "SRS Kartı · M24 · Kök: و-ص-ل",
+      "ar": "وَاصَلَ – يُوَاصِلُ",
+      "kok": "و-ص-ل",
+      "keywords": "واصل - يواصل فَاعَلَ (III. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f29",
+      "type": "card",
+      "moduleId": "24",
+      "title": "denemek, çabalamak (hâvele – yuhâvilu)",
+      "subtitle": "SRS Kartı · M24 · Kök: ح-و-ل",
+      "ar": "حَاوَلَ – يُحَاوِلُ",
+      "kok": "ح-و-ل",
+      "keywords": "حاول - يحاول فَاعَلَ (III. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f30",
+      "type": "card",
+      "moduleId": "24",
+      "title": "yüzleşmek, karşı karşıya kalmak (vâcehe – yuvâcihu)",
+      "subtitle": "SRS Kartı · M24 · Kök: و-ج-ه",
+      "ar": "وَاجَهَ – يُوَاجِهُ",
+      "kok": "و-ج-ه",
+      "keywords": "واجه - يواجه فَاعَلَ (III. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f31",
+      "type": "card",
+      "moduleId": "24",
+      "title": "tedavi etmek, ele alıp çözmek (‘âlece – yu‘âlicu)",
+      "subtitle": "SRS Kartı · M24 · Kök: ع-ل-ج",
+      "ar": "عَالَجَ – يُعَالِجُ",
+      "kok": "ع-ل-ج",
+      "keywords": "عالج - يعالج فَاعَلَ (III. Bab) fiil"
+    },
+    {
+      "id": "search_card_m24_f32",
+      "type": "card",
+      "moduleId": "24",
+      "title": "uygulamak, yürürlüğe koymak, icra etmek (neffeze – yuneffizu)",
+      "subtitle": "SRS Kartı · M24 · Kök: ن-ف-ذ",
+      "ar": "نَفَّذَ – يُنَفِّذُ",
+      "kok": "ن-ف-ذ",
+      "keywords": "نفذ - ينفذ فَعَّلَ (II. Bab) fiil"
+    },
+    {
+      "id": "search_gram_m24_g1",
+      "type": "grammar",
+      "moduleId": "24",
+      "title": "Mezîd Sistemine Giriş & II. Bab: Tef'îl (فَعَّلَ – يُفَعِّلُ – تَفْعِيلًا)",
+      "subtitle": "Gramer Kuralı · M24",
+      "ar": "مُقَدِّمَةُ الْمَزِيدِ وَبَابُ التَّفْعِيلِ (فَعَّلَ – يُفَعِّلُ – تَفْعِيلًا)",
+      "keywords": "Mâzi: فَعَّلَ | Muzâri: يُفَعِّلُ (Başta يُـ, sondan önce kesra!) | Mastar: تَفْعِيلٌ (Nâkıs/Mehmûz: تَفْعِلَةٌ) Faz 3'e hoş geldin! Şimdi Arapçanın en büyüleyici motoruna geçiyoruz: **Sülâsî Mezîd Fiiller (الْأَفْعَالُ الْمَزِيدَةُ)"
+    },
+    {
+      "id": "search_gram_m24_g2",
+      "type": "grammar",
+      "moduleId": "24",
+      "title": "II. Bab (Tef'îl) 5 Temel Anlam Katmanı",
+      "subtitle": "Gramer Kuralı · M24",
+      "ar": "مَعَانِي بَابِ التَّفْعِيلِ الْخَمْسَةُ",
+      "keywords": "فَعَّلَ = ① Ettirgen (-dir/-t) | ② Yoğunluk (paramparça) | ③ Niteleme (tasdik/tekzip) | ④ İsimden fiil | ⑤ Giderme (kabuk soyma) Şimdi 'Neden sülâsî dururken orta harfi şeddeleyip II. bab yapıyoruz?' sorusunun cevabına gelelim. Arapça zihni bir harf"
+    },
+    {
+      "id": "search_gram_m24_g3",
+      "type": "grammar",
+      "moduleId": "24",
+      "title": "III. Bab: Müfâale (فَاعَلَ – يُفَاعِلُ – مُفَاعَلَةً / فِعَالًا)",
+      "subtitle": "Gramer Kuralı · M24",
+      "ar": "بَابُ الْمُفَاعَلَةِ (فَاعَلَ – يُفَاعِلُ – مُفَاعَلَةً وَفِعَالًا)",
+      "keywords": "Mâzi: فَاعَلَ | Muzâri: يُفَاعِلُ (Başta يُـ, sondan önce kesra!) | Mastar: مُفَاعَلَةً (ve/veya فِعَالًا) Şimdi 4 harfli ikinci büyük aileye geçiyoruz: **III. Bab (Müfâale Babı: فَاعَلَ – يُفَاعِلُ – مُفَاعَلَةً / فِعَالًا)**!"
+    },
+    {
+      "id": "search_gram_m24_g4",
+      "type": "grammar",
+      "moduleId": "24",
+      "title": "II. ve III. Babların Emir, Nehiy ve Meçhul (Edilgen) Çekimleri",
+      "subtitle": "Gramer Kuralı · M24",
+      "ar": "الْأَمْرُ وَالنَّهْيُ وَالْمَبْنِيُّ لِلْمَجْهُولِ فِي بَابَيِ التَّفْعِيلِ وَالْمُفَاعَلَةِ",
+      "keywords": "Emir (Hemzesiz!): فَعِّلْ / فَاعِلْ | Mâzi Meçhul: فُعِّلَ / فُوعِلَ (ا → و!) | Muzâri Meçhul: يُفَعَّلُ / يُفَاعَلُ II. ve III. babların emirlerini türetmek sülâsîden BİLE daha kolaydır! Çünkü muzâraat harfini (يُـ / تُـ) attığında kala"
+    },
+    {
+      "id": "search_gram_m24_g5",
+      "type": "grammar",
+      "moduleId": "24",
+      "title": "YDS Yüksek Frekanslı II. & III. Bab Fiilleri ve Harf-i Cerli Kullanımları",
+      "subtitle": "Gramer Kuralı · M24",
+      "ar": "الْأَفْعَالُ الْأَكْثَرُ شُيُوعًا فِي الِاخْتِبَارَاتِ مَعَ حُرُوفِ الْجَرِّ",
+      "keywords": "Harf-i Cer Eşleşmeleri: أَدَّى إِلَى · رَكَّزَ عَلَى · عَبَّرَ عَنْ · سَاهَمَ فِي · وَافَقَ عَلَى · عَانَى مِنْ YDS ve YÖKDİL Arapça sınavlarında bir paragraftaki fiillerin neredeyse üçte biri II. ve III. babdan gelir — üstelik çoğu"
+    },
+    {
+      "id": "search_card_m25_f01",
+      "type": "card",
+      "moduleId": "25",
+      "title": "göndermek, yollamak (ersele – yursilu)",
+      "subtitle": "SRS Kartı · M25 · Kök: ر-س-ل",
+      "ar": "أَرْسَلَ – يُرْسِلُ",
+      "kok": "ر-س-ل",
+      "keywords": "أرسل - يرسل أَفْعَلَ (IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f02",
+      "type": "card",
+      "moduleId": "25",
+      "title": "ikram etmek, ağırlamak, saygı göstermek (ekrame – yukrimu)",
+      "subtitle": "SRS Kartı · M25 · Kök: ك-ر-م",
+      "ar": "أَكْرَمَ – يُكْرِمُ",
+      "kok": "ك-ر-م",
+      "keywords": "أكرم - يكرم أَفْعَلَ (IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f03",
+      "type": "card",
+      "moduleId": "25",
+      "title": "çıkarmak (lâzım خَرَجَ → müteaddi) (ahrace – yuhricu)",
+      "subtitle": "SRS Kartı · M25 · Kök: خ-ر-ج",
+      "ar": "أَخْرَجَ – يُخْرِجُ",
+      "kok": "خ-ر-ج",
+      "keywords": "أخرج - يخرج أَفْعَلَ (IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f04",
+      "type": "card",
+      "moduleId": "25",
+      "title": "içeri sokmak, (veri) girmek (edhale – yudhilu)",
+      "subtitle": "SRS Kartı · M25 · Kök: د-خ-ل",
+      "ar": "أَدْخَلَ – يُدْخِلُ",
+      "kok": "د-خ-ل",
+      "keywords": "أدخل - يدخل أَفْعَلَ (IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f05",
+      "type": "card",
+      "moduleId": "25",
+      "title": "oturtmak (eclese – yuclisu)",
+      "subtitle": "SRS Kartı · M25 · Kök: ج-ل-س",
+      "ar": "أَجْلَسَ – يُجْلِسُ",
+      "kok": "ج-ل-س",
+      "keywords": "أجلس - يجلس أَفْعَلَ (IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f06",
+      "type": "card",
+      "moduleId": "25",
+      "title": "giydirmek (2 nesneli) (elbese – yulbisu)",
+      "subtitle": "SRS Kartı · M25 · Kök: ل-ب-س",
+      "ar": "أَلْبَسَ – يُلْبِسُ",
+      "kok": "ل-ب-س",
+      "keywords": "ألبس - يلبس أَفْعَلَ (IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f07",
+      "type": "card",
+      "moduleId": "25",
+      "title": "yedirmek, beslemek (2 nesneli) (et‘ame – yut‘imu)",
+      "subtitle": "SRS Kartı · M25 · Kök: ط-ع-م",
+      "ar": "أَطْعَمَ – يُطْعِمُ",
+      "kok": "ط-ع-م",
+      "keywords": "أطعم - يطعم أَفْعَلَ (IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f08",
+      "type": "card",
+      "moduleId": "25",
+      "title": "iyilik etmek, güzel yapmak (ahsene – yuhsinu ilâ)",
+      "subtitle": "SRS Kartı · M25 · Kök: ح-س-ن",
+      "ar": "أَحْسَنَ – يُحْسِنُ إِلَى",
+      "kok": "ح-س-ن",
+      "keywords": "أحسن - يحسن إلى أَفْعَلَ (IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f09",
+      "type": "card",
+      "moduleId": "25",
+      "title": "kapatmak (aglaka – yugliku)",
+      "subtitle": "SRS Kartı · M25 · Kök: غ-ل-ق",
+      "ar": "أَغْلَقَ – يُغْلِقُ",
+      "kok": "غ-ل-ق",
+      "keywords": "أغلق - يغلق أَفْعَلَ (IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f10",
+      "type": "card",
+      "moduleId": "25",
+      "title": "yakmak, tutuşturmak, ışığı açmak (eş‘ale – yuş‘ilu)",
+      "subtitle": "SRS Kartı · M25 · Kök: ش-ع-ل",
+      "ar": "أَشْعَلَ – يُشْعِلُ",
+      "kok": "ش-ع-ل",
+      "keywords": "أشعل - يشعل أَفْعَلَ (IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f11",
+      "type": "card",
+      "moduleId": "25",
+      "title": "söndürmek (ateş/ışık) (atfee – yutfiu)",
+      "subtitle": "SRS Kartı · M25 · Kök: ط-ف-أ",
+      "ar": "أَطْفَأَ – يُطْفِئُ",
+      "kok": "ط-ف-أ",
+      "keywords": "أطفأ - يطفئ أَفْعَلَ (Mehmûz IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f12",
+      "type": "card",
+      "moduleId": "25",
+      "title": "kurmak, düzenlemek, ikamet etmek (ekâme – yukîmu)",
+      "subtitle": "SRS Kartı · M25 · Kök: ق-و-م",
+      "ar": "أَقَامَ – يُقِيمُ",
+      "kok": "ق-و-م",
+      "keywords": "أقام - يقيم أَفْعَلَ (Ecvef IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f13",
+      "type": "card",
+      "moduleId": "25",
+      "title": "işaret etmek, belirtmek (eşâra – yuşîru ilâ)",
+      "subtitle": "SRS Kartı · M25 · Kök: ش-ي-ر",
+      "ar": "أَشَارَ – يُشِيرُ إِلَى",
+      "kok": "ش-ي-ر",
+      "keywords": "أشار - يشير إلى أَفْعَلَ (Ecvef IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f14",
+      "type": "card",
+      "moduleId": "25",
+      "title": "yönetmek, idare etmek, döndürmek (edâra – yudîru)",
+      "subtitle": "SRS Kartı · M25 · Kök: د-و-ر",
+      "ar": "أَدَارَ – يُدِيرُ",
+      "kok": "د-و-ر",
+      "keywords": "أدار - يدير أَفْعَلَ (Ecvef IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f15",
+      "type": "card",
+      "moduleId": "25",
+      "title": "cevaplamak, yanıt vermek (ecâbe – yucîbu ‘an)",
+      "subtitle": "SRS Kartı · M25 · Kök: ج-و-ب",
+      "ar": "أَجَابَ – يُجِيبُ عَنْ",
+      "kok": "ج-و-ب",
+      "keywords": "أجاب - يجيب عن أَفْعَلَ (Ecvef IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f16",
+      "type": "card",
+      "moduleId": "25",
+      "title": "iade etmek, tekrarlamak (e‘âde – yu‘îdu)",
+      "subtitle": "SRS Kartı · M25 · Kök: ع-و-د",
+      "ar": "أَعَادَ – يُعِيدُ",
+      "kok": "ع-و-د",
+      "keywords": "أعاد - يعيد أَفْعَلَ (Ecvef IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f17",
+      "type": "card",
+      "moduleId": "25",
+      "title": "eklemek, ilave etmek (edâfe – yudîfu)",
+      "subtitle": "SRS Kartı · M25 · Kök: ض-ي-ف",
+      "ar": "أَضَافَ – يُضِيفُ",
+      "kok": "ض-ي-ف",
+      "keywords": "أضاف - يضيف أَفْعَلَ (Ecvef IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f18",
+      "type": "card",
+      "moduleId": "25",
+      "title": "vermek (2 nesneli) (a‘tâ – yu‘tî)",
+      "subtitle": "SRS Kartı · M25 · Kök: ع-ط-و",
+      "ar": "أَعْطَى – يُعْطِي",
+      "kok": "ع-ط-و",
+      "keywords": "أعطى - يعطي أَفْعَلَ (Nâkıs IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f19",
+      "type": "card",
+      "moduleId": "25",
+      "title": "yürütmek, yapmak (deney/çalışma/ameliyat) (ecrâ – yucrî)",
+      "subtitle": "SRS Kartı · M25 · Kök: ج-ر-ي",
+      "ar": "أَجْرَى – يُجْرِي",
+      "kok": "ج-ر-ي",
+      "keywords": "أجرى - يجري أَفْعَلَ (Nâkıs IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f20",
+      "type": "card",
+      "moduleId": "25",
+      "title": "ilan etmek, açıklamak, duyurmak (a‘lene – yu‘linu ‘an)",
+      "subtitle": "SRS Kartı · M25 · Kök: ع-ل-ن",
+      "ar": "أَعْلَنَ – يُعْلِنُ عَنْ",
+      "kok": "ع-ل-ن",
+      "keywords": "أعلن - يعلن عن أَفْعَلَ (IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f21",
+      "type": "card",
+      "moduleId": "25",
+      "title": "yayımlamak, çıkarmak (karar/kitap/dergi) (esdara – yusdiru)",
+      "subtitle": "SRS Kartı · M25 · Kök: ص-د-ر",
+      "ar": "أَصْدَرَ – يُصْدِرُ",
+      "kok": "ص-د-ر",
+      "keywords": "أصدر - يصدر أَفْعَلَ (IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f22",
+      "type": "card",
+      "moduleId": "25",
+      "title": "ispatlamak, kanıtlamak (esbete – yusbitu)",
+      "subtitle": "SRS Kartı · M25 · Kök: ث-ب-ت",
+      "ar": "أَثْبَتَ – يُثْبِتُ",
+      "kok": "ث-ب-ت",
+      "keywords": "أثبت - يثبت أَفْعَلَ (IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f23",
+      "type": "card",
+      "moduleId": "25",
+      "title": "kavramak, farkına varmak, yetişmek (edrake – yudriku)",
+      "subtitle": "SRS Kartı · M25 · Kök: د-ر-ك",
+      "ar": "أَدْرَكَ – يُدْرِكُ",
+      "kok": "د-ر-ك",
+      "keywords": "أدرك - يدرك أَفْعَلَ (IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f24",
+      "type": "card",
+      "moduleId": "25",
+      "title": "kurmak, inşa etmek, oluşturmak (enşee – yunşiu)",
+      "subtitle": "SRS Kartı · M25 · Kök: ن-ش-أ",
+      "ar": "أَنْشَأَ – يُنْشِئُ",
+      "kok": "ن-ش-أ",
+      "keywords": "أنشأ - ينشئ أَفْعَلَ (Mehmûz IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f25",
+      "type": "card",
+      "moduleId": "25",
+      "title": "üretmek, ortaya çıkarmak (entece – yunticu)",
+      "subtitle": "SRS Kartı · M25 · Kök: ن-ت-ج",
+      "ar": "أَنْتَجَ – يُنْتِجُ",
+      "kok": "ن-ت-ج",
+      "keywords": "أنتج - ينتج أَفْعَلَ (IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f26",
+      "type": "card",
+      "moduleId": "25",
+      "title": "katkıda bulunmak (esheme – yushimu fî)",
+      "subtitle": "SRS Kartı · M25 · Kök: س-ه-م",
+      "ar": "أَسْهَمَ – يُسْهِمُ فِي",
+      "kok": "س-ه-م",
+      "keywords": "أسهم - يسهم في أَفْعَلَ (IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f27",
+      "type": "card",
+      "moduleId": "25",
+      "title": "açıklamak, netleştirmek (evdaha – yûdihu)",
+      "subtitle": "SRS Kartı · M25 · Kök: و-ض-ح",
+      "ar": "أَوْضَحَ – يُوضِحُ",
+      "kok": "و-ض-ح",
+      "keywords": "أوضح - يوضح أَفْعَلَ (Misâl IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f28",
+      "type": "card",
+      "moduleId": "25",
+      "title": "bildirmek, haber vermek (a‘leme – yu‘limu)",
+      "subtitle": "SRS Kartı · M25 · Kök: ع-ل-م",
+      "ar": "أَعْلَمَ – يُعْلِمُ",
+      "kok": "ع-ل-م",
+      "keywords": "أعلم - يعلم أَفْعَلَ (IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f29",
+      "type": "card",
+      "moduleId": "25",
+      "title": "meyve vermek, sonuç doğurmak (esmera – yusmiru)",
+      "subtitle": "SRS Kartı · M25 · Kök: ث-م-ر",
+      "ar": "أَثْمَرَ – يُثْمِرُ",
+      "kok": "ث-م-ر",
+      "keywords": "أثمر - يثمر أَفْعَلَ (Sayrûret IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f30",
+      "type": "card",
+      "moduleId": "25",
+      "title": "girişmek, cüret etmek, adım atmak (ekdeme – yukdimu ‘alâ)",
+      "subtitle": "SRS Kartı · M25 · Kök: ق-د-م",
+      "ar": "أَقْدَمَ – يُقْدِمُ عَلَى",
+      "kok": "ق-د-م",
+      "keywords": "أقدم - يقدم على أَفْعَلَ (IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f31",
+      "type": "card",
+      "moduleId": "25",
+      "title": "sağlam yapmak, ustalaşmak (etkane – yutkınu)",
+      "subtitle": "SRS Kartı · M25 · Kök: ت-ق-ن",
+      "ar": "أَتْقَنَ – يُتْقِنُ",
+      "kok": "ت-ق-ن",
+      "keywords": "أتقن - يتقن أَفْعَلَ (IV. Bab) fiil"
+    },
+    {
+      "id": "search_card_m25_f32",
+      "type": "card",
+      "moduleId": "25",
+      "title": "hazırlamak (e‘adde – yu‘iddu)",
+      "subtitle": "SRS Kartı · M25 · Kök: ع-د-د",
+      "ar": "أَعَدَّ – يُعِدُّ",
+      "kok": "ع-د-د",
+      "keywords": "أعد - يعد أَفْعَلَ (Muzaaf IV. Bab) fiil"
+    },
+    {
+      "id": "search_gram_m25_g1",
+      "type": "grammar",
+      "moduleId": "25",
+      "title": "IV. Bab: İf'âl (أَفْعَلَ – يُفْعِلُ – إِفْعَالًا) ve Kıyâsî Mastar Sistemi",
+      "subtitle": "Gramer Kuralı · M25",
+      "ar": "بَابُ الْإِفْعَالِ (أَفْعَلَ – يُفْعِلُ – إِفْعَالًا) وَأَوْزَانُ مَصْدَرِهِ",
+      "keywords": "Mâzi: أَفْعَلَ | Muzâri: يُفْعِلُ (Hemze düşer, başta يُـ!) | Mastar: إِفْعَالٌ (Ecvef: إِفَالَةٌ / Nâkıs: إِفْعَاءٌ) Dört harfli (rubâî) mezîd ailesinin üçüncü ve en güçlü üyesindeyiz: **IV. Bab (İf'âl Babı: أَفْعَلَ – يُفْعِلُ – إِفْعَا"
+    },
+    {
+      "id": "search_gram_m25_g2",
+      "type": "grammar",
+      "moduleId": "25",
+      "title": "IV. Babın Büyük İmzası: KAT' HEMZESİ (أَ / إِ) ve Emr-i Hâzır",
+      "subtitle": "Gramer Kuralı · M25",
+      "ar": "هَمْزَةُ الْقَطْعِ فِي بَابِ الْإِفْعَالِ وَصِيَاغَةُ الْأَمْرِ",
+      "keywords": "Mâzi: أَفْعَلَ (Kat' أَ) | Emir: أَفْعِلْ (Kat' أَ — FETHALI TEK EMİR!) | Mastar: إِفْعَالًا (Kat' إِ) Modül 02 ve 17'de Vasıl Hemzesi ile Kat' Hemzesini öğrenmiştin; şimdi tüm Arapça imlasının en meşhur altın kuralına geli"
+    },
+    {
+      "id": "search_gram_m25_g3",
+      "type": "grammar",
+      "moduleId": "25",
+      "title": "Lâzım (Geçişsiz) → Müteaddi (Geçişli) Dönüşüm Mekanizması",
+      "subtitle": "Gramer Kuralı · M25",
+      "ar": "التَّعْدِيَةُ وَاللُّزُومُ (تَحْوِيلُ اللَّازِمِ إِلَى مُتَعَدٍّ)",
+      "keywords": "Lâzım (0 nesne) + أَ (IV. bab) → 1 Nesne | 1 Nesneli + أَ → 2 Nesne! | Eşdeğer: Lâzım + بِـ Arapça gramerini derinlemesine anlamanın en önemli anahtarlarından biri **Lâzım (اللاَّزِمُ = geçişsiz)** ve **Müteaddi "
+    },
+    {
+      "id": "search_gram_m25_g4",
+      "type": "grammar",
+      "moduleId": "25",
+      "title": "II. Bab (Tef'îl) vs. IV. Bab (İf'âl) İnce Anlam Farkları & Özel Anlamlar",
+      "subtitle": "Gramer Kuralı · M25",
+      "ar": "الْفَرْقُ الدَّقِيقُ بَيْنَ بَابِ التَّفْعِيلِ وَبَابِ الْإِفْعَالِ",
+      "keywords": "II. Bab (فَعَّلَ) = Aşamalı / Süreç / Yoğun | IV. Bab (أَفْعَلَ) = Tek Seferde / Anlık / Oluş (أَثْمَرَ) Hem II. bab (`فَعَّلَ`) hem IV. bab (`أَفْعَلَ`) lâzım fiilleri geçişli yaptığına göre akla çok zeki bir soru gelir: **'"
+    },
+    {
+      "id": "search_gram_m25_g5",
+      "type": "grammar",
+      "moduleId": "25",
+      "title": "IV. Bab Meçhul Çatısı (أُفْعِلَ / يُفْعَلُ) & YDS Yüksek Frekanslı Fiilleri",
+      "subtitle": "Gramer Kuralı · M25",
+      "ar": "الْمَبْنِيُّ لِلْمَجْهُولِ فِي الْإِفْعَالِ وَأَفْعَالُ الِاخْتِبَارَاتِ الْأَكَادِيمِيَّةِ",
+      "keywords": "Mâzi Meçhul: أُفْعِلَ (Ecvef: أُفِيلَ — أُقِيمَ، أُشِيرَ!) | Muzâri Meçhul: يُفْعَلُ (Ecvef: يُفَالُ — يُقَامُ، يُشَارُ!) IV. babın meçhul (edilgen) çatısı basın ve YDS metinlerinde o kadar sık çıkar ki onu 1 bakışta tanımalısın! (1) **Sâlim "
+    },
+    {
+      "id": "search_card_m26_f01",
+      "type": "card",
+      "moduleId": "26",
+      "title": "öğrenmek (te‘alleme – yete‘allemu)",
+      "subtitle": "SRS Kartı · M26 · Kök: ع-ل-م",
+      "ar": "تَعَلَّمَ – يَتَعَلَّمُ",
+      "kok": "ع-ل-م",
+      "keywords": "تعلم - يتعلم تَفَعَّلَ (V. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f02",
+      "type": "card",
+      "moduleId": "26",
+      "title": "konuşmak (tekelleme – yetekellemu)",
+      "subtitle": "SRS Kartı · M26 · Kök: ك-ل-م",
+      "ar": "تَكَلَّمَ – يَتَكَلَّمُ",
+      "kok": "ك-ل-م",
+      "keywords": "تكلم - يتكلم تَفَعَّلَ (V. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f03",
+      "type": "card",
+      "moduleId": "26",
+      "title": "ilerlemek, öne geçmek, başvurmak (لِـ) (tekaddeme – yetekaddemu)",
+      "subtitle": "SRS Kartı · M26 · Kök: ق-د-م",
+      "ar": "تَقَدَّمَ – يَتَقَدَّمُ",
+      "kok": "ق-د-م",
+      "keywords": "تقدم - يتقدم تَفَعَّلَ (V. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f04",
+      "type": "card",
+      "moduleId": "26",
+      "title": "gelişmek (tatavvara – yetatavvaru)",
+      "subtitle": "SRS Kartı · M26 · Kök: ط-و-ر",
+      "ar": "تَطَوَّرَ – يَتَطَوَّرُ",
+      "kok": "ط-و-ر",
+      "keywords": "تطور - يتطور تَفَعَّلَ (V. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f05",
+      "type": "card",
+      "moduleId": "26",
+      "title": "iyileşmek, düzelmek (tehassane – yetehassenu)",
+      "subtitle": "SRS Kartı · M26 · Kök: ح-س-ن",
+      "ar": "تَحَسَّنَ – يَتَحَسَّنُ",
+      "kok": "ح-س-ن",
+      "keywords": "تحسن - يتحسن تَفَعَّلَ (V. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f06",
+      "type": "card",
+      "moduleId": "26",
+      "title": "değişmek (tegayyera – yetegayyeru)",
+      "subtitle": "SRS Kartı · M26 · Kök: غ-ي-ر",
+      "ar": "تَغَيَّرَ – يَتَغَيَّرُ",
+      "kok": "غ-ي-ر",
+      "keywords": "تغير - يتغير تَفَعَّلَ (V. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f07",
+      "type": "card",
+      "moduleId": "26",
+      "title": "antrenman yapmak, pratik yapmak, staj görmek (tederrabe – yetederrabu)",
+      "subtitle": "SRS Kartı · M26 · Kök: د-ر-ب",
+      "ar": "تَدَرَّبَ – يَتَدَرَّبُ",
+      "kok": "د-ر-ب",
+      "keywords": "تدرب - يتدرب تَفَعَّلَ (V. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f08",
+      "type": "card",
+      "moduleId": "26",
+      "title": "mezun olmak (فِي / مِنْ) (teharrace – yeteharracu)",
+      "subtitle": "SRS Kartı · M26 · Kök: خ-ر-ج",
+      "ar": "تَخَرَّجَ – يَتَخَرَّجُ",
+      "kok": "خ-ر-ج",
+      "keywords": "تخرج - يتخرج تَفَعَّلَ (V. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f09",
+      "type": "card",
+      "moduleId": "26",
+      "title": "maruz kalmak, uğramak (te‘arrada – yete‘arradu li-)",
+      "subtitle": "SRS Kartı · M26 · Kök: ع-ر-ض",
+      "ar": "تَعَرَّضَ – يَتَعَرَّضُ لِـ",
+      "kok": "ع-ر-ض",
+      "keywords": "تعرض - يتعرض لـ تَفَعَّلَ (V. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f10",
+      "type": "card",
+      "moduleId": "26",
+      "title": "-ebilmek, muktedir olmak, başarmak (temekkene – yetemekkenu min)",
+      "subtitle": "SRS Kartı · M26 · Kök: م-ك-ن",
+      "ar": "تَمَكَّنَ – يَتَمَكَّنُ مِنْ",
+      "kok": "م-ك-ن",
+      "keywords": "تمكن - يتمكن من تَفَعَّلَ (V. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f11",
+      "type": "card",
+      "moduleId": "26",
+      "title": "عَنْ: bırakmak, durmak | عَلَى: -e bağlı olmak (tevakkafe – yetevakkafu)",
+      "subtitle": "SRS Kartı · M26 · Kök: و-ق-ف",
+      "ar": "تَوَقَّفَ – يَتَوَقَّفُ (عَنْ / عَلَى)",
+      "kok": "و-ق-ف",
+      "keywords": "توقف - يتوقف تَفَعَّلَ (V. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f12",
+      "type": "card",
+      "moduleId": "26",
+      "title": "-den oluşmak, meydana gelmek (tekevvene – yetekevvenu min)",
+      "subtitle": "SRS Kartı · M26 · Kök: ك-و-ن",
+      "ar": "تَكَوَّنَ – يَتَكَوَّنُ مِنْ",
+      "kok": "ك-و-ن",
+      "keywords": "تكون - يتكون من تَفَعَّلَ (V. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f13",
+      "type": "card",
+      "moduleId": "26",
+      "title": "-den emin olmak, doğrulamak (teekkede – yeteekkedu min)",
+      "subtitle": "SRS Kartı · M26 · Kök: أ-ك-د",
+      "ar": "تَأَكَّدَ – يَتَأَكَّدُ مِنْ",
+      "kok": "أ-ك-د",
+      "keywords": "تأكد - يتأكد من تَفَعَّلَ (V. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f14",
+      "type": "card",
+      "moduleId": "26",
+      "title": "-ile ilgili olmak, bağlanmak (te‘allaka – yete‘allaku bi-)",
+      "subtitle": "SRS Kartı · M26 · Kök: ع-ل-ق",
+      "ar": "تَعَلَّقَ – يَتَعَلَّقُ بِـ",
+      "kok": "ع-ل-ق",
+      "keywords": "تعلق - يتعلق بـ تَفَعَّلَ (V. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f15",
+      "type": "card",
+      "moduleId": "26",
+      "title": "beklemek, öngörmek, tahmin etmek (tevakka‘a – yetevakka‘u)",
+      "subtitle": "SRS Kartı · M26 · Kök: و-ق-ع",
+      "ar": "تَوَقَّعَ – يَتَوَقَّعُ",
+      "kok": "و-ق-ع",
+      "keywords": "توقع - يتوقع تَفَعَّلَ (V. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f16",
+      "type": "card",
+      "moduleId": "26",
+      "title": "gerektirmek, icap ettirmek (tetallabe – yetetallabu)",
+      "subtitle": "SRS Kartı · M26 · Kök: ط-ل-ب",
+      "ar": "تَطَلَّبَ – يَتَطَلَّبُ",
+      "kok": "ط-ل-ب",
+      "keywords": "تطلب - يتطلب تَفَعَّلَ (V. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f17",
+      "type": "card",
+      "moduleId": "26",
+      "title": "dilemek, temenni etmek (temennâ – yetemennâ)",
+      "subtitle": "SRS Kartı · M26 · Kök: م-ن-ي",
+      "ar": "تَمَنَّى – يَتَمَنَّى",
+      "kok": "م-ن-ي",
+      "keywords": "تمنى - يتمنى تَفَعَّلَ (Nâkıs V. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f18",
+      "type": "card",
+      "moduleId": "26",
+      "title": "meydan okumak, göğüs germek (tehaddâ – yetehaddâ)",
+      "subtitle": "SRS Kartı · M26 · Kök: ح-د-ي",
+      "ar": "تَحَدَّى – يَتَحَدَّى",
+      "kok": "ح-د-ي",
+      "keywords": "تحدى - يتحدى تَفَعَّلَ (Nâkıs V. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f19",
+      "type": "card",
+      "moduleId": "26",
+      "title": "cesaretlenmek, cesaretini toplamak (teşecca‘a – yeteşecca‘u)",
+      "subtitle": "SRS Kartı · M26 · Kök: ش-ج-ع",
+      "ar": "تَشَجَّعَ – يَتَشَجَّعُ",
+      "kok": "ش-ج-ع",
+      "keywords": "تشجع - يتشجع تَفَعَّلَ (Tekellüf V. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f20",
+      "type": "card",
+      "moduleId": "26",
+      "title": "dişini sıkıp sabretmek, sabır göstermeye çalışmak (tesabbara – yetesabbaru)",
+      "subtitle": "SRS Kartı · M26 · Kök: ص-ب-ر",
+      "ar": "تَصَبَّرَ – يَتَصَبَّرُ",
+      "kok": "ص-ب-ر",
+      "keywords": "تصبر - يتصبر تَفَعَّلَ (Tekellüf V. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f21",
+      "type": "card",
+      "moduleId": "26",
+      "title": "yardımlaşmak, iş birliği yapmak (te‘âvene – yete‘âvenu)",
+      "subtitle": "SRS Kartı · M26 · Kök: ع-و-ن",
+      "ar": "تَعَاوَنَ – يَتَعَاوَنُ",
+      "kok": "ع-و-ن",
+      "keywords": "تعاون - يتعاون تَفَاعَلَ (VI. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f22",
+      "type": "card",
+      "moduleId": "26",
+      "title": "karşılıklı değiş tokuş etmek, paylaşmak (tebâdele – yetebâdelu)",
+      "subtitle": "SRS Kartı · M26 · Kök: ب-د-ل",
+      "ar": "تَبَادَلَ – يَتَبَادَلُ",
+      "kok": "ب-د-ل",
+      "keywords": "تبادل - يتبادل تَفَاعَلَ (VI. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f23",
+      "type": "card",
+      "moduleId": "26",
+      "title": "tokalaşmak, musafaha etmek (tesâfaha – yetesâfahu)",
+      "subtitle": "SRS Kartı · M26 · Kök: ص-ف-ح",
+      "ar": "تَصَافَحَ – يَتَصَافَحُ",
+      "kok": "ص-ف-ح",
+      "keywords": "تصافح - يتصافح تَفَاعَلَ (VI. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f24",
+      "type": "card",
+      "moduleId": "26",
+      "title": "tanışmak (karşılıklı) (te‘ârafe – yete‘ârafu)",
+      "subtitle": "SRS Kartı · M26 · Kök: ع-ر-ف",
+      "ar": "تَعَارَفَ – يَتَعَارَفُ",
+      "kok": "ع-ر-ف",
+      "keywords": "تعارف - يتعارف تَفَاعَلَ (VI. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f25",
+      "type": "card",
+      "moduleId": "26",
+      "title": "hasta numarası yapmak, hasta gibi görünmek (temârada – yetemâradu)",
+      "subtitle": "SRS Kartı · M26 · Kök: م-ر-ض",
+      "ar": "تَمَارَضَ – يَتَمَارَضُ",
+      "kok": "م-ر-ض",
+      "keywords": "تمارض - يتمارض تَفَاعَلَ (Tezâhur VI. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f26",
+      "type": "card",
+      "moduleId": "26",
+      "title": "bilmezden gelmek, görmezden gelmek (tecâhele – yetecâhelu)",
+      "subtitle": "SRS Kartı · M26 · Kök: ج-ه-ل",
+      "ar": "تَجَاهَلَ – يَتَجَاهَلُ",
+      "kok": "ج-ه-ل",
+      "keywords": "تجاهل - يتجاهل تَفَاعَلَ (Tezâhur VI. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f27",
+      "type": "card",
+      "moduleId": "26",
+      "title": "giderek artmak, çoğalmak (tezâyede – yetezâyedu)",
+      "subtitle": "SRS Kartı · M26 · Kök: ز-ي-د",
+      "ar": "تَزَايَدَ – يَتَزَايَدُ",
+      "kok": "ز-ي-د",
+      "keywords": "تزايد - يتزايد تَفَاعَلَ (Tedrîc VI. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f28",
+      "type": "card",
+      "moduleId": "26",
+      "title": "-ile ilgilenmek, muamele etmek, başa çıkmak (te‘âmele – yete‘âmelu me‘a)",
+      "subtitle": "SRS Kartı · M26 · Kök: ع-م-ل",
+      "ar": "تَعَامَلَ – يَتَعَامَلُ مَعَ",
+      "kok": "ع-م-ل",
+      "keywords": "تعامل - يتعامل مع تَفَاعَلَ (VI. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f29",
+      "type": "card",
+      "moduleId": "26",
+      "title": "ele almak (konu), yemek/içmek (gıda/ilaç) (tenâvele – yetenâvelu)",
+      "subtitle": "SRS Kartı · M26 · Kök: ن-و-ل",
+      "ar": "تَنَاوَلَ – يَتَنَاوَلُ",
+      "kok": "ن-و-ل",
+      "keywords": "تناول - يتناول تَفَاعَلَ (VI. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f30",
+      "type": "card",
+      "moduleId": "26",
+      "title": "aşmak, geçmek, üstesinden gelmek (tecâveze – yetecâvezu)",
+      "subtitle": "SRS Kartı · M26 · Kök: ج-و-ز",
+      "ar": "تَجَاوَزَ – يَتَجَاوَزُ",
+      "kok": "ج-و-ز",
+      "keywords": "تجاوز - يتجاوز تَفَاعَلَ (VI. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f31",
+      "type": "card",
+      "moduleId": "26",
+      "title": "iyimser olmak, hayra yormak (tefâele – yetefâelu)",
+      "subtitle": "SRS Kartı · M26 · Kök: ف-أ-ل",
+      "ar": "تَفَاءَلَ – يَتَفَاءَلُ",
+      "kok": "ف-أ-ل",
+      "keywords": "تفاءل - يتفاءل تَفَاعَلَ (VI. Bab) fiil"
+    },
+    {
+      "id": "search_card_m26_f32",
+      "type": "card",
+      "moduleId": "26",
+      "title": "iletişim kurmak, sürekli temas hâlinde olmak (tevâsale – yetevâsalu me‘a)",
+      "subtitle": "SRS Kartı · M26 · Kök: و-ص-ل",
+      "ar": "تَوَاصَلَ – يَتَوَاصَلُ مَعَ",
+      "kok": "و-ص-ل",
+      "keywords": "تواصل - يتواصل مع تَفَاعَلَ (VI. Bab) fiil"
+    },
+    {
+      "id": "search_gram_m26_g1",
+      "type": "grammar",
+      "moduleId": "26",
+      "title": "V. Bab: Tefe'ul (تَفَعَّلَ – يَتَفَعَّلُ – تَفَعُّلًا) ve Fethalı Muzâri Yasası",
+      "subtitle": "Gramer Kuralı · M26",
+      "ar": "بَابُ التَّفَعُّلِ (تَفَعَّلَ – يَتَفَعَّلُ – تَفَعُّلًا)",
+      "keywords": "Mâzi: تَفَعَّلَ | Muzâri: يَتَفَعَّلُ (Başta يَـ, sondan önce FETHA!) | Mastar: تَفَعُّلًا (Nâkıs: تَفَعِّيًا) Şimdi 5 harfli (humâsî) mezîd fiiller dünyasına adım atıyoruz! **V. Bab (Tefe'ul: تَفَعَّلَ – يَتَفَعَّلُ – تَفَعُّلًا)*"
+    },
+    {
+      "id": "search_gram_m26_g2",
+      "type": "grammar",
+      "moduleId": "26",
+      "title": "II. Bab → V. Bab Dönüşümü (Mutâvaat / Dönüşlülük) ve 4 Anlam Katmanı",
+      "subtitle": "Gramer Kuralı · M26",
+      "ar": "الْمُطَاوَعَةُ بَيْنَ التَّفْعِيلِ وَالتَّفَعُّلِ وَمَعَانِي بَابِ التَّفَعُّلِ",
+      "keywords": "II. Bab (Etki: فَعَّلَ) → V. Bab (Tepki / Dönüşlü: تَفَعَّلَ) | Tekellüf (تَصَبَّرَ) | Tedrîc (تَجَرَّعَ) Arapçada II. bab (`فَعَّلَ`) ile V. bab (`تَفَعَّلَ`) tıpkı **ETKİ ve TEPKİ** ikizleridir! II. babda bir özne dışarıdan "
+    },
+    {
+      "id": "search_gram_m26_g3",
+      "type": "grammar",
+      "moduleId": "26",
+      "title": "VI. Bab: Tefâul (تَفَاعَلَ – يَتَفَاعَلُ – تَفَاعُلًا) — Karşılıklılık & 'Gibi Görünme'",
+      "subtitle": "Gramer Kuralı · M26",
+      "ar": "بَابُ التَّفَاعُلِ (تَفَاعَلَ – يَتَفَاعَلُ – تَفَاعُلًا)",
+      "keywords": "Mâzi: تَفَاعَلَ | Muzâri: يَتَفَاعَلُ (Fethalı!) | Mastar: تَفَاعُلًا (Nâkıs: تَفَاعِيًا) Şimdi III. babın (`فَاعَلَ`) başına bir `تَـ` koyuyoruz ve 5 harfli çok zarif bir bab doğuyor: **VI. Bab (Tefâul: تَفَاع"
+    },
+    {
+      "id": "search_gram_m26_g4",
+      "type": "grammar",
+      "moduleId": "26",
+      "title": "V. ve VI. Babların Emir, Meçhul Çatısı ve 'تَتَـ' Kısalma Kuralı",
+      "subtitle": "Gramer Kuralı · M26",
+      "ar": "الْأَمْرُ وَالْمَجْهُولُ فِي التَّفَعُّلِ وَالتَّفَاعُلِ وَحَذْفُ إِحْدَى التَّاءَيْنِ",
+      "keywords": "Emir (Hemzesiz!): تَفَعَّلْ / تَفَاعَلْ | Mâzi Meçhul: تُفُعِّلَ / تُفُوعِلَ | Muzâri Meçhul: يُتَفَعَّلُ / يُتَفَاعَلُ V. ve VI. babların **Emir**lerini türetmek en kolay kısımdır; çünkü muzâraat harfini (`تَـ`) attığında kalan ilk harf (b"
+    },
+    {
+      "id": "search_gram_m26_g5",
+      "type": "grammar",
+      "moduleId": "26",
+      "title": "YDS & Akademik Arapça Şampiyonu V. & VI. Bab Harf-i Cerli Fiilleri",
+      "subtitle": "Gramer Kuralı · M26",
+      "ar": "أَشْهَرُ أَفْعَالِ التَّفَعُّلِ وَالتَّفَاعُلِ فِي الِاخْتِبَارَاتِ مَعَ حُرُوفِ الْجَرِّ",
+      "keywords": "تَعَرَّضَ لِـ · تَمَكَّنَ مِنْ · تَكَوَّنَ مِنْ · تَوَقَّفَ عَنْ (bırakmak) ≠ عَلَى (-e bağlı olmak) · تَعَامَلَ مَعَ · تَنَاوَلَ YDS ve YÖKDİL Arapçada en yüksek puan getiren hazinelerden biri de **V. ve VI. bab harf-i cerli fiilleridir**! Bu fiille"
     },
     {
       "id": "search_verb_0",

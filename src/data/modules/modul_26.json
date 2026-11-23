@@ -1,0 +1,1129 @@
+{
+  "id": "26",
+  "slug": "modul_26",
+  "phaseId": 3,
+  "cilt": 3,
+  "cefr": "B1",
+  "title": "Mezîd Fiiller III: V. Bab (Tefe'ul) & VI. Bab (Tefâul)",
+  "arabicTitle": "بَابُ التَّفَعُّلِ وَبَابُ التَّفَاعُلِ",
+  "category": "İleri Sarf",
+  "summary": "تَفَعَّلَ (dönüşlülük/tedricilik) ve تَفَاعَلَ (karşılıklılık/gibi görünme) babları, II→V ve III→VI dönüşüm çiftleri, fethalı muzâri, mastar/emir/meçhul kalıpları ve YDS yüksek frekanslı fiiller.",
+  "grammar": [
+    {
+      "id": "m26_g1",
+      "baslik": "V. Bab: Tefe'ul (تَفَعَّلَ – يَتَفَعَّلُ – تَفَعُّلًا) ve Fethalı Muzâri Yasası",
+      "arBaslik": "بَابُ التَّفَعُّلِ (تَفَعَّلَ – يَتَفَعَّلُ – تَفَعُّلًا)",
+      "mantik": "Şimdi 5 harfli (humâsî) mezîd fiiller dünyasına adım atıyoruz! **V. Bab (Tefe'ul: تَفَعَّلَ – يَتَفَعَّلُ – تَفَعُّلًا)**, II. babın (`فَعَّلَ`) başına tek bir fethalı `تَـ` eklenerek doğar: `عَلَّمَ` (öğretti) → `تَعَلَّمَ` (öğrendi)! Burada iki altın kural seni hemen şaşırtıp mutlu edecek: (1) Mâzisi 4 harfli değil **5 harfli** olduğu için muzâraat harfi artık dammeli (`يُـ`) DEĞİL, **FETHALIDIR (`يَـ`)**! (2) Üstelik V. ve VI. bablar, Arapçada etken muzârisinin sondan bir önceki harfi KESRA değil **FETHA** kalan TEK mezîd bab çiftidir: `يَتَعَلَّمُ` (asla `يُتَعَلِّمُ` değil!), `يَتَقَدَّمُ`, `يَتَكَلَّمُ`! Mastarını kurmak ise çocuk oyuncağıdır: mâzi `تَفَعَّلَ` kelimesindeki sondan bir önceki harfin fethasını **DAMME** yap, bitti! `تَعَلَّمَ → تَعَلُّمًا`, `تَقَدَّمَ → تَقَدُّمًا`, `تَطَوَّرَ → تَطَوُّرًا`! Sadece sonu illetli (nâkıs) fiillerde yâ'ya uyum için sondan önce **kesra** gelir: `تَمَنَّى → تَمَنِّيًا` (temenni), `تَحَدَّى → تَحَدِّيًا` (meydan okuma — çoğul `تَحَدِّيَاتٌ`)!",
+      "formul": "Mâzi: تَفَعَّلَ | Muzâri: يَتَفَعَّلُ (Başta يَـ, sondan önce FETHA!) | Mastar: تَفَعُّلًا (Nâkıs: تَفَعِّيًا)",
+      "formulAr": "تَعَلَّمَ – يَتَعَلَّمُ – تَعَلُّمًا  |  تَقَدَّمَ – يَتَقَدَّمُ – تَقَدُّمًا  |  تَحَدَّى – يَتَحَدَّى – تَحَدِّيًا",
+      "tablo": {
+        "baslik": "V. Bab (Tefe'ul) Sâlim ve Nâkıs Çekim Tablosu",
+        "sutunlar": ["Kök", "Mâzi (تَفَعَّلَ)", "Muzâri (يَتَفَعَّلُ)", "Mastar (تَفَعُّلًا)", "Türkçe Karşılık"],
+        "satirlar": [
+          { "hucreler": ["ع-ل-م", "تَعَلَّمَ", "يَتَعَلَّمُ", "تَعَلُّمًا", "öğrenmek (teallüm)"], "ar": "تَعَلَّمَ يَتَعَلَّمُ تَعَلُّمًا" },
+          { "hucreler": ["ك-ل-م", "تَكَلَّمَ", "يَتَكَلَّمُ", "تَكَلُّمًا", "konuşmak (tekellüm)"], "ar": "تَكَلَّمَ يَتَكَلَّمُ تَكَلُّمًا" },
+          { "hucreler": ["ق-د-م", "تَقَدَّمَ", "يَتَقَدَّمُ", "تَقَدُّمًا", "ilerlemek, başvurmak"], "ar": "تَقَدَّمَ يَتَقَدَّمُ تَقَدُّمًا" },
+          { "hucreler": ["ط-و-ر", "تَطَوَّرَ", "يَتَطَوَّرُ", "تَطَوُّرًا", "gelişmek (kendi kendine)"], "ar": "تَطَوَّرَ يَتَطَوَّرُ تَطَوُّرًا" },
+          { "hucreler": ["ت-م-ن-ي (Nâkıs)", "تَمَنَّى", "يَتَمَنَّى", "تَمَنِّيًا (اَلتَّمَنِّي)", "dilemek, temenni etmek"], "ar": "تَمَنَّى يَتَمَنَّى تَمَنِّيًا" },
+          { "hucreler": ["ح-د-ي (Nâkıs)", "تَحَدَّى", "يَتَحَدَّى", "تَحَدِّيًا (تَحَدِّيَاتٌ)", "meydan okumak (zorluk)"], "ar": "تَحَدَّى يَتَحَدَّى تَحَدِّيًا" }
+        ]
+      },
+      "trKiyas": "Türkçedeki `te-/ta-` ile başlayıp içinde `u/ü` bulunan onlarca zarif kelime (teşekkür, tefekkür, tebessüm, tevekkül, teessüf, tereddüt, teneffüs, tahammül, taaccüp, temenni, teselli) Arapça V. babın (`تَفَعُّلٌ / تَفَعٍّ`) mastarlarıdır! `تَشَكُّرٌ` gördüğünde fiili hemen çıkar: `تَشَكَّرَ – يَتَشَكَّرُ`!",
+      "sikHatalar": [
+        "V. bab muzârisini 4 harfliler gibi dammeli ve kesralı okumak (✗ يُتَعَلِّمُ — ✓ يَتَعَلَّمُ; hem başı hem sondan öncesi FETHALIDIR!).",
+        "V. bab mastarını II. bab mastarıyla karıştırmak (تَطْوِيرٌ = geliştirmek [II. bab], تَطَوُّرٌ = gelişmek [V. bab]!).",
+        "Nâkıs V. bab mastarını dammeli okumak (✗ تَمَنُّيًا — ✓ تَمَنِّيًا / اَلتَّمَنِّي; nâkıs V. bab mastarında sondan önce kesra gelir!)."
+      ],
+      "ornekler": [
+        { "ar": "يَتَعَلَّمُ الطُّلَّابُ اللُّغَةَ الْعَرَبِيَّةَ بِشَغَفٍ وَيَتَكَلَّمُونَ بِهَا بِثِقَةٍ.", "okunus": "Yete‘allemu't-tullâbu'l-lugate'l-‘arabiyyete bi-şegafin ve yetekellemûne bihâ bi-sikatin.", "tr": "Öğrenciler Arapçayı tutkuyla öğreniyor ve onu özgüvenle konuşuyorlar.", "not": "تَعَلَّمَ & تَكَلَّمَ (fethalı muzâri!)" },
+        { "ar": "تَتَطَوَّرُ التِّقْنِيَّةُ تَطَوُّرًا سَرِيعًا فِي الْقَرْنِ الْحَادِي وَالْعِشْرِينَ.", "okunus": "Tetatavvaru't-tıkniyyetu tatavvuran serî‘an fi'l-karni'l-hâdî ve'l-‘işrîne.", "tr": "Teknoloji yirmi birinci yüzyılda hızlı bir gelişmeyle gelişiyor.", "not": "تَطَوَّرَ + mastarı تَطَوُّرًا (II. bab تَطْوِير ile kıyasla!)" },
+        { "ar": "تَقَدَّمَ الْعِلْمُ تَقَدُّمًا هَائِلًا بِفَضْلِ تَفَكُّرِ الْعُلَمَاءِ وَصَبْرِهِمْ.", "okunus": "Tekaddeme'l-‘ilmu tekaddumen hâilen bi-fadli tefekkuri'l-‘ulemâi ve sabrihim.", "tr": "Bilim, âlimlerin tefekkürü ve sabrı sayesinde muazzam bir ilerleme kaydetti.", "not": "تَقَدَّمَ → تَقَدُّمًا & تَفَكُّر" },
+        { "ar": "تَبَسَّمَ الْمُعَلِّمُ تَبَسُّمًا لَطِيفًا عِنْدَمَا أَجَابَ الطِّفْلُ إِجَابَةً صَحِيحَةً.", "okunus": "Tebesseme'l-mu‘allimu tebessumen latîfen ‘indemâ ecâbe't-tıflu icâbeten sahîhaten.", "tr": "Çocuk doğru cevap verdiğinde öğretmen zarif bir tebessümle gülümsedi.", "not": "تَبَسَّمَ – يَتَبَسَّمُ – تَبَسُّمًا" },
+        { "ar": "أَتَمَنَّى لَكَ نَجَاحًا بَاهِرًا وَمُسْتَقْبَلًا مُشْرِقًا!", "okunus": "Etemennâ leke necâhan bâhiran ve mustekbelen muşrikan!", "tr": "Sana parlak bir başarı ve aydınlık bir gelecek diliyorum!", "not": "تَمَنَّى (nâkıs V. bab, mastar تَمَنٍّ)" },
+        { "ar": "يُوَاجِهُ الْعَالَمُ تَحَدِّيَاتٍ بِيئِيَّةً كَبِيرَةً تَتَطَلَّبُ تَفْكِيرًا جَمَاعِيًّا.", "okunus": "Yuvâcihu'l-‘âlemu tehaddiyâtin bîiyyetin kebîratin tetatallebu tefkîran cemâ‘iyyen.", "tr": "Dünya, kolektif düşünmeyi gerektiren büyük çevresel meydan okumalarla karşı karşıya.", "not": "تَحَدِّيَات (تَحَدَّى nâkıs mastar çoğulu) & تَتَطَلَّبُ" }
+      ],
+      "tatbikler": [
+        {
+          "id": "m26_t1",
+          "tip": "bosluk",
+          "soru": "'تَقَدَّمَ' (ilerledi) fiilinin muzâri (هُوَ) ve mastarı hangisinde doğru verilmiştir?",
+          "secenekler": ["يَتَقَدَّمُ – تَقَدُّمًا", "يُتَقَدِّمُ – تَقْدِيمًا", "يَتَقَدِّمُ – تَقَدُّمًا", "يُتَقَدَّمُ – تَقَادُمًا"],
+          "dogruIndeks": 0,
+          "aciklama": "V. bab muzârisi hem başta hem sondan önce fethalıdır (يَتَقَدَّمُ), mastarı تَفَعُّلًا (تَقَدُّمًا)."
+        },
+        {
+          "id": "m26_t2",
+          "tip": "bosluk",
+          "soru": "'تَحَدَّى' (meydan okudu) nâkıs V. bab fiilinin kıyâsî mastarı (el-takılı) hangisidir?",
+          "secenekler": ["التَّحَدِّي", "التَّحَدُّو", "التَّحْدِيَةُ", "الْمُحَادَاةُ"],
+          "dogruIndeks": 0,
+          "aciklama": "Nâkıs V. bab mastarında sondan bir önceki harf yâ'ya uyum için kesralanır: التَّحَدِّي (nekre: تَحَدٍّ)."
+        },
+        {
+          "id": "m26_t3",
+          "tip": "hata",
+          "soru": "'يُتَكَلِّمُ الضَّيْفُ ثَلَاثَ لُغَاتٍ بِطَلَاقَةٍ.' cümlesindeki muzâri hareke hatası nasıl düzeltilir?",
+          "secenekler": ["يَتَكَلَّمُ الضَّيْفُ ثَلَاثَ لُغَاتٍ بِطَلَاقَةٍ.", "يُتَكَلَّمُ الضَّيْفُ ثَلَاثَ لُغَاتٍ بِطَلَاقَةٍ.", "يَتَكَلِّمُ الضَّيْفُ ثَلَاثَ لُغَاتٍ بِطَلَاقَةٍ.", "يَكَلِّمُ الضَّيْفُ ثَلَاثَ لُغَاتٍ بِطَلَاقَةٍ."],
+          "dogruIndeks": 0,
+          "aciklama": "V. bab 5 harfli olduğu için etken muzârisi يَتَكَلَّمُ (fetha + fetha!) şeklinde okunur."
+        },
+        {
+          "id": "m26_t4",
+          "tip": "bosluk",
+          "soru": "'تَطْوِيرٌ' ile 'تَطَوُّرٌ' arasındaki bab ve anlam farkı nedir?",
+          "secenekler": ["تَطْوِيرٌ = geliştirmek (II. bab, geçişli); تَطَوُّرٌ = gelişmek/gelişim (V. bab, dönüşlü)", "تَطْوِيرٌ = gelişmek; تَطَوُّرٌ = geliştirmek", "Her ikisi de V. babtır", "Her ikisi de II. babtır"],
+          "dogruIndeks": 0,
+          "aciklama": "طَوَّرَ → تَطْوِيرٌ (II. bab: dışarıdan geliştirmek); تَطَوَّرَ → تَطَوُّرٌ (V. bab: kendi gelişmek)."
+        },
+        {
+          "id": "m26_t5",
+          "tip": "bosluk",
+          "soru": "'تَفَكُّرٌ' (derin düşünme) ve 'تَوَكُّلٌ' (tevekkül) kelimelerinin V. bab mâzi fiilleri hangileridir?",
+          "secenekler": ["تَفَكَّرَ – تَوَكَّلَ", "فَكَّرَ – وَكَّلَ", "أَفْكَرَ – أَوْكَلَ", "تَفَاكَرَ – تَوَاكَلَ"],
+          "dogruIndeks": 0,
+          "aciklama": "تَفَعُّلٌ mastarının sondan bir önceki dammesini fethaya çevirirsen mâzi V. bab fiili bulursun: تَفَكَّرَ / تَوَكَّلَ."
+        },
+        {
+          "id": "m26_t6",
+          "tip": "tr_ar",
+          "soru": "'İklim son yıllarda hızlı bir şekilde değişiyor (تَغَيَّرَ)' cümlesinin doğru Arapçası hangisidir?",
+          "secenekler": ["يَتَغَيَّرُ الْمُنَاخُ بِشَكْلٍ سَرِيعٍ فِي السَّنَوَاتِ الْأَخِيرَةِ.", "يُتَغَيِّرُ الْمُنَاخُ بِشَكْلٍ سَرِيعٍ.", "يُغَيِّرُ الْمُنَاخُ بِشَكْلٍ سَرِيعٍ.", "تَغَيَّرَ الْمُنَاخُ سَيَتَغَيَّرُ."],
+          "dogruIndeks": 0,
+          "aciklama": "تَغَيَّرَ (kendi değişmek) → V. bab muzâri يَتَغَيَّرُ."
+        },
+        {
+          "id": "m26_t7",
+          "tip": "bosluk",
+          "soru": "'تَخَرَّجَ الطَّالِبُ فِي الْجَامِعَةِ.' cümlesindeki 'تَخَرَّجَ' fiilinin mastarı ve anlamı nedir?",
+          "secenekler": ["تَخَرُّجٌ — mezun olmak", "تَخْرِيجٌ — mezun etmek", "خُرُوجٌ — çıkmak", "إِخْرَاجٌ — çıkarmak"],
+          "dogruIndeks": 0,
+          "aciklama": "تَخَرَّجَ – يَتَخَرَّجُ – تَخَرُّجًا = mezun olmak (V. bab)."
+        },
+        {
+          "id": "m26_t8",
+          "tip": "donusturme",
+          "soru": "'أَنَا أَتَعَلَّمُ اللُّغَةَ الْعَرَبِيَّةَ' cümlesini 'Onlar (هُمْ) öğreniyorlar' biçimine çevir:",
+          "secenekler": ["هُمْ يَتَعَلَّمُونَ اللُّغَةَ الْعَرَبِيَّةَ.", "هُمْ يُتَعَلِّمُونَ اللُّغَةَ الْعَرَبِيَّةَ.", "هُمْ يَتَعَلِّمُونَ اللُّغَةَ الْعَرَبِيَّةَ.", "هُمْ يَتَعَالَمُونَ اللُّغَةَ الْعَرَبِيَّةَ."],
+          "dogruIndeks": 0,
+          "aciklama": "V. bab çoğul etken muzâri: يَتَعَلَّمُونَ."
+        },
+        {
+          "id": "m26_t9",
+          "tip": "bosluk",
+          "soru": "'تَطَلَّبَ الْمَشْرُوعُ وَقْتًا طَوِيلًا.' (Proje uzun bir zaman gerektirdi) fiilinin muzârisi hangisidir?",
+          "secenekler": ["يَتَطَلَّبُ", "يُتَطَلِّبُ", "يَتَطَلِّبُ", "يَطْلُبُ"],
+          "dogruIndeks": 0,
+          "aciklama": "تَطَلَّبَ – يَتَطَلَّبُ – تَطَلُّبًا = gerektirmek (YDS'de çok sık geçer!)."
+        },
+        {
+          "id": "m26_t10",
+          "tip": "bosluk",
+          "soru": "Mezîd bablar arasında etken muzârisinin sondan bir önceki harfi FETHALI kalan bab çifti hangisidir?",
+          "secenekler": ["V. Bab (يَتَفَعَّلُ) ve VI. Bab (يَتَفَاعَلُ)", "II. Bab ve III. Bab", "IV. Bab ve X. Bab", "VII. Bab ve VIII. Bab"],
+          "dogruIndeks": 0,
+          "aciklama": "Yalnızca başında fazla تَـ bulunan V. (يَتَفَعَّلُ) ve VI. (يَتَفَاعَلُ) bablarda sondan önceki harf fethalı kalır!"
+        }
+      ]
+    },
+    {
+      "id": "m26_g2",
+      "baslik": "II. Bab → V. Bab Dönüşümü (Mutâvaat / Dönüşlülük) ve 4 Anlam Katmanı",
+      "arBaslik": "الْمُطَاوَعَةُ بَيْنَ التَّفْعِيلِ وَالتَّفَعُّلِ وَمَعَانِي بَابِ التَّفَعُّلِ",
+      "mantik": "Arapçada II. bab (`فَعَّلَ`) ile V. bab (`تَفَعَّلَ`) tıpkı **ETKİ ve TEPKİ** ikizleridir! II. babda bir özne dışarıdan bir etki uygular, V. babda ise o etkiyi alan şey kendi üzerinde o değişimi gerçekleştirir — sarf ilminde buna **Mutâvaat (الْمُطَاوَعَةُ = dönüşlülük / etkiyi kabul etme)** denir! Hemen ikiz çiftlere bak, dilin matematiğine hayran kalacaksın: `عَلَّمْتُهُ فَتَعَلَّمَ` (Ona öğrettim, o da öğrendi!), `غَيَّرْتُهُ فَتَغَيَّرَ` (Onu değiştirdim, o da değişti!), `حَسَّنْتُهُ فَتَحَسَّنَ` (Onu iyileştirdim, o da iyileşti!), `طَوَّرْتُهُ فَتَطَوَّرَ` (Onu geliştirdim, o da gelişti!), `كَسَّرْتُهُ فَتَكَسَّرَ` (Onu parçaladım, o da parçalandı!), `دَرَّبْتُهُ فَتَدَرَّبَ` (Onu eğittim, o da antrenman yaptı/eğitildi!). V. babın Mutâvaat dışında 3 canlı anlamı daha vardır: (2) **Tekellüf (Çaba sarf ederek bir niteliği kazanma):** `تَصَبَّرَ` (dişini sıkıp sabretti), `تَشَجَّعَ` (cesaretini topladı). (3) **Tedrîc (Adım adım, sindire sindire yapma):** `تَفَهَّمَ` (iyice/sindire sindire anladı), `تَجَرَّعَ` (yudum yudum içti). (4) **Bir şeye yönelme / edinme:** `تَزَوَّجَ` (evlendi), `تَوَجَّهَ إِلَى` (yöneldi)!",
+      "formul": "II. Bab (Etki: فَعَّلَ) → V. Bab (Tepki / Dönüşlü: تَفَعَّلَ) | Tekellüf (تَصَبَّرَ) | Tedrîc (تَجَرَّعَ)",
+      "formulAr": "عَلَّمَ ← تَعَلَّمَ  |  حَسَّنَ ← تَحَسَّنَ  |  طَوَّرَ ← تَطَوَّرَ  |  غَيَّرَ ← تَغَيَّرَ  |  دَرَّبَ ← تَدَرَّبَ",
+      "tablo": {
+        "baslik": "II. Bab (Etki) → V. Bab (Dönüşlü Tepki) İkiz Çiftler Matrisi",
+        "sutunlar": ["II. Bab (Dış Etki: -dir)", "V. Bab (Dönüşlü: -in / kendi)", "Anlam İkilisi", "Canlı Örnek"],
+        "satirlar": [
+          { "hucreler": ["عَلَّمَ (öğretti)", "تَعَلَّمَ (öğrendi)", "öğretmek ↔ öğrenmek", "عَلَّمْتُهُ فَتَعَلَّمَ."], "ar": "عَلَّمْتُهُ فَتَعَلَّمَ" },
+          { "hucreler": ["حَسَّنَ (iyileştirdi)", "تَحَسَّنَ (iyileşti)", "iyileştirmek ↔ iyileşmek", "تَحَسَّنَتْ صِحَّةُ الْمَرِيضِ."], "ar": "حَسَّنَ — تَحَسَّنَتْ صِحَّةُ الْمَرِيضِ" },
+          { "hucreler": ["غَيَّرَ (değiştirdi)", "تَغَيَّرَ (değişti)", "değiştirmek ↔ değişmek", "تَغَيَّرَ الطَّقْسُ فَجْأَةً."], "ar": "غَيَّرَ — تَغَيَّرَ الطَّقْسُ" },
+          { "hucreler": ["طَوَّرَ (geliştirdi)", "تَطَوَّرَ (gelişti)", "geliştirmek ↔ gelişmek", "تَطَوَّرَتِ الصِّنَاعَةُ كَثِيرًا."], "ar": "طَوَّرَ — تَطَوَّرَتِ الصِّنَاعَةُ" },
+          { "hucreler": ["دَرَّبَ (eğitti/çalıştırdı)", "تَدَرَّبَ (alıştırma yaptı)", "çalıştırmak ↔ çalışmak", "تَدَرَّبَ اللَّاعِبُونَ جَيِّدًا."], "ar": "دَرَّبَ — تَدَرَّبَ اللَّاعِبُونَ" },
+          { "hucreler": ["كَسَّرَ (parçaladı)", "تَكَسَّرَ (parçalandı)", "parçalamak ↔ parçalanmak", "تَكَسَّرَ الزُّجَاجُ عَلَى الْأَرْضِ."], "ar": "كَسَّرَ — تَكَسَّرَ الزُّجَاجُ" }
+        ]
+      },
+      "trKiyas": "Türkçedeki `-l / -n` dönüşlülük ekleri (geliş-tir-mek → geliş-mek, iyileş-tir-mek → iyileş-mek, değiş-tir-mek → değiş-mek, parça-la-mak → parça-lan-mak, eğit-mek → eğitil-mek) Arapçada tek hamlede **II. babın başına `تَـ` koyarak** üretilir! Bir II. bab fiili bildiğinde, başına `تَـ` ekleyerek anında ikinci bir fiili bedavadan kazanırsın!",
+      "sikHatalar": [
+        "Kendi kendine iyileşme/değişme için II. bab kullanmak (✗ حَسَّنَ الْجَوُّ الْيَوْمَ — ✓ تَحَسَّنَ الْجَوُّ الْيَوْمَ!; çünkü حَسَّنَ geçişlidir, nesne ister!).",
+        "تَدَرَّبَ (kendi antrenman yaptı) ile دَرَّبَ (başkasını çalıştırdı) fiillerini karıştırmak.",
+        "تَجَرَّعَ (yudum yudum içti) ve تَصَبَّرَ (zorlanarak sabretti) gibi tedric/tekellüf anlamlı fiilleri düz sülâsî gibi yüzeysel çevirmek."
+      ],
+      "ornekler": [
+        { "ar": "حَسَّنَ الْفَرِيقُ أَدَاءَهُ فَتَحَسَّنَتِ النَّتَائِجُ بِشَكْلٍ مَلْحُوظٍ.", "okunus": "Hassene'l-ferîku edâehu fe-tehassaneti'n-netâicu bi-şeklin melhûzın.", "tr": "Ekip performansını iyileştirdi, sonuçlar da belirgin biçimde iyileşti.", "not": "II → V: حَسَّنَ (iyileştirdi) → تَحَسَّنَ (iyileşti)" },
+        { "ar": "دَرَّبَ الْمُدَرِّبُ اللَّاعِبِينَ، فَتَدَرَّبُوا كُلَّ يَوْمٍ ثَلَاثَ سَاعَاتٍ.", "okunus": "Derrabe'l-muderribu'l-lâ‘ibîne, fe-tederrabû kulle yevmin selâse sâ‘âtin.", "tr": "Antrenör oyuncuları çalıştırdı, onlar da her gün üç saat antrenman yaptı.", "not": "II → V: دَرَّبَ → تَدَرَّبَ" },
+        { "ar": "تَصَبَّرَ الْمَرِيضُ عَلَى الْأَلَمِ وَتَشَجَّعَ قَبْلَ الْعَمَلِيَّةِ.", "okunus": "Tesabbara'l-merîdu ‘ale'l-elemi ve teşecca‘a kable'l-‘ameliyyeti.", "tr": "Hasta acıya dişini sıkıp sabretti ve ameliyattan önce cesaretini topladı.", "not": "Tekellüf (çabayla kazanma): تَصَبَّرَ & تَشَجَّعَ" },
+        { "ar": "تَفَهَّمَ الْمُدِيرُ ظُرُوفَ الْمُوَظَّفِ وَوَافَقَ عَلَى إِجَازَتِهِ.", "okunus": "Tefehheme'l-mudîru zurûfe'l-muvazzafi ve vâfaka ‘alâ icâzetihi.", "tr": "Müdür çalışanın koşullarını anlayışla kavradı ve iznini onayladı.", "not": "Tedrîc / derinlemesine anlama: تَفَهَّمَ" },
+        { "ar": "تَوَجَّهَ الْمُسَافِرُونَ إِلَى الْمَطَارِ قَبْلَ مَوْعِدِ الرِّحْلَةِ بِسَاعَتَيْنِ.", "okunus": "Teveccehe'l-musâfirûne ile'l-matâri kable mev‘idi'r-rihleti bi-sâ‘ateyni.", "tr": "Yolcular uçuş saatinden iki saat önce havaalanına yöneldiler.", "not": "وَجَّهَ (yönlendirdi) → تَوَجَّهَ إِلَى (yöneldi)" },
+        { "ar": "تَجَمَّعَ النَّاسُ فِي السَّاحَةِ الْكُبْرَى لِمُشَاهَدَةِ الِاحْتِفَالِ.", "okunus": "Tecemme‘a'n-nâsu fi's-sâhati'l-kubrâ li-muşâhedeti'l-ihtifâli.", "tr": "İnsanlar kutlamayı izlemek için büyük meydanda toplandılar.", "not": "جَمَّعَ (topladı) → تَجَمَّعَ (toplandı)" }
+      ],
+      "tatbikler": [
+        {
+          "id": "m26_t11",
+          "tip": "bosluk",
+          "soru": "'عَلَّمْتُ الطَّالِبَ فَـ.....' (Öğrenciye öğrettim, o da öğrendi) — mutâvaat (dönüşlülük) boşluğuna ne gelir?",
+          "secenekler": ["تَعَلَّمَ", "عَلَّمَ", "أَعْلَمَ", "عَالَمَ"],
+          "dogruIndeks": 0,
+          "aciklama": "II. babın dönüşlü (mutâvaat) karşılığı V. babdır: عَلَّمَ → تَعَلَّمَ."
+        },
+        {
+          "id": "m26_t12",
+          "tip": "bosluk",
+          "soru": "'..... صِحَّةُ الْمَرِيضِ بَعْدَ تَنَاوُلِ الدَّوَاءِ.' (İlacı aldıktan sonra hastanın sağlığı iyileşti) boşluğuna ne gelir?",
+          "secenekler": ["تَحَسَّنَتْ", "حَسَّنَتْ", "أَحْسَنَتْ", "تَحَاسَنَتْ"],
+          "dogruIndeks": 0,
+          "aciklama": "Kendi kendine iyileşmek (dönüşlü) = V. bab تَحَسَّنَ (صِحَّةُ müennes → تَحَسَّنَتْ)."
+        },
+        {
+          "id": "m26_t13",
+          "tip": "bosluk",
+          "soru": "'تَشَجَّعَ' (cesaretini topladı) ve 'تَصَبَّرَ' (zorlanarak sabretti) fiilleri V. babın hangi anlam katmanına örnektir?",
+          "secenekler": ["Tekellüf (çaba ve gayretle bir niteliği kazanma)", "İşteşlik (karşılıklılık)", "Giderme (selb)", "Renk bildirme"],
+          "dogruIndeks": 0,
+          "aciklama": "Tekellüf: kişide henüz doğal olarak bulunmayan bir özelliği çabalayarak göstermesi/kazanması."
+        },
+        {
+          "id": "m26_t14",
+          "tip": "bosluk",
+          "soru": "'وَجَّهَ الْمُرْشِدُ السُّيَّاحَ' (Rehber turistleri yönlendirdi) fiilinin 'Turistler müzeye yöneldi' şeklinde V. bab dönüşlüsü hangisidir?",
+          "secenekler": ["تَوَجَّهَ السُّيَّاحُ إِلَى الْمَتْحَفِ.", "وَجَّهَ السُّيَّاحُ إِلَى الْمَتْحَفِ.", "أَوْجَهَ السُّيَّاحُ إِلَى الْمَتْحَفِ.", "تَوَاجَهَ السُّيَّاحُ إِلَى الْمَتْحَفِ."],
+          "dogruIndeks": 0,
+          "aciklama": "وَجَّهَ (yönlendirdi) → V. bab تَوَجَّهَ إِلَى (yöneldi)."
+        },
+        {
+          "id": "m26_t15",
+          "tip": "hata",
+          "soru": "'غَيَّرَ الطَّقْسُ فَجْأَةً فِي الْمَسَاءِ.' (Akşam hava aniden değişti) cümlesindeki bab hatası nasıl düzeltilir?",
+          "secenekler": ["تَغَيَّرَ الطَّقْسُ فَجْأَةً فِي الْمَسَاءِ.", "غَارَ الطَّقْسُ فَجْأَةً.", "يُغَيِّرُ الطَّقْسُ فَجْأَةً.", "تَغَايَرَ الطَّقْسُ فَجْأَةً."],
+          "dogruIndeks": 0,
+          "aciklama": "غَيَّرَ geçişlidir (değiştirdi); 'değişti' (dönüşlü) için V. bab تَغَيَّرَ kullanılır."
+        },
+        {
+          "id": "m26_t16",
+          "tip": "bosluk",
+          "soru": "'تَجَرَّعَ الْمَرِيضُ الدَّوَاءَ الْمُرَّ.' cümlesinde تَجَرَّعَ fiilindeki ince anlam nedir?",
+          "secenekler": ["Acı ilacı yudum yudum / aşama aşama içti (tedrîc!)", "İlacı başkasına içirdi", "İlacı yere döktü", "İlacı tek nefeste bitirdi"],
+          "dogruIndeks": 0,
+          "aciklama": "Tedrîc (aşamalılık): تَجَرَّعَ = yudum yudum, sindire sindire içmek."
+        },
+        {
+          "id": "m26_t17",
+          "tip": "donusturme",
+          "soru": "'كَسَّرَ الرِّيحُ الْغُصْنَ' cümlesini 'Dal parça parça kırıldı (parçalandı)' şeklinde V. babla yeniden yaz:",
+          "secenekler": ["تَكَسَّرَ الْغُصْنُ.", "كَسَّرَ الْغُصْنُ.", "تَكَاسَرَ الْغُصْنُ.", "أَكْسَرَ الْغُصْنُ."],
+          "dogruIndeks": 0,
+          "aciklama": "كَسَّرَ (parçaladı) → V. bab mutâvaat تَكَسَّرَ (parçalandı)."
+        },
+        {
+          "id": "m26_t18",
+          "tip": "tr_ar",
+          "soru": "'Oyuncular maçtan önce her gün antrenman yaptılar (تَدَرَّبَ)' cümlesinin doğru Arapçası hangisidir?",
+          "secenekler": ["تَدَرَّبَ اللَّاعِبُونَ كُلَّ يَوْمٍ قَبْلَ الْمُبَارَاةِ.", "دَرَّبَ اللَّاعِبُونَ كُلَّ يَوْمٍ قَبْلَ الْمُبَارَاةِ.", "تَدَرَّبُوا اللَّاعِبُونَ كُلَّ يَوْمٍ.", "تَدَارَبَ اللَّاعِبُونَ كُلَّ يَوْمٍ."],
+          "dogruIndeks": 0,
+          "aciklama": "دَرَّبَ = başkasını çalıştırdı; تَدَرَّبَ = kendi antrenman yaptı (fiil başta tekil!)."
+        },
+        {
+          "id": "m26_t19",
+          "tip": "bosluk",
+          "soru": "'جَدَّدَ' (yeniledi) fiilinin 'yenilendi' anlamındaki V. bab karşılığı hangisidir?",
+          "secenekler": ["تَجَدَّدَ – يَتَجَدَّدُ – تَجَدُّدًا", "تَجَادَدَ – يَتَجَادَدُ", "أَجَدَّ – يُجِدُّ", "اِجْتَدَّ"],
+          "dogruIndeks": 0,
+          "aciklama": "جَدَّدَ → تَجَدَّدَ (yenilendi; الطَّاقَةُ الْمُتَجَدِّدَةُ = yenilenebilir enerji buradan gelir!)."
+        },
+        {
+          "id": "m26_t20",
+          "tip": "bosluk",
+          "soru": "'طَاقَةٌ مُتَجَدِّدَةٌ' (yenilenebilir enerji) ifadesindeki 'مُتَجَدِّدَةٌ' kelimesi hangi babtan türemiştir?",
+          "secenekler": ["V. Bab (تَجَدَّدَ – يَتَجَدَّدُ = kendi yenilenen)", "II. Bab (جَدَّدَ)", "IV. Bab", "III. Bab"],
+          "dogruIndeks": 0,
+          "aciklama": "يَتَجَدَّدُ → يُـ/يَـ yerine مُـ ve sondan önce kesra = مُتَجَدِّدٌ / مُتَجَدِّدَةٌ (kendi yenilenen)!"
+        }
+      ]
+    },
+    {
+      "id": "m26_g3",
+      "baslik": "VI. Bab: Tefâul (تَفَاعَلَ – يَتَفَاعَلُ – تَفَاعُلًا) — Karşılıklılık & 'Gibi Görünme'",
+      "arBaslik": "بَابُ التَّفَاعُلِ (تَفَاعَلَ – يَتَفَاعَلُ – تَفَاعُلًا)",
+      "mantik": "Şimdi III. babın (`فَاعَلَ`) başına bir `تَـ` koyuyoruz ve 5 harfli çok zarif bir bab doğuyor: **VI. Bab (Tefâul: تَفَاعَلَ – يَتَفَاعَلُ – تَفَاعُلًا)**! Çekimi tıpkı V. bab gibi rahattır: muzârisi baştan ve sondan önce FETHALI (`يَتَعَاوَنُ، يَتَبَادَلُ، يَتَفَاعَلُ`), mastarı ise sondan bir önceki harfin DAMMESİYLE (`تَعَاوُنًا، تَبَادُلًا، تَفَاعُلًا` — nâkısta kesralı `تَفَاعِيًا`: `تَسَاوَى → تَسَاوِيًا`, `تَدَاعَى → تَدَاعِيًا`!) kurulur! Peki VI. babın 3 büyük anlam gücü nedir? (1) **Eşit / Çok Taraflı Karşılıklılık (الْمُشَارَكَةُ):** III. babda (`قَابَلَ زَيْدٌ عَمْرًا` = Zeyd Amr ile görüştü) biri özne biri nesneydi; VI. babda ise her iki taraf EŞİT ÖZNE olur: `تَقَابَلَ زَيْدٌ وَعَمْرٌو` (Zeyd ile Amr karşılaştılar!), `تَعَاوَنَ الطُّلَّابُ` (Öğrenciler yardımlaştılar!), `تَصَافَحَ الصَّدِيقَانِ` (İki arkadaş tokalaştı!), `تَبَادَلَ الْوَفْدَانِ الْخِبْرَاتِ` (İki heyet tecrübe alışverişi yaptı!). (2) **Tezâhur (Öyle Gibi Görünme / Rol Yapma!):** Arapçanın en mizahi ve edebi özelliği! `مَرِضَ` (hastalandı) → `تَمَارَضَ` (hasta numarası yaptı!), `نَامَ` (uyudu) → `تَنَاوَمَ` (uyuyor gibi yaptı!), `جَهِلَ` (bilmedi) → `تَجَاهَلَ` (bilmezden geldi / görmezden geldi!). (3) **Aşamalı Artış veya Azalış (التَّدْرِيجُ):** `تَزَايَدَ` (giderek arttı), `تَنَاقَصَ` (giderek azaldı), `تَتَابَعَ` (peş peşe geldi)!",
+      "formul": "Mâzi: تَفَاعَلَ | Muzâri: يَتَفَاعَلُ (Fethalı!) | Mastar: تَفَاعُلًا (Nâkıs: تَفَاعِيًا)",
+      "formulAr": "تَعَاوَنَ – يَتَعَاوَنُ – تَعَاوُنًا  |  تَبَادَلَ – يَتَبَادَلُ – تَبَادُلًا  |  تَمَارَضَ (hasta numarası yaptı!)",
+      "tablo": {
+        "baslik": "VI. Bab (Tefâul) 3 Anlam Katmanı ve III→VI Karşılaştırması",
+        "sutunlar": ["Anlam Türü", "Mâzi (تَفَاعَلَ)", "Muzâri (يَتَفَاعَلُ)", "Mastar (تَفَاعُلًا)", "Türkçe Karşılık"],
+        "satirlar": [
+          { "hucreler": ["1. Karşılıklılık", "تَعَاوَنَ", "يَتَعَاوَنُ", "تَعَاوُنًا", "yardımlaşmak, iş birliği yapmak"], "ar": "تَعَاوَنَ يَتَعَاوَنُ تَعَاوُنًا" },
+          { "hucreler": ["1. Karşılıklılık", "تَبَادَلَ", "يَتَبَادَلُ", "تَبَادُلًا", "karşılıklı değiş tokuş etmek"], "ar": "تَبَادَلَ يَتَبَادَلُ تَبَادُلًا" },
+          { "hucreler": ["1. Karşılıklılık", "تَصَافَحَ / تَعَارَفَ", "يَتَصَافَحُ / يَتَعَارَفُ", "تَصَافُحًا / تَعَارُفًا", "tokalaşmak / tanışmak"], "ar": "تَصَافَحَ — تَعَارَفَ" },
+          { "hucreler": ["2. Tezâhur (Rol)", "تَمَارَضَ / تَنَاوَمَ", "يَتَمَارَضُ / يَتَنَاوَمُ", "تَمَارُضًا / تَنَاوُمًا", "hasta numarası yapmak / uyuyor gibi yapmak"], "ar": "تَمَارَضَ — تَنَاوَمَ" },
+          { "hucreler": ["2. Tezâhur (Rol)", "تَجَاهَلَ", "يَتَجَاهَلُ", "تَجَاهُلًا", "bilmezden gelmek, görmezden gelmek"], "ar": "تَجَاهَلَ يَتَجَاهَلُ تَجَاهُلًا" },
+          { "hucreler": ["3. Tedrîc (Artış)", "تَزَايَدَ / تَرَاجَعَ", "يَتَزَايَدُ / يَتَرَاجَعُ", "تَزَايُدًا / تَرَاجُعًا", "giderek artmak / gerilemek"], "ar": "تَزَايَدَ — تَرَاجَعَ" }
+        ]
+      },
+      "trKiyas": "Türkçedeki `te-/ta-` ile başlayıp içinde uzun `-â-` ve sonunda `-u/-ü` sesi taşıyan kelimeler (teamül, teavün, tefâül, tesadüf, tekâmül, tevazun, tecahül-i ârif [bilmezden gelme sanatı!], tebâdül) Arapça VI. bab (`تَفَاعُلٌ`) mastarlarıdır! Edebiyattaki `tecâhül-i ârif` tam olarak `تَجَاهَلَ` fiilinin mastarıdır!",
+      "sikHatalar": [
+        "VI. bab muzârisini kesralı veya dammeli okumak (✗ يُتَعَاوِنُ — ✓ يَتَعَاوَنُ; hem başı hem sondan öncesi FETHALIDIR!).",
+        "Karşılıklı bir eylemi III. bab yerine VI. babla tek kişi + nesne gibi kurmak (✗ تَصَافَحَ أَحْمَدُ خَالِدًا — ✓ تَصَافَحَ أَحْمَدُ وَخَالِدٌ; çünkü VI. babda iki taraf da merfû öznedir!).",
+        "تَجَاهَلَ (kasten görmezden geldi) ile جَهِلَ (gerçekten bilmedi) fiillerini aynı sanmak!"
+      ],
+      "ornekler": [
+        { "ar": "تَعَاوَنَ الطُّلَّابُ وَالْمُعَلِّمُونَ عَلَى تَنْظِيمِ الْمَعْرِضِ الْعِلْمِيِّ.", "okunus": "Te‘âvene't-tullâbu ve'l-mu‘allimûne ‘alâ tanzîmi'l-ma‘ridi'l-‘ilmiyyi.", "tr": "Öğrenciler ve öğretmenler bilim sergisini düzenlemek için iş birliği yaptılar.", "not": "تَعَاوَنَ عَلَى = yardımlaşmak" },
+        { "ar": "تَبَادَلَ الْخُبَرَاءُ الْأَفْكَارَ وَالْخِبْرَاتِ خِلَالَ جَلَسَاتِ الْمُؤْتَمَرِ.", "okunus": "Tebâdele'l-huberâu'l-efkâra ve'l-hıbrâti hilâle celesâti'l-mu'temeri.", "tr": "Uzmanlar konferans oturumları boyunca fikir ve tecrübe alışverişinde bulundu.", "not": "تَبَادَلَ = karşılıklı değiş tokuş etmek (nesne alır!)" },
+        { "ar": "تَصَافَحَ الصَّدِيقَانِ بِحَرَارَةٍ بَعْدَ غِيَابٍ دَامَ خَمْسَ سَنَوَاتٍ.", "okunus": "Tesâfaha's-sadîkâni bi-harâratin ba‘de gıyâbin dâme hamse senevâtin.", "tr": "İki arkadaş beş yıl süren bir ayrılıktan sonra hararetle tokalaştı.", "not": "صَافَحَ أَحْمَدُ خَالِدًا (III) vs. تَصَافَحَ الصَّدِيقَانِ (VI)!" },
+        { "ar": "تَمَارَضَ الطِّفْلُ الْكَسُولُ كَيْ لَا يَذْهَبَ إِلَى الْمَدْرَسَةِ صَبَاحًا.", "okunus": "Temârada't-tıflu'l-kesûlu key lâ yezhebe ile'l-medreseti sabâhan.", "tr": "Tembel çocuk sabah okula gitmemek için hasta numarası yaptı.", "not": "Tezâhur (rol yapma): مَرِضَ → تَمَارَضَ!" },
+        { "ar": "تَتَزَايَدُ أَهَمِّيَّةُ الطَّاقَةِ النَّظِيفَةِ تَزَايُدًا مُسْتَمِرًّا كُلَّ عَامٍ.", "okunus": "Tetezâyedu ehemmiyyetu't-tâkati'n-nazîfeti tezâyuden mustemirran kulle ‘âmin.", "tr": "Temiz enerjinin önemi her yıl sürekli bir artışla giderek artıyor.", "not": "Tedrîc: تَزَايَدَ – يَتَزَايَدُ – تَزَايُدًا" },
+        { "ar": "لَا يَجُوزُ أَنْ نَتَجَاهَلَ الْمُشْكِلَاتِ الْبِيئِيَّةَ الَّتِي تُهَدِّدُ مُسْتَقْبَلَنَا.", "okunus": "Lâ yecûzu en netecâhele'l-muşkilâti'l-bîiyyete'lletî tuheddidu mustekbelenâ.", "tr": "Geleceğimizi tehdit eden çevre sorunlarını görmezden gelmemiz doğru olmaz.", "not": "تَجَاهَلَ = görmezden gelmek (YDS klasiği!)" }
+      ],
+      "tatbikler": [
+        {
+          "id": "m26_t21",
+          "tip": "bosluk",
+          "soru": "'تَعَاوَنَ' (iş birliği yaptı) fiilinin muzâri ve mastarı hangisinde doğru verilmiştir?",
+          "secenekler": ["يَتَعَاوَنُ – تَعَاوُنًا", "يُتَعَاوِنُ – مُعَاوَنَةً", "يَتَعَاوِنُ – تَعَاوُنًا", "يُعَاوِنُ – تَعْوِينًا"],
+          "dogruIndeks": 0,
+          "aciklama": "VI. bab muzârisi hem baştan hem sondan önce fethalıdır (يَتَعَاوَنُ), mastarı تَفَاعُلًا (تَعَاوُنًا)."
+        },
+        {
+          "id": "m26_t22",
+          "tip": "bosluk",
+          "soru": "'تَنَاوَمَ الرَّجُلُ' cümlesinin doğru anlamı nedir?",
+          "secenekler": ["Adam uyuyormuş gibi yaptı (uyku numarası yaptı — tezâhur!)", "Adam derin uykuya daldı", "Adam başkasını uyuttu", "Adam uykusuz kaldı"],
+          "dogruIndeks": 0,
+          "aciklama": "نَامَ (uyudu) → VI. bab تَنَاوَمَ (uyuyormuş gibi görünmek / tezâhur!)."
+        },
+        {
+          "id": "m26_t23",
+          "tip": "bosluk",
+          "soru": "'قَابَلَ أَحْمَدُ عُمَرَ' (III. bab) cümlesini 'Ahmed ve Ömer karşılaştılar' şeklinde VI. baba çevirirsek nasıl olur?",
+          "secenekler": ["تَقَابَلَ أَحْمَدُ وَعُمَرُ.", "تَقَابَلَ أَحْمَدُ عُمَرَ.", "تَقَبَّلَ أَحْمَدُ وَعُمَرُ.", "أَقْبَلَ أَحْمَدُ وَعُمَرُ."],
+          "dogruIndeks": 0,
+          "aciklama": "III. babda nesne olan عُمَرَ, VI. babda eşit özne olarak merfû olur: تَقَابَلَ أَحْمَدُ وَعُمَرُ."
+        },
+        {
+          "id": "m26_t24",
+          "tip": "bosluk",
+          "soru": "'تَتَزَايَدُ أَعْدَادُ الطُّلَّابِ فِي هٰذَا الْقِسْمِ.' cümlesinde تَزَايَدَ VI. babın hangi anlamını verir?",
+          "secenekler": ["Aşamalı/giderek artış (tedrîc)", "Rol yapma (tezâhur)", "Ettirgenlik", "İsimden fiil türetme"],
+          "dogruIndeks": 0,
+          "aciklama": "تَزَايَدَ (giderek arttı) ve تَنَاقَصَ (giderek azaldı) tedrîc anlamlı VI. bab fiillerdir."
+        },
+        {
+          "id": "m26_t25",
+          "tip": "hata",
+          "soru": "'يُتَبَادِلُ الطُّلَّابُ الْكُتُبَ وَالْمُلَاحَظَاتِ.' cümlesindeki hareke hatası nasıl düzeltilir?",
+          "secenekler": ["يَتَبَادَلُ الطُّلَّابُ الْكُتُبَ وَالْمُلَاحَظَاتِ.", "يُتَبَادَلُ الطُّلَّابُ الْكُتُبَ.", "يَتَبَادِلُ الطُّلَّابُ الْكُتُبَ.", "يُبَادِلُ الطُّلَّابُ."],
+          "dogruIndeks": 0,
+          "aciklama": "VI. bab etken muzârisi يَتَبَادَلُ (fetha + fetha!) şeklinde okunur."
+        },
+        {
+          "id": "m26_t26",
+          "tip": "bosluk",
+          "soru": "'تَسَاوَى' (eşit oldu) nâkıs VI. bab fiilinin el-takılı mastarı hangisidir?",
+          "secenekler": ["التَّسَاوِي", "التَّسَاوُو", "التَّسْوِيَةُ", "الْمُسَاوَاةُ"],
+          "dogruIndeks": 0,
+          "aciklama": "Nâkıs VI. bab mastarında sondan önceki harf kesralanır: التَّسَاوِي (الْمُسَاوَاةُ III. bab mastarıdır!)."
+        },
+        {
+          "id": "m26_t27",
+          "tip": "tr_ar",
+          "soru": "'İki heyet bilimsel tecrübeleri karşılıklı paylaştı (تَبَادَلَ)' cümlesinin doğru Arapçası hangisidir?",
+          "secenekler": ["تَبَادَلَ الْوَفْدَانِ الْخِبْرَاتِ الْعِلْمِيَّةَ.", "بَادَلَ الْوَفْدَانِ الْخِبْرَاتِ الْعِلْمِيَّةَ.", "تَبَدَّلَ الْوَفْدَانِ الْخِبْرَاتِ الْعِلْمِيَّةَ.", "تَبَادَلَا الْوَفْدَانِ الْخِبْرَاتِ الْعِلْمِيَّةَ."],
+          "dogruIndeks": 0,
+          "aciklama": "Fiil başta tekil تَبَادَلَ, tesniye fâil الْوَفْدَانِ, cemi müennes nesne الْخِبْرَاتِ."
+        },
+        {
+          "id": "m26_t28",
+          "tip": "bosluk",
+          "soru": "'تَغَافَلَ' (farkında değilmiş gibi davrandı) fiilinin kökü ve babı nedir?",
+          "secenekler": ["غ-ف-ل — VI. Bab (tezâhur / gibi görünme)", "غ-ف-ر — V. Bab", "ف-ع-ل — III. Bab", "غ-ف-ل — IV. Bab"],
+          "dogruIndeks": 0,
+          "aciklama": "غَفَلَ (gafil oldu) → VI. bab تَغَافَلَ (görmezden/farkında değilmiş gibi geldi)."
+        },
+        {
+          "id": "m26_t29",
+          "tip": "donusturme",
+          "soru": "'عَاوَنَ أَحْمَدُ صَدِيقَهُ' (III. bab) cümlesini 'Ahmed ve arkadaşı yardımlaştılar (VI. bab)' biçimine çevir:",
+          "secenekler": ["تَعَاوَنَ أَحْمَدُ وَصَدِيقُهُ.", "تَعَاوَنَ أَحْمَدُ صَدِيقَهُ.", "تَعَوَّنَ أَحْمَدُ وَصَدِيقُهُ.", "عَاوَنَ أَحْمَدُ وَصَدِيقُهُ."],
+          "dogruIndeks": 0,
+          "aciklama": "III. bab → VI. bab dönüşümünde her iki taraf merfû ortak özne olur: تَعَاوَنَ أَحْمَدُ وَصَدِيقُهُ."
+        },
+        {
+          "id": "m26_t30",
+          "tip": "bosluk",
+          "soru": "'التَّفَاعُلُ' (etkileşim / kimyasal tepkime) kelimesi hangi babın mastarıdır?",
+          "secenekler": ["VI. Bab (تَفَاعَلَ – يَتَفَاعَلُ – تَفَاعُلًا)", "V. Bab (تَفَعَّلَ)", "III. Bab (فَاعَلَ)", "II. Bab (فَعَّلَ)"],
+          "dogruIndeks": 0,
+          "aciklama": "VI. babın bizzat kendi adıdır: بَابُ التَّفَاعُلِ!"
+        }
+      ]
+    },
+    {
+      "id": "m26_g4",
+      "baslik": "V. ve VI. Babların Emir, Meçhul Çatısı ve 'تَتَـ' Kısalma Kuralı",
+      "arBaslik": "الْأَمْرُ وَالْمَجْهُولُ فِي التَّفَعُّلِ وَالتَّفَاعُلِ وَحَذْفُ إِحْدَى التَّاءَيْنِ",
+      "mantik": "V. ve VI. babların **Emir**lerini türetmek en kolay kısımdır; çünkü muzâraat harfini (`تَـ`) attığında kalan ilk harf (babın kendi `تَـ` harfi) ZATEN HAREKELİDİR — yani yine **vasıl hemzesi YOKTUR!** Bak: `تَتَعَلَّمُ → تَعَلَّمْ!` (Öğren!), `تَتَكَلَّمُ → تَكَلَّمْ!` (Konuş!), `تَتَعَاوَنُونَ → تَعَاوَنُوا!` (Yardımlaşın!), `تَتَفَاءَلُ → تَفَاءَلْ!` (İyimser ol!). Dikkat et: tekil eril emir (`تَعَلَّمْ`) ile mâzi (`تَعَلَّمَ`) yazılışta aynı harflere sahiptir; sadece sonundaki **sükûn** (veya çoğuldaki `تَعَلَّمُوا` ile bağlam) onları ayırır! Peki muzâride iki `تَـ` yan yana gelince (`تَتَعَلَّمُ، تَتَنَزَّلُ`) ne olur? İki `تَـ` normalde yazılır ama klasik Arapçada ve Kur'an'da hafifletme için baştaki `تَـ` düşebilir: `تَتَنَزَّلُ الْمَلَائِكَةُ → تَنَزَّلُ الْمَلَائِكَةُ` (Kadr 4)! Şimdi **Meçhul (Edilgen)** çatısına bak: (1) V. bab mâzi meçhul: ilk İKİ harekeli harf birden dammelenir! `تَعَلَّمَ → تُعُلِّمَ` (öğrenildi), `تَقَبَّلَ → تُقُبِّلَ` (kabul edildi); muzâri meçhul: `يَتَعَلَّمُ → يُتَعَلَّمُ` (sadece başı damme!). (2) VI. bab mâzi meçhul: ilk iki harekeli harf dammelenince aradaki elif yine **VÂV'a (`و`)** döner! `تَبَادَلَ → تُبُودِلَ` (karşılıklı paylaşıldı), `تَنَاوَلَ → تُنُووِلَ` (ele alındı), `تَجَاهَلَ → تُجُوهِلَ` (görmezden gelindi)! Muzâri meçhul: `يُتَبَادَلُ / يُتَنَاوَلُ`!",
+      "formul": "Emir (Hemzesiz!): تَفَعَّلْ / تَفَاعَلْ | Mâzi Meçhul: تُفُعِّلَ / تُفُوعِلَ | Muzâri Meçhul: يُتَفَعَّلُ / يُتَفَاعَلُ",
+      "formulAr": "تَعَلَّمْ! · تَفَاءَلْ! · تَعَاوَنُوا!  |  تُقُبِّلَ الدُّعَاءُ  |  تُبُودِلَتِ الْآرَاءُ  |  يُتَنَاوَلُ الْمَوْضُوعُ",
+      "tablo": {
+        "baslik": "V. ve VI. Bab Emir, Nehiy ve Meçhul Tablosu",
+        "sutunlar": ["Bab & Etken Mâzi", "Emir (أَنْتَ / أَنْتُمْ)", "Nehiy (أَنْتَ)", "Mâzi Meçhul", "Muzâri Meçhul"],
+        "satirlar": [
+          { "hucreler": ["V. Bab: تَعَلَّمَ (öğrendi)", "تَعَلَّمْ / تَعَلَّمُوا", "لَا تَتَعَلَّمْ", "تُعُلِّمَ (öğrenildi)", "يُتَعَلَّمُ (öğreniliyor)"], "ar": "تَعَلَّمْ — تُعُلِّمَ — يُتَعَلَّمُ" },
+          { "hucreler": ["V. Bab: تَقَبَّلَ (kabul etti)", "تَقَبَّلْ / تَقَبَّلُوا", "لَا تَتَقَبَّلْ", "تُقُبِّلَ (kabul edildi)", "يُتَقَبَّلُ"], "ar": "تَقَبَّلْ — تُقُبِّلَ — يُتَقَبَّلُ" },
+          { "hucreler": ["V. Bab Nâkıs: تَمَنَّى", "تَمَنَّ / تَمَنَّوْا", "لَا تَتَمَنَّ", "تُمُنِّيَ", "يُتَمَنَّى"], "ar": "تَمَنَّ — تَمَنَّوْا" },
+          { "hucreler": ["VI. Bab: تَعَاوَنَ", "تَعَاوَنْ / تَعَاوَنُوا", "لَا تَتَعَاوَنْ", "تُعُووِنَ (عَلَيْهِ)", "يُتَعَاوَنُ"], "ar": "تَعَاوَنْ — تَعَاوَنُوا" },
+          { "hucreler": ["VI. Bab: تَبَادَلَ", "تَبَادَلْ / تَبَادَلُوا", "لَا تَتَبَادَلْ", "تُبُودِلَ (ا → و!)", "يُتَبَادَلُ"], "ar": "تَبَادَلْ — تُبُودِلَ — يُتَبَادَلُ" },
+          { "hucreler": ["VI. Bab: تَنَاوَلَ (ele aldı)", "تَنَاوَلْ / تَنَاوَلُوا", "لَا تَتَنَاوَلْ", "تُنُووِلَ (ele alındı!)", "يُتَنَاوَلُ"], "ar": "تَنَاوَلْ — تُنُووِلَ — يُتَنَاوَلُ" }
+        ]
+      },
+      "trKiyas": "Kur'an'da `وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَى وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ` (Mâide 2) ayeti bu kuralın ikisini birden gösterir: `تَعَاوَنُوا` = VI. bab hemzesiz çoğul emri ('yardımlaşın!'), `وَلَا تَعَاوَنُوا` ise aslında `لَا تَتَعَاوَنُوا` olup iki `تَـ`'den biri hafifletme için düşürülmüş nehiydir!",
+      "sikHatalar": [
+        "V. veya VI. bab emrinin başına vasıl hemzesi eklemek (✗ اِتَعَلَّمْ / اِتَعَاوَنُوا — ✓ تَعَلَّمْ / تَعَاوَنُوا!).",
+        "V./VI. bab muzâri etken (يَتَقَبَّلُ — fethalı يَـ) ile muzâri meçhul (يُتَقَبَّلُ — dammeli يُـ) arasındaki tek baş harekesi farkını gözden kaçırmak!",
+        "V. bab mâzi meçhulde sadece ilk ت harfini dammeleyip ikinciyi fetha bırakmak (✗ تُعَلِّمَ — ✓ تُعُلِّمَ; ت ile başlayan mâzilerde meçhulde ilk İKİ harekeli harf dammelenir!)."
+      ],
+      "ornekler": [
+        { "ar": "تَعَلَّمِ الْعِلْمَ مِنَ الْمَهْدِ إِلَى اللَّحْدِ وَتَخَلَّقْ بِالْأَخْلَاقِ الْحَسَنَةِ!", "okunus": "Te‘allemi'l-‘ilme mine'l-mehdi ile'l-lahdi ve tehallak bi'l-ahlâkı'l-haseneti!", "tr": "Beşikten mezara kadar ilim öğren ve güzel ahlakla ahlaklan!", "not": "V. bab hemzesiz emirleri: تَعَلَّمْ، تَخَلَّقْ" },
+        { "ar": "تَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَى وَلَا تَتَفَرَّقُوا!", "okunus": "Te‘âvenû ‘ale'l-birri ve't-takvâ ve lâ teteferrakû!", "tr": "İyilik ve takva üzerine yardımlaşın ve ayrılığa düşmeyin!", "not": "VI. bab emir تَعَاوَنُوا + V. bab nehiy لَا تَتَفَرَّقُوا" },
+        { "ar": "تَفَاءَلُوا بِالْخَيْرِ تَجِدُوهُ، وَلَا تَتَشَاءَمُوا أَمَامَ الصُّعُوبَاتِ!", "okunus": "Tefâelû bi'l-hayri tecidûhu, ve lâ teteşâemû emâme's-su‘ûbâti!", "tr": "Hayırla iyimser olun ki onu bulasınız; zorluklar karşısında kötümser olmayın!", "not": "تَفَاءَلَ (iyimser oldu) ↔ تَشَاءَمَ (kötümser oldu)" },
+        { "ar": "تُبُودِلَتِ الْآرَاءُ وَالْمُقْتَرَحَاتُ فِي جَوٍّ مِنَ الِاحْتِرَامِ الْمُتَبَادَلِ.", "okunus": "Tubûdileti'l-ârâu ve'l-mukterahâtu fî cevvin mine'l-ihtirâmi'l-mutebâdeli.", "tr": "Karşılıklı saygı atmosferinde görüşler ve öneriler paylaşıldı.", "not": "تَبَادَلَ → تُبُودِلَتْ (VI. bab mâzi meçhul!)" },
+        { "ar": "يُتَوَقَّعُ أَنْ تَتَحَسَّنَ الْأَحْوَالُ الْجَوِّيَّةُ غَدًا صَبَاحًا.", "okunus": "Yutevakka‘u en tetehessene'l-ahvâlu'l-cevviyyetu gaden sabâhan.", "tr": "Yarın sabah hava koşullarının iyileşmesi bekleniyor.", "not": "يُتَوَقَّعُ أَنْ (V. bab muzâri meçhul: bekleniyor — YDS klasiği!)" },
+        { "ar": "تُنُووِلَتِ الْقَضِيَّةُ مِنْ جَوَانِبِهَا التَّارِيخِيَّةِ وَالِاجْتِمَاعِيَّةِ.", "okunus": "Tunûvileti'l-kadıyyetu min cevânibihe't-târîhiyyeti ve'l-ictimâ‘iyyeti.", "tr": "Mesele tarihî ve toplumsal yönleriyle ele alındı.", "not": "تَنَاوَلَ → تُنُووِلَتْ (VI. bab mâzi meçhul!)" }
+      ],
+      "tatbikler": [
+        {
+          "id": "m26_t31",
+          "tip": "bosluk",
+          "soru": "'تَعَلَّمَ – يَتَعَلَّمُ' fiilinin tekil eril emr-i hâzır (أَنْتَ) biçimi hangisidir?",
+          "secenekler": ["تَعَلَّمْ", "اِتَعَلَّمْ", "تَعَلِّمْ", "عَلَّمْ"],
+          "dogruIndeks": 0,
+          "aciklama": "V. bab emrinde vasıl hemzesi yoktur; sondan öncesi fethalı, sonu cezimli: تَعَلَّمْ!"
+        },
+        {
+          "id": "m26_t32",
+          "tip": "bosluk",
+          "soru": "'يَتَوَقَّعُ الْخُبَرَاءُ' (Uzmanlar bekliyor) ile 'يُتَوَقَّعُ أَنْ...' (Bekleniyor ki...) arasındaki fark nedir?",
+          "secenekler": ["يَتَوَقَّعُ (fethalı يَـ) = etken muzâri; يُتَوَقَّعُ (dammeli يُـ) = meçhul muzâri", "يُتَوَقَّعُ etken, يَتَوَقَّعُ meçhuldür", "Her ikisi de mâzidir", "يُتَوَقَّعُ II. babdır"],
+          "dogruIndeks": 0,
+          "aciklama": "V. ve VI. babda muzâri zaten sondan önce fethalı olduğundan, sadece baştaki يُـ dammesi fiili meçhul yapar!"
+        },
+        {
+          "id": "m26_t33",
+          "tip": "bosluk",
+          "soru": "'تَبَادَلَ الطَّرَفَانِ الرَّسَائِلَ.' cümlesi mâzi meçhule çevrilirse nasıl olur?",
+          "secenekler": ["تُبُودِلَتِ الرَّسَائِلُ.", "تَبُودِلَتِ الرَّسَائِلُ.", "تُبَادِلَتِ الرَّسَائِلُ.", "تُبُدِّلَتِ الرَّسَائِلُ."],
+          "dogruIndeks": 0,
+          "aciklama": "VI. bab mâzi meçhulde ilk iki harekeli harf dammelenir ve elif vâva döner: تُبُودِلَتِ الرَّسَائِلُ."
+        },
+        {
+          "id": "m26_t34",
+          "tip": "bosluk",
+          "soru": "'يَا أَصْدِقَائِي، ..... بِالْخَيْرِ وَلَا تَتَشَاءَمُوا!' (Arkadaşlarım, iyimser olun ve kötümser olmayın!) boşluğuna ne gelir?",
+          "secenekler": ["تَفَاءَلُوا", "اِتَفَاءَلُوا", "تَفَاءِلُوا", "تَفَاءَلُونَ"],
+          "dogruIndeks": 0,
+          "aciklama": "تَفَاءَلَ – يَتَفَاءَلُ → çoğul hemzesiz emir تَفَاءَلُوا!"
+        },
+        {
+          "id": "m26_t35",
+          "tip": "hata",
+          "soru": "'اِتَكَلَّمْ بِهُدُوءٍ وَوُضُوحٍ يَا بُنَيَّ!' cümlesindeki emir hatası nasıl düzeltilir?",
+          "secenekler": ["تَكَلَّمْ بِهُدُوءٍ وَوُضُوحٍ يَا بُنَيَّ!", "تَكَلِّمْ بِهُدُوءٍ وَوُضُوحٍ!", "أَتَكَلَّمْ بِهُدُوءٍ وَوُضُوحٍ!", "كَلِّمْ بِهُدُوءٍ وَوُضُوحٍ!"],
+          "dogruIndeks": 0,
+          "aciklama": "V. bab emrinde vasıl hemzesi olmaz: تَكَلَّمْ!"
+        },
+        {
+          "id": "m26_t36",
+          "tip": "bosluk",
+          "soru": "Kur'an'daki 'تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا' (Kadr 4) ayetinde تَنَزَّلُ fiilinin aslı nedir?",
+          "secenekler": ["تَتَنَزَّلُ (iki تَـ yan yana geldiği için biri hafifletme amacıyla düşmüştür)", "نَزَلَتْ", "تَنْزِلُ", "أُنْزِلَتْ"],
+          "dogruIndeks": 0,
+          "aciklama": "V. ve VI. bablarda تَتَـ ile başlayan muzâride fasih Arapçada ilk تَـ hazfedilebilir: تَتَنَزَّلُ → تَنَزَّلُ."
+        },
+        {
+          "id": "m26_t37",
+          "tip": "bosluk",
+          "soru": "'تَقَبَّلَ اللّٰهُ الدُّعَاءَ.' cümlesinin mâzi meçhul şekli hangisidir?",
+          "secenekler": ["تُقُبِّلَ الدُّعَاءُ.", "تَقُبِّلَ الدُّعَاءُ.", "تُقَبِّلَ الدُّعَاءُ.", "قُبِّلَ الدُّعَاءُ."],
+          "dogruIndeks": 0,
+          "aciklama": "V. bab mâzi meçhulde ilk iki harekeli harf dammelenir: تُقُبِّلَ الدُّعَاءُ."
+        },
+        {
+          "id": "m26_t38",
+          "tip": "tr_ar",
+          "soru": "'Ey kız kardeşim, her gün Arapça konuş ve hatalardan korkma!' (تَكَلَّمَ — أَنْتِ emri) hangisidir?",
+          "secenekler": ["يَا أُخْتِي، تَكَلَّمِي بِالْعَرَبِيَّةِ كُلَّ يَوْمٍ وَلَا تَخَافِي مِنَ الْأَخْطَاءِ!", "يَا أُخْتِي، تَكَلَّمْ بِالْعَرَبِيَّةِ كُلَّ يَوْمٍ!", "يَا أُخْتِي، اِتَكَلَّمِي بِالْعَرَبِيَّةِ!", "يَا أُخْتِي، تَكَلَّمِينَ بِالْعَرَبِيَّةِ!"],
+          "dogruIndeks": 0,
+          "aciklama": "Muhataba (أَنْتِ) emri hemzesiz ve nûnsuz: تَكَلَّمِي."
+        },
+        {
+          "id": "m26_t39",
+          "tip": "donusturme",
+          "soru": "'يَتَنَاوَلُ الْكِتَابُ مَوْضُوعًا مُهِمًّا' cümlesini 'Önemli bir konu ele alınıyor (muzâri meçhul)' yap:",
+          "secenekler": ["يُتَنَاوَلُ مَوْضُوعٌ مُهِمٌّ.", "يَتَنَاوَلُ مَوْضُوعٌ مُهِمٌّ.", "تُنُووِلَ مَوْضُوعٌ مُهِمٌّ.", "يُتَنَاوَلُ مَوْضُوعًا مُهِمًّا."],
+          "dogruIndeks": 0,
+          "aciklama": "Sadece muzâraat harfi damme olur (يُتَنَاوَلُ) ve nâib-i fâil merfû (مَوْضُوعٌ مُهِمٌّ) gelir."
+        },
+        {
+          "id": "m26_t40",
+          "tip": "bosluk",
+          "soru": "'تَمَنَّى – يَتَمَنَّى' (diledi) nâkıs V. bab fiilinin tekil eril emri (أَنْتَ) hangisidir?",
+          "secenekler": ["تَمَنَّ", "تَمَنَّى", "تَمَنِّ", "اِتَمَنَّ"],
+          "dogruIndeks": 0,
+          "aciklama": "Nâkıs V. bab tekil eril emirde sondaki illet harfi (ى) düşer, fetha kalır: تَمَنَّ!"
+        }
+      ]
+    },
+    {
+      "id": "m26_g5",
+      "baslik": "YDS & Akademik Arapça Şampiyonu V. & VI. Bab Harf-i Cerli Fiilleri",
+      "arBaslik": "أَشْهَرُ أَفْعَالِ التَّفَعُّلِ وَالتَّفَاعُلِ فِي الِاخْتِبَارَاتِ مَعَ حُرُوفِ الْجَرِّ",
+      "mantik": "YDS ve YÖKDİL Arapçada en yüksek puan getiren hazinelerden biri de **V. ve VI. bab harf-i cerli fiilleridir**! Bu fiiller sınav metinlerinin neredeyse her paragrafında karşına çıkar ve harf-i cerleriyle birlikte tek bir kalıp gibi ezberlenmelidir: (1) `تَعَرَّضَ لِـ` = maruz kalmak (`تَعَرَّضَ لِأَزْمَةٍ / لِخَطَرٍ`), (2) `تَمَكَّنَ مِنْ` = muktedir olmak, -ebilmek (`تَمَكَّنَ مِنْ حَلِّ الْمُشْكِلَةِ`), (3) `تَكَوَّنَ مِنْ` = -den oluşmak (`يَتَكَوَّنُ الْمَشْرُوعُ مِنْ ثَلَاثِ مَرَاحِلَ`), (4) `تَوَقَّفَ عَنْ` = -i bırakmak / durmak (`تَوَقَّفَ عَنِ التَّدْخِينِ`) vs. `تَوَقَّفَ عَلَى` = -e bağlı olmak (`يَتَوَقَّفُ النَّجَاحُ عَلَى الْجُهْدِ` — harf-i cer değişince anlam tamamen değişir!!), (5) `تَأَكَّدَ مِنْ` = -den emin olmak, (6) `تَعَامَلَ مَعَ` = -ile başa çıkmak / muamele etmek, (7) `تَنَاوَلَ` (harf-i cersiz!) = yemek/içmek (günlük) VE bir konuyu ele almak (akademik: `تَنَاوَلَ الْبَحْثُ قَضِيَّةَ الْمُنَاخِ`), (8) `تَجَاوَزَ` (harf-i cersiz!) = aşmak (`تَجَاوَزَ الْعَقَبَاتِ / تَجَاوَزَ الْعَدَدُ مِلْيُونًا`)!",
+      "formul": "تَعَرَّضَ لِـ · تَمَكَّنَ مِنْ · تَكَوَّنَ مِنْ · تَوَقَّفَ عَنْ (bırakmak) ≠ عَلَى (-e bağlı olmak) · تَعَامَلَ مَعَ · تَنَاوَلَ",
+      "formulAr": "تَعَرَّضَ لِلْخَطَرِ  |  تَمَكَّنَ مِنَ النَّجَاحِ  |  تَوَقَّفَ عَلَى الْجُهْدِ  |  تَعَامَلَ مَعَ الْأَزْمَةِ",
+      "tablo": {
+        "baslik": "YDS / YÖKDİL V. & VI. Bab Harf-i Cerli Fiiller Atlası",
+        "sutunlar": ["Fiil + Harf-i Cer", "Babı", "Akademik Anlamı", "YDS Örnek Cümlesi"],
+        "satirlar": [
+          { "hucreler": ["تَعَرَّضَ – يَتَعَرَّضُ لِـ", "V. Bab", "maruz kalmak, uğramak", "تَعَرَّضَتِ الْمَدِينَةُ لِعَاصِفَةٍ قَوِيَّةٍ."], "ar": "تَعَرَّضَتِ الْمَدِينَةُ لِعَاصِفَةٍ قَوِيَّةٍ." },
+          { "hucreler": ["تَمَكَّنَ – يَتَمَكَّنُ مِنْ", "V. Bab", "-ebilmek, başarmak", "تَمَكَّنَ الْعُلَمَاءُ مِنْ إِيجَادِ حَلٍّ."], "ar": "تَمَكَّنَ الْعُلَمَاءُ مِنْ إِيجَادِ حَلٍّ." },
+          { "hucreler": ["تَوَقَّفَ عَنْ ≠ عَلَى", "V. Bab", "عَنْ: bırakmak | عَلَى: -e bağlı olmak", "يَتَوَقَّفُ النَّجَاحُ عَلَى الصَّبْرِ وَالْعَمَلِ."], "ar": "يَتَوَقَّفُ النَّجَاحُ عَلَى الصَّبْرِ وَالْعَمَلِ." },
+          { "hucreler": ["تَكَوَّنَ – يَتَكَوَّنُ مِنْ", "V. Bab", "-den oluşmak", "يَتَكَوَّنُ الْكِتَابُ مِنْ خَمْسَةِ أَجْزَاءٍ."], "ar": "يَتَكَوَّنُ الْكِتَابُ مِنْ خَمْسَةِ أَجْزَاءٍ." },
+          { "hucreler": ["تَعَامَلَ – يَتَعَامَلُ مَعَ", "VI. Bab", "-ile ilgilenmek, başa çıkmak", "يَتَعَامَلُ الطَّبِيبُ مَعَ الْمَرْضَى بِرِفْقٍ."], "ar": "يَتَعَامَلُ الطَّبِيبُ مَعَ الْمَرْضَى بِرِفْقٍ." },
+          { "hucreler": ["تَنَاوَلَ / تَجَاوَزَ", "VI. Bab", "ele almak (yemek) / aşmak", "تَنَاوَلَ الْمَقَالُ تَجَاوُزَ الْعَقَبَاتِ."], "ar": "تَنَاوَلَ الْمَقَالُ قَضِيَّةَ التَّعْلِيمِ." }
+        ]
+      },
+      "trKiyas": "YDS sınavında harf-i cer tuzağının kralı `تَوَقَّفَ` fiilidir! `تَوَقَّفَ عَنِ الْعَمَلِ` = 'Çalışmayı bıraktı / durdurdu', ama `تَوَقَّفَ النَّجَاحُ عَلَى الْعَمَلِ` = 'Başarı çalışmaya bağlıdır'! Aynı fiilde tek bir harf-i cer (`عَنْ` vs. `عَلَى`) cümlenin anlamını %100 değiştirir!",
+      "sikHatalar": [
+        "تَعَرَّضَ fiilini إِلَى ile kullanmak (✗ تَعَرَّضَ إِلَى خَطَرٍ — ✓ تَعَرَّضَ لِخَطَرٍ; fasih Arapçada mutlaka لِـ alır!).",
+        "تَمَكَّنَ fiilini doğrudan mastarla veya عَلَى ile kullanmak (✗ تَمَكَّنَ عَلَى السَّفَرِ — ✓ تَمَكَّنَ مِنَ السَّفَرِ!).",
+        "تَنَاوَلَ fiilini akademik metinde hep 'yedi/içti' diye çevirmek (تَنَاوَلَ الدَّرْسُ / الْكِتَابُ / الْبَاحِثُ = 'ele aldı / işledi'!)."
+      ],
+      "ornekler": [
+        { "ar": "تَعَرَّضَتِ الْمِنْطَقَةُ لِمَوْجَةِ جَفَافٍ طَوِيلَةٍ هٰذَا الصَّيْفَ.", "okunus": "Te‘arradati'l-mıntakatu li-mevceti cefâfin tavîletin hâze's-sayfe.", "tr": "Bölge bu yaz uzun bir kuraklık dalgasına maruz kaldı.", "not": "تَعَرَّضَ لِـ = maruz kalmak" },
+        { "ar": "تَمَكَّنَ الْفَرِيقُ مِنْ تَجَاوُزِ الصُّعُوبَاتِ وَتَحْقِيقِ الْهَدَفِ.", "okunus": "Temekkene'l-ferîku min tecâvuzi's-su‘ûbâti ve tahkîkı'l-hedefi.", "tr": "Ekip zorlukları aşmayı ve hedefi gerçekleştirmeyi başardı.", "not": "تَمَكَّنَ مِنْ + تَجَاوُز (VI. bab mastar!)" },
+        { "ar": "يَتَوَقَّفُ نَجَاحُ الْمَشْرُوعِ عَلَى التَّخْطِيطِ السَّلِيمِ وَالتَّعَاوُنِ.", "okunus": "Yetevakkafu necâhu'l-meşrû‘i ‘ale't-tahtîti's-selîmi ve't-te‘âvuni.", "tr": "Projenin başarısı sağlam planlamaya ve iş birliğine bağlıdır.", "not": "تَوَقَّفَ عَلَى = -e bağlı olmak!" },
+        { "ar": "تَوَقَّفَ الْمَرِيضُ عَنِ التَّدْخِينِ تَمَامًا فَتَحَسَّنَتْ صِحَّتُهُ.", "okunus": "Tevakkafe'l-merîdu ‘ani't-tedhîni temâmen fe-tehassanet sıhhatuhu.", "tr": "Hasta sigarayı tamamen bıraktı, sağlığı da iyileşti.", "not": "تَوَقَّفَ عَنْ = bırakmak / durdurmak!" },
+        { "ar": "تَنَاوَلَ الْكِتَابُ الْجَدِيدُ قَضَايَا التَّرْبِيَةِ فِي الْعَصْرِ الرَّقْمِيِّ.", "okunus": "Tenâvele'l-kitâbu'l-cedîdu kadâye't-terbiyeti fi'l-‘asri'r-rakmiyyi.", "tr": "Yeni kitap dijital çağda eğitim meselelerini ele aldı.", "not": "تَنَاوَلَ = akademik anlamda 'ele aldı'!" },
+        { "ar": "تَعَامَلَتِ الْإِدَارَةُ مَعَ الْأَزْمَةِ بِحِكْمَةٍ وَهُدُوءٍ.", "okunus": "Te‘âmeleti'l-idâratu me‘a'l-ezmeti bi-hikmetin ve hudûin.", "tr": "Yönetim krizle hikmet ve sakinlikle başa çıktı.", "not": "تَعَامَلَ مَعَ = ilgilenmek / başa çıkmak" }
+      ],
+      "tatbikler": [
+        {
+          "id": "m26_t41",
+          "tip": "bosluk",
+          "soru": "'تَعَرَّضَ الْغَابَاتُ ..... حَرَائِقَ شَدِيدَةٍ فِي الصَّيْفِ.' (Ormanlar yazın şiddetli yangınlara maruz kaldı) boşluğuna ne gelir?",
+          "secenekler": ["لِـ (لِحَرَائِقَ)", "مِنْ", "عَنْ", "مَعَ"],
+          "dogruIndeks": 0,
+          "aciklama": "تَعَرَّضَ لِـ = maruz kalmak, uğramak."
+        },
+        {
+          "id": "m26_t42",
+          "tip": "bosluk",
+          "soru": "'تَمَكَّنَ الطَّالِبُ ..... قِرَاءَةِ النَّصِّ بِلَا حَرَكَاتٍ.' (Öğrenci metni harekesiz okumayı başardı) boşluğuna hangi harf-i cer gelir?",
+          "secenekler": ["مِنْ", "عَلَى", "لِـ", "عَنْ"],
+          "dogruIndeks": 0,
+          "aciklama": "تَمَكَّنَ مِنْ = -ebilmek, muktedir olmak."
+        },
+        {
+          "id": "m26_t43",
+          "tip": "bosluk",
+          "soru": "'يَتَوَقَّفُ تَقَدُّمُ الْأُمَمِ ..... جَوْدَةِ التَّعْلِيمِ.' (Milletlerin ilerlemesi eğitimin kalitesine bağlıdır) boşluğuna hangisi gelir?",
+          "secenekler": ["عَلَى", "عَنْ", "مِنْ", "لِـ"],
+          "dogruIndeks": 0,
+          "aciklama": "تَوَقَّفَ عَلَى = -e bağlı olmak; تَوَقَّفَ عَنْ = bırakmak/durmak!"
+        },
+        {
+          "id": "m26_t44",
+          "tip": "bosluk",
+          "soru": "'تَنَاوَلَ الْمُحَاضِرُ مَوْضُوعَ التَّغَيُّرِ الْمُنَاخِيِّ.' cümlesinde 'تَنَاوَلَ' hangi anlamdadır?",
+          "secenekler": ["Konuyu ele aldı / işledi", "Yemek yedi", "İlaç içti", "Kitabı bıraktı"],
+          "dogruIndeks": 0,
+          "aciklama": "Akademik metinlerde تَنَاوَلَ + konu/mesele = 'ele almak, incelemek' demektir."
+        },
+        {
+          "id": "m26_t45",
+          "tip": "bosluk",
+          "soru": "'كَيْفَ نَتَعَامَلُ ..... الضُّغُوطِ النَّفْسِيَّةِ؟' (Psikolojik baskılarla nasıl başa çıkarız?) boşluğuna ne gelir?",
+          "secenekler": ["مَعَ", "مِنْ", "عَنْ", "إِلَى"],
+          "dogruIndeks": 0,
+          "aciklama": "تَعَامَلَ مَعَ = -ile ilgilenmek, muamele etmek, başa çıkmak."
+        },
+        {
+          "id": "m26_t46",
+          "tip": "hata",
+          "soru": "'يَتَكَوَّنُ الْمَشْرُوعُ عَنْ أَرْبَعِ مَرَاحِلَ.' cümlesindeki harf-i cer hatası hangisidir?",
+          "secenekler": ["عَنْ yerine مِنْ gelmelidir (يَتَكَوَّنُ مِنْ)", "أَرْبَعِ yerine أَرْبَعَةِ gelmelidir", "يَتَكَوَّنُ yerine يُتَكَوِّنُ gelmelidir", "مَرَاحِلَ yerine مَرَاحِلٍ gelmelidir"],
+          "dogruIndeks": 0,
+          "aciklama": "تَكَوَّنَ مِنْ = -den oluşmak (مَرَاحِلَ gayr-i munsarif olduğu için fetha ile mecrûrdur)."
+        },
+        {
+          "id": "m26_t47",
+          "tip": "bosluk",
+          "soru": "'تَأَكَّدَ الْمُسَافِرُ ..... مَوْعِدِ الطَّائِرَةِ قَبْلَ الْخُرُوجِ.' (Yolcu çıkmadan önce uçak saatinden emin oldu) boşluğuna ne gelir?",
+          "secenekler": ["مِنْ", "عَلَى", "لِـ", "مَعَ"],
+          "dogruIndeks": 0,
+          "aciklama": "تَأَكَّدَ مِنْ = -den emin olmak, doğrulamak."
+        },
+        {
+          "id": "m26_t48",
+          "tip": "tr_ar",
+          "soru": "'Ziyaretçilerin sayısı bir milyonu aştı (تَجَاوَزَ)' cümlesinin doğru Arapçası hangisidir?",
+          "secenekler": ["تَجَاوَزَ عَدَدُ الزُّوَّارِ مِلْيُونًا.", "تَجَاوَزَ عَدَدُ الزُّوَّارِ عَلَى مِلْيُونٍ.", "يُتَجَاوِزُ عَدَدُ الزُّوَّارِ مِلْيُونًا.", "تَجَوَّزَ عَدَدُ الزُّوَّارِ مِلْيُونًا."],
+          "dogruIndeks": 0,
+          "aciklama": "تَجَاوَزَ (VI. bab) harf-i cersiz doğrudan nesne alır: تَجَاوَزَ عَدَدُ الزُّوَّارِ مِلْيُونًا."
+        },
+        {
+          "id": "m26_t49",
+          "tip": "bosluk",
+          "soru": "'تَعَلَّقَ الْقَرَارُ ..... مِيزَانِيَّةِ الْعَامِ الْقَادِمِ.' (Karar gelecek yılın bütçesiyle ilgiliydi) boşluğuna ne gelir?",
+          "secenekler": ["بِـ (بِمِيزَانِيَّةِ)", "عَنْ", "مِنْ", "لِـ"],
+          "dogruIndeks": 0,
+          "aciklama": "تَعَلَّقَ بِـ = -ile ilgili olmak, -e bağlı olmak (فِيمَا يَتَعَلَّقُ بِـ = ... konusuna gelince!)."
+        },
+        {
+          "id": "m26_t50",
+          "tip": "bosluk",
+          "soru": "YDS'de çok sık geçen 'فِيمَا يَتَعَلَّقُ بِـ...' kalıbının tam Türkçe karşılığı nedir?",
+          "secenekler": ["... ile ilgili olarak / ... konusuna gelince", "... -den uzaklaşarak", "... -e rağmen", "... -den sonra"],
+          "dogruIndeks": 0,
+          "aciklama": "تَعَلَّقَ بِـ fiilinden türeyen فِيمَا يَتَعَلَّقُ بِـ akademik metinlerin en sık konu geçiş kalıbıdır!"
+        }
+      ]
+    }
+  ],
+  "workshop": {
+    "motors": [
+      {
+        "id": "m26_mot1",
+        "baslik": "II. Bab → V. Bab Mutâvaat (Dönüşlülük) Motoru",
+        "aciklama": "V. bab dönüşlü fiilleri (تَعَلَّمَ، تَطَوَّرَ، تَحَسَّنَ، تَغَيَّرَ، تَدَرَّبَ، تَوَجَّهَ) özneleriyle kur.",
+        "slotlar": [
+          {
+            "etiket": "V. Bab Fiil + Özne",
+            "secenekler": [
+              { "ar": "تَطَوَّرَتِ التِّقْنِيَّةُ", "tr": "Teknoloji gelişti" },
+              { "ar": "تَحَسَّنَتْ صِحَّةُ الْمَرِيضِ", "tr": "Hastanın sağlığı iyileşti" },
+              { "ar": "تَغَيَّرَ الطَّقْسُ", "tr": "Hava değişti" },
+              { "ar": "يَتَعَلَّمُ الطُّلَّابُ", "tr": "Öğrenciler öğreniyor" },
+              { "ar": "تَدَرَّبَ اللَّاعِبُونَ", "tr": "Oyuncular antrenman yaptı" },
+              { "ar": "تَوَجَّهَ الْمُسَافِرُونَ", "tr": "Yolcular yöneldi" }
+            ]
+          },
+          {
+            "etiket": "Tamamlayıcı",
+            "secenekler": [
+              { "ar": "تَطَوُّرًا مَذْهِلًا فِي الْعَقْدِ الْأَخِيرِ.", "tr": "son on yılda şaşırtıcı bir gelişmeyle." },
+              { "ar": "بَعْدَ الِالْتِزَامِ بِالْعِلَاجِ وَالرَّاحَةِ.", "tr": "tedaviye ve dinlenmeye uyduktan sonra." },
+              { "ar": "فَجْأَةً قُبَيْلَ غُرُوبِ الشَّمْسِ.", "tr": "güneş batmadan hemen önce aniden." },
+              { "ar": "قَوَاعِدَ الْمَزِيدِ بِطَرِيقَةٍ تَفَاعُلِيَّةٍ.", "tr": "mezîd kurallarını etkileşimli bir yolla." },
+              { "ar": "بِجِدٍّ اسْتِعْدَادًا لِلْبُطُولَةِ الدَّوْلِيَّةِ.", "tr": "uluslararası şampiyonaya hazırlık için ciddiyetle." },
+              { "ar": "إِلَى الْمَحَطَّةِ قَبْلَ انْطِلَاقِ الْقِطَارِ.", "tr": "tren kalkmadan önce istasyona." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m26_mot2",
+        "baslik": "VI. Bab Karşılıklılık & Tezâhur Motoru",
+        "aciklama": "Karşılıklı eylemler (تَعَاوَنَ، تَبَادَلَ، تَصَافَحَ) ve 'gibi görünme' (تَجَاهَلَ، تَمَارَضَ) cümleleri üret.",
+        "slotlar": [
+          {
+            "etiket": "VI. Bab Fiil + Özne",
+            "secenekler": [
+              { "ar": "تَعَاوَنَ الْبَاحِثُونَ وَالطُّلَّابُ", "tr": "Araştırmacılar ve öğrenciler yardımlaştı" },
+              { "ar": "تَبَادَلَ الْوَفْدَانِ", "tr": "İki heyet karşılıklı paylaştı" },
+              { "ar": "تَصَافَحَ الصَّدِيقَانِ", "tr": "İki arkadaş tokalaştı" },
+              { "ar": "تَتَزَايَدُ أَهَمِّيَّةُ الْقِرَاءَةِ", "tr": "Okumanın önemi giderek artıyor" },
+              { "ar": "تَجَاهَلَ السَّائِقُ الْمُهْمِلُ", "tr": "Dikkatsiz sürücü görmezden geldi" },
+              { "ar": "تَفَاعَلَ الْحَاضِرُونَ", "tr": "Katılımcılar etkileşime geçti" }
+            ]
+          },
+          {
+            "etiket": "Tamamlayıcı",
+            "secenekler": [
+              { "ar": "عَلَى إِنْجَازِ الْمَشْرُوعِ فِي وَقْتِهِ.", "tr": "projeyi vaktinde tamamlamak için." },
+              { "ar": "الْخِبْرَاتِ وَالْهَدَايَا التَّذْكَارِيَّةَ.", "tr": "tecrübeleri ve hatıra hediyelerini." },
+              { "ar": "بِحَرَارَةٍ بَعْدَ طُولِ غِيَابٍ.", "tr": "uzun bir ayrılıktan sonra hararetle." },
+              { "ar": "تَزَايُدًا وَاضِحًا فِي عَصْرِ الْمَعْرِفَةِ.", "tr": "bilgi çağında belirgin bir artışla." },
+              { "ar": "إِشَارَاتِ الْمُرُورِ وَتَحْذِيرَاتِ الشُّرْطَةِ.", "tr": "trafik işaretlerini ve polis uyarılarını." },
+              { "ar": "مَعَ الْمُحَاضِرِ بِأَسْئِلَةٍ عَمِيقَةٍ.", "tr": "konuşmacıyla derin sorularla." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m26_mot3",
+        "baslik": "V. & VI. Bab Hemzesiz Emir Motoru",
+        "aciklama": "تَعَلَّمْ، تَكَلَّمْ، تَفَاءَلْ، تَعَاوَنُوا gibi hemzesiz emirlerle güçlü öğütler kur.",
+        "slotlar": [
+          {
+            "etiket": "Hitap",
+            "secenekler": [
+              { "ar": "يَا طَالِبَ الْعِلْمِ،", "tr": "Ey ilim öğrencisi," },
+              { "ar": "يَا أَصْدِقَائِي،", "tr": "Arkadaşlarım," },
+              { "ar": "يَا بُنَيَّ،", "tr": "Evladım," },
+              { "ar": "يَا طُلَّابُ،", "tr": "Ey öğrenciler," },
+              { "ar": "يَا أُخْتِي،", "tr": "Kız kardeşim," },
+              { "ar": "يَا زُمَلَائِي،", "tr": "Meslektaşlarım," }
+            ]
+          },
+          {
+            "etiket": "V. / VI. Bab Emir & Nehiy",
+            "secenekler": [
+              { "ar": "تَعَلَّمْ كُلَّ يَوْمٍ شَيْئًا جَدِيدًا وَلَا تَتَكَاسَلْ!", "tr": "her gün yeni bir şey öğren ve tembellik etme!" },
+              { "ar": "تَعَاوَنُوا عَلَى الْخَيْرِ وَتَبَادَلُوا الْمَعْرِفَةَ!", "tr": "hayır üzerine yardımlaşın ve bilgiyi paylaşın!" },
+              { "ar": "تَفَاءَلْ بِالْمُسْتَقْبَلِ وَلَا تَتَشَاءَمْ أَبَدًا!", "tr": "gelecek konusunda iyimser ol ve asla kötümser olma!" },
+              { "ar": "تَكَلَّمُوا بِالْعَرَبِيَّةِ بِثِقَةٍ وَتَدَرَّبُوا بِاسْتِمْرَارٍ!", "tr": "Arapçayı özgüvenle konuşun ve sürekli pratik yapın!" },
+              { "ar": "تَأَكَّدِي مِنَ الْمَعْلُومَةِ قَبْلَ نَشْرِهَا!", "tr": "bilgiyi paylaşmadan önce doğruluğundan emin ol!" },
+              { "ar": "تَحَمَّلُوا الْمَسْؤُولِيَّةَ وَتَعَامَلُوا مَعَ الصُّعُوبَاتِ بِحِكْمَةٍ!", "tr": "sorumluluk üstlenin ve zorluklarla hikmetle başa çıkın!" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m26_mot4",
+        "baslik": "YDS Harf-i Cerli V. & VI. Bab Motoru",
+        "aciklama": "تَعَرَّضَ لِـ, تَمَكَّنَ مِنْ, تَوَقَّفَ عَلَى/عَنْ, تَعَامَلَ مَعَ, تَعَلَّقَ بِـ kalıplarını refleks hâline getir.",
+        "slotlar": [
+          {
+            "etiket": "YDS Fiili + Harf-i Cer",
+            "secenekler": [
+              { "ar": "تَعَرَّضَتِ الْمِنْطَقَةُ لِـ", "tr": "Bölge maruz kaldı:" },
+              { "ar": "تَمَكَّنَ الْبَاحِثُونَ مِنْ", "tr": "Araştırmacılar başardı:" },
+              { "ar": "يَتَوَقَّفُ نَجَاحُ الْخُطَّةِ عَلَى", "tr": "Planın başarısı bağlıdır:" },
+              { "ar": "تَوَقَّفَ الْمَرِيضُ عَنْ", "tr": "Hasta bıraktı:" },
+              { "ar": "تَعَامَلَ الْفَرِيقُ مَعَ", "tr": "Ekip başa çıktı:" },
+              { "ar": "تَتَكَوَّنُ الْمَوْسُوعَةُ مِنْ", "tr": "Ansiklopedi oluşuyor:" }
+            ]
+          },
+          {
+            "etiket": "Mecrûr Devam",
+            "secenekler": [
+              { "ar": "عَاصِفَةٍ ثَلْجِيَّةٍ غَيْرِ مَسْبُوقَةٍ.", "tr": "benzeri görülmemiş bir kar fırtınasına." },
+              { "ar": "تَطْوِيرِ لِقَاحٍ آمِنٍ وَفَعَّالٍ.", "tr": "güvenli ve etkili bir aşı geliştirmeyi." },
+              { "ar": "الِالْتِزَامِ بِالْجَدْوَلِ الزَّمَنِيِّ وَالتَّنْسِيقِ.", "tr": "zaman çizelgesine uymaya ve koordinasyona." },
+              { "ar": "الْعَادَاتِ الضَّارَّةِ بِصِحَّتِهِ.", "tr": "sağlığına zararlı alışkanlıkları." },
+              { "ar": "الْأَزْمَةِ الطَّارِئَةِ بِهُدُوءٍ وَكَفَاءَةٍ.", "tr": "acil krizle sakinlik ve yetkinlikle." },
+              { "ar": "خَمْسَةِ مُجَلَّدَاتٍ وَخَمْسٍ وَخَمْسِينَ وَحْدَةً.", "tr": "beş cilt ve elli beş üniteden." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m26_mot5",
+        "baslik": "V. & VI. Bab Meçhul Motoru (يُتَوَقَّعُ / تُبُودِلَ / تُنُووِلَ)",
+        "aciklama": "Basın ve akademik metinlerdeki V. ve VI. bab meçhul yapılarını eksiksiz kur.",
+        "slotlar": [
+          {
+            "etiket": "V. / VI. Bab Meçhul",
+            "secenekler": [
+              { "ar": "يُتَوَقَّعُ أَنْ", "tr": "Bekleniyor ki" },
+              { "ar": "تُبُودِلَتْ", "tr": "Karşılıklı paylaşıldı" },
+              { "ar": "تُنُووِلَتْ", "tr": "Ele alındı" },
+              { "ar": "تُقُبِّلَتْ", "tr": "Kabul edildi" },
+              { "ar": "يُتَحَدَّثُ الْيَوْمَ عَنْ", "tr": "Bugün söz ediliyor" },
+              { "ar": "تُعُلِّمَتْ", "tr": "Öğrenildi" }
+            ]
+          },
+          {
+            "etiket": "Nâib-i Fâil / Devam",
+            "secenekler": [
+              { "ar": "تَتَحَسَّنَ الظُّرُوفُ الِاقْتِصَادِيَّةُ الْعَامَ الْقَادِمَ.", "tr": "gelecek yıl ekonomik koşullar iyileşsin." },
+              { "ar": "الْآرَاءُ وَالْمُقْتَرَحَاتُ بَيْنَ الْوُفُودِ الْمُشَارِكَةِ.", "tr": "katılımcı heyetler arasında görüşler ve öneriler." },
+              { "ar": "قَضِيَّةُ التَّعْلِيمِ الرَّقْمِيِّ فِي الْجَلْسَةِ الْأُولَى.", "tr": "ilk oturumda dijital eğitim meselesi." },
+              { "ar": "الدَّعْوَةُ بِسُرُورٍ وَامْتِنَانٍ كَبِيرٍ.", "tr": "davet büyük bir sevinç ve minnettarlıkla." },
+              { "ar": "ثَوْرَةٍ عِلْمِيَّةٍ فِي مَجَالِ الطِّبِّ الْحَدِيثِ.", "tr": "modern tıp alanında bilimsel bir devrimden." },
+              { "ar": "هٰذِهِ الْقَوَاعِدُ بِالتَّدْرِيبِ وَالْمُمَارَسَةِ.", "tr": "bu kurallar alıştırma ve pratikle." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m26_mot6",
+        "baslik": "V. & VI. Bab Mastarlar Motoru (تَفَعُّل vs. تَفَاعُل)",
+        "aciklama": "تَقَدُّم، تَطَوُّر، تَحَدٍّ ile تَعَاوُن، تَبَادُل، تَفَاعُل mastarlarını akademik tamlamalarda kullan.",
+        "slotlar": [
+          {
+            "etiket": "Başlangıç",
+            "secenekler": [
+              { "ar": "شَهِدَ الْعَالَمُ فِي الْآوِنَةِ الْأَخِيرَةِ", "tr": "Dünya son zamanlarda tanık oldu:" },
+              { "ar": "يُؤَدِّي التَّخْطِيطُ السَّلِيمُ إِلَى", "tr": "Sağlam planlama yol açar:" },
+              { "ar": "فِيمَا يَتَعَلَّقُ بِـ", "tr": "Konusuna gelince:" },
+              { "ar": "أَكَّدَ الْمُؤْتَمَرُ ضَرُورَةَ", "tr": "Konferans gerekliliğini vurguladı:" },
+              { "ar": "نُوَاجِهُ فِي هٰذَا الْعَصْرِ", "tr": "Bu çağda yüzleşiyoruz:" },
+              { "ar": "تَسْعَى الْجَامِعَاتُ إِلَى", "tr": "Üniversiteler çabalıyor:" }
+            ]
+          },
+          {
+            "etiket": "V. / VI. Bab Mastar Grubu",
+            "secenekler": [
+              { "ar": "تَطَوُّرًا عِلْمِيًّا وَتَقَدُّمًا تِقْنِيًّا مُتَسَارِعًا.", "tr": "hızlanan bilimsel gelişime ve teknolojik ilerlemeye." },
+              { "ar": "تَحَسُّنِ الْأَدَاءِ وَتَجَاوُزِ الْعَقَبَاتِ.", "tr": "performansın iyileşmesine ve engellerin aşılmasına." },
+              { "ar": "التَّعَاوُنِ الدَّوْلِيِّ وَتَبَادُلِ الْخِبْرَاتِ، فَالنَّتَائِجُ مُشَجِّعَةٌ.", "tr": "uluslararası iş birliği ve tecrübe paylaşımı, sonuçlar cesaret verici." },
+              { "ar": "التَّفَاعُلِ الْإِيجَابِيِّ وَالتَّفَاهُمِ الْمُتَبَادَلِ.", "tr": "olumlu etkileşimin ve karşılıklı anlayışın." },
+              { "ar": "تَحَدِّيَاتٍ مُتَنَوِّعَةٍ تَتَطَلَّبُ تَفَكُّرًا عَمِيقًا.", "tr": "derin düşünme gerektiren çeşitli meydan okumalarla." },
+              { "ar": "تَعَلُّمٍ مُسْتَمِرٍّ وَتَخَرُّجِ كَوَادِرَ مُؤَهَّلَةٍ.", "tr": "sürekli öğrenmeye ve nitelikli kadroların mezun olmasına." }
+            ]
+          }
+        ]
+      }
+    ],
+    "merdivenler": [
+      {
+        "id": "m26_l1",
+        "baslik": "V. Bab (Tefe'ul) Akademik Merdiven",
+        "adimlar": [
+          { "seviye": "A1", "ar": "تَعَلَّمَ الطَّالِبُ الْعَرَبِيَّةَ.", "okunus": "Te‘alleme't-tâlibu'l-‘arabiyyete.", "tr": "Öğrenci Arapça öğrendi.", "ekleme": "Temel V. bab" },
+          { "seviye": "A1+", "ar": "تَعَلَّمَ الطَّالِبُ الْعَرَبِيَّةَ وَتَحَسَّنَ مُسْتَوَاهُ.", "okunus": "Te‘alleme't-tâlibu'l-‘arabiyyete ve tehassane mustevâhu.", "tr": "Öğrenci Arapça öğrendi ve seviyesi iyileşti.", "ekleme": "تَحَسَّنَ (II→V mutâvaat)" },
+          { "seviye": "A2", "ar": "تَدَرَّبَ الطَّالِبُ يَوْمِيًّا حَتَّى تَمَكَّنَ مِنَ التَّكَلُّمِ بِثِقَةٍ.", "okunus": "Tederrabe't-tâlibu yevmiyyen hattâ temekkene mine't-tekellumi bi-sikatin.", "tr": "Öğrenci özgüvenle konuşmayı başarıncaya dek her gün pratik yaptı.", "ekleme": "تَدَرَّبَ + تَمَكَّنَ مِنْ + تَكَلُّم" },
+          { "seviye": "B1", "ar": "يَتَوَقَّفُ تَقَدُّمُ الْمُتَعَلِّمِ عَلَى التَّدَرُّبِ الْمُسْتَمِرِّ وَتَقَبُّلِ النَّصِيحَةِ بِصَدْرٍ رَحْبٍ.", "okunus": "Yetevakkafu tekaddumu'l-mute‘allimi ‘ale't-tederrubi'l-mustemirri ve tekabbuli'n-nasîhati bi-sadrin rahbin.", "tr": "Öğrenenin ilerlemesi, sürekli pratik yapmaya ve öğüdü açık yüreklilikle kabul etmeye bağlıdır.", "ekleme": "تَوَقَّفَ عَلَى + V. bab mastarları" },
+          { "seviye": "B2", "ar": "فِيمَا يَتَعَلَّقُ بِتَعَلُّمِ اللُّغَاتِ، يُتَوَقَّعُ أَنْ تَتَطَوَّرَ الْمَنَاهِجُ الرَّقْمِيَّةُ تَطَوُّرًا يُمَكِّنُ كُلَّ طَالِبٍ مِنْ تَجَاوُزِ الصُّعُوبَاتِ.", "okunus": "Fîmâ yete‘allaku bi-te‘allumi'l-lugâti, yutevakka‘u en tetatavvara'l-menâhicu'r-rakmiyyetu tatavvuran yumekkinu kulle tâlibin min tecâvuzi's-su‘ûbâti.", "tr": "Dil öğrenimine gelince, dijital müfredatların her öğrencinin zorlukları aşmasını mümkün kılacak biçimde gelişmesi beklenmektedir.", "ekleme": "فِيمَا يَتَعَلَّقُ بِـ + يُتَوَقَّعُ أَنْ + تَجَاوُز!" }
+        ]
+      },
+      {
+        "id": "m26_l2",
+        "baslik": "VI. Bab (Tefâul) İş Birliği Merdiveni",
+        "adimlar": [
+          { "seviye": "A1", "ar": "تَعَاوَنَ الصَّدِيقَانِ.", "okunus": "Te‘âvene's-sadîkâni.", "tr": "İki arkadaş yardımlaştı.", "ekleme": "Temel VI. bab" },
+          { "seviye": "A1+", "ar": "تَعَاوَنَ الصَّدِيقَانِ وَتَبَادَلَا الْكُتُبَ.", "okunus": "Te‘âvene's-sadîkâni ve tebâdele'l-kutube.", "tr": "İki arkadaş yardımlaştı ve kitap değiş tokuşu yaptı.", "ekleme": "تَبَادَلَ (karşılıklı)" },
+          { "seviye": "A2", "ar": "تَتَعَاوَنُ الْجَامِعَاتُ وَتَتَبَادَلُ الْخِبْرَاتِ لِتَجَاوُزِ التَّحَدِّيَاتِ الْعِلْمِيَّةِ.", "okunus": "Tete‘âvenu'l-câmi‘âtu ve tetebâdelu'l-hıbrâti li-tecâvuzi't-tehaddiyâti'l-‘ilmiyyeti.", "tr": "Üniversiteler bilimsel zorlukları aşmak için iş birliği yapıyor ve tecrübe paylaşıyor.", "ekleme": "Fethalı muzâri + تَجَاوُز + تَحَدِّيَات" },
+          { "seviye": "B1", "ar": "تُبُودِلَتِ الْأَفْكَارُ خِلَالَ الْمُؤْتَمَرِ، وَتَنَاوَلَ الْخُبَرَاءُ سُبُلَ التَّعَامُلِ مَعَ الْأَزَمَاتِ الْمُنَاخِيَّةِ.", "okunus": "Tubûdileti'l-efkâru hilâle'l-mu'temeri, ve tenâvele'l-huberâu subule't-te‘âmuli me‘a'l-ezemâti'l-munâhiyyeti.", "tr": "Konferans boyunca fikirler paylaşıldı ve uzmanlar iklim krizleriyle başa çıkma yollarını ele aldılar.", "ekleme": "Meçhul تُبُودِلَتْ + تَنَاوَلَ + تَعَامُل مَعَ" },
+          { "seviye": "B2", "ar": "فِي ظِلِّ تَزَايُدِ التَّحَدِّيَاتِ الْعَالَمِيَّةِ، لَا يُمْكِنُ لِأَيِّ دَوْلَةٍ أَنْ تَتَجَاهَلَ ضَرُورَةَ التَّعَاوُنِ وَالتَّكَامُلِ الْعِلْمِيِّ.", "okunus": "Fî zılli tezâyudi't-tehaddiyâti'l-‘âlemiyyeti, lâ yumkinu li-eyyi devletin en tetecâhele darûrata't-te‘âvuni ve't-tekâmuli'l-‘ilmiyyi.", "tr": "Küresel zorlukların giderek artması gölgesinde hiçbir ülke iş birliğinin ve bilimsel bütünleşmenin gerekliliğini görmezden gelemez.", "ekleme": "تَزَايُد + تَتَجَاهَلَ + تَعَاوُن + تَكَامُل!" }
+        ]
+      },
+      {
+        "id": "m26_l3",
+        "baslik": "YDS Harf-i Cerli V. Bab Merdiveni (تَعَرَّضَ / تَمَكَّنَ)",
+        "adimlar": [
+          { "seviye": "A1", "ar": "تَعَرَّضَتِ الْمَدِينَةُ لِلْمَطَرِ.", "okunus": "Te‘arradati'l-medînetu li'l-matari.", "tr": "Şehir yağmura maruz kaldı.", "ekleme": "تَعَرَّضَ لِـ" },
+          { "seviye": "A1+", "ar": "تَعَرَّضَتِ الْمَدِينَةُ لِعَاصِفَةٍ، وَلٰكِنَّ السُّكَّانَ تَعَاوَنُوا.", "okunus": "Te‘arradati'l-medînetu li-‘âsıfetin, ve lâkinne's-sukkâne te‘âvenû.", "tr": "Şehir bir fırtınaya maruz kaldı, fakat sakinler yardımlaştı.", "ekleme": "تَعَرَّضَ لِـ + تَعَاوَنَ" },
+          { "seviye": "A2", "ar": "تَعَامَلَتِ الْفِرَقُ الطَّارِئَةُ مَعَ الْأَزْمَةِ وَتَمَكَّنَتْ مِنْ حِمَايَةِ السُّكَّانِ.", "okunus": "Te‘âmeleti'l-firaku't-târietu me‘a'l-ezmeti ve temekkenet min himâyeti's-sukkâni.", "tr": "Acil ekipler krizle başa çıktı ve sakinleri korumayı başardı.", "ekleme": "تَعَامَلَ مَعَ + تَمَكَّنَ مِنْ" },
+          { "seviye": "B1", "ar": "بَعْدَ أَنْ تَأَكَّدَ الْمُهَنْدِسُونَ مِنْ سَلَامَةِ الْجُسُورِ، تَوَقَّفَتْ حَالَةُ الطَّوَارِئِ وَعَادَتِ الْحَيَاةُ طَبِيعِيَّةً.", "okunus": "Ba‘de en teekkede'l-muhendisûne min selâmeti'l-cusûri, tevakkafet hâletu't-tavârii ve ‘âdeti'l-hayâtu tabî‘iyyeten.", "tr": "Mühendisler köprülerin güvenliğinden emin olduktan sonra acil durum sona erdi ve hayat normale döndü.", "ekleme": "تَأَكَّدَ مِنْ + تَوَقَّفَ" },
+          { "seviye": "B2", "ar": "تَشِيرُ التَّجَارِبُ إِلَى أَنَّ قُدْرَةَ الْمُجْتَمَعَاتِ عَلَى تَجَاوُزِ الْكَوَارِثِ تَتَوَقَّفُ عَلَى مَدَى تَعَاوُنِهَا وَتَأَهُّبِهَا الْمُسْبَقِ.", "okunus": "Tuşîru't-tecâribu ilâ enne kudrate'l-muctema‘âti ‘alâ tecâvuzi'l-kevârisi tetevakkafu ‘alâ medâ te‘âvunihâ ve teehhubihe'l-musbakı.", "tr": "Tecrübeler, toplumların afetleri aşma gücünün iş birliği ve ön hazırlık düzeyine bağlı olduğuna işaret ediyor.", "ekleme": "تَجَاوُز + تَتَوَقَّفُ عَلَى + تَأَهُّب!" }
+        ]
+      },
+      {
+        "id": "m26_l4",
+        "baslik": "Hemzesiz Emirler ve Hayat Felsefesi Merdiveni",
+        "adimlar": [
+          { "seviye": "A1", "ar": "تَفَاءَلْ دَائِمًا!", "okunus": "Tefâel dâimen!", "tr": "Daima iyimser ol!", "ekleme": "VI. bab hemzesiz emir" },
+          { "seviye": "A1+", "ar": "تَفَاءَلْ وَتَعَلَّمْ مِنْ أَخْطَائِكَ!", "okunus": "Tefâel ve te‘allem min ahtâike!", "tr": "İyimser ol ve hatalarından öğren!", "ekleme": "VI. + V. bab emri" },
+          { "seviye": "A2", "ar": "تَوَكَّلْ عَلَى اللّٰهِ، وَتَشَجَّعْ عِنْدَ الشِّدَّةِ، وَلَا تَتَرَدَّدْ فِي فِعْلِ الْخَيْرِ!", "okunus": "Tevekkel ‘alellâhi, ve teşecca‘ ‘inde'ş-şiddeti, ve lâ teteradded fî fi‘li'l-hayri!", "tr": "Allah'a tevekkül et, zorlukta cesaretlen ve hayır yapmakta tereddüt etme!", "ekleme": "تَوَكَّلْ + تَشَجَّعْ + لَا تَتَرَدَّدْ" },
+          { "seviye": "B1", "ar": "تَعَامَلُوا مَعَ النَّاسِ بِرِفْقٍ، وَتَقَبَّلُوا اخْتِلَافَ الْآرَاءِ، وَتَجَنَّبُوا الْغَضَبَ وَالتَّسَرُّعَ!", "okunus": "Te‘âmelû me‘a'n-nâsi bi-rifkın, ve tekabbelû'htilâfe'l-ârâi, ve tecennebû'l-gadabe ve't-teserru‘a!", "tr": "İnsanlara nezaketle davranın, görüş farklılıklarını kabul edin ve öfke ile acelecilikten sakının!", "ekleme": "Çoğul V. & VI. bab emirleri" },
+          { "seviye": "B2", "ar": "تَأَمَّلُوا فِي آيَاتِ الْكَوْنِ، وَتَفَكَّرُوا فِي عَظَمَةِ الْخَلْقِ، وَتَعَاوَنُوا عَلَى بِنَاءِ عَالَمٍ يَسُودُهُ التَّسَامُحُ وَالتَّرَاحُمُ!", "okunus": "Teemmelû fî âyâti'l-kevni, ve tefekkerû fî ‘azameti'l-halkı, ve te‘âvenû ‘alâ binâi ‘âlemin yesûduhu't-tesâmuhu ve't-terâhumu!", "tr": "Evrenin ayetlerini derinlemesine düşünün, yaratılışın yüceliği üzerine tefekkür edin ve hoşgörü ile merhametleşmenin hâkim olduğu bir dünya inşa etmek için yardımlaşın!", "ekleme": "تَأَمَّلُوا + تَفَكَّرُوا + تَعَاوَنُوا + تَسَامُح + تَرَاحُم!" }
+        ]
+      }
+    ],
+    "bloklar": [
+      { "id": "m26_b1", "tr": "Öğrenciler Arapçayı tutkuyla öğreniyor.", "hedefAr": "يَتَعَلَّمُ الطُّلَّابُ اللُّغَةَ الْعَرَبِيَّةَ بِشَغَفٍ", "karisik": ["بِشَغَفٍ", "اللُّغَةَ", "يَتَعَلَّمُ", "الْعَرَبِيَّةَ", "الطُّلَّابُ"] },
+      { "id": "m26_b2", "tr": "Teknoloji çağımızda hızla gelişiyor.", "hedefAr": "تَتَطَوَّرُ التِّقْنِيَّةُ بِسُرْعَةٍ فِي عَصْرِنَا", "karisik": ["عَصْرِنَا", "تَتَطَوَّرُ", "بِسُرْعَةٍ", "فِي", "التِّقْنِيَّةُ"] },
+      { "id": "m26_b3", "tr": "Tedaviden sonra hastanın sağlığı iyileşti.", "hedefAr": "تَحَسَّنَتْ صِحَّةُ الْمَرِيضِ بَعْدَ الْعِلَاجِ", "karisik": ["الْعِلَاجِ", "تَحَسَّنَتْ", "الْمَرِيضِ", "بَعْدَ", "صِحَّةُ"] },
+      { "id": "m26_b4", "tr": "Akşam hava aniden değişti.", "hedefAr": "تَغَيَّرَ الطَّقْسُ فَجْأَةً فِي الْمَسَاءِ", "karisik": ["الْمَسَاءِ", "فَجْأَةً", "تَغَيَّرَ", "فِي", "الطَّقْسُ"] },
+      { "id": "m26_b5", "tr": "Öğrenciler ve öğretmenler sergi için yardımlaştı.", "hedefAr": "تَعَاوَنَ الطُّلَّابُ وَالْمُعَلِّمُونَ لِتَنْظِيمِ الْمَعْرِضِ", "karisik": ["الْمَعْرِضِ", "تَعَاوَنَ", "وَالْمُعَلِّمُونَ", "لِتَنْظِيمِ", "الطُّلَّابُ"] },
+      { "id": "m26_b6", "tr": "Uzmanlar konferansta tecrübe alışverişinde bulundu.", "hedefAr": "تَبَادَلَ الْخُبَرَاءُ الْخِبْرَاتِ فِي الْمُؤْتَمَرِ", "karisik": ["الْمُؤْتَمَرِ", "الْخِبْرَاتِ", "تَبَادَلَ", "فِي", "الْخُبَرَاءُ"] },
+      { "id": "m26_b7", "tr": "İki arkadaş uzun ayrılıktan sonra tokalaştı.", "hedefAr": "تَصَافَحَ الصَّدِيقَانِ بَعْدَ غِيَابٍ طَوِيلٍ", "karisik": ["طَوِيلٍ", "تَصَافَحَ", "غِيَابٍ", "بَعْدَ", "الصَّدِيقَانِ"] },
+      { "id": "m26_b8", "tr": "Çocuk okula gitmemek için hasta numarası yaptı.", "hedefAr": "تَمَارَضَ الطِّفْلُ كَيْ لَا يَذْهَبَ إِلَى الْمَدْرَسَةِ", "karisik": ["الْمَدْرَسَةِ", "كَيْ", "تَمَارَضَ", "يَذْهَبَ", "لَا", "إِلَى", "الطِّفْلُ"] },
+      { "id": "m26_b9", "tr": "Temiz enerjinin önemi giderek artıyor.", "hedefAr": "تَتَزَايَدُ أَهَمِّيَّةُ الطَّاقَةِ النَّظِيفَةِ كُلَّ عَامٍ", "karisik": ["عَامٍ", "الطَّاقَةِ", "تَتَزَايَدُ", "النَّظِيفَةِ", "كُلَّ", "أَهَمِّيَّةُ"] },
+      { "id": "m26_b10", "tr": "İyilik üzerine yardımlaşın ve ayrılığa düşmeyin!", "hedefAr": "تَعَاوَنُوا عَلَى الْبِرِّ وَلَا تَتَفَرَّقُوا", "karisik": ["تَتَفَرَّقُوا", "عَلَى", "تَعَاوَنُوا", "وَلَا", "الْبِرِّ"] },
+      { "id": "m26_b11", "tr": "Yarın hava koşullarının iyileşmesi bekleniyor.", "hedefAr": "يُتَوَقَّعُ أَنْ تَتَحَسَّنَ الْأَحْوَالُ الْجَوِّيَّةُ غَدًا", "karisik": ["غَدًا", "أَنْ", "يُتَوَقَّعُ", "الْجَوِّيَّةُ", "تَتَحَسَّنَ", "الْأَحْوَالُ"] },
+      { "id": "m26_b12", "tr": "Bölge şiddetli bir fırtınaya maruz kaldı.", "hedefAr": "تَعَرَّضَتِ الْمِنْطَقَةُ لِعَاصِفَةٍ شَدِيدَةٍ", "karisik": ["شَدِيدَةٍ", "الْمِنْطَقَةُ", "تَعَرَّضَتِ", "لِعَاصِفَةٍ"] },
+      { "id": "m26_b13", "tr": "Ekip zorlukları aşmayı başardı.", "hedefAr": "تَمَكَّنَ الْفَرِيقُ مِنْ تَجَاوُزِ الصُّعُوبَاتِ", "karisik": ["الصُّعُوبَاتِ", "مِنْ", "تَمَكَّنَ", "تَجَاوُزِ", "الْفَرِيقُ"] },
+      { "id": "m26_b14", "tr": "Başarı sağlam planlamaya bağlıdır.", "hedefAr": "يَتَوَقَّفُ النَّجَاحُ عَلَى التَّخْطِيطِ السَّلِيمِ", "karisik": ["السَّلِيمِ", "عَلَى", "يَتَوَقَّفُ", "التَّخْطِيطِ", "النَّجَاحُ"] },
+      { "id": "m26_b15", "tr": "Yeni kitap dijital çağda eğitimi ele aldı.", "hedefAr": "تَنَاوَلَ الْكِتَابُ الْجَدِيدُ التَّعْلِيمَ فِي الْعَصْرِ الرَّقْمِيِّ", "karisik": ["الرَّقْمِيِّ", "التَّعْلِيمَ", "تَنَاوَلَ", "الْعَصْرِ", "فِي", "الْجَدِيدُ", "الْكِتَابُ"] }
+    ]
+  },
+  "readings": [
+    {
+      "id": "m26_r1",
+      "baslik": "Bilimde İş Birliği ve Etkileşim Çağı (YDS Sosyal/Fen)",
+      "arBaslik": "عَصْرُ التَّعَاوُنِ وَالتَّفَاعُلِ الْعِلْمِيِّ",
+      "seviye": "B1",
+      "paragraflar": [
+        {
+          "ar": "تَطَوَّرَ الْبَحْثُ الْعِلْمِيُّ فِي الْعُقُودِ الْأَخِيرَةِ تَطَوُّرًا هَائِلًا، وَلَمْ يَعُدِ الْعَالِمُ يَعْمَلُ مُنْفَرِدًا فِي مُخْتَبَرِهِ؛ بَلْ تَتَعَاوَنُ فِرَقٌ بَحْثِيَّةٌ مِنْ قَارَّاتٍ مُخْتَلِفَةٍ وَتَتَبَادَلُ الْبَيَانَاتِ وَالْخِبْرَاتِ لَحْظَةً بِلَحْظَةٍ.",
+          "okunus": "Tatavvara'l-bahsu'l-‘ilmiyyu fi'l-‘ukûdi'l-ahîrati tatavvuran hâilen, ve lem ya‘udi'l-‘âlimu ya‘melu munferiden fî muhteberihi; bel tete‘âvenu firakun bahsiyyetun min kârrâtin muhtelifetin ve tetebâdelu'l-beyânâti ve'l-hıbrâti lahzaten bi-lahzatin.",
+          "tr": "Bilimsel araştırma son on yıllarda muazzam bir gelişmeyle gelişti ve bilim insanı artık laboratuvarında tek başına çalışmıyor; aksine farklı kıtalardan araştırma ekipleri iş birliği yapıyor ve anbean veri ile tecrübe alışverişinde bulunuyor.",
+          "analiz": [
+            { "kelime": "تَطَوَّرَ ... تَطَوُّرًا", "kok": "ط-و-ر", "gramer": "V. bab mâzi + mastarı (mef'ûlün mutlak)", "tr": "gelişti / gelişmeyle" },
+            { "kelime": "تَتَعَاوَنُ / تَتَبَادَلُ", "kok": "ع-و-ن / ب-د-ل", "gramer": "VI. bab fethalı muzâri ikilisi", "tr": "iş birliği yapıyor / değiş tokuş ediyor" }
+          ]
+        },
+        {
+          "ar": "فِيمَا يَتَعَلَّقُ بِالْأَبْحَاثِ الطِّبِّيَّةِ وَالْبِيئِيَّةِ، تَتَزَايَدُ الْحَاجَةُ إِلَى التَّكَامُلِ بَيْنَ التَّخَصُّصَاتِ. فَعِنْدَمَا تَعَرَّضَ الْعَالَمُ لِتَحَدِّيَاتٍ صِحِّيَّةٍ كُبْرَى، تَمَكَّنَ الْعُلَمَاءُ بِفَضْلِ التَّعَاوُنِ الدَّوْلِيِّ مِنْ تَطْوِيرِ حُلُولٍ مُبْتَكَرَةٍ فِي وَقْتٍ قِيَاسِيٍّ.",
+          "okunus": "Fîmâ yete‘allaku bi'l-ebhâsi't-tıbbiyyeti ve'l-bîiyyeti, tetezâyedu'l-hâcetu ile't-tekâmuli beyne't-tehassusâti. Fe-‘indemâ te‘arrada'l-‘âlemu li-tehaddiyâtin sıhhıyyetin kubrâ, temekkene'l-‘ulemâu bi-fadli't-te‘âvuni'd-devliyyi min tatvîri hulûlin mubtekaratin fî vaktin kıyâsiyyin.",
+          "tr": "Tıbbi ve çevresel araştırmalara gelince, uzmanlık alanları arasındaki bütünleşmeye duyulan ihtiyaç giderek artıyor. Nitekim dünya büyük sağlık zorluklarına maruz kaldığında bilim insanları uluslararası iş birliği sayesinde rekor sürede yenilikçi çözümler geliştirmeyi başardılar.",
+          "analiz": [
+            { "kelime": "فِيمَا يَتَعَلَّقُ بِـ / تَتَزَايَدُ", "kok": "ع-ل-ق / ز-ي-د", "gramer": "YDS V. bab geçiş kalıbı & VI. bab tedrîc fiili", "tr": "... konusuna gelince / giderek artıyor" },
+            { "kelime": "تَعَرَّضَ ... لِـ / تَمَكَّنَ ... مِنْ", "kok": "ع-ر-ض / م-ك-ن", "gramer": "YDS V. bab harf-i cerli fiil ikilisi", "tr": "maruz kaldı / başardı" }
+          ]
+        },
+        {
+          "ar": "وَقَدْ تَنَاوَلَ الْمُؤْتَمَرُ الْعَالَمِيُّ الْأَخِيرُ سُبُلَ التَّعَامُلِ مَعَ أَزْمَةِ الطَّاقَةِ وَالْمِيَاهِ، حَيْثُ تُبُودِلَتْ عَشَرَاتُ الْأَوْرَاقِ الْعِلْمِيَّةِ، وَأَكَّدَ الْمُشَارِكُونَ أَنَّ تَجَاوُزَ هٰذِهِ الْأَزَمَاتِ يَتَوَقَّفُ عَلَى صِدْقِ الْإِرَادَةِ وَتَوْحِيدِ الْجُهُودِ.",
+          "okunus": "Ve kad tenâvele'l-mu'temeru'l-‘âlemiyyu'l-ahîru subule't-te‘âmuli me‘a ezmeti't-tâkati ve'l-miyâhi, haysu tubûdilet ‘aşerâtu'l-evrâkı'l-‘ilmiyyeti, ve ekkede'l-muşârikûne enne tecâvuze hâzihi'l-ezemâti yetevakkafu ‘alâ sıdkı'l-irâdeti ve tevhîdi'l-cuhûdi.",
+          "tr": "Son küresel konferans enerji ve su kriziyle başa çıkma yollarını ele aldı; orada onlarca bilimsel bildiri karşılıklı paylaşıldı ve katılımcılar bu krizleri aşmanın iradenin samimiyetine ve çabaların birleştirilmesine bağlı olduğunu vurguladı.",
+          "analiz": [
+            { "kelime": "تَنَاوَلَ / التَّعَامُلِ مَعَ / تُبُودِلَتْ", "kok": "ن-و-ل / ع-م-ل / ب-د-ل", "gramer": "VI. bab üçlüsü (etken, mastar, mâzi meçhul!)", "tr": "ele aldı / başa çıkma / paylaşıldı" },
+            { "kelime": "يَتَوَقَّفُ عَلَى", "kok": "و-ق-ف", "gramer": "V. bab + عَلَى (-e bağlı olmak)", "tr": "bağlıdır" }
+          ]
+        },
+        {
+          "ar": "وَيُتَوَقَّعُ أَنْ يَشْهَدَ الْعَقْدُ الْقَادِمُ تَفَاعُلًا أَوْسَعَ بَيْنَ الْجَامِعَاتِ وَالْمُؤَسَّسَاتِ الصِّنَاعِيَّةِ، لِتَتَحَسَّنَ جَوْدَةُ الْحَيَاةِ وَيَتَقَدَّمَ الْمُجْتَمَعُ الْإِنْسَانِيُّ نَحْوَ مُسْتَقْبَلٍ أَكْثَرَ أَمَانًا وَازْدِهَارًا.",
+          "okunus": "Ve yutevakka‘u en yeşhede'l-‘akdu'l-kâdimu tefâ‘ulen evsa‘a beyne'l-câmi‘âti ve'l-muessesâti's-sınâ‘iyyeti, li-tetehassene cevdetu'l-hayâti ve yetekaddeme'l-muctema‘u'l-insâniyyu nahve mustekbelin eksera emânen ve'zdihâran.",
+          "tr": "Yaşam kalitesinin iyileşmesi ve insan toplumunun daha güvenli ve müreffeh bir geleceğe doğru ilerlemesi için, önümüzdeki on yılın üniversiteler ile sanayi kuruluşları arasında daha geniş bir etkileşime tanık olması beklenmektedir.",
+          "analiz": [
+            { "kelime": "يُتَوَقَّعُ أَنْ", "kok": "و-ق-ع", "gramer": "V. bab muzâri meçhul (dammeli يُـ)", "tr": "beklenmektedir ki" },
+            { "kelime": "لِتَتَحَسَّنَ / يَتَقَدَّمَ", "kok": "ح-س-ن / ق-د-م", "gramer": "Amaç lâmı sonrası mansub V. bab muzârileri", "tr": "iyileşmesi için / ilerlemesi için" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m26_r1_q1", "soru": "Bilim insanlarının çalışma biçimi son on yıllarda nasıl değişti?", "secenekler": ["Tek başına çalışmak yerine farklı kıtalardan ekipler iş birliği yapıp anbean veri paylaşıyor", "Laboratuvarlar kapandı", "Artık sadece kitap okunuyor", "Bilimsel konferanslar durduruldu"], "dogruIndeks": 0, "aciklama": "لَمْ يَعُدِ الْعَالِمُ يَعْمَلُ مُنْفَرِدًا؛ بَلْ تَتَعَاوَنُ فِرَقٌ بَحْثِيَّةٌ ... وَتَتَبَادَلُ الْبَيَانَاتِ." },
+        { "id": "m26_r1_q2", "soru": "Katılımcılara göre enerji ve su krizlerini aşmak neye bağlıdır?", "secenekler": ["İradenin samimiyetine ve çabaların birleştirilmesine", "Sadece yeni vergilere", "Ülkelerin sınırlarını kapatmasına", "Nüfusun azalmasına"], "dogruIndeks": 0, "aciklama": "يَتَوَقَّفُ عَلَى صِدْقِ الْإِرَادَةِ وَتَوْحِيدِ الْجُهُودِ." },
+        { "id": "m26_r1_q3", "soru": "Metindeki 'تُبُودِلَتْ' fiilinin etken mâzisi ve anlamı nedir?", "secenekler": ["تَبَادَلَ (VI. bab) → تُبُودِلَتْ (karşılıklı paylaşıldı)", "بَدَّلَ (II. bab)", "بَدَلَ (sülâsî)", "أَبْدَلَ (IV. bab)"], "dogruIndeks": 0, "aciklama": "VI. bab mâzi meçhul (تُفُوعِلَ): تَبَادَلَ → تُبُودِلَتْ." },
+        { "id": "m26_r1_q4", "soru": "'يُتَوَقَّعُ أَنْ' ifadesinin doğru çevirisi nedir?", "secenekler": ["... olması beklenmektedir", "... beklemiyor", "... bekletti", "... beklenmedi"], "dogruIndeks": 0, "aciklama": "تَوَقَّعَ → muzâri meçhul يُتَوَقَّعُ أَنْ." },
+        { "id": "m26_r1_q5", "soru": "Önümüzdeki on yılda hangi kurumlar arasında daha geniş bir etkileşim bekleniyor?", "secenekler": ["Üniversiteler ile sanayi kuruluşları arasında", "Sadece liseler arasında", "Yalnızca bankalar arasında", "Spor kulüpleri arasında"], "dogruIndeks": 0, "aciklama": "تَفَاعُلًا أَوْسَعَ بَيْنَ الْجَامِعَاتِ وَالْمُؤَسَّسَاتِ الصِّنَاعِيَّةِ." }
+      ]
+    },
+    {
+      "id": "m26_r2",
+      "baslik": "Akıllı Hikâye: Hasta Numarası Yapan Çırak (Tezâhur & V./VI. Bab)",
+      "arBaslik": "حِكَايَةٌ طَرِيفَةٌ: التِّلْمِيذُ الَّذِي تَمَارَضَ",
+      "seviye": "B1",
+      "paragraflar": [
+        {
+          "ar": "فِي إِحْدَى الْقُرَى الْقَدِيمَةِ كَانَ هُنَاكَ شَابٌّ يَتَدَرَّبُ فِي وَرْشَةِ نَجَّارٍ حَكِيمٍ، وَلٰكِنَّهُ كَانَ أَحْيَانًا يَتَكَاسَلُ عَنِ الْعَمَلِ الصَّبَاحِيِّ. وَفِي يَوْمٍ بَارِدٍ مِنْ أَيَّامِ الشِّتَاءِ تَمَارَضَ الشَّابُّ وَتَنَاوَمَ فِي فِرَاشِهِ كَيْ لَا يَخْرُجَ إِلَى الْوَرْشَةِ.",
+          "okunus": "Fî ihde'l-kura'l-kadîmeti kâne hunâke şâbbun yetederrabu fî varşeti neccârin hakîmin, ve lâkinnehu kâne ahyânen yetekâselu ‘ani'l-‘ameli's-sabâhıyyi. Ve fî yevmin bâridin min eyyâmi'ş-şitâi temârada'ş-şâbbu ve tenâveme fî firâşihi key lâ yahruce ile'l-varşeti.",
+          "tr": "Eski köylerden birinde bilge bir marangozun atölyesinde çıraklık yapan bir genç vardı; fakat bazen sabah işinde tembellik ediyordu. Soğuk bir kış gününde genç, atölyeye çıkmamak için hasta numarası yaptı ve yatağında uyuyormuş gibi davrandı.",
+          "analiz": [
+            { "kelime": "يَتَدَرَّبُ / يَتَكَاسَلُ", "kok": "د-ر-ب / ك-س-ل", "gramer": "V. bab & VI. bab fethalı muzâriler", "tr": "pratik yapıyor / tembellik ediyor" },
+            { "kelime": "تَمَارَضَ / تَنَاوَمَ", "kok": "م-ر-ض / ن-و-م", "gramer": "VI. bab tezâhur (rol yapma!) ikilisi", "tr": "hasta numarası yaptı / uyuyor gibi yaptı" }
+          ]
+        },
+        {
+          "ar": "جَاءَ النَّجَّارُ الْحَكِيمُ لِيَتَأَكَّدَ مِنْ حَالِ تِلْمِيذِهِ، فَأَدْرَكَ بِذَكَائِهِ أَنَّ الشَّابَّ لَيْسَ مَرِيضًا بَلْ يَتَمَارَضُ، وَلٰكِنَّهُ تَغَافَلَ عَنِ الْأَمْرِ وَتَبَسَّمَ بِهُدُوءٍ، وَقَالَ: «أَتَمَنَّى لَكَ الشِّفَاءَ! كُنْتُ سَأُعَلِّمُكَ الْيَوْمَ سِرَّ صِنَاعَةِ الْخَشَبِ الْمُزَخْرَفِ وَسَنَتَقَاسَمُ أَرْبَاحَ طَلَبٍ كَبِيرٍ!»",
+          "okunus": "Câe'n-neccâru'l-hakîmu li-yeteekkede min hâli tilmîzihi, fe-edrake bi-zekâihi enne'ş-şâbbe leyse merîdan bel yetemâradu, ve lâkinnehu tegâfele ‘ani'l-emri ve tebesseme bi-hudûin, ve kâle: 'Etemennâ leke'ş-şifâe! Kuntu se-u‘allimuke'l-yevme sirra sınâ‘ati'l-haşebi'l-muzahrafi ve se-netekâsemu erbâha talebin kebîrin!'",
+          "tr": "Bilge marangoz çırağının durumundan emin olmak için geldi; zekâsıyla gencin hasta olmadığını aksine hasta numarası yaptığını kavradı, fakat durumu bilmezden gelip sakinlikle gülümsedi ve şöyle dedi: 'Sana şifa diliyorum! Bugün sana işlemeli ahşap sanatının sırrını öğretecek ve büyük bir siparişin kazancını paylaşacaktık!'",
+          "analiz": [
+            { "kelime": "تَغَافَلَ عَنْ", "kok": "غ-ف-ل", "gramer": "VI. bab tezâhur (farkında değilmiş gibi davrandı)", "tr": "bilmezden geldi" },
+            { "kelime": "سَنَتَقَاسَمُ", "kok": "ق-س-م", "gramer": "VI. bab karşılıklılık (paylaşacağız)", "tr": "aramızda paylaşacağız" }
+          ]
+        },
+        {
+          "ar": "مَا إِنْ سَمِعَ الشَّابُّ هٰذَا الْكَلَامَ حَتَّى تَحَرَّكَ فَوْرًا وَتَشَجَّعَ، وَقَالَ بِنَدَمٍ: «سَامِحْنِي يَا أُسْتَاذِي! لَقَدْ تَكَاسَلْتُ وَتَجَاهَلْتُ وَاجِبِي، وَلٰكِنَّنِي تَعَلَّمْتُ الْيَوْمَ دَرْسًا لَنْ أَنْسَاهُ أَبَدًا!»",
+          "okunus": "Mâ in semi‘a'ş-şâbbu hâze'l-kelâme hattâ teharrake fevran ve teşecca‘a, ve kâle bi-nedemin: 'Sâmihnî yâ ustâzî! Lekad tekâseltu ve tecâheltu vâcibî, ve lâkinnenî te‘allemtu'l-yevme dersen len ensâhu ebeden!'",
+          "tr": "Genç bu sözü duyar duymaz hemen hareketlendi, cesaretini topladı ve pişmanlıkla şöyle dedi: 'Beni affet ustam! Tembellik ettim ve görevimi görmezden geldim; fakat bugün asla unutmayacağım bir ders öğrendim!'",
+          "analiz": [
+            { "kelime": "تَحَرَّكَ / تَشَجَّعَ", "kok": "ح-ر-ك / ش-ج-ع", "gramer": "V. bab mutâvaat & tekellüf", "tr": "hareketlendi / cesaretlendi" },
+            { "kelime": "تَكَاسَلْتُ / تَجَاهَلْتُ", "kok": "ك-س-ل / ج-ه-ل", "gramer": "VI. bab 1. tekil mâzi", "tr": "tembellik ettim / görmezden geldim" }
+          ]
+        },
+        {
+          "ar": "مُنْذُ ذٰلِكَ الْيَوْمِ تَغَيَّرَ سُلُوكُ الشَّابِّ تَغَيُّرًا كَامِلًا؛ فَتَوَقَّفَ عَنِ الْأَعْذَارِ، وَتَدَرَّبَ بِإِخْلَاصٍ، وَتَعَاوَنَ مَعَ أُسْتَاذِهِ حَتَّى أَصْبَحَ بَعْدَ سَنَوَاتٍ أَمْهَرَ نَجَّارٍ فِي الْمَدِينَةِ كُلِّهَا!",
+          "okunus": "Munzu zâlike'l-yevmi tegayyera sulûku'ş-şâbbi tegayyuran kâmilen; fe-tevakkafe ‘ani'l-a‘zâri, ve tederrabe bi-ihlâsın, ve te‘âvene me‘a ustâzihi hattâ esbaha ba‘de senevâtin emhera neccârin fi'l-medîneti kullihâ!",
+          "tr": "O günden itibaren gencin davranışı tamamen değişti; mazeretleri bıraktı, samimiyetle çalıştı ve ustasıyla iş birliği yaptı; nihayet yıllar sonra tüm şehirdeki en usta marangoz oldu!",
+          "analiz": [
+            { "kelime": "تَغَيَّرَ ... تَغَيُّرًا / تَوَقَّفَ عَنْ", "kok": "غ-ي-ر / و-ق-ف", "gramer": "V. bab dönüşlü + mastarı & عَنْ ile bırakma", "tr": "tamamen değişti / bıraktı" },
+            { "kelime": "تَعَاوَنَ مَعَ", "kok": "ع-و-ن", "gramer": "VI. bab iş birliği", "tr": "iş birliği yaptı" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m26_r2_q1", "soru": "Genç soğuk kış gününde atölyeye gitmemek için ne yaptı?", "secenekler": ["Hasta numarası yaptı (تَمَارَضَ) ve uyuyormuş gibi davrandı (تَنَاوَمَ)", "Başka bir şehre gitti", "Ustasına gerçeği söyledi", "Erkenden atölyeyi açtı"], "dogruIndeks": 0, "aciklama": "تَمَارَضَ الشَّابُّ وَتَنَاوَمَ فِي فِرَاشِهِ." },
+        { "id": "m26_r2_q2", "soru": "Bilge marangoz gerçeği anlayınca nasıl bir hikmetli yöntem izledi?", "secenekler": ["Durumu bilmezden geldi (تَغَافَلَ), gülümsedi ve o gün öğreteceği sanat sırrıyla kazancı anlattı", "Genci hemen işten kovdu", "Köylüleri çağırdı", "Atölyeyi kapattı"], "dogruIndeks": 0, "aciklama": "تَغَافَلَ عَنِ الْأَمْرِ وَتَبَسَّمَ بِهُدُوءٍ... كُنْتُ سَأُعَلِّمُكَ سِرَّ صِنَاعَةِ الْخَشَبِ الْمُزَخْرَفِ." },
+        { "id": "m26_r2_q3", "soru": "Metindeki 'تَمَارَضَ، تَنَاوَمَ، تَغَافَلَ، تَجَاهَلَ' fiillerinin ortak sarf özelliği nedir?", "secenekler": ["Hepsi VI. babın 'tezâhur' (öyle gibi görünme / rol yapma) anlamlı fiilleridir", "Hepsi II. bab ettirgen fiillerdir", "Hepsi meçhul çatılıdır", "Hepsi IV. babdır"], "dogruIndeks": 0, "aciklama": "Tümü VI. bab (تَفَاعَلَ) tezâhur örneğidir." },
+        { "id": "m26_r2_q4", "soru": "'تَوَقَّفَ عَنِ الْأَعْذَارِ' ifadesinin doğru anlamı nedir?", "secenekler": ["Mazeret üretmeyi bıraktı", "Mazeretlere bağlı kaldı", "Yeni mazeretler öğrendi", "Mazeretleri paylaştı"], "dogruIndeks": 0, "aciklama": "تَوَقَّفَ عَنْ = bir şeyi bırakmak/kesmek." },
+        { "id": "m26_r2_q5", "soru": "Hikâyenin sonunda genç nasıl biri oldu?", "secenekler": ["Tüm şehirdeki en usta marangoz oldu", "Marangozluğu bıraktı", "Köyden ayrıldı", "Tembelliğe devam etti"], "dogruIndeks": 0, "aciklama": "أَصْبَحَ بَعْدَ سَنَوَاتٍ أَمْهَرَ نَجَّارٍ فِي الْمَدِينَةِ كُلِّهَا!" }
+      ]
+    },
+    {
+      "id": "m26_r3",
+      "baslik": "Dil Öğreniminde İyimserlik ve İletişim",
+      "arBaslik": "التَّفَاؤُلُ وَالتَّوَاصُلُ فِي تَعَلُّمِ اللُّغَاتِ",
+      "seviye": "B1",
+      "paragraflar": [
+        {
+          "ar": "يَظُنُّ بَعْضُ الْمُبْتَدِئِينَ أَنَّ إِتْقَانَ لُغَةٍ جَدِيدَةٍ يَتَوَقَّفُ عَلَى حِفْظِ الْقَوَاعِدِ الصَّامِتَةِ وَحْدَهَا؛ وَلٰكِنَّ التَّجْرِبَةَ تُثْبِتُ أَنَّ اللُّغَةَ تَتَنَفَّسُ وَتَتَحَسَّنُ بِالتَّوَاصُلِ الْحَيِّ وَالتَّفَاعُلِ الْيَوْمِيِّ.",
+          "okunus": "Yezunnu ba‘du'l-mubtediîne enne itkâne lugatin cedîdetin yetevakkafu ‘alâ hıfzi'l-kavâ‘idi's-sâmiteti vahdehâ; ve lâkinne't-tecribete tusbitu enne'l-lugate teteneffesu ve tetehassenu bi't-tevâsuli'l-hayyi ve't-tefâ‘uli'l-yevmiyyi.",
+          "tr": "Bazı yeni başlayanlar yeni bir dilde ustalaşmanın yalnızca sessiz kuralları ezberlemeye bağlı olduğunu sanır; fakat tecrübe dilin canlı iletişim ve günlük etkileşimle nefes alıp iyileştiğini ispatlar.",
+          "analiz": [
+            { "kelime": "تَتَنَفَّسُ / تَتَحَسَّنُ", "kok": "ن-ف-س / ح-س-ن", "gramer": "V. bab muzâri (nefes alır / iyileşir)", "tr": "nefes alır / iyileşir" },
+            { "kelime": "التَّوَاصُلِ / التَّفَاعُلِ", "kok": "و-ص-ل / ف-ع-ل", "gramer": "VI. bab mastarları", "tr": "iletişim / etkileşim" }
+          ]
+        },
+        {
+          "ar": "عِنْدَمَا يَتَعَارَفُ طُلَّابٌ مِنْ ثَقَافَاتٍ مُخْتَلِفَةٍ وَيَتَحَادَثُونَ بِالْعَرَبِيَّةِ، تَتَغَيَّرُ نَظْرَتُهُمْ إِلَى الْأَخْطَاءِ؛ فَلَا يَتَرَدَّدُونَ فِي الْكَلَامِ وَلَا يَتَحَرَّجُونَ مِنَ السُّؤَالِ، بَلْ يَتَعَلَّمُونَ مِنْ كُلِّ مَوْقِفٍ جَدِيدٍ.",
+          "okunus": "‘İndemâ yete‘ârafu tullâbun min sekâfâtin muhtelifetin ve yetehâdesûne bi'l-‘arabiyyeti, tetegayyeru nazratuhum ile'l-ahtâi; fe-lâ yeteraddedûne fi'l-kelâmi ve lâ yeteharracûne mine's-suâli, bel yete‘allemûne min kulli mevkıfin cedîdin.",
+          "tr": "Farklı kültürlerden öğrenciler tanışıp Arapça sohbet ettiklerinde hatalara bakışları değişir; konuşmakta tereddüt etmez ve soru sormaktan çekinmezler; bilakis her yeni durumdan öğrenirler.",
+          "analiz": [
+            { "kelime": "يَتَعَارَفُ / يَتَحَادَثُونَ", "kok": "ع-ر-ف / ح-د-ث", "gramer": "VI. bab karşılıklılık fiilleri", "tr": "tanışır / sohbet ederler" },
+            { "kelime": "لَا يَتَرَدَّدُونَ / لَا يَتَحَرَّجُونَ", "kok": "ر-د-د / ح-ر-ج", "gramer": "V. bab olumsuz muzâri", "tr": "tereddüt etmezler / çekinmezler" }
+          ]
+        },
+        {
+          "ar": "وَفِي نَادِي اللُّغَةِ الْعَرَبِيَّةِ فِي جَامِعَتِنَا يَتَجَمَّعُ الطُّلَّابُ كُلَّ أُسْبُوعٍ، فَيَتَنَاوَلُونَ مَوْضُوعًا ثَقَافِيًّا وَيَتَبَادَلُونَ الْآرَاءَ بِاحْتِرَامٍ وَتَسَامُحٍ. وَقَدْ تَمَكَّنَ كَثِيرٌ مِنْهُمْ بِهٰذِهِ الطَّرِيقَةِ مِنْ تَجَاوُزِ خَوْفِ التَّحَدُّثِ أَمَامَ الْجُمْهُورِ.",
+          "okunus": "Ve fî nâdi'l-lugati'l-‘arabiyyeti fî câmi‘atinâ yetecemme‘u't-tullâbu kulle usbû‘in, fe-yetenâvelûne mevdû‘an sekâfiyyen ve yetebâdelûne'l-ârâe bi'htirâmin ve tesâmuhın. Ve kad temekkene kesîrun minhum bi-hâzihi't-tarîkati min tecâvuzi havfi't-tehaddusi emâme'l-cumhûri.",
+          "tr": "Üniversitemizdeki Arapça Kulübünde öğrenciler her hafta toplanır, kültürel bir konuyu ele alır ve saygı ile hoşgörü içinde görüş alışverişinde bulunurlar. Onların çoğu bu yolla topluluk önünde konuşma korkusunu aşmayı başardı.",
+          "analiz": [
+            { "kelime": "يَتَجَمَّعُ / يَتَنَاوَلُونَ / يَتَبَادَلُونَ", "kok": "ج-م-ع / ن-و-ل / ب-د-ل", "gramer": "V. ve VI. bab muzâri akışı", "tr": "toplanır / ele alırlar / paylaşırlar" },
+            { "kelime": "تَسَامُح / تَحَدُّث", "kok": "س-م-ح / ح-د-ث", "gramer": "VI. bab & V. bab mastarları", "tr": "hoşgörü / konuşma" }
+          ]
+        },
+        {
+          "ar": "فَتَفَاءَلْ يَا صَدِيقِي، وَتَحَدَّثْ بِلَا خَوْفٍ، وَتَصَبَّرْ عَلَى طَرِيقِ التَّعَلُّمِ؛ فَإِنَّ كُلَّ كَلِمَةٍ تَتَعَلَّمُهَا الْيَوْمَ تَفْتَحُ لَكَ أُفُقًا جَدِيدًا مِنَ التَّفَاهُمِ مَعَ الْعَالَمِ!",
+          "okunus": "Fe-tefâel yâ sadîkî, ve tehaddes bi-lâ havfin, ve tesabbar ‘alâ tarîkı't-te‘allumi; fe-inne kulle kelimetin tete‘allemuhe'l-yevme teftehu leke ufukan cedîden mine't-tefâhumi me‘a'l-‘âlemi!",
+          "tr": "Öyleyse iyimser ol arkadaşım, korkusuzca konuş ve öğrenme yolunda sabret; çünkü bugün öğrendiğin her kelime sana dünya ile karşılıklı anlayıştan yeni bir ufuk açar!",
+          "analiz": [
+            { "kelime": "تَفَاءَلْ / تَحَدَّثْ / تَصَبَّرْ", "kok": "ف-أ-ل / ح-د-ث / ص-ب-ر", "gramer": "VI. ve V. bab hemzesiz emirleri", "tr": "iyimser ol / konuş / sabret" },
+            { "kelime": "التَّفَاهُم", "kok": "ف-ه-م", "gramer": "VI. bab mastarı (تَفَاهَمَ → تَفَاهُم = karşılıklı anlayış)", "tr": "karşılıklı anlayış" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m26_r3_q1", "soru": "Tecrübeye göre yeni bir dil asıl neyle nefes alıp iyileşir?", "secenekler": ["Canlı iletişim (التَّوَاصُلِ الْحَيِّ) ve günlük etkileşimle (التَّفَاعُلِ الْيَوْمِيِّ)", "Sadece sessiz ezberle", "Yalnızca test çözerek", "Hata yapmaktan kaçınarak"], "dogruIndeks": 0, "aciklama": "اللُّغَةَ تَتَنَفَّسُ وَتَتَحَسَّنُ بِالتَّوَاصُلِ الْحَيِّ وَالتَّفَاعُلِ الْيَوْمِيِّ." },
+        { "id": "m26_r3_q2", "soru": "Üniversitedeki Arapça Kulübünde öğrenciler her hafta ne yapıyor?", "secenekler": ["Toplanıp kültürel bir konuyu ele alıyor ve saygıyla görüş alışverişinde bulunuyorlar", "Sadece yazılı sınav yapıyorlar", "Sessizce sözlük okuyorlar", "Film izliyorlar"], "dogruIndeks": 0, "aciklama": "يَتَجَمَّعُ الطُّلَّابُ كُلَّ أُسْبُوعٍ، فَيَتَنَاوَلُونَ مَوْضُوعًا ثَقَافِيًّا وَيَتَبَادَلُونَ الْآرَاءَ." },
+        { "id": "m26_r3_q3", "soru": "Öğrencilerin çoğu bu kulüp sayesinde hangi korkuyu aşmayı başardı?", "secenekler": ["Topluluk önünde konuşma korkusunu", "Okuma korkusunu", "Yazma korkusunu", "Seyahat korkusunu"], "dogruIndeks": 0, "aciklama": "تَمَكَّنَ كَثِيرٌ مِنْهُمْ ... مِنْ تَجَاوُزِ خَوْفِ التَّحَدُّثِ أَمَامَ الْجُمْهُورِ." },
+        { "id": "m26_r3_q4", "soru": "'تَفَاءَلْ / تَحَدَّثْ / تَصَبَّرْ' emirlerinin başında neden hemze yoktur?", "secenekler": ["V. ve VI. babların emr-i hâzırı daima hemzesizdir (تَـ zaten harekelidir)", "Hepsi sülâsî olduğu için", "Hepsi IV. bab olduğu için", "Hepsi mâzi fiil olduğu için"], "dogruIndeks": 0, "aciklama": "تَتَفَاءَلُ → تَفَاءَلْ, تَتَحَدَّثُ → تَحَدَّثْ, تَتَصَبَّرُ → تَصَبَّرْ." },
+        { "id": "m26_r3_q5", "soru": "'التَّفَاهُمُ' kelimesinin babı ve anlamı nedir?", "secenekler": ["VI. bab mastarı — karşılıklı anlayış", "II. bab mastarı — anlatmak", "IV. bab mastarı — bildirmek", "V. bab mastarı — sindire sindire anlamak"], "dogruIndeks": 0, "aciklama": "تَفَاهَمَ – يَتَفَاهَمُ – تَفَاهُمًا (VI. bab)." }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "m26_d1",
+      "baslik": "Arapça Kulübünde İlk Tanışma (تَعَارَفَ / تَحَدَّثَ / تَعَلَّمَ)",
+      "ortam": "İki öğrenci üniversitenin Arapça konuşma kulübünde tanışıyor",
+      "replikler": [
+        { "konusan": "طارق", "ar": "السَّلَامُ عَلَيْكُمْ! أَنَا طَارِقٌ، أَظُنُّ أَنَّنَا نَتَقَابَلُ لِأَوَّلِ مَرَّةٍ فِي نَادِي اللُّغَةِ الْعَرَبِيَّةِ!", "okunus": "Es-selâmu ‘aleykum! Ene Târikun, ezunnu ennenâ netekâbelu li-evveli merratin fî nâdi'l-lugati'l-‘arabiyyeti!", "tr": "Selamün aleyküm! Ben Tarık, sanırım Arapça kulübünde ilk kez karşılaşıyoruz!" },
+        { "konusan": "حفصة", "ar": "وَعَلَيْكُمُ السَّلَامُ! أَنَا حَفْصَةُ، وَيُسْعِدُنِي أَنْ نَتَعَارَفَ وَنَتَحَدَّثَ بِالْعَرَبِيَّةِ الْيَوْمَ.", "okunus": "Ve ‘aleykumu's-selâmu! Ene Hafsatu, ve yus‘idunî en nete‘ârafe ve netehaddese bi'l-‘arabiyyeti'l-yevme.", "tr": "Aleykümselam! Ben Hafsa, bugün tanışıp Arapça konuşmamız beni çok mutlu ediyor." },
+        { "konusan": "طارق", "ar": "تَشَرَّفْنَا يَا حَفْصَةُ! مُنْذُ مَتَى تَتَعَلَّمِينَ اللُّغَةَ الْعَرَبِيَّةَ؟", "okunus": "Teşerrafnâ yâ Hafsatu! Munzu metâ tete‘allemîne'l-lugate'l-‘arabiyyete?", "tr": "Memnun oldum Hafsa! Ne zamandır Arapça öğreniyorsun?" },
+        { "konusan": "حفصة", "ar": "أَتَعَلَّمُهَا مُنْذُ سَنَةٍ وَنِصْفٍ، وَقَدْ تَحَسَّنَ مُسْتَوَايَ كَثِيرًا بَعْدَ أَنْ تَدَرَّبْتُ عَلَى الْمُحَادَثَةِ.", "okunus": "Ete‘allemuhâ munzu senetin ve nısfin, ve kad tehassane mustevâye kesîran ba‘de en tederrabtu ‘ale'l-muhâdeseti.", "tr": "Bir buçuk yıldır öğreniyorum ve konuşma pratiği yaptıktan sonra seviyem çok iyileşti." },
+        { "konusan": "طارق", "ar": "مَا شَاءَ اللّٰهُ! فِي أَيِّ كُلِّيَّةٍ تَتَخَصَّصِينَ؟", "okunus": "Mâ şâallâhu! Fî eyyi kulliyyetin tetehassasıyne?", "tr": "Maşallah! Hangi fakültede uzmanlaşıyorsun?" },
+        { "konusan": "حفصة", "ar": "أَتَخَصَّصُ فِي التَّارِيخِ، وَأَتَمَنَّى أَنْ أَتَمَكَّنَ مِنْ قِرَاءَةِ الْمَخْطُوطَاتِ الْعَرَبِيَّةِ الْقَدِيمَةِ.", "okunus": "Etehássasu fi't-târîhi, ve etemennâ en etemekkene min kırâeti'l-mahtûtâti'l-‘arabiyyeti'l-kadîmeti.", "tr": "Tarih alanında uzmanlaşıyorum ve eski Arapça el yazmalarını okuyabilmeyi diliyorum." },
+        { "konusan": "طارق", "ar": "هَدَفٌ رَائِعٌ! مَا الْمَوْضُوعُ الَّذِي سَيَتَنَاوَلُهُ النَّادِي فِي جَلْسَةِ الْيَوْمِ؟", "okunus": "Hedefun râi‘un! Me'l-mevdû‘u'llezî se-yetenâveluhu'n-nâdî fî celseti'l-yevmi?", "tr": "Harika bir hedef! Kulüp bugünkü oturumda hangi konuyu ele alacak?" },
+        { "konusan": "حفصة", "ar": "سَنَتَنَاوَلُ أَثَرَ التِّقْنِيَّةِ فِي التَّعَلُّمِ، وَسَنَتَبَادَلُ تَجَارِبَنَا مَعَ التَّطْبِيقَاتِ التَّعْلِيمِيَّةِ.", "okunus": "Se-netenâvelu esera't-tıkniyyeti fi't-te‘allumi, ve se-netebâdelu tecâribenâ me‘a't-tatbîkâti't-ta‘lîmiyyeti.", "tr": "Teknolojinin öğrenmedeki etkisini ele alacağız ve eğitim uygulamalarıyla ilgili tecrübelerimizi paylaşacağız." },
+        { "konusan": "طارق", "ar": "مُمْتَازٌ! هَلْ تَتَجَمَّعُونَ كُلَّ أَرْبِعَاءَ فِي هٰذِهِ الْقَاعَةِ؟", "okunus": "Mumtâzun! Hel tetecemme‘ûne kulle erbi‘âe fî hâzihi'l-kâ‘ati?", "tr": "Harika! Her çarşamba bu salonda mı toplanıyorsunuz?" },
+        { "konusan": "حفصة", "ar": "نَعَمْ، وَنَتَعَاوَنُ جَمِيعًا فِي إِعْدَادِ الْأَنْشِطَةِ؛ فَلَا تَتَرَدَّدْ فِي الْمُشَارَكَةِ مَعَنَا!", "okunus": "Ne‘am, ve nete‘âvenu cemî‘an fî i‘dâdi'l-enşıtati; fe-lâ teteradded fi'l-muşârakati me‘anâ!", "tr": "Evet, etkinlikleri hazırlamada hep birlikte yardımlaşıyoruz; bize katılmaktan çekinme!" },
+        { "konusan": "طارق", "ar": "بِالتَّأْكِيدِ، سَأَتَفَاعَلُ مَعَكُمْ كُلَّ أُسْبُوعٍ بِإِذْنِ اللّٰهِ.", "okunus": "Bi't-te'kîdi, se-etefâ‘alu me‘akum kulle usbû‘in bi-iznillâhi.", "tr": "Elbette, Allah'ın izniyle her hafta sizinle etkileşim içinde olacağım." },
+        { "konusan": "حفصة", "ar": "أَهْلًا بِكَ بَيْنَنَا! هَيَّا نَتَوَجَّهْ إِلَى الصَّفِّ الْأَمَامِيِّ فَقَدْ بَدَأَتِ الْجَلْسَةُ!", "okunus": "Ehlen bike beynenâ! Heyyâ netevecceh ile's-saffi'l-emâmiyyi fe-kad bedeeti'l-celsetu!", "tr": "Aramıza hoş geldin! Haydi ön sıraya yönelelim, oturum başladı!" }
+      ],
+      "partner": [
+        { "soruAr": "مُنْذُ مَتَى تَتَعَلَّمُ اللُّغَةَ الْعَرَبِيَّةَ؟", "soruTr": "Ne zamandır Arapça öğreniyorsun? (Bir yıldır)", "ipucu": "أَتَعَلَّمُهَا (V. bab fethalı 1. tekil).", "secenekler": ["أَتَعَلَّمُهَا مُنْذُ سَنَةٍ، وَقَدْ تَحَسَّنَ مُسْتَوَايَ.", "أُتَعَلِّمُهَا مُنْذُ سَنَةٍ.", "أُعَلِّمُهَا مُنْذُ سَنَةٍ."], "dogruIndeks": 0, "aciklama": "تَعَلَّمَ → 1. tekil muzâri أَتَعَلَّمُ." },
+        { "soruAr": "مَاذَا تَتَمَنَّى أَنْ تَتَمَكَّنَ مِنْهُ بِالْعَرَبِيَّةِ؟", "soruTr": "Arapçayla neyi başarmayı diliyorsun?", "ipucu": "أَتَمَنَّى أَنْ أَتَمَكَّنَ مِنْ...", "secenekler": ["أَتَمَنَّى أَنْ أَتَمَكَّنَ مِنْ قِرَاءَةِ الْكُتُبِ الْعَرَبِيَّةِ.", "أَتَمَنَّى أَنْ أَتَمَكَّنَ عَلَى قِرَاءَةِ الْكُتُبِ.", "أُتَمَنِّي أَنْ أَتَمَكَّنَ مِنْ قِرَاءَةِ الْكُتُبِ."], "dogruIndeks": 0, "aciklama": "تَمَنَّى → أَتَمَنَّى; تَمَكَّنَ مِنْ = -ebilmek." },
+        { "soruAr": "مَا الْمَوْضُوعُ الَّذِي سَيَتَنَاوَلُهُ النَّادِي الْيَوْمَ؟", "soruTr": "Kulüp bugün hangi konuyu ele alacak?", "ipucu": "سَيَتَنَاوَلُ (VI. bab fethalı muzâri).", "secenekler": ["سَيَتَنَاوَلُ أَثَرَ التِّقْنِيَّةِ فِي التَّعَلُّمِ.", "سَيُتَنَاوِلُ أَثَرَ التِّقْنِيَّةِ.", "سَيَنَاوَلُ أَثَرَ التِّقْنِيَّةِ."], "dogruIndeks": 0, "aciklama": "تَنَاوَلَ → سَيَتَنَاوَلُ." },
+        { "soruAr": "كَيْفَ تَدْعُو زَمِيلَكَ أَلَّا يَتَرَدَّدَ فِي الْكَلَامِ؟", "soruTr": "Arkadaşına konuşmakta tereddüt etmemesini nasıl söylersin?", "ipucu": "لَا تَتَرَدَّدْ فِي...", "secenekler": ["لَا تَتَرَدَّدْ فِي الْكَلَامِ بِالْعَرَبِيَّةِ!", "لَا تُتَرَدِّدْ فِي الْكَلَامِ!", "لَا تَرَدَّدَ فِي الْكَلَامِ!"], "dogruIndeks": 0, "aciklama": "V. bab nehy-i hâzır: لَا تَتَرَدَّدْ!" },
+        { "soruAr": "كَيْفَ تَقُولُ: 'Haydi tecrübelerimizi paylaşalım!' (تَبَادَلَ)", "soruTr": "'Tecrübelerimizi karşılıklı paylaşalım!' hangisidir?", "ipucu": "هَيَّا نَتَبَادَلْ (VI. bab).", "secenekler": ["هَيَّا نَتَبَادَلْ تَجَارِبَنَا وَخِبْرَاتِنَا!", "هَيَّا نُتَبَادِلْ تَجَارِبَنَا!", "هَيَّا نُبَدِّلْ تَجَارِبَنَا!"], "dogruIndeks": 0, "aciklama": "تَبَادَلَ → 1. çoğul نَتَبَادَلْ." }
+      ]
+    },
+    {
+      "id": "m26_d2",
+      "baslik": "Doktor Kontrolünde İyileşme (تَحَسَّنَ / تَوَقَّفَ عَنْ / تَعَامَلَ مَعَ)",
+      "ortam": "Hasta bir ay sonra doktora kontrol muayenesine geliyor",
+      "replikler": [
+        { "konusan": "الطبيبة", "ar": "أَهْلًا بِكَ يَا أَخِي! كَيْفَ تَشْعُرُ الْيَوْمَ؟ هَلْ تَحَسَّنَتْ صِحَّتُكَ مُنْذُ زِيَارَتِكَ الْأَخِيرَةِ؟", "okunus": "Ehlen bike yâ ahî! Keyfe teş‘uru'l-yevme? Hel tehassanet sıhhatuke munzu ziyâretike'l-ahîrati?", "tr": "Hoş geldiniz! Bugün nasıl hissediyorsunuz? Son ziyaretinizden beri sağlığınız iyileşti mi?" },
+        { "konusan": "المريض", "ar": "الْحَمْدُ لِلّٰهِ يَا دُكْتُورَةُ! تَحَسَّنَتْ حَالَتِي كَثِيرًا، وَتَوَقَّفَ الصُّدَاعُ الَّذِي كُنْتُ أَشْكُو مِنْهُ.", "okunus": "El-hamdu lillâhi yâ duktûratu! Tehassanet hâletî kesîran, ve tevakkafe's-sudâ‘u'llezî kuntu eşkû minhu.", "tr": "Elhamdülillah doktor hanım! Durumum çok iyileşti ve şikâyet ettiğim baş ağrısı durdu." },
+        { "konusan": "الطبيبة", "ar": "مُمْتَازٌ! هَلْ تَوَقَّفْتَ عَنِ السَّهَرِ الطَّوِيلِ وَتَنَاوَلْتَ الدَّوَاءَ بِانْتِظَامٍ؟", "okunus": "Mumtâzun! Hel tevakkafte ‘ani's-seheri't-tavîli ve tenâvelte'd-devâe bi'ntizâmin?", "tr": "Harika! Uzun gece uykusuzluğunu bıraktınız ve ilacı düzenli aldınız mı?" },
+        { "konusan": "المريض", "ar": "نَعَمْ، تَوَقَّفْتُ عَنِ السَّهَرِ تَمَامًا، وَتَغَيَّرَ نِظَامُ نَوْمِي وَغِذَائِي إِلَى الْأَفْضَلِ.", "okunus": "Ne‘am, tevakkaftu ‘ani's-seheri temâmen, ve tegayyera nizâmu nevmî ve gizâî ile'l-efdali.", "tr": "Evet, gece geç yatmayı tamamen bıraktım; uyku ve beslenme düzenim daha iyiye doğru değişti." },
+        { "konusan": "الطبيبة", "ar": "أَحْسَنْتَ! فَالْعَافِيَةُ تَتَوَقَّفُ كَثِيرًا عَلَى الْعَادَاتِ الْيَوْمِيَّةِ السَّلِيمَةِ.", "okunus": "Ahsente! Fe'l-‘âfiyetu tetevakkafu kesîran ‘ale'l-‘âdâti'l-yevmiyyeti's-selîmeti.", "tr": "Aferin! Zira sağlık büyük ölçüde sağlam günlük alışkanlıklara bağlıdır." },
+        { "konusan": "المريض", "ar": "صَحِيحٌ! وَلٰكِنَّنِي أَتَعَرَّضُ أَحْيَانًا لِضُغُوطٍ كَبِيرَةٍ فِي الْعَمَلِ، فَكَيْفَ أَتَعَامَلُ مَعَهَا؟", "okunus": "Sahîhun! Ve lâkinnenî ete‘arradu ahyânen li-dugûtin kebîratin fi'l-‘ameli, fe-keyfe ete‘âmelu me‘ahâ?", "tr": "Doğru! Fakat işte bazen büyük baskılara maruz kalıyorum; onlarla nasıl başa çıkayım?" },
+        { "konusan": "الطبيبة", "ar": "تَنَفَّسْ بِعُمْقٍ عِنْدَ التَّوَتُّرِ، وَتَجَنَّبِ الْإِجْهَادَ الْمُتَوَاصِلَ، وَخَصِّصْ وَقْتًا لِلْمَشْيِ كُلَّ يَوْمٍ.", "okunus": "Teneffes bi-‘umkın ‘inde't-tevetturi, ve tecennebi'l-ichâde'l-mutevâsile, ve hassıs vakten li'l-meşyi kulle yevmin.", "tr": "Stres anında derin nefes al, aralıksız yorgunluktan sakın ve her gün yürüyüş için vakit ayır." },
+        { "konusan": "المريض", "ar": "فِعْلًا، عِنْدَمَا أَمْشِي نِصْفَ سَاعَةٍ يَتَرَاجَعُ التَّوَتُّرُ وَأَشْعُرُ بِرَاحَةٍ كَبِيرَةٍ.", "okunus": "Fi‘len, ‘indemâ emşî nısfe sâ‘atin yeterâca‘u't-tevetturu ve eş‘uru bi-râhatin kebîratin.", "tr": "Gerçekten de yarım saat yürüdüğümde stres geriliyor ve büyük bir rahatlama hissediyorum." },
+        { "konusan": "الطبيبة", "ar": "لِنَتَأَكَّدِ الْآنَ مِنْ نَتَائِجِ التَّحَالِيلِ الْجَدِيدَةِ… رَائِعٌ، كُلُّ الْأَرْقَامِ طَبِيعِيَّةٌ تَمَامًا!", "okunus": "Li-neteekkedi'l-âne min netâici't-tehâlîli'l-cedîdeti… râi‘un, kullu'l-erkâmi tabî‘iyyetun temâmen!", "tr": "Şimdi yeni tahlil sonuçlarından emin olalım… harika, tüm değerler tamamen normal!" },
+        { "konusan": "المريض", "ar": "الْحَمْدُ لِلّٰهِ! هَلْ سَأَتَمَكَّنُ مِنْ مُمَارَسَةِ الرِّيَاضَةِ الْخَفِيفَةِ هٰذَا الشَّهْرَ؟", "okunus": "El-hamdu lillâhi! Hel se-etemekkenu min mumâraseti'r-riyâdati'l-hafîfeti hâze'ş-şehra?", "tr": "Elhamdülillah! Bu ay hafif spor yapabilecek miyim?" },
+        { "konusan": "الطبيبة", "ar": "نَعَمْ، تَدَرَّبْ بِالتَّدْرِيجِ وَلَا تَتَجَاوَزْ طَاقَتَكَ فِي الْبِدَايَةِ!", "okunus": "Ne‘am, tederrab bi't-tedrîci ve lâ tetecâvez tâkatake fi'l-bidâyeti!", "tr": "Evet, aşamalı olarak antrenman yap ve başlangıçta gücünü aşma!" },
+        { "konusan": "المريض", "ar": "شُكْرًا جَزِيلًا لَكِ يَا دُكْتُورَةُ عَلَى نَصَائِحِكِ الْقَيِّمَةِ!", "okunus": "Şukran cezîlen leki yâ duktûratu ‘alâ nasâihiki'l-kayyimeti!", "tr": "Değerli tavsiyeleriniz için size çok teşekkür ederim doktor hanım!" }
+      ],
+      "partner": [
+        { "soruAr": "هَلْ تَحَسَّنَتْ صِحَّتُكَ بَعْدَ الْعِلَاجِ؟", "soruTr": "Tedaviden sonra sağlığın iyileşti mi?", "ipucu": "تَحَسَّنَتْ كَثِيرًا (V. bab).", "secenekler": ["نَعَمْ، تَحَسَّنَتْ صِحَّتِي كَثِيرًا وَالْحَمْدُ لِلّٰهِ!", "نَعَمْ، حَسَّنَتْ صِحَّتِي كَثِيرًا.", "نَعَمْ، تَحَاسَنَتْ صِحَّتِي."], "dogruIndeks": 0, "aciklama": "Kendi iyileşmek = تَحَسَّنَ (V. bab)." },
+        { "soruAr": "هَلْ تَوَقَّفْتَ عَنِ السَّهَرِ الطَّوِيلِ؟", "soruTr": "Gece geç yatmayı bıraktın mı?", "ipucu": "تَوَقَّفْتُ عَنْ...", "secenekler": ["نَعَمْ، تَوَقَّفْتُ عَنِ السَّهَرِ تَمَامًا.", "نَعَمْ، تَوَقَّفْتُ عَلَى السَّهَرِ.", "نَعَمْ، وَقَفْتُ عَنِ السَّهَرِ."], "dogruIndeks": 0, "aciklama": "تَوَقَّفَ عَنْ = bırakmak/durdurmak." },
+        { "soruAr": "عَلَى مَاذَا تَتَوَقَّفُ الصِّحَّةُ الْجَيِّدَةُ؟", "soruTr": "İyi sağlık neye bağlıdır?", "ipucu": "تَتَوَقَّفُ عَلَى...", "secenekler": ["تَتَوَقَّفُ عَلَى الْعَادَاتِ الْيَوْمِيَّةِ السَّلِيمَةِ.", "تَتَوَقَّفُ عَنِ الْعَادَاتِ السَّلِيمَةِ.", "تَتَوَقَّفُ مِنَ الْعَادَاتِ."], "dogruIndeks": 0, "aciklama": "تَوَقَّفَ عَلَى = -e bağlı olmak." },
+        { "soruAr": "كَيْفَ تَنْصَحُ صَدِيقَكَ عِنْدَ التَّوَتُّرِ؟ (Derin nefes al!)", "soruTr": "Arkadaşına stres anında nasıl öğüt verirsin? (Derin nefes al!)", "ipucu": "تَنَفَّسْ بِعُمْقٍ! (V. bab emri).", "secenekler": ["تَنَفَّسْ بِعُمْقٍ وَتَجَنَّبِ الْقَلَقَ!", "اِتَنَفَّسْ بِعُمْقٍ!", "تَنَفِّسْ بِعُمْقٍ!"], "dogruIndeks": 0, "aciklama": "تَنَفَّسَ → hemzesiz V. bab emri تَنَفَّسْ!" },
+        { "soruAr": "كَيْفَ تَسْأَلُ: 'İş baskılarıyla nasıl başa çıkayım?'", "soruTr": "'Baskılarla nasıl başa çıkayım?' (تَعَامَلَ مَعَ) hangisidir?", "ipucu": "كَيْفَ أَتَعَامَلُ مَعَ...", "secenekler": ["كَيْفَ أَتَعَامَلُ مَعَ ضُغُوطِ الْعَمَلِ؟", "كَيْفَ أُتَعَامِلُ مَعَ ضُغُوطِ الْعَمَلِ؟", "كَيْفَ أَتَعَامَلُ مِنْ ضُغُوطِ الْعَمَلِ؟"], "dogruIndeks": 0, "aciklama": "تَعَامَلَ مَعَ → 1. tekil fethalı أَتَعَامَلُ مَعَ." }
+      ]
+    },
+    {
+      "id": "m26_d3",
+      "baslik": "Hava Durumu ve Gezi Planı (يُتَوَقَّعُ / تَغَيَّرَ / تَأَكَّدَ مِنْ)",
+      "ortam": "İki arkadaş hafta sonu dağ yürüyüşü öncesi hava raporunu kontrol ediyor",
+      "replikler": [
+        { "konusan": "كريم", "ar": "هَلْ تَأَكَّدْتَ مِنْ نَشْرَةِ الطَّقْسِ لِيَوْمِ السَّبْتِ يَا بِلَالُ؟", "okunus": "Hel teekkedte min neşrati't-taksı li-yevmi's-sebti yâ Bilâlu?", "tr": "Cumartesi günü için hava raporundan emin oldun mu Bilal?" },
+        { "konusan": "بلال", "ar": "نَعَمْ، يُتَوَقَّعُ أَنْ تَتَعَرَّضَ الْجِبَالُ لِأَمْطَارٍ خَفِيفَةٍ فِي الصَّبَاحِ، ثُمَّ يَتَحَسَّنُ الْجَوُّ ظُهْرًا.", "okunus": "Ne‘am, yutevakka‘u en tete‘arrada'l-cibâlu li-emtârin hafîfetin fi's-sabâhi, summe yetehassenu'l-cevvu zuhran.", "tr": "Evet, dağların sabah hafif yağmurlara maruz kalması, sonra öğlen havanın iyileşmesi bekleniyor." },
+        { "konusan": "كريم", "ar": "الْجَوُّ فِي الرَّبِيعِ يَتَغَيَّرُ بِسُرْعَةٍ! إِذَنْ يَجِبُ أَنْ نَتَجَهَّزَ جَيِّدًا لِلرِّحْلَةِ.", "okunus": "El-cevvu fi'r-rabî‘i yetegayyeru bi-sur‘atin! İzen yecibu en netecehheze ceyyiden li'r-rihleti.", "tr": "İlkbaharda hava hızla değişiyor! Öyleyse gezi için iyi hazırlanmalıyız." },
+        { "konusan": "بلال", "ar": "صَحِيحٌ! لِنَتَقَاسَمِ الْمَهَامَّ: أَنَا أُحْضِرُ الْخَرِيطَةَ وَالطَّعَامَ، وَأَنْتَ تُحْضِرُ الْمِعَاطِفَ الْمَطَرِيَّةَ.", "okunus": "Sahîhun! Li-netekâsemi'l-mehâmme: ene uhdiru'l-harîtate ve't-ta‘âme, ve ente tuhdiru'l-me‘âtıfe'l-matariyyete.", "tr": "Doğru! Görevleri paylaşalım: ben harita ve yemeği getireyim, sen de yağmurlukları getir." },
+        { "konusan": "كريم", "ar": "اِتَّفَقْنَا! هَلْ تَوَاصَلْتَ مَعَ عُمَرَ وَسَلْمَانَ لِنَتَأَكَّدَ مِنْ حُضُورِهِمَا؟", "okunus": "İttefaknâ! Hel tevâsalte me‘a ‘Umara ve Selmâne li-neteekkede min hudûrihimâ?", "tr": "Anlaştık! Katılımlarından emin olmak için Ömer ve Selman'la iletişime geçtin mi?" },
+        { "konusan": "بلال", "ar": "نَعَمْ، تَوَاصَلْتُ مَعَهُمَا أَمْسِ، وَسَنَتَقَابَلُ جَمِيعًا أَمَامَ الْمَحَطَّةِ فِي السَّاعَةِ التَّاسِعَةِ.", "okunus": "Ne‘am, tevâsaltu me‘ahumâ emsi, ve se-netekâbelu cemî‘an emâme'l-mahattati fi's-sâ‘ati't-tâsi‘ati.", "tr": "Evet, dün ikisiyle iletişime geçtim; hepimiz saat dokuzda istasyonun önünde buluşacağız." },
+        { "konusan": "كريم", "ar": "مُمْتَازٌ! هَلْ تَتَجَاوَزُ مَسَافَةُ الْمَشْيِ عَشَرَةَ كِيلُومِتْرَاتٍ؟", "okunus": "Mumtâzun! Hel tetecâvezu mesâfetu'l-meşyi ‘aşerata kîlûmitrâtin?", "tr": "Harika! Yürüyüş mesafesi on kilometreyi aşıyor mu?" },
+        { "konusan": "بلال", "ar": "لَا، لَا تَتَجَاوَزُ سَبْعَةَ كِيلُومِتْرَاتٍ، وَالطَّرِيقُ آمِنٌ وَسَهْلٌ جِدًّا.", "okunus": "Lâ, lâ tetecâvezu seb‘ate kîlûmitrâtin, ve't-tarîku âminun ve sehlun cidden.", "tr": "Hayır, yedi kilometreyi aşmıyor ve yol çok güvenli ve kolay." },
+        { "konusan": "كريم", "ar": "رَائِعٌ! أَتَمَنَّى أَنْ تَتَمَتَّعَ الْمَجْمُوعَةُ بِالْمَنَاظِرِ الطَّبِيعِيَّةِ وَالْهَوَاءِ النَّقِيِّ.", "okunus": "Râi‘un! Etemennâ en tetemette‘a'l-mecmû‘atu bi'l-menâzıri't-tabî‘iyyeti ve'l-hevâi'n-nakiyyi.", "tr": "Harika! Grubun doğal manzaraların ve temiz havanın tadını çıkarmasını diliyorum." },
+        { "konusan": "بلال", "ar": "تَفَاءَلْ يَا صَدِيقِي، سَتَكُونُ رِحْلَةً لَا تُنْسَى! لَا تَتَأَخَّرْ عَنِ الْمَوْعِدِ غَدًا!", "okunus": "Tefâel yâ sadîkî, se-tekûnu rihleten lâ tunsâ! Lâ teteahhar ‘ani'l-mev‘idi gaden!", "tr": "İyimser ol arkadaşım, unutulmaz bir gezi olacak! Yarın randevuya geç kalma!" },
+        { "konusan": "كريم", "ar": "لَنْ أَتَأَخَّرَ أَبَدًا! سَأَصِلُ قَبْلَ التَّاسِعَةِ بِعَشْرِ دَقَائِقَ.", "okunus": "Len eteahhara ebeden! Se-esilu kable't-tâsi‘ati bi-‘aşri dekâika.", "tr": "Asla geç kalmayacağım! Dokuzdan on dakika önce varacağım." },
+        { "konusan": "بلال", "ar": "أَحْسَنْتَ! نَتَقَابَلُ غَدًا صَبَاحًا بِإِذْنِ اللّٰهِ!", "okunus": "Ahsente! Netekâbelu gaden sabâhan bi-iznillâhi!", "tr": "Aferin! Allah'ın izniyle yarın sabah buluşuruz!" }
+      ],
+      "partner": [
+        { "soruAr": "هَلْ تَأَكَّدْتَ مِنْ نَشْرَةِ الطَّقْسِ؟", "soruTr": "Hava raporundan emin oldun mu?", "ipucu": "تَأَكَّدْتُ مِنْ...", "secenekler": ["نَعَمْ، تَأَكَّدْتُ مِنْهَا قَبْلَ قَلِيلٍ.", "نَعَمْ، تَأَكَّدْتُ عَلَيْهَا.", "نَعَمْ، أَكَّدْتُ مِنْهَا."], "dogruIndeks": 0, "aciklama": "تَأَكَّدَ مِنْ = -den emin olmak." },
+        { "soruAr": "مَاذَا يُتَوَقَّعُ لِلطَّقْسِ غَدًا؟", "soruTr": "Yarın hava için ne bekleniyor? (Havanın iyileşmesi)", "ipucu": "يُتَوَقَّعُ أَنْ يَتَحَسَّنَ...", "secenekler": ["يُتَوَقَّعُ أَنْ يَتَحَسَّنَ الْجَوُّ ظُهْرًا.", "يَتَوَقَّعُ أَنْ يَتَحَسَّنَ الْجَوُّ.", "يُتَوَقَّعُ أَنْ يُحَسِّنَ الْجَوُّ."], "dogruIndeks": 0, "aciklama": "يُتَوَقَّعُ (meçhul) + أَنْ يَتَحَسَّنَ (V. bab dönüşlü)." },
+        { "soruAr": "هَلْ تَوَاصَلْتَ مَعَ عُمَرَ وَسَلْمَانَ؟", "soruTr": "Ömer ve Selman'la iletişime geçtin mi?", "ipucu": "تَوَاصَلْتُ مَعَهُمَا (VI. bab).", "secenekler": ["نَعَمْ، تَوَاصَلْتُ مَعَهُمَا أَمْسِ.", "نَعَمْ، وَاصَلْتُ مَعَهُمَا.", "نَعَمْ، تَوَصَّلْتُ مَعَهُمَا."], "dogruIndeks": 0, "aciklama": "تَوَاصَلَ مَعَ = iletişim kurmak." },
+        { "soruAr": "أَيْنَ سَنَتَقَابَلُ غَدًا؟", "soruTr": "Yarın nerede buluşacağız? (İstasyonun önünde)", "ipucu": "سَنَتَقَابَلُ (VI. bab 1. çoğul).", "secenekler": ["سَنَتَقَابَلُ أَمَامَ الْمَحَطَّةِ فِي التَّاسِعَةِ.", "سَنُتَقَابِلُ أَمَامَ الْمَحَطَّةِ.", "سَنَتَقَبَّلُ أَمَامَ الْمَحَطَّةِ."], "dogruIndeks": 0, "aciklama": "تَقَابَلَ → سَنَتَقَابَلُ (karşılıklı buluşacağız)." },
+        { "soruAr": "كَيْفَ تَنْهَى صَدِيقَكَ عَنِ التَّأَخُّرِ؟ (Geç kalma!)", "soruTr": "'Randevuya geç kalma!' (تَأَخَّرَ nehiy) hangisidir?", "ipucu": "لَا تَتَأَخَّرْ عَنْ...", "secenekler": ["لَا تَتَأَخَّرْ عَنِ الْمَوْعِدِ غَدًا!", "لَا تُتَأَخِّرْ عَنِ الْمَوْعِدِ!", "لَا تَأَخَّرْ عَنِ الْمَوْعِدِ!"], "dogruIndeks": 0, "aciklama": "تَأَخَّرَ → nehiy لَا تَتَأَخَّرْ عَنْ." }
+      ]
+    },
+    {
+      "id": "m26_d4",
+      "baslik": "Sarf Atölyesi: V. ve VI. Bab Sırlarını Çözme",
+      "ortam": "Hoca ile öğrenci II→V ve III→VI dönüşüm mantığını pratik yapıyor",
+      "replikler": [
+        { "konusan": "الطالبة", "ar": "أُسْتَاذِي، كَيْفَ أُمَيِّزُ بِسُرْعَةٍ بَيْنَ مَصْدَرِ الْبَابِ الثَّانِي وَالْخَامِسِ؟", "okunus": "Ustâzî, keyfe umeyyizu bi-sur‘atin beyne masdari'l-bâbi's-sânî ve'l-hâmisi?", "tr": "Hocam, II. bab ile V. babın mastarını hızla nasıl ayırt ederim?" },
+        { "konusan": "الأستاذ", "ar": "سُؤَالٌ ذَكِيٌّ يَا مَرْيَمُ! فِي الثَّانِي نَمُدُّ بِالْيَاءِ «تَفْعِيل» (تَطْوِير)، أَمَّا فِي الْخَامِسِ فَنَضُمُّ مَا قَبْلَ الْآخِرِ «تَفَعُّل» (تَطَوُّر)!", "okunus": "Suâlun zekiyyun yâ Meryemu! Fi's-sânî nemuddu bi'l-yâi 'tef‘îl' (tatvîr), emmâ fi'l-hâmisi fe-nedummu mâ kable'l-âhıri 'tefe‘‘ul' (tatavvur)!", "tr": "Akıllıca bir soru Meryem! İkincide yâ ile uzatırız 'tef‘îl' (tatvîr), beşincide ise sondan bir öncekini dammeleriz 'tefe‘‘ul' (tatavvur)!" },
+        { "konusan": "الطالبة", "ar": "وَاضِحٌ جِدًّا! إِذَنْ «تَحْسِين» مِنَ الثَّانِي (حَسَّنَ) وَ«تَحَسُّن» مِنَ الْخَامِسِ (تَحَسَّنَ)!", "okunus": "Vâdıhun cidden! İzen 'tahsîn' mine's-sânî (hassene) ve 'tehássun' mine'l-hâmisi (tehássene)!", "tr": "Çok net! Öyleyse 'tahsîn' ikinciden (hassene) ve 'tehassün' beşinciden (tehassene)!" },
+        { "konusan": "الأستاذ", "ar": "أَحْسَنْتِ! وَمَا الْفَرْقُ فِي الْمَعْنَى بَيْنَ «تَجَاهَلَ» وَ«جَهِلَ»؟", "okunus": "Ahsenti! Ve me'l-farku fi'l-ma‘nâ beyne 'tecâhele' ve 'cehile'?", "tr": "Aferin! Peki 'tecâhele' ile 'cehile' arasındaki anlam farkı nedir?" },
+        { "konusan": "الطالبة", "ar": "«جَهِلَ» يَعْنِي لَمْ يَعْلَمْ حَقِيقَةً، أَمَّا «تَجَاهَلَ» فَيَعْنِي أَظْهَرَ الْجَهْلَ وَهُوَ يَعْلَمُ!", "okunus": "'Cehile' ya‘nî lem ya‘lem hakîkaten, emmâ 'tecâhele' fe-ya‘nî ezhara'l-cehle ve huve ya‘lemu!", "tr": "'Cehile' gerçekten bilmedi demek; 'tecâhele' ise bildiği hâlde bilmiyormuş gibi göründü demek!" },
+        { "konusan": "الأستاذ", "ar": "بَارَكَ اللّٰهُ فِيكِ! هٰذَا يُسَمَّى فِي الصَّرْفِ «التَّظَاهُرَ» مِثْلَ تَمَارَضَ وَتَنَاوَمَ.", "okunus": "Bârakallâhu fîki! Hâzâ yusemmâ fi's-sarfi 'et-tezâhura' misle temârada ve tenâveme.", "tr": "Allah seni bereketlendirsin! Buna sarfta 'tezâhur' (gibi görünme) denir; temârada ve tenâveme gibi." },
+        { "konusan": "الطالبة", "ar": "وَلِمَاذَا يَتَغَيَّرُ مَعْنَى «تَوَقَّفَ» تَمَامًا بِحَسَبِ حَرْفِ الْجَرِّ؟", "okunus": "Ve limâzâ yetegayyeru ma‘nâ 'tevakkafe' temâmen bi-hasebi harfi'l-cerri?", "tr": "Peki 'tevakkafe' fiilinin anlamı harf-i cerre göre neden tamamen değişiyor?" },
+        { "konusan": "الأستاذ", "ar": "لِأَنَّ «تَوَقَّفَ عَنْ» يَعْنِي تَرَكَ وَامْتَنَعَ، أَمَّا «تَوَقَّفَ عَلَى» فَيَعْنِي اعْتَمَدَ وَارْتَبَطَ بِهِ!", "okunus": "Li-enne 'tevakkafe ‘an' ya‘nî terake ve'mtene‘a, emmâ 'tevakkafe ‘alâ' fe-ya‘ni'‘temede ve'rtabata bihi!", "tr": "Çünkü 'tevakkafe an' bıraktı/vazgeçti demektir; 'tevakkafe alâ' ise ona dayandı/bağlı oldu demektir!" },
+        { "konusan": "الطالبة", "ar": "حَقًّا! مِثْلُ: «تَوَقَّفَ عَنِ التَّدْخِينِ» وَ«يَتَوَقَّفُ النَّجَاحُ عَلَى الْجُهْدِ»!", "okunus": "Hakkan! Mislu: 'tevakkafe ‘ani't-tedhîni' ve 'yetevakkafu'n-necâhu ‘ale'l-cuhdi'!", "tr": "Gerçekten! 'Sigarayı bıraktı' ile 'Başarı çabaya bağlıdır' gibi!" },
+        { "konusan": "الأستاذ", "ar": "مُمْتَازٌ! وَتَذَكَّرِي أَيْضًا أَنَّ مُضَارِعَ الْخَامِسِ وَالسَّادِسِ مَفْتُوحُ الْأَوَّلِ وَمَا قَبْلَ الْآخِرِ!", "okunus": "Mumtâzun! Ve tezekkerî eydan enne mudâri‘a'l-hâmisi ve's-sâdisi meftûhu'l-evveli ve mâ kable'l-âhıri!", "tr": "Harika! V. ve VI. babın muzârisinin ilk ve sondan bir önceki harfinin fethalı olduğunu da unutma!" },
+        { "konusan": "الطالبة", "ar": "نَعَمْ، يَتَعَلَّمُ وَيَتَعَاوَنُ؛ وَفِي الْمَجْهُولِ يُتَعَلَّمُ وَيُتَعَاوَنُ! لَقَدْ تَرَسَّخَتِ الْقَاعِدَةُ تَمَامًا!", "okunus": "Ne‘am, yete‘allemu ve yete‘âvenu; ve fi'l-mechûli yute‘allemu ve yute‘âvenu! Lekad terassehati'l-kâ‘idetu temâmen!", "tr": "Evet, yete‘allemu ve yete‘âvenu; meçhulde ise yute‘allemu ve yute‘âvenu! Kural zihnimde tamamen yerleşti!" },
+        { "konusan": "الأستاذ", "ar": "أَحْسَنْتِ! وَفِي الْوَحْدَةِ الْقَادِمَةِ سَنَتَعَرَّفُ عَلَى بَابَيِ الِانْفِعَالِ وَالِافْتِعَالِ!", "okunus": "Ahsenti! Ve fi'l-vahdeti'l-kâdimeti se-nete‘arrafu ‘alâ bâbeyi'l-infi‘âli ve'l-ifti‘âli!", "tr": "Aferin! Gelecek ünitede İnfiâl (VII.) ve İftiâl (VIII.) bablarını tanıyacağız!" }
+      ],
+      "partner": [
+        { "soruAr": "مَا مَصْدَرُ «تَطَوَّرَ» (V) مُقَارَنَةً بِـ«طَوَّرَ» (II)؟", "soruTr": "'تَطَوَّرَ' (V) ile 'طَوَّرَ' (II) mastar farkı nedir?", "ipucu": "تَطَوُّرٌ (V) vs. تَطْوِيرٌ (II).", "secenekler": ["تَطَوَّرَ → تَطَوُّرٌ (gelişim); طَوَّرَ → تَطْوِيرٌ (geliştirme).", "تَطَوَّرَ → تَطْوِيرٌ; طَوَّرَ → تَطَوُّرٌ.", "Her ikisinin mastarı تَطْوِيرٌ."], "dogruIndeks": 0, "aciklama": "V. bab mastarı تَفَعُّلٌ, II. bab mastarı تَفْعِيلٌ." },
+        { "soruAr": "مَا مَعْنَى «تَمَارَضَ» فِي بَابِ التَّفَاعُلِ؟", "soruTr": "VI. babtaki 'تَمَارَضَ' ne anlama gelir?", "ipucu": "Tezâhur (rol yapma).", "secenekler": ["Hasta olmadığı hâlde hasta numarası yapmak.", "Hastayı tedavi etmek.", "Çok hastalanmak."], "dogruIndeks": 0, "aciklama": "VI. babın tezâhur anlamı: gibi görünmek." },
+        { "soruAr": "مَا الْفَرْقُ بَيْنَ «تَوَقَّفَ عَنْ» وَ«تَوَقَّفَ عَلَى»؟", "soruTr": "'تَوَقَّفَ عَنْ' ile 'تَوَقَّفَ عَلَى' farkı nedir?", "ipucu": "عَنْ = bırakmak, عَلَى = bağlı olmak.", "secenekler": ["تَوَقَّفَ عَنْ = bırakmak; تَوَقَّفَ عَلَى = -e bağlı olmak.", "تَوَقَّفَ عَنْ = bağlı olmak; تَوَقَّفَ عَلَى = bırakmak.", "Her ikisi de aynı anlamdadır."], "dogruIndeks": 0, "aciklama": "YDS harf-i cerli fiillerin en kritik ikilisidir." },
+        { "soruAr": "كَيْفَ نَبْنِي «تَبَادَلَ» لِلْمَجْهُولِ فِي الْمَاضِي؟", "soruTr": "'تَبَادَلَ' fiilinin mâzi meçhulü hangisidir?", "ipucu": "İlk iki harekeli harf damme + ا → و!", "secenekler": ["تُبُودِلَ", "تَبُودِلَ", "تُبَادِلَ"], "dogruIndeks": 0, "aciklama": "VI. bab mâzi meçhul: تُفُوعِلَ → تُبُودِلَ." },
+        { "soruAr": "كَيْفَ نَحَوِّلُ «يَتَقَبَّلُ» إِلَى مُضَارِعٍ مَجْهُولٍ؟", "soruTr": "'يَتَقَبَّلُ' fiilinin muzâri meçhulü hangisidir?", "ipucu": "Sadece ilk harf damme (يُـ)!", "secenekler": ["يُتَقَبَّلُ", "يُتَقَبِّلُ", "يَتُقَبَّلُ"], "dogruIndeks": 0, "aciklama": "Sondan öncesi zaten fethalı olduğu için tek değişim baş harfin dammesidir: يُتَقَبَّلُ." }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "id": "m26_f01", "ar": "تَعَلَّمَ – يَتَعَلَّمُ", "harekesiz": "تعلم - يتعلم", "okunus": "te‘alleme – yete‘allemu", "tr": "öğrenmek", "kok": "ع-ل-م", "vezin": "تَفَعَّلَ (V. Bab)", "turevler": ["تَعَلُّمٌ (öğrenme)", "مُتَعَلِّمٌ (öğrenen)"], "ekBilgi": "عَلَّمَ (öğretti) fiilinin dönüşlü (mutâvaat) karşılığı", "ornek": "يَتَعَلَّمُ الطُّلَّابُ اللُّغَةَ الْعَرَبِيَّةَ.", "ornekTr": "Öğrenciler Arapça öğreniyor.", "kullanimNotu": "Emir hemzesiz: تَعَلَّمْ!", "tur": "fiil" },
+    { "id": "m26_f02", "ar": "تَكَلَّمَ – يَتَكَلَّمُ", "harekesiz": "تكلم - يتكلم", "okunus": "tekelleme – yetekellemu", "tr": "konuşmak", "kok": "ك-ل-م", "vezin": "تَفَعَّلَ (V. Bab)", "turevler": ["تَكَلُّمٌ (konuşma)", "مُتَكَلِّمٌ (konuşan / 1. şahıs)"], "ekBilgi": "Muzâri başı ve sondan öncesi fetha!", "ornek": "يَتَكَلَّمُ الضَّيْفُ ثَلَاثَ لُغَاتٍ.", "ornekTr": "Misafir üç dil konuşuyor.", "kullanimNotu": "Emir: تَكَلَّمْ!", "tur": "fiil" },
+    { "id": "m26_f03", "ar": "تَقَدَّمَ – يَتَقَدَّمُ", "harekesiz": "تقدم - يتقدم", "okunus": "tekaddeme – yetekaddemu", "tr": "ilerlemek, öne geçmek, başvurmak (لِـ)", "kok": "ق-د-م", "vezin": "تَفَعَّلَ (V. Bab)", "turevler": ["تَقَدُّمٌ (ilerleme)", "مُتَقَدِّمٌ (ileri / başvuran)"], "ekBilgi": "تَقَدَّمَ لِلْوَظِيفَةِ = işe başvurdu", "ornek": "تَقَدَّمَ الْعِلْمُ تَقَدُّمًا هَائِلًا.", "ornekTr": "Bilim muazzam bir ilerleme kaydetti.", "kullanimNotu": "II. bab قَدَّمَ (sundu) ≠ V. bab تَقَدَّمَ (ilerledi).", "tur": "fiil" },
+    { "id": "m26_f04", "ar": "تَطَوَّرَ – يَتَطَوَّرُ", "harekesiz": "تطور - يتطور", "okunus": "tatavvara – yetatavvaru", "tr": "gelişmek", "kok": "ط-و-ر", "vezin": "تَفَعَّلَ (V. Bab)", "turevler": ["تَطَوُّرٌ (gelişim)", "مُتَطَوِّرٌ (gelişmiş)"], "ekBilgi": "طَوَّرَ (geliştirdi) → تَطَوَّرَ (gelişti)", "ornek": "تَتَطَوَّرُ التِّقْنِيَّةُ بِسُرْعَةٍ كَبِيرَةٍ.", "ornekTr": "Teknoloji büyük bir hızla gelişiyor.", "kullanimNotu": "Mastar تَطَوُّرٌ ≠ تَطْوِيرٌ (II. bab).", "tur": "fiil" },
+    { "id": "m26_f05", "ar": "تَحَسَّنَ – يَتَحَسَّنُ", "harekesiz": "تحسن - يتحسن", "okunus": "tehassane – yetehassenu", "tr": "iyileşmek, düzelmek", "kok": "ح-س-ن", "vezin": "تَفَعَّلَ (V. Bab)", "turevler": ["تَحَسُّنٌ (iyileşme)", "حَسَّنَ (iyileştirdi)"], "ekBilgi": "حَسَّنَ (II) → تَحَسَّنَ (V) mutâvaat çifti", "ornek": "تَحَسَّنَتْ صِحَّةُ الْمَرِيضِ بَعْدَ الْعِلَاجِ.", "ornekTr": "Tedaviden sonra hastanın sağlığı iyileşti.", "kullanimNotu": "Hava, sağlık ve ekonomi için çok sık geçer.", "tur": "fiil" },
+    { "id": "m26_f06", "ar": "تَغَيَّرَ – يَتَغَيَّرُ", "harekesiz": "تغير - يتغير", "okunus": "tegayyera – yetegayyeru", "tr": "değişmek", "kok": "غ-ي-ر", "vezin": "تَفَعَّلَ (V. Bab)", "turevler": ["تَغَيُّرٌ (değişim)", "مُتَغَيِّرٌ (değişken)"], "ekBilgi": "غَيَّرَ (değiştirdi) → تَغَيَّرَ (değişti)", "ornek": "تَغَيَّرَ الطَّقْسُ فَجْأَةً فِي الْمَسَاءِ.", "ornekTr": "Akşam hava aniden değişti.", "kullanimNotu": "تَغَيُّرُ الْمُنَاخِ = iklim değişikliği.", "tur": "fiil" },
+    { "id": "m26_f07", "ar": "تَدَرَّبَ – يَتَدَرَّبُ", "harekesiz": "تدرب - يتدرب", "okunus": "tederrabe – yetederrabu", "tr": "antrenman yapmak, pratik yapmak, staj görmek", "kok": "د-ر-ب", "vezin": "تَفَعَّلَ (V. Bab)", "turevler": ["تَدَرُّبٌ (pratik yapma)", "مُتَدَرِّبٌ (stajyer/kursiyer)"], "ekBilgi": "دَرَّبَ (çalıştırdı) → تَدَرَّبَ (çalıştı)", "ornek": "تَدَرَّبَ اللَّاعِبُونَ كُلَّ يَوْمٍ.", "ornekTr": "Oyuncular her gün antrenman yaptı.", "kullanimNotu": "Konu عَلَى harf-i cerriyle gelir.", "tur": "fiil" },
+    { "id": "m26_f08", "ar": "تَخَرَّجَ – يَتَخَرَّجُ", "harekesiz": "تخرج - يتخرج", "okunus": "teharrace – yeteharracu", "tr": "mezun olmak (فِي / مِنْ)", "kok": "خ-ر-ج", "vezin": "تَفَعَّلَ (V. Bab)", "turevler": ["تَخَرُّجٌ (mezuniyet)", "خِرِّيجٌ (mezun)"], "ekBilgi": "Fasih Arapçada فِي ile, modern kullanımda مِنْ ile de gelir", "ornek": "تَخَرَّجَ أَخِي فِي كُلِّيَّةِ الطِّبِّ.", "ornekTr": "Kardeşim tıp fakültesinden mezun oldu.", "kullanimNotu": "حَفْلُ التَّخَرُّجِ = mezuniyet töreni.", "tur": "fiil" },
+    { "id": "m26_f09", "ar": "تَعَرَّضَ – يَتَعَرَّضُ لِـ", "harekesiz": "تعرض - يتعرض لـ", "okunus": "te‘arrada – yete‘arradu li-", "tr": "maruz kalmak, uğramak", "kok": "ع-ر-ض", "vezin": "تَفَعَّلَ (V. Bab)", "turevler": ["تَعَرُّضٌ (maruz kalma)", "عَرَضَ (sundu)"], "ekBilgi": "YDS'nin vazgeçilmez harf-i cerli V. bab fiili", "ornek": "تَعَرَّضَتِ الْمِنْطَقَةُ لِعَاصِفَةٍ قَوِيَّةٍ.", "ornekTr": "Bölge şiddetli bir fırtınaya maruz kaldı.", "kullanimNotu": "Mutlaka لِـ harf-i cerri alır.", "tur": "fiil" },
+    { "id": "m26_f10", "ar": "تَمَكَّنَ – يَتَمَكَّنُ مِنْ", "harekesiz": "تمكن - يتمكن من", "okunus": "temekkene – yetemekkenu min", "tr": "-ebilmek, muktedir olmak, başarmak", "kok": "م-ك-ن", "vezin": "تَفَعَّلَ (V. Bab)", "turevler": ["تَمَكُّنٌ (hâkimiyet/ustalık)", "مُتَمَكِّنٌ (yetkin)"], "ekBilgi": "اِسْتَطَاعَ ile eşanlamlı ama mutlaka مِنْ ister!", "ornek": "تَمَكَّنَ الْفَرِيقُ مِنْ تَجَاوُزِ الصُّعُوبَاتِ.", "ornekTr": "Ekip zorlukları aşmayı başardı.", "kullanimNotu": "YDS çeviri sorularında 'başardı / -ebildi'.", "tur": "fiil" },
+    { "id": "m26_f11", "ar": "تَوَقَّفَ – يَتَوَقَّفُ (عَنْ / عَلَى)", "harekesiz": "توقف - يتوقف", "okunus": "tevakkafe – yetevakkafu", "tr": "عَنْ: bırakmak, durmak | عَلَى: -e bağlı olmak", "kok": "و-ق-ف", "vezin": "تَفَعَّلَ (V. Bab)", "turevler": ["تَوَقُّفٌ (durma)", "مَوْقِفٌ (durak/tutum)"], "ekBilgi": "Harf-i cerre göre anlamı %100 değişen YDS şampiyonu!", "ornek": "يَتَوَقَّفُ النَّجَاحُ عَلَى التَّخْطِيطِ السَّلِيمِ.", "ornekTr": "Başarı sağlam planlamaya bağlıdır.", "kullanimNotu": "تَوَقَّفَ عَنِ التَّدْخِينِ = sigarayı bıraktı.", "tur": "fiil" },
+    { "id": "m26_f12", "ar": "تَكَوَّنَ – يَتَكَوَّنُ مِنْ", "harekesiz": "تكون - يتكون من", "okunus": "tekevvene – yetekevvenu min", "tr": "-den oluşmak, meydana gelmek", "kok": "ك-و-ن", "vezin": "تَفَعَّلَ (V. Bab)", "turevler": ["تَكَوُّنٌ (oluşum)", "مُكَوِّنَاتٌ (bileşenler)"], "ekBilgi": "Eşanlamlısı: تَأَلَّفَ مِنْ", "ornek": "يَتَكَوَّنُ الْكِتَابُ مِنْ خَمْسَةِ أَجْزَاءٍ.", "ornekTr": "Kitap beş ciltten oluşuyor.", "kullanimNotu": "Daima مِنْ ile kullanılır.", "tur": "fiil" },
+    { "id": "m26_f13", "ar": "تَأَكَّدَ – يَتَأَكَّدُ مِنْ", "harekesiz": "تأكد - يتأكد من", "okunus": "teekkede – yeteekkedu min", "tr": "-den emin olmak, doğrulamak", "kok": "أ-ك-د", "vezin": "تَفَعَّلَ (V. Bab)", "turevler": ["تَأَكُّدٌ (emin olma)", "مُتَأَكِّدٌ (emin)"], "ekBilgi": "أَكَّدَ (vurguladı) → تَأَكَّدَ مِنْ (emin oldu)", "ornek": "تَأَكَّدْ مِنَ الْمَعْلُومَةِ قَبْلَ نَشْرِهَا!", "ornekTr": "Bilgiyi yayımlamadan önce doğruluğundan emin ol!", "kullanimNotu": "Daima مِنْ ile kullanılır.", "tur": "fiil" },
+    { "id": "m26_f14", "ar": "تَعَلَّقَ – يَتَعَلَّقُ بِـ", "harekesiz": "تعلق - يتعلق بـ", "okunus": "te‘allaka – yete‘allaku bi-", "tr": "-ile ilgili olmak, bağlanmak", "kok": "ع-ل-ق", "vezin": "تَفَعَّلَ (V. Bab)", "turevler": ["تَعَلُّقٌ (bağlılık)", "فِيمَا يَتَعَلَّقُ بِـ (... konusuna gelince)"], "ekBilgi": "فِيمَا يَتَعَلَّقُ بِـ YDS'de çok sık geçiş kalıbıdır", "ornek": "فِيمَا يَتَعَلَّقُ بِالْبَحْثِ، فَالنَّتَائِجُ مُبَشِّرَةٌ.", "ornekTr": "Araştırmaya gelince, sonuçlar umut vericidir.", "kullanimNotu": "Daima بِـ ile kullanılır.", "tur": "fiil" },
+    { "id": "m26_f15", "ar": "تَوَقَّعَ – يَتَوَقَّعُ", "harekesiz": "توقع - يتوقع", "okunus": "tevakka‘a – yetevakka‘u", "tr": "beklemek, öngörmek, tahmin etmek", "kok": "و-ق-ع", "vezin": "تَفَعَّلَ (V. Bab)", "turevler": ["تَوَقُّعٌ (beklenti)", "مُتَوَقَّعٌ (beklenen)"], "ekBilgi": "Meçhul: يُتَوَقَّعُ أَنْ = ... olması bekleniyor!", "ornek": "يُتَوَقَّعُ أَنْ تَتَحَسَّنَ الْأَحْوَالُ غَدًا.", "ornekTr": "Yarın koşulların iyileşmesi bekleniyor.", "kullanimNotu": "Hava ve ekonomi haberlerinin baş tacıdır.", "tur": "fiil" },
+    { "id": "m26_f16", "ar": "تَطَلَّبَ – يَتَطَلَّبُ", "harekesiz": "تطلب - يتطلب", "okunus": "tetallabe – yetetallabu", "tr": "gerektirmek, icap ettirmek", "kok": "ط-ل-ب", "vezin": "تَفَعَّلَ (V. Bab)", "turevler": ["تَطَلُّبٌ (gerektirme)", "مُتَطَلَّبَاتٌ (gereksinimler)"], "ekBilgi": "Harf-i cersiz doğrudan nesne alır", "ornek": "يَتَطَلَّبُ النَّجَاحُ صَبْرًا وَتَخْطِيطًا.", "ornekTr": "Başarı sabır ve planlama gerektirir.", "kullanimNotu": "YDS akademik paragraflarında çok sıktır.", "tur": "fiil" },
+    { "id": "m26_f17", "ar": "تَمَنَّى – يَتَمَنَّى", "harekesiz": "تمنى - يتمنى", "okunus": "temennâ – yetemennâ", "tr": "dilemek, temenni etmek", "kok": "م-ن-ي", "vezin": "تَفَعَّلَ (Nâkıs V. Bab)", "turevler": ["التَّمَنِّي (temenni)", "أُمْنِيَةٌ (dilek)"], "ekBilgi": "Nâkıs V. bab mastarı: تَمَنٍّ / التَّمَنِّي", "ornek": "أَتَمَنَّى لَكَ نَجَاحًا بَاهِرًا!", "ornekTr": "Sana parlak bir başarı diliyorum!", "kullanimNotu": "Emir: تَمَنَّ.", "tur": "fiil" },
+    { "id": "m26_f18", "ar": "تَحَدَّى – يَتَحَدَّى", "harekesiz": "تحدى - يتحدى", "okunus": "tehaddâ – yetehaddâ", "tr": "meydan okumak, göğüs germek", "kok": "ح-د-ي", "vezin": "تَفَعَّلَ (Nâkıs V. Bab)", "turevler": ["التَّحَدِّي (meydan okuma)", "تَحَدِّيَاتٌ (zorluklar)"], "ekBilgi": "تَحَدِّيَاتٌ modern Arapçada 'zorluklar/meydan okumalar'", "ornek": "يُوَاجِهُ الْعَالَمُ تَحَدِّيَاتٍ بِيئِيَّةً كَبِيرَةً.", "ornekTr": "Dünya büyük çevresel zorluklarla karşı karşıya.", "kullanimNotu": "Nâkıs V. bab mastar örneği.", "tur": "fiil" },
+    { "id": "m26_f19", "ar": "تَشَجَّعَ – يَتَشَجَّعُ", "harekesiz": "تشجع - يتشجع", "okunus": "teşecca‘a – yeteşecca‘u", "tr": "cesaretlenmek, cesaretini toplamak", "kok": "ش-ج-ع", "vezin": "تَفَعَّلَ (Tekellüf V. Bab)", "turevler": ["تَشَجُّعٌ (cesaretlenme)", "شَجَاعَةٌ (cesaret)"], "ekBilgi": "Tekellüf (çabayla kazanma) örneği", "ornek": "تَشَجَّعَ الطَّالِبُ وَتَحَدَّثَ أَمَامَ الْجُمْهُورِ.", "ornekTr": "Öğrenci cesaretlendi ve topluluk önünde konuştu.", "kullanimNotu": "شَجَّعَ (cesaretlendirdi) → تَشَجَّعَ (cesaretlendi).", "tur": "fiil" },
+    { "id": "m26_f20", "ar": "تَصَبَّرَ – يَتَصَبَّرُ", "harekesiz": "تصبر - يتصبر", "okunus": "tesabbara – yetesabbaru", "tr": "dişini sıkıp sabretmek, sabır göstermeye çalışmak", "kok": "ص-ب-ر", "vezin": "تَفَعَّلَ (Tekellüf V. Bab)", "turevler": ["تَصَبُّرٌ (sabretmeye çalışma)", "صَبْرٌ (sabır)"], "ekBilgi": "Tekellüf: irade zorlayarak sabretme", "ornek": "تَصَبَّرَ الْمَرِيضُ عَلَى الْأَلَمِ.", "ornekTr": "Hasta acıya sabırla dayandı.", "kullanimNotu": "Hadis: وَمَنْ يَتَصَبَّرْ يُصَبِّرْهُ اللّٰهُ.", "tur": "fiil" },
+    { "id": "m26_f21", "ar": "تَعَاوَنَ – يَتَعَاوَنُ", "harekesiz": "تعاون - يتعاون", "okunus": "te‘âvene – yete‘âvenu", "tr": "yardımlaşmak, iş birliği yapmak", "kok": "ع-و-ن", "vezin": "تَفَاعَلَ (VI. Bab)", "turevler": ["تَعَاوُنٌ (iş birliği)", "مُتَعَاوِنٌ (yardımlaşan)"], "ekBilgi": "Emir: تَعَاوَنُوا عَلَى الْبِرِّ!", "ornek": "تَعَاوَنَ الطُّلَّابُ عَلَى تَنْظِيمِ الْمَعْرِضِ.", "ornekTr": "Öğrenciler sergiyi düzenlemek için yardımlaştılar.", "kullanimNotu": "Konu عَلَى, kişi مَعَ ile gelir.", "tur": "fiil" },
+    { "id": "m26_f22", "ar": "تَبَادَلَ – يَتَبَادَلُ", "harekesiz": "تبادل - يتبادل", "okunus": "tebâdele – yetebâdelu", "tr": "karşılıklı değiş tokuş etmek, paylaşmak", "kok": "ب-د-ل", "vezin": "تَفَاعَلَ (VI. Bab)", "turevler": ["تَبَادُلٌ (değiş tokuş)", "مُتَبَادَلٌ (karşılıklı)"], "ekBilgi": "Meçhul: تُبُودِلَ (ا → و!) / يُتَبَادَلُ", "ornek": "تَبَادَلَ الْخُبَرَاءُ الْأَفْكَارَ وَالْخِبْرَاتِ.", "ornekTr": "Uzmanlar fikir ve tecrübe alışverişinde bulundu.", "kullanimNotu": "اِحْتِرَامٌ مُتَبَادَلٌ = karşılıklı saygı!", "tur": "fiil" },
+    { "id": "m26_f23", "ar": "تَصَافَحَ – يَتَصَافَحُ", "harekesiz": "تصافح - يتصافح", "okunus": "tesâfaha – yetesâfahu", "tr": "tokalaşmak, musafaha etmek", "kok": "ص-ف-ح", "vezin": "تَفَاعَلَ (VI. Bab)", "turevler": ["تَصَافُحٌ (tokalaşma)", "مُصَافَحَةٌ (III. bab: tokalaşma)"], "ekBilgi": "İki taraf da eşit merfû öznedir", "ornek": "تَصَافَحَ الصَّدِيقَانِ بِحَرَارَةٍ.", "ornekTr": "İki arkadaş hararetle tokalaştı.", "kullanimNotu": "صَافَحَ أَحْمَدُ عُمَرَ (III) vs. تَصَافَحَ أَحْمَدُ وَعُمَرُ (VI).", "tur": "fiil" },
+    { "id": "m26_f24", "ar": "تَعَارَفَ – يَتَعَارَفُ", "harekesiz": "تعارف - يتعارف", "okunus": "te‘ârafe – yete‘ârafu", "tr": "tanışmak (karşılıklı)", "kok": "ع-ر-ف", "vezin": "تَفَاعَلَ (VI. Bab)", "turevler": ["تَعَارُفٌ (tanışma)", "مُتَعَارَفٌ عَلَيْهِ (yaygın/bilinen)"], "ekBilgi": "Kur'an Hucurât 13: لِتَعَارَفُوا (tanışasınız diye)", "ornek": "يُسْعِدُنِي أَنْ نَتَعَارَفَ الْيَوْمَ.", "ornekTr": "Bugün tanışmamız beni mutlu ediyor.", "kullanimNotu": "Eşit karşılıklılık örneği.", "tur": "fiil" },
+    { "id": "m26_f25", "ar": "تَمَارَضَ – يَتَمَارَضُ", "harekesiz": "تمارض - يتمارض", "okunus": "temârada – yetemâradu", "tr": "hasta numarası yapmak, hasta gibi görünmek", "kok": "م-ر-ض", "vezin": "تَفَاعَلَ (Tezâhur VI. Bab)", "turevler": ["تَمَارُضٌ (hasta numarası)", "مَرَضٌ (hastalık)"], "ekBilgi": "Tezâhur (rol yapma) klasik örneği", "ornek": "تَمَارَضَ الطِّفْلُ كَيْ لَا يَذْهَبَ إِلَى الْمَدْرَسَةِ.", "ornekTr": "Çocuk okula gitmemek için hasta numarası yaptı.", "kullanimNotu": "Eşleştir: تَنَاوَمَ (uyuyor gibi yaptı).", "tur": "fiil" },
+    { "id": "m26_f26", "ar": "تَجَاهَلَ – يَتَجَاهَلُ", "harekesiz": "تجاهل - يتجاهل", "okunus": "tecâhele – yetecâhelu", "tr": "bilmezden gelmek, görmezden gelmek", "kok": "ج-ه-ل", "vezin": "تَفَاعَلَ (Tezâhur VI. Bab)", "turevler": ["تَجَاهُلٌ (görmezden gelme)", "جَهْلٌ (cehalet)"], "ekBilgi": "Meçhul: تُجُوهِلَ / يُتَجَاهَلُ", "ornek": "لَا يَجُوزُ أَنْ نَتَجَاهَلَ الْمُشْكِلَاتِ الْبِيئِيَّةَ.", "ornekTr": "Çevre sorunlarını görmezden gelmemiz doğru olmaz.", "kullanimNotu": "YDS metinlerinde çok yaygındır.", "tur": "fiil" },
+    { "id": "m26_f27", "ar": "تَزَايَدَ – يَتَزَايَدُ", "harekesiz": "تزايد - يتزايد", "okunus": "tezâyede – yetezâyedu", "tr": "giderek artmak, çoğalmak", "kok": "ز-ي-د", "vezin": "تَفَاعَلَ (Tedrîc VI. Bab)", "turevler": ["تَزَايُدٌ (giderek artma)", "مُتَزَايِدٌ (giderek artan)"], "ekBilgi": "Zıddı: تَنَاقَصَ (giderek azaldı)", "ornek": "تَتَزَايَدُ أَهَمِّيَّةُ الطَّاقَةِ النَّظِيفَةِ كُلَّ عَامٍ.", "ornekTr": "Temiz enerjinin önemi her yıl giderek artıyor.", "kullanimNotu": "Aşamalı artış bildirir.", "tur": "fiil" },
+    { "id": "m26_f28", "ar": "تَعَامَلَ – يَتَعَامَلُ مَعَ", "harekesiz": "تعامل - يتعامل مع", "okunus": "te‘âmele – yete‘âmelu me‘a", "tr": "-ile ilgilenmek, muamele etmek, başa çıkmak", "kok": "ع-م-ل", "vezin": "تَفَاعَلَ (VI. Bab)", "turevler": ["تَعَامُلٌ (muamele/yaklaşım)", "مُعَامَلَةٌ (III. bab)"], "ekBilgi": "Daima مَعَ ile kullanılır", "ornek": "تَعَامَلَتِ الْإِدَارَةُ مَعَ الْأَزْمَةِ بِحِكْمَةٍ.", "ornekTr": "Yönetim krizle hikmetle başa çıktı.", "kullanimNotu": "YDS sosyal/psikoloji metinlerinde çok sıktır.", "tur": "fiil" },
+    { "id": "m26_f29", "ar": "تَنَاوَلَ – يَتَنَاوَلُ", "harekesiz": "تناول - يتناول", "okunus": "tenâvele – yetenâvelu", "tr": "ele almak (konu), yemek/içmek (gıda/ilaç)", "kok": "ن-و-ل", "vezin": "تَفَاعَلَ (VI. Bab)", "turevler": ["تَنَاوُلٌ (ele alma / tüketme)", "مُتَنَاوَلٌ (ulaşılabilir)"], "ekBilgi": "Meçhul: تُنُووِلَ (ele alındı!) / يُتَنَاوَلُ", "ornek": "تَنَاوَلَ الْكِتَابُ قَضَايَا التَّرْبِيَةِ الْحَدِيثَةِ.", "ornekTr": "Kitap modern eğitim meselelerini ele aldı.", "kullanimNotu": "Günlükte: تَنَاوَلَ الْفَطُورَ / الدَّوَاءَ.", "tur": "fiil" },
+    { "id": "m26_f30", "ar": "تَجَاوَزَ – يَتَجَاوَزُ", "harekesiz": "تجاوز - يتجاوز", "okunus": "tecâveze – yetecâvezu", "tr": "aşmak, geçmek, üstesinden gelmek", "kok": "ج-و-ز", "vezin": "تَفَاعَلَ (VI. Bab)", "turevler": ["تَجَاوُزٌ (aşma / ihlal)", "مُتَجَاوِزٌ (aşan)"], "ekBilgi": "Harf-i cersiz doğrudan nesne alır", "ornek": "تَجَاوَزَ عَدَدُ الزُّوَّارِ مِلْيُونًا.", "ornekTr": "Ziyaretçi sayısı bir milyonu aştı.", "kullanimNotu": "تَجَاوَزَ الْعَقَبَاتِ = engelleri aştı.", "tur": "fiil" },
+    { "id": "m26_f31", "ar": "تَفَاءَلَ – يَتَفَاءَلُ", "harekesiz": "تفاءل - يتفاءل", "okunus": "tefâele – yetefâelu", "tr": "iyimser olmak, hayra yormak", "kok": "ف-أ-ل", "vezin": "تَفَاعَلَ (VI. Bab)", "turevler": ["تَفَاؤُلٌ (iyimserlik)", "مُتَفَائِلٌ (iyimser)"], "ekBilgi": "Zıddı: تَشَاءَمَ – تَشَاؤُمٌ (kötümser olmak)", "ornek": "تَفَاءَلُوا بِالْخَيْرِ تَجِدُوهُ!", "ornekTr": "Hayırla iyimser olun ki onu bulasınız!", "kullanimNotu": "Emir: تَفَاءَلْ / تَفَاءَلُوا.", "tur": "fiil" },
+    { "id": "m26_f32", "ar": "تَوَاصَلَ – يَتَوَاصَلُ مَعَ", "harekesiz": "تواصل - يتواصل مع", "okunus": "tevâsale – yetevâsalu me‘a", "tr": "iletişim kurmak, sürekli temas hâlinde olmak", "kok": "و-ص-ل", "vezin": "تَفَاعَلَ (VI. Bab)", "turevler": ["تَوَاصُلٌ (iletişim)", "مُتَوَاصِلٌ (aralıksız)"], "ekBilgi": "وَسَائِلُ التَّوَاصُلِ الِاجْتِمَاعِيِّ = sosyal medya!", "ornek": "تَوَاصَلْتُ مَعَ أَصْدِقَائِي قَبْلَ الرِّحْلَةِ.", "ornekTr": "Geziden önce arkadaşlarımla iletişime geçtim.", "kullanimNotu": "Kişiyle iletişim مَعَ ile gelir.", "tur": "fiil" }
+  ]
+}
