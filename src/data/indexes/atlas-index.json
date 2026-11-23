@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:48:29.976Z",
+  "generatedAt": "2026-11-23T08:11:37.943Z",
   "prepositionalVerbs": [
     {
       "ar": "بَحَثَ عَنْ",
@@ -865,6 +865,141 @@
       "arBaslik": "أَسَالِيبُ الرَّجَاءِ الْمُهَذَّبِ وَأَسْمَاءُ أَفْعَالِ الْأَمْرِ (تَفَضَّلْ، تَعَالَ، هَاتِ)",
       "formul": "Emir + مِنْ فَضْلِكَ / لَوْ سَمَحْتَ (Kibar Rica) | تَفَضَّلْ (Buyur!) | تَعَالَ (Gel!) | هَاتِ (Getir!)",
       "mantik": "Arap kültüründe emir kipi kaba bir komut değil, doğru nezaket kelimeleriyle birleştiğinde çok zarif bir rica ve misafirperverlik dilidir! Birinden kibarca bir şey isterken emir kipinin yanına **`مِنْ فَضْلِكَ / مِنْ فَضْلِكِ`** (lütfen), **`لَوْ سَمَحْتَ / لَو…"
+    },
+    {
+      "id": "m18_g1",
+      "moduleId": "18",
+      "cefr": "A2",
+      "baslik": "Mâzi Meçhul (فُعِلَ) — Geçmiş Zaman Edilgen Melodisi",
+      "arBaslik": "بِنَاءُ الْفِعْلِ الْمَاضِي لِلْمَجْهُولِ (فُعِلَ)",
+      "formul": "Mâzi Meçhul: Sondan Bir Önceki (ـِ) + Önceki Tüm Harekeliler (ـُ) | قَالَ→قِيلَ | شَاهَدَ→شُوهِدَ",
+      "mantik": "Türkçede edilgen yapmak için fiile `-ıl / -il / -ın` eki takarız ('yazdı → yazıldı'). Arapçada ise ek takmaya bile gerek yoktur; yalnızca **fiilin içindeki sesli harflerin (harekelerin) melodisini** değiştirirsiniz! Mâzi meçhulün altın melodisi bütün bablar iç…"
+    },
+    {
+      "id": "m18_g2",
+      "moduleId": "18",
+      "cefr": "A2",
+      "baslik": "Muzâri Meçhul (يُفْعَلُ) — Şimdiki / Geniş / Gelecek Zaman Edilgen",
+      "arBaslik": "بِنَاءُ الْفِعْلِ الْمُضَارِعِ لِلْمَجْهُولِ (يُفْعَلُ)",
+      "formul": "Muzâri Meçhul: İlk Harf (يُـ) + Sondan Bir Önceki (ـَ) | يَقُولُ→يُقَالُ | يَبْنِي→يُبْنَى",
+      "mantik": "Muzâri fiili edilgen yapmak mâziden bile daha kolaydır! Yalnızca iki harfe dokunursunuz: **'En baştaki muzâraat harfini DAMME (`يُـ / تُـ / أُ / نُـ`) yap, sondan bir önceki harfi FETHA (`ـَ`) yap!'** Aradaki harflere hiç dokunmayın! Bakın bütün bablarda muciz…"
+    },
+    {
+      "id": "m18_g3",
+      "moduleId": "18",
+      "cefr": "A2",
+      "baslik": "Nâib-i Fâil (نَائِبُ الْفَاعِلِ) — Sözde Öznenin Ref' ve Cinsiyet Kuralları",
+      "arBaslik": "نَائِبُ الْفَاعِلِ وَأَحْكَامُهُ (الرَّفْعُ وَالْمُطَابَقَةُ)",
+      "formul": "Etken: Fiil + Fâil (Merfû) + Mef'ûl (Mansub)  →  Edilgen: Meçhul Fiil + Nâib-i Fâil (MERFÛ!)",
+      "mantik": "Meçhul fiilin yanında artık gerçek fâil (işi yapan) yoktur; o koltuk boş kalmıştır! Arapça nahivde koltuk asla boş bırakılmaz: Etken cümlede mansub olan **mef'ûlün bih (nesne)** gelir, fâilin koltuğuna oturur ve onun bütün haklarını devralır! İşte fâilin vekil…"
+    },
+    {
+      "id": "m18_g4",
+      "moduleId": "18",
+      "cefr": "A2",
+      "baslik": "Harf-i Cerli (Şibh-i Cümle) & Müevvel Mastarlı Nâib-i Fâil",
+      "arBaslik": "نَائِبُ الْفَاعِلِ: شِبْهُ الْجُمْلَةِ وَالْمَصْدَرُ الْمُؤَوَّلُ",
+      "formul": "Meçhul (Tekil Eril!) + Harf-i Cer + Mecrûr  |  يُعْتَقَدُ / يُلَاحَظُ / يُرْجَى + أَنَّ / أَنْ (Müevvel Mastar)",
+      "mantik": "Peki ya bir fiilin doğrudan nesnesi (mef'ûlün bih) yoksa, harf-i cerle nesne alıyorsa (`نَظَرَ فِي الْقَضِيَّةِ` = meseleyi inceledi; `أَشَارَ إِلَى الْمُشْكِلَةِ` = soruna işaret etti) o fiil edilgen yapılamaz mı? Elbette yapılır! İşte o zaman **Harf-i Cer + …"
+    },
+    {
+      "id": "m18_g5",
+      "moduleId": "18",
+      "cefr": "A2",
+      "baslik": "Basın & YDS/YÖKDİL Arapçasında Altın Meçhul Kalıplar + تَمَّ + Mastar",
+      "arBaslik": "تَعَابِيرُ الْمَجْهُولِ فِي لُغَةِ الصِّحَافَةِ وَالِامْتِحَانَاتِ + «تَمَّ / جَرَى» + الْمَصْدَرُ",
+      "formul": "Basın Edilgeni: تَمَّ / يَتِمُّ / سَيَتِمُّ + Mastar (= Meçhul Fiil!) | يُعْتَبَرُ / يُعَدُّ / أُصِيبَ بِـ / تُوُفِّيَ",
+      "mantik": "Modern Arap gazetelerini, haber bültenlerini veya YDS/YÖKDİL parçalarını açtığınızda iki dev edilgen stratejisiyle karşılaşırsınız: (1) **Kalıcı Meçhul Fiiller:** Bazı fiiller Arapçada neredeyse hep meçhul kullanılır: `وُلِدَ` (doğdu), `تُوُفِّيَ` (vefat etti)…"
+    },
+    {
+      "id": "m19_g1",
+      "moduleId": "19",
+      "cefr": "A2",
+      "baslik": "Özel İsm-i Mevsûller (الَّذِي، الَّتِي، اللَّذَانِ، الَّذِينَ، اللَّاتِي) & İkil İ'rabı",
+      "arBaslik": "الْأَسْمَاءُ الْمَوْصُولَةُ الْخَاصَّةُ وَإِعْرَابُ الْمُثَنَّى مِنْهَا",
+      "formul": "Tekil/Çoğul: Mebnî (الَّذِي / الَّتِي / الَّذِينَ / اللَّاتِي) | İkil: Murab (اللَّذَانِ←اللَّذَيْنِ | اللَّتَانِ←اللَّتَيْنِ) | Akılsız Çoğul: الَّتِي!",
+      "mantik": "Türkçede iki cümleyi tek bir akıcı cümlede birleştirmek için '-an/-en' veya '-dığı/-diği' eklerini kullanırız ('Kitabı okuyan öğrenci'). Arapçada bunu yapan muhteşem köprüye **İsm-i Mevsûl** (Bağlayıcı İsim / İlgi Zamiri) denir! Özel ism-i mevsûller niteledikl…"
+    },
+    {
+      "id": "m19_g2",
+      "moduleId": "19",
+      "cefr": "A2",
+      "baslik": "Sıla Cümlesi (جُمْلَةُ الصِّلَةِ) & Âid (Dönüş) Zamiri (الْعَائِدُ)",
+      "arBaslik": "جُمْلَةُ الصِّلَةِ وَالضَّمِيرُ الْعَائِدُ",
+      "formul": "İsm-i Mevsûl + Sıla Cümlesi (İçinde sayı/cinsiyetçe uyumlu Âid Zamiri: هُوَ / ـهُ / فِيهَا!)",
+      "mantik": "Birine sadece `جَاءَ الطَّالِبُ الَّذِي...` ('... olan öğrenci geldi') deyip susarsanız karşınızdaki 'Ne olan öğrenci?!' diye sorar! İşte ism-i mevsûlün hemen ardından gelip anlamını tamamlayan cümleye **Sıla Cümlesi (`جُمْلَةُ الصِّلَةِ`)** denir! (Nahiv kura…"
+    },
+    {
+      "id": "m19_g3",
+      "moduleId": "19",
+      "cefr": "A2",
+      "baslik": "Müşterek (Ortak) İsm-i Mevsûller: مَنْ (...-an kimse) & مَا (...-dığı şey)",
+      "arBaslik": "الْأَسْمَاءُ الْمَوْصُولَةُ الْمُشْتَرَكَةُ: «مَنْ» (لِلْعَاقِلِ) وَ«مَا» (لِغَيْرِ الْعَاقِلِ)",
+      "formul": "مَنْ = الَّذِي / الَّذِينَ (İnsan için) | مَا = الَّذِي / الَّتِي (Nesne/Olay için) | مِنْ+مَا=مِمَّا | عَنْ+مَا=عَمَّا",
+      "mantik": "Bazı durumlarda 'kitap / öğrenci' gibi belirli bir isim söylemeyiz; doğrudan **'doğru söyleyen kimse'** ya da **'istediğin şey'** deriz! İşte Arapçada cinsiyet ve sayı fark etmeksizin herkes/her şey için kullanılan iki joker ism-i mevsûl vardır: (1) **`مَنْ` (…"
+    },
+    {
+      "id": "m19_g4",
+      "moduleId": "19",
+      "cefr": "A2",
+      "baslik": "Türkçeye Kusursuz Çeviri Formülü: '-an/-en' vs. '-dığı/-diği' Tekniği",
+      "arBaslik": "مَهَارَةُ التَّرْجَمَةِ: الْفَرْقُ بَيْنَ «ـان / ـين» (الْفَاعِل) وَ«ـدِغِي» (الْمَفْعُول)",
+      "formul": "Sıla Öznesi = Mevsûl → '-an/-en' (الَّذِي كَتَبَ) | Sıla Öznesi Başkası + Âid (ـهُ/ـهَا) → '-dığı/-diği' (الَّذِي كَتَبَهُ)",
+      "mantik": "YDS ve YÖKDİL Arapça çeviri sorularında adayların en çok puan kazandığı veya kaybettiği yer ism-i mevsûl çevirisidir! Oysa kural bir matematik denklemi kadar nettir: İsm-i mevsûlden sonraki **Sıla Cümlesinin ÖZNESİNE** bakın! **(1) Eğer özne (fâil) ism-i mevsû…"
+    },
+    {
+      "id": "m19_g5",
+      "moduleId": "19",
+      "cefr": "A2",
+      "baslik": "İsm-i Mevsûlün Cümledeki İ'rab Görevleri (Sıfat vs. Bağımsız Özne/Nesne)",
+      "arBaslik": "مَوَاقِعُ الِاسْمِ الْمَوْصُولِ مِنَ الْإِعْرَابِ",
+      "formul": "Marife İsim + الَّذِي = Sıfat | İsimsiz الَّذِي / الَّذِينَ / مَنْ / مَا = Mübtedâ / Fâil / Mef'ûl / Mecrûr!",
+      "mantik": "Şimdiye kadar ism-i mevsûlü çoğunlukla marife bir ismin arkasında **sıfat (na't)** olarak gördük (`اَلطَّالِبُ الَّذِي نَجَحَ`). Ama çok önemli bir gerçek var: İsm-i mevsûl her zaman bir ismin arkasında gelmek zorunda DEĞİLDİR! Önünde hiçbir isim olmadan doğru…"
+    },
+    {
+      "id": "m20_g1",
+      "moduleId": "20",
+      "cefr": "A2",
+      "baslik": "Haberin 4 Temel Çeşidi (Müfred, İsim Cümlesi, Fiil Cümlesi, Şibh-i Cümle)",
+      "arBaslik": "أَنْوَاعُ الْخَبَرِ الْأَرْبَعَةُ (الْمُفْرَدُ وَالْجُمْلَةُ وَشِبْهُ الْجُمْلَةِ)",
+      "formul": "Haber = (1) Müfred [Merfû] | (2) Fiil Cümlesi [Mahallen Merfû] | (3) İsim Cümlesi [Mahallen Merfû] | (4) Şibh-i Cümle [Mahallen Merfû]",
+      "mantik": "Modül 03'te isim cümlesinin iki direğini tanıdık: **Mübtedâ** (özne) + **Haber** (yüklem). Ama haber her zaman `الطَّالِبُ مُجْتَهِدٌ` gibi tek kelimeden oluşmaz! Haber tıpkı bir binanın farklı kat tasarımları gibi 4 biçimde gelebilir: (1) **Müfred Haber**: Cü…"
+    },
+    {
+      "id": "m20_g2",
+      "moduleId": "20",
+      "cefr": "A2",
+      "baslik": "Cümle Haberde Râbıt (Bağlayıcı) Zamir & Sayı-Cinsiyet Uyumu",
+      "arBaslik": "الضَّمِيرُ الرَّابِطُ فِي الْخَبَرِ الْجُمْلَةِ وَمُطَابَقَتُهُ لِلْمُبْتَدَأِ",
+      "formul": "İsim Cümlesi Haber: Mübtedâ 1 + [İsim + Râbıt Zamir] + Haber 2 | Fiil Cümlesi Haber: Mübtedâ + Tam Uyumlu Fiil!",
+      "mantik": "Bir isim cümlesinde haber kendi başına bir cümle (`جُمْلَةٌ اسْمِيَّةٌ` veya `جُمْلَةٌ فِعْلِيَّةٌ`) olduğunda, o haber cümlesinin birinci mübtedâyla kopuk kalmaması için arada mutlaka bir **Râbıt (Bağlayıcı) Zamir** bulunması şarttır! Tıpkı bir vagonu lokomot…"
+    },
+    {
+      "id": "m20_g3",
+      "moduleId": "20",
+      "cefr": "A2",
+      "baslik": "Sıfatın (Na't) 3 Çeşidi & Altın Kural: 'Nekre + Cümle = Sıfat!'",
+      "arBaslik": "أَنْوَاعُ النَّعْتِ وَالْقَاعِدَةُ الذَّهَبِيَّةُ: «الْجُمَلُ بَعْدَ النَّكِرَاتِ صِفَاتٌ»",
+      "formul": "Nekre İsim + [Fiil / İsim Cümlesi (Râbıtlı!)] = Cümle Sıfat (الَّذِي/الَّتِي YOK!) | Nekre + Şibh-i Cümle = Sıfat!",
+      "mantik": "Arapça gramerini tek bir cümleyle devrim gibi aydınlatan, her YDS öğrencisinin masasına asması gereken altın kural şudur: **'الْجُمَلُ بَعْدَ النَّكِرَاتِ صِفَاتٌ!' (Nekre / belirsiz isimlerden sonra gelen cümleler SIFATTIR!)** Modül 19'da marife isimden sonra…"
+    },
+    {
+      "id": "m20_g4",
+      "moduleId": "20",
+      "cefr": "A2",
+      "baslik": "Büyük 3'lü Ayrım: Marife + الَّذِي (Sıfat) vs. Nekre + Cümle (Sıfat) vs. Marife + Cümle (Hâl!)",
+      "arBaslik": "الْمُقَارَنَةُ الذَّهَبِيَّةُ: النَّعْتُ بِالْمَوْصُولِ — النَّعْتُ بَعْدَ النَّكِرَةِ — الْحَالُ بَعْدَ الْمَعْرِفَةِ",
+      "formul": "Marife + الَّذِي = Sıfat | Nekre + Cümle = Sıfat (-an bir...) | Marife + Cümle = Hâl (-erken / ... hâlde!)",
+      "mantik": "Şimdi M19 ile M20'yi birleştiren ve ilerideki Hâl (M37) konusuna muhteşem bir köprü kuran **3'lü Altın Karşılaştırmayı** görelim! Tek bir harf (الـ) veya tek bir kelime (`الَّذِي`) cümlenin anlamını nasıl incelikle değiştirir, bakın:\n1) **Marife + `الَّذِي` + …"
+    },
+    {
+      "id": "m20_g5",
+      "moduleId": "20",
+      "cefr": "A2",
+      "baslik": "Sebebî Sıfat (النَّعْتُ السَّبَبِيُّ) & Çoklu Haber / Çoklu Sıfat",
+      "arBaslik": "النَّعْتُ السَّبَبِيُّ وَتَعَدُّدُ الْخَبَرِ وَالنَّعْتِ",
+      "formul": "Sebebî Sıfat: İ'rab & Belirlilik ← Öndeki İsim | Cinsiyet → Arkadaki İsim (Merfû Fâil!) | Sayı: Daima TEKİL!",
+      "mantik": "Modülümüzün zirvesinde, hem Kur'an'da hem de yüksek edebî ve YDS Arapçasında çok şık bir kullanım olan iki ileri kural var: (1) **Çoklu Haber & Çoklu Sıfat**: Bir mübtedânın tek bir cümlede birden fazla haberi (`وَ` olmadan bile: `اَللّٰهُ غَفُورٌ رَحِيمٌ كَرِ…"
     }
   ],
   "quickPractice": [
@@ -3417,6 +3552,456 @@
       ],
       "dogruIndeks": 0,
       "aciklama": "Erkeğe kısa kesra: هَاتِ! (Kadına هَاتِي, çoğula هَاتُوا)."
+    },
+    {
+      "id": "atlas_m18_g1_t01",
+      "moduleId": "18",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«شَاهَدَ» (III. bab — izledi) fiilinin mâzi meçhulü ('izlendi') hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "شُوهِدَ",
+        "شُاهِدَ",
+        "شِيهِدَ",
+        "شَهِدَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "İlk harf dammelenince III. babdaki elif vâva döner: شَاهَدَ → شُوهِدَ!"
+    },
+    {
+      "id": "atlas_m18_g1_t02",
+      "moduleId": "18",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«اِسْتَخْرَجَ» (X. bab — çıkardı) fiilinin mâzi meçhulü hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "اُسْتُخْرِجَ",
+        "اُسْتَخْرِجَ",
+        "اِسْتُخْرِجَ",
+        "اُسْتُخْرَجَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Sondan önceki (رِ) kesra, önceki tüm harekeliler (اُ + تُ) damme: اُسْتُخْرِجَ!"
+    },
+    {
+      "id": "atlas_m18_g2_t01",
+      "moduleId": "18",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«يَسْتَخْدِمُ» (kullanıyor) fiilinin muzâri meçhulü ('kullanılıyor') hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "يُسْتَخْدَمُ",
+        "يُسْتَخْدِمُ",
+        "يَسْتَخْدَمُ",
+        "اُسْتُخْدِمَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "İlk harf damme (يُـ), sondan bir önceki fetha (دَ): يُسْتَخْدَمُ!"
+    },
+    {
+      "id": "atlas_m18_g2_t02",
+      "moduleId": "18",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«يَبِيعُ» (satıyor) ecvef fiilinin muzâri meçhulü ('satılıyor') hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "يُبَاعُ",
+        "يُبِيعُ",
+        "يُبُوعُ",
+        "بِيعَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Ecvef muzâri meçhulde sondan önceki ي/و elife döner: يُبَاعُ!"
+    },
+    {
+      "id": "atlas_m18_g3_t01",
+      "moduleId": "18",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«شَجَّعَ الْمُدَرِّبُ اللَّاعِبِينَ.» cümlesinin doğru edilgen hâli hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "شُجِّعَ اللَّاعِبُونَ.",
+        "شُجِّعَ اللَّاعِبِينَ.",
+        "شُجِّعُوا اللَّاعِبُونَ.",
+        "شَجَّعَ اللَّاعِبُونَ."
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "اللَّاعِبِينَ (mansub) → nâib-i fâil (merfû: اللَّاعِبُونَ) ve fiil tekil meçhul (شُجِّعَ)!"
+    },
+    {
+      "id": "atlas_m18_g3_t02",
+      "moduleId": "18",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«اِسْتَقْبَلَ الْمُدِيرُ أَبَاكَ بِحَفَاوَةٍ.» cümlesinin doğru edilgen hâli hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "اُسْتُقْبِلَ أَبُوكَ بِحَفَاوَةٍ.",
+        "اُسْتُقْبِلَ أَبَاكَ بِحَفَاوَةٍ.",
+        "اُسْتُقْبِلَ أَبِيكَ بِحَفَاوَةٍ.",
+        "اِسْتُقْبِلَ أَبُوكَ."
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "أَبَاكَ → nâib-i fâil (vâv ile merfû: أَبُوكَ) ve اِسْتَقْبَلَ → اُسْتُقْبِلَ!"
+    },
+    {
+      "id": "atlas_m18_g4_t01",
+      "moduleId": "18",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«___ عَلَى الْخُطَّةِ الْجَدِيدَةِ أَمْسِ.» ('Yeni plan dün onaylandı.' — وَافَقَ عَلَى)",
+      "soruAr": "",
+      "secenekler": [
+        "وُوفِقَ",
+        "وُوفِقَتْ",
+        "وَافَقَ",
+        "تُوَافَقُ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Harf-i cerli meçhulde fiil daima 3. tekil eril kalır: وُوفِقَ عَلَى!"
+    },
+    {
+      "id": "atlas_m18_g4_t02",
+      "moduleId": "18",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«نُظِرَتْ فِي الْقَضِيَّةِ أَمْسِ.» cümlesindeki kural hatası nasıl düzeltilir?",
+      "soruAr": "",
+      "secenekler": [
+        "نُظِرَ فِي الْقَضِيَّةِ أَمْسِ.",
+        "نُظِرَتْ فِي الْقَضِيَّةُ.",
+        "نَظَرَ فِي الْقَضِيَّةِ.",
+        "Hata yoktur."
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Şibh-i cümle (فِي الْقَضِيَّةِ) nâib-i fâil olduğunda fiil dişil yapılmaz: نُظِرَ!"
+    },
+    {
+      "id": "atlas_m18_g5_t01",
+      "moduleId": "18",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«___ الْعَالِمُ الْفَارَابِيُّ عَامَ ٩٥٠ لِلْمِيلَادِ.» ('Vefat etti' — doğru meçhul hareke)",
+      "soruAr": "",
+      "secenekler": [
+        "تُوُفِّيَ",
+        "تَوَفَّى",
+        "تُوَفَّى",
+        "وَفَّى"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "İnsan için 'vefat etti' daima meçhul تُوُفِّيَ okunur!"
+    },
+    {
+      "id": "atlas_m18_g5_t02",
+      "moduleId": "18",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«تُعْتَبَرُ اللُّغَةُ الْعَرَبِيَّةُ ___ مِنْ أَجْمَلِ اللُّغَاتِ.» ('Bir tanesi sayılır' — 2. mef'ûl!)",
+      "soruAr": "",
+      "secenekler": [
+        "وَاحِدَةً",
+        "وَاحِدَةٌ",
+        "وَاحِدَةٍ",
+        "وَاحِدٌ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "تُعْتَبَرُ'nun 1. nesnesi (اللُّغَةُ) nâib-i fâil (merfû), 2. nesnesi (وَاحِدَةً) mansub kalır!"
+    },
+    {
+      "id": "atlas_m19_g1_t01",
+      "moduleId": "19",
+      "kategori": "Nahiv",
+      "soru": "«اِشْتَرَيْتُ الْكُتُبَ ___ نَصَحْتَنِي بِهَا.» — Akılsız çoğul için doğru ism-i mevsûl hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "الَّتِي",
+        "الَّذِينَ",
+        "اللَّاتِي",
+        "الَّذِي"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "الْكُتُبَ akılsız çoğuldur → daima tekil müennes الَّتِي alır!"
+    },
+    {
+      "id": "atlas_m19_g1_t02",
+      "moduleId": "19",
+      "kategori": "Nahiv",
+      "soru": "«سَلَّمْتُ عَلَى الْمُهَنْدِسَيْنِ ___ صَمَّمَا هٰذَا الْجِسْرَ.» — İkil cer hâli hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "اللَّذَيْنِ",
+        "اللَّذَانِ",
+        "اللَّتَيْنِ",
+        "الَّذِينَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "الْمُهَنْدِسَيْنِ ikil eril ve mecrûrdur → اللَّذَيْنِ (yâ ile!)!"
+    },
+    {
+      "id": "atlas_m19_g2_t01",
+      "moduleId": "19",
+      "kategori": "Nahiv",
+      "soru": "«هٰذِهِ هِيَ الْجَامِعَةُ الَّتِي أَدْرُسُ ___.» — Eksik harf-i cerli âid zamiri hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "فِيهَا",
+        "فِيهِ",
+        "بِهِ",
+        "فِيهِمْ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "الْجَامِعَةُ tekil dişildir ve دَرَسَ فِي kullanılır → فِيهَا!"
+    },
+    {
+      "id": "atlas_m19_g2_t02",
+      "moduleId": "19",
+      "kategori": "Nahiv",
+      "soru": "«أَيْنَ الْكُتُبُ الَّتِي اِشْتَرَيْتَ___ أَمْسِ؟» — Akılsız çoğul âid zamiri hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "هَا (اِشْتَرَيْتَهَا)",
+        "هُمْ (اِشْتَرَيْتَهُمْ)",
+        "هُ (اِشْتَرَيْتَهُ)",
+        "هُنَّ (اِشْتَرَيْتَهُنَّ)"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "الْكُتُبُ akılsız çoğul → hem ism-i mevsûl (الَّتِي) hem âid zamir (ـهَا) tekil müennestir!"
+    },
+    {
+      "id": "atlas_m19_g3_t01",
+      "moduleId": "19",
+      "kategori": "Nahiv",
+      "soru": "«أَحْتَرِمُ ___ يَحْتَرِمُ الْآخَرِينَ وَيَصْدُقُ مَعَهُمْ.» (Akıllı insan için müşterek mevsûl)",
+      "soruAr": "",
+      "secenekler": [
+        "مَنْ",
+        "مَا",
+        "مِمَّا",
+        "أَيْنَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Akıllı varlıklar ('...-an kimse') için müşterek ism-i mevsûl مَنْ kullanılır!"
+    },
+    {
+      "id": "atlas_m19_g3_t02",
+      "moduleId": "19",
+      "kategori": "Nahiv",
+      "soru": "«اِفْعَلْ ___ يَنْفَعُكَ فِي دُنْيَاكَ وَآخِرَتِكَ.» (Akılsız 'şey' için)",
+      "soruAr": "",
+      "secenekler": [
+        "مَا",
+        "مَنْ",
+        "الَّذِينَ",
+        "اللَّاتِي"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Akılsız kavram/şey için müşterek ism-i mevsûl مَا kullanılır!"
+    },
+    {
+      "id": "atlas_m19_g4_t01",
+      "moduleId": "19",
+      "kategori": "Nahiv",
+      "soru": "«الْمُعَلِّمُ الَّذِي كَرَّمَهُ الْمُدِيرُ» ifadesinin doğru Türkçe çevirisi hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "Müdürün ödüllendirdiği öğretmen",
+        "Müdürü ödüllendiren öğretmen",
+        "Ödüllendirecek müdür",
+        "Öğretmenin müdürü"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "الْمُدِيرُ merfû (fâil!), ـهُ nesne (öğretmene döner) → 'Müdürün ödüllendirdiği öğretmen'!"
+    },
+    {
+      "id": "atlas_m19_g4_t02",
+      "moduleId": "19",
+      "kategori": "Nahiv",
+      "soru": "«الْمُعَلِّمُ الَّذِي كَرَّمَ الطَّالِبَ» ifadesinin doğru Türkçe çevirisi hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "Öğrenciyi ödüllendiren öğretmen",
+        "Öğrencinin ödüllendirdiği öğretmen",
+        "Ödüllendirilen öğrenci",
+        "Öğretmenin öğrencisi"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "الطَّالِبَ mansub (nesne!), fâil gizli هُوَ (öğretmene döner) → 'Öğrenciyi ödüllendiren öğretmen'!"
+    },
+    {
+      "id": "atlas_m19_g5_t01",
+      "moduleId": "19",
+      "kategori": "Nahiv",
+      "soru": "«حَضَرَ ___ أَلْقَيَا الْمُحَاضَرَةَ الْيَوْمَ.» (Bağımsız ikil eril FÂİL!)",
+      "soruAr": "",
+      "secenekler": [
+        "اللَّذَانِ",
+        "اللَّذَيْنِ",
+        "اللَّتَانِ",
+        "الَّذِي"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Fâil merfûdur → ikil eril ref': اللَّذَانِ!"
+    },
+    {
+      "id": "atlas_m19_g5_t02",
+      "moduleId": "19",
+      "kategori": "Nahiv",
+      "soru": "«قَابَلْتُ ___ فَازَا بِالْمَرْكَزِ الْأَوَّلِ.» (Bağımsız ikil eril MEF'ÛL!)",
+      "soruAr": "",
+      "secenekler": [
+        "اللَّذَيْنِ",
+        "اللَّذَانِ",
+        "اللَّتَيْنِ",
+        "الَّذِينَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Mef'ûlün bih mansubdur → ikil eril nasb: اللَّذَيْنِ!"
+    },
+    {
+      "id": "atlas_m20_g1_t01",
+      "moduleId": "20",
+      "kategori": "Nahiv",
+      "soru": "«اَلطَّالِبَانِ مُجْتَهِدَانِ.» cümlesindeki haberin (مُجْتَهِدَانِ) türü nedir?",
+      "soruAr": "",
+      "secenekler": [
+        "Müfred Haber (cümle veya şibh-i cümle olmadığı için!)",
+        "İsim Cümlesi Haber",
+        "Fiil Cümlesi Haber",
+        "Şibh-i Cümle Haber"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Haber türlerinde 'müfred', ikil veya çoğul olsa bile cümle olmayan tek parça haber demektir!"
+    },
+    {
+      "id": "atlas_m20_g1_t02",
+      "moduleId": "20",
+      "kategori": "Nahiv",
+      "soru": "«اَلْكِتَابُ مَوْضُوعُهُ شَيِّقٌ.» cümlesindeki haberin türü nedir?",
+      "soruAr": "",
+      "secenekler": [
+        "İsim Cümlesi Haber (مَوْضُوعُهُ شَيِّقٌ)",
+        "Müfred Haber",
+        "Fiil Cümlesi Haber",
+        "Şibh-i Cümle Haber"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "مَوْضُوعُهُ (2. mübtedâ) + شَيِّقٌ (2. haber) → bütün hâlinde isim cümlesi haberdir!"
+    },
+    {
+      "id": "atlas_m20_g2_t01",
+      "moduleId": "20",
+      "kategori": "Nahiv",
+      "soru": "«اَلْبَيْتُ نَوَافِذُهُ ___.» — 2. haber (نَوَافِذُ akılsız çoğula uyumlu!) hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "كَبِيرَةٌ",
+        "كَبِيرٌ",
+        "كَبِيرُونَ",
+        "كَبِيرًا"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "2. haber kendi mübtedâsı olan نَوَافِذُ'ya (akılsız çoğul) uyar → كَبِيرَةٌ!"
+    },
+    {
+      "id": "atlas_m20_g2_t02",
+      "moduleId": "20",
+      "kategori": "Nahiv",
+      "soru": "«اَلْجَامِعَةُ طُلَّابُهَا ___.» — 2. haber (طُلَّابُ'a uyumlu!) hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "مُتَفَوِّقُونَ",
+        "مُتَفَوِّقَةٌ",
+        "مُتَفَوِّقٌ",
+        "مُتَفَوِّقِينَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "2. mübtedâ طُلَّابُهَا (çoğul eril) → 2. haber merfû çoğul eril olur: مُتَفَوِّقُونَ!"
+    },
+    {
+      "id": "atlas_m20_g3_t01",
+      "moduleId": "20",
+      "kategori": "Nahiv",
+      "soru": "«قَرَأْتُ كِتَابًا ___ مَعْلُومَاتٍ قَيِّمَةً.» ('Kıymetli bilgiler içeren bir kitap okudum.')",
+      "soruAr": "",
+      "secenekler": [
+        "يَضُمُّ",
+        "الَّذِي يَضُمُّ",
+        "الَّتِي تَضُمُّ",
+        "تَضُمُّ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "كِتَابًا nekre olduğu için الَّذِي gelmez; doğrudan fiil cümlesi sıfat olur: يَضُمُّ!"
+    },
+    {
+      "id": "atlas_m20_g3_t02",
+      "moduleId": "20",
+      "kategori": "Nahiv",
+      "soru": "«سَمِعْتُ قِصَّةً رَوَاهَا جَدِّي.» cümlesinde «رَوَاهَا جَدِّي» cümlesinin i'rab konumu nedir?",
+      "soruAr": "",
+      "secenekler": [
+        "Mahallen Mansub Sıfat (çünkü nekre قِصَّةً mansubdur!)",
+        "Mahallen Merfû Haber",
+        "Sıla Cümlesi",
+        "Fâil"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Nekre + cümle = sıfat; mevsûf (قِصَّةً) mansub olduğundan sıfat mahallen mansubdur!"
+    },
+    {
+      "id": "atlas_m20_g4_t01",
+      "moduleId": "20",
+      "kategori": "Nahiv",
+      "soru": "«رَأَيْتُ مُعَلِّمًا يَشْرَحُ الدَّرْسَ.» ile «رَأَيْتُ الْمُعَلِّمَ يَشْرَحُ الدَّرْسَ.» arasındaki gramer farkı nedir?",
+      "soruAr": "",
+      "secenekler": [
+        "İlkinde يَشْرَحُ (nekreden sonra) SIFAT, ikincisinde (marifeden sonra) HÂLDİR!",
+        "İkisi de haberdir",
+        "İlkinde hâldir",
+        "Fark yoktur"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Nekreden sonra cümle = Sıfat; marifeden sonra cümle = Hâl!"
+    },
+    {
+      "id": "atlas_m20_g4_t02",
+      "moduleId": "20",
+      "kategori": "Nahiv",
+      "soru": "«اَلْمُعَلِّمُ يَشْرَحُ الدَّرْسَ.» cümlesinde «يَشْرَحُ الدَّرْسَ» neden Hâl DEĞİL, Haberdir?",
+      "soruAr": "",
+      "secenekler": [
+        "Çünkü اَلْمُعَلِّمُ mübtedâdır ve cümle henüz tamamlanmamıştır (ana yükleme ihtiyaç vardır)!",
+        "Çünkü اَلْمُعَلِّمُ nekredir",
+        "Çünkü يَشْرَحُ isimdir",
+        "Çünkü fiil mâzidir"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Mübtedânın temel tamamlayıcısı her zaman HABERDİR!"
+    },
+    {
+      "id": "atlas_m20_g5_t01",
+      "moduleId": "20",
+      "kategori": "Nahiv",
+      "soru": "«رَأَيْتُ بَيْتًا ___ غُرَفُهُ.» — Sebebî sıfat (nasb ← بَيْتًا; dişil → غُرَفُهُ!)",
+      "soruAr": "",
+      "secenekler": [
+        "وَاسِعَةً",
+        "وَاسِعًا",
+        "وَاسِعَةٌ",
+        "الْوَاسِعَةَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Öndeki بَيْتًا nekre/mansub → tenvinli mansub; arkadaki غُرَفُ akılsız çoğul → tekil dişil: وَاسِعَةً!"
+    },
+    {
+      "id": "atlas_m20_g5_t02",
+      "moduleId": "20",
+      "kategori": "Nahiv",
+      "soru": "«أُعْجِبْتُ بِالْمَدِينَةِ ___ تَارِيخُهَا.» — Sebebî sıfat (cer+الـ ← الْمَدِينَةِ; eril → تَارِيخُهَا!)",
+      "soruAr": "",
+      "secenekler": [
+        "الْعَرِيقِ",
+        "الْعَرِيقَةِ",
+        "عَرِيقٍ",
+        "الْعَرِيقَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Marife+cer ← الْمَدِينَةِ; eril ← تَارِيخُهَا → الْعَرِيقِ!"
     }
   ]
 }

@@ -1,0 +1,778 @@
+{
+  "id": "19",
+  "slug": "modul_19",
+  "phaseId": 2,
+  "cilt": 2,
+  "cefr": "A2",
+  "title": "İsm-i Mevsûller (İlgi Zamirleri) & Sıla Cümlesi",
+  "arabicTitle": "الْأَسْمَاءُ الْمَوْصُولَةُ وَجُمْلَةُ الصِّلَةِ",
+  "category": "Nahiv",
+  "summary": "Özel (الَّذِي، الَّتِي، اللَّذَانِ، الَّذِينَ، اللَّاتِي) ve müşterek (مَنْ، مَا) ism-i mevsûller, sıla cümlesi, âid (dönüş) zamiri, Türkçeye -an/-en/-dığı çeviri tekniği ve مِمَّا / فِيمَا kalıpları.",
+  "grammar": [
+    {
+      "id": "m19_g1",
+      "baslik": "Özel İsm-i Mevsûller (الَّذِي، الَّتِي، اللَّذَانِ، الَّذِينَ، اللَّاتِي) & İkil İ'rabı",
+      "arBaslik": "الْأَسْمَاءُ الْمَوْصُولَةُ الْخَاصَّةُ وَإِعْرَابُ الْمُثَنَّى مِنْهَا",
+      "mantik": "Türkçede iki cümleyi tek bir akıcı cümlede birleştirmek için '-an/-en' veya '-dığı/-diği' eklerini kullanırız ('Kitabı okuyan öğrenci'). Arapçada bunu yapan muhteşem köprüye **İsm-i Mevsûl** (Bağlayıcı İsim / İlgi Zamiri) denir! Özel ism-i mevsûller niteledikleri marife isme **cinsiyet ve sayı** bakımından birebir uyar: Tekil eril `الَّذِي`, tekil dişil (ve **tüm akılsız çoğullar!**) `الَّتِي`, çoğul eril `الَّذِينَ`, çoğul dişil `اللَّاتِي / اللَّوَاتِي`. İki hayati nokta: (1) Tekil ve çoğul ism-i mevsûller **mebnîdir** (ref'/nasb/cerde hiç değişmezler), ancak **ikil ism-i mevsûller murabdır** — yani tesniye gibi ref'te **elif (`اللَّذَانِ / اللَّتَانِ`)**, nasb ve cerde **yâ (`اللَّذَيْنِ / اللَّتَيْنِ`)** alırlar! (2) Yazım inceliği: `الَّذِي، الَّتِي، الَّذِينَ` tek lâm ile, ikiller ve dişil çoğullar (`اللَّذَانِ، اللَّتَانِ، اللَّاتِي، اللَّوَاتِي`) **çift lâm (`لل`)** ile yazılır!",
+      "formul": "Tekil/Çoğul: Mebnî (الَّذِي / الَّتِي / الَّذِينَ / اللَّاتِي) | İkil: Murab (اللَّذَانِ←اللَّذَيْنِ | اللَّتَانِ←اللَّتَيْنِ) | Akılsız Çoğul: الَّتِي!",
+      "formulAr": "الَّذِي — الَّتِي — اللَّذَانِ / اللَّذَيْنِ — اللَّتَانِ / اللَّتَيْنِ — الَّذِينَ — اللَّاتِي / اللَّوَاتِي",
+      "tablo": {
+        "baslik": "Özel İsm-i Mevsûllerin Tam Tablosu (Cinsiyet, Sayı, Yazım & İ'rab)",
+        "sutunlar": ["Sayı & Cinsiyet", "Ref' Hâli", "Nasb & Cer Hâli", "Lâm Sayısı", "Örnek"],
+        "satirlar": [
+          { "hucreler": ["Tekil Eril", "الَّذِي", "الَّذِي (Mebnî)", "1 Lâm (ل)", "الطَّالِبُ الَّذِي نَجَحَ"], "ar": "الطَّالِبُ الَّذِي نَجَحَ" },
+          { "hucreler": ["Tekil Dişil & Akılsız Çoğul!", "الَّتِي", "الَّتِي (Mebnî)", "1 Lâm (ل)", "الطَّالِبَةُ الَّتِي نَجَحَتْ / الْكُتُبُ الَّتِي قَرَأْتُهَا"], "ar": "الْكُتُبُ الَّتِي قَرَأْتُهَا" },
+          { "hucreler": ["İkil Eril (Murab!)", "اللَّذَانِ (ا)", "اللَّذَيْنِ (ي)", "2 Lâm (لل)", "الطَّالِبَانِ اللَّذَانِ نَجَحَا / رَأَيْتُ الطَّالِبَيْنِ اللَّذَيْنِ..."], "ar": "اللَّذَانِ — اللَّذَيْنِ" },
+          { "hucreler": ["İkil Dişil (Murab!)", "اللَّتَانِ (ا)", "اللَّتَيْنِ (ي)", "2 Lâm (لل)", "الطَّالِبَتَانِ اللَّتَانِ نَجَحَتَا / سَلَّمْتُ عَلَى الطَّالِبَتَيْنِ اللَّتَيْنِ..."], "ar": "اللَّتَانِ — اللَّتَيْنِ" },
+          { "hucreler": ["Çoğul Eril (Akıllı)", "الَّذِينَ", "الَّذِينَ (Mebnî!)", "1 Lâm (ل)", "الْمُهَنْدِسُونَ الَّذِينَ صَمَّمُوا الْجِسْرَ"], "ar": "الْمُهَنْدِسُونَ الَّذِينَ صَمَّمُوا" },
+          { "hucreler": ["Çoğul Dişil (Akıllı)", "اللَّاتِي / اللَّوَاتِي", "اللَّاتِي / اللَّوَاتِي (Mebnî)", "2 Lâm (لل)", "الطَّبِيبَاتُ اللَّاتِي عَالَجْنَ الْمَرْضَى"], "ar": "الطَّبِيبَاتُ اللَّاتِي عَالَجْنَ" }
+        ]
+      },
+      "trKiyas": "YDS ve YÖKDİL boşluk doldurma sorularının en klasik ve en kârlı sorusu: Boşluktan önceki isme bak! (1) İsim **akılsız çoğul** (`الْمُشْكِلَاتُ / الْقَرَارَاتُ / الْكُتُبُ / الْمَشَارِيعُ`) ise gözünüzü kırpmadan **`الَّتِي`** seçin! (Asla `الَّذِينَ` veya `اللَّاتِي` değil!). (2) İsim **ikil** ise cümledeki i'rab hâline bakın: Merfû ise `اللَّذَانِ / اللَّتَانِ`, mansub veya mecrûr ise `اللَّذَيْنِ / اللَّتَيْنِ`! (3) Çoğul eril `الَّذِينَ` kelimesinin sonundaki `ـينَ` cemi müzekker eki DEĞİLDİR — mebnîdir, yani merfû da olsa `الَّذِينَ` kalır (asla `الَّذُونَ` denmez!).",
+      "sikHatalar": [
+        "Akılsız çoğul isimlerden sonra الَّذِينَ veya اللَّاتِي kullanmak (✗ الْكُتُبُ الَّذِينَ / الشَّرِكَاتُ اللَّاتِي → ✓ الْكُتُبُ الَّتِي / الشَّرِكَاتُ الَّتِي!).",
+        "İkil ism-i mevsûlü her hâlde اللَّذَانِ bırakmak (✗ رَأَيْتُ الطَّالِبَيْنِ اللَّذَانِ → ✓ رَأَيْتُ الطَّالِبَيْنِ اللَّذَيْنِ!).",
+        "Nekre (belirsiz) isimden sonra ism-i mevsûl getirmek (✗ رَأَيْتُ طَالِبًا الَّذِي نَجَحَ → ✓ رَأَيْتُ الطَّالِبَ الَّذِي نَجَحَ veya رَأَيْتُ طَالِبًا نَجَحَ — ism-i mevsûl marifedir, sadece marifeye sıfat olur!)."
+      ],
+      "ornekler": [
+        { "ar": "هٰذَا هُوَ الْأُسْتَاذُ الَّذِي عَلَّمَنَا النَّحْوَ بِسُهُولَةٍ.", "okunus": "Hâzâ huve'l-ustâzu'llezî ‘allemene'n-nahve bi-suhûletin.", "tr": "Bize nahvi kolaylıkla öğreten hoca budur.", "not": "Tekil eril: الَّذِي" },
+        { "ar": "الْمَقَالَاتُ الَّتِي نُشِرَتْ فِي الْمَجَلَّةِ مُفِيدَةٌ جِدًّا.", "okunus": "El-makâlâtu'lletî nuşirat fi'l-mecelleti mufîdetun cidden.", "tr": "Dergide yayımlanan makaleler çok faydalıdır.", "not": "Akılsız çoğul (الْمَقَالَاتُ) → الَّتِي!" },
+        { "ar": "كَرَّمَ الْمُدِيرُ الطَّالِبَيْنِ اللَّذَيْنِ فَازَا بِالْمَرْكَزِ الْأَوَّلِ.", "okunus": "Kerrame'l-mudîru't-tâlibeyni'llezeyni fâzâ bi'l-merkezi'l-evveli.", "tr": "Müdür birinciliği kazanan iki öğrenciyi ödüllendirdi.", "not": "İkil eril nasb: اللَّذَيْنِ!" },
+        { "ar": "جَاءَتِ الطَّبِيبَتَانِ اللَّتَانِ تَخَصَّصَتَا فِي طِبِّ الْأَطْفَالِ.", "okunus": "Câeti't-tabîbetâni'lletâni tehassasatâ fî tıbbi'l-atfâli.", "tr": "Çocuk tıbbında uzmanlaşan iki kadın doktor geldi.", "not": "İkil dişil ref': اللَّتَانِ!" },
+        { "ar": "أُقَدِّرُ الْعُلَمَاءَ الَّذِينَ خَدَمُوا الْإِنْسَانِيَّةَ بِأَبْحَاثِهِمْ.", "okunus": "Ukaddiru'l-‘ulemâe'llezîne hademu'l-insâniyyete bi-ebhâsihim.", "tr": "Araştırmalarıyla insanlığa hizmet eden âlimleri takdir ederim.", "not": "Çoğul eril: الَّذِينَ (mebnî)" },
+        { "ar": "اِسْتَمَعْنَا إِلَى الْمُعَلِّمَاتِ اللَّاتِي شَارَكْنَ فِي الْمُؤْتَمَرِ.", "okunus": "İstema‘nâ ile'l-mu‘allimâti'llâtî şârakne fi'l-mu'temeri.", "tr": "Konferansa katılan kadın öğretmenleri dinledik.", "not": "Çoğul dişil akıllı: اللَّاتِي / اللَّوَاتِي" }
+      ],
+      "tatbikler": [
+        { "id": "m19_g1_t01", "tip": "bosluk", "soru": "«اِشْتَرَيْتُ الْكُتُبَ ___ نَصَحْتَنِي بِهَا.» — Akılsız çoğul için doğru ism-i mevsûl hangisidir?", "secenekler": ["الَّتِي", "الَّذِينَ", "اللَّاتِي", "الَّذِي"], "dogruIndeks": 0, "aciklama": "الْكُتُبَ akılsız çoğuldur → daima tekil müennes الَّتِي alır!" },
+        { "id": "m19_g1_t02", "tip": "bosluk", "soru": "«سَلَّمْتُ عَلَى الْمُهَنْدِسَيْنِ ___ صَمَّمَا هٰذَا الْجِسْرَ.» — İkil cer hâli hangisidir?", "secenekler": ["اللَّذَيْنِ", "اللَّذَانِ", "اللَّتَيْنِ", "الَّذِينَ"], "dogruIndeks": 0, "aciklama": "الْمُهَنْدِسَيْنِ ikil eril ve mecrûrdur → اللَّذَيْنِ (yâ ile!)!" },
+        { "id": "m19_g1_t03", "tip": "bosluk", "soru": "«فَازَتِ الطَّالِبَتَانِ ___ اجْتَهَدَتَا طَوَالَ الْعَامِ.» — İkil dişil ref' hâli hangisidir?", "secenekler": ["اللَّتَانِ", "اللَّتَيْنِ", "اللَّذَانِ", "اللَّاتِي"], "dogruIndeks": 0, "aciklama": "الطَّالِبَتَانِ ikil dişil ve merfû (fâil) → اللَّتَانِ!" },
+        { "id": "m19_g1_t04", "tip": "bosluk", "soru": "«نَشْكُرُ الْمُمَرِّضَاتِ ___ يَعْتَنِينَ بِالْمَرْضَى لَيْلًا وَنَهَارًا.» (Akıllı dişil çoğul)", "secenekler": ["اللَّاتِي", "الَّذِينَ", "الَّذِي", "اللَّتَانِ"], "dogruIndeks": 0, "aciklama": "Akıllı dişil çoğul (الْمُمَرِّضَاتِ) → اللَّاتِي / اللَّوَاتِي!" },
+        { "id": "m19_g1_t05", "tip": "hata", "soru": "«قَرَأْتُ رِوَايَةً الَّتِي كَتَبَهَا نَجِيبٌ مَحْفُوظٌ.» cümlesindeki temel nahiv hatası nedir?", "secenekler": ["İsm-i mevsûl marifedir, nekre (رِوَايَةً) isme sıfat olmaz → الرِّوَايَةَ الَّتِي (veya الَّتِي silinir)", "الَّتِي → الَّذِي", "كَتَبَهَا → كَتَبَهُ", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "Sıfat–mevsûf belirlilik uyumundan dolayı الَّتِي ancak marife isimden (الرِّوَايَةَ) sonra gelir!" },
+        { "id": "m19_g1_t06", "tip": "bosluk", "soru": "«قَرَأْتُ الْقِصَّتَيْنِ ___ أَهْدَيْتَنِي إِيَّاهُمَا.» (İkil dişil mansub!)", "secenekler": ["اللَّتَيْنِ", "اللَّتَانِ", "اللَّذَيْنِ", "الَّتِي"], "dogruIndeks": 0, "aciklama": "الْقِصَّتَيْنِ ikil dişil mansubdur → اللَّتَيْنِ!" },
+        { "id": "m19_g1_t07", "tip": "bosluk", "soru": "«وَصَلَ الْمُعَلِّمُونَ ___ دَرَّسُونَا فِي الْمَرْحَلَةِ الثَّانَوِيَّةِ.»", "secenekler": ["الَّذِينَ", "الَّذُونَ", "اللَّذَانِ", "الَّتِي"], "dogruIndeks": 0, "aciklama": "الَّذِينَ mebnîdir; merfû, mansub ve mecrûr bütün hâllerde الَّذِينَ kalır!" },
+        { "id": "m19_g1_t08", "tip": "tr_ar", "soru": "'Kütüphanede bulunan dergiler çok faydalıdır.' cümlesi hangisidir?", "secenekler": ["الْمَجَلَّاتُ الَّتِي فِي الْمَكْتَبَةِ مُفِيدَةٌ جِدًّا.", "الْمَجَلَّاتُ اللَّاتِي فِي الْمَكْتَبَةِ مُفِيدَةٌ.", "الْمَجَلَّاتُ الَّذِينَ فِي الْمَكْتَبَةِ مُفِيدَةٌ.", "مَجَلَّاتٌ الَّتِي فِي الْمَكْتَبَةِ مُفِيدَةٌ."], "dogruIndeks": 0, "aciklama": "الْمَجَلَّاتُ akılsız çoğul + marife → الَّتِي!" },
+        { "id": "m19_g1_t09", "tip": "bosluk", "soru": "Hangi ism-i mevsûl grubu çift lâm (لل) ile yazılır?", "secenekler": ["İkiller (اللَّذَانِ/اللَّذَيْنِ/اللَّتَانِ/اللَّتَيْنِ) ve dişil çoğullar (اللَّاتِي/اللَّوَاتِي)", "الَّذِي ve الَّتِي", "الَّذِينَ", "Hiçbiri"], "dogruIndeks": 0, "aciklama": "الَّذِي / الَّتِي / الَّذِينَ tek lâm; ikiller ve dişil çoğullar çift lâm (لل)!" },
+        { "id": "m19_g1_t10", "tip": "donusturme", "soru": "«جَاءَ الطَّالِبُ الَّذِي فَازَ.» cümlesini ikil erile (ref') dönüştürün:", "secenekler": ["جَاءَ الطَّالِبَانِ اللَّذَانِ فَازَا.", "جَاءَ الطَّالِبَانِ اللَّذَيْنِ فَازَا.", "جَاءَ الطَّالِبَانِ اللَّذَانِ فَازَ.", "جَاءَ الطَّالِبَيْنِ اللَّذَيْنِ فَازَا."], "dogruIndeks": 0, "aciklama": "Fâil merfû (الطَّالِبَانِ) + ikil ref' (اللَّذَانِ) + ikil sıla fiili (فَازَا)!" }
+      ]
+    },
+    {
+      "id": "m19_g2",
+      "baslik": "Sıla Cümlesi (جُمْلَةُ الصِّلَةِ) & Âid (Dönüş) Zamiri (الْعَائِدُ)",
+      "arBaslik": "جُمْلَةُ الصِّلَةِ وَالضَّمِيرُ الْعَائِدُ",
+      "mantik": "Birine sadece `جَاءَ الطَّالِبُ الَّذِي...` ('... olan öğrenci geldi') deyip susarsanız karşınızdaki 'Ne olan öğrenci?!' diye sorar! İşte ism-i mevsûlün hemen ardından gelip anlamını tamamlayan cümleye **Sıla Cümlesi (`جُمْلَةُ الصِّلَةِ`)** denir! (Nahiv kuralı: Sıla cümlesinin mahallen i'rabı yoktur — `لَا مَحَلَّ لَهَا مِنَ الْإِعْرَابِ`). Peki sıla cümlesini ism-i mevsûle sımsıkı bağlayan görünmez mıknatıs nedir? **Âid (Dönüş) Zamiri (`الْعَائِدُ`)!** Bu zamir ism-i mevsûle **cinsiyet ve sayıca** birebir döner ve 3 rolde çıkabilir: (1) **Fâil / Gizli Zamir**: `الطَّالِبُ الَّذِي نَجَحَ (هُوَ)` (Başaran öğrenci), (2) **Mef'ûl (Nesne Zamiri)**: `الْكِتَابُ الَّذِي قَرَأْتُهُ` (Okuduğum kitap — `ـهُ` kitaba döner!), (3) **Mecrûr (Harf-i Cerli Zamir)**: `الْمَدِينَةُ الَّتِي أَسْكُنُ فِيهَا` (İçinde oturduğum şehir — `ـهَا` şehre döner!).",
+      "formul": "İsm-i Mevsûl + Sıla Cümlesi (İçinde sayı/cinsiyetçe uyumlu Âid Zamiri: هُوَ / ـهُ / فِيهَا!)",
+      "formulAr": "الْكِتَابُ الَّذِي قَرَأْتُهُ (عَائِدٌ مَنْصُوبٌ)  |  الْمَدِينَةُ الَّتِي أَسْكُنُ فِيهَا (عَائِدٌ مَجْرُورٌ)",
+      "tablo": {
+        "baslik": "Sıla Cümlesi Türleri ve Âid (Dönüş) Zamirinin 5 Konumu",
+        "sutunlar": ["Âid Zamirin Rolü", "Arapça Cümle", "Âid Zamir", "Türkçe Doğal Çeviri"],
+        "satirlar": [
+          { "hucreler": ["Gizli / Açık Fâil", "اَلْمُعَلِّمَةُ الَّتِي تَشْرَحُ الدَّرْسَ مَاهِرَةٌ.", "(هِيَ — gizli)", "Dersi anlatan kadın öğretmen ustadır."], "ar": "اَلْمُعَلِّمَةُ الَّتِي تَشْرَحُ الدَّرْسَ" },
+          { "hucreler": ["Nesne Zamiri (Mef'ûl)", "اَلْقِصَّةُ الَّتِي قَرَأْتُهَا شَيِّقَةٌ جِدًّا.", "ـهَا (الْقِصَّةُ'ye döner!)", "Okuduğum hikâye çok sürükleyicidir."], "ar": "اَلْقِصَّةُ الَّتِي قَرَأْتُهَا" },
+          { "hucreler": ["Harf-i Cer + Zamir", "اَلْقَلَمُ الَّذِي كَتَبْتُ بِهِ أَزْرَقُ.", "بِهِ (الْقَلَمُ'a döner!)", "Kendisyle yazdığım kalem mavidir."], "ar": "اَلْقَلَمُ الَّذِي كَتَبْتُ بِهِ" },
+          { "hucreler": ["İsim Tamlamasında Muzâfun İleyh", "قَابَلْتُ الطَّالِبَ الَّذِي أَبُوهُ طَبِيبٌ.", "ـهُ (أَبُوهُ → الطَّالِبَ)", "Babası doktor olan öğrenciyle karşılaştım."], "ar": "الطَّالِبَ الَّذِي أَبُوهُ طَبِيبٌ" },
+          { "hucreler": ["Şibh-i Cümle Sıla", "اَلْكِتَابُ الَّذِي عَلَى الطَّاوِلَةِ جَدِيدٌ.", "(Gizli اِسْتَقَرَّ هُوَ)", "Masanın üzerinde(ki) kitap yenidir."], "ar": "اَلْكِتَابُ الَّذِي عَلَى الطَّاوِلَةِ" }
+        ]
+      },
+      "trKiyas": "Türkçe düşünen öğrencilerin yaptığı EN BÜYÜK hata: 'Okuduğum kitap' derken `الْكِتَابُ الَّذِي قَرَأْتُ` deyip sonundaki `ـهُ` âid zamirini unutmak, ya da 'Oturduğum şehir' derken `الْمَدِينَةُ الَّتِي أَسْكُنُ` deyip `فِيهَا`yı atlamak! Türkçede 'içinde oturduğum' derken 'içinde' kelimesini yutabiliriz ama Arapçada **harf-i cerli âid zamiri (`فِيهَا / إِلَيْهِ / عَنْهُ / بِهِ / مِنْهَا`) ASLA atılmaz!** (`الْمَدِينَةُ الَّتِي أَسْكُنُ فِيهَا` ✓, `الْمَدِينَةُ الَّتِي أَسْكُنُ` ✗!). Bu kural YDS'de altın değerindedir!",
+      "sikHatalar": [
+        "Harf-i cer isteyen fiilde harf-i cer + âid zamirini unutmak (✗ الْمَدِينَةُ الَّتِي أَسْكُنُ / الْمَوْضُوعُ الَّذِي تَحَدَّثْنَا → ✓ الْمَدِينَةُ الَّتِي أَسْكُنُ فِيهَا / الْمَوْضُوعُ الَّذِي تَحَدَّثْنَا عَنْهُ!).",
+        "Âid zamirin cinsiyet/sayısını ism-i mevsûle uydurmamak (✗ الْكُتُبُ الَّتِي قَرَأْتُهُمْ → ✓ الْكُتُبُ الَّتِي قَرَأْتُهَا — akılsız çoğulda âid zamir de هَا olur!).",
+        "Sıla cümlesini soru veya emir cümlesi yapmak (Sıla cümlesi mutlaka haber cümlesi — bildirme cümlesi — olmalıdır!)."
+      ],
+      "ornekler": [
+        { "ar": "هٰذِهِ هِيَ الْمَدِينَةُ الَّتِي وُلِدْتُ فِيهَا وَعِشْتُ فِيهَا طُفُولَتِي.", "okunus": "Hâzihi hiye'l-medînetu'lletî vulidtu fîhâ ve ‘iştu fîhâ tufûletî.", "tr": "İçinde doğduğum ve çocukluğumu geçirdiğim şehir burasıdır.", "not": "Harf-i cerli âid zamir: فِيهَا!" },
+        { "ar": "اَلْمَوْضُوعُ الَّذِي بَحَثْنَا عَنْهُ مُهِمٌّ جِدًّا لِأُطْرُوحَتِنَا.", "okunus": "El-mevdû‘u'llezî behasnâ ‘anhu muhimmun cidden li-utrûhatinâ.", "tr": "Araştırdığımız konu tezimiz için çok önemlidir.", "not": "بَحَثَ عَنْ → âid zamir: عَنْهُ!" },
+        { "ar": "هَؤُلَاءِ هُمُ الْأَصْدِقَاءُ الَّذِينَ أَثِقُ بِهِمْ كَثِيرًا.", "okunus": "Hâulâi humu'l-esdikâu'llezîne esiku bihim kesîran.", "tr": "Kendilerine çok güvendiğim arkadaşlar bunlardır.", "not": "وَثِقَ بِـ → çoğul âid zamir: بِهِمْ!" },
+        { "ar": "أَعْجَبَتْنِي الْمَقَالَاتُ الَّتِي قَرَأْتُهَا فِي هٰذِهِ الْمَجَلَّةِ.", "okunus": "A‘cebetni'l-makâlâtu'lletî kara'tuhâ fî hâzihi'l-mecelleti.", "tr": "Bu dergide okuduğum makaleler hoşuma gitti.", "not": "Akılsız çoğul → الَّتِي + هَا (قَرَأْتُهَا)!" },
+        { "ar": "زُرْتُ الْأُسْتَاذَ الَّذِي كُتُبُهُ مَشْهُورَةٌ فِي كُلِّ الْعَالَمِ.", "okunus": "Zurtu'l-ustâze'llezî kutubuhu meşhûratun fî kulli'l-‘âlemi.", "tr": "Kitapları tüm dünyada meşhur olan hocayı ziyaret ettim.", "not": "İsim cümlesi sıla + âid zamir: كُتُبُهُ!" },
+        { "ar": "اَلْحَقِيبَةُ الَّتِي تَحْتَ الْمَكْتَبِ لِصَدِيقِي عُمَرَ.", "okunus": "El-hakîbetu'lletî tahte'l-mektebi li-sadîkî ‘Umera.", "tr": "Masanın altındaki çanta arkadaşım Ömer'indir.", "not": "Şibh-i cümle (zarf) sıla!" }
+      ],
+      "tatbikler": [
+        { "id": "m19_g2_t01", "tip": "bosluk", "soru": "«هٰذِهِ هِيَ الْجَامِعَةُ الَّتِي أَدْرُسُ ___.» — Eksik harf-i cerli âid zamiri hangisidir?", "secenekler": ["فِيهَا", "فِيهِ", "بِهِ", "فِيهِمْ"], "dogruIndeks": 0, "aciklama": "الْجَامِعَةُ tekil dişildir ve دَرَسَ فِي kullanılır → فِيهَا!" },
+        { "id": "m19_g2_t02", "tip": "bosluk", "soru": "«أَيْنَ الْكُتُبُ الَّتِي اِشْتَرَيْتَ___ أَمْسِ؟» — Akılsız çoğul âid zamiri hangisidir?", "secenekler": ["هَا (اِشْتَرَيْتَهَا)", "هُمْ (اِشْتَرَيْتَهُمْ)", "هُ (اِشْتَرَيْتَهُ)", "هُنَّ (اِشْتَرَيْتَهُنَّ)"], "dogruIndeks": 0, "aciklama": "الْكُتُبُ akılsız çoğul → hem ism-i mevsûl (الَّتِي) hem âid zamir (ـهَا) tekil müennestir!" },
+        { "id": "m19_g2_t03", "tip": "bosluk", "soru": "«هٰذَا هُوَ الْمَوْضُوعُ الَّذِي تَحَدَّثَ الْأُسْتَاذُ ___.» (تَحَدَّثَ + harf-i cer!)", "secenekler": ["عَنْهُ", "عَنْهَا", "بِهَا", "فِيهِمْ"], "dogruIndeks": 0, "aciklama": "تَحَدَّثَ عَنْ (hakkında konuştu) + tekil eril الْمَوْضُوعُ → عَنْهُ!" },
+        { "id": "m19_g2_t04", "tip": "hata", "soru": "«هٰذَا هُوَ الْبَيْتُ الَّذِي أَسْكُنُ.» cümlesindeki eksiklik nasıl giderilir?", "secenekler": ["هٰذَا هُوَ الْبَيْتُ الَّذِي أَسْكُنُ فِيهِ.", "هٰذَا هُوَ الْبَيْتُ الَّتِي أَسْكُنُ.", "هٰذَا هُوَ بَيْتٌ الَّذِي أَسْكُنُ.", "Eksiklik yoktur."], "dogruIndeks": 0, "aciklama": "سَكَنَ فِي fiilinin harf-i cerli âid zamiri (فِيهِ) mutlaka bulunmalıdır!" },
+        { "id": "m19_g2_t05", "tip": "bosluk", "soru": "«هَؤُلَاءِ هُمُ الطُّلَّابُ الَّذِينَ أَفْتَخِرُ ___.» (اِفْتَخَرَ بِـ — gurur duymak)", "secenekler": ["بِهِمْ", "بِهِ", "بِهَا", "بِهُنَّ"], "dogruIndeks": 0, "aciklama": "الطُّلَّابُ akıllı çoğul eril + بِـ → بِهِمْ!" },
+        { "id": "m19_g2_t06", "tip": "tr_ar", "soru": "'Kardeşi mühendis olan öğrenciyle tanıştım.' (İsim cümlesi sıla) hangisidir?", "secenekler": ["تَعَرَّفْتُ عَلَى الطَّالِبِ الَّذِي أَخُوهُ مُهَنْدِسٌ.", "تَعَرَّفْتُ عَلَى الطَّالِبِ الَّذِي أَخَاهُ مُهَنْدِسٌ.", "تَعَرَّفْتُ عَلَى طَالِبٍ الَّذِي أَخُوهُ مُهَنْدِسٌ.", "تَعَرَّفْتُ عَلَى الطَّالِبِ الَّتِي أَخُوهُ مُهَنْدِسٌ."], "dogruIndeks": 0, "aciklama": "Sıla cümlesi: أَخُوهُ مُهَنْدِسٌ (Esmâ-i Hamse mübtedâ merfû + âid zamir ـهُ)!" },
+        { "id": "m19_g2_t07", "tip": "bosluk", "soru": "«نَجَحَ الطَّالِبُ الَّذِي جَلَسَ بِنَشَاطٍ.» cümlesinde sıla cümlesinin i'rab konumu nedir?", "secenekler": ["Sıla cümlesinin mahallen i'rabı yoktur (لَا مَحَلَّ لَهَا مِنَ الْإِعْرَابِ)", "Mahallen merfûdur", "Mahallen mansubdur", "Mahallen mecrûrdur"], "dogruIndeks": 0, "aciklama": "Nahivde sıla cümlesi i'rabdan mahalli olmayan 7 cümlenin başında gelir!" },
+        { "id": "m19_g2_t08", "tip": "bosluk", "soru": "«اَلْمَعْلُومَاتُ الَّتِي حَصَلْنَا ___ دَقِيقَةٌ جِدًّا.» (حَصَلَ عَلَى — elde etmek)", "secenekler": ["عَلَيْهَا", "عَلَيْهِ", "عَلَيْهِمْ", "بِهَا"], "dogruIndeks": 0, "aciklama": "حَصَلَ عَلَى + akılsız çoğul (الْمَعْلُومَاتُ) → عَلَيْهَا!" },
+        { "id": "m19_g2_t09", "tip": "bosluk", "soru": "«رَأَيْتُ الْمَرْأَتَيْنِ اللَّتَيْنِ تَحَدَّثْنَا ___.» (İkil âid zamiri!)", "secenekler": ["عَنْهُمَا", "عَنْهَا", "عَنْهُنَّ", "عَنْهُ"], "dogruIndeks": 0, "aciklama": "İkil dişil (الْمَرْأَتَيْنِ / اللَّتَيْنِ) → ikil âid zamir: عَنْهُمَا!" },
+        { "id": "m19_g2_t10", "tip": "donusturme", "soru": "«قَرَأْتُ كِتَابًا. اَلْكِتَابُ رَائِعٌ.» iki cümlesini الَّذِي ve âid zamirle birleştirin:", "secenekler": ["اَلْكِتَابُ الَّذِي قَرَأْتُهُ رَائِعٌ.", "اَلْكِتَابُ الَّتِي قَرَأْتُهُ رَائِعٌ.", "كِتَابٌ الَّذِي قَرَأْتُهُ رَائِعٌ.", "اَلْكِتَابُ الَّذِي قَرَأْتُهَا رَائِعٌ."], "dogruIndeks": 0, "aciklama": "اَلْكِتَابُ (marife) + الَّذِي + قَرَأْتُهُ (âid zamir ـهُ) + رَائِعٌ!" }
+      ]
+    },
+    {
+      "id": "m19_g3",
+      "baslik": "Müşterek (Ortak) İsm-i Mevsûller: مَنْ (...-an kimse) & مَا (...-dığı şey)",
+      "arBaslik": "الْأَسْمَاءُ الْمَوْصُولَةُ الْمُشْتَرَكَةُ: «مَنْ» (لِلْعَاقِلِ) وَ«مَا» (لِغَيْرِ الْعَاقِلِ)",
+      "mantik": "Bazı durumlarda 'kitap / öğrenci' gibi belirli bir isim söylemeyiz; doğrudan **'doğru söyleyen kimse'** ya da **'istediğin şey'** deriz! İşte Arapçada cinsiyet ve sayı fark etmeksizin herkes/her şey için kullanılan iki joker ism-i mevsûl vardır: (1) **`مَنْ` (Akıllı / İnsan için)**: 'kimse / kimseler' (`أُحِبُّ مَنْ يَحْتَرِمُ وَقْتَهُ` = Zamanına saygı duyan kimseyi severim). (2) **`مَا` (Akılsız / Nesne, Kavram, Olay için)**: 'şey / şeyler' (`اُكْتُبْ مَا سَمِعْتَهُ` = Duyduğun şeyi yaz!). Çok kritik YDS birleşimleri: Harf-i cerler `مَا` ism-i mevsûlüne bitiştiğinde ortaya akademik Arapçanın en güçlü 4 kalıbı çıkar: **`بِمَا`** (... şey ile / ...-diği şekilde), **`فِيمَا`** (... konuda / ...-diği şeyde), **`مِمَّا`** (`مِنْ + مَا`: ... şeyden / **ki bu da ...!**), **`عَمَّا`** (`عَنْ + مَا`: ... şeyden / hakkında)!",
+      "formul": "مَنْ = الَّذِي / الَّذِينَ (İnsan için) | مَا = الَّذِي / الَّتِي (Nesne/Olay için) | مِنْ+مَا=مِمَّا | عَنْ+مَا=عَمَّا",
+      "formulAr": "أَحْتَرِمُ مَنْ يَصْدُقُ  |  اِفْعَلْ مَا تَسْتَطِيعُ  |  مِمَّا — عَمَّا — فِيمَا — بِمَا",
+      "tablo": {
+        "baslik": "مَنْ ve مَا İsm-i Mevsûlleri ile 4 Altın Harf-i Cer Birleşimi",
+        "sutunlar": ["Yapı", "Aslı & Görevi", "Örnek Cümle", "Türkçe Çeviri"],
+        "satirlar": [
+          { "hucreler": ["مَنْ (Akıllı)", "الَّذِي / الَّذِينَ anlamında", "اِحْتَرِمْ مَنْ يُعَلِّمُكَ!", "Sana öğreten kimseye saygı duy!"], "ar": "اِحْتَرِمْ مَنْ يُعَلِّمُكَ!" },
+          { "hucreler": ["مَا (Akılsız)", "الَّذِي / الَّتِي anlamında", "قُلْ مَا تَعْرِفُهُ بِصِدْقٍ!", "Bildiğin şeyi doğrulukla söyle!"], "ar": "قُلْ مَا تَعْرِفُهُ بِصِدْقٍ!" },
+          { "hucreler": ["بِمَا (بِـ + مَا)", "Harf-i cer + مَا", "أَنَا رَاضٍ بِمَا قَسَمَ اللّٰهُ لِي.", "Allah'ın bana taksim ettiği şeye razıyım."], "ar": "أَنَا رَاضٍ بِمَا قَسَمَ اللّٰهُ لِي." },
+          { "hucreler": ["فِيمَا (فِي + مَا)", "Harf-i cer + مَا", "نَتَعَاوَنُ فِيمَا يَنْفَعُ الْمُجْتَمَعَ.", "Topluma fayda veren şeylerde yardımlaşırız."], "ar": "نَتَعَاوَنُ فِيمَا يَنْفَعُ الْمُجْتَمَعَ." },
+          { "hucreler": ["مِمَّا (مِنْ + مَا)", "مِنْ + مَا (İdğamlı!)", "اِشْتَرِ مِمَّا تُحِبُّ! / تَأَخَّرَ، مِمَّا أَدَّى إِلَى...", "Sevdiğin şeyden al! / Geç kaldı, ki bu da ...-e yol açtı!"], "ar": "تَأَخَّرَ، مِمَّا أَدَّى إِلَى..." },
+          { "hucreler": ["عَمَّا (عَنْ + مَا)", "عَنْ + مَا (İdğamlı!)", "اِبْتَعِدْ عَمَّا يَضُرُّ صِحَّتَكَ!", "Sağlığına zarar veren şeyden uzak dur!"], "ar": "اِبْتَعِدْ عَمَّا يَضُرُّ صِحَّتَكَ!" }
+        ]
+      },
+      "trKiyas": "Çok ince ve süper faydalı bir yazım farkı (M08 ile karşılaştırın!): **Soru `مَا`sı** harf-i cer alınca sondaki elif düşer (`عَمَّ تَبْحَثُ؟` = Ne hakkında arıyorsun? `بِمَ؟` `لِمَ؟` `فِيمَ؟`). Ama **İsm-i Mevsûl `مَا`sı** harf-i cer alınca sondaki elif **DÜŞMEZ, AYNEN KALIR**: **`عَمَّا`** (hakkında olduğu şey), **`بِمَا`**, **`فِيمَا`**, **`مِمَّا`**! YDS metninde uzun elifli `عَمَّا / فِيمَا / بِمَا / مِمَّا` gördüğünüz anda bunun %100 **ism-i mevsûl ('... şey')** olduğunu bilerek okuyun!",
+      "sikHatalar": [
+        "İsm-i mevsûl مَا ile soru مَا'sının elif yazımını karıştırmak (Soru: عَمَّ / فِيمَ / بِمَ — elifsiz!; İsm-i mevsûl: عَمَّا / فِيمَا / بِمَا / مِمَّا — elifli!).",
+        "Akıllı insan için مَا veya akılsız nesne için مَنْ kullanmak (✗ أُحِبُّ مَا يُسَاعِدُ النَّاسَ → ✓ أُحِبُّ مَنْ يُسَاعِدُ النَّاسَ!).",
+        "مَنْ / مَا'nın başına الـ takısı getirmek (✗ الْمَنْ / الْمَا — bunlar zaten kendi başlarına marifedir!)."
+      ],
+      "ornekler": [
+        { "ar": "مِنْ أَجْمَلِ الصِّفَاتِ أَنْ تُسَاعِدَ مَنْ يَحْتَاجُ إِلَيْكَ.", "okunus": "Min ecmeli's-sıfâti en tusâ‘ide men yahtâcu ileyke.", "tr": "En güzel sıfatlardan biri, sana ihtiyaç duyan kimseye yardım etmendir.", "not": "مَنْ = الَّذِي (mef'ûlün bih!)" },
+        { "ar": "لَا تَقُلْ مَا لَا تَعْلَمُ، وَاعْمَلْ بِمَا تَعْلَمُ!", "okunus": "Lâ tekul mâ lâ ta‘lemu, va‘mel bi-mâ ta‘lemu!", "tr": "Bilmediğin şeyi söyleme ve bildiğin şeyle amel et!", "not": "مَا (nesne) & بِمَا (harf-i cerli mevsûl)" },
+        { "ar": "اِبْتَعِدْ عَمَّا يُضَيِّعُ وَقْتَكَ، وَانْشَغِلْ بِمَا يَرْفَعُ مُسْتَوَاكَ!", "okunus": "İbte‘id ‘ammâ yudayyi‘u vakteke, venşegil bi-mâ yerfa‘u mustevâke!", "tr": "Vaktini boşa harcayan şeyden uzak dur ve seviyeni yükselten şeyle meşgul ol!", "not": "عَمَّا & بِمَا (elifli!)" },
+        { "ar": "اِسْتَفَدْتُ كَثِيرًا مِمَّا قَرَأْتُهُ فِي هٰذَا الْكِتَابِ الْقَيِّمِ.", "okunus": "İstefedtu kesîran mimmâ kara'tuhu fî hâze'l-kitâbi'l-kayyimi.", "tr": "Bu kıymetli kitapta okuduğum şeylerden çok faydalandım.", "not": "مِمَّا = مِنْ + مَا" },
+        { "ar": "اِزْدَادَ عَدَدُ الطُّلَّابِ هٰذَا الْعَامَ، مِمَّا أَدَّى إِلَى فَتْحِ شُعَبٍ جَدِيدَةٍ.", "okunus": "İzdâde ‘adedu't-tullâbi hâze'l-‘âme, mimmâ eddâ ilâ fethi şu‘abin cedîdetin.", "tr": "Bu yıl öğrenci sayısı arttı, ki bu da yeni şubelerin açılmasına yol açtı.", "not": "مِمَّا أَدَّى إِلَى (YDS #1 sonuç kalıbı!)" },
+        { "ar": "تَخْتَلِفُ آرَاءُ الْبَاحِثِينَ فِيمَا يَتَعَلَّقُ بِأَسْبَابِ هٰذِهِ الظَّاهِرَةِ.", "okunus": "Tahtelifu ârâu'l-bâhisîne fîmâ yete‘allaku bi-esbâbi hâzihi'z-zâhirati.", "tr": "Araştırmacıların görüşleri, bu olgunun sebepleriyle ilgili hususta farklılık göstermektedir.", "not": "فِيمَا يَتَعَلَّقُ بِـ ('... konusunda / ile ilgili olarak' — YDS hazinesi!)" }
+      ],
+      "tatbikler": [
+        { "id": "m19_g3_t01", "tip": "bosluk", "soru": "«أَحْتَرِمُ ___ يَحْتَرِمُ الْآخَرِينَ وَيَصْدُقُ مَعَهُمْ.» (Akıllı insan için müşterek mevsûl)", "secenekler": ["مَنْ", "مَا", "مِمَّا", "أَيْنَ"], "dogruIndeks": 0, "aciklama": "Akıllı varlıklar ('...-an kimse') için müşterek ism-i mevsûl مَنْ kullanılır!" },
+        { "id": "m19_g3_t02", "tip": "bosluk", "soru": "«اِفْعَلْ ___ يَنْفَعُكَ فِي دُنْيَاكَ وَآخِرَتِكَ.» (Akılsız 'şey' için)", "secenekler": ["مَا", "مَنْ", "الَّذِينَ", "اللَّاتِي"], "dogruIndeks": 0, "aciklama": "Akılsız kavram/şey için müşterek ism-i mevsûl مَا kullanılır!" },
+        { "id": "m19_g3_t03", "tip": "bosluk", "soru": "«اِبْتَعِدْ ___ يَضُرُّ صِحَّتَكَ!» (عَنْ + مَا ism-i mevsûl doğru yazımı)", "secenekler": ["عَمَّا", "عَمَّ", "عَنْمَا", "مِمَّ"], "dogruIndeks": 0, "aciklama": "عَنْ + مَا (ism-i mevsûl) birleşince idğam olur ve ELİF KORUNUR: عَمَّا! (عَمَّ sadece soru içindir!)" },
+        { "id": "m19_g3_t04", "tip": "bosluk", "soru": "«نَقَصَتِ الْأَمْطَارُ هٰذَا الْعَامَ، ___ أَدَّى إِلَى جَفَافٍ شَدِيدٍ.» (YDS sonuç kalıbı: 'ki bu da ...-e yol açtı')", "secenekler": ["مِمَّا", "مِمَّ", "بِمَ", "مَنْ"], "dogruIndeks": 0, "aciklama": "مِمَّا أَدَّى إِلَى = '... ki bu da ...-e yol açtı' (YDS'nin en çok çıkan kalıplarından biri!)." },
+        { "id": "m19_g3_t05", "tip": "bosluk", "soru": "«فِيمَا يَتَعَلَّقُ بِهٰذَا الْمَشْرُوعِ...» YDS akademik kalıbının anlamı nedir?", "secenekler": ["'Bu projeyle ilgili olarak / bu proje hususunda...'", "'Bu proje nerede?'", "'Bu projeden sonra'", "'Bu projeye rağmen'"], "dogruIndeks": 0, "aciklama": "فِيمَا يَتَعَلَّقُ بِـ = '... ile ilgili olarak / hususunda'!" },
+        { "id": "m19_g3_t06", "tip": "bosluk", "soru": "«عَمَّ تَسْأَلُ؟» ile «سَأَلْتُ عَمَّا حَدَثَ.» arasındaki yazım farkının sebebi nedir?", "secenekler": ["İlkinde مَا soru ismidir (elif düşer: عَمَّ); ikincisinde ism-i mevsûldür (elif kalır: عَمَّا!)", "İkisi aynıdır", "İlkinde harf-i cer yoktur", "Yazım hatasıdır"], "dogruIndeks": 0, "aciklama": "Soru: عَمَّ / بِمَ / فِيمَ / مِمَّ; İsm-i Mevsûl: عَمَّا / بِمَا / فِيمَا / مِمَّا!" },
+        { "id": "m19_g3_t07", "tip": "tr_ar", "soru": "'Sana yardım eden kimseye teşekkür et!' (مَنْ ile) hangisidir?", "secenekler": ["اُشْكُرْ مَنْ يُسَاعِدُكَ!", "اُشْكُرْ مَا يُسَاعِدُكَ!", "اُشْكُرْ الْمَنْ يُسَاعِدُكَ!", "اُشْكُرْ مِمَّا يُسَاعِدُكَ!"], "dogruIndeks": 0, "aciklama": "مَنْ (akıllı) doğrudan mef'ûlün bih olarak kullanılır: اُشْكُرْ مَنْ يُسَاعِدُكَ!" },
+        { "id": "m19_g3_t08", "tip": "bosluk", "soru": "«بِمَا أَنَّ الْجَوَّ جَمِيلٌ، فَلْنَخْرُجْ إِلَى الْحَدِيقَةِ.» cümlesindeki «بِمَا أَنَّ» bağlacı ne anlama gelir?", "secenekler": ["'Mademki / ...-diğine göre'", "'Rağmen'", "'Oysa'", "'Önce'"], "dogruIndeks": 0, "aciklama": "بِمَا أَنَّ = 'mademki / ... olduğuna göre' (YDS sebep-gerekçe bağlacı!)." },
+        { "id": "m19_g3_t09", "tip": "hata", "soru": "«اِسْتَفَدْتُ مِمَّ قَرَأْتُهُ فِي الْكِتَابِ.» cümlesindeki yazım hatası nedir?", "secenekler": ["مِمَّ → مِمَّا (ism-i mevsûlde elif düşmez!)", "قَرَأْتُهُ → قَرَأْتُهَا", "الْكِتَابِ → الْكِتَابَ", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "Burada soru değil ism-i mevsûl ('okuduğum şeylerden') vardır → مِمَّا!" },
+        { "id": "m19_g3_t10", "tip": "bosluk", "soru": "«هُنَاكَ مَنْ يَعْتَقِدُ أَنَّ النَّجَاحَ صُدْفَةٌ.» cümlesi Türkçeye nasıl çevrilir?", "secenekler": ["Başarının tesadüf olduğuna inananlar (inanan kimseler) vardır.", "Başarı burada tesadüftür.", "Kim inanıyor?", "Başarı yoktur."], "dogruIndeks": 0, "aciklama": "هُنَاكَ مَنْ + muzâri = '... yapan kimseler/insanlar vardır' (çok yaygın akademik kalıp!)." }
+      ]
+    },
+    {
+      "id": "m19_g4",
+      "baslik": "Türkçeye Kusursuz Çeviri Formülü: '-an/-en' vs. '-dığı/-diği' Tekniği",
+      "arBaslik": "مَهَارَةُ التَّرْجَمَةِ: الْفَرْقُ بَيْنَ «ـان / ـين» (الْفَاعِل) وَ«ـدِغِي» (الْمَفْعُول)",
+      "mantik": "YDS ve YÖKDİL Arapça çeviri sorularında adayların en çok puan kazandığı veya kaybettiği yer ism-i mevsûl çevirisidir! Oysa kural bir matematik denklemi kadar nettir: İsm-i mevsûlden sonraki **Sıla Cümlesinin ÖZNESİNE** bakın! **(1) Eğer özne (fâil) ism-i mevsûlün ta kendisiyse** (yani işi yapan odur): Türkçeye **'-an / -en'** diye çevrilir (`الطَّالِبُ الَّذِي كَتَبَ الرِّسَالَةَ` = Mektubu yaz**an** öğrenci; `الشَّرِكَةُ الَّتِي أَطْلَقَتِ الْمَشْرُوعَ` = Projeyi başlat**an** şirket). **(2) Eğer sıla cümlesinin başka bir öznesi varsa** ve ism-i mevsûl nesne (`ـهُ/ـهَا`) ya da harf-i cerli (`فِيهِ/عَنْهُ`) konumdaki şeyse: Türkçeye **'-dığı / -diği / -acağı'** diye çevrilir (`الرِّسَالَةُ الَّتِي كَتَبَهَا الطَّالِبُ` = Öğrencinin yaz**dığı** mektup; `الْمَشْرُوعُ الَّذِي أَطْلَقَتْهُ الشَّرِكَةُ` = Şirketin başlat**tığı** proje)!",
+      "formul": "Sıla Öznesi = Mevsûl → '-an/-en' (الَّذِي كَتَبَ) | Sıla Öznesi Başkası + Âid (ـهُ/ـهَا) → '-dığı/-diği' (الَّذِي كَتَبَهُ)",
+      "formulAr": "الطَّالِبُ الَّذِي كَتَبَ الدَّرْسَ (Yazan!)  ≠  الدَّرْسُ الَّذِي كَتَبَهُ الطَّالِبُ (Yazdığı!)",
+      "tablo": {
+        "baslik": "İki Yönlü Çeviri Pusulası (Aynı Kelimelerle Zıt Anlam Farkı!)",
+        "sutunlar": ["Arapça İfade", "Âid Zamir Rolü", "Çeviri Eki", "Türkçe Tam Çeviri"],
+        "satirlar": [
+          { "hucreler": ["الْكَاتِبُ الَّذِي أَلَّفَ الرِّوَايَةَ", "Fâil (gizli هُوَ)", "-an / -en", "Romanı yazan yazar"], "ar": "الْكَاتِبُ الَّذِي أَلَّفَ الرِّوَايَةَ" },
+          { "hucreler": ["الرِّوَايَةُ الَّتِي أَلَّفَهَا الْكَاتِبُ", "Nesne (ـهَا)", "-dığı / -diği", "Yazarın yazdığı roman"], "ar": "الرِّوَايَةُ الَّتِي أَلَّفَهَا الْكَاتِبُ" },
+          { "hucreler": ["الطَّبِيبُ الَّذِي عَالَجَ الْمَرِيضَ", "Fâil (gizli هُوَ)", "-an / -en", "Hastayı tedavi eden doktor"], "ar": "الطَّبِيبُ الَّذِي عَالَجَ الْمَرِيضَ" },
+          { "hucreler": ["الْمَرِيضُ الَّذِي عَالَجَهُ الطَّبِيبُ", "Nesne (ـهُ)", "-dığı / -diği", "Doktorun tedavi ettiği hasta"], "ar": "الْمَرِيضُ الَّذِي عَالَجَهُ الطَّبِيبُ" },
+          { "hucreler": ["الْمَقَالُ الَّذِي سَيُنْشَرُ غَدًا", "Nâib-i Fâil (سَـ)", "-acak / -ecek (olan)", "Yarın yayımlanacak (olan) makale"], "ar": "الْمَقَالُ الَّذِي سَيُنْشَرُ غَدًا" },
+          { "hucreler": ["الْمُؤْتَمَرُ الَّذِي شَارَكْنَا فِيهِ", "Mecrûr (فِيهِ)", "-dığımız", "Katıldığımız konferans"], "ar": "الْمُؤْتَمَرُ الَّذِي شَارَكْنَا فِيهِ" }
+        ]
+      },
+      "trKiyas": "Arapçadan Türkçeye uzun bir YDS cümlesi çevirirken **'Kutu Tekniği'** uygulayın: `الَّذِي / الَّتِي` gördüğünüz yerden sıla cümlesinin sonuna kadar zihninizde bir kutu çizin (`[الَّذِي كَتَبَهُ الطَّالِبُ أَمْسِ]`), kutuyu Türkçeye çevirip (`öğrencinin dün yazdığı`) ism-i mevsûlden önceki ismin **soluna** yapıştırın (`öğrencinin dün yazdığı ders`)! Bu tek teknikle 3 satırlık akademik Arapça cümleler lego gibi çözülür!",
+      "sikHatalar": [
+        "Nesneli mevsûlü (-dığı) özneli (-an) sanıp ters çevirmek (✗ الْمَرِيضُ الَّذِي عَالَجَهُ الطَّبِيبُ = 'Doktoru tedavi eden hasta' → ✓ 'Doktorun tedavi ettiği hasta'!).",
+        "Sıla fiilinin zamanını gözden kaçırmak (سَيَصِلُ = 'varacak olan', وَصَلَ = 'varmış olan / varan').",
+        "Sıla cümlesini ana cümlenin yüklemi (haberi) sanmak (اَلْكِتَابُ الَّذِي قَرَأْتُهُ مُفِيدٌ — cümlenin ana haberi قَرَأْتُهُ değil, en sondaki مُفِيدٌ kelimesidir!)."
+      ],
+      "ornekler": [
+        { "ar": "اَلْقَرَارُ الَّذِي اتَّخَذَهُ الْمَجْلِسُ أَمْسِ لَقِيَ تَرْحِيبًا وَاسِعًا.", "okunus": "El-karâru'llezî'ttehazehu'l-meclisu emsi lakıye terhîben vâsi‘an.", "tr": "Meclisin dün aldığı karar geniş bir memnuniyetle karşılandı.", "not": "Nesneli (-dığı) + ana yüklem: لَقِيَ!" },
+        { "ar": "اَلْبَاحِثُونَ الَّذِينَ أَجْرَوُا التَّجْرِبَةَ نَشَرُوا النَّتَائِجَ الْيَوْمَ.", "okunus": "El-bâhisûne'llezîne ecravu't-tecribete neşeru'n-netâice'l-yevme.", "tr": "Deneyi yapan araştırmacılar sonuçları bugün yayımladılar.", "not": "Özneli (-an) + ana yüklem: نَشَرُوا!" },
+        { "ar": "اَلْبِرْنَامَجُ الَّذِي سَيُطْلَقُ الشَّهْرَ الْقَادِمَ يُفِيدُ الطُّلَّابَ.", "okunus": "El-bernâmecu'llezî se-yutlaku'ş-şehra'l-kâdime yufîdu't-tullâbe.", "tr": "Gelecek ay başlatılacak olan program öğrencilere fayda sağlar.", "not": "Gelecek meçhul sıla (-acak olan!)" },
+        { "ar": "اَلْقَرْيَةُ الَّتِي قَضَيْنَا فِيهَا الْعُطْلَةَ هَادِئَةٌ وَجَمِيلَةٌ.", "okunus": "El-karyetu'lletî kadaynâ fîhe'l-‘utlete hâdietun ve cemîletun.", "tr": "Tatili (içinde) geçirdiğimiz köy sakin ve güzeldir.", "not": "Mecrûrlu (-dığımız) + ana haber: هَادِئَةٌ!" },
+        { "ar": "اَلسِّيَّارَةُ الَّتِي بَاعَهَا جَارُنَا كَانَتْ نَظِيفَةً جِدًّا.", "okunus": "Es-seyyâratu'lletî bâ‘ahâ cârunâ kânet nazîfeten cidden.", "tr": "Komşumuzun sattığı araba çok temizdi.", "not": "بَاعَهَا (ـهَا nesne, جَارُنَا fâil → 'komşumuzun sattığı')" },
+        { "ar": "اَلطَّالِبَةُ الَّتِي فَازَتْ بِالْمِنْحَةِ سَتُسَافِرُ غَدًا.", "okunus": "Et-tâlibetu'lletî fâzet bi'l-minhati se-tusâfiru gaden.", "tr": "Bursu kazanan kız öğrenci yarın yolculuğa çıkacak.", "not": "Özneli (-an) + ana haber: سَتُسَافِرُ!" }
+      ],
+      "tatbikler": [
+        { "id": "m19_g4_t01", "tip": "tr_ar", "soru": "«الْمُعَلِّمُ الَّذِي كَرَّمَهُ الْمُدِيرُ» ifadesinin doğru Türkçe çevirisi hangisidir?", "secenekler": ["Müdürün ödüllendirdiği öğretmen", "Müdürü ödüllendiren öğretmen", "Ödüllendirecek müdür", "Öğretmenin müdürü"], "dogruIndeks": 0, "aciklama": "الْمُدِيرُ merfû (fâil!), ـهُ nesne (öğretmene döner) → 'Müdürün ödüllendirdiği öğretmen'!" },
+        { "id": "m19_g4_t02", "tip": "tr_ar", "soru": "«الْمُعَلِّمُ الَّذِي كَرَّمَ الطَّالِبَ» ifadesinin doğru Türkçe çevirisi hangisidir?", "secenekler": ["Öğrenciyi ödüllendiren öğretmen", "Öğrencinin ödüllendirdiği öğretmen", "Ödüllendirilen öğrenci", "Öğretmenin öğrencisi"], "dogruIndeks": 0, "aciklama": "الطَّالِبَ mansub (nesne!), fâil gizli هُوَ (öğretmene döner) → 'Öğrenciyi ödüllendiren öğretmen'!" },
+        { "id": "m19_g4_t03", "tip": "bosluk", "soru": "«اَلْكِتَابُ الَّذِي قَرَأْتُهُ فِي الْعُطْلَةِ شَيِّقٌ جِدًّا.» cümlesinin ANA HABERİ (yüklemi) hangisidir?", "secenekler": ["شَيِّقٌ", "الَّذِي", "قَرَأْتُهُ", "الْعُطْلَةِ"], "dogruIndeks": 0, "aciklama": "«الَّذِي قَرَأْتُهُ فِي الْعُطْلَةِ» sıfat+sıladır; mübtedâ الْكِتَابُ'nun ana haberi شَيِّقٌ'dur!" },
+        { "id": "m19_g4_t04", "tip": "tr_ar", "soru": "'Gelecek hafta açılacak olan müze çok büyüktür.' cümlesi hangisidir?", "secenekler": ["اَلْمُتْحَفُ الَّذِي سَيُفْتَحُ الْأُسْبُوعَ الْقَادِمَ كَبِيرٌ جِدًّا.", "اَلْمُتْحَفُ الَّذِي فُتِحَ أَمْسِ كَبِيرٌ جِدًّا.", "اَلْمُتْحَفُ الَّتِي سَيُفْتَحُ كَبِيرٌ.", "مُتْحَفٌ الَّذِي سَيُفْتَحُ كَبِيرٌ."], "dogruIndeks": 0, "aciklama": "الْمُتْحَفُ (marife eril) + الَّذِي + gelecek meçhul (سَيُفْتَحُ) + haber (كَبِيرٌ)!" },
+        { "id": "m19_g4_t05", "tip": "tr_ar", "soru": "«اَلْخِطَابُ الَّذِي أَلْقَاهُ الرَّئِيسُ» ifadesinin doğru çevirisi hangisidir?", "secenekler": ["Başkanın yaptığı (irad ettiği) konuşma", "Başkanı yapan konuşma", "Başkanın dinlediği kişi", "Konuşmayı yapan başkan"], "dogruIndeks": 0, "aciklama": "الرَّئِيسُ merfû (fâil!), ـهُ (الْخِطَابُ'a döner) → 'Başkanın yaptığı konuşma'!" },
+        { "id": "m19_g4_t06", "tip": "tr_ar", "soru": "'Katıldığımız seminer çok faydalıydı.' cümlesinin doğru Arapçası hangisidir?", "secenekler": ["اَلنَّدْوَةُ الَّتِي شَارَكْنَا فِيهَا كَانَتْ مُفِيدَةً جِدًّا.", "اَلنَّدْوَةُ الَّذِي شَارَكْنَا فِيهَا كَانَتْ مُفِيدَةً.", "اَلنَّدْوَةُ الَّتِي شَارَكْنَا كَانَتْ مُفِيدَةً.", "نَدْوَةٌ الَّتِي شَارَكْنَا فِيهَا مُفِيدَةٌ."], "dogruIndeks": 0, "aciklama": "النَّدْوَةُ (dişil marife) + الَّتِي + شَارَكْنَا فِيهَا (harf-i cerli âid zamir!) + كَانَتْ مُفِيدَةً!" },
+        { "id": "m19_g4_t07", "tip": "bosluk", "soru": "«اَلتَّقْرِيرُ الَّذِي أَعَدَّتْهُ اللَّجْنَةُ» ifadesinde fiil (أَعَدَّتْهُ) neden dişildir?", "secenekler": ["Çünkü sıla cümlesinin fâili olan اللَّجْنَةُ (komite) dişildir!", "Çünkü التَّقْرِيرُ dişildir", "Çünkü الَّذِي dişildir", "Yazım hatasıdır"], "dogruIndeks": 0, "aciklama": "Sıla fiili kendi fâiline (اللَّجْنَةُ — dişil) uyar, nesne zamiri (ـهُ) ise التَّقْرِيرُ'e (eril) döner!" },
+        { "id": "m19_g4_t08", "tip": "bosluk", "soru": "«اَلسَّيَّارَةُ الَّتِي اشْتَرَاهَا أَبِي» ifadesinde fiil (اِشْتَرَاهَا) neden erildir ama zamir (ـهَا) dişildir?", "secenekler": ["Fâil أَبِي eril olduğu için fiil eril; nesne السَّيَّارَةُ dişil olduğu için zamir ـهَا dişildir!", "İkisi de dişildir", "أَبِي dişildir", "Hata vardır"], "dogruIndeks": 0, "aciklama": "Muhteşem kural: Fiil kendi fâiline (أَبِي), âid zamir ise ism-i mevsûle (السَّيَّارَةُ → هَا) uyar!" },
+        { "id": "m19_g4_t09", "tip": "tr_ar", "soru": "'Yazdığım mektubu postaya gönderdim.' cümlesi hangisidir?", "secenekler": ["أَرْسَلْتُ الرِّسَالَةَ الَّتِي كَتَبْتُهَا بِالْبَرِيدِ.", "أَرْسَلْتُ الرِّسَالَةَ الَّذِي كَتَبْتُهُ بِالْبَرِيدِ.", "أَرْسَلْتُ رِسَالَةً الَّتِي كَتَبْتُهَا.", "أَرْسَلْتُ الرِّسَالَةَ الَّتِي كَتَبَ."], "dogruIndeks": 0, "aciklama": "الرِّسَالَةَ + الَّتِي + كَتَبْتُهَا!" },
+        { "id": "m19_g4_t10", "tip": "bosluk", "soru": "«اَلْأَخْبَارُ الَّتِي سَمِعْنَاهَا صَبَاحًا سَارَّةٌ.» cümlesinin Türkçe çevirisi nedir?", "secenekler": ["Sabah duyduğumuz haberler sevindiricidir.", "Sabah haber duyanlar sevindi.", "Haberler sabah duyuldu.", "Sevindirici sabah haberleri duyacak."], "dogruIndeks": 0, "aciklama": "الْأَخْبَارُ (akılsız çoğul) + الَّتِي + سَمِعْنَاهَا ('duyduğumuz') + سَارَّةٌ ('sevindiricidir')!" }
+      ]
+    },
+    {
+      "id": "m19_g5",
+      "baslik": "İsm-i Mevsûlün Cümledeki İ'rab Görevleri (Sıfat vs. Bağımsız Özne/Nesne)",
+      "arBaslik": "مَوَاقِعُ الِاسْمِ الْمَوْصُولِ مِنَ الْإِعْرَابِ",
+      "mantik": "Şimdiye kadar ism-i mevsûlü çoğunlukla marife bir ismin arkasında **sıfat (na't)** olarak gördük (`اَلطَّالِبُ الَّذِي نَجَحَ`). Ama çok önemli bir gerçek var: İsm-i mevsûl her zaman bir ismin arkasında gelmek zorunda DEĞİLDİR! Önünde hiçbir isim olmadan doğrudan kendisi cümlenin **Mübtedâsı** (`اَلَّذِي يَجْتَهِدُ يَنْجَحُ` = Gayret eden [kişi] başarır!), **Haberi** (`أَنْتَ الَّذِي سَاعَدَنِي` = Bana yardım eden sensin!), **Fâili** (`فَازَ الَّذِينَ صَبَرُوا` = Sabredenler kazandı!), **Mef'ûlün Bihi** (`أَحْتَرِمُ الَّذِينَ يَعْمَلُونَ بِإِخْلَاصٍ` = Samimiyetle çalışanlara saygı duyarım!) veya **Mecrûru** (`سَلَّمْتُ عَلَى الَّتِي فَازَتْ` = Kazanan [kadına] selam verdim!) olabilir! Tıpkı normal bir isim gibi her koltuğa oturur!",
+      "formul": "Marife İsim + الَّذِي = Sıfat | İsimsiz الَّذِي / الَّذِينَ / مَنْ / مَا = Mübtedâ / Fâil / Mef'ûl / Mecrûr!",
+      "formulAr": "فَازَ الَّذِينَ صَبَرُوا (فَاعِلٌ)  |  اَلَّذِي يَجْتَهِدُ يَنْجَحُ (مُبْتَدَأٌ)  |  أَحْتَرِمُ الَّتِي تَجْتَهِدُ (مَفْعُولٌ بِهِ)",
+      "tablo": {
+        "baslik": "İsm-i Mevsûlün Cümledeki 6 Temel İ'rab Konumu",
+        "sutunlar": ["Cümledeki Görev", "Örnek Cümle", "İ'rab Analizi", "Türkçe Çeviri"],
+        "satirlar": [
+          { "hucreler": ["Mübtedâ (Özne)", "اَلَّذِي يَطْلُبُ الْعِلْمَ يَرْتَفِعُ قَدْرُهُ.", "Mahallen Merfû Mübtedâ", "İlim arayan (kimsenin) değeri yükselir."], "ar": "اَلَّذِي يَطْلُبُ الْعِلْمَ يَرْتَفِعُ قَدْرُهُ." },
+          { "hucreler": ["Haber (Yüklem)", "صَدِيقِي هُوَ الَّذِي سَاعَدَنِي.", "Mahallen Merfû Haber", "Bana yardım eden arkadaşım(dır)."], "ar": "صَدِيقِي هُوَ الَّذِي سَاعَدَنِي." },
+          { "hucreler": ["Fâil (Özne)", "جَاءَ اللَّذَانِ فَازَا بِالْجَائِزَةِ.", "Elifle Merfû Fâil (Murab!)", "Ödülü kazanan o iki kişi geldi."], "ar": "جَاءَ اللَّذَانِ فَازَا بِالْجَائِزَةِ." },
+          { "hucreler": ["Mef'ûlün Bih (Nesne)", "كَرَّمَ الْمُدِيرُ اللَّذَيْنِ تَفَوَّقَا.", "Yâ ile Mansub Mef'ûl!", "Müdür üstün başarı gösteren o iki kişiyi ödüllendirdi."], "ar": "كَرَّمَ الْمُدِيرُ اللَّذَيْنِ تَفَوَّقَا." },
+          { "hucreler": ["Mecrûr", "سَلَّمْتُ عَلَى الَّذِينَ حَضَرُوا.", "Mahallen Mecrûr", "Katılanlara selam verdim."], "ar": "سَلَّمْتُ عَلَى الَّذِينَ حَضَرُوا." },
+          { "hucreler": ["Sıfat (Na't)", "قَرَأْتُ الْكِتَابَ الَّذِي أَهْدَيْتَهُ لِي.", "Mahallen Mansub Sıfat", "Bana hediye ettiğin kitabı okudum."], "ar": "قَرَأْتُ الْكِتَابَ الَّذِي أَهْدَيْتَهُ لِي." }
+        ]
+      },
+      "trKiyas": "Kur'an-ı Kerim'de ve modern Arapçada bağımsız ism-i mevsûller çok güçlü bir anlatım verir: `إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ...` (`إِنَّ`'nin ismi!), `فَازَ الَّذِينَ اجْتَهَدُوا` (fâil!). Özellikle ikillerde bu görevi bilmek hayati önem taşır; çünkü `جَاءَ اللَّذَانِ` (fâil → elif!), `رَأَيْتُ اللَّذَيْنِ` (mef'ûl → yâ!), `مَرَرْتُ بِاللَّتَيْنِ` (mecrûr → yâ!) doğrudan ism-i mevsûlün kendi harfini değiştirir!",
+      "sikHatalar": [
+        "İsm-i mevsûlün mutlaka önünde bir isim bulunması gerektiğini sanmak (✗ sadece sıfat olur → ✓ kendi başına mübtedâ, fâil, mef'ûl ve mecrûr olabilir!).",
+        "Bağımsız ikil ism-i mevsûlde i'rab harfini karıştırmak (✗ شَكَرْتُ اللَّذَانِ سَاعَدَانِي → ✓ شَكَرْتُ اللَّذَيْنِ سَاعَدَانِي — mef'ûlün bih yâ ile mansubdur!).",
+        "«هُوَ الَّذِي / هِيَ الَّتِي» vurgu yapısını unutmak (أَحْمَدُ هُوَ الَّذِي كَتَبَ الْمَقَالَ = Makaleyi yazan kişi Ahmed'dir — fasıl zamiriyle güçlü vurgu!)."
+      ],
+      "ornekler": [
+        { "ar": "اَلَّذِينَ يَصْبِرُونَ عَلَى الصُّعُوبَاتِ يَصِلُونَ إِلَى أَهْدَافِهِمْ.", "okunus": "Ellezîne yasbirûne ‘ale's-su‘ûbâti yasilûne ilâ ehdâfihim.", "tr": "Zorluklara sabredenler hedeflerine ulaşırlar.", "not": "Bağımsız mübtedâ (الَّذِينَ)" },
+        { "ar": "فَازَ اللَّذَانِ أَعَدَّا أَفْضَلَ مَشْرُوعٍ فِي الْمُسَابَقَةِ.", "okunus": "Fâze'llezâni e‘addâ efdale meşrû‘in fi'l-musâbakati.", "tr": "Yarışmada en iyi projeyi hazırlayan o iki kişi kazandı.", "not": "Bağımsız ikil fâil: اللَّذَانِ (elif!)" },
+        { "ar": "شَكَرْتُ اللَّتَيْنِ سَاعَدَتَانِي فِي تَنْظِيمِ الْقَاعَةِ.", "okunus": "Şekertu'lleteyni sâ‘adetânî fî tenzîmi'l-kâ‘ati.", "tr": "Salonu düzenlememde bana yardım eden o iki (kadına) teşekkür ettim.", "not": "Bağımsız ikil mef'ûl: اللَّتَيْنِ (yâ!)" },
+        { "ar": "أُعْجِبْتُ بِالَّذِي قَدَّمَهُ الطُّلَّابُ مِنَ الْأَفْكَارِ الْجَدِيدَةِ.", "okunus": "U‘cibtu bi'llezî kaddemehu't-tullâbu mine'l-efkâri'l-cedîdeti.", "tr": "Öğrencilerin sunduğu yeni fikirlere hayran kaldım.", "not": "Harf-i cerli mecrûr: بِالَّذِي" },
+        { "ar": "إِنَّ الَّذِي يَقْرَأُ كَثِيرًا يَتَّسِعُ أُفُقُهُ الْعِلْمِيُّ.", "okunus": "İnne'llezî yakrau kesîran yettesi‘u ufukuhu'l-‘ilmiyyu.", "tr": "Şüphesiz çok okuyan kimsenin bilimsel ufku genişler.", "not": "إِنَّ'nin ismi (mahallen mansub)" },
+        { "ar": "أُمِّي هِيَ الَّتِي شَجَّعَتْنِي عَلَى تَعَلُّمِ اللُّغَاتِ.", "okunus": "Ummî hiye'lletî şecca‘atnî ‘alâ ta‘allumi'l-lugâti.", "tr": "Beni dil öğrenmeye teşvik eden annemdir.", "not": "Vurgulu haber: هِيَ الَّتِي!" }
+      ],
+      "tatbikler": [
+        { "id": "m19_g5_t01", "tip": "bosluk", "soru": "«حَضَرَ ___ أَلْقَيَا الْمُحَاضَرَةَ الْيَوْمَ.» (Bağımsız ikil eril FÂİL!)", "secenekler": ["اللَّذَانِ", "اللَّذَيْنِ", "اللَّتَانِ", "الَّذِي"], "dogruIndeks": 0, "aciklama": "Fâil merfûdur → ikil eril ref': اللَّذَانِ!" },
+        { "id": "m19_g5_t02", "tip": "bosluk", "soru": "«قَابَلْتُ ___ فَازَا بِالْمَرْكَزِ الْأَوَّلِ.» (Bağımsız ikil eril MEF'ÛL!)", "secenekler": ["اللَّذَيْنِ", "اللَّذَانِ", "اللَّتَيْنِ", "الَّذِينَ"], "dogruIndeks": 0, "aciklama": "Mef'ûlün bih mansubdur → ikil eril nasb: اللَّذَيْنِ!" },
+        { "id": "m19_g5_t03", "tip": "bosluk", "soru": "«سَلَّمْتُ عَلَى ___ تَخَرَّجَتَا مِنَ الْكُلِّيَّةِ.» (Bağımsız ikil dişil MECRÛR!)", "secenekler": ["اللَّتَيْنِ", "اللَّتَانِ", "اللَّذَيْنِ", "اللَّاتِي"], "dogruIndeks": 0, "aciklama": "عَلَى sonrası mecrûr → ikil dişil cer: اللَّتَيْنِ!" },
+        { "id": "m19_g5_t04", "tip": "bosluk", "soru": "«اَلَّذِي يَجْتَهِدُ يَنْجَحُ.» cümlesinde «اَلَّذِي» hangi görevdedir?", "secenekler": ["Mübtedâ (mahallen merfû)", "Sıfat", "Mef'ûlün bih", "Mecrûr"], "dogruIndeks": 0, "aciklama": "Önünde isim olmadan cümle başında geldiği için mübtedâdır!" },
+        { "id": "m19_g5_t05", "tip": "tr_ar", "soru": "'Bana bu kitabı hediye eden arkadaşımdır.' (Vurgulu yapı: هُوَ الَّذِي) hangisidir?", "secenekler": ["صَدِيقِي هُوَ الَّذِي أَهْدَانِي هٰذَا الْكِتَابَ.", "صَدِيقِي هِيَ الَّتِي أَهْدَانِي هٰذَا الْكِتَابَ.", "صَدِيقِي الَّذِي أَهْدَانِي.", "صَدِيقِي هُوَ مَا أَهْدَانِي."], "dogruIndeks": 0, "aciklama": "صَدِيقِي هُوَ الَّذِي ... güçlü vurgulu isim cümlesidir!" },
+        { "id": "m19_g5_t06", "tip": "hata", "soru": "«اِحْتَرَمَ النَّاسُ اللَّذَانِ صَدَقَا فِي وَعْدِهِمَا.» cümlesindeki hata nasıl düzeltilir?", "secenekler": ["اللَّذَانِ → اللَّذَيْنِ (mef'ûlün bih yâ ile mansubdur!)", "النَّاسُ → النَّاسَ", "صَدَقَا → صَدَقُوا", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "النَّاسُ fâil, boşluktaki ikil ism-i mevsûl mef'ûldür → اللَّذَيْنِ!" },
+        { "id": "m19_g5_t07", "tip": "bosluk", "soru": "«إِنَّ الَّذِينَ يَعْمَلُونَ بِجِدٍّ مُوَفَّقُونَ.» cümlesinde «الَّذِينَ» hangi görevdedir?", "secenekler": ["إِنَّ'nin ismi (mahallen mansub)", "Fâil", "Sıfat", "Haber"], "dogruIndeks": 0, "aciklama": "إِنَّ'den hemen sonra gelen الَّذِينَ, إِنَّ'nin mahallen mansub ismidir!" },
+        { "id": "m19_g5_t08", "tip": "bosluk", "soru": "«مَرَرْتُ بِالَّتِي نَجَحَتْ فِي الْمُسَابَقَةِ.» cümlesinde «الَّتِي» hangi görevdedir?", "secenekler": ["بِـ harf-i ceriyle mahallen mecrûr", "Mübtedâ", "Fâil", "Sıfat"], "dogruIndeks": 0, "aciklama": "بِـ + الَّتِي → mahallen mecrûr!" },
+        { "id": "m19_g5_t09", "tip": "donusturme", "soru": "«فَازَ الَّذِي اجْتَهَدَ.» cümlesini çoğul erile çevirin:", "secenekler": ["فَازَ الَّذِينَ اجْتَهَدُوا.", "فَازُوا الَّذِينَ اجْتَهَدُوا.", "فَازَ الَّذُونَ اجْتَهَدُوا.", "فَازَ الَّذِينَ اجْتَهَدَ."], "dogruIndeks": 0, "aciklama": "Açık fâilden (الَّذِينَ) önce fiil tekil (فَازَ) kalır; sıla fiili çoğul olur (اِجْتَهَدُوا)!" },
+        { "id": "m19_g5_t10", "tip": "bosluk", "soru": "«مِنْ حَقِّ الَّذِينَ تَعِبُوا أَنْ يَفْرَحُوا بِالنَّتِيجَةِ.» cümlesinde «الَّذِينَ» hangi görevdedir?", "secenekler": ["Muzâfun ileyh (mahallen mecrûr — حَقِّ kelimesine izâfet!)", "Fâil", "Haber", "Mef'ûlün bih"], "dogruIndeks": 0, "aciklama": "حَقِّ (muzâf) + الَّذِينَ (mahallen mecrûr muzâfun ileyh: 'yorulanların hakkı')!" }
+      ]
+    }
+  ],
+  "workshop": {
+    "motors": [
+      {
+        "id": "m19_mot1",
+        "baslik": "Kalıp 1: Cinsiyet & Sayı Uyumlu İsm-i Mevsûl Köprüsü",
+        "aciklama": "Marife özneyi doğru ism-i mevsûl + sıla cümlesiyle eşleştirin.",
+        "slotlar": [
+          {
+            "etiket": "Marife İsim",
+            "secenekler": [
+              { "ar": "الطَّالِبُ", "tr": "Öğrenci (E)" },
+              { "ar": "الطَّالِبَةُ", "tr": "Kız öğrenci (K)" },
+              { "ar": "الْكُتُبُ", "tr": "Kitaplar (Akılsız Ç.!)" },
+              { "ar": "الطَّالِبَانِ", "tr": "İki öğrenci (E-İkil)" },
+              { "ar": "الْمُهَنْدِسُونَ", "tr": "Mühendisler (Ç-E)" },
+              { "ar": "الطَّبِيبَاتُ", "tr": "Kadın doktorlar (Ç-K)" }
+            ]
+          },
+          {
+            "etiket": "Uyumlu İsm-i Mevsûl + Sıla + Haber",
+            "secenekler": [
+              { "ar": "الَّذِي نَجَحَ بِامْتِيَازٍ مَسْرُورٌ جِدًّا.", "tr": "pekiyiyle başaran ... çok mutludur." },
+              { "ar": "الَّتِي أَلْقَتِ الْكَلِمَةَ فَصِيحَةٌ جِدًّا.", "tr": "konuşmayı yapan ... çok fasîhtir." },
+              { "ar": "الَّتِي قَرَأْتُهَا فِي الْعُطْلَةِ شَيِّقَةٌ جِدًّا.", "tr": "tatilde okuduğum ... çok sürükleyicidir." },
+              { "ar": "اللَّذَانِ صَمَّمَا الرُّوبُوتَ عَبْقَرِيَّانِ.", "tr": "robotu tasarlayan ... dâhidirler." },
+              { "ar": "الَّذِينَ بَنَوُا الْجِسْرَ مَاهِرُونَ جِدًّا.", "tr": "köprüyü inşa eden ... çok ustadırlar." },
+              { "ar": "اللَّاتِي عَالَجْنَ الْمَرْضَى مُخْلِصَاتٌ جِدًّا.", "tr": "hastaları tedavi eden ... çok samimidirler." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m19_mot2",
+        "baslik": "Kalıp 2: Harf-i Cerli Âid Zamir Motoru (فِيهَا / عَنْهُ / بِهِ / عَلَيْهَا)",
+        "aciklama": "Asla unutulmaması gereken harf-i cerli dönüş zamirlerini otomatikleştirin.",
+        "slotlar": [
+          {
+            "etiket": "Marife İsim + İsm-i Mevsûl",
+            "secenekler": [
+              { "ar": "هٰذِهِ هِيَ الْمَدِينَةُ الَّتِي", "tr": "Bu, ... şehir(dir)" },
+              { "ar": "هٰذَا هُوَ الْمَوْضُوعُ الَّذِي", "tr": "Bu, ... konu(dur)" },
+              { "ar": "هٰذَا هُوَ الْقَلَمُ الَّذِي", "tr": "Bu, ... kalem(dir)" },
+              { "ar": "هٰذِهِ هِيَ الْأَهْدَافُ الَّتِي", "tr": "Bunlar, ... hedefler(dir)" },
+              { "ar": "هَؤُلَاءِ هُمُ الْأَصْدِقَاءُ الَّذِينَ", "tr": "Bunlar, ... arkadaşlar(dır)" },
+              { "ar": "هٰذِهِ هِيَ الْقَاعَةُ الَّتِي", "tr": "Bu, ... salon(dur)" }
+            ]
+          },
+          {
+            "etiket": "Harf-i Cerli Âid Zamirli Sıla",
+            "secenekler": [
+              { "ar": "وُلِدْتُ فِيهَا وَقَضَيْتُ فِيهَا طُفُولَتِي.", "tr": "içinde doğduğum ve çocukluğumu geçirdiğim." },
+              { "ar": "تَحَدَّثْنَا عَنْهُ فِي النَّدْوَةِ أَمْسِ.", "tr": "dün seminerde hakkında konuştuğumuz." },
+              { "ar": "كَتَبْتُ بِهِ جَمِيعَ مُلَخَّصَاتِي.", "tr": "kendisiyle tüm özetlerimi yazdığım." },
+              { "ar": "نَسْعَى إِلَيْهَا بِكُلِّ جِدٍّ وَإِخْلَاصٍ.", "tr": "tüm ciddiyet ve samimiyetle yöneldiğimiz." },
+              { "ar": "أَثِقُ بِهِمْ وَأَعْتَمِدُ عَلَيْهِمْ دَائِمًا.", "tr": "kendilerine güvendiğim ve daima dayandığım." },
+              { "ar": "عُقِدَ فِيهَا الْمُؤْتَمَرُ الدَّوْلِيُّ.", "tr": "içinde uluslararası konferansın yapıldığı." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m19_mot3",
+        "baslik": "Kalıp 3: Müşterek İsm-i Mevsûl (مَنْ & مَا) Hikmet Motoru",
+        "aciklama": "مَنْ (insan) ve مَا (şey) ile özlü ve güçlü cümleler kurun.",
+        "slotlar": [
+          {
+            "etiket": "Fiil + مَنْ / مَا",
+            "secenekler": [
+              { "ar": "أَحْتَرِمُ مَنْ", "tr": "... kimseye saygı duyarım" },
+              { "ar": "سَاعِدْ مَنْ", "tr": "... kimseye yardım et" },
+              { "ar": "اُكْتُبْ مَا", "tr": "... şeyi yaz" },
+              { "ar": "اِبْتَعِدْ عَمَّا", "tr": "... şeyden uzak dur" },
+              { "ar": "اِسْتَفَدْتُ مِمَّا", "tr": "... şeyden faydalandım" },
+              { "ar": "أَنَا رَاضٍ بِمَا", "tr": "... şeyden razıyım" }
+            ]
+          },
+          {
+            "etiket": "Sıla Cümlesi",
+            "secenekler": [
+              { "ar": "يَصْدُقُ فِي أَقْوَالِهِ وَأَفْعَالِهِ.", "tr": "sözlerinde ve fiillerinde doğru olan." },
+              { "ar": "يَحْتَاجُ إِلَى مُسَاعَدَتِكَ فِي وَقْتِ الشِّدَّةِ.", "tr": "dar zamanda yardımına ihtiyaç duyan." },
+              { "ar": "تَعَلَّمْتَهُ الْيَوْمَ فِي دَفْتَرِكَ الْمُخَصَّصِ.", "tr": "bugün öğrendiğin (şeyi) özel defterine." },
+              { "ar": "يُضَيِّعُ وَقْتَكَ وَيُضْعِفُ تَرْكِيزَكَ.", "tr": "vaktini harcayan ve odağını zayıflatan." },
+              { "ar": "سَمِعْتُهُ فِي الْمُحَاضَرَةِ الْعِلْمِيَّةِ الْيَوْمَ.", "tr": "bugünkü bilimsel konferansta duyduğum." },
+              { "ar": "حَقَّقْنَاهُ مِنْ نَجَاحٍ بِفَضْلِ التَّعَاوُنِ.", "tr": "iş birliği sayesinde elde ettiğimiz başarıdan." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m19_mot4",
+        "baslik": "Kalıp 4: İkil İsm-i Mevsûl İ'rab Motoru (اللَّذَانِ / اللَّذَيْنِ — اللَّتَانِ / اللَّتَيْنِ)",
+        "aciklama": "Fiil/harf-i cere göre doğru ikil ism-i mevsûlü seçip i'rabı pekiştirin.",
+        "slotlar": [
+          {
+            "etiket": "Giriş (Ref' / Nasb / Cer)",
+            "secenekler": [
+              { "ar": "فَازَ الطَّالِبَانِ", "tr": "İki öğrenci kazandı (Ref' E)" },
+              { "ar": "كَرَّمْتُ الطَّالِبَيْنِ", "tr": "İki öğrenciyi ödüllendirdim (Nasb E)" },
+              { "ar": "سَلَّمْتُ عَلَى الطَّالِبَيْنِ", "tr": "İki öğrenciye selam verdim (Cer E)" },
+              { "ar": "جَاءَتِ الطَّالِبَتَانِ", "tr": "İki kız öğrenci geldi (Ref' K)" },
+              { "ar": "قَابَلْتُ الطَّالِبَتَيْنِ", "tr": "İki kız öğrenciyle görüştüm (Nasb K)" },
+              { "ar": "أُعْجِبْتُ بِالْمَقَالَتَيْنِ", "tr": "İki makaleye hayran kaldım (Cer K)" }
+            ]
+          },
+          {
+            "etiket": "Uyumlu İkil İsm-i Mevsûl + Sıla",
+            "secenekler": [
+              { "ar": "اللَّذَانِ ابْتَكَرَا النِّظَامَ الذَّكِيَّ.", "tr": "akıllı sistemi icat eden (Ref' E)." },
+              { "ar": "اللَّذَيْنِ تَفَوَّقَا فِي الْمُسَابَقَةِ الدَّوْلِيَّةِ.", "tr": "uluslararası yarışmada üstün gelen (Nasb E)." },
+              { "ar": "اللَّذَيْنِ شَارَكَا فِي النَّدْوَةِ الْأَدَبِيَّةِ.", "tr": "edebiyat seminerine katılan (Cer E)." },
+              { "ar": "اللَّتَانِ حَصَلَتَا عَلَى الْمِنْحَةِ الْجَامِعِيَّةِ.", "tr": "üniversite bursunu kazanan (Ref' K)." },
+              { "ar": "اللَّتَيْنِ كَتَبَتَا التَّقْرِيرَ الْعِلْمِيَّ.", "tr": "bilimsel raporu yazan (Nasb K)." },
+              { "ar": "اللَّتَيْنِ نُشِرَتَا فِي الصَّحِيفَةِ الْيَوْمَ.", "tr": "bugün gazetede yayımlanan (Cer K)." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m19_mot5",
+        "baslik": "Kalıp 5: YDS Akademik Sonuç & Bağlantı Motoru (مِمَّا / فِيمَا / بِمَا أَنَّ)",
+        "aciklama": "YDS ve YÖKDİL makalelerinin omurgası olan مِمَّا / فِيمَا kalıplarını üretin.",
+        "slotlar": [
+          {
+            "etiket": "Olay / Gözlem",
+            "secenekler": [
+              { "ar": "اِرْتَفَعَتْ جَوْدَةُ التَّعْلِيمِ،", "tr": "Eğitimin kalitesi yükseldi," },
+              { "ar": "اِزْدَادَ اسْتِخْدَامُ الطَّاقَةِ النَّظِيفَةِ،", "tr": "Temiz enerji kullanımı arttı," },
+              { "ar": "نَقَصَتْ كَمِّيَّةُ الْأَمْطَارِ هٰذَا الْعَامَ،", "tr": "Bu yıl yağmur miktarı azaldı," },
+              { "ar": "تَطَوَّرَتْ وَسَائِلُ التَّوَاصُلِ الْحَدِيثَةُ،", "tr": "Modern iletişim araçları gelişti," },
+              { "ar": "تَعَاوَنَتِ الْجَامِعَاتُ فِي الْبَحْثِ الْعِلْمِيِّ،", "tr": "Üniversiteler bilimsel araştırmada iş birliği yaptı," },
+              { "ar": "اِهْتَمَّتِ الْمَدِينَةُ بِالْمِسَاحَاتِ الْخَضْرَاءِ،", "tr": "Şehir yeşil alanlara önem verdi," }
+            ]
+          },
+          {
+            "etiket": "مِمَّا + Akademik Sonuç",
+            "secenekler": [
+              { "ar": "مِمَّا أَدَّى إِلَى تَحَسُّنِ نَتَائِجِ الطُّلَّابِ.", "tr": "ki bu da öğrenci sonuçlarının iyileşmesine yol açtı." },
+              { "ar": "مِمَّا سَاهَمَ فِي تَقْلِيلِ التَّلَوُّثِ الْبِيئِيِّ.", "tr": "ki bu da çevre kirliliğinin azalmasına katkı sağladı." },
+              { "ar": "مِمَّا أَثَّرَ سَلْبًا عَلَى الْإِنْتَاجِ الزِّرَاعِيِّ.", "tr": "ki bu da tarımsal üretimi olumsuz etkiledi." },
+              { "ar": "مِمَّا سَهَّلَ تَبَادُلَ الْمَعْلُومَاتِ بَيْنَ الْبُلْدَانِ.", "tr": "ki bu da ülkeler arasında bilgi paylaşımını kolaylaştırdı." },
+              { "ar": "مِمَّا أَثْمَرَ عَنْ اخْتِرَاعَاتٍ نَافِعَةٍ جِدًّا.", "tr": "ki bu da çok faydalı icatlar doğurdu." },
+              { "ar": "مِمَّا جَعَلَ الْهَوَاءَ أَنْقَى وَأَجْمَلَ.", "tr": "ki bu da havayı daha temiz ve güzel kıldı." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m19_mot6",
+        "baslik": "Kalıp 6: Vurgulu İsim Cümlesi Motoru (هُوَ الَّذِي / هِيَ الَّتِي / هُمُ الَّذِينَ)",
+        "aciklama": "Fasıl zamiri + ism-i mevsûlle özneyi güçlü biçimde vurgulayan cümleler kurun.",
+        "slotlar": [
+          {
+            "etiket": "Özne + Fasıl Zamiri",
+            "secenekler": [
+              { "ar": "اَلْعِلْمُ هُوَ الَّذِي", "tr": "İlim(dir) ... olan!" },
+              { "ar": "اَلْقِرَاءَةُ هِيَ الَّتِي", "tr": "Okuma(dır) ... olan!" },
+              { "ar": "اَلصَّبْرُ هُوَ الَّذِي", "tr": "Sabır(dır) ... olan!" },
+              { "ar": "اَلْمُعَلِّمُونَ هُمُ الَّذِينَ", "tr": "Öğretmenler(dir) ... olan!" },
+              { "ar": "اَلْأُمَّهَاتُ هُنَّ اللَّاتِي", "tr": "Anneler(dir) ... olan!" },
+              { "ar": "اَلْأَمَانَةُ هِيَ الَّتِي", "tr": "Güvenilirlik(tir) ... olan!" }
+            ]
+          },
+          {
+            "etiket": "Güçlü Sıla Cümlesi",
+            "secenekler": [
+              { "ar": "يَرْفَعُ شَأْنَ الْأُمَمِ وَيَبْنِي الْحَضَارَاتِ.", "tr": "milletlerin değerini yükselten ve medeniyetleri inşa eden." },
+              { "ar": "تَفْتَحُ أَبْوَابَ الْمَعْرِفَةِ وَالْحِكْمَةِ.", "tr": "bilgi ve hikmet kapılarını açan." },
+              { "ar": "يُحَوِّلُ الصُّعُوبَاتِ إِلَى فُرَصٍ لِلنَّجَاحِ.", "tr": "zorlukları başarı fırsatlarına dönüştüren." },
+              { "ar": "يَصْنَعُونَ أَجْيَالَ الْمُسْتَقْبَلِ بِعِلْمِهِمْ.", "tr": "ilimleriyle geleceğin nesillerini yetiştiren." },
+              { "ar": "يَغْرِسْنَ الْقِيَمَ النَّبِيلَةَ فِي قُلُوبِ الْأَبْنَاءِ.", "tr": "evlatların kalplerine asil değerleri eken." },
+              { "ar": "تَكْسِبُ ثِقَةَ النَّاسِ وَاحْتِرَامَهُمْ دَائِمًا.", "tr": "insanların güvenini ve saygısını daima kazanan." }
+            ]
+          }
+        ]
+      }
+    ],
+    "merdivenler": [
+      {
+        "id": "m19_lad1",
+        "baslik": "A1 → B2 Merdiveni: Tekil Mevsûlden Akademik Uzun Cümleye",
+        "adimlar": [
+          { "seviye": "A1", "ar": "اَلْكِتَابُ الَّذِي قَرَأْتُهُ مُفِيدٌ.", "okunus": "El-kitâbu'llezî kara'tuhu mufîdun.", "tr": "Okuduğum kitap faydalıdır.", "ekleme": "الَّذِي + nesne âid zamiri (ـهُ)" },
+          { "seviye": "A1+", "ar": "اَلْكُتُبُ الَّتِي قَرَأْتُهَا هٰذَا الشَّهْرَ مُفِيدَةٌ جِدًّا.", "okunus": "El-kutubu'lletî kara'tuhâ hâze'ş-şehra mufîdetun cidden.", "tr": "Bu ay okuduğum kitaplar çok faydalıdır.", "ekleme": "Akılsız çoğul → الَّتِي + ـهَا!" },
+          { "seviye": "A2", "ar": "اَلْكُتُبُ الَّتِي اسْتَعَرْتُهَا مِنَ الْمَكْتَبَةِ الَّتِي فِي حَيِّنَا غَنِيَّةٌ بِالْمَعْلُومَاتِ.", "okunus": "El-kutubu'lletî'ste‘artuhâ mine'l-mektebeti'lletî fî hayyinâ ganiyyetun bi'l-ma‘lûmâti.", "tr": "Mahallemizdeki kütüphaneden ödünç aldığım kitaplar bilgi bakımından zengindir.", "ekleme": "İç içe 2 الَّتِي (fiil sıla + şibh-i cümle sıla!)" },
+          { "seviye": "B1", "ar": "تَضُمُّ الدِّرَاسَةُ الَّتِي أَعَدَّهَا الْبَاحِثُونَ الَّذِينَ شَارَكُوا فِي الْمُؤْتَمَرِ تَوْصِيَاتٍ عَمَلِيَّةً لِتَطْوِيرِ التَّعْلِيمِ.", "okunus": "Tedummu'd-dirâsetu'lletî e‘addehe'l-bâhisûne'llezîne şârakû fi'l-mu'temeri tevsıyâtin ‘ameliyyeten li-tatvîri't-ta‘lîmi.", "tr": "Konferansa katılan araştırmacıların hazırladığı çalışma, eğitimi geliştirmek için pratik tavsiyeler içermektedir.", "ekleme": "Nesneli (-dığı) + Özneli (-an) zinciri!" },
+          { "seviye": "B2", "ar": "تُعَدُّ الْأَبْحَاثُ الَّتِي تُنْشَرُ فِي الْمَجَلَّاتِ الْمُحَكَّمَةِ الْمَصْدَرَ الْأَسَاسِيَّ الَّذِي يَعْتَمِدُ عَلَيْهِ الْعُلَمَاءُ فِيمَا يَتَعَلَّقُ بِالِاكْتِشَافَاتِ الْحَدِيثَةِ.", "okunus": "Tu‘addu'l-ebhâsu'lletî tunşeru fi'l-mecellâti'l-muhakkemeti'l-masdara'l-esâsiyye'llezî ya‘temidu ‘aleyhi'l-‘ulemâu fîmâ yete‘allaku bi'l-iktişâfâti'l-hadîseti.", "tr": "Hakemli dergilerde yayımlanan araştırmalar, bilim insanlarının modern keşiflerle ilgili olarak dayandıkları temel kaynak sayılmaktadır.", "ekleme": "الَّتِي + الَّذِي + عَلَيْهِ + فِيمَا يَتَعَلَّقُ بِـ (tam YDS B2!)" }
+        ]
+      },
+      {
+        "id": "m19_lad2",
+        "baslik": "A1 → B2 Merdiveni: مَنْ & مَا ve مِمَّا Akademik Yapısı",
+        "adimlar": [
+          { "seviye": "A1", "ar": "أُحِبُّ مَنْ يَصْدُقُ.", "okunus": "Uhibbu men yasduku.", "tr": "Doğru söyleyen kimseyi severim.", "ekleme": "Müşterek مَنْ" },
+          { "seviye": "A1+", "ar": "اِفْعَلْ مَا تَسْتَطِيعُ، وَسَاعِدْ مَنْ يَحْتَاجُ إِلَيْكَ!", "okunus": "İf‘al mâ testatî‘u, ve sâ‘id men yahtâcu ileyke!", "tr": "Yapabildiğini yap ve sana ihtiyaç duyana yardım et!", "ekleme": "مَا (şey) + مَنْ (insan)" },
+          { "seviye": "A2", "ar": "اِسْتَفَدْتُ كَثِيرًا مِمَّا سَمِعْتُهُ فِي الْمُحَاضَرَةِ، وَابْتَعَدْتُ عَمَّا لَا يَنْفَعُ.", "okunus": "İstefedtu kesîran mimmâ semi‘tuhu fi'l-muhâdarati, vebte‘adtu ‘ammâ lâ yenfe‘u.", "tr": "Konferansta duyduklarımdan çok faydalandım ve faydasız şeylerden uzak durdum.", "ekleme": "مِمَّا + عَمَّا (elifli mevsûller!)" },
+          { "seviye": "B1", "ar": "تَعَاوَنَ أَهْلُ الْحَيِّ فِي تَنْظِيفِ الْحَدِيقَةِ، مِمَّا جَعَلَ الْمَكَانَ أَجْمَلَ وَأَنْظَفَ لِجَمِيعِ الْأَطْفَالِ.", "okunus": "Te‘âvene ehlu'l-hayyi fî tenzîfi'l-hadîkati, mimmâ ce‘ale'l-mekâne ecmele ve enzafe li-cemî‘i'l-atfâli.", "tr": "Mahalle sakinleri parkı temizlemede yardımlaştılar, ki bu da mekânı tüm çocuklar için daha güzel ve temiz kıldı.", "ekleme": "مِمَّا جَعَلَ ('ki bu da ... kıldı')" },
+          { "seviye": "B2", "ar": "بِمَا أَنَّ التَّقَدُّمَ التِّقْنِيَّ يَتَسَارَعُ بِشَكْلٍ غَيْرِ مَسْبُوقٍ، فَإِنَّ هُنَاكَ مَنْ يَرَى ضَرُورَةَ تَحْدِيثِ الْمَنَاهِجِ، مِمَّا يُؤَهِّلُ الشَّبَابَ لِلْمُسْتَقْبَلِ.", "okunus": "Bimâ enne't-tekaddume't-tikniyye yetesâra‘u bi-şeklin gayri mesbûkın, fe-inne hunâke men yerâ darûrate tahdîsi'l-menâhici, mimmâ yuehhilu'ş-şebâbe li'l-mustakbeli.", "tr": "Teknolojik ilerleme görülmemiş bir hızla arttığına göre, müfredatların güncellenmesi gerektiğini düşünenler vardır; ki bu da gençleri geleceğe hazırlar.", "ekleme": "بِمَا أَنَّ + هُنَاكَ مَنْ + مِمَّا (3 YDS kalıbı tek cümlede!)" }
+        ]
+      },
+      {
+        "id": "m19_lad3",
+        "baslik": "A1 → B2 Merdiveni: İkil İsm-i Mevsûl (اللَّذَانِ / اللَّذَيْنِ) Ustalığı",
+        "adimlar": [
+          { "seviye": "A1", "ar": "جَاءَ الطَّالِبَانِ اللَّذَانِ نَجَحَا.", "okunus": "Câe't-tâlibâni'llezâni necehâ.", "tr": "Başarılı olan iki öğrenci geldi.", "ekleme": "İkil ref': اللَّذَانِ" },
+          { "seviye": "A1+", "ar": "رَأَيْتُ الطَّالِبَيْنِ اللَّذَيْنِ نَجَحَا فِي الِامْتِحَانِ.", "okunus": "Raeytu't-tâlibeyni'llezeyni necehâ fi'l-imtihâni.", "tr": "Sınavda başarılı olan iki öğrenciyi gördüm.", "ekleme": "İkil nasb: اللَّذَيْنِ" },
+          { "seviye": "A2", "ar": "سَلَّمْتُ عَلَى الطَّالِبَتَيْنِ اللَّتَيْنِ فَازَتَا بِالْمَرْكَزِ الْأَوَّلِ فِي الْمُسَابَقَةِ.", "okunus": "Sellemtu ‘ale't-tâlibeteyni'lleteyni fâzetâ bi'l-merkezi'l-evveli fi'l-musâbakati.", "tr": "Yarışmada birincilik kazanan iki kız öğrenciye selam verdim.", "ekleme": "İkil dişil cer: اللَّتَيْنِ" },
+          { "seviye": "B1", "ar": "إِنَّ اللَّذَيْنِ ابْتَكَرَا هٰذَا الْجِهَازَ الطِّبِّيَّ هُمَا اللَّذَانِ حَصَلَا عَلَى جَائِزَةِ الْعَامِ.", "okunus": "İnne'llezeyni'btekarâ hâze'l-cihâze't-tıbbiyye hume'llezâni hasalâ ‘alâ câizeti'l-‘âmi.", "tr": "Şüphesiz bu tıbbi cihazı icat eden o iki kişi, yılın ödülünü alan o iki kişidir.", "ekleme": "إِنَّ اللَّذَيْنِ (nasb) + هُمَا اللَّذَانِ (ref')!" },
+          { "seviye": "B2", "ar": "تَضُمُّ الِاتِّفَاقِيَّةُ بَنْدَيْنِ رَئِيسِيَّيْنِ، وَاللَّذَانِ يُنَظِّمَانِ التَّبَادُلَ الْعِلْمِيَّ وَيَضْمَنَانِ حُقُوقَ الْبَاحِثِينَ الَّذِينَ يُشَارِكُونَ فِي الْمَشْرُوعِ.", "okunus": "Tedummu'ttifâkıyyetu bendeyni raîsiyyeyni, ve'llezâni yunazzimâni't-tebâdule'l-‘ilmiyye ve yadmenâni hukûka'l-bâhisîne'llezîne yuşârikûne fi'l-meşrû‘i.", "tr": "Anlaşma, bilimsel değişimi düzenleyen ve projeye katılan araştırmacıların haklarını güvence altına alan iki ana madde içermektedir.", "ekleme": "İkil + çoğul mevsûl hukuk/akademi cümlesi!" }
+        ]
+      },
+      {
+        "id": "m19_lad4",
+        "baslik": "A1 → B2 Merdiveni: İsim Cümlesi Sıla & Vurgulu Anlatım",
+        "adimlar": [
+          { "seviye": "A1", "ar": "هٰذَا الطَّالِبُ الَّذِي أَبُوهُ طَبِيبٌ.", "okunus": "Hâze't-tâlibu'llezî ebûhu tabîbun.", "tr": "Bu, babası doktor olan öğrencidir.", "ekleme": "İsim cümlesi sıla (أَبُوهُ طَبِيبٌ)" },
+          { "seviye": "A1+", "ar": "قَابَلْتُ الْعَالِمَ الَّذِي كُتُبُهُ مَشْهُورَةٌ فِي كُلِّ مَكَانٍ.", "okunus": "Kâbeltu'l-‘âlime'llezî kutubuhu meşhûratun fî kulli mekânin.", "tr": "Kitapları her yerde meşhur olan âlimle görüştüm.", "ekleme": "İsim cümlesi sıla + âid zamir (ـهُ)" },
+          { "seviye": "A2", "ar": "أُعْجِبْتُ بِالْمَدِينَةِ الَّتِي شَوَارِعُهَا نَظِيفَةٌ وَأَهْلُهَا كُرَمَاءُ.", "okunus": "U‘cibtu bi'l-medîneti'lletî şevâri‘uhâ nazîfatun ve ehluhâ kuremâu.", "tr": "Sokakları temiz ve halkı cömert olan şehre hayran kaldım.", "ekleme": "Çift isim cümlesi sıla (شَوَارِعُهَا / أَهْلُهَا)" },
+          { "seviye": "B1", "ar": "اَلْأُسْتَاذُ هُوَ الَّذِي تَأْثِيرُهُ يَبْقَى فِي حَيَاةِ طُلَّابِهِ مَدَى الْعُمْرِ.", "okunus": "El-ustâzu huve'llezî te'sîruhu yebkâ fî hayâti tullâbihi mede'l-‘umri.", "tr": "Etkisi öğrencilerinin hayatında ömür boyu kalan kişi öğretmendir.", "ekleme": "Vurgulu هُوَ الَّذِي + isim cümlesi sıla" },
+          { "seviye": "B2", "ar": "إِنَّ الْمُؤَسَّسَاتِ الَّتِي رُؤْيَتُهَا وَاضِحَةٌ وَقِيَمُهَا رَاسِخَةٌ هِيَ الَّتِي تَصْمُدُ أَمَامَ التَّحَدِّيَاتِ الِاقْتِصَادِيَّةِ الْمُتَغَيِّرَةِ.", "okunus": "İnne'l-muessesâti'lletî ru'yetuhâ vâdihatun ve kıyemuhâ râsihatun hiye'lletî tasmudu emâme't-tehaddiyâti'l-iktisâdiyyeti'l-mutegayyirati.", "tr": "Vizyonu net ve değerleri köklü olan kurumlar, değişen ekonomik zorluklar karşısında ayakta kalanlardır.", "ekleme": "İki الَّتِي + isim cümlesi sıla + vurgulu haber!" }
+        ]
+      }
+    ],
+    "bloklar": [
+      { "id": "m19_b01", "hedefAr": "اَلْكِتَابُ الَّذِي قَرَأْتُهُ مُفِيدٌ جِدًّا", "tr": "Okuduğum kitap çok faydalıdır.", "karisik": ["جِدًّا", "قَرَأْتُهُ", "اَلْكِتَابُ", "مُفِيدٌ", "الَّذِي"] },
+      { "id": "m19_b02", "hedefAr": "اَلْكُتُبُ الَّتِي قَرَأْتُهَا شَيِّقَةٌ جِدًّا", "tr": "Okuduğum kitaplar çok sürükleyicidir.", "karisik": ["جِدًّا", "قَرَأْتُهَا", "اَلْكُتُبُ", "شَيِّقَةٌ", "الَّتِي"] },
+      { "id": "m19_b03", "hedefAr": "هٰذِهِ الْمَدِينَةُ الَّتِي وُلِدْتُ فِيهَا", "tr": "İçinde doğduğum şehir budur.", "karisik": ["فِيهَا", "الْمَدِينَةُ", "هٰذِهِ", "وُلِدْتُ", "الَّتِي"] },
+      { "id": "m19_b04", "hedefAr": "هٰذَا الْمَوْضُوعُ الَّذِي تَحَدَّثْنَا عَنْهُ", "tr": "Hakkında konuştuğumuz konu budur.", "karisik": ["عَنْهُ", "الْمَوْضُوعُ", "هٰذَا", "تَحَدَّثْنَا", "الَّذِي"] },
+      { "id": "m19_b05", "hedefAr": "جَاءَ الطَّالِبَانِ اللَّذَانِ فَازَا بِالْجَائِزَةِ", "tr": "Ödülü kazanan iki öğrenci geldi.", "karisik": ["بِالْجَائِزَةِ", "اللَّذَانِ", "جَاءَ", "فَازَا", "الطَّالِبَانِ"] },
+      { "id": "m19_b06", "hedefAr": "كَرَّمَ الْمُدِيرُ الطَّالِبَيْنِ اللَّذَيْنِ تَفَوَّقَا", "tr": "Müdür üstün başarılı olan iki öğrenciyi ödüllendirdi.", "karisik": ["تَفَوَّقَا", "الطَّالِبَيْنِ", "كَرَّمَ", "اللَّذَيْنِ", "الْمُدِيرُ"] },
+      { "id": "m19_b07", "hedefAr": "سَلَّمْتُ عَلَى الطَّالِبَتَيْنِ اللَّتَيْنِ نَجَحَتَا", "tr": "Başarılı olan iki kız öğrenciye selam verdim.", "karisik": ["نَجَحَتَا", "الطَّالِبَتَيْنِ", "سَلَّمْتُ", "اللَّتَيْنِ", "عَلَى"] },
+      { "id": "m19_b08", "hedefAr": "أُقَدِّرُ الْعُلَمَاءَ الَّذِينَ خَدَمُوا الْإِنْسَانِيَّةَ", "tr": "İnsanlığa hizmet eden âlimleri takdir ederim.", "karisik": ["الْإِنْسَانِيَّةَ", "الَّذِينَ", "أُقَدِّرُ", "خَدَمُوا", "الْعُلَمَاءَ"] },
+      { "id": "m19_b09", "hedefAr": "أَحْتَرِمُ الطَّبِيبَاتِ اللَّاتِي عَالَجْنَ الْمَرْضَى", "tr": "Hastaları tedavi eden kadın doktorlara saygı duyarım.", "karisik": ["الْمَرْضَى", "اللَّاتِي", "أَحْتَرِمُ", "عَالَجْنَ", "الطَّبِيبَاتِ"] },
+      { "id": "m19_b10", "hedefAr": "سَاعِدْ مَنْ يَحْتَاجُ إِلَى مُسَاعَدَتِكَ", "tr": "Yardımına ihtiyaç duyan kimseye yardım et.", "karisik": ["مُسَاعَدَتِكَ", "يَحْتَاجُ", "سَاعِدْ", "إِلَى", "مَنْ"] },
+      { "id": "m19_b11", "hedefAr": "لَا تَقُلْ مَا لَا تَعْلَمُ", "tr": "Bilmediğin şeyi söyleme.", "karisik": ["تَعْلَمُ", "مَا", "لَا", "لَا", "تَقُلْ"] },
+      { "id": "m19_b12", "hedefAr": "اِبْتَعِدْ عَمَّا يَضُرُّ صِحَّتَكَ دَائِمًا", "tr": "Sağlığına zarar veren şeyden daima uzak dur.", "karisik": ["دَائِمًا", "يَضُرُّ", "اِبْتَعِدْ", "صِحَّتَكَ", "عَمَّا"] },
+      { "id": "m19_b13", "hedefAr": "اِسْتَفَدْتُ كَثِيرًا مِمَّا قَرَأْتُهُ الْيَوْمَ", "tr": "Bugün okuduğum şeylerden çok faydalandım.", "karisik": ["الْيَوْمَ", "مِمَّا", "اِسْتَفَدْتُ", "قَرَأْتُهُ", "كَثِيرًا"] },
+      { "id": "m19_b14", "hedefAr": "فَازَ الَّذِينَ صَبَرُوا عَلَى الصُّعُوبَاتِ", "tr": "Zorluklara sabredenler kazandı.", "karisik": ["الصُّعُوبَاتِ", "صَبَرُوا", "فَازَ", "عَلَى", "الَّذِينَ"] },
+      { "id": "m19_b15", "hedefAr": "قَابَلْتُ الطَّالِبَ الَّذِي أَبُوهُ طَبِيبٌ", "tr": "Babası doktor olan öğrenciyle görüştüm.", "karisik": ["طَبِيبٌ", "الَّذِي", "قَابَلْتُ", "أَبُوهُ", "الطَّالِبَ"] }
+    ]
+  },
+  "readings": [
+    {
+      "id": "m19_r1",
+      "baslik": "Şehrin Kalbindeki Tarihî Kütüphane ve Okurları",
+      "arBaslik": "الْمَكْتَبَةُ التَّارِيخِيَّةُ الَّتِي فِي قَلْبِ الْمَدِينَةِ",
+      "seviye": "A2",
+      "paragraflar": [
+        {
+          "ar": "فِي وَسَطِ مَدِينَتِنَا، تُوجَدُ مَكْتَبَةٌ عَرِيقَةٌ يَزُورُهَا الطُّلَّابُ وَالْبَاحِثُونَ كُلَّ يَوْمٍ. اَلْمَبْنَى الَّذِي تَقَعُ فِيهِ الْمَكْتَبَةُ بُنِيَ قَبْلَ ثَلَاثِمِئَةِ عَامٍ، وَالْقَاعَاتُ الَّتِي يَقْرَأُ فِيهَا الزُّوَّارُ تَتَمَيَّزُ بِالنَّوَافِذِ الْوَاسِعَةِ وَالْهُدُوءِ التَّامِّ.",
+          "okunus": "Fî vesatı medînetinâ, tûcedu mektebetun ‘arîkatun yezûruhe't-tullâbu ve'l-bâhisûne kulle yevmin. El-mebne'llezî teka‘u fîhi'l-mektebetu buniye kable selâsimieti ‘âmin, ve'l-kâ‘âtu'lletî yakrau fîhe'z-zuvvâru tetemeyyezu bi'n-nevâfizi'l-vâsi‘ati ve'l-hudûi't-tâmmi.",
+          "tr": "Şehrimizin merkezinde öğrencilerin ve araştırmacıların her gün ziyaret ettiği köklü bir kütüphane bulunuyor. Kütüphanenin içinde bulunduğu bina üç yüz yıl önce inşa edildi ve ziyaretçilerin içinde okuduğu salonlar geniş pencereleri ve tam sakinliğiyle öne çıkıyor.",
+          "analiz": [
+            { "kelime": "الْمَبْنَى الَّذِي تَقَعُ فِيهِ", "kok": "ب ن ي", "gramer": "الَّذِي + harf-i cerli âid zamir (فِيهِ!)", "tr": "içinde bulunduğu bina" },
+            { "kelime": "الْقَاعَاتُ الَّتِي يَقْرَأُ فِيهَا", "kok": "ق و ع", "gramer": "Akılsız çoğul → الَّتِي + فِيهَا!", "tr": "içinde okunan salonlar" }
+          ]
+        },
+        {
+          "ar": "اَلْكُتُبُ النَّادِرَةُ الَّتِي تَضُمُّهَا هٰذِهِ الْمَكْتَبَةُ تَجْذِبُ الْبَاحِثِينَ الَّذِينَ يَأْتُونَ مِنْ دُوَلٍ مُخْتَلِفَةٍ. وَالْأُسْتَاذُ الَّذِي يُدِيرُ قِسْمَ الْمَخْطُوطَاتِ هُوَ الَّذِي أَشْرَفَ عَلَى رَقْمَنَةِ آلَافِ الْوَثَائِقِ التَّارِيخِيَّةِ، مِمَّا سَهَّلَ عَلَى الطُّلَّابِ الْوُصُولَ إِلَيْهَا عَبْرَ الْإِنْتَرْنِتِ!",
+          "okunus": "El-kutubu'n-nâdiratu'lletî tedummuhâ hâzihi'l-mektebetu teczibu'l-bâhisîne'llezîne ye'tûne min duvelin muhtelifetin. Ve'l-ustâzu'llezî yudîru kisme'l-mahtûtâti huve'llezî eşrafa ‘alâ rakmeneti âlâfi'l-vesâikı't-târîhiyyeti, mimmâ sehhele ‘ale't-tullâbi'l-vusûle ileyhâ ‘abra'l-intirnit!",
+          "tr": "Bu kütüphanenin barındırdığı nadir kitaplar, farklı ülkelerden gelen araştırmacıları çekmektedir. El yazmaları bölümünü yöneten hoca, binlerce tarihî belgenin dijitalleştirilmesine nezaret eden kişidir; ki bu da öğrencilerin onlara internet üzerinden ulaşmasını kolaylaştırmıştır!",
+          "analiz": [
+            { "kelime": "الْكُتُبُ ... الَّتِي تَضُمُّهَا", "kok": "ض م م", "gramer": "Akılsız çoğul + nesne âid zamiri (ـهَا)", "tr": "barındırdığı kitaplar" },
+            { "kelime": "مِمَّا سَهَّلَ", "kok": "س ه ل", "gramer": "Akademik sonuç bağlacı ('ki bu da kolaylaştırdı')", "tr": "ki bu da kolaylaştırdı" }
+          ]
+        },
+        {
+          "ar": "فِي الْأُسْبُوعِ الْمَاضِي، قَابَلْتُ الطَّالِبَيْنِ اللَّذَيْنِ أَعَدَّا بَحْثًا عَنِ الْخَطِّ الْعَرَبِيِّ، كَمَا تَحَدَّثْتُ مَعَ الْبَاحِثَتَيْنِ اللَّتَيْنِ تُتَرْجِمَانِ مَخْطُوطَةً طِبِّيَّةً قَدِيمَةً. وَسَأَلْتُهُمْ عَمَّا وَجَدُوهُ مِنْ فَوَائِدَ فِي هٰذَا الْمَكَانِ السَّاحِرِ.",
+          "okunus": "Fi'l-usbû‘i'l-mâdî, kâbeltu't-tâlibeyni'llezeyni e‘addâ bahsen ‘ani'l-hatti'l-‘arabiyyi, kemâ tehaddeştu me‘a'l-bâhiseteyni'lleteyni tutercimâni mahtûtaten tıbbiyyeten kadîmeten. Ve seeltuhum ‘ammâ vecedûhu min fevâide fî hâze'l-mekâni's-sâhiri.",
+          "tr": "Geçen hafta Arap hat sanatı hakkında araştırma hazırlayan iki öğrenciyle görüştüm; ayrıca eski bir tıp el yazmasını tercüme eden iki kadın araştırmacıyla konuştum. Onlara bu büyüleyici mekânda buldukları faydalar hakkında sordum.",
+          "analiz": [
+            { "kelime": "الطَّالِبَيْنِ اللَّذَيْنِ / الْبَاحِثَتَيْنِ اللَّتَيْنِ", "kok": "ب ح ث", "gramer": "İkil nasb & cer ism-i mevsûller (ي ile!)", "tr": "iki öğrenci / iki kadın araştırmacı" },
+            { "kelime": "عَمَّا وَجَدُوهُ", "kok": "و ج د", "gramer": "عَنْ + مَا (elifli ism-i mevsûl!)", "tr": "buldukları şey hakkında" }
+          ]
+        },
+        {
+          "ar": "أَجَابَ الْجَمِيعُ بِكَلِمَةٍ وَاحِدَةٍ: «مَنْ يَدْخُلْ هٰذِهِ الْمَكْتَبَةَ يَشْعُرْ أَنَّهُ بَيْنَ عُقُولِ الْعُلَمَاءِ الَّذِينَ صَنَعُوا التَّارِيخَ!». وَحَقًّا، إِنَّ الْمَكْتَبَاتِ هِيَ الَّتِي تَحْفَظُ ذَاكِرَةَ الْأُمَمِ وَتَنْقُلُ مَا أَنْتَجَهُ السَّابِقُونَ إِلَى الْأَجْيَالِ الْقَادِمَةِ!",
+          "okunus": "Ecâbe'l-cemî‘u bi-kelimetin vâhidetin: «Men yedhul hâzihi'l-mektebete yeş‘ur ennehu beyne ‘ukûli'l-‘ulemâi'llezîne sana‘u't-târîha!». Ve hakkan, inne'l-mektebâti hiye'lletî tahfazu zâkirate'l-umemi ve tenkulu mâ entecehu's-sâbikûne ile'l-ecyâli'l-kâdimeti!",
+          "tr": "Herkes tek sözle cevap verdi: 'Kim bu kütüphaneye girerse kendini tarihi inşa eden âlimlerin zihinleri arasında hisseder!'. Gerçekten de milletlerin hafızasını koruyan ve öncekilerin ürettiklerini gelecek nesillere aktaran kütüphanelerdir!",
+          "analiz": [
+            { "kelime": "هِيَ الَّتِي تَحْفَظُ", "kok": "ح ف ظ", "gramer": "Akılsız çoğul (الْمَكْتَبَاتِ) → vurgulu هِيَ الَّتِي!", "tr": "koruyan onlardır" },
+            { "kelime": "مَا أَنْتَجَهُ السَّابِقُونَ", "kok": "ن ت ج", "gramer": "Müşterek مَا ('öncekilerin ürettiği şeyi')", "tr": "öncekilerin ürettiği şey" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m19_r1_q1", "soru": "2. paragrafta el yazmaları bölümünü yöneten hocanın başlattığı dijitalleştirme çalışması neyi kolaylaştırmıştır?", "secenekler": ["Öğrencilerin belgelere internet üzerinden ulaşmasını (مِمَّا سَهَّلَ)", "Bina inşaatını", "Kütüphanenin kapanmasını", "Bilet satışını"], "dogruIndeks": 0, "aciklama": "'مِمَّا سَهَّلَ عَلَى الطُّلَّابِ الْوُصُولَ إِلَيْهَا عَبْرَ الْإِنْتَرْنِتِ!'." },
+        { "id": "m19_r1_q2", "soru": "3. paragraftaki «الطَّالِبَيْنِ اللَّذَيْنِ» ve «الْبَاحِثَتَيْنِ اللَّتَيْنِ» ifadelerinde neden اللَّذَانِ / اللَّتَانِ değil اللَّذَيْنِ / اللَّتَيْنِ kullanılmıştır?", "secenekler": ["İlki mef'ûlün bih (mansub), ikincisi مَعَ sonrası muzâfun ileyh (mecrûr) olduğu için yâ ile gelmişlerdir!", "Çünkü hepsi merfûdur", "Çünkü çoğuldurlar", "Çünkü mebnîdirler"], "dogruIndeks": 0, "aciklama": "İkil ism-i mevsûller nasb ve cerde yâ alır: اللَّذَيْنِ / اللَّتَيْنِ!" },
+        { "id": "m19_r1_q3", "soru": "3. paragraftaki «عَمَّا وَجَدُوهُ» kelimesinde sonda elif bulunmasının sebebi nedir?", "secenekler": ["Soru değil, ism-i mevsûl مَا (عَنْ + مَا = 'buldukları şey hakkında') olduğu için elif korunur!", "Soru cümlesi olduğu için", "Çoğul olduğu için", "Yazım hatasıdır"], "dogruIndeks": 0, "aciklama": "Soru عَمَّ (elifsiz), ism-i mevsûl عَمَّا (elifli)!" },
+        { "id": "m19_r1_q4", "soru": "4. paragraftaki «مَا أَنْتَجَهُ السَّابِقُونَ» ifadesinin doğru Türkçe çevirisi hangisidir?", "secenekler": ["Öncekilerin ürettiği şey (ürettikleri)", "Öncekileri üreten şey", "Gelecek nesiller", "Öncekilerin okumadığı şey"], "dogruIndeks": 0, "aciklama": "السَّابِقُونَ merfû fâil, ـهُ nesne âid zamiri → 'öncekilerin ürettiği şey'!" },
+        { "id": "m19_r1_q5", "soru": "1. paragraftaki «الْقَاعَاتُ الَّتِي يَقْرَأُ فِيهَا الزُّوَّارُ» ifadesinde neden الَّتِي ve فِيهَا kullanılmıştır?", "secenekler": ["الْقَاعَاتُ akılsız çoğul olduğu için hem ism-i mevsûl (الَّتِي) hem âid zamir (فِيهَا) tekil müennes gelir", "الْقَاعَاتُ tekil erildir", "الزُّوَّارُ dişildir", "فِيهَا gereksizdir"], "dogruIndeks": 0, "aciklama": "Akılsız çoğullarda hem mevsûl hem âid zamir tekil müennestir!" }
+      ]
+    },
+    {
+      "id": "m19_r2",
+      "baslik": "Gönüllü Gençlerin Dijital Eğitim Platformu",
+      "arBaslik": "الْمِنَصَّةُ التَّعْلِيمِيَّةُ الَّتِي أَطْلَقَهَا الشَّبَابُ الْمُتَطَوِّعُونَ",
+      "seviye": "A2",
+      "paragraflar": [
+        {
+          "ar": "فِي عَصْرِنَا الْحَاضِرِ، يُعَدُّ التَّعْلِيمُ الرَّقْمِيُّ مِنَ الْفُرَصِ الذَّهَبِيَّةِ الَّتِي غَيَّرَتْ حَيَاةَ الْمَلَايِينِ. قَبْلَ عَامَيْنِ، أَسَّسَتْ مَجْمُوعَةٌ مِنَ الطُّلَّابِ الَّذِينَ يُحِبُّونَ الْعَمَلَ التَّطَوُّعِيَّ مِنَصَّةً مَجَّانِيَّةً لِتَعْلِيمِ اللُّغَاتِ وَالْعُلُومِ.",
+          "okunus": "Fî ‘asrine'l-hâdiri, yu‘addu't-ta‘lîmu'r-rakmiyyu mine'l-furasi'z-zehebiyyeti'lletî gayyerat hayâte'l-melâyîni. Kable ‘âmeyni, esseset mecmû‘atun mine't-tullâbi'llezîne yuhibbûne'l-‘amele't-tetavvu‘iyye minassaten meccâniyyeten li-ta‘lîmi'l-lugâti ve'l-‘ulûmi.",
+          "tr": "Günümüz çağında dijital eğitim, milyonların hayatını değiştiren altın fırsatlardan sayılmaktadır. İki yıl önce gönüllü çalışmayı seven bir grup öğrenci, dil ve bilim öğretimi için ücretsiz bir platform kurdu.",
+          "analiz": [
+            { "kelime": "الْفُرَصِ ... الَّتِي غَيَّرَتْ", "kok": "غ ي ر", "gramer": "Özneli (-an) + akılsız çoğul الَّتِي", "tr": "değiştiren fırsatlar" },
+            { "kelime": "الطُّلَّابِ الَّذِينَ يُحِبُّونَ", "kok": "ح ب ب", "gramer": "Akıllı çoğul eril الَّذِينَ", "tr": "seven öğrenciler" }
+          ]
+        },
+        {
+          "ar": "تَضُمُّ هٰذِهِ الْمِنَصَّةُ الدُّرُوسَ الَّتِي يُسَجِّلُهَا الْمُعَلِّمُونَ الْمُتَطَوِّعُونَ، وَالتَّدْرِيبَاتِ التَّفَاعُلِيَّةَ الَّتِي يَحُلُّهَا الطُّلَّابُ بِأَنْفُسِهِمْ. وَيَسْتَفِيدُ مِنْهَا كُلُّ مَنْ يَرْغَبُ فِي التَّعَلُّمِ، سَوَاءٌ أَكَانَ فِي الْمَدِينَةِ أَمْ فِي الْقُرَى الْبَعِيدَةِ!",
+          "okunus": "Tedummu hâzihi'l-minassatu'd-durûse'lletî yusecciluhe'l-mu‘allimûne'l-mutetavvi‘ûne, ve't-tedrîbâti't-tefâ‘uliyyete'lletî yehulluhe't-tullâbu bi-enfusihim. Ve yestefîdu minhâ kullu men yergabu fi't-ta‘allumi, sevâun e-kâne fi'l-medîneti em fi'l-kura'l-ba‘îdeti!",
+          "tr": "Bu platform gönüllü öğretmenlerin kaydettiği dersleri ve öğrencilerin kendi başlarına çözdüğü etkileşimli alıştırmaları barındırmaktadır. İster şehirde ister uzak köylerde olsun öğrenmek isteyen herkes ondan faydalanmaktadır!",
+          "analiz": [
+            { "kelime": "الدُّرُوسَ الَّتِي يُسَجِّلُهَا الْمُعَلِّمُونَ", "kok": "س ج ل", "gramer": "Nesneli (-dığı): الْمُعَلِّمُونَ fâil, ـهَا âid zamir!", "tr": "öğretmenlerin kaydettiği dersler" },
+            { "kelime": "كُلُّ مَنْ يَرْغَبُ", "kok": "ر غ ب", "gramer": "كُلُّ + مَنْ ('... isteyen herkes')", "tr": "isteyen herkes" }
+          ]
+        },
+        {
+          "ar": "وَالْمُعَلِّمَاتُ اللَّاتِي يُشْرِفْنَ عَلَى قِسْمِ اللُّغَةِ الْعَرَبِيَّةِ أَعْدَدْنَ قِصَصًا مُشَوِّقَةً وَتَسْجِيلَاتٍ صَوْتِيَّةً وَاضِحَةً، مِمَّا شَجَّعَ كَثِيرًا مِنَ الْمُبْتَدِئِينَ عَلَى الِاسْتِمْرَارِ وَعَدَمِ التَّوَقُّفِ!",
+          "okunus": "Ve'l-mu‘allimâtu'llâtî yuşrifne ‘alâ kismi'l-lugati'l-‘arabiyyeti a‘dedne kısasan muşevvikaten ve tescîlâtin savtiyyetin vâdihatin, mimmâ şecca‘a kesîran mine'l-mubtediîne ‘ale'l-istimrâri ve ‘ademi't-tevakkufi!",
+          "tr": "Arapça bölümünü yöneten kadın öğretmenler ilgi çekici hikâyeler ve net ses kayıtları hazırladılar; ki bu da pek çok yeni başlayanı devam etmeye ve bırakmamaya teşvik etti!",
+          "analiz": [
+            { "kelime": "الْمُعَلِّمَاتُ اللَّاتِي يُشْرِفْنَ", "kok": "ش ر ف", "gramer": "Akıllı dişil çoğul (اللَّاتِي) + cem-i müennes fiil!", "tr": "yöneten kadın öğretmenler" },
+            { "kelime": "مِمَّا شَجَّعَ", "kok": "ش ج ع", "gramer": "مِمَّا sonuç bağlacı ('ki bu da teşvik etti')", "tr": "ki bu da teşvik etti" }
+          ]
+        },
+        {
+          "ar": "يَقُولُ الْمُؤَسِّسُونَ فِيمَا يَتَعَلَّقُ بِرُؤْيَتِهِمُ الْمُسْتَقْبَلِيَّةِ: «اَلْعِلْمُ الَّذِي نَتَعَلَّمُهُ يَزْدَادُ بَرَكَةً عِنْدَمَا نُشَارِكُهُ مَعَ الْآخَرِينَ؛ فَمَنْ يُعَلِّمْ غَيْرَهُ يَتَعَلَّمْ مَرَّتَيْنِ!».",
+          "okunus": "Yekûlu'l-muessisûne fîmâ yete‘allaku bi-ru'yetihimu'l-mustakbeliyyeti: «El-‘ilmu'llezî nete‘allemuhu yezdâdu beraketen ‘indemâ nuşârikuhu me‘a'l-âharîne; fe-men yu‘allim gayrahu yete‘allem merrateyni!».",
+          "tr": "Kurucular gelecek vizyonlarıyla ilgili olarak şöyle diyorlar: 'Öğrendiğimiz ilim onu başkalarıyla paylaştığımızda bereket bakımından artar; zira kim başkasına öğretirse iki kez öğrenir!'.",
+          "analiz": [
+            { "kelime": "فِيمَا يَتَعَلَّقُ بِـ", "kok": "ع ل ق", "gramer": "YDS bağlacı ('... ile ilgili olarak')", "tr": "... ile ilgili olarak" },
+            { "kelime": "الْعِلْمُ الَّذِي نَتَعَلَّمُهُ", "kok": "ع ل م", "gramer": "Nesneli mevsûl + ana haber: يَزْدَادُ!", "tr": "öğrendiğimiz ilim" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m19_r2_q1", "soru": "2. paragrafta platformun hangi iki temel içeriği barındırdığı belirtilmiştir?", "secenekler": ["Gönüllü öğretmenlerin kaydettiği dersler ve etkileşimli alıştırmalar", "Yalnızca oyunlar", "Ücretli kitap satışları", "Sadece haberler"], "dogruIndeks": 0, "aciklama": "'الدُّرُوسَ الَّتِي يُسَجِّلُهَا الْمُعَلِّمُونَ ... وَالتَّدْرِيبَاتِ التَّفَاعُلِيَّةَ'." },
+        { "id": "m19_r2_q2", "soru": "2. paragraftaki «الدُّرُوسَ الَّتِي يُسَجِّلُهَا الْمُعَلِّمُونَ» ifadesinin doğru Türkçe çevirisi nedir?", "secenekler": ["Öğretmenlerin kaydettiği dersler", "Öğretmenleri kaydeden dersler", "Derslerin kaydettiği öğretmenler", "Kaydedilecek öğretmenler"], "dogruIndeks": 0, "aciklama": "الْمُعَلِّمُونَ fâildir (merfû), ـهَا (derslere döner) nesnedir → 'Öğretmenlerin kaydettiği dersler'!" },
+        { "id": "m19_r2_q3", "soru": "3. paragrafta «الْمُعَلِّمَاتُ» kelimesinden sonra neden الَّتِي değil اللَّاتِي gelmiştir?", "secenekler": ["الْمُعَلِّمَاتُ akıllı kadın çoğul olduğu için اللَّاتِي / اللَّوَاتِي alır!", "Çünkü tekildir", "Çünkü akılsızdır", "Çünkü erildir"], "dogruIndeks": 0, "aciklama": "Akılsız çoğul → الَّتِي; akıllı kadın çoğul → اللَّاتِي!" },
+        { "id": "m19_r2_q4", "soru": "4. paragraftaki «فِيمَا يَتَعَلَّقُ بِرُؤْيَتِهِمُ» ifadesi Türkçeye nasıl çevrilir?", "secenekler": ["Gelecek vizyonlarıyla ilgili olarak / hususunda", "Vizyonlarından önce", "Vizyonlarına rağmen", "Vizyonları olmadan"], "dogruIndeks": 0, "aciklama": "فِيمَا يَتَعَلَّقُ بِـ = '... ile ilgili olarak'." },
+        { "id": "m19_r2_q5", "soru": "Kuruculara göre ilmin bereketi ne zaman artmaktadır?", "secenekler": ["Onu başkalarıyla paylaştığımızda", "Onu sakladığımızda", "Ders çalışmayı bıraktığımızda", "Yalnızca kitap sattığımızda"], "dogruIndeks": 0, "aciklama": "'يَزْدَادُ بَرَكَةً عِنْدَمَا نُشَارِكُهُ مَعَ الْآخَرِينَ'." }
+      ]
+    },
+    {
+      "id": "m19_r3",
+      "baslik": "Gerçek Dostluk Üzerine Bir Deneme (Bağımsız Mevsûller & Vurgu)",
+      "arBaslik": "الصَّدِيقُ الْحَقِيقِيُّ: مَنْ يَقِفُ بِجَانِبِكَ وَقْتَ الشِّدَّةِ",
+      "seviye": "A2",
+      "paragraflar": [
+        {
+          "ar": "يَقُولُ الْحُكَمَاءُ: اَلصَّدِيقُ الْحَقِيقِيُّ هُوَ الَّذِي تَجِدُهُ بِجَانِبِكَ حِينَ تَشْتَدُّ الْأَزَمَاتُ، لَا الَّذِي يَبْتَسِمُ لَكَ فِي أَيَّامِ الرَّخَاءِ فَقَطْ! وَاَلَّذِينَ يَحْفَظُونَ الْوُدَّ فِي الْغِيَابِ قَبْلَ الْحُضُورِ هُمْ أَغْلَى كَنْزٍ يَمْلِكُهُ الْإِنْسَانُ.",
+          "okunus": "Yekûlu'l-hukemâu: es-sadîku'l-hakîkiyyu huve'llezî teciduhu bi-cânibike hîne teşteddu'l-ezemâtu, le'llezî yebtesimu leke fî eyyâmi'r-rahâi fakat! Ve'llezîne yahfazûne'l-vudde fi'l-giyâbi kable'l-hudûri hum aglâ kenzin yemlikuhu'l-insânu.",
+          "tr": "Bilgeler der ki: Gerçek dost, yalnızca bolluk günlerinde sana gülümseyen değil, krizler şiddetlendiğinde yanında bulduğun kişidir! Ve gıyabında (yokluğunda) da huzurundan önce sevgiyi koruyanlar, insanın sahip olduğu en değerli hazinedir.",
+          "analiz": [
+            { "kelime": "هُوَ الَّذِي تَجِدُهُ", "kok": "و ج د", "gramer": "Vurgulu haber + nesneli âid zamir (ـهُ)", "tr": "bulduğun kişidir" },
+            { "kelime": "الَّذِينَ يَحْفَظُونَ الْوُدَّ", "kok": "ح ف ظ", "gramer": "Bağımsız çoğul mübtedâ ('koruyanlar')!", "tr": "sevgiyi koruyanlar" }
+          ]
+        },
+        {
+          "ar": "فِي حَيَاتِنَا الْيَوْمِيَّةِ، نَلْتَقِي بِأَشْخَاصٍ كَثِيرِينَ، وَلٰكِنَّ الْقَلِيلَ مِنْهُمْ يَسْتَحِقُّ الثِّقَةَ الْكَامِلَةَ. صَاحِبْ مَنْ يُصَحِّحُ خَطَأَكَ بِرِفْقٍ، وَيُشَارِكُكَ فَرَحَكَ بِصِدْقٍ، وَيُشَجِّعُكَ عَلَى كُلِّ مَا يَرْفَعُكَ خُلُقًا وَعِلْمًا!",
+          "okunus": "Fî hayâtine'l-yevmiyyeti, neltekî bi-eşhâsın kesîrîne, ve lâkinne'l-kalîle minhum yestehıkku's-sikate'l-kâmilete. Sâhib men yusahhihu hataeke bi-rifkın, ve yuşârikuke ferahake bi-sıdkın, ve yuşecci‘uke ‘alâ kulli mâ yerfa‘uke hulukan ve ‘ilmen!",
+          "tr": "Günlük hayatımızda pek çok kişiyle karşılaşırız, ancak onlardan azı tam güveni hak eder. Hatanı nezaketle düzelten, sevincini samimiyetle paylaşan ve seni ahlakça ve ilimce yükselten her şeye teşvik eden kimseyle arkadaş ol!",
+          "analiz": [
+            { "kelime": "صَاحِبْ مَنْ يُصَحِّحُ", "kok": "ص ح ب", "gramer": "Müşterek مَنْ (mef'ûlün bih)", "tr": "düzelten kimseyle arkadaş ol" },
+            { "kelime": "كُلِّ مَا يَرْفَعُكَ", "kok": "ر ف ع", "gramer": "كُلِّ + مَا ('seni yükselten her şey')", "tr": "seni yükselten her şey" }
+          ]
+        },
+        {
+          "ar": "وَتَذَكَّرْ أَنَّ الصَّدَاقَةَ لَيْسَتْ أَخْذًا بِلَا عَطَاءٍ! فَبِمَا أَنَّكَ تَتَوَقَّعُ الْوَفَاءَ مِنْ صَدِيقِكَ، يَجِبُ أَنْ تَكُونَ أَنْتَ أَيْضًا الَّذِي يُبَادِرُ بِالسُّؤَالِ وَالْمُسَاعَدَةِ، وَلَا تَبْخَلْ بِكَلِمَةٍ طَيِّبَةٍ تَزْرَعُ الْأَمَلَ فِي قَلْبِهِ.",
+          "okunus": "Ve tezekker enne's-sadâkate leyset ahzen bi-lâ ‘atâin! Fe-bimâ enneke tetevekkau'l-vefâe min sadîkıke, yecibu en tekûne ente eydani'llezî yubâdiru bi's-suâli ve'l-musâ‘adeti, ve lâ tebhal bi-kelimetin tayyibetin tezra‘u'l-emele fî kalbihi.",
+          "tr": "Ve hatırla ki dostluk vermeden almak değildir! Mademki arkadaşından vefa bekliyorsun, hâl hatır sormada ve yardımda ilk adımı atan kişi de sen olmalısın ve onun kalbine umut eken güzel bir sözü esirgeme.",
+          "analiz": [
+            { "kelime": "بِمَا أَنَّكَ", "kok": "ح ر ف", "gramer": "بِمَا أَنَّ ('mademki sen...')", "tr": "mademki sen" },
+            { "kelime": "الَّذِي يُبَادِرُ", "kok": "ب د ر", "gramer": "تَكُونُ'nun haberi (bağımsız mevsûl!)", "tr": "ilk adımı atan kişi" }
+          ]
+        },
+        {
+          "ar": "فَطُوبَى لِمَنْ وَجَدَ رَفِيقًا صَالِحًا يَسِيرُ مَعَهُ فِي طَرِيقِ الْخَيْرِ! فَاللَّذَانِ تَجْمَعُهُمَا الْمَحَبَّةُ الصَّادِقَةُ لَا تُفَرِّقُهُمَا الْأَيَّامُ، وَلَا يُغَيِّرُ وُدَّهُمَا بُعْدُ الْمَسَافَاتِ!",
+          "okunus": "Fe-tûbâ li-men vecede rafîkan sâlihan yesîru me‘ahu fî tarîkı'l-hayri! Fe'llezâni tecme‘uhume'l-mehabbetu's-sâdikatu lâ tuferrikuhume'l-eyyâmu, ve lâ yugayyiru vuddehumâ bu‘du'l-mesâfâti!",
+          "tr": "Hayır yolunda kendisiyle birlikte yürüyen salih bir yoldaş bulan kimseye ne mutlu! Zira samimi sevginin birleştirdiği o iki kişiyi günler ayırmaz ve mesafelerin uzaklığı dostluklarını değiştirmez!",
+          "analiz": [
+            { "kelime": "لِمَنْ وَجَدَ", "kok": "و ج د", "gramer": "لِـ + مَنْ ('bulan kimseye')", "tr": "bulan kimseye" },
+            { "kelime": "فَاللَّذَانِ تَجْمَعُهُمَا", "kok": "ج م ع", "gramer": "Bağımsız ikil mübtedâ (اللَّذَانِ — elif!) + ikil âid zamir (ـهُمَا)", "tr": "birleştirdiği o iki kişi" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m19_r3_q1", "soru": "1. paragrafta bilgeler gerçek dostu nasıl tanımlamaktadır?", "secenekler": ["Yalnızca bollukta gülümseyen değil, krizler şiddetlendiğinde yanında bulduğun kişi", "Sadece aynı okulda okuyan kişi", "Hiç hata söylemeyen kişi", "En zengin kişi"], "dogruIndeks": 0, "aciklama": "'الَّذِي تَجِدُهُ بِجَانِبِكَ حِينَ تَشْتَدُّ الْأَزَمَاتُ'." },
+        { "id": "m19_r3_q2", "soru": "4. paragraftaki «فَاللَّذَانِ تَجْمَعُهُمَا الْمَحَبَّةُ» ifadesinde «اللَّذَانِ» neden elifle gelmiştir?", "secenekler": ["Bağımsız mübtedâ (merfû) olduğu için tesniye gibi elifle ref' olmuştur!", "Mef'ûlün bih olduğu için", "Mecrûr olduğu için", "Mebnî olduğu için"], "dogruIndeks": 0, "aciklama": "İkil ism-i mevsûl mübtedâ konumunda elifle merfû olur: اللَّذَانِ!" },
+        { "id": "m19_r3_q3", "soru": "2. paragrafta nasıl bir kimseyle arkadaş olunması öğütlenmektedir?", "secenekler": ["Hatanı nezaketle düzelten, sevincini paylaşan ve ahlakça/ilimce yükselten kimseyle", "Sadece övgü yapan kimseyle", "Hiç konuşmayan kimseyle", "Sürekli eleştiren kimseyle"], "dogruIndeks": 0, "aciklama": "'صَاحِبْ مَنْ يُصَحِّحُ خَطَأَكَ بِرِفْقٍ، وَيُشَارِكُكَ فَرَحَكَ بِصِدْقٍ...'." },
+        { "id": "m19_r3_q4", "soru": "3. paragraftaki «بِمَا أَنَّكَ تَتَوَقَّعُ» ifadesinde «بِمَا أَنَّ» ne anlama gelir?", "secenekler": ["Mademki / ... beklediğine göre", "Oysa ki", "Rağmen", "Önce"], "dogruIndeks": 0, "aciklama": "بِمَا أَنَّ = mademki / ...-diğine göre." },
+        { "id": "m19_r3_q5", "soru": "4. paragraftaki «لِمَنْ وَجَدَ» ifadesinde «مَنْ» hangi görevdedir?", "secenekler": ["لِـ harf-i ceriyle mahallen mecrûr müşterek ism-i mevsûl ('bulan kimseye')", "Soru ismi", "Fâil", "Şart edatı"], "dogruIndeks": 0, "aciklama": "لِـ + مَنْ = '... yapan kimseye'." }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "m19_d1",
+      "baslik": "Kitapçıda Favori Kitap ve Yazar Sohbeti (الَّذِي / الَّتِي & Âid Zamir)",
+      "ortam": "İki arkadaş kitapçıda birbirlerine okudukları kitapları tavsiye ediyor",
+      "replikler": [
+        { "konusan": "سارة", "ar": "أَهْلًا يَا لَيْلَى! هَلْ وَجَدْتِ الْكِتَابَ الَّذِي كُنْتِ تَبْحَثِينَ عَنْهُ؟", "okunus": "Ehlen yâ Leylâ! Hel vecedti'l-kitâbe'llezî kunti tebhasîne ‘anhu?", "tr": "Merhaba Leyla! Aradığın kitabı buldun mu?" },
+        { "konusan": "ليلى", "ar": "نَعَمْ الْحَمْدُ لِلّٰهِ! هٰذَا هُوَ الْكِتَابُ الَّذِي نَصَحَنَا بِهِ الْأُسْتَاذُ فِي الْمُحَاضَرَةِ الْأَخِيرَةِ!", "okunus": "Ne‘am el-hamdu lillâhi! Hâzâ huve'l-kitâbu'llezî nesahanâ bihi'l-ustâzu fi'l-muhâdarati'l-ehîrati!", "tr": "Evet elhamdülillah! Hocanın son derste bize tavsiye ettiği kitap işte budur!" },
+        { "konusan": "سارة", "ar": "رَائِعٌ! وَمَنْ هُوَ الْمُؤَلِّفُ الَّذِي كَتَبَهُ؟", "okunus": "Râi‘un! Ve men huve'l-muellifu'llezî ketebehu?", "tr": "Harika! Peki onu yazan müellif kimdir?" },
+        { "konusan": "ليلى", "ar": "إِنَّهُ الدُّكْتُورُ الَّذِي أَلَّفَ سِلْسِلَةَ تَارِيخِ الْعُلُومِ الْعَرَبِيَّةِ؛ كُتُبُهُ هِيَ الَّتِي حَبَّبَتْ إِلَيَّ التَّارِيخَ!", "okunus": "İnnehu'd-duktûru'llezî ellefe silsilete târîhi'l-‘ulûmi'l-‘arabiyyeti; kutubuhu hiye'lletî habbebet ileyye't-târîha!", "tr": "Arap Bilim Tarihi serisini telif eden doktordur; bana tarihi sevdiren onun kitaplarıdır!" },
+        { "konusan": "سارة", "ar": "وَأَنَا أَشْتَرِي الْيَوْمَ الرِّوَايَتَيْنِ اللَّتَيْنِ تَحَدَّثْنَا عَنْهُمَا الْأُسْبُوعَ الْمَاضِي!", "okunus": "Ve ene eşteri'l-yevme'r-rivâyeteyni'lleteyni tehaddeşnâ ‘anhume'l-usbû‘a'l-mâdî!", "tr": "Ben de bugün geçen hafta haklarında konuştuğumuz iki romanı alıyorum!" },
+        { "konusan": "ليلى", "ar": "اِخْتِيَارٌ مُمْتَازٌ! هَلْ قَرَأْتِ الْمَقَالَاتِ الَّتِي نُشِرَتْ فِي الْمَجَلَّةِ الْأَدَبِيَّةِ هٰذَا الشَّهْرَ؟", "okunus": "İhtiyârun mumtâzun! Hel kara'ti'l-makâlâti'lletî nuşirat fi'l-mecelleti'l-edebiyyeti hâze'ş-şehra?", "tr": "Harika seçim! Bu ay edebiyat dergisinde yayımlanan makaleleri okudun mu?" },
+        { "konusan": "سارة", "ar": "قَرَأْتُ بَعْضَهَا، وَأَعْجَبَنِي جِدًّا الْمَقَالُ الَّذِي يَتَنَاوَلُ فَنَّ التَّرْجَمَةِ الْأَدَبِيَّةِ.", "okunus": "Kara'tu ba‘dahâ, ve a‘cebenî ciddeni'l-makâlu'llezî yetenâvelu fenne't-tercemeti'l-edebiyyeti.", "tr": "Bir kısmını okudum; edebî çeviri sanatını ele alan makale çok hoşuma gitti." },
+        { "konusan": "ليلى", "ar": "صَحِيحٌ! اَلْمُتَرْجِمُونَ الَّذِينَ يُتْقِنُونَ اللُّغَتَيْنِ يَنْقُلُونَ رُوحَ النَّصِّ لَا كَلِمَاتِهِ فَقَطْ!", "okunus": "Sahîhun! El-mutercimûne'llezîne yutkınûne'l-lugateyni yenkulûne rûha'n-nassi lâ kelimâtihi fakat!", "tr": "Doğru! İki dilde ustalaşan çevirmenler yalnızca kelimeleri değil metnin ruhunu aktarırlar!" },
+        { "konusan": "سارة", "ar": "هَلْ تَعْرِفِينَ الْقِسْمَ الَّذِي تُوجَدُ فِيهِ الْمَعَاجِمُ الْعَرَبِيَّةُ الْحَدِيثَةُ؟", "okunus": "Hel ta‘rifîne'l-kisme'llezî tûcedu fîhi'l-me‘âcimu'l-‘arabiyyetu'l-hadîsetu?", "tr": "Modern Arapça sözlüklerin bulunduğu bölümü biliyor musun?" },
+        { "konusan": "ليلى", "ar": "نَعَمْ، فِي الطَّابَقِ الثَّانِي بِجَانِبِ الرَّفِّ الَّذِي عَلَيْهِ كُتُبُ النَّحْوِ وَالصَّرْفِ!", "okunus": "Ne‘am, fi't-tâbikı's-sânî bi-cânibi'r-raffi'llezî ‘aleyhi kutubu'n-nahvi ve's-sarfi!", "tr": "Evet, ikinci katta üzerinde nahiv ve sarf kitaplarının bulunduğu rafın yanında!" },
+        { "konusan": "سارة", "ar": "تَعَالَيْ نَصْعَدْ مَعًا وَنَخْتَارُ مَا نَحْتَاجُ إِلَيْهِ قَبْلَ أَنْ نَشْرَبَ الْقَهْوَةَ!", "okunus": "Te‘âley nas‘ad me‘an ve nahtâru mâ nahtâcu ileyhi kable en neşrabe'l-kahvete!", "tr": "Gel birlikte çıkalım ve kahve içmeden önce ihtiyacımız olanları seçelim!" },
+        { "konusan": "ليلى", "ar": "فِكْرَةٌ رَائِعَةٌ، هَيَّا بِنَا يَا صَدِيقَتِي!", "okunus": "Fikratun râi‘atun, heyyâ binâ yâ sadîkatî!", "tr": "Harika fikir, haydi gidelim arkadaşım!" }
+      ],
+      "partner": [
+        { "soruAr": "كَيْفَ نَقُولُ 'Aradığın kitabı buldun mu?'؟", "soruTr": "'Aradığın kitap' (بَحَثَ عَنْ + âid zamir!) hangisidir?", "ipucu": "الْكِتَابَ الَّذِي ... عَنْهُ.", "secenekler": ["الْكِتَابَ الَّذِي كُنْتِ تَبْحَثِينَ عَنْهُ", "الْكِتَابَ الَّذِي كُنْتِ تَبْحَثِينَ", "الْكِتَابَ الَّتِي تَبْحَثِينَ عَنْهَا"], "dogruIndeks": 0, "aciklama": "بَحَثَ عَنْ → harf-i cerli âid zamir عَنْهُ şarttır!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Haklarında konuştuğumuz iki roman' (mansub!)؟", "soruTr": "'Konuştuğumuz iki roman' (ikil dişil nasb!) hangisidir?", "ipucu": "الرِّوَايَتَيْنِ اللَّتَيْنِ ... عَنْهُمَا.", "secenekler": ["الرِّوَايَتَيْنِ اللَّتَيْنِ تَحَدَّثْنَا عَنْهُمَا", "الرِّوَايَتَيْنِ اللَّتَانِ تَحَدَّثْنَا عَنْهُمَا", "الرِّوَايَتَيْنِ اللَّذَيْنِ تَحَدَّثْنَا عَنْهُمَا"], "dogruIndeks": 0, "aciklama": "İkil dişil mansub: اللَّتَيْنِ + ikil âid zamir عَنْهُمَا!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'İhtiyacımız olan şeyi seçiyoruz' (مَا + اِحْتَاجَ إِلَى)؟", "soruTr": "'İhtiyacımız olan şey' hangisidir?", "ipucu": "مَا نَحْتَاجُ إِلَيْهِ!", "secenekler": ["مَا نَحْتَاجُ إِلَيْهِ", "مَنْ نَحْتَاجُ إِلَيْهِ", "مَا نَحْتَاجُ فَقَطْ"], "dogruIndeks": 0, "aciklama": "مَا + اِحْتَاجَ إِلَى + âid zamir: مَا نَحْتَاجُ إِلَيْهِ!" },
+        { "soruAr": "لِمَاذَا «الْمَقَالَاتِ الَّتِي» وَلَيْسَ «اللَّاتِي»؟", "soruTr": "'الْمَقَالَاتِ'den sonra neden اللَّاتِي değil الَّتِي gelmiştir?", "ipucu": "الْمَقَالَاتُ akıllı mı akılsız mı?", "secenekler": ["الْمَقَالَاتُ akılsız çoğul olduğu için الَّتِي alır!", "Çünkü tekildir.", "Çünkü erildir."], "dogruIndeks": 0, "aciklama": "Akılsız çoğul → her zaman الَّتِي!" },
+        { "soruAr": "مَا مَعْنَى «الْمُتَرْجِمُونَ الَّذِينَ يُتْقِنُونَ اللُّغَتَيْنِ»؟", "soruTr": "Bu ifade '-an/-en' mi yoksa '-dığı' diye mi çevrilir?", "ipucu": "Özne (fâil) الْمُتَرْجِمُونَ'nun kendisi!", "secenekler": ["İki dilde ustalaşan çevirmenler (-an/-en).", "İki dilin ustalaştığı çevirmenler.", "Çevirmenlerin yazdığı iki dil."], "dogruIndeks": 0, "aciklama": "Âid zamir (و) fâil olduğu için '-an/-en' çevrilir!" }
+      ]
+    },
+    {
+      "id": "m19_d2",
+      "baslik": "Üniversite Ödül Töreninde İkil & Çoğul Tanıtımı",
+      "ortam": "Sunucu ödül kazanan öğrencileri ve projelerini konuklara tanıtıyor",
+      "replikler": [
+        { "konusan": "المقدم", "ar": "أَهْلًا بِكُمْ فِي حَفْلِ تَكْرِيمِ الْفَائِزِينَ الَّذِينَ تَأَلَّقُوا فِي مُسَابَقَةِ الْإِبْدَاعِ الْعِلْمِيِّ!", "okunus": "Ehlen bikum fî hafli tekrîmi'l-fâizîne'llezîne teellekû fî musâbakati'l-ibdâ‘i'l-‘ilmiyyi!", "tr": "Bilimsel yaratıcılık yarışmasında parlayan kazananların ödül törenine hoş geldiniz!" },
+        { "konusan": "المقدم", "ar": "نَبْدَأُ بِتَقْدِيمِ الطَّالِبَيْنِ اللَّذَيْنِ فَازَا بِالْمَرْكَزِ الْأَوَّلِ فِي مَجَالِ الرُّوبُوتَاتِ: سَامِي وَطَارِقٌ!", "okunus": "Nebdeu bi-takdîmi't-tâlibeyni'llezeyni fâzâ bi'l-merkezi'l-evveli fî mecâli'r-rûbûtâti: Sâmî ve Târikun!", "tr": "Robotik alanında birincilik kazanan iki öğrenciyi takdim etmekle başlıyoruz: Sami ve Tarık!" },
+        { "konusan": "سامي", "ar": "شُكْرًا لِلَّجْنَةِ الَّتِي قَدَّرَتْ جُهْدَنَا، وَلِلْأُسْتَاذِ الَّذِي أَشْرَفَ عَلَى مَشْرُوعِنَا مُنْذُ الْيَوْمِ الْأَوَّلِ!", "okunus": "Şukran li'l-lecneti'lletî kaddarat cuhdenâ, ve li'l-ustâzi'llezî eşrafa ‘alâ meşrû‘inâ munzu'l-yevmi'l-evveli!", "tr": "Emeğimizi takdir eden jüriye ve ilk günden beri projemize danışmanlık yapan hocaya teşekkürler!" },
+        { "konusan": "المقدم", "ar": "وَالْآنَ نَدْعُو إِلَى الْمِنَصَّةِ الطَّالِبَتَيْنِ اللَّتَيْنِ صَمَّمَتَا تَطْبِيقَ تَعْلِيمِ اللُّغَةِ الْعَرَبِيَّةِ: مَرْيَمُ وَزَيْنَبُ!", "okunus": "Ve'l-âne ned‘û ile'l-minassati't-tâlibeteyni'lleteyni sammemetâ tatbîka ta‘lîmi'l-lugati'l-‘arabiyyeti: Meryemu ve Zeynebu!", "tr": "Ve şimdi Arapça öğretimi uygulamasını tasarlayan iki kız öğrenciyi sahneye davet ediyoruz: Meryem ve Zeyneb!" },
+        { "konusan": "مريم", "ar": "نُهْدِي هٰذِهِ الْجَائِزَةَ إِلَى وَالِدَيْنَا اللَّذَيْنِ شَجَّعَانَا دَائِمًا وَلَمْ يَبْخَلَا عَلَيْنَا بِالدَّعْمِ!", "okunus": "Nuhdî hâzihi'l-câizete ilâ vâlideyne'llezeyni şecca‘ânâ dâimen ve lem yebhalâ ‘aleynâ bi'd-da‘mi!", "tr": "Bu ödülü bizi daima teşvik eden ve desteğini bizden esirgemeyen anne babamıza armağan ediyoruz!" },
+        { "konusan": "المقدم", "ar": "كَمَا نُكَرِّمُ الطَّبِيبَاتِ اللَّاتِي أَجْرَيْنَ الدِّرَاسَةَ الْمَيْدَانِيَّةَ حَوْلَ التَّغْذِيَةِ الصِّحِّيَّةِ لِلْأَطْفَالِ!", "okunus": "Kemâ nukerrimu't-tabîbâti'llâtî ecrayne'd-dirâsete'l-meydâniyyete havle't-tagziyeti's-sıhhiyyeti li'l-atfâli!", "tr": "Ayrıca çocukların sağlıklı beslenmesi üzerine saha çalışmasını yürüten kadın doktorları da onurlandırıyoruz!" },
+        { "konusan": "الطبيبة", "ar": "شُكْرًا جَزِيلًا! النَّتَائِجُ الَّتِي تَوَصَّلْنَا إِلَيْهَا سَتُسَاعِدُ الْمَدَارِسَ فِي تَحْسِينِ وَجَبَاتِ الطُّلَّابِ!", "okunus": "Şukran cezîlen! En-netâicu'lletî tevassalnâ ileyhâ se-tusâ‘idu'l-medârise fî tahsîni vecebâti't-tullâbi!", "tr": "Çok teşekkürler! Ulaştığımız sonuçlar okulların öğrenci öğünlerini iyileştirmesine yardımcı olacak!" },
+        { "konusan": "المقدم", "ar": "وَهٰذَا مَا نَطْمَحُ إِلَيْهِ دَائِمًا: أَنْ يَتَحَوَّلَ الْعِلْمُ الَّذِي نَدْرُسُهُ إِلَى خِدْمَةٍ حَقِيقِيَّةٍ لِلْمُجْتَمَعِ!", "okunus": "Ve hâzâ mâ natmahu ileyhi dâimen: en yetehavvele'l-‘ilmu'llezî nedrusuhu ilâ hidmetin hakîkıyyetin li'l-muctema‘i!", "tr": "Daima hedeflediğimiz şey de budur: Okuduğumuz ilmin toplum için gerçek bir hizmete dönüşmesi!" },
+        { "konusan": "عميد الكلية", "ar": "أُهَنِّئُ جَمِيعَ مَنْ شَارَكَ فِي هٰذِهِ الْمُسَابَقَةِ، فَاَلَّذِينَ يُبْدِعُونَ الْيَوْمَ هُمُ الَّذِينَ يَقُودُونَ الْمُسْتَقْبَلَ غَدًا!", "okunus": "Uhenniu cemî‘a men şârake fî hâzihi'l-musâbakati, fe'llezîne yubdi‘ûne'l-yevme humu'llezîne yekûdûne'l-mustakbele gaden!", "tr": "Bu yarışmaya katılan herkesi tebrik ediyorum; zira bugün üretenler yarın geleceğe liderlik edecek olanlardır!" },
+        { "konusan": "سامي", "ar": "كَلِمَاتُكَ يَا سِيَادَةَ الْعَمِيدِ تَزِيدُنَا حَمَاسًا لِمُوَاصَلَةِ مَا بَدَأْنَاهُ!", "okunus": "Kelimâtuke yâ siyâdete'l-‘amîdi tezîdunâ hamâsen li-muvâsalati mâ bede'nâhu!", "tr": "Sayın Dekanım, sözleriniz başladığımız işi sürdürmek için hevesimizi artırıyor!" },
+        { "konusan": "المقدم", "ar": "وَفِي الْخِتَامِ، نَشْكُرُ كُلَّ مَنْ سَاهَمَ فِي إِنْجَاحِ هٰذَا الْحَفْلِ الْجَمِيلِ!", "okunus": "Ve fi'l-hitâmi, neşkuru kulle men sâheme fî incâhi hâze'l-hafli'l-cemîli!", "tr": "Son olarak, bu güzel törenin başarısına katkı sağlayan herkese teşekkür ediyoruz!" },
+        { "konusan": "الجميع", "ar": "شُكْرًا لَكُمْ، وَإِلَى اللِّقَاءِ فِي مُسَابَقَةِ الْعَامِ الْقَادِمِ!", "okunus": "Şukran lekum, ve ile'l-likâi fî musâbakati'l-‘âmi'l-kâdimi!", "tr": "Teşekkür ederiz, gelecek yılki yarışmada görüşmek üzere!" }
+      ],
+      "partner": [
+        { "soruAr": "كَيْفَ نَقُولُ 'Ulaştığımız sonuçlar' (تَوَصَّلَ إِلَى + akılsız çoğul!)؟", "soruTr": "'Ulaştığımız sonuçlar' hangisidir?", "ipucu": "النَّتَائِجُ الَّتِي تَوَصَّلْنَا إِلَيْهَا.", "secenekler": ["النَّتَائِجُ الَّتِي تَوَصَّلْنَا إِلَيْهَا", "النَّتَائِجُ الَّذِينَ تَوَصَّلْنَا إِلَيْهِمْ", "النَّتَائِجُ الَّتِي تَوَصَّلْنَا"], "dogruIndeks": 0, "aciklama": "Akılsız çoğul (الَّتِي) + harf-i cerli âid zamir (إِلَيْهَا)!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Bugün üretenler yarın liderlik edecek olanlardır'؟", "soruTr": "Bağımsız çoğul mevsûl cümlesi hangisidir?", "ipucu": "الَّذِينَ يُبْدِعُونَ ... هُمُ الَّذِينَ يَقُودُونَ.", "secenekler": ["الَّذِينَ يُبْدِعُونَ الْيَوْمَ هُمُ الَّذِينَ يَقُودُونَ الْمُسْتَقْبَلَ.", "الَّذُونَ يُبْدِعُونَ الْيَوْمَ.", "الَّتِي يُبْدِعُونَ الْيَوْمَ."], "dogruIndeks": 0, "aciklama": "Bağımsız mübtedâ الَّذِينَ + vurgulu haber هُمُ الَّذِينَ!" },
+        { "soruAr": "لِمَاذَا جَاءَتْ «اللَّذَيْنِ» بِالْيَاءِ فِي: «إِلَى وَالِدَيْنَا اللَّذَيْنِ شَجَّعَانَا»؟", "soruTr": "'وَالِدَيْنَا اللَّذَيْنِ' ifadesinde neden اللَّذَيْنِ (yâ ile) gelmiştir?", "ipucu": "إِلَى harf-i cerinden sonra!", "secenekler": ["وَالِدَيْنَا mecrûr (إِلَى ile) olduğu için sıfatı olan ikil ism-i mevsûl de yâ ile mecrûr gelir!", "Çünkü merfûdur.", "Çünkü dişildir."], "dogruIndeks": 0, "aciklama": "İkil ism-i mevsûl cer hâlinde yâ alır: اللَّذَيْنِ!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Başladığımız şeyi sürdürmek' (مَا ile)؟", "soruTr": "'Başladığımız şey' nasıl söylenir?", "ipucu": "مَا بَدَأْنَاهُ.", "secenekler": ["مَا بَدَأْنَاهُ", "مَنْ بَدَأْنَاهُ", "الَّتِي بَدَأْنَاهُ"], "dogruIndeks": 0, "aciklama": "Akılsız 'şey': مَا + بَدَأْنَاهُ!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Bu törene katkı sağlayan herkese teşekkür ederiz'؟", "soruTr": "'Katkı sağlayan herkese' (كُلَّ مَنْ) hangisidir?", "ipucu": "كُلَّ مَنْ سَاهَمَ ...", "secenekler": ["نَشْكُرُ كُلَّ مَنْ سَاهَمَ فِي هٰذَا الْحَفْلِ.", "نَشْكُرُ كُلَّ مَا سَاهَمَ فِي الْحَفْلِ.", "نَشْكُرُ كُلَّ اللَّذَانِ سَاهَمَ."], "dogruIndeks": 0, "aciklama": "كُلَّ مَنْ = '... yapan herkes'!" }
+      ]
+    },
+    {
+      "id": "m19_d3",
+      "baslik": "Şehir ve Ev Seçimi (İsim Cümlesi Sıla & Harf-i Cerli Âid)",
+      "ortam": "Emlak danışmanı yeni taşınacak bir aileye daire seçeneklerini anlatıyor",
+      "replikler": [
+        { "konusan": "أحمد", "ar": "السَّلَامُ عَلَيْكُمْ! نَبْحَثُ عَنْ شَقَّةٍ قَرِيبَةٍ مِنَ الْمَدْرَسَةِ الَّتِي يَدْرُسُ فِيهَا أَبْنَاؤُنَا.", "okunus": "Es-selâmu ‘aleykum! Nebhasu ‘an şakkatin karîbetin mine'l-medreseti'lletî yedrusu fîhâ ebnâunâ.", "tr": "Selamün aleyküm! Çocuklarımızın okuduğu okula yakın bir daire arıyoruz." },
+        { "konusan": "المستشار", "ar": "وَعَلَيْكُمُ السَّلَامُ! لَدَيْنَا شَقَّتَانِ مُنَاسِبَتَانِ فِي الْحَيِّ الَّذِي تُرِيدُونَهُ تَمَامًا!", "okunus": "Ve ‘aleykumu's-selâmu! Ledeynâ şakkatâni munâsibetâni fi'l-hayyi'llezî turîdûnehu temâmen!", "tr": "Aleyküm selam! Tam da istediğiniz mahallede iki uygun dairemiz var!" },
+        { "konusan": "أحمد", "ar": "أَخْبِرْنِي عَنِ الشَّقَّتَيْنِ اللَّتَيْنِ تَقْصِدُهُمَا مِنْ فَضْلِكَ!", "okunus": "Ahbirnî ‘ani'ş-şakkateyni'lleteyni taksıduhumâ min fadlike!", "tr": "Lütfen kastettiğiniz o iki daire hakkında bana bilgi verin!" },
+        { "konusan": "المستشار", "ar": "الشَّقَّةُ الْأُولَى هِيَ الَّتِي تَقَعُ فِي الطَّابَقِ الثَّالِثِ، وَنَوَافِذُهَا الَّتِي تُطِلُّ عَلَى الْحَدِيقَةِ تَدْخُلُ مِنْهَا الشَّمْسُ طَوَالَ النَّهَارِ.", "okunus": "Eş-şakkatu'l-ûlâ hiye'lletî teka‘u fi't-tâbikı's-sâlisi, ve nevâfizuhâ'lletî tutıllu ‘ale'l-hadîkati tedhulu minhe'ş-şemsu tavâle'n-nehâri.", "tr": "İlk daire üçüncü katta bulunan dairedir; parka bakan pencerelerinden gün boyu güneş girer." },
+        { "konusan": "أحمد", "ar": "وَالشَّقَّةُ الثَّانِيَةُ؟ مَا الْمُمَيِّزَاتُ الَّتِي تَتَمَيَّزُ بِهَا؟", "okunus": "Ve'ş-şakkatu's-sâniyetu? Me'l-mumeyyizâtu'lletî tetemeyyezu bihâ?", "tr": "Peki ikinci daire? Öne çıktığı özellikler nelerdir?" },
+        { "konusan": "المستشار", "ar": "إِنَّهَا الشَّقَّةُ الَّتِي مِسَاحَتُهَا أَوْسَعُ، وَفِيهَا مَطْبَخٌ كَبِيرٌ وَشُرْفَةٌ تُطِلُّ عَلَى الْبَحْرِ!", "okunus": "İnnehe'ş-şakkatu'lletî misâhatuhâ evsa‘u, ve fîhâ matbahun kebîrun ve şurfetun tutıllu ‘ale'l-bahri!", "tr": "Alanı daha geniş olan dairedir; içinde büyük bir mutfak ve denize bakan bir balkon vardır!" },
+        { "konusan": "أحمد", "ar": "وَكَيْفَ الْمُوَاصَلَاتُ فِي الشَّارِعِ الَّذِي يُوجَدُ فِيهِ الْمَبْنَى؟", "okunus": "Ve keyfe'l-muvâsalâtu fi'ş-şâri‘i'llezî yûcedu fîhi'l-mebnâ?", "tr": "Binanın bulunduğu caddede ulaşım nasıl?" },
+        { "konusan": "المستشار", "ar": "مُمْتَازَةٌ جِدًّا! اَلْمَحَطَّةُ الَّتِي تَمُرُّ بِهَا الْحَافِلَاتُ تَبْعُدُ ثَلَاثَ دَقَائِقَ فَقَطْ مَشْيًا عَلَى الْأَقْدَامِ.", "okunus": "Mumtâzetun cidden! El-mahattatu'lletî temurru bihe'l-hâfilâtu teb‘udu selâse dekâika fakat meşyen ‘ale'l-akdâmi.", "tr": "Çok harika! Otobüslerin geçtiği durak yürüyerek sadece üç dakika uzaklıkta." },
+        { "konusan": "أحمد", "ar": "هٰذَا مَا كُنَّا نَبْحَثُ عَنْهُ! هَلْ يُمْكِنُ أَنْ نُشَاهِدَ الشَّقَّتَيْنِ اللَّتَيْنِ وَصَفْتَهُمَا الْيَوْمَ؟", "okunus": "Hâzâ mâ kunnâ nebhasu ‘anhu! Hel yumkinu en nuşâhide'ş-şakkateyni'lleteyni vasaftehume'l-yevme?", "tr": "Aradığımız şey tam da bu! Tarif ettiğiniz o iki daireyi bugün görebilir miyiz?" },
+        { "konusan": "المستشار", "ar": "بِالتَّأْكِيدِ! اَلْمَفَاتِيحُ الَّتِي نَحْتَاجُ إِلَيْهَا مَعِي الْآنَ، فَلْنَذْهَبْ بَعْدَ الظُّهْرِ!", "okunus": "Bi't-te'kîdi! El-mefâtîhu'lletî nahtâcu ileyhâ me‘î'l-âne, fel-nezheb ba‘de'z-zuhri!", "tr": "Elbette! İhtiyacımız olan anahtarlar şu an yanımda, haydi öğleden sonra gidelim!" },
+        { "konusan": "أحمد", "ar": "شُكْرًا جَزِيلًا لَكَ عَلَى حُسْنِ الِاهْتِمَامِ وَالتَّعَاوُنِ!", "okunus": "Şukran cezîlen leke ‘alâ husni'l-ihtimâmi ve't-te‘âvuni!", "tr": "Güzel ilginiz ve iş birliğiniz için çok teşekkür ederim!" },
+        { "konusan": "المستشار", "ar": "تَفَضَّلْ فِي أَيِّ وَقْتٍ، وَبِإِذْنِ اللّٰهِ سَتَجِدُونَ الْبَيْتَ الَّذِي يُرِيحُكُمْ وَيُسْعِدُكُمْ!", "okunus": "Tefaddal fî eyyi vaktin, ve bi-iznillâhi se-tecidûne'l-beyte'llezî yurîhukum ve yus‘idukum!", "tr": "Her zaman buyurun; inşallah sizi rahat ettirecek ve mutlu edecek evi bulacaksınız!" }
+      ],
+      "partner": [
+        { "soruAr": "كَيْفَ نَقُولُ 'Çocuklarımızın okuduğu okul'؟", "soruTr": "'Çocuklarımızın okuduğu okul' (دَرَسَ فِي + âid zamir!) hangisidir?", "ipucu": "الْمَدْرَسَةِ الَّتِي يَدْرُسُ فِيهَا أَبْنَاؤُنَا.", "secenekler": ["الْمَدْرَسَةِ الَّتِي يَدْرُسُ فِيهَا أَبْنَاؤُنَا", "الْمَدْرَسَةِ الَّذِي يَدْرُسُ أَبْنَاؤُنَا", "الْمَدْرَسَةِ الَّتِي يَدْرُسُونَ فِيهَا أَبْنَاؤُنَا"], "dogruIndeks": 0, "aciklama": "الْمَدْرَسَةِ (dişil) + الَّتِي + tekil fiil (açık fâilden önce!) + فِيهَا!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Alanı daha geniş olan daire' (İsim cümlesi sıla)؟", "soruTr": "'Alanı daha geniş olan daire' hangisidir?", "ipucu": "الشَّقَّةُ الَّتِي مِسَاحَتُهَا أَوْسَعُ.", "secenekler": ["الشَّقَّةُ الَّتِي مِسَاحَتُهَا أَوْسَعُ", "الشَّقَّةُ الَّذِي مِسَاحَتُهُ أَوْسَعُ", "شَقَّةٌ الَّتِي مِسَاحَتُهَا أَوْسَعُ"], "dogruIndeks": 0, "aciklama": "Marife الشَّقَّةُ + الَّتِي + isim cümlesi sıla (مِسَاحَتُهَا أَوْسَعُ)!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Aradığımız şey tam da bu!'؟", "soruTr": "'Aradığımız şey bu!' (مَا + بَحَثَ عَنْ) hangisidir?", "ipucu": "هٰذَا مَا كُنَّا نَبْحَثُ عَنْهُ!", "secenekler": ["هٰذَا مَا كُنَّا نَبْحَثُ عَنْهُ!", "هٰذَا مَنْ كُنَّا نَبْحَثُ عَنْهُ!", "هٰذَا مَا كُنَّا نَبْحَثُ!"], "dogruIndeks": 0, "aciklama": "مَا + نَبْحَثُ عَنْهُ (عَنْهُ âid zamiri şart!)." },
+        { "soruAr": "كَيْفَ نَقُولُ 'İhtiyacımız olan anahtarlar'؟", "soruTr": "'İhtiyacımız olan anahtarlar' (akılsız çoğul!) hangisidir?", "ipucu": "الْمَفَاتِيحُ الَّتِي نَحْتَاجُ إِلَيْهَا.", "secenekler": ["الْمَفَاتِيحُ الَّتِي نَحْتَاجُ إِلَيْهَا", "الْمَفَاتِيحُ الَّذِينَ نَحْتَاجُ إِلَيْهِمْ", "الْمَفَاتِيحُ الَّتِي نَحْتَاجُ إِلَيْهِ"], "dogruIndeks": 0, "aciklama": "Akılsız çoğul → الَّتِي + إِلَيْهَا!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Tarif ettiğiniz iki daireyi görebilir miyiz?'؟", "soruTr": "'Tarif ettiğiniz iki daireyi' (ikil dişil nasb!) hangisidir?", "ipucu": "الشَّقَّتَيْنِ اللَّتَيْنِ وَصَفْتَهُمَا.", "secenekler": ["الشَّقَّتَيْنِ اللَّتَيْنِ وَصَفْتَهُمَا", "الشَّقَّتَيْنِ اللَّتَانِ وَصَفْتَهُمَا", "الشَّقَّتَيْنِ اللَّذَيْنِ وَصَفْتَهُمَا"], "dogruIndeks": 0, "aciklama": "İkil dişil mansub: الشَّقَّتَيْنِ اللَّتَيْنِ + ـهُمَا!" }
+      ]
+    },
+    {
+      "id": "m19_d4",
+      "baslik": "Akademik Seminerde YDS Kalıplarıyla Tartışma (مِمَّا / فِيمَا / بِمَا أَنَّ)",
+      "ortam": "İki yüksek lisans öğrencisi yapay zekânın eğitime etkisini tartışıyor",
+      "replikler": [
+        { "konusan": "عمر", "ar": "يَا طَارِقُ، مَا رَأْيُكَ فِيمَا يَتَعَلَّقُ بِاسْتِخْدَامِ الذَّكَاءِ الِاصْطِنَاعِيِّ فِي تَعَلُّمِ اللُّغَاتِ؟", "okunus": "Yâ Târiku, mâ ra'yuke fîmâ yete‘allaku bi'stihdâmi'z-zekâi'l-istınâ‘iyyi fî ta‘allumi'l-lugâti?", "tr": "Tarık, dil öğreniminde yapay zekâ kullanımı konusunda görüşün nedir?" },
+        { "konusan": "طارق", "ar": "بِمَا أَنَّ التِّقْنِيَّةَ أَصْبَحَتْ جُزْءًا مِنْ حَيَاتِنَا، فَإِنَّ الْأَدَوَاتِ الَّتِي تُسَاعِدُ الطَّالِبَ عَلَى التَّدْرِيبِ الْيَوْمِيِّ مُفِيدَةٌ جِدًّا!", "okunus": "Bimâ enne't-tikniyyete asbehat cuz'en min hayâtinâ, fe-inne'l-edevâti'lletî tusâ‘idu't-tâlibe ‘ale't-tedrîbi'l-yevmiyyi mufîdetun cidden!", "tr": "Mademki teknoloji hayatımızın bir parçası oldu, öğrencinin günlük pratik yapmasına yardım eden araçlar çok faydalıdır!" },
+        { "konusan": "عمر", "ar": "أُوَافِقُكَ! وَلٰكِنْ هُنَاكَ مَنْ يَخْشَى أَنْ يَعْتَمِدَ الطُّلَّابُ عَلَيْهَا اعْتِمَادًا كَامِلًا، مِمَّا يُضْعِفُ مَهَارَةَ التَّفْكِيرِ الْمُسْتَقِلِّ!", "okunus": "Uvâfikuke! Ve lâkin hunâke men yahşâ en ya‘temide't-tullâbu ‘aleyhe'‘timâden kâmilen, mimmâ yud‘ifu mehârate't-tefkîri'l-mustakılli!", "tr": "Sana katılıyorum! Ama öğrencilerin ona tamamen bağımlı olmasından korkanlar var; ki bu da bağımsız düşünme becerisini zayıflatır!" },
+        { "konusan": "طارق", "ar": "مُلَاحَظَةٌ دَقِيقَةٌ! وَلِذٰلِكَ نَقُولُ إِنَّ الطَّالِبَ الذَّكِيَّ هُوَ الَّذِي يَسْتَخْدِمُ التِّقْنِيَّةَ كَمُسَاعِدٍ، لَا كَبَدِيلٍ عَنْ عَقْلِهِ!", "okunus": "Mulâhazatun dakîkatun! Ve li-zâlike nekûlu inne't-tâlibe'z-zekiyye huve'llezî yestahdimu't-tikniyyete ke-musâ‘idin, lâ ke-bedîlin ‘an ‘aklihi!", "tr": "İnce bir gözlem! Bu yüzden diyoruz ki akıllı öğrenci, teknolojiyi aklının yerine değil bir yardımcı olarak kullanan kişidir!" },
+        { "konusan": "عمر", "ar": "صَحِيحٌ! اَلدِّرَاسَاتُ الَّتِي أُجْرِيَتْ مُؤَخَّرًا تُؤَكِّدُ أَنَّ الْجَمْعَ بَيْنَ الْأُسْتَاذِ وَالتِّقْنِيَّةِ يُحَقِّقُ أَعْلَى النَّتَائِجِ.", "okunus": "Sahîhun! Ed-dirâsâtu'lletî ucriyet muehharan tuekkidu enne'l-cem‘a beyne'l-ustâzi ve't-tikniyyeti yuhakkıku a‘le'n-netâici.", "tr": "Doğru! Son zamanlarda yapılan çalışmalar, hoca ile teknolojiyi birleştirmenin en yüksek sonuçları verdiğini teyit ediyor." },
+        { "konusan": "طارق", "ar": "فِعْلًا! فَاَلْمُعَلِّمُ هُوَ الَّذِي يَمْنَحُ التَّوْجِيهَ الْإِنْسَانِيَّ وَالتَّشْجِيعَ الَّذِي لَا تَسْتَطِيعُ الْآلَةُ تَقْدِيمَهُ.", "okunus": "Fi‘len! Fe'l-mu‘allimu huve'llezî yemnehu't-tevcîhe'l-insâniyye ve't-teşcî‘a'llezî lâ testatî‘u'l-âletu takdîmehu.", "tr": "Gerçekten! Zira makinenin sunamadığı insani yönlendirmeyi ve teşviki veren kişi öğretmendir." },
+        { "konusan": "عمر", "ar": "وَالطُّلَّابُ الَّذِينَ يُوَازِنُونَ بَيْنَ الْكِتَابِ الْوَرَقِيِّ وَالتَّطْبِيقِ التَّفَاعُلِيِّ يَتَقَدَّمُونَ بِسُرْعَةٍ كَبِيرَةٍ، مِمَّا يَزِيدُ ثِقَتَهُمْ بِأَنْفُسِهِمْ!", "okunus": "Ve't-tullâbu'llezîne yuvâzinûne beyne'l-kitâbi'l-varakıyyi ve't-tatbîkı't-tefâ‘uliyyi yetekaddemûne bi-sur‘atin kebîratin, mimmâ yezîdu sikatehum bi-enfusihim!", "tr": "Basılı kitap ile etkileşimli uygulama arasında denge kuran öğrenciler büyük hızla ilerliyorlar; ki bu da özgüvenlerini artırıyor!" },
+        { "konusan": "طارق", "ar": "أَعْجَبَتْنِي كَثِيرًا الْفِكْرَةُ الَّتِي طَرَحْتَهَا؛ سَأُضِيفُهَا إِلَى الْمَقَالِ الَّذِي أَكْتُبُهُ لِلنَّدْوَةِ!", "okunus": "A‘cebetnî kesîrani'l-fikratu'lletî tarahtehâ; se-udîfuhâ ile'l-makâli'llezî ektubuhu li'n-nedveti!", "tr": "Ortaya attığın fikir çok hoşuma gitti; onu seminer için yazdığım makaleye ekleyeceğim!" },
+        { "konusan": "عمر", "ar": "مُمْتَازٌ! وَأَرْسِلْ لِي النُّسْخَةَ الَّتِي سَتَنْتَهِي مِنْهَا كَيْ أَقْرَأَهَا وَأَسْتَفِيدَ مِمَّا كَتَبْتَهُ!", "okunus": "Mumtâzun! Ve ersil li'n-nushate'lletî se-tentehî minhâ key ekraehâ ve estefîde mimmâ ketebtehu!", "tr": "Harika! Bitireceğin nüshayı bana da gönder ki okuyayım ve yazdıklarından faydalanayım!" },
+        { "konusan": "طارق", "ar": "بِكُلِّ سُرُورٍ! سَأُرْسِلُهَا غَدًا بَعْدَ أَنْ أُرَاجِعَ الْمَرَاجِعَ الَّتِي اعْتَمَدْتُ عَلَيْهَا.", "okunus": "Bi-kulli surûrin! Se-ursiluhâ gaden ba‘de en urâci‘a'l-merâci‘a'lletî'‘temedtu ‘aleyhâ.", "tr": "Memnuniyetle! Dayandığım kaynakları gözden geçirdikten sonra yarın göndereceğim." },
+        { "konusan": "عمر", "ar": "بَارَكَ اللّٰهُ فِي جُهُودِكَ يَا طَارِقُ، وَبِالتَّوْفِيقِ فِي عَرْضِكَ الْعِلْمِيِّ!", "okunus": "Bârakallâhu fî cuhûdike yâ Târiku, ve bi't-tevfîkı fî ‘ardike'l-‘ilmiyyi!", "tr": "Allah çabalarını bereketlendirsin Tarık, bilimsel sunumunda başarılar!" },
+        { "konusan": "طارق", "ar": "شُكْرًا يَا عُمَرُ، نَلْتَقِي يَوْمَ الْخَمِيسِ بِإِذْنِ اللّٰهِ!", "okunus": "Şukran yâ ‘Umeru, neltekî yevme'l-hamîsi bi-iznillâhi!", "tr": "Teşekkürler Ömer, inşallah perşembe günü görüşürüz!" }
+      ],
+      "partner": [
+        { "soruAr": "كَيْفَ نَقُولُ 'Dayandığım kaynaklar' (اِعْتَمَدَ عَلَى + akılsız çoğul!)؟", "soruTr": "'Dayandığım kaynaklar' hangisidir?", "ipucu": "الْمَرَاجِعَ الَّتِي اعْتَمَدْتُ عَلَيْهَا.", "secenekler": ["الْمَرَاجِعَ الَّتِي اعْتَمَدْتُ عَلَيْهَا", "الْمَرَاجِعَ الَّذِينَ اعْتَمَدْتُ عَلَيْهِمْ", "الْمَرَاجِعَ الَّتِي اعْتَمَدْتُ"], "dogruIndeks": 0, "aciklama": "Akılsız çoğul (الَّتِي) + harf-i cerli âid zamir (عَلَيْهَا)!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Korkanlar vardır' (هُنَاكَ مَنْ)؟", "soruTr": "'Korkanlar (korkan kimseler) vardır' hangisidir?", "ipucu": "هُنَاكَ مَنْ يَخْشَى ...", "secenekler": ["هُنَاكَ مَنْ يَخْشَى ذٰلِكَ.", "هُنَاكَ مَا يَخْشَى ذٰلِكَ.", "هُنَاكَ الَّذِي يَخْشَى."], "dogruIndeks": 0, "aciklama": "هُنَاكَ مَنْ + muzâri = '... yapanlar vardır'!" },
+        { "soruAr": "مَا مَعْنَى «مِمَّا يُضْعِفُ مَهَارَةَ التَّفْكِيرِ»؟", "soruTr": "Bu akademik kalıbın Türkçe karşılığı nedir?", "ipucu": "مِمَّا = 'ki bu da ...'!", "secenekler": ["Ki bu da düşünme becerisini zayıflatır.", "Düşünme becerisinden önce.", "Düşünme becerisi kimdir?"], "dogruIndeks": 0, "aciklama": "مِمَّا + fiil = önceki cümlenin sonucunu bağlar ('ki bu da...')." },
+        { "soruAr": "كَيْفَ نَقُولُ 'Yazdıklarından faydalanayım' (مِمَّا)؟", "soruTr": "'Yazdıklarından (yazdığın şeyden) faydalanayım' hangisidir?", "ipucu": "أَسْتَفِيدَ مِمَّا كَتَبْتَهُ.", "secenekler": ["أَسْتَفِيدَ مِمَّا كَتَبْتَهُ", "أَسْتَفِيدَ مِمَّ كَتَبْتَهُ", "أَسْتَفِيدَ عَمَّ كَتَبْتَهُ"], "dogruIndeks": 0, "aciklama": "مِنْ + مَا (ism-i mevsûl) → elif korunur: مِمَّا كَتَبْتَهُ!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Son zamanlarda yapılan çalışmalar' (meçhul sıla!)؟", "soruTr": "'Son zamanlarda yapılan çalışmalar' hangisidir?", "ipucu": "الدِّرَاسَاتُ الَّتِي أُجْرِيَتْ مُؤَخَّرًا.", "secenekler": ["الدِّرَاسَاتُ الَّتِي أُجْرِيَتْ مُؤَخَّرًا", "الدِّرَاسَاتُ الَّتِي أَجْرَتْ مُؤَخَّرًا", "الدِّرَاسَاتُ اللَّاتِي أُجْرِيَتْ"], "dogruIndeks": 0, "aciklama": "Akılsız çoğul (الَّتِي) + M18 meçhul (أُجْرِيَتْ)!" }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "id": "m19_fc01", "ar": "الِاسْمُ الْمَوْصُولُ", "harekesiz": "الاسم الموصول", "okunus": "El-ismu'l-mevsûlu", "tr": "İsm-i mevsûl (İlgi zamiri / bağlayıcı isim)", "kok": "و ص ل", "vezin": "مَفْعُول", "turevler": ["الْأَسْمَاءُ الْمَوْصُولَةُ", "جُمْلَةُ الصِّلَةِ"], "ekBilgi": "Anlamı ancak arkasından gelen sıla cümlesiyle tamamlanan marife isimdir", "ornek": "اَلْكِتَابُ الَّذِي قَرَأْتُهُ مُفِيدٌ.", "ornekTr": "Okuduğum kitap faydalıdır.", "kullanimNotu": "Özel (الَّذِي...) ve Müşterek (مَنْ، مَا) diye ikiye ayrılır.", "tur": "Terim" },
+    { "id": "m19_fc02", "ar": "الَّذِي", "harekesiz": "الذي", "okunus": "Ellezî", "tr": "...-an / -dığı (Tekil eril)", "kok": "ا س م", "vezin": "مَبْنِيّ", "turevler": ["اللَّذَانِ", "الَّذِينَ"], "ekBilgi": "Tek lâm (ل) ile yazılır ve mebnîdir (tüm hâllerde aynı kalır)", "ornek": "هٰذَا هُوَ الْأُسْتَاذُ الَّذِي عَلَّمَنَا.", "ornekTr": "Bize öğreten hoca budur.", "kullanimNotu": "Sıfat olacaksa önündeki isim mutlaka marife olmalıdır!", "tur": "Zamir" },
+    { "id": "m19_fc03", "ar": "الَّتِي", "harekesiz": "التي", "okunus": "Elletî", "tr": "...-an / -dığı (Tekil dişil & TÜM akılsız çoğullar!)", "kok": "ا س م", "vezin": "مَبْنِيّ", "turevler": ["اللَّتَانِ", "اللَّاتِي"], "ekBilgi": "Tek lâm ile yazılır; akılsız çoğulların (الْكُتُبُ / الْمَشَارِيعُ) tek mevsûlüdür!", "ornek": "الْمَقَالَاتُ الَّتِي نُشِرَتْ مُفِيدَةٌ.", "ornekTr": "Yayımlanan makaleler faydalıdır.", "kullanimNotu": "YDS'de en sık doğru cevap olan ism-i mevsûldür!", "tur": "Zamir" },
+    { "id": "m19_fc04", "ar": "اللَّذَانِ / اللَّذَيْنِ", "harekesiz": "اللذان / اللذين", "okunus": "Ellezâni / Ellezeyni", "tr": "...-an iki kişi (İkil eril — MURAB!)", "kok": "ا س م", "vezin": "مُعْرَب (مُثَنَّى)", "turevler": ["اللَّتَانِ", "اللَّتَيْنِ"], "ekBilgi": "Çift lâm (لل) ile yazılır; ref'te elif (اللَّذَانِ), nasb/cerde yâ (اللَّذَيْنِ)!", "ornek": "كَرَّمَ الْمُدِيرُ الطَّالِبَيْنِ اللَّذَيْنِ فَازَا.", "ornekTr": "Müdür kazanan iki öğrenciyi ödüllendirdi.", "kullanimNotu": "İsm-i mevsûllerde murab olan tek gruptur!", "tur": "Zamir" },
+    { "id": "m19_fc05", "ar": "اللَّتَانِ / اللَّتَيْنِ", "harekesiz": "اللتان / اللتين", "okunus": "Elletâni / Elleteyni", "tr": "...-an iki (dişil — MURAB!)", "kok": "ا س م", "vezin": "مُعْرَب (مُثَنَّى)", "turevler": ["اللَّذَانِ", "اللَّذَيْنِ"], "ekBilgi": "Çift lâm (لل); ref'te اللَّتَانِ, nasb/cerde اللَّتَيْنِ!", "ornek": "قَرَأْتُ الْقِصَّتَيْنِ اللَّتَيْنِ أَهْدَيْتَنِي إِيَّاهُمَا.", "ornekTr": "Bana hediye ettiğin iki hikâyeyi okudum.", "kullanimNotu": "Tesniye i'rabı birebir uygulanır.", "tur": "Zamir" },
+    { "id": "m19_fc06", "ar": "الَّذِينَ", "harekesiz": "الذين", "okunus": "Ellezîne", "tr": "...-anlar / -dıkları (Akıllı çoğul eril)", "kok": "ا س م", "vezin": "مَبْنِيّ", "turevler": ["الَّذِي", "اللَّذَانِ"], "ekBilgi": "Tek lâm ile yazılır ve MEBNÎDİR (ref'te de الَّذِينَ kalır, الَّذُونَ olmaz!)", "ornek": "فَازَ الَّذِينَ صَبَرُوا عَلَى الصُّعُوبَاتِ.", "ornekTr": "Zorluklara sabredenler kazandı.", "kullanimNotu": "Akılsız çoğullarda kullanılmaz!", "tur": "Zamir" },
+    { "id": "m19_fc07", "ar": "اللَّاتِي / اللَّوَاتِي", "harekesiz": "اللاتي / اللواتي", "okunus": "Ellâtî / Ellevâtî", "tr": "...-anlar (Akıllı çoğul dişil)", "kok": "ا س م", "vezin": "مَبْنِيّ", "turevler": ["اللَّائِي", "الَّتِي"], "ekBilgi": "Çift lâm (لل) ile yazılır ve sadece akıllı kadın çoğullar için kullanılır", "ornek": "أَحْتَرِمُ الطَّبِيبَاتِ اللَّاتِي عَالَجْنَ الْمَرْضَى.", "ornekTr": "Hastaları tedavi eden kadın doktorlara saygı duyarım.", "kullanimNotu": "اللَّاتِي ve اللَّوَاتِي tamamen eş anlamlıdır.", "tur": "Zamir" },
+    { "id": "m19_fc08", "ar": "مَنْ (الْمَوْصُولَةُ)", "harekesiz": "من", "okunus": "Men", "tr": "...-an kimse / kimseler (Müşterek akıllı)", "kok": "ا س م", "vezin": "مَبْنِيّ", "turevler": ["كُلُّ مَنْ", "هُنَاكَ مَنْ"], "ekBilgi": "Cinsiyet/sayı fark etmeksizin insanlar için kullanılır", "ornek": "سَاعِدْ مَنْ يَحْتَاجُ إِلَيْكَ!", "ornekTr": "Sana ihtiyaç duyan kimseye yardım et!", "kullanimNotu": "Başına asla الْ takısı almaz!", "tur": "Zamir" },
+    { "id": "m19_fc09", "ar": "مَا (الْمَوْصُولَةُ)", "harekesiz": "ما", "okunus": "Mâ", "tr": "...-dığı şey / olan şey (Müşterek akılsız)", "kok": "ا س م", "vezin": "مَبْنِيّ", "turevler": ["بِمَا", "فِيمَا", "مِمَّا", "عَمَّا"], "ekBilgi": "Nesneler, fikirler ve olaylar için kullanılır; harf-i cerle elifi düşmez!", "ornek": "لَا تَقُلْ مَا لَا تَعْلَمُ!", "ornekTr": "Bilmediğin şeyi söyleme!", "kullanimNotu": "مَا + fiil/cümle akademik dilin omurgasıdır.", "tur": "Zamir" },
+    { "id": "m19_fc10", "ar": "جُمْلَةُ الصِّلَةِ", "harekesiz": "جملة الصلة", "okunus": "Cumletu's-sılati", "tr": "Sıla cümlesi (İsm-i mevsûlü tamamlayan cümle)", "kok": "و ص ل", "vezin": "تَرْكِيب نَحْوِيّ", "turevler": ["الْعَائِد", "لَا مَحَلَّ لَهَا"], "ekBilgi": "İsm-i mevsûlden hemen sonra gelir ve mahallen i'rabı yoktur!", "ornek": "الطَّالِبُ الَّذِي [كَتَبَ الدَّرْسَ] مُجْتَهِدٌ.", "ornekTr": "[Dersi yazan] öğrenci çalışkandır.", "kullanimNotu": "Fiil cümlesi, isim cümlesi veya şibh-i cümle olabilir.", "tur": "Terim" },
+    { "id": "m19_fc11", "ar": "الضَّمِيرُ الْعَائِدُ", "harekesiz": "الضمير العائد", "okunus": "Ed-damîru'l-‘âidu", "tr": "Âid (dönüş) zamiri", "kok": "ع و د", "vezin": "فَاعِل", "turevler": ["قَرَأْتُهُ", "أَسْكُنُ فِيهَا"], "ekBilgi": "Sıla cümlesinde ism-i mevsûle cinsiyet ve sayıca dönen zorunlu bağdır!", "ornek": "هٰذِهِ هِيَ الْمَدِينَةُ الَّتِي أَسْكُنُ فِيهَا.", "ornekTr": "İçinde oturduğum şehir budur.", "kullanimNotu": "Harf-i cerli âid zamir (فِيهَا / عَنْهُ / بِهِ) asla atılmaz!", "tur": "Terim" },
+    { "id": "m19_fc12", "ar": "مِمَّا (مِنْ + مَا)", "harekesiz": "مما", "okunus": "Mimmâ", "tr": "... şeyden / Ki bu da ... (YDS sonuç kalıbı!)", "kok": "ح ر ف", "vezin": "مِنْ + مَا", "turevler": ["مِمَّا أَدَّى إِلَى", "مِمَّا يُؤَكِّدُ"], "ekBilgi": "Elif düşmez! Önceki cümlenin sonucunu bağlarken harikalar yaratır", "ornek": "اِزْدَادَ الطُّلَّابُ، مِمَّا أَدَّى إِلَى فَتْحِ شُعَبٍ جَدِيدَةٍ.", "ornekTr": "Öğrenciler arttı, ki bu da yeni şubelerin açılmasına yol açtı.", "kullanimNotu": "Soru مِمَّ (elifsiz) ile karıştırmayın!", "tur": "Kalıp" },
+    { "id": "m19_fc13", "ar": "فِيمَا يَتَعَلَّقُ بِـ", "harekesiz": "فيما يتعلق بـ", "okunus": "Fîmâ yete‘allaku bi-", "tr": "... ile ilgili olarak / hususunda", "kok": "ع ل ق", "vezin": "عِبَارَة أَكَادِيمِيَّة", "turevler": ["فِيمَا يَخُصُّ", "فِيمَا يَلِي"], "ekBilgi": "فِي + مَا (elifli!) + يَتَعَلَّقُ بِـ — YDS'nin en seçkin akademik kalıbıdır", "ornek": "مَا رَأْيُكَ فِيمَا يَتَعَلَّقُ بِهٰذَا الْمَشْرُوعِ؟", "ornekTr": "Bu projeyle ilgili olarak görüşün nedir?", "kullanimNotu": "فِيمَا يَلِي = 'Aşağıda / bundan sonra gelenler' demektir!", "tur": "Kalıp" },
+    { "id": "m19_fc14", "ar": "عَمَّا (عَنْ + مَا)", "harekesiz": "عما", "okunus": "‘Ammâ", "tr": "... şey hakkında / şeyden", "kok": "ح ر ف", "vezin": "عَنْ + مَا", "turevler": ["اِبْتَعِدْ عَمَّا", "سَأَلْتُ عَمَّا"], "ekBilgi": "İsm-i mevsûlde elif korunur (عَمَّا); soruda düşer (عَمَّ)!", "ornek": "اِبْتَعِدْ عَمَّا يَضُرُّ صِحَّتَكَ!", "ornekTr": "Sağlığına zarar veren şeyden uzak dur!", "kullanimNotu": "İdğamla şeddeli مّ okunur.", "tur": "Kalıp" },
+    { "id": "m19_fc15", "ar": "بِمَا أَنَّ", "harekesiz": "بما أن", "okunus": "Bimâ enne", "tr": "Mademki / ... olduğuna göre", "kok": "ح ر ف", "vezin": "أَدَاةُ تَعْلِيلٍ", "turevler": ["بِمَا فِي ذٰلِكَ", "بِمَا يَتَنَاسَبُ"], "ekBilgi": "بِـ + مَا + أَنَّ — YDS sebep/gerekçe bağlacıdır; cevabı genelde فَـ ile başlar", "ornek": "بِمَا أَنَّ الْجَوَّ جَمِيلٌ، فَلْنَخْرُجْ!", "ornekTr": "Mademki hava güzel, haydi çıkalım!", "kullanimNotu": "بِمَا فِي ذٰلِكَ = '... da dâhil olmak üzere'!", "tur": "Kalıp" },
+    { "id": "m19_fc16", "ar": "هُنَاكَ مَنْ", "harekesiz": "هناك من", "okunus": "Hunâke men", "tr": "... yapan kimseler / insanlar vardır", "kok": "ا س م", "vezin": "تَرْكِيب أَكَادِيمِيّ", "turevler": ["هُنَاكَ مَنْ يَرَى", "هُنَاكَ مَنْ يَعْتَقِدُ"], "ekBilgi": "YDS makalelerinde farklı görüşleri sunarken çok sık kullanılır", "ornek": "هُنَاكَ مَنْ يَرَى ضَرُورَةَ تَحْدِيثِ الْمَنَاهِجِ.", "ornekTr": "Müfredatların güncellenmesi gerektiğini düşünenler vardır.", "kullanimNotu": "Sonrasındaki fiil genelde tekil eril gelir.", "tur": "Kalıp" },
+    { "id": "m19_fc17", "ar": "أَدَّى — يُؤَدِّي إِلَى", "harekesiz": "أدى — يؤدي إلى", "okunus": "Eddâ — yueddî ilâ", "tr": "...-e yol açmak / sebep olmak", "kok": "أ د ي", "vezin": "فَعَّلَ (II)", "turevler": ["مِمَّا أَدَّى إِلَى", "تَأْدِيَة"], "ekBilgi": "مِمَّا أَدَّى إِلَى kalıbının vazgeçilmez fiilidir!", "ornek": "نَقَصَ الْمَطَرُ، مِمَّا أَدَّى إِلَى الْجَفَافِ.", "ornekTr": "Yağmur azaldı, ki bu da kuraklığa yol açtı.", "kullanimNotu": "إِلَى harf-i ceriyle eşdizimlidir.", "tur": "Fiil" },
+    { "id": "m19_fc18", "ar": "سَاهَمَ — يُسَاهِمُ فِي", "harekesiz": "ساهم — يساهم في", "okunus": "Sâheme — yusâhimu fî", "tr": "...-e katkı sağlamak", "kok": "س ه م", "vezin": "فَاعَلَ (III)", "turevler": ["مُسَاهَمَة", "مُسَاهِم"], "ekBilgi": "فِي harf-i ceriyle (فِي التَّطْوِيرِ / فِي النَّجَاحِ) kullanılır", "ornek": "نَشْكُرُ كُلَّ مَنْ سَاهَمَ فِي إِنْجَاحِ الْحَفْلِ.", "ornekTr": "Törenin başarısına katkı sağlayan herkese teşekkür ederiz.", "kullanimNotu": "YDS'de en yüksek frekanslı III. bab fiillerindendir.", "tur": "Fiil" },
+    { "id": "m19_fc19", "ar": "اِعْتَمَدَ — يَعْتَمِدُ عَلَى", "harekesiz": "اعتمد — يعتمد على", "okunus": "İ‘temede — ya‘temidu ‘alâ", "tr": "...-e dayanmak / güvenmek", "kok": "ع م د", "vezin": "اِفْتَعَلَ (VIII)", "turevler": ["اِعْتِمَاد", "مُعْتَمَد"], "ekBilgi": "عَلَى harf-i ceriyle âid zamir alır: الَّذِي يَعْتَمِدُ عَلَيْهِ", "ornek": "أُرَاجِعُ الْمَرَاجِعَ الَّتِي اعْتَمَدْتُ عَلَيْهَا.", "ornekTr": "Dayandığım kaynakları gözden geçiriyorum.", "kullanimNotu": "Akademik metinlerin demirbaşıdır.", "tur": "Fiil" },
+    { "id": "m19_fc20", "ar": "أَشْرَفَ — يُشْرِفُ عَلَى", "harekesiz": "أشرف — يشرف على", "okunus": "Eşrafe — yuşrifu ‘alâ", "tr": "Gözetmek / danışmanlık yapmak / yönetmek", "kok": "ش ر ف", "vezin": "أَفْعَلَ (IV)", "turevler": ["إِشْرَاف", "مُشْرِف"], "ekBilgi": "عَلَى harf-i ceriyle (عَلَى الْمَشْرُوعِ / عَلَى الْبَحْثِ) kullanılır", "ornek": "اَلْأُسْتَاذُ الَّذِي أَشْرَفَ عَلَى مَشْرُوعِنَا خَبِيرٌ.", "ornekTr": "Projemize danışmanlık yapan hoca uzmandır.", "kullanimNotu": "مُشْرِفٌ = tez danışmanı / gözetmen.", "tur": "Fiil" },
+    { "id": "m19_fc21", "ar": "تَوَصَّلَ — يَتَوَصَّلُ إِلَى", "harekesiz": "توصل — يتوصل إلى", "okunus": "Tevassale — yetevassalu ilâ", "tr": "(Sonuca/anlaşmaya) ulaşmak / varmak", "kok": "و ص ل", "vezin": "تَفَعَّلَ (V)", "turevler": ["نَتَائِجُ", "وُصُول"], "ekBilgi": "إِلَى harf-i ceriyle (النَّتَائِجُ الَّتِي تَوَصَّلْنَا إِلَيْهَا) eşdizimlidir", "ornek": "النَّتَائِجُ الَّتِي تَوَصَّلْنَا إِلَيْهَا مُبَشِّرَةٌ.", "ornekTr": "Ulaştığımız sonuçlar umut vericidir.", "kullanimNotu": "Bilimsel makalelerde çok sıktır.", "tur": "Fiil" },
+    { "id": "m19_fc22", "ar": "تَمَيَّزَ — يَتَمَيَّزُ بِـ", "harekesiz": "تميز — يتميز بـ", "okunus": "Temeyyeze — yetemeyyezu bi-", "tr": "... ile öne çıkmak / ayırt edilmek", "kok": "م ي ز", "vezin": "تَفَعَّلَ (V)", "turevler": ["مُمَيِّزَات", "مُتَمَيِّز"], "ekBilgi": "بِـ harf-i ceriyle (الْمُمَيِّزَاتُ الَّتِي تَتَمَيَّزُ بِهَا) kullanılır", "ornek": "تَتَمَيَّزُ الْقَاعَةُ بِالْهُدُوءِ التَّامِّ.", "ornekTr": "Salon tam sakinliğiyle öne çıkıyor.", "kullanimNotu": "Tanıtım ve betimleme metinlerinin gözdesidir.", "tur": "Fiil" },
+    { "id": "m19_fc23", "ar": "تَنَاوَلَ — يَتَنَاوَلُ", "harekesiz": "تناول — يتناول", "okunus": "Tenâvele — yetenâvelu", "tr": "(Konuyu) ele almak / (yemek/ilaç) almak", "kok": "ن و ل", "vezin": "تَفَاعَلَ (VI)", "turevler": ["تَنَاوُل", "مُتَنَاوَل"], "ekBilgi": "Akademik metinde 'ele almak', günlük dilde 'yemek/içmek' demektir!", "ornek": "أَعْجَبَنِي الْمَقَالُ الَّذِي يَتَنَاوَلُ التَّرْجَمَةَ.", "ornekTr": "Çeviriyi ele alan makale hoşuma gitti.", "kullanimNotu": "Doğrudan nesne alır (harf-i cersiz).", "tur": "Fiil" },
+    { "id": "m19_fc24", "ar": "اِتَّخَذَ — يَتَّخِذُ (قَرَارًا)", "harekesiz": "اتخذ — يتخذ قرارا", "okunus": "İttehaze — yettehizu karâran", "tr": "(Karar / tedbir) almak / edinmek", "kok": "أ خ ذ", "vezin": "اِفْتَعَلَ (VIII)", "turevler": ["اِتِّخَاذُ الْقَرَارِ", "مُتَّخَذ"], "ekBilgi": "قَرَار (karar) ve إِجْرَاءَات (tedbirler) ile klasik eşdizimdir", "ornek": "اَلْقَرَارُ الَّذِي اتَّخَذَهُ الْمَجْلِسُ حَكِيمٌ.", "ornekTr": "Meclisin aldığı karar hikmetlidir.", "kullanimNotu": "VIII. babda أ → ت dönüşerek şeddelenir (اِتَّخَذَ)!", "tur": "Fiil" },
+    { "id": "m19_fc25", "ar": "أَطَلَّ — يُطِلُّ عَلَى", "harekesiz": "أطل — يطل على", "okunus": "Etalle — yutıllu ‘alâ", "tr": "...-e bakmak / manzarası olmak", "kok": "ط ل ل", "vezin": "أَفَعَّ (IV + مُضَعَّف)", "turevler": ["إِطْلَالَة", "مُطِلّ"], "ekBilgi": "عَلَى harf-i ceriyle (تُطِلُّ عَلَى الْبَحْرِ / الْحَدِيقَةِ) kullanılır", "ornek": "النَّوَافِذُ الَّتِي تُطِلُّ عَلَى الْحَدِيقَةِ وَاسِعَةٌ.", "ornekTr": "Parka bakan pencereler geniştir.", "kullanimNotu": "إِطْلَالَةٌ = manzara!", "tur": "Fiil" },
+    { "id": "m19_fc26", "ar": "طَرَحَ — يَطْرَحُ (فِكْرَةً / سُؤَالًا)", "harekesiz": "طرح — يطرح", "okunus": "Taraha — yatrahu", "tr": "(Fikir/soru) ortaya atmak / sunmak", "kok": "ط ر ح", "vezin": "فَعَلَ (3. Bab)", "turevler": ["طَرْح", "مَطْرُوح"], "ekBilgi": "سُؤَال (soru) ve فِكْرَة (fikir) ile eşdizimlidir", "ornek": "أَعْجَبَتْنِي الْفِكْرَةُ الَّتِي طَرَحْتَهَا.", "ornekTr": "Ortaya attığın fikir hoşuma gitti.", "kullanimNotu": "Matematikte 'çıkarma işlemi' anlamına da gelir.", "tur": "Fiil" },
+    { "id": "m19_fc27", "ar": "بَادَرَ — يُبَادِرُ بِـ", "harekesiz": "بادر — يبادر بـ", "okunus": "Bâdera — yubâdiru bi-", "tr": "İlk adımı atmak / girişimde bulunmak", "kok": "ب د ر", "vezin": "فَاعَلَ (III)", "turevler": ["مُبَادَرَة", "مُبَادِر"], "ekBilgi": "بِـ veya إِلَى harf-i ceriyle kullanılır", "ornek": "كُنْ أَنْتَ الَّذِي يُبَادِرُ بِالْمُسَاعَدَةِ!", "ornekTr": "Yardımda ilk adımı atan sen ol!", "kullanimNotu": "مُبَادَرَةٌ = girişim / inisiyatif.", "tur": "Fiil" },
+    { "id": "m19_fc28", "ar": "صَمَدَ — يَصْمُدُ أَمَامَ", "harekesiz": "صمد — يصمد أمام", "okunus": "Samede — yasmudu emâme", "tr": "Dayanmak / direnmek / ayakta kalmak", "kok": "ص م د", "vezin": "فَعَلَ (1. Bab)", "turevler": ["صُمُود", "صَامِد"], "ekBilgi": "أَمَامَ التَّحَدِّيَاتِ (zorluklar karşısında dayanmak) kalıbıyla meşhurdur", "ornek": "اَلْمُؤَسَّسَاتُ الْقَوِيَّةُ تَصْمُدُ أَمَامَ التَّحَدِّيَاتِ.", "ornekTr": "Güçlü kurumlar zorluklar karşısında ayakta kalır.", "kullanimNotu": "1. bab fiildir.", "tur": "Fiil" },
+    { "id": "m19_fc29", "ar": "اِسْتَحَقَّ — يَسْتَحِقُّ", "harekesiz": "استحق — يستحق", "okunus": "İstehakka — yestehıkku", "tr": "Hak etmek / layık olmak", "kok": "ح ق ق", "vezin": "اِسْتَفَعَّ (X + مُضَعَّف)", "turevler": ["اِسْتِحْقَاق", "مُسْتَحِقّ"], "ekBilgi": "Doğrudan nesne alır (يَسْتَحِقُّ الثِّقَةَ / يَسْتَحِقُّ الزِّيَارَةَ)", "ornek": "هٰذَا الْكِتَابُ يَسْتَحِقُّ الْقِرَاءَةَ فِعْلًا!", "ornekTr": "Bu kitap gerçekten okumaya değer!", "kullanimNotu": "Günlük ve akademik dilde çok sık geçer.", "tur": "Fiil" },
+    { "id": "m19_fc30", "ar": "حَصَلَ — يَحْصُلُ عَلَى", "harekesiz": "حصل — يحصل على", "okunus": "Hasale — yahsul ‘alâ", "tr": "Elde etmek / kazanmak", "kok": "ح ص ل", "vezin": "فَعَلَ (1. Bab)", "turevler": ["حُصُول", "مَحْصُول"], "ekBilgi": "عَلَى harf-i ceriyle (عَلَى الْمِنْحَةِ / عَلَى الشَّهَادَةِ) kullanılır", "ornek": "اَلْمَعْلُومَاتُ الَّتِي حَصَلْنَا عَلَيْهَا دَقِيقَةٌ.", "ornekTr": "Elde ettiğimiz bilgiler kesindir.", "kullanimNotu": "عَلَى'sız tek başına 'meydana gelmek / olmak' demektir!", "tur": "Fiil" },
+    { "id": "m19_fc31", "ar": "أَهْدَى — يُهْدِي", "harekesiz": "أهدى — يهدي", "okunus": "Ehdâ — yuhdî", "tr": "Hediye etmek / armağan etmek", "kok": "ه د ي", "vezin": "أَفْعَلَ (IV + نَاقِص)", "turevler": ["هَدِيَّة", "إِهْدَاء"], "ekBilgi": "İki nesne veya إِلَى ile kullanılır (أَهْدَاهُ كِتَابًا / أَهْدَى إِلَيْهِ)", "ornek": "قَرَأْتُ الْكِتَابَ الَّذِي أَهْدَيْتَهُ لِي.", "ornekTr": "Bana hediye ettiğin kitabı okudum.", "kullanimNotu": "هَدَى (I. bab: doğru yola iletti) ile أَهْدَى (IV. bab: hediye etti) farkına dikkat!", "tur": "Fiil" },
+    { "id": "m19_fc32", "ar": "تَضَمَّنَ / ضَمَّ — يَضُمُّ", "harekesiz": "تضمن / ضم — يضم", "okunus": "Tedammene / Damme — yedummu", "tr": "İçermek / barındırmak / kapsamak", "kok": "ض م م", "vezin": "تَفَعَّلَ / فَعَّ", "turevler": ["مَضْمُون", "ضِمْنَ"], "ekBilgi": "Kitap, müze, anlaşma ve rapor tanıtımlarında çok yaygındır", "ornek": "اَلْمَكْتَبَةُ الَّتِي تَضُمُّ مَخْطُوطَاتٍ نَادِرَةً عَرِيقَةٌ.", "ornekTr": "Nadir el yazmalarını barındıran kütüphane köklüdür.", "kullanimNotu": "ضِمْنَ = '... kapsamında / içinde'.", "tur": "Fiil" }
+  ]
+}

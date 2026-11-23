@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-23T07:48:29.978Z",
-  "totalItems": 696,
+  "generatedAt": "2026-11-23T08:11:37.945Z",
+  "totalItems": 807,
   "items": [
     {
       "id": "search_mod_01",
@@ -6701,6 +6701,1101 @@
       "subtitle": "Gramer Kuralı · M17",
       "ar": "أَسَالِيبُ الرَّجَاءِ الْمُهَذَّبِ وَأَسْمَاءُ أَفْعَالِ الْأَمْرِ (تَفَضَّلْ، تَعَالَ، هَاتِ)",
       "keywords": "Emir + مِنْ فَضْلِكَ / لَوْ سَمَحْتَ (Kibar Rica) | تَفَضَّلْ (Buyur!) | تَعَالَ (Gel!) | هَاتِ (Getir!) Arap kültüründe emir kipi kaba bir komut değil, doğru nezaket kelimeleriyle birleştiğinde çok zarif bir rica ve misafirp"
+    },
+    {
+      "id": "search_card_m18_fc01",
+      "type": "card",
+      "moduleId": "18",
+      "title": "Edilgen (Meçhul) fiil çatısı (El-mebniyyu li'l-mechûli)",
+      "subtitle": "SRS Kartı · M18 · Kök: ج ه ل",
+      "ar": "الْمَبْنِيُّ لِلْمَجْهُولِ",
+      "kok": "ج ه ل",
+      "keywords": "المبني للمجهول مَفْعُول Terim"
+    },
+    {
+      "id": "search_card_m18_fc02",
+      "type": "card",
+      "moduleId": "18",
+      "title": "Sözde özne (Fâil vekili) (Nâibu'l-fâ‘ili)",
+      "subtitle": "SRS Kartı · M18 · Kök: ن و ب",
+      "ar": "نَائِبُ الْفَاعِلِ",
+      "kok": "ن و ب",
+      "keywords": "نائب الفاعل فَاعِل Terim"
+    },
+    {
+      "id": "search_card_m18_fc03",
+      "type": "card",
+      "moduleId": "18",
+      "title": "Denildi — Denilir / Söylenir (Kîle — yukâlu)",
+      "subtitle": "SRS Kartı · M18 · Kök: ق و ل",
+      "ar": "قِيلَ — يُقَالُ",
+      "kok": "ق و ل",
+      "keywords": "قيل — يقال فِيلَ — يُفَالُ (أَجْوَف) Fiil"
+    },
+    {
+      "id": "search_card_m18_fc04",
+      "type": "card",
+      "moduleId": "18",
+      "title": "Satıldı — Satılır (Bî‘a — yubâ‘u)",
+      "subtitle": "SRS Kartı · M18 · Kök: ب ي ع",
+      "ar": "بِيعَ — يُبَاعُ",
+      "kok": "ب ي ع",
+      "keywords": "بيع — يباع فِيلَ — يُفَالُ (أَجْوَف) Fiil"
+    },
+    {
+      "id": "search_card_m18_fc05",
+      "type": "card",
+      "moduleId": "18",
+      "title": "İnşa edildi — İnşa edilir (Buniye — yubnâ)",
+      "subtitle": "SRS Kartı · M18 · Kök: ب ن ي",
+      "ar": "بُنِيَ — يُبْنَى",
+      "kok": "ب ن ي",
+      "keywords": "بني — يبنى فُعِلَ — يُفْعَى (نَاقِص) Fiil"
+    },
+    {
+      "id": "search_card_m18_fc06",
+      "type": "card",
+      "moduleId": "18",
+      "title": "Tartışıldı — Tartışılır (Nûkışe — yunâkaşu)",
+      "subtitle": "SRS Kartı · M18 · Kök: ن ق ش",
+      "ar": "نُوقِشَ — يُنَاقَشُ",
+      "kok": "ن ق ش",
+      "keywords": "نوقش — يناقش فُوعِلَ — يُفَاعَلُ (III) Fiil"
+    },
+    {
+      "id": "search_card_m18_fc07",
+      "type": "card",
+      "moduleId": "18",
+      "title": "Keşfedildi — Keşfedilir (Uktuşife — yukteşefu)",
+      "subtitle": "SRS Kartı · M18 · Kök: ك ش ف",
+      "ar": "اُكْتُشِفَ — يُكْتَشَفُ",
+      "kok": "ك ش ف",
+      "keywords": "اكتشف — يكتشف اُفْتُعِلَ — يُفْتَعَلُ (VIII) Fiil"
+    },
+    {
+      "id": "search_card_m18_fc08",
+      "type": "card",
+      "moduleId": "18",
+      "title": "Kullanıldı — Kullanılır (Ustuhdime — yustahdemu)",
+      "subtitle": "SRS Kartı · M18 · Kök: خ د م",
+      "ar": "اُسْتُخْدِمَ — يُسْتَخْدَمُ",
+      "kok": "خ د م",
+      "keywords": "استخدم — يستخدم اُسْتُفْعِلَ — يُسْتَفْعَلُ (X) Fiil"
+    },
+    {
+      "id": "search_card_m18_fc09",
+      "type": "card",
+      "moduleId": "18",
+      "title": "Doğdu — Doğar (Vulide — yûledu)",
+      "subtitle": "SRS Kartı · M18 · Kök: و ل د",
+      "ar": "وُلِدَ — يُولَدُ",
+      "kok": "و ل د",
+      "keywords": "ولد — يولد فُعِلَ — يُوعَلُ (مِثَال) Fiil"
+    },
+    {
+      "id": "search_card_m18_fc10",
+      "type": "card",
+      "moduleId": "18",
+      "title": "Vefat etti — Vefat eder (Tuvuffiye — yuteveffâ)",
+      "subtitle": "SRS Kartı · M18 · Kök: و ف ي",
+      "ar": "تُوُفِّيَ — يُتَوَفَّى",
+      "kok": "و ف ي",
+      "keywords": "توفي — يتوفى تُفُعِّلَ (V + نَاقِص) Fiil"
+    },
+    {
+      "id": "search_card_m18_fc11",
+      "type": "card",
+      "moduleId": "18",
+      "title": "(Hastalığa) yakalanmak / yaralanmak (Usîbe — yusâbu bi-)",
+      "subtitle": "SRS Kartı · M18 · Kök: ص و ب",
+      "ar": "أُصِيبَ — يُصَابُ بِـ",
+      "kok": "ص و ب",
+      "keywords": "أصيب — يصاب بـ أُفِيلَ — يُفَالُ (IV + أَجْوَف) Fiil"
+    },
+    {
+      "id": "search_card_m18_fc12",
+      "type": "card",
+      "moduleId": "18",
+      "title": "Sayılır / kabul edilir (Yu‘addu / Yu‘teberu)",
+      "subtitle": "SRS Kartı · M18 · Kök: ع د د",
+      "ar": "يُعَدُّ / يُعْتَبَرُ",
+      "kok": "ع د د",
+      "keywords": "يعد / يعتبر يُفَعُّ / يُفْتَعَلُ Fiil"
+    },
+    {
+      "id": "search_card_m18_fc13",
+      "type": "card",
+      "moduleId": "18",
+      "title": "İncelendi / (davaya) bakıldı (Nuzira — yunzeru fî)",
+      "subtitle": "SRS Kartı · M18 · Kök: ن ظ ر",
+      "ar": "نُظِرَ — يُنْظَرُ فِي",
+      "kok": "ن ظ ر",
+      "keywords": "نظر — ينظر في فُعِلَ + فِي Fiil"
+    },
+    {
+      "id": "search_card_m18_fc14",
+      "type": "card",
+      "moduleId": "18",
+      "title": "Onaylandı / kabul edildi (Vûfika — yuvâfaku ‘alâ)",
+      "subtitle": "SRS Kartı · M18 · Kök: و ف ق",
+      "ar": "وُوفِقَ — يُوَافَقُ عَلَى",
+      "kok": "و ف ق",
+      "keywords": "ووفق — يوافق على فُوعِلَ + عَلَى Fiil"
+    },
+    {
+      "id": "search_card_m18_fc15",
+      "type": "card",
+      "moduleId": "18",
+      "title": "İşaret edildi — İşaret edilmektedir (Uşîra — yuşâru ilâ)",
+      "subtitle": "SRS Kartı · M18 · Kök: ش و ر",
+      "ar": "أُشِيرَ — يُشَارُ إِلَى",
+      "kok": "ش و ر",
+      "keywords": "أشير — يشار إلى أُفِيلَ — يُفَالُ (IV) Kalıp"
+    },
+    {
+      "id": "search_card_m18_fc16",
+      "type": "card",
+      "moduleId": "18",
+      "title": "... olduğuna inanılmaktadır (Yu‘tekadu enne)",
+      "subtitle": "SRS Kartı · M18 · Kök: ع ق د",
+      "ar": "يُعْتَقَدُ أَنَّ",
+      "kok": "ع ق د",
+      "keywords": "يعتقد أن يُفْتَعَلُ Kalıp"
+    },
+    {
+      "id": "search_card_m18_fc17",
+      "type": "card",
+      "moduleId": "18",
+      "title": "... olduğu belirtilmektedir / kaydedilmektedir (Yuzkeru enne)",
+      "subtitle": "SRS Kartı · M18 · Kök: ذ ك ر",
+      "ar": "يُذْكَرُ أَنَّ",
+      "kok": "ذ ك ر",
+      "keywords": "يذكر أن يُفْعَلُ Kalıp"
+    },
+    {
+      "id": "search_card_m18_fc18",
+      "type": "card",
+      "moduleId": "18",
+      "title": "... olması beklenmektedir (Yutevakka‘u en / enne)",
+      "subtitle": "SRS Kartı · M18 · Kök: و ق ع",
+      "ar": "يُتَوَقَّعُ أَنْ / أَنَّ",
+      "kok": "و ق ع",
+      "keywords": "يتوقع أن يُتَفَعَّلُ (V) Kalıp"
+    },
+    {
+      "id": "search_card_m18_fc19",
+      "type": "card",
+      "moduleId": "18",
+      "title": "... yapılması rica olunur (Yurcâ en)",
+      "subtitle": "SRS Kartı · M18 · Kök: ر ج و",
+      "ar": "يُرْجَى أَنْ",
+      "kok": "ر ج و",
+      "keywords": "يرجى أن يُفْعَى (نَاقِص) Kalıp"
+    },
+    {
+      "id": "search_card_m18_fc20",
+      "type": "card",
+      "moduleId": "18",
+      "title": "Gerçekleştirildi / yapılıyor / yapılacak (Basın edilgeni) (Temme / Yetimmu / Se-yetimmu)",
+      "subtitle": "SRS Kartı · M18 · Kök: ت م م",
+      "ar": "تَمَّ / يَتِمُّ / سَيَتِمُّ + مَصْدَر",
+      "kok": "ت م م",
+      "keywords": "تم / يتم / سيتم فَعَّ — يَفِعُّ Kalıp"
+    },
+    {
+      "id": "search_card_m18_fc21",
+      "type": "card",
+      "moduleId": "18",
+      "title": "... tarafından (Modern basın edilgeni) (Min kıbeli)",
+      "subtitle": "SRS Kartı · M18 · Kök: ق ب ل",
+      "ar": "مِنْ قِبَلِ",
+      "kok": "ق ب ل",
+      "keywords": "من قبل جَارّ وَمَجْرُور Kalıp"
+    },
+    {
+      "id": "search_card_m18_fc22",
+      "type": "card",
+      "moduleId": "18",
+      "title": "Bulunuyor / vardır (Yûcedu / Tûcedu)",
+      "subtitle": "SRS Kartı · M18 · Kök: و ج د",
+      "ar": "يُوجَدُ / تُوجَدُ",
+      "kok": "و ج د",
+      "keywords": "يوجد / توجد يُوعَلُ (مِثَال) Fiil"
+    },
+    {
+      "id": "search_card_m18_fc23",
+      "type": "card",
+      "moduleId": "18",
+      "title": "...-e izin veriliyor / serbesttir (Yusmehu bi-)",
+      "subtitle": "SRS Kartı · M18 · Kök: س م ح",
+      "ar": "يُسْمَحُ بِـ",
+      "kok": "س م ح",
+      "keywords": "يسمح بـ يُفْعَلُ + بِـ Kalıp"
+    },
+    {
+      "id": "search_card_m18_fc24",
+      "type": "card",
+      "moduleId": "18",
+      "title": "Vazgeçilmez / onsuz olunamaz (Lâ yustagnâ ‘anhu)",
+      "subtitle": "SRS Kartı · M18 · Kök: غ ن ي",
+      "ar": "لَا يُسْتَغْنَى عَنْهُ",
+      "kok": "غ ن ي",
+      "keywords": "لا يستغنى عنه يُسْتَفْعَى (X + نَاقِص) Kalıp"
+    },
+    {
+      "id": "search_card_m18_fc25",
+      "type": "card",
+      "moduleId": "18",
+      "title": "İade edildi / yeniden yapıldı (U‘îde — yu‘âdu)",
+      "subtitle": "SRS Kartı · M18 · Kök: ع و د",
+      "ar": "أُعِيدَ — يُعَادُ",
+      "kok": "ع و د",
+      "keywords": "أعيد — يعاد أُفِيلَ — يُفَالُ (IV + أَجْوَف) Fiil"
+    },
+    {
+      "id": "search_card_m18_fc26",
+      "type": "card",
+      "moduleId": "18",
+      "title": "İmkân tanındı / sunuldu (Utîha — yutâhu)",
+      "subtitle": "SRS Kartı · M18 · Kök: ت ي ح",
+      "ar": "أُتِيحَ — يُتَاحُ",
+      "kok": "ت ي ح",
+      "keywords": "أتيح — يتاح أُفِيلَ — يُفَالُ (IV + أَجْوَف) Fiil"
+    },
+    {
+      "id": "search_card_m18_fc27",
+      "type": "card",
+      "moduleId": "18",
+      "title": "(Deney/tahlil/seçim) yapıldı / yürütüldü (Ucriye — yucrâ)",
+      "subtitle": "SRS Kartı · M18 · Kök: ج ر ي",
+      "ar": "أُجْرِيَ — يُجْرَى",
+      "kok": "ج ر ي",
+      "keywords": "أجري — يجرى أُفْعِلَ — يُفْعَى (IV + نَاقِص) Fiil"
+    },
+    {
+      "id": "search_card_m18_fc28",
+      "type": "card",
+      "moduleId": "18",
+      "title": "Seçildi — Seçilir (Uhtîra — yuhtâru)",
+      "subtitle": "SRS Kartı · M18 · Kök: خ ي ر",
+      "ar": "أُخْتِيرَ — يُخْتَارُ",
+      "kok": "خ ي ر",
+      "keywords": "اختير — يختار اُفْتِيلَ — يُفْتَالُ (VIII) Fiil"
+    },
+    {
+      "id": "search_card_m18_fc29",
+      "type": "card",
+      "moduleId": "18",
+      "title": "(Ödül/burs) verildi / bahşedildi (Muniha — yumnehu)",
+      "subtitle": "SRS Kartı · M18 · Kök: م ن ح",
+      "ar": "مُنِحَ — يُمْنَحُ",
+      "kok": "م ن ح",
+      "keywords": "منح — يمنح فُعِلَ — يُفْعَلُ Fiil"
+    },
+    {
+      "id": "search_card_m18_fc30",
+      "type": "card",
+      "moduleId": "18",
+      "title": "Ödüllendirildi / onurlandırıldı (Kurrime — yukerramu)",
+      "subtitle": "SRS Kartı · M18 · Kök: ك ر م",
+      "ar": "كُرِّمَ — يُكَرَّمُ",
+      "kok": "ك ر م",
+      "keywords": "كرم — يكرم فُعِّلَ — يُفَعَّلُ (II) Fiil"
+    },
+    {
+      "id": "search_card_m18_fc31",
+      "type": "card",
+      "moduleId": "18",
+      "title": "Tercüme edildi — Tercüme edilir (Turcime — yutercemu)",
+      "subtitle": "SRS Kartı · M18 · Kök: ت ر ج م",
+      "ar": "تُرْجِمَ — يُتَرْجَمُ",
+      "kok": "ت ر ج م",
+      "keywords": "ترجم — يترجم فُعْلِلَ — يُفَعْلَلُ (رُبَاعِيّ) Fiil"
+    },
+    {
+      "id": "search_card_m18_fc32",
+      "type": "card",
+      "moduleId": "18",
+      "title": "... olduğu gözlemlenmektedir (Yulâhazu enne)",
+      "subtitle": "SRS Kartı · M18 · Kök: ل ح ظ",
+      "ar": "يُلَاحَظُ أَنَّ",
+      "kok": "ل ح ظ",
+      "keywords": "يلاحظ أن يُفَاعَلُ (III) Kalıp"
+    },
+    {
+      "id": "search_gram_m18_g1",
+      "type": "grammar",
+      "moduleId": "18",
+      "title": "Mâzi Meçhul (فُعِلَ) — Geçmiş Zaman Edilgen Melodisi",
+      "subtitle": "Gramer Kuralı · M18",
+      "ar": "بِنَاءُ الْفِعْلِ الْمَاضِي لِلْمَجْهُولِ (فُعِلَ)",
+      "keywords": "Mâzi Meçhul: Sondan Bir Önceki (ـِ) + Önceki Tüm Harekeliler (ـُ) | قَالَ→قِيلَ | شَاهَدَ→شُوهِدَ Türkçede edilgen yapmak için fiile `-ıl / -il / -ın` eki takarız ('yazdı → yazıldı'). Arapçada ise ek takmaya bile gerek"
+    },
+    {
+      "id": "search_gram_m18_g2",
+      "type": "grammar",
+      "moduleId": "18",
+      "title": "Muzâri Meçhul (يُفْعَلُ) — Şimdiki / Geniş / Gelecek Zaman Edilgen",
+      "subtitle": "Gramer Kuralı · M18",
+      "ar": "بِنَاءُ الْفِعْلِ الْمُضَارِعِ لِلْمَجْهُولِ (يُفْعَلُ)",
+      "keywords": "Muzâri Meçhul: İlk Harf (يُـ) + Sondan Bir Önceki (ـَ) | يَقُولُ→يُقَالُ | يَبْنِي→يُبْنَى Muzâri fiili edilgen yapmak mâziden bile daha kolaydır! Yalnızca iki harfe dokunursunuz: **'En baştaki muzâraat harfini "
+    },
+    {
+      "id": "search_gram_m18_g3",
+      "type": "grammar",
+      "moduleId": "18",
+      "title": "Nâib-i Fâil (نَائِبُ الْفَاعِلِ) — Sözde Öznenin Ref' ve Cinsiyet Kuralları",
+      "subtitle": "Gramer Kuralı · M18",
+      "ar": "نَائِبُ الْفَاعِلِ وَأَحْكَامُهُ (الرَّفْعُ وَالْمُطَابَقَةُ)",
+      "keywords": "Etken: Fiil + Fâil (Merfû) + Mef'ûl (Mansub)  →  Edilgen: Meçhul Fiil + Nâib-i Fâil (MERFÛ!) Meçhul fiilin yanında artık gerçek fâil (işi yapan) yoktur; o koltuk boş kalmıştır! Arapça nahivde koltuk asla boş bırak"
+    },
+    {
+      "id": "search_gram_m18_g4",
+      "type": "grammar",
+      "moduleId": "18",
+      "title": "Harf-i Cerli (Şibh-i Cümle) & Müevvel Mastarlı Nâib-i Fâil",
+      "subtitle": "Gramer Kuralı · M18",
+      "ar": "نَائِبُ الْفَاعِلِ: شِبْهُ الْجُمْلَةِ وَالْمَصْدَرُ الْمُؤَوَّلُ",
+      "keywords": "Meçhul (Tekil Eril!) + Harf-i Cer + Mecrûr  |  يُعْتَقَدُ / يُلَاحَظُ / يُرْجَى + أَنَّ / أَنْ (Müevvel Mastar) Peki ya bir fiilin doğrudan nesnesi (mef'ûlün bih) yoksa, harf-i cerle nesne alıyorsa (`نَظَرَ فِي الْقَضِيَّةِ` = mesel"
+    },
+    {
+      "id": "search_gram_m18_g5",
+      "type": "grammar",
+      "moduleId": "18",
+      "title": "Basın & YDS/YÖKDİL Arapçasında Altın Meçhul Kalıplar + تَمَّ + Mastar",
+      "subtitle": "Gramer Kuralı · M18",
+      "ar": "تَعَابِيرُ الْمَجْهُولِ فِي لُغَةِ الصِّحَافَةِ وَالِامْتِحَانَاتِ + «تَمَّ / جَرَى» + الْمَصْدَرُ",
+      "keywords": "Basın Edilgeni: تَمَّ / يَتِمُّ / سَيَتِمُّ + Mastar (= Meçhul Fiil!) | يُعْتَبَرُ / يُعَدُّ / أُصِيبَ بِـ / تُوُفِّيَ Modern Arap gazetelerini, haber bültenlerini veya YDS/YÖKDİL parçalarını açtığınızda iki dev edilgen stratejisiyle karşı"
+    },
+    {
+      "id": "search_card_m19_fc01",
+      "type": "card",
+      "moduleId": "19",
+      "title": "İsm-i mevsûl (İlgi zamiri / bağlayıcı isim) (El-ismu'l-mevsûlu)",
+      "subtitle": "SRS Kartı · M19 · Kök: و ص ل",
+      "ar": "الِاسْمُ الْمَوْصُولُ",
+      "kok": "و ص ل",
+      "keywords": "الاسم الموصول مَفْعُول Terim"
+    },
+    {
+      "id": "search_card_m19_fc02",
+      "type": "card",
+      "moduleId": "19",
+      "title": "...-an / -dığı (Tekil eril) (Ellezî)",
+      "subtitle": "SRS Kartı · M19 · Kök: ا س م",
+      "ar": "الَّذِي",
+      "kok": "ا س م",
+      "keywords": "الذي مَبْنِيّ Zamir"
+    },
+    {
+      "id": "search_card_m19_fc03",
+      "type": "card",
+      "moduleId": "19",
+      "title": "...-an / -dığı (Tekil dişil & TÜM akılsız çoğullar!) (Elletî)",
+      "subtitle": "SRS Kartı · M19 · Kök: ا س م",
+      "ar": "الَّتِي",
+      "kok": "ا س م",
+      "keywords": "التي مَبْنِيّ Zamir"
+    },
+    {
+      "id": "search_card_m19_fc04",
+      "type": "card",
+      "moduleId": "19",
+      "title": "...-an iki kişi (İkil eril — MURAB!) (Ellezâni / Ellezeyni)",
+      "subtitle": "SRS Kartı · M19 · Kök: ا س م",
+      "ar": "اللَّذَانِ / اللَّذَيْنِ",
+      "kok": "ا س م",
+      "keywords": "اللذان / اللذين مُعْرَب (مُثَنَّى) Zamir"
+    },
+    {
+      "id": "search_card_m19_fc05",
+      "type": "card",
+      "moduleId": "19",
+      "title": "...-an iki (dişil — MURAB!) (Elletâni / Elleteyni)",
+      "subtitle": "SRS Kartı · M19 · Kök: ا س م",
+      "ar": "اللَّتَانِ / اللَّتَيْنِ",
+      "kok": "ا س م",
+      "keywords": "اللتان / اللتين مُعْرَب (مُثَنَّى) Zamir"
+    },
+    {
+      "id": "search_card_m19_fc06",
+      "type": "card",
+      "moduleId": "19",
+      "title": "...-anlar / -dıkları (Akıllı çoğul eril) (Ellezîne)",
+      "subtitle": "SRS Kartı · M19 · Kök: ا س م",
+      "ar": "الَّذِينَ",
+      "kok": "ا س م",
+      "keywords": "الذين مَبْنِيّ Zamir"
+    },
+    {
+      "id": "search_card_m19_fc07",
+      "type": "card",
+      "moduleId": "19",
+      "title": "...-anlar (Akıllı çoğul dişil) (Ellâtî / Ellevâtî)",
+      "subtitle": "SRS Kartı · M19 · Kök: ا س م",
+      "ar": "اللَّاتِي / اللَّوَاتِي",
+      "kok": "ا س م",
+      "keywords": "اللاتي / اللواتي مَبْنِيّ Zamir"
+    },
+    {
+      "id": "search_card_m19_fc08",
+      "type": "card",
+      "moduleId": "19",
+      "title": "...-an kimse / kimseler (Müşterek akıllı) (Men)",
+      "subtitle": "SRS Kartı · M19 · Kök: ا س م",
+      "ar": "مَنْ (الْمَوْصُولَةُ)",
+      "kok": "ا س م",
+      "keywords": "من مَبْنِيّ Zamir"
+    },
+    {
+      "id": "search_card_m19_fc09",
+      "type": "card",
+      "moduleId": "19",
+      "title": "...-dığı şey / olan şey (Müşterek akılsız) (Mâ)",
+      "subtitle": "SRS Kartı · M19 · Kök: ا س م",
+      "ar": "مَا (الْمَوْصُولَةُ)",
+      "kok": "ا س م",
+      "keywords": "ما مَبْنِيّ Zamir"
+    },
+    {
+      "id": "search_card_m19_fc10",
+      "type": "card",
+      "moduleId": "19",
+      "title": "Sıla cümlesi (İsm-i mevsûlü tamamlayan cümle) (Cumletu's-sılati)",
+      "subtitle": "SRS Kartı · M19 · Kök: و ص ل",
+      "ar": "جُمْلَةُ الصِّلَةِ",
+      "kok": "و ص ل",
+      "keywords": "جملة الصلة تَرْكِيب نَحْوِيّ Terim"
+    },
+    {
+      "id": "search_card_m19_fc11",
+      "type": "card",
+      "moduleId": "19",
+      "title": "Âid (dönüş) zamiri (Ed-damîru'l-‘âidu)",
+      "subtitle": "SRS Kartı · M19 · Kök: ع و د",
+      "ar": "الضَّمِيرُ الْعَائِدُ",
+      "kok": "ع و د",
+      "keywords": "الضمير العائد فَاعِل Terim"
+    },
+    {
+      "id": "search_card_m19_fc12",
+      "type": "card",
+      "moduleId": "19",
+      "title": "... şeyden / Ki bu da ... (YDS sonuç kalıbı!) (Mimmâ)",
+      "subtitle": "SRS Kartı · M19 · Kök: ح ر ف",
+      "ar": "مِمَّا (مِنْ + مَا)",
+      "kok": "ح ر ف",
+      "keywords": "مما مِنْ + مَا Kalıp"
+    },
+    {
+      "id": "search_card_m19_fc13",
+      "type": "card",
+      "moduleId": "19",
+      "title": "... ile ilgili olarak / hususunda (Fîmâ yete‘allaku bi-)",
+      "subtitle": "SRS Kartı · M19 · Kök: ع ل ق",
+      "ar": "فِيمَا يَتَعَلَّقُ بِـ",
+      "kok": "ع ل ق",
+      "keywords": "فيما يتعلق بـ عِبَارَة أَكَادِيمِيَّة Kalıp"
+    },
+    {
+      "id": "search_card_m19_fc14",
+      "type": "card",
+      "moduleId": "19",
+      "title": "... şey hakkında / şeyden (‘Ammâ)",
+      "subtitle": "SRS Kartı · M19 · Kök: ح ر ف",
+      "ar": "عَمَّا (عَنْ + مَا)",
+      "kok": "ح ر ف",
+      "keywords": "عما عَنْ + مَا Kalıp"
+    },
+    {
+      "id": "search_card_m19_fc15",
+      "type": "card",
+      "moduleId": "19",
+      "title": "Mademki / ... olduğuna göre (Bimâ enne)",
+      "subtitle": "SRS Kartı · M19 · Kök: ح ر ف",
+      "ar": "بِمَا أَنَّ",
+      "kok": "ح ر ف",
+      "keywords": "بما أن أَدَاةُ تَعْلِيلٍ Kalıp"
+    },
+    {
+      "id": "search_card_m19_fc16",
+      "type": "card",
+      "moduleId": "19",
+      "title": "... yapan kimseler / insanlar vardır (Hunâke men)",
+      "subtitle": "SRS Kartı · M19 · Kök: ا س م",
+      "ar": "هُنَاكَ مَنْ",
+      "kok": "ا س م",
+      "keywords": "هناك من تَرْكِيب أَكَادِيمِيّ Kalıp"
+    },
+    {
+      "id": "search_card_m19_fc17",
+      "type": "card",
+      "moduleId": "19",
+      "title": "...-e yol açmak / sebep olmak (Eddâ — yueddî ilâ)",
+      "subtitle": "SRS Kartı · M19 · Kök: أ د ي",
+      "ar": "أَدَّى — يُؤَدِّي إِلَى",
+      "kok": "أ د ي",
+      "keywords": "أدى — يؤدي إلى فَعَّلَ (II) Fiil"
+    },
+    {
+      "id": "search_card_m19_fc18",
+      "type": "card",
+      "moduleId": "19",
+      "title": "...-e katkı sağlamak (Sâheme — yusâhimu fî)",
+      "subtitle": "SRS Kartı · M19 · Kök: س ه م",
+      "ar": "سَاهَمَ — يُسَاهِمُ فِي",
+      "kok": "س ه م",
+      "keywords": "ساهم — يساهم في فَاعَلَ (III) Fiil"
+    },
+    {
+      "id": "search_card_m19_fc19",
+      "type": "card",
+      "moduleId": "19",
+      "title": "...-e dayanmak / güvenmek (İ‘temede — ya‘temidu ‘alâ)",
+      "subtitle": "SRS Kartı · M19 · Kök: ع م د",
+      "ar": "اِعْتَمَدَ — يَعْتَمِدُ عَلَى",
+      "kok": "ع م د",
+      "keywords": "اعتمد — يعتمد على اِفْتَعَلَ (VIII) Fiil"
+    },
+    {
+      "id": "search_card_m19_fc20",
+      "type": "card",
+      "moduleId": "19",
+      "title": "Gözetmek / danışmanlık yapmak / yönetmek (Eşrafe — yuşrifu ‘alâ)",
+      "subtitle": "SRS Kartı · M19 · Kök: ش ر ف",
+      "ar": "أَشْرَفَ — يُشْرِفُ عَلَى",
+      "kok": "ش ر ف",
+      "keywords": "أشرف — يشرف على أَفْعَلَ (IV) Fiil"
+    },
+    {
+      "id": "search_card_m19_fc21",
+      "type": "card",
+      "moduleId": "19",
+      "title": "(Sonuca/anlaşmaya) ulaşmak / varmak (Tevassale — yetevassalu ilâ)",
+      "subtitle": "SRS Kartı · M19 · Kök: و ص ل",
+      "ar": "تَوَصَّلَ — يَتَوَصَّلُ إِلَى",
+      "kok": "و ص ل",
+      "keywords": "توصل — يتوصل إلى تَفَعَّلَ (V) Fiil"
+    },
+    {
+      "id": "search_card_m19_fc22",
+      "type": "card",
+      "moduleId": "19",
+      "title": "... ile öne çıkmak / ayırt edilmek (Temeyyeze — yetemeyyezu bi-)",
+      "subtitle": "SRS Kartı · M19 · Kök: م ي ز",
+      "ar": "تَمَيَّزَ — يَتَمَيَّزُ بِـ",
+      "kok": "م ي ز",
+      "keywords": "تميز — يتميز بـ تَفَعَّلَ (V) Fiil"
+    },
+    {
+      "id": "search_card_m19_fc23",
+      "type": "card",
+      "moduleId": "19",
+      "title": "(Konuyu) ele almak / (yemek/ilaç) almak (Tenâvele — yetenâvelu)",
+      "subtitle": "SRS Kartı · M19 · Kök: ن و ل",
+      "ar": "تَنَاوَلَ — يَتَنَاوَلُ",
+      "kok": "ن و ل",
+      "keywords": "تناول — يتناول تَفَاعَلَ (VI) Fiil"
+    },
+    {
+      "id": "search_card_m19_fc24",
+      "type": "card",
+      "moduleId": "19",
+      "title": "(Karar / tedbir) almak / edinmek (İttehaze — yettehizu karâran)",
+      "subtitle": "SRS Kartı · M19 · Kök: أ خ ذ",
+      "ar": "اِتَّخَذَ — يَتَّخِذُ (قَرَارًا)",
+      "kok": "أ خ ذ",
+      "keywords": "اتخذ — يتخذ قرارا اِفْتَعَلَ (VIII) Fiil"
+    },
+    {
+      "id": "search_card_m19_fc25",
+      "type": "card",
+      "moduleId": "19",
+      "title": "...-e bakmak / manzarası olmak (Etalle — yutıllu ‘alâ)",
+      "subtitle": "SRS Kartı · M19 · Kök: ط ل ل",
+      "ar": "أَطَلَّ — يُطِلُّ عَلَى",
+      "kok": "ط ل ل",
+      "keywords": "أطل — يطل على أَفَعَّ (IV + مُضَعَّف) Fiil"
+    },
+    {
+      "id": "search_card_m19_fc26",
+      "type": "card",
+      "moduleId": "19",
+      "title": "(Fikir/soru) ortaya atmak / sunmak (Taraha — yatrahu)",
+      "subtitle": "SRS Kartı · M19 · Kök: ط ر ح",
+      "ar": "طَرَحَ — يَطْرَحُ (فِكْرَةً / سُؤَالًا)",
+      "kok": "ط ر ح",
+      "keywords": "طرح — يطرح فَعَلَ (3. Bab) Fiil"
+    },
+    {
+      "id": "search_card_m19_fc27",
+      "type": "card",
+      "moduleId": "19",
+      "title": "İlk adımı atmak / girişimde bulunmak (Bâdera — yubâdiru bi-)",
+      "subtitle": "SRS Kartı · M19 · Kök: ب د ر",
+      "ar": "بَادَرَ — يُبَادِرُ بِـ",
+      "kok": "ب د ر",
+      "keywords": "بادر — يبادر بـ فَاعَلَ (III) Fiil"
+    },
+    {
+      "id": "search_card_m19_fc28",
+      "type": "card",
+      "moduleId": "19",
+      "title": "Dayanmak / direnmek / ayakta kalmak (Samede — yasmudu emâme)",
+      "subtitle": "SRS Kartı · M19 · Kök: ص م د",
+      "ar": "صَمَدَ — يَصْمُدُ أَمَامَ",
+      "kok": "ص م د",
+      "keywords": "صمد — يصمد أمام فَعَلَ (1. Bab) Fiil"
+    },
+    {
+      "id": "search_card_m19_fc29",
+      "type": "card",
+      "moduleId": "19",
+      "title": "Hak etmek / layık olmak (İstehakka — yestehıkku)",
+      "subtitle": "SRS Kartı · M19 · Kök: ح ق ق",
+      "ar": "اِسْتَحَقَّ — يَسْتَحِقُّ",
+      "kok": "ح ق ق",
+      "keywords": "استحق — يستحق اِسْتَفَعَّ (X + مُضَعَّف) Fiil"
+    },
+    {
+      "id": "search_card_m19_fc30",
+      "type": "card",
+      "moduleId": "19",
+      "title": "Elde etmek / kazanmak (Hasale — yahsul ‘alâ)",
+      "subtitle": "SRS Kartı · M19 · Kök: ح ص ل",
+      "ar": "حَصَلَ — يَحْصُلُ عَلَى",
+      "kok": "ح ص ل",
+      "keywords": "حصل — يحصل على فَعَلَ (1. Bab) Fiil"
+    },
+    {
+      "id": "search_card_m19_fc31",
+      "type": "card",
+      "moduleId": "19",
+      "title": "Hediye etmek / armağan etmek (Ehdâ — yuhdî)",
+      "subtitle": "SRS Kartı · M19 · Kök: ه د ي",
+      "ar": "أَهْدَى — يُهْدِي",
+      "kok": "ه د ي",
+      "keywords": "أهدى — يهدي أَفْعَلَ (IV + نَاقِص) Fiil"
+    },
+    {
+      "id": "search_card_m19_fc32",
+      "type": "card",
+      "moduleId": "19",
+      "title": "İçermek / barındırmak / kapsamak (Tedammene / Damme — yedummu)",
+      "subtitle": "SRS Kartı · M19 · Kök: ض م م",
+      "ar": "تَضَمَّنَ / ضَمَّ — يَضُمُّ",
+      "kok": "ض م م",
+      "keywords": "تضمن / ضم — يضم تَفَعَّلَ / فَعَّ Fiil"
+    },
+    {
+      "id": "search_gram_m19_g1",
+      "type": "grammar",
+      "moduleId": "19",
+      "title": "Özel İsm-i Mevsûller (الَّذِي، الَّتِي، اللَّذَانِ، الَّذِينَ، اللَّاتِي) & İkil İ'rabı",
+      "subtitle": "Gramer Kuralı · M19",
+      "ar": "الْأَسْمَاءُ الْمَوْصُولَةُ الْخَاصَّةُ وَإِعْرَابُ الْمُثَنَّى مِنْهَا",
+      "keywords": "Tekil/Çoğul: Mebnî (الَّذِي / الَّتِي / الَّذِينَ / اللَّاتِي) | İkil: Murab (اللَّذَانِ←اللَّذَيْنِ | اللَّتَانِ←اللَّتَيْنِ) | Akılsız Çoğul: الَّتِي! Türkçede iki cümleyi tek bir akıcı cümlede birleştirmek için '-an/-en' veya '-dığı/-diği' eklerini kullanırız ('Kitabı o"
+    },
+    {
+      "id": "search_gram_m19_g2",
+      "type": "grammar",
+      "moduleId": "19",
+      "title": "Sıla Cümlesi (جُمْلَةُ الصِّلَةِ) & Âid (Dönüş) Zamiri (الْعَائِدُ)",
+      "subtitle": "Gramer Kuralı · M19",
+      "ar": "جُمْلَةُ الصِّلَةِ وَالضَّمِيرُ الْعَائِدُ",
+      "keywords": "İsm-i Mevsûl + Sıla Cümlesi (İçinde sayı/cinsiyetçe uyumlu Âid Zamiri: هُوَ / ـهُ / فِيهَا!) Birine sadece `جَاءَ الطَّالِبُ الَّذِي...` ('... olan öğrenci geldi') deyip susarsanız karşınızdaki 'Ne olan öğrenci?!'"
+    },
+    {
+      "id": "search_gram_m19_g3",
+      "type": "grammar",
+      "moduleId": "19",
+      "title": "Müşterek (Ortak) İsm-i Mevsûller: مَنْ (...-an kimse) & مَا (...-dığı şey)",
+      "subtitle": "Gramer Kuralı · M19",
+      "ar": "الْأَسْمَاءُ الْمَوْصُولَةُ الْمُشْتَرَكَةُ: «مَنْ» (لِلْعَاقِلِ) وَ«مَا» (لِغَيْرِ الْعَاقِلِ)",
+      "keywords": "مَنْ = الَّذِي / الَّذِينَ (İnsan için) | مَا = الَّذِي / الَّتِي (Nesne/Olay için) | مِنْ+مَا=مِمَّا | عَنْ+مَا=عَمَّا Bazı durumlarda 'kitap / öğrenci' gibi belirli bir isim söylemeyiz; doğrudan **'doğru söyleyen kimse'** ya da **'istediğ"
+    },
+    {
+      "id": "search_gram_m19_g4",
+      "type": "grammar",
+      "moduleId": "19",
+      "title": "Türkçeye Kusursuz Çeviri Formülü: '-an/-en' vs. '-dığı/-diği' Tekniği",
+      "subtitle": "Gramer Kuralı · M19",
+      "ar": "مَهَارَةُ التَّرْجَمَةِ: الْفَرْقُ بَيْنَ «ـان / ـين» (الْفَاعِل) وَ«ـدِغِي» (الْمَفْعُول)",
+      "keywords": "Sıla Öznesi = Mevsûl → '-an/-en' (الَّذِي كَتَبَ) | Sıla Öznesi Başkası + Âid (ـهُ/ـهَا) → '-dığı/-diği' (الَّذِي كَتَبَهُ) YDS ve YÖKDİL Arapça çeviri sorularında adayların en çok puan kazandığı veya kaybettiği yer ism-i mevsûl çevirisidir! Oy"
+    },
+    {
+      "id": "search_gram_m19_g5",
+      "type": "grammar",
+      "moduleId": "19",
+      "title": "İsm-i Mevsûlün Cümledeki İ'rab Görevleri (Sıfat vs. Bağımsız Özne/Nesne)",
+      "subtitle": "Gramer Kuralı · M19",
+      "ar": "مَوَاقِعُ الِاسْمِ الْمَوْصُولِ مِنَ الْإِعْرَابِ",
+      "keywords": "Marife İsim + الَّذِي = Sıfat | İsimsiz الَّذِي / الَّذِينَ / مَنْ / مَا = Mübtedâ / Fâil / Mef'ûl / Mecrûr! Şimdiye kadar ism-i mevsûlü çoğunlukla marife bir ismin arkasında **sıfat (na't)** olarak gördük (`اَلطَّالِبُ الَّذِي ن"
+    },
+    {
+      "id": "search_card_m20_fc01",
+      "type": "card",
+      "moduleId": "20",
+      "title": "Müfred haber (Cümle/şibh-i cümle olmayan haber) (El-haberu'l-mufredu)",
+      "subtitle": "SRS Kartı · M20 · Kök: ف ر د",
+      "ar": "اَلْخَبَرُ الْمُفْرَدُ",
+      "kok": "ف ر د",
+      "keywords": "الخبر المفرد مُفْعَل Terim"
+    },
+    {
+      "id": "search_card_m20_fc02",
+      "type": "card",
+      "moduleId": "20",
+      "title": "İsim cümlesi haber (El-haberu'l-cumletu'l-ismiyyetu)",
+      "subtitle": "SRS Kartı · M20 · Kök: خ ب ر",
+      "ar": "اَلْخَبَرُ الْجُمْلَةُ الْاِسْمِيَّةُ",
+      "kok": "خ ب ر",
+      "keywords": "الخبر الجملة الاسمية تَرْكِيب نَحْوِيّ Terim"
+    },
+    {
+      "id": "search_card_m20_fc03",
+      "type": "card",
+      "moduleId": "20",
+      "title": "Fiil cümlesi haber (El-haberu'l-cumletu'l-fi‘liyyetu)",
+      "subtitle": "SRS Kartı · M20 · Kök: ف ع ل",
+      "ar": "اَلْخَبَرُ الْجُمْلَةُ الْفِعْلِيَّةُ",
+      "kok": "ف ع ل",
+      "keywords": "الخبر الجملة الفعلية تَرْكِيب نَحْوِيّ Terim"
+    },
+    {
+      "id": "search_card_m20_fc04",
+      "type": "card",
+      "moduleId": "20",
+      "title": "Râbıt (bağlayıcı) zamir (Ed-damîru'r-râbitu)",
+      "subtitle": "SRS Kartı · M20 · Kök: ر ب ط",
+      "ar": "اَلضَّمِيرُ الرَّابِطُ",
+      "kok": "ر ب ط",
+      "keywords": "الضمير الرابط فَاعِل Terim"
+    },
+    {
+      "id": "search_card_m20_fc05",
+      "type": "card",
+      "moduleId": "20",
+      "title": "Cümle sıfat (Nekre + cümle!) (En-na‘tu'l-cumletu)",
+      "subtitle": "SRS Kartı · M20 · Kök: ن ع ت",
+      "ar": "اَلنَّعْتُ الْجُمْلَةُ",
+      "kok": "ن ع ت",
+      "keywords": "النعت الجملة تَرْكِيب نَحْوِيّ Terim"
+    },
+    {
+      "id": "search_card_m20_fc06",
+      "type": "card",
+      "moduleId": "20",
+      "title": "Sebebî sıfat (Bağlı ismin sıfatı) (En-na‘tu's-sebebiyyu)",
+      "subtitle": "SRS Kartı · M20 · Kök: س ب ب",
+      "ar": "اَلنَّعْتُ السَّبَبِيُّ",
+      "kok": "س ب ب",
+      "keywords": "النعت السببي تَرْكِيب نَحْوِيّ Terim"
+    },
+    {
+      "id": "search_card_m20_fc07",
+      "type": "card",
+      "moduleId": "20",
+      "title": "Çoklu haber ve çoklu sıfat (Te‘addudu'l-haberi ve'n-na‘ti)",
+      "subtitle": "SRS Kartı · M20 · Kök: ع د د",
+      "ar": "تَعَدُّدُ الْخَبَرِ وَالنَّعْتِ",
+      "kok": "ع د د",
+      "keywords": "تعدد الخبر والنعت تَفَعُّل Terim"
+    },
+    {
+      "id": "search_card_m20_fc08",
+      "type": "card",
+      "moduleId": "20",
+      "title": "Nekrelerden sonra gelen cümleler sıfattır (El-cumelu ba‘de'n-nekirâti sıfâtun)",
+      "subtitle": "SRS Kartı · M20 · Kök: ن ك ر",
+      "ar": "اَلْجُمَلُ بَعْدَ النَّكِرَاتِ صِفَاتٌ",
+      "kok": "ن ك ر",
+      "keywords": "الجمل بعد النكرات صفات قَاعِدَةٌ نَحْوِيَّةٌ Kalıp"
+    },
+    {
+      "id": "search_card_m20_fc09",
+      "type": "card",
+      "moduleId": "20",
+      "title": "Köklü / asil / kadim (‘Arîkun)",
+      "subtitle": "SRS Kartı · M20 · Kök: ع ر ق",
+      "ar": "عَرِيقٌ",
+      "kok": "ع ر ق",
+      "keywords": "عريق فَعِيل Sıfat"
+    },
+    {
+      "id": "search_card_m20_fc10",
+      "type": "card",
+      "moduleId": "20",
+      "title": "Köklü / sağlam / sarsılmaz (Râsihun)",
+      "subtitle": "SRS Kartı · M20 · Kök: ر س خ",
+      "ar": "رَاسِخٌ",
+      "kok": "ر س خ",
+      "keywords": "راسخ فَاعِل Sıfat"
+    },
+    {
+      "id": "search_card_m20_fc11",
+      "type": "card",
+      "moduleId": "20",
+      "title": "Akıcı / pürüzsüz (dil ve üslup) (Selisun)",
+      "subtitle": "SRS Kartı · M20 · Kök: س ل س",
+      "ar": "سَلِسٌ",
+      "kok": "س ل س",
+      "keywords": "سلس فَعِل Sıfat"
+    },
+    {
+      "id": "search_card_m20_fc12",
+      "type": "card",
+      "moduleId": "20",
+      "title": "Birbiriyle bağlantılı / tutarlı (Muterâbitun)",
+      "subtitle": "SRS Kartı · M20 · Kök: ر ب ط",
+      "ar": "مُتَرَابِطٌ",
+      "kok": "ر ب ط",
+      "keywords": "مترابط مُتَفَاعِل Sıfat"
+    },
+    {
+      "id": "search_card_m20_fc13",
+      "type": "card",
+      "moduleId": "20",
+      "title": "Güler yüzlü / güleç (Beşûşun)",
+      "subtitle": "SRS Kartı · M20 · Kök: ب ش ش",
+      "ar": "بَشُوشٌ",
+      "kok": "ب ش ش",
+      "keywords": "بشوش فَعُول Sıfat"
+    },
+    {
+      "id": "search_card_m20_fc14",
+      "type": "card",
+      "moduleId": "20",
+      "title": "Hoş, serin ve hafif (esinti); (insanda) hasta (‘Alîlun)",
+      "subtitle": "SRS Kartı · M20 · Kök: ع ل ل",
+      "ar": "عَلِيلٌ (نَسِيمٌ عَلِيلٌ)",
+      "kok": "ع ل ل",
+      "keywords": "عليل فَعِيل Sıfat"
+    },
+    {
+      "id": "search_card_m20_fc15",
+      "type": "card",
+      "moduleId": "20",
+      "title": "Silinmeyen bir iz / damga (Basmetun lâ tumhâ)",
+      "subtitle": "SRS Kartı · M20 · Kök: ب ص م",
+      "ar": "بَصْمَةٌ لَا تُمْحَى",
+      "kok": "ب ص م",
+      "keywords": "بصمة لا تمحى عِبَارَة أَدَبِيَّة Kalıp"
+    },
+    {
+      "id": "search_card_m20_fc16",
+      "type": "card",
+      "moduleId": "20",
+      "title": "Altyapı (Binyetun tahtiyyetun)",
+      "subtitle": "SRS Kartı · M20 · Kök: ب ن ي",
+      "ar": "بِنْيَةٌ تَحْتِيَّةٌ",
+      "kok": "ب ن ي",
+      "keywords": "بنية تحتية تَرْكِيب وَصْفِيّ İsim"
+    },
+    {
+      "id": "search_card_m20_fc17",
+      "type": "card",
+      "moduleId": "20",
+      "title": "Verimlilik / yetkinlik / liyakat (Kefâetun)",
+      "subtitle": "SRS Kartı · M20 · Kök: ك ف أ",
+      "ar": "كَفَاءَةٌ (ج: كَفَاءَاتٌ)",
+      "kok": "ك ف أ",
+      "keywords": "كفاءة فَعَالَة İsim"
+    },
+    {
+      "id": "search_card_m20_fc18",
+      "type": "card",
+      "moduleId": "20",
+      "title": "Tükenmeyen bir kaynak (Masdarun lâ yenfedu)",
+      "subtitle": "SRS Kartı · M20 · Kök: ن ف د",
+      "ar": "مَصْدَرٌ لَا يَنْفَدُ",
+      "kok": "ن ف د",
+      "keywords": "مصدر لا ينفد نَعْتٌ جُمْلَةٌ Kalıp"
+    },
+    {
+      "id": "search_card_m20_fc19",
+      "type": "card",
+      "moduleId": "20",
+      "title": "Güzel örnek / rol model (Kudvetun hasenetun)",
+      "subtitle": "SRS Kartı · M20 · Kök: ق د و",
+      "ar": "قُدْوَةٌ حَسَنَةٌ",
+      "kok": "ق د و",
+      "keywords": "قدوة حسنة فُعْلَة İsim"
+    },
+    {
+      "id": "search_card_m20_fc20",
+      "type": "card",
+      "moduleId": "20",
+      "title": "Hâkim olmak / egemen olmak (Sâde — yesûdu)",
+      "subtitle": "SRS Kartı · M20 · Kök: س و د",
+      "ar": "سَادَ — يَسُودُ",
+      "kok": "س و د",
+      "keywords": "ساد — يسود فَعَلَ (1. Bab — Ecvef) Fiil"
+    },
+    {
+      "id": "search_card_m20_fc21",
+      "type": "card",
+      "moduleId": "20",
+      "title": "(Strateji/fikir) benimsemek / sahiplenmek (Tebennâ — yetebennâ)",
+      "subtitle": "SRS Kartı · M20 · Kök: ب ن ي",
+      "ar": "تَبَنَّى — يَتَبَنَّى",
+      "kok": "ب ن ي",
+      "keywords": "تبنى — يتبنى تَفَعَّلَ (V + نَاقِص) Fiil"
+    },
+    {
+      "id": "search_card_m20_fc22",
+      "type": "card",
+      "moduleId": "20",
+      "title": "(Kuş/uçak) gökte süzülmek / uçmak (Hallaka — yuhalliku)",
+      "subtitle": "SRS Kartı · M20 · Kök: ح ل ق",
+      "ar": "حَلَّقَ — يُحَلِّقُ",
+      "kok": "ح ل ق",
+      "keywords": "حلق — يحلق فَعَّلَ (II) Fiil"
+    },
+    {
+      "id": "search_card_m20_fc23",
+      "type": "card",
+      "moduleId": "20",
+      "title": "Övmek / takdir etmek (Esnâ — yusnî ‘alâ)",
+      "subtitle": "SRS Kartı · M20 · Kök: ث ن ي",
+      "ar": "أَثْنَى — يُثْنِي عَلَى",
+      "kok": "ث ن ي",
+      "keywords": "أثنى — يثني على أَفْعَلَ (IV + نَاقِص) Fiil"
+    },
+    {
+      "id": "search_card_m20_fc24",
+      "type": "card",
+      "moduleId": "20",
+      "title": "Suçu ...-e atmak / suçlamak (Elka'l-levme ‘alâ)",
+      "subtitle": "SRS Kartı · M20 · Kök: ل و م",
+      "ar": "أَلْقَى اللَّوْمَ عَلَى",
+      "kok": "ل و م",
+      "keywords": "ألقى اللوم على تَعْبِيرٌ اصْطِلَاحِيٌّ Kalıp"
+    },
+    {
+      "id": "search_card_m20_fc25",
+      "type": "card",
+      "moduleId": "20",
+      "title": "Kalpleri fethetmek / büyülemek (Esera — ye'siru'l-kulûbe)",
+      "subtitle": "SRS Kartı · M20 · Kök: أ س ر",
+      "ar": "أَسَرَ — يَأْسِرُ الْقُلُوبَ",
+      "kok": "أ س ر",
+      "keywords": "أسر — يأسر القلوب فَعَلَ (2. Bab) Kalıp"
+    },
+    {
+      "id": "search_card_m20_fc26",
+      "type": "card",
+      "moduleId": "20",
+      "title": "(Özellik/yetkinliğe) sahip olmak / tadını çıkarmak (Temette‘a — yetemette‘u bi-)",
+      "subtitle": "SRS Kartı · M20 · Kök: م ت ع",
+      "ar": "تَمَتَّعَ — يَتَمَتَّعُ بِـ",
+      "kok": "م ت ع",
+      "keywords": "تمتع — يتمتع بـ تَفَعَّلَ (V) Fiil"
+    },
+    {
+      "id": "search_card_m20_fc27",
+      "type": "card",
+      "moduleId": "20",
+      "title": "İçermek / ihtiva etmek (İhtevâ — yahtevî ‘alâ)",
+      "subtitle": "SRS Kartı · M20 · Kök: ح و ي",
+      "ar": "اِحْتَوَى — يَحْتَوِي عَلَى",
+      "kok": "ح و ي",
+      "keywords": "احتوى — يحتوي على اِفْتَعَلَ (VIII + لَفِيف) Fiil"
+    },
+    {
+      "id": "search_card_m20_fc28",
+      "type": "card",
+      "moduleId": "20",
+      "title": "Meraklandırmak / ilgi çekmek (Şevvaka — yuşevviku)",
+      "subtitle": "SRS Kartı · M20 · Kök: ش و ق",
+      "ar": "شَوَّقَ — يُشَوِّقُ",
+      "kok": "ش و ق",
+      "keywords": "شوق — يشوق فَعَّلَ (II) Fiil"
+    },
+    {
+      "id": "search_card_m20_fc29",
+      "type": "card",
+      "moduleId": "20",
+      "title": "Güvenilir / sağlam (kaynak) (Mevsûkun)",
+      "subtitle": "SRS Kartı · M20 · Kök: و ث ق",
+      "ar": "مَوْثُوقٌ",
+      "kok": "و ث ق",
+      "keywords": "موثوق مَفْعُول Sıfat"
+    },
+    {
+      "id": "search_card_m20_fc30",
+      "type": "card",
+      "moduleId": "20",
+      "title": "İddialı / yüksek hedefli / azimli (Tamûhun)",
+      "subtitle": "SRS Kartı · M20 · Kök: ط م ح",
+      "ar": "طَمُوحٌ",
+      "kok": "ط م ح",
+      "keywords": "طموح فَعُول Sıfat"
+    },
+    {
+      "id": "search_card_m20_fc31",
+      "type": "card",
+      "moduleId": "20",
+      "title": "Sağlam / kenetlenmiş / tutarlı (Mutemâsikun)",
+      "subtitle": "SRS Kartı · M20 · Kök: م س ك",
+      "ar": "مُتَمَاسِكٌ",
+      "kok": "م س ك",
+      "keywords": "متماسك مُتَفَاعِل Sıfat"
+    },
+    {
+      "id": "search_card_m20_fc32",
+      "type": "card",
+      "moduleId": "20",
+      "title": "Aday (iş / ödül / seçim) (Muraşşahun)",
+      "subtitle": "SRS Kartı · M20 · Kök: ر ش ح",
+      "ar": "مُرَشَّحٌ (ج: مُرَشَّحُونَ)",
+      "kok": "ر ش ح",
+      "keywords": "مرشح مُفَعَّل İsim"
+    },
+    {
+      "id": "search_gram_m20_g1",
+      "type": "grammar",
+      "moduleId": "20",
+      "title": "Haberin 4 Temel Çeşidi (Müfred, İsim Cümlesi, Fiil Cümlesi, Şibh-i Cümle)",
+      "subtitle": "Gramer Kuralı · M20",
+      "ar": "أَنْوَاعُ الْخَبَرِ الْأَرْبَعَةُ (الْمُفْرَدُ وَالْجُمْلَةُ وَشِبْهُ الْجُمْلَةِ)",
+      "keywords": "Haber = (1) Müfred [Merfû] | (2) Fiil Cümlesi [Mahallen Merfû] | (3) İsim Cümlesi [Mahallen Merfû] | (4) Şibh-i Cümle [Mahallen Merfû] Modül 03'te isim cümlesinin iki direğini tanıdık: **Mübtedâ** (özne) + **Haber** (yüklem). Ama haber her zaman `الطَّالِ"
+    },
+    {
+      "id": "search_gram_m20_g2",
+      "type": "grammar",
+      "moduleId": "20",
+      "title": "Cümle Haberde Râbıt (Bağlayıcı) Zamir & Sayı-Cinsiyet Uyumu",
+      "subtitle": "Gramer Kuralı · M20",
+      "ar": "الضَّمِيرُ الرَّابِطُ فِي الْخَبَرِ الْجُمْلَةِ وَمُطَابَقَتُهُ لِلْمُبْتَدَأِ",
+      "keywords": "İsim Cümlesi Haber: Mübtedâ 1 + [İsim + Râbıt Zamir] + Haber 2 | Fiil Cümlesi Haber: Mübtedâ + Tam Uyumlu Fiil! Bir isim cümlesinde haber kendi başına bir cümle (`جُمْلَةٌ اسْمِيَّةٌ` veya `جُمْلَةٌ فِعْلِيَّةٌ`) olduğunda, o haber "
+    },
+    {
+      "id": "search_gram_m20_g3",
+      "type": "grammar",
+      "moduleId": "20",
+      "title": "Sıfatın (Na't) 3 Çeşidi & Altın Kural: 'Nekre + Cümle = Sıfat!'",
+      "subtitle": "Gramer Kuralı · M20",
+      "ar": "أَنْوَاعُ النَّعْتِ وَالْقَاعِدَةُ الذَّهَبِيَّةُ: «الْجُمَلُ بَعْدَ النَّكِرَاتِ صِفَاتٌ»",
+      "keywords": "Nekre İsim + [Fiil / İsim Cümlesi (Râbıtlı!)] = Cümle Sıfat (الَّذِي/الَّتِي YOK!) | Nekre + Şibh-i Cümle = Sıfat! Arapça gramerini tek bir cümleyle devrim gibi aydınlatan, her YDS öğrencisinin masasına asması gereken altın kural şudur"
+    },
+    {
+      "id": "search_gram_m20_g4",
+      "type": "grammar",
+      "moduleId": "20",
+      "title": "Büyük 3'lü Ayrım: Marife + الَّذِي (Sıfat) vs. Nekre + Cümle (Sıfat) vs. Marife + Cümle (Hâl!)",
+      "subtitle": "Gramer Kuralı · M20",
+      "ar": "الْمُقَارَنَةُ الذَّهَبِيَّةُ: النَّعْتُ بِالْمَوْصُولِ — النَّعْتُ بَعْدَ النَّكِرَةِ — الْحَالُ بَعْدَ الْمَعْرِفَةِ",
+      "keywords": "Marife + الَّذِي = Sıfat | Nekre + Cümle = Sıfat (-an bir...) | Marife + Cümle = Hâl (-erken / ... hâlde!) Şimdi M19 ile M20'yi birleştiren ve ilerideki Hâl (M37) konusuna muhteşem bir köprü kuran **3'lü Altın Karşılaştırmayı**"
+    },
+    {
+      "id": "search_gram_m20_g5",
+      "type": "grammar",
+      "moduleId": "20",
+      "title": "Sebebî Sıfat (النَّعْتُ السَّبَبِيُّ) & Çoklu Haber / Çoklu Sıfat",
+      "subtitle": "Gramer Kuralı · M20",
+      "ar": "النَّعْتُ السَّبَبِيُّ وَتَعَدُّدُ الْخَبَرِ وَالنَّعْتِ",
+      "keywords": "Sebebî Sıfat: İ'rab & Belirlilik ← Öndeki İsim | Cinsiyet → Arkadaki İsim (Merfû Fâil!) | Sayı: Daima TEKİL! Modülümüzün zirvesinde, hem Kur'an'da hem de yüksek edebî ve YDS Arapçasında çok şık bir kullanım olan iki ileri kural v"
     },
     {
       "id": "search_verb_0",

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-23T07:48:29.966Z",
-  "totalCards": 544,
+  "generatedAt": "2026-11-23T08:11:37.933Z",
+  "totalCards": 640,
   "modules": [
     {
       "id": "01",
@@ -101,6 +101,24 @@
     {
       "id": "17",
       "title": "Emr-i Hâzır ve Nehy-i Hâzır Sistemi",
+      "cefr": "A2",
+      "count": 32
+    },
+    {
+      "id": "18",
+      "title": "Meçhul (Edilgen) Fiil Çatısı & Nâib-i Fâil",
+      "cefr": "A2",
+      "count": 32
+    },
+    {
+      "id": "19",
+      "title": "İsm-i Mevsûller (İlgi Zamirleri) & Sıla Cümlesi",
+      "cefr": "A2",
+      "count": 32
+    },
+    {
+      "id": "20",
+      "title": "Haber Çeşitleri & Sıfat Çeşitleri",
       "cefr": "A2",
       "count": 32
     }
@@ -13734,6 +13752,1930 @@
       "kullanimNotu": "مُرِيحٌ = rahat / konforlu.",
       "tur": "Fiil",
       "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc01",
+      "ar": "الْمَبْنِيُّ لِلْمَجْهُولِ",
+      "harekesiz": "المبني للمجهول",
+      "okunus": "El-mebniyyu li'l-mechûli",
+      "tr": "Edilgen (Meçhul) fiil çatısı",
+      "kok": "ج ه ل",
+      "vezin": "مَفْعُول",
+      "turevler": [
+        "الْمَبْنِيُّ لِلْمَعْلُومِ",
+        "فُعِلَ / يُفْعَلُ"
+      ],
+      "ekBilgi": "İşi yapan (fâil) bilinmediğinde veya eylem öne çıkarıldığında kullanılır",
+      "ornek": "فُتِحَ الْبَابُ — يُفْتَحُ الْبَابُ.",
+      "ornekTr": "Kapı açıldı — Kapı açılır.",
+      "kullanimNotu": "Mâzi: sondan önceki kesra; Muzâri: sondan önceki fetha!",
+      "tur": "Terim",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc02",
+      "ar": "نَائِبُ الْفَاعِلِ",
+      "harekesiz": "نائب الفاعل",
+      "okunus": "Nâibu'l-fâ‘ili",
+      "tr": "Sözde özne (Fâil vekili)",
+      "kok": "ن و ب",
+      "vezin": "فَاعِل",
+      "turevler": [
+        "نِيَابَة",
+        "نُوَّاب"
+      ],
+      "ekBilgi": "Meçhul fiilin yanında fâilin yerini alır ve daima MERFÛ olur!",
+      "ornek": "كُرِّمَ الْمُهَنْدِسُونَ فِي الْحَفْلِ.",
+      "ornekTr": "Mühendisler törende ödüllendirildi.",
+      "kullanimNotu": "İsim, zamir, şibh-i cümle veya müevvel mastar olabilir.",
+      "tur": "Terim",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc03",
+      "ar": "قِيلَ — يُقَالُ",
+      "harekesiz": "قيل — يقال",
+      "okunus": "Kîle — yukâlu",
+      "tr": "Denildi — Denilir / Söylenir",
+      "kok": "ق و ل",
+      "vezin": "فِيلَ — يُفَالُ (أَجْوَف)",
+      "turevler": [
+        "قِيلَ إِنَّ",
+        "يُقَالُ إِنَّ"
+      ],
+      "ekBilgi": "Ecvef meçhul modeli; ardından إِنَّ kesralı okunur!",
+      "ornek": "يُقَالُ إِنَّ الصَّبْرَ مِفْتَاحُ الْفَرَجِ.",
+      "ornekTr": "Sabrın ferahlığın anahtarı olduğu söylenir.",
+      "kullanimNotu": "Mâzide ي, muzâride ا gelir!",
+      "tur": "Fiil",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc04",
+      "ar": "بِيعَ — يُبَاعُ",
+      "harekesiz": "بيع — يباع",
+      "okunus": "Bî‘a — yubâ‘u",
+      "tr": "Satıldı — Satılır",
+      "kok": "ب ي ع",
+      "vezin": "فِيلَ — يُفَالُ (أَجْوَف)",
+      "turevler": [
+        "بِيعَتْ",
+        "تُبَاعُ"
+      ],
+      "ekBilgi": "بَاعَ — يَبِيعُ fiilinin meçhulüdür",
+      "ornek": "تُبَاعُ الْكُتُبُ النَّادِرَةُ فِي هٰذَا السُّوقِ.",
+      "ornekTr": "Nadir kitaplar bu çarşıda satılır.",
+      "kullanimNotu": "Mağaza ve pazar bağlamında çok sık geçer.",
+      "tur": "Fiil",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc05",
+      "ar": "بُنِيَ — يُبْنَى",
+      "harekesiz": "بني — يبنى",
+      "okunus": "Buniye — yubnâ",
+      "tr": "İnşa edildi — İnşa edilir",
+      "kok": "ب ن ي",
+      "vezin": "فُعِلَ — يُفْعَى (نَاقِص)",
+      "turevler": [
+        "بُنِيَتْ",
+        "بِنَاء"
+      ],
+      "ekBilgi": "Nâkıs meçhul modeli: mâzide ـِيَ, muzâride ـَى!",
+      "ornek": "بُنِيَ هٰذَا الْجِسْرُ قَبْلَ قُرُونٍ.",
+      "ornekTr": "Bu köprü yüzyıllar önce inşa edildi.",
+      "kullanimNotu": "دُعِيَ — يُدْعَى (çağrıldı) da aynı modeldir.",
+      "tur": "Fiil",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc06",
+      "ar": "نُوقِشَ — يُنَاقَشُ",
+      "harekesiz": "نوقش — يناقش",
+      "okunus": "Nûkışe — yunâkaşu",
+      "tr": "Tartışıldı — Tartışılır",
+      "kok": "ن ق ش",
+      "vezin": "فُوعِلَ — يُفَاعَلُ (III)",
+      "turevler": [
+        "شُوهِدَ",
+        "وُوفِقَ",
+        "قُوبِلَ"
+      ],
+      "ekBilgi": "III. bab mâzi meçhulde dammeden dolayı ا → و dönüşür!",
+      "ornek": "نُوقِشَتِ الْقَضِيَّةُ فِي الِاجْتِمَاعِ.",
+      "ornekTr": "Mesele toplantıda tartışıldı.",
+      "kullanimNotu": "III. bab meçhul imzası: فُوعِلَ!",
+      "tur": "Fiil",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc07",
+      "ar": "اُكْتُشِفَ — يُكْتَشَفُ",
+      "harekesiz": "اكتشف — يكتشف",
+      "okunus": "Uktuşife — yukteşefu",
+      "tr": "Keşfedildi — Keşfedilir",
+      "kok": "ك ش ف",
+      "vezin": "اُفْتُعِلَ — يُفْتَعَلُ (VIII)",
+      "turevler": [
+        "اِكْتِشَاف",
+        "مُكْتَشَف"
+      ],
+      "ekBilgi": "VIII. bab mâzi meçhul: ilk ve 3. harf damme (اُكْتُشِفَ)!",
+      "ornek": "اُكْتُشِفَتْ مَخْطُوطَةٌ نَادِرَةٌ أَمْسِ.",
+      "ornekTr": "Dün nadir bir el yazması keşfedildi.",
+      "kullanimNotu": "Bilim haberlerinin 1 numaralı meçhul fiilidir.",
+      "tur": "Fiil",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc08",
+      "ar": "اُسْتُخْدِمَ — يُسْتَخْدَمُ",
+      "harekesiz": "استخدم — يستخدم",
+      "okunus": "Ustuhdime — yustahdemu",
+      "tr": "Kullanıldı — Kullanılır",
+      "kok": "خ د م",
+      "vezin": "اُسْتُفْعِلَ — يُسْتَفْعَلُ (X)",
+      "turevler": [
+        "اِسْتِخْدَام",
+        "مُسْتَخْدَم"
+      ],
+      "ekBilgi": "X. bab mâzi meçhul: اُسْتُـ + sondan önceki kesra!",
+      "ornek": "يُسْتَخْدَمُ هٰذَا النِّظَامُ فِي الْمَدَارِسِ.",
+      "ornekTr": "Bu sistem okullarda kullanılır.",
+      "kullanimNotu": "Teknoloji ve YÖKDİL Fen metinlerinde çok sıktır.",
+      "tur": "Fiil",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc09",
+      "ar": "وُلِدَ — يُولَدُ",
+      "harekesiz": "ولد — يولد",
+      "okunus": "Vulide — yûledu",
+      "tr": "Doğdu — Doğar",
+      "kok": "و ل د",
+      "vezin": "فُعِلَ — يُوعَلُ (مِثَال)",
+      "turevler": [
+        "مَوْلِد",
+        "مِيلَاد"
+      ],
+      "ekBilgi": "Biyografilerde 'doğdu' için daima meçhul وُلِدَ kullanılır!",
+      "ornek": "وُلِدَ ابْنُ بَطُّوطَةَ فِي طَنْجَةَ.",
+      "ornekTr": "İbn Battûta Tanca'da doğdu.",
+      "kullanimNotu": "وَلَدَ (etken) = 'doğurdu' demektir!",
+      "tur": "Fiil",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc10",
+      "ar": "تُوُفِّيَ — يُتَوَفَّى",
+      "harekesiz": "توفي — يتوفى",
+      "okunus": "Tuvuffiye — yuteveffâ",
+      "tr": "Vefat etti — Vefat eder",
+      "kok": "و ف ي",
+      "vezin": "تُفُعِّلَ (V + نَاقِص)",
+      "turevler": [
+        "وَفَاة",
+        "مُتَوَفًّى"
+      ],
+      "ekBilgi": "İnsan için daima meçhul تُوُفِّيَ (V. bab) okunur!",
+      "ornek": "تُوُفِّيَ الْمِعْمَارُ سِنَانٌ عَامَ ١٥٨٨.",
+      "ornekTr": "Mimar Sinan 1588 yılında vefat etti.",
+      "kullanimNotu": "تَوَفَّى (etken) Allah'ın canı alması anlamındadır.",
+      "tur": "Fiil",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc11",
+      "ar": "أُصِيبَ — يُصَابُ بِـ",
+      "harekesiz": "أصيب — يصاب بـ",
+      "okunus": "Usîbe — yusâbu bi-",
+      "tr": "(Hastalığa) yakalanmak / yaralanmak",
+      "kok": "ص و ب",
+      "vezin": "أُفِيلَ — يُفَالُ (IV + أَجْوَف)",
+      "turevler": [
+        "إِصَابَة",
+        "مُصَاب"
+      ],
+      "ekBilgi": "بِـ harf-i ceriyle (بِحُمَّى / بِجُرُوحٍ) kullanılır",
+      "ornek": "أُصِيبَ اللَّاعِبُ فِي قَدَمِهِ أَثْنَاءَ الْمُبَارَاةِ.",
+      "ornekTr": "Oyuncu maç sırasında ayağından sakatlandı.",
+      "kullanimNotu": "YÖKDİL Sağlık ve haber metinlerinin demirbaşıdır!",
+      "tur": "Fiil",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc12",
+      "ar": "يُعَدُّ / يُعْتَبَرُ",
+      "harekesiz": "يعد / يعتبر",
+      "okunus": "Yu‘addu / Yu‘teberu",
+      "tr": "Sayılır / kabul edilir",
+      "kok": "ع د د",
+      "vezin": "يُفَعُّ / يُفْتَعَلُ",
+      "turevler": [
+        "تُعَدُّ",
+        "تُعْتَبَرُ"
+      ],
+      "ekBilgi": "1. öğe merfû (nâib-i fâil), 2. öğe MANSUB gelir!",
+      "ornek": "يُعَدُّ التَّعْلِيمُ أَسَاسَ التَّقَدُّمِ.",
+      "ornekTr": "Eğitim ilerlemenin temeli sayılır.",
+      "kullanimNotu": "YDS akademik paragraflarının en sık görülen fiilidir!",
+      "tur": "Fiil",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc13",
+      "ar": "نُظِرَ — يُنْظَرُ فِي",
+      "harekesiz": "نظر — ينظر في",
+      "okunus": "Nuzira — yunzeru fî",
+      "tr": "İncelendi / (davaya) bakıldı",
+      "kok": "ن ظ ر",
+      "vezin": "فُعِلَ + فِي",
+      "turevler": [
+        "نَظَر",
+        "مَنْظُور"
+      ],
+      "ekBilgi": "Harf-i cerli meçhul olduğundan fiil daima 3. tekil eril kalır!",
+      "ornek": "نُظِرَ فِي الطَّلَبَاتِ بِكُلِّ عَدَالَةٍ.",
+      "ornekTr": "Başvurular tam bir adaletle incelendi.",
+      "kullanimNotu": "Asla نُظِرَتْ فِي denmez!",
+      "tur": "Fiil",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc14",
+      "ar": "وُوفِقَ — يُوَافَقُ عَلَى",
+      "harekesiz": "ووفق — يوافق على",
+      "okunus": "Vûfika — yuvâfaku ‘alâ",
+      "tr": "Onaylandı / kabul edildi",
+      "kok": "و ف ق",
+      "vezin": "فُوعِلَ + عَلَى",
+      "turevler": [
+        "مُوَافَقَة",
+        "مُوَافِق"
+      ],
+      "ekBilgi": "وَافَقَ عَلَى (III. bab) harf-i cerli meçhulüdür; daima tekil eril kalır",
+      "ornek": "وُوفِقَ عَلَى الْخُطَّةِ الْجَدِيدَةِ بِالْإِجْمَاعِ.",
+      "ornekTr": "Yeni plan oy birliğiyle onaylandı.",
+      "kullanimNotu": "İki vâv (وُو) ile yazılır!",
+      "tur": "Fiil",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc15",
+      "ar": "أُشِيرَ — يُشَارُ إِلَى",
+      "harekesiz": "أشير — يشار إلى",
+      "okunus": "Uşîra — yuşâru ilâ",
+      "tr": "İşaret edildi — İşaret edilmektedir",
+      "kok": "ش و ر",
+      "vezin": "أُفِيلَ — يُفَالُ (IV)",
+      "turevler": [
+        "يُشَارُ إِلَى أَنَّ",
+        "إِشَارَة"
+      ],
+      "ekBilgi": "يُشَارُ إِلَى أَنَّ = '... olduğuna işaret edilmektedir'",
+      "ornek": "يُشَارُ إِلَى أَنَّ الْحَفْلَ سَيُنْقَلُ مُبَاشَرَةً.",
+      "ornekTr": "Törenin canlı yayınlanacağına işaret edilmektedir.",
+      "kullanimNotu": "Akademik ve haber dilinin temel köprüsüdür.",
+      "tur": "Kalıp",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc16",
+      "ar": "يُعْتَقَدُ أَنَّ",
+      "harekesiz": "يعتقد أن",
+      "okunus": "Yu‘tekadu enne",
+      "tr": "... olduğuna inanılmaktadır",
+      "kok": "ع ق د",
+      "vezin": "يُفْتَعَلُ",
+      "turevler": [
+        "اِعْتِقَاد",
+        "مُعْتَقَد"
+      ],
+      "ekBilgi": "أَنَّ + cümle müevvel mastar olarak nâib-i fâil olur",
+      "ornek": "يُعْتَقَدُ أَنَّ الْمَخْطُوطَةَ كُتِبَتْ فِي قُرْطُبَةَ.",
+      "ornekTr": "El yazmasının Kurtuba'da yazıldığına inanılmaktadır.",
+      "kullanimNotu": "YDS sosyal/tarih parçalarında çok sıktır.",
+      "tur": "Kalıp",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc17",
+      "ar": "يُذْكَرُ أَنَّ",
+      "harekesiz": "يذكر أن",
+      "okunus": "Yuzkeru enne",
+      "tr": "... olduğu belirtilmektedir / kaydedilmektedir",
+      "kok": "ذ ك ر",
+      "vezin": "يُفْعَلُ",
+      "turevler": [
+        "الْمَذْكُور",
+        "ذِكْر"
+      ],
+      "ekBilgi": "Haberlerde ek bilgi eklerken ('Ayrıca belirtildiğine göre...') kullanılır",
+      "ornek": "يُذْكَرُ أَنَّ الْمَعْرِضَ سَيَسْتَمِرُّ عَشَرَةَ أَيَّامٍ.",
+      "ornekTr": "Fuarın on gün süreceği belirtilmektedir.",
+      "kullanimNotu": "Basın Arapçasının en bilindik bağlayıcısıdır.",
+      "tur": "Kalıp",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc18",
+      "ar": "يُتَوَقَّعُ أَنْ / أَنَّ",
+      "harekesiz": "يتوقع أن",
+      "okunus": "Yutevakka‘u en / enne",
+      "tr": "... olması beklenmektedir",
+      "kok": "و ق ع",
+      "vezin": "يُتَفَعَّلُ (V)",
+      "turevler": [
+        "تَوَقُّع",
+        "مُتَوَقَّع"
+      ],
+      "ekBilgi": "Fiille أَنْ, isim cümlesiyle أَنَّ kullanılır",
+      "ornek": "يُتَوَقَّعُ أَنْ تَهْطُلَ الْأَمْطَارُ غَدًا.",
+      "ornekTr": "Yarın yağmur yağması beklenmektedir.",
+      "kullanimNotu": "Ekonomi, hava durumu ve analiz metinlerinde vazgeçilmezdir.",
+      "tur": "Kalıp",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc19",
+      "ar": "يُرْجَى أَنْ",
+      "harekesiz": "يرجى أن",
+      "okunus": "Yurcâ en",
+      "tr": "... yapılması rica olunur",
+      "kok": "ر ج و",
+      "vezin": "يُفْعَى (نَاقِص)",
+      "turevler": [
+        "يُرْجَى مِنَ",
+        "رَجَاء"
+      ],
+      "ekBilgi": "Resmî tabela ve kamu duyurularının standart nezaket kalıbıdır",
+      "ornek": "يُرْجَى مِنَ الزُّوَّارِ أَنْ يُحَافِظُوا عَلَى الْهُدُوءِ.",
+      "ornekTr": "Ziyaretçilerden sessizliği korumaları rica olunur.",
+      "kullanimNotu": "رَجَا — يَرْجُو fiilinin muzâri meçhulüdür.",
+      "tur": "Kalıp",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc20",
+      "ar": "تَمَّ / يَتِمُّ / سَيَتِمُّ + مَصْدَر",
+      "harekesiz": "تم / يتم / سيتم",
+      "okunus": "Temme / Yetimmu / Se-yetimmu",
+      "tr": "Gerçekleştirildi / yapılıyor / yapılacak (Basın edilgeni)",
+      "kok": "ت م م",
+      "vezin": "فَعَّ — يَفِعُّ",
+      "turevler": [
+        "تَمَّ افْتِتَاحُ",
+        "سَيَتِمُّ إِعْلَانُ"
+      ],
+      "ekBilgi": "Arkasından gelen mastar تَمَّ'nin merfû fâilidir!",
+      "ornek": "تَمَّ تَوْقِيعُ الِاتِّفَاقِيَّةِ أَمْسِ.",
+      "ornekTr": "Anlaşma dün imzalandı.",
+      "kullanimNotu": "Harekesiz basında etken/edilgen karışıklığını sıfırlar!",
+      "tur": "Kalıp",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc21",
+      "ar": "مِنْ قِبَلِ",
+      "harekesiz": "من قبل",
+      "okunus": "Min kıbeli",
+      "tr": "... tarafından (Modern basın edilgeni)",
+      "kok": "ق ب ل",
+      "vezin": "جَارّ وَمَجْرُور",
+      "turevler": [
+        "مِنْ قِبَلِ اللَّجْنَةِ",
+        "مِنْ قِبَلِ الْخُبَرَاءِ"
+      ],
+      "ekBilgi": "قِـ kesralıdır! (مِنْ قَبْلُ fethalı = 'daha önce' ile karıştırmayın!)",
+      "ornek": "أُعِدَّ التَّقْرِيرُ مِنْ قِبَلِ لَجْنَةٍ مُخْتَصَّةٍ.",
+      "ornekTr": "Rapor uzman bir komite tarafından hazırlandı.",
+      "kullanimNotu": "YDS çeviri sorularında 'tarafından' karşılığıdır.",
+      "tur": "Kalıp",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc22",
+      "ar": "يُوجَدُ / تُوجَدُ",
+      "harekesiz": "يوجد / توجد",
+      "okunus": "Yûcedu / Tûcedu",
+      "tr": "Bulunuyor / vardır",
+      "kok": "و ج د",
+      "vezin": "يُوعَلُ (مِثَال)",
+      "turevler": [
+        "وُجِدَ",
+        "وُجُود"
+      ],
+      "ekBilgi": "وَجَدَ fiilinin muzâri meçhulü; misâl و geri döner!",
+      "ornek": "تُوجَدُ مَكْتَبَةٌ كَبِيرَةٌ فِي الْحَيِّ.",
+      "ornekTr": "Mahallede büyük bir kütüphane bulunuyor.",
+      "kullanimNotu": "Arapçada 'var' demenin en akademik yollarından biridir.",
+      "tur": "Fiil",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc23",
+      "ar": "يُسْمَحُ بِـ",
+      "harekesiz": "يسمح بـ",
+      "okunus": "Yusmehu bi-",
+      "tr": "...-e izin veriliyor / serbesttir",
+      "kok": "س م ح",
+      "vezin": "يُفْعَلُ + بِـ",
+      "turevler": [
+        "لَا يُسْمَحُ بِـ",
+        "مَسْمُوح"
+      ],
+      "ekBilgi": "Harf-i cerli meçhul; olumsuzu لَا يُسْمَحُ بِـ ('yasaktır / izin verilmez')",
+      "ornek": "يُسْمَحُ بِالتَّصْوِيرِ بِدُونِ فِلَاشٍ.",
+      "ornekTr": "Flaşsız fotoğraf çekilmesine izin veriliyor.",
+      "kullanimNotu": "Kamusal kurallarda çok sık görülür.",
+      "tur": "Kalıp",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc24",
+      "ar": "لَا يُسْتَغْنَى عَنْهُ",
+      "harekesiz": "لا يستغنى عنه",
+      "okunus": "Lâ yustagnâ ‘anhu",
+      "tr": "Vazgeçilmez / onsuz olunamaz",
+      "kok": "غ ن ي",
+      "vezin": "يُسْتَفْعَى (X + نَاقِص)",
+      "turevler": [
+        "اِسْتِغْنَاء",
+        "غِنًى"
+      ],
+      "ekBilgi": "X. bab harf-i cerli nâkıs meçhul deyimidir",
+      "ornek": "يُعَدُّ الْمُعْجَمُ مَرْجِعًا لَا يُسْتَغْنَى عَنْهُ.",
+      "ornekTr": "Sözlük vazgeçilmez bir kaynak sayılır.",
+      "kullanimNotu": "YDS'de çok yüksek puan getiren akademik deyimdir!",
+      "tur": "Kalıp",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc25",
+      "ar": "أُعِيدَ — يُعَادُ",
+      "harekesiz": "أعيد — يعاد",
+      "okunus": "U‘îde — yu‘âdu",
+      "tr": "İade edildi / yeniden yapıldı",
+      "kok": "ع و د",
+      "vezin": "أُفِيلَ — يُفَالُ (IV + أَجْوَف)",
+      "turevler": [
+        "إِعَادَة",
+        "أُعِيدَ تَرْمِيمُهُ"
+      ],
+      "ekBilgi": "أَعَادَ (geri verdi / tekrarladı) fiilinin meçhulüdür",
+      "ornek": "أُعِيدَ تَرْمِيمُ الْخَانِ قَبْلَ خَمْسِ سَنَوَاتٍ.",
+      "ornekTr": "Han beş yıl önce yeniden restore edildi.",
+      "kullanimNotu": "أُعِيدَ + mastar = 'yeniden ... yapıldı'!",
+      "tur": "Fiil",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc26",
+      "ar": "أُتِيحَ — يُتَاحُ",
+      "harekesiz": "أتيح — يتاح",
+      "okunus": "Utîha — yutâhu",
+      "tr": "İmkân tanındı / sunuldu",
+      "kok": "ت ي ح",
+      "vezin": "أُفِيلَ — يُفَالُ (IV + أَجْوَف)",
+      "turevler": [
+        "إِتَاحَة",
+        "مُتَاح"
+      ],
+      "ekBilgi": "لِـ harf-i ceriyle ('birine imkân sunulmak') kullanılır",
+      "ornek": "أُتِيحَتِ الْكُتُبُ لِلطُّلَّابِ مَجَّانًا.",
+      "ornekTr": "Kitaplar öğrencilere ücretsiz olarak sunuldu.",
+      "kullanimNotu": "مُتَاحٌ = mevcut / erişilebilir.",
+      "tur": "Fiil",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc27",
+      "ar": "أُجْرِيَ — يُجْرَى",
+      "harekesiz": "أجري — يجرى",
+      "okunus": "Ucriye — yucrâ",
+      "tr": "(Deney/tahlil/seçim) yapıldı / yürütüldü",
+      "kok": "ج ر ي",
+      "vezin": "أُفْعِلَ — يُفْعَى (IV + نَاقِص)",
+      "turevler": [
+        "إِجْرَاء",
+        "أُجْرِيَتْ دِرَاسَةٌ"
+      ],
+      "ekBilgi": "دِرَاسَة / تَجْرِبَة / فَحْص / اِنْتِخَابَات ile eşdizimlidir",
+      "ornek": "تُجْرَى فُحُوصَاتٌ دَوْرِيَّةٌ فِي الْمَرَاكِزِ الصِّحِّيَّةِ.",
+      "ornekTr": "Sağlık merkezlerinde düzenli taramalar yapılıyor.",
+      "kullanimNotu": "YÖKDİL Sağlık/Fen'in en sık eşdizim fiilidir!",
+      "tur": "Fiil",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc28",
+      "ar": "أُخْتِيرَ — يُخْتَارُ",
+      "harekesiz": "اختير — يختار",
+      "okunus": "Uhtîra — yuhtâru",
+      "tr": "Seçildi — Seçilir",
+      "kok": "خ ي ر",
+      "vezin": "اُفْتِيلَ — يُفْتَالُ (VIII)",
+      "turevler": [
+        "اِخْتِيَار",
+        "مُخْتَار"
+      ],
+      "ekBilgi": "اِخْتَارَ (VIII. bab ecvef) → meçhulü اُخْتِيرَ!",
+      "ornek": "اُخْتِيرَ أَخُوكَ مُمَثِّلًا لِلطُّلَّابِ.",
+      "ornekTr": "Kardeşin öğrenci temsilcisi seçildi.",
+      "kullanimNotu": "Muzâride etken (يَخْتَارُ) ile meçhul (يُخْتَارُ) sadece ilk harekeyle ayrılır!",
+      "tur": "Fiil",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc29",
+      "ar": "مُنِحَ — يُمْنَحُ",
+      "harekesiz": "منح — يمنح",
+      "okunus": "Muniha — yumnehu",
+      "tr": "(Ödül/burs) verildi / bahşedildi",
+      "kok": "م ن ح",
+      "vezin": "فُعِلَ — يُفْعَلُ",
+      "turevler": [
+        "مِنْحَة",
+        "مَانِح"
+      ],
+      "ekBilgi": "İki nesnelidir: 1. nesne merfû (kişi), 2. nesne mansub (ödül/burs)!",
+      "ornek": "مُنِحَ الْفَائِزُ جَائِزَةً قَيِّمَةً.",
+      "ornekTr": "Kazanana değerli bir ödül verildi.",
+      "kullanimNotu": "أُعْطِيَ ile aynı 2 nesne kuralına uyar.",
+      "tur": "Fiil",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc30",
+      "ar": "كُرِّمَ — يُكَرَّمُ",
+      "harekesiz": "كرم — يكرم",
+      "okunus": "Kurrime — yukerramu",
+      "tr": "Ödüllendirildi / onurlandırıldı",
+      "kok": "ك ر م",
+      "vezin": "فُعِّلَ — يُفَعَّلُ (II)",
+      "turevler": [
+        "تَكْرِيم",
+        "كَرَم"
+      ],
+      "ekBilgi": "Tören ve başarı haberlerinin klasik fiilidir",
+      "ornek": "كُرِّمَ الطُّلَّابُ الْمُتَفَوِّقُونَ فِي الْحَفْلِ.",
+      "ornekTr": "Üstün başarılı öğrenciler törende ödüllendirildi.",
+      "kullanimNotu": "تَكْرِيمٌ = ödüllendirme / onurlandırma.",
+      "tur": "Fiil",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc31",
+      "ar": "تُرْجِمَ — يُتَرْجَمُ",
+      "harekesiz": "ترجم — يترجم",
+      "okunus": "Turcime — yutercemu",
+      "tr": "Tercüme edildi — Tercüme edilir",
+      "kok": "ت ر ج م",
+      "vezin": "فُعْلِلَ — يُفَعْلَلُ (رُبَاعِيّ)",
+      "turevler": [
+        "تَرْجَمَة",
+        "مُتَرْجِم"
+      ],
+      "ekBilgi": "4 harfli (Rubâî) fiilin meçhul örneğidir (تُـ + رْ + جِـ + مَ)",
+      "ornek": "تُرْجِمَ الْكِتَابُ إِلَى عَشَرَاتِ اللُّغَاتِ.",
+      "ornekTr": "Kitap onlarca dile tercüme edildi.",
+      "kullanimNotu": "إِلَى harf-i ceriyle ('...-e tercüme edilmek') kullanılır.",
+      "tur": "Fiil",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m18_fc32",
+      "ar": "يُلَاحَظُ أَنَّ",
+      "harekesiz": "يلاحظ أن",
+      "okunus": "Yulâhazu enne",
+      "tr": "... olduğu gözlemlenmektedir",
+      "kok": "ل ح ظ",
+      "vezin": "يُفَاعَلُ (III)",
+      "turevler": [
+        "مُلَاحَظَة",
+        "لُوحِظَ"
+      ],
+      "ekBilgi": "III. bab muzâri meçhul (kesra يُلَاحِظُ = etken; fetha يُلَاحَظُ = edilgen!)",
+      "ornek": "يُلَاحَظُ أَنَّ الْقِرَاءَةَ تُقَوِّي الذَّاكِرَةَ.",
+      "ornekTr": "Okumanın hafızayı güçlendirdiği gözlemlenmektedir.",
+      "kullanimNotu": "Bilimsel makale ve YDS'de çok yaygındır.",
+      "tur": "Kalıp",
+      "moduleId": "18",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc01",
+      "ar": "الِاسْمُ الْمَوْصُولُ",
+      "harekesiz": "الاسم الموصول",
+      "okunus": "El-ismu'l-mevsûlu",
+      "tr": "İsm-i mevsûl (İlgi zamiri / bağlayıcı isim)",
+      "kok": "و ص ل",
+      "vezin": "مَفْعُول",
+      "turevler": [
+        "الْأَسْمَاءُ الْمَوْصُولَةُ",
+        "جُمْلَةُ الصِّلَةِ"
+      ],
+      "ekBilgi": "Anlamı ancak arkasından gelen sıla cümlesiyle tamamlanan marife isimdir",
+      "ornek": "اَلْكِتَابُ الَّذِي قَرَأْتُهُ مُفِيدٌ.",
+      "ornekTr": "Okuduğum kitap faydalıdır.",
+      "kullanimNotu": "Özel (الَّذِي...) ve Müşterek (مَنْ، مَا) diye ikiye ayrılır.",
+      "tur": "Terim",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc02",
+      "ar": "الَّذِي",
+      "harekesiz": "الذي",
+      "okunus": "Ellezî",
+      "tr": "...-an / -dığı (Tekil eril)",
+      "kok": "ا س م",
+      "vezin": "مَبْنِيّ",
+      "turevler": [
+        "اللَّذَانِ",
+        "الَّذِينَ"
+      ],
+      "ekBilgi": "Tek lâm (ل) ile yazılır ve mebnîdir (tüm hâllerde aynı kalır)",
+      "ornek": "هٰذَا هُوَ الْأُسْتَاذُ الَّذِي عَلَّمَنَا.",
+      "ornekTr": "Bize öğreten hoca budur.",
+      "kullanimNotu": "Sıfat olacaksa önündeki isim mutlaka marife olmalıdır!",
+      "tur": "Zamir",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc03",
+      "ar": "الَّتِي",
+      "harekesiz": "التي",
+      "okunus": "Elletî",
+      "tr": "...-an / -dığı (Tekil dişil & TÜM akılsız çoğullar!)",
+      "kok": "ا س م",
+      "vezin": "مَبْنِيّ",
+      "turevler": [
+        "اللَّتَانِ",
+        "اللَّاتِي"
+      ],
+      "ekBilgi": "Tek lâm ile yazılır; akılsız çoğulların (الْكُتُبُ / الْمَشَارِيعُ) tek mevsûlüdür!",
+      "ornek": "الْمَقَالَاتُ الَّتِي نُشِرَتْ مُفِيدَةٌ.",
+      "ornekTr": "Yayımlanan makaleler faydalıdır.",
+      "kullanimNotu": "YDS'de en sık doğru cevap olan ism-i mevsûldür!",
+      "tur": "Zamir",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc04",
+      "ar": "اللَّذَانِ / اللَّذَيْنِ",
+      "harekesiz": "اللذان / اللذين",
+      "okunus": "Ellezâni / Ellezeyni",
+      "tr": "...-an iki kişi (İkil eril — MURAB!)",
+      "kok": "ا س م",
+      "vezin": "مُعْرَب (مُثَنَّى)",
+      "turevler": [
+        "اللَّتَانِ",
+        "اللَّتَيْنِ"
+      ],
+      "ekBilgi": "Çift lâm (لل) ile yazılır; ref'te elif (اللَّذَانِ), nasb/cerde yâ (اللَّذَيْنِ)!",
+      "ornek": "كَرَّمَ الْمُدِيرُ الطَّالِبَيْنِ اللَّذَيْنِ فَازَا.",
+      "ornekTr": "Müdür kazanan iki öğrenciyi ödüllendirdi.",
+      "kullanimNotu": "İsm-i mevsûllerde murab olan tek gruptur!",
+      "tur": "Zamir",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc05",
+      "ar": "اللَّتَانِ / اللَّتَيْنِ",
+      "harekesiz": "اللتان / اللتين",
+      "okunus": "Elletâni / Elleteyni",
+      "tr": "...-an iki (dişil — MURAB!)",
+      "kok": "ا س م",
+      "vezin": "مُعْرَب (مُثَنَّى)",
+      "turevler": [
+        "اللَّذَانِ",
+        "اللَّذَيْنِ"
+      ],
+      "ekBilgi": "Çift lâm (لل); ref'te اللَّتَانِ, nasb/cerde اللَّتَيْنِ!",
+      "ornek": "قَرَأْتُ الْقِصَّتَيْنِ اللَّتَيْنِ أَهْدَيْتَنِي إِيَّاهُمَا.",
+      "ornekTr": "Bana hediye ettiğin iki hikâyeyi okudum.",
+      "kullanimNotu": "Tesniye i'rabı birebir uygulanır.",
+      "tur": "Zamir",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc06",
+      "ar": "الَّذِينَ",
+      "harekesiz": "الذين",
+      "okunus": "Ellezîne",
+      "tr": "...-anlar / -dıkları (Akıllı çoğul eril)",
+      "kok": "ا س م",
+      "vezin": "مَبْنِيّ",
+      "turevler": [
+        "الَّذِي",
+        "اللَّذَانِ"
+      ],
+      "ekBilgi": "Tek lâm ile yazılır ve MEBNÎDİR (ref'te de الَّذِينَ kalır, الَّذُونَ olmaz!)",
+      "ornek": "فَازَ الَّذِينَ صَبَرُوا عَلَى الصُّعُوبَاتِ.",
+      "ornekTr": "Zorluklara sabredenler kazandı.",
+      "kullanimNotu": "Akılsız çoğullarda kullanılmaz!",
+      "tur": "Zamir",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc07",
+      "ar": "اللَّاتِي / اللَّوَاتِي",
+      "harekesiz": "اللاتي / اللواتي",
+      "okunus": "Ellâtî / Ellevâtî",
+      "tr": "...-anlar (Akıllı çoğul dişil)",
+      "kok": "ا س م",
+      "vezin": "مَبْنِيّ",
+      "turevler": [
+        "اللَّائِي",
+        "الَّتِي"
+      ],
+      "ekBilgi": "Çift lâm (لل) ile yazılır ve sadece akıllı kadın çoğullar için kullanılır",
+      "ornek": "أَحْتَرِمُ الطَّبِيبَاتِ اللَّاتِي عَالَجْنَ الْمَرْضَى.",
+      "ornekTr": "Hastaları tedavi eden kadın doktorlara saygı duyarım.",
+      "kullanimNotu": "اللَّاتِي ve اللَّوَاتِي tamamen eş anlamlıdır.",
+      "tur": "Zamir",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc08",
+      "ar": "مَنْ (الْمَوْصُولَةُ)",
+      "harekesiz": "من",
+      "okunus": "Men",
+      "tr": "...-an kimse / kimseler (Müşterek akıllı)",
+      "kok": "ا س م",
+      "vezin": "مَبْنِيّ",
+      "turevler": [
+        "كُلُّ مَنْ",
+        "هُنَاكَ مَنْ"
+      ],
+      "ekBilgi": "Cinsiyet/sayı fark etmeksizin insanlar için kullanılır",
+      "ornek": "سَاعِدْ مَنْ يَحْتَاجُ إِلَيْكَ!",
+      "ornekTr": "Sana ihtiyaç duyan kimseye yardım et!",
+      "kullanimNotu": "Başına asla الْ takısı almaz!",
+      "tur": "Zamir",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc09",
+      "ar": "مَا (الْمَوْصُولَةُ)",
+      "harekesiz": "ما",
+      "okunus": "Mâ",
+      "tr": "...-dığı şey / olan şey (Müşterek akılsız)",
+      "kok": "ا س م",
+      "vezin": "مَبْنِيّ",
+      "turevler": [
+        "بِمَا",
+        "فِيمَا",
+        "مِمَّا",
+        "عَمَّا"
+      ],
+      "ekBilgi": "Nesneler, fikirler ve olaylar için kullanılır; harf-i cerle elifi düşmez!",
+      "ornek": "لَا تَقُلْ مَا لَا تَعْلَمُ!",
+      "ornekTr": "Bilmediğin şeyi söyleme!",
+      "kullanimNotu": "مَا + fiil/cümle akademik dilin omurgasıdır.",
+      "tur": "Zamir",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc10",
+      "ar": "جُمْلَةُ الصِّلَةِ",
+      "harekesiz": "جملة الصلة",
+      "okunus": "Cumletu's-sılati",
+      "tr": "Sıla cümlesi (İsm-i mevsûlü tamamlayan cümle)",
+      "kok": "و ص ل",
+      "vezin": "تَرْكِيب نَحْوِيّ",
+      "turevler": [
+        "الْعَائِد",
+        "لَا مَحَلَّ لَهَا"
+      ],
+      "ekBilgi": "İsm-i mevsûlden hemen sonra gelir ve mahallen i'rabı yoktur!",
+      "ornek": "الطَّالِبُ الَّذِي [كَتَبَ الدَّرْسَ] مُجْتَهِدٌ.",
+      "ornekTr": "[Dersi yazan] öğrenci çalışkandır.",
+      "kullanimNotu": "Fiil cümlesi, isim cümlesi veya şibh-i cümle olabilir.",
+      "tur": "Terim",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc11",
+      "ar": "الضَّمِيرُ الْعَائِدُ",
+      "harekesiz": "الضمير العائد",
+      "okunus": "Ed-damîru'l-‘âidu",
+      "tr": "Âid (dönüş) zamiri",
+      "kok": "ع و د",
+      "vezin": "فَاعِل",
+      "turevler": [
+        "قَرَأْتُهُ",
+        "أَسْكُنُ فِيهَا"
+      ],
+      "ekBilgi": "Sıla cümlesinde ism-i mevsûle cinsiyet ve sayıca dönen zorunlu bağdır!",
+      "ornek": "هٰذِهِ هِيَ الْمَدِينَةُ الَّتِي أَسْكُنُ فِيهَا.",
+      "ornekTr": "İçinde oturduğum şehir budur.",
+      "kullanimNotu": "Harf-i cerli âid zamir (فِيهَا / عَنْهُ / بِهِ) asla atılmaz!",
+      "tur": "Terim",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc12",
+      "ar": "مِمَّا (مِنْ + مَا)",
+      "harekesiz": "مما",
+      "okunus": "Mimmâ",
+      "tr": "... şeyden / Ki bu da ... (YDS sonuç kalıbı!)",
+      "kok": "ح ر ف",
+      "vezin": "مِنْ + مَا",
+      "turevler": [
+        "مِمَّا أَدَّى إِلَى",
+        "مِمَّا يُؤَكِّدُ"
+      ],
+      "ekBilgi": "Elif düşmez! Önceki cümlenin sonucunu bağlarken harikalar yaratır",
+      "ornek": "اِزْدَادَ الطُّلَّابُ، مِمَّا أَدَّى إِلَى فَتْحِ شُعَبٍ جَدِيدَةٍ.",
+      "ornekTr": "Öğrenciler arttı, ki bu da yeni şubelerin açılmasına yol açtı.",
+      "kullanimNotu": "Soru مِمَّ (elifsiz) ile karıştırmayın!",
+      "tur": "Kalıp",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc13",
+      "ar": "فِيمَا يَتَعَلَّقُ بِـ",
+      "harekesiz": "فيما يتعلق بـ",
+      "okunus": "Fîmâ yete‘allaku bi-",
+      "tr": "... ile ilgili olarak / hususunda",
+      "kok": "ع ل ق",
+      "vezin": "عِبَارَة أَكَادِيمِيَّة",
+      "turevler": [
+        "فِيمَا يَخُصُّ",
+        "فِيمَا يَلِي"
+      ],
+      "ekBilgi": "فِي + مَا (elifli!) + يَتَعَلَّقُ بِـ — YDS'nin en seçkin akademik kalıbıdır",
+      "ornek": "مَا رَأْيُكَ فِيمَا يَتَعَلَّقُ بِهٰذَا الْمَشْرُوعِ؟",
+      "ornekTr": "Bu projeyle ilgili olarak görüşün nedir?",
+      "kullanimNotu": "فِيمَا يَلِي = 'Aşağıda / bundan sonra gelenler' demektir!",
+      "tur": "Kalıp",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc14",
+      "ar": "عَمَّا (عَنْ + مَا)",
+      "harekesiz": "عما",
+      "okunus": "‘Ammâ",
+      "tr": "... şey hakkında / şeyden",
+      "kok": "ح ر ف",
+      "vezin": "عَنْ + مَا",
+      "turevler": [
+        "اِبْتَعِدْ عَمَّا",
+        "سَأَلْتُ عَمَّا"
+      ],
+      "ekBilgi": "İsm-i mevsûlde elif korunur (عَمَّا); soruda düşer (عَمَّ)!",
+      "ornek": "اِبْتَعِدْ عَمَّا يَضُرُّ صِحَّتَكَ!",
+      "ornekTr": "Sağlığına zarar veren şeyden uzak dur!",
+      "kullanimNotu": "İdğamla şeddeli مّ okunur.",
+      "tur": "Kalıp",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc15",
+      "ar": "بِمَا أَنَّ",
+      "harekesiz": "بما أن",
+      "okunus": "Bimâ enne",
+      "tr": "Mademki / ... olduğuna göre",
+      "kok": "ح ر ف",
+      "vezin": "أَدَاةُ تَعْلِيلٍ",
+      "turevler": [
+        "بِمَا فِي ذٰلِكَ",
+        "بِمَا يَتَنَاسَبُ"
+      ],
+      "ekBilgi": "بِـ + مَا + أَنَّ — YDS sebep/gerekçe bağlacıdır; cevabı genelde فَـ ile başlar",
+      "ornek": "بِمَا أَنَّ الْجَوَّ جَمِيلٌ، فَلْنَخْرُجْ!",
+      "ornekTr": "Mademki hava güzel, haydi çıkalım!",
+      "kullanimNotu": "بِمَا فِي ذٰلِكَ = '... da dâhil olmak üzere'!",
+      "tur": "Kalıp",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc16",
+      "ar": "هُنَاكَ مَنْ",
+      "harekesiz": "هناك من",
+      "okunus": "Hunâke men",
+      "tr": "... yapan kimseler / insanlar vardır",
+      "kok": "ا س م",
+      "vezin": "تَرْكِيب أَكَادِيمِيّ",
+      "turevler": [
+        "هُنَاكَ مَنْ يَرَى",
+        "هُنَاكَ مَنْ يَعْتَقِدُ"
+      ],
+      "ekBilgi": "YDS makalelerinde farklı görüşleri sunarken çok sık kullanılır",
+      "ornek": "هُنَاكَ مَنْ يَرَى ضَرُورَةَ تَحْدِيثِ الْمَنَاهِجِ.",
+      "ornekTr": "Müfredatların güncellenmesi gerektiğini düşünenler vardır.",
+      "kullanimNotu": "Sonrasındaki fiil genelde tekil eril gelir.",
+      "tur": "Kalıp",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc17",
+      "ar": "أَدَّى — يُؤَدِّي إِلَى",
+      "harekesiz": "أدى — يؤدي إلى",
+      "okunus": "Eddâ — yueddî ilâ",
+      "tr": "...-e yol açmak / sebep olmak",
+      "kok": "أ د ي",
+      "vezin": "فَعَّلَ (II)",
+      "turevler": [
+        "مِمَّا أَدَّى إِلَى",
+        "تَأْدِيَة"
+      ],
+      "ekBilgi": "مِمَّا أَدَّى إِلَى kalıbının vazgeçilmez fiilidir!",
+      "ornek": "نَقَصَ الْمَطَرُ، مِمَّا أَدَّى إِلَى الْجَفَافِ.",
+      "ornekTr": "Yağmur azaldı, ki bu da kuraklığa yol açtı.",
+      "kullanimNotu": "إِلَى harf-i ceriyle eşdizimlidir.",
+      "tur": "Fiil",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc18",
+      "ar": "سَاهَمَ — يُسَاهِمُ فِي",
+      "harekesiz": "ساهم — يساهم في",
+      "okunus": "Sâheme — yusâhimu fî",
+      "tr": "...-e katkı sağlamak",
+      "kok": "س ه م",
+      "vezin": "فَاعَلَ (III)",
+      "turevler": [
+        "مُسَاهَمَة",
+        "مُسَاهِم"
+      ],
+      "ekBilgi": "فِي harf-i ceriyle (فِي التَّطْوِيرِ / فِي النَّجَاحِ) kullanılır",
+      "ornek": "نَشْكُرُ كُلَّ مَنْ سَاهَمَ فِي إِنْجَاحِ الْحَفْلِ.",
+      "ornekTr": "Törenin başarısına katkı sağlayan herkese teşekkür ederiz.",
+      "kullanimNotu": "YDS'de en yüksek frekanslı III. bab fiillerindendir.",
+      "tur": "Fiil",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc19",
+      "ar": "اِعْتَمَدَ — يَعْتَمِدُ عَلَى",
+      "harekesiz": "اعتمد — يعتمد على",
+      "okunus": "İ‘temede — ya‘temidu ‘alâ",
+      "tr": "...-e dayanmak / güvenmek",
+      "kok": "ع م د",
+      "vezin": "اِفْتَعَلَ (VIII)",
+      "turevler": [
+        "اِعْتِمَاد",
+        "مُعْتَمَد"
+      ],
+      "ekBilgi": "عَلَى harf-i ceriyle âid zamir alır: الَّذِي يَعْتَمِدُ عَلَيْهِ",
+      "ornek": "أُرَاجِعُ الْمَرَاجِعَ الَّتِي اعْتَمَدْتُ عَلَيْهَا.",
+      "ornekTr": "Dayandığım kaynakları gözden geçiriyorum.",
+      "kullanimNotu": "Akademik metinlerin demirbaşıdır.",
+      "tur": "Fiil",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc20",
+      "ar": "أَشْرَفَ — يُشْرِفُ عَلَى",
+      "harekesiz": "أشرف — يشرف على",
+      "okunus": "Eşrafe — yuşrifu ‘alâ",
+      "tr": "Gözetmek / danışmanlık yapmak / yönetmek",
+      "kok": "ش ر ف",
+      "vezin": "أَفْعَلَ (IV)",
+      "turevler": [
+        "إِشْرَاف",
+        "مُشْرِف"
+      ],
+      "ekBilgi": "عَلَى harf-i ceriyle (عَلَى الْمَشْرُوعِ / عَلَى الْبَحْثِ) kullanılır",
+      "ornek": "اَلْأُسْتَاذُ الَّذِي أَشْرَفَ عَلَى مَشْرُوعِنَا خَبِيرٌ.",
+      "ornekTr": "Projemize danışmanlık yapan hoca uzmandır.",
+      "kullanimNotu": "مُشْرِفٌ = tez danışmanı / gözetmen.",
+      "tur": "Fiil",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc21",
+      "ar": "تَوَصَّلَ — يَتَوَصَّلُ إِلَى",
+      "harekesiz": "توصل — يتوصل إلى",
+      "okunus": "Tevassale — yetevassalu ilâ",
+      "tr": "(Sonuca/anlaşmaya) ulaşmak / varmak",
+      "kok": "و ص ل",
+      "vezin": "تَفَعَّلَ (V)",
+      "turevler": [
+        "نَتَائِجُ",
+        "وُصُول"
+      ],
+      "ekBilgi": "إِلَى harf-i ceriyle (النَّتَائِجُ الَّتِي تَوَصَّلْنَا إِلَيْهَا) eşdizimlidir",
+      "ornek": "النَّتَائِجُ الَّتِي تَوَصَّلْنَا إِلَيْهَا مُبَشِّرَةٌ.",
+      "ornekTr": "Ulaştığımız sonuçlar umut vericidir.",
+      "kullanimNotu": "Bilimsel makalelerde çok sıktır.",
+      "tur": "Fiil",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc22",
+      "ar": "تَمَيَّزَ — يَتَمَيَّزُ بِـ",
+      "harekesiz": "تميز — يتميز بـ",
+      "okunus": "Temeyyeze — yetemeyyezu bi-",
+      "tr": "... ile öne çıkmak / ayırt edilmek",
+      "kok": "م ي ز",
+      "vezin": "تَفَعَّلَ (V)",
+      "turevler": [
+        "مُمَيِّزَات",
+        "مُتَمَيِّز"
+      ],
+      "ekBilgi": "بِـ harf-i ceriyle (الْمُمَيِّزَاتُ الَّتِي تَتَمَيَّزُ بِهَا) kullanılır",
+      "ornek": "تَتَمَيَّزُ الْقَاعَةُ بِالْهُدُوءِ التَّامِّ.",
+      "ornekTr": "Salon tam sakinliğiyle öne çıkıyor.",
+      "kullanimNotu": "Tanıtım ve betimleme metinlerinin gözdesidir.",
+      "tur": "Fiil",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc23",
+      "ar": "تَنَاوَلَ — يَتَنَاوَلُ",
+      "harekesiz": "تناول — يتناول",
+      "okunus": "Tenâvele — yetenâvelu",
+      "tr": "(Konuyu) ele almak / (yemek/ilaç) almak",
+      "kok": "ن و ل",
+      "vezin": "تَفَاعَلَ (VI)",
+      "turevler": [
+        "تَنَاوُل",
+        "مُتَنَاوَل"
+      ],
+      "ekBilgi": "Akademik metinde 'ele almak', günlük dilde 'yemek/içmek' demektir!",
+      "ornek": "أَعْجَبَنِي الْمَقَالُ الَّذِي يَتَنَاوَلُ التَّرْجَمَةَ.",
+      "ornekTr": "Çeviriyi ele alan makale hoşuma gitti.",
+      "kullanimNotu": "Doğrudan nesne alır (harf-i cersiz).",
+      "tur": "Fiil",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc24",
+      "ar": "اِتَّخَذَ — يَتَّخِذُ (قَرَارًا)",
+      "harekesiz": "اتخذ — يتخذ قرارا",
+      "okunus": "İttehaze — yettehizu karâran",
+      "tr": "(Karar / tedbir) almak / edinmek",
+      "kok": "أ خ ذ",
+      "vezin": "اِفْتَعَلَ (VIII)",
+      "turevler": [
+        "اِتِّخَاذُ الْقَرَارِ",
+        "مُتَّخَذ"
+      ],
+      "ekBilgi": "قَرَار (karar) ve إِجْرَاءَات (tedbirler) ile klasik eşdizimdir",
+      "ornek": "اَلْقَرَارُ الَّذِي اتَّخَذَهُ الْمَجْلِسُ حَكِيمٌ.",
+      "ornekTr": "Meclisin aldığı karar hikmetlidir.",
+      "kullanimNotu": "VIII. babda أ → ت dönüşerek şeddelenir (اِتَّخَذَ)!",
+      "tur": "Fiil",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc25",
+      "ar": "أَطَلَّ — يُطِلُّ عَلَى",
+      "harekesiz": "أطل — يطل على",
+      "okunus": "Etalle — yutıllu ‘alâ",
+      "tr": "...-e bakmak / manzarası olmak",
+      "kok": "ط ل ل",
+      "vezin": "أَفَعَّ (IV + مُضَعَّف)",
+      "turevler": [
+        "إِطْلَالَة",
+        "مُطِلّ"
+      ],
+      "ekBilgi": "عَلَى harf-i ceriyle (تُطِلُّ عَلَى الْبَحْرِ / الْحَدِيقَةِ) kullanılır",
+      "ornek": "النَّوَافِذُ الَّتِي تُطِلُّ عَلَى الْحَدِيقَةِ وَاسِعَةٌ.",
+      "ornekTr": "Parka bakan pencereler geniştir.",
+      "kullanimNotu": "إِطْلَالَةٌ = manzara!",
+      "tur": "Fiil",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc26",
+      "ar": "طَرَحَ — يَطْرَحُ (فِكْرَةً / سُؤَالًا)",
+      "harekesiz": "طرح — يطرح",
+      "okunus": "Taraha — yatrahu",
+      "tr": "(Fikir/soru) ortaya atmak / sunmak",
+      "kok": "ط ر ح",
+      "vezin": "فَعَلَ (3. Bab)",
+      "turevler": [
+        "طَرْح",
+        "مَطْرُوح"
+      ],
+      "ekBilgi": "سُؤَال (soru) ve فِكْرَة (fikir) ile eşdizimlidir",
+      "ornek": "أَعْجَبَتْنِي الْفِكْرَةُ الَّتِي طَرَحْتَهَا.",
+      "ornekTr": "Ortaya attığın fikir hoşuma gitti.",
+      "kullanimNotu": "Matematikte 'çıkarma işlemi' anlamına da gelir.",
+      "tur": "Fiil",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc27",
+      "ar": "بَادَرَ — يُبَادِرُ بِـ",
+      "harekesiz": "بادر — يبادر بـ",
+      "okunus": "Bâdera — yubâdiru bi-",
+      "tr": "İlk adımı atmak / girişimde bulunmak",
+      "kok": "ب د ر",
+      "vezin": "فَاعَلَ (III)",
+      "turevler": [
+        "مُبَادَرَة",
+        "مُبَادِر"
+      ],
+      "ekBilgi": "بِـ veya إِلَى harf-i ceriyle kullanılır",
+      "ornek": "كُنْ أَنْتَ الَّذِي يُبَادِرُ بِالْمُسَاعَدَةِ!",
+      "ornekTr": "Yardımda ilk adımı atan sen ol!",
+      "kullanimNotu": "مُبَادَرَةٌ = girişim / inisiyatif.",
+      "tur": "Fiil",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc28",
+      "ar": "صَمَدَ — يَصْمُدُ أَمَامَ",
+      "harekesiz": "صمد — يصمد أمام",
+      "okunus": "Samede — yasmudu emâme",
+      "tr": "Dayanmak / direnmek / ayakta kalmak",
+      "kok": "ص م د",
+      "vezin": "فَعَلَ (1. Bab)",
+      "turevler": [
+        "صُمُود",
+        "صَامِد"
+      ],
+      "ekBilgi": "أَمَامَ التَّحَدِّيَاتِ (zorluklar karşısında dayanmak) kalıbıyla meşhurdur",
+      "ornek": "اَلْمُؤَسَّسَاتُ الْقَوِيَّةُ تَصْمُدُ أَمَامَ التَّحَدِّيَاتِ.",
+      "ornekTr": "Güçlü kurumlar zorluklar karşısında ayakta kalır.",
+      "kullanimNotu": "1. bab fiildir.",
+      "tur": "Fiil",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc29",
+      "ar": "اِسْتَحَقَّ — يَسْتَحِقُّ",
+      "harekesiz": "استحق — يستحق",
+      "okunus": "İstehakka — yestehıkku",
+      "tr": "Hak etmek / layık olmak",
+      "kok": "ح ق ق",
+      "vezin": "اِسْتَفَعَّ (X + مُضَعَّف)",
+      "turevler": [
+        "اِسْتِحْقَاق",
+        "مُسْتَحِقّ"
+      ],
+      "ekBilgi": "Doğrudan nesne alır (يَسْتَحِقُّ الثِّقَةَ / يَسْتَحِقُّ الزِّيَارَةَ)",
+      "ornek": "هٰذَا الْكِتَابُ يَسْتَحِقُّ الْقِرَاءَةَ فِعْلًا!",
+      "ornekTr": "Bu kitap gerçekten okumaya değer!",
+      "kullanimNotu": "Günlük ve akademik dilde çok sık geçer.",
+      "tur": "Fiil",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc30",
+      "ar": "حَصَلَ — يَحْصُلُ عَلَى",
+      "harekesiz": "حصل — يحصل على",
+      "okunus": "Hasale — yahsul ‘alâ",
+      "tr": "Elde etmek / kazanmak",
+      "kok": "ح ص ل",
+      "vezin": "فَعَلَ (1. Bab)",
+      "turevler": [
+        "حُصُول",
+        "مَحْصُول"
+      ],
+      "ekBilgi": "عَلَى harf-i ceriyle (عَلَى الْمِنْحَةِ / عَلَى الشَّهَادَةِ) kullanılır",
+      "ornek": "اَلْمَعْلُومَاتُ الَّتِي حَصَلْنَا عَلَيْهَا دَقِيقَةٌ.",
+      "ornekTr": "Elde ettiğimiz bilgiler kesindir.",
+      "kullanimNotu": "عَلَى'sız tek başına 'meydana gelmek / olmak' demektir!",
+      "tur": "Fiil",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc31",
+      "ar": "أَهْدَى — يُهْدِي",
+      "harekesiz": "أهدى — يهدي",
+      "okunus": "Ehdâ — yuhdî",
+      "tr": "Hediye etmek / armağan etmek",
+      "kok": "ه د ي",
+      "vezin": "أَفْعَلَ (IV + نَاقِص)",
+      "turevler": [
+        "هَدِيَّة",
+        "إِهْدَاء"
+      ],
+      "ekBilgi": "İki nesne veya إِلَى ile kullanılır (أَهْدَاهُ كِتَابًا / أَهْدَى إِلَيْهِ)",
+      "ornek": "قَرَأْتُ الْكِتَابَ الَّذِي أَهْدَيْتَهُ لِي.",
+      "ornekTr": "Bana hediye ettiğin kitabı okudum.",
+      "kullanimNotu": "هَدَى (I. bab: doğru yola iletti) ile أَهْدَى (IV. bab: hediye etti) farkına dikkat!",
+      "tur": "Fiil",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m19_fc32",
+      "ar": "تَضَمَّنَ / ضَمَّ — يَضُمُّ",
+      "harekesiz": "تضمن / ضم — يضم",
+      "okunus": "Tedammene / Damme — yedummu",
+      "tr": "İçermek / barındırmak / kapsamak",
+      "kok": "ض م م",
+      "vezin": "تَفَعَّلَ / فَعَّ",
+      "turevler": [
+        "مَضْمُون",
+        "ضِمْنَ"
+      ],
+      "ekBilgi": "Kitap, müze, anlaşma ve rapor tanıtımlarında çok yaygındır",
+      "ornek": "اَلْمَكْتَبَةُ الَّتِي تَضُمُّ مَخْطُوطَاتٍ نَادِرَةً عَرِيقَةٌ.",
+      "ornekTr": "Nadir el yazmalarını barındıran kütüphane köklüdür.",
+      "kullanimNotu": "ضِمْنَ = '... kapsamında / içinde'.",
+      "tur": "Fiil",
+      "moduleId": "19",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc01",
+      "ar": "اَلْخَبَرُ الْمُفْرَدُ",
+      "harekesiz": "الخبر المفرد",
+      "okunus": "El-haberu'l-mufredu",
+      "tr": "Müfred haber (Cümle/şibh-i cümle olmayan haber)",
+      "kok": "ف ر د",
+      "vezin": "مُفْعَل",
+      "turevler": [
+        "خَبَرُ جُمْلَةٍ",
+        "خَبَرُ شِبْهِ جُمْلَةٍ"
+      ],
+      "ekBilgi": "İkil (مُجْتَهِدَانِ) ve çoğul (مُجْتَهِدُونَ) haberler de cümle olmadığından Müfred Haberdir!",
+      "ornek": "اَلطُّلَّابُ مُتَفَوِّقُونَ.",
+      "ornekTr": "Öğrenciler üstün başarılıdır.",
+      "kullanimNotu": "Buradaki 'müfred' tekil değil, 'cümle dışı tek parça' anlamındadır!",
+      "tur": "Terim",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc02",
+      "ar": "اَلْخَبَرُ الْجُمْلَةُ الْاِسْمِيَّةُ",
+      "harekesiz": "الخبر الجملة الاسمية",
+      "okunus": "El-haberu'l-cumletu'l-ismiyyetu",
+      "tr": "İsim cümlesi haber",
+      "kok": "خ ب ر",
+      "vezin": "تَرْكِيب نَحْوِيّ",
+      "turevler": [
+        "مُبْتَدَأٌ ثَانٍ",
+        "الضَّمِيرُ الرَّابِطُ"
+      ],
+      "ekBilgi": "2. Mübtedâ (merfû + râbıt zamir!) + 2. Haber'den oluşur; mahallen merfûdur",
+      "ornek": "اَلْمَدِينَةُ شَوَارِعُهَا نَظِيفَةٌ.",
+      "ornekTr": "Şehrin sokakları temizdir.",
+      "kullanimNotu": "Türkçeye genelde tamlayan–tamlanan ('şehrin sokakları...') gibi çevrilir!",
+      "tur": "Terim",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc03",
+      "ar": "اَلْخَبَرُ الْجُمْلَةُ الْفِعْلِيَّةُ",
+      "harekesiz": "الخبر الجملة الفعلية",
+      "okunus": "El-haberu'l-cumletu'l-fi‘liyyetu",
+      "tr": "Fiil cümlesi haber",
+      "kok": "ف ع ل",
+      "vezin": "تَرْكِيب نَحْوِيّ",
+      "turevler": [
+        "اَلطُّلَّابُ يَدْرُسُونَ",
+        "اَلْعِلْمُ يَرْفَعُ"
+      ],
+      "ekBilgi": "Mübtedâdan sonra gelen fiil sayı ve cinsiyetçe mübtedâya TAM uyar!",
+      "ornek": "اَلْمُهَنْدِسُونَ يُصَمِّمُونَ الْجِسْرَ.",
+      "ornekTr": "Mühendisler köprüyü tasarlıyorlar.",
+      "kullanimNotu": "İsimle başladığı için ana cümle hâlâ İSİM cümlesidir!",
+      "tur": "Terim",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc04",
+      "ar": "اَلضَّمِيرُ الرَّابِطُ",
+      "harekesiz": "الضمير الرابط",
+      "okunus": "Ed-damîru'r-râbitu",
+      "tr": "Râbıt (bağlayıcı) zamir",
+      "kok": "ر ب ط",
+      "vezin": "فَاعِل",
+      "turevler": [
+        "رَابِطَة",
+        "رَبَطَ"
+      ],
+      "ekBilgi": "Cümle haber veya cümle sıfatı öndeki isme bağlayan zorunlu zamirdir",
+      "ornek": "اَلْبَيْتُ غُرَفُهُ وَاسِعَةٌ.",
+      "ornekTr": "Evin odaları geniştir.",
+      "kullanimNotu": "Akılsız çoğulda râbıt zamir daima ـهَا olur!",
+      "tur": "Terim",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc05",
+      "ar": "اَلنَّعْتُ الْجُمْلَةُ",
+      "harekesiz": "النعت الجملة",
+      "okunus": "En-na‘tu'l-cumletu",
+      "tr": "Cümle sıfat (Nekre + cümle!)",
+      "kok": "ن ع ت",
+      "vezin": "تَرْكِيب نَحْوِيّ",
+      "turevler": [
+        "نَعْتٌ حَقِيقِيٌّ",
+        "نَعْتٌ سَبَبِيٌّ"
+      ],
+      "ekBilgi": "Sadece NEKRE isimlerden sonra الَّذِي/الَّتِي olmadan gelir!",
+      "ornek": "قَرَأْتُ كِتَابًا يُفِيدُ الطُّلَّابَ.",
+      "ornekTr": "Öğrencilere fayda sağlayan bir kitap okudum.",
+      "kullanimNotu": "الْجُمَلُ بَعْدَ النَّكِرَاتِ صِفَاتٌ altın kuralının meyvesidir!",
+      "tur": "Terim",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc06",
+      "ar": "اَلنَّعْتُ السَّبَبِيُّ",
+      "harekesiz": "النعت السببي",
+      "okunus": "En-na‘tu's-sebebiyyu",
+      "tr": "Sebebî sıfat (Bağlı ismin sıfatı)",
+      "kok": "س ب ب",
+      "vezin": "تَرْكِيب نَحْوِيّ",
+      "turevler": [
+        "نَعْتٌ حَقِيقِيٌّ",
+        "فَاعِلُ الصِّفَةِ"
+      ],
+      "ekBilgi": "İ'rab & belirlilikte ÖNÜNDEKİNE, cinsiyette ARKASINDAKİNE uyar; daima TEKİL kalır!",
+      "ornek": "زُرْتُ بَيْتًا وَاسِعَةً غُرَفُهُ.",
+      "ornekTr": "Odaları geniş bir ev ziyaret ettim.",
+      "kullanimNotu": "Arkasındaki zamirli isim onun merfû fâilidir!",
+      "tur": "Terim",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc07",
+      "ar": "تَعَدُّدُ الْخَبَرِ وَالنَّعْتِ",
+      "harekesiz": "تعدد الخبر والنعت",
+      "okunus": "Te‘addudu'l-haberi ve'n-na‘ti",
+      "tr": "Çoklu haber ve çoklu sıfat",
+      "kok": "ع د د",
+      "vezin": "تَفَعُّل",
+      "turevler": [
+        "مُتَعَدِّد",
+        "عِدَّة"
+      ],
+      "ekBilgi": "Bir mübtedâya birden fazla haber, bir mevsûfa birden fazla sıfat gelebilir",
+      "ornek": "اَللّٰهُ غَفُورٌ رَحِيمٌ كَرِيمٌ.",
+      "ornekTr": "Allah bağışlayıcı, merhametli, cömerttir.",
+      "kullanimNotu": "Müfred + cümle sıfat arka arkaya gelebilir.",
+      "tur": "Terim",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc08",
+      "ar": "اَلْجُمَلُ بَعْدَ النَّكِرَاتِ صِفَاتٌ",
+      "harekesiz": "الجمل بعد النكرات صفات",
+      "okunus": "El-cumelu ba‘de'n-nekirâti sıfâtun",
+      "tr": "Nekrelerden sonra gelen cümleler sıfattır",
+      "kok": "ن ك ر",
+      "vezin": "قَاعِدَةٌ نَحْوِيَّةٌ",
+      "turevler": [
+        "وَبَعْدَ الْمَعَارِفِ أَحْوَالٌ",
+        "نَكِرَة / مَعْرِفَة"
+      ],
+      "ekBilgi": "Arap nahvinin en ünlü ve YDS'de en çok puan getiren kuralıdır!",
+      "ornek": "رَأَيْتُ طَالِبًا يَبْتَسِمُ (صِفَةٌ) ≠ رَأَيْتُ الطَّالِبَ يَبْتَسِمُ (حَالٌ).",
+      "ornekTr": "Gülümseyen bir öğrenci gördüm ≠ Öğrenciyi gülümserken gördüm.",
+      "kullanimNotu": "Ezberlenecek 1 numaralı nahiv kaidesidir!",
+      "tur": "Kalıp",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc09",
+      "ar": "عَرِيقٌ",
+      "harekesiz": "عريق",
+      "okunus": "‘Arîkun",
+      "tr": "Köklü / asil / kadim",
+      "kok": "ع ر ق",
+      "vezin": "فَعِيل",
+      "turevler": [
+        "عَرَاقَة",
+        "تَارِيخٌ عَرِيقٌ"
+      ],
+      "ekBilgi": "تَارِيخ (tarih), حَضَارَة (medeniyet) ve مَدِينَة ile sık eşdizimlidir",
+      "ornek": "أُحِبُّ الْمَدِينَةَ الْعَرِيقَ تَارِيخُهَا.",
+      "ornekTr": "Tarihi köklü şehri severim.",
+      "kullanimNotu": "Akademik ve kültürel metinlerin gözde sıfatıdır.",
+      "tur": "Sıfat",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc10",
+      "ar": "رَاسِخٌ",
+      "harekesiz": "راسخ",
+      "okunus": "Râsihun",
+      "tr": "Köklü / sağlam / sarsılmaz",
+      "kok": "ر س خ",
+      "vezin": "فَاعِل",
+      "turevler": [
+        "رُسُوخ",
+        "قِيَمٌ رَاسِخَةٌ"
+      ],
+      "ekBilgi": "قِيَم (değerler), إِيمَان ve عِلْم ile çok kullanılır",
+      "ornek": "نَبْنِي مُجْتَمَعًا رَاسِخَةً قِيَمُهُ.",
+      "ornekTr": "Değerleri köklü bir toplum inşa ediyoruz.",
+      "kullanimNotu": "اَلرَّاسِخُونَ فِي الْعِلْمِ = ilimde derinleşenler.",
+      "tur": "Sıfat",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc11",
+      "ar": "سَلِسٌ",
+      "harekesiz": "سلس",
+      "okunus": "Selisun",
+      "tr": "Akıcı / pürüzsüz (dil ve üslup)",
+      "kok": "س ل س",
+      "vezin": "فَعِل",
+      "turevler": [
+        "سَلَاسَة",
+        "أُسْلُوبٌ سَلِسٌ"
+      ],
+      "ekBilgi": "Kitap ve üslup eleştirilerinde 'akıcı dil' demektir",
+      "ornek": "هٰذَا كِتَابٌ لُغَتُهُ سَلِسَةٌ وَوَاضِحَةٌ.",
+      "ornekTr": "Bu, dili akıcı ve anlaşılır bir kitaptır.",
+      "kullanimNotu": "لُغَةٌ سَلِسَةٌ = akıcı dil.",
+      "tur": "Sıfat",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc12",
+      "ar": "مُتَرَابِطٌ",
+      "harekesiz": "مترابط",
+      "okunus": "Muterâbitun",
+      "tr": "Birbiriyle bağlantılı / tutarlı",
+      "kok": "ر ب ط",
+      "vezin": "مُتَفَاعِل",
+      "turevler": [
+        "تَرَابُط",
+        "أَفْكَارٌ مُتَرَابِطَةٌ"
+      ],
+      "ekBilgi": "Bölümler, fikirler ve toplum için kullanılır",
+      "ornek": "فُصُولُ الْكِتَابِ مُتَرَابِطَةٌ جِدًّا.",
+      "ornekTr": "Kitabın bölümleri birbiriyle çok bağlantılıdır.",
+      "kullanimNotu": "VI. bab ism-i fâilidir.",
+      "tur": "Sıfat",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc13",
+      "ar": "بَشُوشٌ",
+      "harekesiz": "بشوش",
+      "okunus": "Beşûşun",
+      "tr": "Güler yüzlü / güleç",
+      "kok": "ب ش ش",
+      "vezin": "فَعُول",
+      "turevler": [
+        "بَشَاشَة",
+        "وَجْهٌ بَشُوشٌ"
+      ],
+      "ekBilgi": "وَجْهٌ (yüz) ile sık eşdizimlidir",
+      "ornek": "جَلَسْتُ عِنْدَ رَجُلٍ بَشُوشٍ وَجْهُهُ.",
+      "ornekTr": "Yüzü güleç bir adamın yanında oturdum.",
+      "kullanimNotu": "Mübalağa vezni فَعُول'dur.",
+      "tur": "Sıfat",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc14",
+      "ar": "عَلِيلٌ (نَسِيمٌ عَلِيلٌ)",
+      "harekesiz": "عليل",
+      "okunus": "‘Alîlun",
+      "tr": "Hoş, serin ve hafif (esinti); (insanda) hasta",
+      "kok": "ع ل ل",
+      "vezin": "فَعِيل",
+      "turevler": [
+        "نَسِيمٌ عَلِيلٌ",
+        "عِلَّة"
+      ],
+      "ekBilgi": "نَسِيمٌ (esinti) ile gelirse 'tatlı, hoş, serin esinti' demektir!",
+      "ornek": "اَلْجَوُّ الْيَوْمَ نَسِيمُهُ عَلِيلٌ وَلَطِيفٌ!",
+      "ornekTr": "Bugün havanın esintisi serin ve hoş!",
+      "kullanimNotu": "Edebî tasvirlerin en meşhur kalıbıdır.",
+      "tur": "Sıfat",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc15",
+      "ar": "بَصْمَةٌ لَا تُمْحَى",
+      "harekesiz": "بصمة لا تمحى",
+      "okunus": "Basmetun lâ tumhâ",
+      "tr": "Silinmeyen bir iz / damga",
+      "kok": "ب ص م",
+      "vezin": "عِبَارَة أَدَبِيَّة",
+      "turevler": [
+        "بَصْمَةُ الْإِصْبَعِ",
+        "تَرَكَ بَصْمَةً"
+      ],
+      "ekBilgi": "Nekre بَصْمَةٌ + meçhul fiil cümlesi sıfat (لَا تُمْحَى)",
+      "ornek": "تَرَكَ الْعُلَمَاءُ بَصْمَةً لَا تُمْحَى فِي التَّارِيخِ.",
+      "ornekTr": "Âlimler tarihte silinmeyen bir iz bıraktılar.",
+      "kullanimNotu": "Biyografi ve tarih parçalarının favori deyimidir.",
+      "tur": "Kalıp",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc16",
+      "ar": "بِنْيَةٌ تَحْتِيَّةٌ",
+      "harekesiz": "بنية تحتية",
+      "okunus": "Binyetun tahtiyyetun",
+      "tr": "Altyapı",
+      "kok": "ب ن ي",
+      "vezin": "تَرْكِيب وَصْفِيّ",
+      "turevler": [
+        "بِنَاء",
+        "تَحْتِيّ"
+      ],
+      "ekBilgi": "Ekonomi ve şehircilik YDS metinlerinde çok yüksek frekanslıdır",
+      "ornek": "اَلْمُدُنُ الذَّكِيَّةُ بِنْيَتُهَا التَّحْتِيَّةُ مُتَطَوِّرَةٌ.",
+      "ornekTr": "Akıllı şehirlerin altyapısı gelişmiştir.",
+      "kullanimNotu": "بِنْيَةٌ = yapı.",
+      "tur": "İsim",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc17",
+      "ar": "كَفَاءَةٌ (ج: كَفَاءَاتٌ)",
+      "harekesiz": "كفاءة",
+      "okunus": "Kefâetun",
+      "tr": "Verimlilik / yetkinlik / liyakat",
+      "kok": "ك ف أ",
+      "vezin": "فَعَالَة",
+      "turevler": [
+        "كُفْء",
+        "بِكَفَاءَةٍ عَالِيَةٍ"
+      ],
+      "ekBilgi": "Teknolojide 'verimlilik', insan kaynaklarında 'yetkinlik/uzman kişi' demektir",
+      "ornek": "أَلْوَاحٌ شَمْسِيَّةٌ كَفَاءَتُهَا عَالِيَةٌ.",
+      "ornekTr": "Verimliliği yüksek güneş panelleri.",
+      "kullanimNotu": "YDS Fen ve Sosyal'de çok sıktır.",
+      "tur": "İsim",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc18",
+      "ar": "مَصْدَرٌ لَا يَنْفَدُ",
+      "harekesiz": "مصدر لا ينفد",
+      "okunus": "Masdarun lâ yenfedu",
+      "tr": "Tükenmeyen bir kaynak",
+      "kok": "ن ف د",
+      "vezin": "نَعْتٌ جُمْلَةٌ",
+      "turevler": [
+        "نَفَاد",
+        "مَصَادِرُ الطَّاقَةِ"
+      ],
+      "ekBilgi": "نَفِدَ — يَنْفَدُ (د ile: tükenmek!) — نَفَذَ (ذ ile: delip geçmek) ile karıştırmayın!",
+      "ornek": "اَلشَّمْسُ وَالرِّيَاحُ مَصْدَرَانِ لَا يَنْفَدَانِ.",
+      "ornekTr": "Güneş ve rüzgâr tükenmeyen iki kaynaktır.",
+      "kullanimNotu": "د / ذ farkı YDS'de çok değerlidir!",
+      "tur": "Kalıp",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc19",
+      "ar": "قُدْوَةٌ حَسَنَةٌ",
+      "harekesiz": "قدوة حسنة",
+      "okunus": "Kudvetun hasenetun",
+      "tr": "Güzel örnek / rol model",
+      "kok": "ق د و",
+      "vezin": "فُعْلَة",
+      "turevler": [
+        "اِقْتَدَى بِـ",
+        "يُقْتَدَى بِهَا"
+      ],
+      "ekBilgi": "اِقْتَدَى بِـ (örnek almak) fiilinin ismidir",
+      "ornek": "يَكُونُ الْقَائِدُ قُدْوَةً حَسَنَةً يُقْتَدَى بِهَا.",
+      "ornekTr": "Lider örnek alınan güzel bir model olur.",
+      "kullanimNotu": "Klasik ve modern dilde çok yaygındır.",
+      "tur": "İsim",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc20",
+      "ar": "سَادَ — يَسُودُ",
+      "harekesiz": "ساد — يسود",
+      "okunus": "Sâde — yesûdu",
+      "tr": "Hâkim olmak / egemen olmak",
+      "kok": "س و د",
+      "vezin": "فَعَلَ (1. Bab — Ecvef)",
+      "turevler": [
+        "سِيَادَة",
+        "سَائِد"
+      ],
+      "ekBilgi": "بِيئَةٌ يَسُودُهَا الِاحْتِرَامُ ('saygının hâkim olduğu ortam') kalıbıyla meşhurdur",
+      "ornek": "يَبْنِي بِيئَةَ عَمَلٍ يَسُودُهَا الِاحْتِرَامُ وَالثِّقَةُ.",
+      "ornekTr": "Saygı ve güvenin hâkim olduğu bir çalışma ortamı kurar.",
+      "kullanimNotu": "الِاحْتِرَامُ fâil (merfû), ـهَا nesnedir!",
+      "tur": "Fiil",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc21",
+      "ar": "تَبَنَّى — يَتَبَنَّى",
+      "harekesiz": "تبنى — يتبنى",
+      "okunus": "Tebennâ — yetebennâ",
+      "tr": "(Strateji/fikir) benimsemek / sahiplenmek",
+      "kok": "ب ن ي",
+      "vezin": "تَفَعَّلَ (V + نَاقِص)",
+      "turevler": [
+        "تَبَنٍّ",
+        "مُتَبَنًّى"
+      ],
+      "ekBilgi": "اِسْتِرَاتِيجِيَّة / مَشْرُوع / فِكْرَة ile eşdizimlidir",
+      "ornek": "تَبَنَّتِ الْجَامِعَةُ اسْتِرَاتِيجِيَّةً طَمُوحَةً.",
+      "ornekTr": "Üniversite iddialı bir strateji benimsedi.",
+      "kullanimNotu": "YDS Sosyal ve Siyaset metinlerinin vazgeçilmezidir.",
+      "tur": "Fiil",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc22",
+      "ar": "حَلَّقَ — يُحَلِّقُ",
+      "harekesiz": "حلق — يحلق",
+      "okunus": "Hallaka — yuhalliku",
+      "tr": "(Kuş/uçak) gökte süzülmek / uçmak",
+      "kok": "ح ل ق",
+      "vezin": "فَعَّلَ (II)",
+      "turevler": [
+        "تَحْلِيق",
+        "مُحَلِّق"
+      ],
+      "ekBilgi": "حَلَقَ (I. bab: tıraş etmek) ile şeddeli حَلَّقَ (II. bab: gökte süzülmek) farkına dikkat!",
+      "ornek": "شَاهَدْتُ النَّوَارِسَ تُحَلِّقُ فَوْقَ الْأَمْوَاجِ.",
+      "ornekTr": "Martıları dalgaların üstünde süzülürken izledim.",
+      "kullanimNotu": "Edebî betimlemelerde çok şıktır.",
+      "tur": "Fiil",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc23",
+      "ar": "أَثْنَى — يُثْنِي عَلَى",
+      "harekesiz": "أثنى — يثني على",
+      "okunus": "Esnâ — yusnî ‘alâ",
+      "tr": "Övmek / takdir etmek",
+      "kok": "ث ن ي",
+      "vezin": "أَفْعَلَ (IV + نَاقِص)",
+      "turevler": [
+        "ثَنَاء",
+        "مُثْنٍ"
+      ],
+      "ekBilgi": "عَلَى harf-i ceriyle kullanılır",
+      "ornek": "يُثْنِي الْقَائِدُ عَلَى زُمَلَائِهِ قَبْلَ نَفْسِهِ.",
+      "ornekTr": "Lider kendinden önce arkadaşlarını över.",
+      "kullanimNotu": "ثَنَاءٌ = övgü.",
+      "tur": "Fiil",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc24",
+      "ar": "أَلْقَى اللَّوْمَ عَلَى",
+      "harekesiz": "ألقى اللوم على",
+      "okunus": "Elka'l-levme ‘alâ",
+      "tr": "Suçu ...-e atmak / suçlamak",
+      "kok": "ل و م",
+      "vezin": "تَعْبِيرٌ اصْطِلَاحِيٌّ",
+      "turevler": [
+        "لَوْم",
+        "لَامَ — يَلُومُ"
+      ],
+      "ekBilgi": "Modern basında çok sık kullanılan deyimsel kalıptır",
+      "ornek": "اَلْقَائِدُ الصَّبُورُ لَا يُلْقِي اللَّوْمَ عَلَى غَيْرِهِ.",
+      "ornekTr": "Sabırlı lider suçu başkasına atmaz.",
+      "kullanimNotu": "أَلْقَى خِطَابًا = konuşma yaptı; أَلْقَى اللَّوْمَ = suç attı.",
+      "tur": "Kalıp",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc25",
+      "ar": "أَسَرَ — يَأْسِرُ الْقُلُوبَ",
+      "harekesiz": "أسر — يأسر القلوب",
+      "okunus": "Esera — ye'siru'l-kulûbe",
+      "tr": "Kalpleri fethetmek / büyülemek",
+      "kok": "أ س ر",
+      "vezin": "فَعَلَ (2. Bab)",
+      "turevler": [
+        "أَسْر",
+        "آسِر"
+      ],
+      "ekBilgi": "Mecazen 'gönülleri fethetmek / hayran bırakmak' demektir",
+      "ornek": "بَعْضُ الْأَمَاكِنِ بَسَاطَتُهَا تَأْسِرُ الْقُلُوبَ.",
+      "ornekTr": "Bazı mekânların sadeliği kalpleri fetheder.",
+      "kullanimNotu": "مَنْظَرٌ آسِرٌ = büyüleyici manzara.",
+      "tur": "Kalıp",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc26",
+      "ar": "تَمَتَّعَ — يَتَمَتَّعُ بِـ",
+      "harekesiz": "تمتع — يتمتع بـ",
+      "okunus": "Temette‘a — yetemette‘u bi-",
+      "tr": "(Özellik/yetkinliğe) sahip olmak / tadını çıkarmak",
+      "kok": "م ت ع",
+      "vezin": "تَفَعَّلَ (V)",
+      "turevler": [
+        "تَمَتُّع",
+        "مُتْعَة"
+      ],
+      "ekBilgi": "بِـ harf-i ceriyle (بِمَهَارَاتٍ / بِصِحَّةٍ جَيِّدَةٍ) kullanılır",
+      "ornek": "قَابَلْتُ مُرَشَّحَيْنِ يَتَمَتَّعَانِ بِمَهَارَاتٍ عَالِيَةٍ.",
+      "ornekTr": "Yüksek becerilere sahip iki adayla görüştüm.",
+      "kullanimNotu": "YDS'de 'sahip olmak' anlamında çok sık geçer!",
+      "tur": "Fiil",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc27",
+      "ar": "اِحْتَوَى — يَحْتَوِي عَلَى",
+      "harekesiz": "احتوى — يحتوي على",
+      "okunus": "İhtevâ — yahtevî ‘alâ",
+      "tr": "İçermek / ihtiva etmek",
+      "kok": "ح و ي",
+      "vezin": "اِفْتَعَلَ (VIII + لَفِيف)",
+      "turevler": [
+        "مُحْتَوًى",
+        "اِحْتِوَاء"
+      ],
+      "ekBilgi": "عَلَى harf-i ceriyle kullanılır (ya da doğrudan nesne alır)",
+      "ornek": "قِسْمٌ غَنِيٌّ يَحْتَوِي عَلَى آلَافِ الْمَعَاجِمِ.",
+      "ornekTr": "Binlerce sözlük içeren zengin bir bölüm.",
+      "kullanimNotu": "مُحْتَوًى = içerik!",
+      "tur": "Fiil",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc28",
+      "ar": "شَوَّقَ — يُشَوِّقُ",
+      "harekesiz": "شوق — يشوق",
+      "okunus": "Şevvaka — yuşevviku",
+      "tr": "Meraklandırmak / ilgi çekmek",
+      "kok": "ش و ق",
+      "vezin": "فَعَّلَ (II)",
+      "turevler": [
+        "شَيِّق",
+        "مُشَوِّق",
+        "شَوْق"
+      ],
+      "ekBilgi": "شَيِّقٌ / مُشَوِّقٌ = sürükleyici / ilgi çekici",
+      "ornek": "اَلْمُؤَلِّفُ أُسْلُوبُهُ يُشَوِّقُ الْقَارِئَ.",
+      "ornekTr": "Yazarın üslubu okuyucuyu meraklandırır.",
+      "kullanimNotu": "Kitap ve film tanıtımlarında çok yaygındır.",
+      "tur": "Fiil",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc29",
+      "ar": "مَوْثُوقٌ",
+      "harekesiz": "موثوق",
+      "okunus": "Mevsûkun",
+      "tr": "Güvenilir / sağlam (kaynak)",
+      "kok": "و ث ق",
+      "vezin": "مَفْعُول",
+      "turevler": [
+        "مَصَادِرُ مَوْثُوقَةٌ",
+        "ثِقَة"
+      ],
+      "ekBilgi": "مَصَادِرُ مَوْثُوقَةٌ (güvenilir kaynaklar) klasik akademik tamlamadır",
+      "ornek": "يَعْتَمِدُ الْكِتَابُ عَلَى مَصَادِرَ مَوْثُوقَةٍ.",
+      "ornekTr": "Kitap güvenilir kaynaklara dayanıyor.",
+      "kullanimNotu": "وَثِقَ بِـ fiilinin ism-i mef'ûlüdür.",
+      "tur": "Sıfat",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc30",
+      "ar": "طَمُوحٌ",
+      "harekesiz": "طموح",
+      "okunus": "Tamûhun",
+      "tr": "İddialı / yüksek hedefli / azimli",
+      "kok": "ط م ح",
+      "vezin": "فَعُول",
+      "turevler": [
+        "طُمُوح",
+        "طَمَحَ إِلَى"
+      ],
+      "ekBilgi": "فَعُول vezninde hem eril hem dişil için aynı kalır: خُطَّةٌ طَمُوحٌ / طَمُوحَةٌ",
+      "ornek": "تَبَنَّتِ الْجَامِعَةُ اسْتِرَاتِيجِيَّةً طَمُوحَةً.",
+      "ornekTr": "Üniversite iddialı bir strateji benimsedi.",
+      "kullanimNotu": "Olumlu anlamda 'yüksek ideal sahibi' demektir.",
+      "tur": "Sıfat",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc31",
+      "ar": "مُتَمَاسِكٌ",
+      "harekesiz": "متماسك",
+      "okunus": "Mutemâsikun",
+      "tr": "Sağlam / kenetlenmiş / tutarlı",
+      "kok": "م س ك",
+      "vezin": "مُتَفَاعِل",
+      "turevler": [
+        "تَمَاسُك",
+        "نَسِيجٌ مُتَمَاسِكٌ"
+      ],
+      "ekBilgi": "Toplumsal dayanışma ve metin tutarlılığı için kullanılır",
+      "ornek": "مُجْتَمَعٌ مُتَمَاسِكٌ نَسِيجُهُ الِاجْتِمَاعِيُّ.",
+      "ornekTr": "Toplumsal dokusu sağlam bir toplum.",
+      "kullanimNotu": "تَمَاسُكٌ = kenetlenme / bütünlük.",
+      "tur": "Sıfat",
+      "moduleId": "20",
+      "cefr": "A2"
+    },
+    {
+      "id": "m20_fc32",
+      "ar": "مُرَشَّحٌ (ج: مُرَشَّحُونَ)",
+      "harekesiz": "مرشح",
+      "okunus": "Muraşşahun",
+      "tr": "Aday (iş / ödül / seçim)",
+      "kok": "ر ش ح",
+      "vezin": "مُفَعَّل",
+      "turevler": [
+        "تَرْشِيح",
+        "رَشَّحَ"
+      ],
+      "ekBilgi": "İş görüşmeleri ve haberlerde çok yüksek frekanslıdır",
+      "ornek": "قَابَلْتُ مُرَشَّحَيْنِ مُمْتَازَيْنِ الْيَوْمَ.",
+      "ornekTr": "Bugün iki harika adayla görüştüm.",
+      "kullanimNotu": "II. bab ism-i mef'ûlüdür.",
+      "tur": "İsim",
+      "moduleId": "20",
       "cefr": "A2"
     }
   ]

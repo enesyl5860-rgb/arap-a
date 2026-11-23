@@ -1,0 +1,779 @@
+{
+  "id": "18",
+  "slug": "modul_18",
+  "phaseId": 2,
+  "cilt": 2,
+  "cefr": "A2",
+  "title": "Meçhul (Edilgen) Fiil Çatısı & Nâib-i Fâil",
+  "arabicTitle": "الْفِعْلُ الْمَبْنِيُّ لِلْمَجْهُولِ وَنَائِبُ الْفَاعِلِ",
+  "category": "Sarf & Nahiv",
+  "summary": "Mâzi (فُعِلَ) ve muzâri (يُفْعَلُ) edilgen kurulumu, ecvef/mezîd dönüşümleri, nâib-i fâilin ref' ve cinsiyet kuralları, harf-i cerli meçhul ve basın/YDS Arapçası edilgen kalıpları.",
+  "grammar": [
+    {
+      "id": "m18_g1",
+      "baslik": "Mâzi Meçhul (فُعِلَ) — Geçmiş Zaman Edilgen Melodisi",
+      "arBaslik": "بِنَاءُ الْفِعْلِ الْمَاضِي لِلْمَجْهُولِ (فُعِلَ)",
+      "mantik": "Türkçede edilgen yapmak için fiile `-ıl / -il / -ın` eki takarız ('yazdı → yazıldı'). Arapçada ise ek takmaya bile gerek yoktur; yalnızca **fiilin içindeki sesli harflerin (harekelerin) melodisini** değiştirirsiniz! Mâzi meçhulün altın melodisi bütün bablar için tek bir cümledir: **'Sondan bir önceki harfi KESRA yap, ondan önceki bütün harekeli harfleri DAMME yap!'** Bakın nasıl kusursuz çalışır: `كَتَبَ` → **`كُتِبَ`** (yazıldı), `أَرْسَلَ` → **`أُرْسِلَ`** (gönderildi), `اِسْتَخْرَجَ` → **`اُسْتُخْرِجَ`** (çıkarıldı)! İki tatlı ses uyumu notu: (1) III. babda (`شَاهَدَ`) ilk harf dammelenince aradaki elif mecburen vâva döner: **`شُوهِدَ`** (görüldü/izlendi)! (2) Ecvef fiillerde (`قَالَ / بَاعَ / زَادَ`) kesra baskın gelir ve ortadaki harf uzun yâya döner: **`قِيلَ`** (denildi), **`بِيعَ`** (satıldı), **`زِيدَ`** (artırıldı)!",
+      "formul": "Mâzi Meçhul: Sondan Bir Önceki (ـِ) + Önceki Tüm Harekeliler (ـُ) | قَالَ→قِيلَ | شَاهَدَ→شُوهِدَ",
+      "formulAr": "كَتَبَ ← كُتِبَ  |  أَكْرَمَ ← أُكْرِمَ  |  شَاهَدَ ← شُوهِدَ  |  قَالَ ← قِيلَ",
+      "tablo": {
+        "baslik": "Sülâsî, Mezîd ve Ecvef Mâzi Fiillerin Meçhule Dönüşümü",
+        "sutunlar": ["Fiil Türü", "Mâlum (Etken)", "Meçhul (Edilgen)", "Ses Kuralı", "Türkçe Anlam"],
+        "satirlar": [
+          { "hucreler": ["Sülâsî Sâlim", "كَتَبَ / فَتَحَ / سَمِعَ", "كُتِبَ / فُتِحَ / سُمِعَ", "1. damme + 2. kesra (فُعِلَ)", "Yazıldı / Açıldı / Duyuldu"], "ar": "كُتِبَ — فُتِحَ — سُمِعَ" },
+          { "hucreler": ["II. & IV. Bab", "عَلَّمَ / أَرْسَلَ / أَغْلَقَ", "عُلِّمَ / أُرْسِلَ / أُغْلِقَ", "Sondan önceki kesra, önceki damme", "Öğretildi / Gönderildi / Kapatıldı"], "ar": "عُلِّمَ — أُرْسِلَ — أُغْلِقَ" },
+          { "hucreler": ["III. Bab (فَاعَلَ)", "شَاهَدَ / نَاقَشَ / قَابَلَ", "شُوهِدَ / نُوقِشَ / قُوبِلَ", "Damme sonrası ا → و dönüşümü!", "İzlendi / Tartışıldı / Karşılandı"], "ar": "شُوهِدَ — نُوقِشَ — قُوبِلَ" },
+          { "hucreler": ["V. / VIII. / X. Bab", "تَعَلَّمَ / اِكْتَشَفَ / اِسْتَخْرَجَ", "تُعُلِّمَ / اُكْتُشِفَ / اُسْتُخْرِجَ", "Tüm harekeliler damme (sükûna dokunma!)", "Öğrenildi / Keşfedildi / Çıkarıldı"], "ar": "تُعُلِّمَ — اُكْتُشِفَ — اُسْتُخْرِجَ" },
+          { "hucreler": ["Ecvef (Ortası ا)", "قَالَ / بَاعَ / أَعَادَ", "قِيلَ / بِيعَ / أُعِيدَ", "Orta harf uzun ي (ـِيـ) olur!", "Denildi / Satıldı / İade edildi"], "ar": "قِيلَ — بِيعَ — أُعِيدَ" },
+          { "hucreler": ["Nâkıs (Sonu ى/ا)", "بَنَى / دَعَا / نَسِيَ", "بُنِيَ / دُعِيَ / نُسِيَ", "Kesra sonrası son harf ي olur!", "İnşa edildi / Davet edildi / Unutuldu"], "ar": "بُنِيَ — دُعِيَ — نُسِيَ" }
+        ]
+      },
+      "trKiyas": "Arapçada harekesiz bir metni (örneğin bir gazete haberini) okurken `كُتِبَ` ile `كَتَبَ` aynı harflerle (`كتب`) yazılır! Peki okuyucu bunun etken mi edilgen mi olduğunu nasıl anlar? Cümlenin **özne–nesne bağlamından**! Mesela `كتب التقرير أمس` ('Rapor dün ...') cümlesinde rapor kendi kendini yazamayacağı için gözünüz otomatik olarak `كُتِبَ التَّقْرِيرُ أَمْسِ` ('Rapor dün yazıldı') diye okur! Ama `قِيلَ / شُوهِدَ / بُنِيَ / بِيعَ` gibi meçhuller harf değiştiği için harekesiz metinde bile anında parlar!",
+      "sikHatalar": [
+        "III. babın (نَاقَشَ) meçhulünde elifi vâva çevirmeyi unutmak (✗ نُاقِشَ → ✓ نُوقِشَ!).",
+        "Vasıl hemzeli VIII./X. babların (اِكْتَشَفَ / اِسْتَخْرَجَ) meçhulünde sadece ilk harfi dammeleyip ikinci harekeliyi unutmak (✗ اُكْتَشِفَ → ✓ اُكْتُشِفَ / اُسْتُخْرِجَ — sondan öncekinden önceki TÜM harekeliler damme olur!).",
+        "Ecvef fiilin (قَالَ / بَاعَ) meçhulünü قُولَ / بُوعَ sanmak (✗ قُولَ → ✓ قِيلَ / بِيعَ!)."
+      ],
+      "ornekler": [
+        { "ar": "فُتِحَ الْمُتْحَفُ الْجَدِيدُ أَمَامَ الزُّوَّارِ أَمْسِ.", "okunus": "Futiha'l-muthafu'l-cedîdu emâme'z-zuvvâri emsi.", "tr": "Yeni müze dün ziyaretçilere açıldı.", "not": "فَتَحَ → فُتِحَ (Sülâsî meçhul)" },
+        { "ar": "أُرْسِلَتِ الدَّعَوَاتُ إِلَى جَمِيعِ الضُّيُوفِ قَبْلَ أُسْبُوعٍ.", "okunus": "Ursileti'd-da‘avâtu ilâ cemî‘i'd-duyûfi kable usbû‘in.", "tr": "Davetiyeler bir hafta önce tüm misafirlere gönderildi.", "not": "أَرْسَلَ → أُرْسِلَ + dişil تْ" },
+        { "ar": "نُوقِشَتِ الْقَضِيَّةُ فِي الِاجْتِمَاعِ بِاهْتِمَامٍ كَبِيرٍ.", "okunus": "Nûkışeti'l-kadiyyetu fi'l-ictimâ‘i bi'htimâmin kebîrin.", "tr": "Mesele toplantıda büyük bir ilgiyle tartışıldı.", "not": "III. bab: نَاقَشَ → نُوقِشَ (ا→و!)" },
+        { "ar": "اُكْتُشِفَ كَوْكَبٌ جَدِيدٌ خَارِجَ الْمَجْمُوعَةِ الشَّمْسِيَّةِ.", "okunus": "Uktuşife kevkebun cedîdun hârice'l-mecmû‘ati'ş-şemsiyyeti.", "tr": "Güneş sisteminin dışında yeni bir gezegen keşfedildi.", "not": "VIII. bab: اِكْتَشَفَ → اُكْتُشِفَ" },
+        { "ar": "بُنِيَ هٰذَا الْجِسْرُ التَّارِيخِيُّ قَبْلَ خَمْسِمِئَةِ عَامٍ.", "okunus": "Buniye hâze'l-cisru't-târîhiyyu kable hamsimieti ‘âmin.", "tr": "Bu tarihî köprü beş yüz yıl önce inşa edildi.", "not": "Nâkıs: بَنَى → بُنِيَ" },
+        { "ar": "قِيلَ فِي الْمَثَلِ: الصَّبْرُ مِفْتَاحُ الْفَرَجِ!", "okunus": "Kîle fi'l-meseli: es-sabru miftâhu'l-fereci!", "tr": "Atasözünde denildi ki: Sabır ferahlığın anahtarıdır!", "not": "Ecvef: قَالَ → قِيلَ!" }
+      ],
+      "tatbikler": [
+        { "id": "m18_g1_t01", "tip": "donusturme", "soru": "«شَاهَدَ» (III. bab — izledi) fiilinin mâzi meçhulü ('izlendi') hangisidir?", "secenekler": ["شُوهِدَ", "شُاهِدَ", "شِيهِدَ", "شَهِدَ"], "dogruIndeks": 0, "aciklama": "İlk harf dammelenince III. babdaki elif vâva döner: شَاهَدَ → شُوهِدَ!" },
+        { "id": "m18_g1_t02", "tip": "donusturme", "soru": "«اِسْتَخْرَجَ» (X. bab — çıkardı) fiilinin mâzi meçhulü hangisidir?", "secenekler": ["اُسْتُخْرِجَ", "اُسْتَخْرِجَ", "اِسْتُخْرِجَ", "اُسْتُخْرَجَ"], "dogruIndeks": 0, "aciklama": "Sondan önceki (رِ) kesra, önceki tüm harekeliler (اُ + تُ) damme: اُسْتُخْرِجَ!" },
+        { "id": "m18_g1_t03", "tip": "bosluk", "soru": "«___ السَّيَّارَةُ الْقَدِيمَةُ أَمْسِ بِسِعْرٍ مُنَاسِبٍ.» (بَاعَ fiilinin meçhulü)", "secenekler": ["بِيعَتِ", "بُوعَتِ", "بَاعَتِ", "تُبَاعُ"], "dogruIndeks": 0, "aciklama": "Ecvef بَاعَ → بِيعَ + dişil السَّيَّارَةُ → بِيعَتِ!" },
+        { "id": "m18_g1_t04", "tip": "bosluk", "soru": "«___ الطُّلَّابُ إِلَى حَفْلِ التَّخَرُّجِ.» (دَعَا fiilinin meçhulü)", "secenekler": ["دُعِيَ", "دُعَا", "دَعِيَ", "يُدْعَى"], "dogruIndeks": 0, "aciklama": "Nâkıs دَعَا → kesradan dolayı son harf ي olur: دُعِيَ!" },
+        { "id": "m18_g1_t05", "tip": "hata", "soru": "«قُولَ أَنَّ الْامْتِحَانَ سَهْلٌ.» cümlesindeki mâzi meçhul hatası nasıl düzeltilir?", "secenekler": ["قِيلَ إِنَّ الِامْتِحَانَ سَهْلٌ.", "قَالَ إِنَّ الِامْتِحَانَ سَهْلٌ.", "يُقِيلُ إِنَّ الِامْتِحَانَ سَهْلٌ.", "Hata yoktur."], "dogruIndeks": 0, "aciklama": "قَالَ fiilinin mâzi meçhulü قِيلَ'dir (ve قَالَ/قِيلَ sonrası إِنَّ kesralı okunur!)." },
+        { "id": "m18_g1_t06", "tip": "bosluk", "soru": "«___ الطَّرْدُ إِلَى أَنْقَرَةَ صَبَاحًا.» (أَرْسَلَ — IV. bab meçhul)", "secenekler": ["أُرْسِلَ", "أَرْسِلَ", "اُرْسُلَ", "رُسِلَ"], "dogruIndeks": 0, "aciklama": "أَرْسَلَ → أُرْسِلَ (ilk harf damme, sondan önceki kesra!)." },
+        { "id": "m18_g1_t07", "tip": "tr_ar", "soru": "'Bu okul elli yıl önce inşa edildi.' cümlesi hangisidir?", "secenekler": ["بُنِيَتْ هٰذِهِ الْمَدْرَسَةُ قَبْلَ خَمْسِينَ عَامًا.", "بَنَتْ هٰذِهِ الْمَدْرَسَةُ قَبْلَ خَمْسِينَ عَامًا.", "بُنَا هٰذِهِ الْمَدْرَسَةُ.", "يُبْنَى هٰذِهِ الْمَدْرَسَةُ أَمْسِ."], "dogruIndeks": 0, "aciklama": "بَنَى → بُنِيَ + dişil الْمَدْرَسَةُ → بُنِيَتْ!" },
+        { "id": "m18_g1_t08", "tip": "bosluk", "soru": "«اِخْتَرَعَ» (icat etti) fiilinin mâzi meçhulü ('icat edildi') hangisidir?", "secenekler": ["اُخْتُرِعَ", "اُخْتَرِعَ", "اِخْتُرِعَ", "اُخْتُرَعَ"], "dogruIndeks": 0, "aciklama": "Sondan önceki kesra (رِ), önceki harekeliler damme (اُ + تُ): اُخْتُرِعَ!" },
+        { "id": "m18_g1_t09", "tip": "bosluk", "soru": "«نَسِيَ» (unuttu) fiilinin mâzi meçhulü ('unutuldu') hangisidir?", "secenekler": ["نُسِيَ", "نِسِيَ", "نُسَيَ", "نَسُيَ"], "dogruIndeks": 0, "aciklama": "نَسِيَ → ilk harf damme, sondan önceki zaten kesra: نُسِيَ!" },
+        { "id": "m18_g1_t10", "tip": "donusturme", "soru": "«عَقَدَ الْوَزِيرُ الْمُؤْتَمَرَ.» cümlesindeki fiilin mâzi meçhulü hangisidir?", "secenekler": ["عُقِدَ الْمُؤْتَمَرُ.", "عَقِدَ الْمُؤْتَمَرُ.", "عُقَدَ الْمُؤْتَمَرُ.", "عُقِدَ الْمُؤْتَمَرَ."], "dogruIndeks": 0, "aciklama": "عَقَدَ → عُقِدَ ve nâib-i fâil merfû: الْمُؤْتَمَرُ!" }
+      ]
+    },
+    {
+      "id": "m18_g2",
+      "baslik": "Muzâri Meçhul (يُفْعَلُ) — Şimdiki / Geniş / Gelecek Zaman Edilgen",
+      "arBaslik": "بِنَاءُ الْفِعْلِ الْمُضَارِعِ لِلْمَجْهُولِ (يُفْعَلُ)",
+      "mantik": "Muzâri fiili edilgen yapmak mâziden bile daha kolaydır! Yalnızca iki harfe dokunursunuz: **'En baştaki muzâraat harfini DAMME (`يُـ / تُـ / أُ / نُـ`) yap, sondan bir önceki harfi FETHA (`ـَ`) yap!'** Aradaki harflere hiç dokunmayın! Bakın bütün bablarda mucize gibi işler: `يَكْتُبُ → يُكْتَبُ` (yazılır), `يَفْتَحُ → يُفْتَحُ` (açılır), `يُشَاهِدُ → يُشَاهَدُ` (izlenir), `يَسْتَخْرِجُ → يُسْتَخْرَجُ` (çıkarılır)! İki tatlı ses uyumu kuralı: (1) Ecvef fiilde sondan önceki uzun و/ي fethanın etkisiyle **elife (`ا`)** dönüşür: `يَقُولُ → يُقَالُ` (denilir), `يَبِيعُ → يُبَاعُ` (satılır), `يَسْتَطِيعُ → يُسْتَطَاعُ`! (2) Nâkıs fiilde sondaki و/ي fethadan dolayı **elif-i maksûreye (`ى`)** dönüşür: `يَدْعُو → يُدْعَى` (çağrılır), `يَبْنِي → يُبْنَى` (inşa edilir)!",
+      "formul": "Muzâri Meçhul: İlk Harf (يُـ) + Sondan Bir Önceki (ـَ) | يَقُولُ→يُقَالُ | يَبْنِي→يُبْنَى",
+      "formulAr": "يَكْتُبُ ← يُكْتَبُ  |  يَسْتَخْرِجُ ← يُسْتَخْرَجُ  |  يَقُولُ ← يُقَالُ  |  يَبْنِي ← يُبْنَى",
+      "tablo": {
+        "baslik": "Muzâri Mâlum → Meçhul Dönüşüm Referans Tablosu",
+        "sutunlar": ["Fiil Türü", "Muzâri Mâlum", "Muzâri Meçhul", "Ses Kuralı", "Türkçe Anlam"],
+        "satirlar": [
+          { "hucreler": ["Sülâsî Sâlim", "يَكْتُبُ / يَفْتَحُ / يَسْمَعُ", "يُكْتَبُ / يُفْتَحُ / يُسْمَعُ", "İlk damme (يُـ) + sondan önceki fetha", "Yazılır / Açılır / Duyulur"], "ar": "يُكْتَبُ — يُفْتَحُ — يُسْمَعُ" },
+          { "hucreler": ["II. / III. / IV. Bab", "يُعَلِّمُ / يُشَاهِدُ / يُرْسِلُ", "يُعَلَّمُ / يُشَاهَدُ / يُرْسَلُ", "İlk zaten يُـ → sadece sondan önceki fetha!", "Öğretilir / İzlenir / Gönderilir"], "ar": "يُعَلَّمُ — يُشَاهَدُ — يُرْسَلُ" },
+          { "hucreler": ["VIII. / X. Bab", "يَكْتَشِفُ / يَسْتَخْدِمُ", "يُكْتَشَفُ / يُسْتَخْدَمُ", "يُـ + sondan önceki fetha", "Keşfedilir / Kullanılır"], "ar": "يُكْتَشَفُ — يُسْتَخْدَمُ" },
+          { "hucreler": ["Ecvef (و / ي)", "يَقُولُ / يَبِيعُ / يَزُورُ", "يُقَالُ / يُبَاعُ / يُزَارُ", "Sondan önceki و/ي → ا (elif)!", "Denilir / Satılır / Ziyaret edilir"], "ar": "يُقَالُ — يُبَاعُ — يُزَارُ" },
+          { "hucreler": ["Nâkıs (و / ي)", "يَدْعُو / يَبْنِي / يُعْطِي", "يُدْعَى / يُبْنَى / يُعْطَى", "Son harf → ى (elif-i maksûre)!", "Çağrılır / İnşa edilir / Verilir"], "ar": "يُدْعَى — يُبْنَى — يُعْطَى" },
+          { "hucreler": ["Gelecek & Nasb/Cezm", "سَيُفْتَحُ / لَنْ يُنْسَى / لَمْ يُكْتَبْ", "Aynı meçhul + edat!", "Meçhul muzâri de nasb/cezm alır!", "Açılacak / Unutulmayacak / Yazılmadı"], "ar": "سَيُفْتَحُ — لَنْ يُنْسَى — لَمْ يُكْتَبْ" }
+        ]
+      },
+      "trKiyas": "Çok önemli bir ipucu: II., III. ve IV. bablarda (`يُعَلِّمُ / يُنَاقِشُ / يُرْسِلُ`) muzâri mâlum da zaten dammeli `يُـ` ile başlar! Dolayısıyla bu üç babda etken ile edilgeni ayıran **tek harf sondan bir önceki harekedir**: Kesra ise ETKEN (`يُرْسِلُ` = gönderiyor), fetha ise EDİLGEN (`يُرْسَلُ` = gönderiliyor)! Yine `يُقَالُ / يُبَاعُ / يُسْتَطَاعُ / يُبْنَى / يُعْطَى` formları harekesiz metinde bile `ا / ى` sayesinde hemen tanınır!",
+      "sikHatalar": [
+        "II./III./IV. babda يُـ sesini görünce hemen edilgen sanmak (✗ يُرْسِلُ = gönderilir → ✓ يُرْسِلُ = gönderir [kesra!]; يُرْسَلُ = gönderilir [fetha!]).",
+        "Ecvef muzâri meçhulde و/ي'yi elife çevirmeyi unutmak (✗ يُقُولُ / يُبِيعُ → ✓ يُقَالُ / يُبَاعُ!).",
+        "Mâzi ve muzâri meçhul kuralını ters karıştırmak (Mâzi: sondan önceki KESRA كُتِبَ; Muzâri: sondan önceki FETHA يُكْتَبُ!)."
+      ],
+      "ornekler": [
+        { "ar": "تُفْتَحُ الْمَكْتَبَةُ الْعَامَّةُ كُلَّ يَوْمٍ فِي السَّاعَةِ التَّاسِعَةِ.", "okunus": "Tuftehu'l-mektebetu'l-‘âmmetu kulle yevmin fi's-sâ‘ati't-tâsi‘ati.", "tr": "Halk kütüphanesi her gün saat dokuzda açılır.", "not": "تَفْتَحُ → تُفْتَحُ (dişil muzâri meçhul)" },
+        { "ar": "يُسْتَخْدَمُ هٰذَا التَّطْبِيقُ فِي مِئَاتِ الْمَدَارِسِ الْيَوْمَ.", "okunus": "Yustahdemu hâze't-tatbîku fî miâti'l-medârisi'l-yevme.", "tr": "Bu uygulama bugün yüzlerce okulda kullanılmaktadır.", "not": "يَسْتَخْدِمُ → يُسْتَخْدَمُ (X. bab!)" },
+        { "ar": "تُبَاعُ الْخُضْرَاوَاتُ الطَّازَجَةُ فِي هٰذَا السُّوقِ صَبَاحًا.", "okunus": "Tubâ‘u'l-hudrâvâtu't-tâzecetu fî hâze's-sûkı sabâhan.", "tr": "Taze sebzeler sabahleyin bu pazarda satılır.", "not": "Ecvef: تَبِيعُ → تُبَاعُ (ي→ا!)" },
+        { "ar": "يُبْنَى جِسْرٌ جَدِيدٌ فَوْقَ النَّهْرِ لِتَسْهِيلِ الْمُرُورِ.", "okunus": "Yubnâ cisrun cedîdun fevka'n-nehri li-teshîli'l-murûri.", "tr": "Trafiği kolaylaştırmak için nehrin üzerine yeni bir köprü inşa ediliyor.", "not": "Nâkıs: يَبْنِي → يُبْنَى (ي→ى!)" },
+        { "ar": "سَتُعْلَنُ نَتَائِجُ الِامْتِحَانِ الْأُسْبُوعَ الْقَادِمَ.", "okunus": "Se-tu‘lenu netâicu'l-imtihâni'l-usbû‘a'l-kâdime.", "tr": "Sınav sonuçları gelecek hafta açıklanacak.", "not": "سَـ + muzâri meçhul (تُعْلَنُ)" },
+        { "ar": "مَعْرُوفُكَ الْكَبِيرُ لَنْ يُنْسَى أَبَدًا!", "okunus": "Ma‘rûfuke'l-kebîru len yunsâ ebeden!", "tr": "Büyük iyiliğin asla unutulmayacak!", "not": "لَنْ + nâkıs meçhul (يُنْسَى)" }
+      ],
+      "tatbikler": [
+        { "id": "m18_g2_t01", "tip": "donusturme", "soru": "«يَسْتَخْدِمُ» (kullanıyor) fiilinin muzâri meçhulü ('kullanılıyor') hangisidir?", "secenekler": ["يُسْتَخْدَمُ", "يُسْتَخْدِمُ", "يَسْتَخْدَمُ", "اُسْتُخْدِمَ"], "dogruIndeks": 0, "aciklama": "İlk harf damme (يُـ), sondan bir önceki fetha (دَ): يُسْتَخْدَمُ!" },
+        { "id": "m18_g2_t02", "tip": "donusturme", "soru": "«يَبِيعُ» (satıyor) ecvef fiilinin muzâri meçhulü ('satılıyor') hangisidir?", "secenekler": ["يُبَاعُ", "يُبِيعُ", "يُبُوعُ", "بِيعَ"], "dogruIndeks": 0, "aciklama": "Ecvef muzâri meçhulde sondan önceki ي/و elife döner: يُبَاعُ!" },
+        { "id": "m18_g2_t03", "tip": "bosluk", "soru": "«___ الْكُتُبُ الْعَرَبِيَّةُ فِي هٰذِهِ الْمَكْتَبَةِ.» (تُبَاعُ / يُبَاعُ — akılsız çoğul!)", "secenekler": ["تُبَاعُ", "يُبَاعُ", "تَبِيعُ", "يُبَاعُونَ"], "dogruIndeks": 0, "aciklama": "الْكُتُبُ akılsız çoğuldur → tekil müennes meçhul alır: تُبَاعُ!" },
+        { "id": "m18_g2_t04", "tip": "bosluk", "soru": "«يُعْطِي» (veriyor) fiilinin muzâri meçhulü ('veriliyor') hangisidir?", "secenekler": ["يُعْطَى", "يُعْطِي", "يَعْطَى", "أُعْطِيَ"], "dogruIndeks": 0, "aciklama": "Nâkıs muzâri meçhulde sondan önceki fethalanır ve son harf ى olur: يُعْطَى!" },
+        { "id": "m18_g2_t05", "tip": "bosluk", "soru": "«يُرْسِلُ» ile «يُرْسَلُ» arasındaki anlam farkı nedir?", "secenekler": ["يُرْسِلُ = gönderiyor (etken/kesra), يُرْسَلُ = gönderiliyor (edilgen/fetha)", "İkisi de edilgendir", "İkisi de etkendir", "İlk fiil mâzidir"], "dogruIndeks": 0, "aciklama": "IV. bab muzâride sondan önceki kesra = etken, fetha = edilgen!" },
+        { "id": "m18_g2_t06", "tip": "tr_ar", "soru": "'Sonuçlar yarın açıklanacak.' (سَـ + meçhul) cümlesi hangisidir?", "secenekler": ["سَتُعْلَنُ النَّتَائِجُ غَدًا.", "سَتُعْلِنُ النَّتَائِجُ غَدًا.", "أُعْلِنَتِ النَّتَائِجُ غَدًا.", "سَيُعْلِنُ النَّتَائِجَ غَدًا."], "dogruIndeks": 0, "aciklama": "النَّتَائِجُ (akılsız çoğul) + gelecek meçhul: سَتُعْلَنُ!" },
+        { "id": "m18_g2_t07", "tip": "bosluk", "soru": "«هٰذِهِ الْقِصَّةُ لَمْ ___ بَعْدُ.» (تُتَرْجَمُ fiilinin meczum meçhul hâli)", "secenekler": ["تُتَرْجَمْ", "تُتَرْجِمْ", "تُتَرْجَمُ", "تُرْجِمَتْ"], "dogruIndeks": 0, "aciklama": "لَمْ + muzâri meçhul (sükûn): لَمْ تُتَرْجَمْ!" },
+        { "id": "m18_g2_t08", "tip": "hata", "soru": "«يُبْنِي مَسْجِدٌ جَدِيدٌ فِي الْحَيِّ.» cümlesindeki edilgen hatası nedir?", "secenekler": ["يُبْنِي → يُبْنَى (muzâri meçhulde sondan önceki fetha ve son harf ى olur)", "مَسْجِدٌ → مَسْجِدًا", "جَدِيدٌ → جَدِيدًا", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "يَبْنِي → يُبْنَى (inşa ediliyor!)." },
+        { "id": "m18_g2_t09", "tip": "bosluk", "soru": "«___ الطُّلَّابُ الْمُتَفَوِّقُونَ كُلَّ عَامٍ.» (يُكَرَّمُ = ödüllendirilmek)", "secenekler": ["يُكَرَّمُ", "يُكَرِّمُ", "يُكَرَّمُونَ", "يُكَرِّمُونَ"], "dogruIndeks": 0, "aciklama": "Açık nâib-i fâil (الطُّلَّابُ) fiilden sonra geldiğinden fiil tekil eril meçhul kalır: يُكَرَّمُ!" },
+        { "id": "m18_g2_t10", "tip": "bosluk", "soru": "«يُقَالُ» ve «يُزَارُ» hangi fiillerin muzâri meçhulleridir?", "secenekler": ["قَالَ — يَقُولُ ve زَارَ — يَزُورُ", "قَلَّ ve زَرَعَ", "أَقْبَلَ ve زَادَ", "قَبِلَ ve زَالَ"], "dogruIndeks": 0, "aciklama": "Ecvef muzâri meçhul: يَقُولُ → يُقَالُ; يَزُورُ → يُزَارُ!" }
+      ]
+    },
+    {
+      "id": "m18_g3",
+      "baslik": "Nâib-i Fâil (نَائِبُ الْفَاعِلِ) — Sözde Öznenin Ref' ve Cinsiyet Kuralları",
+      "arBaslik": "نَائِبُ الْفَاعِلِ وَأَحْكَامُهُ (الرَّفْعُ وَالْمُطَابَقَةُ)",
+      "mantik": "Meçhul fiilin yanında artık gerçek fâil (işi yapan) yoktur; o koltuk boş kalmıştır! Arapça nahivde koltuk asla boş bırakılmaz: Etken cümlede mansub olan **mef'ûlün bih (nesne)** gelir, fâilin koltuğuna oturur ve onun bütün haklarını devralır! İşte fâilin vekili olan bu öğeye **Nâib-i Fâil** (fâil vekili / sözde özne) denir! Devraldığı 3 büyük hak: (1) Artık **MERFÛ** olur (tekilde damme `ـُ`, ikilde `ـَانِ`, cem-i müzekkerde `ـُونَ`, Esmâ-i Hamse'de `و`!), (2) Fiil ona **cinsiyet** bakımından uyar (`قَرَأَ أَحْمَدُ الرِّسَالَةَ` → `قُرِئَتِ الرِّسَالَةُ`), (3) Açık isim olarak fiilden sonra gelirse fiil yine **tekil** kalır (`كُرِّمَ الطُّلَّابُ`)! Üstelik nâib-i fâil gizli/muttasıl zamir de olabilir (`سُئِلْتُ` = bana soruldu / sorgulandım; `أُكْرِمْنَا` = bize ikram edildi)!",
+      "formul": "Etken: Fiil + Fâil (Merfû) + Mef'ûl (Mansub)  →  Edilgen: Meçhul Fiil + Nâib-i Fâil (MERFÛ!)",
+      "formulAr": "كَتَبَ الطَّالِبُ الدَّرْسَ  ←  كُتِبَ الدَّرْسُ  |  كَرَّمَ الْمُدِيرُ الْفَائِزِينَ  ←  كُرِّمَ الْفَائِزُونَ",
+      "tablo": {
+        "baslik": "Etken → Edilgen Tam Cümle Dönüşümleri (Tüm İ'rab Türleriyle!)",
+        "sutunlar": ["Nâib-i Fâil Türü", "Etken (Mâlum) Cümle", "Edilgen (Meçhul) Cümle", "Ref' Alâmeti"],
+        "satirlar": [
+          { "hucreler": ["Tekil Eril İsim", "فَتَحَ الْحَارِسُ الْبَابَ.", "فُتِحَ الْبَابُ.", "Açık Damme (الْبَابُ)"], "ar": "فُتِحَ الْبَابُ." },
+          { "hucreler": ["Tekil Dişil İsim", "قَرَأَ الطَّالِبُ الرِّسَالَةَ.", "قُرِئَتِ الرِّسَالَةُ.", "Damme + Dişil Fiil (قُرِئَتْ!)"], "ar": "قُرِئَتِ الرِّسَالَةُ." },
+          { "hucreler": ["İkil (Tesniye)", "كَتَبَ الْمُعَلِّمُ مَقَالَيْنِ.", "كُتِبَ مَقَالَانِ.", "Elif (مَقَالَيْنِ → مَقَالَانِ!)"], "ar": "كُتِبَ مَقَالَانِ." },
+          { "hucreler": ["Cemi Müzekker Sâlim", "كَرَّمَ الْمُدِيرُ الْمُتَفَوِّقِينَ.", "كُرِّمَ الْمُتَفَوِّقُونَ.", "Vâv (الْمُتَفَوِّقِينَ → الْمُتَفَوِّقُونَ!)"], "ar": "كُرِّمَ الْمُتَفَوِّقُونَ." },
+          { "hucreler": ["Esmâ-i Hamse", "اِحْتَرَمَ النَّاسُ أَخَاكَ.", "اُحْتُرِمَ أَخُوكَ.", "Vâv (أَخَاكَ → أَخُوكَ!)"], "ar": "اُحْتُرِمَ أَخُوكَ." },
+          { "hucreler": ["Muttasıl Zamir", "سَأَلَنِي الْأُسْتَاذُ سُؤَالًا.", "سُئِلْتُ سُؤَالًا.", "تُ (Nâib-i Fâil Zamiri!)"], "ar": "سُئِلْتُ سُؤَالًا." }
+        ]
+      },
+      "trKiyas": "M13 ve M14'teki bütün harfle i'rab becerileriniz burada sınanır ve ödüllendirilir! Etken cümlede `شَاهَدَ الْأُسْتَاذُ الطَّالِبَيْنِ` (mansub `يْنِ`) veya `كَرَّمَتِ الْجَامِعَةُ الْمُهَنْدِسِينَ` (mansub `ينَ`) veya `قَابَلَ الْمُدِيرُ أَبَاكَ` (mansub `ا`) iken, cümle edilgen yapıldığı anda bunlar nâib-i fâil koltuğuna geçip **ref' elbisesi** giyerler: `شُوهِدَ الطَّالِبَانِ` (`انِ`), `كُرِّمَ الْمُهَنْدِسُونَ` (`ونَ`), `قُوبِلَ أَبُوكَ` (`و`)! Bir de iki nesne alan fiillerde (`أَعْطَى / مَنَحَ`): 1. nesne nâib-i fâil (merfû) olur, 2. nesne mansub kalmaya devam eder (`أُعْطِيَ الْفَائِزُ جَائِزَةً` = Kazanana bir ödül verildi)!",
+      "sikHatalar": [
+        "Nâib-i fâili hâlâ mansub (eski nesne hâliyle) bırakmak (✗ كُرِّمَ الْمُهَنْدِسِينَ / قُرِئَتِ الرِّسَالَةَ → ✓ كُرِّمَ الْمُهَنْدِسُونَ / قُرِئَتِ الرِّسَالَةُ!).",
+        "Nâib-i fâil dişil veya akılsız çoğul olduğunda fiili eril bırakmak (✗ كُتِبَ الرِّسَالَةُ / نُشِرَ الْمَقَالَاتُ → ✓ كُتِبَتِ الرِّسَالَةُ / نُشِرَتِ الْمَقَالَاتُ!).",
+        "Etken cümledeki mansub zamiri edilgende merfû zamire çevirmeyi unutmak (✗ دَعَانِي → دُعِيَنِي → ✓ دُعِيتُ = davet edildim!)."
+      ],
+      "ornekler": [
+        { "ar": "كُرِّمَ الْمُهَنْدِسُونَ وَالْمُعَلِّمُونَ فِي الِاحْتِفَالِ السَّنَوِيِّ.", "okunus": "Kurrime'l-muhendisûne ve'l-mu‘allimûne fi'l-ihtifâli's-seneviyyi.", "tr": "Mühendisler ve öğretmenler yıllık törende ödüllendirildiler.", "not": "Cemi müzekker nâib-i fâil (و ile merfû!)" },
+        { "ar": "قُرِئَتِ الْقَصِيدَةُ بِصَوْتٍ عَذْبٍ أَمَامَ الْجُمْهُورِ.", "okunus": "Kuri'eti'l-kasîdetu bi-savtin ‘azbin emâme'l-cumhûri.", "tr": "Kaside dinleyicilerin önünde tatlı bir sesle okundu.", "not": "Dişil nâib-i fâil → dişil fiil (قُرِئَتْ)" },
+        { "ar": "تُرْجِمَ الْكِتَابَانِ إِلَى خَمْسِ لُغَاتٍ عَالَمِيَّةٍ.", "okunus": "Turcime'l-kitâbâni ilâ hamsi lugâtin ‘âlemiyyetin.", "tr": "İki kitap beş dünya diline tercüme edildi.", "not": "Tesniye nâib-i fâil (الْكِتَابَانِ — elifle merfû!)" },
+        { "ar": "أُعْطِيَ الطَّالِبُ الْمُتَفَوِّقُ مِنْحَةً دِرَاسِيَّةً كَامِلَةً.", "okunus": "U‘tıye't-tâlibu'l-mutefevviku minhaten dirâsiyyeten kâmileten.", "tr": "Üstün başarılı öğrenciye tam eğitim bursu verildi.", "not": "1. nesne merfû (نَائِبُ فَاعِلٍ), 2. nesne mansub (مِنْحَةً)!" },
+        { "ar": "دُعِيتُ إِلَى الْمُؤْتَمَرِ الدَّوْلِيِّ فِي الْعَاصِمَةِ.", "okunus": "Du‘îtu ile'l-mu'temeri'd-devliyyi fi'l-‘âsımeti.", "tr": "Başkentteki uluslararası konferansa davet edildim.", "not": "تُ = muttasıl nâib-i fâil zamiri!" },
+        { "ar": "اُخْتِيرَ أَخُوكَ مُمَثِّلًا لِلطُّلَّابِ فِي الْمَجْلِسِ.", "okunus": "Uhtîra ehûke mumessilen li't-tullâbi fi'l-meclisi.", "tr": "Kardeşin mecliste öğrenci temsilcisi seçildi.", "not": "Esmâ-i Hamse nâib-i fâil (vâv: أَخُوكَ!)" }
+      ],
+      "tatbikler": [
+        { "id": "m18_g3_t01", "tip": "donusturme", "soru": "«شَجَّعَ الْمُدَرِّبُ اللَّاعِبِينَ.» cümlesinin doğru edilgen hâli hangisidir?", "secenekler": ["شُجِّعَ اللَّاعِبُونَ.", "شُجِّعَ اللَّاعِبِينَ.", "شُجِّعُوا اللَّاعِبُونَ.", "شَجَّعَ اللَّاعِبُونَ."], "dogruIndeks": 0, "aciklama": "اللَّاعِبِينَ (mansub) → nâib-i fâil (merfû: اللَّاعِبُونَ) ve fiil tekil meçhul (شُجِّعَ)!" },
+        { "id": "m18_g3_t02", "tip": "donusturme", "soru": "«اِسْتَقْبَلَ الْمُدِيرُ أَبَاكَ بِحَفَاوَةٍ.» cümlesinin doğru edilgen hâli hangisidir?", "secenekler": ["اُسْتُقْبِلَ أَبُوكَ بِحَفَاوَةٍ.", "اُسْتُقْبِلَ أَبَاكَ بِحَفَاوَةٍ.", "اُسْتُقْبِلَ أَبِيكَ بِحَفَاوَةٍ.", "اِسْتُقْبِلَ أَبُوكَ."], "dogruIndeks": 0, "aciklama": "أَبَاكَ → nâib-i fâil (vâv ile merfû: أَبُوكَ) ve اِسْتَقْبَلَ → اُسْتُقْبِلَ!" },
+        { "id": "m18_g3_t03", "tip": "bosluk", "soru": "«نُشِرَتْ ___ فِي الصَّحِيفَةِ الصَّبَاحِيَّةِ.» — Uygun nâib-i fâil hangisidir?", "secenekler": ["مَقَالَاتٌ مُهِمَّةٌ", "مَقَالَاتٍ مُهِمَّةٍ", "مَقَالَيْنِ", "مَقَالًا"], "dogruIndeks": 0, "aciklama": "نُشِرَتْ dişil fiildir → merfû akılsız çoğul (مَقَالَاتٌ مُهِمَّةٌ) tam uyar!" },
+        { "id": "m18_g3_t04", "tip": "bosluk", "soru": "«مُنِحَ الْفَائِزَانِ ___ قَيِّمَةً.» — 2. nesne hangi hâlde kalır?", "secenekler": ["جَائِزَةً (mansub kalmaya devam eder!)", "جَائِزَةٌ", "جَائِزَةٍ", "الْجَائِزَةُ"], "dogruIndeks": 0, "aciklama": "1. nesne (الْفَائِزَانِ) nâib-i fâil olarak merfû olur; 2. nesne (جَائِزَةً) mansub kalır!" },
+        { "id": "m18_g3_t05", "tip": "donusturme", "soru": "«دَعَانِي صَدِيقِي إِلَى الْعَشَاءِ.» cümlesinin edilgeni ('Akşam yemeğine davet edildim.') hangisidir?", "secenekler": ["دُعِيتُ إِلَى الْعَشَاءِ.", "دُعِيَنِي إِلَى الْعَشَاءِ.", "دَعَوْتُ إِلَى الْعَشَاءِ.", "أُدْعَى أَمْسِ."], "dogruIndeks": 0, "aciklama": "Mansub zamir ـنِي → merfû nâib-i fâil zamiri ـتُ: دُعِيتُ!" },
+        { "id": "m18_g3_t06", "tip": "hata", "soru": "«كُتِبَ الْقِصَّةُ بِأُسْلُوبٍ شَيِّقٍ.» cümlesindeki cinsiyet hatası nasıl düzeltilir?", "secenekler": ["كُتِبَتِ الْقِصَّةُ بِأُسْلُوبٍ شَيِّقٍ.", "كُتِبَ الْقِصَّةَ.", "يُكْتَبُ الْقِصَّةُ.", "Hata yoktur."], "dogruIndeks": 0, "aciklama": "الْقِصَّةُ dişil nâib-i fâildir → fiil dişil olmalıdır: كُتِبَتِ الْقِصَّةُ!" },
+        { "id": "m18_g3_t07", "tip": "bosluk", "soru": "«قُبِلَ ___ فِي الْمُسَابَقَةِ الدَّوْلِيَّةِ.» (Tesniye nâib-i fâil)", "secenekler": ["الْمَشْرُوعَانِ", "الْمَشْرُوعَيْنِ", "مَشْرُوعَيْنِ", "الْمَشْرُوعَ"], "dogruIndeks": 0, "aciklama": "Tesniye nâib-i fâil elifle merfûdur: الْمَشْرُوعَانِ!" },
+        { "id": "m18_g3_t08", "tip": "bosluk", "soru": "«اِخْتَارَ» (seçti) fiilinin mâzi meçhulü ('seçildi') hangisidir?", "secenekler": ["اُخْتِيرَ", "اُخْتُورَ", "اُخْتَارَ", "اِخْتِيرَ"], "dogruIndeks": 0, "aciklama": "VIII. bab ecvef: اِخْتَارَ → اُخْتِيرَ!" },
+        { "id": "m18_g3_t09", "tip": "tr_ar", "soru": "'Sınavda bize üç zor soru soruldu.' cümlesinin doğru Arapçası hangisidir?", "secenekler": ["سُئِلْنَا ثَلَاثَةَ أَسْئِلَةٍ صَعْبَةٍ فِي الِامْتِحَانِ.", "سَأَلْنَا ثَلَاثَةَ أَسْئِلَةٍ صَعْبَةٍ.", "سُئِلَ بِنَا ثَلَاثَةَ أَسْئِلَةٍ.", "نُسْأَلُ أَمْسِ ثَلَاثَةَ أَسْئِلَةٍ."], "dogruIndeks": 0, "aciklama": "سُئِلْنَا (ـنَا = nâib-i fâil: 'bize soruldu')!" },
+        { "id": "m18_g3_t10", "tip": "bosluk", "soru": "«تُعْرَضُ اللَّوْحَاتُ التَّارِيخِيَّةُ فِي الصَّالَةِ الْكُبْرَى.» cümlesinin nâib-i fâili hangisidir?", "secenekler": ["اللَّوْحَاتُ (damme ile merfû!)", "التَّارِيخِيَّةُ", "الصَّالَةِ", "الْكُبْرَى"], "dogruIndeks": 0, "aciklama": "Sergilenen şey: اللَّوْحَاتُ (nâib-i fâil)!" }
+      ]
+    },
+    {
+      "id": "m18_g4",
+      "baslik": "Harf-i Cerli (Şibh-i Cümle) & Müevvel Mastarlı Nâib-i Fâil",
+      "arBaslik": "نَائِبُ الْفَاعِلِ: شِبْهُ الْجُمْلَةِ وَالْمَصْدَرُ الْمُؤَوَّلُ",
+      "mantik": "Peki ya bir fiilin doğrudan nesnesi (mef'ûlün bih) yoksa, harf-i cerle nesne alıyorsa (`نَظَرَ فِي الْقَضِيَّةِ` = meseleyi inceledi; `أَشَارَ إِلَى الْمُشْكِلَةِ` = soruna işaret etti) o fiil edilgen yapılamaz mı? Elbette yapılır! İşte o zaman **Harf-i Cer + Mecrûr (Şibh-i Cümle)** bütün hâlinde nâib-i fâil yerine geçer (`نُظِرَ فِي الْقَضِيَّةِ` = Mesele incelendi; `أُشِيرَ إِلَى الْمُشْكِلَةِ` = Soruna işaret edildi)! Altın kural: Şibh-i cümle nâib-i fâil olduğunda meçhul fiil **her zaman 3. tekil eril (`هُوَ`)** kalır (mecrûr isim dişil veya çoğul olsa bile fiil müennes yapılmaz: `نُظِرَ فِي الْقَضِيَّةِ`, asla `نُظِرَتْ فِي الْقَضِيَّةِ` denmez!). İkinci harika yapı: `يُقَالُ إِنَّ... / يُعْتَقَدُ أَنَّ... / يُلَاحَظُ أَنَّ... / يُرْجَى أَنْ...` cümlelerinde **أَنَّ / أَنْ + devamı (Müevvel Mastar)** nâib-i fâil konumundadır ve fiil yine tekil eril kalır!",
+      "formul": "Meçhul (Tekil Eril!) + Harf-i Cer + Mecrûr  |  يُعْتَقَدُ / يُلَاحَظُ / يُرْجَى + أَنَّ / أَنْ (Müevvel Mastar)",
+      "formulAr": "نُظِرَ فِي الْقَضِيَّةِ  |  أُشِيرَ إِلَى الْمُشْكِلَةِ  |  يُعْتَقَدُ أَنَّ الْحَلَّ قَرِيبٌ",
+      "tablo": {
+        "baslik": "Harf-i Cerli & Müevvel Mastarlı Meçhul Yapılar (YDS Altın Listesi)",
+        "sutunlar": ["Yapı Türü", "Etken (Mâlum)", "Edilgen (Meçhul)", "Türkçe Çeviri"],
+        "satirlar": [
+          { "hucreler": ["Harf-i Cer (فِي)", "نَظَرَ الْقَاضِي فِي الْقَضِيَّةِ.", "نُظِرَ فِي الْقَضِيَّةِ.", "Mesele incelendi / davaya bakıldı."], "ar": "نُظِرَ فِي الْقَضِيَّةِ." },
+          { "hucreler": ["Harf-i Cer (إِلَى)", "أَشَارَ التَّقْرِيرُ إِلَى الْخَطَرِ.", "أُشِيرَ إِلَى الْخَطَرِ / يُشَارُ إِلَى...", "Tehlikeye işaret edildi / ediliyor."], "ar": "أُشِيرَ إِلَى الْخَطَرِ." },
+          { "hucreler": ["Harf-i Cer (عَلَى)", "وَافَقَ الْمَجْلِسُ عَلَى الْقَرَارِ.", "وُوفِقَ عَلَى الْقَرَارِ.", "Karar onaylandı (üzerinde mutabık kalındı)."], "ar": "وُوفِقَ عَلَى الْقَرَارِ." },
+          { "hucreler": ["Harf-i Cer (عَنْ)", "بَحَثَ الْعُلَمَاءُ عَنِ الْحَلِّ.", "بُحِثَ عَنِ الْحَلِّ.", "Çözüm arandı."], "ar": "بُحِثَ عَنِ الْحَلِّ." },
+          { "hucreler": ["Müevvel Mastar (أَنَّ)", "يَعْتَقِدُ النَّاسُ أَنَّهُ صَادِقٌ.", "يُعْتَقَدُ أَنَّهُ صَادِقٌ.", "Onun doğru sözlü olduğuna inanılıyor."], "ar": "يُعْتَقَدُ أَنَّهُ صَادِقٌ." },
+          { "hucreler": ["Müevvel Mastar (أَنْ)", "يَرْجُو الْمَسْؤُولُ أَنْ تَلْتَزِمُوا.", "يُرْجَى أَنْ تَلْتَزِمُوا بِالْقَوَاعِدِ.", "Kurallara uymanız rica olunur."], "ar": "يُرْجَى أَنْ تَلْتَزِمُوا." }
+        ]
+      },
+      "trKiyas": "YDS ve YÖKDİL Arapça metinlerinin giriş cümlelerinin neredeyse tamamı bu iki yapıyla açılır: `يُشَارُ إِلَى أَنَّ...` (işaret edilmektedir ki), `يُعْتَقَدُ أَنَّ...` (inanılmaktadır ki), `يُذْكَرُ أَنَّ...` (belirtilmektedir ki), `تَمَّتِ الْمُوَافَقَةُ عَلَى... / وُوفِقَ عَلَى...` (onaylandı)! En kritik sınav tuzağı: Harf-i cerli meçhulde isim dişil olsa bile (`الْقَضِيَّةِ / الْقَرَارَاتِ`) fiil **asla dişil yapılmaz**: `نُظِرَ فِي الْقَضِيَّةِ` (✓), `وُوفِقَ عَلَى الْمَقْتَرَحَاتِ` (✓)!",
+      "sikHatalar": [
+        "Harf-i cerli meçhulde harf-i cerden sonraki isim dişil diye fiili dişil yapmak (✗ نُظِرَتْ فِي الْقَضِيَّةِ / وُوفِقَتْ عَلَى الْخُطَّةِ → ✓ نُظِرَ فِي الْقَضِيَّةِ / وُوفِقَ عَلَى الْخُطَّةِ!).",
+        "Harf-i cerli meçhulde mecrûr ismi merfû yapmaya çalışmak (✗ نُظِرَ فِي الْقَضِيَّةُ → ✓ نُظِرَ فِي الْقَضِيَّةِ — harf-i cerden sonra kesra kalır, şibh-i cümle mahallen merfû olur!).",
+        "يُقَالُ'den sonra أَنَّ (fethalı) okumak (✗ يُقَالُ أَنَّ → ✓ يُقَالُ إِنَّ — قَالَ ve türevlerinden sonra إِنَّ kesralı okunur!)."
+      ],
+      "ornekler": [
+        { "ar": "نُظِرَ فِي الطَّلَبَاتِ الْمُقَدَّمَةِ بِكُلِّ عَدَالَةٍ وَشَفَافِيَّةٍ.", "okunus": "Nuzira fi't-talebâti'l-mukaddemeti bi-kulli ‘adâletin ve şefâfiyyetin.", "tr": "Sunulan başvurular tam bir adalet ve şeffaflıkla incelendi.", "not": "الطَّلَبَاتِ dişil ama fiil tekil eril: نُظِرَ!" },
+        { "ar": "وُوفِقَ عَلَى الْمِيزَانِيَّةِ الْجَدِيدَةِ بِالْإِجْمَاعِ.", "okunus": "Vûfika ‘ale'l-mîzâniyyeti'l-cedîdeti bi'l-icmâ‘i.", "tr": "Yeni bütçe oy birliğiyle onaylandı.", "not": "وَافَقَ عَلَى → وُوفِقَ عَلَى (III. bab!)" },
+        { "ar": "يُشَارُ إِلَى أَنَّ اللُّغَةَ الْعَرَبِيَّةَ مِنْ أَغْنَى اللُّغَاتِ الْعَالَمِيَّةِ.", "okunus": "Yuşâru ilâ enne'l-lugate'l-‘arabiyyete min agne'l-lugâti'l-‘âlemiyyeti.", "tr": "Arapçanın en zengin dünya dillerinden biri olduğuna işaret edilmektedir.", "not": "يُشَارُ إِلَى أَنَّ (YDS kalıbı!)" },
+        { "ar": "يُعْتَقَدُ أَنَّ التَّعْلِيمَ الْمُبَكِّرَ يُسَاعِدُ عَلَى تَنْمِيَةِ الذَّكَاءِ.", "okunus": "Yu‘tekadu enne't-ta‘lîme'l-mubekkira yusâ‘idu ‘alâ tenmiyeti'z-zekâi.", "tr": "Erken eğitimin zekâ gelişimine yardımcı olduğuna inanılmaktadır.", "not": "يُعْتَقَدُ أَنَّ (müevvel mastar nâib-i fâil!)" },
+        { "ar": "يُرْجَى مِنْ جَمِيعِ الزُّوَّارِ أَنْ يُحَافِظُوا عَلَى الْهُدُوءِ.", "okunus": "Yurcâ min cemî‘i'z-zuvvâri en yuhâfizû ‘ale'l-hudûi.", "tr": "Tüm ziyaretçilerden sessizliği korumaları rica olunur.", "not": "يُرْجَى أَنْ (kamu duyurusu kalıbı)" },
+        { "ar": "يُقَالُ إِنَّ هٰذِهِ الْمَكْتَبَةَ تَضُمُّ مِلْيُونَ مَخْطُوطَةٍ وَكِتَابٍ.", "okunus": "Yukâlu inne hâzihi'l-mektebete tedummu milyûne mahtûtatin ve kitâbin.", "tr": "Bu kütüphanenin bir milyon el yazması ve kitap barındırdığı söylenmektedir.", "not": "يُقَالُ إِنَّ (kesralı إِنَّ!)" }
+      ],
+      "tatbikler": [
+        { "id": "m18_g4_t01", "tip": "bosluk", "soru": "«___ عَلَى الْخُطَّةِ الْجَدِيدَةِ أَمْسِ.» ('Yeni plan dün onaylandı.' — وَافَقَ عَلَى)", "secenekler": ["وُوفِقَ", "وُوفِقَتْ", "وَافَقَ", "تُوَافَقُ"], "dogruIndeks": 0, "aciklama": "Harf-i cerli meçhulde fiil daima 3. tekil eril kalır: وُوفِقَ عَلَى!" },
+        { "id": "m18_g4_t02", "tip": "hata", "soru": "«نُظِرَتْ فِي الْقَضِيَّةِ أَمْسِ.» cümlesindeki kural hatası nasıl düzeltilir?", "secenekler": ["نُظِرَ فِي الْقَضِيَّةِ أَمْسِ.", "نُظِرَتْ فِي الْقَضِيَّةُ.", "نَظَرَ فِي الْقَضِيَّةِ.", "Hata yoktur."], "dogruIndeks": 0, "aciklama": "Şibh-i cümle (فِي الْقَضِيَّةِ) nâib-i fâil olduğunda fiil dişil yapılmaz: نُظِرَ!" },
+        { "id": "m18_g4_t03", "tip": "bosluk", "soru": "«___ إِلَى أَنَّ هٰذِهِ الدِّرَاسَةَ أُجْرِيَتْ فِي عَشْرِ دُوَلٍ.» ('İşaret edilmektedir ki...')", "secenekler": ["يُشَارُ", "تُشَارُ", "يُشِيرُ", "أَشَارَ"], "dogruIndeks": 0, "aciklama": "يُشِيرُ (IV. bab ecvef) → muzâri meçhul: يُشَارُ إِلَى أَنَّ!" },
+        { "id": "m18_g4_t04", "tip": "bosluk", "soru": "«يُرْجَى مِنَ الرُّكَّابِ أَنْ ___ أَحْزِمَةَ الْأَمَانِ.» ('Emniyet kemerlerini bağlamaları rica olunur.')", "secenekler": ["يَرْبِطُوا", "يَرْبِطُونَ", "يَرْبِطُ", "رَبَطُوا"], "dogruIndeks": 0, "aciklama": "أَنْ + Ef'âl-i Hamse → ن düşer: أَنْ يَرْبِطُوا!" },
+        { "id": "m18_g4_t05", "tip": "bosluk", "soru": "«يُقَالُ ___ الْعِلْمَ نُورٌ.» — يُقَالُ fiilinden sonra hangisi doğrudur?", "secenekler": ["إِنَّ (قَالَ/يُقَالُ sonrası kesra!)", "أَنَّ", "أَنْ", "لَنْ"], "dogruIndeks": 0, "aciklama": "قَالَ ve meçhulü قِيلَ / يُقَالُ sonrasında إِنَّ kesralı okunur!" },
+        { "id": "m18_g4_t06", "tip": "tr_ar", "soru": "'Bu soruna acil bir çözüm arandı.' (بَحَثَ عَنْ → meçhul) hangisidir?", "secenekler": ["بُحِثَ عَنْ حَلٍّ عَاجِلٍ لِهٰذِهِ الْمُشْكِلَةِ.", "بُحِثَتْ عَنْ حَلٍّ عَاجِلٍ.", "بُحِثَ حَلٌّ عَاجِلٌ.", "بَحَثَ عَنْ حَلٍّ عَاجِلٍ."], "dogruIndeks": 0, "aciklama": "Harf-i cerli meçhul: بُحِثَ عَنْ + mecrûr!" },
+        { "id": "m18_g4_t07", "tip": "bosluk", "soru": "«يُعْتَقَدُ أَنَّ الْعَاصِفَةَ سَتَهْدَأُ غَدًا.» cümlesinin nâib-i fâili nedir?", "secenekler": ["«أَنَّ الْعَاصِفَةَ سَتَهْدَأُ» müevvel mastarı (mahallen merfû)", "الْعَاصِفَةَ", "غَدًا", "Nâib-i fâili yoktur"], "dogruIndeks": 0, "aciklama": "أَنَّ + ismi + haberi bütün hâlinde müevvel mastar olarak nâib-i fâildir!" },
+        { "id": "m18_g4_t08", "tip": "bosluk", "soru": "«أُجِيبَ عَنِ الْأَسْئِلَةِ كُلِّهَا.» cümlesinde «أُجِيبَ» neden tekil erildir?", "secenekler": ["Çünkü عَنِ الْأَسْئِلَةِ şibh-i cümlesi nâib-i fâildir ve fiil daima tekil eril kalır", "Çünkü الْأَسْئِلَةِ tekil erildir", "Yazım hatasıdır", "Çünkü etkendir"], "dogruIndeks": 0, "aciklama": "Harf-i cerli meçhulde fiil hep tekil eril olur: أُجِيبَ عَنْ!" },
+        { "id": "m18_g4_t09", "tip": "bosluk", "soru": "«يُلَاحَظُ أَنَّ مُسْتَوَى الطُّلَّابِ تَحَسَّنَ كَثِيرًا.» cümlesinin anlamı nedir?", "secenekler": ["Öğrencilerin seviyesinin çok geliştiği gözlemlenmektedir.", "Öğrenciler seviyelerini gözlemliyor.", "Seviye düşmüştür.", "Gözlemlenmedi."], "dogruIndeks": 0, "aciklama": "يُلَاحَظُ أَنَّ = '... olduğu gözlemlenmektedir' (akademik kalıp!)." },
+        { "id": "m18_g4_t10", "tip": "donusturme", "soru": "«تَحَدَّثَ الْمُحَاضِرُ عَنِ التَّارِيخِ.» cümlesini edilgen ('Tarih hakkında konuşuldu.') yapın:", "secenekler": ["تُحُدِّثَ عَنِ التَّارِيخِ.", "تُحُدِّثَتْ عَنِ التَّارِيخِ.", "تَحَدَّثَ عَنِ التَّارِيخِ.", "تُحُدِّثَ التَّارِيخُ."], "dogruIndeks": 0, "aciklama": "V. bab meçhul: تَحَدَّثَ → تُحُدِّثَ + harf-i cer (عَنِ التَّارِيخِ)!" }
+      ]
+    },
+    {
+      "id": "m18_g5",
+      "baslik": "Basın & YDS/YÖKDİL Arapçasında Altın Meçhul Kalıplar + تَمَّ + Mastar",
+      "arBaslik": "تَعَابِيرُ الْمَجْهُولِ فِي لُغَةِ الصِّحَافَةِ وَالِامْتِحَانَاتِ + «تَمَّ / جَرَى» + الْمَصْدَرُ",
+      "mantik": "Modern Arap gazetelerini, haber bültenlerini veya YDS/YÖKDİL parçalarını açtığınızda iki dev edilgen stratejisiyle karşılaşırsınız: (1) **Kalıcı Meçhul Fiiller:** Bazı fiiller Arapçada neredeyse hep meçhul kullanılır: `وُلِدَ` (doğdu), `تُوُفِّيَ` (vefat etti), `أُصِيبَ بِـ` (hastalandı / yaralandı), `يُعْتَبَرُ / يُعَدُّ` (sayılır / kabul edilir), `يُذْكَرُ أَنَّ` (belirtildiğine göre), `يُتَوَقَّعُ أَنْ` (beklenmektedir)! (2) **Modern Basının Süper Kısayolu (`تَمَّ + Mastar`):** Harekesiz basında `فُتِحَ` ile `فَتَحَ` karışmasın diye gazeteciler sık sık **`تَمَّ + Mastar`** ('... gerçekleştirildi / yapıldı') veya gelecekte **`سَيَتِمُّ + Mastar`** kalıbını kullanırlar! Mesela `فُتِحَ الْمَشْرُوعُ` yerine **`تَمَّ افْتِتَاحُ الْمَشْرُوعِ`** ('Projenin açılışı gerçekleştirildi = Proje açıldı'); `وُقِّعَتِ الِاتِّفَاقِيَّةُ` yerine **`تَمَّ تَوْقِيعُ الِاتِّفَاقِيَّةِ`** ('Anlaşma imzalandı')! Bu kalıbı tanıyan öğrenci YDS metinlerini yarı sürede çözer!",
+      "formul": "Basın Edilgeni: تَمَّ / يَتِمُّ / سَيَتِمُّ + Mastar (= Meçhul Fiil!) | يُعْتَبَرُ / يُعَدُّ / أُصِيبَ بِـ / تُوُفِّيَ",
+      "formulAr": "تَمَّ تَوْقِيعُ الِاتِّفَاقِيَّةِ = وُقِّعَتِ الِاتِّفَاقِيَّةُ  |  وُلِدَ — تُوُفِّيَ — أُصِيبَ بِـ — يُعَدُّ",
+      "tablo": {
+        "baslik": "YDS / YÖKDİL & Basın Arapçası En Yüksek Frekanslı Meçhul Kalıpları",
+        "sutunlar": ["Kalıp", "Örnek Cümle", "Türkçe Çeviri", "Kullanım Alanı"],
+        "satirlar": [
+          { "hucreler": ["وُلِدَ / تُوُفِّيَ", "وُلِدَ ابْنُ سِينَا عَامَ ٩٨٠ وَتُوُفِّيَ عَامَ ١٠٣٧.", "İbn Sînâ 980'de doğdu ve 1037'de vefat etti.", "Biyografi & Tarih (daima meçhul!)"], "ar": "وُلِدَ — تُوُفِّيَ" },
+          { "hucreler": ["أُصِيبَ بِـ", "أُصِيبَ الْمَرِيضُ بِحُمَّى شَدِيدَةٍ.", "Hasta şiddetli ateşe yakalandı.", "YÖKDİL Sağlık & Haber"], "ar": "أُصِيبَ بِحُمَّى شَدِيدَةٍ." },
+          { "hucreler": ["يُعْتَبَرُ / يُعَدُّ", "تُعَدُّ إِسْطَنْبُولُ جِسْرًا بَيْنَ قَارَّتَيْنِ.", "İstanbul iki kıta arasında bir köprü sayılır.", "Akademik Tanımlama (YDS #1!)"], "ar": "تُعَدُّ إِسْطَنْبُولُ جِسْرًا." },
+          { "hucreler": ["يُذْكَرُ أَنَّ / يُتَوَقَّعُ أَنْ", "يُتَوَقَّعُ أَنْ تَهْطُلَ الْأَمْطَارُ غَدًا.", "Yarın yağmur yağması beklenmektedir.", "Basın & Rapor"], "ar": "يُتَوَقَّعُ أَنْ تَهْطُلَ الْأَمْطَارُ." },
+          { "hucreler": ["تَمَّ + Mastar (Mâzi)", "تَمَّ افْتِتَاحُ الْمُسْتَشْفَى الْجَدِيدِ.", "Yeni hastane açıldı (açılışı yapıldı).", "Modern Basın Edilgeni!"], "ar": "تَمَّ افْتِتَاحُ الْمُسْتَشْفَى." },
+          { "hucreler": ["سَيَتِمُّ + Mastar (Gelecek)", "سَيَتِمُّ إِعْلَانُ النَّتَائِجِ غَدًا.", "Sonuçlar yarın açıklanacak.", "Modern Basın Gelecek Edilgeni!"], "ar": "سَيَتِمُّ إِعْلَانُ النَّتَائِجِ غَدًا." }
+        ]
+      },
+      "trKiyas": "Çok önemli bir YDS/YÖKDİL çeviri püf noktası: Klasik Arapçada meçhul fiille işi yapan kişi (`fâil`) söylenmez; ama modern basın Arapçasında İngilizce 'by' / Türkçe 'tarafından' etkisinde **`مِنْ قِبَلِ`** ('tarafından': `وُقِّعَ الْعَقْدُ مِنْ قِبَلِ الْمُدِيرِ`) kalıbı çok sık görülür! Hem klasik meçhulü hem modern `تَمَّ + mastar` ve `مِنْ قِبَلِ` yapılarını bilmek sizi her türlü Arapça metinde özgür kılar!",
+      "sikHatalar": [
+        "تُوُفِّيَ ('vefat etti') fiilini etken تَوَفَّى ('canını aldı') diye okumak (İnsan için mutlaka meçhul تُوُفِّيَ okunur!).",
+        "يُعْتَبَرُ / يُعَدُّ ('sayılır') fiilinden sonraki ikinci öğeyi merfû yapmak (✗ يُعَدُّ الْعِلْمُ نُورٌ → ✓ يُعَدُّ الْعِلْمُ نُورًا — 2. mef'ûl mansub kalır!).",
+        "تَمَّ + Mastar'dan sonra mastarı mansub okumak (✗ تَمَّ افْتِتَاحَ → ✓ تَمَّ افْتِتَاحُ الْمَشْرُوعِ — mastar تَمَّ'nin merfû fâilidir!)."
+      ],
+      "ornekler": [
+        { "ar": "وُلِدَ الْعَالِمُ الْكَبِيرُ فِي قَرْيَةٍ صَغِيرَةٍ وَتُوُفِّيَ فِي الْعَاصِمَةِ.", "okunus": "Vulide'l-‘âlimu'l-kebîru fî karyetin sagîratin ve tuvuffiye fi'l-‘âsımeti.", "tr": "Büyük âlim küçük bir köyde doğdu ve başkentte vefat etti.", "not": "وُلِدَ & تُوُفِّيَ (biyografi ikilisi)" },
+        { "ar": "يُعَدُّ التَّعْلِيمُ أَهَمَّ رَكِيزَةٍ لِتَقَدُّمِ الْمُجْتَمَعَاتِ.", "okunus": "Yu‘addu't-ta‘lîmu ehemme rakîzetin li-tekaddumi'l-mucteme‘âti.", "tr": "Eğitim, toplumların ilerlemesi için en önemli temel direk sayılır.", "not": "يُعَدُّ + merfû + mansub (أَهَمَّ)!" },
+        { "ar": "تَمَّ تَوْقِيعُ اتِّفَاقِيَّةِ التَّعَاوُنِ بَيْنَ الْجَامِعَتَيْنِ أَمْسِ.", "okunus": "Temme tevkî‘u'ttifâkıyyeti't-te‘âvuni beyne'l-câmi‘ateyni emsi.", "tr": "İki üniversite arasındaki iş birliği anlaşması dün imzalandı.", "not": "تَمَّ + merfû mastar (تَوْقِيعُ)" },
+        { "ar": "سَيَتِمُّ تَوْزِيعُ الشَّهَادَاتِ فِي نِهَايَةِ الْحَفْلِ.", "okunus": "Se-yetimmu tevzî‘u'ş-şehâdâti fî nihâyeti'l-hafli.", "tr": "Sertifikalar törenin sonunda dağıtılacaktır.", "not": "سَيَتِمُّ + mastar (gelecek edilgen)" },
+        { "ar": "أُصِيبَ اللَّاعِبُ فِي قَدَمِهِ أَثْنَاءَ الْمُبَارَاةِ، وَلٰكِنَّهُ تَعَافَى سَرِيعًا.", "okunus": "Usîbe'l-lâ‘ibu fî kademihi esnâe'l-mubârâti, ve lâkinnehu te‘âfâ serî‘an.", "tr": "Oyuncu maç sırasında ayağından sakatlandı, ancak çabucak iyileşti.", "not": "أُصِيبَ (IV. bab ecvef meçhul!)" },
+        { "ar": "يُذْكَرُ أَنَّ الْمَعْرِضَ الدَّوْلِيَّ لِلْكِتَابِ سَيَسْتَمِرُّ عَشَرَةَ أَيَّامٍ.", "okunus": "Yuzkeru enne'l-ma‘rida'd-devliyye li'l-kitâbi se-yestemirru ‘aşerete eyyâmin.", "tr": "Uluslararası kitap fuarının on gün süreceği belirtilmektedir.", "not": "يُذْكَرُ أَنَّ (basın haberciliği)" }
+      ],
+      "tatbikler": [
+        { "id": "m18_g5_t01", "tip": "bosluk", "soru": "«___ الْعَالِمُ الْفَارَابِيُّ عَامَ ٩٥٠ لِلْمِيلَادِ.» ('Vefat etti' — doğru meçhul hareke)", "secenekler": ["تُوُفِّيَ", "تَوَفَّى", "تُوَفَّى", "وَفَّى"], "dogruIndeks": 0, "aciklama": "İnsan için 'vefat etti' daima meçhul تُوُفِّيَ okunur!" },
+        { "id": "m18_g5_t02", "tip": "bosluk", "soru": "«تُعْتَبَرُ اللُّغَةُ الْعَرَبِيَّةُ ___ مِنْ أَجْمَلِ اللُّغَاتِ.» ('Bir tanesi sayılır' — 2. mef'ûl!)", "secenekler": ["وَاحِدَةً", "وَاحِدَةٌ", "وَاحِدَةٍ", "وَاحِدٌ"], "dogruIndeks": 0, "aciklama": "تُعْتَبَرُ'nun 1. nesnesi (اللُّغَةُ) nâib-i fâil (merfû), 2. nesnesi (وَاحِدَةً) mansub kalır!" },
+        { "id": "m18_g5_t03", "tip": "bosluk", "soru": "«تَمَّ ___ الْمَكْتَبَةِ الرَّقْمِيَّةِ الْجَدِيدَةِ أَمْسِ.» ('Açılışı gerçekleştirildi' — doğru hareke)", "secenekler": ["اِفْتِتَاحُ", "اِفْتِتَاحَ", "اِفْتِتَاحِ", "يَفْتَتِحُ"], "dogruIndeks": 0, "aciklama": "تَمَّ fiilinin fâili olan mastar merfû (damme) olur: تَمَّ افْتِتَاحُ!" },
+        { "id": "m18_g5_t04", "tip": "donusturme", "soru": "«سَتُنْشَرُ الدِّرَاسَةُ الشَّهْرَ الْقَادِمَ.» cümlesinin modern basın (سَيَتِمُّ + mastar) eşdeğeri hangisidir?", "secenekler": ["سَيَتِمُّ نَشْرُ الدِّرَاسَةِ الشَّهْرَ الْقَادِمَ.", "سَيَتِمُّ نَشَرَ الدِّرَاسَةَ.", "تَمَّ نَشْرُ الدِّرَاسَةِ غَدًا.", "سَيَتِمُّ نَشْرَ الدِّرَاسَةِ."], "dogruIndeks": 0, "aciklama": "سَتُنْشَرُ الدِّرَاسَةُ = سَيَتِمُّ نَشْرُ الدِّرَاسَةِ (fâil mastar merfû)!" },
+        { "id": "m18_g5_t05", "tip": "bosluk", "soru": "«أُصِيبَ ثَلَاثَةُ أَشْخَاصٍ ___ جُرُوحٍ طَفِيفَةٍ فِي الْحَادِثِ.» — أُصِيبَ hangi harf-i cerle kullanılır?", "secenekler": ["بِـ", "عَنْ", "مِنْ", "إِلَى"], "dogruIndeks": 0, "aciklama": "أُصِيبَ بِـ = 'bir hastalığa yakalanmak / yaralanmak' (YÖKDİL Sağlık favorisi!)." },
+        { "id": "m18_g5_t06", "tip": "tr_ar", "soru": "'Yarın kar yağması beklenmektedir.' (يُتَوَقَّعُ أَنْ) cümlesi hangisidir?", "secenekler": ["يُتَوَقَّعُ أَنْ يَتَسَاقَطَ الثَّلْجُ غَدًا.", "يَتَوَقَّعُ أَنْ يَتَسَاقَطَ الثَّلْجُ.", "تُوُقِّعَ الثَّلْجُ غَدًا.", "يُتَوَقَّعُ الثَّلْجَ غَدًا."], "dogruIndeks": 0, "aciklama": "يُتَوَقَّعُ أَنْ + mansub muzâri = '... olması beklenmektedir'." },
+        { "id": "m18_g5_t07", "tip": "bosluk", "soru": "«أُعِدَّ التَّقْرِيرُ مِنْ قِبَلِ لَجْنَةٍ مُخْتَصَّةٍ.» cümlesinde «مِنْ قِبَلِ» ne anlama gelir?", "secenekler": ["'... tarafından' (modern basında edilgende fâili belirtmek için)", "'... önünde'", "'... olmadan önce'", "'... sebebiyle'"], "dogruIndeks": 0, "aciklama": "مِنْ قِبَلِ (kesralı قِـ!) = '... tarafından' (قَبْلَ = önce ile karıştırmayın!)." },
+        { "id": "m18_g5_t08", "tip": "bosluk", "soru": "«يُعَدُّ» (sayılır) hangi fiilin muzâri meçhulüdür?", "secenekler": ["عَدَّ — يَعُدُّ (saymak — muzaaf!)", "أَعَادَ — يُعِيدُ", "وَعَدَ — يَعِدُ", "عَادَ — يَعُودُ"], "dogruIndeks": 0, "aciklama": "عَدَّ — يَعُدُّ → يُعَدُّ ('sayılır / kabul edilir')!" },
+        { "id": "m18_g5_t09", "tip": "hata", "soru": "«وَلَدَ الشَّاعِرُ فِي دِمَشْقَ عَامَ ١٩٢٠.» cümlesindeki okuma/hareke hatası nedir?", "secenekler": ["وُلِدَ (meçhul: 'doğdu' — وَلَدَ 'doğurdu' demektir!)", "دِمَشْقَ → دِمَشْقُ", "الشَّاعِرُ → الشَّاعِرَ", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "Şair doğurmadı, doğdu! → وُلِدَ الشَّاعِرُ!" },
+        { "id": "m18_g5_t10", "tip": "bosluk", "soru": "«يُذْكَرُ أَنَّ» ile başlayan bir haber cümlesi Türkçeye en doğal nasıl çevrilir?", "secenekler": ["'... olduğu belirtilmektedir / kaydedilmektedir'", "'... hatırladı'", "'... unutuldu'", "'... yasaklandı'"], "dogruIndeks": 0, "aciklama": "يُذْكَرُ أَنَّ = habercilik ve akademik metinlerde '... olduğu belirtilmektedir'." }
+      ]
+    }
+  ],
+  "workshop": {
+    "motors": [
+      {
+        "id": "m18_mot1",
+        "baslik": "Kalıp 1: Mâzi Meçhul + Merfû Nâib-i Fâil Motoru",
+        "aciklama": "Mâzi meçhul fiili (Sülâsî/Mezîd/Ecvef/Nâkıs) uyumlu merfû nâib-i fâille eşleştirin.",
+        "slotlar": [
+          {
+            "etiket": "Mâzi Meçhul Fiil",
+            "secenekler": [
+              { "ar": "فُتِحَ", "tr": "Açıldı (E)" },
+              { "ar": "بُنِيَ", "tr": "İnşa edildi (E — Nâkıs)" },
+              { "ar": "نُوقِشَ", "tr": "Tartışıldı (E — III. Bab)" },
+              { "ar": "اُكْتُشِفَ", "tr": "Keşfedildi (E — VIII. Bab)" },
+              { "ar": "كُرِّمَ", "tr": "Ödüllendirildi (E — II. Bab)" },
+              { "ar": "قِيلَ", "tr": "Denildi (Ecvef)" }
+            ]
+          },
+          {
+            "etiket": "Merfû Nâib-i Fâil & Bağlam",
+            "secenekler": [
+              { "ar": "الْمُتْحَفُ الْجَدِيدُ أَمَامَ الزُّوَّارِ أَمْسِ.", "tr": "yeni müze dün ziyaretçilere." },
+              { "ar": "هٰذَا الْجِسْرُ التَّارِيخِيُّ قَبْلَ قُرُونٍ.", "tr": "bu tarihî köprü yüzyıllar önce." },
+              { "ar": "الْمَشْرُوعُ الْعِلْمِيُّ فِي اجْتِمَاعِ الْكُلِّيَّةِ.", "tr": "bilimsel proje fakülte toplantısında." },
+              { "ar": "دَوَاءٌ جَدِيدٌ فِي الْمُخْتَبَرِ الْجَامِعِيِّ.", "tr": "üniversite laboratuvarında yeni bir ilaç." },
+              { "ar": "الطُّلَّابُ الْمُتَفَوِّقُونَ فِي حَفْلِ التَّخَرُّجِ.", "tr": "üstün başarılı öğrenciler mezuniyet töreninde." },
+              { "ar": "كَلَامٌ حَكِيمٌ عَنْ قِيمَةِ الْوَقْتِ.", "tr": "zamanın değeri hakkında hikmetli söz." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m18_mot2",
+        "baslik": "Kalıp 2: Muzâri Meçhul (يُفْعَلُ / يُقَالُ / يُبْنَى) Motoru",
+        "aciklama": "Şimdiki/geniş/gelecek zaman edilgen cümleleri üretin.",
+        "slotlar": [
+          {
+            "etiket": "Muzâri Meçhul Fiil",
+            "secenekler": [
+              { "ar": "يُسْتَخْدَمُ", "tr": "Kullanılır (E)" },
+              { "ar": "تُبَاعُ", "tr": "Satılır (K / Akılsız Ç.)" },
+              { "ar": "سَتُعْلَنُ", "tr": "Açıklanacak (K / Akılsız Ç.)" },
+              { "ar": "تُدَرَّسُ", "tr": "Okutulur (K)" },
+              { "ar": "يُعْرَضُ", "tr": "Sergilenir (E)" },
+              { "ar": "تُفْتَحُ", "tr": "Açılır (K)" }
+            ]
+          },
+          {
+            "etiket": "Uyumlu Nâib-i Fâil",
+            "secenekler": [
+              { "ar": "هٰذَا النِّظَامُ الرَّقْمِيُّ فِي الْمَدَارِسِ.", "tr": "bu dijital sistem okullarda." },
+              { "ar": "الْكُتُبُ النَّادِرَةُ فِي هٰذَا السُّوقِ الْقَدِيمِ.", "tr": "nadir kitaplar bu eski çarşıda." },
+              { "ar": "نَتَائِجُ الْمُسَابَقَةِ الْأُسْبُوعَ الْقَادِمَ.", "tr": "yarışma sonuçları gelecek hafta." },
+              { "ar": "اللُّغَةُ الْعَرَبِيَّةُ فِي مِئَاتِ الْجَامِعَاتِ.", "tr": "Arapça yüzlerce üniversitede." },
+              { "ar": "الْفِيلْمُ الْوَثَائِقِيُّ مَسَاءَ الْيَوْمِ.", "tr": "belgesel film bugün akşam." },
+              { "ar": "أَبْوَابُ الْمَكْتَبَةِ فِي السَّاعَةِ الثَّامِنَةِ.", "tr": "kütüphanenin kapıları saat sekizde." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m18_mot3",
+        "baslik": "Kalıp 3: Harf-i Cerli Şibh-i Cümle Meçhul Motoru (Daima Tekil Eril!)",
+        "aciklama": "Meçhul tekil eril fiili doğru harf-i cerli mecrûrla birleştirin.",
+        "slotlar": [
+          {
+            "etiket": "Tekil Eril Meçhul",
+            "secenekler": [
+              { "ar": "نُظِرَ", "tr": "İncelendi / bakıldı" },
+              { "ar": "وُوفِقَ", "tr": "Onaylandı" },
+              { "ar": "أُشِيرَ", "tr": "İşaret edildi" },
+              { "ar": "بُحِثَ", "tr": "Arandı / araştırıldı" },
+              { "ar": "أُجِيبَ", "tr": "Cevap verildi" },
+              { "ar": "تُحُدِّثَ", "tr": "Konuşuldu" }
+            ]
+          },
+          {
+            "etiket": "Harf-i Cer + Mecrûr (Şibh-i Cümle Nâib-i Fâil)",
+            "secenekler": [
+              { "ar": "فِي جَمِيعِ الطَّلَبَاتِ بِدِقَّةٍ وَعَدْلٍ.", "tr": "tüm başvurular titizlik ve adaletle." },
+              { "ar": "عَلَى الْمَشْرُوعِ الْجَدِيدِ بِالْإِجْمَاعِ.", "tr": "yeni proje oy birliğiyle." },
+              { "ar": "إِلَى أَهَمِّيَّةِ الطَّاقَةِ الْمُتَجَدِّدَةِ.", "tr": "yenilenebilir enerjinin önemine." },
+              { "ar": "عَنْ حُلُولٍ عَمَلِيَّةٍ لِأَزْمَةِ الْمِيَاهِ.", "tr": "su krizine pratik çözümler." },
+              { "ar": "عَنْ كُلِّ أَسْئِلَةِ الصَّحَفِيِّينَ بِوُضُوحٍ.", "tr": "gazetecilerin tüm soruları netlikle." },
+              { "ar": "عَنْ تَارِيخِ الْعُلُومِ فِي الْمُؤْتَمَرِ.", "tr": "konferansta bilim tarihi hakkında." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m18_mot4",
+        "baslik": "Kalıp 4: YDS Akademik Giriş Kalıpları (يُعْتَقَدُ / يُذْكَرُ / يُشَارُ / يُتَوَقَّعُ)",
+        "aciklama": "Akademik ve haber paragraflarının en yaygın girişlerini cümlelerle tamamlayın.",
+        "slotlar": [
+          {
+            "etiket": "Meçhul Giriş Kalıbı",
+            "secenekler": [
+              { "ar": "يُعْتَقَدُ أَنَّ", "tr": "... olduğuna inanılmaktadır" },
+              { "ar": "يُذْكَرُ أَنَّ", "tr": "... olduğu belirtilmektedir" },
+              { "ar": "يُشَارُ إِلَى أَنَّ", "tr": "... olduğuna işaret edilmektedir" },
+              { "ar": "يُلَاحَظُ أَنَّ", "tr": "... olduğu gözlemlenmektedir" },
+              { "ar": "يُتَوَقَّعُ أَنَّ", "tr": "... olacağı beklenmektedir" },
+              { "ar": "يُقَالُ إِنَّ", "tr": "... olduğu söylenmektedir" }
+            ]
+          },
+          {
+            "etiket": "Akademik Yargı",
+            "secenekler": [
+              { "ar": "التَّعْلِيمَ الْمُبَكِّرَ يُطَوِّرُ مَهَارَاتِ الطِّفْلِ.", "tr": "erken eğitimin çocuğun becerilerini geliştirdiği." },
+              { "ar": "الْمُؤْتَمَرَ سَيَسْتَمِرُّ ثَلَاثَةَ أَيَّامٍ.", "tr": "konferansın üç gün süreceği." },
+              { "ar": "الْقِرَاءَةَ الْيَوْمِيَّةَ تُقَوِّي الذَّاكِرَةَ.", "tr": "günlük okumanın hafızayı güçlendirdiği." },
+              { "ar": "الِاهْتِمَامَ بِالْبِيئَةِ يَزْدَادُ كُلَّ عَامٍ.", "tr": "çevreye ilginin her yıl arttığı." },
+              { "ar": "النَّتَائِجَ سَتَكُونُ إِيجَابِيَّةً جِدًّا.", "tr": "sonuçların çok olumlu olacağı." },
+              { "ar": "هٰذِهِ الْمَخْطُوطَةَ تَعُودُ إِلَى الْقَرْنِ الْعَاشِرِ.", "tr": "bu el yazmasının onuncu yüzyıla dayandığı." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m18_mot5",
+        "baslik": "Kalıp 5: Modern Basın Edilgeni (تَمَّ / سَيَتِمُّ + Mastar)",
+        "aciklama": "Haber dilinin vazgeçilmez تَمَّ / سَيَتِمُّ + merfû mastar yapısını pratik edin.",
+        "slotlar": [
+          {
+            "etiket": "Zaman + تَمَّ",
+            "secenekler": [
+              { "ar": "تَمَّ أَمْسِ", "tr": "Dün ... gerçekleştirildi" },
+              { "ar": "تَمَّ هٰذَا الْأُسْبُوعَ", "tr": "Bu hafta ... yapıldı" },
+              { "ar": "تَمَّ بِنَجَاحٍ", "tr": "Başarıyla ... tamamlandı" },
+              { "ar": "يَتِمُّ الْآنَ", "tr": "Şu an ... yapılmaktadır" },
+              { "ar": "سَيَتِمُّ غَدًا", "tr": "Yarın ... yapılacaktır" },
+              { "ar": "سَيَتِمُّ قَرِيبًا", "tr": "Yakında ... gerçekleştirilecektir" }
+            ]
+          },
+          {
+            "etiket": "Merfû Mastar + İzâfet",
+            "secenekler": [
+              { "ar": "اِفْتِتَاحُ الْمَرْكَزِ الثَّقَافِيِّ الْجَدِيدِ.", "tr": "yeni kültür merkezinin açılışı." },
+              { "ar": "تَوْقِيعُ اتِّفَاقِيَّةِ التَّعَاوُنِ الْعِلْمِيِّ.", "tr": "bilimsel iş birliği anlaşmasının imzalanması." },
+              { "ar": "تَرْمِيمُ الْمَسْجِدِ التَّارِيخِيِّ الْكَبِيرِ.", "tr": "büyük tarihî caminin restorasyonu." },
+              { "ar": "تَجْهِيزُ الْقَاعَاتِ لِلِامْتِحَانَاتِ النِّهَائِيَّةِ.", "tr": "salonların final sınavlarına hazırlanması." },
+              { "ar": "إِعْلَانُ أَسْمَاءِ الْفَائِزِينَ بِالْمِنْحَةِ.", "tr": "bursu kazananların isimlerinin ilanı." },
+              { "ar": "إِطْلَاقُ الْمِنَصَّةِ التَّعْلِيمِيَّةِ الرَّقْمِيَّةِ.", "tr": "dijital eğitim platformunun başlatılması." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m18_mot6",
+        "baslik": "Kalıp 6: يُعَدُّ / يُعْتَبَرُ + Merfû + Mansub (Akademik Tanımlama)",
+        "aciklama": "YDS'nin en sevdiği tanımlama ve değerlendirme kalıbıyla güçlü cümleler kurun.",
+        "slotlar": [
+          {
+            "etiket": "يُعَدُّ / يُعْتَبَرُ + Nâib-i Fâil (Merfû)",
+            "secenekler": [
+              { "ar": "يُعَدُّ الْعِلْمُ", "tr": "İlim ... sayılır" },
+              { "ar": "تُعَدُّ إِسْطَنْبُولُ", "tr": "İstanbul ... sayılır" },
+              { "ar": "يُعْتَبَرُ الصَّبْرُ", "tr": "Sabır ... kabul edilir" },
+              { "ar": "تُعْتَبَرُ اللُّغَةُ الْعَرَبِيَّةُ", "tr": "Arapça ... kabul edilir" },
+              { "ar": "يُعَدُّ الْكِتَابُ", "tr": "Kitap ... sayılır" },
+              { "ar": "تُعْتَبَرُ الرِّيَاضَةُ", "tr": "Spor ... kabul edilir" }
+            ]
+          },
+          {
+            "etiket": "2. Mef'ûl (Mansub Tamamlayıcı!)",
+            "secenekler": [
+              { "ar": "أَقْوَى سِلَاحٍ لِبِنَاءِ الْمُسْتَقْبَلِ.", "tr": "geleceği inşa etmek için en güçlü silah." },
+              { "ar": "جِسْرًا ثَقَافِيًّا بَيْنَ الشَّرْقِ وَالْغَرْبِ.", "tr": "Doğu ile Batı arasında kültürel bir köprü." },
+              { "ar": "مِفْتَاحًا أَسَاسِيًّا لِكُلِّ نَجَاحٍ كَبِيرٍ.", "tr": "her büyük başarı için temel bir anahtar." },
+              { "ar": "مِنْ أَغْنَى اللُّغَاتِ الْحَيَّةِ فِي الْعَالَمِ.", "tr": "dünyadaki en zengin yaşayan dillerden biri." },
+              { "ar": "خَيْرَ جَلِيسٍ لِلْإِنْسَانِ فِي كُلِّ زَمَانٍ.", "tr": "her çağda insanın en hayırlı arkadaşı." },
+              { "ar": "عَامِلًا مُهِمًّا لِلْحِفَاظِ عَلَى الصِّحَّةِ.", "tr": "sağlığı korumak için önemli bir etken." }
+            ]
+          }
+        ]
+      }
+    ],
+    "merdivenler": [
+      {
+        "id": "m18_lad1",
+        "baslik": "A1 → B2 Merdiveni: Tek Cümlede Etken → Edilgen Zirvesi",
+        "adimlar": [
+          { "seviye": "A1", "ar": "فُتِحَ الْبَابُ.", "okunus": "Futiha'l-bâbu.", "tr": "Kapı açıldı.", "ekleme": "Sülâsî mâzi meçhul + merfû nâib-i fâil" },
+          { "seviye": "A1+", "ar": "فُتِحَتِ الْمَكْتَبَةُ الْجَدِيدَةُ أَمْسِ.", "okunus": "Futihati'l-mektebetu'l-cedîdetu emsi.", "tr": "Yeni kütüphane dün açıldı.", "ekleme": "Dişil uyum (فُتِحَتْ)" },
+          { "seviye": "A2", "ar": "اُفْتُتِحَتِ الْمَكْتَبَةُ الرَّقْمِيَّةُ، وَكُرِّمَ الْمُهَنْدِسُونَ الَّذِينَ صَمَّمُوهَا.", "okunus": "Uftutihati'l-mektebetu'r-rakmiyyetu, ve kurrime'l-muhendisûne'llezîne sammemûhâ.", "tr": "Dijital kütüphane açıldı ve onu tasarlayan mühendisler ödüllendirildi.", "ekleme": "VIII. bab meçhul + cem-i müzekker (و!)" },
+          { "seviye": "B1", "ar": "تَمَّ افْتِتَاحُ الْمَرْكَزِ الْبَحْثِيِّ أَمْسِ، وَأُشِيرَ فِي الْحَفْلِ إِلَى أَنَّهُ سَيُسْتَخْدَمُ لِخِدْمَةِ آلَافِ الطُّلَّابِ.", "okunus": "Temme'ftitâhu'l-merkezi'l-bahsiyyi emsi, ve uşîra fi'l-hafli ilâ ennehu se-yustahdemu li-hidmeti âlâfi't-tullâbi.", "tr": "Araştırma merkezi dün açıldı ve törende binlerce öğrencinin hizmetinde kullanılacağına işaret edildi.", "ekleme": "تَمَّ + harf-i cerli meçhul (أُشِيرَ إِلَى) + gelecek meçhul!" },
+          { "seviye": "B2", "ar": "يُعَدُّ هٰذَا الْمَرْكَزُ نُقْطَةَ تَحَوُّلٍ عِلْمِيَّةً؛ إِذْ يُتَوَقَّعُ أَنْ تُنْجَزَ فِيهِ أَبْحَاثٌ مُتَقَدِّمَةٌ وَتُطَوَّرَ تِقْنِيَّاتٌ تُفِيدُ الْإِنْسَانِيَّةَ.", "okunus": "Yu‘addu hâze'l-merkezu nuktate tehavvulin ‘ilmiyyeten; iz yutevakka‘u en tunceze fîhi ebhâsun mutekaddimetun ve tutavvara tikniyyâtun tufîdu'l-insâniyyete.", "tr": "Bu merkez bilimsel bir dönüm noktası sayılmaktadır; zira orada ileri araştırmaların tamamlanması ve insanlığa faydalı teknolojilerin geliştirilmesi beklenmektedir.", "ekleme": "يُعَدُّ + يُتَوَقَّعُ أَنْ + mansub muzâri meçhuller!" }
+        ]
+      },
+      {
+        "id": "m18_lad2",
+        "baslik": "A1 → B2 Merdiveni: Ecvef & Nâkıs Meçhullerle Tarih Anlatımı",
+        "adimlar": [
+          { "seviye": "A1", "ar": "بُنِيَ الْمَسْجِدُ.", "okunus": "Buniye'l-mescidu.", "tr": "Cami inşa edildi.", "ekleme": "Nâkıs mâzi meçhul: بُنِيَ" },
+          { "seviye": "A1+", "ar": "بُنِيَ هٰذَا الْمَسْجِدُ الْعَظِيمُ فِي إِسْطَنْبُولَ.", "okunus": "Buniye hâze'l-mescidu'l-‘azîmu fî İstânbûle.", "tr": "Bu büyük cami İstanbul'da inşa edildi.", "ekleme": "İşaret + sıfat + yer" },
+          { "seviye": "A2", "ar": "قِيلَ إِنَّ هٰذَا الْجِسْرَ بُنِيَ قَبْلَ أَرْبَعِمِئَةِ عَامٍ، وَمَا زَالَ يُزَارُ كُلَّ يَوْمٍ.", "okunus": "Kîle inne hâze'l-cisra buniye kable erba‘imieti ‘âmin, ve mâ zâle yuzâru kulle yevmin.", "tr": "Bu köprünün dört yüz yıl önce inşa edildiği söylenir ve hâlâ her gün ziyaret edilmektedir.", "ekleme": "قِيلَ إِنَّ + بُنِيَ + يُزَارُ (3 ecvef/nâkıs meçhul!)" },
+          { "seviye": "B1", "ar": "وُلِدَ الْمِعْمَارِيُّ سِنَانٌ فِي قَيْصَرِيَ، وَدُعِيَ إِلَى إِسْطَنْبُولَ، وَمُنِحَ لَقَبَ كَبِيرِ الْمِعْمَارِيِّينَ.", "okunus": "Vulide'l-mi‘mâriyyu Sinânun fî Kaysari, ve du‘iye ilâ İstânbûle, ve muniha lekabe kebîri'l-mi‘mâriyyîne.", "tr": "Mimar Sinan Kayseri'de doğdu, İstanbul'a davet edildi ve kendisine başmimar unvanı verildi.", "ekleme": "وُلِدَ + دُعِيَ + مُنِحَ (2. nesne mansub: لَقَبَ!)" },
+          { "seviye": "B2", "ar": "أُعِيدَ تَرْمِيمُ الْمَعَالِمِ التَّارِيخِيَّةِ بِعِنَايَةٍ فَائِقَةٍ حَتَّى تَبْقَى مَحْفُوظَةً وَلَا تُنْسَى عَبْرَ الْأَجْيَالِ الْقَادِمَةِ.", "okunus": "U‘îde termîmu'l-me‘âlimi't-târîhiyyeti bi-‘inâyetin fâikatin hattâ tebkâ mahfûzaten ve lâ tunsâ ‘abra'l-ecyâli'l-kâdimeti.", "tr": "Tarihî eserlerin restorasyonu, korunmuş kalmaları ve gelecek nesiller boyunca unutulmamaları için üstün bir özenle yeniden yapıldı.", "ekleme": "أُعِيدَ (IV. bab ecvef meçhul!) + لَا تُنْسَى (nâkıs meçhul!)" }
+        ]
+      },
+      {
+        "id": "m18_lad3",
+        "baslik": "A1 → B2 Merdiveni: Harf-i Cerli Meçhul + Resmî Haber Dili",
+        "adimlar": [
+          { "seviye": "A1", "ar": "نُظِرَ فِي الطَّلَبِ.", "okunus": "Nuzira fi't-talebi.", "tr": "Başvuru incelendi.", "ekleme": "Şibh-i cümle nâib-i fâil" },
+          { "seviye": "A1+", "ar": "نُظِرَ فِي الطَّلَبِ وَوُوفِقَ عَلَيْهِ.", "okunus": "Nuzira fi't-talebi ve vûfika ‘aleyhi.", "tr": "Başvuru incelendi ve onaylandı.", "ekleme": "Çift harf-i cerli meçhul (نُظِرَ فِي / وُوفِقَ عَلَى)" },
+          { "seviye": "A2", "ar": "أُجِيبَ عَنْ جَمِيعِ الْأَسْئِلَةِ وَأُشِيرَ إِلَى مَوْعِدِ الِانْطِلَاقِ الرَّسْمِيِّ.", "okunus": "Ucîbe ‘an cemî‘i'l-es'ileti ve uşîra ilâ mev‘idi'l-intilâkı'r-resmiyyi.", "tr": "Tüm sorular cevaplandı ve resmî başlangıç tarihine işaret edildi.", "ekleme": "أُجِيبَ عَنْ + أُشِيرَ إِلَى (her ikisi tekil eril!)" },
+          { "seviye": "B1", "ar": "يُذْكَرُ أَنَّ الْقَانُونَ الْجَدِيدَ قَدْ نُوقِشَ فِي الْبَرْلَمَانِ وَوُوفِقَ عَلَيْهِ بِأَغْلَبِيَّةِ الْأَصْوَاتِ.", "okunus": "Yuzkeru enne'l-kânûne'l-cedîde kad nûkışe fi'l-berlemâni ve vûfika ‘aleyhi bi-aglebiyyeti'l-esvâti.", "tr": "Yeni kanunun parlamentoda tartışıldığı ve oy çokluğuyla onaylandığı belirtilmektedir.", "ekleme": "يُذْكَرُ أَنَّ + نُوقِشَ + وُوفِقَ عَلَيْهِ" },
+          { "seviye": "B2", "ar": "يُرْجَى مِنَ الْبَاحِثِينَ إِرْسَالُ مُلَخَّصَاتِهِمْ قَبْلَ نِهَايَةِ الشَّهْرِ؛ إِذْ سَيُبَحَثُ فِيهَا مِنْ قِبَلِ اللَّجْنَةِ الْعِلْمِيَّةِ الْمُخْتَصَّةِ.", "okunus": "Yurcâ mine'l-bâhisîne irsâlu mulahhasâtihim kable nihâyeti'ş-şehri; iz se-yubhasu fîhâ min kıbeli'l-lecneti'l-‘ilmiyyeti'l-muhtassati.", "tr": "Araştırmacılardan özetlerini ay sonundan önce göndermeleri rica olunur; zira bunlar uzman bilim kurulu tarafından incelenecektir.", "ekleme": "يُرْجَى + سَيُبْحَثُ فِيهَا + مِنْ قِبَلِ!" }
+        ]
+      },
+      {
+        "id": "m18_lad4",
+        "baslik": "A1 → B2 Merdiveni: Sağlık & Günlük Haber Dili (أُصِيبَ بِـ / نُقِلَ)",
+        "adimlar": [
+          { "seviye": "A1", "ar": "أُصِيبَ اللَّاعِبُ.", "okunus": "Usîbe'l-lâ‘ibu.", "tr": "Oyuncu sakatlandı.", "ekleme": "أُصِيبَ (IV. bab ecvef meçhul)" },
+          { "seviye": "A1+", "ar": "أُصِيبَ اللَّاعِبُ وَنُقِلَ إِلَى الْمُسْتَشْفَى.", "okunus": "Usîbe'l-lâ‘ibu ve nukıle ile'l-musteşfâ.", "tr": "Oyuncu sakatlandı ve hastaneye nakledildi.", "ekleme": "نُقِلَ (nakledildi)" },
+          { "seviye": "A2", "ar": "أُصِيبَ الْمَرِيضُ بِزُكَامٍ شَدِيدٍ، فَأُعْطِيَ دَوَاءً مُنَاسِبًا وَنُصِحَ بِالرَّاحَةِ.", "okunus": "Usîbe'l-marîdu bi-zukâmin şedîdin, fe-u‘tıye devâen munâsiben ve nusaha bi'r-râhati.", "tr": "Hasta şiddetli nezleye yakalandı; kendisine uygun bir ilaç verildi ve dinlenmesi tavsiye edildi.", "ekleme": "أُصِيبَ بِـ + أُعْطِيَ + نُصِحَ بِـ" },
+          { "seviye": "B1", "ar": "يُعْتَقَدُ أَنَّ الْوِقَايَةَ خَيْرٌ مِنَ الْعِلَاجِ، لِذٰلِكَ تُجْرَى فُحُوصَاتٌ دَوْرِيَّةٌ فِي الْمَرَاكِزِ الصِّحِّيَّةِ مَجَّانًا.", "okunus": "Yu‘tekadu enne'l-vikâyete hayrun mine'l-‘ilâci, li-zâlike tucrâ fuhûsâtun devriyyetun fi'l-merâkizi's-sıhhiyyeti meccânen.", "tr": "Korunmanın tedaviden daha hayırlı olduğuna inanılır; bu yüzden sağlık merkezlerinde ücretsiz düzenli taramalar yapılmaktadır.", "ekleme": "تُجْرَى (أَجْرَى → يُجْرَى: yapılmaktadır!)" },
+          { "seviye": "B2", "ar": "تَمَّ تَطْوِيرُ أَسَالِيبَ جِرَاحِيَّةٍ دَقِيقَةٍ يُسْتَطَاعُ بِهَا عِلَاجُ أَمْرَاضٍ كَانَتْ تُعَدُّ مُسْتَعْصِيَةً فِي الْمَاضِي.", "okunus": "Temme tatvîru esâlîbe cirâhiyyetin dakîkatin yustatâ‘u bihâ ‘ilâcu emrâdin kânet tu‘addu musta‘sıyeten fi'l-mâdî.", "tr": "Geçmişte çaresiz kabul edilen hastalıkların kendisiyle tedavi edilebildiği hassas cerrahi yöntemler geliştirildi.", "ekleme": "تَمَّ + يُسْتَطَاعُ (X. bab ecvef meçhul!) + تُعَدُّ!" }
+        ]
+      }
+    ],
+    "bloklar": [
+      { "id": "m18_b01", "hedefAr": "فُتِحَ الْمُتْحَفُ الْجَدِيدُ أَمَامَ الزُّوَّارِ", "tr": "Yeni müze ziyaretçilere açıldı.", "karisik": ["الزُّوَّارِ", "الْجَدِيدُ", "فُتِحَ", "أَمَامَ", "الْمُتْحَفُ"] },
+      { "id": "m18_b02", "hedefAr": "كُرِّمَ الْمُهَنْدِسُونَ فِي الِاحْتِفَالِ السَّنَوِيِّ", "tr": "Mühendisler yıllık törende ödüllendirildi.", "karisik": ["السَّنَوِيِّ", "الْمُهَنْدِسُونَ", "كُرِّمَ", "الِاحْتِفَالِ", "فِي"] },
+      { "id": "m18_b03", "hedefAr": "قُرِئَتِ الْقَصِيدَةُ بِصَوْتٍ وَاضِحٍ", "tr": "Kaside anlaşılır bir sesle okundu.", "karisik": ["وَاضِحٍ", "الْقَصِيدَةُ", "قُرِئَتِ", "بِصَوْتٍ"] },
+      { "id": "m18_b04", "hedefAr": "نُوقِشَتِ الْقَضِيَّةُ فِي الِاجْتِمَاعِ أَمْسِ", "tr": "Mesele dün toplantıda tartışıldı.", "karisik": ["أَمْسِ", "الْقَضِيَّةُ", "نُوقِشَتِ", "الِاجْتِمَاعِ", "فِي"] },
+      { "id": "m18_b05", "hedefAr": "بُنِيَ هٰذَا الْجِسْرُ قَبْلَ قُرُونٍ", "tr": "Bu köprü yüzyıllar önce inşa edildi.", "karisik": ["قُرُونٍ", "الْجِسْرُ", "بُنِيَ", "قَبْلَ", "هٰذَا"] },
+      { "id": "m18_b06", "hedefAr": "قِيلَ إِنَّ الصَّبْرَ مِفْتَاحُ الْفَرَجِ", "tr": "Sabrın ferahlığın anahtarı olduğu söylendi.", "karisik": ["الْفَرَجِ", "الصَّبْرَ", "قِيلَ", "مِفْتَاحُ", "إِنَّ"] },
+      { "id": "m18_b07", "hedefAr": "تُبَاعُ الْكُتُبُ النَّادِرَةُ فِي هٰذَا السُّوقِ", "tr": "Nadir kitaplar bu çarşıda satılır.", "karisik": ["السُّوقِ", "النَّادِرَةُ", "تُبَاعُ", "هٰذَا", "الْكُتُبُ", "فِي"] },
+      { "id": "m18_b08", "hedefAr": "سَتُعْلَنُ نَتَائِجُ الِامْتِحَانِ غَدًا", "tr": "Sınav sonuçları yarın açıklanacak.", "karisik": ["غَدًا", "الِامْتِحَانِ", "سَتُعْلَنُ", "نَتَائِجُ"] },
+      { "id": "m18_b09", "hedefAr": "أُعْطِيَ الْفَائِزُ جَائِزَةً قَيِّمَةً", "tr": "Kazanana değerli bir ödül verildi.", "karisik": ["قَيِّمَةً", "الْفَائِزُ", "أُعْطِيَ", "جَائِزَةً"] },
+      { "id": "m18_b10", "hedefAr": "نُظِرَ فِي الطَّلَبَاتِ بِكُلِّ عَدَالَةٍ", "tr": "Başvurular tam bir adaletle incelendi.", "karisik": ["عَدَالَةٍ", "الطَّلَبَاتِ", "نُظِرَ", "بِكُلِّ", "فِي"] },
+      { "id": "m18_b11", "hedefAr": "وُوفِقَ عَلَى الْخُطَّةِ الْجَدِيدَةِ بِالْإِجْمَاعِ", "tr": "Yeni plan oy birliğiyle onaylandı.", "karisik": ["بِالْإِجْمَاعِ", "الْجَدِيدَةِ", "وُوفِقَ", "الْخُطَّةِ", "عَلَى"] },
+      { "id": "m18_b12", "hedefAr": "يُشَارُ إِلَى أَنَّ الْعَرَبِيَّةَ لُغَةٌ غَنِيَّةٌ", "tr": "Arapçanın zengin bir dil olduğuna işaret edilmektedir.", "karisik": ["غَنِيَّةٌ", "الْعَرَبِيَّةَ", "يُشَارُ", "لُغَةٌ", "أَنَّ", "إِلَى"] },
+      { "id": "m18_b13", "hedefAr": "تَمَّ تَوْقِيعُ الِاتِّفَاقِيَّةِ بَيْنَ الْجَامِعَتَيْنِ", "tr": "İki üniversite arasındaki anlaşma imzalandı.", "karisik": ["الْجَامِعَتَيْنِ", "الِاتِّفَاقِيَّةِ", "تَمَّ", "بَيْنَ", "تَوْقِيعُ"] },
+      { "id": "m18_b14", "hedefAr": "يُعَدُّ التَّعْلِيمُ أَسَاسَ تَقَدُّمِ الْمُجْتَمَعِ", "tr": "Eğitim toplumun ilerlemesinin temeli sayılır.", "karisik": ["الْمُجْتَمَعِ", "أَسَاسَ", "يُعَدُّ", "تَقَدُّمِ", "التَّعْلِيمُ"] },
+      { "id": "m18_b15", "hedefAr": "اُحْتُرِمَ أَبُوكَ وَأَخُوكَ فِي الْحَفْلِ", "tr": "Törende babana ve kardeşine saygı gösterildi.", "karisik": ["الْحَفْلِ", "أَبُوكَ", "اُحْتُرِمَ", "فِي", "وَأَخُوكَ"] }
+    ]
+  },
+  "readings": [
+    {
+      "id": "m18_r1",
+      "baslik": "Akşam Haber Bülteni: Kültür, Bilim ve Teknoloji",
+      "arBaslik": "نَشْرَةُ الْأَخْبَارِ الْمَسَائِيَّةِ: الثَّقَافَةُ وَالْعُلُومُ وَالتِّقْنِيَّةُ",
+      "seviye": "A2",
+      "paragraflar": [
+        {
+          "ar": "أُعْلِنَ الْيَوْمَ فِي إِسْطَنْبُولَ عَنِ افْتِتَاحِ الْمَعْرِضِ الدَّوْلِيِّ لِلْكِتَابِ، وَيُتَوَقَّعُ أَنْ يَزُورَهُ أَكْثَرُ مِنْ مِلْيُونِ قَارِئٍ هٰذَا الْعَامَ. وَتُعْرَضُ فِي أَجْنِحَةِ الْمَعْرِضِ مِئَاتُ الْآلَافِ مِنَ الْكُتُبِ الْجَدِيدَةِ، كَمَا تُقَامُ نَدَوَاتٌ ثَقَافِيَّةٌ يَوْمِيَّةٌ.",
+          "okunus": "U‘line'l-yevme fî İstânbûle ‘ani'ftitâhi'l-ma‘ridi'd-devliyyi li'l-kitâbi, ve yutevakka‘u en yezûrahu ekseru min milyûni kâriin hâze'l-‘âme. Ve tu‘radu fî ecnîhati'l-ma‘ridi miâtu'l-âlâfi mine'l-kutubi'l-cedîdeti, kemâ tukâmu nedevâtun sekâfiyyetun yevmiyyetun.",
+          "tr": "Bugün İstanbul'da Uluslararası Kitap Fuarının açılışı duyuruldu; bu yıl fuarı bir milyondan fazla okurun ziyaret etmesi bekleniyor. Fuarın stantlarında yüz binlerce yeni kitap sergileniyor, ayrıca günlük kültürel seminerler düzenleniyor.",
+          "analiz": [
+            { "kelime": "أُعْلِنَ ... عَنْ / يُتَوَقَّعُ أَنْ", "kok": "ع ل ن", "gramer": "Harf-i cerli meçhul + müevvel mastarlı meçhul", "tr": "duyuruldu / bekleniyor" },
+            { "kelime": "تُعْرَضُ / تُقَامُ", "kok": "ق و م", "gramer": "Akılsız çoğul dişil meçhul (تُقِيمُ → تُقَامُ ecvef!)", "tr": "sergileniyor / düzenleniyor" }
+          ]
+        },
+        {
+          "ar": "فِي مَجَالِ الْعُلُومِ، اُكْتُشِفَتْ أَمْسِ مَخْطُوطَةٌ طِبِّيَّةٌ نَادِرَةٌ تَعُودُ إِلَى الْقَرْنِ الثَّانِي عَشَرَ، وَيُعْتَقَدُ أَنَّهَا كُتِبَتْ فِي مَدِينَةِ قُرْطُبَةَ. وَقَدْ تَمَّ نَقْلُ الْمَخْطُوطَةِ إِلَى الْمُخْتَبَرِ الْمُخْتَصِّ لِتَرْمِيمِهَا وَحِفْظِهَا رَقْمِيًّا.",
+          "okunus": "Fî mecâli'l-‘ulûmi, uktuşifet emsi mahtûtatun tıbbiyyetun nâdiratun te‘ûdu ile'l-karni's-sânî ‘aşera, ve yu‘tekadu ennehâ kutibet fî medîneti Kurtubate. Ve kad temme naklu'l-mahtûtati ile'l-muhteberi'l-muhtassi li-termîmihâ ve hıfzihâ rakmiyyen.",
+          "tr": "Bilim alanında, dün on ikinci yüzyıla dayanan nadir bir tıp el yazması keşfedildi ve Kurtuba şehrinde yazıldığına inanılıyor. El yazması restore edilip dijital olarak korunmak üzere uzman laboratuvara nakledildi.",
+          "analiz": [
+            { "kelime": "اُكْتُشِفَتْ / كُتِبَتْ", "kok": "ك ش ف", "gramer": "Dişil mâzi meçhuller (VIII. bab & Sülâsî)", "tr": "keşfedildi / yazıldı" },
+            { "kelime": "تَمَّ نَقْلُ", "kok": "ت م م", "gramer": "Basın edilgeni: تَمَّ + merfû mastar!", "tr": "nakledildi (nakli yapıldı)" }
+          ]
+        },
+        {
+          "ar": "وَعَلَى الصَّعِيدِ التِّقْنِيِّ، وُقِّعَتِ اتِّفَاقِيَّةُ تَعَاوُنٍ بَيْنَ ثَلَاثِ جَامِعَاتٍ لِتَطْوِيرِ الذَّكَاءِ الِاصْطِنَاعِيِّ فِي خِدْمَةِ اللُّغَةِ الْعَرَبِيَّةِ. وَيُذْكَرُ أَنَّهُ وُوفِقَ عَلَى تَخْصِيصِ مِنْحَةٍ لِخَمْسِينَ بَاحِثًا شَابًّا ضِمْنَ هٰذَا الْمَشْرُوعِ.",
+          "okunus": "Ve ‘ale's-sa‘îdi't-tikniyyi, vukki‘ati'ttifâkıyyetu te‘âvunin beyne selâsi câmi‘âtin li-tatvîri'z-zekâi'l-istınâ‘iyyi fî hidmeti'l-lugati'l-‘arabiyyeti. Ve yuzkeru ennehu vûfika ‘alâ tahsîsi minhatin li-hamsîne bâhisen şâbben dımne hâze'l-meşrû‘i.",
+          "tr": "Teknoloji alanında, Arapçanın hizmetinde yapay zekâ geliştirmek için üç üniversite arasında iş birliği anlaşması imzalandı. Bu proje kapsamında elli genç araştırmacıya burs tahsis edilmesinin onaylandığı belirtilmektedir.",
+          "analiz": [
+            { "kelime": "وُقِّعَتْ / وُوفِقَ عَلَى", "kok": "و ف ق", "gramer": "II. bab dişil meçhul vs. III. bab harf-i cerli eril meçhul!", "tr": "imzalandı / onaylandı" },
+            { "kelime": "يُذْكَرُ أَنَّهُ", "kok": "ذ ك ر", "gramer": "Basın giriş kalıbı", "tr": "belirtilmektedir ki" }
+          ]
+        },
+        {
+          "ar": "وَفِي خِتَامِ النَّشْرَةِ، سَيَتِمُّ تَكْرِيمُ الْفَائِزِينَ بِجَائِزَةِ التَّرْجَمَةِ مَسَاءَ غَدٍ، وَيُشَارُ إِلَى أَنَّ الْحَفْلَ سَيُنْقَلُ مُبَاشَرَةً عَبْرَ الْقَنَاةِ الثَّقَافِيَّةِ. يُرْجَى مِنَ الْمُشَاهِدِينَ مُتَابَعَةُ التَّفَاصِيلِ عَلَى مَوْقِعِنَا!",
+          "okunus": "Ve fî hitâmi'n-neşrati, se-yetimmu tekrîmu'l-fâizîne bi-câizeti't-tercemeti mesâe gadin, ve yuşâru ilâ enne'l-hafle se-yunkalu mubâşeraten ‘abra'l-kanâti's-sekâfiyyeti. Yurcâ mine'l-muşâhidîne mutâba‘atu't-tefâsîli ‘alâ mevkı‘inâ!",
+          "tr": "Bültenin sonunda, çeviri ödülünü kazananların yarın akşam ödüllendirileceği ve törenin kültür kanalından canlı yayınlanacağına işaret edilmektedir. İzleyicilerden ayrıntıları web sitemizden takip etmeleri rica olunur!",
+          "analiz": [
+            { "kelime": "سَيَتِمُّ تَكْرِيمُ / سَيُنْقَلُ", "kok": "ن ق ل", "gramer": "İki gelecek edilgen türü yan yana!", "tr": "ödüllendirilecek / yayınlanacak" },
+            { "kelime": "يُشَارُ إِلَى أَنَّ / يُرْجَى", "kok": "ش و ر", "gramer": "YDS & basın altın meçhulleri", "tr": "işaret ediliyor / rica olunur" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m18_r1_q1", "soru": "1. paragrafta İstanbul Uluslararası Kitap Fuarını bu yıl kaç kişinin ziyaret etmesi bekleniyor?", "secenekler": ["Bir milyondan fazla okurun", "On bin okurun", "Sadece öğrencilerin", "Yüz bin kişinin"], "dogruIndeks": 0, "aciklama": "'يُتَوَقَّعُ أَنْ يَزُورَهُ أَكْثَرُ مِنْ مِلْيُونِ قَارِئٍ هٰذَا الْعَامَ'." },
+        { "id": "m18_r1_q2", "soru": "2. paragrafta keşfedilen nadir tıp el yazmasının nerede yazıldığına inanılmaktadır?", "secenekler": ["Kurtuba şehrinde", "Bağdat'ta", "Kahire'de", "Şam'da"], "dogruIndeks": 0, "aciklama": "'يُعْتَقَدُ أَنَّهَا كُتِبَتْ فِي مَدِينَةِ قُرْطُبَةَ'." },
+        { "id": "m18_r1_q3", "soru": "1. paragraftaki «تُقَامُ نَدَوَاتٌ» ifadesinde «تُقَامُ» hangi fiilin muzâri meçhulüdür?", "secenekler": ["أَقَامَ — يُقِيمُ (düzenlemek — ecvef ي→ا!)", "قَامَ — يَقُومُ", "قَدَّمَ — يُقَدِّمُ", "قَسَمَ — يَقْسِمُ"], "dogruIndeks": 0, "aciklama": "يُقِيمُ → يُقَامُ / تُقَامُ ('düzenleniyor')." },
+        { "id": "m18_r1_q4", "soru": "2. paragraftaki «تَمَّ نَقْلُ الْمَخْطُوطَةِ» ifadesi tek bir meçhul fiille nasıl yazılırdı?", "secenekler": ["نُقِلَتِ الْمَخْطُوطَةُ", "نَقَلَتِ الْمَخْطُوطَةُ", "يُنْقَلُ الْمَخْطُوطَةُ", "نُقِلَ الْمَخْطُوطَةَ"], "dogruIndeks": 0, "aciklama": "تَمَّ + mastar = mâzi meçhul fiil (نُقِلَتِ الْمَخْطُوطَةُ)!" },
+        { "id": "m18_r1_q5", "soru": "3. paragrafta üç üniversite arasındaki iş birliği anlaşması kapsamında ne onaylanmıştır?", "secenekler": ["Elli genç araştırmacıya burs tahsis edilmesi", "Fuarın ertelenmesi", "Üniversitelerin kapatılması", "Kütüphanenin taşınması"], "dogruIndeks": 0, "aciklama": "'وُوفِقَ عَلَى تَخْصِيصِ مِنْحَةٍ لِخَمْسِينَ بَاحِثًا شَابًّا'." }
+      ]
+    },
+    {
+      "id": "m18_r2",
+      "baslik": "Kağıdın İcadı ve İslam Dünyasında Kitap Devrimi",
+      "arBaslik": "اِخْتِرَاعُ الْوَرَقِ وَثَوْرَةُ الْكِتَابِ فِي الْعَالَمِ الْإِسْلَامِيِّ",
+      "seviye": "A2",
+      "paragraflar": [
+        {
+          "ar": "يُعَدُّ اخْتِرَاعُ الْوَرَقِ وَاحِدًا مِنْ أَعْظَمِ الْأَحْدَاثِ فِي تَارِيخِ الْمَعْرِفَةِ الْإِنْسَانِيَّةِ. قَبْلَ انْتِشَارِ الْوَرَقِ، كَانَتِ الْكُتُبُ تُكْتَبُ عَلَى الْجُلُودِ أَوْ أَوْرَاقِ الْبَرْدِيِّ، وَكَانَ ذٰلِكَ مُكَلِّفًا جِدًّا وَلَا يَتَوَفَّرُ لِجَمِيعِ النَّاسِ.",
+          "okunus": "Yu‘addu'htirâ‘u'l-varakı vâhiden min a‘zami'l-ahdâsi fî târîhi'l-ma‘rifeti'l-insâniyyeti. Kable'ntişâri'l-varakı, kâneti'l-kutubu tuktebu ‘ale'l-culûdi ev evrâkı'l-berdiyyi, ve kâne zâlike mukellifen cidden ve lâ yetevefferu li-cemî‘i'n-nâsi.",
+          "tr": "Kâğıdın icadı insanlık bilgi tarihinin en büyük olaylarından biri sayılır. Kâğıt yayılmadan önce kitaplar deriler veya papirüs yaprakları üzerine yazılırdı; bu ise çok maliyetliydi ve tüm insanlar için bulunmuyordu.",
+          "analiz": [
+            { "kelime": "يُعَدُّ ... وَاحِدًا", "kok": "ع د د", "gramer": "يُعَدُّ + merfû nâib-i fâil + mansub 2. nesne!", "tr": "biri sayılır" },
+            { "kelime": "تُكْتَبُ", "kok": "ك ت ب", "gramer": "Akılsız çoğul (الْكُتُبُ) → dişil muzâri meçhul", "tr": "yazılırdı" }
+          ]
+        },
+        {
+          "ar": "لَمَّا عُرِفَتْ صِنَاعَةُ الْوَرَقِ فِي سَمَرْقَنْدَ فِي الْقَرْنِ الثَّامِنِ، أُنشِئَتْ مَصَانِعُ كَبِيرَةٌ فِي بَغْدَادَ وَدِمَشْقَ وَالْقَاهِرَةِ وَالْأَنْدَلُسِ. وَبِفَضْلِ الْوَرَقِ، تُرْجِمَتْ آلَافُ الْمُؤَلَّفَاتِ الْعِلْمِيَّةِ وَنُسِخَتْ فِي زَمَنٍ قِيَاسِيٍّ!",
+          "okunus": "Lemmâ ‘urifet sınâ‘atu'l-varakı fî Semerkande fi'l-karni's-sâmini, unşiet mesâni‘u kebîratun fî Bagdâde ve Dimeşka ve'l-Kâhirati ve'l-Endelusi. Ve bi-fadli'l-varakı, turcimet âlâfu'l-muellefâti'l-‘ilmiyyeti ve nusihat fî zemenin kıyâsiyyin!",
+          "tr": "Sekizinci yüzyılda Semerkant'ta kâğıt yapımı tanındığında Bağdat, Şam, Kahire ve Endülüs'te büyük imalathaneler kuruldu. Kâğıt sayesinde binlerce bilimsel eser tercüme edildi ve rekor sürede çoğaltıldı!",
+          "analiz": [
+            { "kelime": "عُرِفَتْ / أُنْشِئَتْ", "kok": "ن ش أ", "gramer": "Sülâsî & IV. bab dişil mâzi meçhuller", "tr": "tanındı / kuruldu" },
+            { "kelime": "تُرْجِمَتْ / نُسِخَتْ", "kok": "ت ر ج م", "gramer": "Rubâî & Sülâsî mâzi meçhuller", "tr": "tercüme edildi / çoğaltıldı" }
+          ]
+        },
+        {
+          "ar": "فِي ذٰلِكَ الْعَصْرِ، بُنِيَتْ مَكْتَبَاتٌ ضَخْمَةٌ مِثْلُ «بَيْتِ الْحِكْمَةِ» فِي بَغْدَادَ، وَأُتِيحَتِ الْكُتُبُ لِلطُّلَّابِ وَالْبَاحِثِينَ مَجَّانًا، بَلْ كَانَ يُعْطَى الطُّلَّابُ الْوَرَقَ وَالْحِبْرَ كَيْ يَكْتُبُوا وَيَبْحَثُوا بِحُرِّيَّةٍ!",
+          "okunus": "Fî zâlike'l-‘asri, buniyet mektebâtun dahmetun mislu «Beyti'l-Hikmeti» fî Bagdâde, ve utîhati'l-kutubu li't-tullâbi ve'l-bâhisîne meccânen, bel kâne yu‘ta't-tullâbu'l-varaka ve'l-hibra key yektubû ve yebhasû bi-hurriyyetin!",
+          "tr": "O çağda Bağdat'taki 'Beytü'l-Hikme' gibi devasa kütüphaneler inşa edildi, kitaplar öğrencilere ve araştırmacılara ücretsiz sunuldu; hatta öğrencilere özgürce yazıp araştırsınlar diye kâğıt ve mürekkep verilirdi!",
+          "analiz": [
+            { "kelime": "بُنِيَتْ / أُتِيحَتْ", "kok": "ت ي ح", "gramer": "Nâkıs & IV. bab ecvef meçhuller (أَتَاحَ → أُتِيحَ!)", "tr": "inşa edildi / imkân olarak sunuldu" },
+            { "kelime": "يُعْطَى الطُّلَّابُ الْوَرَقَ", "kok": "ع ط و", "gramer": "2 nesneli meçhul: الطُّلَّابُ merfû, الْوَرَقَ mansub!", "tr": "öğrencilere kâğıt verilirdi" }
+          ]
+        },
+        {
+          "ar": "وَمِنَ الْأَنْدَلُسِ، نُقِلَتْ صِنَاعَةُ الْوَرَقِ إِلَى أُورُوبَّا، فَسَاهَمَتْ فِي نَهْضَةِ التَّعْلِيمِ وَالطِّبَاعَةِ فِي الْعَالَمِ كُلِّهِ. وَلِذٰلِكَ يُقَالُ إِنَّ الْوَرَقَ كَانَ الْجِسْرَ الَّذِي حُمِلَتْ عَلَيْهِ الْعُلُومُ مِنَ الشَّرْقِ إِلَى الْغَرْبِ!",
+          "okunus": "Ve mine'l-Endelusi, nukılet sınâ‘atu'l-varakı ilâ Ûrûbbâ, fe-sâhemet fî nehdati't-ta‘lîmi ve't-tıbâ‘ati fi'l-‘âlemi kullihi. Ve li-zâlike yukâlu inne'l-varaka kâne'l-cisra'llezî humilet ‘aleyhi'l-‘ulûmu mine'ş-şarkı ile'l-garbi!",
+          "tr": "Endülüs'ten kâğıt yapımı Avrupa'ya aktarıldı ve tüm dünyada eğitim ile matbaanın yükselişine katkı sağladı. Bu yüzden kâğıdın, bilimlerin Doğu'dan Batı'ya üzerinde taşındığı köprü olduğu söylenir!",
+          "analiz": [
+            { "kelime": "نُقِلَتْ / حُمِلَتْ", "kok": "ن ق ل", "gramer": "Sülâsî dişil mâzi meçhuller", "tr": "aktarıldı / taşındı" },
+            { "kelime": "يُقَالُ إِنَّ", "kok": "ق و ل", "gramer": "Ecvef muzâri meçhul + kesralı إِنَّ!", "tr": "söylenir ki" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m18_r2_q1", "soru": "Kâğıt yayılmadan önce kitaplar hangi iki malzeme üzerine yazılıyordu?", "secenekler": ["Deriler (الْجُلُود) veya papirüs yaprakları (أَوْرَاقِ الْبَرْدِيّ)", "Taş ve metal", "Plastik ve cam", "Sadece tahta"], "dogruIndeks": 0, "aciklama": "'كَانَتِ الْكُتُبُ تُكْتَبُ عَلَى الْجُلُودِ أَوْ أَوْرَاقِ الْبَرْدِيِّ'." },
+        { "id": "m18_r2_q2", "soru": "3. paragraftaki «يُعْطَى الطُّلَّابُ الْوَرَقَ» ifadesinde الطُّلَّابُ neden merfû, الْوَرَقَ neden mansubdur?", "secenekler": ["أَعْطَى iki nesne alır: 1. nesne (الطُّلَّابُ) nâib-i fâil (merfû), 2. nesne (الْوَرَقَ) mansub kalır!", "İkisi de fâildir", "الْوَرَقَ sıfattır", "Yazım hatasıdır"], "dogruIndeks": 0, "aciklama": "İki nesneli fiil meçhul olunca 1. nesne merfû, 2. nesne mansub kalır!" },
+        { "id": "m18_r2_q3", "soru": "3. paragraftaki «أُتِيحَتْ» ('sunuldu / imkân tanındı') fiilinin etken mâzisi hangisidir?", "secenekler": ["أَتَاحَ (IV. bab ecvef → meçhulde ا → ي: أُتِيحَ!)", "تَاحَ", "أَتَى", "اِتَّحَدَ"], "dogruIndeks": 0, "aciklama": "أَتَاحَ → أُتِيحَ (IV. bab ecvef meçhulü!)." },
+        { "id": "m18_r2_q4", "soru": "Metne göre kâğıt yapımı Avrupa'ya nereden aktarılmıştır?", "secenekler": ["Endülüs'ten (الْأَنْدَلُس)", "Mısır'dan", "Hindistan'dan", "Yemen'den"], "dogruIndeks": 0, "aciklama": "'مِنَ الْأَنْدَلُسِ، نُقِلَتْ صِنَاعَةُ الْوَرَقِ إِلَى أُورُوبَّا'." },
+        { "id": "m18_r2_q5", "soru": "1. paragraftaki «يُعَدُّ اخْتِرَاعُ الْوَرَقِ وَاحِدًا» cümlesinde «وَاحِدًا» neden mansubdur?", "secenekler": ["يُعَدُّ (sayılır) iki nesnelidir; 2. nesne mansub kalır!", "Nâib-i fâildir", "Sıfattır", "Mecrûrdur"], "dogruIndeks": 0, "aciklama": "يُعَدُّ + merfû nâib-i fâil (اِخْتِرَاعُ) + mansub 2. mef'ûl (وَاحِدًا)!" }
+      ]
+    },
+    {
+      "id": "m18_r3",
+      "baslik": "Ünlü Âlim İbn Battûta'nın Hayatı (Biyografide Meçhul)",
+      "arBaslik": "سِيرَةُ الرَّحَّالَةِ الشَّهِيرِ ابْنِ بَطُّوطَةَ",
+      "seviye": "A2",
+      "paragraflar": [
+        {
+          "ar": "وُلِدَ الرَّحَّالَةُ الْعَرَبِيُّ الشَّهِيرُ ابْنُ بَطُّوطَةَ فِي مَدِينَةِ طَنْجَةَ بِالْمَغْرِبِ عَامَ ١٣٠٤ لِلْمِيلَادِ، وَعُرِفَ مُنْذُ صِغَرِهِ بِحُبِّهِ الشَّدِيدِ لِلْعِلْمِ وَالِاسْتِكْشَافِ. وَقَدْ لُقِّبَ بَعْدَ رِحْلَاتِهِ الْعَظِيمَةِ بِـ«أَمِيرِ الرَّحَّالِينَ الْمُسْلِمِينَ»!",
+          "okunus": "Vulide'r-rahhâletu'l-‘arabiyyu'ş-şehîru İbnu Battûtate fî medîneti Tancete bi'l-Magribi ‘âme elfin ve selâsimietin ve erba‘atin li'l-mîlâdi, ve ‘urife munzu sıgarihi bi-hubbihi'ş-şedîdi li'l-‘ilmi ve'l-istikşâfi. Ve kad lukkıbe ba‘de rihalâtihi'l-‘azîmeti bi-«Emîri'r-Rahhâlîne'l-Muslimîne»!",
+          "tr": "Ünlü Arap gezgin İbn Battûta 1304 yılında Fas'ın Tanca şehrinde doğdu ve küçüklüğünden itibaren ilme ve keşfe olan şiddetli sevgisiyle tanındı. Büyük yolculuklarından sonra 'Müslüman Gezginlerin Emîri' unvanıyla anıldı!",
+          "analiz": [
+            { "kelime": "وُلِدَ / عُرِفَ / لُقِّبَ", "kok": "و ل د", "gramer": "3 klasik biyografi mâzi meçhulü!", "tr": "doğdu / tanındı / lakap verildi" },
+            { "kelime": "أَمِيرِ الرَّحَّالِينَ", "kok": "ر ح ل", "gramer": "Cemi müzekker muzâfun ileyh (ي ile mecrûr!)", "tr": "gezginlerin emîri" }
+          ]
+        },
+        {
+          "ar": "بَدَأَ رِحْلَتَهُ وَهُوَ شَابٌّ فِي الْحَادِيَةِ وَالْعِشْرِينَ، وَقَطَعَ أَكْثَرَ مِنْ مِئَةٍ وَعِشْرِينَ أَلْفَ كِيلُومِتْرٍ عَبْرَ إِفْرِيقْيَا وَآسْيَا وَأُورُوبَّا! وَأَيْنَمَا حَلَّ، كَانَ يُسْتَقْبَلُ بِالتَّرْحِيبِ وَيُسْأَلُ عَنْ أَخْبَارِ الْبُلْدَانِ الَّتِي زَارَهَا.",
+          "okunus": "Bedee rihletehu ve huve şâbbun fi'l-hâdiyeti ve'l-‘işrîne, ve kata‘a eksera min mietin ve ‘işrîne elfe kîlûmitrin ‘abra İfrîkyâ ve Âsyâ ve Ûrûbbâ! Ve eynemâ halle, kâne yustakbelu bi't-terhîbi ve yus'elu ‘an ahbâri'l-buldâni'lletî zârahâ.",
+          "tr": "Yolculuğuna yirmi bir yaşında gençken başladı ve Afrika, Asya ve Avrupa boyunca yüz yirmi bin kilometreden fazla yol katetti! Nereye varsa konukseverlikle karşılanır ve ziyaret ettiği ülkelerin haberleri hakkında kendisine sorular sorulurdu.",
+          "analiz": [
+            { "kelime": "يُسْتَقْبَلُ / يُسْأَلُ", "kok": "ق ب ل", "gramer": "X. bab & Sülâsî muzâri meçhuller (gizli nâib-i fâil: هُوَ)", "tr": "karşılanırdı / kendisine sorulurdu" },
+            { "kelime": "الْحَادِيَةِ وَالْعِشْرِينَ", "kok": "ع ش ر", "gramer": "Sıra sayısı (M23'e hazırlık!)", "tr": "yirmi birinci" }
+          ]
+        },
+        {
+          "ar": "عِنْدَمَا عَادَ إِلَى الْمَغْرِبِ بَعْدَ نَحْوِ ثَلَاثِينَ عَامًا، أُمِرَ بِأَنْ يَرْوِيَ تَفَاصِيلَ رِحْلَاتِهِ، فَدُوِّنَتْ مُشَاهَدَاتُهُ فِي كِتَابٍ شَهِيرٍ يُعْرَفُ الْيَوْمَ بِاسْمِ «رِحْلَةِ ابْنِ بَطُّوطَةَ». وَقَدْ تُرْجِمَ هٰذَا الْكِتَابُ إِلَى عَشَرَاتِ اللُّغَاتِ الْعَالَمِيَّةِ!",
+          "okunus": "‘İndemâ ‘âde ile'l-Magribi ba‘de nahvi selâsîne ‘âmen, umira bi-en yerviye tefâsîle rihalâtihi, fe-duvvinet muşâhedâtuhu fî kitâbin şehîrin yu‘rafu'l-yevme bi'smi «Rihleti İbni Battûtate». Ve kad turcime hâze'l-kitâbu ilâ ‘aşerâti'l-lugâti'l-‘âlemiyyeti!",
+          "tr": "Yaklaşık otuz yıl sonra Fas'a döndüğünde yolculuklarının ayrıntılarını anlatması istendi (emredildi); böylece gözlemleri bugün 'İbn Battûta Seyahatnamesi' adıyla bilinen ünlü bir kitapta kaydedildi. Bu kitap onlarca dünya diline tercüme edildi!",
+          "analiz": [
+            { "kelime": "أُمِرَ / دُوِّنَتْ / تُرْجِمَ", "kok": "د و ن", "gramer": "Mehmûz + II. bab + Rubâî mâzi meçhuller", "tr": "istendi / kaydedildi / tercüme edildi" },
+            { "kelime": "يُعْرَفُ بِاسْمِ", "kok": "ع ر ف", "gramer": "Muzâri meçhul kalıbı ('... adıyla bilinir')", "tr": "... adıyla bilinir" }
+          ]
+        },
+        {
+          "ar": "تُوُفِّيَ ابْنُ بَطُّوطَةَ فِي وَطَنِهِ عَامَ ١٣٦٩ لِلْمِيلَادِ، وَلٰكِنَّ اسْمَهُ لَمْ يُنْسَ أَبَدًا؛ إِذْ يُعْتَبَرُ كِتَابُهُ حَتَّى الْيَوْمِ مَرْجِعًا تَارِيخِيًّا وَجُغْرَافِيًّا لَا يُسْتَغْنَى عَنْهُ لِكُلِّ بَاحِثٍ فِي تَارِيخِ الْعُصُورِ الْوُسْطَى!",
+          "okunus": "Tuvuffiye İbnu Battûtate fî vatanihi ‘âme elfin ve selâsimietin ve tis‘atin ve sittîne li'l-mîlâdi, ve lâkinne'smehu lem yunse ebeden; iz yu‘teberu kitâbuhu hatte'l-yevmi merci‘an târîhiyyen ve cugrâfiyyen lâ yustagnâ ‘anhu li-kulli bâhisin fî târîhi'l-‘usûri'l-vustâ!",
+          "tr": "İbn Battûta 1369 yılında vatanında vefat etti, ancak adı asla unutulmadı; zira kitabı bugüne dek Orta Çağ tarihi üzerine çalışan her araştırmacı için vazgeçilmez bir tarih ve coğrafya kaynağı sayılmaktadır!",
+          "analiz": [
+            { "kelime": "تُوُفِّيَ / لَمْ يُنْسَ", "kok": "و ف ي", "gramer": "Vefat meçhulü + لَمْ ile nâkıs meçhul (ى düştü!)", "tr": "vefat etti / unutulmadı" },
+            { "kelime": "لَا يُسْتَغْنَى عَنْهُ", "kok": "غ ن ي", "gramer": "X. bab harf-i cerli meçhul ('ondan müstağni kalınmaz = vazgeçilmez')", "tr": "vazgeçilmez" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m18_r3_q1", "soru": "İbn Battûta nerede doğmuş ve kaç kilometre civarında yol katetmiştir?", "secenekler": ["Fas'ın Tanca şehrinde doğmuş ve 120.000 km'den fazla yol katetmiştir", "Bağdat'ta doğmuş ve 5.000 km yol gitmiştir", "Kahire'de doğmuş ve 10.000 km gitmiştir", "İstanbul'da doğmuştur"], "dogruIndeks": 0, "aciklama": "'وُلِدَ ... فِي مَدِينَةِ طَنْجَةَ بِالْمَغْرِبِ' ve 'أَكْثَرَ مِنْ مِئَةٍ وَعِشْرِينَ أَلْفَ كِيلُومِتْرٍ'." },
+        { "id": "m18_r3_q2", "soru": "4. paragraftaki «لَمْ يُنْسَ» fiilinde hem meçhul hem de hangi gramer kuralı bir aradadır?", "secenekler": ["Muzâri meçhul (يُنْسَى) + لَمْ ile cezmedildiği için sondaki ى'nin düşmesi!", "Mâzi fiil", "Nasb edatı", "Emir fiili"], "dogruIndeks": 0, "aciklama": "يُنْسَى (meçhul) + لَمْ (cezm) → ى düşer: لَمْ يُنْسَ!" },
+        { "id": "m18_r3_q3", "soru": "4. paragraftaki «لَا يُسْتَغْنَى عَنْهُ» harf-i cerli meçhul ifadesi Türkçeye nasıl çevrilir?", "secenekler": ["Vazgeçilmez / kendisinden müstağni kalınamaz", "Çok pahalı", "Unutulmuş", "Kaybolmuş"], "dogruIndeks": 0, "aciklama": "اِسْتَغْنَى عَنْ (ihtiyaç duymamak) → لَا يُسْتَغْنَى عَنْهُ (vazgeçilmez — YDS'nin favori deyimi!)." },
+        { "id": "m18_r3_q4", "soru": "1. paragraftaki «لُقِّبَ» ve 3. paragraftaki «دُوِّنَتْ» hangi babın mâzi meçhulleridir?", "secenekler": ["II. bab (لَقَّبَ → لُقِّبَ; دَوَّنَ → دُوِّنَ)", "I. bab", "III. bab", "X. bab"], "dogruIndeks": 0, "aciklama": "فَعَّلَ → فُعِّلَ (II. bab mâzi meçhul!)." },
+        { "id": "m18_r3_q5", "soru": "İbn Battûta'nın kitabı bugün hangi alanda vazgeçilmez bir kaynak sayılmaktadır?", "secenekler": ["Orta Çağ tarihi ve coğrafyası alanında", "Yalnızca matematikte", "Modern mimaride", "Astronomide"], "dogruIndeks": 0, "aciklama": "'مَرْجِعًا تَارِيخِيًّا وَجُغْرَافِيًّا ... فِي تَارِيخِ الْعُصُورِ الْوُسْطَى!'." }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "m18_d1",
+      "baslik": "Üniversite Duyuru Panosu Önünde (Mâzi & Gelecek Meçhul)",
+      "ortam": "İki öğrenci yeni dönem duyurularını ve sınav takvimini konuşuyor",
+      "replikler": [
+        { "konusan": "طارق", "ar": "السَّلَامُ عَلَيْكُمْ يَا سَامِي! هَلْ أُعْلِنَ جَدْوَلُ الِامْتِحَانَاتِ النِّهَائِيَّةِ؟", "okunus": "Es-selâmu ‘aleykum yâ Sâmî! Hel u‘line cedvelu'l-imtihânâti'n-nihâiyyeti?", "tr": "Selamün aleyküm Sami! Final sınavlarının takvimi açıklandı mı?" },
+        { "konusan": "سامي", "ar": "وَعَلَيْكُمُ السَّلَامُ! نَعَمْ، نُشِرَ الْجَدْوَلُ صَبَاحَ الْيَوْمِ عَلَى مَوْقِعِ الْكُلِّيَّةِ وَعَلَى هٰذِهِ اللَّوْحَةِ!", "okunus": "Ve ‘aleykumu's-selâmu! Ne‘am, nuşira'l-cedvelu sabâha'l-yevmi ‘alâ mevkı‘i'l-kulliyyeti ve ‘alâ hâzihi'l-levhati!", "tr": "Aleyküm selam! Evet, takvim bugün sabah fakültenin sitesinde ve bu panoda yayımlandı!" },
+        { "konusan": "طارق", "ar": "مَتَى سَيُعْقَدُ امْتِحَانُ النَّحْوِ وَالصَّرْفِ؟", "okunus": "Metâ se-yu‘kadu'mtihânu'n-nahvi ve's-sarfi?", "tr": "Nahiv ve sarf sınavı ne zaman yapılacak?" },
+        { "konusan": "سامي", "ar": "سَيُعْقَدُ يَوْمَ الثُّلَاثَاءِ الْقَادِمِ فِي الْقَاعَةِ الْكُبْرَى، وَسَيَتِمُّ تَوْزِيعُ أَرْقَامِ الْجُلُوسِ غَدًا.", "okunus": "Se-yu‘kadu yevme's-sulâsâi'l-kâdimi fi'l-kâ‘ati'l-kubrâ, ve se-yetimmu tevzî‘u erkâmi'l-culûsi gaden.", "tr": "Gelecek salı günü büyük salonda yapılacak ve oturma numaraları yarın dağıtılacak." },
+        { "konusan": "طارق", "ar": "هَلْ وُوفِقَ عَلَى طَلَبِنَا بِتَأْجِيلِ تَسْلِيمِ الْبَحْثِ الْفَصْلِيِّ؟", "okunus": "Hel vûfika ‘alâ talebinâ bi-te'cîli teslîmi'l-bahsi'l-fasliyyi?", "tr": "Dönem ödevinin teslimini erteleme talebimiz onaylandı mı?" },
+        { "konusan": "سامي", "ar": "نَعَمْ الْحَمْدُ لِلّٰهِ! نُظِرَ فِي الطَّلَبِ أَمْسِ فِي مَجْلِسِ الْقِسْمِ، وَمُدِّدَ الْمَوْعِدُ أُسْبُوعًا كَامِلًا!", "okunus": "Ne‘am el-hamdu lillâhi! Nuzira fi't-talebi emsi fî meclisi'l-kismi, ve muddide'l-mev‘idu usbû‘an kâmilen!", "tr": "Evet elhamdülillah! Dün bölüm kurulunda talep incelendi ve süre tam bir hafta uzatıldı!" },
+        { "konusan": "طارق", "ar": "خَبَرٌ سَارٌّ جِدًّا! وَأَيْنَ تُسَلَّمُ الْأَبْحَاثُ، فِي الْمَكْتَبِ أَمْ عَبْرَ الْبَرِيدِ الْإِلِكْتُرُونِيِّ؟", "okunus": "Haberun sârrun cidden! Ve eyne tusellemu'l-ebhâsu, fi'l-mektebi em ‘abra'l-berîdi'l-ilikturûniyyi?", "tr": "Çok sevindirici haber! Peki araştırmalar nereye teslim ediliyor, ofise mi yoksa e-posta yoluyla mı?" },
+        { "konusan": "سامي", "ar": "تُرْفَعُ الْأَبْحَاثُ عَلَى الْمِنَصَّةِ الرَّقْمِيَّةِ، وَيُرْجَى أَنْ تُكْتَبَ بِخَطٍّ وَاضِحٍ وَمُرَتَّبٍ.", "okunus": "Turfa‘u'l-ebhâsu ‘ale'l-minassati'r-rakmiyyeti, ve yurcâ en tuktebe bi-hattın vâdihin ve murattebin.", "tr": "Araştırmalar dijital platforma yükleniyor ve okunaklı, düzenli bir yazıyla yazılmaları rica olunuyor." },
+        { "konusan": "طارق", "ar": "وَمَتَى سَتُعْلَنُ النَّتَائِجُ النِّهَائِيَّةُ بَعْدَ الِامْتِحَانَاتِ؟", "okunus": "Ve metâ se-tu‘lenu'n-netâicu'n-nihâiyyetu ba‘de'l-imtihânâti?", "tr": "Sınavlardan sonra final sonuçları ne zaman açıklanacak?" },
+        { "konusan": "سامي", "ar": "يُتَوَقَّعُ أَنْ تُعْلَنَ بَعْدَ عَشَرَةِ أَيَّامٍ، وَسَيُكَرَّمُ الطُّلَّابُ الْأَوَائِلُ فِي حَفْلِ خِتَامِ الْفَصْلِ!", "okunus": "Yutevakka‘u en tu‘lene ba‘de ‘aşereti eyyâmin, ve se-yukerramu't-tullâbu'l-evâilu fî hafli hitâmi'l-fasli!", "tr": "On gün sonra açıklanması bekleniyor ve dereceye giren öğrenciler dönem kapanış töreninde ödüllendirilecek!" },
+        { "konusan": "طارق", "ar": "بَارَكَ اللّٰهُ فِيكَ يَا سَامِي! فَلْنَذْهَبْ إِلَى الْمَكْتَبَةِ كَيْ نُكْمِلَ مُرَاجَعَتَنَا!", "okunus": "Bârakallâhu fîke yâ Sâmî! Fel-nezheb ile'l-mektebeti key nukmile murâca‘atenâ!", "tr": "Allah seni bereketlendirsin Sami! Haydi tekrarımızı tamamlamak için kütüphaneye gidelim!" },
+        { "konusan": "سامي", "ar": "هَيَّا بِنَا، بِالتَّوْفِيقِ لَنَا جَمِيعًا!", "okunus": "Heyyâ binâ, bi't-tevfîkı lenâ cemî‘an!", "tr": "Haydi gidelim, hepimize başarılar!" }
+      ],
+      "partner": [
+        { "soruAr": "كَيْفَ نَقُولُ 'Takvim bugün sabah yayımlandı'؟", "soruTr": "'Takvim bugün sabah yayımlandı' nasıl söylenir?", "ipucu": "نُشِرَ الْجَدْوَلُ (merfû!).", "secenekler": ["نُشِرَ الْجَدْوَلُ صَبَاحَ الْيَوْمِ.", "نَشَرَ الْجَدْوَلُ صَبَاحَ الْيَوْمِ.", "نُشِرَ الْجَدْوَلَ."], "dogruIndeks": 0, "aciklama": "نُشِرَ + merfû nâib-i fâil (الْجَدْوَلُ)." },
+        { "soruAr": "كَيْفَ نَقُولُ 'Talebimiz onaylandı mı?'؟", "soruTr": "'Talebimiz onaylandı mı?' (harf-i cerli meçhul) hangisidir?", "ipucu": "وُوفِقَ عَلَى ...", "secenekler": ["هَلْ وُوفِقَ عَلَى طَلَبِنَا؟", "هَلْ وُوفِقَتْ عَلَى طَلَبِنَا؟", "هَلْ وَافَقَ عَلَى طَلَبِنَا؟"], "dogruIndeks": 0, "aciklama": "وَافَقَ عَلَى → وُوفِقَ عَلَى (tekil eril!)." },
+        { "soruAr": "كَيْفَ نَقُولُ 'Dereceye giren öğrenciler ödüllendirilecek'؟", "soruTr": "'Öğrenciler ödüllendirilecek' hangisidir?", "ipucu": "سَيُكَرَّمُ الطُّلَّابُ (açık nâib-i fâil → fiil tekil!).", "secenekler": ["سَيُكَرَّمُ الطُّلَّابُ الْأَوَائِلُ.", "سَيُكَرَّمُونَ الطُّلَّابُ الْأَوَائِلُ.", "سَيُكَرِّمُ الطُّلَّابُ."], "dogruIndeks": 0, "aciklama": "Açık nâib-i fâilden önce fiil tekil meçhul olur: سَيُكَرَّمُ!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'On gün sonra açıklanması bekleniyor'؟", "soruTr": "'Açıklanması bekleniyor' hangisidir?", "ipucu": "يُتَوَقَّعُ أَنْ تُعْلَنَ ...", "secenekler": ["يُتَوَقَّعُ أَنْ تُعْلَنَ بَعْدَ عَشَرَةِ أَيَّامٍ.", "يَتَوَقَّعُ أَنْ تُعْلِنَ.", "تُتَوَقَّعُ أَنْ تُعْلَنُ."], "dogruIndeks": 0, "aciklama": "يُتَوَقَّعُ + أَنْ + mansub meçhul (تُعْلَنَ)!" },
+        { "soruAr": "مَا مَعْنَى «تُرْفَعُ الْأَبْحَاثُ عَلَى الْمِنَصَّةِ»؟", "soruTr": "'تُرْفَعُ الْأَبْحَاثُ عَلَى الْمِنَصَّةِ' ne demektir?", "ipucu": "رَفَعَ = dijitalde 'yüklemek (upload)'!", "secenekler": ["Araştırmalar platforma yükleniyor.", "Araştırmalar siliniyor.", "Araştırmalar satılıyor."], "dogruIndeks": 0, "aciklama": "تُرْفَعُ (akılsız çoğul dişil meçhul) = yükleniyor." }
+      ]
+    },
+    {
+      "id": "m18_d2",
+      "baslik": "Tarihî Şehir Turu: Rehberle Sorulu Cevaplı Gezi (بُنِيَ / أُعِيدَ / يُزَارُ)",
+      "ortam": "Turist rehberi ziyaretçilere tarihî bir kervansarayı tanıtıyor",
+      "replikler": [
+        { "konusan": "المرشد", "ar": "أَهْلًا بِكُمْ فِي هٰذَا الْخَانِ التَّارِيخِيِّ! بُنِيَ هٰذَا الْمَبْنَى الْعَرِيقُ فِي الْقَرْنِ السَّادِسَ عَشَرَ.", "okunus": "Ehlen bikum fî hâze'l-hâni't-târîhiyyi! Buniye hâze'l-mebne'l-‘arîku fi'l-karni's-sâdise ‘aşera.", "tr": "Bu tarihî hana hoş geldiniz! Bu köklü bina on altıncı yüzyılda inşa edildi." },
+        { "konusan": "مريم", "ar": "مَا أَجْمَلَهُ! وَلِأَيِّ غَرَضٍ كَانَ يُسْتَخْدَمُ فِي الْقَدِيمِ؟", "okunus": "Mâ ecmelehu! Ve li-eyyi garadin kâne yustahdemu fi'l-kadîmi?", "tr": "Ne kadar güzel! Peki eskiden ne amaçla kullanılırdı?" },
+        { "konusan": "المرشد", "ar": "كَانَ يُسْتَقْبَلُ فِيهِ التُّجَّارُ وَالْمُسَافِرُونَ مِنْ كُلِّ الْبُلْدَانِ، وَتُبَاعُ فِي سَاحَتِهِ الْأَقْمِشَةُ وَالتَّوَابِلُ وَالسَّجَّادُ!", "okunus": "Kâne yustakbelu fîhi't-tuccâru ve'l-musâfirûne min kulli'l-buldâni, ve tubâ‘u fî sâhatihi'l-akmişetu ve't-tevâbilu ve's-seccâdu!", "tr": "Orada tüm ülkelerden gelen tüccarlar ve yolcular ağırlanır, avlusunda kumaşlar, baharatlar ve halılar satılırdı!" },
+        { "konusan": "أحمد", "ar": "هَلْ تَمَّ تَرْمِيمُهُ حَدِيثًا؟ تَبْدُو أَحْجَارُهُ نَظِيفَةً وَمُتَمَاسِكَةً جِدًّا!", "okunus": "Hel temme termîmuhu hadîsen? Tebdû ahcâruhu nazîfeten ve mutemâsikaten cidden!", "tr": "Yakın zamanda restore edildi mi? Taşları çok temiz ve sağlam görünüyor!" },
+        { "konusan": "المرشد", "ar": "نَعَمْ، أُعِيدَ تَرْمِيمُهُ قَبْلَ خَمْسِ سَنَوَاتٍ بِإِشْرَافِ خُبَرَاءَ مُخْتَصِّينَ، وَحُوفِظَ عَلَى طِرَازِهِ الْأَصْلِيِّ تَمَامًا!", "okunus": "Ne‘am, u‘îde termîmuhu kable hamsi senevâtin bi-işrâfi huberâe muhtassîne, ve hûfiza ‘alâ tırâzihi'l-asliyyi temâmen!", "tr": "Evet, beş yıl önce uzmanların gözetiminde restorasyonu yeniden yapıldı ve özgün üslubu tamamen korundu!" },
+        { "konusan": "مريم", "ar": "وَمَاذَا يُوجَدُ فِي الطَّابَقِ الثَّانِي الْآنَ؟", "okunus": "Ve mâzâ yûcedu fi't-tâbikı's-sâni'l-âne?", "tr": "Peki şimdi ikinci katta ne bulunuyor?" },
+        { "konusan": "المرشد", "ar": "تُعْرَضُ فِيهِ الْحِرَفُ الْيَدَوِيَّةُ التَّقْلِيدِيَّةُ، وَتُقَدَّمُ لِلزُّوَّارِ دُرُوسٌ قَصِيرَةٌ فِي فَنِّ الْخَطِّ وَالْإِبْرُو!", "okunus": "Tu‘radu fîhi'l-hirafu'l-yedeviyyetu't-taklîdiyyetu, ve tukaddemu li'z-zuvvâri durûsun kasîratun fî fenni'l-hatti ve'l-ibrû!", "tr": "Orada geleneksel el sanatları sergileniyor ve ziyaretçilere hat ile ebru sanatında kısa dersler sunuluyor!" },
+        { "konusan": "أحمد", "ar": "هَلْ يُسْمَحُ بِالتَّصْوِيرِ دَاخِلَ الْقَاعَاتِ؟", "okunus": "Hel yusmehu bi't-tasvîri dâhile'l-kâ‘âti?", "tr": "Salonların içinde fotoğraf çekilmesine izin veriliyor mu?" },
+        { "konusan": "المرشد", "ar": "يُسْمَحُ بِالتَّصْوِيرِ بِدُونِ ضَوْءِ الْفِلَاشِ فَقَطْ، لِئَلَّا تَتَأَثَّرَ الْمَخْطُوطَاتُ الْقَدِيمَةُ!", "okunus": "Yusmehu bi't-tasvîri bi-dûni dav'i'l-filâşi fakat, li-ellâ teteessera'l-mahtûtâtu'l-kadîmetu!", "tr": "Eski el yazmaları etkilenmesin diye yalnızca flaş ışığı olmadan fotoğraf çekilmesine izin veriliyor!" },
+        { "konusan": "مريم", "ar": "قِيلَ لَنَا إِنَّ هٰذَا الْخَانَ يُعَدُّ مِنْ أَشْهَرِ مَعَالِمِ الْمَدِينَةِ؛ وَفِعْلًا يَسْتَحِقُّ الزِّيَارَةَ!", "okunus": "Kîle lenâ inne hâze'l-hâne yu‘addu min eşheri me‘âlimi'l-medîneti; ve fi‘len yestehıkku'z-ziyârate!", "tr": "Bize bu hanın şehrin en meşhur eserlerinden sayıldığı söylendi; gerçekten ziyarete değer!" },
+        { "konusan": "المرشد", "ar": "صَحِيحٌ! إِنَّهُ يُزَارُ كُلَّ عَامٍ مِنْ قِبَلِ مِئَاتِ الْآلَافِ مِنَ السُّيَّاحِ مِنْ شَتَّى أَنْحَاءِ الْعَالَمِ.", "okunus": "Sahîhun! İnnehu yuzâru kulle ‘âmin min kıbeli miâti'l-âlâfi mine's-suyyâhi min şettâ enhâi'l-‘âlemi.", "tr": "Doğru! Her yıl dünyanın dört bir yanından yüz binlerce turist tarafından ziyaret ediliyor." },
+        { "konusan": "أحمد", "ar": "شُكْرًا جَزِيلًا عَلَى هٰذِهِ الْمَعْلُومَاتِ الْقَيِّمَةِ يَا أُسْتَاذُ!", "okunus": "Şukran cezîlen ‘alâ hâzihi'l-ma‘lûmâti'l-kayyimeti yâ ustâzu!", "tr": "Bu kıymetli bilgiler için çok teşekkür ederiz beyefendi!" }
+      ],
+      "partner": [
+        { "soruAr": "كَيْفَ نَقُولُ 'İçeride fotoğraf çekilmesine izin veriliyor mu?'؟", "soruTr": "'Fotoğraf çekilmesine izin veriliyor mu?' (harf-i cerli meçhul) hangisidir?", "ipucu": "يُسْمَحُ بِـ ...", "secenekler": ["هَلْ يُسْمَحُ بِالتَّصْوِيرِ؟", "هَلْ تُسْمَحُ بِالتَّصْوِيرِ؟", "هَلْ يَسْمَحُ بِالتَّصْوِيرِ؟"], "dogruIndeks": 0, "aciklama": "سَمَحَ بِـ → يُسْمَحُ بِـ (harf-i cerli meçhul!)." },
+        { "soruAr": "كَيْفَ نَقُولُ 'Özgün üslubu korundu' (حَافَظَ عَلَى)؟", "soruTr": "'Özgün üslubu korundu' (III. bab harf-i cerli meçhul) hangisidir?", "ipucu": "حُوفِظَ عَلَى (ا → و!).", "secenekler": ["حُوفِظَ عَلَى طِرَازِهِ الْأَصْلِيِّ.", "حُافِظَ عَلَى طِرَازِهِ.", "حَافَظَ عَلَى طِرَازِهِ."], "dogruIndeks": 0, "aciklama": "حَافَظَ → حُوفِظَ عَلَى!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'İkinci katta ne bulunuyor?' (وَجَدَ → meçhul)؟", "soruTr": "'Ne bulunuyor?' (يُوجَدُ) hangisidir?", "ipucu": "يُوجَدُ = 'bulunur / vardır'.", "secenekler": ["مَاذَا يُوجَدُ فِي الطَّابَقِ الثَّانِي؟", "مَاذَا يَجِدُ فِي الطَّابَقِ؟", "مَاذَا وُجِدَتْ؟"], "dogruIndeks": 0, "aciklama": "يُوجَدُ (وَجَدَ'nin muzâri meçhulü: 'bulunuyor / var')!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Bize ... olduğu söylendi'؟", "soruTr": "'Bize ... olduğu söylendi' hangisidir?", "ipucu": "قِيلَ لَنَا إِنَّ ...", "secenekler": ["قِيلَ لَنَا إِنَّ هٰذَا الْخَانَ مَشْهُورٌ.", "قُولَ لَنَا أَنَّ هٰذَا الْخَانَ مَشْهُورٌ.", "قَالَ لَنَا إِنَّ."], "dogruIndeks": 0, "aciklama": "قِيلَ (ecvef meçhul) + إِنَّ (kesralı!)." },
+        { "soruAr": "مَا الْمَعْلُومُ مِنْ فِعْلِ «يُزَارُ»؟", "soruTr": "'يُزَارُ' (ziyaret ediliyor) meçhulünün etken muzârisi nedir?", "ipucu": "Ecvef ا ← و!", "secenekler": ["يَزُورُ (زَارَ — يَزُورُ)", "يَزِيدُ", "يَزْرَعُ"], "dogruIndeks": 0, "aciklama": "يَزُورُ → يُزَارُ!" }
+      ]
+    },
+    {
+      "id": "m18_d3",
+      "baslik": "Kargo Şirketi ve Müşteri Hizmetleri (أُرْسِلَ / سُجِّلَ / سَيُسَلَّمُ)",
+      "ortam": "Müşteri sipariş ettiği bilgisayarın durumunu kontrol ediyor",
+      "replikler": [
+        { "konusan": "الموظفة", "ar": "مَرْحَبًا بِكَ فِي خِدْمَةِ الْعُمَلَاءِ! كَيْفَ أُسَاعِدُكَ الْيَوْمَ؟", "okunus": "Merhaben bike fî hidmeti'l-‘umelâi! Keyfe usâ‘iduke'l-yevme?", "tr": "Müşteri hizmetlerine hoş geldiniz! Bugün size nasıl yardımcı olabilirim?" },
+        { "konusan": "خالد", "ar": "أَهْلًا! اِشْتَرَيْتُ حَاسُوبًا عَبْرَ مَوْقِعِكُمْ أَمْسِ، وَأُرِيدُ أَنْ أَعْرِفَ هَلْ شُحِنَ الطَّلَبُ أَمْ لَا؟", "okunus": "Ehlen! İşteraytu hâsûben ‘abra mevkı‘ikum emsi, ve urîdu en a‘rife hel şuhıne't-talebu em lâ?", "tr": "Merhaba! Dün sitenizden bir bilgisayar aldım; siparişin kargoya verilip verilmediğini öğrenmek istiyorum." },
+        { "konusan": "الموظفة", "ar": "بِكُلِّ سُرُورٍ! أَعْطِنِي رَقْمَ الطَّلَبِ مِنْ فَضْلِكَ كَيْ أَتَحَقَّقَ فِي النِّظَامِ.", "okunus": "Bi-kulli surûrin! A‘tınî rakme't-talebi min fadlike key etehakkaka fi'n-nizâmi.", "tr": "Memnuniyetle! Sistemden kontrol etmem için lütfen bana sipariş numarasını verin." },
+        { "konusan": "خالد", "ar": "تَفَضَّلِي: رَقْمُ الطَّلَبِ هُوَ تِسْعُمِئَةٍ وَأَرْبَعُونَ. هَلْ سُجِّلَ الْعُنْوَانُ الْجَدِيدُ بِشَكْلٍ صَحِيحٍ؟", "okunus": "Tefaddalî: rakmu't-talebi huve tis‘umietin ve erba‘ûne. Hel succile'l-‘unvânu'l-cedîdu bi-şeklin sahîhin?", "tr": "Buyurun: Sipariş numarası dokuz yüz kırk. Yeni adres doğru şekilde kaydedildi mi?" },
+        { "konusan": "الموظفة", "ar": "نَعَمْ، تَمَّ تَسْجِيلُ الْعُنْوَانِ بِدِقَّةٍ! وَقَدْ فُحِصَ الْجِهَازُ وَغُلِّفَ بِعِنَايَةٍ صَبَاحَ الْيَوْمِ.", "okunus": "Ne‘am, temme tescîlu'l-‘unvâni bi-dıkkatin! Ve kad fuhısa'l-cihâzu ve gullife bi-‘inâyetin sabâha'l-yevmi.", "tr": "Evet, adres titizlikle kaydedildi! Cihaz bugün sabah kontrol edildi ve özenle paketlendi." },
+        { "konusan": "خالد", "ar": "مُمْتَازٌ! وَهَلْ أُرْسِلَ إِلَى شَرِكَةِ التَّوْصِيلِ؟", "okunus": "Mumtâzun! Ve hel ursile ilâ şeriketi't-tevsîli?", "tr": "Harika! Peki teslimat şirketine gönderildi mi?" },
+        { "konusan": "الموظفة", "ar": "نَعَمْ، سُلِّمَ الطَّرْدُ لِشَرِكَةِ الشَّحْنِ قَبْلَ سَاعَةٍ، وَسَيُوصَلُ إِلَى بَيْتِكَ غَدًا قَبْلَ الظُّهْرِ بِإِذْنِ اللّٰهِ.", "okunus": "Ne‘am, sullime't-tardu li-şeriketi'ş-şahni kable sâ‘atin, ve se-yûsalu ilâ beytike gaden kable'z-zuhri bi-iznillâhi.", "tr": "Evet, paket bir saat önce kargo şirketine teslim edildi ve inşallah yarın öğleden önce evinize ulaştırılacak." },
+        { "konusan": "خالد", "ar": "هَلْ تُرْفَقُ شَهَادَةُ الضَّمَانِ مَعَ الْجِهَازِ دَاخِلَ الصُّنْدُوقِ؟", "okunus": "Hel turfaku şehâdetu'd-damâni me‘a'l-cihâzi dâhile's-sundûkı?", "tr": "Garanti belgesi kutunun içinde cihazla birlikte ekleniyor mu?" },
+        { "konusan": "الموظفة", "ar": "بِالتَّأْكِيدِ! تُوضَعُ شَهَادَةُ الضَّمَانِ وَالْفَاتُورَةُ دَاخِلَ الصُّنْدُوقِ، وَتُرْسَلُ نُسْخَةٌ رَقْمِيَّةٌ إِلَى بَرِيدِكَ أَيْضًا!", "okunus": "Bi't-te'kîdi! Tûda‘u şehâdetu'd-damâni ve'l-fâtûratu dâhile's-sundûkı, ve turselu nushatun rakmiyyetun ilâ berîdike eydan!", "tr": "Elbette! Garanti belgesi ve fatura kutunun içine konuyor ve e-postanıza da dijital bir kopya gönderiliyor!" },
+        { "konusan": "خالد", "ar": "وَإِذَا وُجِدَ أَيُّ عُطْلٍ فِي الْجِهَازِ، هَلْ يُمْكِنُ أَنْ يُسْتَبْدَلَ بِجِهَازٍ جَدِيدٍ؟", "okunus": "Ve izâ vucide eyyu ‘utlin fi'l-cihâzi, hel yumkinu en yustebdele bi-cihâzin cedîdin?", "tr": "Peki cihazda herhangi bir arıza bulunursa yeni bir cihazla değiştirilebilir mi?" },
+        { "konusan": "الموظفة", "ar": "طَبْعًا! يُسْتَبْدَلُ فَوْرًا خِلَالَ أَرْبَعَةَ عَشَرَ يَوْمًا دُونَ أَيِّ رُسُومٍ إِضَافِيَّةٍ!", "okunus": "Tab‘an! Yustebdelu fevran hilâle erba‘ate ‘aşera yevmen dûne eyyi rusûmin idâfiyyetin!", "tr": "Tabii ki! Herhangi bir ek ücret olmadan on dört gün içinde hemen değiştirilir!" },
+        { "konusan": "خالد", "ar": "خِدْمَةٌ رَائِعَةٌ! شُكْرًا جَزِيلًا لَكِ عَلَى هٰذِهِ الْمُسَاعَدَةِ!", "okunus": "Hidmetun râi‘atun! Şukran cezîlen leki ‘alâ hâzihi'l-musâ‘adeti!", "tr": "Harika hizmet! Bu yardımınız için çok teşekkür ederim!" }
+      ],
+      "partner": [
+        { "soruAr": "كَيْفَ نَقُولُ 'Cihaz kontrol edildi ve paketlendi'؟", "soruTr": "'Cihaz kontrol edildi ve paketlendi' hangisidir?", "ipucu": "فُحِصَ ... وَغُلِّفَ.", "secenekler": ["فُحِصَ الْجِهَازُ وَغُلِّفَ.", "فَحَصَ الْجِهَازُ وَغَلَّفَ.", "فُحِصَ الْجِهَازَ."], "dogruIndeks": 0, "aciklama": "Sülâsî meçhul (فُحِصَ) + II. bab meçhul (غُلِّفَ)!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Garanti belgesi kutuya konuyor' (وَضَعَ → meçhul)؟", "soruTr": "'Konuyor' (تُوضَعُ — misâl meçhul!) hangisidir?", "ipucu": "Misâl fiil muzâri meçhulde و geri döner: تُوضَعُ!", "secenekler": ["تُوضَعُ شَهَادَةُ الضَّمَانِ دَاخِلَ الصُّنْدُوقِ.", "تَضَعُ شَهَادَةُ الضَّمَانِ.", "وُضِعَ شَهَادَةُ الضَّمَانِ."], "dogruIndeks": 0, "aciklama": "تَضَعُ → meçhulde damme olduğu için و geri döner: تُوضَعُ!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Yeni bir cihazla değiştirilebilir mi?'؟", "soruTr": "'Değiştirilebilir mi?' (أَنْ + X. bab meçhul) hangisidir?", "ipucu": "أَنْ يُسْتَبْدَلَ (mansub meçhul!).", "secenekler": ["هَلْ يُمْكِنُ أَنْ يُسْتَبْدَلَ بِجِهَازٍ جَدِيدٍ؟", "هَلْ يُمْكِنُ أَنْ يَسْتَبْدِلَ؟", "هَلْ يُمْكِنُ أَنْ يُسْتَبْدَلُ؟"], "dogruIndeks": 0, "aciklama": "أَنْ + muzâri meçhul (mansub): يُسْتَبْدَلَ!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Dijital bir kopya gönderiliyor'؟", "soruTr": "'Gönderiliyor' (IV. bab dişil meçhul) hangisidir?", "ipucu": "تُرْسَلُ (fetha!), تُرْسِلُ değil!", "secenekler": ["تُرْسَلُ نُسْخَةٌ رَقْمِيَّةٌ.", "تُرْسِلُ نُسْخَةٌ رَقْمِيَّةٌ.", "تُرْسَلُ نُسْخَةً."], "dogruIndeks": 0, "aciklama": "IV. bab muzâri meçhul: تُرْسَلُ + merfû نُسْخَةٌ!" },
+        { "soruAr": "مَا مَعْنَى «سُلِّمَ الطَّرْدُ»؟", "soruTr": "'سُلِّمَ الطَّرْدُ' ne demektir?", "ipucu": "سَلَّمَ (teslim etti) → سُلِّمَ!", "secenekler": ["Paket teslim edildi.", "Paket selam verdi.", "Paket kayboldu."], "dogruIndeks": 0, "aciklama": "II. bab mâzi meçhul: سَلَّمَ → سُلِّمَ." }
+      ]
+    },
+    {
+      "id": "m18_d4",
+      "baslik": "Kültür Sohbeti: Mimar Sinan ve Klasik Eserler (وُلِدَ / تُوُفِّيَ / يُعَدُّ)",
+      "ortam": "İki arkadaş Süleymaniye Camii avlusunda Mimar Sinan'ın eserlerini konuşuyor",
+      "replikler": [
+        { "konusan": "عمر", "ar": "سُبْحَانَ اللّٰهِ يَا يُوسُفُ! يُعَدُّ جَامِعُ السُّلَيْمَانِيَّةِ تُحْفَةً مِعْمَارِيَّةً فَرِيدَةً فِي الْعَالَمِ!", "okunus": "Subhânallâhi yâ Yûsufu! Yu‘addu câmi‘u's-Suleymâniyyeti tuhfeten mi‘mâriyyeten ferîdeten fi'l-‘âlemi!", "tr": "Sübhanallah Yusuf! Süleymaniye Camii dünyada eşsiz bir mimari şaheser sayılır!" },
+        { "konusan": "يوسف", "ar": "صَدَقْتَ! هَلْ تَعْلَمُ مَتَى بُنِيَ هٰذَا الْجَامِعُ الْعَظِيمُ؟", "okunus": "Sadakte! Hel ta‘lemu metâ buniye hâze'l-câmi‘u'l-‘azîmu?", "tr": "Doğru söyledin! Bu büyük caminin ne zaman inşa edildiğini biliyor musun?" },
+        { "konusan": "عمر", "ar": "نَعَمْ، بُدِئَ بِنَاؤُهُ عَامَ ١٥٥٠ وَأُنْجِزَ فِي سَبْعِ سَنَوَاتٍ فَقَطْ، وَهُوَ مَا يُعْتَبَرُ مُعْجِزَةً هَنْدَسِيَّةً فِي ذٰلِكَ الْعَصْرِ!", "okunus": "Ne‘am, budie binâuhu ‘âme elfin ve hamsimietin ve hamsîne ve uncize fî seb‘i senevâtin fakat, ve huve mâ yu‘teberu mu‘cizeten hendesiyyeten fî zâlike'l-‘asri!", "tr": "Evet, inşasına 1550 yılında başlandı ve yalnızca yedi yılda tamamlandı; ki bu o çağda bir mühendislik mucizesi kabul edilir!" },
+        { "konusan": "يوسف", "ar": "وَكَيْفَ كَانَ يُسْمَعُ صَوْتُ الْإِمَامِ فِي كُلِّ زَاوِيَةٍ قَبْلَ اخْتِرَاعِ مُكَبِّرَاتِ الصَّوْتِ؟", "okunus": "Ve keyfe kâne yusme‘u savtu'l-imâmi fî kulli zâviyetin kable'htirâ‘i mukebbirâti's-savti?", "tr": "Peki hoparlörlerin icadından önce imamın sesi her köşede nasıl duyuluyordu?" },
+        { "konusan": "عمر", "ar": "وُضِعَتْ جِرَارٌ فَخَّارِيَّةٌ فَارِغَةٌ دَاخِلَ الْقُبَّةِ، فَيَنْتَشِرُ الصَّوْتُ بِوُضُوحٍ تَامٍّ وَيُسْمَعُ فِي أَبْعَدِ نُقْطَةٍ!", "okunus": "Vudi‘at cirârun fehhâriyyetun fârigatun dâhile'l-kubbeti, fe-yenteşiru's-savtu bi-vudûhin tâmmin ve yusme‘u fî eb‘adi nuktatın!", "tr": "Kubbenin içine boş toprak küpler yerleştirildi; böylece ses tam bir netlikle yayılır ve en uzak noktada bile duyulur!" },
+        { "konusan": "يوسف", "ar": "عَجِيبٌ! وَقِيلَ لِي أَيْضًا إِنَّ دُخَانَ الشُّمُوعِ كَانَ يُجْمَعُ فِي غُرْفَةٍ خَاصَّةٍ وَيُصْنَعُ مِنْهُ حِبْرٌ لِلْخَطَّاطِينَ!", "okunus": "‘Acîbun! Ve kîle lî eydan inne duhâne'ş-şumû‘i kâne yucme‘u fî gurfetin hâssatin ve yusne‘u minhu hibrun li'l-hattâtîne!", "tr": "Şaşırtıcı! Bana ayrıca mumların isinin özel bir odada toplandığı ve ondan hattatlar için mürekkep yapıldığı söylendi!" },
+        { "konusan": "عمر", "ar": "نَعَمْ هٰذَا صَحِيحٌ! وَتُعَدُّ «غُرْفَةُ السُّنَاجِ» دَلِيلًا رَائِعًا عَلَى عَبْقَرِيَّةِ الْمِعْمَارِ سِنَانٍ!", "okunus": "Ne‘am hâzâ sahîhun! Ve tu‘addu «gurfetu's-sunâci» delîlen râi‘an ‘alâ ‘abkariyyeti'l-mi‘mâri Sinânin!", "tr": "Evet bu doğru! 'İs Odası' Mimar Sinan'ın dehasının harika bir kanıtı sayılır!" },
+        { "konusan": "يوسف", "ar": "أَيْنَ وُلِدَ الْمِعْمَارُ سِنَانٌ، وَمَتَى تُوُفِّيَ رَحِمَهُ اللّٰهُ؟", "okunus": "Eyne vulide'l-mi‘mâru Sinânun, ve metâ tuvuffiye rahimehullâhu?", "tr": "Mimar Sinan nerede doğdu ve ne zaman vefat etti, Allah ona rahmet eylesin?" },
+        { "konusan": "عمر", "ar": "وُلِدَ فِي قَرْيَةِ أَغِيرْنَاسَ بِقَيْصَرِيَ، وَتُوُفِّيَ فِي إِسْطَنْبُولَ عَامَ ١٥٨٨ بَعْدَ أَنْ شُيِّدَتْ بِإِشْرَافِهِ مِئَاتُ الْمَسَاجِدِ وَالْجُسُورِ وَالْمَدَارِسِ!", "okunus": "Vulide fî karyeti Agîrnâse bi-Kaysari, ve tuvuffiye fî İstânbûle ‘âme elfin ve hamsimietin ve semâniyetin ve semânîne ba‘de en şuyyidet bi-işrâfihi miâtu'l-mesâcidi ve'l-cusûri ve'l-medârisi!", "tr": "Kayseri'nin Ağırnas köyünde doğdu ve gözetiminde yüzlerce cami, köprü ve medrese inşa edildikten sonra 1588 yılında İstanbul'da vefat etti!" },
+        { "konusan": "يوسف", "ar": "يُذْكَرُ أَنَّ ضَرِيحَهُ يُوجَدُ بِجِوَارِ هٰذَا الْجَامِعِ نَفْسِهِ، أَلَيْسَ كَذٰلِكَ؟", "okunus": "Yuzkeru enne darîhahu yûcedu bi-civâri hâze'l-câmi‘i nefsihi, e-leyse kezâlike?", "tr": "Türbesinin bizzat bu caminin hemen yanında bulunduğu belirtiliyor, öyle değil mi?" },
+        { "konusan": "عمر", "ar": "بَلَى! فَلْنَذْهَبْ وَنَزُرْهُ وَنَقْرَأْ لَهُ الْفَاتِحَةَ!", "okunus": "Belâ! Fel-nezheb ve nezurhu ve nekra' lehu'l-Fâtihate!", "tr": "Evet (aksine, öyle)! Haydi gidelim, onu ziyaret edelim ve ona Fatiha okuyalım!" },
+        { "konusan": "يوسف", "ar": "فِكْرَةٌ طَيِّبَةٌ، هَيَّا بِنَا يَا صَدِيقِي!", "okunus": "Fikratun tayyibetun, heyyâ binâ yâ sadîkî!", "tr": "Güzel fikir, haydi gidelim arkadaşım!" }
+      ],
+      "partner": [
+        { "soruAr": "كَيْفَ نَقُولُ 'Süleymaniye Camii eşsiz bir şaheser sayılır'؟", "soruTr": "'Eşsiz bir şaheser sayılır' (يُعَدُّ) hangisidir?", "ipucu": "يُعَدُّ + merfû + mansub (تُحْفَةً).", "secenekler": ["يُعَدُّ جَامِعُ السُّلَيْمَانِيَّةِ تُحْفَةً فَرِيدَةً.", "يَعُدُّ جَامِعُ السُّلَيْمَانِيَّةِ تُحْفَةٌ.", "تُعَدُّ جَامِعُ السُّلَيْمَانِيَّةِ."], "dogruIndeks": 0, "aciklama": "يُعَدُّ + merfû (جَامِعُ) + mansub (تُحْفَةً)!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'İmamın sesi her köşede duyuluyordu'؟", "soruTr": "'Ses duyuluyordu' (كَانَ + muzâri meçhul) hangisidir?", "ipucu": "كَانَ يُسْمَعُ صَوْتُ الْإِمَامِ.", "secenekler": ["كَانَ يُسْمَعُ صَوْتُ الْإِمَامِ.", "كَانَ يَسْمَعُ صَوْتُ الْإِمَامِ.", "كَانَ سُمِعَ صَوْتَ الْإِمَامِ."], "dogruIndeks": 0, "aciklama": "كَانَ + يُسْمَعُ (muzâri meçhul) + merfû صَوْتُ!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Nerede doğdu ve ne zaman vefat etti?'؟", "soruTr": "'Nerede doğdu ve ne zaman vefat etti?' hangisidir?", "ipucu": "وُلِدَ ... تُوُفِّيَ.", "secenekler": ["أَيْنَ وُلِدَ وَمَتَى تُوُفِّيَ؟", "أَيْنَ وَلَدَ وَمَتَى تَوَفَّى؟", "أَيْنَ يُولَدُ أَمْسِ؟"], "dogruIndeks": 0, "aciklama": "Biyografide daima meçhul: وُلِدَ / تُوُفِّيَ!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'İnşasına 1550 yılında başlandı' (بَدَأَ → meçhul)؟", "soruTr": "'Başlandı' (بَدَأَ'nın meçhulü) hangisidir?", "ipucu": "بُدِئَ (kesra sonrası hemze ئ üzerinde!).", "secenekler": ["بُدِئَ بِنَاؤُهُ عَامَ ١٥٥٠.", "بَدَأَ بِنَاؤُهُ.", "بُدَأَ بِنَاءَهُ."], "dogruIndeks": 0, "aciklama": "بَدَأَ → بُدِئَ (meçhul) + merfû بِنَاؤُهُ!" },
+        { "soruAr": "مَا مَعْنَى «شُيِّدَتْ مِئَاتُ الْمَسَاجِدِ»؟", "soruTr": "'شُيِّدَتْ مِئَاتُ الْمَسَاجِدِ' ne demektir?", "ipucu": "شَيَّدَ (inşa etti / yükseltti) → شُيِّدَ!", "secenekler": ["Yüzlerce cami inşa edildi.", "Yüzlerce cami kapandı.", "Yüzlerce cami boyandı."], "dogruIndeks": 0, "aciklama": "II. bab mâzi meçhul: شَيَّدَ → شُيِّدَتْ." }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "id": "m18_fc01", "ar": "الْمَبْنِيُّ لِلْمَجْهُولِ", "harekesiz": "المبني للمجهول", "okunus": "El-mebniyyu li'l-mechûli", "tr": "Edilgen (Meçhul) fiil çatısı", "kok": "ج ه ل", "vezin": "مَفْعُول", "turevler": ["الْمَبْنِيُّ لِلْمَعْلُومِ", "فُعِلَ / يُفْعَلُ"], "ekBilgi": "İşi yapan (fâil) bilinmediğinde veya eylem öne çıkarıldığında kullanılır", "ornek": "فُتِحَ الْبَابُ — يُفْتَحُ الْبَابُ.", "ornekTr": "Kapı açıldı — Kapı açılır.", "kullanimNotu": "Mâzi: sondan önceki kesra; Muzâri: sondan önceki fetha!", "tur": "Terim" },
+    { "id": "m18_fc02", "ar": "نَائِبُ الْفَاعِلِ", "harekesiz": "نائب الفاعل", "okunus": "Nâibu'l-fâ‘ili", "tr": "Sözde özne (Fâil vekili)", "kok": "ن و ب", "vezin": "فَاعِل", "turevler": ["نِيَابَة", "نُوَّاب"], "ekBilgi": "Meçhul fiilin yanında fâilin yerini alır ve daima MERFÛ olur!", "ornek": "كُرِّمَ الْمُهَنْدِسُونَ فِي الْحَفْلِ.", "ornekTr": "Mühendisler törende ödüllendirildi.", "kullanimNotu": "İsim, zamir, şibh-i cümle veya müevvel mastar olabilir.", "tur": "Terim" },
+    { "id": "m18_fc03", "ar": "قِيلَ — يُقَالُ", "harekesiz": "قيل — يقال", "okunus": "Kîle — yukâlu", "tr": "Denildi — Denilir / Söylenir", "kok": "ق و ل", "vezin": "فِيلَ — يُفَالُ (أَجْوَف)", "turevler": ["قِيلَ إِنَّ", "يُقَالُ إِنَّ"], "ekBilgi": "Ecvef meçhul modeli; ardından إِنَّ kesralı okunur!", "ornek": "يُقَالُ إِنَّ الصَّبْرَ مِفْتَاحُ الْفَرَجِ.", "ornekTr": "Sabrın ferahlığın anahtarı olduğu söylenir.", "kullanimNotu": "Mâzide ي, muzâride ا gelir!", "tur": "Fiil" },
+    { "id": "m18_fc04", "ar": "بِيعَ — يُبَاعُ", "harekesiz": "بيع — يباع", "okunus": "Bî‘a — yubâ‘u", "tr": "Satıldı — Satılır", "kok": "ب ي ع", "vezin": "فِيلَ — يُفَالُ (أَجْوَف)", "turevler": ["بِيعَتْ", "تُبَاعُ"], "ekBilgi": "بَاعَ — يَبِيعُ fiilinin meçhulüdür", "ornek": "تُبَاعُ الْكُتُبُ النَّادِرَةُ فِي هٰذَا السُّوقِ.", "ornekTr": "Nadir kitaplar bu çarşıda satılır.", "kullanimNotu": "Mağaza ve pazar bağlamında çok sık geçer.", "tur": "Fiil" },
+    { "id": "m18_fc05", "ar": "بُنِيَ — يُبْنَى", "harekesiz": "بني — يبنى", "okunus": "Buniye — yubnâ", "tr": "İnşa edildi — İnşa edilir", "kok": "ب ن ي", "vezin": "فُعِلَ — يُفْعَى (نَاقِص)", "turevler": ["بُنِيَتْ", "بِنَاء"], "ekBilgi": "Nâkıs meçhul modeli: mâzide ـِيَ, muzâride ـَى!", "ornek": "بُنِيَ هٰذَا الْجِسْرُ قَبْلَ قُرُونٍ.", "ornekTr": "Bu köprü yüzyıllar önce inşa edildi.", "kullanimNotu": "دُعِيَ — يُدْعَى (çağrıldı) da aynı modeldir.", "tur": "Fiil" },
+    { "id": "m18_fc06", "ar": "نُوقِشَ — يُنَاقَشُ", "harekesiz": "نوقش — يناقش", "okunus": "Nûkışe — yunâkaşu", "tr": "Tartışıldı — Tartışılır", "kok": "ن ق ش", "vezin": "فُوعِلَ — يُفَاعَلُ (III)", "turevler": ["شُوهِدَ", "وُوفِقَ", "قُوبِلَ"], "ekBilgi": "III. bab mâzi meçhulde dammeden dolayı ا → و dönüşür!", "ornek": "نُوقِشَتِ الْقَضِيَّةُ فِي الِاجْتِمَاعِ.", "ornekTr": "Mesele toplantıda tartışıldı.", "kullanimNotu": "III. bab meçhul imzası: فُوعِلَ!", "tur": "Fiil" },
+    { "id": "m18_fc07", "ar": "اُكْتُشِفَ — يُكْتَشَفُ", "harekesiz": "اكتشف — يكتشف", "okunus": "Uktuşife — yukteşefu", "tr": "Keşfedildi — Keşfedilir", "kok": "ك ش ف", "vezin": "اُفْتُعِلَ — يُفْتَعَلُ (VIII)", "turevler": ["اِكْتِشَاف", "مُكْتَشَف"], "ekBilgi": "VIII. bab mâzi meçhul: ilk ve 3. harf damme (اُكْتُشِفَ)!", "ornek": "اُكْتُشِفَتْ مَخْطُوطَةٌ نَادِرَةٌ أَمْسِ.", "ornekTr": "Dün nadir bir el yazması keşfedildi.", "kullanimNotu": "Bilim haberlerinin 1 numaralı meçhul fiilidir.", "tur": "Fiil" },
+    { "id": "m18_fc08", "ar": "اُسْتُخْدِمَ — يُسْتَخْدَمُ", "harekesiz": "استخدم — يستخدم", "okunus": "Ustuhdime — yustahdemu", "tr": "Kullanıldı — Kullanılır", "kok": "خ د م", "vezin": "اُسْتُفْعِلَ — يُسْتَفْعَلُ (X)", "turevler": ["اِسْتِخْدَام", "مُسْتَخْدَم"], "ekBilgi": "X. bab mâzi meçhul: اُسْتُـ + sondan önceki kesra!", "ornek": "يُسْتَخْدَمُ هٰذَا النِّظَامُ فِي الْمَدَارِسِ.", "ornekTr": "Bu sistem okullarda kullanılır.", "kullanimNotu": "Teknoloji ve YÖKDİL Fen metinlerinde çok sıktır.", "tur": "Fiil" },
+    { "id": "m18_fc09", "ar": "وُلِدَ — يُولَدُ", "harekesiz": "ولد — يولد", "okunus": "Vulide — yûledu", "tr": "Doğdu — Doğar", "kok": "و ل د", "vezin": "فُعِلَ — يُوعَلُ (مِثَال)", "turevler": ["مَوْلِد", "مِيلَاد"], "ekBilgi": "Biyografilerde 'doğdu' için daima meçhul وُلِدَ kullanılır!", "ornek": "وُلِدَ ابْنُ بَطُّوطَةَ فِي طَنْجَةَ.", "ornekTr": "İbn Battûta Tanca'da doğdu.", "kullanimNotu": "وَلَدَ (etken) = 'doğurdu' demektir!", "tur": "Fiil" },
+    { "id": "m18_fc10", "ar": "تُوُفِّيَ — يُتَوَفَّى", "harekesiz": "توفي — يتوفى", "okunus": "Tuvuffiye — yuteveffâ", "tr": "Vefat etti — Vefat eder", "kok": "و ف ي", "vezin": "تُفُعِّلَ (V + نَاقِص)", "turevler": ["وَفَاة", "مُتَوَفًّى"], "ekBilgi": "İnsan için daima meçhul تُوُفِّيَ (V. bab) okunur!", "ornek": "تُوُفِّيَ الْمِعْمَارُ سِنَانٌ عَامَ ١٥٨٨.", "ornekTr": "Mimar Sinan 1588 yılında vefat etti.", "kullanimNotu": "تَوَفَّى (etken) Allah'ın canı alması anlamındadır.", "tur": "Fiil" },
+    { "id": "m18_fc11", "ar": "أُصِيبَ — يُصَابُ بِـ", "harekesiz": "أصيب — يصاب بـ", "okunus": "Usîbe — yusâbu bi-", "tr": "(Hastalığa) yakalanmak / yaralanmak", "kok": "ص و ب", "vezin": "أُفِيلَ — يُفَالُ (IV + أَجْوَف)", "turevler": ["إِصَابَة", "مُصَاب"], "ekBilgi": "بِـ harf-i ceriyle (بِحُمَّى / بِجُرُوحٍ) kullanılır", "ornek": "أُصِيبَ اللَّاعِبُ فِي قَدَمِهِ أَثْنَاءَ الْمُبَارَاةِ.", "ornekTr": "Oyuncu maç sırasında ayağından sakatlandı.", "kullanimNotu": "YÖKDİL Sağlık ve haber metinlerinin demirbaşıdır!", "tur": "Fiil" },
+    { "id": "m18_fc12", "ar": "يُعَدُّ / يُعْتَبَرُ", "harekesiz": "يعد / يعتبر", "okunus": "Yu‘addu / Yu‘teberu", "tr": "Sayılır / kabul edilir", "kok": "ع د د", "vezin": "يُفَعُّ / يُفْتَعَلُ", "turevler": ["تُعَدُّ", "تُعْتَبَرُ"], "ekBilgi": "1. öğe merfû (nâib-i fâil), 2. öğe MANSUB gelir!", "ornek": "يُعَدُّ التَّعْلِيمُ أَسَاسَ التَّقَدُّمِ.", "ornekTr": "Eğitim ilerlemenin temeli sayılır.", "kullanimNotu": "YDS akademik paragraflarının en sık görülen fiilidir!", "tur": "Fiil" },
+    { "id": "m18_fc13", "ar": "نُظِرَ — يُنْظَرُ فِي", "harekesiz": "نظر — ينظر في", "okunus": "Nuzira — yunzeru fî", "tr": "İncelendi / (davaya) bakıldı", "kok": "ن ظ ر", "vezin": "فُعِلَ + فِي", "turevler": ["نَظَر", "مَنْظُور"], "ekBilgi": "Harf-i cerli meçhul olduğundan fiil daima 3. tekil eril kalır!", "ornek": "نُظِرَ فِي الطَّلَبَاتِ بِكُلِّ عَدَالَةٍ.", "ornekTr": "Başvurular tam bir adaletle incelendi.", "kullanimNotu": "Asla نُظِرَتْ فِي denmez!", "tur": "Fiil" },
+    { "id": "m18_fc14", "ar": "وُوفِقَ — يُوَافَقُ عَلَى", "harekesiz": "ووفق — يوافق على", "okunus": "Vûfika — yuvâfaku ‘alâ", "tr": "Onaylandı / kabul edildi", "kok": "و ف ق", "vezin": "فُوعِلَ + عَلَى", "turevler": ["مُوَافَقَة", "مُوَافِق"], "ekBilgi": "وَافَقَ عَلَى (III. bab) harf-i cerli meçhulüdür; daima tekil eril kalır", "ornek": "وُوفِقَ عَلَى الْخُطَّةِ الْجَدِيدَةِ بِالْإِجْمَاعِ.", "ornekTr": "Yeni plan oy birliğiyle onaylandı.", "kullanimNotu": "İki vâv (وُو) ile yazılır!", "tur": "Fiil" },
+    { "id": "m18_fc15", "ar": "أُشِيرَ — يُشَارُ إِلَى", "harekesiz": "أشير — يشار إلى", "okunus": "Uşîra — yuşâru ilâ", "tr": "İşaret edildi — İşaret edilmektedir", "kok": "ش و ر", "vezin": "أُفِيلَ — يُفَالُ (IV)", "turevler": ["يُشَارُ إِلَى أَنَّ", "إِشَارَة"], "ekBilgi": "يُشَارُ إِلَى أَنَّ = '... olduğuna işaret edilmektedir'", "ornek": "يُشَارُ إِلَى أَنَّ الْحَفْلَ سَيُنْقَلُ مُبَاشَرَةً.", "ornekTr": "Törenin canlı yayınlanacağına işaret edilmektedir.", "kullanimNotu": "Akademik ve haber dilinin temel köprüsüdür.", "tur": "Kalıp" },
+    { "id": "m18_fc16", "ar": "يُعْتَقَدُ أَنَّ", "harekesiz": "يعتقد أن", "okunus": "Yu‘tekadu enne", "tr": "... olduğuna inanılmaktadır", "kok": "ع ق د", "vezin": "يُفْتَعَلُ", "turevler": ["اِعْتِقَاد", "مُعْتَقَد"], "ekBilgi": "أَنَّ + cümle müevvel mastar olarak nâib-i fâil olur", "ornek": "يُعْتَقَدُ أَنَّ الْمَخْطُوطَةَ كُتِبَتْ فِي قُرْطُبَةَ.", "ornekTr": "El yazmasının Kurtuba'da yazıldığına inanılmaktadır.", "kullanimNotu": "YDS sosyal/tarih parçalarında çok sıktır.", "tur": "Kalıp" },
+    { "id": "m18_fc17", "ar": "يُذْكَرُ أَنَّ", "harekesiz": "يذكر أن", "okunus": "Yuzkeru enne", "tr": "... olduğu belirtilmektedir / kaydedilmektedir", "kok": "ذ ك ر", "vezin": "يُفْعَلُ", "turevler": ["الْمَذْكُور", "ذِكْر"], "ekBilgi": "Haberlerde ek bilgi eklerken ('Ayrıca belirtildiğine göre...') kullanılır", "ornek": "يُذْكَرُ أَنَّ الْمَعْرِضَ سَيَسْتَمِرُّ عَشَرَةَ أَيَّامٍ.", "ornekTr": "Fuarın on gün süreceği belirtilmektedir.", "kullanimNotu": "Basın Arapçasının en bilindik bağlayıcısıdır.", "tur": "Kalıp" },
+    { "id": "m18_fc18", "ar": "يُتَوَقَّعُ أَنْ / أَنَّ", "harekesiz": "يتوقع أن", "okunus": "Yutevakka‘u en / enne", "tr": "... olması beklenmektedir", "kok": "و ق ع", "vezin": "يُتَفَعَّلُ (V)", "turevler": ["تَوَقُّع", "مُتَوَقَّع"], "ekBilgi": "Fiille أَنْ, isim cümlesiyle أَنَّ kullanılır", "ornek": "يُتَوَقَّعُ أَنْ تَهْطُلَ الْأَمْطَارُ غَدًا.", "ornekTr": "Yarın yağmur yağması beklenmektedir.", "kullanimNotu": "Ekonomi, hava durumu ve analiz metinlerinde vazgeçilmezdir.", "tur": "Kalıp" },
+    { "id": "m18_fc19", "ar": "يُرْجَى أَنْ", "harekesiz": "يرجى أن", "okunus": "Yurcâ en", "tr": "... yapılması rica olunur", "kok": "ر ج و", "vezin": "يُفْعَى (نَاقِص)", "turevler": ["يُرْجَى مِنَ", "رَجَاء"], "ekBilgi": "Resmî tabela ve kamu duyurularının standart nezaket kalıbıdır", "ornek": "يُرْجَى مِنَ الزُّوَّارِ أَنْ يُحَافِظُوا عَلَى الْهُدُوءِ.", "ornekTr": "Ziyaretçilerden sessizliği korumaları rica olunur.", "kullanimNotu": "رَجَا — يَرْجُو fiilinin muzâri meçhulüdür.", "tur": "Kalıp" },
+    { "id": "m18_fc20", "ar": "تَمَّ / يَتِمُّ / سَيَتِمُّ + مَصْدَر", "harekesiz": "تم / يتم / سيتم", "okunus": "Temme / Yetimmu / Se-yetimmu", "tr": "Gerçekleştirildi / yapılıyor / yapılacak (Basın edilgeni)", "kok": "ت م م", "vezin": "فَعَّ — يَفِعُّ", "turevler": ["تَمَّ افْتِتَاحُ", "سَيَتِمُّ إِعْلَانُ"], "ekBilgi": "Arkasından gelen mastar تَمَّ'nin merfû fâilidir!", "ornek": "تَمَّ تَوْقِيعُ الِاتِّفَاقِيَّةِ أَمْسِ.", "ornekTr": "Anlaşma dün imzalandı.", "kullanimNotu": "Harekesiz basında etken/edilgen karışıklığını sıfırlar!", "tur": "Kalıp" },
+    { "id": "m18_fc21", "ar": "مِنْ قِبَلِ", "harekesiz": "من قبل", "okunus": "Min kıbeli", "tr": "... tarafından (Modern basın edilgeni)", "kok": "ق ب ل", "vezin": "جَارّ وَمَجْرُور", "turevler": ["مِنْ قِبَلِ اللَّجْنَةِ", "مِنْ قِبَلِ الْخُبَرَاءِ"], "ekBilgi": "قِـ kesralıdır! (مِنْ قَبْلُ fethalı = 'daha önce' ile karıştırmayın!)", "ornek": "أُعِدَّ التَّقْرِيرُ مِنْ قِبَلِ لَجْنَةٍ مُخْتَصَّةٍ.", "ornekTr": "Rapor uzman bir komite tarafından hazırlandı.", "kullanimNotu": "YDS çeviri sorularında 'tarafından' karşılığıdır.", "tur": "Kalıp" },
+    { "id": "m18_fc22", "ar": "يُوجَدُ / تُوجَدُ", "harekesiz": "يوجد / توجد", "okunus": "Yûcedu / Tûcedu", "tr": "Bulunuyor / vardır", "kok": "و ج د", "vezin": "يُوعَلُ (مِثَال)", "turevler": ["وُجِدَ", "وُجُود"], "ekBilgi": "وَجَدَ fiilinin muzâri meçhulü; misâl و geri döner!", "ornek": "تُوجَدُ مَكْتَبَةٌ كَبِيرَةٌ فِي الْحَيِّ.", "ornekTr": "Mahallede büyük bir kütüphane bulunuyor.", "kullanimNotu": "Arapçada 'var' demenin en akademik yollarından biridir.", "tur": "Fiil" },
+    { "id": "m18_fc23", "ar": "يُسْمَحُ بِـ", "harekesiz": "يسمح بـ", "okunus": "Yusmehu bi-", "tr": "...-e izin veriliyor / serbesttir", "kok": "س م ح", "vezin": "يُفْعَلُ + بِـ", "turevler": ["لَا يُسْمَحُ بِـ", "مَسْمُوح"], "ekBilgi": "Harf-i cerli meçhul; olumsuzu لَا يُسْمَحُ بِـ ('yasaktır / izin verilmez')", "ornek": "يُسْمَحُ بِالتَّصْوِيرِ بِدُونِ فِلَاشٍ.", "ornekTr": "Flaşsız fotoğraf çekilmesine izin veriliyor.", "kullanimNotu": "Kamusal kurallarda çok sık görülür.", "tur": "Kalıp" },
+    { "id": "m18_fc24", "ar": "لَا يُسْتَغْنَى عَنْهُ", "harekesiz": "لا يستغنى عنه", "okunus": "Lâ yustagnâ ‘anhu", "tr": "Vazgeçilmez / onsuz olunamaz", "kok": "غ ن ي", "vezin": "يُسْتَفْعَى (X + نَاقِص)", "turevler": ["اِسْتِغْنَاء", "غِنًى"], "ekBilgi": "X. bab harf-i cerli nâkıs meçhul deyimidir", "ornek": "يُعَدُّ الْمُعْجَمُ مَرْجِعًا لَا يُسْتَغْنَى عَنْهُ.", "ornekTr": "Sözlük vazgeçilmez bir kaynak sayılır.", "kullanimNotu": "YDS'de çok yüksek puan getiren akademik deyimdir!", "tur": "Kalıp" },
+    { "id": "m18_fc25", "ar": "أُعِيدَ — يُعَادُ", "harekesiz": "أعيد — يعاد", "okunus": "U‘îde — yu‘âdu", "tr": "İade edildi / yeniden yapıldı", "kok": "ع و د", "vezin": "أُفِيلَ — يُفَالُ (IV + أَجْوَف)", "turevler": ["إِعَادَة", "أُعِيدَ تَرْمِيمُهُ"], "ekBilgi": "أَعَادَ (geri verdi / tekrarladı) fiilinin meçhulüdür", "ornek": "أُعِيدَ تَرْمِيمُ الْخَانِ قَبْلَ خَمْسِ سَنَوَاتٍ.", "ornekTr": "Han beş yıl önce yeniden restore edildi.", "kullanimNotu": "أُعِيدَ + mastar = 'yeniden ... yapıldı'!", "tur": "Fiil" },
+    { "id": "m18_fc26", "ar": "أُتِيحَ — يُتَاحُ", "harekesiz": "أتيح — يتاح", "okunus": "Utîha — yutâhu", "tr": "İmkân tanındı / sunuldu", "kok": "ت ي ح", "vezin": "أُفِيلَ — يُفَالُ (IV + أَجْوَف)", "turevler": ["إِتَاحَة", "مُتَاح"], "ekBilgi": "لِـ harf-i ceriyle ('birine imkân sunulmak') kullanılır", "ornek": "أُتِيحَتِ الْكُتُبُ لِلطُّلَّابِ مَجَّانًا.", "ornekTr": "Kitaplar öğrencilere ücretsiz olarak sunuldu.", "kullanimNotu": "مُتَاحٌ = mevcut / erişilebilir.", "tur": "Fiil" },
+    { "id": "m18_fc27", "ar": "أُجْرِيَ — يُجْرَى", "harekesiz": "أجري — يجرى", "okunus": "Ucriye — yucrâ", "tr": "(Deney/tahlil/seçim) yapıldı / yürütüldü", "kok": "ج ر ي", "vezin": "أُفْعِلَ — يُفْعَى (IV + نَاقِص)", "turevler": ["إِجْرَاء", "أُجْرِيَتْ دِرَاسَةٌ"], "ekBilgi": "دِرَاسَة / تَجْرِبَة / فَحْص / اِنْتِخَابَات ile eşdizimlidir", "ornek": "تُجْرَى فُحُوصَاتٌ دَوْرِيَّةٌ فِي الْمَرَاكِزِ الصِّحِّيَّةِ.", "ornekTr": "Sağlık merkezlerinde düzenli taramalar yapılıyor.", "kullanimNotu": "YÖKDİL Sağlık/Fen'in en sık eşdizim fiilidir!", "tur": "Fiil" },
+    { "id": "m18_fc28", "ar": "أُخْتِيرَ — يُخْتَارُ", "harekesiz": "اختير — يختار", "okunus": "Uhtîra — yuhtâru", "tr": "Seçildi — Seçilir", "kok": "خ ي ر", "vezin": "اُفْتِيلَ — يُفْتَالُ (VIII)", "turevler": ["اِخْتِيَار", "مُخْتَار"], "ekBilgi": "اِخْتَارَ (VIII. bab ecvef) → meçhulü اُخْتِيرَ!", "ornek": "اُخْتِيرَ أَخُوكَ مُمَثِّلًا لِلطُّلَّابِ.", "ornekTr": "Kardeşin öğrenci temsilcisi seçildi.", "kullanimNotu": "Muzâride etken (يَخْتَارُ) ile meçhul (يُخْتَارُ) sadece ilk harekeyle ayrılır!", "tur": "Fiil" },
+    { "id": "m18_fc29", "ar": "مُنِحَ — يُمْنَحُ", "harekesiz": "منح — يمنح", "okunus": "Muniha — yumnehu", "tr": "(Ödül/burs) verildi / bahşedildi", "kok": "م ن ح", "vezin": "فُعِلَ — يُفْعَلُ", "turevler": ["مِنْحَة", "مَانِح"], "ekBilgi": "İki nesnelidir: 1. nesne merfû (kişi), 2. nesne mansub (ödül/burs)!", "ornek": "مُنِحَ الْفَائِزُ جَائِزَةً قَيِّمَةً.", "ornekTr": "Kazanana değerli bir ödül verildi.", "kullanimNotu": "أُعْطِيَ ile aynı 2 nesne kuralına uyar.", "tur": "Fiil" },
+    { "id": "m18_fc30", "ar": "كُرِّمَ — يُكَرَّمُ", "harekesiz": "كرم — يكرم", "okunus": "Kurrime — yukerramu", "tr": "Ödüllendirildi / onurlandırıldı", "kok": "ك ر م", "vezin": "فُعِّلَ — يُفَعَّلُ (II)", "turevler": ["تَكْرِيم", "كَرَم"], "ekBilgi": "Tören ve başarı haberlerinin klasik fiilidir", "ornek": "كُرِّمَ الطُّلَّابُ الْمُتَفَوِّقُونَ فِي الْحَفْلِ.", "ornekTr": "Üstün başarılı öğrenciler törende ödüllendirildi.", "kullanimNotu": "تَكْرِيمٌ = ödüllendirme / onurlandırma.", "tur": "Fiil" },
+    { "id": "m18_fc31", "ar": "تُرْجِمَ — يُتَرْجَمُ", "harekesiz": "ترجم — يترجم", "okunus": "Turcime — yutercemu", "tr": "Tercüme edildi — Tercüme edilir", "kok": "ت ر ج م", "vezin": "فُعْلِلَ — يُفَعْلَلُ (رُبَاعِيّ)", "turevler": ["تَرْجَمَة", "مُتَرْجِم"], "ekBilgi": "4 harfli (Rubâî) fiilin meçhul örneğidir (تُـ + رْ + جِـ + مَ)", "ornek": "تُرْجِمَ الْكِتَابُ إِلَى عَشَرَاتِ اللُّغَاتِ.", "ornekTr": "Kitap onlarca dile tercüme edildi.", "kullanimNotu": "إِلَى harf-i ceriyle ('...-e tercüme edilmek') kullanılır.", "tur": "Fiil" },
+    { "id": "m18_fc32", "ar": "يُلَاحَظُ أَنَّ", "harekesiz": "يلاحظ أن", "okunus": "Yulâhazu enne", "tr": "... olduğu gözlemlenmektedir", "kok": "ل ح ظ", "vezin": "يُفَاعَلُ (III)", "turevler": ["مُلَاحَظَة", "لُوحِظَ"], "ekBilgi": "III. bab muzâri meçhul (kesra يُلَاحِظُ = etken; fetha يُلَاحَظُ = edilgen!)", "ornek": "يُلَاحَظُ أَنَّ الْقِرَاءَةَ تُقَوِّي الذَّاكِرَةَ.", "ornekTr": "Okumanın hafızayı güçlendirdiği gözlemlenmektedir.", "kullanimNotu": "Bilimsel makale ve YDS'de çok yaygındır.", "tur": "Kalıp" }
+  ]
+}
