@@ -1,0 +1,1224 @@
+{
+  "id": "33",
+  "slug": "modul_33",
+  "phaseId": 3,
+  "cilt": 3,
+  "cefr": "B1",
+  "title": "Aksâm-ı Seb'a I: Mehmûz, Muzaaf ve Misâl Fiiller",
+  "arabicTitle": "أَقْسَامُ الْفِعْلِ (١): الْمَهْمُوزُ وَالْمُضَاعَفُ وَالْمِثَالُ",
+  "category": "Aksâm-ı Seb'a",
+  "summary": "Aksâm-ı Seb'a haritası; mehmûz fiiller (أَخَذَ/أَكَلَ/سَأَلَ/قَرَأَ), muzaaf fiillerde idğam ve idğam çözülmesi (مَدَّ/مَدَدْتُ/اُمْدُدْ), misâl-i vâvîde vav düşüşü (وَصَلَ/يَصِلُ/صِلْ) ile mezîd bablarda mehmûz/muzaaf/misâl çekimleri.",
+  "grammar": [
+    {
+      "id": "m33_g1",
+      "baslik": "Aksâm-ı Seb'a Haritası & Mehmûz Fiiller (الْمَهْمُوزُ: أَخَذَ – سَأَلَ – قَرَأَ)",
+      "arBaslik": "خَرِيطَةُ أَقْسَامِ الْفِعْلِ السَّبْعَةِ وَأَحْكَامُ الْمَهْمُوزِ",
+      "mantik": "Arapçada bütün fiiller kök harflerinde **illet harfi (`و، ي`)**, **hemze (`ء`)** veya **şedde (tekrarlı harf)** bulunup bulunmamasına göre **Aksâm-ı Seb'a (Yedi Fiil Kısmı)** adıyla 2 ana aile ve 7 sınıfa ayrılır: **(A) SAHÎH FİİLLER (Kökte `و/ي` yok!):** **(1) Sâlim** (`كَتَبَ`), **(2) Mehmûz** (kökünde `ء` var: `أَخَذَ، سَأَلَ، قَرَأَ`), **(3) Muzaaf** (2. ve 3. harfi aynı: `مَدَّ، شَدَّ، ظَنَّ`). **(B) MU'TEL / İLLETLİ FİİLLER (Kökte `و/ي` var!):** **(4) Misâl** (1. harf illetli: `وَصَلَ، وَعَدَ`), **(5) Ecvef** (2. harf illetli: `قَالَ، بَاعَ`), **(6) Nâkıs** (3. harf illetli: `دَعَا، رَمَى`), **(7) Lefîf** (2 harfi birden illetli: `وَقَى، شَوَى`)! **Şimdi Mehmûz (Hemzeli) Fiillerin 3 Sır Kuralına Bakalım:** Mehmûz fiiller (Mehmûzü'l-Fâ `أَخَذَ/أَكَلَ/أَمَرَ`, Mehmûzü'l-Ayn `سَأَلَ`, Mehmûzü'l-Lâm `قَرَأَ/بَدَأَ`) çekimde **%95 Sâlim fiil gibidir** — yalnızca **3 küçük ve çok meşhur ses kolaylaştırması (tahfîf)** yaparlar: **(1) Emirde Baştaki Hemzenin Düşmesi:** Çok sık kullanılan **3 fiilin** (`أَخَذَ، أَكَلَ، أَمَرَ`) emrinde hem vasıl hemzesi hem kök hemzesi birlikte düşer: **`خُذْ`** (al!), **`كُلْ`** (ye!), **`مُرْ`** (emret!)! *(Diğer mehmûzü'l-fâ fiillerde sakin hemze önceki harekeye uygun med harfine döner: `أَمِنَ → اِئْمَنْ → إِيمَنْ` [güven], `أَذِنَ → إِيذَنْ` [izin ver]!)* **(2) 1. Tekil Muzâride İki Hemzenin Uzaması (`أَأْـ → آـ`):** `أَخَذَ → أَأْخُذُ → آخُذُ` (alıyorum), `أَكَلَ → آكُلُ` (yiyorum), `أَمَرَ → آمُرُ` (emrediyorum), `آمَنَ → أُؤْمِنُ` (inanıyorum)! **(3) `سَأَلَ` (Sordu) Fiilinin İki Emri:** Hem düzenli **`اِسْأَلْ`** hem de hafifletilmiş **`سَلْ`** (ikisi de %100 fasihtir: `سَلْ عَمَّا شِئْتَ` = İstediğini sor)!",
+      "formul": "Mehmûz = %95 Sâlim! | 3 Özel Emir: أَخَذَ→خُذْ, أَكَلَ→كُلْ, أَمَرَ→مُرْ | 1. Tekil Muzâri: أَأْـ → آـ (آخُذُ، آكُلُ، آمُرُ) | سَأَلَ → اِسْأَلْ / سَلْ!",
+      "formulAr": "أَخَذَ – يَأْخُذُ – آخُذُ – خُذْ  |  أَكَلَ – يَأْكُلُ – آكُلُ – كُلْ  |  أَمَرَ – يَأْمُرُ – آمُرُ – مُرْ  |  سَأَلَ – اِسْأَلْ / سَلْ",
+      "tablo": {
+        "baslik": "Aksâm-ı Seb'a Haritası ve Mehmûz Fiillerin Özel Çekimleri",
+        "sutunlar": ["Mehmûz Türü", "Mâzi → Muzâri", "1. Tekil (أَنَا)", "Emir (أَنْتَ / أَنْتُمْ)"],
+        "satirlar": [
+          { "hucreler": ["Mehmûzü'l-Fâ (Özel 1)", "أَخَذَ → يَأْخُذُ", "آخُذُ (أَأْ → آ!)", "خُذْ / خُذُوا (hemze düştü!)"], "ar": "أَخَذَ – يَأْخُذُ – آخُذُ – خُذْ" },
+          { "hucreler": ["Mehmûzü'l-Fâ (Özel 2)", "أَكَلَ → يَأْكُلُ", "آكُلُ (أَأْ → آ!)", "كُلْ / كُلُوا (hemze düştü!)"], "ar": "أَكَلَ – يَأْكُلُ – آكُلُ – كُلْ" },
+          { "hucreler": ["Mehmûzü'l-Fâ (Özel 3)", "أَمَرَ → يَأْمُرُ", "آمُرُ (أَأْ → آ!)", "مُرْ / مُرُوا (veya وَأْمُرْ)"], "ar": "أَمَرَ – يَأْمُرُ – آمُرُ – مُرْ" },
+          { "hucreler": ["Mehmûzü'l-Fâ (Genel)", "أَذِنَ → يَأْذَنُ", "آذَنُ", "إِيذَنْ (اِئْذَنْ → med ي!)"], "ar": "أَذِنَ – يَأْذَنُ – إِيذَنْ" },
+          { "hucreler": ["Mehmûzü'l-Ayn", "سَأَلَ → يَسْأَلُ", "أَسْأَلُ", "اِسْأَلْ / سَلْ (ikisi câiz!)"], "ar": "سَأَلَ – يَسْأَلُ – اِسْأَلْ / سَلْ" },
+          { "hucreler": ["Mehmûzü'l-Lâm", "قَرَأَ → يَقْرَأُ / بَدَأَ → يَبْدَأُ", "أَقْرَأُ / أَبْدَأُ", "اِقْرَأْ / اِبْدَأْ (tam düzenli!)"], "ar": "قَرَأَ – يَقْرَأُ – اِقْرَأْ" }
+        ]
+      },
+      "trKiyas": "Kur'an'da her gün duyduğumuz **`كُلُوا وَاشْرَبُوا`** (Yiyiniz ve içiniz!), **`خُذِ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ`** (Affı esas al, iyiliği emret — A'râf 199), **`اِقْرَأْ بِاسْمِ رَبِّكَ`** (Rabbinin adıyla oku!) emirlerinin tamamı Mehmûz fiillerdir! Dikkat et: `أَمَرَ` fiilinin başına `وَ` geldiğinde Kur'an'da `وَأْمُرْ` şeklinde de okunabilir, başta ise `مُرْ` gelir!",
+      "sikHatalar": [
+        "أَخَذَ ve أَكَلَ fiillerinin emrini اُؤْخُذْ veya اُؤْكُلْ diye kurmaya çalışmak — bu üç fiilin tek geçerli emri ✓ خُذْ، كُلْ، مُرْ'dür!",
+        "1. tekil muzâriyi أَأْخُذُ / أَأْكُلُ diye iki hemzeyle yazmak — fethalı hemze + sakin hemze zorunlu olarak medli elife döner: ✓ آخُذُ، آكُلُ، آمُرُ!",
+        "قَرَأَ (sonu hemzeli) fiilini nâkıs sanıp emirde hemzeyi düşürmek (✗ اِقْرَ — ✓ اِقْرَأْ; hemze sahih harftir, asla düşmez!)."
+      ],
+      "ornekler": [
+        { "ar": "خُذْ هٰذَا الْكِتَابَ وَاقْرَأْهُ بِتَمَعُّنٍ، وَاسْأَلْ أُسْتَاذَكَ عَمَّا لَا تَفْهَمُهُ.", "okunus": "Huz hâze'l-kitâbe ve'kra’hu bi-teme‘‘unin, ve's’el ustâzeke ‘ammâ lâ tefhemuhû.", "tr": "Bu kitabı al, dikkatle oku ve anlamadığın şeyleri hocana sor.", "not": "خُذْ (أَخَذَ) + اِقْرَأْ (قَرَأَ) + اِسْأَلْ (سَأَلَ) — 3 mehmûz emri!" },
+        { "ar": "كُلُوا مِنَ الطَّيِّبَاتِ وَاشْكُرُوا اللّٰهَ عَلَى نِعَمِهِ الْكَثِيرَةِ.", "okunus": "Kulû mine't-tayyibâti ve'şkurullâhe ‘alâ ni‘amihi'l-kesîrati.", "tr": "Temiz rızıklardan yiyin ve çokça nimetleri için Allah'a şükredin.", "not": "أَكَلَ → كُلُوا (hemze düşmüş çoğul emir!)" },
+        { "ar": "أَنَا آخُذُ مَوَاعِيدِي بِجِدِّيَّةٍ، وَآكُلُ طَعَامًا صِحِّيًّا كُلَّ يَوْمٍ.", "okunus": "Ene âhuzu mevâ‘îdî bi-ciddiyyetin, ve âkulu ta‘âmen sıhhıyyen kulle yevmin.", "tr": "Ben randevularımı ciddiye alırım ve her gün sağlıklı yemek yerim.", "not": "آخُذُ / آكُلُ (أَأْ → آ med dönüşümü!)" },
+        { "ar": "مُرْ أَبْنَاءَكَ بِالصِّدْقِ وَالْأَمَانَةِ، وَابْدَأْ بِنَفْسِكَ فِي كُلِّ خَيْرٍ.", "okunus": "Mur ebnâ’eke bi's-sıdkı ve'l-emâneti, ve'bde’ bi-nefsike fî kulli hayrin.", "tr": "Çocuklarına doğruluğu ve güvenilirliği emret ve her hayırda kendinden başla.", "not": "أَمَرَ → مُرْ + بَدَأَ → اِبْدَأْ" },
+        { "ar": "سَلْ أَهْلَ الْخِبْرَةِ قَبْلَ أَنْ تَتَّخِذَ قَرَارًا مَصِيرِيًّا.", "okunus": "Sel ehle'l-hıbrati kable en tettehıze karâran masîriyyen.", "tr": "Hayati bir karar almadan önce uzmanlara sor.", "not": "سَأَلَ → سَلْ (hafifletilmiş fasih emir = اِسْأَلْ!)" },
+        { "ar": "إِيذَنْ لِي بِالدُّخُولِ يَا أُسْتَاذُ، فَعِنْدِي سُؤَالٌ هَامٌّ.", "okunus": "Îzen lî bi'd-duhûli yâ ustâzu, fe-‘indî su’âlun hâmmun.", "tr": "İçeri girmeme izin verin hocam, önemli bir sorum var.", "not": "أَذِنَ → اِئْذَنْ → إِيذَنْ (kesradan sonra sakin hemze ي olur!)" }
+      ],
+      "tatbikler": [
+        {
+          "id": "m33_t1",
+          "tip": "bosluk",
+          "soru": "'أَخَذَ، أَكَلَ، أَمَرَ' mehmûz fiillerinin 2. tekil müzekker EMİR hâlleri sırasıyla hangisidir?",
+          "secenekler": ["خُذْ – كُلْ – مُرْ (hemze düşer!)", "اُؤْخُذْ – اُؤْكُلْ – اُؤْمُرْ", "أَخِذْ – أَكِلْ – أَمِرْ", "آخُذْ – آكُلْ – آمُرْ"],
+          "dogruIndeks": 0,
+          "aciklama": "Çok kullanımdan ötürü أَخَذَ → خُذْ, أَكَلَ → كُلْ, أَمَرَ → مُرْ şeklinde kısalır."
+        },
+        {
+          "id": "m33_t2",
+          "tip": "bosluk",
+          "soru": "'أَخَذَ' ve 'أَكَلَ' fiillerinin 1. tekil şahıs (أَنَا) muzâri çekimleri hangisidir?",
+          "secenekler": ["آخُذُ – آكُلُ (أَأْ → آ!)", "أَأْخُذُ – أَأْكُلُ", "أَخُذُ – أَكُلُ", "أُوخُذُ – أُوكُلُ"],
+          "dogruIndeks": 0,
+          "aciklama": "Fethalı hemze + sakin hemze birleşince medli elif (آ) olur: آخُذُ، آكُلُ، آمُرُ."
+        },
+        {
+          "id": "m33_t3",
+          "tip": "bosluk",
+          "soru": "Aksâm-ı Seb'a sınıflandırmasında 'SAHÎH' fiiller hangi 3 gruptan oluşur?",
+          "secenekler": ["Sâlim, Mehmûz, Muzaaf (kökünde و/ي bulunmayanlar!)", "Misâl, Ecvef, Nâkıs", "Sâlim, Misâl, Lefîf", "Mehmûz, Ecvef, Nâkıs"],
+          "dogruIndeks": 0,
+          "aciklama": "Kökünde illet harfi (و/ي) olmayan Sâlim, Mehmûz ve Muzaaf fiiller SAHÎH gruptur!"
+        },
+        {
+          "id": "m33_t4",
+          "tip": "bosluk",
+          "soru": "'سَأَلَ' (sordu) fiilinin emr-i hâzır (أَنْتَ) için geçerli iki fasih şekli hangisidir?",
+          "secenekler": ["اِسْأَلْ ve سَلْ", "سُلْ ve أَسْأَلْ", "سَائِلْ ve اُسْأُلْ", "Sadece اُسْأُلْ"],
+          "dogruIndeks": 0,
+          "aciklama": "سَأَلَ emri hem düzenli اِسْأَلْ hem de hafifletilmiş سَلْ şeklinde gelir."
+        },
+        {
+          "id": "m33_t5",
+          "tip": "bosluk",
+          "soru": "'أَذِنَ – يَأْذَنُ' (izin verdi) fiilinin emr-i hâzırı ('izin ver!') nasıl yazılır ve okunur?",
+          "secenekler": ["إِيذَنْ (اِئْذَنْ → kesradan sonra sakin ء ي olur!)", "ذَنْ", "أَذِنْ", "آذَنْ"],
+          "dogruIndeks": 0,
+          "aciklama": "أَخَذَ/أَكَلَ/أَمَرَ dışındaki mehmûzü'l-fâ fiillerde sakin hemze med harfine döner: اِئْذَنْ → إِيذَنْ, اِئْمَنْ → إِيمَنْ."
+        },
+        {
+          "id": "m33_t6",
+          "tip": "bosluk",
+          "soru": "'قَرَأَ' (okudu) ve 'بَدَأَ' (başladı) fiilleri Mehmûz'un hangi alt sınıfındadır ve emirleri nasıldır?",
+          "secenekler": ["Mehmûzü'l-Lâm → اِقْرَأْ – اِبْدَأْ (sâlim gibi tamamen düzenli!)", "Mehmûzü'l-Fâ → قُرْ – بُدْ", "Nâkıs fiil → اِقْرَ – اِبْدَ", "Muzaaf fiil"],
+          "dogruIndeks": 0,
+          "aciklama": "Son harfi hemze olan Mehmûzü'l-Lâm fiiller sâlim gibi düzenli çekimlenir; hemze asla düşmez!"
+        },
+        {
+          "id": "m33_t7",
+          "tip": "hata",
+          "soru": "Hangi mehmûz fiil çekimi YANLIŞTIR?",
+          "secenekler": ["اُؤْكُلْ مِنَ الطَّعَامِ (✗ doğrusu: كُلْ!)", "آكُلُ طَعَامًا صِحِّيًّا", "خُذِ الْكِتَابَ وَاقْرَأْهُ", "سَلْ أَهْلَ الذِّكْرِ"],
+          "dogruIndeks": 0,
+          "aciklama": "أَكَلَ fiilinin emri daima كُلْ (çoğul: كُلُوا) şeklindedir."
+        },
+        {
+          "id": "m33_t8",
+          "tip": "bosluk",
+          "soru": "'لَمْ يَقْرَأْ' (okumadı) ifadesinde fiilin cezm alâmeti nedir?",
+          "secenekler": ["Sükûn (hemze sahih harftir, düşmez!)", "Hemzenin hazfi", "Nûn hazfi", "Fetha"],
+          "dogruIndeks": 0,
+          "aciklama": "Hemze illet harfi değil sahih harftir; cezm alâmeti açık sükûndur (يَقْرَأْ)."
+        },
+        {
+          "id": "m33_t9",
+          "tip": "bosluk",
+          "soru": "'أَمِلَ' (umut etti) fiilinin 1. tekil muzârisi ('umut ediyorum') nasıl yazılır?",
+          "secenekler": ["آمُلُ", "أَأْمُلُ", "أَمُلُ", "إِيمُلُ"],
+          "dogruIndeks": 0,
+          "aciklama": "أَأْمُلُ → آمُلُ (آ = ءَ + ءْ)."
+        },
+        {
+          "id": "m33_t10",
+          "tip": "ceviri",
+          "soru": "'خُذْ نَصِيحَتِي وَابْدَأْ بِالْعَمَلِ فَوْرًا' cümlesinin doğru çevirisi hangisidir?",
+          "secenekler": ["Tavsiyemi al ve hemen çalışmaya başla.", "Tavsiyemi sordun ve okudun.", "Tavsiyeni aldım ve bitirdim.", "Çalışmayı ertele ve bekle."],
+          "dogruIndeks": 0,
+          "aciklama": "خُذْ (al — أَخَذَ) ve اِبْدَأْ (başla — بَدَأَ)."
+        }
+      ]
+    },
+    {
+      "id": "m33_g2",
+      "baslik": "Muzaaf Fiiller (الْمُضَاعَفُ: مَدَّ – فَرَّ – ظَنَّ) — İdğam ve Şeddenin Çözülme Yasası!",
+      "arBaslik": "الْفِعْلُ الْمُضَاعَفُ الثُّلَاثِيُّ: الْإِدْغَامُ وَفَكُّ الْإِدْغَامِ فِي الْمَاضِي وَالْمُضَارِعِ وَالْأَمْرِ",
+      "mantik": "**Muzaaf Fiil (الْمُضَاعَفُ)**, 2. ve 3. kök harfi aynı olup şeddelenen (**idğam edilen**) sülâsî fiildir: `مَدَّ` (aslı `مَدَدَ` — uzattı), `شَدَّ` (sıktı), `مَرَّ` (geçti), `حَلَّ` (çözdü), `ظَنَّ` (zannetti), `فَرَّ` (kaçtı), `وَدَّ` (sevdi/istedi)! Muzaaf fiilleri %100 ustalıkla çekmenin **TEK BİR ALTIN ANAHTARI** vardır — **"Şedde Ne Zaman ÇÖZÜLÜR (Fekk-i İdğam)?"**: **(1) MÂZİDE:** 3. şahıslarda şedde **KORUNUR** (`مَدَّ، مَدَّا، مَدُّوا، مَدَّتْ، مَدَّتَا`), ama **sükûn üzere mebnî olan tüm harekeli fâil zamirlerinde (6–14. şahıslar!)** şedde **ZORUNLU ÇÖZÜLÜR**: `هُنَّ مَدَدْنَ` (uzattılar), `أَنْتَ مَدَدْتَ`, `أَنْتِ مَدَدْتِ`, `أَنْتُمْ مَدَدْتُمْ`, **`أَنَا مَدَدْتُ`**, **`نَحْنُ مَدَدْنَا`**! (`مَرَرْتُ` [geçtim], `ظَنَنْتُ` [zannettim], `حَلَلْتُ` [çözdüm]!) **(2) MUZÂRİDE:** Normal hâlde şedde **KORUNUR** (`يَمُدُّ، تَمُدُّ، يَمُدُّونَ، أَمُدُّ، نَمُدُّ`) — yalnızca **2 Nûn-ı Nisve şahsında** şedde **ZORUNLU ÇÖZÜLÜR**: **`هُنَّ يَمْدُدْنَ`**, **`أَنْتُنَّ تَمْدُدْنَ`**! **(3) CEZM (`لَمْ`) ve EMİRDE (`أَنْتَ`) — İKİSİ DE CÂİZ (MUHTEŞEM KOLAYLIK!):** Tekil cezm ve emirde **ister şeddeyi çöz (`لَمْ يَمْدُدْ` / `اُمْدُدْ` — sükûnlu klasik)**, **ister şeddeli bırak (`لَمْ يَمُدَّ` / `مُدَّ` — fethalı/hafif günlük!)** — **İKİSİ DE %100 FASİH VE DOĞRUDUR!** (Örnek: `مُرَّ بِالسَّلَامِ` = `اُمْرُرْ بِالسَّلَامِ`; `لَمْ يَمُرَّ` = `لَمْ يَمْرُرْ`; `فِرَّ` = `اِفْرِرْ`; `عُدَّ` = `اُعْدُدْ`! Yalnızca `أَنْتُنَّ` emrinde çözülme zorunludur: `اُمْدُدْنَ`!)",
+      "formul": "Mâzi: 3. şahıslar şeddeli (مَدَّ/مَدُّوا) | هُنَّ & 2.–1. şahıslar ÇÖZÜLÜR (مَدَدْتُ/مَدَدْنَا/مَدَدْنَ)! || Muzâri: يَمُدُّ — Nûn-ı Nisve ÇÖZÜLÜR (يَمْدُدْنَ)! || Cezm & Emir (Tekil): İKİSİ CÂİZ (لَمْ يَمُدَّ = لَمْ يَمْدُدْ | مُدَّ = اُمْدُدْ)!",
+      "formulAr": "مَدَّ – مَدَدْتُ – يَمُدُّ – يَمْدُدْنَ  |  لَمْ يَمُدَّ / لَمْ يَمْدُدْ  |  مُدَّ / اُمْدُدْ  |  مَرَرْتُ – ظَنَنْتُ – حَلَلْتُ",
+      "tablo": {
+        "baslik": "Muzaaf Fiillerde (1., 2. ve 4. Bab) İdğam ve Çözülme Tam Tablosu",
+        "sutunlar": ["Muzaaf Fiil (Babı)", "Mâzi (هُوَ / أَنَا)", "Muzâri (هُوَ / هُنَّ)", "Cezm (لَمْ) & Emir (2 Şekil!)"],
+        "satirlar": [
+          { "hucreler": ["مَدَّ (1. bab — uzattı)", "مَدَّ / مَدَدْتُ", "يَمُدُّ / يَمْدُدْنَ", "لَمْ يَمُدَّ (يَمْدُدْ) | مُدَّ (اُمْدُدْ)"], "ar": "مَدَّ – مَدَدْتُ – يَمُدُّ – مُدَّ / اُمْدُدْ" },
+          { "hucreler": ["مَرَّ (1. bab — geçti)", "مَرَّ / مَرَرْتُ", "يَمُرُّ / يَمْرُرْنَ", "لَمْ يَمُرَّ (يَمْرُرْ) | مُرَّ (اُمْرُرْ)"], "ar": "مَرَّ – مَرَرْتُ – يَمُرُّ – مُرَّ" },
+          { "hucreler": ["ظَنَّ (1. bab — zannetti)", "ظَنَّ / ظَنَنْتُ", "يَظُنُّ / يَظْنُنَّ", "لَمْ يَظُنَّ (يَظْنُنْ) | ظُنَّ (اُظْنُنْ)"], "ar": "ظَنَّ – ظَنَنْتُ – يَظُنُّ" },
+          { "hucreler": ["حَلَّ (1. bab — çözdü)", "حَلَّ / حَلَلْتُ", "يَحُلُّ / يَحْلُلْنَ", "لَمْ يَحُلَّ (يَحْلُلْ) | حُلَّ (اُحْلُلْ)"], "ar": "حَلَّ – حَلَلْتُ – يَحُلُّ – حُلَّ" },
+          { "hucreler": ["فَرَّ (2. bab — kaçtı)", "فَرَّ / فَرَرْتُ", "يَفِرُّ / يَفْرِرْنَ", "لَمْ يَفِرَّ (يَفْرِرْ) | فِرَّ (اِفْرِرْ)"], "ar": "فَرَّ – فَرَرْتُ – يَفِرُّ – فِرَّ / اِفْرِرْ" },
+          { "hucreler": ["وَدَّ / مَسَّ (4. bab)", "وَدَّ / وَدِدْتُ", "يَوَدُّ / يَوْدَدْنَ", "لَمْ يَمَسَّ (يَمْسَسْ) | مَسَّ (اِمْسَسْ)"], "ar": "وَدَّ – وَدِدْتُ – يَوَدُّ" }
+        ]
+      },
+      "trKiyas": "Arapça okurken öğrencilerin en çok heyecanlandığı an `مَرَرْتُ بِالْمَدِينَةِ` (Şehirden geçtim), `ظَنَنْتُ أَنَّكَ هُنَا` (Burada olduğunu sandım), `حَلَلْتُ الْمَسْأَلَةَ` (Problemi çözdüm) ve `شَدَّدْتُ / شَدَدْتُ` şekillerini gördüğü andır! Şeddeli bir fiili `أَنَا / نَحْنُ / أَنْتَ` için çekerken **şeddeyi ikiye açıp araya fetha (4. babda kesra: `وَدِدْتُ`) koymak** kulağa hemen doğal gelir!",
+      "sikHatalar": [
+        "1. ve 2. şahıs mâzide şeddeyi çözmemek (✗ مَرَّتُ / ظَنَّتُ / حَلَّتُ — ✓ مَرَرْتُ / ظَنَنْتُ / حَلَلْتُ; şedde mutlaka çözülür!).",
+        "لَمْ يَمُدَّ (meczûm!) kelimesinin sonundaki fethayı görüp bunu mansub sanmak — hayır! Muzaaf fiilin cezminde şedde korunursa fetha (veya orta harekeye uygun hareke) 'iki sakinin birleşmesini önlemek için' konur; kelime aslında MECZÛMDUR (لَمْ يَمُدَّ = لَمْ يَمْدُدْ)!",
+        "4. bab muzaaf fiili olan مَلَّ (usandı) ve وَدَّ (istedi) fiillerini مَلَلْتُ yerine مَلَلْتُ değil مَلِلْتُ (kesralı!) çekmeyi unutmak (`مَلِلْتُ، وَدِدْتُ`)."
+      ],
+      "ornekler": [
+        { "ar": "مَرَرْتُ بِالْمَكْتَبَةِ صَبَاحًا، وَحَلَلْتُ جَمِيعَ التَّمَارِينِ الصَّعْبَةِ بِنَفْسِي.", "okunus": "Merartu bi'l-mektebeti sabâhan, ve haleltu cemî‘a't-temârîni's-sa‘beti bi-nefsî.", "tr": "Sabah kütüphaneden geçtim ve tüm zor alıştırmaları kendi başıma çözdüm.", "not": "مَرَّ → مَرَرْتُ | حَلَّ → حَلَلْتُ (idğam çözülmesi!)" },
+        { "ar": "ظَنَنْتُ أَنَّ الِامْتِحَانَ صَعْبٌ، وَلٰكِنَّهُ كَانَ أَسْهَلَ مِمَّا ظَنَنَّا.", "okunus": "Zanentu enne'l-imtihâne sa‘bun, ve lâkinnehû kâne eshele mimmâ zanennâ.", "tr": "Sınavın zor olduğunu sandım ama sandığımızdan daha kolaydı.", "not": "ظَنَّ → ظَنَنْتُ / ظَنَنَّا" },
+        { "ar": "مُدَّ يَدَ الْعَوْنِ لِلْمُحْتَاجِينَ، وَلَا تَرُدَّ سَائِلًا أَبَدًا.", "okunus": "Mudde yede'l-‘avni li'l-muhtâcîne, ve lâ terudde sâ’ilen ebeden.", "tr": "Muhtaçlara yardım elini uzat ve bir isteyeni asla geri çevirme.", "not": "مُدَّ (= اُمْدُدْ) + لَا تَرُدَّ (= لَا تَرْدُدْ) — günlük şeddeli emir & nehiy!" },
+        { "ar": "لَمْ يَمُرَّ (أَوْ لَمْ يَمْرُرْ) عَلَى الْقَرْيَةِ شِتَاءٌ بِهٰذَا الْجَمَالِ مِنْ قَبْلُ.", "okunus": "Lem yemurra (ev lem yemrur) ‘ale'l-karyeti şitâ’un bi-hâze'l-cemâli min kablu.", "tr": "Köyden daha önce bu güzellikte bir kış geçmedi.", "not": "Muzaaf cezminde iki şekil de %100 fasihtir!" },
+        { "ar": "الطَّالِبَاتُ يَحْلُلْنَ الْمَسَائِلَ الرِّيَاضِيَّةَ بِدِقَّةٍ وَسُرْعَةٍ.", "okunus": "Et-tâlibâtu yahlulne'l-mesâ’ile'r-riyâdıyyete bi-dıkkatin ve sur‘atin.", "tr": "Kız öğrenciler matematik problemlerini hassasiyetle ve hızla çözüyorlar.", "not": "Nûn-ı Nisve → muzâride zorunlu çözülme: يَحْلُلْنَ!" },
+        { "ar": "وَدِدْتُ لَوْ تَزُورُونَنَا فِي الْعُطْلَةِ الصَّيْفِيَّةِ الْقَادِمَةِ.", "okunus": "Vedidtu lev tezûrûnenâ fi'l-‘utleti's-sayfiyyeti'l-kâdimeti.", "tr": "Gelecek yaz tatilinde bizi ziyaret etmenizi çok isterdim.", "not": "وَدَّ (4. bab) → وَدِدْتُ (orta harf kesralı çözülme!)" }
+      ],
+      "tatbikler": [
+        {
+          "id": "m33_t11",
+          "tip": "bosluk",
+          "soru": "'مَرَّ' (geçti) ve 'ظَنَّ' (zannetti) muzaaf fiillerinin 1. tekil mâzi (أَنَا) çekimleri hangisidir?",
+          "secenekler": ["مَرَرْتُ – ظَنَنْتُ (şedde çözülür!)", "مَرَّتُ – ظَنَّتُ", "مَرِتُ – ظَنِتُ", "أَمُرُّ – أَظُنُّ"],
+          "dogruIndeks": 0,
+          "aciklama": "Harekeli fâil zamirleri bitişince muzaaf mâzide şedde zorunlu olarak çözülür: مَرَرْتُ، ظَنَنْتُ."
+        },
+        {
+          "id": "m33_t12",
+          "tip": "bosluk",
+          "soru": "'حَلَّ – يَحُلُّ' (çözdü) fiilinin 'هُنَّ' (3. çoğul müennes) muzâri çekimi hangisidir?",
+          "secenekler": ["يَحْلُلْنَ (Nûn-ı Nisvede şedde çözülür!)", "يَحُلَّنَ", "يَحُلْنَ", "تَحُلُّونَ"],
+          "dogruIndeks": 0,
+          "aciklama": "Muzâride Nûn-ı Nisve bitiştiğinde idğam zorunlu çözülür: يَحْلُلْنَ / تَحْلُلْنَ."
+        },
+        {
+          "id": "m33_t13",
+          "tip": "bosluk",
+          "soru": "'مَدَّ – يَمُدُّ' fiilinin tekil emr-i hâzırı (أَنْتَ) için geçerli iki şekil hangisidir?",
+          "secenekler": ["مُدَّ ve اُمْدُدْ (ikisi de fasih!)", "مَدَّ ve اِمْدَدْ", "مُدْ ve مَادِدْ", "Sadece اِمْدِدْ"],
+          "dogruIndeks": 0,
+          "aciklama": "Muzaaf tekil emirde hem şeddeli (مُدَّ) hem çözülmüş (اُمْدُدْ) şekil %100 fasihtir."
+        },
+        {
+          "id": "m33_t14",
+          "tip": "bosluk",
+          "soru": "'لَمْ يَرُدَّ عَلَى الرِّسَالَةِ' cümlesinde 'يَرُدَّ' fiilinin i'rab hâli nedir?",
+          "secenekler": ["Meczûmdur (لَمْ sebebiyle; fetha idğamdan dolayı iki sakin çakışmasın diye konmuştur = لَمْ يَرْدُدْ)", "Mansubdur", "Merfûdur", "Mâzidir"],
+          "dogruIndeks": 0,
+          "aciklama": "لَمْ يَرُدَّ = لَمْ يَرْدُدْ (takdîrî sükûnla meczûmdur; son fetha mansubluk işareti değildir!)."
+        },
+        {
+          "id": "m33_t15",
+          "tip": "bosluk",
+          "soru": "4. bab muzaaf olan 'وَدَّ – يَوَدُّ' (istedi/sevdi) fiilinin 1. tekil mâzisi hangisidir?",
+          "secenekler": ["وَدِدْتُ (orta harf kesralı!)", "وَدَدْتُ", "وُدَّتُ", "وَدَّيْتُ"],
+          "dogruIndeks": 0,
+          "aciklama": "4. bab (فَعِلَ) olduğu için şedde çözülünce orta harf kesralı çıkar: وَدِدْتُ، مَلِلْتُ."
+        },
+        {
+          "id": "m33_t16",
+          "tip": "bosluk",
+          "soru": "'فَرَّ – يَفِرُّ' (kaçtı — 2. bab) fiilinin iki fasih emir şekli hangisidir?",
+          "secenekler": ["فِرَّ ve اِفْرِرْ", "فُرَّ ve اُفْرُرْ", "فَرَّ ve اِفْرَرْ", "فِرْ ve فِرِي"],
+          "dogruIndeks": 0,
+          "aciklama": "2. bab (يَفِرُّ kesralı) olduğu için emri فِرَّ veya اِفْرِرْ gelir (Kur'an: `فَفِرُّوا إِلَى اللّٰهِ`)."
+        },
+        {
+          "id": "m33_t17",
+          "tip": "hata",
+          "soru": "Hangi muzaaf fiil çekimi YANLIŞTIR?",
+          "secenekler": ["أَنَا حَلَّتُ الْمُشْكِلَةَ (✗ şedde çözülmemiş!)", "أَنَا حَلَلْتُ الْمُشْكِلَةَ", "هُمْ حَلُّوا الْمُشْكِلَةَ", "حُلَّ الْمُشْكِلَةَ بِهَدُوءٍ"],
+          "dogruIndeks": 0,
+          "aciklama": "1. tekil mâzide şedde mutlaka çözülür: حَلَلْتُ."
+        },
+        {
+          "id": "m33_t18",
+          "tip": "bosluk",
+          "soru": "'عَدَّ – يَعُدُّ' (saydı) fiilinin 'أَنْتُنَّ' (2. çoğul müennes) EMİR çekimi hangisidir?",
+          "secenekler": ["اُعْدُدْنَ (Nûn-ı Nisvede çözülme ZORUNLU!)", "عُدَّنَ", "عُدْنَ", "اُعْدُدُوا"],
+          "dogruIndeks": 0,
+          "aciklama": "Tekil emirde iki şekil câizken, أَنْتُنَّ emrinde Nûn-ı Nisveden dolayı çözülme zorunludur: اُعْدُدْنَ!"
+        },
+        {
+          "id": "m33_t19",
+          "tip": "bosluk",
+          "soru": "'مَدَّ' fiilinin 3. çoğul müzekker mâzisi ('uzattılar') nasıldır?",
+          "secenekler": ["مَدُّوا (شَدَّة korunur!)", "مَدَدُوا", "مَدُّونَ", "مَدَدْنَ"],
+          "dogruIndeks": 0,
+          "aciklama": "3. şahıs mâzilerde (هُوَ، هُمَا، هُمْ، هِيَ، هُمَا) idğam korunur: مَدَّ، مَدُّوا، مَدَّتْ."
+        },
+        {
+          "id": "m33_t20",
+          "tip": "ceviri",
+          "soru": "'مُدَّ يَدَ الْعَوْنِ لِلْمُحْتَاجِينَ وَلَا تَرُدَّ سَائِلًا' cümlesinin doğru çevirisi hangisidir?",
+          "secenekler": ["Muhtaçlara yardım elini uzat ve bir isteyeni geri çevirme.", "Muhtaçlar yardım elini uzattı.", "Yardım elini uzatmadın ve geri döndün.", "İsteyen kişiye soru sor."],
+          "dogruIndeks": 0,
+          "aciklama": "مُدَّ (uzat) ve لَا تَرُدَّ (geri çevirme) — iki şeddeli muzaaf emir/nehiy."
+        }
+      ]
+    },
+    {
+      "id": "m33_g3",
+      "baslik": "Misâl Fiiller (الْمِثَالُ: وَصَلَ – وَعَدَ – وَضَعَ) — Muzâri & Emirde Vav'ın Sihirli Düşüşü!",
+      "arBaslik": "الْفِعْلُ الْمِثَالُ الْوَاوِيُّ وَالْيَائِيُّ وَحَذْفُ الْوَاوِ فِي الْمُضَارِعِ وَالْأَمْرِ",
+      "mantik": "**Misâl Fiil (الْمِثَالُ)**, ilk kök harfi illet harfi (**`و`** → Misâl-i Vâvî: `وَصَلَ، وَعَدَ، وَقَفَ، وَجَدَ، وَضَعَ، وَقَعَ` veya **`ي`** → Misâl-i Yâî: `يَبِسَ، يَئِسَ، يَسَرَ`) olan fiildir! Neden adına **'Misâl' (benzeyen)** denmiştir? Çünkü **MÂZİDE tıpkı Sâlim fiil gibidir** — tek bir harfi bile değişmez (`وَصَلَ، وَصَلْتُ، وَصَلْنَا، وَصَلُوا`)! **İŞTE MİSÂL-İ VÂVÎNİN ALTIN YASASI:** **(1) Muzâri 2. Bab (`يَفْعِلُ` — orta harf kesralı!) veya Boğaz Harfli 3. Bab (`يَفْعَلُ`) ise Baştaki `و` DÜŞER!** Neden? Çünkü fethalı muzâraat harfi (`يَـ`) ile kesra (`ـِـ`) arasında sıkışan `و` telaffuzda ağırlaşır ve düşer: `وَصَلَ → يَوْصِلُ → يَصِلُ` (ulaşır), `وَعَدَ → يَعِدُ` (söz verir), `وَقَفَ → يَقِفُ` (durur), `وَجَدَ → يَجِدُ` (bulur), `وَزَنَ → يَزِنُ` (tartar), `وَثِقَ → يَثِقُ` (güvenir — 6. bab!), `وَضَعَ → يَضَعُ` (koyar — 3. bab!), `وَقَعَ → يَقَعُ` (düşer/bulunur — 3. bab!)! **(2) Emirde de `و` Düşük Kalır ve Vasıl Hemzesine Gerek Kalmaz!** Muzâri harfini atınca hemen okunabildiği için 2 harfli, şimşek gibi kısa emirler çıkar: `يَصِلُ → صِلْ` (ulaş/bağla!), `يَقِفُ → قِفْ` (dur!), `يَعِدُ → عِدْ` (söz ver!), `يَضَعُ → ضَعْ` (koy!), `يَجِدُ → جِدْ` (bul!), `يَثِقُ → ثِقْ` (güven!)! **(3) Mastarında Düşen `و` Yerine Sona `ة` Gelir:** `وَصَلَ → صِلَةٌ` (bağ), `وَعَدَ → عِدَةٌ`, `وَثِقَ → ثِقَةٌ` (güven!), `وَصَفَ → صِفَةٌ` (sıfat/nitelik!), `وَضَعَ → ضَعَةٌ`! **(4) Peki Misâl-i Vâvî'nin `و` Harfi NE ZAMAN DÜŞMEZ?** (a) 4. bab (`يَفْعَلُ`) ve 5. bab (`يَفْعُلُ`) ise: `وَجِلَ → يَوْجَلُ` (korkar), `وَسُمَ → يَوْسُمُ`; (b) **Misâl-i Yâî** ise (`يَئِسَ → يَيْأَسُ`, `يَبِسَ → يَيْبَسُ`); (c) **Meçhul Muzâri** ise (`وُجِدَ → يُوجَدُ` [bulunur!], `وُضِعَ → يُوضَعُ` [konulur!])!",
+      "formul": "Mâzi: Tam düzenli (وَصَلْتُ) | Muzâri (يَفْعِلُ / 3. bab): و DÜŞER (يَصِلُ، يَقِفُ، يَجِدُ، يَضَعُ) | Emir: Hemzesiz 2 harf (قِفْ، صِلْ، ضَعْ، ثِقْ)! | Mastar: +ة (ثِقَةٌ، صِفَةٌ، صِلَةٌ) | Meçhul: و KALIR (يُوجَدُ، يُوضَعُ)!",
+      "formulAr": "وَصَلَ – يَصِلُ – صِلْ – صِلَةٌ  |  وَقَفَ – يَقِفُ – قِفْ  |  وَضَعَ – يَضَعُ – ضَعْ  |  وَثِقَ – يَثِقُ – ثِقْ – ثِقَةٌ  |  يُوجَدُ",
+      "tablo": {
+        "baslik": "En Sık Kullanılan 6 Misâl-i Vâvî Fiilin Tam Çekim Tablosu",
+        "sutunlar": ["Mâzi (هُوَ)", "Muzâri (و Düşer!)", "Emir (2 Harf!)", "Meçhul Muzâri & Mastar"],
+        "satirlar": [
+          { "hucreler": ["وَصَلَ (ulaştı)", "يَصِلُ / أَصِلُ", "صِلْ / صِلُوا", "يُوصَلُ | وُصُولٌ / صِلَةٌ"], "ar": "وَصَلَ – يَصِلُ – صِلْ" },
+          { "hucreler": ["وَقَفَ (durdu)", "يَقِفُ / أَقِفُ", "قِفْ / قِفُوا", "يُوقَفُ | وُقُوفٌ"], "ar": "وَقَفَ – يَقِفُ – قِفْ" },
+          { "hucreler": ["وَجَدَ (buldu)", "يَجِدُ / أَجِدُ", "جِدْ / جِدُوا", "يُوجَدُ (bulunur!) | وُجُودٌ"], "ar": "وَجَدَ – يَجِدُ – جِدْ – يُوجَدُ" },
+          { "hucreler": ["وَعَدَ (söz verdi)", "يَعِدُ / أَعِدُ", "عِدْ / عِدُوا", "يُوعَدُ | وَعْدٌ / عِدَةٌ"], "ar": "وَعَدَ – يَعِدُ – عِدْ" },
+          { "hucreler": ["وَضَعَ (koydu — 3. bab)", "يَضَعُ / أَضَعُ", "ضَعْ / ضَعُوا", "يُوضَعُ (konulur!) | وَضْعٌ"], "ar": "وَضَعَ – يَضَعُ – ضَعْ – يُوضَعُ" },
+          { "hucreler": ["وَثِقَ (güvendi — 6. bab)", "يَثِقُ / أَثِقُ", "ثِقْ / ثِقُوا", "يُوثَقُ بِهِ | ثِقَةٌ (güven!)"], "ar": "وَثِقَ – يَثِقُ – ثِقْ – ثِقَةٌ" }
+        ]
+      },
+      "trKiyas": "Türkçede bildiğimiz `sıla (صِلَة — وَصَلَ'den), sıfat (صِفَة — وَصَفَ'den), hibe (هِبَة — وَهَبَ'den), sika (ثِقَة — وَثِقَ'den)` kelimelerinin tamamı başındaki `و` düşüp sonuna `ة` eklenmiş Misâl-i Vâvî mastarlardır! Ve sokak tabelalarında gördüğün **`قِفْ`** (DUR!), sınav yönergelerinde gördüğün **`ضَعْ عَلَامَةَ صَحٍّ`** (Doğru işareti koy!) ve **`صِلْ بَيْنَ الْعَمُودَيْنِ`** (İki sütunu eşleştir!) emirlerinin sırrı işte bu 2 harfli Misâl kuralıdır!",
+      "sikHatalar": [
+        "وَصَلَ / وَقَفَ / وَضَعَ fiillerinin muzârisinde و harfini bırakmak (✗ يَوْصِلُ / يَوْقِفُ / يَوْضَعُ — ✓ يَصِلُ / يَقِفُ / يَضَعُ!).",
+        "Emirde başına vasıl hemzesi koymak (✗ اِقِفْ / اِضَعْ / اِثِقْ — ✓ قِفْ / ضَعْ / ثِقْ; ilk harf zaten harekeli olduğu için vasıl hemzesi ASLA konmaz!).",
+        "يُوجَدُ (bulunur) meçhul muzârisini etken يَجِدُ ile karıştırmak — meçhul muzâride muzâraat harfi ötreli olduğu için و düşmez, geri döner: يُوجَدُ، يُوضَعُ، يُوصَفُ!"
+      ],
+      "ornekler": [
+        { "ar": "قِفْ عِنْدَ الْإِشَارَةِ الْحَمْرَاءِ، وَضَعْ حِزَامَ الْأَمَانِ قَبْلَ الْقِيَادَةِ.", "okunus": "Kıf ‘inde'l-işârati'l-hamrâ’i, ve da‘ hızâme'l-emâni kable'l-kıyâdeti.", "tr": "Kırmızı ışıkta dur ve sürüşten önce emniyet kemerini tak.", "not": "قِفْ (وَقَفَ) + ضَعْ (وَضَعَ) — 2 harfli Misâl emirleri!" },
+        { "ar": "ثِقْ بِنَفْسِكَ وَبِقُدُرَاتِكَ، فَسَتَجِدُ الطَّرِيقَ إِلَى النَّجَاحِ بِإِذْنِ اللّٰهِ.", "okunus": "Sık bi-nefsike ve bi-kudurâtike, fe-se-tecidu't-tarîka ile'n-necâhı bi-iznillâhi.", "tr": "Kendine ve yeteneklerine güven; Allah'ın izniyle başarıya giden yolu bulacaksın.", "not": "ثِقْ (وَثِقَ) + سَتَجِدُ (وَجَدَ)" },
+        { "ar": "يَصِلُ الْقِطَارُ السَّرِيعُ إِلَى الْمَحَطَّةِ فِي السَّاعَةِ التَّاسِعَةِ تَمَامًا.", "okunus": "Yesılu'l-kıtâru's-serî‘u ile'l-mahattati fi's-sâ‘ati't-tâsi‘ati temâmen.", "tr": "Hızlı tren istasyona tam saat dokuzda ulaşır.", "not": "وَصَلَ → يَصِلُ (و düştü!)" },
+        { "ar": "تَقَعُ مَدِينَةُ إِسْطَنْبُولَ بَيْنَ قَارَّتَيْ آسِيَا وَأُورُوبَّا، وَيُوجَدُ فِيهَا مَعَالِمُ تَارِيخِيَّةٌ عَرِيقَةٌ.", "okunus": "Teka‘u medînetu İstanbûle beyne kârratey Âsiyâ ve Ûrûbbâ, ve yûcedu fîhâ me‘âlimu târîhıyyetun ‘arîkatun.", "tr": "İstanbul şehri Asya ve Avrupa kıtaları arasında yer alır ve orada köklü tarihî eserler bulunur.", "not": "تَقَعُ (وَقَعَ etken: و düştü!) ≠ يُوجَدُ (وُجِدَ meçhul: و geri geldi!)" },
+        { "ar": "صِلْ رَحِمَكَ، وَعِدْ بِمَا تَسْتَطِيعُ الْوَفَاءَ بِهِ فَقَطْ.", "okunus": "Sıl rahımeke, ve ‘ıd bi-mâ testetî‘u'l-vefâ’e bihî fakat.", "tr": "Akrabalık bağını koru ve yalnızca yerine getirebileceğin şeye söz ver.", "not": "صِلْ (وَصَلَ) + عِدْ (وَعَدَ)" },
+        { "ar": "لَا يَيْأَسُ الْمُؤْمِنُ مِنْ رَحْمَةِ اللّٰهِ، وَلَا يَزِنُ النَّاسَ إِلَّا بِالْعَدْلِ.", "okunus": "Lâ yey’esu'l-mu’minu min rahmetillâhi, ve lâ yezinu'n-nâse illâ bi'l-‘adli.", "tr": "Mümin Allah'ın rahmetinden ümit kesmez ve insanları yalnızca adaletle tartar.", "not": "يَيْأَسُ (Misâl-i Yâî: ي düşmez!) ≠ يَزِنُ (وَزَنَ: و düştü!)" }
+      ],
+      "tatbikler": [
+        {
+          "id": "m33_t21",
+          "tip": "bosluk",
+          "soru": "'وَقَفَ، وَضَعَ، وَثِقَ' misâl-i vâvî fiillerinin 2. tekil emr-i hâzırları hangisidir?",
+          "secenekler": ["قِفْ – ضَعْ – ثِقْ", "اِقِفْ – اِضَعْ – اِثِقْ", "اُوقُفْ – اُوضُعْ – اِيثِقْ", "وَقِفْ – وَضَعْ – وَثِقْ"],
+          "dogruIndeks": 0,
+          "aciklama": "Muzâride (يَقِفُ، يَضَعُ، يَثِقُ) و düştüğü için emir hemzesiz 2 harf kalır: قِفْ، ضَعْ، ثِقْ."
+        },
+        {
+          "id": "m33_t22",
+          "tip": "bosluk",
+          "soru": "Etken 'يَجِدُ' (buluyor) ile meçhul 'يُوجَدُ' (bulunuyor) arasındaki şekil farkının sebebi nedir?",
+          "secenekler": ["Meçhul muzâride muzâraat harfi ötreli (يُـ) olduğu için و düşmez, sabit kalır (يُوجَدُ)", "يُوجَدُ IV. babdandır", "يَجِدُ nâkıs fiildir", "Fark yoktur"],
+          "dogruIndeks": 0,
+          "aciklama": "و yalnızca fethalı muzâraat harfi ile kesra (veya 3. bab fethası) arasında düşer; meçhul يُـ ile düşmez!"
+        },
+        {
+          "id": "m33_t23",
+          "tip": "bosluk",
+          "soru": "'ثِقَةٌ' (güven), 'صِفَةٌ' (sıfat), 'صِلَةٌ' (bağ), 'هِبَةٌ' (bağış) mastarlarının ortak kök özelliği nedir?",
+          "secenekler": ["Tamamı baştaki و'sı düşüp sonuna ة eklenmiş Misâl-i Vâvî mastarlardır (وَثِقَ، وَصَفَ، وَصَلَ، وَهَبَ)", "Tamamı Sınâî mastardır", "Tamamı Mastar-ı Nevidir", "Tamamı Rubâî mastardır"],
+          "dogruIndeks": 0,
+          "aciklama": "Misâl-i Vâvî fiillerin pek çoğunda düşen و yerine mastarın sonuna ة eklenir."
+        },
+        {
+          "id": "m33_t24",
+          "tip": "bosluk",
+          "soru": "Misâl-i Yâî olan 'يَئِسَ' (ümit kesti) ve 'يَبِسَ' (kurudu) fiillerinin muzârisinde ilk harf olan 'ي' düşer mi?",
+          "secenekler": ["HAYIR, Misâl-i Yâî fiillerde ي düşmez: يَيْأَسُ – يَيْبَسُ", "Evet, tıpkı و gibi düşer", "Sadece emirde düşer", "Sadece mâzide düşer"],
+          "dogruIndeks": 0,
+          "aciklama": "Muzâride ilk harf düşüşü yalnızca Misâl-i Vâvîye özgüdür; Misâl-i Yâîde ي sabit kalır (يَيْأَسُ)."
+        },
+        {
+          "id": "m33_t25",
+          "tip": "bosluk",
+          "soru": "'يَصِلُ' (ulaşıyor) fiilinin 'أَنْتُمْ' (siz) EMİR çekimi hangisidir?",
+          "secenekler": ["صِلُوا", "وَصِلُوا", "اِصِلُوا", "اُوصِلُوا"],
+          "dogruIndeks": 0,
+          "aciklama": "تَصِلُونَ → صِلُوا (و düşüktür, hemzesiz başlar, nûn hazfi üzere mebnî!)."
+        },
+        {
+          "id": "m33_t26",
+          "tip": "bosluk",
+          "soru": "'تَقَعُ الْجَامِعَةُ فِي وَسَطِ الْمَدِينَةِ' cümlesindeki 'تَقَعُ' fiilinin 3 harfli kökü hangisidir?",
+          "secenekler": ["و-ق-ع (وَقَعَ – يَقَعُ — Misâl-i Vâvî)", "ت-ق-ع", "ق-و-ع", "ق-ع-ي"],
+          "dogruIndeks": 0,
+          "aciklama": "تَقَعُ → muzâraat harfi ت atılınca 2 harf kalır (ق-ع); düşen harf baştaki و'dır: وَقَعَ!"
+        },
+        {
+          "id": "m33_t27",
+          "tip": "hata",
+          "soru": "Hangi Misâl fiil cümlesi YANLIŞTIR?",
+          "secenekler": ["اِقِفْ هُنَا وَيَوْضَعُ الْحَقِيبَةَ (✗ doğrusu: قِفْ / يَضَعُ!)", "قِفْ هُنَا وَضَعِ الْحَقِيبَةَ", "يُوضَعُ الْكِتَابُ عَلَى الرَّفِّ", "ثِقْ بِاللّٰهِ وَلَا تَيْأَسْ"],
+          "dogruIndeks": 0,
+          "aciklama": "وَقَفَ emri قِفْ, وَضَعَ etken muzârisi يَضَعُ şeklindedir."
+        },
+        {
+          "id": "m33_t28",
+          "tip": "bosluk",
+          "soru": "'وَرِثَ – يَرِثُ' (mirasçı oldu — 6. bab) fiilinin 'mirasçı ol!' emri hangisidir?",
+          "secenekler": ["رِثْ", "وَرِثْ", "اِرِثْ", "أَوْرِثْ"],
+          "dogruIndeks": 0,
+          "aciklama": "يَرِثُ → رِثْ (6. bab misâl-i vâvî: و düşer!)."
+        },
+        {
+          "id": "m33_t29",
+          "tip": "bosluk",
+          "soru": "'وَصَفَ' (betimledi/tarif etti) fiilinin 1. tekil muzârisi ('tarif ediyorum') hangisidir?",
+          "secenekler": ["أَصِفُ", "أَوْصِفُ", "أَصْفُ", "آصِفُ"],
+          "dogruIndeks": 0,
+          "aciklama": "وَصَفَ → يَصِفُ → أَصِفُ (و düşer!)."
+        },
+        {
+          "id": "m33_t30",
+          "tip": "ceviri",
+          "soru": "'ضَعْ عَلَامَةَ صَحٍّ وَصِلْ بَيْنَ الْعَمُودَيْنِ' sınav yönergesinin doğru çevirisi hangisidir?",
+          "secenekler": ["Doğru işareti koy ve iki sütunu eşleştir.", "Doğru işareti sil ve iki sütunu oku.", "Soruyu yaz ve cevabı bul.", "Dur ve iki sütuna bak."],
+          "dogruIndeks": 0,
+          "aciklama": "ضَعْ (koy — وَضَعَ) ve صِلْ (bağla/eşleştir — وَصَلَ)."
+        }
+      ]
+    },
+    {
+      "id": "m33_g4",
+      "baslik": "Mezîd Bablarda Mehmûz, Muzaaf ve Misâl — YDS/YÖKDİL'in En Kritikleri!",
+      "arBaslik": "الْمَهْمُوزُ وَالْمُضَاعَفُ وَالْمِثَالُ فِي الْأَبْوَابِ الْمَزِيدَةِ",
+      "mantik": "Modern Arapça metinlerde karşımıza çıkan **`آمَنَ` (inandı), `أَحَبَّ` (sevdi), `اِسْتَمَرَّ` (devam etti), `اِتَّصَلَ` (iletişim kurdu), `اِتَّفَقَ` (anlaştı), `اِتَّخَذَ` (edindi), `أَوْصَلَ` (ulaştırdı), `إِيجَادٌ` (bulma)** gibi dev frekanslı kelimelerin nereden geldiğini şimdi 4 kristal yasayla çözeceğiz: **(1) IV. Bab Mehmûzü'l-Fâ (`أَأْـ → آـ`):** `أَمِنَ` → IV. bab `أَأْمَنَ` → **`آمَنَ – يُؤْمِنُ – إِيمَانًا`** (inandı / iman)! `أَثَرَ` → **`آثَرَ – يُؤْثِرُ – إِيثَارًا`** (tercih etti / diğerkâmlık)! Mastarda kesradan sonra sakin hemze `ي` olur: `إِئْمَانًا → إِيمَانًا`! **(2) IV., VIII. ve X. Bablarda Muzaaf:** Şedde korunur, sadece sakin zamirde çözülür: IV. bab **`أَحَبَّ – يُحِبُّ – إِحْبَابًا`** (`أَحْبَبْتُ` = sevdim!), **`أَعَدَّ – يُعِدُّ – إِعْدَادًا`** (hazırladı — `أَعْدَدْتُ`), VIII. bab **`اِهْتَمَّ – يَهْتَمُّ – اِهْتِمَامًا`** (`اِهْتَمَمْتُ`!), X. bab **`اِسْتَمَرَّ – يَسْتَمِرُّ – اِسْتِمْرَارًا`** (`اِسْتَمْرَرْتُ`!), **`اِسْتَعَدَّ – يَسْتَعِدُّ – اِسْتِعْدَادًا`** (hazırlandı)! **(3) IV. ve X. Bablarda Misâl-i Vâvî (Mastarda `و → ي`!):** IV. bab `وَصَلَ` → **`أَوْصَلَ – يُوصِلُ – إِيصَالًا`** (ulaştırdı! Mastar: `إِوْصَال → إِيصَال`!), `وَجَدَ` → **`أَوْجَدَ – يُوجِدُ – إِيجَادًا`** (icâd/var etti), X. bab `وَرَدَ` → **`اِسْتَوْرَدَ – يَسْتَوْرِدُ – اِسْتِيرَادًا`** (ithal etti!), `وَعَبَ` → **`اِسْتَوْعَبَ – يَسْتَوْعِبُ – اِسْتِيعَابًا`** (kavradı!)! **(4) VIII. Babda Misâl-i Vâvî ve `أَخَذَ` (`و/ء + ت → تَّ` İbdâli!):** Modül 27'den hatırladığın süper yasa: `و-ص-ل` → `اِوْتَصَلَ` → **`اِتَّصَلَ – يَتَّصِلُ – اِتِّصَالًا`** (iletişim kurdu), `و-ف-ق` → **`اِتَّفَقَ – يَتَّفِقُ – اِتِّفَاقًا`** (anlaştı), `و-ح-د` → **`اِتَّحَدَ – يَتَّحِدُ – اِتِّحَادًا`** (birleşti), `أ-خ-ذ` → **`اِتَّخَذَ – يَتَّخِذُ – اِتِّخَاذًا`** (edindi/aldı)!",
+      "formul": "IV Mehmûz: آمَنَ–يُؤْمِنُ–إِيمَانًا | IV/VIII/X Muzaaf: أَحَبَّ (أَحْبَبْتُ), اِهْتَمَّ (اِهْتَمَمْتُ), اِسْتَمَرَّ (اِسْتَمْرَرْتُ) | IV/X Misâl Mastar (و→ي): إِيصَالٌ، إِيجَادٌ، اِسْتِيرَادٌ، اِسْتِيعَابٌ | VIII Misâl (و+ت→تّ): اِتَّصَلَ، اِتَّفَقَ، اِتَّخَذَ!",
+      "formulAr": "آمَنَ – إِيمَانًا  |  أَحَبَّ – أَحْبَبْتُ  |  اِسْتَمَرَّ – اِسْتِمْرَارًا  |  اِسْتَوْعَبَ – اِسْتِيعَابًا  |  اِتَّصَلَ – اِتِّصَالًا",
+      "tablo": {
+        "baslik": "Mezîd Bablarda Mehmûz, Muzaaf ve Misâl Yüksek Frekans Matrisi",
+        "sutunlar": ["Kök & Tür", "Bab & Mâzi", "1. Tekil / Muzâri", "Mastar (Ses Değişimi!)"],
+        "satirlar": [
+          { "hucreler": ["أ-م-ن (Mehmûz)", "IV: آمَنَ (أَأْمَنَ)", "آمَنْتُ / يُؤْمِنُ", "إِيمَانًا (إِئْمَان → إِيمَان!)"], "ar": "آمَنَ – يُؤْمِنُ – إِيمَانًا" },
+          { "hucreler": ["أ-خ-ذ (Mehmûz)", "VIII: اِتَّخَذَ (ء+ت→تّ)", "اِتَّخَذْتُ / يَتَّخِذُ", "اِتِّخَاذًا (karar alma)"], "ar": "اِتَّخَذَ – يَتَّخِذُ – اِتِّخَاذًا" },
+          { "hucreler": ["ح-ب-ب / ع-د-د (Muzaaf)", "IV: أَحَبَّ / أَعَدَّ", "أَحْبَبْتُ / يُحِبُّ", "إِحْبَابًا / إِعْدَادًا (şedde çözülür!)"], "ar": "أَعَدَّ – أَعْدَدْتُ – إِعْدَادًا" },
+          { "hucreler": ["م-ر-ر / ع-د-د (Muzaaf)", "X: اِسْتَمَرَّ / اِسْتَعَدَّ", "اِسْتَمْرَرْتُ / يَسْتَمِرُّ", "اِسْتِمْرَارًا / اِسْتِعْدَادًا"], "ar": "اِسْتَمَرَّ – اِسْتَمْرَرْتُ – اِسْتِمْرَارًا" },
+          { "hucreler": ["و-ص-ل / و-ر-د (Misâl)", "IV: أَوْصَلَ / X: اِسْتَوْرَدَ", "يُوصِلُ / يَسْتَوْرِدُ", "إِيصَالًا / اِسْتِيرَادًا (و → ي!)"], "ar": "أَوْصَلَ – إِيصَالًا | اِسْتَوْرَدَ – اِسْتِيرَادًا" },
+          { "hucreler": ["و-ص-ل / و-ف-ق (Misâl)", "VIII: اِتَّصَلَ / اِتَّفَقَ", "يَتَّصِلُ / يَتَّفِقُ", "اِتِّصَالًا / اِتِّفَاقًا (و+ت→تّ!)"], "ar": "اِتَّصَلَ – اِتِّصَالًا | اِتَّفَقَ – اِتِّفَاقًا" }
+        ]
+      },
+      "trKiyas": "Türkçede her gün kullandığımız **`iman (إِيمَان), icat (إِيجَاد), izah (إِيضَاح), istiap haddi (اِسْتِيعَاب), ittifak (اِتِّفَاق), ittihat (اِتِّحَاد), istimrar (اِسْتِمْرَار), istidat (اِسْتِعْدَاد), ihtimam (اِهْتِمَام)`** kelimelerinin tamamı bu tablodaki 4 mezîd dönüşüm yasasının canlı ürünleridir! Artık `اِسْتِيعَابٌ` görünce kökünün `و-ع-ب` (`اِسْتَوْعَبَ`), `إِيضَاحٌ` görünce kökünün `و-ض-ح` (`أَوْضَحَ`) olduğunu 1 saniyede göreceksin!",
+      "sikHatalar": [
+        "أَحَبَّ (sevdi — IV. bab) fiilinin 1. tekil mâzisini أَحَبَّتُ veya حَبَّيْتُ yapmak — fasih doğrusu ✓ أَحْبَبْتُ (`أَحْبَبْتُ هٰذَا الْكِتَابَ` = Bu kitabı sevdim)!",
+        "أَوْضَحَ (açıkladı) ve اِسْتَوْعَبَ (kavradı) fiillerinin mastarlarını إِوْضَاح / اِسْتِوْعَاب yazmak — kesradan sonra sakin و mutlaka ي olur: ✓ إِيضَاحٌ / اِسْتِيعَابٌ!",
+        "اِتَّصَلَ / اِتَّفَقَ / اِتَّجَهَ fiillerinin kökünü ت-ص-ل veya ت-ف-ق sanıp sözlükte 'ت' harfinde aramak — kökleri Misâl-i Vâvîdir: و-ص-ل، و-ف-ق، و-ج-ه!"
+      ],
+      "ornekler": [
+        { "ar": "أَحْبَبْتُ اللُّغَةَ الْعَرَبِيَّةَ مُنْذُ صِغَرِي، وَأَعْدَدْتُ خُطَّةً وَاضِحَةً لِإِتْقَانِهَا.", "okunus": "Ahbebtu'l-lugate'l-‘arabiyyete munzu sıgarî, ve a‘dedtu huttaten vâdıhaten li-itkânihâ.", "tr": "Küçüklüğümden beri Arapçayı sevdim ve onu kusursuz öğrenmek için açık bir plan hazırladım.", "not": "أَحَبَّ → أَحْبَبْتُ | أَعَدَّ → أَعْدَدْتُ (IV. bab muzaaf çözülmesi!)" },
+        { "ar": "اِسْتَوْعَبَ الطُّلَّابُ الدَّرْسَ اِسْتِيعَابًا كَامِلًا بَعْدَ إِيضَاحِ الْمُعَلِّمِ لِلْأَمْثِلَةِ.", "okunus": "İstev‘abe't-tullâbu'd-derse'stî‘âben kâmilen ba‘de îdâhı'l-mu‘allimi li'l-emsileti.", "tr": "Öğretmenin örnekleri açıklamasından sonra öğrenciler dersi tam olarak kavradılar.", "not": "اِسْتَوْعَبَ → اِسْتِيعَابًا | أَوْضَحَ → إِيضَاح (و → ي!)" },
+        { "ar": "اِسْتَمْرَرْتُ فِي التَّدْرِيبِ الْيَوْمِيِّ وَاسْتَعْدَدْتُ جَيِّدًا لِاخْتِبَارِ اللُّغَةِ.", "okunus": "İstemrartu fi't-tedrîbi'l-yevmiyyi ve'sta‘dedtu ceyyiden li'htibâri'l-lugati.", "tr": "Günlük pratiğe devam ettim ve dil sınavına iyi hazırlandım.", "not": "اِسْتَمَرَّ → اِسْتَمْرَرْتُ | اِسْتَعَدَّ → اِسْتَعْدَدْتُ (X. bab muzaaf!)" },
+        { "ar": "آمَنَ الْمُسْلِمُ بِاللّٰهِ إِيمَانًا صَادِقًا، وَآثَرَ الْخَيْرَ وَالْعَدْلَ فِي حَيَاتِهِ.", "okunus": "Âmene'l-muslimu billâhi îmânen sâdıkan, ve âsera'l-hayra ve'l-‘adle fî hayâtihî.", "tr": "Müslüman Allah'a samimi bir imanla inandı ve hayatında hayrı ve adaleti tercih etti.", "not": "IV. bab mehmûz: آمَنَ → إِيمَانًا | آثَرَ → إِيثَارًا" },
+        { "ar": "اِتَّصَلْتُ بِالْمُدِيرِ صَبَاحًا، وَاتَّفَقْنَا عَلَى اتِّخَاذِ خُطُوَاتٍ عَمَلِيَّةٍ فَوْرًا.", "okunus": "İttesaltu bi'l-mudîri sabâhan, ve'ttefaknâ ‘ale'ttihâzi hutuvâtin ‘ameliyyetin fevran.", "tr": "Sabah müdürle iletişime geçtim ve hemen pratik adımlar atma konusunda anlaştık.", "not": "VIII. bab ibdâl: و-ص-ل → اِتَّصَلَ | و-ف-ق → اِتَّفَقَ | أ-خ-ذ → اِتَّخَذَ!" },
+        { "ar": "أَوْصَلَتِ الشَّرِكَةُ الْمُنْتَجَاتِ بِإِيصَالٍ رَسْمِيٍّ بَعْدَ إِيجَادِ حَلٍّ لِلشَّحْنِ.", "okunus": "Evsaleti'ş-şeriketu'l-muntecâti bi-îsâlin rasmiyyin ba‘de îcâdi hallin li'ş-şahnı.", "tr": "Şirket kargo için bir çözüm bulduktan sonra ürünleri resmî makbuzla (teslimle) ulaştırdı.", "not": "أَوْصَلَ → إِيصَال | أَوْجَدَ → إِيجَاد (IV. bab misâl mastarı!)" }
+      ],
+      "tatbikler": [
+        {
+          "id": "m33_t31",
+          "tip": "bosluk",
+          "soru": "'أَحَبَّ' (IV. bab muzaaf — sevdi) ve 'أَعَدَّ' (hazırladı) fiillerinin 1. tekil mâzi (أَنَا) çekimleri hangisidir?",
+          "secenekler": ["أَحْبَبْتُ – أَعْدَدْتُ (şedde çözülür!)", "أَحَبَّتُ – أَعَدَّتُ", "حَبَّيْتُ – عَدَّيْتُ", "أُحِبُّ – أُعِدُّ"],
+          "dogruIndeks": 0,
+          "aciklama": "Mezîd muzaaf fiillerde de harekeli fâil zamiri bitişince şedde çözülür: أَحْبَبْتُ، أَعْدَدْتُ."
+        },
+        {
+          "id": "m33_t32",
+          "tip": "bosluk",
+          "soru": "'اِسْتَوْعَبَ' (X. bab misâl — kavradı) ve 'أَوْضَحَ' (IV. bab misâl — açıkladı) fiillerinin mastarları hangisidir?",
+          "secenekler": ["اِسْتِيعَابٌ – إِيضَاحٌ (kesradan sonra و → ي!)", "اِسْتِوْعَابٌ – إِوْضَاحٌ", "اِسْتَعَابٌ – أَوْضَاحٌ", "تَوْعِيبٌ – تَوْضِيحٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "Kesradan sonra sakin و harfi ي'ya dönüşür: اِسْتِيعَابٌ، اِسْتِيرَادٌ، إِيضَاحٌ، إِيجَادٌ، إِيصَالٌ!"
+        },
+        {
+          "id": "m33_t33",
+          "tip": "bosluk",
+          "soru": "'اِتَّصَلَ' (iletişim kurdu), 'اِتَّفَقَ' (anlaştı) ve 'اِتَّخَذَ' (edindi) fiillerinin 3 harfli kökleri sırasıyla hangisidir?",
+          "secenekler": ["و-ص-ل  /  و-ف-ق  /  أ-خ-ذ", "ت-ص-ل  /  ت-ف-ق  /  ت-خ-ذ", "ص-ل-ي  /  ف-ق-ه  /  خ-ذ-ل", "و-ت-ص  /  و-ت-ف  /  أ-ت-خ"],
+          "dogruIndeks": 0,
+          "aciklama": "VIII. babda misâl و harfi (ve أ-خ-ذ'deki ء) ت ile birleşerek şeddeli تّ olur!"
+        },
+        {
+          "id": "m33_t34",
+          "tip": "bosluk",
+          "soru": "'آمَنَ' (IV. bab mehmûz — inandı) fiilinin muzârisi ve mastarı hangisidir?",
+          "secenekler": ["يُؤْمِنُ – إِيمَانًا", "يَآمِنُ – آمَانًا", "يُومِنُ – إِئْمَانًا", "يَأْمَنُ – أَمْنًا"],
+          "dogruIndeks": 0,
+          "aciklama": "IV. bab أَأْمَنَ → آمَنَ – يُؤْمِنُ – إِيمَانًا."
+        },
+        {
+          "id": "m33_t35",
+          "tip": "bosluk",
+          "soru": "'اِسْتَمَرَّ' (X. bab muzaaf — devam etti) fiilinin 1. çoğul mâzisi (نَحْنُ) ve mastarı hangisidir?",
+          "secenekler": ["اِسْتَمْرَرْنَا – اِسْتِمْرَارًا", "اِسْتَمَرَّنَا – اِسْتِمَرَّارًا", "اِسْتَمِرْنَا – مَرَارًا", "مَرَرْنَا – اِسْتَمَارًا"],
+          "dogruIndeks": 0,
+          "aciklama": "Sakin zamirde ve X. bab mastarında şedde çözülür: اِسْتَمْرَرْنَا / اِسْتِمْرَارًا."
+        },
+        {
+          "id": "m33_t36",
+          "tip": "bosluk",
+          "soru": "'اِهْتَمَّ' (VIII. bab muzaaf — ilgilendi) fiilinin 'أَنَا' mâzisi ve 'هُنَّ' muzârisi hangisidir?",
+          "secenekler": ["اِهْتَمَمْتُ – يَهْتَمِمْنَ", "اِهْتَمَّتُ – يَهْتَمَّنَ", "هَمَمْتُ – يَهْمُمْنَ", "اِهْتَمَيْتُ – يَهْتَمُونَ"],
+          "dogruIndeks": 0,
+          "aciklama": "VIII. bab muzaafta harekeli zamir ve Nûn-ı Nisvede idğam çözülür: اِهْتَمَمْتُ / يَهْتَمِمْنَ."
+        },
+        {
+          "id": "m33_t37",
+          "tip": "hata",
+          "soru": "Hangi mezîd çekim veya mastar YANLIŞTIR?",
+          "secenekler": ["اِسْتَوْرَدَ → اِسْتِوْرَادٌ (✗ doğrusu: اِسْتِيرَادٌ!)", "أَوْجَدَ → إِيجَادٌ", "اِسْتَعَدَّ → اِسْتَعْدَدْتُ", "آثَرَ → إِيثَارٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "X. bab misâl mastarında kesradan sonra و mutlaka ي olur: اِسْتِيرَادٌ (ithalat)."
+        },
+        {
+          "id": "m33_t38",
+          "tip": "bosluk",
+          "soru": "'أَعَدَّ – يُعِدُّ' (IV. bab muzaaf) fiilinin İsm-i Fâil ('hazırlayan') ve İsm-i Mef'ûlü ('hazırlanmış') hangisidir?",
+          "secenekler": ["مُعِدٌّ – مُعَدٌّ", "مُعْدِدٌ – مُعْدَدٌ", "عَادٌّ – مَعْدُودٌ", "مُسْتَعِدٌّ – مُسْتَعَدٌّ"],
+          "dogruIndeks": 0,
+          "aciklama": "يُعِدُّ → مُعِدٌّ (hazırlayan — ع kesralı); يُعَدُّ → مُعَدٌّ (hazırlanmış — ع fethalı)."
+        },
+        {
+          "id": "m33_t39",
+          "tip": "bosluk",
+          "soru": "'اِتَّضَحَ' (açığa çıktı — VIII. bab) fiilinin 3 harfli kökü hangisidir?",
+          "secenekler": ["و-ض-ح (Misâl-i Vâvî: اِوْتَضَحَ → اِتَّضَحَ)", "ت-ض-ح", "ض-ح-ي", "أ-ض-ح"],
+          "dogruIndeks": 0,
+          "aciklama": "وَضَحَ kökünden VIII. bab: اِتَّضَحَ (açığa çıktı), mastarı اِتِّضَاحٌ."
+        },
+        {
+          "id": "m33_t40",
+          "tip": "ceviri",
+          "soru": "'اِسْتَوْعَبَ الطُّلَّابُ الدَّرْسَ بَعْدَ إِيضَاحِ الْمُعَلِّمِ' cümlesinin doğru çevirisi hangisidir?",
+          "secenekler": ["Öğrenciler öğretmenin açıklamasından sonra dersi kavradılar.", "Öğretmen öğrencilerin dersini unuttu.", "Öğrenciler dersi henüz okumadılar.", "Öğretmen sınıftan hemen çıktı."],
+          "dogruIndeks": 0,
+          "aciklama": "اِسْتَوْعَبَ (kavradı — X. bab misâl) ve إِيضَاح (açıklama — IV. bab misâl mastarı)."
+        }
+      ]
+    },
+    {
+      "id": "m33_g5",
+      "baslik": "Kök Çözümleme & Sözlük Ustalığı — Mehmûz, Muzaaf ve Misâl Kelimelerin Kökünü Bulma",
+      "arBaslik": "مَهَارَةُ اسْتِخْرَاجِ الْجَذْرِ مِنَ الْمَهْمُوزِ وَالْمُضَاعَفِ وَالْمِثَالِ",
+      "mantik": "Arapçada gerçek bağımsızlığa (B1 → B2 sıçramasına) giden en büyük beceri, metinde karşına çıkan **kısa veya dönüşmüş bir kelimenin 3 harfli kökünü (الْجَذْرُ)** 3 saniyede bulabilmektir! İşte bu modüldeki 3 fiil türünün **'Tersine Mühendislik' (Kök Kurtarma) Radar Kodu**: **(1) 2 Harfli Emir/Muzâri Görürsen (`قِفْ، صِلْ، ضَعْ، ثِقْ، تَقَعُ، يَجِدُ`):** Hemen başına **`و`** ekle! `قِفْ → و-ق-ف`, `صِلْ → و-ص-ل`, `ضَعْ → و-ض-ع`, `تَقَعُ → و-ق-ع`, `ثِقَةٌ → و-ث-ق`, `صِفَةٌ → و-ص-ف`, `هِبَةٌ → و-ه-ب`! *(İstisna: `خُذْ، كُلْ، مُرْ` → bu üçünün başında **`أ`** vardır: `أ-خ-ذ، أ-ك-ل، أ-م-ر`!)* **(2) Şeddeli Son Harf Görürsen (`مُدَّ، حَلَّ، أَحَبَّ، اِسْتَمَرَّ، مُسْتَقِرٌّ، اِهْتِمَامٌ`):** Sondaki şeddeyi **ikiye aç!** `اِسْتِمْرَارٌ → م-ر-ر`, `مُسْتَقِرٌّ → ق-ر-ر`, `أَحَبَّ → ح-ب-ب`, `مُهْتَمٌّ → ه-م-م`, `إِعْدَادٌ → ع-د-د`! **(3) `اِتَّـ` veya `مُتَّـ` ile Başlayan VIII. Bab Görürsen (`اِتِّصَالٌ، مُتَّفِقٌ، اِتِّحَادٌ، مُتَّجِهٌ، اِتِّضَاحٌ`):** Şeddeli `تّ`'nin ilk `ت`'si aslında **`و`**dur (`اِتِّصَالٌ → و-ص-ل`, `مُتَّفِقٌ → و-ف-ق`, `اِتِّحَادٌ → و-ح-د`, `مُتَّجِهٌ → و-ج-ه`)! *(Tek meşhur hemzeli istisna: `اِتَّخَذَ / اِتِّخَاذٌ → أ-خ-ذ`!)* **(4) `إِيـ` / `اِسْتِيـ` ile Başlayan Mastar Görürsen (`إِيجَادٌ، إِيضَاحٌ، اِسْتِيرَادٌ، اِسْتِيعَابٌ`):** Kesradan sonraki `ي` harfini **`و`** yap (`و-ج-د، و-ض-ح، و-ر-د، و-ع-ب`)! *(Mehmûz istisnalar: `إِيمَانٌ → أ-م-ن`, `إِيثَارٌ → أ-ث-ر`!)*",
+      "formul": "2 Harf (صِلْ/ثِقَة) → +و (و-ص-ل/و-ث-ق) | خُذْ/كُلْ/مُرْ → +أ | اِتَّـ/مُتَّـ → و (اِتِّحَاد→و-ح-د; اِتِّخَاذ→أ-خ-ذ) | إِيـ/اِسْتِيـ → و (إِيجَاد→و-ج-د; إِيمَان→أ-م-ن) | Şeddeyi aç (اِسْتَقَرَّ→ق-ر-ر)!",
+      "formulAr": "صِلَةٌ / اِتِّصَالٌ / إِيصَالٌ ← (و-ص-ل)  |  اِتِّخَاذٌ / خُذْ / آخُذُ ← (أ-خ-ذ)  |  اِسْتِقْرَارٌ / مُسْتَقِرٌّ ← (ق-ر-ر)",
+      "tablo": {
+        "baslik": "Kök Çözümleme Radar Tablosu (Metinden Sözlüğe 3 Saniyede!)",
+        "sutunlar": ["Metindeki Kelime", "Görünür İpucu", "Uygulanan Kural", "3 Harfli Kök (الْجَذْرُ)"],
+        "satirlar": [
+          { "hucreler": ["ثِقَةٌ / صِفَةٌ / تَقَعُ", "2 harf (+ة veya تَـ)", "Başına و ekle!", "و-ث-ق / و-ص-ف / و-ق-ع"], "ar": "ثِقَةٌ ← و-ث-ق | صِفَةٌ ← و-ص-ف" },
+          { "hucreler": ["خُذْ / كُلْ / مُرْ / آخُذُ", "Özel 3 mehmûz / آ", "Başına أ ekle!", "أ-خ-ذ / أ-ك-ل / أ-م-ر"], "ar": "خُذْ ← أ-خ-ذ | كُلْ ← أ-ك-ل" },
+          { "hucreler": ["اِتِّفَاقٌ / مُتَّحِدٌ / اِتِّجَاهٌ", "اِتَّـ / مُتَّـ (VIII. bab)", "İlk ت → و yap!", "و-ف-ق / و-ح-د / و-ج-ه"], "ar": "اِتِّحَادٌ ← و-ح-د | اِتِّجَاهٌ ← و-ج-ه" },
+          { "hucreler": ["اِتِّخَاذٌ / مُتَّخِذٌ", "اِتَّـ (istisna hemze!)", "İlk ت → أ yap!", "أ-خ-ذ (tek meşhur hemze!)"], "ar": "اِتِّخَاذٌ ← أ-خ-ذ" },
+          { "hucreler": ["إِيجَادٌ / إِيضَاحٌ / اِسْتِيعَابٌ", "إِيـ / اِسْتِيـ mastar", "ي → و yap! (إِيمَان → أ)", "و-ج-د / و-ض-ح / و-ع-ب"], "ar": "اِسْتِيعَابٌ ← و-ع-ب | إِيمَانٌ ← أ-م-ن" },
+          { "hucreler": ["مُسْتَقِرٌّ / مُهْتَمٌّ / إِعْدَادٌ", "Şedde / tekrarlı 2 harf", "Şeddeyi aç!", "ق-ر-ر / ه-م-م / ع-د-د"], "ar": "مُسْتَقِرٌّ ← ق-ر-ر | مُهْتَمٌّ ← ه-م-م" }
+        ]
+      },
+      "trKiyas": "Bir kez bu radar kodunu zihnine yerleştirdiğinde Arapça sözlük (الْمُعْجَمُ الْوَسِيطُ / Hans Wehr / Tevakku) artık bir labirent değil, şeffaf bir haritaya dönüşür! `صِلَةٌ، وُصُولٌ، إِيصَالٌ، اِتِّصَالٌ، تَوَاصُلٌ، مُوَاصَلَاتٌ` — hepsinin tek bir **`و-ص-ل`** kökünden çıktığını görünce 1 kökle 25 kelimeyi birden fethedersin!",
+      "sikHatalar": [
+        "ثِقَةٌ (güven) kelimesini ث-ق-ة veya صِفَةٌ (sıfat) kelimesini ص-ف-ي kökünde aramak — doğruları: و-ث-ق ve و-ص-ف!",
+        "مُسْتَقِرٌّ (istikrarlı) ve اِسْتِقْرَارٌ (istikrar) kelimelerinin kökünü ق-و-ر sanmak — iki râ harfi (ر-ر) olduğu için muzaaftır: ق-ر-ر!",
+        "اِتِّجَاهٌ (yön) kelimesinin kökünü ت-ج-ه sanmak — VIII. bab misâl ibdâlidir: و-ج-ه!"
+      ],
+      "ornekler": [
+        { "ar": "وُصُولُ الرِّسَالَةِ وَإِيصَالُهَا وَالِاتِّصَالُ الْمُبَاشِرُ كُلُّهَا مِنْ جَذْرِ «و-ص-ل».", "okunus": "Vusûlu'r-risâleti ve îsâluhâ ve'l-ittısâlu'l-mubâşiru kulluhâ min cezri «v-s-l».", "tr": "Mesajın ulaşması, ulaştırılması ve doğrudan iletişim — bunların hepsi 'و-ص-ل' kökündendir.", "not": "1 kök (و-ص-ل) → 3 farklı kalıp!" },
+        { "ar": "مِنْ أَجْلِ تَحْقِيقِ الِاسْتِقْرَارِ وَالِاتِّحَادِ، لَا بُدَّ مِنَ الثِّقَةِ الْمُتَبَادَلَةِ.", "okunus": "Min ecli tahkîkı'l-istikrâri ve'l-ittihâdi, lâ budde mine's-sikati'l-mutebâdeleti.", "tr": "İstikrar ve birliği gerçekleştirmek için karşılıklı güven şarttır.", "not": "اِسْتِقْرَار (ق-ر-ر) + اِتِّحَاد (و-ح-د) + ثِقَة (و-ث-ق)" },
+        { "ar": "اِتِّجَاهُ السَّفِينَةِ وَاتِّضَاحُ الرُّؤْيَةِ سَاعَدَا الرُّبَّانَ عَلَى إِيجَادِ الْمِينَاءِ.", "okunus": "İtticâhu's-sefîneti ve'ttıdâhu'r-ru’yeti sâ‘ade'r-rubbâne ‘alâ îcâdi'l-mînâ’i.", "tr": "Geminin yönü ve görüşün netleşmesi kaptanın limanı bulmasına yardımcı oldu.", "not": "اِتِّجَاه (و-ج-ه) + اِتِّضَاح (و-ض-ح) + إِيجَاد (و-ج-د)" },
+        { "ar": "إِنَّ الْإِيمَانَ وَالْإِيثَارَ صِفَتَانِ تَرْفَعَانِ قَدْرَ الْإِنْسَانِ.", "okunus": "İnne'l-îmâne ve'l-îsâra sıfêtâni terfe‘âni kadra'l-insâni.", "tr": "Şüphesiz iman ve diğerkâmlık insanın değerini yükselten iki niteliktir.", "not": "إِيمَان (أ-م-ن) + إِيثَار (أ-ث-ر) + صِفَة (و-ص-ف)" },
+        { "ar": "مُعَظَّمُ الطُّلَّابِ مُهْتَمُّونَ بِالِاسْتِعْدَادِ الْمُبَكِّرِ وَالِاسْتِيعَابِ الْعَمِيقِ.", "okunus": "Mu‘zamu't-tullâbi muhtemmûne bi'l-isti‘dâdi'l-mubekkiri ve'l-istî‘âbi'l-‘amîkı.", "tr": "Öğrencilerin çoğu erken hazırlık ve derin kavrayışla ilgileniyorlar.", "not": "مُهْتَمّ (ه-م-م) + اِسْتِعْدَاد (ع-د-د) + اِسْتِيعَاب (و-ع-ب)" },
+        { "ar": "لَا تَتَّخِذْ قَرَارًا مُتَسَرِّعًا، بَلْ قِفْ قَلِيلًا وَفَكِّرْ بِمَوْضُوعِيَّةٍ.", "okunus": "Lâ tettehız karâran muteserri‘an, bel kıf kalîlen ve fekkir bi-mevdû‘ıyyetin.", "tr": "Aceleci bir karar alma; aksine biraz dur ve nesnel biçimde düşün.", "not": "تَتَّخِذْ (أ-خ-ذ) + قِفْ (و-ق-ف)" }
+      ],
+      "tatbikler": [
+        {
+          "id": "m33_t41",
+          "tip": "bosluk",
+          "soru": "'اِتِّجَاهٌ' (yön), 'اِتِّحَادٌ' (birlik) ve 'اِتِّضَاحٌ' (netleşme) kelimelerinin 3 harfli kökleri sırasıyla hangisidir?",
+          "secenekler": ["و-ج-ه  /  و-ح-د  /  و-ض-ح", "ت-ج-ه  /  ت-ح-د  /  ت-ض-ح", "ج-و-ه  /  ح-د-د  /  ض-ح-ك", "أ-ج-ه  /  أ-ح-د  /  أ-ض-ح"],
+          "dogruIndeks": 0,
+          "aciklama": "VIII. babda misâl و harfi ت ile birleşir (اِتَّـ): kökler و-ج-ه, و-ح-د, و-ض-ح'dir."
+        },
+        {
+          "id": "m33_t42",
+          "tip": "bosluk",
+          "soru": "'مُسْتَقِرٌّ' (istikrarlı) ve 'اِسْتِقْرَارٌ' (istikrar) kelimelerinin 3 harfli kökü ve Aksâm-ı Seb'a türü nedir?",
+          "secenekler": ["ق-ر-ر — Muzaaf (X. bab اِسْتَقَرَّ)", "ق-و-ر — Ecvef", "س-ق-ر — Sâlim", "ق-ر-ي — Nâkıs"],
+          "dogruIndeks": 0,
+          "aciklama": "اِسْتَقَرَّ → ق-ر-ر (muzaaf X. bab)."
+        },
+        {
+          "id": "m33_t43",
+          "tip": "bosluk",
+          "soru": "'إِيجَادٌ' (bulma/icat), 'اِسْتِيعَابٌ' (kavrama) ve 'إِيمَانٌ' (iman) kelimelerinin kökleri sırasıyla hangisidir?",
+          "secenekler": ["و-ج-د  /  و-ع-ب  /  أ-م-ن", "ي-ج-د  /  ي-ع-ب  /  ي-م-ن", "أ-ج-د  /  ع-و-ب  /  و-م-ن", "ج-و-د  /  ع-ي-ب  /  م-ن-ن"],
+          "dogruIndeks": 0,
+          "aciklama": "إِيجَاد (أَوْجَدَ ← و-ج-د), اِسْتِيعَاب (اِسْتَوْعَبَ ← و-ع-ب), إِيمَان (آمَنَ ← أ-م-ن)."
+        },
+        {
+          "id": "m33_t44",
+          "tip": "bosluk",
+          "soru": "'هِبَةٌ' (bağış), 'ثِقَةٌ' (güven) ve 'صِفَةٌ' (nitelik) kelimelerini Arapça kök sözlüğünde hangi harf altında ararsın?",
+          "secenekler": ["و (و-ه-ب  /  و-ث-ق  /  و-ص-ف)", "ه / ث / ص", "ة", "أ"],
+          "dogruIndeks": 0,
+          "aciklama": "Üçü de baştaki و harfi düşmüş Misâl-i Vâvî mastarlardır: و-ه-ب، و-ث-ق، و-ص-ف!"
+        },
+        {
+          "id": "m33_t45",
+          "tip": "bosluk",
+          "soru": "'اِتِّخَاذٌ' (edinme/alma) kelimesi neden 'اِتِّصَالٌ' gibi و ile değil, أ-خ-ذ köküne bağlıdır?",
+          "secenekler": ["أَخَذَ (mehmûzü'l-fâ) fiilinde hemze VIII. babda ت'ye dönüşen özel istisnadır: اِئْتَخَذَ → اِتَّخَذَ", "ت-خ-ذ köklüdür", "و-خ-ذ köklüdür", "Muzaaf fiildir"],
+          "dogruIndeks": 0,
+          "aciklama": "أ-خ-ذ kökünde hemzenin VIII. babda ت'ye ibdâli (اِتَّخَذَ) meşhur tek hemze istisnasıdır."
+        },
+        {
+          "id": "m33_t46",
+          "tip": "bosluk",
+          "soru": "'مُهْتَمٌّ' (ilgilenen) ve 'مُسْتَعِدٌّ' (hazır) kelimelerinin 3 harfli kökleri sırasıyla hangisidir?",
+          "secenekler": ["ه-م-م  /  ع-د-د (ikisi de Muzaaf!)", "ه-ت-م  /  س-ع-د", "ه-و-م  /  ع-و-د", "ت-م-م  /  و-ع-د"],
+          "dogruIndeks": 0,
+          "aciklama": "اِهْتَمَّ ← ه-م-م (VIII. bab muzaaf); اِسْتَعَدَّ ← ع-د-د (X. bab muzaaf)."
+        },
+        {
+          "id": "m33_t47",
+          "tip": "hata",
+          "soru": "Hangi kelime → kök eşleştirmesi YANLIŞTIR?",
+          "secenekler": ["تَقَعُ (bulunur/düşer) → ت-ق-ع (✗ doğrusu: و-ق-ع!)", "صِلَةٌ → و-ص-ل", "مِيزَانٌ → و-ز-ن", "إِيثَارٌ → أ-ث-ر"],
+          "dogruIndeks": 0,
+          "aciklama": "تَقَعُ kelimesindeki ت muzâraat harfidir; fiil وَقَعَ (و-ق-ع) misâl-i vâvîdir."
+        },
+        {
+          "id": "m33_t48",
+          "tip": "bosluk",
+          "soru": "'مَوْعِظَةٌ' (öğüt) ve 'عِظَةٌ' (ibret/öğüt) kelimelerinin ortak 3 harfli kökü hangisidir?",
+          "secenekler": ["و-ع-ظ (وَعَظَ – يَعِظُ — Misâl-i Vâvî)", "ع-ظ-م", "م-ع-ظ", "ع-ظ-ي"],
+          "dogruIndeks": 0,
+          "aciklama": "وَعَظَ (öğüt verdi) → mimli mastarı مَوْعِظَةٌ, و'sı düşmüş mastarı عِظَةٌ."
+        },
+        {
+          "id": "m33_t49",
+          "tip": "bosluk",
+          "soru": "'اِسْتِيرَادٌ' (ithalat) kelimesinin kökü olan 'و-ر-د' kökünden 'gelir / ithal edilen şey' anlamındaki türev ailesi hangisidir?",
+          "secenekler": ["وَرَدَ – يَرِدُ – وُرُودٌ – وَارِدَاتٌ (ithalat/gelenler)", "رَدَّ – يَرُدُّ – رَدٌّ", "أَرَادَ – يُرِيدُ – إِرَادَةٌ", "رَادَ – يَرُودُ – رِيَادَةٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "و-ر-د (Misâl-i Vâvî): وَرَدَ – يَرِدُ – اِسْتَوْرَدَ – اِسْتِيرَادٌ – وَارِدَاتٌ."
+        },
+        {
+          "id": "m33_t50",
+          "tip": "ceviri",
+          "soru": "'مِنْ أَجْلِ تَحْقِيقِ الِاسْتِقْرَارِ وَالِاتِّحَادِ لَا بُدَّ مِنَ الثِّقَةِ' cümlesindeki üç anahtar kavramın kökleri hangisidir?",
+          "secenekler": ["ق-ر-ر (istikrar) / و-ح-د (birlik) / و-ث-ق (güven)", "ق-و-ر / ت-ح-د / ث-ق-ف", "س-ق-ر / أ-ح-د / ث-ق-ل", "ق-ر-أ / و-ح-ي / و-ف-ق"],
+          "dogruIndeks": 0,
+          "aciklama": "اِسْتِقْرَار (ق-ر-ر), اِتِّحَاد (و-ح-د), ثِقَة (و-ث-ق)."
+        }
+      ]
+    }
+  ],
+  "workshop": {
+    "motors": [
+      {
+        "id": "m33_mot1",
+        "baslik": "Mehmûz Fiil Emir & 1. Tekil (خُذْ / كُلْ / مُرْ / آخُذُ) Motoru",
+        "aciklama": "Mehmûz fiillerin özel emir ve medli muzâri şekilleriyle cümleler kur.",
+        "slotlar": [
+          {
+            "baslik": "Mehmûz Emir / Muzâri",
+            "secenekler": [
+              { "ar": "خُذْ", "tr": "Al! (أَخَذَ)" },
+              { "ar": "كُلْ", "tr": "Ye! (أَكَلَ)" },
+              { "ar": "مُرْ", "tr": "Emret! (أَمَرَ)" },
+              { "ar": "سَلْ / اِسْأَلْ", "tr": "Sor! (سَأَلَ)" },
+              { "ar": "اِقْرَأْ", "tr": "Oku! (قَرَأَ)" },
+              { "ar": "أَنَا آخُذُ", "tr": "Ben alıyorum (أَأْ → آ)" }
+            ]
+          },
+          {
+            "baslik": "Tamamlama",
+            "secenekler": [
+              { "ar": "هٰذَا الْكِتَابَ الْمُفِيدَ", "tr": "bu faydalı kitabı" },
+              { "ar": "مِنَ الطَّعَامِ الطَّيِّبِ الصِّحِّيِّ", "tr": "temiz sağlıklı yemekten" },
+              { "ar": "أَبْنَاءَكَ بِالصِّدْقِ وَالْأَمَانَةِ", "tr": "çocuklarına doğruluğu ve güvenilirliği" },
+              { "ar": "أَهْلَ الْخِبْرَةِ قَبْلَ الْقَرَارِ", "tr": "karardan önce uzmanlara" },
+              { "ar": "الدَّرْسَ بِتَمَعُّنٍ وَتَرْكِيزٍ", "tr": "dersi dikkatle ve odaklanarak" },
+              { "ar": "مَوَاعِيدِي بِكُلِّ جِدِّيَّةٍ", "tr": "randevularımı tüm ciddiyetle" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m33_mot2",
+        "baslik": "Muzaaf Fiil İdğam Çözülmesi Motoru",
+        "aciklama": "مَدَدْتُ / مَرَرْتُ / ظَنَنْتُ / حَلَلْتُ / وَدِدْتُ ve Nûn-ı Nisve çözülmelerini pratik et.",
+        "slotlar": [
+          {
+            "baslik": "Özne + Çözülmüş Muzaaf",
+            "secenekler": [
+              { "ar": "مَرَرْتُ", "tr": "Geçtim (مَرَّ)" },
+              { "ar": "حَلَلْتُ", "tr": "Çözdüm (حَلَّ)" },
+              { "ar": "ظَنَنْتُ", "tr": "Zannettim (ظَنَّ)" },
+              { "ar": "مَدَدْنَا", "tr": "Uzattık (مَدَّ)" },
+              { "ar": "وَدِدْتُ", "tr": "İstedim (وَدَّ — 4. bab!)" },
+              { "ar": "الطَّالِبَاتُ يَحْلُلْنَ", "tr": "Kız öğrenciler çözüyorlar" }
+            ]
+          },
+          {
+            "baslik": "Devam",
+            "secenekler": [
+              { "ar": "بِالْمَكْتَبَةِ الْعَامَّةِ صَبَاحًا", "tr": "sabah halk kütüphanesinden" },
+              { "ar": "جَمِيعَ التَّمَارِينِ الصَّعْبَةِ", "tr": "tüm zor alıştırmaları" },
+              { "ar": "أَنَّ الِامْتِحَانَ صَعْبٌ جِدًّا", "tr": "sınavın çok zor olduğunu" },
+              { "ar": "يَدَ الْعَوْنِ لِلْمُحْتَاجِينَ", "tr": "muhtaçlara yardım elini" },
+              { "ar": "لَوْ تَزُورُونَنَا فِي الْعُطْلَةِ", "tr": "tatilde bizi ziyaret etmenizi" },
+              { "ar": "الْمَسَائِلَ الرِّيَاضِيَّةَ بِدِقَّةٍ", "tr": "matematik problemlerini hassasiyetle" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m33_mot3",
+        "baslik": "Misâl-i Vâvî 2 Harfli Emir & Muzâri Motoru",
+        "aciklama": "قِفْ / ضَعْ / صِلْ / ثِقْ / عِدْ / يَصِلُ / تَقَعُ yapılarını akıcı kullan.",
+        "slotlar": [
+          {
+            "baslik": "Misâl Fiil (و Düşük!)",
+            "secenekler": [
+              { "ar": "قِفْ", "tr": "Dur! (وَقَفَ)" },
+              { "ar": "ضَعْ", "tr": "Koy! (وَضَعَ)" },
+              { "ar": "ثِقْ", "tr": "Güven! (وَثِقَ)" },
+              { "ar": "صِلْ", "tr": "Ulaş / bağla! (وَصَلَ)" },
+              { "ar": "يَصِلُ الْقِطَارُ", "tr": "Tren ulaşır (وَصَلَ)" },
+              { "ar": "تَقَعُ الْجَامِعَةُ", "tr": "Üniversite yer alır (وَقَعَ)" }
+            ]
+          },
+          {
+            "baslik": "Bağlam",
+            "secenekler": [
+              { "ar": "عِنْدَ الْإِشَارَةِ الْحَمْرَاءِ", "tr": "kırmızı ışıkta" },
+              { "ar": "حِزَامَ الْأَمَانِ قَبْلَ الْقِيَادَةِ", "tr": "sürüşten önce emniyet kemerini" },
+              { "ar": "بِنَفْسِكَ وَبِقُدُرَاتِكَ دَائِمًا", "tr": "daima kendine ve yeteneklerine" },
+              { "ar": "رَحِمَكَ وَبَيْنَ الْعَمُودَيْنِ", "tr": "akrabalık bağını / iki sütunu" },
+              { "ar": "فِي السَّاعَةِ التَّاسِعَةِ تَمَامًا", "tr": "tam saat dokuzda" },
+              { "ar": "فِي وَسَطِ الْمَدِينَةِ التَّارِيخِيَّةِ", "tr": "tarihî şehrin merkezinde" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m33_mot4",
+        "baslik": "Mezîd Muzaaf Çözülme Motoru (أَحْبَبْتُ / اِسْتَمْرَرْتُ / اِسْتَعْدَدْتُ)",
+        "aciklama": "IV., VIII. ve X. bab muzaaf fiillerde 1. tekil/çoğul çekimlerini oturt.",
+        "slotlar": [
+          {
+            "baslik": "Mezîd Muzaaf (1. Tekil / Çoğul)",
+            "secenekler": [
+              { "ar": "أَحْبَبْتُ", "tr": "Sevdim (أَحَبَّ)" },
+              { "ar": "أَعْدَدْتُ", "tr": "Hazırladım (أَعَدَّ)" },
+              { "ar": "اِهْتَمَمْتُ", "tr": "İlgilendim (اِهْتَمَّ)" },
+              { "ar": "اِسْتَمْرَرْتُ", "tr": "Devam ettim (اِسْتَمَرَّ)" },
+              { "ar": "اِسْتَعْدَدْنَا", "tr": "Hazırlandık (اِسْتَعَدَّ)" },
+              { "ar": "اِسْتَقْرَرْنَا", "tr": "Yerleştik (اِسْتَقَرَّ)" }
+            ]
+          },
+          {
+            "baslik": "Nesne / Tümleç",
+            "secenekler": [
+              { "ar": "اللُّغَةَ الْعَرَبِيَّةَ مُنْذُ صِغَرِي", "tr": "küçüklüğümden beri Arapçayı" },
+              { "ar": "خُطَّةً وَاضِحَةً لِلْمَشْرُوعِ", "tr": "proje için açık bir plan" },
+              { "ar": "بِقِرَاءَةِ التَّارِيخِ وَالْأَدَبِ", "tr": "tarih ve edebiyat okumakla" },
+              { "ar": "فِي التَّدْرِيبِ الْيَوْمِيِّ بِحَمَاسٍ", "tr": "heyecanla günlük pratiğe" },
+              { "ar": "جَيِّدًا لِاخْتِبَارِ نِهَايَةِ الْعَامِ", "tr": "yıl sonu sınavına iyi" },
+              { "ar": "فِي مَدِينَةٍ هَادِئَةٍ وَجَمِيلَةٍ", "tr": "sakin ve güzel bir şehirde" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m33_mot5",
+        "baslik": "VIII. Bab Misâl İbdâl & IV./X. Bab Mastar (و→ي) Motoru",
+        "aciklama": "اِتَّصَلَ / اِتَّفَقَ / اِتَّخَذَ / إِيضَاح / اِسْتِيعَاب / اِسْتِيرَاد yapılarını birleştir.",
+        "slotlar": [
+          {
+            "baslik": "Eylem",
+            "secenekler": [
+              { "ar": "اِتَّصَلْتُ بِالْمُدِيرِ", "tr": "Müdürle iletişime geçtim" },
+              { "ar": "اِتَّفَقْنَا جَمِيعًا", "tr": "Hepimiz anlaştık" },
+              { "ar": "اِسْتَوْعَبَ الطُّلَّابُ", "tr": "Öğrenciler kavradı" },
+              { "ar": "أَوْضَحَ الْأُسْتَاذُ", "tr": "Hoca açıkladı" },
+              { "ar": "زَادَتِ الدَّوْلَةُ مِنْ", "tr": "Devlet ...'i artırdı" },
+              { "ar": "آمَنَ الْعَالِمُ", "tr": "Bilim insanı inandı" }
+            ]
+          },
+          {
+            "baslik": "Mastar / Sonuç",
+            "secenekler": [
+              { "ar": "لِتَنْسِيقِ مَوْعِدِ الِاجْتِمَاعِ", "tr": "toplantı vaktini koordine etmek için" },
+              { "ar": "عَلَى اتِّخَاذِ خُطُوَاتٍ عَمَلِيَّةٍ", "tr": "pratik adımlar atma konusunda" },
+              { "ar": "الْقَاعِدَةَ اسْتِيعَابًا كَامِلًا", "tr": "kuralı tam bir kavrayışla" },
+              { "ar": "الْفَرْقَ إِيضَاحًا دَقِيقًا", "tr": "farkı hassas bir açıklamayla" },
+              { "ar": "إِيجَادِ حُلُولٍ بَدَلَ الِاسْتِيرَادِ", "tr": "ithalat yerine çözümler bulmayı" },
+              { "ar": "بِأَهَمِّيَّةِ الْبَحْثِ إِيمَانًا رَاسِخًا", "tr": "araştırmanın önemine köklü bir imanla" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m33_mot6",
+        "baslik": "Kök Ailesi (1 Kök → 6 Türev) Keşif Motoru",
+        "aciklama": "Aynı kökün (و-ص-ل / أ-خ-ذ / ق-ر-ر) nasıl farklı şekillere büründüğünü karşılaştır.",
+        "slotlar": [
+          {
+            "baslik": "Kök Ailesi",
+            "secenekler": [
+              { "ar": "جَذْرُ «و-ص-ل»:", "tr": "و-ص-ل kökü:" },
+              { "ar": "جَذْرُ «أ-خ-ذ»:", "tr": "أ-خ-ذ kökü:" },
+              { "ar": "جَذْرُ «و-ف-ق»:", "tr": "و-ف-ق kökü:" },
+              { "ar": "جَذْرُ «ق-ر-ر»:", "tr": "ق-ر-ر kökü:" },
+              { "ar": "جَذْرُ «و-ض-ح»:", "tr": "و-ض-ح kökü:" },
+              { "ar": "جَذْرُ «و-ث-ق»:", "tr": "و-ث-ق kökü:" }
+            ]
+          },
+          {
+            "baslik": "Aynı Kökten Türev Zinciri",
+            "secenekler": [
+              { "ar": "وَصَلَ – يَصِلُ – صِلْ – صِلَةٌ – إِيصَالٌ – اِتِّصَالٌ", "tr": "ulaşmak, bağ, teslim, iletişim" },
+              { "ar": "أَخَذَ – آخُذُ – خُذْ – اِتَّخَذَ – اِتِّخَاذٌ – مَأْخَذٌ", "tr": "almak, edinmek, karar alma" },
+              { "ar": "وَفِقَ – وَفَّقَ – اِتَّفَقَ – اِتِّفَاقٌ – تَوْفِيقٌ – مُتَّفَقٌ", "tr": "uygun olmak, anlaşmak, başarı" },
+              { "ar": "قَرَّ – قَرَارٌ – اِسْتَقَرَّ – اِسْتِقْرَارٌ – مُسْتَقِرٌّ", "tr": "karar, yerleşmek, istikrar" },
+              { "ar": "وَضَحَ – يَضِحُ – أَوْضَحَ – إِيضَاحٌ – اِتَّضَحَ – وَاضِحٌ", "tr": "açık olmak, açıklamak, netleşmek" },
+              { "ar": "وَثِقَ – يَثِقُ – ثِقْ – ثِقَةٌ – وَثِيقَةٌ – مِيثَاقٌ", "tr": "güvenmek, güven, belge, sözleşme" }
+            ]
+          }
+        ]
+      }
+    ],
+    "merdivenler": [
+      {
+        "id": "m33_mer1",
+        "baslik": "Mehmûz Fiillerle Öğüt ve Eylem Merdiveni",
+        "adimlar": [
+          { "seviye": 1, "ar": "خُذِ الْكِتَابَ.", "okunus": "Huzi'l-kitâbe.", "tr": "Kitabı al.", "ekleme": "أَخَذَ özel emri (خُذْ)" },
+          { "seviye": 2, "ar": "خُذِ الْكِتَابَ وَاقْرَأْهُ.", "okunus": "Huzi'l-kitâbe ve'kra’hu.", "tr": "Kitabı al ve onu oku.", "ekleme": "+ Mehmûzü'l-Lâm emri (اِقْرَأْ)" },
+          { "seviye": 3, "ar": "خُذِ الْكِتَابَ وَاقْرَأْهُ، وَسَلْ أُسْتَاذَكَ عَمَّا يُشْكِلُ عَلَيْكَ.", "okunus": "Huzi'l-kitâbe ve'kra’hu, ve sel ustâzeke ‘ammâ yuşkilu ‘aleyke.", "tr": "Kitabı al, oku ve zorlandığın konularda hocana sor.", "ekleme": "+ سَأَلَ hafif emri (سَلْ)" },
+          { "seviye": 4, "ar": "خُذِ الْكِتَابَ وَاقْرَأْهُ، وَسَلْ أُسْتَاذَكَ، فَأَنَا آخُذُ بِهٰذِهِ النَّصِيحَةِ دَائِمًا.", "okunus": "Huzi'l-kitâbe ve'kra’hu, ve sel ustâzeke, fe-ene âhuzu bi-hâzihi'n-nasîhati dâ’imen.", "tr": "Kitabı al, oku ve hocana sor; zira ben bu tavsiyeyi daima uygularım.", "ekleme": "+ 1. tekil medli muzâri (آخُذُ)" },
+          { "seviye": 5, "ar": "خُذِ الْكِتَابَ وَاقْرَأْهُ وَسَلْ أُسْتَاذَكَ، وَابْدَأْ بِنَفْسِكَ فِي اتِّخَاذِ الْقِرَاءَةِ عَادَةً يَوْمِيَّةً.", "okunus": "Huzi'l-kitâbe ve'kra’hu ve sel ustâzeke, ve'bde’ bi-nefsike fî'ttihâzi'l-kırâ’eti ‘âdeten yevmiyyeten.", "tr": "Kitabı al, oku, hocana sor ve okumayı günlük bir alışkanlık edinmede kendinden başla.", "ekleme": "+ VIII. bab أ-خ-ذ mastarı (اِتِّخَاذ)" }
+        ]
+      },
+      {
+        "id": "m33_mer2",
+        "baslik": "Muzaaf Fiil İdğam & Çözülme Merdiveni",
+        "adimlar": [
+          { "seviye": 1, "ar": "حَلَلْتُ الْمَسْأَلَةَ.", "okunus": "Haleltu'l-mes’elete.", "tr": "Problemi çözdüm.", "ekleme": "1. tekil mâzi çözülmesi (حَلَّ→حَلَلْتُ)" },
+          { "seviye": 2, "ar": "مَرَرْتُ بِالْمَكْتَبَةِ وَحَلَلْتُ الْمَسْأَلَةَ.", "okunus": "Merartu bi'l-mektebeti ve haleltu'l-mes’elete.", "tr": "Kütüphaneden geçtim ve problemi çözdüm.", "ekleme": "+ 2. muzaaf çözülmesi (مَرَرْتُ)" },
+          { "seviye": 3, "ar": "مَرَرْتُ بِالْمَكْتَبَةِ وَحَلَلْتُ الْمَسْأَلَةَ الَّتِي ظَنَنْتُ أَنَّهَا صَعْبَةٌ.", "okunus": "Merartu bi'l-mektebeti ve haleltu'l-mes’elete'lletî zanentu ennehâ sa‘betun.", "tr": "Kütüphaneden geçtim ve zor sandığım problemi çözdüm.", "ekleme": "+ 3. muzaaf çözülmesi (ظَنَنْتُ)" },
+          { "seviye": 4, "ar": "مَرَرْتُ بِالْمَكْتَبَةِ وَحَلَلْتُ الْمَسْأَلَةَ، وَاسْتَمْرَرْتُ فِي الْمُرَاجَعَةِ بِحَمَاسٍ.", "okunus": "Merartu bi'l-mektebeti ve haleltu'l-mes’elete, ve'stemrartu fi'l-murâce‘ati bi-hamâsin.", "tr": "Kütüphaneden geçtim, problemi çözdüm ve heyecanla tekrara devam ettim.", "ekleme": "+ X. bab muzaaf çözülmesi (اِسْتَمْرَرْتُ)" },
+          { "seviye": 5, "ar": "مَرَرْتُ بِالْمَكْتَبَةِ وَحَلَلْتُ الْمَسْأَلَةَ، وَاسْتَمْرَرْتُ فِي الْمُرَاجَعَةِ حَتَّى اسْتَعْدَدْتُ تَمَامًا لِلِامْتِحَانِ.", "okunus": "Merartu bi'l-mektebeti ve haleltu'l-mes’elete, ve'stemrartu fi'l-murâce‘ati hatte'sta‘dedtu temâmen li'l-imtihâni.", "tr": "Kütüphaneden geçtim, problemi çözdüm ve sınava tamamen hazırlanana kadar tekrara devam ettim.", "ekleme": "+ X. bab muzaaf çözülmesi (اِسْتَعْدَدْتُ)" }
+        ]
+      },
+      {
+        "id": "m33_mer3",
+        "baslik": "Misâl-i Vâvîden Mezîd Bablara Köprü Merdiveni",
+        "adimlar": [
+          { "seviye": 1, "ar": "ثِقْ بِنَفْسِكَ.", "okunus": "Sık bi-nefsike.", "tr": "Kendine güven.", "ekleme": "2 harfli Misâl emri (وَثِقَ→ثِقْ)" },
+          { "seviye": 2, "ar": "ثِقْ بِنَفْسِكَ، فَسَتَجِدُ الطَّرِيقَ.", "okunus": "Sık bi-nefsike, fe-se-tecidu't-tarîka.", "tr": "Kendine güven, yolu bulacaksın.", "ekleme": "+ و'sı düşmüş muzâri (تَجِدُ)" },
+          { "seviye": 3, "ar": "ثِقْ بِنَفْسِكَ وَضَعْ خُطَّةً وَاضِحَةً، فَسَتَجِدُ الطَّرِيقَ الصَّحِيحَ.", "okunus": "Sık bi-nefsike ve da‘ huttaten vâdıhaten, fe-se-tecidu't-tarîka's-sahîha.", "tr": "Kendine güven ve açık bir plan koy; doğru yolu bulacaksın.", "ekleme": "+ 2. Misâl emri (وَضَعَ→ضَعْ)" },
+          { "seviye": 4, "ar": "ثِقْ بِنَفْسِكَ وَضَعْ خُطَّةً وَاضِحَةً، وَاِتَّصِلْ بِأَهْلِ الْخِبْرَةِ عِنْدَ الْحَاجَةِ.", "okunus": "Sık bi-nefsike ve da‘ huttaten vâdıhaten, ve'ttasıl bi-ehli'l-hıbrati ‘inde'l-hâceti.", "tr": "Kendine güven, açık bir plan koy ve gerektiğinde uzmanlarla iletişime geç.", "ekleme": "+ VIII. bab misâl emri (اِتَّصِلْ)" },
+          { "seviye": 5, "ar": "ثِقْ بِنَفْسِكَ وَضَعْ خُطَّةً وَاضِحَةً، وَاِتَّصِلْ بِالْخُبَرَاءِ حَتَّى تَصِلَ إِلَى أَعْلَى الْمُسْتَوَيَاتِ.", "okunus": "Sık bi-nefsike ve da‘ huttaten vâdıhaten, ve'ttasıl bi'l-huberâ’i hattâ tesıle ilâ a‘le'l-musteveyâti.", "tr": "Kendine güven, açık bir plan koy ve en yüksek seviyelere ulaşana dek uzmanlarla iletişim kur.", "ekleme": "+ و-ص-ل muzâri (تَصِلَ)" }
+        ]
+      },
+      {
+        "id": "m33_mer4",
+        "baslik": "Akademik Metinde İbdâl ve Mastar Dönüşüm Merdiveni",
+        "adimlar": [
+          { "seviye": 1, "ar": "اِتَّضَحَتِ الصُّورَةُ.", "okunus": "İttadahati's-sûratu.", "tr": "Tablo netleşti.", "ekleme": "VIII. bab misâl (و-ض-ح)" },
+          { "seviye": 2, "ar": "اِتَّضَحَتِ الصُّورَةُ بَعْدَ إِيضَاحِ الْخَبِيرِ.", "okunus": "İttadahati's-sûratu ba‘de îdâhı'l-habîri.", "tr": "Uzmanın açıklamasından sonra tablo netleşti.", "ekleme": "+ IV. bab misâl mastarı (إِيضَاح: و→ي)" },
+          { "seviye": 3, "ar": "اِتَّضَحَتِ الصُّورَةُ وَاسْتَوْعَبَ الْجَمِيعُ الْخُطَّةَ اسْتِيعَابًا كَامِلًا.", "okunus": "İttadahati's-sûratu ve'stev‘abe'l-cemî‘u'l-huttate'stî‘âben kâmilen.", "tr": "Tablo netleşti ve herkes planı tam olarak kavradı.", "ekleme": "+ X. bab misâl ve mastarı (اِسْتِيعَاب)" },
+          { "seviye": 4, "ar": "اِتَّضَحَتِ الصُّورَةُ وَاتَّفَقَ الْفَرِيقُ عَلَى إِيجَادِ حُلُولٍ مَحَلِّيَّةٍ بَدَلَ الِاسْتِيرَادِ.", "okunus": "İttadahati's-sûratu ve'ttefaka'l-ferîku ‘alâ îcâdi hulûlin mahalliyyetin bedele'l-istîrâdi.", "tr": "Tablo netleşti ve ekip ithalat yerine yerli çözümler bulma konusunda anlaştı.", "ekleme": "+ و-ف-ق / و-ج-د / و-ر-د zinciri!" },
+          { "seviye": 5, "ar": "اِتَّضَحَتِ الصُّورَةُ وَاتَّفَقَ الْفَرِيقُ عَلَى إِيجَادِ حُلُولٍ مَحَلِّيَّةٍ لِضَمَانِ الِاسْتِقْرَارِ الِاقْتِصَادِيِّ.", "okunus": "İttadahati's-sûratu ve'ttefaka'l-ferîku ‘alâ îcâdi hulûlin mahalliyyetin li-damâni'l-istikrâri'l-ıktısâdiyyi.", "tr": "Tablo netleşti ve ekip ekonomik istikrarı garanti etmek için yerli çözümler bulma konusunda anlaştı.", "ekleme": "+ X. bab muzaaf mastarı (الِاسْتِقْرَار)" }
+        ]
+      }
+    ],
+    "bloklar": [
+      { "id": "m33_b1", "tr": "Bu kitabı al ve dikkatle oku.", "hedefAr": "خُذْ هٰذَا الْكِتَابَ وَاقْرَأْهُ بِتَمَعُّنٍ", "karisik": ["الْكِتَابَ", "بِتَمَعُّنٍ", "خُذْ", "وَاقْرَأْهُ", "هٰذَا"] },
+      { "id": "m33_b2", "tr": "Ben her gün sağlıklı yemek yerim.", "hedefAr": "أَنَا آكُلُ طَعَامًا صِحِّيًّا كُلَّ يَوْمٍ", "karisik": ["طَعَامًا", "يَوْمٍ", "آكُلُ", "كُلَّ", "أَنَا", "صِحِّيًّا"] },
+      { "id": "m33_b3", "tr": "Hayati bir karar almadan önce uzmanlara sor.", "hedefAr": "سَلْ أَهْلَ الْخِبْرَةِ قَبْلَ اتِّخَاذِ الْقَرَارِ", "karisik": ["قَبْلَ", "الْخِبْرَةِ", "سَلْ", "الْقَرَارِ", "أَهْلَ", "اتِّخَاذِ"] },
+      { "id": "m33_b4", "tr": "Sabah kütüphaneden geçtim ve tüm alıştırmaları çözdüm.", "hedefAr": "مَرَرْتُ بِالْمَكْتَبَةِ صَبَاحًا وَحَلَلْتُ جَمِيعَ التَّمَارِينِ", "karisik": ["وَحَلَلْتُ", "بِالْمَكْتَبَةِ", "التَّمَارِينِ", "مَرَرْتُ", "جَمِيعَ", "صَبَاحًا"] },
+      { "id": "m33_b5", "tr": "Sınavın zor olduğunu sandım ama kolaydı.", "hedefAr": "ظَنَنْتُ أَنَّ الِامْتِحَانَ صَعْبٌ وَلٰكِنَّهُ كَانَ سَهْلًا", "karisik": ["صَعْبٌ", "ظَنَنْتُ", "وَلٰكِنَّهُ", "الِامْتِحَانَ", "أَنَّ", "سَهْلًا", "كَانَ"] },
+      { "id": "m33_b6", "tr": "Muhtaçlara yardım elini uzat ve isteyeni geri çevirme.", "hedefAr": "مُدَّ يَدَ الْعَوْنِ لِلْمُحْتَاجِينَ وَلَا تَرُدَّ سَائِلًا", "karisik": ["سَائِلًا", "الْعَوْنِ", "مُدَّ", "وَلَا", "لِلْمُحْتَاجِينَ", "تَرُدَّ", "يَدَ"] },
+      { "id": "m33_b7", "tr": "Kız öğrenciler matematik problemlerini hassasiyetle çözüyorlar.", "hedefAr": "الطَّالِبَاتُ يَحْلُلْنَ الْمَسَائِلَ الرِّيَاضِيَّةَ بِدِقَّةٍ", "karisik": ["بِدِقَّةٍ", "يَحْلُلْنَ", "الطَّالِبَاتُ", "الرِّيَاضِيَّةَ", "الْمَسَائِلَ"] },
+      { "id": "m33_b8", "tr": "Kırmızı ışıkta dur ve emniyet kemerini tak.", "hedefAr": "قِفْ عِنْدَ الْإِشَارَةِ الْحَمْرَاءِ وَضَعْ حِزَامَ الْأَمَانِ", "karisik": ["حِزَامَ", "عِنْدَ", "الْحَمْرَاءِ", "قِفْ", "الْأَمَانِ", "وَضَعْ", "الْإِشَارَةِ"] },
+      { "id": "m33_b9", "tr": "Kendine güven, başarıya giden yolu bulacaksın.", "hedefAr": "ثِقْ بِنَفْسِكَ فَسَتَجِدُ الطَّرِيقَ إِلَى النَّجَاحِ", "karisik": ["إِلَى", "بِنَفْسِكَ", "ثِقْ", "النَّجَاحِ", "فَسَتَجِدُ", "الطَّرِيقَ"] },
+      { "id": "m33_b10", "tr": "Hızlı tren istasyona saat dokuzda ulaşır.", "hedefAr": "يَصِلُ الْقِطَارُ السَّرِيعُ إِلَى الْمَحَطَّةِ السَّاعَةَ التَّاسِعَةَ", "karisik": ["الْمَحَطَّةِ", "السَّرِيعُ", "يَصِلُ", "التَّاسِعَةَ", "الْقِطَارُ", "إِلَى", "السَّاعَةَ"] },
+      { "id": "m33_b11", "tr": "Küçüklüğümden beri Arapçayı sevdim.", "hedefAr": "أَحْبَبْتُ اللُّغَةَ الْعَرَبِيَّةَ مُنْذُ صِغَرِي", "karisik": ["مُنْذُ", "الْعَرَبِيَّةَ", "أَحْبَبْتُ", "صِغَرِي", "اللُّغَةَ"] },
+      { "id": "m33_b12", "tr": "Günlük pratiğe devam ettim ve sınava iyi hazırlandım.", "hedefAr": "اِسْتَمْرَرْتُ فِي التَّدْرِيبِ وَاسْتَعْدَدْتُ جَيِّدًا لِلِاخْتِبَارِ", "karisik": ["لِلِاخْتِبَارِ", "فِي", "وَاسْتَعْدَدْتُ", "اِسْتَمْرَرْتُ", "جَيِّدًا", "التَّدْرِيبِ"] },
+      { "id": "m33_b13", "tr": "Öğrenciler öğretmenin açıklamasından sonra dersi kavradılar.", "hedefAr": "اِسْتَوْعَبَ الطُّلَّابُ الدَّرْسَ بَعْدَ إِيضَاحِ الْمُعَلِّمِ", "karisik": ["الْمُعَلِّمِ", "الدَّرْسَ", "اِسْتَوْعَبَ", "بَعْدَ", "الطُّلَّابُ", "إِيضَاحِ"] },
+      { "id": "m33_b14", "tr": "Müdürle iletişime geçtim ve pratik adımlarda anlaştık.", "hedefAr": "اِتَّصَلْتُ بِالْمُدِيرِ وَاتَّفَقْنَا عَلَى خُطُوَاتٍ عَمَلِيَّةٍ", "karisik": ["عَلَى", "وَاتَّفَقْنَا", "اِتَّصَلْتُ", "عَمَلِيَّةٍ", "بِالْمُدِيرِ", "خُطُوَاتٍ"] },
+      { "id": "m33_b15", "tr": "İman ve diğerkâmlık insanı yükselten iki niteliktir.", "hedefAr": "الْإِيمَانُ وَالْإِيثَارُ صِفَتَانِ تَرْفَعَانِ قَدْرَ الْإِنْسَانِ", "karisik": ["قَدْرَ", "وَالْإِيثَارُ", "الْإِيمَانُ", "الْإِنْسَانِ", "صِفَتَانِ", "تَرْفَعَانِ"] },
+      { "id": "m33_b16", "tr": "Ekip ithalat yerine yerli çözümler bulma konusunda anlaştı.", "hedefAr": "اِتَّفَقَ الْفَرِيقُ عَلَى إِيجَادِ حُلُولٍ بَدَلَ الِاسْتِيرَادِ", "karisik": ["حُلُولٍ", "عَلَى", "الِاسْتِيرَادِ", "اِتَّفَقَ", "بَدَلَ", "الْفَرِيقُ", "إِيجَادِ"] }
+    ]
+  },
+  "readings": [
+    {
+      "id": "m33_r1",
+      "baslik": "Güven, İletişim ve İstikrar Üzerine",
+      "arBaslik": "الثِّقَةُ وَالِاتِّصَالُ وَالِاسْتِقْرَارُ فِي الْعَمَلِ الْجَمَاعِيِّ",
+      "seviye": "B1 — Yönetim & Sosyoloji",
+      "paragraflar": [
+        {
+          "ar": "تَقَعُ الثِّقَةُ الْمُتَبَادَلَةُ فِي قَلْبِ كُلِّ عَمَلٍ جَمَاعِيٍّ نَاجِحٍ. فَعِنْدَمَا يَثِقُ أَعْضَاءُ الْفَرِيقِ بَعْضُهُمْ بِبَعْضٍ، يَصِلُونَ إِلَى أَهْدَافِهِمْ بِسُرْعَةٍ، وَيَجِدُونَ حُلُولًا إِبْدَاعِيَّةً لِكُلِّ عَقَبَةٍ تَقِفُ فِي طَرِيقِهِمْ.",
+          "okunus": "Teka‘u's-sikatu'l-mutebâdeletu fî kalbi kulli ‘amelin cemâ‘ıyyin nâcihın. Fe-‘indemâ yesıku a‘dâ’u'l-ferîkı ba‘duhum bi-ba‘dın, yesılûne ilâ ehdâfihim bi-sur‘atin, ve yecidûne hulûlen ibdâ‘ıyyeten li-kulli ‘akabatin tekıfu fî tarîkıhim.",
+          "tr": "Karşılıklı güven her başarılı ekip çalışmasının kalbinde yer alır. Ekip üyeleri birbirlerine güvendiklerinde hedeflerine hızla ulaşırlar ve yollarında duran her engel için yaratıcı çözümler bulurlar.",
+          "analiz": [
+            { "kelime": "تَقَعُ / يَثِقُ / يَصِلُونَ / يَجِدُونَ / تَقِفُ", "kok": "و-ق-ع / و-ث-ق / و-ص-ل / و-ج-د / و-ق-ف", "gramer": "5 Misâl-i Vâvî muzâri — hepsinde و düştü!", "tr": "yer alır / güvenir / ulaşırlar / bulurlar / durur" },
+            { "kelime": "الثِّقَةُ", "kok": "و-ث-ق", "gramer": "و'sı düşüp ة almış Misâl-i Vâvî mastarı", "tr": "güven" }
+          ]
+        },
+        {
+          "ar": "وَلِذٰلِكَ أَعْدَدْنَا بَرْنَامَجًا تَدْرِيبِيًّا مُمَيَّزًا، وَاتَّصَلْنَا بِخُبَرَاءِ الْإِدَارَةِ، وَاتَّفَقْنَا عَلَى اتِّخَاذِ خُطُوَاتٍ عَمَلِيَّةٍ لِتَحْسِينِ التَّوَاصُلِ الدَّاخِلِيِّ وَإِيضَاحِ الْمَسْؤُولِيَّاتِ لِكُلِّ فَرْدٍ.",
+          "okunus": "Ve li-zâlike a‘dednâ bernâmecen tedrîbiyyen mumeyyezen, ve'ttesalnâ bi-huberâ’i'l-idârati, ve'ttefaknâ ‘ale'ttihâzi hutuvâtin ‘ameliyyetin li-tahsîni't-tevâsuli'd-dâhıliyyi ve îdâhı'l-mes’ûliyyâti li-kulli ferdin.",
+          "tr": "Bu nedenle seçkin bir eğitim programı hazırladık, yönetim uzmanlarıyla iletişime geçtik ve iç iletişimi iyileştirmek ile her bireyin sorumluluklarını açıklamak için pratik adımlar atma konusunda anlaştık.",
+          "analiz": [
+            { "kelime": "أَعْدَدْنَا", "kok": "ع-د-د", "gramer": "IV. bab muzaaf (أَعَدَّ) 1. çoğul çözülmesi!", "tr": "hazırladık" },
+            { "kelime": "اِتَّصَلْنَا / اِتَّفَقْنَا / اِتِّخَاذِ / إِيضَاحِ", "kok": "و-ص-ل / و-ف-ق / أ-خ-ذ / و-ض-ح", "gramer": "VIII. bab ibdâl (و/ء+ت→تّ) + IV. bab misâl mastarı (و→ي)", "tr": "iletişim kurduk / anlaştık / alma / açıklama" }
+          ]
+        },
+        {
+          "ar": "وَقَدِ اسْتَوْعَبَ الْعَامِلُونَ الرُّؤْيَةَ الْجَدِيدَةَ اسْتِيعَابًا كَامِلًا، وَاسْتَمَرَّتْ وَرَشَاتُ الْعَمَلِ أَسَابِيعَ عِدَّةً حَتَّى اتَّضَحَتِ الصُّورَةُ تَمَامًا، وَلَمْ يَتَرَدَّدْ أَحَدٌ فِي تَقْدِيمِ الْمُقْتَرَحَاتِ.",
+          "okunus": "Ve kadi'stev‘abe'l-‘âmilûne'r-ru’yete'l-cedîdete'stî‘âben kâmilen, ve'stemerrat veraşâtu'l-‘ameli esâbî‘a ‘ıddeten hatte'ttadahati's-sûratu temâmen, ve lem yeteredded ehadun fî takdîmi'l-mukterahâti.",
+          "tr": "Çalışanlar yeni vizyonu tam olarak kavradılar ve tablo tamamen netleşene kadar atölyeler birkaç hafta devam etti; kimse öneri sunmakta tereddüt etmedi.",
+          "analiz": [
+            { "kelime": "اِسْتَوْعَبَ / اِسْتِيعَابًا / اِتَّضَحَتِ", "kok": "و-ع-ب / و-ض-ح", "gramer": "X. bab misâl & و→ي mastarı + VIII. bab misâl", "tr": "kavradı / kavrama / netleşti" },
+            { "kelime": "اِسْتَمَرَّتْ / لَمْ يَتَرَدَّدْ", "kok": "م-ر-ر / ر-د-د", "gramer": "X. bab muzaaf + V. bab muzaaf", "tr": "devam etti / tereddüt etmedi" }
+          ]
+        },
+        {
+          "ar": "إِنَّ الْمُؤَسَّسَةَ الَّتِي تَضَعُ الْعَدْلَ مِيزَانًا وَتَمُدُّ يَدَ الدَّعْمِ لِمُوَظَّفِيهَا تُحَقِّقُ الِاسْتِقْرَارَ وَالِازْدِهَارَ، وَلَا تَيْأَسُ أَبَدًا أَمَامَ تَحَدِّيَاتِ السُّوقِ الْمُتَغَيِّرَةِ.",
+          "okunus": "İnne'l-mu’essesete'lletî teda‘u'l-‘adle mîzânen ve temuddu yede'd-da‘mi li-muvazzafîhâ tuhakkıku'l-istikrâra ve'l-izdihâra, ve lâ tey’esu ebeden emâme tehaddiyâti's-sûkı'l-mutegayyirati.",
+          "tr": "Adaleti terazi koyan ve çalışanlarına destek elini uzatan kurum, istikrar ve refaha ulaşır; değişen piyasanın zorlukları karşısında asla umutsuzluğa kapılmaz.",
+          "analiz": [
+            { "kelime": "تَضَعُ / مِيزَانًا / لَا تَيْأَسُ", "kok": "و-ض-ع / و-ز-ن / ي-أ-س", "gramer": "Misâl-i Vâvî + Misâl İsm-i Âlet + Misâl-i Yâî (ي düşmez!)", "tr": "koyar / terazi / umutsuzluğa kapılmaz" },
+            { "kelime": "تَمُدُّ / الِاسْتِقْرَارَ", "kok": "م-د-د / ق-ر-ر", "gramer": "Sülâsî & X. bab muzaaf", "tr": "uzatır / istikrar" }
+          ]
+        }
+      ],
+      "sorular": [
+        {
+          "id": "m33_r1_q1",
+          "soru": "İlk paragrafta geçen 'تَقَعُ، يَثِقُ، يَصِلُونَ، يَجِدُونَ، تَقِفُ' fiillerinin ortak sarf özelliği nedir?",
+          "secenekler": ["Hepsi muzâride baştaki و harfi düşmüş Misâl-i Vâvî fiillerdir", "Hepsi Mehmûz fiildir", "Hepsi Muzaaf fiildir", "Hepsi Misâl-i Yâîdir"],
+          "dogruIndeks": 0,
+          "aciklama": "وَقَعَ، وَثِقَ، وَصَلَ، وَجَدَ، وَقَفَ fiillerinin muzârisinde و düşer."
+        },
+        {
+          "id": "m33_r1_q2",
+          "soru": "İkinci paragraftaki 'أَعْدَدْنَا' (hazırladık) fiilinin mâzi 3. tekil (هُوَ) hâli hangisidir?",
+          "secenekler": ["أَعَدَّ (IV. bab muzaaf — 1. çoğulda şedde çözülmüştür!)", "عَدَّ", "أَعَادَ", "اِسْتَعَدَّ"],
+          "dogruIndeks": 0,
+          "aciklama": "أَعَدَّ (IV. bab muzaaf) → نَحْنُ أَعْدَدْنَا."
+        },
+        {
+          "id": "m33_r1_q3",
+          "soru": "Üçüncü paragraftaki 'اِسْتِيعَابًا' (kavrama) ve ikinci paragraftaki 'إِيضَاحِ' (açıklama) kelimelerinin kökleri hangisidir?",
+          "secenekler": ["و-ع-ب ve و-ض-ح (kesradan sonra و → ي dönüşümü!)", "ي-ع-ب ve ي-ض-ح", "أ-ع-ب ve أ-ض-ح", "س-ع-ب ve ض-ح-ي"],
+          "dogruIndeks": 0,
+          "aciklama": "اِسْتَوْعَبَ → اِسْتِيعَابٌ (و-ع-ب) ve أَوْضَحَ → إِيضَاحٌ (و-ض-ح)."
+        },
+        {
+          "id": "m33_r1_q4",
+          "soru": "Son paragraftaki 'لَا تَيْأَسُ' fiilinde ilk harf olan 'ي' neden düşmemiştir?",
+          "secenekler": ["يَئِسَ Misâl-i Yâî olduğu için muzâride ي harfi düşmez (sadece Misâl-i Vâvîde و düşer!)", "Nehiy olduğu için", "Meçhul olduğu için", "IV. bab olduğu için"],
+          "dogruIndeks": 0,
+          "aciklama": "Misâl-i Yâî fiillerde (يَئِسَ → يَيْأَسُ) ي sabit kalır."
+        },
+        {
+          "id": "m33_r1_q5",
+          "soru": "Metne göre istikrar ve refaha ulaşan kurumun iki temel niteliği nedir?",
+          "secenekler": ["Adaleti terazi koyması ve çalışanlarına destek elini uzatması", "Sadece yeni bina yapması", "İletişimi kesmesi", "Atölyeleri iptal etmesi"],
+          "dogruIndeks": 0,
+          "aciklama": "'تَضَعُ الْعَدْلَ مِيزَانًا وَتَمُدُّ يَدَ الدَّعْمِ لِمُوَظَّفِيهَا.'"
+        }
+      ]
+    },
+    {
+      "id": "m33_r2",
+      "baslik": "Bilge Babanın Oğluna Altın Öğütleri",
+      "arBaslik": "وَصَايَا أَبٍ حَكِيمٍ لِوَلَدِهِ",
+      "seviye": "B1 — Ahlak & Edebiyat",
+      "paragraflar": [
+        {
+          "ar": "قُبَيْلَ سَفَرِ سَامِي لِلدِّرَاسَةِ فِي الْخَارِجِ، جَلَسَ مَعَهُ وَالِدُهُ وَقَالَ لَهُ: «يَا بُنَيَّ، خُذْ مِنِّي هٰذِهِ الْوَصَايَا وَاحْفَظْهَا فِي قَلْبِكَ. أَوَّلًا: كُلْ مِنَ الْحَلَالِ الطَّيِّبِ، وَابْدَأْ كُلَّ عَمَلٍ بِاسْمِ اللّٰهِ، وَاقْرَأْ كُلَّ يَوْمٍ وَلَوْ صَفَحَاتٍ قَلِيلَةً».",
+          "okunus": "Kubeyle seferi Sâmî li'd-dirâseti fi'l-hârici, celese me‘ahû vâliduhû ve kâle lehû: «Yâ buneyye, huz minnî hâzihi'l-vasâyâ ve'hfazhâ fî kalbike. Evvelen: Kul mine'l-halâli't-tayyibi, ve'bde’ kulle ‘amelin bismillâhi, ve'kra’ kulle yevmin ve lev safahâtin kalîleten».",
+          "tr": "Sami'nin yurt dışında eğitim yolculuğundan hemen önce babası onunla oturdu ve şöyle dedi: 'Yavrucuğum, benden bu öğütleri al ve kalbinde sakla. İlk olarak helal ve temiz rızıktan ye, her işe Allah'ın adıyla başla ve birkaç sayfa bile olsa her gün oku.'",
+          "analiz": [
+            { "kelime": "خُذْ / كُلْ / اِبْدَأْ / اِقْرَأْ", "kok": "أ-خ-ذ / أ-ك-ل / ب-د-أ / ق-ر-أ", "gramer": "4 Mehmûz emri (2 hemze düşen + 2 düzenli Mehmûzü'l-Lâm!)", "tr": "al / ye / başla / oku" },
+            { "kelime": "قُبَيْلَ / بُنَيَّ", "kok": "ق-ب-ل / ب-ن-و", "gramer": "Zaman ve şefkat tasğîrleri (Modül 31 bağlantısı!)", "tr": "hemen önce / yavrucuğum" }
+          ]
+        },
+        {
+          "ar": "«ثَانِيًا: سَلْ أَهْلَ الْعِلْمِ عَمَّا لَا تَعْلَمُ، وَلَا تَخْجَلْ مِنَ السُّؤَالِ. وَإِذَا وَعَدْتَ صَدِيقًا فَأَوْفِ بِوَعْدِكَ، وَصِلْ رَحِمَكَ وَأَهْلَكَ بِالِاتِّصَالِ الدَّائِمِ، وَلَا تَقْطَعِ الصِّلَةَ بَيْنَنَا أَبَدًا».",
+          "okunus": "«Sâniyen: Sel ehle'l-‘ilmi ‘ammâ lâ ta‘lemu, ve lâ tahcel mine's-su’âli. Ve izâ va‘adte sadîkan fe-evfi bi-va‘dike, ve sıl rahımeke ve ehleke bi'l-ittısâli'd-dâ’imi, ve lâ takta‘ı's-sılete beynenâ ebeden».",
+          "tr": "'İkinci olarak bilmediğin şeyleri ilim ehline sor ve sormaktan utanma. Bir arkadaşına söz verdiğinde sözünü yerine getir, sürekli iletişim kurarak akrabalarını ve aileni ara; aramızdaki bağı asla koparma.'",
+          "analiz": [
+            { "kelime": "سَلْ", "kok": "س-أ-ل", "gramer": "Mehmûzü'l-Ayn hafifletilmiş emri (= اِسْأَلْ)", "tr": "sor" },
+            { "kelime": "صِلْ / الِاتِّصَالِ / الصِّلَةَ", "kok": "و-ص-ل", "gramer": "و-ص-ل kökünden 3 farklı türev!", "tr": "bağla-ara / iletişim / bağ" }
+          ]
+        },
+        {
+          "ar": "«ثَالِثًا: مُدَّ يَدَ الْمُسَاعَدَةِ لِمَنْ يَحْتَاجُ إِلَيْكَ، وَلَا تَرُدَّ مَنْ يَطْلُبُ عَوْنَكَ. وَإِذَا مَرَرْتَ بِصُعُوبَةٍ فَاصْبِرْ، وَلَا تَظُنَّ أَنَّ النَّجَاحَ يَأْتِي بِلَا تَعَبٍ، بَلْ قِفْ ثَابِتًا وَثِقْ بِرَبِّكَ».",
+          "okunus": "«Sâlisen: Mudde yede'l-musâ‘adeti li-men yahtâcu ileyke, ve lâ terudde men yatlubu ‘avneke. Ve izâ merarte bi-su‘ûbetin fe'sbır, ve lâ tezunne enne'n-necâha ye’tî bi-lâ te‘abin, bel kıf sâbiten ve sık bi-rabbike».",
+          "tr": "'Üçüncü olarak sana ihtiyaç duyana yardım elini uzat ve yardımını isteyeni geri çevirme. Bir zorlukla karşılaştığında sabret ve başarının yorgunluk olmadan geldiğini sanma; aksine dimdik dur ve Rabbine güven.'",
+          "analiz": [
+            { "kelime": "مُدَّ / لَا تَرُدَّ / مَرَرْتَ / لَا تَظُنَّ", "kok": "م-د-د / ر-د-د / م-ر-ر / ظ-ن-ن", "gramer": "4 Muzaaf fiil (emir, nehiy, çözülmüş mâzi!)", "tr": "uzat / geri çevirme / geçtin / sanma" },
+            { "kelime": "قِفْ / ثِقْ", "kok": "و-ق-ف / و-ث-ق", "gramer": "2 harfli Misâl-i Vâvî emirleri!", "tr": "dur / güven" }
+          ]
+        },
+        {
+          "ar": "تَأَثَّرَ سَامِي بِكَلَامِ وَالِدِهِ وَقَالَ: «أَحْبَبْتُ نَصَائِحَكَ يَا أَبِي، وَسَآخُذُ بِهَا جَمِيعًا. أَعِدُكَ أَنَّنِي سَأَسْتَمِرُّ فِي الِاجْتِهَادِ، وَسَأَضَعُ رِضَا اللّٰهِ وَرِضَاكَ نُصْبَ عَيْنَيَّ دَائِمًا».",
+          "okunus": "Te’essera Sâmî bi-kelâmi vâlidihî ve kâle: «Ahbebtu nesâ’ihake yâ ebî, ve se-âhuzu bihâ cemî‘an. E‘ıduke ennenî se-estemirru fi'l-ictihâdi, ve se-eda‘u rıdallâhi ve rıdâke nusbe ‘ayneyye dâ’imen».",
+          "tr": "Sami babasının sözlerinden etkilendi ve şöyle dedi: 'Öğütlerini çok sevdim baba ve hepsini uygulayacağım. Çabalamaya devam edeceğime ve Allah'ın rızası ile senin rızanı daima gözümün önünde tutacağıma sana söz veriyorum.'",
+          "analiz": [
+            { "kelime": "أَحْبَبْتُ / سَأَسْتَمِرُّ", "kok": "ح-ب-ب / م-ر-ر", "gramer": "IV. bab çözülmüş muzaaf + X. bab muzaaf muzâri", "tr": "sevdim / devam edeceğim" },
+            { "kelime": "سَآخُذُ / أَعِدُكَ / سَأَضَعُ", "kok": "أ-خ-ذ / و-ع-د / و-ض-ع", "gramer": "Medli mehmûz (آخُذُ) + 2 Misâl-i Vâvî 1. tekil (و düştü!)", "tr": "alacağım / sana söz veriyorum / koyacağım" }
+          ]
+        }
+      ],
+      "sorular": [
+        {
+          "id": "m33_r2_q1",
+          "soru": "İlk iki paragraftaki 'خُذْ، كُلْ، سَلْ' emirlerinin 3 harfli kökleri sırasıyla hangisidir?",
+          "secenekler": ["أ-خ-ذ / أ-ك-ل / س-أ-ل (Mehmûz fiiller!)", "و-خ-ذ / و-ك-ل / و-س-ل", "خ-ذ-ل / ك-ل-ل / س-ل-م", "أ-خ-ر / ك-و-ل / س-ي-ل"],
+          "dogruIndeks": 0,
+          "aciklama": "خُذْ (أَخَذَ), كُلْ (أَكَلَ), سَلْ (سَأَلَ)."
+        },
+        {
+          "id": "m33_r2_q2",
+          "soru": "Üçüncü paragraftaki 'مَرَرْتَ' kelimesinde şedde neden çözülmüş, 'مُدَّ' ve 'لَا تَرُدَّ'de neden korunmuştur?",
+          "secenekler": ["مَرَرْتَ harekeli fâil zamiri aldığı için çözülmesi zorunludur; tekil emir/nehiyde (مُدَّ/لَا تَرُدَّ) şeddeli şekil câizdir", "مَرَّ sâlim fiildir", "مُدَّ IV. babdır", "Yazım tercihidir"],
+          "dogruIndeks": 0,
+          "aciklama": "Harekeli fâil zamiriyle çözülme ZORUNLU, tekil emir/cezmde ise iki şekil de (مُدَّ = اُمْدُدْ) CÂİZDİR!"
+        },
+        {
+          "id": "m33_r2_q3",
+          "soru": "Son paragraftaki 'أَعِدُكَ' (sana söz veriyorum) ve 'سَأَضَعُ' (koyacağım) fiillerinin mâzileri hangisidir?",
+          "secenekler": ["وَعَدَ ve وَضَعَ (Misâl-i Vâvî!)", "أَعَدَّ ve أَضَاعَ", "عَادَ ve ضَاعَ", "عَدَّ ve ضَعُفَ"],
+          "dogruIndeks": 0,
+          "aciklama": "وَعَدَ → يَعِدُ → أَعِدُ (و düştü!); وَضَعَ → يَضَعُ → أَضَعُ (و düştü!)."
+        },
+        {
+          "id": "m33_r2_q4",
+          "soru": "Sami'nin 'أَحْبَبْتُ' (sevdim) sözü hangi bab ve fiil türündendir?",
+          "secenekler": ["IV. bab muzaaf (أَحَبَّ → أَحْبَبْتُ)", "Sülâsî sâlim", "VIII. bab misâl", "X. bab mehmûz"],
+          "dogruIndeks": 0,
+          "aciklama": "أَحَبَّ (IV. bab muzaaf) 1. tekil mâzide şeddesini çözer: أَحْبَبْتُ."
+        },
+        {
+          "id": "m33_r2_q5",
+          "soru": "Metne göre baba, Sami bir zorlukla karşılaştığında ne yapmasını öğütlüyor?",
+          "secenekler": ["Sabretmesini, dimdik durmasını (قِفْ ثَابِتًا) ve Rabbine güvenmesini (ثِقْ بِرَبِّكَ)", "Hemen geri dönmesini", "Soru sormaktan vazgeçmesini", "İletişimi kesmesini"],
+          "dogruIndeks": 0,
+          "aciklama": "'فَاصْبِرْ... بَلْ قِفْ ثَابِتًا وَثِقْ بِرَبِّكَ.'"
+        }
+      ]
+    },
+    {
+      "id": "m33_r3",
+      "baslik": "Üniversite Sınavına Hazırlık Günü",
+      "arBaslik": "يَوْمُ الِاسْتِعْدَادِ لِاخْتِبَارِ اللُّغَةِ",
+      "seviye": "B1 — Öğrenci Günlüğü",
+      "paragraflar": [
+        {
+          "ar": "اِسْتَيْقَظْتُ بَاكِرًا صَبَاحَ الْيَوْمِ، وَأَكَلْتُ فُطُورًا خَفِيفًا، ثُمَّ مَرَرْتُ بِصَدِيقِي يُوسُفَ لِنَذْهَبَ مَعًا إِلَى الْمَكْتَبَةِ. كُنَّا قَدِ اسْتَعْدَدْنَا جَيِّدًا لِاخْتِبَارِ الصَّرْفِ، وَلٰكِنَّنَا وَدِدْنَا أَنْ نُرَاجِعَ أَقْسَامَ الْفِعْلِ مَرَّةً أَخِيرَةً.",
+          "okunus": "İsteykaztu bâkiran sabâha'l-yevmi, ve ekeltu futûran hafîfen, summe merartu bi-sadîkî Yûsufe li-nezhebe me‘an ile'l-mektebeti. Kunnâ kadi'sta‘dednâ ceyyiden li'htibâri's-sarfi, ve lâkinnenâ vedidnâ en nurâci‘a eksâme'l-fi‘li merraten ahîraten.",
+          "tr": "Bu sabah erken uyandım, hafif bir kahvaltı yedim, sonra kütüphaneye birlikte gitmek için arkadaşım Yusuf'a uğradım. Sarf sınavına iyi hazırlanmıştık ama fiil kısımlarını son bir kez daha tekrar etmek istedik.",
+          "analiz": [
+            { "kelime": "اِسْتَيْقَظْتُ / أَكَلْتُ", "kok": "ي-ق-ظ / أ-ك-ل", "gramer": "X. bab Misâl-i Yâî + Sülâsî Mehmûz", "tr": "uyandım / yedim" },
+            { "kelime": "مَرَرْتُ / اسْتَعْدَدْنَا / وَدِدْنَا", "kok": "م-ر-ر / ع-د-د / و-د-د", "gramer": "3 Muzaaf çözülmesi (sülâsî 1. bab, X. bab, sülâsî 4. bab!)", "tr": "uğradım / hazırlandık / istedik" }
+          ]
+        },
+        {
+          "ar": "وَصَلْنَا إِلَى الْقَاعَةِ قَبْلَ السَّاعَةِ التَّاسِعَةِ، وَوَجَدْنَا زُمَلَاءَنَا يَحُلُّونَ النَّمَاذِجَ، بَيْنَمَا كَانَتِ الطَّالِبَاتُ يَمْدُدْنَ أَيْدِيَهُنَّ لِتَبَادُلِ الْمُلَخَّصَاتِ وَيَحْلُلْنَ التَّدْرِيبَاتِ بِهُدُوءٍ.",
+          "okunus": "Vesalnâ ile'l-kâ‘ati kable's-sâ‘ati't-tâsi‘ati, ve vecednâ zumelâ’enâ yahullûne'n-nemâzice, beynemâ kâneti't-tâlibâtu yemdudne eydiyehunne li-tebâduli'l-mulahhasâti ve yahlulne't-tedrîbâti bi-hudû’in.",
+          "tr": "Saat dokuzdan önce salona ulaştık ve erkek arkadaşlarımızı örnek testleri çözerken bulduk; kız öğrenciler ise özetleri paylaşmak için ellerini uzatıyor ve alıştırmaları sakince çözüyorlardı.",
+          "analiz": [
+            { "kelime": "يَحُلُّونَ ≠ يَمْدُدْنَ / يَحْلُلْنَ", "kok": "ح-ل-ل / م-د-د", "gramer": "Muzâri çoğulda şedde sabit ≠ Nûn-ı Nisvede zorunlu çözülme!", "tr": "çözüyorlar (مذ) ≠ uzatıyorlar/çözüyorlar (مؤ)" },
+            { "kelime": "وَصَلْنَا / وَجَدْنَا", "kok": "و-ص-ل / و-ج-د", "gramer": "Misâl-i Vâvî mâzi (sâlim gibi tam düzenli!)", "tr": "ulaştık / bulduk" }
+          ]
+        },
+        {
+          "ar": "سَأَلَنِي يُوسُفُ: «هَلْ تَثِقُ بِقُدْرَتِكَ عَلَى اسْتِخْرَاجِ جَذْرِ كُلِّ كَلِمَةٍ؟» فَأَجَبْتُهُ: «نَعَمْ! لَمْ يَعُدْ يُصَعِّبُ عَلَيَّ أَيُّ مِثَالٍ أَوْ مُضَاعَفٍ، فَأَنَا أَصِفُ الْقَاعِدَةَ بِكُلِّ سُهُولَةٍ وَآمُلُ أَنْ نَحْصُلَ عَلَى الدَّرَجَةِ الْكَامِلَةِ».",
+          "okunus": "Se’elenî Yûsufu: «Hel tesıku bi-kudratike ‘ale'stıhrâci cezri kulli kelimetin?» Fe-ecebtuhû: «Ne‘am! Lem ya‘ud yusa‘‘ıbu ‘aleyye eyyu misâlin ev mudâ‘afin, fe-ene esıfu'l-kâ‘ıdete bi-kulli suhûletin ve âmulu en nahsule ‘ale'd-dereceti'l-kâmileti».",
+          "tr": "Yusuf bana sordu: 'Her kelimenin kökünü çıkarma becerine güveniyor musun?' Ona şöyle cevap verdim: 'Evet! Artık hiçbir misâl veya muzaaf beni zorlamıyor; kuralı kolaylıkla tarif ediyorum ve tam puan alacağımızı umuyorum.'",
+          "analiz": [
+            { "kelime": "تَثِقُ / أَصِفُ", "kok": "و-ث-ق / و-ص-ف", "gramer": "و'sı düşmüş iki Misâl-i Vâvî muzâri", "tr": "güveniyorsun / tarif ediyorum" },
+            { "kelime": "آمُلُ", "kok": "أ-م-ل", "gramer": "1. tekil Mehmûzü'l-Fâ (أَأْمُلُ → آمُلُ!)", "tr": "umuyorum" }
+          ]
+        },
+        {
+          "ar": "وَعِنْدَمَا بَدَأَ الِاخْتِبَارُ، قَرَأْتُ التَّعْلِيمَاتِ الَّتِي تَقُولُ: «ضَعْ دَائِرَةً حَوْلَ الْإِجَابَةِ الصَّحِيحَةِ، وَصِلْ كُلَّ فِعْلٍ بِجَذْرِهِ». حَلَلْتُ كُلَّ الْأَسْئِلَةِ بِثِقَةٍ، وَخَرَجْتُ مِنَ الْقَاعَةِ فَرِحًا وَمُطْمَئِنًّا.",
+          "okunus": "Ve ‘indemâ bede’e'l-ihtibâru, kara’tu't-ta‘lîmâti'lletî tekûlu: «Da‘ dâ’iraten havle'l-icâbeti's-sahîhati, ve sıl kulle fi‘lin bi-cezrihî». Haleltu kulle'l-es’ileti bi-sikatin, ve haractu mine'l-kâ‘ati ferihan ve mutme’innen.",
+          "tr": "Sınav başladığında şöyle diyen yönergeleri okudum: 'Doğru cevabın etrafına daire koy ve her fiili köküyle eşleştir.' Tüm soruları güvenle çözdüm ve salondan mutlu ve içi rahat olarak çıktım.",
+          "analiz": [
+            { "kelime": "بَدَأَ / قَرَأْتُ", "kok": "ب-د-أ / ق-ر-أ", "gramer": "İki düzenli Mehmûzü'l-Lâm fiil", "tr": "başladı / okudum" },
+            { "kelime": "ضَعْ / صِلْ / حَلَلْتُ / بِثِقَةٍ", "kok": "و-ض-ع / و-ص-ل / ح-ل-ل / و-ث-ق", "gramer": "2 Misâl emri + çözülmüş Muzaaf + Misâl mastarı", "tr": "koy / eşleştir / çözdüm / güvenle" }
+          ]
+        }
+      ],
+      "sorular": [
+        {
+          "id": "m33_r3_q1",
+          "soru": "İlk paragrafta şeddesi çözülmüş (fekk-i idğam) üç muzaaf fiil hangileridir?",
+          "secenekler": ["مَرَرْتُ (مَرَّ) – اِسْتَعْدَدْنَا (اِسْتَعَدَّ) – وَدِدْنَا (وَدَّ)", "اِسْتَيْقَظْتُ – أَكَلْتُ – نُرَاجِعَ", "وَصَلْنَا – وَجَدْنَا – خَرَجْتُ", "بَدَأَ – قَرَأْتُ – سَأَلَنِي"],
+          "dogruIndeks": 0,
+          "aciklama": "مَرَرْتُ (1. bab), اِسْتَعْدَدْنَا (X. bab), وَدِدْنَا (4. bab kesralı!) — üçü de çözülmüş muzaaftır."
+        },
+        {
+          "id": "m33_r3_q2",
+          "soru": "İkinci paragrafta 'يَحُلُّونَ' şeddeli iken 'يَحْلُلْنَ' ve 'يَمْدُدْنَ' neden çözülmüştür?",
+          "secenekler": ["Muzâride cemi vavıyla şedde korunur; Nûn-ı Nisve bitiştiğinde (يَحْلُلْنَ/يَمْدُدْنَ) zorunlu çözülür", "يَحُلُّونَ mâzidir", "يَحْلُلْنَ emirdir", "Fark yoktur"],
+          "dogruIndeks": 0,
+          "aciklama": "Nûn-ı Nisve fiili sükûn üzere mebnî yaptığı için muzaafın şeddesi çözülür."
+        },
+        {
+          "id": "m33_r3_q3",
+          "soru": "Üçüncü paragraftaki 'آمُلُ' (umuyorum) fiilinin başındaki medli elif (آ) nasıl oluşmuştur?",
+          "secenekler": ["1. tekil muzâraat hemzesi (أَ) + kökün sakin hemzesi (أْ) birleşerek آ olmuştur (أَأْمُلُ → آمُلُ)", "IV. bab olduğu için", "Çoğul olduğu için", "Misâl olduğu için"],
+          "dogruIndeks": 0,
+          "aciklama": "أَمَلَ → أَأْمُلُ → آمُلُ (آخُذُ ve آكُلُ gibi!)."
+        },
+        {
+          "id": "m33_r3_q4",
+          "soru": "Son paragraftaki sınav yönergesinde geçen 'ضَعْ' ve 'صِلْ' emirlerinin mâzileri hangisidir?",
+          "secenekler": ["وَضَعَ ve وَصَلَ", "ضَاعَ ve صَلَّى", "ضَعُفَ ve صَلَحَ", "أَضَاعَ ve أَصْلَحَ"],
+          "dogruIndeks": 0,
+          "aciklama": "وَضَعَ → يَضَعُ → ضَعْ; وَصَلَ → يَصِلُ → صِلْ."
+        },
+        {
+          "id": "m33_r3_q5",
+          "soru": "İlk paragraftaki 'اِسْتَيْقَظْتُ' (uyandım) fiilinin kökü ve türü nedir?",
+          "secenekler": ["ي-ق-ظ — X. bab Misâl-i Yâî", "و-ق-ظ — Misâl-i Vâvî", "ق-ي-ظ — Ecvef", "ق-ظ-ظ — Muzaaf"],
+          "dogruIndeks": 0,
+          "aciklama": "يَقِظَ → اِسْتَيْقَظَ (X. bab Misâl-i Yâî; ي düşmez!)."
+        }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "m33_d1",
+      "baslik": "Mutfak ve Sofra Sohbeti — Mehmûz Emirleri (كُلْ / خُذْ / آكُلُ)",
+      "ortam": "Aile Kahvaltı Masası",
+      "replikler": [
+        { "konusan": "الْأُمُّ", "ar": "صَبَاحُ الْخَيْرِ يَا أَبْنَائِي! أَعْدَدْتُ لَكُمْ فُطُورًا شَهِيًّا، تَفَضَّلُوا وَكُلُوا قَبْلَ أَنْ يَبْرُدَ الطَّعَامُ.", "okunus": "Sabâhu'l-hayri yâ ebnâ’î! A‘dedtu lekum futûran şehiyyen, tefaddalû ve kulû kable en yebrude't-ta‘âmu.", "tr": "Günaydın çocuklarım! Sizin için nefis bir kahvaltı hazırladım; buyurun, yemek soğumadan yiyin." },
+        { "konusan": "عُمَرُ", "ar": "صَبَاحُ النُّورِ يَا أُمِّي! شُكْرًا لَكِ، أَنَا آكُلُ الْآنَ الْجُبْنَ وَالزَّيْتُونَ وَآخُذُ كُوبًا مِنَ الشَّايِ.", "okunus": "Sabâhu'n-nûri yâ ummî! Şukran leki, ene âkulu'l-âne'l-cubne ve'z-zeytûne ve âhuzu kûben mine'ş-şâyi.", "tr": "Günaydın anne! Teşekkürler, şimdi peynir ve zeytin yiyorum ve bir bardak çay alıyorum." },
+        { "konusan": "الْأُمُّ", "ar": "خُذْ أَيْضًا قِطْعَةً مِنَ الْخُبْزِ الطَّازَجِ يَا عُمَرُ، وَأَنْتِ يَا هِنْدُ كُلِي بَيْضَتَكِ كَامِلَةً!", "okunus": "Huz eydan kıt‘aten mine'l-hubzi't-tâzeci yâ ‘Umeru, ve enti yâ Hindu kulî beydataki kâmileten!", "tr": "Ömer taze ekmekten de bir parça al; sen de Hind yumurtanı tamamen ye!" },
+        { "konusan": "هِنْدُ", "ar": "حَاضِرٌ يَا أُمِّي، لَقَدْ أَحْبَبْتُ الْفُطُورَ كَثِيرًا! مَتَى يَصِلُ الْحَافِلَةُ الْمَدْرَسِيَّةُ الْيَوْمَ؟", "okunus": "Hâdırun yâ ummî, lekad ahbebtu'l-futûra kesîran! Metâ tesılu'l-hâfiletu'l-medresiyyetu'l-yevme?", "tr": "Peki anne, kahvaltıyı çok sevdim! Okul servisi bugün ne zaman geliyor?" },
+        { "konusan": "عُمَرُ", "ar": "تَصِلُ فِي السَّاعَةِ السَّابِعَةِ وَالنِّصْفِ تَمَامًا، وَتَقِفُ أَمَامَ الْبَوَّابَةِ الرَّئِيسِيَّةِ.", "okunus": "Tesılu fi's-sâ‘ati's-sâbi‘ati ve'n-nısfı temâmen, ve tekıfu emâme'l-bevvâbeti'r-ra’îsiyyeti.", "tr": "Tam yedi buçukta ulaşıyor ve ana kapının önünde duruyor." },
+        { "konusan": "الْأُمُّ", "ar": "ضَعَا كُتُبَكُمَا فِي الْحَقِيبَةِ قَبْلَ الْخُرُوجِ، وَلَا تَنْسَيَا قِنِّينَةَ الْمَاءِ.", "okunus": "Da‘â kutubekumâ fi'l-hakîbeti kable'l-hurûci, ve lâ tenseyâ kınnînete'l-mâ’i.", "tr": "Çıkmadan önce kitaplarınızı çantaya koyun ve su şişesini unutmayın." },
+        { "konusan": "هِنْدُ", "ar": "لَقَدْ وَضَعْتُ كُلَّ دَفَاتِرِي أَمْسِ، وَحَلَلْتُ وَاجِبَ الرِّيَاضِيَّاتِ قَبْلَ النَّوْمِ.", "okunus": "Lekad vada‘tu kulle defâtirî emsi, ve haleltu vâcibe'r-riyâdıyyâti kable'n-nevmi.", "tr": "Tüm defterlerimi dün koydum ve uyumadan önce matematik ödevini çözdüm." },
+        { "konusan": "عُمَرُ", "ar": "وَأَنَا أَيْضًا أَعْدَدْتُ عَرْضِي الشَّفَهِيَّ، وَسَأَسْأَلُ الْمُعَلِّمَ عَنْ مَوْعِدِ الِامْتِحَانِ.", "okunus": "Ve ene eydan a‘dedtu ‘ardıye'ş-şefehiyye, ve se-es’elu'l-mu‘allime ‘an mev‘ıdi'l-imtihâni.", "tr": "Ben de sözlü sunumumu hazırladım ve öğretmene sınav vaktini soracağım." },
+        { "konusan": "الْأُمُّ", "ar": "مَا شَاءَ اللّٰهُ عَلَيْكُمَا! اِقْرَآ دُرُوسَكُمَا بِاهْتِمَامٍ، وَثِقَا بِأَنَّ الِاجْتِهَادَ يُثْمِرُ دَائِمًا.", "okunus": "Mâ şâ’allâhu ‘aleykumâ! İkra’â durûsekumâ bi'htimâmin, ve sıkâ bi-enne'l-ictihâde yusmiru dâ’imen.", "tr": "Maşallah ikinize! Derslerinizi özenle okuyun ve çabanın daima meyve vereceğine güvenin." },
+        { "konusan": "هِنْدُ", "ar": "إِيذَنِي لَنَا بِالِانْصِرَافِ يَا أُمِّي، فَقَدْ حَانَ مَوْعِدُ الْحَافِلَةِ!", "okunus": "Îzenî lenâ bi'l-ınsırâfi yâ ummî, fe-kad hâne mev‘ıdu'l-hâfileti!", "tr": "Anne kalkmamıza izin ver, servisin vakti geldi!" },
+        { "konusan": "الْأُمُّ", "ar": "فِي أَمَانِ اللّٰهِ يَا حَبِيبَيَّ، اِتَّصِلَا بِي عِنْدَمَا تَصِلَانِ إِلَى الْمَدْرَسَةِ!", "okunus": "Fî emânillâhi yâ habîbeyye, ittasılâ bî ‘indemâ tesılâni ile'l-medreseti!", "tr": "Allah'a emanet olun canlarım, okula ulaştığınızda beni arayın!" },
+        { "konusan": "عُمَرُ", "ar": "حَاضِرٌ يَا أُمِّي، إِلَى اللِّقَاءِ مَسَاءً!", "okunus": "Hâdırun yâ ummî, ile'l-likâ’i mesâ’en!", "tr": "Peki anne, akşam görüşmek üzere!" }
+      ],
+      "partner": [
+        { "soruAr": "مَا أَصْلُ الْأَوَامِرِ «كُلُوا، خُذْ، كُلِي، إِيذَنِي» فِي الْحِوَارِ؟", "soruTr": "Diyalogdaki كُلُوا, خُذْ, كُلِي, إِيذَنِي emirlerinin kök fiilleri nelerdir?", "ipucu": "Mehmûzü'l-Fâ fiiller.", "secenekler": ["أَكَلَ، أَخَذَ، أَكَلَ، أَذِنَ (أَفْعَالٌ مَهْمُوزَةُ الْفَاءِ).", "وَكَلَ، وَخَذَ، وَذِنَ.", "قَالَ، كَانَ، نَالَ."], "dogruIndeks": 0, "aciklama": "أَخَذَ → خُذْ, أَكَلَ → كُلْ/كُلِي/كُلُوا, أَذِنَ → إِيذَنْ/إِيذَنِي!" },
+        { "soruAr": "فِي كَلَامِ الْأُمِّ «أَعْدَدْتُ لَكُمْ فُطُورًا»، لِمَاذَا فُكَّ التَّضْعِيفُ فِي «أَعْدَدْتُ»؟", "soruTr": "'أَعْدَدْتُ' fiilinde şedde neden çözülmüştür?", "ipucu": "Harekeli fâil zamiri تُ.", "secenekler": ["لِاتِّصَالِ الْفِعْلِ الْمُضَاعَفِ (أَعَدَّ) بِتَاءِ الْفَاعِلِ الْمُتَحَرِّكَةِ.", "لِأَنَّهُ فِعْلٌ مِثَالٌ.", "لِأَنَّهُ مَنْصُوبٌ."], "dogruIndeks": 0, "aciklama": "أَعَدَّ (IV. bab muzaaf) + تُ → أَعْدَدْتُ." },
+        { "soruAr": "مَا أَصْلُ الْفِعْلَيْنِ «ضَعَا» وَ«ثِقَا» فِي كَلَامِ الْأُمِّ؟", "soruTr": "Annenin sözündeki ضَعَا ve ثِقَا tesniye emirlerinin mâzileri nedir?", "ipucu": "Misâl-i Vâvî (وَضَعَ / وَثِقَ).", "secenekler": ["وَضَعَ وَوَثِقَ (حُذِفَتِ الْوَاوُ فِي الْمُضَارِعِ وَالْأَمْرِ).", "ضَاعَ وَثَاقَ.", "أَضَاعَ وَأَوْثَقَ."], "dogruIndeks": 0, "aciklama": "وَضَعَ → ضَعْ/ضَعَا; وَثِقَ → ثِقْ/ثِقَا." },
+        { "soruAr": "كَيْفَ قَالَ عُمَرُ «أَنَا آكُلُ وَآخُذُ»؟ لِمَاذَا كُتِبَتِ الْمَدَّةُ (آ)؟", "soruTr": "Ömer'in 'آكُلُ وَآخُذُ' sözünde neden med (آ) yazılmıştır?", "ipucu": "İki hemzenin birleşmesi.", "secenekler": ["لِاجْتِمَاعِ هَمْزَةِ الْمُضَارَعَةِ الْمَفْتُوحَةِ مَعَ هَمْزَةِ الْفِعْلِ السَّاكِنَةِ (أَأْ → آ).", "لِأَنَّهُ جَمْعٌ.", "لِأَنَّهُ مَاضٍ."], "dogruIndeks": 0, "aciklama": "أَأْكُلُ → آكُلُ ve أَأْخُذُ → آخُذُ." },
+        { "soruAr": "مَتَى تَصِلُ الْحَافِلَةُ الْمَدْرَسِيَّةُ وَأَيْنَ تَقِفُ؟", "soruTr": "Okul servisi saat kaçta ulaşıyor ve nerede duruyor?", "ipucu": "Saat 7.30 — ana kapının önü.", "secenekler": ["تَصِلُ السَّاعَةَ السَّابِعَةَ وَالنِّصْفَ وَتَقِفُ أَمَامَ الْبَوَّابَةِ الرَّئِيسِيَّةِ.", "تَصِلُ السَّاعَةَ التَّاسِعَةَ.", "لَا تَأْتِي الْيَوْمَ."], "dogruIndeks": 0, "aciklama": "تَصِلُ (وَصَلَ) ve تَقِفُ (وَقَفَ)." }
+      ]
+    },
+    {
+      "id": "m33_d2",
+      "baslik": "Sürücü Kursunda — Trafikte Misâl Fiiller (قِفْ / ضَعْ / صِلْ)",
+      "ortam": "Sürücü Eğitimi Pist Alanı",
+      "replikler": [
+        { "konusan": "الْمُدَرِّبُ", "ar": "أَهْلًا يَا طَارِقُ! قَبْلَ أَنْ تَبْدَأَ الْقِيَادَةَ، ضَعْ حِزَامَ الْأَمَانِ وَتَأَكَّدْ مِنَ الْمَرَايَا.", "okunus": "Ehlen yâ Târıku! Kable en tebde’e'l-kıyâdete, da‘ hızâme'l-emâni ve te’ekked mine'l-merâyâ.", "tr": "Hoş geldin Tarık! Sürüşe başlamadan önce emniyet kemerini tak ve aynaları kontrol et." },
+        { "konusan": "طَارِقٌ", "ar": "وَضَعْتُ الْحِزَامَ وَضَبَطْتُ الْمَرَايَا يَا أُسْتَاذُ. هَلْ أَبْدَأُ بِالسَّيْرِ الْآنَ؟", "okunus": "Vada‘tu'l-hızâme ve dabattu'l-merâyâ yâ ustâzu. Hel ebde’u bi's-seyri'l-âne?", "tr": "Kemeri taktım ve aynaları ayarladım hocam. Şimdi sürmeye başlayayım mı?" },
+        { "konusan": "الْمُدَرِّبُ", "ar": "نَعَمْ، تَفَضَّلْ. اُنْظُرْ أَمَامَكَ: يُوجَدُ إِشَارَةُ «قِفْ» عِنْدَ التَّقَاطُعِ، فَتَوَقَّفْ تَمَامًا قَبْلَ الْخَطِّ.", "okunus": "Ne‘am, tefaddal. Unzur emâmeke: Yûcedu işâratu «kıf» ‘inde't-tekâtu‘ı, fe-tevakkaf temâmen kable'l-hattı.", "tr": "Evet, buyur. Önüne bak: Kavşakta 'DUR' işareti var, çizgiden önce tamamen dur." },
+        { "konusan": "طَارِقٌ", "ar": "حَاضِرٌ! وَقَفْتُ تَمَامًا وَنَظَرْتُ يَمِينًا وَيَسَارًا. الطَّرِيقُ خَالٍ الْآنَ.", "okunus": "Hâdırun! Vekaftu temâmen ve nazartu yemînen ve yesâran. Et-tarîku hâlin el-âne.", "tr": "Tamam! Tamamen durdum ve sağa sola baktım. Yol şimdi boş." },
+        { "konusan": "الْمُدَرِّبُ", "ar": "أَحْسَنْتَ! الْآنَ وَاصِلِ السَّيْرَ بِبُطْءٍ، وَلَا تَسْتَعْجِلْ حَتَّى تَصِلَ إِلَى الدُّوَّارِ.", "okunus": "Ahsente! El-âne vâsıli's-seyra bi-but’in, ve lâ testa‘cil hattâ tesıle ile'd-duvvâri.", "tr": "Aferin! Şimdi yavaşça sürmeye devam et ve dönel kavşağa ulaşana kadar acele etme." },
+        { "konusan": "طَارِقٌ", "ar": "يَقَعُ مَوْقِفُ التَّدْرِيبِ عَلَى الْيَمِينِ بَعْدَ الدُّوَّارِ، أَلَيْسَ كَذٰلِكَ؟", "okunus": "Yeka‘u mevkıfu't-tedrîbi ‘ale'l-yemîni ba‘de'd-duvvâri, e-leyse kezâlike?", "tr": "Eğitim park alanı kavşaktan sonra sağda kalıyor, öyle değil mi?" },
+        { "konusan": "الْمُدَرِّبُ", "ar": "صَحِيحٌ! وَثِقْ بِمَهَارَتِكَ عِنْدَ الرَّكْنِ، وَلَا تَقْلَقْ إِذَا أَخْطَأْتَ فِي الْمُحَاوَلَةِ الْأُولَى.", "okunus": "Sahîhun! Ve sık bi-mehâratike ‘inde'r-rakni, ve lâ taklak izâ ahta’te fi'l-muhâveleti'l-ûlâ.", "tr": "Doğru! Park ederken becerine güven ve ilk denemede hata yaparsan endişelenme." },
+        { "konusan": "طَارِقٌ", "ar": "ظَنَنْتُ أَنَّ الرَّكْنَ بَيْنَ سَيَّارَتَيْنِ صَعْبٌ، وَلٰكِنَّنِي وَجَدْتُهُ سَهْلًا بَعْدَ إِيضَاحِكَ!", "okunus": "Zanentu enne'r-rakne beyne seyyârateyni sa‘bun, ve lâkinnenî vecedtuhû sehlen ba‘de îdâhıke!", "tr": "İki araba arasına park etmenin zor olduğunu sanmıştım ama senin açıklamandan sonra kolay buldum!" },
+        { "konusan": "الْمُدَرِّبُ", "ar": "مُمْتَازٌ يَا طَارِقُ! إِذَا اسْتَمْرَرْتَ بِهٰذَا التَّرْكِيزِ، فَسَتَنْجَحُ فِي اخْتِبَارِ الْقِيَادَةِ مِنْ أَوَّلِ مَرَّةٍ.", "okunus": "Mumtâzun yâ Târıku! İze'stemrarte bi-hâze't-terkîzi, fe-se-tencehu fî'htibâri'l-kıyâdeti min evveli merratin.", "tr": "Mükemmel Tarık! Bu odaklanmayla devam edersen sürüş sınavını ilk seferde geçeceksin." },
+        { "konusan": "طَارِقٌ", "ar": "أَعِدُكَ أَنَّنِي سَأَلْتَزِمُ دَائِمًا بِقَوَاعِدِ الْمُرُورِ وَأَكُونُ سَائِقًا حَذِرًا.", "okunus": "E‘ıduke ennenî se-eltezimu dâ’imen bi-kavâ‘ıdi'l-murûri ve ekûnu sâ’ikan haziran.", "tr": "Trafik kurallarına daima uyacağıma ve çok dikkatli bir sürücü olacağıma sana söz veriyorum." },
+        { "konusan": "الْمُدَرِّبُ", "ar": "هٰذِهِ صِفَةُ السَّائِقِ الْوَاعِي! خُذْ نَفَسًا عَمِيقًا وَأَطْفِئِ الْمُحَرِّكَ الْآنَ.", "okunus": "Hâzihî sıfatu's-sâ’ikı'l-vâ‘î! Huz nefesen ‘amîkan ve atfi’i'l-muharrika'l-âne.", "tr": "Bu bilinçli sürücünün niteliğidir! Derin bir nefes al ve şimdi motoru kapat." },
+        { "konusan": "طَارِقٌ", "ar": "شُكْرًا جَزِيلًا لَكَ يَا أُسْتَاذُ عَلَى صَبْرِكَ وَتَوْجِيهَاتِكَ الرَّائِعَةِ!", "okunus": "Şukran cezîlen leke yâ ustâzu ‘alâ sabrike ve tevcîhâtike'r-râ’i‘ati!", "tr": "Sabrınız ve harika yönlendirmeleriniz için çok teşekkürler hocam!" }
+      ],
+      "partner": [
+        { "soruAr": "مَاذَا طَلَبَ الْمُدَرِّبُ مِنْ طَارِقٍ قَبْلَ الْقِيَادَةِ؟", "soruTr": "Eğitmen sürüşten önce Tarık'tan ne istedi?", "ipucu": "ضَعْ (وَضَعَ emri) + aynalar.", "secenekler": ["طَلَبَ مِنْهُ أَنْ يَضَعَ حِزَامَ الْأَمَانِ وَيَتَأَكَّدَ مِنَ الْمَرَايَا.", "طَلَبَ مِنْهُ أَنْ يُسْرِعَ فَوْرًا.", "طَلَبَ مِنْهُ أَنْ يَنْزِلَ مِنَ السَّيَّارَةِ."], "dogruIndeks": 0, "aciklama": "ضَعْ حِزَامَ الْأَمَانِ (وَضَعَ → ضَعْ)." },
+        { "soruAr": "فِي جُمْلَةِ «يُوجَدُ إِشَارَةُ قِفْ»، لِمَاذَا بَقِيَتِ الْوَاوُ فِي «يُوجَدُ» وَحُذِفَتْ فِي «قِفْ»؟", "soruTr": "'يُوجَدُ'da vav neden kaldı da 'قِفْ'te düştü?", "ipucu": "Meçhul muzâri (يُـ) vs. etken emir.", "secenekler": ["لِأَنَّ «يُوجَدُ» مَبْنِيٌّ لِلْمَجْهُولِ فَتَبْقَى وَاوُهُ، أَمَّا «قِفْ» فَأَمْرٌ مَبْنِيٌّ عَلَى الْمُضَارِعِ الْمَعْلُومِ (يَقِفُ).", "كِلَاهُمَا مَهْمُوزٌ.", "لِلتَّخْفِيفِ فَقَطْ."], "dogruIndeks": 0, "aciklama": "Meçhul muzâride و sabit kalır (يُوجَدُ), etken يَقِفُ / قِفْ'te و düşer!" },
+        { "soruAr": "مَا جَذْرُ كَلِمَةِ «إِيضَاحِكَ» وَ«صِفَةُ» فِي الْحِوَارِ؟", "soruTr": "Diyalogdaki 'إِيضَاحِكَ' ve 'صِفَةُ' kelimelerinin kökleri nedir?", "ipucu": "İkisi de Misâl-i Vâvî!", "secenekler": ["و-ض-ح (أَوْضَحَ → إِيضَاح) وَ و-ص-ف (وَصَفَ → صِفَة).", "ض-ح-ك وَ ص-ف-ي.", "ي-ض-ح وَ ص-ف-ف."], "dogruIndeks": 0, "aciklama": "إِيضَاح (و-ض-ح) ve صِفَة (و-ص-ف)." },
+        { "soruAr": "فِي قَوْلِ الْمُدَرِّبِ «إِذَا اسْتَمْرَرْتَ»، مَا نَوْعُ الْفِعْلِ وَلِمَاذَا فُكَّ الْإِدْغَامُ؟", "soruTr": "'اِسْتَمْرَرْتَ' ne tür bir fiildir ve idğam neden çözülmüştür?", "ipucu": "X. bab muzaaf + تَ zamiri.", "secenekler": ["مُضَاعَفٌ مَزِيدٌ (اِسْتَمَرَّ)، وَفُكَّ الْإِدْغَامُ لِاتِّصَالِهِ بِتَاءِ الْفَاعِلِ.", "فِعْلٌ مِثَالٌ.", "فِعْلٌ أَجْوَفُ."], "dogruIndeks": 0, "aciklama": "اِسْتَمَرَّ (X. bab muzaaf) + تَ → اِسْتَمْرَرْتَ." },
+        { "soruAr": "بِمَاذَا وَعَدَ طَارِقٌ الْمُدَرِّبَ؟", "soruTr": "Tarık eğitmene ne sözü verdi?", "ipucu": "أَعِدُكَ (وَعَدَ → أَعِدُ).", "secenekler": ["وَعَدَهُ أَنْ يَلْتَزِمَ دَائِمًا بِقَوَاعِدِ الْمُرُورِ وَيَكُونَ سَائِقًا حَذِرًا.", "وَعَدَهُ أَنْ يَشْتَرِيَ حَافِلَةً.", "لَمْ يَعِدْهُ بِشَيْءٍ."], "dogruIndeks": 0, "aciklama": "أَعِدُكَ (وَعَدَ — و düştü!) أَنَّنِي سَأَلْتَزِمُ دَائِمًا بِقَوَاعِدِ الْمُرُورِ." }
+      ]
+    },
+    {
+      "id": "m33_d3",
+      "baslik": "Ticaret Toplantısında — İthalat, Üretim ve VIII. Bab İbdâlleri",
+      "ortam": "Dış Ticaret Ofisi",
+      "replikler": [
+        { "konusan": "الْمُدِيرُ", "ar": "أَهْلًا يَا سَلِيمُ! هَلِ اتَّصَلْتَ بِالشَّرِكَةِ الْمُوَرِّدَةِ بَعْدَ اجْتِمَاعِ أَمْسِ؟", "okunus": "Ehlen yâ Selîmu! Heli'ttesalte bi'ş-şerikati'l-muverrideti ba‘de'ctimâ‘ı emsi?", "tr": "Hoş geldin Selim! Dünkü toplantıdan sonra tedarikçi şirketle iletişime geçtin mi?" },
+        { "konusan": "سَلِيمٌ", "ar": "نَعَمْ، اِتَّصَلْتُ بِهِمْ صَبَاحًا، وَاتَّضَحَ أَنَّ تَكْلِفَةَ الِاسْتِيرَادِ ارْتَفَعَتْ هٰذَا الشَّهْرَ.", "okunus": "Ne‘am, ittesaltu bihim sabâhan, ve'ttadaha enne teklifete'l-istîrâdi'rtefe‘at hâze'ş-şehra.", "tr": "Evet, sabah onlarla iletişime geçtim ve bu ay ithalat maliyetinin yükseldiği ortaya çıktı." },
+        { "konusan": "الْمُدِيرُ", "ar": "إِذَنْ لَا بُدَّ مِنْ إِيجَادِ بَدَائِلَ مَحَلِّيَّةٍ وَاتِّخَاذِ قَرَارٍ سَرِيعٍ لِتَخْفِيضِ التَّكَالِيفِ.", "okunus": "İzen lâ budde min îcâdi bedâ’ile mahalliyyetin ve'ttihâzi karârin serî‘ın li-tahfîdı't-tekâlîfi.", "tr": "Öyleyse yerli alternatifler bulmak ve maliyetleri düşürmek için hızlı bir karar almak şart." },
+        { "konusan": "سَلِيمٌ", "ar": "صَحِيحٌ! لَقَدْ أَعْدَدْتُ قَائِمَةً بِثَلَاثَةِ مَصَانِعَ مَحَلِّيَّةٍ مَوْثُوقَةٍ تَقَعُ قُرْبَ الْمِينَاءِ.", "okunus": "Sahîhun! Lekad a‘dedtu kâ’imeten bi-selâseti mesâni‘a mahalliyyetin mevsûkatin teka‘u kurbe'l-mînâ’i.", "tr": "Doğru! Liman yakınında bulunan üç güvenilir yerli fabrikanın listesini hazırladım." },
+        { "konusan": "الْمُدِيرُ", "ar": "عَمَلٌ رَائِعٌ يَا سَلِيمُ! هَلْ تَسْتَوْعِبُ هٰذِهِ الْمَصَانِعُ حَجْمَ طَلَبَاتِنَا الشَّهْرِيَّةِ؟", "okunus": "‘Amelun râ’i‘un yâ Selîmu! Hel testev‘ıbu hâzihi'l-mesâni‘u hacme talebâtina'ş-şehriyyeti?", "tr": "Harika iş Selim! Bu fabrikalar aylık sipariş hacmimizi karşılayabiliyor (kapsayabiliyor) mu?" },
+        { "konusan": "سَلِيمٌ", "ar": "نَعَمْ، طَاقَتُهَا الِاسْتِيعَابِيَّةُ كَبِيرَةٌ، وَقَدْ وَعَدُونَا بِإِيصَالِ الْبَضَائِعِ فِي الْمَوْعِدِ دُونَ تَأْخِيرٍ.", "okunus": "Ne‘am, tâkatuha'l-istî‘âbiyyetu kebîratun, ve kad va‘adûnâ bi-îsâli'l-badâ’i‘ı fi'l-mev‘ıdi dûne te’hîrin.", "tr": "Evet, kapasiteleri büyük ve bize malları gecikmeden vaktinde ulaştırma sözü verdiler." },
+        { "konusan": "الْمُدِيرُ", "ar": "مُمْتَازٌ! هَلِ اتَّفَقْتُمْ عَلَى الْأَسْعَارِ وَشُرُوطِ الْجَوْدَةِ؟", "okunus": "Mumtâzun! Heli'ttefaktum ‘ale'l-es‘âri ve şurûti'l-cevdeti?", "tr": "Mükemmel! Fiyatlar ve kalite şartları konusunda anlaştınız mı?" },
+        { "konusan": "سَلِيمٌ", "ar": "اِتَّفَقْنَا مِنْ حَيْثُ الْمَبْدَأُ، وَنَنْتَظِرُ إِيضَاحَ بَعْضِ التَّفَاصِيلِ الْفَنِّيَّةِ غَدًا.", "okunus": "İttefaknâ min haysu'l-mebde’u, ve nentezıru îdâha ba‘dı't-tefâsîli'l-fenniyyeti gaden.", "tr": "İlke bakımından anlaştık; yarın bazı teknik ayrıntıların açıklığa kavuşmasını bekliyoruz." },
+        { "konusan": "الْمُدِيرُ", "ar": "حَسَنًا، أَنَا أَثِقُ بِحُسْنِ تَقْدِيرِكَ. مَرَّتْ عَلَيْنَا تَحَدِّيَاتٌ أَصْعَبُ وَحَلَلْنَاهَا بِالِاتِّحَادِ وَالتَّخْطِيطِ.", "okunus": "Hasenen, ene esıku bi-husni takdîrike. Marrat ‘aleynâ tehaddiyâtun as‘abu ve halelnâhâ bi'l-ittihâdi ve't-tahtîtı.", "tr": "Güzel, isabetli takdirine güveniyorum. Başımızdan daha zor sınamalar geçti ve onları birlik ile planlamayla çözdük." },
+        { "konusan": "سَلِيمٌ", "ar": "بِالتَّأْكِيدِ يَا أُسْتَاذُ، وَالِاسْتِقْرَارُ فِي الْإِنْتَاجِ هُوَ هَدَفُنَا الْأَوَّلُ هٰذَا الْعَامَ.", "okunus": "Bi't-te’kîdi yâ ustâzu, ve'l-istikrâru fi'l-intâci huve hedefuna'l-evvelu hâze'l-‘âme.", "tr": "Kesinlikle müdürüm, üretimde istikrar bu yılki birinci hedefimiz." },
+        { "konusan": "الْمُدِيرُ", "ar": "أَرْسِلْ لِي الْعَقْدَ الْمُقْتَرَحَ فَوْرَ وُصُولِهِ لِأَقْرَأَهُ قَبْلَ التَّوْقِيعِ.", "okunus": "Ersil li'l-‘akda'l-mukteraha fevra vusûlihî li-akra’ahû kable't-tevkî‘ı.", "tr": "Önerilen sözleşme ulaşır ulaşmaz bana gönder de imzadan önce okuyayım." },
+        { "konusan": "سَلِيمٌ", "ar": "حَاضِرٌ يَا سَيِّدِي، سَيَصِلُ إِلَى مَكْتَبِكَ غَدًا صَبَاحًا بِإِذْنِ اللّٰهِ.", "okunus": "Hâdırun yâ seyyidî, se-yesılu ilâ mektebike gaden sabâhan bi-iznillâhi.", "tr": "Peki efendim, Allah'ın izniyle yarın sabah ofisinize ulaşacaktır." }
+      ],
+      "partner": [
+        { "soruAr": "مَا جُذُورُ الْمَصَادِرِ «الِاسْتِيرَاد، إِيجَاد، إِيصَال، إِيضَاح» فِي الْحِوَارِ؟", "soruTr": "Diyalogdaki الِاسْتِيرَاد, إِيجَاد, إِيصَال, إِيضَاح mastarlarının kökleri nelerdir?", "ipucu": "Hepsinde ي aslında و'dır!", "secenekler": ["و-ر-د / و-ج-د / و-ص-ل / و-ض-ح (أَفْعَالٌ مِثَالِيَّةٌ وَاوِيَّةٌ).", "ي-ر-د / ي-ج-د / ي-ص-ل / ي-ض-ح.", "ر-د-د / ج-د-د / ص-ل-ل / ض-ح-ي."], "dogruIndeks": 0, "aciklama": "Kesradan sonra sakin و harfi ي'ya dönüşür: اِسْتِيرَاد، إِيجَاد، إِيصَال، إِيضَاح." },
+        { "soruAr": "مَا جُذُورُ الْأَفْعَالِ «اِتَّصَلَ، اِتَّضَحَ، اِتَّفَقَ، اِتَّخَذَ»؟", "soruTr": "اِتَّصَلَ, اِتَّضَحَ, اِتَّفَقَ, اِتَّخَذَ fiillerinin kökleri sırasıyla hangisidir?", "ipucu": "3'ü Misâl و, sonuncusu Mehmûz أ!", "secenekler": ["و-ص-ل / و-ض-ح / و-ف-ق / أ-خ-ذ.", "ت-ص-ل / ت-ض-ح / ت-ف-ق / ت-خ-ذ.", "كُلُّهَا تَبْدَأُ بِالْوَاوِ."], "dogruIndeks": 0, "aciklama": "اِتَّخَذَ kökü أ-خ-ذ, diğer üçü ise و-ص-ل، و-ض-ح، و-ف-ق'dir." },
+        { "soruAr": "لِمَاذَا بَحَثَ سَلِيمٌ عَنْ مَصَانِعَ مَحَلِّيَّةٍ؟", "soruTr": "Selim neden yerli fabrikalar aradı?", "ipucu": "İthalat maliyetinin yükselmesi.", "secenekler": ["لِأَنَّ تَكْلِفَةَ الِاسْتِيرَادِ ارْتَفَعَتْ هٰذَا الشَّهْرَ.", "لِأَنَّ الْمِينَاءَ أُغْلِقَ.", "لِأَنَّ الْإِنْتَاجَ تَوَقَّفَ."], "dogruIndeks": 0, "aciklama": "'اِتَّضَحَ أَنَّ تَكْلِفَةَ الِاسْتِيرَادِ ارْتَفَعَتْ هٰذَا الشَّهْرَ.'" },
+        { "soruAr": "مَا جَذْرُ كَلِمَةِ «الِاسْتِقْرَارُ» فِي كَلَامِ سَلِيمٍ؟", "soruTr": "Selim'in sözündeki 'الِاسْتِقْرَارُ' kelimesinin kökü nedir?", "ipucu": "X. bab muzaaf.", "secenekler": ["ق-ر-ر (اِسْتَقَرَّ – مُضَاعَفٌ).", "ق-و-ر.", "ق-ر-أ."], "dogruIndeks": 0, "aciklama": "اِسْتَقَرَّ → اِسْتِقْرَارٌ (ق-ر-ر)." },
+        { "soruAr": "مَتَى سَيَصِلُ الْعَقْدُ الْمُقْتَرَحُ إِلَى مَكْتَبِ الْمُدِيرِ؟", "soruTr": "Önerilen sözleşme müdürün ofisine ne zaman ulaşacak?", "ipucu": "Yarın sabah.", "secenekler": ["سَيَصِلُ غَدًا صَبَاحًا بِإِذْنِ اللّٰهِ.", "سَيَصِلُ بَعْدَ شَهْرٍ.", "وَصَلَ أَمْسِ."], "dogruIndeks": 0, "aciklama": "سَيَصِلُ (وَصَلَ — و düştü!) إِلَى مَكْتَبِكَ غَدًا صَبَاحًا." }
+      ]
+    },
+    {
+      "id": "m33_d4",
+      "baslik": "Sözlük Atölyesinde — Kök Bulma Oyunu",
+      "ortam": "Arapça Dil Kulübü",
+      "replikler": [
+        { "konusan": "أَنَسٌ", "ar": "هَيَّا نَلْعَبْ لُعْبَةَ اسْتِخْرَاجِ الْجُذُورِ يَا لَيْلَى! سَأُعْطِيكِ كَلِمَةً صَعْبَةً وَأَنْتِ تَكْشِفِينَ جَذْرَهَا فِي ثَلَاثِ ثَوَانٍ!", "okunus": "Heyyâ nel‘ab lu‘bete'stıhrâci'l-cuzûri yâ Leylâ! Se-u‘tîki kelimeten sa‘beten ve enti tekşifîne cezrahâ fî selâsi sevânin!", "tr": "Haydi kök çıkarma oyunu oynayalım Leyla! Sana zor bir kelime vereceğim, sen 3 saniyede kökünü ortaya çıkaracaksın!" },
+        { "konusan": "لَيْلَى", "ar": "فِكْرَةٌ مُشَوِّقَةٌ يَا أَنَسُ! أَنَا مُسْتَعِدَّةٌ، اِبْدَأْ بِالْكَلِمَةِ الْأُولَى!", "okunus": "Fikratun muşevvikatun yâ Enesu! Ene muste‘ıddetun, ibde’ bi'l-kelimeti'l-ûlâ!", "tr": "Heyecan verici bir fikir Enes! Hazırım, ilk kelimeyle başla!" },
+        { "konusan": "أَنَسٌ", "ar": "الْكَلِمَةُ الْأُولَى: «ثِقَةٌ» وَ«هِبَةٌ» وَ«صِفَةٌ»!", "okunus": "El-kelimetu'l-ûlâ: «Sıkatun» ve «hibetun» ve «sıfatun»!", "tr": "Birinci kelime grubu: 'sika', 'hibe' ve 'sıfat'!" },
+        { "konusan": "لَيْلَى", "ar": "سَهْلَةٌ جِدًّا! هٰذِهِ مَصَادِرُ مِثَالِيَّةٌ حُذِفَتْ وَاوُهَا؛ جُذُورُهَا: «و-ث-ق»، «و-ه-ب»، «و-ص-ف»!", "okunus": "Sehletun cidden! Hâzihî mesâdiru misâliyyetun huzifet vâvuhâ; cuzûruhâ: «v-s-k», «v-h-b», «v-s-f»!", "tr": "Çok kolay! Bunlar vavı düşmüş misâl mastarları; kökleri: 'v-s-k', 'v-h-b', 'v-s-f'!" },
+        { "konusan": "أَنَسٌ", "ar": "بَرَافُو! الْآنَ التَّحَدِّي الثَّانِي: «مُهْتَمٌّ» وَ«مُسْتَقِرٌّ» وَ«مُعِدٌّ»!", "okunus": "Berâvû! El-âne't-tehaddi's-sânî: «Muhtemmun» ve «mustekırrun» ve «mu‘ıddun»!", "tr": "Bravo! Şimdi ikinci meydan okuma: 'muhtemm', 'mustekırr' ve 'mu‘ıdd'!" },
+        { "konusan": "لَيْلَى", "ar": "نَفُكُّ الشَّدَّةَ فَوْرًا! «مُهْتَمٌّ» مِنْ «ه-م-م»، وَ«مُسْتَقِرٌّ» مِنْ «ق-ر-ر»، وَ«مُعِدٌّ» مِنْ «ع-د-د»!", "okunus": "Nefukku'ş-şeddete fevran! «Muhtemmun» min «h-m-m», ve «mustekırrun» min «k-r-r», ve «mu‘ıddun» min «‘-d-d»!", "tr": "Şeddeyi hemen çözüyoruz! 'Muhtemm' → 'h-m-m', 'mustekırr' → 'k-r-r', 'mu‘ıdd' → 'a-d-d'!" },
+        { "konusan": "أَنَسٌ", "ar": "مَا شَاءَ اللّٰهُ! إِذَنْ سَأَصْعُبُ السُّؤَالَ قَلِيلًا: مَا جَذْرُ «اِتِّجَاهٌ» وَ«اِتِّخَاذٌ»؟", "okunus": "Mâ şâ’allâhu! İzen se-usa‘‘ıbu's-su’âle kalîlen: Mâ cezru «itticâhun» ve «ittihâzun»?", "tr": "Maşallah! O zaman soruyu biraz zorlaştırayım: 'İtticâh' ve 'ittihâz'ın kökü nedir?" },
+        { "konusan": "لَيْلَى", "ar": "لَنْ أَقَعَ فِي الْفَخِّ يَا أَنَسُ! «اِتِّجَاهٌ» مِنَ الْمِثَالِ «و-ج-ه»، أَمَّا «اِتِّخَاذٌ» فَمِنَ الْمَهْمُوزِ «أ-خ-ذ»!", "okunus": "Len eka‘a fi'l-fahhı yâ Enesu! «İtticâhun» mine'l-misâli «v-c-h», emmâ «ittihâzun» fe-mine'l-mehmûzi «e-h-z»!", "tr": "Tuzağa düşmeyeceğim Enes! 'İtticâh' misâl 'v-c-h' kökünden, 'ittihâz' ise mehmûz 'e-h-z' kökündendir!" },
+        { "konusan": "أَنَسٌ", "ar": "مُذْهِلٌ! وَآخِرُ سُؤَالٍ: «إِيمَانٌ» وَ«إِيثَارٌ» وَ«إِيجَادٌ» — أَيْنَ الْفَرْقُ؟", "okunus": "Muzhilun! Ve âhıru su’âlin: «Îmânun» ve «îsârun» ve «îcâdun» — eyne'l-farku?", "tr": "Muhteşem! Ve son soru: 'İman', 'isar' ve 'icat' — fark nerede?" },
+        { "konusan": "لَيْلَى", "ar": "«إِيمَانٌ» وَ«إِيثَارٌ» أَصْلُهُمَا هَمْزَةٌ (أ-م-ن / أ-ث-ر)، أَمَّا «إِيجَادٌ» فَأَصْلُهُ وَاوٌ (و-ج-د)!", "okunus": "«Îmânun» ve «îsârun» asluhumâ hemzetun (e-m-n / e-s-r), emmâ «îcâdun» fe-asluhû vâvun (v-c-d)!", "tr": "'İman' ve 'isar'ın aslı hemzedir ('e-m-n' / 'e-s-r'), 'icat'ın aslı ise vavdır ('v-c-d')!" },
+        { "konusan": "أَنَسٌ", "ar": "فُزْتِ بِالْعَلَامَةِ الْكَامِلَةِ يَا لَيْلَى! حَقًّا أَتْقَنْتِ الْمَهْمُوزَ وَالْمُضَاعَفَ وَالْمِثَالَ.", "okunus": "Fuzti bi'l-‘alâmeti'l-kâmileti yâ Leylâ! Hakkan etkanti'l-mehmûze ve'l-mudâ‘afe ve'l-misâle.", "tr": "Tam puanla kazandın Leyla! Mehmûz, muzaaf ve misâlde gerçekten ustalaştın." },
+        { "konusan": "لَيْلَى", "ar": "شُكْرًا يَا أَنَسُ! وَغَدًا نَتَحَدَّى بَعْضَنَا فِي الْأَجْوَفِ وَالنَّاقِصِ وَاللَّفِيفِ إِنْ شَاءَ اللّٰهُ!", "okunus": "Şukran yâ Enesu! Ve gaden netehaddâ ba‘danâ fi'l-ecvefi ve'n-nâkısı ve'l-lefîfi in şâ’allâhu!", "tr": "Teşekkürler Enes! Yarın da inşallah ecvef, nâkıs ve lefîfte birbirimize meydan okuyalım!" }
+      ],
+      "partner": [
+        { "soruAr": "مَا جَذْرُ «مُهْتَمٌّ» وَ«مُسْتَقِرٌّ»؟", "soruTr": "'مُهْتَمٌّ' ve 'مُسْتَقِرٌّ' kelimelerinin 3 harfli kökleri nedir?", "ipucu": "Şeddeyi aç!", "secenekler": ["ه-م-م وَ ق-ر-ر (أَفْعَالٌ مُضَاعَفَةٌ).", "ه-ت-م وَ س-ق-ر.", "و-ه-م وَ ق-و-ر."], "dogruIndeks": 0, "aciklama": "مُهْتَمّ ← ه-م-م; مُسْتَقِرّ ← ق-ر-ر." },
+        { "soruAr": "مَا الْفَرْقُ بَيْنَ جَذْرِ «اِتِّجَاه» وَجَذْرِ «اِتِّخَاذ»؟", "soruTr": "'اِتِّجَاه' ile 'اِتِّخَاذ' kökleri arasındaki fark nedir?", "ipucu": "Misâl و vs. Mehmûz أ.", "secenekler": ["اِتِّجَاهٌ مِنْ «و-ج-ه» (مِثَالٌ)، وَاتِّخَاذٌ مِنْ «أ-خ-ذ» (مَهْمُوزٌ).", "كِلَاهُمَا مِنْ حَرْفِ التَّاءِ.", "كِلَاهُمَا مَهْمُوزٌ."], "dogruIndeks": 0, "aciklama": "اِتِّجَاه (و-ج-ه) ≠ اِتِّخَاذ (أ-خ-ذ)." },
+        { "soruAr": "فِي كَلَامِ لَيْلَى «لَنْ أَقَعَ فِي الْفَخِّ»، مَا مَاضِي «أَقَعَ»؟", "soruTr": "Leyla'nın 'لَنْ أَقَعَ' sözündeki أَقَعَ fiilinin mâzisi nedir?", "ipucu": "Misâl-i Vâvî: و-ق-ع.", "secenekler": ["وَقَعَ (وَقَعَ – يَقَعُ).", "قَاعَ.", "أَقَاعَ."], "dogruIndeks": 0, "aciklama": "وَقَعَ → يَقَعُ → أَقَعُ → لَنْ أَقَعَ (و düştü!)." },
+        { "soruAr": "مَا الْفَرْقُ بَيْنَ جَذْرِ «إِيمَان» وَجَذْرِ «إِيجَاد»؟", "soruTr": "'إِيمَان' ile 'إِيجَاد' kökleri arasındaki fark nedir?", "ipucu": "أ-م-ن vs. و-ج-د.", "secenekler": ["إِيمَانٌ مِنْ «أ-م-ن» (مَهْمُوزٌ)، وَإِيجَادٌ مِنْ «و-ج-د» (مِثَالٌ).", "كِلَاهُمَا مِنْ حَرْفِ الْيَاءِ.", "كِلَاهُمَا مِثَالٌ."], "dogruIndeks": 0, "aciklama": "إِيمَان (أ-م-ن) ≠ إِيجَاد (و-ج-د)." },
+        { "soruAr": "مَا مَوْضُوعُ التَّحَدِّي الَّذِي اتَّفَقَا عَلَيْهِ لِلْغَدِ؟", "soruTr": "Yarın için anlaştıkları meydan okumanın konusu nedir?", "ipucu": "Modül 34'ün konusu!", "secenekler": ["الْأَجْوَفُ وَالنَّاقِصُ وَاللَّفِيفُ.", "الْحُرُوفُ وَالضَّمَائِرُ.", "الْأَعْدَادُ وَالسَّاعَاتُ."], "dogruIndeks": 0, "aciklama": "Ecvef, Nâkıs ve Lefîf (Aksâm-ı Seb'a II)!" }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "id": "m33_fc1", "ar": "أَخَذَ – يَأْخُذُ – خُذْ", "harekesiz": "أخذ - يأخذ - خذ", "okunus": "Ehaze – ye’huzu – huz", "tr": "Almak (1. tekil: آخُذُ)", "kok": "أ-خ-ذ", "vezin": "فَعَلَ – يَفْعُلُ", "turevler": ["آخُذُ", "اِتَّخَذَ", "مَأْخَذٌ"], "ekBilgi": "Mehmûzü'l-Fâ — emirde hemze düşer (خُذْ!)", "ornek": "خُذْ هٰذَا الْكِتَابَ وَاقْرَأْهُ.", "ornekTr": "Bu kitabı al ve oku.", "kullanimNotu": "1. tekil muzârisi medlidir: أَنَا آخُذُ.", "tur": "Mehmûz Fiil" },
+    { "id": "m33_fc2", "ar": "أَكَلَ – يَأْكُلُ – كُلْ", "harekesiz": "أكل - يأكل - كل", "okunus": "Ekele – ye’kulu – kul", "tr": "Yemek (1. tekil: آكُلُ)", "kok": "أ-ك-ل", "vezin": "فَعَلَ – يَفْعُلُ", "turevler": ["آكُلُ", "أَكْلٌ", "مَأْكُولَاتٌ"], "ekBilgi": "Mehmûzü'l-Fâ — emirde hemze düşer (كُلْ / كُلُوا!)", "ornek": "كُلُوا مِنَ الطَّيِّبَاتِ وَاشْكُرُوا اللّٰهَ.", "ornekTr": "Temiz rızıklardan yiyin ve Allah'a şükredin.", "kullanimNotu": "أَنَا آكُلُ (ben yiyorum).", "tur": "Mehmûz Fiil" },
+    { "id": "m33_fc3", "ar": "أَمَرَ – يَأْمُرُ – مُرْ", "harekesiz": "أمر - يأمر - مر", "okunus": "Emera – ye’muru – mur", "tr": "Emretmek (1. tekil: آمُرُ)", "kok": "أ-م-ر", "vezin": "فَعَلَ – يَفْعُلُ", "turevler": ["آمُرُ", "أَمْرٌ", "مَأْمُورٌ"], "ekBilgi": "Mehmûzü'l-Fâ — emri مُرْ (وَ ile وَأْمُرْ da olur!)", "ornek": "مُرْ أَبْنَاءَكَ بِالصِّدْقِ وَالْأَمَانَةِ.", "ornekTr": "Çocuklarına doğruluğu ve güvenilirliği emret.", "kullanimNotu": "أَمَرَهُ بِـ (... ile emretti) harf-i ceriyle kullanılır.", "tur": "Mehmûz Fiil" },
+    { "id": "m33_fc4", "ar": "أَذِنَ – يَأْذَنُ – إِيذَنْ", "harekesiz": "أذن - يأذن - إيذن", "okunus": "Ezine – ye’zenu – îzen", "tr": "İzin vermek", "kok": "أ-ذ-ن", "vezin": "فَعِلَ – يَفْعَلُ", "turevler": ["إِذْنٌ", "اِسْتَأْذَنَ", "مَأْذُونٌ"], "ekBilgi": "Genel Mehmûzü'l-Fâ emri (اِئْذَنْ → إِيذَنْ!)", "ornek": "إِيذَنْ لِي بِالدُّخُولِ يَا أُسْتَاذُ.", "ornekTr": "İçeri girmeme izin verin hocam.", "kullanimNotu": "أَمِنَ → إِيمَنْ aynı emir kuralına uyar.", "tur": "Mehmûz Fiil" },
+    { "id": "m33_fc5", "ar": "سَأَلَ – يَسْأَلُ – اِسْأَلْ / سَلْ", "harekesiz": "سأل - يسأل - اسأل / سل", "okunus": "Se’ele – yes’elu – is’el / sel", "tr": "Sormak / istemek", "kok": "س-أ-ل", "vezin": "فَعَلَ – يَفْعَلُ", "turevler": ["سُؤَالٌ", "مَسْأَلَةٌ", "تَسَاءَلَ"], "ekBilgi": "Mehmûzü'l-Ayn — iki fasih emir (اِسْأَلْ = سَلْ)", "ornek": "سَلْ أَهْلَ الْخِبْرَةِ قَبْلَ الْقَرَارِ.", "ornekTr": "Karardan önce uzmanlara sor.", "kullanimNotu": "سَأَلَهُ عَنْ (... hakkında sordu).", "tur": "Mehmûz Fiil" },
+    { "id": "m33_fc6", "ar": "قَرَأَ – يَقْرَأُ – اِقْرَأْ", "harekesiz": "قرأ - يقرأ - اقرأ", "okunus": "Kara’e – yakra’u – ikra’", "tr": "Okumak", "kok": "ق-ر-أ", "vezin": "فَعَلَ – يَفْعَلُ", "turevler": ["قِرَاءَةٌ", "قَارِئٌ", "مَقْرُوءٌ"], "ekBilgi": "Mehmûzü'l-Lâm — tamamen düzenli (hemze düşmez!)", "ornek": "اِقْرَأْ كُلَّ يَوْمٍ وَلَوْ صَفَحَاتٍ قَلِيلَةً.", "ornekTr": "Birkaç sayfa bile olsa her gün oku.", "kullanimNotu": "بَدَأَ → اِبْدَأْ (başla) aynı şekilde düzenlidir.", "tur": "Mehmûz Fiil" },
+    { "id": "m33_fc7", "ar": "آمَنَ – يُؤْمِنُ – إِيمَانًا", "harekesiz": "آمن - يؤمن - إيمانا", "okunus": "Âmene – yu’minu – îmânen", "tr": "İnanmak / iman etmek", "kok": "أ-م-ن", "vezin": "أَفْعَلَ (IV. bab)", "turevler": ["مُؤْمِنٌ", "إِيمَانٌ", "أَمْنٌ"], "ekBilgi": "IV. bab Mehmûzü'l-Fâ (أَأْمَنَ → آمَنَ; إِئْمَان → إِيمَان)", "ornek": "آمَنَ بِأَهَمِّيَّةِ الْعِلْمِ إِيمَانًا رَاسِخًا.", "ornekTr": "İlmin önemine köklü bir imanla inandı.", "kullanimNotu": "آثَرَ – يُؤْثِرُ – إِيثَارًا (tercih etmek) aynı kalıptadır.", "tur": "Mezîd Mehmûz" },
+    { "id": "m33_fc8", "ar": "مَدَّ – يَمُدُّ – مُدَّ / اُمْدُدْ", "harekesiz": "مد - يمد - مد / امدد", "okunus": "Medde – yemuddu – mudde / umdud", "tr": "Uzatmak (1. tekil: مَدَدْتُ)", "kok": "م-د-د", "vezin": "فَعَلَ – يَفْعُلُ", "turevler": ["مَدَدْتُ", "يَمْدُدْنَ", "اِمْتَدَّ"], "ekBilgi": "1. bab Muzaaf — 1./2. şahısta şedde çözülür!", "ornek": "مُدَّ يَدَ الْعَوْنِ لِلْمُحْتَاجِينَ.", "ornekTr": "Muhtaçlara yardım elini uzat.", "kullanimNotu": "Nûn-ı Nisve: هُنَّ يَمْدُدْنَ.", "tur": "Muzaaf Fiil" },
+    { "id": "m33_fc9", "ar": "مَرَّ – يَمُرُّ – مُرَّ / اُمْرُرْ", "harekesiz": "مر - يمر - مر / امرر", "okunus": "Marra – yemurru – murra / umrur", "tr": "Geçmek / uğramak (1. tekil: مَرَرْتُ)", "kok": "م-ر-ر", "vezin": "فَعَلَ – يَفْعُلُ", "turevler": ["مَرَرْتُ", "مُرُورٌ", "اِسْتَمَرَّ"], "ekBilgi": "1. bab Muzaaf (بِـ ile kullanılır)", "ornek": "مَرَرْتُ بِالْمَكْتَبَةِ صَبَاحًا.", "ornekTr": "Sabah kütüphaneden geçtim.", "kullanimNotu": "لَمْ يَمُرَّ = لَمْ يَمْرُرْ (ikisi de fasih!).", "tur": "Muzaaf Fiil" },
+    { "id": "m33_fc10", "ar": "حَلَّ – يَحُلُّ – حُلَّ / اُحْلُلْ", "harekesiz": "حل - يحل - حل / احلل", "okunus": "Halle – yahullu – hulle / uhlul", "tr": "Çözmek (1. tekil: حَلَلْتُ)", "kok": "ح-ل-ل", "vezin": "فَعَلَ – يَفْعُلُ", "turevler": ["حَلَلْتُ", "يَحْلُلْنَ", "حَلٌّ"], "ekBilgi": "1. bab Muzaaf", "ornek": "حَلَلْتُ جَمِيعَ التَّمَارِينِ بِنَفْسِي.", "ornekTr": "Tüm alıştırmaları kendi başıma çözdüm.", "kullanimNotu": "حَلَّ الْمُشْكِلَةَ = sorunu çözdü.", "tur": "Muzaaf Fiil" },
+    { "id": "m33_fc11", "ar": "ظَنَّ – يَظُنُّ – ظُنَّ / اُظْنُنْ", "harekesiz": "ظن - يظن - ظن / اظنن", "okunus": "Zanne – yezunnu – zunne / uznun", "tr": "Zannetmek / sanmak (1. tekil: ظَنَنْتُ)", "kok": "ظ-ن-ن", "vezin": "فَعَلَ – يَفْعُلُ", "turevler": ["ظَنَنْتُ", "ظَنٌّ", "ظُنُونٌ"], "ekBilgi": "1. bab Muzaaf (iki nesne alır)", "ornek": "ظَنَنْتُ أَنَّ الِامْتِحَانَ صَعْبٌ.", "ornekTr": "Sınavın zor olduğunu sandım.", "kullanimNotu": "ظَنَنَّا (zannettik — şeddeli ن ile نَا birleşir!).", "tur": "Muzaaf Fiil" },
+    { "id": "m33_fc12", "ar": "فَرَّ – يَفِرُّ – فِرَّ / اِفْرِرْ", "harekesiz": "فر - يفر - فر / افرر", "okunus": "Ferra – yefirru – firra / ifrir", "tr": "Kaçmak (1. tekil: فَرَرْتُ)", "kok": "ف-ر-ر", "vezin": "فَعَلَ – يَفْعِلُ", "turevler": ["فَرَرْتُ", "فِرَارٌ", "مَفَرٌّ"], "ekBilgi": "2. bab Muzaaf (kesralı!)", "ornek": "فَفِرُّوا إِلَى اللّٰهِ.", "ornekTr": "Allah'a kaçın/sığının.", "kullanimNotu": "لَمْ يَفِرَّ = لَمْ يَفْرِرْ.", "tur": "Muzaaf Fiil" },
+    { "id": "m33_fc13", "ar": "رَدَّ – يَرُدُّ – رُدَّ / اُرْدُدْ", "harekesiz": "رد - يرد - رد / اردد", "okunus": "Redde – yeruddu – rudde / urdud", "tr": "Geri çevirmek / cevap vermek (1. tekil: رَدَدْتُ)", "kok": "ر-د-د", "vezin": "فَعَلَ – يَفْعُلُ", "turevler": ["رَدَدْتُ", "رَدٌّ", "تَرَدَّدَ"], "ekBilgi": "1. bab Muzaaf", "ornek": "لَا تَرُدَّ سَائِلًا أَبَدًا.", "ornekTr": "Bir isteyeni asla geri çevirme.", "kullanimNotu": "رَدَّ عَلَى الرِّسَالَةِ = mesaja cevap verdi.", "tur": "Muzaaf Fiil" },
+    { "id": "m33_fc14", "ar": "وَدَّ – يَوَدُّ – وَدِدْتُ", "harekesiz": "ود - يود - وددت", "okunus": "Vedde – yeveddu – vedidtu", "tr": "İstemek / arzulamak / sevmek", "kok": "و-د-د", "vezin": "فَعِلَ – يَفْعَلُ", "turevler": ["وُدٌّ", "مَوَدَّةٌ", "وَدُودٌ"], "ekBilgi": "4. bab Muzaaf + Misâl (çözülünce kesralı: وَدِدْتُ!)", "ornek": "وَدِدْتُ لَوْ تَزُورُونَنَا فِي الْعُطْلَةِ.", "ornekTr": "Tatilde bizi ziyaret etmenizi isterdim.", "kullanimNotu": "مَلَّ → مَلِلْتُ (usandım) aynı 4. bab muzaaf kuralındadır.", "tur": "Muzaaf Fiil" },
+    { "id": "m33_fc15", "ar": "أَحَبَّ – يُحِبُّ – أَحْبَبْتُ", "harekesiz": "أحب - يحب - أحببت", "okunus": "Ehabbe – yuhıbbu – ahbebtu", "tr": "Sevmek", "kok": "ح-ب-ب", "vezin": "أَفْعَلَ (IV. bab)", "turevler": ["أَحْبَبْتُ", "مُحِبٌّ", "مَحْبُوبٌ"], "ekBilgi": "IV. bab Muzaaf (1. tekil: أَحْبَبْتُ!)", "ornek": "أَحْبَبْتُ اللُّغَةَ الْعَرَبِيَّةَ مُنْذُ صِغَرِي.", "ornekTr": "Küçüklüğümden beri Arapçayı sevdim.", "kullanimNotu": "أَحَبَّ → أَحْبَبْنَا (sevdik), أَحْبِبْ / أَحِبَّ (sev!).", "tur": "Mezîd Muzaaf" },
+    { "id": "m33_fc16", "ar": "أَعَدَّ – يُعِدُّ – إِعْدَادًا", "harekesiz": "أعد - يعد - إعدادا", "okunus": "E‘adde – yu‘ıddu – i‘dâden", "tr": "Hazırlamak (1. tekil: أَعْدَدْتُ)", "kok": "ع-د-د", "vezin": "أَفْعَلَ (IV. bab)", "turevler": ["أَعْدَدْتُ", "مُعِدٌّ", "مُعَدٌّ"], "ekBilgi": "IV. bab Muzaaf", "ornek": "أَعْدَدْتُ خُطَّةً وَاضِحَةً لِلْمَشْرُوعِ.", "ornekTr": "Proje için açık bir plan hazırladım.", "kullanimNotu": "اِسْتَعَدَّ (X. bab) = kendi hazırlandı.", "tur": "Mezîd Muzaaf" },
+    { "id": "m33_fc17", "ar": "اِسْتَمَرَّ – يَسْتَمِرُّ – اِسْتِمْرَارًا", "harekesiz": "استمر - يستمر - استمرارا", "okunus": "İstemerra – yestemirru – istimrâran", "tr": "Devam etmek (1. tekil: اِسْتَمْرَرْتُ)", "kok": "م-ر-ر", "vezin": "اِسْتَفْعَلَ (X. bab)", "turevler": ["اِسْتَمْرَرْتُ", "مُسْتَمِرٌّ", "اِسْتِمْرَارِيَّةٌ"], "ekBilgi": "X. bab Muzaaf", "ornek": "اِسْتَمْرَرْتُ فِي التَّدْرِيبِ الْيَوْمِيِّ.", "ornekTr": "Günlük pratiğe devam ettim.", "kullanimNotu": "فِي harf-i ceriyle kullanılır.", "tur": "Mezîd Muzaaf" },
+    { "id": "m33_fc18", "ar": "اِسْتَعَدَّ – يَسْتَعِدُّ – اِسْتِعْدَادًا", "harekesiz": "استعد - يستعد - استعدادا", "okunus": "İste‘adde – yeste‘ıddu – isti‘dâden", "tr": "Hazırlanmak (1. tekil: اِسْتَعْدَدْتُ)", "kok": "ع-د-د", "vezin": "اِسْتَفْعَلَ (X. bab)", "turevler": ["اِسْتَعْدَدْتُ", "مُسْتَعِدٌّ", "اِسْتِعْدَادٌ"], "ekBilgi": "X. bab Muzaaf", "ornek": "اِسْتَعْدَدْنَا جَيِّدًا لِاخْتِبَارِ الصَّرْفِ.", "ornekTr": "Sarf sınavına iyi hazırlandık.", "kullanimNotu": "لِـ harf-i ceriyle kullanılır (اِسْتَعَدَّ لِـ).", "tur": "Mezîd Muzaaf" },
+    { "id": "m33_fc19", "ar": "اِسْتَقَرَّ – يَسْتَقِرُّ – اِسْتِقْرَارًا", "harekesiz": "استقر - يستقر - استقرارا", "okunus": "İstekarra – yestekırru – istikrâran", "tr": "Yerleşmek / istikrar bulmak", "kok": "ق-ر-ر", "vezin": "اِسْتَفْعَلَ (X. bab)", "turevler": ["اِسْتَقْرَرْتُ", "مُسْتَقِرٌّ", "قَرَارٌ"], "ekBilgi": "X. bab Muzaaf (kökü: ق-ر-ر!)", "ornek": "الِاسْتِقْرَارُ فِي الْإِنْتَاجِ هَدَفُنَا الْأَوَّلُ.", "ornekTr": "Üretimde istikrar birinci hedefimizdir.", "kullanimNotu": "مُسْتَقِرٌّ = istikrarlı / yerleşik.", "tur": "Mezîd Muzaaf" },
+    { "id": "m33_fc20", "ar": "اِهْتَمَّ – يَهْتَمُّ – اِهْتِمَامًا", "harekesiz": "اهتم - يهتم - اهتماما", "okunus": "İhtemme – yehtemmu – ihtimâmen", "tr": "İlgilenmek / önem vermek (1. tekil: اِهْتَمَمْتُ)", "kok": "ه-م-م", "vezin": "اِفْتَعَلَ (VIII. bab)", "turevler": ["اِهْتَمَمْتُ", "مُهْتَمٌّ", "اِهْتِمَامٌ"], "ekBilgi": "VIII. bab Muzaaf (بِـ ile kullanılır)", "ornek": "اِهْتَمَمْتُ بِتَعَلُّمِ اللُّغَاتِ الْأَجْنَبِيَّةِ.", "ornekTr": "Yabancı dil öğrenmekle ilgilendim.", "kullanimNotu": "مُهْتَمٌّ بِـ = ... ile ilgilenen.", "tur": "Mezîd Muzaaf" },
+    { "id": "m33_fc21", "ar": "وَصَلَ – يَصِلُ – صِلْ", "harekesiz": "وصل - يصل - صل", "okunus": "Vesale – yesılu – sıl", "tr": "Ulaşmak / bağlamak", "kok": "و-ص-ل", "vezin": "فَعَلَ – يَفْعِلُ", "turevler": ["وُصُولٌ", "صِلَةٌ", "اِتِّصَالٌ"], "ekBilgi": "Misâl-i Vâvî (muzâri & emirde و düşer!)", "ornek": "يَصِلُ الْقِطَارُ السَّاعَةَ التَّاسِعَةَ — صِلْ رَحِمَكَ.", "ornekTr": "Tren saat dokuzda ulaşır — Akrabanı ara/gözet.", "kullanimNotu": "إِلَى ile 'ulaşmak', nesnesiyle 'bağlamak/eşleştirmek'.", "tur": "Misâl-i Vâvî" },
+    { "id": "m33_fc22", "ar": "وَقَفَ – يَقِفُ – قِفْ", "harekesiz": "وقف - يقف - قف", "okunus": "Vekafe – yekıfu – kıf", "tr": "Durmak / ayağa kalkmak", "kok": "و-ق-ف", "vezin": "فَعَلَ – يَفْعِلُ", "turevler": ["وُقُوفٌ", "مَوْقِفٌ", "تَوَقَّفَ"], "ekBilgi": "Misâl-i Vâvî (2 harfli emir: قِفْ!)", "ornek": "قِفْ عِنْدَ الْإِشَارَةِ الْحَمْرَاءِ.", "ornekTr": "Kırmızı ışıkta dur.", "kullanimNotu": "Trafik 'DUR' levhası: قِفْ.", "tur": "Misâl-i Vâvî" },
+    { "id": "m33_fc23", "ar": "وَجَدَ – يَجِدُ – جِدْ", "harekesiz": "وجد - يجد - جد", "okunus": "Vecede – yecidu – cid", "tr": "Bulmak (meçhul: يُوجَدُ = bulunur)", "kok": "و-ج-د", "vezin": "فَعَلَ – يَفْعِلُ", "turevler": ["يُوجَدُ", "وُجُودٌ", "إِيجَادٌ"], "ekBilgi": "Misâl-i Vâvî (meçhulde و geri gelir: يُوجَدُ!)", "ornek": "سَتَجِدُ الطَّرِيقَ — يُوجَدُ مَعَالِمُ تَارِيخِيَّةٌ.", "ornekTr": "Yolu bulacaksın — Tarihî eserler bulunur.", "kullanimNotu": "لَا يُوجَدُ = yoktur / bulunmaz.", "tur": "Misâl-i Vâvî" },
+    { "id": "m33_fc24", "ar": "وَضَعَ – يَضَعُ – ضَعْ", "harekesiz": "وضع - يضع - ضع", "okunus": "Vada‘a – yeda‘u – da‘", "tr": "Koymak / yerleştirmek (meçhul: يُوضَعُ)", "kok": "و-ض-ع", "vezin": "فَعَلَ – يَفْعَلُ", "turevler": ["وَضْعٌ", "مَوْضُوعٌ", "مَوْضِعٌ"], "ekBilgi": "3. bab Misâl-i Vâvî (boğaz harfi ع sebebiyle و düşer!)", "ornek": "ضَعْ حِزَامَ الْأَمَانِ قَبْلَ الْقِيَادَةِ.", "ornekTr": "Sürüşten önce emniyet kemerini tak.", "kullanimNotu": "ضَعْ عَلَامَةَ صَحٍّ = doğru işareti koy.", "tur": "Misâl-i Vâvî" },
+    { "id": "m33_fc25", "ar": "وَقَعَ – يَقَعُ – قَعْ", "harekesiz": "وقع - يقع - قع", "okunus": "Veka‘a – yeka‘u – ka‘", "tr": "Düşmek / yer almak / meydana gelmek", "kok": "و-ق-ع", "vezin": "فَعَلَ – يَفْعَلُ", "turevler": ["وُقُوعٌ", "مَوْقِعٌ", "وَاقِعٌ"], "ekBilgi": "3. bab Misâl-i Vâvî (تَقَعُ = yer alır!)", "ornek": "تَقَعُ إِسْطَنْبُولُ بَيْنَ آسِيَا وَأُورُوبَّا.", "ornekTr": "İstanbul Asya ve Avrupa arasında yer alır.", "kullanimNotu": "Coğrafya ve haber metinlerinde 'yer almak / vuku bulmak' için çok sıktır.", "tur": "Misâl-i Vâvî" },
+    { "id": "m33_fc26", "ar": "وَعَدَ – يَعِدُ – عِدْ", "harekesiz": "وعد - يعد - عد", "okunus": "Va‘ade – ya‘ıdu – ‘ıd", "tr": "Söz vermek / vaat etmek", "kok": "و-ع-د", "vezin": "فَعَلَ – يَفْعِلُ", "turevler": ["وَعْدٌ", "مَوْعِدٌ", "عِدَةٌ"], "ekBilgi": "Misâl-i Vâvî (1. tekil: أَعِدُكَ = sana söz veriyorum!)", "ornek": "أَعِدُكَ أَنَّنِي سَأَلْتَزِمُ بِالْقَوَاعِدِ.", "ornekTr": "Kurallara uyacağıma sana söz veriyorum.", "kullanimNotu": "أَعِدُكَ'yi أَعُدُّكَ (sayıyorum) ile karıştırma!", "tur": "Misâl-i Vâvî" },
+    { "id": "m33_fc27", "ar": "وَثِقَ – يَثِقُ – ثِقْ", "harekesiz": "وثق - يثق - ثق", "okunus": "Vesika – yesıku – sık", "tr": "Güvenmek (mastar: ثِقَةٌ)", "kok": "و-ث-ق", "vezin": "فَعِلَ – يَفْعِلُ", "turevler": ["ثِقَةٌ", "وَثِيقَةٌ", "مَوْثُوقٌ"], "ekBilgi": "6. bab Misâl-i Vâvî (بِـ ile kullanılır)", "ornek": "ثِقْ بِنَفْسِكَ وَبِقُدُرَاتِكَ.", "ornekTr": "Kendine ve yeteneklerine güven.", "kullanimNotu": "ثِقَةٌ (güven) mastarının kökü و-ث-ق'dir!", "tur": "Misâl-i Vâvî" },
+    { "id": "m33_fc28", "ar": "وَصَفَ – يَصِفُ – صِفْ", "harekesiz": "وصف - يصف - صف", "okunus": "Vasafe – yasıfu – sıf", "tr": "Betimlemek / tarif etmek (mastar: صِفَةٌ)", "kok": "و-ص-ف", "vezin": "فَعَلَ – يَفْعِلُ", "turevler": ["وَصْفٌ", "صِفَةٌ", "وَصْفَةٌ"], "ekBilgi": "Misâl-i Vâvî", "ornek": "أَنَا أَصِفُ الْقَاعِدَةَ بِكُلِّ سُهُولَةٍ.", "ornekTr": "Kuralı kolaylıkla tarif ediyorum.", "kullanimNotu": "وَصْفَةٌ طِبِّيَّةٌ = doktor reçetesi.", "tur": "Misâl-i Vâvî" },
+    { "id": "m33_fc29", "ar": "يَئِسَ – يَيْأَسُ – اِيْأَسْ", "harekesiz": "يئس - ييأس", "okunus": "Ye’ise – yey’esu", "tr": "Ümit kesmek / umutsuzluğa düşmek", "kok": "ي-أ-س", "vezin": "فَعِلَ – يَفْعَلُ", "turevler": ["يَأْسٌ", "يَائِسٌ"], "ekBilgi": "Misâl-i Yâî — muzâride ي DÜŞMEZ!", "ornek": "لَا يَيْأَسُ الْمُؤْمِنُ مِنْ رَحْمَةِ اللّٰهِ.", "ornekTr": "Mümin Allah'ın rahmetinden ümit kesmez.", "kullanimNotu": "مِنْ harf-i ceriyle kullanılır.", "tur": "Misâl-i Yâî" },
+    { "id": "m33_fc30", "ar": "اِتَّصَلَ – يَتَّصِلُ – اِتِّصَالًا", "harekesiz": "اتصل - يتصل - اتصالا", "okunus": "İttesale – yettesılu – ittısâlen", "tr": "İletişim kurmak / telefon etmek (kök: و-ص-ل)", "kok": "و-ص-ل", "vezin": "اِفْتَعَلَ (VIII. bab)", "turevler": ["اِتِّصَالَاتٌ", "مُتَّصِلٌ"], "ekBilgi": "VIII. bab Misâl ibdâli (و+ت → تّ!)", "ornek": "اِتَّصَلْتُ بِالْمُدِيرِ صَبَاحًا.", "ornekTr": "Sabah müdürle iletişime geçtim.", "kullanimNotu": "بِـ ile kullanılır: اِتَّصَلَ بِـ.", "tur": "Mezîd Misâl" },
+    { "id": "m33_fc31", "ar": "اِتَّفَقَ – يَتَّفِقُ – اِتِّفَاقًا", "harekesiz": "اتفق - يتفق - اتفاقا", "okunus": "İttefaka – yettefiku – ittifâkan", "tr": "Anlaşmak / uzlaşmak (kök: و-ف-ق)", "kok": "و-ف-ق", "vezin": "اِفْتَعَلَ (VIII. bab)", "turevler": ["اِتِّفَاقِيَّةٌ", "مُتَّفَقٌ عَلَيْهِ"], "ekBilgi": "VIII. bab Misâl ibdâli (و+ت → تّ!)", "ornek": "اِتَّفَقْنَا عَلَى خُطُوَاتٍ عَمَلِيَّةٍ.", "ornekTr": "Pratik adımlar konusunda anlaştık.", "kullanimNotu": "عَلَى harf-i ceriyle kullanılır.", "tur": "Mezîd Misâl" },
+    { "id": "m33_fc32", "ar": "اِتَّخَذَ – يَتَّخِذُ – اِتِّخَاذًا", "harekesiz": "اتخذ - يتخذ - اتخاذا", "okunus": "İttehaze – yettehızu – ittihâzen", "tr": "Edinmek / (karar/adım) almak (kök: أ-خ-ذ)", "kok": "أ-خ-ذ", "vezin": "اِفْتَعَلَ (VIII. bab)", "turevler": ["اِتِّخَاذٌ", "مُتَّخِذٌ"], "ekBilgi": "VIII. bab özel hemze ibdâli (ء+ت → تّ!)", "ornek": "اِتَّفَقْنَا عَلَى اتِّخَاذِ قَرَارٍ سَرِيعٍ.", "ornekTr": "Hızlı bir karar alma konusunda anlaştık.", "kullanimNotu": "اِتَّخَذَ قَرَارًا = karar aldı (çok yüksek frekans!).", "tur": "Mezîd Mehmûz" },
+    { "id": "m33_fc33", "ar": "اِتَّضَحَ – يَتَّضِحُ – اِتِّضَاحًا", "harekesiz": "اتضح - يتضح - اتضاحا", "okunus": "İttadaha – yettedıhu – ittıdâhan", "tr": "Açığa çıkmak / netleşmek (kök: و-ض-ح)", "kok": "و-ض-ح", "vezin": "اِفْتَعَلَ (VIII. bab)", "turevler": ["أَوْضَحَ", "إِيضَاحٌ", "وَاضِحٌ"], "ekBilgi": "VIII. bab Misâl ibdâli", "ornek": "اِتَّضَحَتِ الصُّورَةُ تَمَامًا بَعْدَ إِيضَاحِكَ.", "ornekTr": "Açıklamandan sonra tablo tamamen netleşti.", "kullanimNotu": "أَوْضَحَ (açıkladı) → اِتَّضَحَ (açığa çıktı).", "tur": "Mezîd Misâl" },
+    { "id": "m33_fc34", "ar": "اِسْتَوْعَبَ – يَسْتَوْعِبُ – اِسْتِيعَابًا", "harekesiz": "استوعب - يستوعب - استيعابا", "okunus": "İstev‘abe – yestev‘ıbu – istî‘âben", "tr": "Kavramak / içine almak / kapsamak", "kok": "و-ع-ب", "vezin": "اِسْتَفْعَلَ (X. bab)", "turevler": ["اِسْتِيعَابٌ", "طَاقَةٌ اسْتِيعَابِيَّةٌ"], "ekBilgi": "X. bab Misâl (mastarda و → ي: اِسْتِيعَابٌ!)", "ornek": "اِسْتَوْعَبَ الطُّلَّابُ الدَّرْسَ اسْتِيعَابًا كَامِلًا.", "ornekTr": "Öğrenciler dersi tam olarak kavradılar.", "kullanimNotu": "Türkçedeki 'istiap haddi' bu kelimedir!", "tur": "Mezîd Misâl" },
+    { "id": "m33_fc35", "ar": "اِسْتَوْرَدَ – يَسْتَوْرِدُ – اِسْتِيرَادًا", "harekesiz": "استورد - يستورد - استيرادا", "okunus": "İstevrade – yestevridu – istîrâden", "tr": "İthal etmek (mastar: اِسْتِيرَادٌ)", "kok": "و-ر-د", "vezin": "اِسْتَفْعَلَ (X. bab)", "turevler": ["اِسْتِيرَادٌ", "وَارِدَاتٌ", "مُسْتَوْرِدٌ"], "ekBilgi": "X. bab Misâl (mastarda و → ي!)", "ornek": "ارْتَفَعَتْ تَكْلِفَةُ الِاسْتِيرَادِ هٰذَا الشَّهْرَ.", "ornekTr": "Bu ay ithalat maliyeti yükseldi.", "kullanimNotu": "Zıddı: صَدَّرَ – تَصْدِيرٌ (ihraç etmek / ihracat).", "tur": "Mezîd Misâl" },
+    { "id": "m33_fc36", "ar": "أَوْجَدَ – يُوجِدُ – إِيجَادًا", "harekesiz": "أوجد - يوجد - إيجادا", "okunus": "Evcede – yûcidu – îcâden", "tr": "Bulmak / var etmek / icat etmek", "kok": "و-ج-د", "vezin": "أَفْعَلَ (IV. bab)", "turevler": ["إِيجَادٌ", "وُجُودٌ", "مَوْجُودٌ"], "ekBilgi": "IV. bab Misâl (mastarda و → ي: إِيجَادٌ!)", "ornek": "لَا بُدَّ مِنْ إِيجَادِ حُلُولٍ عَمَلِيَّةٍ.", "ornekTr": "Pratik çözümler bulmak şarttır.", "kullanimNotu": "أَوْصَلَ → إِيصَالٌ, أَوْضَحَ → إِيضَاحٌ aynı kuraldadır.", "tur": "Mezîd Misâl" }
+  ]
+}

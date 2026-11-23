@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-23T09:38:31.627Z",
-  "totalItems": 1144,
+  "generatedAt": "2026-11-23T10:04:08.562Z",
+  "totalItems": 1267,
   "items": [
     {
       "id": "search_mod_01",
@@ -11121,6 +11121,1221 @@
       "subtitle": "Gramer Kuralı · M29",
       "ar": "عَمَلُ الْمَصْدَرِ عَمَلَ فِعْلِهِ (إِضَافَتُهُ إِلَى فَاعِلِهِ أَوْ مَفْعُولِهِ)",
       "keywords": "Mastar (= أَنْ + Fiil) → Fâiline muzâf + Mef'ûlü MANSUB! | قِرَاءَتُكَ الْكِتَابَ / إِطْعَامٌ يَتِيمًا B1 → B2 düzeyinde Arapça metinleri ve YDS/YÖKDİL paragraflarını okurken karşına çıkacak **en hayati nahiv sırrı** şudur:"
+    },
+    {
+      "id": "search_card_m30_fc1",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Yazan / yazar / kâtip (Kâtibun)",
+      "subtitle": "SRS Kartı · M30 · Kök: ك-ت-ب",
+      "ar": "كَاتِبٌ",
+      "kok": "ك-ت-ب",
+      "keywords": "كاتب فَاعِلٌ İsm-i Fâil"
+    },
+    {
+      "id": "search_card_m30_fc2",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Söyleyen / diyen (Kâ’ilun)",
+      "subtitle": "SRS Kartı · M30 · Kök: ق-و-ل",
+      "ar": "قَائِلٌ",
+      "kok": "ق-و-ل",
+      "keywords": "قائل فَاعِلٌ İsm-i Fâil"
+    },
+    {
+      "id": "search_card_m30_fc3",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Yargıç / hâkim / kadı (Kâdın (el-Kâdî))",
+      "subtitle": "SRS Kartı · M30 · Kök: ق-ض-ي",
+      "ar": "قَاضٍ",
+      "kok": "ق-ض-ي",
+      "keywords": "قاض فَاعٍ (فَاعِلٌ) İsm-i Fâil"
+    },
+    {
+      "id": "search_card_m30_fc4",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Çalışkan / gayretli (Muctehidun)",
+      "subtitle": "SRS Kartı · M30 · Kök: ج-ه-د",
+      "ar": "مُجْتَهِدٌ",
+      "kok": "ج-ه-د",
+      "keywords": "مجتهد مُفْتَعِلٌ İsm-i Fâil"
+    },
+    {
+      "id": "search_card_m30_fc5",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Tercüman / çevirmen (Mutercimun)",
+      "subtitle": "SRS Kartı · M30 · Kök: ت-ر-ج-م",
+      "ar": "مُتَرْجِمٌ",
+      "kok": "ت-ر-ج-م",
+      "keywords": "مترجم مُفَعْلِلٌ İsm-i Fâil"
+    },
+    {
+      "id": "search_card_m30_fc6",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Üretici / yapımcı (Munticun)",
+      "subtitle": "SRS Kartı · M30 · Kök: ن-ت-ج",
+      "ar": "مُنْتِجٌ",
+      "kok": "ن-ت-ج",
+      "keywords": "منتج مُفْعِلٌ İsm-i Fâil"
+    },
+    {
+      "id": "search_card_m30_fc7",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Kullanıcı (Mustahdimun)",
+      "subtitle": "SRS Kartı · M30 · Kök: خ-د-م",
+      "ar": "مُسْتَخْدِمٌ",
+      "kok": "خ-د-م",
+      "keywords": "مستخدم مُسْتَفْعِلٌ İsm-i Fâil"
+    },
+    {
+      "id": "search_card_m30_fc8",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Yenilikçi / mucit (Mubtekirun)",
+      "subtitle": "SRS Kartı · M30 · Kök: ب-ك-ر",
+      "ar": "مُبْتَكِرٌ",
+      "kok": "ب-ك-ر",
+      "keywords": "مبتكر مُفْتَعِلٌ İsm-i Fâil"
+    },
+    {
+      "id": "search_card_m30_fc9",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Huzurlu / içi rahat / mutmain (Mutme’innun)",
+      "subtitle": "SRS Kartı · M30 · Kök: ط-م-أ-ن",
+      "ar": "مُطْمَئِنٌّ",
+      "kok": "ط-م-أ-ن",
+      "keywords": "مطمئن مُفْعَلِلٌّ İsm-i Fâil"
+    },
+    {
+      "id": "search_card_m30_fc10",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Yazılmış / yazılı / mektup (Mektûbun)",
+      "subtitle": "SRS Kartı · M30 · Kök: ك-ت-ب",
+      "ar": "مَكْتُوبٌ",
+      "kok": "ك-ت-ب",
+      "keywords": "مكتوب مَفْعُولٌ İsm-i Mef'ûl"
+    },
+    {
+      "id": "search_card_m30_fc11",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Korunmuş / mahfuz (Masûnun)",
+      "subtitle": "SRS Kartı · M30 · Kök: ص-و-ن",
+      "ar": "مَصُونٌ",
+      "kok": "ص-و-ن",
+      "keywords": "مصون مَفْعُولٌ (مَفُولٌ) İsm-i Mef'ûl"
+    },
+    {
+      "id": "search_card_m30_fc12",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Satılmış / satılan (Mebî‘un)",
+      "subtitle": "SRS Kartı · M30 · Kök: ب-ي-ع",
+      "ar": "مَبِيعٌ",
+      "kok": "ب-ي-ع",
+      "keywords": "مبيع مَفْعُولٌ (مَفِيلٌ) İsm-i Mef'ûl"
+    },
+    {
+      "id": "search_card_m30_fc13",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Davet edilmiş / davetli (Med‘uvvun)",
+      "subtitle": "SRS Kartı · M30 · Kök: د-ع-و",
+      "ar": "مَدْعُوٌّ",
+      "kok": "د-ع-و",
+      "keywords": "مدعو مَفْعُولٌ İsm-i Mef'ûl"
+    },
+    {
+      "id": "search_card_m30_fc14",
+      "type": "card",
+      "moduleId": "30",
+      "title": "İnşa edilmiş / kurulu / mebnî (Mebniyyun)",
+      "subtitle": "SRS Kartı · M30 · Kök: ب-ن-ي",
+      "ar": "مَبْنِيٌّ",
+      "kok": "ب-ن-ي",
+      "keywords": "مبني مَفْعُولٌ İsm-i Mef'ûl"
+    },
+    {
+      "id": "search_card_m30_fc15",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Ürün / üretilen mal (Muntecun)",
+      "subtitle": "SRS Kartı · M30 · Kök: ن-ت-ج",
+      "ar": "مُنْتَجٌ",
+      "kok": "ن-ت-ج",
+      "keywords": "منتج مُفْعَلٌ İsm-i Mef'ûl"
+    },
+    {
+      "id": "search_card_m30_fc16",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Tercüme edilmiş / çevrilmiş (Mutercemun)",
+      "subtitle": "SRS Kartı · M30 · Kök: ت-ر-ج-م",
+      "ar": "مُتَرْجَمٌ",
+      "kok": "ت-ر-ج-م",
+      "keywords": "مترجم مُفَعْلَلٌ İsm-i Mef'ûl"
+    },
+    {
+      "id": "search_card_m30_fc17",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Üzerinde uzlaşılan / ittifak edilen (Muttefakun ‘aleyhi)",
+      "subtitle": "SRS Kartı · M30 · Kök: و-ف-ق",
+      "ar": "مُتَّفَقٌ عَلَيْهِ",
+      "kok": "و-ف-ق",
+      "keywords": "متفق عليه مُفْتَعَلٌ İsm-i Mef'ûl"
+    },
+    {
+      "id": "search_card_m30_fc18",
+      "type": "card",
+      "moduleId": "30",
+      "title": "İşaret edilen / bahsi geçen (Muşârun ileyhi)",
+      "subtitle": "SRS Kartı · M30 · Kök: ش-و-ر",
+      "ar": "مُشَارٌ إِلَيْهِ",
+      "kok": "ش-و-ر",
+      "keywords": "مشار إليه مُفْعَلٌ (مُفَالٌ) İsm-i Mef'ûl"
+    },
+    {
+      "id": "search_card_m30_fc19",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Onaylı / geçerli / akredite (Mu‘temedun)",
+      "subtitle": "SRS Kartı · M30 · Kök: ع-م-د",
+      "ar": "مُعْتَمَدٌ",
+      "kok": "ع-م-د",
+      "keywords": "معتمد مُفْتَعَلٌ İsm-i Mef'ûl"
+    },
+    {
+      "id": "search_card_m30_fc20",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Seçen (Fâil) / Seçilmiş (Mef'ûl) (Muhtârun)",
+      "subtitle": "SRS Kartı · M30 · Kök: خ-ي-ر",
+      "ar": "مُخْتَارٌ",
+      "kok": "خ-ي-ر",
+      "keywords": "مختار مُفْتَعِلٌ / مُفْتَعَلٌ Ortak Türev"
+    },
+    {
+      "id": "search_card_m30_fc21",
+      "type": "card",
+      "moduleId": "30",
+      "title": "İşgalci (Fâil) / İşgal edilmiş (Mef'ûl) (Muhtellun)",
+      "subtitle": "SRS Kartı · M30 · Kök: ح-ل-ل",
+      "ar": "مُحْتَلٌّ",
+      "kok": "ح-ل-ل",
+      "keywords": "محتل مُفْتَعِلٌ / مُفْتَعَلٌ Ortak Türev"
+    },
+    {
+      "id": "search_card_m30_fc22",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Örgüt / kuruluş (≠ الْمُنَظِّمَة düzenleyici) (Munazzametun)",
+      "subtitle": "SRS Kartı · M30 · Kök: ن-ظ-م",
+      "ar": "مُنَظَّمَةٌ",
+      "kok": "ن-ظ-م",
+      "keywords": "منظمة مُفَعَّلَةٌ İsm-i Mef'ûl"
+    },
+    {
+      "id": "search_card_m30_fc23",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Çok sabırlı (Sabûrun)",
+      "subtitle": "SRS Kartı · M30 · Kök: ص-ب-ر",
+      "ar": "صَبُورٌ",
+      "kok": "ص-ب-ر",
+      "keywords": "صبور فَعُولٌ Mübalağa"
+    },
+    {
+      "id": "search_card_m30_fc24",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Çok şükreden (Şekûrun)",
+      "subtitle": "SRS Kartı · M30 · Kök: ش-ك-ر",
+      "ar": "شَكُورٌ",
+      "kok": "ش-ك-ر",
+      "keywords": "شكور فَعُولٌ Mübalağa"
+    },
+    {
+      "id": "search_card_m30_fc25",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Çok cömert / bol veren (Mı‘tâ’un)",
+      "subtitle": "SRS Kartı · M30 · Kök: ع-ط-و",
+      "ar": "مِعْطَاءٌ",
+      "kok": "ع-ط-و",
+      "keywords": "معطاء مِفْعَالٌ Mübalağa"
+    },
+    {
+      "id": "search_card_m30_fc26",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Çok misafirperver (Mıdyâfun)",
+      "subtitle": "SRS Kartı · M30 · Kök: ض-ي-ف",
+      "ar": "مِضْيَافٌ",
+      "kok": "ض-ي-ف",
+      "keywords": "مضياف مِفْعَالٌ Mübalağa"
+    },
+    {
+      "id": "search_card_m30_fc27",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Çok etkin / tesirli / faal (Fe‘‘âlun)",
+      "subtitle": "SRS Kartı · M30 · Kök: ف-ع-ل",
+      "ar": "فَعَّالٌ",
+      "kok": "ف-ع-ل",
+      "keywords": "فعال فَعَّالٌ Mübalağa"
+    },
+    {
+      "id": "search_card_m30_fc28",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Çok dikkatli / temkinli (Hazirun)",
+      "subtitle": "SRS Kartı · M30 · Kök: ح-ذ-ر",
+      "ar": "حَذِرٌ",
+      "kok": "ح-ذ-ر",
+      "keywords": "حذر فَعِلٌ Mübalağa"
+    },
+    {
+      "id": "search_card_m30_fc29",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Çok zeki / kavrayışlı (Fatınun)",
+      "subtitle": "SRS Kartı · M30 · Kök: ف-ط-ن",
+      "ar": "فَطِنٌ",
+      "kok": "ف-ط-ن",
+      "keywords": "فطن فَعِلٌ Mübalağa"
+    },
+    {
+      "id": "search_card_m30_fc30",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Yeşil (çoğul: خُضْرٌ) (Ahdaru / Hadrâ’u)",
+      "subtitle": "SRS Kartı · M30 · Kök: خ-ض-ر",
+      "ar": "أَخْضَرُ / خَضْرَاءُ",
+      "kok": "خ-ض-ر",
+      "keywords": "أخضر / خضراء أَفْعَلُ / فَعْلَاءُ Sıfat-ı Müşebbehe"
+    },
+    {
+      "id": "search_card_m30_fc31",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Kırmızı (çoğul: حُمْرٌ) (Ahmaru / Hamrâ’u)",
+      "subtitle": "SRS Kartı · M30 · Kök: ح-م-ر",
+      "ar": "أَحْمَرُ / حَمْرَاءُ",
+      "kok": "ح-م-ر",
+      "keywords": "أحمر / حمراء أَفْعَلُ / فَعْلَاءُ Sıfat-ı Müşebbehe"
+    },
+    {
+      "id": "search_card_m30_fc32",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Susamış (‘Atşânu / ‘Atşâ)",
+      "subtitle": "SRS Kartı · M30 · Kök: ع-ط-ش",
+      "ar": "عَطْشَانُ / عَطْشَى",
+      "kok": "ع-ط-ش",
+      "keywords": "عطشان / عطشى فَعْلَانُ / فَعْلَى Sıfat-ı Müşebbehe"
+    },
+    {
+      "id": "search_card_m30_fc33",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Dolu / dopdolu (Mel’ânu / Mel’â)",
+      "subtitle": "SRS Kartı · M30 · Kök: م-ل-أ",
+      "ar": "مَلْآنُ / مَلْأَى",
+      "kok": "م-ل-أ",
+      "keywords": "ملآن / ملأى فَعْلَانُ / فَعْلَى Sıfat-ı Müşebbehe"
+    },
+    {
+      "id": "search_card_m30_fc34",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Cömert / soylu / değerli (Kerîmun)",
+      "subtitle": "SRS Kartı · M30 · Kök: ك-ر-م",
+      "ar": "كَرِيمٌ",
+      "kok": "ك-ر-م",
+      "keywords": "كريم فَعِيلٌ Sıfat-ı Müşebbehe"
+    },
+    {
+      "id": "search_card_m30_fc35",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Cesur / yiğit (Şucâ‘un)",
+      "subtitle": "SRS Kartı · M30 · Kök: ش-ج-ع",
+      "ar": "شُجَاعٌ",
+      "kok": "ش-ج-ع",
+      "keywords": "شجاع فُعَالٌ Sıfat-ı Müşebbehe"
+    },
+    {
+      "id": "search_card_m30_fc36",
+      "type": "card",
+      "moduleId": "30",
+      "title": "Kolay / düz (Sehlun)",
+      "subtitle": "SRS Kartı · M30 · Kök: س-ه-ل",
+      "ar": "سَهْلٌ",
+      "kok": "س-ه-ل",
+      "keywords": "سهل فَعْلٌ Sıfat-ı Müşebbehe"
+    },
+    {
+      "id": "search_gram_m30_g1",
+      "type": "grammar",
+      "moduleId": "30",
+      "title": "İsm-i Fâil (اِسْمُ الْفَاعِلِ) — Eylemi Yapan / Etken Sıfat-Fiil",
+      "subtitle": "Gramer Kuralı · M30",
+      "ar": "اِسْمُ الْفَاعِلِ مِنَ الثُّلَاثِيِّ وَغَيْرِ الثُّلَاثِيِّ وَإِعْمَالُهُ",
+      "keywords": "Sülâsî: فَاعِلٌ (كَاتِبٌ، قَائِلٌ، قَاضٍ) | Mezîd/Rubâî: مُـ + sondan önceki KESRA (مُعَلِّمٌ، مُجْتَهِدٌ، مُسْتَخْدِمٌ) **İsm-i Fâil (اِسْمُ الْفَاعِلِ)**, bir eylemi **yapan** veya kendisinde o hâlin ortaya çıktığı varlığı gösteren türemiş"
+    },
+    {
+      "id": "search_gram_m30_g2",
+      "type": "grammar",
+      "moduleId": "30",
+      "title": "İsm-i Mef'ûl (اِسْمُ الْمَفْعُولِ) — Eylemden Etkilenen / Edilgen Sıfat-Fiil",
+      "subtitle": "Gramer Kuralı · M30",
+      "ar": "اِسْمُ الْمَفْعُولِ مِنَ الثُّلَاثِيِّ وَغَيْرِ الثُّلَاثِيِّ",
+      "keywords": "Sülâsî: مَفْعُولٌ (مَكْتُوبٌ) | Ecvef: مَقُولٌ/مَبِيعٌ | Nâkıs: مَدْعُوٌّ/مَبْنِيٌّ | Mezîd: مُـ + sondan önceki FETHA (مُحْتَرَمٌ، مُسْتَخْدَمٌ) **İsm-i Mef'ûl (اِسْمُ الْمَفْعُولِ)**, eylemden **etkilenen / yapılan** varlığı bildirir — Türkçedeki **`-ilmiş / -ulmu"
+    },
+    {
+      "id": "search_gram_m30_g3",
+      "type": "grammar",
+      "moduleId": "30",
+      "title": "Mübalağalı İsm-i Fâil (صِيَغُ الْمُبَالَغَةِ) — 'Çok Yapan / Meslek Hâline Getiren'",
+      "subtitle": "Gramer Kuralı · M30",
+      "ar": "صِيَغُ الْمُبَالَغَةِ الْخَمْسُ الْمَشْهُورَةُ (فَعَّالٌ – مِفْعَالٌ – فَعُولٌ – فَعِيلٌ – فَعِلٌ)",
+      "keywords": "5 Kalıp: فَعَّالٌ (غَفَّارٌ/نَجَّارٌ) | مِفْعَالٌ (مِعْطَاءٌ) | فَعُولٌ (صَبُورٌ — ة'siz ortak!) | فَعِيلٌ (عَلِيمٌ) | فَعِلٌ (حَذِرٌ) Bir kişi bir işi bir kez yaptığında **İsm-i Fâil** (`صَادِقٌ` = doğru söyleyen, `عَالِمٌ` = bilen) kullanılır; ama o işi"
+    },
+    {
+      "id": "search_gram_m30_g4",
+      "type": "grammar",
+      "moduleId": "30",
+      "title": "Sıfat-ı Müşebbehe (الصِّفَةُ الْمُشَبَّهَةُ) — Kalıcı Karakter, Renk ve Nitelik Sıfatları",
+      "subtitle": "Gramer Kuralı · M30",
+      "ar": "الصِّفَةُ الْمُشَبَّهَةُ بِاسْمِ الْفَاعِلِ وَأَشْهَرُ أَوْزَانِهَا",
+      "keywords": "Lâzım Fiilden Kalıcı Nitelik: أَفْعَل/فَعْلَاء (renk/kusur) | فَعْلَان/فَعْلَى (duygu/açlık) | فَعِيلٌ (كَرِيم، جَمِيل، طَوِيل) | فَعْل/فُعَال (سَهْل، شُجَاع) İsm-i Fâil **geçici / anlık bir eylemi** anlatır (`وَاقِفٌ` = şu an ayakta duran, `ضَاحِكٌ` = şu an gülen). Peki bir ins"
+    },
+    {
+      "id": "search_gram_m30_g5",
+      "type": "grammar",
+      "moduleId": "30",
+      "title": "Harekesiz Metinde مُفْعِل / مُفْعَل Ayrımı & İsm-i Fâil/Mef'ûl'ün Ortak Geldiği İstisnalar",
+      "subtitle": "Gramer Kuralı · M30",
+      "ar": "التَّمْيِيزُ بَيْنَ اِسْمِ الْفَاعِلِ وَاسْمِ الْمَفْعُولِ فِي النُّصُوصِ غَيْرِ الْمَشْكُولَةِ",
+      "keywords": "Harekesiz Ayrım: Canlı Yapan = مُفْعِل (مُنْتِج) | Nesne/Ürün = مُفْعَل (مُنْتَج) || Ortak Şekiller: مُخْتَارٌ / مُحْتَلٌّ / مُهْتَمٌّ (Sadece bağlam ayırır!) Harekesiz bir Arapça gazete, kitap veya YDS sınav metni açtığında karşına **`محتل، مختار، مهتم، منتج، مستخدم، مسؤول، منظ"
+    },
+    {
+      "id": "search_card_m31_fc1",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Büro / ofis / çalışma masası (Mektebun)",
+      "subtitle": "SRS Kartı · M31 · Kök: ك-ت-ب",
+      "ar": "مَكْتَبٌ",
+      "kok": "ك-ت-ب",
+      "keywords": "مكتب مَفْعَلٌ İsm-i Mekân"
+    },
+    {
+      "id": "search_card_m31_fc2",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Fuar / sergi (Ma‘rıdun)",
+      "subtitle": "SRS Kartı · M31 · Kök: ع-ر-ض",
+      "ar": "مَعْرِضٌ",
+      "kok": "ع-ر-ض",
+      "keywords": "معرض مَفْعِلٌ İsm-i Mekân"
+    },
+    {
+      "id": "search_card_m31_fc3",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Durak / otopark (veya tutum) (Mevkıfun)",
+      "subtitle": "SRS Kartı · M31 · Kök: و-ق-ف",
+      "ar": "مَوْقِفٌ",
+      "kok": "و-ق-ف",
+      "keywords": "موقف مَفْعِلٌ İsm-i Mekân"
+    },
+    {
+      "id": "search_card_m31_fc4",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Randevu vakti / buluşma yeri (Mev‘ıdun)",
+      "subtitle": "SRS Kartı · M31 · Kök: و-ع-د",
+      "ar": "مَوْعِدٌ",
+      "kok": "و-ع-د",
+      "keywords": "موعد مَفْعِلٌ İsm-i Zaman/Mekân"
+    },
+    {
+      "id": "search_card_m31_fc5",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Doğuş vakti / başlangıç noktası (Matla‘un)",
+      "subtitle": "SRS Kartı · M31 · Kök: ط-ل-ع",
+      "ar": "مَطْلَعٌ",
+      "kok": "ط-ل-ع",
+      "keywords": "مطلع مَفْعَلٌ İsm-i Zaman"
+    },
+    {
+      "id": "search_card_m31_fc6",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Buluşma noktası / forum / platform (Multekan)",
+      "subtitle": "SRS Kartı · M31 · Kök: ل-ق-ي",
+      "ar": "مُلْتَقًى",
+      "kok": "ل-ق-ي",
+      "keywords": "ملتقى مُفْتَعَلٌ Mezîd Mekân"
+    },
+    {
+      "id": "search_card_m31_fc7",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Hastane (şifa aranan yer) (Musteşfen (el-Musteşfâ))",
+      "subtitle": "SRS Kartı · M31 · Kök: ش-ف-ي",
+      "ar": "مُسْتَشْفًى",
+      "kok": "ش-ف-ي",
+      "keywords": "مستشفى مُسْتَفْعَلٌ Mezîd Mekân"
+    },
+    {
+      "id": "search_card_m31_fc8",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Gelecek (zaman) (Mustakbelun)",
+      "subtitle": "SRS Kartı · M31 · Kök: ق-ب-ل",
+      "ar": "مُسْتَقْبَلٌ",
+      "kok": "ق-ب-ل",
+      "keywords": "مستقبل مُسْتَفْعَلٌ Mezîd Zaman"
+    },
+    {
+      "id": "search_card_m31_fc9",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Anahtar (Miftâhun)",
+      "subtitle": "SRS Kartı · M31 · Kök: ف-ت-ح",
+      "ar": "مِفْتَاحٌ",
+      "kok": "ف-ت-ح",
+      "keywords": "مفتاح مِفْعَالٌ İsm-i Âlet"
+    },
+    {
+      "id": "search_card_m31_fc10",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Terazi / ölçü / denge (Mîzânun)",
+      "subtitle": "SRS Kartı · M31 · Kök: و-ز-ن",
+      "ar": "مِيزَانٌ",
+      "kok": "و-ز-ن",
+      "keywords": "ميزان مِفْعَالٌ İsm-i Âlet"
+    },
+    {
+      "id": "search_card_m31_fc11",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Asansör (Mıs‘adun)",
+      "subtitle": "SRS Kartı · M31 · Kök: ص-ع-د",
+      "ar": "مِصْعَدٌ",
+      "kok": "ص-ع-د",
+      "keywords": "مصعد مِفْعَلٌ İsm-i Âlet"
+    },
+    {
+      "id": "search_card_m31_fc12",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Mikroskop (Micherun)",
+      "subtitle": "SRS Kartı · M31 · Kök: ج-ه-ر",
+      "ar": "مِجْهَرٌ",
+      "kok": "ج-ه-ر",
+      "keywords": "مجهر مِفْعَلٌ İsm-i Âlet"
+    },
+    {
+      "id": "search_card_m31_fc13",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Cetvel (Mistaratun)",
+      "subtitle": "SRS Kartı · M31 · Kök: س-ط-ر",
+      "ar": "مِسْطَرَةٌ",
+      "kok": "س-ط-ر",
+      "keywords": "مسطرة مِفْعَلَةٌ İsm-i Âlet"
+    },
+    {
+      "id": "search_card_m31_fc14",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Çamaşır makinesi (Gassâletun)",
+      "subtitle": "SRS Kartı · M31 · Kök: غ-س-ل",
+      "ar": "غَسَّالَةٌ",
+      "kok": "غ-س-ل",
+      "keywords": "غسالة فَعَّالَةٌ Modern İsm-i Âlet"
+    },
+    {
+      "id": "search_card_m31_fc15",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Buzdolabı (Sellâcetun)",
+      "subtitle": "SRS Kartı · M31 · Kök: ث-ل-ج",
+      "ar": "ثَلَّاجَةٌ",
+      "kok": "ث-ل-ج",
+      "keywords": "ثلاجة فَعَّالَةٌ Modern İsm-i Âlet"
+    },
+    {
+      "id": "search_card_m31_fc16",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Yazıcı (printer) (Tâbi‘atun)",
+      "subtitle": "SRS Kartı · M31 · Kök: ط-ب-ع",
+      "ar": "طَابِعَةٌ",
+      "kok": "ط-ب-ع",
+      "keywords": "طابعة فَاعِلَةٌ Modern İsm-i Âlet"
+    },
+    {
+      "id": "search_card_m31_fc17",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Bilgisayar (Hâsûbun)",
+      "subtitle": "SRS Kartı · M31 · Kök: ح-س-ب",
+      "ar": "حَاسُوبٌ",
+      "kok": "ح-س-ب",
+      "keywords": "حاسوب فَاعُولٌ Modern İsm-i Âlet"
+    },
+    {
+      "id": "search_card_m31_fc18",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Çölsel / çöle ait (Sahrâviyyun)",
+      "subtitle": "SRS Kartı · M31 · Kök: ص-ح-ر",
+      "ar": "صَحْرَاوِيٌّ",
+      "kok": "ص-ح-ر",
+      "keywords": "صحراوي فَعْلَاوِيٌّ İsm-i Mensûb"
+    },
+    {
+      "id": "search_card_m31_fc19",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Nükleer / çekirdeğe ait (Neveviyyun)",
+      "subtitle": "SRS Kartı · M31 · Kök: ن-و-ي",
+      "ar": "نَوَوِيٌّ",
+      "kok": "ن-و-ي",
+      "keywords": "نووي فَعَلِيٌّ İsm-i Mensûb"
+    },
+    {
+      "id": "search_card_m31_fc20",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Sivil / medeni / şehre ait (Medeniyyun)",
+      "subtitle": "SRS Kartı · M31 · Kök: م-د-ن",
+      "ar": "مَدَنِيٌّ",
+      "kok": "م-د-ن",
+      "keywords": "مدني فَعَلِيٌّ İsm-i Mensûb"
+    },
+    {
+      "id": "search_card_m31_fc21",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Hayati / canlı / dinamik (Hayeviyyun)",
+      "subtitle": "SRS Kartı · M31 · Kök: ح-ي-ي",
+      "ar": "حَيَوِيٌّ",
+      "kok": "ح-ي-ي",
+      "keywords": "حيوي فَعَلِيٌّ İsm-i Mensûb"
+    },
+    {
+      "id": "search_card_m31_fc22",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Kraliyet / krallığa ait (Melekiyyun)",
+      "subtitle": "SRS Kartı · M31 · Kök: م-ل-ك",
+      "ar": "مَلَكِيٌّ",
+      "kok": "م-ل-ك",
+      "keywords": "ملكي فَعَلِيٌّ İsm-i Mensûb"
+    },
+    {
+      "id": "search_card_m31_fc23",
+      "type": "card",
+      "moduleId": "31",
+      "title": "El işi / manuel / elle yapılan (Yedeviyyun)",
+      "subtitle": "SRS Kartı · M31 · Kök: ي-د-ي",
+      "ar": "يَدَوِيٌّ",
+      "kok": "ي-د-ي",
+      "keywords": "يدوي فَعَلِيٌّ İsm-i Mensûb"
+    },
+    {
+      "id": "search_card_m31_fc24",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Hemen önce / az önce (Kubeyle)",
+      "subtitle": "SRS Kartı · M31 · Kök: ق-ب-ل",
+      "ar": "قُبَيْلَ",
+      "kok": "ق-ب-ل",
+      "keywords": "قبيل فُعَيْلَ İsm-i Tasğîr"
+    },
+    {
+      "id": "search_card_m31_fc25",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Hemen sonra / az sonra (Bu‘ayde)",
+      "subtitle": "SRS Kartı · M31 · Kök: ب-ع-د",
+      "ar": "بُعَيْدَ",
+      "kok": "ب-ع-د",
+      "keywords": "بعيد فُعَيْلَ İsm-i Tasğîr"
+    },
+    {
+      "id": "search_card_m31_fc26",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Kitapçık / broşür / kılavuz (Kuteyyibun)",
+      "subtitle": "SRS Kartı · M31 · Kök: ك-ت-ب",
+      "ar": "كُتَيِّبٌ",
+      "kok": "ك-ت-ب",
+      "keywords": "كتيب فُعَيْعِلٌ İsm-i Tasğîr"
+    },
+    {
+      "id": "search_card_m31_fc27",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Oğulcuğum / yavrucuğum (Buneyye)",
+      "subtitle": "SRS Kartı · M31 · Kök: ب-ن-و",
+      "ar": "بُنَيَّ",
+      "kok": "ب-ن-و",
+      "keywords": "بني فُعَيْلٌ İsm-i Tasğîr"
+    },
+    {
+      "id": "search_card_m31_fc28",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Derecik / küçük nehir (Nuheyrun)",
+      "subtitle": "SRS Kartı · M31 · Kök: ن-ه-ر",
+      "ar": "نُهَيْرٌ",
+      "kok": "ن-ه-ر",
+      "keywords": "نهير فُعَيْلٌ İsm-i Tasğîr"
+    },
+    {
+      "id": "search_card_m31_fc29",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Serçecik / küçük kuş (‘Usayfîrun)",
+      "subtitle": "SRS Kartı · M31 · Kök: ع-ص-ف-ر",
+      "ar": "عُصَيْفِيرٌ",
+      "kok": "ع-ص-ف-ر",
+      "keywords": "عصيفير فُعَيْعِيلٌ İsm-i Tasğîr"
+    },
+    {
+      "id": "search_card_m31_fc30",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Daha büyük / en büyük (Ekberu / Kubrâ)",
+      "subtitle": "SRS Kartı · M31 · Kök: ك-ب-ر",
+      "ar": "أَكْبَرُ / كُبْرَى",
+      "kok": "ك-ب-ر",
+      "keywords": "أكبر / كبرى أَفْعَلُ / فُعْلَى İsm-i Tafdil"
+    },
+    {
+      "id": "search_card_m31_fc31",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Daha yüce / en yüksek (A‘lâ / ‘Ulyâ)",
+      "subtitle": "SRS Kartı · M31 · Kök: ع-ل-و",
+      "ar": "أَعْلَى / عُلْيَا",
+      "kok": "ع-ل-و",
+      "keywords": "أعلى / عليا أَفْعَلُ / فُعْلَى İsm-i Tafdil"
+    },
+    {
+      "id": "search_card_m31_fc32",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Daha büyük / en yüce (A‘zamu / ‘Uzmâ)",
+      "subtitle": "SRS Kartı · M31 · Kök: ع-ظ-م",
+      "ar": "أَعْظَمُ / عُظْمَى",
+      "kok": "ع-ظ-م",
+      "keywords": "أعظم / عظمى أَفْعَلُ / فُعْلَى İsm-i Tafdil"
+    },
+    {
+      "id": "search_card_m31_fc33",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Daha iyi / en faziletli (Efdalu / Fudlâ)",
+      "subtitle": "SRS Kartı · M31 · Kök: ف-ض-ل",
+      "ar": "أَفْضَلُ / فُضْلَى",
+      "kok": "ف-ض-ل",
+      "keywords": "أفضل / فضلى أَفْعَلُ / فُعْلَى İsm-i Tafdil"
+    },
+    {
+      "id": "search_card_m31_fc34",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Daha/en hayırlı — Daha/en kötü (Hayrun / Şerrun)",
+      "subtitle": "SRS Kartı · M31 · Kök: خ-ي-ر / ش-ر-ر",
+      "ar": "خَيْرٌ / شَرٌّ",
+      "kok": "خ-ي-ر / ش-ر-ر",
+      "keywords": "خير / شر أَفْعَلُ (hemzesiz!) İsm-i Tafdil"
+    },
+    {
+      "id": "search_card_m31_fc35",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Daha gelişmiş / daha ileri (Ekseru tekaddumen)",
+      "subtitle": "SRS Kartı · M31 · Kök: ق-د-م",
+      "ar": "أَكْثَرُ تَقَدُّمًا",
+      "kok": "ق-د-م",
+      "keywords": "أكثر تقدما أَفْعَلُ + تَمْيِيز Yardımcı Tafdil"
+    },
+    {
+      "id": "search_card_m31_fc36",
+      "type": "card",
+      "moduleId": "31",
+      "title": "Daha kırmızı (Eşeddu humraten)",
+      "subtitle": "SRS Kartı · M31 · Kök: ح-م-ر",
+      "ar": "أَشَدُّ حُمْرَةً",
+      "kok": "ح-م-ر",
+      "keywords": "أشد حمرة أَفْعَلُ + تَمْيِيز Yardımcı Tafdil"
+    },
+    {
+      "id": "search_gram_m31_g1",
+      "type": "grammar",
+      "moduleId": "31",
+      "title": "İsm-i Zaman & İsm-i Mekân (اِسْمَا الزَّمَانِ وَالْمَكَانِ) — Eylemin Vakti ve Yeri",
+      "subtitle": "Gramer Kuralı · M31",
+      "ar": "اِسْمَا الزَّمَانِ وَالْمَكَانِ (مَفْعَلٌ – مَفْعِلٌ – مُفْعَلٌ)",
+      "keywords": "Sülâsî: مَفْعَلٌ (يَفْعُلُ / يَفْعَلُ / Nâkıs) | مَفْعِلٌ (يَفْعِلُ / Misâl-i Vâvî) || Mezîd: مُـ + sondan önceki fetha (مُسْتَشْفًى، مُجْتَمَعٌ، مُسْتَقْبَلٌ) Arapçada bir eylemin **yapıldığı YERİ** (`مَكْتَبٌ` = yazı yazılan yer / büro, `مَدْرَسَةٌ` = ders okunan yer / okul, `م"
+    },
+    {
+      "id": "search_gram_m31_g2",
+      "type": "grammar",
+      "moduleId": "31",
+      "title": "İsm-i Âlet (اِسْمُ الْآلَةِ) — Eylemin Yapıldığı Alet, Cihaz ve Makine İsimleri",
+      "subtitle": "Gramer Kuralı · M31",
+      "ar": "اِسْمُ الْآلَةِ (الْأَوْزَانُ الْقَدِيمَةُ وَالْحَدِيثَةُ)",
+      "keywords": "3 Klasik (مِـ kesra!): مِفْعَالٌ (مِفْتَاح) | مِفْعَلٌ (مِصْعَد) | مِفْعَلَةٌ (مِسْطَرَة) || 4 Modern: فَعَّالَةٌ (غَسَّالَة/ثَلَّاجَة) | فَاعِلَةٌ (طَابِعَة) | فَاعُولٌ (حَاسُوب) **İsm-i Âlet (اِسْمُ الْآلَةِ)**, bir eylemin **kendisiyle yapıldığı alet, araç veya makineyi** gösteren isimdir! İsm-i "
+    },
+    {
+      "id": "search_gram_m31_g3",
+      "type": "grammar",
+      "moduleId": "31",
+      "title": "İsm-i Mensûb (النِّسْبَةُ: ـِيٌّ / ـِيَّةٌ) — Aidiyet, Milliyet ve Akademik Sıfatlar",
+      "subtitle": "Gramer Kuralı · M31",
+      "ar": "الِاسْمُ الْمَنْسُوبُ (يَاءُ النِّسْبَةِ الْمُشَدَّدَةُ وَأَحْكَامُهَا)",
+      "keywords": "İsim + ـِيٌّ / ـِيَّةٌ | ة düşer (جَامِعَة → جَامِعِيّ) | Tekile nisbet! | صَحْرَاء → صَحْرَاوِيّ | نَوَاة → نَوَوِيّ | مَدِينَة → مَدَنِيّ **İsm-i Mensûb (الِاسْمُ الْمَنْسُوبُ)**, bir varlığın hangi **ülkeye, şehre, bilime, kuruma, dile veya alana ait** oldu"
+    },
+    {
+      "id": "search_gram_m31_g4",
+      "type": "grammar",
+      "moduleId": "31",
+      "title": "İsm-i Tasğîr (التَّصْغِيرُ) — Küçültme, Sevgi/Şefkat ve Yakınlaştırma Sanatı",
+      "subtitle": "Gramer Kuralı · M31",
+      "ar": "اِسْمُ التَّصْغِيرِ (فُعَيْلٌ – فُعَيْعِلٌ – فُعَيْعِيلٌ)",
+      "keywords": "1. harf ÖTRE + 2. harf FETHA + 3. sırada sakin يْ | 3 harfli: فُعَيْلٌ (جُبَيْل، قُبَيْلَ) | 4 harfli: فُعَيْعِلٌ (كُتَيِّب، دُرَيْهِم) | 5 harfli: فُعَيْعِيلٌ (عُصَيْفِير) Türkçedeki **`-cik / -cık / -cağız`** eklerinin (`kitapçık, evcik, yavrucak, azıcık`) Arapçadaki zarif, müzikal karşılığ"
+    },
+    {
+      "id": "search_gram_m31_g5",
+      "type": "grammar",
+      "moduleId": "31",
+      "title": "İsm-i Tafdil (اِسْمُ التَّفْضِيلِ) — Karşılaştırma ('Daha...') & Üstünlük ('En...') 4 Altın Hâli",
+      "subtitle": "Gramer Kuralı · M31",
+      "ar": "اِسْمُ التَّفْضِيلِ (أَفْعَلُ / فُعْلَى) وَحَالَاتُهُ الْأَرْبَعُ",
+      "keywords": "1. مِنْ ile → daima tekil-müzekker (مَرْيَمُ أَكْبَرُ مِنْ...) | 2. Nekreye muzâf → daima tekil-müzekker (أَفْضَلُ طَالِبَةٍ) | 3. ال'lı → UYUM ŞART (الْفُضْلَى/الْكُبْرَى) | 4. Marifeye muzâf → İkisi de câiz! || Mezîd/Renk: أَكْثَرُ / أَشَدُّ + mansub mastar! Arapçada hem **karşılaştırma (`-den daha ...`)** hem de **üstünlük (`en ...`)** tek bir harika kalıpla yapılır: **İsm-i "
+    },
+    {
+      "id": "search_card_m32_fc1",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Genç delikanlı (tesniye: فَتَيَانِ) (El-Fetâ / Feten)",
+      "subtitle": "SRS Kartı · M32 · Kök: ف-ت-ي",
+      "ar": "الْفَتَى / فَتًى",
+      "kok": "ف-ت-ي",
+      "keywords": "الفتى / فتى فَعَلٌ İsm-i Maksûr"
+    },
+    {
+      "id": "search_card_m32_fc2",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Asa / değnek (tesniye: عَصَوَانِ) (El-‘Asâ / ‘Asan)",
+      "subtitle": "SRS Kartı · M32 · Kök: ع-ص-و",
+      "ar": "الْعَصَا / عَصًا",
+      "kok": "ع-ص-و",
+      "keywords": "العصا / عصا فَعَلٌ İsm-i Maksûr"
+    },
+    {
+      "id": "search_card_m32_fc3",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Hastane (çoğul: مُسْتَشْفَيَاتٌ) (El-Musteşfâ)",
+      "subtitle": "SRS Kartı · M32 · Kök: ش-ف-ي",
+      "ar": "الْمُسْتَشْفَى",
+      "kok": "ش-ف-ي",
+      "keywords": "المستشفى مُسْتَفْعَلٌ İsm-i Maksûr"
+    },
+    {
+      "id": "search_card_m32_fc4",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Seviye / düzey (çoğul: مُسْتَوَيَاتٌ) (El-Mustevâ)",
+      "subtitle": "SRS Kartı · M32 · Kök: س-و-ي",
+      "ar": "الْمُسْتَوَى",
+      "kok": "س-و-ي",
+      "keywords": "المستوى مُفْتَعَلٌ İsm-i Maksûr"
+    },
+    {
+      "id": "search_card_m32_fc5",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Forum / platform (çoğul: مُنْتَدَيَاتٌ) (El-Muntedâ)",
+      "subtitle": "SRS Kartı · M32 · Kök: ن-د-و",
+      "ar": "الْمُنْتَدَى",
+      "kok": "ن-د-و",
+      "keywords": "المنتدى مُفْتَعَلٌ İsm-i Maksûr"
+    },
+    {
+      "id": "search_card_m32_fc6",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Anlam / mana (çoğul: مَعَانٍ) (El-Ma‘nâ / Ma‘nen)",
+      "subtitle": "SRS Kartı · M32 · Kök: ع-ن-ي",
+      "ar": "الْمَعْنَى / مَعْنًى",
+      "kok": "ع-ن-ي",
+      "keywords": "المعنى / معنى مَفْعَلٌ İsm-i Maksûr"
+    },
+    {
+      "id": "search_card_m32_fc7",
+      "type": "card",
+      "moduleId": "32",
+      "title": "En üstün olanlar (الْأَعْلَى çoğulu) (El-A‘levne)",
+      "subtitle": "SRS Kartı · M32 · Kök: ع-ل-و",
+      "ar": "الْأَعْلَوْنَ",
+      "kok": "ع-ل-و",
+      "keywords": "الأعلون الْأَفْعَلُونَ İsm-i Maksûr"
+    },
+    {
+      "id": "search_card_m32_fc8",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Yargıç / hâkim (nasb: قَاضِيًا) (El-Kâdî / Kâdın)",
+      "subtitle": "SRS Kartı · M32 · Kök: ق-ض-ي",
+      "ar": "الْقَاضِي / قَاضٍ",
+      "kok": "ق-ض-ي",
+      "keywords": "القاضي / قاض فَاعِلٌ / فَاعٍ İsm-i Mankûs"
+    },
+    {
+      "id": "search_card_m32_fc9",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Avukat (çoğul: الْمُحَامُونَ) (El-Muhâmî / Muhâmin)",
+      "subtitle": "SRS Kartı · M32 · Kök: ح-م-ي",
+      "ar": "الْمُحَامِي / مُحَامٍ",
+      "kok": "ح-م-ي",
+      "keywords": "المحامي / محام مُفَاعِلٌ İsm-i Mankûs"
+    },
+    {
+      "id": "search_card_m32_fc10",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Vadi (tesniye: وَادِيَانِ) (El-Vâdî / Vâdin)",
+      "subtitle": "SRS Kartı · M32 · Kök: و-د-ي",
+      "ar": "الْوَادِي / وَادٍ",
+      "kok": "و-د-ي",
+      "keywords": "الوادي / واد فَاعِلٌ İsm-i Mankûs"
+    },
+    {
+      "id": "search_card_m32_fc11",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Kulüp / dernek (çoğul: نَوَادٍ) (En-Nâdî / Nâdin)",
+      "subtitle": "SRS Kartı · M32 · Kök: ن-د-و",
+      "ar": "النَّادِي / نَادٍ",
+      "kok": "ن-د-و",
+      "keywords": "النادي / ناد فَاعِلٌ İsm-i Mankûs"
+    },
+    {
+      "id": "search_card_m32_fc12",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Davetçi / çağıran (çoğul: الدَّاعُونَ) (Ed-Dâ‘î / Dâ‘ın)",
+      "subtitle": "SRS Kartı · M32 · Kök: د-ع-و",
+      "ar": "الدَّاعِي / دَاعٍ",
+      "kok": "د-ع-و",
+      "keywords": "الداعي / داع فَاعِلٌ İsm-i Mankûs"
+    },
+    {
+      "id": "search_card_m32_fc13",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Berrak / saf / duru (Es-Sâfî / Sâfin)",
+      "subtitle": "SRS Kartı · M32 · Kök: ص-ف-و",
+      "ar": "الصَّافِي / صَافٍ",
+      "kok": "ص-ف-و",
+      "keywords": "الصافي / صاف فَاعِلٌ İsm-i Mankûs"
+    },
+    {
+      "id": "search_card_m32_fc14",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Geçmiş / geçen / mâzi (El-Mâdî / Mâdın)",
+      "subtitle": "SRS Kartı · M32 · Kök: م-ض-ي",
+      "ar": "الْمَاضِي / مَاضٍ",
+      "kok": "م-ض-ي",
+      "keywords": "الماضي / ماض فَاعِلٌ İsm-i Mankûs"
+    },
+    {
+      "id": "search_card_m32_fc15",
+      "type": "card",
+      "moduleId": "32",
+      "title": "İnşa / yapı / kompozisyon (çoğul: إِنْشَاءَاتٌ) (İnşâ’un)",
+      "subtitle": "SRS Kartı · M32 · Kök: ن-ش-أ",
+      "ar": "إِنْشَاءٌ",
+      "kok": "ن-ش-أ",
+      "keywords": "إنشاء إِفْعَالٌ İsm-i Memdûd"
+    },
+    {
+      "id": "search_card_m32_fc16",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Başlangıç (tesniye: اِبْتِدَاءَانِ) (İbtidâ’un)",
+      "subtitle": "SRS Kartı · M32 · Kök: ب-د-أ",
+      "ar": "اِبْتِدَاءٌ",
+      "kok": "ب-د-أ",
+      "keywords": "ابتداء اِفْتِعَالٌ İsm-i Memdûd"
+    },
+    {
+      "id": "search_card_m32_fc17",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Çöl (tesniye: صَحْرَاوَانِ — çoğul: صَحْرَاوَاتٌ) (Sahrâ’u)",
+      "subtitle": "SRS Kartı · M32 · Kök: ص-ح-ر",
+      "ar": "صَحْرَاءُ",
+      "kok": "ص-ح-ر",
+      "keywords": "صحراء فَعْلَاءُ İsm-i Memdûd"
+    },
+    {
+      "id": "search_card_m32_fc18",
+      "type": "card",
+      "moduleId": "32",
+      "title": "İki kırmızı / iki yeşil (مؤ tesniye) (Hamrâvâni / Hadrâvâni)",
+      "subtitle": "SRS Kartı · M32 · Kök: ح-م-ر / خ-ض-ر",
+      "ar": "حَمْرَاوَانِ / خَضْرَاوَانِ",
+      "kok": "ح-م-ر / خ-ض-ر",
+      "keywords": "حمراوان / خضراوان فَعْلَاوَانِ İsm-i Memdûd"
+    },
+    {
+      "id": "search_card_m32_fc19",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Gökyüzü (çoğul: سَمَاوَاتٌ) (Semâ’un)",
+      "subtitle": "SRS Kartı · M32 · Kök: س-م-و",
+      "ar": "سَمَاءٌ",
+      "kok": "س-م-و",
+      "keywords": "سماء فَعَالٌ İsm-i Memdûd"
+    },
+    {
+      "id": "search_card_m32_fc20",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Bina / yapı (tesniye: بِنَاءَانِ / بِنَاوَانِ) (Binâ’un)",
+      "subtitle": "SRS Kartı · M32 · Kök: ب-ن-ي",
+      "ar": "بِنَاءٌ",
+      "kok": "ب-ن-ي",
+      "keywords": "بناء فِعَالٌ İsm-i Memdûd"
+    },
+    {
+      "id": "search_card_m32_fc21",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Doktorlar / âlimler (Etıbbâ’u / ‘Ulemâ’u)",
+      "subtitle": "SRS Kartı · M32 · Kök: ط-ب-ب / ع-ل-م",
+      "ar": "أَطِبَّاءُ / عُلَمَاءُ",
+      "kok": "ط-ب-ب / ع-ل-م",
+      "keywords": "أطباء / علماء أَفْعِلَاءُ / فُعَلَاءُ İsm-i Memdûd"
+    },
+    {
+      "id": "search_card_m32_fc22",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Dün (belirli dün günü) (Emsi)",
+      "subtitle": "SRS Kartı · M32 · Kök: أ-م-س",
+      "ar": "أَمْسِ",
+      "kok": "أ-م-س",
+      "keywords": "أمس مَبْنِيٌّ عَلَى الْكَسْرِ Mebnî Zarf"
+    },
+    {
+      "id": "search_card_m32_fc23",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Şimdi / şu an (El-Âne)",
+      "subtitle": "SRS Kartı · M32 · Kök: أ-و-ن",
+      "ar": "الْآنَ",
+      "kok": "أ-و-ن",
+      "keywords": "الآن مَبْنِيٌّ عَلَى الْفَتْحِ Mebnî Zarf"
+    },
+    {
+      "id": "search_card_m32_fc24",
+      "type": "card",
+      "moduleId": "32",
+      "title": "... yerde / bakımından (مِنْ حَيْثُ) (Haysu)",
+      "subtitle": "SRS Kartı · M32 · Kök: ح-ي-ث",
+      "ar": "حَيْثُ",
+      "kok": "ح-ي-ث",
+      "keywords": "حيث مَبْنِيٌّ عَلَى الضَّمِّ Mebnî Zarf"
+    },
+    {
+      "id": "search_card_m32_fc25",
+      "type": "card",
+      "moduleId": "32",
+      "title": "-den beri (Munzu)",
+      "subtitle": "SRS Kartı · M32 · Kök: م-ن-ذ",
+      "ar": "مُنْذُ",
+      "kok": "م-ن-ذ",
+      "keywords": "منذ مَبْنِيٌّ عَلَى الضَّمِّ Mebnî Zarf"
+    },
+    {
+      "id": "search_card_m32_fc26",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Asla / hiç (sadece geçmiş olumsuzlukla!) (Kattu)",
+      "subtitle": "SRS Kartı · M32 · Kök: ق-ط-ط",
+      "ar": "قَطُّ",
+      "kok": "ق-ط-ط",
+      "keywords": "قط مَبْنِيٌّ عَلَى الضَّمِّ Mebnî Zarf"
+    },
+    {
+      "id": "search_card_m32_fc27",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Bunlar / bu kişiler (Hâ’ulâ’i)",
+      "subtitle": "SRS Kartı · M32 · Kök: —",
+      "ar": "هٰؤُلَاءِ",
+      "kok": "—",
+      "keywords": "هؤلاء مَبْنِيٌّ عَلَى الْكَسْرِ Mebnî İsim"
+    },
+    {
+      "id": "search_card_m32_fc28",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Hangi / her kim (Eyyu / Eyye / Eyyi)",
+      "subtitle": "SRS Kartı · M32 · Kök: أ-ي-ي",
+      "ar": "أَيُّ / أَيَّ / أَيِّ",
+      "kok": "أ-ي-ي",
+      "keywords": "أي مُعْرَبٌ Mu'rab İstisna"
+    },
+    {
+      "id": "search_card_m32_fc29",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Bu ikisi (müzekker) (Hâzâni / Hâzeyni)",
+      "subtitle": "SRS Kartı · M32 · Kök: —",
+      "ar": "هٰذَانِ / هٰذَيْنِ",
+      "kok": "—",
+      "keywords": "هذان / هذين مُعْرَبٌ (مُثَنًّى) Mu'rab İstisna"
+    },
+    {
+      "id": "search_card_m32_fc30",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Yazdılar (Ketebû)",
+      "subtitle": "SRS Kartı · M32 · Kök: ك-ت-ب",
+      "ar": "كَتَبُوا",
+      "kok": "ك-ت-ب",
+      "keywords": "كتبوا فَعَلُوا Mebnî Fiil"
+    },
+    {
+      "id": "search_card_m32_fc31",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Yazdım / yazdık (Ketebtu / Ketebnâ)",
+      "subtitle": "SRS Kartı · M32 · Kök: ك-ت-ب",
+      "ar": "كَتَبْتُ / كَتَبْنَا",
+      "kok": "ك-ت-ب",
+      "keywords": "كتبت / كتبنا فَعَلْتُ / فَعَلْنَا Mebnî Fiil"
+    },
+    {
+      "id": "search_card_m32_fc32",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Davet et / çabala / at (Ud‘u / İs‘a / İrmi)",
+      "subtitle": "SRS Kartı · M32 · Kök: د-ع-و / س-ع-ي / ر-م-ي",
+      "ar": "اُدْعُ / اِسْعَ / اِرْمِ",
+      "kok": "د-ع-و / س-ع-ي / ر-م-ي",
+      "keywords": "ادع / اسع / ارم اُفْعُ / اِفْعَ / اِفْعِ Mebnî Emir"
+    },
+    {
+      "id": "search_card_m32_fc33",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Yardımlaşın / çalış (مؤ) (Te‘âvenû / İctehidî)",
+      "subtitle": "SRS Kartı · M32 · Kök: ع-و-ن / ج-ه-د",
+      "ar": "تَعَاوَنُوا / اِجْتَهِدِي",
+      "kok": "ع-و-ن / ج-ه-د",
+      "keywords": "تعاونوا / اجتهدي تَفَاعَلُوا / اِفْتَعِلِي Mebnî Emir"
+    },
+    {
+      "id": "search_card_m32_fc34",
+      "type": "card",
+      "moduleId": "32",
+      "title": "İhmal ederler / yazarlar (مؤ çoğul) (Yuhmilne / Yektubne)",
+      "subtitle": "SRS Kartı · M32 · Kök: ه-م-ل / ك-ت-ب",
+      "ar": "يُهْمِلْنَ / يَكْتُبْنَ",
+      "kok": "ه-م-ل / ك-ت-ب",
+      "keywords": "يهملن / يكتبن يُفْعِلْنَ / يَفْعُلْنَ Mebnî Muzâri"
+    },
+    {
+      "id": "search_card_m32_fc35",
+      "type": "card",
+      "moduleId": "32",
+      "title": "Mutlaka çalışacağım (Le-ectehidenne)",
+      "subtitle": "SRS Kartı · M32 · Kök: ج-ه-د",
+      "ar": "لَأَجْتَهِدَنَّ",
+      "kok": "ج-ه-د",
+      "keywords": "لأجتهدن لَأَفْتَعِلَنَّ Mebnî Muzâri"
+    },
+    {
+      "id": "search_card_m32_fc36",
+      "type": "card",
+      "moduleId": "32",
+      "title": "İlke bakımından / prensip olarak (Min haysu'l-mebde’u)",
+      "subtitle": "SRS Kartı · M32 · Kök: ح-ي-ث",
+      "ar": "مِنْ حَيْثُ الْمَبْدَأُ",
+      "kok": "ح-ي-ث",
+      "keywords": "من حيث المبدأ تَعْبِيرٌ أَكَادِيمِيٌّ Akademik Kalıp"
+    },
+    {
+      "id": "search_gram_m32_g1",
+      "type": "grammar",
+      "moduleId": "32",
+      "title": "İsm-i Maksûr (الِاسْمُ الْمَقْصُورُ) — Sonu Uzun Elifle Biten Mu'rab İsim & Takdîrî İ'rab",
+      "subtitle": "Gramer Kuralı · M32",
+      "ar": "الِاسْمُ الْمَقْصُورُ (الْفَتَى – الْعَصَا – الْمُسْتَشْفَى) وَإِعْرَابُهُ وَتَثْنِيَتُهُ",
+      "keywords": "İ'rab: Ref'/Nasb/Cer 3'ü de TAKDÎRÎ (te'azzür)! | Tesniye: 3 harfli → aslına (عَصَوَانِ / فَتَيَانِ); 4+ harfli → ي (مُسْتَشْفَيَانِ / مُسْتَشْفَيَاتٌ) | Cemi Müzekker: elif düşer (الْأَعْلَوْنَ)! **İsm-i Maksûr (الِاسْمُ الْمَقْصُورُ)**, sonu kendinden önceki harf fethalı olan **kalıcı bir uzun elif (`ى` veya `ا`)*"
+    },
+    {
+      "id": "search_gram_m32_g2",
+      "type": "grammar",
+      "moduleId": "32",
+      "title": "İsm-i Mankûs (الِاسْمُ الْمَنْقُوصُ) — Sonu Kesradan Sonra 'ي' İle Biten İsim & Yâ Düşüşü!",
+      "subtitle": "Gramer Kuralı · M32",
+      "ar": "الِاسْمُ الْمَنْقُوصُ (الْقَاضِي / قَاضٍ – الْمُحَامِي / مُحَامٍ) وَحَذْفُ يَائِهِ",
+      "keywords": "ال/Muzâf: الْقَاضِي (Ref'/Cer takdîrî, NASB AÇIK: الْقَاضِيَ!) || Nekre: Ref'/Cer ي DÜŞER (قَاضٍ!) — NASB ي DÖNER (قَاضِيًا!) || Cemi Müzekker: ي düşer (الْمُحَامُونَ / الْمُحَامِينَ)! **İsm-i Mankûs (الِاسْمُ الْمَنْقُوصُ)**, sonu kendinden önceki harf kesralı olan **kalıcı ve şeddesiz bir `ي`** ile bit"
+    },
+    {
+      "id": "search_gram_m32_g3",
+      "type": "grammar",
+      "moduleId": "32",
+      "title": "İsm-i Memdûd (الِاسْمُ الْمَمْدُودُ) — Sonu 'اء' İle Biten İsimler & 3 Hemze Türü",
+      "subtitle": "Gramer Kuralı · M32",
+      "ar": "الِاسْمُ الْمَمْدُودُ (الْإِنْشَاءُ – الصَّحْرَاءُ – السَّمَاءُ) وَأَنْوَاعُ هَمْزَتِهِ",
+      "keywords": "1. Asli ء (ن-ش-أ: إِنْشَاء) → ء KALIR (إِنْشَاءَاتٌ) | 2. Müenneslik ء (ص-ح-ر: صَحْرَاء) → ZORUNLU و (صَحْرَاوَاتٌ) | 3. Dönüşmüş ء (سَمَاء/بِنَاء) → İkisi de CÂİZ (سَمَاوَاتٌ / بِنَاءَاتٌ)! **İsm-i Memdûd (الِاسْمُ الْمَمْدُودُ)**, sonu fazladan (zâid) bir **uzun elif + hemze (`ـاء`)** ile biten mu'rab isimdi"
+    },
+    {
+      "id": "search_gram_m32_g4",
+      "type": "grammar",
+      "moduleId": "32",
+      "title": "Mebnî İsimler Tam Panoraması (الْأَسْمَاءُ الْمَبْنِيَّةُ) — Son Harekesi Hiç Değişmeyen 6 Grup!",
+      "subtitle": "Gramer Kuralı · M32",
+      "ar": "الْأَسْمَاءُ الْمَبْنِيَّةُ السِّتَّةُ وَإِعْرَابُهَا الْمَحَلِّيُّ",
+      "keywords": "6 Mebnî İsim Grubu: 1. Zamirler | 2. İşaret (tesniye hariç) | 3. Mevsûl (tesniye hariç) | 4. Soru (أَيُّ hariç) | 5. Şart (أَيُّ hariç) | 6. Özel Zarflar (أَمْسِ/الْآنَ/حَيْثُ/مُنْذُ) & 11–19 (12 hariç)! Arapçada isimlerin **%95'i Mu'rab**tır (cümledeki görevine göre sonu değişir: `الطَّالِبُ / الطَّالِبَ / الطَّالِبِ`). G"
+    },
+    {
+      "id": "search_gram_m32_g5",
+      "type": "grammar",
+      "moduleId": "32",
+      "title": "Mebnî Fiiller & Harfler Tam Özeti (الْمَبْنِيُّ مِنَ الْأَفْعَالِ وَالْحُرُوفِ)",
+      "subtitle": "Gramer Kuralı · M32",
+      "ar": "بِنَاءُ الْفِعْلِ الْمَاضِي وَالْأَمْرِ وَحَالَتَا بِنَاءِ الْمُضَارِعِ",
+      "keywords": "Harfler: %100 Mebnî | Mâzi: %100 Mebnî (fetha / sükûn / damme) | Emir: %100 Mebnî (sükûn / nûn hazfi / illet hazfi / fetha) | Muzâri: Mu'rab — Sadece 2 durumda mebnî: Nûn-ı Nisve (sükûn: يَكْتُبْنَ) & Te'kîd Nûnu (fetha: لَيَكْتُبَنَّ)! Arapçada **bütün harfler (الْحُرُوفُ: فِي، مِنْ، أَنْ، لَمْ، إِنَّ...)** %100 mebnîdir! Peki **fiiller (الْأَفْعَالُ)** "
     },
     {
       "id": "search_verb_0",

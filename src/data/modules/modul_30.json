@@ -1,0 +1,1223 @@
+{
+  "id": "30",
+  "slug": "modul_30",
+  "phaseId": 3,
+  "cilt": 3,
+  "cefr": "B1",
+  "title": "Müştak İsimler I: İsm-i Fâil, İsm-i Mef'ûl, Mübalağa & Sıfat-ı Müşebbehe",
+  "arabicTitle": "الْمُشْتَقَّاتُ (١): اِسْمُ الْفَاعِلِ وَالْمَفْعُولِ وَالْمُبَالَغَةِ وَالصِّفَةُ الْمُشَبَّهَةُ",
+  "category": "Müştak İsimler",
+  "summary": "Sülâsî ve mezîd fiillerden ism-i fâil (فَاعِلٌ / مُفْعِلٌ) ve ism-i mef'ûl (مَفْعُولٌ / مُفْعَلٌ), mübalağa sığaları (فَعَّالٌ/فَعُولٌ/فَعِيلٌ/مِفْعَالٌ/فَعِلٌ), kalıcı sıfat-ı müşebbehe ve harekesiz metinde مُفْعِل / مُفْعَل ayrım stratejileri.",
+  "grammar": [
+    {
+      "id": "m30_g1",
+      "baslik": "İsm-i Fâil (اِسْمُ الْفَاعِلِ) — Eylemi Yapan / Etken Sıfat-Fiil",
+      "arBaslik": "اِسْمُ الْفَاعِلِ مِنَ الثُّلَاثِيِّ وَغَيْرِ الثُّلَاثِيِّ وَإِعْمَالُهُ",
+      "mantik": "**İsm-i Fâil (اِسْمُ الْفَاعِلِ)**, bir eylemi **yapan** veya kendisinde o hâlin ortaya çıktığı varlığı gösteren türemiş (müştak) isimdir — Türkçedeki **`-en / -an / -ıcı / -ici`** eklerinin tam karşılığıdır (`كَتَبَ` → `كَاتِبٌ` [yazan/yazar], `عَلَّمَ` → `مُعَلِّمٌ` [öğreten/öğretmen])! Arapçadaki tüm kelimelerin büyük bir kısmı İsm-i Fâil olduğu için bu kuralı bir kez ezberlemek sözlük yükünü %50 azaltır! **2 Altın Türetme Kuralı:** **(1) Sülâsî (3 harfli) Fiillerden → `فَاعِلٌ`:** `كَتَبَ` → `كَاتِبٌ`, `قَرَأَ` → `قَارِئٌ`, `سَمِعَ` → `سَامِعٌ`. *İlletli ve muzaaf ince ayarları:* Ecvef (`قَالَ / بَاعَ`) → orta harf hemzeye dönüşür (`قَائِلٌ / بَائِعٌ`); Nâkıs (`قَضَى / دَعَا`) → nekre merfû/mecrûr hâlde yâ düşer (`قَاضٍ / دَاعٍ`, elif-lâmlı `الْقَاضِي / الدَّاعِي`); Muzaaf (`مَدَّ / شَابَّ`) → şedde korunur (`مَادٌّ / شَابٌّ` = genç!). **(2) 3 Harften Fazla (Mezîd ve Rubâî) Fiillerden:** 3 saniyelik sihirli formül: **Muzâriyi al → başındaki muzâraat harfini ötreli `مُـ` yap → sondan bir önceki harfi KESRA (`ـِـ`) yap!** `عَلَّمَ → يُعَلِّمُ → مُعَلِّمٌ` (öğretmen), `أَكْرَمَ → يُكْرِمُ → مُكْرِمٌ`, `اِجْتَهَدَ → يَجْتَهِدُ → مُجْتَهِدٌ` (çalışkan), `اِسْتَخْرَجَ → يَسْتَخْرِجُ → مُسْتَخْرِجٌ`, `تَرْجَمَ → يُتَرْجِمُ → مُتَرْجِمٌ` (tercüman)! **Ve bonus güç:** İsm-i Fâil de tıpkı etken fiili gibi **amel ederek** mef'ûlün bihini nasbedebilir (`أَنَا قَارِئٌ الْكِتَابَ` = Ben kitabı okuyanım / okuyorum)!",
+      "formul": "Sülâsî: فَاعِلٌ (كَاتِبٌ، قَائِلٌ، قَاضٍ) | Mezîd/Rubâî: مُـ + sondan önceki KESRA (مُعَلِّمٌ، مُجْتَهِدٌ، مُسْتَخْدِمٌ)",
+      "formulAr": "كَتَبَ → كَاتِبٌ  |  قَالَ → قَائِلٌ  |  قَضَى → قَاضٍ (الْقَاضِي)  |  اِجْتَهَدَ → يَجْتَهِدُ → مُجْتَهِدٌ",
+      "tablo": {
+        "baslik": "Sülâsî ve Mezîd Babların İsm-i Fâil Türetme Haritası",
+        "sutunlar": ["Fiil Türü / Bab", "Mâzi → Muzâri", "İsm-i Fâil", "Türkçe Anlamı & Not"],
+        "satirlar": [
+          { "hucreler": ["Sülâsî Sâlim", "كَتَبَ → يَكْتُبُ", "كَاتِبٌ (فَاعِلٌ)", "yazan / yazar"], "ar": "كَاتِبٌ – طَالِبٌ – نَاجِحٌ" },
+          { "hucreler": ["Sülâsî Ecvef / Nâkıs", "قَالَ / قَضَى", "قَائِلٌ / قَاضٍ (الْقَاضِي)", "söyleyen / hükmeden (kadı)"], "ar": "قَائِلٌ – بَائِعٌ – قَاضٍ" },
+          { "hucreler": ["II. & III. Bab", "عَلَّمَ / سَاعَدَ", "مُعَلِّمٌ / مُسَاعِدٌ", "öğreten (öğretmen) / yardımcı"], "ar": "مُعَلِّمٌ – مُدَرِّبٌ – مُسَاعِدٌ" },
+          { "hucreler": ["IV. & V. Bab", "أَنْتَجَ / تَقَدَّمَ", "مُنْتِجٌ / مُتَقَدِّمٌ", "üreten (üretici) / ilerleyen"], "ar": "مُنْتِجٌ – مُخْلِصٌ – مُتَقَدِّمٌ" },
+          { "hucreler": ["VI. & VIII. Bab", "تَعَاوَنَ / اِجْتَهَدَ", "مُتَعَاوِنٌ / مُجْتَهِدٌ", "iş birliği yapan / çalışkan"], "ar": "مُتَعَاوِنٌ – مُجْتَهِدٌ – مُبْتَكِرٌ" },
+          { "hucreler": ["X. Bab & Rubâî", "اِسْتَخْدَمَ / تَرْجَمَ", "مُسْتَخْدِمٌ / مُتَرْجِمٌ", "kullanan (kullanıcı) / tercüman"], "ar": "مُسْتَخْدِمٌ – مُسْتَثْمِرٌ – مُتَرْجِمٌ" }
+        ]
+      },
+      "trKiyas": "Türkçedeki `katip, talip, alim, hakim, kadı, muallim, müdür, mühendis, mütercim, müstahdem, müteahhit, müstakil, mütevazı, müteşekkir` kelimelerinin TAMAMI Arapça İsm-i Fâildir! Bu kalıbı kavradığın anda Arapça haberlerde ve kitaplarda karşına çıkan `مُـ` ile başlayan etken kişi/varlık isimlerinin kökenini anında çözersin!",
+      "sikHatalar": [
+        "IV. babdan ism-i fâil yaparken baştaki hemzeyi bırakmak (✗ مُأَكْرِمٌ — ✓ مُكْرِمٌ; muzâri يُكْرِمُ üzerinden yapılır!).",
+        "Ecvef fiilin (قَالَ / بَاعَ) ism-i fâilinde orta harfi elif veya vav bırakmak (✗ قَاوِلٌ — ✓ قَائِلٌ / بَائِعٌ; hemzeye dönüşür!).",
+        "İsm-i fâilin sonundan bir önceki harfi fethalı okumak (✗ مُعَلَّمٌ = öğretilen/ism-i mef'ûl — ✓ مُعَلِّمٌ = öğreten/ism-i fâil!)."
+      ],
+      "ornekler": [
+        { "ar": "الطَّالِبُ الْمُجْتَهِدُ مُتَفَوِّقٌ فِي دِرَاسَتِهِ وَمُحْتَرِمٌ لِأَسَاتِذَتِهِ.", "okunus": "Et-tâlibu'l-muctehidu mutefevvikun fî dirâsetihî ve muhterîmun li-esâtizetihî.", "tr": "Çalışkan öğrenci derslerinde başarılıdır ve hocalarına saygılıdır.", "not": "طَالِبٌ (sülâsî) + مُجْتَهِدٌ (VIII) + مُتَفَوِّقٌ (V) + مُحْتَرِمٌ (VIII)" },
+        { "ar": "نَاقَشَ الْكَاتِبُ وَالْمُتَرْجِمُ تَفَاصِيلَ الرِّوَايَةِ مَعَ النَّاشِرِ.", "okunus": "Nâkaşe'l-kâtibu ve'l-mutercimu tefâsîle'r-rivâyeti me‘a'n-nâşiri.", "tr": "Yazar ve tercüman, romanın ayrıntılarını yayıncıyla tartıştılar.", "not": "كَاتِبٌ / نَاشِرٌ (sülâsî) + مُتَرْجِمٌ (Rubâî ism-i fâil)" },
+        { "ar": "الْقَاضِي الْعَادِلُ سَامِعٌ لِكِلَا الطَّرَفَيْنِ قَبْلَ إِصْدَارِ الْحُكْمِ.", "okunus": "El-kâdi'l-‘âdilu sâmi‘un li-kile't-tarafeyni kable ısdâri'l-hukmi.", "tr": "Adil yargıç hüküm vermeden önce her iki tarafı dinleyendir.", "not": "الْقَاضِي (nâkıs ism-i fâil) + عَادِلٌ + سَامِعٌ" },
+        { "ar": "يَسْعَى الْمُسْتَثْمِرُونَ وَالْمُنْتِجُونَ إِلَى تَطْوِيرِ التِّقْنِيَّاتِ الْخَضْرَاءِ.", "okunus": "Yes‘a'l-mustesmirûne ve'l-munticûne ilâ tatvîri't-tıkniyyâti'l-hadrâ’i.", "tr": "Yatırımcılar ve üreticiler yeşil teknolojileri geliştirmeye çalışıyorlar.", "not": "مُسْتَثْمِرٌ (X. bab) + مُنْتِجٌ (IV. bab)" },
+        { "ar": "الشَّابُّ الْمُبْتَكِرُ مُسَاهِمٌ فَعَّالٌ فِي نَهْضَةِ مُجْتَمَعِهِ.", "okunus": "Eş-şâbbu'l-mubtekiru musâhimun fe‘‘âlun fî nahdati mucteme‘ihî.", "tr": "Yenilikçi genç, toplumunun kalkınmasında etkin bir katılımcıdır.", "not": "شَابٌّ (muzaaf ism-i fâil) + مُبْتَكِرٌ (VIII) + مُسَاهِمٌ (III)" },
+        { "ar": "هَلْ أَنْتَ قَارِئٌ الْكِتَابَ الْيَوْمَ أَمْ غَدًا؟", "okunus": "Hel ente kâri’uni'l-kitâbe'l-yevme em gaden?", "tr": "Kitabı bugün mü yoksa yarın mı okuyacaksın?", "not": "Amel eden ism-i fâil: قَارِئٌ → الْكِتَابَ (mansub mef'ûlün bih!)" }
+      ],
+      "tatbikler": [
+        {
+          "id": "m30_t1",
+          "tip": "bosluk",
+          "soru": "'اِسْتَخْدَمَ' (X. bab — kullandı) fiilinin İsm-i Fâili ('kullanıcı') hangisidir?",
+          "secenekler": ["مُسْتَخْدِمٌ (د kesralı!)", "مُسْتَخْدَمٌ (د fethalı)", "خَادِمٌ", "اِسْتِخْدَامٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "يَسْتَخْدِمُ → muzâraat harfi مُـ yapılır, sondan önceki د kesralı kalır: مُسْتَخْدِمٌ."
+        },
+        {
+          "id": "m30_t2",
+          "tip": "bosluk",
+          "soru": "Ecvef olan 'بَاعَ' (sattı) ve 'قَالَ' (söyledi) fiillerinin İsm-i Fâilleri hangisidir?",
+          "secenekler": ["بَائِعٌ – قَائِلٌ", "بَايِعٌ – قَاوِلٌ", "مَبِيعٌ – مَقُولٌ", "مُبِيعٌ – مُقِيلٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "Sülâsî ecvef fiillerin ism-i fâilinde orta illet harfi hemzeye döner: بَائِعٌ (satıcı), قَائِلٌ (söyleyen)."
+        },
+        {
+          "id": "m30_t3",
+          "tip": "bosluk",
+          "soru": "Nâkıs olan 'قَضَى' (hükmetti) fiilinin nekre merfû İsm-i Fâili hangisidir?",
+          "secenekler": ["قَاضٍ (الْقَاضِي)", "قَاضِيٌ", "مَقْضِيٌّ", "مُقْضٍ"],
+          "dogruIndeks": 0,
+          "aciklama": "Nâkıs ism-i fâil nekre ve merfû/mecrûr hâlde yâ'sını düşürür ve iki kesra (ivaz tenvini) alır: قَاضٍ."
+        },
+        {
+          "id": "m30_t4",
+          "tip": "bosluk",
+          "soru": "'أَخْلَصَ' (IV. bab — samimi oldu) fiilinin İsm-i Fâili hangisidir?",
+          "secenekler": ["مُخْلِصٌ", "مُأَخْلِصٌ", "خَالِصٌ", "مُخْلَصٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "أَخْلَصَ → يُخْلِصُ → مُخْلِصٌ (IV. babda hemze düşer, sondan önceki kesralıdır)."
+        },
+        {
+          "id": "m30_t5",
+          "tip": "bosluk",
+          "soru": "'تَرْجَمَ' (Rubâî — tercüme etti) fiilinin İsm-i Fâili ('tercüman') hangisidir?",
+          "secenekler": ["مُتَرْجِمٌ", "مُتَرْجَمٌ", "تَارِجِمٌ", "تَرْجَمَةٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "يُتَرْجِمُ → مُتَرْجِمٌ (tercüme eden); مُتَرْجَمٌ ise 'tercüme edilmiş' (ism-i mef'ûl) demektir."
+        },
+        {
+          "id": "m30_t6",
+          "tip": "bosluk",
+          "soru": "'شَبَّ' (gençleşti — muzaaf) fiilinin İsm-i Fâili olan 'genç' kelimesi hangisidir?",
+          "secenekler": ["شَابٌّ", "شَابِبٌ", "مَشْبُوبٌ", "مُشِبٌّ"],
+          "dogruIndeks": 0,
+          "aciklama": "Muzaaf sülâsî fiillerde şedde bozulmaz: شَابٌّ (genç), مَادٌّ (uzatan), خَاصٌّ (özel)."
+        },
+        {
+          "id": "m30_t7",
+          "tip": "hata",
+          "soru": "Hangi kelime İsm-i Fâil DEĞİLDİR?",
+          "secenekler": ["مُكَرَّمٌ (ر fethalı — ism-i mef'ûldür!)", "مُعَلِّمٌ (ل kesralı)", "مُجْتَهِدٌ (ه kesralı)", "نَاجِحٌ (فَاعِل kalıbı)"],
+          "dogruIndeks": 0,
+          "aciklama": "مُكَرَّمٌ kelimesinde sondan bir önceki harf fethalıdır, yani İsm-i Mef'ûl'dür ('ikram edilen')."
+        },
+        {
+          "id": "m30_t8",
+          "tip": "bosluk",
+          "soru": "'أَنْتَ فَاهِمٌ _____ جَيِّدًا' (Sen dersi iyi anlayansın) cümlesinde amel eden ism-i fâilin nesnesi nasıl gelir?",
+          "secenekler": ["الدَّرْسَ (mansub mef'ûlün bih)", "الدَّرْسُ (merfû)", "الدَّرْسِ (mecrûr)", "دَرْسٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "Tenvinli ism-i fâil (فَاهِمٌ) etken fiil gibi amel eder ve mef'ûlün bihini (الدَّرْسَ) nasbeder."
+        },
+        {
+          "id": "m30_t9",
+          "tip": "bosluk",
+          "soru": "'تَعَاوَنَ' (VI. bab — iş birliği yaptı) fiilinin İsm-i Fâili hangisidir?",
+          "secenekler": ["مُتَعَاوِنٌ", "مُتَعَاوَنٌ", "عَاوِنٌ", "مُعَاوِنٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "يَتَعَاوَنُ → muzâride fethalı olan و harfi ism-i fâilde KESRALANIR: مُتَعَاوِنٌ!"
+        },
+        {
+          "id": "m30_t10",
+          "tip": "ceviri",
+          "soru": "'الْمُسْتَثْمِرُونَ الْمُبْتَكِرُونَ' tamlamasının doğru çevirisi hangisidir?",
+          "secenekler": ["Yenilikçi yatırımcılar", "Yatırım yapılan yenilikler", "Eski tüccarlar", "Üretilen mallar"],
+          "dogruIndeks": 0,
+          "aciklama": "مُسْتَثْمِرٌ (X. bab ism-i fâil = yatırımcı) + مُبْتَكِرٌ (VIII. bab ism-i fâil = yenilikçi)."
+        }
+      ]
+    },
+    {
+      "id": "m30_g2",
+      "baslik": "İsm-i Mef'ûl (اِسْمُ الْمَفْعُولِ) — Eylemden Etkilenen / Edilgen Sıfat-Fiil",
+      "arBaslik": "اِسْمُ الْمَفْعُولِ مِنَ الثُّلَاثِيِّ وَغَيْرِ الثُّلَاثِيِّ",
+      "mantik": "**İsm-i Mef'ûl (اِسْمُ الْمَفْعُولِ)**, eylemden **etkilenen / yapılan** varlığı bildirir — Türkçedeki **`-ilmiş / -ulmuş / -ilen / -ulan`** edilgen sıfat-fiilidir (`كَتَبَ` → `مَكْتُوبٌ` [yazılmış/mektup], `فَتَحَ` → `مَفْتُوحٌ` [açık/açılmış], `كَرَّمَ` → `مُكَرَّمٌ` [ikram edilmiş/mükerrem])! **2 Altın Türetme Kuralı:** **(1) Sülâsî Fiillerden → `مَفْعُولٌ`:** `كَتَبَ → مَكْتُوبٌ`, `فَهِمَ → مَفْهُومٌ` (anlaşılmış/kavram), `عَلِمَ → مَعْلُومٌ` (bilinen), `سَأَلَ → مَسْؤُولٌ` (sorumlu). *İlletli fiil kısayolları (YDS'de çok çıkar!):* **Ecvef-i Vâvî** (`قَالَ – يَقُولُ`) → muzâriyi al, baştaki `يَـ` yerine `مَـ` koy: **`مَقُولٌ`** (söylenmiş); **Ecvef-i Yâî** (`بَاعَ – يَبِيعُ`) → **`مَبِيعٌ`** (satılmış)! **Nâkıs-ı Vâvî** (`دَعَا – يَدْعُو`) → son vav şeddelenir: **`مَدْعُوٌّ`** (davetli); **Nâkıs-ı Yâî** (`بَنَى – يَبْنِي / رَمَى – يَرْمِي`) → son yâ şeddelenir: **`مَبْنِيٌّ`** (inşa edilmiş/mebnî), **`مَرْمِيٌّ`** (atılmış)! **(2) 3 Harften Fazla (Mezîd ve Rubâî) Fiillerden:** Edilgen muzâriyi al → başını ötreli **`مُـ`** yap → sondan bir önceki harfi **FETHA (`ـَـ`)** yap! `عَلَّمَ → مُعَلَّمٌ` (öğretilmiş), `أَكْرَمَ → مُكْرَمٌ`, `اِحْتَرَمَ → مُحْتَرَمٌ` (saygı duyulan/muhterem), `اِسْتَخْدَمَ → مُسْتَخْدَمٌ` (kullanılan), `تَرْجَمَ → مُتَرْجَمٌ` (tercüme edilmiş)! **Önemli Not:** Lâzım (geçişsiz) fiilden ism-i mef'ûl yapıldığında yanına mutlaka harf-i cerli zamir gelir: `الْوَقْتُ الْمَرْغُوبُ فِيهِ` (arzulanan vakit), `الْمَوْضُوعُ الْمُتَّفَقُ عَلَيْهِ` (üzerinde uzlaşılan konu)!",
+      "formul": "Sülâsî: مَفْعُولٌ (مَكْتُوبٌ) | Ecvef: مَقُولٌ/مَبِيعٌ | Nâkıs: مَدْعُوٌّ/مَبْنِيٌّ | Mezîd: مُـ + sondan önceki FETHA (مُحْتَرَمٌ، مُسْتَخْدَمٌ)",
+      "formulAr": "كَتَبَ → مَكْتُوبٌ  |  بَاعَ → مَبِيعٌ  |  بَنَى → مَبْنِيٌّ  |  اِحْتَرَمَ → مُحْتَرَمٌ  |  اِتَّفَقَ → مُتَّفَقٌ عَلَيْهِ",
+      "tablo": {
+        "baslik": "Sülâsî (Sâlim/Ecvef/Nâkıs) ve Mezîd İsm-i Mef'ûl Tam Tablosu",
+        "sutunlar": ["Fiil Grubu", "Fiil (Mâzi / Muzâri)", "İsm-i Mef'ûl", "Türkçe Anlamı"],
+        "satirlar": [
+          { "hucreler": ["Sülâsî Sâlim", "كَتَبَ / عَرَفَ / فَتَحَ", "مَكْتُوبٌ / مَعْرُوفٌ / مَفْتُوحٌ", "yazılmış / bilinen / açılmış"], "ar": "مَكْتُوبٌ – مَعْرُوفٌ – مَفْتُوحٌ" },
+          { "hucreler": ["Sülâsî Ecvef-i Vâvî", "قَالَ (يَقُولُ) / صَانَ (يَصُونُ)", "مَقُولٌ / مَصُونٌ", "söylenmiş / korunmuş"], "ar": "مَقُولٌ – مَصُونٌ – مَزُورٌ" },
+          { "hucreler": ["Sülâsî Ecvef-i Yâî", "بَاعَ (يَبِيعُ) / زَادَ (يَزِيدُ)", "مَبِيعٌ / مَزِيدٌ", "satılmış / artırılmış (mezîd!)"], "ar": "مَبِيعٌ – مَزِيدٌ – مَعِيبٌ" },
+          { "hucreler": ["Sülâsî Nâkıs (و/ي)", "دَعَا / بَنَى / رَجَا", "مَدْعُوٌّ / مَبْنِيٌّ / مَرْجُوٌّ", "davetli / inşa edilmiş / umulan"], "ar": "مَدْعُوٌّ – مَبْنِيٌّ – مَرْجُوٌّ" },
+          { "hucreler": ["Mezîd II / IV / VIII", "نَظَّمَ / أَنْتَجَ / اِحْتَرَمَ", "مُنَظَّمٌ / مُنْتَجٌ / مُحْتَرَمٌ", "düzenli / ürün (üretilen) / saygın"], "ar": "مُنَظَّمٌ – مُنْتَجٌ – مُحْتَرَمٌ" },
+          { "hucreler": ["X. Bab & Lâzım + Cer", "اِسْتَخْدَمَ / اِتَّفَقَ عَلَى", "مُسْتَخْدَمٌ / مُتَّفَقٌ عَلَيْهِ", "kullanılan / üzerinde uzlaşılan"], "ar": "مُسْتَخْدَمٌ – مُتَّفَقٌ عَلَيْهِ" }
+        ]
+      },
+      "trKiyas": "Türkçedeki `mektup, malum, meşhur, meşgul, mesul, mazlum, mahkûm, memnun, mevcut, mebni, muhterem, mükerrem, muntazam, mükemmel, müstahak, mütercem` kelimelerinin hepsi Arapça İsm-i Mef'ûldür! Hatta dilbilgisinde sık kullandığımız **`مَزِيدٌ` (mezîd)** kelimesi bile `زَادَ – يَزِيدُ` ecvef-i yâî fiilinin ism-i mef'ûlüdür ('artırılmış')!",
+      "sikHatalar": [
+        "Ecvef fiilin ism-i mef'ûlünü مَقْوُولٌ / مَبْيُوعٌ diye uzun okumak — Arapçada iki sakin birleşince mef'ûl vavı düşer: ✓ مَقُولٌ (söylenmiş), ✓ مَبِيعٌ (satılmış), ✓ مَزِيدٌ (artırılmış)!",
+        "Nâkıs fiilin ism-i mef'ûlünde sondaki şeddeyi unutmak (✗ مَبْنِيٌ / مَدْعُوٌ — ✓ مَبْنِيٌّ / مَدْعُوٌّ; mutlaka şeddelidir!).",
+        "Lâzım fiilin ism-i mef'ûlünden sonra harf-i ceri unutmak (`هٰذَا مَوْضُوعٌ مُتَّفَقٌ عَلَيْهِ` — sadece `مُتَّفَقٌ` eksik kalır!)."
+      ],
+      "ornekler": [
+        { "ar": "الْمُحَاضَرَةُ الْمُنَظَّمَةُ وَالْمَقَالُ الْمُتَرْجَمُ مَفْهُومَانِ لِجَمِيعِ الْقُرَّاءِ.", "okunus": "El-muhâdaratu'l-munazzametu ve'l-mekâlu'l-mutercemu mefhûmâni li-cemî‘ı'l-kurrâ’i.", "tr": "Düzenli konferans ve tercüme edilmiş makale tüm okurlar için anlaşılırdır.", "not": "مُنَظَّمٌ (II) + مُتَرْجَمٌ (Rubâî) + مَفْهُومٌ (sülâsî)" },
+        { "ar": "هٰذَا بِنَاءٌ مَبْنِيٌّ عَلَى أُسُسٍ هَنْدَسِيَّةٍ مَعْرُوفَةٍ وَمُعْتَمَدَةٍ.", "okunus": "Hâzâ binâ’un mebniyyun ‘alâ ususin hendesiyyetin ma‘rûfetin ve mu‘temedetin.", "tr": "Bu, bilinen ve onaylanmış mühendislik temelleri üzerine inşa edilmiş bir binadır.", "not": "مَبْنِيٌّ (nâkıs-ı yâî!) + مَعْرُوفٌ + مُعْتَمَدٌ (VIII)" },
+        { "ar": "الضُّيُوفُ الْمَدْعُوُّونَ إِلَى الْحَفْلِ مُكَرَّمُونَ وَمُحْتَرَمُونَ.", "okunus": "Ed-duyûfu'l-med‘uvvûne ile'l-hafli mukerremûne ve muhteramûne.", "tr": "Törene davetli misafirler ikram edilen ve saygı duyulan kişilerdir.", "not": "مَدْعُوٌّ (nâkıs-ı vâvî!) + مُكَرَّمٌ (II) + مُحْتَرَمٌ (VIII)" },
+        { "ar": "الْمُنْتَجَاتُ الْمَبِيعَةُ فِي السُّوقِ الْمَحَلِّيَّةِ ذَاتُ جَوْدَةٍ عَالِيَةٍ.", "okunus": "El-muntecâtu'l-mebî‘atu fi's-sûkı'l-mahalliyyeti zâtu cevdetin ‘âliyetin.", "tr": "Yerel pazarda satılan ürünler yüksek kalitelidir.", "not": "مُنْتَجٌ (IV. bab) + مَبِيعٌ (ecvef-i yâî ism-i mef'ûl!)" },
+        { "ar": "الْمَبْدَأُ الْمُتَّفَقُ عَلَيْهِ بَيْنَ الْعُلَمَاءِ وَاضِحٌ وَمَصُونٌ.", "okunus": "El-mebde’u'l-muttefaku ‘aleyhi beyne'l-‘ulemâ’i vâdıhun ve masûnun.", "tr": "Bilim insanları arasında üzerinde uzlaşılan ilke açık ve korunmuştur.", "not": "مُتَّفَقٌ عَلَيْهِ (lâzım + harf-i cer) + مَصُونٌ (ecvef-i vâvî!)" },
+        { "ar": "اللُّغَةُ الْعَرَبِيَّةُ الْمُسْتَخْدَمَةُ فِي الْإِعْلَامِ مُيَسَّرَةٌ وَفَصِيحَةٌ.", "okunus": "El-lugatu'l-‘arabiyyetu'l-mustahdemetu fi'l-i‘lâmi muyesseratun ve fasîhatun.", "tr": "Medyada kullanılan Arapça kolaylaştırılmış ve fasihtir.", "not": "مُسْتَخْدَمٌ (X. bab) + مُيَسَّرٌ (II. bab)" }
+      ],
+      "tatbikler": [
+        {
+          "id": "m30_t11",
+          "tip": "bosluk",
+          "soru": "Ecvef-i yâî olan 'بَاعَ – يَبِيعُ' (sattı) fiilinin İsm-i Mef'ûlü ('satılan') hangisidir?",
+          "secenekler": ["مَبِيعٌ", "مَبْيُوعٌ", "بَائِعٌ", "مُبَاعٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "Sülâsî ecvef-i yâî: يَبِيعُ → مَبِيعٌ (مَبْيُوعٌ şekli yanlıştır!)."
+        },
+        {
+          "id": "m30_t12",
+          "tip": "bosluk",
+          "soru": "Nâkıs-ı yâî 'بَنَى – يَبْنِي' (inşa etti) ve nâkıs-ı vâvî 'دَعَا – يَدْعُو' (davet etti) fiillerinin İsm-i Mef'ûlleri hangisidir?",
+          "secenekler": ["مَبْنِيٌّ – مَدْعُوٌّ (şeddeli!)", "مَبْنُويٌ – مَدْعُووٌ", "بَانٍ – دَاعٍ", "مُبْنًى – مُدْعًى"],
+          "dogruIndeks": 0,
+          "aciklama": "Nâkıs ism-i mef'ûlde son illet harfi şeddelenir: مَبْنِيٌّ (inşa edilmiş), مَدْعُوٌّ (davetli)."
+        },
+        {
+          "id": "m30_t13",
+          "tip": "bosluk",
+          "soru": "Ecvef-i vâvî olan 'قَالَ – يَقُولُ' ve 'صَانَ – يَصُونُ' fiillerinin İsm-i Mef'ûlleri hangisidir?",
+          "secenekler": ["مَقُولٌ – مَصُونٌ", "مَقْوُولٌ – مَصْوُونٌ", "قَائِلٌ – صَائِنٌ", "مُقَالٌ – مُصَانٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "Sülâsî ecvef-i vâvîde mef'ûl vavı düşer: مَقُولٌ (söylenmiş), مَصُونٌ (korunmuş)."
+        },
+        {
+          "id": "m30_t14",
+          "tip": "bosluk",
+          "soru": "'أَنْتَجَ' (IV. bab — üretti) fiilinin 'ürün / üretilen şey' anlamındaki İsm-i Mef'ûlü hangisidir?",
+          "secenekler": ["مُنْتَجٌ (ت fethalı!)", "مُنْتِجٌ (ت kesralı — üretici)", "إِنْتَاجٌ", "نَاتِجٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "مُنْتِجٌ = üretici (ism-i fâil); مُنْتَجٌ = ürün/üretilen (ism-i mef'ûl)!"
+        },
+        {
+          "id": "m30_t15",
+          "tip": "bosluk",
+          "soru": "Lâzım (geçişsiz) bir fiil olan 'اِتَّفَقَ عَلَى' fiilinden kurulan 'üzerinde uzlaşılan karar' ifadesi hangisidir?",
+          "secenekler": ["الْقَرَارُ الْمُتَّفَقُ عَلَيْهِ", "الْقَرَارُ الْمُتَّفِقُ", "الْقَرَارُ الْمُتَّفَقُ (harf-i cersiz)", "الْقَرَارُ التَّوَافُقُ"],
+          "dogruIndeks": 0,
+          "aciklama": "Lâzım fiillerin ism-i mef'ûlü mutlaka kendi harf-i ceri + zamiriyle tamamlanır: الْمُتَّفَقُ عَلَيْهِ."
+        },
+        {
+          "id": "m30_t16",
+          "tip": "bosluk",
+          "soru": "'رَجَا – يَرْجُو' (umdu) fiilinin 'umulan / beklenen' anlamındaki İsm-i Mef'ûlü hangisidir?",
+          "secenekler": ["مَرْجُوٌّ", "رَاجٍ", "مَرْجِيٌّ", "مُرْتَجٍ"],
+          "dogruIndeks": 0,
+          "aciklama": "Nâkıs-ı vâvî رَجَا → يَرْجُو → مَرْجُوٌّ (şeddeli vav)."
+        },
+        {
+          "id": "m30_t17",
+          "tip": "hata",
+          "soru": "Hangi kelime Sülâsî İsm-i Mef'ûl DEĞİLDİR?",
+          "secenekler": ["مُحْتَرَمٌ (VIII. bab mezîd ism-i mef'ûl!)", "مَكْتُوبٌ", "مَبِيعٌ", "مَدْعُوٌّ"],
+          "dogruIndeks": 0,
+          "aciklama": "مُحْتَرَمٌ başında ötreli مُـ olan VIII. bab (اِحْتَرَمَ) mezîd ism-i mef'ûlüdür."
+        },
+        {
+          "id": "m30_t18",
+          "tip": "bosluk",
+          "soru": "'مَزِيدٌ' (artırılmış) kelimesi hangi fiilin İsm-i Mef'ûlüdür?",
+          "secenekler": ["زَادَ – يَزِيدُ (ecvef-i yâî)", "زَيَّدَ (II. bab)", "اِزْدَادَ (VIII. bab)", "تَزَايَدَ (VI. bab)"],
+          "dogruIndeks": 0,
+          "aciklama": "زَادَ – يَزِيدُ → مَزِيدٌ (ecvef-i yâî ism-i mef'ûl)."
+        },
+        {
+          "id": "m30_t19",
+          "tip": "bosluk",
+          "soru": "'الضَّيْفُ الْمُكَرَّمُ' ile 'الْمُضِيفُ الْمُكَرِّمُ' arasındaki fark nedir?",
+          "secenekler": ["الْمُكَرَّمُ: ikram edilen (ism-i mef'ûl) | الْمُكَرِّمُ: ikram eden (ism-i fâil)", "İkisi de ism-i fâildir", "İkisi de ism-i mef'ûldür", "الْمُكَرَّمُ: ikram eden | الْمُكَرِّمُ: ikram edilen"],
+          "dogruIndeks": 0,
+          "aciklama": "Sondan bir önceki harfin harekesi çatıyı belirler: fetha = edilgen (مُكَرَّم), kesra = etken (مُكَرِّم)."
+        },
+        {
+          "id": "m30_t20",
+          "tip": "ceviri",
+          "soru": "'الْكِتَابُ الْمُتَرْجَمُ مَفْهُومٌ لِلْجَمِيعِ' cümlesinin doğru çevirisi hangisidir?",
+          "secenekler": ["Tercüme edilmiş kitap herkes için anlaşılırdır.", "Tercüman kitabı herkese anlattı.", "Kitap tercümanı iyi anladı.", "Herkes kitabı tercüme etti."],
+          "dogruIndeks": 0,
+          "aciklama": "الْمُتَرْجَمُ (tercüme edilmiş — Rubâî ism-i mef'ûl) + مَفْهُومٌ (anlaşılır — sülâsî ism-i mef'ûl)."
+        }
+      ]
+    },
+    {
+      "id": "m30_g3",
+      "baslik": "Mübalağalı İsm-i Fâil (صِيَغُ الْمُبَالَغَةِ) — 'Çok Yapan / Meslek Hâline Getiren'",
+      "arBaslik": "صِيَغُ الْمُبَالَغَةِ الْخَمْسُ الْمَشْهُورَةُ (فَعَّالٌ – مِفْعَالٌ – فَعُولٌ – فَعِيلٌ – فَعِلٌ)",
+      "mantik": "Bir kişi bir işi bir kez yaptığında **İsm-i Fâil** (`صَادِقٌ` = doğru söyleyen, `عَالِمٌ` = bilen) kullanılır; ama o işi **çok sık, aşırı derecede, sürekli veya meslek hâlinde** yapıyorsa Arapça **Mübalağalı İsm-i Fâil (صِيغَةُ الْمُبَالَغَةِ)** kullanır: `صَدُوقٌ` (hep doğru söyleyen), `عَلَّامٌ / عَلِيمٌ` (her şeyi en derinlemesine bilen), `غَفَّارٌ / غَفُورٌ` (çokça bağışlayan)! **Mübalağa Sığalarının 5 Meşhur Kıyâsî Kalıbı** (ezberleme tekerlemesi: **`هُوَ مِقْوَالٌ كَذَّابٌ، وَأَنْتَ حَذِرٌ وَاللّٰهُ غَفُورٌ رَحِيمٌ`**): **(1) `فَعَّالٌ`** (en yaygın! Meslekler + aşırılık): `غَفَّارٌ` (çok bağışlayan), `فَعَّالٌ` (çok etkin), `نَجَّارٌ` (marangoz), `خَبَّازٌ` (fırıncı), `طَيَّارٌ` (pilot), `جَوَّالٌ` (çok gezen / cep telefonu!). **(2) `مِفْعَالٌ`**: `مِعْطَاءٌ` (çok cömert/veren), `مِقْدَامٌ` (çok atılgan/cesur), `مِهْذَارٌ` (çok geveze). **(3) `فَعُولٌ`** (müzekker-müennes eşittir!): `صَبُورٌ` (çok sabırlı), `شَكُورٌ` (çok şükreden), `غَفُورٌ` (çok bağışlayan), `وَدُودٌ` (çok seven). **(4) `فَعِيلٌ`**: `عَلِيمٌ` (her şeyi bilen), `سَمِيعٌ` (her şeyi işiten), `بَصِيرٌ` (her şeyi gören), `رَحِيمٌ` (çok merhametli). **(5) `فَعِلٌ`**: `حَذِرٌ` (çok dikkatli/temkinli), `فَطِنٌ` (çok zeki/kavrayışlı), `نَشِطٌ` (çok dinç), `يَقِظٌ` (çok uyanık)! **Altın Özellik:** `فَعُولٌ` kalıbı fâil anlamında kullanıldığında erkek ve kadın için **ortaktır** (`رَجُلٌ صَبُورٌ` ve `اِمْرَأَةٌ صَبُورٌ` — sonuna ة konmaz!)!",
+      "formul": "5 Kalıp: فَعَّالٌ (غَفَّارٌ/نَجَّارٌ) | مِفْعَالٌ (مِعْطَاءٌ) | فَعُولٌ (صَبُورٌ — ة'siz ortak!) | فَعِيلٌ (عَلِيمٌ) | فَعِلٌ (حَذِرٌ)",
+      "formulAr": "فَعَّالٌ (غَفَّارٌ)  |  مِفْعَالٌ (مِقْدَامٌ)  |  فَعُولٌ (صَبُورٌ)  |  فَعِيلٌ (سَمِيعٌ)  |  فَعِلٌ (فَطِنٌ)",
+      "tablo": {
+        "baslik": "Mübalağalı İsm-i Fâil'in 5 Ana Kalıbı ve Örnekleri",
+        "sutunlar": ["Kalıp (Vezin)", "Örnekler", "Anlam Gücü", "Özel Dilbilgisi Notu"],
+        "satirlar": [
+          { "hucreler": ["1. فَعَّالٌ", "غَفَّارٌ، فَعَّالٌ، نَجَّارٌ، خَبَّازٌ، طَيَّارٌ", "çok yapan / meslek erbabı", "Modern Arapçada meslekler (طَيَّار، صَحَّاف)"], "ar": "غَفَّارٌ – فَعَّالٌ – نَجَّارٌ – طَيَّارٌ" },
+          { "hucreler": ["2. مِفْعَالٌ", "مِعْطَاءٌ، مِقْدَامٌ، مِضْيَافٌ، مِغْوَارٌ", "aşırı/sürekli yapan", "İsm-i âlet (مِفْتَاح) ile karışmaz: canlıya sıfattır!"], "ar": "مِعْطَاءٌ – مِقْدَامٌ – مِضْيَافٌ" },
+          { "hucreler": ["3. فَعُولٌ", "صَبُورٌ، شَكُورٌ، غَفُورٌ، وَدُودٌ، صَدُوقٌ", "derinden ve daima yapan", "اِمْرَأَةٌ صَبُورٌ — müenneste ة almaz!"], "ar": "صَبُورٌ – شَكُورٌ – غَفُورٌ – صَدُوقٌ" },
+          { "hucreler": ["4. فَعِيلٌ", "عَلِيمٌ، سَمِيعٌ، بَصِيرٌ، قَدِيرٌ، رَحِيمٌ", "mükemmel derecede yapan", "Esmâ-i Hüsnâ'da en sık gelen kalıp!"], "ar": "عَلِيمٌ – سَمِيعٌ – بَصِيرٌ – رَحِيمٌ" },
+          { "hucreler": ["5. فَعِلٌ", "حَذِرٌ، فَطِنٌ، يَقِظٌ، لَبِقٌ", "keskin ve uyanık biçimde yapan", "Orta harf kesralı, kısa ve çarpıcı!"], "ar": "حَذِرٌ – فَطِنٌ – يَقِظٌ – لَبِقٌ" }
+        ]
+      },
+      "trKiyas": "Türkçede bildiğimiz `Gaffar, Settar, Rezzak, Sabur, Şekur, Alim, Rahim, Kadir, Cebbâr, Seyyah, Ressam, Bakkâl, Kasap (قَصَّاب), Dellal` kelimelerinin tamamı Arapça Mübalağa Sığalarıdır! Günlük dilde `فَعَّالٌ` kalıbını gördüğünde 'bu kişi bunu ya çok yapıyor ya da meslek edinmiş' diye hemen anlarsın!",
+      "sikHatalar": [
+        "فَعُولٌ mübalağa sıfatını müennes yaparken sonuna ة eklemek (✗ اِمْرَأَةٌ صَبُورَةٌ — ✓ اِمْرَأَةٌ صَبُورٌ / أُمٌّ حَنُونٌ; fâil anlamlı فَعُولٌ eril-dişil ortaktır!).",
+        "مِفْعَالٌ mübalağası (رَجُلٌ مِضْيَافٌ = çok misafirperver adam) ile مِفْعَالٌ ism-i âletini (مِفْتَاحٌ = anahtar) karıştırmak — bağlamda insana sıfat oluyorsa mübalağadır!",
+        "فَعِيلٌ mübalağasını (سَمِيعٌ = çok işiten — müteaddi fiilden) فَعِيلٌ sıfat-ı müşebbehesiyle (كَرِيمٌ = cömert — lâzım fiilden) karıştırmak."
+      ],
+      "ornekler": [
+        { "ar": "إِنَّ اللّٰهَ غَفُورٌ رَحِيمٌ وَسَمِيعٌ عَلِيمٌ بِكُلِّ شَيْءٍ.", "okunus": "İnnallâhe gafûrun rahîmun ve semî‘un ‘alîmun bi-kulli şey’in.", "tr": "Şüphesiz Allah çok bağışlayan, çok merhamet eden, her şeyi işiten ve her şeyi bilendir.", "not": "غَفُور (فَعُول) + رَحِيم / سَمِيع / عَلِيم (فَعِيل)" },
+        { "ar": "الْمُؤْمِنُ صَبُورٌ عِنْدَ الشَّدَائِدِ وَشَكُورٌ عِنْدَ النِّعَمِ.", "okunus": "El-mu’minu sabûrun ‘inde'ş-şedâ’idi ve şekûrun ‘inde'n-ni‘ami.", "tr": "Mümin zorluklar karşısında çok sabırlı, nimetler karşısında çok şükredicidir.", "not": "صَبُورٌ + شَكُورٌ (فَعُولٌ)" },
+        { "ar": "هٰذِهِ الْأُمُّ صَبُورٌ وَوَدُودٌ، تُرَبِّي أَبْنَاءَهَا بِحِكْمَةٍ.", "okunus": "Hâzihi'l-ummu sabûrun ve vedûdun, turebbî ebnâ’ehâ bi-hıkmetin.", "tr": "Bu anne çok sabırlı ve çok şefkatlidir; çocuklarını hikmetle yetiştirir.", "not": "الْأُمُّ صَبُورٌ (فَعُولٌ müenneste ة almaz!)" },
+        { "ar": "عَرَفْتُهُ رَجُلًا مِضْيَافًا وَمِعْطَاءً لَا يَرُدُّ سَائِلًا.", "okunus": "‘Araftuhû raculen mıdyâfen ve mı‘tâ’en lâ yeruddu sâ’ilen.", "tr": "Onu hiçbir isteyeni geri çevirmeyen çok misafirperver ve çok cömert bir adam olarak tanıdım.", "not": "مِضْيَافًا + مِعْطَاءً (مِفْعَالٌ kalıbı)" },
+        { "ar": "السَّائِقُ الْحَذِرُ وَالْيَقِظُ يَتَجَنَّبُ الْحَوَادِثَ عَلَى الطَّرِيقِ.", "okunus": "Es-sâ’iku'l-haziru ve'l-yekızu yetecennebu'l-havâdise ‘ale't-tarîkı.", "tr": "Çok dikkatli ve uyanık sürücü yoldaki kazalardan kaçınır.", "not": "حَذِرٌ + يَقِظٌ (فَعِلٌ kalıbı)" },
+        { "ar": "يَعْمَلُ النَّجَّارُ وَالْخَبَّازُ وَالطَّيَّارُ بِجِدٍّ لِخِدْمَةِ الْمُجْتَمَعِ.", "okunus": "Ya‘melu'n-neccâru ve'l-habbâzu ve't-tayyâru bi-ciddin li-hıdmeti'l-mucteme‘i.", "tr": "Marangoz, fırıncı ve pilot topluma hizmet için ciddiyetle çalışırlar.", "not": "فَعَّالٌ (meslek bildiren mübalağa kalıbı)" }
+      ],
+      "tatbikler": [
+        {
+          "id": "m30_t21",
+          "tip": "bosluk",
+          "soru": "Aşağıdakilerden hangisi Mübalağalı İsm-i Fâil'in 5 kıyâsî kalıbından BİRİ DEĞİLDİR?",
+          "secenekler": ["مَفْعُولٌ (İsm-i Mef'ûl kalıbıdır!)", "فَعَّالٌ", "مِفْعَالٌ", "فَعِلٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "5 mübalağa kalıbı: فَعَّالٌ، مِفْعَالٌ، فَعُولٌ، فَعِيلٌ، فَعِلٌ."
+        },
+        {
+          "id": "m30_t22",
+          "tip": "bosluk",
+          "soru": "'هٰذِهِ الْمَرْأَةُ _____ فِي تَرْبِيَةِ أَوْلَادِهَا' (Bu kadın çocuklarını yetiştirmede çok sabırlıdır) boşluğuna fasih Arapçada hangisi gelir?",
+          "secenekler": ["صَبُورٌ (فَعُولٌ müenneste ة almaz!)", "صَبُورَةٌ", "مَصْبُورَةٌ", "صَبِرَاتٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "Fâil anlamındaki فَعُولٌ mübalağa sıfatı müzekker ve müennes için ortaktır: اِمْرَأَةٌ صَبُورٌ."
+        },
+        {
+          "id": "m30_t23",
+          "tip": "bosluk",
+          "soru": "'مِعْطَاءٌ' (çok cömert/veren) ve 'مِضْيَافٌ' (çok misafirperver) kelimeleri hangi mübalağa kalıbındadır?",
+          "secenekler": ["مِفْعَالٌ", "مَفْعَلٌ", "فَعَّالٌ", "فَعِيلٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "مِعْطَاءٌ ve مِضْيَافٌ, مِفْعَالٌ kalıbındaki mübalağalı ism-i fâillerdir."
+        },
+        {
+          "id": "m30_t24",
+          "tip": "bosluk",
+          "soru": "'حَذِرٌ' (çok dikkatli) ve 'فَطِنٌ' (çok kavrayışlı/zeki) kelimelerinin vezni hangisidir?",
+          "secenekler": ["فَعِلٌ", "فَاعِلٌ", "فَعُولٌ", "فَعَّالٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "حَذِرٌ، فَطِنٌ، يَقِظٌ kelimeleri فَعِلٌ veznindedir."
+        },
+        {
+          "id": "m30_t25",
+          "tip": "bosluk",
+          "soru": "Modern Arapçada 'نَجَّارٌ (marangoz), خَبَّازٌ (fırıncı), رَسَّامٌ (ressam), طَيَّارٌ (pilot)' meslekleri hangi kalıptan türemiştir?",
+          "secenekler": ["فَعَّالٌ (mübalağa kalıbı)", "مِفْعَلٌ", "فَاعِلٌ", "أَفْعَلُ"],
+          "dogruIndeks": 0,
+          "aciklama": "Meslekler bir işi sürekli/uzmanlıkla yapmayı anlattığı için فَعَّالٌ mübalağa kalıbıyla kurulur."
+        },
+        {
+          "id": "m30_t26",
+          "tip": "bosluk",
+          "soru": "'مِفْتَاحٌ' (anahtar) ile 'مِقْدَامٌ' (çok atılgan/cesur) şeklen aynı (مِفْعَالٌ) olmalarına rağmen farkları nedir?",
+          "secenekler": ["مِفْتَاحٌ cansız alet (İsm-i Âlet); مِقْدَامٌ insana sıfat (Mübalağalı İsm-i Fâil)", "İkisi de ism-i âlettir", "İkisi de mübalağadır", "مِقْدَامٌ ism-i mekândır"],
+          "dogruIndeks": 0,
+          "aciklama": "Aynı مِفْعَالٌ vezni bağlama göre alet (مِفْتَاحٌ، مِصْبَاحٌ) veya aşırı yapan sıfat (مِقْدَامٌ، مِضْيَافٌ) olur."
+        },
+        {
+          "id": "m30_t27",
+          "tip": "bosluk",
+          "soru": "'سَامِعٌ' ile 'سَمِيعٌ' arasındaki temel anlam farkı nedir?",
+          "secenekler": ["سَامِعٌ: şu an duyan (İsm-i Fâil) | سَمِيعٌ: her şeyi daima ve eksiksiz işiten (Mübalağa)", "سَمِيعٌ edilgendir", "Fark yoktur", "سَامِعٌ çoğuldur"],
+          "dogruIndeks": 0,
+          "aciklama": "İsm-i fâil geçici/olağan eylemi, mübalağa ise süreklilik ve aşırılığı ifade eder."
+        },
+        {
+          "id": "m30_t28",
+          "tip": "hata",
+          "soru": "Hangi kelime 'فَعَّالٌ' mübalağa kalıbında DEĞİLDİR?",
+          "secenekler": ["غِفَارٌ (فِعَالٌ kalıbındadır — şeddesiz!)", "غَفَّارٌ", "صَبَّارٌ", "فَعَّالٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "فَعَّالٌ kalıbında orta harf şeddeli ve ilk harf fethalı olmalıdır."
+        },
+        {
+          "id": "m30_t29",
+          "tip": "bosluk",
+          "soru": "'جَوَّالٌ' kelimesinin hem 'çok gezen/seyyah' hem de modern Arapçada 'cep telefonu' (هَاتِفٌ جَوَّالٌ) anlamı hangi kalıptan gelir?",
+          "secenekler": ["فَعَّالٌ (جَالَ – يَجُولُ fiilinden mübalağa)", "مَفْعُولٌ", "أَفْعَلُ", "فَعْلَانُ"],
+          "dogruIndeks": 0,
+          "aciklama": "جَالَ (gezdi) → جَوَّالٌ (çok dolaşan/taşınabilir)."
+        },
+        {
+          "id": "m30_t30",
+          "tip": "ceviri",
+          "soru": "'السَّائِقُ الْحَذِرُ يَتَجَنَّبُ الْحَوَادِثَ' cümlesinde 'الْحَذِرُ' hangi anlamdadır?",
+          "secenekler": ["Çok dikkatli / temkinli (فَعِلٌ mübalağası)", "Korkak", "Hızlı", "Yorgun"],
+          "dogruIndeks": 0,
+          "aciklama": "حَذِرَ → حَذِرٌ (فَعِلٌ — çok dikkatli ve tedbirli)."
+        }
+      ]
+    },
+    {
+      "id": "m30_g4",
+      "baslik": "Sıfat-ı Müşebbehe (الصِّفَةُ الْمُشَبَّهَةُ) — Kalıcı Karakter, Renk ve Nitelik Sıfatları",
+      "arBaslik": "الصِّفَةُ الْمُشَبَّهَةُ بِاسْمِ الْفَاعِلِ وَأَشْهَرُ أَوْزَانِهَا",
+      "mantik": "İsm-i Fâil **geçici / anlık bir eylemi** anlatır (`وَاقِفٌ` = şu an ayakta duran, `ضَاحِكٌ` = şu an gülen). Peki bir insanın veya nesnenin **kalıcı, yerleşik niteliğini, boyunu, rengini, karakterini** nasıl anlatırız? İşte burada **Sıfat-ı Müşebbehe (الصِّفَةُ الْمُشَبَّهَةُ — İsm-i Fâile Benzeyen Kalıcı Sıfat)** devreye girer! Her zaman **LÂZIM (geçişsiz)** sülâsî fiillerden (özellikle 4. bab `فَعِلَ` ve 5. bab `فَعُلَ`) türer ve günlük Arapçada kullandığın sıfatların **%80'ini** oluşturur! **4 Büyük Kalıp Ailesi:** **(1) Renk, Kusur ve Güzellik (4. Bab `فَعِلَ`) → `أَفْعَلُ` / Müennes `فَعْلَاءُ` / Çoğul `فُعْلٌ`** (GAYR-İ MUNSARIF!): `أَحْمَرُ – حَمْرَاءُ – حُمْرٌ` (kırmızı), `أَخْضَرُ – خَضْرَاءُ – خُضْرٌ` (yeşil), `أَبْيَضُ – بَيْضَاءُ – بِيضٌ` (beyaz), `أَصَمُّ – صَمَّاءُ` (sağır). **(2) Duygu, Açlık, Susuzluk, Doluluk (4. Bab `فَعِلَ`) → `فَعْلَانُ` / Müennes `فَعْلَى`** (GAYR-İ MUNSARIF!): `عَطْشَانُ – عَطْشَى` (susamış), `جَوْعَانُ – جَوْعَى` (aç), `غَضْبَانُ – غَضْبَى` (öfkeli), `فَرْحَانُ – فَرْحَى` (sevinçli), `مَلْآنُ – مَلْأَى` (dolu). **(3) Fiziksel/Ruhsal Kalıcı Hâl (4. Bab `فَعِلَ`) → `فَعِلٌ` / `فَعِلَةٌ`**: `فَرِحٌ` (mutlu), `تَعِبٌ` (yorgun), `حَزِنٌ` (üzgün), `نَشِطٌ` (dinç). **(4) 5. Bab (`فَعُلَ` — Tabiat ve Karakter Fiilleri) → `فَعِيلٌ` (En kalabalık aile!), `فَعْلٌ`, `فَعَلٌ`, `فُعَالٌ`, `فَعَالٌ`**: `كَرِيمٌ` (cömert), `كَبِيرٌ` (büyük), `صَغِيرٌ` (küçük), `جَمِيلٌ` (güzel), `طَوِيلٌ` (uzun), `قَصِيرٌ` (kısa), `سَهْلٌ` (kolay), `صَعْبٌ` (zor), `حَسَنٌ` (güzel/iyi), `بَطَلٌ` (kahraman), `شُجَاعٌ` (cesur), `جَبَانٌ` (korkak)!",
+      "formul": "Lâzım Fiilden Kalıcı Nitelik: أَفْعَل/فَعْلَاء (renk/kusur) | فَعْلَان/فَعْلَى (duygu/açlık) | فَعِيلٌ (كَرِيم، جَمِيل، طَوِيل) | فَعْل/فُعَال (سَهْل، شُجَاع)",
+      "formulAr": "أَحْمَرُ / حَمْرَاءُ  |  عَطْشَانُ / عَطْشَى  |  كَرِيمٌ / جَمِيلٌ / طَوِيلٌ  |  سَهْلٌ / صَعْبٌ / شُجَاعٌ / حَسَنٌ",
+      "tablo": {
+        "baslik": "Sıfat-ı Müşebbehe'nin 4 Büyük Ailesi (Müzekker – Müennes – Gayr-i Munsarıf)",
+        "sutunlar": ["Anlam Ailesi", "Müzekker Vezin", "Müennes Vezin", "Yüksek Frekanslı Örnekler"],
+        "satirlar": [
+          { "hucreler": ["Renk & Fiziksel Kusur", "أَفْعَلُ (tenvinsiz!)", "فَعْلَاءُ (tenvinsiz!)", "أَحْمَرُ/حَمْرَاءُ، أَخْضَرُ/خَضْرَاءُ، أَبْيَضُ/بَيْضَاءُ"], "ar": "أَحْمَرُ – حَمْرَاءُ – حُمْرٌ" },
+          { "hucreler": ["Duygu / Açlık / Doluluk", "فَعْلَانُ (tenvinsiz!)", "فَعْلَى (tenvinsiz!)", "عَطْشَانُ/عَطْشَى، جَوْعَانُ/جَوْعَى، غَضْبَانُ/غَضْبَى"], "ar": "عَطْشَانُ – عَطْشَى / غَضْبَانُ – غَضْبَى" },
+          { "hucreler": ["5. Bab (فَعُلَ) — En Sık!", "فَعِيلٌ", "فَعِيلَةٌ", "كَرِيمٌ، جَمِيلٌ، طَوِيلٌ، قَصِيرٌ، قَرِيبٌ، بَعِيدٌ"], "ar": "كَرِيمٌ – جَمِيلٌ – طَوِيلٌ – قَرِيبٌ" },
+          { "hucreler": ["5. Bab Kısa Kalıplar", "فَعْلٌ / فَعَلٌ", "فَعْلَةٌ / فَعَلَةٌ", "سَهْلٌ، صَعْبٌ، ضَخْمٌ / حَسَنٌ، بَطَلٌ"], "ar": "سَهْلٌ – صَعْبٌ – حَسَنٌ – بَطَلٌ" },
+          { "hucreler": ["5. Bab Karakter (فُعَال/فَعَال)", "فُعَالٌ / فَعَالٌ", "فُعَالَةٌ / فَعَالَةٌ", "شُجَاعٌ (cesur)، فُرَاتٌ (tatlı su) / جَبَانٌ (korkak)"], "ar": "شُجَاعٌ – جَبَانٌ – حَصَانٌ" },
+          { "hucreler": ["4. Bab Kısa Hâl Sıfatları", "فَعِلٌ", "فَعِلَةٌ", "فَرِحٌ (mutlu)، تَعِبٌ (yorgun)، قَلِقٌ (endişeli)"], "ar": "فَرِحٌ – تَعِبٌ – قَلِقٌ" }
+        ]
+      },
+      "trKiyas": "İngilizcedeki veya Türkçedeki temel sıfatların neredeyse tamamı (*büyük, küçük, uzun, kısa, güzel, kolay, zor, kırmızı, yeşil, aç, susuz, cesur, cömert*) Arapçada **Sıfat-ı Müşebbehe** sınıfındadır! İki kritik sınav ipucu: `أَفْعَلُ / فَعْلَاءُ` ve `فَعْلَانُ / فَعْلَى` kalıpları **GAYR-İ MUNSARIF**tır (tenvin almaz, cer hâli fethadır: `فِي حَدِيقَةٍ خَضْرَاءَ`!).",
+      "sikHatalar": [
+        "أَخْضَرُ، حَمْرَاءُ، عَطْشَانُ gibi gayr-i munsarıf sıfat-ı müşebbehelere tenvin koymak (✗ قَلَمٌ أَحْمَرٌ / وَرْدَةٌ حَمْرَاءٌ — ✓ قَلَمٌ أَحْمَرُ / وَرْدَةٌ حَمْرَاءُ!).",
+        "Renk ve kusur sıfatlarının müennesini أَحْمَرَةٌ diye yapmak (✗ سَيَّارَةٌ أَحْمَرَةٌ — ✓ سَيَّارَةٌ حَمْرَاءُ!).",
+        "فَعْلَانُ (غَضْبَانُ) sıfatının müennesini فَعْلَانَةٌ yapmak (fasih Arapçada ✓ غَضْبَى، عَطْشَى، جَوْعَى!)."
+      ],
+      "ornekler": [
+        { "ar": "تَجَوَّلْنَا فِي حَدِيقَةٍ خَضْرَاءَ مَلْأَى بِالْوُرُودِ الْحَمْرَاءِ وَالْبَيْضَاءِ.", "okunus": "Tecevvelnâ fî hadîkatin hadrâ’e mel’â bi'l-vurûdi'l-hamrâ’i ve'l-beydâ’i.", "tr": "Kırmızı ve beyaz güllerle dolu yemyeşil bir bahçede gezdik.", "not": "خَضْرَاءَ (gayr-i munsarıf fetha ile mecrûr!) + مَلْأَى (فَعْلَى)" },
+        { "ar": "الْمُسَافِرُ الْعَطْشَانُ وَالْجَوْعَانُ يَبْحَثُ عَنْ مَاءٍ بَارِدٍ وَطَعَامٍ طَيِّبٍ.", "okunus": "El-musâfiru'l-‘atşânu ve'l-cev‘ânu yebhasu ‘an mâ’in bâridin ve ta‘âmin tayyibin.", "tr": "Susamış ve acıkmış yolcu soğuk su ve güzel yemek arıyor.", "not": "عَطْشَانُ / جَوْعَانُ (فَعْلَانُ kalıbı)" },
+        { "ar": "هٰذَا الطَّالِبُ كَرِيمُ الْأَخْلَاقِ، حَسَنُ السِّيرَةِ، وَشُجَاعٌ فِي قَوْلِ الْحَقِّ.", "okunus": "Hâze't-tâlibu kerîmu'l-ahlâkı, hasenu's-sîrati, ve şucâ‘un fî kavli'l-hakkı.", "tr": "Bu öğrenci güzel ahlaklı, iyi hâlli ve hakkı söylemede cesurdur.", "not": "كَرِيمٌ (فَعِيل) + حَسَنٌ (فَعَل) + شُجَاعٌ (فُعَال)" },
+        { "ar": "عَادَتِ الطِّفْلَةُ فَرْحَى بَعْدَ أَنْ حَصَلَتْ عَلَى جَائِزَةٍ جَمِيلَةٍ.", "okunus": "‘Âdeti't-tıfletu ferhâ ba‘de en hasalet ‘alâ câ’izetin cemîletin.", "tr": "Kız çocuğu güzel bir ödül aldıktan sonra sevinçle döndü.", "not": "فَرْحَى (فَرْحَانُ'nun فَعْلَى müennesi!)" },
+        { "ar": "التَّمْرِينُ الْأَوَّلُ سَهْلٌ وَقَصِيرٌ، أَمَّا التَّمْرِينُ الثَّانِي فَصَعْبٌ وَطَوِيلٌ.", "okunus": "Et-temrînu'l-evvelu sehlun ve kasîrun, emme't-temrînu's-sânî fe-sa‘bun ve tavîlun.", "tr": "Birinci alıştırma kolay ve kısadır; ikinci alıştırmaya gelince zor ve uzundur.", "not": "سَهْل / صَعْب (فَعْل) + قَصِير / طَوِيل (فَعِيل)" },
+        { "ar": "بَدَا الصَّدِيقُ قَلِقًا وَتَعِبًا بَعْدَ رِحْلَةٍ شَاقَّةٍ وَطَوِيلَةٍ.", "okunus": "Bede's-sadîku kalıkan ve te‘iben ba‘de rıhletin şâkkatin ve tavîletin.", "tr": "Arkadaş yorucu ve uzun bir yolculuktan sonra endişeli ve yorgun göründü.", "not": "قَلِقٌ + تَعِبٌ (4. bab فَعِلٌ sıfat-ı müşebbehe)" }
+      ],
+      "tatbikler": [
+        {
+          "id": "m30_t31",
+          "tip": "bosluk",
+          "soru": "İsm-i Fâil ile Sıfat-ı Müşebbehe arasındaki temel anlam farkı nedir?",
+          "secenekler": ["İsm-i fâil geçici/anlık eylemi; Sıfat-ı müşebbehe ise lâzım fiilden kalıcı/yerleşik niteliği bildirir", "Sıfat-ı müşebbehe sadece mezîd fiillerden türer", "İsm-i fâil edilgendir, sıfat-ı müşebbehe etkendir", "Aralarında hiçbir fark yoktur"],
+          "dogruIndeks": 0,
+          "aciklama": "Sıfat-ı Müşebbehe (كَرِيمٌ، طَوِيلٌ، أَحْمَرُ، شُجَاعٌ) daima lâzım fiilden türer ve kalıcı nitelik/karakter bildirir."
+        },
+        {
+          "id": "m30_t32",
+          "tip": "bosluk",
+          "soru": "'أَخْضَرُ' (yeşil) ve 'أَبْيَضُ' (beyaz) sıfatlarının müennes ve kırık çoğul şekilleri hangisidir?",
+          "secenekler": ["خَضْرَاءُ / خُضْرٌ  —  بَيْضَاءُ / بِيضٌ", "أَخْضَرَةٌ / أَخْضَرُونَ  —  أَبْيَضَةٌ / أَبْيَضُونَ", "خَضِيرَةٌ / خَضَارَى  —  بَيَاضَةٌ", "خَضْرَى / خُضُورٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "أَفْعَلُ → müennes فَعْلَاءُ (خَضْرَاءُ، بَيْضَاءُ), çoğul فُعْلٌ (خُضْرٌ، بِيضٌ)."
+        },
+        {
+          "id": "m30_t33",
+          "tip": "bosluk",
+          "soru": "'تَجَوَّلْنَا فِي حَدِيقَةٍ _____' (Yeşil bir bahçede gezdik) boşluğuna doğru i'rablı kelime hangisi gelir?",
+          "secenekler": ["خَضْرَاءَ (gayr-i munsarıf — fetha ile mecrûr!)", "خَضْرَاءٍ", "خَضْرَاءِ", "أَخْضَرَ"],
+          "dogruIndeks": 0,
+          "aciklama": "فَعْلَاءُ gayr-i munsarıftır; nekre mecrûr hâlde tenvinsiz fetha alır: خَضْرَاءَ."
+        },
+        {
+          "id": "m30_t34",
+          "tip": "bosluk",
+          "soru": "'عَطْشَانُ' (susamış) ve 'غَضْبَانُ' (öfkeli) sıfatlarının fasih müennes şekilleri hangisidir?",
+          "secenekler": ["عَطْشَى – غَضْبَى (فَعْلَى)", "عَطْشَانَةٌ – غَضْبَانَةٌ", "عَاطِشَةٌ – غَاضِبَةٌ", "عَطْشَاءُ – غَضْبَاءُ"],
+          "dogruIndeks": 0,
+          "aciklama": "فَعْلَانُ sıfat-ı müşebbehesinin fasih müennesi فَعْلَى'dır (عَطْشَى، غَضْبَى، جَوْعَى)."
+        },
+        {
+          "id": "m30_t35",
+          "tip": "bosluk",
+          "soru": "'شُجَاعٌ' (cesur) ve 'جَبَانٌ' (korkak) sıfatları hangi kalıplardandır?",
+          "secenekler": ["فُعَالٌ ve فَعَالٌ (5. bab sıfat-ı müşebbehe)", "فَعَّالٌ (mübalağa)", "أَفْعَلُ (tafdil)", "فَاعِلٌ (ism-i fâil)"],
+          "dogruIndeks": 0,
+          "aciklama": "شَجُعَ → شُجَاعٌ (فُعَالٌ), جَبُنَ → جَبَانٌ (فَعَالٌ) — ikisi de 5. bab sıfat-ı müşebbehedir."
+        },
+        {
+          "id": "m30_t36",
+          "tip": "bosluk",
+          "soru": "5. bab (فَعُلَ) tabiat fiillerinden en sık türeyen Sıfat-ı Müşebbehe kalıbı hangisidir?",
+          "secenekler": ["فَعِيلٌ (كَرِيمٌ، كَبِيرٌ، جَمِيلٌ، طَوِيلٌ)", "مَفْعُولٌ", "مِفْعَالٌ", "تَفْعِيلٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "5. bab fiillerinin en üretken sıfat-ı müşebbehe kalıbı فَعِيلٌ'dir."
+        },
+        {
+          "id": "m30_t37",
+          "tip": "hata",
+          "soru": "Hangi cümlede Sıfat-ı Müşebbehe i'rabı veya cinsiyet uyumu YANLIŞTIR?",
+          "secenekler": ["اِشْتَرَيْتُ وَرْدَةً حَمْرَاءً وَقَلَمًا أَحْمَرًا (tenvin konmuş!)", "اِشْتَرَيْتُ وَرْدَةً حَمْرَاءَ وَقَلَمًا أَحْمَرَ", "الْوَلَدُ عَطْشَانُ وَالْبِنْتُ عَطْشَى", "التَّمْرِينُ سَهْلٌ وَالْمَسْأَلَةُ صَعْبَةٌ"],
+          "dogruIndeks": 0,
+          "aciklama": "حَمْرَاءَ ve أَحْمَرَ gayr-i munsarıftır; tenvin kabul etmezler!"
+        },
+        {
+          "id": "m30_t38",
+          "tip": "bosluk",
+          "soru": "'حَسَنٌ' (güzel/iyi) ve 'سَهْلٌ' (kolay) sıfatları hangi türev grubundandır?",
+          "secenekler": ["Sıfat-ı Müşebbehe (فَعَلٌ ve فَعْلٌ)", "İsm-i Fâil", "İsm-i Mef'ûl", "Mübalağalı İsm-i Fâil"],
+          "dogruIndeks": 0,
+          "aciklama": "حَسُنَ → حَسَنٌ (فَعَلٌ) ve سَهُلَ → سَهْلٌ (فَعْلٌ) kalıcı nitelik bildiren sıfat-ı müşebbehelerdir."
+        },
+        {
+          "id": "m30_t39",
+          "tip": "bosluk",
+          "soru": "'مَلْآنُ' (dolu) sıfatının müennes şekli hangisidir?",
+          "secenekler": ["مَلْأَى (حَدِيقَةٌ مَلْأَى بِالْوُرُودِ)", "مَلْآنَةٌ", "مَلِئَةٌ", "مَمْلَاءُ"],
+          "dogruIndeks": 0,
+          "aciklama": "فَعْلَانُ → فَعْلَى: مَلْآنُ (müzekker) / مَلْأَى (müennes)."
+        },
+        {
+          "id": "m30_t40",
+          "tip": "ceviri",
+          "soru": "'هٰذَا الرَّجُلُ كَرِيمُ الْأَخْلَاقِ وَحَسَنُ السِّيرَةِ' cümlesinin doğru çevirisi hangisidir?",
+          "secenekler": ["Bu adam güzel ahlaklı ve iyi hâllidir.", "Bu adam ahlakı ikram etti.", "Ahlak bu adama cömert davrandı.", "Bu adamın yolu çok uzundur."],
+          "dogruIndeks": 0,
+          "aciklama": "كَرِيمُ الْأَخْلَاقِ ve حَسَنُ السِّيرَةِ lafzî izâfetli sıfat-ı müşebbehe terkipleridir."
+        }
+      ]
+    },
+    {
+      "id": "m30_g5",
+      "baslik": "Harekesiz Metinde مُفْعِل / مُفْعَل Ayrımı & İsm-i Fâil/Mef'ûl'ün Ortak Geldiği İstisnalar",
+      "arBaslik": "التَّمْيِيزُ بَيْنَ اِسْمِ الْفَاعِلِ وَاسْمِ الْمَفْعُولِ فِي النُّصُوصِ غَيْرِ الْمَشْكُولَةِ",
+      "mantik": "Harekesiz bir Arapça gazete, kitap veya YDS sınav metni açtığında karşına **`محتل، مختار، مهتم، منتج، مستخدم، مسؤول، منظم`** gibi harekesiz `مُـ` kelimeleri çıkar! Sondan bir önceki harfin kesra mı (`مُفْعِل` = yapan) yoksa fetha mı (`مُفْعَل` = yapılan) olduğunu **harekesiz metinde nasıl %100 isabetle okuyacaksın?** İşte profesyonel okuyucuların **3 Altın Stratejisi**: **(1) Anlam & Özne/Nesne Bağlamı:** `المستخدم` kelimesi canlı bir insanı (özneyi) anlatıyorsa **`مُسْتَخْدِمٌ`** (kullanıcı — İsm-i Fâil), bir cihazı/yöntemi anlatıyorsa **`مُسْتَخْدَمٌ`** (kullanılan — İsm-i Mef'ûl)! `المنتج` bir firma/kişiyse **`الْمُنْتِجُ`** (üretici), raftaki malsa **`الْمُنْتَجُ`** (ürün)! `المترجم` kişiyse **`الْمُتَرْجِمُ`** (tercüman), kitapsa **`الْمُتَرْجَمُ`** (tercüme edilmiş)! **(2) Hem İsm-i Fâil Hem İsm-i Mef'ûl Şekli BİREBİR AYNI Olan 2 Özel Fiil Grubu (Hareke bile aynıdır!):** **(a) VIII. Bab Ecvef (`اِخْتَارَ → مُخْتَارٌ`, `اِحْتَاجَ → مُحْتَاجٌ`, `اِعْتَادَ → مُعْتَادٌ`)** ve **(b) VIII. Bab Muzaaf (`اِحْتَلَّ → مُحْتَلٌّ`, `اِهْتَمَّ → مُهْتَمٌّ`, `اِعْتَزَّ → مُعْتَزٌّ`)!** Bu fiillerde İsm-i Fâil ile İsm-i Mef'ûl **harekeli metinde bile aynı yazılır ve aynı okunur!** Tek ayırıcı **CÜMLE BAĞLAMIDIR**: `الْجَيْشُ الْمُحْتَلُّ` (işgalci ordu = İsm-i Fâil!) ≠ `الْأَرْضُ الْمُحْتَلَّةُ` (işgal edilmiş toprak = İsm-i Mef'ûl!); `الطَّالِبُ مُخْتَارٌ كِتَابَهُ` (öğrenci kitabını seçendir = İsm-i Fâil!) ≠ `الْكِتَابُ مُخْتَارٌ بِعِنَايَةٍ` (kitap özenle seçilmiştir = İsm-i Mef'ûl!)! **(3) Lâzım Fiil / Harf-i Cer İpucu:** Ardından `بِـ / عَلَى / إِلَى` + zamir geliyorsa (`الْمُتَّفَقُ عَلَيْهِ`, `الْمَرْغُوبُ فِيهِ`, `الْمُشَارُ إِلَيْهِ`) o %100 **İsm-i Mef'ûldür**!",
+      "formul": "Harekesiz Ayrım: Canlı Yapan = مُفْعِل (مُنْتِج) | Nesne/Ürün = مُفْعَل (مُنْتَج) || Ortak Şekiller: مُخْتَارٌ / مُحْتَلٌّ / مُهْتَمٌّ (Sadece bağlam ayırır!)",
+      "formulAr": "الْمُنْتِجُ (üretici) ≠ الْمُنْتَجُ (ürün)  |  الْجَيْشُ الْمُحْتَلُّ (işgalci — فَاعِل) ≠ الْأَرْضُ الْمُحْتَلَّةُ (işgal edilen — مَفْعُول)",
+      "tablo": {
+        "baslik": "Harekesiz Metinde En Çok Karışan مُفْعِل / مُفْعَل Çiftleri ve Ortak Şekiller",
+        "sutunlar": ["Harekesiz Yazım", "İsm-i Fâil (Etken)", "İsm-i Mef'ûl (Edilgen)", "Bağlam İpucu"],
+        "satirlar": [
+          { "hucreler": ["المنتج", "الْمُنْتِجُ (üretici)", "الْمُنْتَجُ (ürün)", "الشَّرِكَةُ الْمُنْتِجَةُ ≠ الْمُنْتَجُ الْمَحَلِّيُّ"], "ar": "الْمُنْتِجُ ≠ الْمُنْتَجُ" },
+          { "hucreler": ["المستخدم", "الْمُسْتَخْدِمُ (kullanıcı)", "الْمُسْتَخْدَمُ (kullanılan)", "عَدَدُ الْمُسْتَخْدِمِينَ ≠ اللُّغَةُ الْمُسْتَخْدَمَةُ"], "ar": "الْمُسْتَخْدِمُ ≠ الْمُسْتَخْدَمُ" },
+          { "hucreler": ["المترجم", "الْمُتَرْجِمُ (tercüman)", "الْمُتَرْجَمُ (çevrilmiş)", "الْمُتَرْجِمُ الْبَارِعُ ≠ الْكِتَابُ الْمُتَرْجَمُ"], "ar": "الْمُتَرْجِمُ ≠ الْمُتَرْجَمُ" },
+          { "hucreler": ["المنظم", "الْمُنَظِّمُ (düzenleyici)", "الْمُنَظَّمُ (düzenli/organize)", "اللَّجْنَةُ الْمُنَظِّمَةُ ≠ الْبَرْنَامَجُ الْمُنَظَّمُ"], "ar": "الْمُنَظِّمُ ≠ الْمُنَظَّمُ" },
+          { "hucreler": ["مختار (Ortak!)", "مُخْتَارٌ (seçen)", "مُخْتَارٌ (seçilmiş)", "أَنَا مُخْتَارٌ هَدَفِي ≠ الْهَدَفُ الْمُخْتَارُ"], "ar": "مُخْتَارٌ (فَاعِل / مَفْعُول)" },
+          { "hucreler": ["محتل (Ortak!)", "مُحْتَلٌّ (işgalci)", "مُحْتَلٌّ (işgal edilmiş)", "الْعَدُوُّ الْمُحْتَلُّ ≠ الْمَدِينَةُ الْمُحْتَلَّةُ"], "ar": "مُحْتَلٌّ (فَاعِل / مَفْعُول)" }
+        ]
+      },
+      "trKiyas": "Türkçede de `muhtar` (مُخْتَارٌ = seçilmiş kişi) kelimesi işte bu ortak şekilli VIII. bab ecvef ism-i mef'ûlüdür! YDS/YÖKDİL'de basın metni çözerken `مستخدم` veya `منتج` kelimesini görünce bir saniye durup 'Bu kelime burada **insan/özne** mi yoksa **nesne/ürün** mü?' diye sormak çeviri hatalarının %90'ını anında sıfırlar!",
+      "sikHatalar": [
+        "مُخْتَارٌ ve مُحْتَلٌّ kelimelerinin ism-i fâilini مُخْتِيرٌ veya مُحْتِلٌّ diye değiştirmeye çalışmak — bu iki grupta etken ve edilgen şekil BİREBİR AYNIDIR (مُخْتَارٌ / مُحْتَلٌّ)!",
+        "Basın metnindeki 'الْمُنْتَجَاتُ الْمَحَلِّيَّةُ' (yerli ürünler) tamlamasını 'yerli üreticiler' diye yanlış çevirmek (üreticiler = الْمُنْتِجُونَ; ürünler = الْمُنْتَجَاتُ!).",
+        "الْمُشَارُ إِلَيْهِ (işaret edilen/bahsedilen) ve الْمُعْتَمَدُ عَلَيْهِ (kendisine güvenilen) gibi harf-i cerli edilgen kalıpları etken okumak."
+      ],
+      "ornekler": [
+        { "ar": "يَسْتَمِعُ الْمُنْتِجُ إِلَى آرَاءِ الْمُسْتَخْدِمِينَ لِتَحْسِينِ الْمُنْتَجِ الْمُسْتَخْدَمِ.", "okunus": "Yestemi‘u'l-munticu ilâ ârâ’i'l-mustahdimîne li-tahsîni'l-munteci'l-mustahdemi.", "tr": "Üretici, kullanılan ürünü iyileştirmek için kullanıcıların görüşlerini dinliyor.", "not": "4'ü tek cümlede: مُنْتِج (üretici) / مُسْتَخْدِم (kullanıcı) / مُنْتَج (ürün) / مُسْتَخْدَم (kullanılan)!" },
+        { "ar": "نَاقَشَ الْمُتَرْجِمُ الْخَبِيرُ النَّصَّ الْمُتَرْجَمَ مَعَ اللَّجْنَةِ الْمُنَظِّمَةِ.", "okunus": "Nâkaşe'l-mutercimu'l-habîru'n-nassa'l-muterceme me‘a'l-lecneti'l-munazzımeti.", "tr": "Uzman tercüman, tercüme edilmiş metni düzenleyici komite ile tartıştı.", "not": "مُتَرْجِم (etken) ≠ مُتَرْجَم (edilgen) + مُنَظِّمَة (etken)" },
+        { "ar": "الْمُعَلِّمُ مُخْتَارٌ أَفْضَلَ الْأَمْثِلَةِ، وَالْأَمْثِلَةُ الْمُخْتَارَةُ وَاضِحَةٌ جِدًّا.", "okunus": "El-mu‘allimu muhtârun efdale'l-emsileti, ve'l-emsiletu'l-muhtâratu vâdıhatun cidden.", "tr": "Öğretmen en iyi örnekleri seçendir; seçilmiş örnekler ise çok açıktır.", "not": "1. مُخْتَارٌ = İsm-i Fâil | 2. الْمُخْتَارَةُ = İsm-i Mef'ûl!" },
+        { "ar": "قَاوَمَ الشَّعْبُ الْجَيْشَ الْمُحْتَلَّ وَحَرَّرَ الْمَدِينَةَ الْمُحْتَلَّةَ.", "okunus": "Kâveme'ş-şa‘bu'l-ceyşe'l-muhtelle ve harrara'l-medînete'l-muhtellete.", "tr": "Halk işgalci orduya direndi ve işgal edilmiş şehri özgürleştirdi.", "not": "1. الْمُحْتَلَّ = işgalci (Fâil) | 2. الْمُحْتَلَّةَ = işgal edilen (Mef'ûl)" },
+        { "ar": "هٰذَا التَّقْرِيرُ الْمُشَارُ إِلَيْهِ مُعْتَمَدٌ فِي جَمِيعِ الدَّوَائِرِ الرَّسْمِيَّةِ.", "okunus": "Hâze't-takrîru'l-muşâru ileyhi mu‘temedun fî cemî‘ı'd-devâ’iri'r-rasmiyyeti.", "tr": "Kendisine işaret edilen (bahsi geçen) bu rapor tüm resmî dairelerde geçerlidir.", "not": "الْمُشَارُ إِلَيْهِ (IV. bab ecvef ism-i mef'ûl + harf-i cer)" },
+        { "ar": "الْمُحَاضِرُ الْمُبْدِعُ يَعْرِضُ أَفْكَارًا مُبْتَكَرَةً بِأُسْلُوبٍ مُنَظَّمٍ.", "okunus": "El-muhâdıru'l-mubdi‘u ya‘rıdu efkâran mubtekeraten bi-uslûbin munazzamin.", "tr": "Yaratıcı konuşmacı, yenilikçi (yeni üretilmiş) fikirleri düzenli bir üslupla sunuyor.", "not": "مُحَاضِر / مُبْدِع (etken) ≠ مُبْتَكَر / مُنَظَّم (edilgen)" }
+      ],
+      "tatbikler": [
+        {
+          "id": "m30_t41",
+          "tip": "bosluk",
+          "soru": "'الطَّالِبُ مُخْتَارٌ مَوْضُوعَ بَحْثِهِ' ile 'الْمَوْضُوعُ الْمُخْتَارُ شَيِّقٌ' cümlelerinde 'مُخْتَار' sırasıyla nedir?",
+          "secenekler": ["1. İsm-i Fâil (seçen) | 2. İsm-i Mef'ûl (seçilmiş)", "1. İsm-i Mef'ûl | 2. İsm-i Fâil", "İkisi de İsm-i Fâildir", "İkisi de İsm-i Mef'ûldür"],
+          "dogruIndeks": 0,
+          "aciklama": "VIII. bab ecvef اِخْتَارَ fiilinin ism-i fâil ve ism-i mef'ûlü aynı şekildedir (مُخْتَارٌ); ayrımı bağlam belirler."
+        },
+        {
+          "id": "m30_t42",
+          "tip": "bosluk",
+          "soru": "Harekesiz 'المنتجات المحلية' (yerli ürünler) tamlamasında 'المنتجات' nasıl harekelenmelidir?",
+          "secenekler": ["الْمُنْتَجَاتُ (ت fethalı — İsm-i Mef'ûl: ürünler)", "الْمُنْتِجَاتُ (ت kesralı — üretici kadınlar/şirketler)", "الْمَنْتَجَاتُ", "الْمُنْتَاجَاتُ"],
+          "dogruIndeks": 0,
+          "aciklama": "'Ürünler' = üretilen şeyler (İsm-i Mef'ûl) olduğu için sondan önceki harf fethalı okunur: الْمُنْتَجَاتُ."
+        },
+        {
+          "id": "m30_t43",
+          "tip": "bosluk",
+          "soru": "'الْجَيْشُ الْمُحْتَلُّ' (işgalci ordu) ile 'الْأَرْضُ الْمُحْتَلَّةُ' (işgal edilmiş toprak) arasında neden hareke farkı yoktur?",
+          "secenekler": ["VIII. bab muzaaf (اِحْتَلَّ) fiilinde İsm-i Fâil ile İsm-i Mef'ûl şeklen ve harekece ortaktır", "İkisi de İsm-i Mef'ûldür", "İkisi de Sıfat-ı Müşebbehedir", "Yazım hatası vardır"],
+          "dogruIndeks": 0,
+          "aciklama": "VIII. bab muzaaf (اِحْتَلَّ → مُحْتَلٌّ) ve ecvef (اِخْتَارَ → مُخْتَارٌ) fiillerinde etken ve edilgen kalıp birebir aynıdır."
+        },
+        {
+          "id": "m30_t44",
+          "tip": "bosluk",
+          "soru": "Harekesiz 'اللجنة المنظمة للمؤتمر' (konferansı düzenleyen komite) terkibinde 'المنظمة' nasıl okunur?",
+          "secenekler": ["الْمُنَظِّمَةُ (ظ kesralı — düzenleyen / İsm-i Fâil)", "الْمُنَظَّمَةُ (ظ fethalı — örgüt / düzenlenmiş)", "الْمَنْظَمَةُ", "النَّاظِمَةُ"],
+          "dogruIndeks": 0,
+          "aciklama": "Komite düzenleme eylemini yapan (etken) olduğu için الْمُنَظِّمَةُ (İsm-i Fâil) okunur; 'الْمُنَظَّمَةُ' ise 'örgüt/kuruluş' (BM gibi) anlamına gelir!"
+        },
+        {
+          "id": "m30_t45",
+          "tip": "bosluk",
+          "soru": "'الْكِتَابُ الْمُشَارُ إِلَيْهِ' ifadesinde 'الْمُشَارُ إِلَيْهِ' hangi türevdir ve anlamı nedir?",
+          "secenekler": ["IV. bab İsm-i Mef'ûl + harf-i cer ('işaret edilen / bahsi geçen')", "IV. bab İsm-i Fâil ('işaret eden')", "Mübalağa sığası", "Sıfat-ı Müşebbehe"],
+          "dogruIndeks": 0,
+          "aciklama": "أَشَارَ إِلَى → مُشِيرٌ (işaret eden) / مُشَارٌ إِلَيْهِ (işaret edilen, bahsi geçen)."
+        },
+        {
+          "id": "m30_t46",
+          "tip": "bosluk",
+          "soru": "Harekesiz 'المترجم يراجع النص المترجم' cümlesinde iki 'المترجم' kelimesinin doğru harekelenmesi hangisidir?",
+          "secenekler": ["1. الْمُتَرْجِمُ (tercüman) | 2. الْمُتَرْجَمَ (tercüme edilmiş metin)", "1. الْمُتَرْجَمُ | 2. الْمُتَرْجِمَ", "İkisi de الْمُتَرْجِم", "İkisi de الْمُتَرْجَم"],
+          "dogruIndeks": 0,
+          "aciklama": "Gözden geçiren kişi etken (الْمُتَرْجِمُ), gözden geçirilen metin edilgendir (الْمُتَرْجَمَ)."
+        },
+        {
+          "id": "m30_t47",
+          "tip": "bosluk",
+          "soru": "Harekesiz 'عدد المستخدمين للتطبيق' (uygulama kullanıcılarının sayısı) ifadesinde 'المستخدمين' nasıl okunur?",
+          "secenekler": ["الْمُسْتَخْدِمِينَ (د kesralı — kullanıcılar / İsm-i Fâil)", "الْمُسْتَخْدَمِينَ (د fethalı — kullanılanlar)", "الْمَسْتَخْدَمِينَ", "الْخَادِمِينَ"],
+          "dogruIndeks": 0,
+          "aciklama": "Uygulamayı kullanan insanlar etken olduğu için الْمُسْتَخْدِمِينَ (İsm-i Fâil) okunur."
+        },
+        {
+          "id": "m30_t48",
+          "tip": "hata",
+          "soru": "Hangi cümlede harekeleme anlam bağlamına göre YANLIŞTIR?",
+          "secenekler": ["اِشْتَرَيْتُ مُنْتِجًا جَدِيدًا مِنَ السُّوقِ (✗ 'yeni bir üretici satın aldım' olur!)", "اِشْتَرَيْتُ مُنْتَجًا جَدِيدًا مِنَ السُّوقِ", "تَعَاقَدْنَا مَعَ مُتَرْجِمٍ خَبِيرٍ", "اِسْتَمَعْنَا إِلَى الْمُحَاضِرِ الْمُبْدِعِ"],
+          "dogruIndeks": 0,
+          "aciklama": "Pazardan satın alınan şey 'ürün'dür: doğru harekelemeli hâli مُنْتَجًا (ت fethalı — İsm-i Mef'ûl) olmalıdır!"
+        },
+        {
+          "id": "m30_t49",
+          "tip": "bosluk",
+          "soru": "'مُحْتَاجٌ' (ihtiyaç duyan / muhtaç — اِحْتَاجَ) kelimesi neden مُحْتِيجٌ diye okunmaz?",
+          "secenekler": ["VIII. bab ecvef fiillerde (اِحْتَاجَ، اِخْتَارَ) illet harfi elife dönüştüğü için İsm-i Fâil de مُحْتَاجٌ gelir", "Sadece ism-i mef'ûldür, ism-i fâili yoktur", "Sıfat-ı müşebbehedir", "Rubâî fiildir"],
+          "dogruIndeks": 0,
+          "aciklama": "اِحْتَاجَ (VIII. bab ecvef) → hem ism-i fâil hem ism-i mef'ûl مُحْتَاجٌ şeklinde gelir."
+        },
+        {
+          "id": "m30_t50",
+          "tip": "ceviri",
+          "soru": "'الْمُنَظَّمَةُ الدَّوْلِيَّةُ تَدْعَمُ اللَّجْنَةَ الْمُنَظِّمَةَ' cümlesinin doğru çevirisi hangisidir?",
+          "secenekler": ["Uluslararası örgüt (الْمُنَظَّمَة), düzenleyici komiteyi (الْمُنَظِّمَة) destekliyor.", "Düzenleyici uluslararası kişi, düzenli komiteyi destekliyor.", "İki kelime de aynı anlamdadır.", "Komite uluslararası örgütü kurdu."],
+          "dogruIndeks": 0,
+          "aciklama": "الْمُنَظَّمَةُ (fetha = örgüt/kuruluş) ≠ الْمُنَظِّمَةُ (kesra = düzenleyici) — hareke farkının en çarpıcı modern örneği!"
+        }
+      ]
+    }
+  ],
+  "workshop": {
+    "motors": [
+      {
+        "id": "m30_mot1",
+        "baslik": "Sülâsî & Mezîd İsm-i Fâil Üretim Motoru",
+        "aciklama": "Etken kişi ve uzmanlık sıfatlarını (فَاعِل / مُفْعِل) doğal bağlamlarla birleştir.",
+        "slotlar": [
+          {
+            "baslik": "Özne (İsm-i Fâil)",
+            "secenekler": [
+              { "ar": "الطَّالِبُ الْمُجْتَهِدُ", "tr": "Çalışkan öğrenci" },
+              { "ar": "الْمُتَرْجِمُ الْبَارِعُ", "tr": "Usta tercüman" },
+              { "ar": "الْمُعَلِّمُ الْمُخْلِصُ", "tr": "Samimi öğretmen" },
+              { "ar": "الْمُسْتَثْمِرُ الْمُبْتَكِرُ", "tr": "Yenilikçi yatırımcı" },
+              { "ar": "الْقَاضِي الْعَادِلُ", "tr": "Adil yargıç" },
+              { "ar": "الشَّابُّ الْمُبَادِرُ", "tr": "Girişimci genç" }
+            ]
+          },
+          {
+            "baslik": "Fiil / Haber",
+            "secenekler": [
+              { "ar": "مُتَفَوِّقٌ فِي مَجَالِهِ", "tr": "alanında üstündür" },
+              { "ar": "يَسْعَى إِلَى التَّمَيُّزِ", "tr": "mükemmelliğe çabalar" },
+              { "ar": "مُسَاهِمٌ فِي النَّهْضَةِ", "tr": "kalkınmaya katkıda bulunandır" },
+              { "ar": "يُقَدِّمُ حُلُولًا عَمَلِيَّةً", "tr": "pratik çözümler sunar" },
+              { "ar": "يَحْظَى بِاحْتِرَامِ الْجَمِيعِ", "tr": "herkesin saygısını kazanır" },
+              { "ar": "يُطَوِّرُ مَهَارَاتِهِ دَائِمًا", "tr": "becerilerini daima geliştirir" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m30_mot2",
+        "baslik": "İsm-i Mef'ûl (Edilgen Nitelik) Atölyesi",
+        "aciklama": "مَفْعُولٌ / مَبِيعٌ / مَبْنِيٌّ / مُفْعَلٌ kalıplarıyla nesne ve kurum betimlemeleri yap.",
+        "slotlar": [
+          {
+            "baslik": "Nesne / Kavram",
+            "secenekler": [
+              { "ar": "الْكِتَابُ الْمُتَرْجَمُ", "tr": "Tercüme edilmiş kitap" },
+              { "ar": "الْبِنَاءُ الْمَبْنِيُّ حَدِيثًا", "tr": "Yeni inşa edilmiş bina" },
+              { "ar": "الْمُنْتَجُ الْمَبِيعُ", "tr": "Satılan ürün" },
+              { "ar": "الْقَرَارُ الْمُتَّفَقُ عَلَيْهِ", "tr": "Üzerinde uzlaşılan karar" },
+              { "ar": "التَّقْرِيرُ الْمُشَارُ إِلَيْهِ", "tr": "Bahsi geçen rapor" },
+              { "ar": "الضَّيْفُ الْمَدْعُوُّ", "tr": "Davetli misafir" }
+            ]
+          },
+          {
+            "baslik": "Yüklem",
+            "secenekler": [
+              { "ar": "مَفْهُومٌ وَوَاضِحٌ لِلْجَمِيعِ", "tr": "herkes için anlaşılır ve açıktır" },
+              { "ar": "مُعْتَمَدٌ فِي الْمُؤَسَّسَةِ", "tr": "kurumda onaylıdır" },
+              { "ar": "ذُو جَوْدَةٍ عَالِيَةٍ", "tr": "yüksek kalitelidir" },
+              { "ar": "مُكَرَّمٌ وَمُحْتَرَمٌ جِدًّا", "tr": "çok ikram edilen ve saygındır" },
+              { "ar": "مَصُونٌ بِأَحْدَثِ التِّقْنِيَّاتِ", "tr": "en modern teknolojilerle korunmuştur" },
+              { "ar": "مَعْرُوفٌ فِي السُّوقِ الدَّوْلِيَّةِ", "tr": "uluslararası pazarda bilinmektedir" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m30_mot3",
+        "baslik": "5 Mübalağa Kalıbı Karakter Motoru",
+        "aciklama": "فَعَّال / مِفْعَال / فَعُول / فَعِيل / فَعِل kalıplarıyla güçlü karakter cümleleri kur.",
+        "slotlar": [
+          {
+            "baslik": "Kişi",
+            "secenekler": [
+              { "ar": "الْقَائِدُ النَّاجِحُ", "tr": "Başarılı lider" },
+              { "ar": "الْأُمُّ الرَّؤُومُ", "tr": "Şefkatli anne" },
+              { "ar": "السَّائِقُ الْمُحْتَرِفُ", "tr": "Profesyonel sürücü" },
+              { "ar": "الصَّدِيقُ الْوَفِيُّ", "tr": "Vefalı arkadaş" },
+              { "ar": "الْعَالِمُ الْجَلِيلُ", "tr": "Değerli âlim" },
+              { "ar": "التَّاجِرُ الْأَمِينُ", "tr": "Güvenilir tüccar" }
+            ]
+          },
+          {
+            "baslik": "Mübalağa Sıfatı",
+            "secenekler": [
+              { "ar": "صَبُورٌ وَشَكُورٌ", "tr": "çok sabırlı ve şükredicidir (فَعُول)" },
+              { "ar": "مِعْطَاءٌ وَمِضْيَافٌ", "tr": "çok cömert ve misafirperverdir (مِفْعَال)" },
+              { "ar": "حَذِرٌ وَيَقِظٌ", "tr": "çok dikkatli ve uyanıktır (فَعِل)" },
+              { "ar": "فَطِنٌ وَلَبِقٌ", "tr": "çok zeki ve zariftir (فَعِل)" },
+              { "ar": "صَدُوقٌ وَوَدُودٌ", "tr": "çok doğru sözlü ve sevecendir (فَعُول)" },
+              { "ar": "فَعَّالٌ وَمِقْدَامٌ", "tr": "çok etkin ve atılgandır (فَعَّال/مِفْعَال)" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m30_mot4",
+        "baslik": "Sıfat-ı Müşebbehe Renk & Duygu Motoru (Gayr-i Munsarıf!)",
+        "aciklama": "أَفْعَل/فَعْلَاء ve فَعْلَان/فَعْلَى uyumlarını tenvinsiz kurallarıyla pratik et.",
+        "slotlar": [
+          {
+            "baslik": "İsim (Müzekker / Müennes)",
+            "secenekler": [
+              { "ar": "الْحَدِيقَةُ", "tr": "Bahçe (müennes)" },
+              { "ar": "الْوَرْدَةُ", "tr": "Gül (müennes)" },
+              { "ar": "الطِّفْلَةُ", "tr": "Kız çocuğu (müennes)" },
+              { "ar": "الْمُسَافِرُ", "tr": "Yolcu (müzekker)" },
+              { "ar": "الْبَحْرُ", "tr": "Deniz (müzekker)" },
+              { "ar": "الْجَبَلُ", "tr": "Dağ (müzekker)" }
+            ]
+          },
+          {
+            "baslik": "Sıfat-ı Müşebbehe",
+            "secenekler": [
+              { "ar": "خَضْرَاءُ وَمَلْأَى بِالْأَزْهَارِ", "tr": "yeşil ve çiçeklerle doludur (مؤ)" },
+              { "ar": "حَمْرَاءُ وَجَمِيلَةٌ", "tr": "kırmızı ve güzeldir (مؤ)" },
+              { "ar": "فَرْحَى وَنَشِطَةٌ", "tr": "sevinçli ve dinçtir (مؤ)" },
+              { "ar": "عَطْشَانُ وَجَوْعَانُ", "tr": "susamış ve açtır (مذ)" },
+              { "ar": "أَزْرَقُ وَعَمِيقٌ", "tr": "mavi ve derindir (مذ)" },
+              { "ar": "أَبْيَضُ بِالثَّلْجِ وَشَاهِقٌ", "tr": "karla beyaz ve yüksektir (مذ)" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m30_mot5",
+        "baslik": "مُفْعِل vs. مُفْعَل Etken–Edilgen Çift Motoru",
+        "aciklama": "Aynı kökten etken (yapan) ve edilgen (yapılan) kelimeleri tek cümlede buluştur.",
+        "slotlar": [
+          {
+            "baslik": "Etken Kişi (مُفْعِل)",
+            "secenekler": [
+              { "ar": "يُطَوِّرُ الْمُنْتِجُ", "tr": "Üretici geliştiriyor" },
+              { "ar": "يُرَاجِعُ الْمُتَرْجِمُ", "tr": "Tercüman gözden geçiriyor" },
+              { "ar": "يُقَيِّمُ الْمُسْتَخْدِمُ", "tr": "Kullanıcı değerlendiriyor" },
+              { "ar": "تُدِيرُ اللَّجْنَةُ الْمُنَظِّمَةُ", "tr": "Düzenleyici komite yönetiyor" },
+              { "ar": "يَخْتَارُ الْمُعَلِّمُ", "tr": "Öğretmen seçiyor" },
+              { "ar": "يَحْتَرِمُ الطَّالِبُ", "tr": "Öğrenci saygı duyuyor" }
+            ]
+          },
+          {
+            "baslik": "Edilgen Nesne (مُفْعَل)",
+            "secenekler": [
+              { "ar": "الْمُنْتَجَ الْمَحَلِّيَّ", "tr": "yerli ürünü" },
+              { "ar": "النَّصَّ الْمُتَرْجَمَ", "tr": "tercüme edilmiş metni" },
+              { "ar": "التَّطْبِيقَ الْمُسْتَخْدَمَ", "tr": "kullanılan uygulamayı" },
+              { "ar": "الْبَرْنَامَجَ الْمُنَظَّمَ", "tr": "düzenli programı" },
+              { "ar": "الْكِتَابَ الْمُخْتَارَ", "tr": "seçilmiş kitabı" },
+              { "ar": "الْأُسْتَاذَ الْمُحْتَرَمَ", "tr": "saygın hocayı" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m30_mot6",
+        "baslik": "Ortak Şekilli VIII. Bab (مُخْتَار / مُحْتَلّ / مُحْتَاج) Bağlam Motoru",
+        "aciklama": "Yazımı ve harekesi aynı olan etken/edilgen kelimeleri bağlam içinde ayırt et.",
+        "slotlar": [
+          {
+            "baslik": "Bağlam Girişi",
+            "secenekler": [
+              { "ar": "الطَّالِبُ الذَّكِيُّ", "tr": "Zeki öğrenci" },
+              { "ar": "الْمَقَالُ الْعِلْمِيُّ", "tr": "Bilimsel makale" },
+              { "ar": "الْعَدُوُّ الظَّالِمُ", "tr": "Zalim düşman" },
+              { "ar": "الْأَرْضُ التَّارِيخِيَّةُ", "tr": "Tarihî toprak" },
+              { "ar": "الْإِنْسَانُ الْفَقِيرُ", "tr": "Fakir insan" },
+              { "ar": "الدَّعْمُ الْمَالِيُّ", "tr": "Mali destek" }
+            ]
+          },
+          {
+            "baslik": "Ortak Türev & Tamamlama",
+            "secenekler": [
+              { "ar": "مُخْتَارٌ مَسَارَهُ بِوَعْيٍ (Fâil)", "tr": "yolunu bilinçle seçendir" },
+              { "ar": "مُخْتَارٌ لِلنَّشْرِ الدَّوْلِيِّ (Mef'ûl)", "tr": "uluslararası yayın için seçilmiştir" },
+              { "ar": "مُحْتَلٌّ ظَالِمٌ يَرْحَلُ حَتْمًا (Fâil)", "tr": "mutlaka gidecek zalim işgalcidir" },
+              { "ar": "مُحْتَلَّةٌ وَسَتَتَحَرَّرُ قَرِيبًا (Mef'ûl)", "tr": "işgal altındadır ve yakında özgürleşecektir" },
+              { "ar": "مُحْتَاجٌ إِلَى الْمُسَاعَدَةِ (Fâil)", "tr": "yardıma muhtaçtır" },
+              { "ar": "مُحْتَاجٌ إِلَيْهِ فِي الْمَشْرُوعِ (Mef'ûl)", "tr": "projede ihtiyaç duyulandır" }
+            ]
+          }
+        ]
+      }
+    ],
+    "merdivenler": [
+      {
+        "id": "m30_mer1",
+        "baslik": "İsm-i Fâil ve İsm-i Mef'ûl Birleşim Merdiveni",
+        "adimlar": [
+          { "seviye": 1, "ar": "الْمُنْتِجُ يَعْمَلُ.", "okunus": "El-munticu ya‘melu.", "tr": "Üretici çalışıyor.", "ekleme": "IV. bab ism-i fâil" },
+          { "seviye": 2, "ar": "الْمُنْتِجُ يُطَوِّرُ الْمُنْتَجَ.", "okunus": "El-munticu yutavviru'l-muntece.", "tr": "Üretici ürünü geliştiriyor.", "ekleme": "+ IV. bab ism-i mef'ûl (الْمُنْتَجَ)" },
+          { "seviye": 3, "ar": "الْمُنْتِجُ الْمُبْتَكِرُ يُطَوِّرُ الْمُنْتَجَ الْمُسْتَخْدَمَ.", "okunus": "El-munticu'l-mubtekiru yutavviru'l-muntece'l-mustahdeme.", "tr": "Yenilikçi üretici kullanılan ürünü geliştiriyor.", "ekleme": "+ VIII. bab fâil & X. bab mef'ûl" },
+          { "seviye": 4, "ar": "الْمُنْتِجُ الْمُبْتَكِرُ يَسْتَمِعُ إِلَى الْمُسْتَخْدِمِينَ لِتَطْوِيرِ الْمُنْتَجِ الْمُسْتَخْدَمِ.", "okunus": "El-munticu'l-mubtekiru yestemi‘u ile'l-mustahdimîne li-tatvîri'l-munteci'l-mustahdemi.", "tr": "Yenilikçi üretici kullanılan ürünü geliştirmek için kullanıcıları dinliyor.", "ekleme": "+ X. bab ism-i fâil (الْمُسْتَخْدِمِينَ)" },
+          { "seviye": 5, "ar": "الْمُنْتِجُ الْمُبْتَكِرُ يَسْتَمِعُ دَائِمًا إِلَى آرَاءِ الْمُسْتَخْدِمِينَ لِتَطْوِيرِ الْمُنْتَجِ الْمُسْتَخْدَمِ فِي السُّوقِ.", "okunus": "El-munticu'l-mubtekiru yestemi‘u dâ’imen ilâ ârâ’i'l-mustahdimîne li-tatvîri'l-munteci'l-mustahdemi fi's-sûkı.", "tr": "Yenilikçi üretici, pazarda kullanılan ürünü geliştirmek için daima kullanıcıların görüşlerini dinliyor.", "ekleme": "+ yer ve süreklilik zarfı" }
+        ]
+      },
+      {
+        "id": "m30_mer2",
+        "baslik": "Mübalağa Sığalarıyla Karakter Portresi",
+        "adimlar": [
+          { "seviye": 1, "ar": "الْقَائِدُ صَبُورٌ.", "okunus": "El-kâ’idu sabûrun.", "tr": "Lider çok sabırlıdır.", "ekleme": "فَعُولٌ mübalağa" },
+          { "seviye": 2, "ar": "الْقَائِدُ صَبُورٌ وَمِقْدَامٌ.", "okunus": "El-kâ’idu sabûrun ve mıkdâmun.", "tr": "Lider çok sabırlı ve çok atılgandır.", "ekleme": "+ مِفْعَالٌ mübalağa" },
+          { "seviye": 3, "ar": "الْقَائِدُ صَبُورٌ وَمِقْدَامٌ وَحَذِرٌ فِي قَرَارَاتِهِ.", "okunus": "El-kâ’idu sabûrun ve mıkdâmun ve hazirun fî karârâtihî.", "tr": "Lider çok sabırlı, çok atılgan ve kararlarında çok dikkatlidir.", "ekleme": "+ فَعِلٌ mübalağa" },
+          { "seviye": 4, "ar": "الْقَائِدُ الْفَطِنُ صَبُورٌ عِنْدَ الشَّدَائِدِ وَمِقْدَامٌ وَحَذِرٌ فِي قَرَارَاتِهِ.", "okunus": "El-kâ’idu'l-fatınu sabûrun ‘inde'ş-şedâ’idi ve mıkdâmun ve hazirun fî karârâtihî.", "tr": "Çok zeki lider zorluklarda çok sabırlı, kararlarında çok atılgan ve dikkatlidir.", "ekleme": "+ فَعِلٌ sıfat + bağlam" },
+          { "seviye": 5, "ar": "الْقَائِدُ الْفَطِنُ صَبُورٌ عِنْدَ الشَّدَائِدِ، شَكُورٌ عِنْدَ النِّعَمِ، وَمِعْطَاءٌ لِفَرِيقِهِ.", "okunus": "El-kâ’idu'l-fatınu sabûrun ‘inde'ş-şedâ’idi, şekûrun ‘inde'n-ni‘ami, ve mı‘tâ’un li-ferîkıhî.", "tr": "Çok zeki lider zorluklarda çok sabırlı, nimetlerde çok şükredici ve ekibine karşı çok cömerttir.", "ekleme": "+ 5 mübalağa zirvesi" }
+        ]
+      },
+      {
+        "id": "m30_mer3",
+        "baslik": "Gayr-i Munsarıf Sıfat-ı Müşebbehe Merdiveni",
+        "adimlar": [
+          { "seviye": 1, "ar": "حَدِيقَةٌ خَضْرَاءُ.", "okunus": "Hadîkatun hadrâ’u.", "tr": "Yeşil bir bahçe.", "ekleme": "فَعْلَاءُ (tenvinsiz!)" },
+          { "seviye": 2, "ar": "تَجَوَّلْنَا فِي حَدِيقَةٍ خَضْرَاءَ.", "okunus": "Tecevvelnâ fî hadîkatin hadrâ’e.", "tr": "Yeşil bir bahçede gezdik.", "ekleme": "+ fetha ile mecrûr (خَضْرَاءَ)" },
+          { "seviye": 3, "ar": "تَجَوَّلْنَا فِي حَدِيقَةٍ خَضْرَاءَ مَلْأَى بِالْوُرُودِ.", "okunus": "Tecevvelnâ fî hadîkatin hadrâ’e mel’â bi'l-vurûdi.", "tr": "Güllerle dolu yeşil bir bahçede gezdik.", "ekleme": "+ فَعْلَى sıfat-ı müşebbehe (مَلْأَى)" },
+          { "seviye": 4, "ar": "تَجَوَّلْنَا فِي حَدِيقَةٍ خَضْرَاءَ مَلْأَى بِالْوُرُودِ الْحَمْرَاءِ وَالْبَيْضَاءِ.", "okunus": "Tecevvelnâ fî hadîkatin hadrâ’e mel’â bi'l-vurûdi'l-hamrâ’i ve'l-beydâ’i.", "tr": "Kırmızı ve beyaz güllerle dolu yeşil bir bahçede gezdik.", "ekleme": "+ ال takılı kesra ile mecrûr renkler" },
+          { "seviye": 5, "ar": "تَجَوَّلْنَا صَبَاحًا فِي حَدِيقَةٍ خَضْرَاءَ مَلْأَى بِالْوُرُودِ الْحَمْرَاءِ وَالْبَيْضَاءِ وَعُدْنَا فَرِحِينَ.", "okunus": "Tecevvelnâ sabâhan fî hadîkatin hadrâ’e mel’â bi'l-vurûdi'l-hamrâ’i ve'l-beydâ’i ve ‘udnâ ferihîne.", "tr": "Sabah kırmızı ve beyaz güllerle dolu yeşil bir bahçede gezdik ve mutlu döndük.", "ekleme": "+ فَعِلٌ hâl (فَرِحِينَ)" }
+        ]
+      },
+      {
+        "id": "m30_mer4",
+        "baslik": "İlletli Sülâsî İsm-i Mef'ûl İnşası",
+        "adimlar": [
+          { "seviye": 1, "ar": "هٰذَا بِنَاءٌ مَبْنِيٌّ.", "okunus": "Hâzâ binâ’un mebniyyun.", "tr": "Bu inşa edilmiş bir binadır.", "ekleme": "Nâkıs-ı yâî (مَبْنِيٌّ)" },
+          { "seviye": 2, "ar": "هٰذَا بِنَاءٌ مَبْنِيٌّ عَلَى أُسُسٍ مَعْرُوفَةٍ.", "okunus": "Hâzâ binâ’un mebniyyun ‘alâ ususin ma‘rûfetin.", "tr": "Bu bilinen temeller üzerine inşa edilmiş bir binadır.", "ekleme": "+ sülâsî ism-i mef'ûl (مَعْرُوفَةٍ)" },
+          { "seviye": 3, "ar": "هٰذَا بِنَاءٌ مَبْنِيٌّ عَلَى أُسُسٍ مَعْرُوفَةٍ وَمُتَّفَقٍ عَلَيْهَا.", "okunus": "Hâzâ binâ’un mebniyyun ‘alâ ususin ma‘rûfetin ve muttefakın ‘aleyhâ.", "tr": "Bu bilinen ve üzerinde uzlaşılan temeller üzerine inşa edilmiş bir binadır.", "ekleme": "+ harf-i cerli lâzım mef'ûl (مُتَّفَقٍ عَلَيْهَا)" },
+          { "seviye": 4, "ar": "هٰذَا بِنَاءٌ مَبْنِيٌّ عَلَى أُسُسٍ مَعْرُوفَةٍ وَمُتَّفَقٍ عَلَيْهَا، وَهُوَ مَصُونٌ جَيِّدًا.", "okunus": "Hâzâ binâ’un mebniyyun ‘alâ ususin ma‘rûfetin ve muttefakın ‘aleyhâ, ve huve masûnun ceyyiden.", "tr": "Bu bilinen ve üzerinde uzlaşılan temeller üzerine inşa edilmiş bir binadır ve iyi korunmuştur.", "ekleme": "+ ecvef-i vâvî mef'ûl (مَصُونٌ)" },
+          { "seviye": 5, "ar": "هٰذَا بِنَاءٌ مَبْنِيٌّ عَلَى أُسُسٍ مَعْرُوفَةٍ وَمُتَّفَقٍ عَلَيْهَا، وَقَدْ أَعْجَبَ الضُّيُوفَ الْمَدْعُوِّينَ.", "okunus": "Hâzâ binâ’un mebniyyun ‘alâ ususin ma‘rûfetin ve muttefakın ‘aleyhâ, ve kad a‘cebe'd-duyûfe'l-med‘uvvîne.", "tr": "Bu bilinen ve üzerinde uzlaşılan temeller üzerine inşa edilmiş bir binadır ve davetli misafirlerin hoşuna gitmiştir.", "ekleme": "+ nâkıs-ı vâvî mef'ûl (الْمَدْعُوِّينَ)" }
+        ]
+      }
+    ],
+    "bloklar": [
+      { "id": "m30_b1", "tr": "Çalışkan öğrenci derslerinde üstündür.", "hedefAr": "الطَّالِبُ الْمُجْتَهِدُ مُتَفَوِّقٌ فِي دِرَاسَتِهِ", "karisik": ["فِي", "مُتَفَوِّقٌ", "الطَّالِبُ", "دِرَاسَتِهِ", "الْمُجْتَهِدُ"] },
+      { "id": "m30_b2", "tr": "Yazar ve tercüman romanı tartıştı.", "hedefAr": "نَاقَشَ الْكَاتِبُ وَالْمُتَرْجِمُ الرِّوَايَةَ", "karisik": ["وَالْمُتَرْجِمُ", "الرِّوَايَةَ", "نَاقَشَ", "الْكَاتِبُ"] },
+      { "id": "m30_b3", "tr": "Adil yargıç her iki tarafı dinleyendir.", "hedefAr": "الْقَاضِي الْعَادِلُ سَامِعٌ لِكِلَا الطَّرَفَيْنِ", "karisik": ["لِكِلَا", "سَامِعٌ", "الْقَاضِي", "الطَّرَفَيْنِ", "الْعَادِلُ"] },
+      { "id": "m30_b4", "tr": "Tercüme edilmiş kitap herkes için anlaşılırdır.", "hedefAr": "الْكِتَابُ الْمُتَرْجَمُ مَفْهُومٌ لِلْجَمِيعِ", "karisik": ["مَفْهُومٌ", "الْكِتَابُ", "لِلْجَمِيعِ", "الْمُتَرْجَمُ"] },
+      { "id": "m30_b5", "tr": "Törene davetli misafirler saygı görmektedir.", "hedefAr": "الضُّيُوفُ الْمَدْعُوُّونَ إِلَى الْحَفْلِ مُحْتَرَمُونَ", "karisik": ["إِلَى", "الضُّيُوفُ", "مُحْتَرَمُونَ", "الْمَدْعُوُّونَ", "الْحَفْلِ"] },
+      { "id": "m30_b6", "tr": "Yerel pazarda satılan ürünler kalitelidir.", "hedefAr": "الْمُنْتَجَاتُ الْمَبِيعَةُ فِي السُّوقِ ذَاتُ جَوْدَةٍ", "karisik": ["جَوْدَةٍ", "الْمَبِيعَةُ", "السُّوقِ", "الْمُنْتَجَاتُ", "ذَاتُ", "فِي"] },
+      { "id": "m30_b7", "tr": "Üzerinde uzlaşılan ilke açık ve korunmuştur.", "hedefAr": "الْمَبْدَأُ الْمُتَّفَقُ عَلَيْهِ وَاضِحٌ وَمَصُونٌ", "karisik": ["وَمَصُونٌ", "الْمُتَّفَقُ", "الْمَبْدَأُ", "وَاضِحٌ", "عَلَيْهِ"] },
+      { "id": "m30_b8", "tr": "Bu anne çok sabırlı ve çok şefkatlidir.", "hedefAr": "هٰذِهِ الْأُمُّ صَبُورٌ وَوَدُودٌ", "karisik": ["وَوَدُودٌ", "الْأُمُّ", "صَبُورٌ", "هٰذِهِ"] },
+      { "id": "m30_b9", "tr": "Dikkatli ve uyanık sürücü kazalardan kaçınır.", "hedefAr": "السَّائِقُ الْحَذِرُ وَالْيَقِظُ يَتَجَنَّبُ الْحَوَادِثَ", "karisik": ["الْحَوَادِثَ", "وَالْيَقِظُ", "السَّائِقُ", "يَتَجَنَّبُ", "الْحَذِرُ"] },
+      { "id": "m30_b10", "tr": "Onu çok misafirperver ve cömert bir adam olarak tanıdım.", "hedefAr": "عَرَفْتُهُ رَجُلًا مِضْيَافًا وَمِعْطَاءً", "karisik": ["مِضْيَافًا", "عَرَفْتُهُ", "وَمِعْطَاءً", "رَجُلًا"] },
+      { "id": "m30_b11", "tr": "Güllerle dolu yeşil bir bahçede gezdik.", "hedefAr": "تَجَوَّلْنَا فِي حَدِيقَةٍ خَضْرَاءَ مَلْأَى بِالْوُرُودِ", "karisik": ["مَلْأَى", "فِي", "بِالْوُرُودِ", "حَدِيقَةٍ", "تَجَوَّلْنَا", "خَضْرَاءَ"] },
+      { "id": "m30_b12", "tr": "Susamış ve acıkmış yolcu soğuk su arıyor.", "hedefAr": "الْمُسَافِرُ الْعَطْشَانُ وَالْجَوْعَانُ يَبْحَثُ عَنْ مَاءٍ بَارِدٍ", "karisik": ["بَارِدٍ", "وَالْجَوْعَانُ", "يَبْحَثُ", "الْمُسَافِرُ", "مَاءٍ", "عَنْ", "الْعَطْشَانُ"] },
+      { "id": "m30_b13", "tr": "Bu öğrenci güzel ahlaklı ve cesurdur.", "hedefAr": "هٰذَا الطَّالِبُ كَرِيمُ الْأَخْلَاقِ وَشُجَاعٌ", "karisik": ["وَشُجَاعٌ", "الطَّالِبُ", "الْأَخْلَاقِ", "هٰذَا", "كَرِيمُ"] },
+      { "id": "m30_b14", "tr": "Üretici, ürünü iyileştirmek için kullanıcıyı dinliyor.", "hedefAr": "يَسْتَمِعُ الْمُنْتِجُ إِلَى الْمُسْتَخْدِمِ لِتَحْسِينِ الْمُنْتَجِ", "karisik": ["الْمُنْتَجِ", "إِلَى", "يَسْتَمِعُ", "لِتَحْسِينِ", "الْمُنْتِجُ", "الْمُسْتَخْدِمِ"] },
+      { "id": "m30_b15", "tr": "Uluslararası örgüt düzenleyici komiteyi destekliyor.", "hedefAr": "الْمُنَظَّمَةُ الدَّوْلِيَّةُ تَدْعَمُ اللَّجْنَةَ الْمُنَظِّمَةَ", "karisik": ["اللَّجْنَةَ", "الْمُنَظَّمَةُ", "الْمُنَظِّمَةَ", "الدَّوْلِيَّةُ", "تَدْعَمُ"] },
+      { "id": "m30_b16", "tr": "Bahsi geçen rapor tüm dairelerde onaylıdır.", "hedefAr": "التَّقْرِيرُ الْمُشَارُ إِلَيْهِ مُعْتَمَدٌ فِي جَمِيعِ الدَّوَائِرِ", "karisik": ["فِي", "مُعْتَمَدٌ", "التَّقْرِيرُ", "الدَّوَائِرِ", "إِلَيْهِ", "جَمِيعِ", "الْمُشَارُ"] }
+    ]
+  },
+  "readings": [
+    {
+      "id": "m30_r1",
+      "baslik": "Uluslararası Kitap Fuarında Yazar, Tercüman ve Okur",
+      "arBaslik": "الْكَاتِبُ وَالْمُتَرْجِمُ وَالْقَارِئُ فِي مَعْرِضِ الْكِتَابِ الدَّوْلِيِّ",
+      "seviye": "B1 — Kültür & Basın",
+      "paragraflar": [
+        {
+          "ar": "اِفْتُتِحَ مَعْرِضُ الْكِتَابِ الدَّوْلِيُّ صَبَاحَ الْيَوْمِ بِمُشَارَكَةِ مِئَاتِ النَّاشِرِينَ وَالْمُؤَلِّفِينَ وَالْمُتَرْجِمِينَ مِنْ مُخْتَلِفِ الدُّوَلِ. وَقَدْ أَشْرَفَتِ اللَّجْنَةُ الْمُنَظِّمَةُ عَلَى تَجْهِيزِ الْأَجْنِحَةِ بِأُسْلُوبٍ مُنَظَّمٍ وَمُيَسَّرٍ لِلزَّائِرِينَ.",
+          "okunus": "İftutiha ma‘rıdu'l-kitâbi'd-devliyyu sabâha'l-yevmi bi-muşârakati mi’âti'n-nâşirîne ve'l-mu’ellifîne ve'l-mutercimîne min muhtelifi'd-duveli. Ve kad eşrafeti'l-lecnetu'l-munazzımetu ‘alâ techîzi'l-ecnihati bi-uslûbin munazzamin ve muyesserin li'z-zâ’irîne.",
+          "tr": "Uluslararası Kitap Fuarı, çeşitli ülkelerden yüzlerce yayıncı, yazar ve tercümanın katılımıyla bu sabah açıldı. Düzenleyici komite, stantların ziyaretçiler için düzenli ve kolaylaştırılmış bir tarzda hazırlanmasını denetledi.",
+          "analiz": [
+            { "kelime": "النَّاشِرِينَ / الْمُؤَلِّفِينَ / الْمُتَرْجِمِينَ", "kok": "ن-ش-ر / أ-ل-ف / ت-ر-ج-م", "gramer": "Sülâsî, II. bab ve Rubâî İsm-i Fâil çoğulları", "tr": "yayıncılar / yazarlar / tercümanlar" },
+            { "kelime": "الْمُنَظِّمَةُ ≠ مُنَظَّمٍ", "kok": "ن-ظ-م", "gramer": "İsm-i Fâil (düzenleyici) vs. İsm-i Mef'ûl (düzenli)", "tr": "düzenleyici ≠ düzenli" }
+          ]
+        },
+        {
+          "ar": "فِي إِحْدَى النَّدَوَاتِ، نَاقَشَ الْمُتَرْجِمُ الْخَبِيرُ مَعَ الْحُضُورِ أَهَمِّيَّةَ النَّصِّ الْمُتَرْجَمِ فِي نَقْلِ الثَّقَافَاتِ. وَأَكَّدَ أَنَّ الْمُتَرْجِمَ النَّاجِحَ يَجِبُ أَنْ يَكُونَ صَبُورًا وَفَطِنًا وَحَذِرًا فِي اخْتِيَارِ الْمُفْرَدَاتِ الدَّقِيقَةِ.",
+          "okunus": "Fî ihda'n-nedevâti, nâkaşe'l-mutercimu'l-habîru me‘a'l-hudûri ehemmiyyete'n-nassi'l-mutercemi fî nakli's-sekâfâti. Ve ekkede enne'l-mutercime'n-nâciha yecibu en yekûne sabûran ve fatınan ve haziran fi'htiyâri'l-mufredâti'd-dekîkati.",
+          "tr": "Panellerden birinde uzman tercüman, katılımcılarla kültürlerin aktarımında tercüme edilmiş metnin önemini tartıştı. Başarılı tercümanın hassas kelimeleri seçmede çok sabırlı, çok kavrayışlı ve çok dikkatli olması gerektiğini vurguladı.",
+          "analiz": [
+            { "kelime": "الْمُتَرْجِمُ ≠ الْمُتَرْجَمِ", "kok": "ت-ر-ج-م", "gramer": "Rubâî İsm-i Fâil (ج kesralı) vs. İsm-i Mef'ûl (ج fethalı)", "tr": "tercüman ≠ tercüme edilmiş" },
+            { "kelime": "صَبُورًا / فَطِنًا / حَذِرًا", "kok": "ص-ب-ر / ف-ط-ن / ح-ذ-ر", "gramer": "Mübalağalı İsm-i Fâil (فَعُولٌ + فَعِلٌ)", "tr": "çok sabırlı / kavrayışlı / dikkatli" }
+          ]
+        },
+        {
+          "ar": "وَتَمَيَّزَ الْجَنَاحُ الْعِلْمِيُّ بِعَرْضِ مَجْمُوعَةٍ مُخْتَارَةٍ مِنَ الْكُتُبِ الْمَبِيعَةِ بِأَسْعَارٍ مُنَاسِبَةٍ. كَمَا اسْتَقْبَلَ الضُّيُوفَ الْمَدْعُوِّينَ فِي قَاعَةٍ وَاسِعَةٍ مَلْأَى بِاللَّوْحَاتِ الْجَمِيلَةِ.",
+          "okunus": "Ve temeyyeze'l-cenâhu'l-‘ilmiyyu bi-‘ardı mecmû‘atin muhtâratin mine'l-kutubi'l-mebî‘ati bi-es‘ârin munâsibetin. Keme'stakbele'd-duyûfe'l-med‘uvvîne fî kâ‘atin vâsi‘atin mel’â bi'l-levhâti'l-cemîleti.",
+          "tr": "Bilim standı, uygun fiyatlarla satılan seçilmiş bir kitap koleksiyonunu sergilemesiyle öne çıktı. Ayrıca davetli misafirleri güzel tablolarla dolu geniş bir salonda ağırladı.",
+          "analiz": [
+            { "kelime": "مُخْتَارَةٍ / الْمَبِيعَةِ / الْمَدْعُوِّينَ", "kok": "خ-ي-ر / ب-ي-ع / د-ع-و", "gramer": "Ortak VIII. bab mef'ûl + ecvef-i yâî mef'ûl + nâkıs-ı vâvî mef'ûl", "tr": "seçilmiş / satılan / davetli" },
+            { "kelime": "مَلْأَى / الْجَمِيلَةِ", "kok": "م-ل-أ / ج-م-ل", "gramer": "Sıfat-ı Müşebbehe (فَعْلَى gayr-i munsarıf + فَعِيلَة)", "tr": "dolu / güzel" }
+          ]
+        },
+        {
+          "ar": "وَفِي الْخِتَامِ، أَشَادَ الْحَاضِرُونَ بِالْبَرْنَامَجِ الْمُتَّفَقِ عَلَيْهِ، وَعَادَ الْقُرَّاءُ فَرِحِينَ وَمُتَحَمِّسِينَ لِقِرَاءَةِ الْكُتُبِ الْجَدِيدَةِ فِي بُيُوتِهِمْ.",
+          "okunus": "Ve fi'l-hıtâmi, eşâde'l-hâdırûne bi'l-bernâmeci'l-muttefakı ‘aleyhi, ve ‘âde'l-kurrâ’u ferihîne ve mutehammisîne li-kırâ’eti'l-kutubi'l-cedîdeti fî buyûtihim.",
+          "tr": "Sonunda katılımcılar üzerinde uzlaşılan programı övdüler; okurlar ise yeni kitapları evlerinde okumak için mutlu ve heyecanlı bir şekilde döndüler.",
+          "analiz": [
+            { "kelime": "الْمُتَّفَقِ عَلَيْهِ", "kok": "و-ف-ق", "gramer": "Lâzım VIII. bab İsm-i Mef'ûl + harf-i cer", "tr": "üzerinde uzlaşılan" },
+            { "kelime": "فَرِحِينَ / مُتَحَمِّسِينَ", "kok": "ف-ر-ح / ح-م-س", "gramer": "Sıfat-ı Müşebbehe (فَعِل) + V. bab İsm-i Fâil", "tr": "mutlu / heyecanlı" }
+          ]
+        }
+      ],
+      "sorular": [
+        {
+          "id": "m30_r1_q1",
+          "soru": "İlk paragraftaki 'اللَّجْنَةُ الْمُنَظِّمَةُ' ile 'أُسْلُوبٍ مُنَظَّمٍ' arasındaki sarf farkı nedir?",
+          "secenekler": ["الْمُنَظِّمَةُ İsm-i Fâil (düzenleyici), مُنَظَّمٍ ise İsm-i Mef'ûldür (düzenli)", "İkisi de İsm-i Fâildir", "İkisi de İsm-i Mef'ûldür", "الْمُنَظِّمَةُ Sıfat-ı Müşebbehedir"],
+          "dogruIndeks": 0,
+          "aciklama": "Sondan önceki ظ kesralıysa etken (düzenleyici), fethalıysa edilgendir (düzenli)."
+        },
+        {
+          "id": "m30_r1_q2",
+          "soru": "Uzman tercümana göre başarılı bir tercümanın sahip olması gereken üç mübalağa sıfatı hangisidir?",
+          "secenekler": ["صَبُور (çok sabırlı), فَطِن (çok kavrayışlı), حَذِر (çok dikkatli)", "سَرِيع, كَسُول, غَضْبَان", "أَحْمَر, أَخْضَر, أَبْيَض", "مَصُون, مَبْنِيّ, مَدْعُوّ"],
+          "dogruIndeks": 0,
+          "aciklama": "'يَجِبُ أَنْ يَكُونَ صَبُورًا وَفَطِنًا وَحَذِرًا.'"
+        },
+        {
+          "id": "m30_r1_q3",
+          "soru": "Üçüncü paragraftaki 'الْمَبِيعَةِ' ve 'الْمَدْعُوِّينَ' kelimeleri hangi fiil türlerinin İsm-i Mef'ûlüdür?",
+          "secenekler": ["Ecvef-i yâî (بَاعَ → مَبِيعٌ) ve Nâkıs-ı vâvî (دَعَا → مَدْعُوٌّ)", "Sülâsî sâlim", "IV. bab ve VIII. bab", "Rubâî fiil"],
+          "dogruIndeks": 0,
+          "aciklama": "بَاعَ → مَبِيعٌ (ecvef-i yâî); دَعَا → مَدْعُوٌّ (nâkıs-ı vâvî)."
+        },
+        {
+          "id": "m30_r1_q4",
+          "soru": "Üçüncü paragraftaki 'مَلْأَى' (dolu) kelimesi hangi türev ve vezindedir?",
+          "secenekler": ["Sıfat-ı Müşebbehe — فَعْلَى (مَلْآنُ'nun müennesi)", "İsm-i Fâil", "İsm-i Mef'ûl", "Mübalağalı İsm-i Fâil"],
+          "dogruIndeks": 0,
+          "aciklama": "قَاعَةٍ (müennes) olduğu için مَلْآنُ yerine müennesi مَلْأَى (فَعْلَى) kullanılmıştır."
+        },
+        {
+          "id": "m30_r1_q5",
+          "soru": "Son paragraftaki 'الْمُتَّفَقِ عَلَيْهِ' neden 'عَلَيْهِ' ile birlikte kullanılmıştır?",
+          "secenekler": ["اِتَّفَقَ lâzım (geçişsiz) bir fiil olduğu için İsm-i Mef'ûlü harf-i cerli zamirle tamamlanır", "Sadece vurgu içindir", "İsm-i Fâil olduğu için", "Mübalağa kalıbı olduğu için"],
+          "dogruIndeks": 0,
+          "aciklama": "Lâzım fiillerden İsm-i Mef'ûl yapıldığında fiilin harf-i ceri + zamir eklenir."
+        }
+      ]
+    },
+    {
+      "id": "m30_r2",
+      "baslik": "Akıllı Ürünler ve Bilinçli Kullanıcılar",
+      "arBaslik": "الْمُنْتَجَاتُ الذَّكِيَّةُ وَالْمُسْتَخْدِمُونَ الْوَاعُونَ",
+      "seviye": "B1 — Teknoloji & Ekonomi",
+      "paragraflar": [
+        {
+          "ar": "فِي عَالَمِ التِّقْنِيَّةِ الْمُتَسَارِعِ، لَمْ يَعُدِ الْمُنْتِجُ يَكْتَفِي بِتَصْمِيمِ الْمُنْتَجِ وَعَرْضِهِ فِي الْأَسْوَاقِ، بَلْ أَصْبَحَ مُهْتَمًّا بِتَجْرِبَةِ الْمُسْتَخْدِمِ وَمُتَابِعًا لِمُلَاحَظَاتِهِ بِشَكْلٍ يَوْمِيٍّ.",
+          "okunus": "Fî ‘âlemi't-tıkniyyeti'l-mutesâri‘ı, lem ya‘udi'l-munticu yektefî bi-tasmîmi'l-munteci ve ‘ardıhî fi'l-esvâkı, bel asbaha muhtemmen bi-tecribeti'l-mustahdimi ve mutâbi‘an li-mulâhazâtihî bi-şeklin yevmiyyin.",
+          "tr": "Hızla değişen teknoloji dünyasında üretici artık yalnızca ürünü tasarlayıp piyasalarda sunmakla yetinmiyor; aksine kullanıcı deneyimiyle ilgilenen ve onun notlarını günlük olarak takip eden bir konuma geldi.",
+          "analiz": [
+            { "kelime": "الْمُنْتِجُ ≠ الْمُنْتَجِ", "kok": "ن-ت-ج", "gramer": "IV. bab İsm-i Fâil (üretici) vs. İsm-i Mef'ûl (ürün)", "tr": "üretici ≠ ürün" },
+            { "kelime": "مُهْتَمًّا / الْمُسْتَخْدِمِ / مُتَابِعًا", "kok": "ه-م-م / خ-د-م / ت-ب-ع", "gramer": "Ortak VIII. bab + X. bab + III. bab İsm-i Fâiller", "tr": "ilgilenen / kullanıcı / takip eden" }
+          ]
+        },
+        {
+          "ar": "فَالْبَرَامِجُ الْمُسْتَخْدَمَةُ الْيَوْمَ مَبْنِيَّةٌ عَلَى وَاجِهَاتٍ سَهْلَةٍ وَوَاضِحَةٍ، تُمَكِّنُ كُلَّ مُسْتَخْدِمٍ مِنْ إِنْجَازِ أَعْمَالِهِ بِسُرْعَةٍ وَأَمَانٍ. وَيَظَلُّ التَّحْدِيثُ الْمُسْتَمِرُّ ضَرُورَةً مَعْرُوفَةً لِجَمِيعِ الشَّرِكَاتِ الْمُنَافِسَةِ.",
+          "okunus": "Fe'l-berâmicu'l-mustahdemetu'l-yevme mebniyyetun ‘alâ vâcihâtin sehletin ve vâdıhatin, tumekkinu kulle mustahdimin min incâzi a‘mâlihî bi-sur‘atin ve emânin. Ve yezallu't-tahdîsu'l-mustemirru darûraten ma‘rûfeten li-cemî‘ı'ş-şerikâti'l-munâfiseti.",
+          "tr": "Bugün kullanılan yazılımlar, her kullanıcının işlerini hız ve güvenle tamamlamasını sağlayan kolay ve açık arayüzler üzerine kuruludur. Sürekli güncelleme de tüm rakip şirketler için bilinen bir zorunluluk olmayı sürdürüyor.",
+          "analiz": [
+            { "kelime": "الْمُسْتَخْدَمَةُ ≠ مُسْتَخْدِمٍ", "kok": "خ-د-م", "gramer": "X. bab İsm-i Mef'ûl (kullanılan) vs. İsm-i Fâil (kullanıcı)", "tr": "kullanılan ≠ kullanıcı" },
+            { "kelime": "مَبْنِيَّةٌ / سَهْلَةٍ / الْمُنَافِسَةِ", "kok": "ب-ن-ي / س-ه-ل / ن-ف-س", "gramer": "Nâkıs mef'ûl + Sıfat-ı Müşebbehe + III. bab fâil", "tr": "kurulu / kolay / rakip" }
+          ]
+        },
+        {
+          "ar": "وَمِنْ نَاحِيَةٍ أُخْرَى، يَجِبُ أَنْ يَكُونَ الْمُسْتَهْلِكُ يَقِظًا وَحَذِرًا عِنْدَ الشِّرَاءِ الرَّقْمِيِّ، وَأَنْ يَقْرَأَ التَّقَارِيرَ الْمُعْتَمَدَةَ وَالْمَعْلُومَاتِ الْمَكْتُوبَةَ عَنْ حِمَايَةِ الْبَيَانَاتِ.",
+          "okunus": "Ve min nâhıyetin uhrâ, yecibu en yekûne'l-mustehliku yekızan ve haziran ‘inde'ş-şirâ’i'r-rakamiyyi, ve en yakra’e't-tekârîra'l-mu‘temedete ve'l-ma‘lûmâti'l-mektûbete ‘an hımâyeti'l-beyânâti.",
+          "tr": "Öte yandan tüketicinin dijital alışveriş yaparken çok uyanık ve çok dikkatli olması, veri koruması hakkında onaylı raporları ve yazılı bilgileri okuması gerekir.",
+          "analiz": [
+            { "kelime": "الْمُسْتَهْلِكُ / يَقِظًا / حَذِرًا", "kok": "ه-ل-ك / ي-ق-ظ / ح-ذ-ر", "gramer": "X. bab İsm-i Fâil + iki فَعِلٌ mübalağası", "tr": "tüketici / çok uyanık / çok dikkatli" },
+            { "kelime": "الْمُعْتَمَدَةَ / الْمَكْتُوبَةَ", "kok": "ع-م-د / ك-ت-ب", "gramer": "VIII. bab & sülâsî İsm-i Mef'ûller", "tr": "onaylı / yazılı" }
+          ]
+        },
+        {
+          "ar": "هٰكَذَا يَصْنَعُ الْمُبْتَكِرُونَ الْمُخْلِصُونَ أَدَوَاتٍ مَصُونَةً وَفَعَّالَةً، تَخْدِمُ الْإِنْسَانَ وَتَجْعَلُ حَيَاتَهُ الْيَوْمِيَّةَ أَيْسَرَ وَأَكْثَرَ أَمَانًا.",
+          "okunus": "Hâkezâ yasna‘u'l-mubtekirûne'l-muhlisûne edevâtin masûneten ve fe‘‘âleten, tahdimu'l-insâne ve tec‘alu hayâtehu'l-yevmiyyete eysera ve eksera emânen.",
+          "tr": "Böylece samimi yenilikçiler, insana hizmet eden ve günlük hayatını daha kolay ve daha güvenli kılan korunmuş ve son derece etkin araçlar üretirler.",
+          "analiz": [
+            { "kelime": "الْمُبْتَكِرُونَ / الْمُخْلِصُونَ", "kok": "ب-ك-ر / خ-ل-ص", "gramer": "VIII. ve IV. bab İsm-i Fâil çoğulları", "tr": "yenilikçiler / samimi olanlar" },
+            { "kelime": "مَصُونَةً / فَعَّالَةً", "kok": "ص-و-ن / ف-ع-ل", "gramer": "Ecvef-i vâvî İsm-i Mef'ûl + فَعَّالٌ mübalağası", "tr": "korunmuş / çok etkin" }
+          ]
+        }
+      ],
+      "sorular": [
+        {
+          "id": "m30_r2_q1",
+          "soru": "İlk iki paragrafta geçen 'الْمُنْتِج / الْمُنْتَج' ve 'الْمُسْتَخْدِم / الْمُسْتَخْدَم' çiftleri sırasıyla ne anlama gelir?",
+          "secenekler": ["üretici / ürün  ve  kullanıcı / kullanılan", "ürün / üretici  ve  kullanılan / kullanıcı", "İki çift de aynı anlamdadır", "satıcı / alıcı  ve  yönetici / çalışan"],
+          "dogruIndeks": 0,
+          "aciklama": "Kesralı olanlar etken (üretici, kullanıcı), fethalı olanlar edilgendir (ürün, kullanılan)."
+        },
+        {
+          "id": "m30_r2_q2",
+          "soru": "Üçüncü paragrafa göre tüketici (الْمُسْتَهْلِكُ) dijital alışverişte nasıl olmalıdır?",
+          "secenekler": ["Çok uyanık (يَقِظًا) ve çok dikkatli (حَذِرًا) olup onaylı raporları ve yazılı bilgileri okumalıdır", "Sadece en ucuz ürünü hemen almalıdır", "Bilgileri okumadan ödeme yapmalıdır", "Güncellemeleri kapatmalıdır"],
+          "dogruIndeks": 0,
+          "aciklama": "'يَجِبُ أَنْ يَكُونَ الْمُسْتَهْلِكُ يَقِظًا وَحَذِرًا... وَأَنْ يَقْرَأَ التَّقَارِيرَ الْمُعْتَمَدَةَ وَالْمَعْلُومَاتِ الْمَكْتُوبَةَ.'"
+        },
+        {
+          "id": "m30_r2_q3",
+          "soru": "Son paragraftaki 'مَصُونَةً' (korunmuş) kelimesi hangi fiilin İsm-i Mef'ûlüdür?",
+          "secenekler": ["صَانَ – يَصُونُ (sülâsî ecvef-i vâvî)", "صَنَعَ (sâlim)", "أَصَانَ (IV. bab)", "صَيَّنَ (II. bab)"],
+          "dogruIndeks": 0,
+          "aciklama": "صَانَ – يَصُونُ → مَصُونٌ (ecvef-i vâvî ism-i mef'ûl)."
+        },
+        {
+          "id": "m30_r2_q4",
+          "soru": "Metindeki 'الْمُسْتَهْلِكُ' (tüketici) ve 'الْمُسْتَمِرُّ' (sürekli) kelimeleri hangi babın İsm-i Fâilleridir?",
+          "secenekler": ["X. Bab (اِسْتَهْلَكَ ve اِسْتَمَرَّ)", "IV. Bab", "VIII. Bab", "Sülâsî Mücerred"],
+          "dogruIndeks": 0,
+          "aciklama": "İkisi de başında مُسْتَـ bulunan X. bab İsm-i Fâilleridir."
+        },
+        {
+          "id": "m30_r2_q5",
+          "soru": "Metindeki 'فَعَّالَةً' (son derece etkin) kelimesi hangi türevdir?",
+          "secenekler": ["Mübalağalı İsm-i Fâil (فَعَّالٌ kalıbı)", "İsm-i Mef'ûl", "Sıfat-ı Müşebbehe", "Sınâî Mastar"],
+          "dogruIndeks": 0,
+          "aciklama": "فَعَّالٌ (müennesi فَعَّالَةٌ) en yaygın mübalağa kalıbıdır."
+        }
+      ]
+    },
+    {
+      "id": "m30_r3",
+      "baslik": "Doğa Yürüyüşünde Renkler ve Karakterler",
+      "arBaslik": "نُزْهَةٌ فِي الطَّبِيعَةِ الْخَضْرَاءِ",
+      "seviye": "B1 — Edebi Betimleme",
+      "paragraflar": [
+        {
+          "ar": "انْطَلَقْنَا فِي رِحْلَةٍ صَبَاحِيَّةٍ نَحْوَ وَادٍ وَاسِعٍ تُحِيطُ بِهِ جِبَالٌ خُضْرٌ وَغُيُومٌ بِيضٌ. كَانَ الْهَوَاءُ نَقِيًّا وَالْمَاءُ عَذْبًا بَارِدًا، وَالسَّمَاءُ زَرْقَاءَ صَافِيَةً لَا يُعَكِّرُهَا غُبَارٌ.",
+          "okunus": "İntaleknâ fî rıhletin sabâhıyyetin nahve vâdin vâsi‘ın tuhîtu bihî cibâlun hudrun ve guyûmun bîdun. Kâne'l-hevâ’u nekıyyen ve'l-mâ’u ‘azben bâridan, ve's-semâ’u zerkâ’e sâfiyeten lâ yu‘akkiruhâ gubârun.",
+          "tr": "Yeşil dağların ve beyaz bulutların çevrelediği geniş bir vadiye doğru sabah gezisine çıktık. Hava temiz, su tatlı ve soğuk, gökyüzü ise hiçbir tozun bulandırmadığı masmavi ve berraktı.",
+          "analiz": [
+            { "kelime": "خُضْرٌ / بِيضٌ / زَرْقَاءَ", "kok": "خ-ض-ر / ب-ي-ض / ز-ر-ق", "gramer": "Renk Sıfat-ı Müşebbeheleri (فُعْلٌ çoğul & فَعْلَاءُ müennes)", "tr": "yeşiller / beyazlar / mavi" },
+            { "kelime": "وَاسِعٍ / نَقِيًّا / عَذْبًا / صَافِيَةً", "kok": "و-س-ع / ن-ق-ي / ع-ذ-ب / ص-ف-و", "gramer": "İsm-i Fâil (وَاسِع / صَافِيَة) & Sıfat-ı Müşebbehe (نَقِيّ / عَذْب)", "tr": "geniş / temiz / tatlı / berrak" }
+          ]
+        },
+        {
+          "ar": "تَوَقَّفْنَا عِنْدَ نَبْعٍ صَغِيرٍ بَعْدَ مَسِيرٍ طَوِيلٍ، فَقَدْ كَانَ بَعْضُ الزُّمَلَاءِ تَعِبِينَ وَعَطْشَانِينَ، وَكَانَتْ أُخْتِي الصَّغِيرَةُ جَوْعَى وَعَطْشَى. شَرِبْنَا مِنَ الْمَاءِ الْفُرَاتِ وَتَنَاوَلْنَا فُطُورًا لَذِيذًا.",
+          "okunus": "Tevekkafnâ ‘inde neb‘ın sagîrin ba‘de mesîrin tavîlin, fe-kad kâne ba‘du'z-zumelâ’i te‘ibîne ve ‘atşânîne, ve kânet uhti's-sagîratu cev‘â ve ‘atşâ. Şeribnâ mine'l-mâ’i'l-furâti ve tenâvelnâ futûran lezîzen.",
+          "tr": "Uzun bir yürüyüşün ardından küçük bir pınarın başında durduk; çünkü arkadaşların bir kısmı yorgun ve susamıştı, küçük kız kardeşim de aç ve susuzdu. Tatlı sudan içtik ve lezzetli bir kahvaltı yaptık.",
+          "analiz": [
+            { "kelime": "تَعِبِينَ / جَوْعَى / عَطْشَى", "kok": "ت-ع-ب / ج-و-ع / ع-ط-ش", "gramer": "Sıfat-ı Müşebbehe (فَعِلٌ + فَعْلَى gayr-i munsarıf!)", "tr": "yorgunlar / aç / susuz" },
+            { "kelime": "صَغِيرٍ / طَوِيلٍ / الْفُرَاتِ / لَذِيذًا", "kok": "ص-غ-ر / ط-و-ل / ف-ر-ت / ل-ذ-ذ", "gramer": "5. bab Sıfat-ı Müşebbeheleri (فَعِيلٌ + فُعَالٌ)", "tr": "küçük / uzun / tatlı su / lezzetli" }
+          ]
+        },
+        {
+          "ar": "وَالْتَقَيْنَا هُنَاكَ بِفَلَّاحٍ كَرِيمٍ وَمِضْيَافٍ، يَعِيشُ فِي بَيْتٍ حَجَرِيٍّ قَدِيمٍ مَبْنِيٍّ عَلَى التَّلَّةِ. دَعَانَا بِابْتِسَامَةٍ وَدُودٍ وَقَدَّمَ لَنَا فَوَاكِهَ طَازَجَةً مِنْ بُسْتَانِهِ الْأَخْضَرِ.",
+          "okunus": "Ve'ltekaynâ hunâke bi-fellâhın kerîmin ve mıdyâfin, ya‘îşu fî beytin haceriyyin kadîmin mebniyyin ‘ale't-telleti. De‘ânâ bi'btisâmetin vedûdin ve kaddeme lenâ fevâkihe tâzeceten min bustânihi'l-ahdari.",
+          "tr": "Orada tepe üzerine inşa edilmiş eski taş bir evde yaşayan cömert ve çok misafirperver bir çiftçiyle karşılaştık. Bizi sevecen bir gülümsemeyle davet etti ve yeşil bahçesinden taze meyveler ikram etti.",
+          "analiz": [
+            { "kelime": "فَلَّاحٍ / مِضْيَافٍ / وَدُودٍ", "kok": "ف-ل-ح / ض-ي-ف / و-د-د", "gramer": "3 Mübalağa Kalıbı: فَعَّالٌ + مِفْعَالٌ + فَعُولٌ (ة'siz!)", "tr": "çiftçi / çok misafirperver / sevecen" },
+            { "kelime": "كَرِيمٍ / مَبْنِيٍّ / الْأَخْضَرِ", "kok": "ك-ر-م / ب-ن-ي / خ-ض-ر", "gramer": "Sıfat-ı Müşebbehe + Nâkıs İsm-i Mef'ûl + Renk Sıfatı", "tr": "cömert / inşa edilmiş / yeşil" }
+          ]
+        },
+        {
+          "ar": "أَخْبَرَنَا الرَّجُلُ الشُّجَاعُ أَنَّ الْحَيَاةَ فِي الرِّيفِ لَيْسَتْ سَهْلَةً دَائِمًا، لٰكِنَّهَا تَمْنَحُ الْإِنْسَانَ قَلْبًا مُطْمَئِنًّا وَنَفْسًا رَاضِيَةً. عُدْنَا إِلَى الْمَدِينَةِ وَنَحْنُ شَاكِرُونَ لِحُسْنِ ضِيَافَتِهِ وَسَعِيدُونَ بِهٰذَا الْيَوْمِ الْمُمَيَّزِ.",
+          "okunus": "Ahberana'r-raculu'ş-şucâ‘u enne'l-hayâte fi'r-rîfi leyset sehleten dâ’imen, lâkinnehâ temnehu'l-insâne kalben mutme’innen ve nefsen râdıyeten. ‘Udnâ ile'l-medîneti ve nahnu şâkirûne li-husni dıyâfetihî ve sa‘îdûne bi-hâze'l-yevmi'l-mumeyyezi.",
+          "tr": "Cesur adam bize kırsalda hayatın her zaman kolay olmadığını, ancak insana huzurlu bir kalp ve razı bir gönül verdiğini söyledi. Güzel misafirperverliğine şükrederek ve bu seçkin günden mutlu olarak şehre döndük.",
+          "analiz": [
+            { "kelime": "الشُّجَاعُ / سَهْلَةً / سَعِيدُونَ", "kok": "ش-ج-ع / س-ه-ل / س-ع-د", "gramer": "Sıfat-ı Müşebbeheler (فُعَالٌ / فَعْلَةٌ / فَعِيلٌ)", "tr": "cesur / kolay / mutlu" },
+            { "kelime": "مُطْمَئِنًّا / رَاضِيَةً / الْمُمَيَّزِ", "kok": "ط-م-أ-ن / ر-ض-ي / م-ي-ز", "gramer": "Rubâî mezîd Fâil + Nâkıs Fâil + II. bab Mef'ûl", "tr": "huzurlu / razı / seçkin" }
+          ]
+        }
+      ],
+      "sorular": [
+        {
+          "id": "m30_r3_q1",
+          "soru": "İlk paragraftaki 'جِبَالٌ خُضْرٌ وَغُيُومٌ بِيضٌ' ifadesinde 'خُضْرٌ' ve 'بِيضٌ' hangi kalıptadır?",
+          "secenekler": ["أَفْعَل/فَعْلَاء renk sıfatlarının kırık çoğul (فُعْلٌ) hâlidir", "Mübalağa sığasıdır", "İsm-i Mef'ûldür", "Mastar-ı Merredir"],
+          "dogruIndeks": 0,
+          "aciklama": "أَخْضَرُ/خَضْرَاءُ → خُضْرٌ; أَبْيَضُ/بَيْضَاءُ → بِيضٌ (akılsız çoğullara renk sıfatı)."
+        },
+        {
+          "id": "m30_r3_q2",
+          "soru": "İkinci paragrafta kız kardeş için neden 'جَوْعَى وَعَطْشَى' kullanılmıştır?",
+          "secenekler": ["جَوْعَانُ ve عَطْشَانُ sıfat-ı müşebbehelerinin müennes hâli فَعْلَى (جَوْعَى، عَطْشَى) olduğu için", "Çoğul olduğu için", "İsm-i Fâil olduğu için", "Mastar olduğu için"],
+          "dogruIndeks": 0,
+          "aciklama": "فَعْلَانُ kalıbının fasih müennesi فَعْلَى'dır."
+        },
+        {
+          "id": "m30_r3_q3",
+          "soru": "Üçüncü paragraftaki 'بِابْتِسَامَةٍ وَدُودٍ' terkibinde 'وَدُودٍ' neden kapalı tâ (ة) almamıştır?",
+          "secenekler": ["Fâil anlamındaki فَعُولٌ mübalağa sıfatı müzekker ve müennes için ortak olduğundan ة almaz", "ابْتِسَامَة müzekker olduğu için", "Muzâf olduğu için", "Yazım hatası olduğu için"],
+          "dogruIndeks": 0,
+          "aciklama": "صَبُورٌ، وَدُودٌ، شَكُورٌ gibi fâil anlamlı فَعُولٌ kalıpları müenneste de ة'siz gelir."
+        },
+        {
+          "id": "m30_r3_q4",
+          "soru": "Üçüncü paragraftaki 'فَلَّاحٍ' ve 'مِضْيَافٍ' hangi türev grubundandır?",
+          "secenekler": ["Mübalağalı İsm-i Fâil (فَعَّالٌ ve مِفْعَالٌ)", "İsm-i Mef'ûl", "İsm-i Mekân", "İsm-i Âlet"],
+          "dogruIndeks": 0,
+          "aciklama": "فَلَّاحٌ (çiftçi — فَعَّالٌ) ve مِضْيَافٌ (çok misafirperver — مِفْعَالٌ) mübalağalı ism-i fâillerdir."
+        },
+        {
+          "id": "m30_r3_q5",
+          "soru": "Son paragraftaki 'قَلْبًا مُطْمَئِنًّا' ifadesinde 'مُطْمَئِنًّا' hangi fiilin İsm-i Fâilidir?",
+          "secenekler": ["اِطْمَأَنَّ (Rubâî mezîd — huzura kavuştu)", "أَطْمَنَ", "طَمَنَ", "تَطَمَّنَ"],
+          "dogruIndeks": 0,
+          "aciklama": "اِطْمَأَنَّ → يَطْمَئِنُّ → مُطْمَئِنٌّ (huzurlu, mutmain — Rubâî mezîd İsm-i Fâil)."
+        }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "m30_d1",
+      "baslik": "Yayınevinde — الْمُتَرْجِمُ ile الْمُتَرْجَمُ Farkı",
+      "ortam": "Yayınevi Editör Odası",
+      "replikler": [
+        { "konusan": "الْمُحَرِّرُ", "ar": "أَهْلًا بِكَ يَا أُسْتَاذُ كَرِيمٌ! هَلْ أَنْهَيْتَ مُرَاجَعَةَ الْكِتَابِ الْمُتَرْجَمِ؟", "okunus": "Ehlen bike yâ ustâzu Kerîmun! Hel enheyte murâce‘ate'l-kitâbi'l-mutercemi?", "tr": "Hoş geldin Kerim Bey! Tercüme edilmiş kitabın gözden geçirmesini bitirdin mi?" },
+        { "konusan": "كَرِيمٌ", "ar": "نَعَمْ يَا أُسْتَاذُ، لَقَدْ تَعَاوَنْتُ مَعَ الْمُتَرْجِمِ الْأَصْلِيِّ وَصَحَّحْنَا كُلَّ الْمُلَاحَظَاتِ.", "okunus": "Ne‘am yâ ustâzu, lekad te‘âventu me‘a'l-mutercimi'l-asliyyi ve sahhahnâ kulle'l-mulâhazâti.", "tr": "Evet hocam, asıl tercümanla iş birliği yaptım ve tüm notları düzelttik." },
+        { "konusan": "الْمُحَرِّرُ", "ar": "مُمْتَازٌ! كَيْفَ وَجَدْتَ أُسْلُوبَ الْمُؤَلِّفِ وَعَمَلَ الْمُتَرْجِمِ؟", "okunus": "Mumtâzun! Keyfe vecedte uslûbe'l-mu’ellifi ve ‘amele'l-mutercimi?", "tr": "Mükemmel! Yazarın üslubunu ve tercümanın çalışmasını nasıl buldun?" },
+        { "konusan": "كَرِيمٌ", "ar": "الْمُتَرْجِمُ بَارِعٌ وَحَذِرٌ جِدًّا، وَالنَّصُّ الْمُتَرْجَمُ سَلِسٌ وَمَفْهُومٌ لِلْقَارِئِ الْعَرَبِيِّ.", "okunus": "El-mutercimu bâri‘un ve hazirun cidden, ve'n-nassu'l-mutercemu selisun ve mefhûmun li'l-kâri’i'l-‘arabiyyi.", "tr": "Tercüman çok yetenekli ve çok dikkatli; tercüme edilmiş metin de Arap okur için akıcı ve anlaşılır." },
+        { "konusan": "الْمُحَرِّرُ", "ar": "هَلْ اخْتَرْتُمْ صُورَةَ الْغِلَافِ الْمُنَاسِبَةَ لِلْمَوْضُوعِ؟", "okunus": "Heli'htertum sûrate'l-gilâfi'l-munâsibete li'l-mevdû‘ı?", "tr": "Konuya uygun kapak görselini seçtiniz mi?" },
+        { "konusan": "كَرِيمٌ", "ar": "نَعَمْ، اللَّوْحَةُ الْمُخْتَارَةُ جَمِيلَةٌ وَأَلْوَانُهَا زَرْقَاءُ وَبَيْضَاءُ هَادِئَةٌ.", "okunus": "Ne‘am, el-levhatu'l-muhtâratu cemîletun ve elvânuhâ zerkâ’u ve beydâ’u hâdi’etun.", "tr": "Evet, seçilmiş tablo çok güzel; renkleri sakin mavi ve beyaz." },
+        { "konusan": "الْمُحَرِّرُ", "ar": "رَائِعٌ! وَهَلِ الْعُنْوَانُ مُتَّفَقٌ عَلَيْهِ بَيْنَ النَّاشِرِ وَالْمُتَرْجِمِ؟", "okunus": "Râ’i‘un! Ve heli'l-‘unvânu muttefakun ‘aleyhi beyne'n-nâşiri ve'l-mutercimi?", "tr": "Harika! Başlık yayıncı ile tercüman arasında üzerinde uzlaşılmış durumda mı?" },
+        { "konusan": "كَرِيمٌ", "ar": "بِالتَّأْكِيدِ، الْعُنْوَانُ مُتَّفَقٌ عَلَيْهِ وَمُعْتَمَدٌ لِلطِّبَاعَةِ فَوْرًا.", "okunus": "Bi't-te’kîdi, el-‘unvânu muttefakun ‘aleyhi ve mu‘temedun li't-tıbâ‘ati fevran.", "tr": "Kesinlikle, başlık üzerinde uzlaşıldı ve hemen baskı için onaylandı." },
+        { "konusan": "الْمُحَرِّرُ", "ar": "مَتَى سَيَكُونُ الْكِتَابُ مَوْجُودًا وَمَبِيعًا فِي الْمَكْتَبَاتِ؟", "okunus": "Metâ se-yekûnu'l-kitâbu mevcûden ve mebî‘an fi'l-mektebâti?", "tr": "Kitap ne zaman kitapçılarda mevcut ve satışta olacak?" },
+        { "konusan": "كَرِيمٌ", "ar": "سَيَكُونُ مَتَاحًا لِلْقُرَّاءِ مَعَ بِدَايَةِ الشَّهْرِ الْقَادِمِ بِإِذْنِ اللّٰهِ.", "okunus": "Se-yekûnu mutâhan li'l-kurrâ’i me‘a bidâyeti'ş-şehri'l-kâdimi bi-iznillâhi.", "tr": "Allah'ın izniyle gelecek ayın başıyla birlikte okurların erişimine açılacak." },
+        { "konusan": "الْمُحَرِّرُ", "ar": "أَشْكُرُكَ عَلَى عَمَلِكَ الْمُنَظَّمِ وَالْمُتْقَنِ يَا كَرِيمُ!", "okunus": "Eşkuruke ‘alâ ‘amelike'l-munazzami ve'l-mutkani yâ Kerîmu!", "tr": "Düzenli ve kusursuz çalışman için sana teşekkür ederim Kerim!" },
+        { "konusan": "كَرِيمٌ", "ar": "شُكْرًا لَكَ يَا أُسْتَاذُ، أَنَا سَعِيدٌ جِدًّا بِهٰذَا الْمَشْرُوعِ الْمُفِيدِ.", "okunus": "Şukran leke yâ ustâzu, ene sa‘îdun cidden bi-hâze'l-meşrû‘ı'l-mufîdi.", "tr": "Teşekkürler hocam, bu faydalı projeden dolayı çok mutluyum." }
+      ],
+      "partner": [
+        { "soruAr": "مَا الْفَرْقُ بَيْنَ «الْمُتَرْجِمِ» وَ«الْمُتَرْجَمِ» فِي الْحِوَارِ؟", "soruTr": "Diyalogdaki الْمُتَرْجِمِ ile الْمُتَرْجَمِ arasındaki fark nedir?", "ipucu": "Sondan önceki ج harfinin harekesi.", "secenekler": ["الْمُتَرْجِمُ اسْمُ فَاعِلٍ (الشَّخْصُ)، وَالْمُتَرْجَمُ اسْمُ مَفْعُولٍ (النَّصُّ).", "هُمَا بِمَعْنًى وَاحِدٍ.", "الْمُتَرْجِمُ هُوَ الْكِتَابُ."], "dogruIndeks": 0, "aciklama": "الْمُتَرْجِمُ (tercüman — İsm-i Fâil), الْمُتَرْجَمُ (tercüme edilmiş — İsm-i Mef'ûl)." },
+        { "soruAr": "مَا نَوْعُ كَلِمَةِ «الْمُخْتَارَةُ» فِي جُمْلَةِ «اللَّوْحَةُ الْمُخْتَارَةُ»؟", "soruTr": "'اللَّوْحَةُ الْمُخْتَارَةُ' ifadesinde الْمُخْتَارَةُ nedir?", "ipucu": "Tablo seçen değil, seçilendir.", "secenekler": ["اِسْمُ مَفْعُولٍ (مِنْ اِخْتَارَ)، وَيُعْرَفُ بِالسِّيَاقِ.", "اِسْمُ فَاعِلٍ.", "صِيغَةُ مُبَالَغَةٍ."], "dogruIndeks": 0, "aciklama": "Bağlama göre 'seçilmiş tablo' anlamında İsm-i Mef'ûldür." },
+        { "soruAr": "مَا أَلْوَانُ اللَّوْحَةِ الْمُخْتَارَةِ لِلْغِلَافِ؟", "soruTr": "Kapak için seçilen tablonun renkleri nelerdir?", "ipucu": "فَعْلَاءُ kalıbındaki iki renk.", "secenekler": ["أَلْوَانُهَا زَرْقَاءُ وَبَيْضَاءُ هَادِئَةٌ.", "أَلْوَانُهَا سَوْدَاءُ وَحَمْرَاءُ.", "لَا تَحْتَوِي عَلَى أَلْوَانٍ."], "dogruIndeks": 0, "aciklama": "زَرْقَاءُ (mavi) ve بَيْضَاءُ (beyaz) — gayr-i munsarıf Sıfat-ı Müşebbeheler." },
+        { "soruAr": "مَا أَصْلُ كَلِمَةِ «مَبِيعًا» فِي سُؤَالِ الْمُحَرِّرِ؟", "soruTr": "Editörün sorusundaki 'مَبِيعًا' kelimesinin aslı nedir?", "ipucu": "بَاعَ – يَبِيعُ ecvef-i yâî.", "secenekler": ["اِسْمُ مَفْعُولٍ مِنَ الْفِعْلِ الْأَجْوَفِ «بَاعَ».", "اِسْمُ فَاعِلٍ مِنْ «بَاعَ».", "مَصْدَرٌ مِيمِيٌّ."], "dogruIndeks": 0, "aciklama": "بَاعَ → مَبِيعٌ (satılan — ecvef-i yâî İsm-i Mef'ûl)." },
+        { "soruAr": "مَتَى سَيَكُونُ الْكِتَابُ مُتَاحًا لِلْقُرَّاءِ؟", "soruTr": "Kitap okurların erişimine ne zaman açılacak?", "ipucu": "Gelecek ayın başında.", "secenekler": ["سَيَكُونُ مُتَاحًا مَعَ بِدَايَةِ الشَّهْرِ الْقَادِمِ.", "سَيَكُونُ مُتَاحًا بَعْدَ عَامَيْنِ.", "تَمَّ إِلْغَاءُ طِبَاعَتِهِ."], "dogruIndeks": 0, "aciklama": "سَيَكُونُ مُتَاحًا لِلْقُرَّاءِ مَعَ بِدَايَةِ الشَّهْرِ الْقَادِمِ." }
+      ]
+    },
+    {
+      "id": "m30_d2",
+      "baslik": "Pazarda & Kafede — Renkler, Açlık/Susuzluk ve Mübalağa Sıfatları",
+      "ortam": "Şehir Çarşısı ve Kafe",
+      "replikler": [
+        { "konusan": "نَادِيَةُ", "ar": "مَشَيْنَا كَثِيرًا فِي السُّوقِ يَا لَيْلَى! أَنَا تَعِبَةٌ وَعَطْشَى جِدًّا.", "okunus": "Meşeynâ kesîran fi's-sûkı yâ Leylâ! Ene te‘ibetun ve ‘atşâ cidden.", "tr": "Çarşıda çok yürüdük Leyla! Ben çok yorgun ve çok susuzum." },
+        { "konusan": "لَيْلَى", "ar": "وَأَنَا أَيْضًا جَوْعَى! تَعَالَيْ نَجْلِسْ فِي هٰذَا الْمَقْهَى الْقَرِيبِ ذِي الْحَدِيقَةِ الْخَضْرَاءِ.", "okunus": "Ve ene eydan cev‘â! Te‘âley neclis fî hâze'l-makha'l-karîbi zi'l-hadîkati'l-hadrâ’i.", "tr": "Ben de açım! Gel yeşil bahçeli şu yakın kafede oturalım." },
+        { "konusan": "نَادِيَةُ", "ar": "فِكْرَةٌ جَمِيلَةٌ! اُنْظُرِي إِلَى تِلْكَ الْوُرُودِ الْحَمْرَاءِ وَالصَّفْرَاءِ حَوْلَ الطَّاوِلَاتِ.", "okunus": "Fikratun cemîletun! Unzurî ilâ tilke'l-vurûdi'l-hamrâ’i ve's-safrâ’i havle't-tâvilâti.", "tr": "Güzel fikir! Masaların etrafındaki şu kırmızı ve sarı güllere bak." },
+        { "konusan": "لَيْلَى", "ar": "الْمَكَانُ هَادِئٌ وَنَظِيفٌ، وَصَاحِبُ الْمَقْهَى رَجُلٌ كَرِيمٌ وَمِضْيَافٌ مَعْرُوفٌ فِي الْحَيِّ.", "okunus": "El-mekânu hâdi’un ve nazîfun, ve sâhıbu'l-makhâ raculun kerîmun ve mıdyâfun ma‘rûfun fi'l-hayyi.", "tr": "Mekân sakin ve temiz; kafenin sahibi de mahallede tanınan cömert ve çok misafirperver bir adam." },
+        { "konusan": "نَادِيَةُ", "ar": "سَأَطْلُبُ عَصِيرَ بُرْتُقَالٍ بَارِدًا وَشَطِيرَةً طَازَجَةً. وَمَاذَا سَتَطْلُبِينَ أَنْتِ؟", "okunus": "Se-atlubu ‘asîra burtukâlin bâridan ve şatîraten tâzeceten. Ve mâzâ se-tatlubîne enti?", "tr": "Ben soğuk portakal suyu ve taze sandviç sipariş edeceğim. Sen ne isteyeceksin?" },
+        { "konusan": "لَيْلَى", "ar": "سَأَطْلُبُ شَايًا سَاخِنًا وَقِطْعَةَ كَعْكٍ مَخْبُوزَةً عِنْدَ الْخَبَّازِ الْمَاهِرِ.", "okunus": "Se-atlubu şâyen sâhınan ve kıt‘ate ka‘kin mahbûzeten ‘inde'l-habbâzi'l-mâhiri.", "tr": "Sıcak çay ve maharetli fırıncıda pişirilmiş bir dilim kek isteyeceğim." },
+        { "konusan": "نَادِيَةُ", "ar": "هَلِ اشْتَرَيْتِ الْحَقِيبَةَ الَّتِي رَأَيْنَاهَا عِنْدَ الْبَائِعِ؟", "okunus": "Heli'şterayti'l-hakîbete'lletî ra’eynâhâ ‘inde'l-bâ’i‘ı?", "tr": "Satıcıda gördüğümüz çantayı aldın mı?" },
+        { "konusan": "لَيْلَى", "ar": "نَعَمْ، اِشْتَرَيْتُ الْحَقِيبَةَ السَّوْدَاءَ لِأَنَّهَا عَمَلِيَّةٌ وَقَوِيَّةٌ، وَكَانَ الْبَائِعُ صَدُوقًا وَلَبِقًا.", "okunus": "Ne‘am, işteraytu'l-hakîbete's-sevdâ’e li-ennehâ ‘ameliyyetun ve kaviyyetun, ve kâne'l-bâ’i‘u sadûkan ve lebikan.", "tr": "Evet, siyah çantayı aldım çünkü kullanışlı ve sağlam; satıcı da çok dürüst ve kibar biriydi." },
+        { "konusan": "نَادِيَةُ", "ar": "مُبَارَكٌ لَكِ يَا لَيْلَى! وَأَنَا اشْتَرَيْتُ وِشَاحًا أَزْرَقَ هَدِيَّةً لِأُمِّي الصَّبُورِ.", "okunus": "Mubârakun leki yâ Leylâ! Ve ene'şteraytu vişâhan ezraka hediyyeten li-ummi's-sabûri.", "tr": "Hayırlı olsun Leyla! Ben de çok sabırlı anneme hediye olarak mavi bir şal aldım." },
+        { "konusan": "لَيْلَى", "ar": "سَتَكُونُ وَالِدَتُكِ فَرْحَى جِدًّا بِهٰذِهِ الْهَدِيَّةِ اللَّطِيفَةِ!", "okunus": "Se-tekûnu vâlidetuki ferhâ cidden bi-hâzihi'l-hediyyeti'l-latîfeti!", "tr": "Annen bu zarif hediyeye çok sevinecektir!" },
+        { "konusan": "نَادِيَةُ", "ar": "الْحَمْدُ لِلّٰهِ، الْآنَ أَشْعُرُ بِنَشَاطٍ بَعْدَ هٰذِهِ الِاسْتِرَاحَةِ الْجَمِيلَةِ.", "okunus": "El-hamdu lillâhi, el-âne eş‘uru bi-neşâtın ba‘de hâzihi'l-istirâhati'l-cemîleti.", "tr": "Elhamdülillah, bu güzel moladan sonra şimdi kendimi dinç hissediyorum." },
+        { "konusan": "لَيْلَى", "ar": "هَيَّا نَدْفَعِ الْحِسَابَ وَنَعُدْ إِلَى الْبَيْتِ قَبْلَ الْمَغْرِبِ.", "okunus": "Heyyâ nedfe‘ı'l-hısâbe ve ne‘ud ile'l-beyti kable'l-magribi.", "tr": "Haydi hesabı ödeyelim ve akşam olmadan eve dönelim." }
+      ],
+      "partner": [
+        { "soruAr": "بِمَاذَا تَشْعُرُ نَادِيَةُ وَلَيْلَى بَعْدَ الْمَشْيِ الطَّوِيلِ؟", "soruTr": "Nadiye ve Leyla uzun yürüyüşten sonra ne hissediyorlar?", "ipucu": "فَعْلَى kalıbındaki müennes sıfatlar.", "secenekler": ["نَادِيَةُ تَعِبَةٌ وَعَطْشَى، وَلَيْلَى جَوْعَى.", "هُمَا نَائِمَتَانِ.", "هُمَا غَضْبَى."], "dogruIndeks": 0, "aciklama": "عَطْشَى (susamış) ve جَوْعَى (aç) — فَعْلَانُ'nun فَعْلَى müennesleri!" },
+        { "soruAr": "مَا لَوْنُ الْحَقِيبَةِ الَّتِي اشْتَرَتْهَا لَيْلَى؟", "soruTr": "Leyla'nın aldığı çantanın rengi nedir?", "ipucu": "أَسْوَدُ → müennesi سَوْدَاءُ.", "secenekler": ["اِشْتَرَتِ الْحَقِيبَةَ السَّوْدَاءَ.", "اِشْتَرَتِ الْحَقِيبَةَ الصَّفْرَاءَ.", "اِشْتَرَتِ الْحَقِيبَةَ الْبَيْضَاءَ."], "dogruIndeks": 0, "aciklama": "الْحَقِيبَةَ السَّوْدَاءَ (siyah çanta — فَعْلَاءُ)." },
+        { "soruAr": "مَا وَزْنُ صِفَاتِ «مِضْيَاف، خَبَّاز، صَدُوق، لَبِق»؟", "soruTr": "مِضْيَاف، خَبَّاز، صَدُوق، لَبِق kelimelerinin ortak kategorisi nedir?", "ipucu": "Mübalağalı İsm-i Fâil kalıpları.", "secenekler": ["صِيَغُ مُبَالَغَةٍ (مِفْعَال، فَعَّال، فَعُول، فَعِل).", "أَسْمَاءُ مَفْعُولٍ.", "أَسْمَاءُ مَكَانٍ."], "dogruIndeks": 0, "aciklama": "Dördü de 5 mübalağa kalıbının canlı örnekleridir." },
+        { "soruAr": "لِمَاذَا قَالَتْ نَادِيَةُ «لِأُمِّي الصَّبُورِ» وَلَمْ تَقُلْ «الصَّبُورَةِ»؟", "soruTr": "Nadiye neden 'الصَّبُورَةِ' değil 'الصَّبُورِ' dedi?", "ipucu": "فَعُولٌ kuralı.", "secenekler": ["لِأَنَّ «فَعُولٌ» بِمَعْنَى فَاعِلٍ يَسْتَوِي فِيهِ الْمُذَكَّرُ وَالْمُؤَنَّثُ.", "لِأَنَّ «أُمّ» مُذَكَّرٌ.", "لِلتَّخْفِيفِ فَقَطْ."], "dogruIndeks": 0, "aciklama": "Fâil anlamlı فَعُولٌ (صَبُورٌ) müenneste ة almaz." },
+        { "soruAr": "مَاذَا اشْتَرَتْ نَادِيَةُ هَدِيَّةً لِأُمِّهَا؟", "soruTr": "Nadiye annesine hediye olarak ne aldı?", "ipucu": "Mavi bir şal (أَزْرَقَ — tenvinsiz!).", "secenekler": ["اِشْتَرَتْ وِشَاحًا أَزْرَقَ.", "اِشْتَرَتْ سَاعَةً حَمْرَاءَ.", "لَمْ تَشْتَرِ شَيْئًا."], "dogruIndeks": 0, "aciklama": "وِشَاحًا أَزْرَقَ (أَزْرَقَ gayr-i munsarıf olduğu için tenvinsiz fetha alır!)." }
+      ]
+    },
+    {
+      "id": "m30_d3",
+      "baslik": "Üniversitede — İsm-i Fâil'in Fiil Gibi Ameli ve Meslekler",
+      "ortam": "Kariyer Planlama Merkezi",
+      "replikler": [
+        { "konusan": "الْمُسْتَشَارُ", "ar": "مَرْحَبًا يَا زَيْدُ! هَلْ أَنْتَ مُخْتَارٌ تَخَصُّصَكَ الْجَامِعِيَّ بَعْدَ التَّفْكِيرِ؟", "okunus": "Merhaben yâ Zeydu! Hel ente muhtârun tehassusake'l-câmi‘ıyye ba‘de't-tefkîri?", "tr": "Merhaba Zeyd! Düşündükten sonra üniversite bölümünü seçmiş durumda mısın?" },
+        { "konusan": "زَيْدٌ", "ar": "نَعَمْ يَا أُسْتَاذُ، أَنَا مُحِبٌّ لِلْهَنْدَسَةِ وَمُهْتَمٌّ بِتَطْوِيرِ التِّقْنِيَّاتِ الْمُسْتَدَامَةِ.", "okunus": "Ne‘am yâ ustâzu, ene muhıbbun li'l-hendeseti ve muhtemmun bi-tatvîri't-tıkniyyâti'l-mustedâmeti.", "tr": "Evet hocam, mühendisliği seven ve sürdürülebilir teknolojileri geliştirmekle ilgilenen biriyim." },
+        { "konusan": "الْمُسْتَشَارُ", "ar": "مُمْتَازٌ! إِنَّ الْمُهَنْدِسَ الْمُبْتَكِرَ مَطْلُوبٌ جِدًّا فِي سُوقِ الْعَمَلِ الْعَالَمِيِّ.", "okunus": "Mumtâzun! İnne'l-muhendise'l-mubtekira matlûbun cidden fî sûkı'l-‘ameli'l-‘âlemiyyi.", "tr": "Mükemmel! Yenilikçi mühendis küresel iş piyasasında çok aranan bir profildir." },
+        { "konusan": "زَيْدٌ", "ar": "وَمَا الصِّفَاتُ الَّتِي تَجْعَلُ الطَّالِبَ نَاجِحًا وَمُتَمَيِّزًا فِي هٰذَا الْمَجَالِ؟", "okunus": "Ve me's-sıfâtu'lletî tec‘alu't-tâlibe nâcihan ve mutemeyyizen fî hâze'l-mecâli?", "tr": "Bir öğrenciyi bu alanda başarılı ve seçkin kılan nitelikler nelerdir?" },
+        { "konusan": "الْمُسْتَشَارُ", "ar": "يَجِبُ أَنْ يَكُونَ مُجْتَهِدًا، وَقَارِئًا الْأَبْحَاثَ الْحَدِيثَةَ، وَمُتَعَاوِنًا مَعَ زُمَلَائِهِ.", "okunus": "Yecibu en yekûne muctehiden, ve kâri’eni'l-ebhâse'l-hadîsete, ve mute‘âvinen me‘a zumelâ’ihî.", "tr": "Çalışkan, güncel araştırmaları okuyan ve arkadaşlarıyla iş birliği yapan biri olmalıdır." },
+        { "konusan": "زَيْدٌ", "ar": "وَهَلْ تَنْصَحُنِي بِالتَّدْرِيبِ الصَّيْفِيِّ فِي إِحْدَى الشَّرِكَاتِ الْمُنْتِجَةِ؟", "okunus": "Ve hel tensahunî bi't-tedrîbi's-sayfiyyi fî ihda'ş-şerikâti'l-munticeti?", "tr": "Üretici şirketlerden birinde yaz stajı yapmamı tavsiye eder misiniz?" },
+        { "konusan": "الْمُسْتَشَارُ", "ar": "بِالتَّأْكِيدِ! التَّدْرِيبُ الْعَمَلِيُّ يَجْعَلُكَ فَاهِمًا الْوَاقِعَ الْمِهَنِيَّ وَمُسْتَعِدًّا لِلتَّحَدِّيَاتِ.", "okunus": "Bi't-te’kîdi! Et-tedrîbu'l-‘ameliyyu yec‘aluke fâhimeni'l-vâkı‘a'l-miheniyye ve muste‘ıdden li't-tehaddiyâti.", "tr": "Kesinlikle! Uygulamalı staj seni mesleki gerçekliği anlayan ve zorluklara hazır biri yapar." },
+        { "konusan": "زَيْدٌ", "ar": "أَخِي الْكَبِيرُ طَيَّارٌ، وَأُخْتِي مُعَلِّمَةٌ، وَكِلَاهُمَا مُخْلِصٌ وَفَعَّالٌ فِي عَمَلِهِ.", "okunus": "Ahı'l-kebîru tayyârun, ve uhtî mu‘allimetun, ve kilâhumâ muhlısun ve fe‘‘âlun fî ‘amelihî.", "tr": "Ağabeyim pilot, ablam öğretmen; ikisi de işinde samimi ve son derece etkin." },
+        { "konusan": "الْمُسْتَشَارُ", "ar": "مَا شَاءَ اللّٰهُ! إِنَّ إِتْقَانَ الْعَمَلِ وَالصِّدْقَ هُمَا أَسَاسُ كُلِّ مِهْنَةٍ شَرِيفَةٍ.", "okunus": "Mâ şâ’allâhu! İnne itkâne'l-‘ameli ve's-sıdka humâ esâsu kulli mihnetin şerîfetin.", "tr": "Maşallah! İşi kusursuz yapmak ve doğruluk her şerefli mesleğin temelidir." },
+        { "konusan": "زَيْدٌ", "ar": "سَأُسَجِّلُ الْيَوْمَ فِي دَوْرَةِ الْبَرْمَجَةِ الْمُعْتَمَدَةِ مِنَ الْجَامِعَةِ.", "okunus": "Se-useccilu'l-yevme fî devrati'l-bermeceti'l-mu‘temedeti mine'l-câmi‘ati.", "tr": "Bugün üniversite tarafından onaylı programlama kursuna kaydolacağım." },
+        { "konusan": "الْمُسْتَشَارُ", "ar": "قَرَارٌ حَكِيمٌ يَا زَيْدُ! أَتَمَنَّى لَكَ مُسْتَقْبَلًا مُشْرِقًا وَمَلِيئًا بِالنَّجَاحِ.", "okunus": "Karârun hakîmun yâ Zeydu! Etemennâ leke mustakbelen muşrıkan ve melî’en bi'n-necâhı.", "tr": "Bilgece bir karar Zeyd! Sana parlak ve başarıyla dolu bir gelecek diliyorum." },
+        { "konusan": "زَيْدٌ", "ar": "شُكْرًا جَزِيلًا لِتَوْجِيهَاتِكَ الْقَيِّمَةِ يَا أُسْتَاذُ!", "okunus": "Şukran cezîlen li-tevcîhâtike'l-kayyimeti yâ ustâzu!", "tr": "Değerli yönlendirmeleriniz için çok teşekkürler hocam!" }
+      ],
+      "partner": [
+        { "soruAr": "فِي جُمْلَةِ «هَلْ أَنْتَ مُخْتَارٌ تَخَصُّصَكَ»، مَا نَوْعُ «مُخْتَارٌ» وَإِعْرَابُ «تَخَصُّصَكَ»؟", "soruTr": "'هَلْ أَنْتَ مُخْتَارٌ تَخَصُّصَكَ' cümlesinde مُخْتَارٌ nedir ve تَخَصُّصَكَ nasıl i'rablanır?", "ipucu": "Seçen (etken) + nesne.", "secenekler": ["مُخْتَارٌ اسْمُ فَاعِلٍ عَامِلٌ، وَ«تَخَصُّصَكَ» مَفْعُولٌ بِهِ مَنْصُوبٌ.", "مُخْتَارٌ اسْمُ مَفْعُولٍ.", "تَخَصُّصَكَ فَاعِلٌ."], "dogruIndeks": 0, "aciklama": "مُخْتَارٌ burada etken (seçen — İsm-i Fâil) olup تَخَصُّصَكَ kelimesini nasbetmiştir." },
+        { "soruAr": "فِي كَلَامِ الْمُسْتَشَارِ «قَارِئًا الْأَبْحَاثَ» وَ«فَاهِمًا الْوَاقِعَ»، لِمَاذَا نُصِبَ «الْأَبْحَاثَ» وَ«الْوَاقِعَ»؟", "soruTr": "الْأَبْحَاثَ ve الْوَاقِعَ neden mansubdur?", "ipucu": "İsm-i Fâil'in fiil gibi ameli.", "secenekler": ["لِأَنَّهُمَا مَفْعُولٌ بِهِ لِاسْمِ الْفَاعِلِ الْعَامِلِ (قَارِئًا / فَاهِمًا).", "لِأَنَّهُمَا خَبَرُ كَانَ.", "لِأَنَّهُمَا نَعْتٌ."], "dogruIndeks": 0, "aciklama": "Tenvinli ism-i fâil (قَارِئًا، فَاهِمًا) fiili gibi mef'ûlün bihini nasbeder." },
+        { "soruAr": "مَا مِهْنَةُ أَخِي زَيْدٍ وَأُخْتِهِ؟", "soruTr": "Zeyd'in ağabeyinin ve ablasının mesleği nedir?", "ipucu": "Pilot (فَعَّال) ve öğretmen (II. bab ism-i fâil).", "secenekler": ["أَخُوهُ طَيَّارٌ وَأُخْتُهُ مُعَلِّمَةٌ.", "أَخُوهُ نَجَّارٌ وَأُخْتُهُ طَبِيبَةٌ.", "كِلَاهُمَا مُحَامٍ."], "dogruIndeks": 0, "aciklama": "طَيَّارٌ (فَعَّالٌ mübalağası) ve مُعَلِّمَةٌ (II. bab İsm-i Fâil)." },
+        { "soruAr": "فِي «الشَّرِكَاتِ الْمُنْتِجَةِ»، لِمَاذَا كُسِرَتِ التَّاءُ فِي «الْمُنْتِجَةِ»؟", "soruTr": "'الشَّرِكَاتِ الْمُنْتِجَةِ' terkibinde ت neden kesralıdır?", "ipucu": "Üreten şirketler (etken).", "secenekler": ["لِأَنَّهَا اسْمُ فَاعِلٍ بِمَعْنَى الشَّرِكَاتِ الَّتِي تُنْتِجُ.", "لِأَنَّهَا اسْمُ مَفْعُولٍ.", "لِأَنَّهَا مَصْدَرٌ."], "dogruIndeks": 0, "aciklama": "Üretim işini yapan şirketler etken olduğu için الْمُنْتِجَة (İsm-i Fâil) okunur." },
+        { "soruAr": "فِي أَيِّ دَوْرَةٍ سَيُسَجِّلُ زَيْدٌ الْيَوْمَ؟", "soruTr": "Zeyd bugün hangi kursa kaydolacak?", "ipucu": "Üniversite onaylı programlama kursu.", "secenekler": ["سَيُسَجِّلُ فِي دَوْرَةِ الْبَرْمَجَةِ الْمُعْتَمَدَةِ مِنَ الْجَامِعَةِ.", "سَيُسَجِّلُ فِي دَوْرَةِ الرَّسْمِ.", "لَنْ يُسَجِّلَ فِي أَيِّ دَوْرَةٍ."], "dogruIndeks": 0, "aciklama": "الْمُعْتَمَدَةِ (VIII. bab İsm-i Mef'ûl = onaylı)." }
+      ]
+    },
+    {
+      "id": "m30_d4",
+      "baslik": "Hukuk & Medya Sohbeti — Harekesiz Metinde Türev Okuma",
+      "ortam": "Kütüphane Çalışma Masası",
+      "replikler": [
+        { "konusan": "حَسَنٌ", "ar": "أَقْرَأُ خَبَرًا صَحَفِيًّا غَيْرَ مَشْكُولٍ يَا رَاشِدُ، وَتَوَقَّفْتُ عِنْدَ كَلِمَةِ «المنظمة»!", "okunus": "Akra’u haberan sahafiyyen gayra meşkûlin yâ Râşidu, ve tevekkafu ‘inde kelimeti «el-munazzama/el-munazzıma»!", "tr": "Raşid, harekesiz bir haber metni okuyorum ve 'المنظمة' kelimesinde duraksadım!" },
+        { "konusan": "رَاشِدٌ", "ar": "أَرِنِي الْجُمْلَةَ يَا حَسَنُ! السِّيَاقُ يُحَدِّدُ الْحَرَكَةَ فِي ثَانِيَةٍ وَاحِدَةٍ.", "okunus": "Erinî'l-cumlete yâ Hasenu! Es-siyâku yuhaddidu'l-harakete fî sâniyetin vâhıdetin.", "tr": "Cümleyi bana göster Hasan! Bağlam harekeyi bir saniyede belirler." },
+        { "konusan": "حَسَنٌ", "ar": "الْجُمْلَةُ تَقُولُ: «أَعْلَنَتِ الْمُنَظَّمَةُ الدَّوْلِيَّةُ تَعَاوُنَهَا مَعَ اللَّجْنَةِ الْمُنَظِّمَةِ لِلْمُؤْتَمَرِ».", "okunus": "El-cumletu tekûlu: «A‘leneti'l-munazzametu'd-devliyyetu te‘âvunehâ me‘a'l-lecneti'l-munazzımeti li'l-mu’temeri».", "tr": "Cümle şöyle diyor: 'Uluslararası örgüt, konferansı düzenleyen komiteyle iş birliğini duyurdu.'" },
+        { "konusan": "رَاشِدٌ", "ar": "اُنْظُرْ كَمْ هُوَ وَاضِحٌ! الْأُولَى «الْمُنَظَّمَةُ» بِالْفَتْحِ بِمَعْنَى الْهَيْئَةِ، وَالثَّانِيَةُ «الْمُنَظِّمَةِ» بِالْكَسْرِ لِأَنَّهَا هِيَ الَّتِي تُنَظِّمُ الْمُؤْتَمَرَ!", "okunus": "Unzur kem huve vâdıhun! El-ûlâ «el-munazzametu» bi'l-fethi bi-ma‘ne'l-hey’eti, ve's-sâniyetu «el-munazzımeti» bi'l-kesri li-ennehâ hiye'lletî tunazzımu'l-mu’temera!", "tr": "Bak ne kadar açık! İlki fetha ile 'el-munazzame' (örgüt/kuruluş anlamında), ikincisi kesra ile 'el-munazzıme' çünkü konferansı düzenleyen odur!" },
+        { "konusan": "حَسَنٌ", "ar": "سُبْحَانَ اللّٰهِ! حَرَكَةٌ وَاحِدَةٌ تُغَيِّرُ الْمَعْنَى تَمَامًا. وَمَاذَا عَنْ «المشار إليه»؟", "okunus": "Subhânallâhi! Haraketun vâhıdetun tugayyiru'l-ma‘nâ temâmen. Ve mâzâ ‘an «el-muşâr ileyh»?", "tr": "Sübhanallah! Tek bir hareke anlamı tamamen değiştiriyor. Peki 'المشار إليه' nasıl okunur?" },
+        { "konusan": "رَاشِدٌ", "ar": "«الْمُشَارُ إِلَيْهِ» اسْمُ مَفْعُولٍ مِنَ الْبَابِ الرَّابِعِ «أَشَارَ»، بِمَعْنَى الْمَذْكُورِ سَابِقًا.", "okunus": "«El-muşâru ileyhi»'smu mef‘ûlin mine'l-bâbi'r-râbi‘ı «eşâra», bi-ma‘ne'l-mezkûri sâbikan.", "tr": "'El-muşâru ileyhi' IV. bab 'eşâra' fiilinin ism-i mef'ûlüdür; 'daha önce bahsedilen / işaret edilen' demektir." },
+        { "konusan": "حَسَنٌ", "ar": "وَهَلْ «الْمُحْتَلُّ» فِي الْأَخْبَارِ اسْمُ فَاعِلٍ أَمِ اسْمُ مَفْعُولٍ؟", "okunus": "Ve heli'l-«muhtellu» fi'l-ahbâri'smu fâ‘ılin emi'smu mef‘ûlin?", "tr": "Haberlerdeki 'الْمُحْتَلُّ' ism-i fâil mi yoksa ism-i mef'ûl mü?" },
+        { "konusan": "رَاشِدٌ", "ar": "يَصْلُحُ لِلِاثْنَيْنِ مَعًا! نَقُولُ: الْجَيْشُ الْمُحْتَلُّ (فَاعِلٌ)، وَالْمَدِينَةُ الْمُحْتَلَّةُ (مَفْعُولٌ).", "okunus": "Yasluhu li'l-isneyni me‘an! Nekûlu: El-ceyşu'l-muhtellu (fâ‘ılun), ve'l-medînetu'l-muhtelletu (mef‘ûlun).", "tr": "İkisine de uygundur! 'İşgalci ordu' (ism-i fâil) ve 'işgal edilmiş şehir' (ism-i mef'ûl) deriz." },
+        { "konusan": "حَسَنٌ", "ar": "وَمِثْلُهُ كَلِمَةُ «مُخْتَارٌ» أَلَيْسَ كَذٰلِكَ؟", "okunus": "Ve misluhû kelimetu «muhtârun» e-leyse kezâlike?", "tr": "'مُخْتَارٌ' kelimesi de onun gibi, öyle değil mi?" },
+        { "konusan": "رَاشِدٌ", "ar": "أَحْسَنْتَ يَا حَسَنُ! تَمَامًا، كُلُّ أَجْوَفَ أَوْ مُضَاعَفٍ فِي الْبَابِ الثَّامِنِ يَتَّحِدُ فِيهِ اسْمُ الْفَاعِلِ وَالْمَفْعُولِ.", "okunus": "Ahsente yâ Hasenu! Temâmen, kullu ecvefe ev mudâ‘afin fi'l-bâbi's-sâmini yettehıdu fîhi'smu'l-fâ‘ıli ve'l-mef‘ûli.", "tr": "Aferin Hasan! Aynen öyle, VIII. babdaki her ecvef veya muzaaf fiilde ism-i fâil ile ism-i mef'ûl aynı biçimde birleşir." },
+        { "konusan": "حَسَنٌ", "ar": "الْآنَ أَصْبَحَتْ قِرَاءَةُ الصُّحُفِ الْعَرَبِيَّةِ أَسْهَلَ وَأَمْتَعَ بِكَثِيرٍ!", "okunus": "El-âne asbahat kırâ’etu's-suhufi'l-‘arabiyyeti eshele ve emte‘a bi-kesîrin!", "tr": "Artık Arapça gazete okumak çok daha kolay ve keyifli hâle geldi!" },
+        { "konusan": "رَاشِدٌ", "ar": "بِالتَّوْفِيقِ يَا صَدِيقِي، كُلَّمَا قَرَأْتَ أَكْثَرَ زَادَتْ سُرْعَتُكَ وَدِقَّتُكَ!", "okunus": "Bi't-tevfîkı yâ sadîkî, kullemâ kara’te eksera zâdet sur‘atuke ve dıkkatuke!", "tr": "Başarılar dostum, ne kadar çok okursan hızın ve isabetin o kadar artar!" }
+      ],
+      "partner": [
+        { "soruAr": "مَا الْفَرْقُ بَيْنَ «الْمُنَظَّمَةِ الدَّوْلِيَّةِ» وَ«اللَّجْنَةِ الْمُنَظِّمَةِ»؟", "soruTr": "'الْمُنَظَّمَةِ الدَّوْلِيَّةِ' ile 'اللَّجْنَةِ الْمُنَظِّمَةِ' arasındaki fark nedir?", "ipucu": "ظ fethalı (örgüt) vs. ظ kesralı (düzenleyici).", "secenekler": ["الْأُولَى بِالْفَتْحِ (الْهَيْئَةُ/اسْمُ مَفْعُولٍ)، وَالثَّانِيَةُ بِالْكَسْرِ (الَّتِي تُنَظِّمُ/اسْمُ فَاعِلٍ).", "كِلَاهُمَا بِالْفَتْحِ.", "كِلَاهُمَا بِالْكَسْرِ."], "dogruIndeks": 0, "aciklama": "الْمُنَظَّمَةُ = örgüt; الْمُنَظِّمَةُ = düzenleyen." },
+        { "soruAr": "مَا مَعْنَى «التَّقْرِيرُ الْمُشَارُ إِلَيْهِ»؟", "soruTr": "'التَّقْرِيرُ الْمُشَارُ إِلَيْهِ' ne demektir?", "ipucu": "Bahsi geçen / işaret edilen rapor.", "secenekler": ["التَّقْرِيرُ الْمَذْكُورُ سَابِقًا (اسْمُ مَفْعُولٍ مِنْ أَشَارَ).", "التَّقْرِيرُ الَّذِي يُشِيرُ.", "التَّقْرِيرُ الْجَدِيدُ."], "dogruIndeks": 0, "aciklama": "الْمُشَارُ إِلَيْهِ = kendisine işaret edilen, bahsi geçen." },
+        { "soruAr": "فِي أَيِّ نَوْعٍ مِنَ الْأَفْعَالِ يَتَّحِدُ شَكْلُ اسْمِ الْفَاعِلِ وَاسْمِ الْمَفْعُولِ؟", "soruTr": "Hangi fiil türlerinde ism-i fâil ile ism-i mef'ûl şeklen birleşir?", "ipucu": "VIII. bab ecvef ve muzaaf.", "secenekler": ["فِي الْأَجْوَفِ وَالْمُضَاعَفِ مِنَ الْبَابِ الثَّامِنِ (مِثْلُ: مُخْتَارٌ، مُحْتَلٌّ).", "فِي كُلِّ الْأَفْعَالِ السَّالِمَةِ.", "فِي الرُّبَاعِيِّ الْمُجَرَّدِ."], "dogruIndeks": 0, "aciklama": "اِخْتَارَ → مُخْتَارٌ ve اِحْتَلَّ → مُحْتَلٌّ." },
+        { "soruAr": "فِي جُمْلَةِ «الْمَدِينَةُ الْمُحْتَلَّةُ»، هَلْ «الْمُحْتَلَّةُ» اسْمُ فَاعِلٍ أَمْ مَفْعُولٍ؟", "soruTr": "'الْمَدِينَةُ الْمُحْتَلَّةُ' ifadesinde الْمُحْتَلَّةُ ism-i fâil mi mef'ûl mü?", "ipucu": "Şehir işgal edilendir.", "secenekler": ["اِسْمُ مَفْعُولٍ لِأَنَّ الْمَدِينَةَ وَقَعَ عَلَيْهَا الِاحْتِلَالُ.", "اِسْمُ فَاعِلٍ.", "صِفَةٌ مُشَبَّهَةٌ."], "dogruIndeks": 0, "aciklama": "Eylemden etkilenen şehir olduğu için İsm-i Mef'ûldür." },
+        { "soruAr": "كَيْفَ نَحْسِمُ قِرَاءَةَ «مُفْعِل» أَوْ «مُفْعَل» فِي النَّصِّ غَيْرِ الْمَشْكُولِ؟", "soruTr": "Harekesiz metinde مُفْعِل mi مُفْعَل mi olduğunu nasıl kesinleştiririz?", "ipucu": "Cümle bağlamına (yapan mı yapılan mı) bakarız.", "secenekler": ["مِنْ خِلَالِ سِيَاقِ الْجُمْلَةِ وَتَحْدِيدِ هَلِ الْكَلِمَةُ فَاعِلَةٌ أَمْ مَفْعُولٌ بِهَا.", "بِتَخْمِينٍ عَشْوَائِيٍّ.", "نَقْرَأُهَا دَائِمًا بِالْفَتْحِ."], "dogruIndeks": 0, "aciklama": "Anlam ve bağlam (özne/etken vs. nesne/edilgen) tek kesin ölçüttür." }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "id": "m30_fc1", "ar": "كَاتِبٌ", "harekesiz": "كاتب", "okunus": "Kâtibun", "tr": "Yazan / yazar / kâtip", "kok": "ك-ت-ب", "vezin": "فَاعِلٌ", "turevler": ["كَتَبَ", "مَكْتُوبٌ", "كُتَّابٌ"], "ekBilgi": "Sülâsî sâlim İsm-i Fâil", "ornek": "نَاقَشَ الْكَاتِبُ رِوَايَتَهُ مَعَ الْقُرَّاءِ.", "ornekTr": "Yazar romanını okurlarla tartıştı.", "kullanimNotu": "Çoğulu كُتَّابٌ (yazarlar) veya كَاتِبُونَ gelir.", "tur": "İsm-i Fâil" },
+    { "id": "m30_fc2", "ar": "قَائِلٌ", "harekesiz": "قائل", "okunus": "Kâ’ilun", "tr": "Söyleyen / diyen", "kok": "ق-و-ل", "vezin": "فَاعِلٌ", "turevler": ["قَالَ", "مَقُولٌ", "قَوْلٌ"], "ekBilgi": "Ecvef sülâsî İsm-i Fâil (و → ء!)", "ornek": "مَنْ قَائِلُ هٰذَا الْبَيْتِ الشِّعْرِيِّ؟", "ornekTr": "Bu şiir beytini söyleyen kimdir?", "kullanimNotu": "بَائِعٌ (satıcı), نَائِمٌ (uyuyan) aynı ecvef kuralıyla türer.", "tur": "İsm-i Fâil" },
+    { "id": "m30_fc3", "ar": "قَاضٍ", "harekesiz": "قاض", "okunus": "Kâdın (el-Kâdî)", "tr": "Yargıç / hâkim / kadı", "kok": "ق-ض-ي", "vezin": "فَاعٍ (فَاعِلٌ)", "turevler": ["قَضَى", "مَقْضِيٌّ", "قُضَاةٌ"], "ekBilgi": "Nâkıs İsm-i Fâil (الْقَاضِي)", "ornek": "الْقَاضِي الْعَادِلُ يَسْتَمِعُ لِلْجَمِيعِ.", "ornekTr": "Adil yargıç herkesi dinler.", "kullanimNotu": "Nekre merfû/mecrûrda yâ düşer (قَاضٍ), mansubda geri gelir (قَاضِيًا).", "tur": "İsm-i Fâil" },
+    { "id": "m30_fc4", "ar": "مُجْتَهِدٌ", "harekesiz": "مجتهد", "okunus": "Muctehidun", "tr": "Çalışkan / gayretli", "kok": "ج-ه-د", "vezin": "مُفْتَعِلٌ", "turevler": ["اِجْتَهَدَ", "اِجْتِهَادٌ", "مُجْتَهِدُونَ"], "ekBilgi": "VIII. bab İsm-i Fâil (ه kesralı!)", "ornek": "الطَّالِبُ الْمُجْتَهِدُ يَنْجَحُ بِتَفَوُّقٍ.", "ornekTr": "Çalışkan öğrenci üstünlükle başarır.", "kullanimNotu": "Mezîd İsm-i Fâil = مُـ + sondan önceki kesra.", "tur": "İsm-i Fâil" },
+    { "id": "m30_fc5", "ar": "مُتَرْجِمٌ", "harekesiz": "مترجم", "okunus": "Mutercimun", "tr": "Tercüman / çevirmen", "kok": "ت-ر-ج-م", "vezin": "مُفَعْلِلٌ", "turevler": ["تَرْجَمَ", "مُتَرْجَمٌ", "تَرْجَمَةٌ"], "ekBilgi": "Rubâî İsm-i Fâil (ج kesralı!)", "ornek": "الْمُتَرْجِمُ الْبَارِعُ يَنْقُلُ الْمَعْنَى بِدِقَّةٍ.", "ornekTr": "Usta tercüman anlamı hassasiyetle aktarır.", "kullanimNotu": "مُتَرْجِم (tercüman) ≠ مُتَرْجَم (tercüme edilmiş).", "tur": "İsm-i Fâil" },
+    { "id": "m30_fc6", "ar": "مُنْتِجٌ", "harekesiz": "منتج", "okunus": "Munticun", "tr": "Üretici / yapımcı", "kok": "ن-ت-ج", "vezin": "مُفْعِلٌ", "turevler": ["أَنْتَجَ", "مُنْتَجٌ", "إِنْتَاجٌ"], "ekBilgi": "IV. bab İsm-i Fâil (ت kesralı!)", "ornek": "الشَّرِكَةُ الْمُنْتِجَةُ تَضْمَنُ الْجَوْدَةَ.", "ornekTr": "Üretici şirket kaliteyi garanti eder.", "kullanimNotu": "مُنْتِج (üretici) ≠ مُنْتَج (ürün)!", "tur": "İsm-i Fâil" },
+    { "id": "m30_fc7", "ar": "مُسْتَخْدِمٌ", "harekesiz": "مستخدم", "okunus": "Mustahdimun", "tr": "Kullanıcı", "kok": "خ-د-م", "vezin": "مُسْتَفْعِلٌ", "turevler": ["اِسْتَخْدَمَ", "مُسْتَخْدَمٌ", "اِسْتِخْدَامٌ"], "ekBilgi": "X. bab İsm-i Fâil (د kesralı!)", "ornek": "زَادَ عَدَدُ الْمُسْتَخْدِمِينَ الْيَوْمَ.", "ornekTr": "Kullanıcı sayısı bugün arttı.", "kullanimNotu": "مُسْتَخْدِم (kullanıcı) ≠ مُسْتَخْدَم (kullanılan)!", "tur": "İsm-i Fâil" },
+    { "id": "m30_fc8", "ar": "مُبْتَكِرٌ", "harekesiz": "مبتكر", "okunus": "Mubtekirun", "tr": "Yenilikçi / mucit", "kok": "ب-ك-ر", "vezin": "مُفْتَعِلٌ", "turevler": ["اِبْتَكَرَ", "مُبْتَكَرٌ", "اِبْتِكَارٌ"], "ekBilgi": "VIII. bab İsm-i Fâil (ك kesralı!)", "ornek": "الشَّابُّ الْمُبْتَكِرُ يَبْنِي الْمُسْتَقْبَلَ.", "ornekTr": "Yenilikçi genç geleceği inşa eder.", "kullanimNotu": "أَفْكَارٌ مُبْتَكَرَةٌ = yenilikçi/yeni üretilmiş fikirler (ism-i mef'ûl).", "tur": "İsm-i Fâil" },
+    { "id": "m30_fc9", "ar": "مُطْمَئِنٌّ", "harekesiz": "مطمئن", "okunus": "Mutme’innun", "tr": "Huzurlu / içi rahat / mutmain", "kok": "ط-م-أ-ن", "vezin": "مُفْعَلِلٌّ", "turevler": ["اِطْمَأَنَّ", "اِطْمِئْنَانٌ"], "ekBilgi": "Rubâî mezîd İsm-i Fâil", "ornek": "قَلْبٌ مُطْمَئِنٌّ وَنَفْسٌ رَاضِيَةٌ.", "ornekTr": "Huzurlu bir kalp ve razı bir gönül.", "kullanimNotu": "اِطْمَأَنَّ → يَطْمَئِنُّ → مُطْمَئِنٌّ.", "tur": "İsm-i Fâil" },
+    { "id": "m30_fc10", "ar": "مَكْتُوبٌ", "harekesiz": "مكتوب", "okunus": "Mektûbun", "tr": "Yazılmış / yazılı / mektup", "kok": "ك-ت-ب", "vezin": "مَفْعُولٌ", "turevler": ["كَتَبَ", "كَاتِبٌ", "مَكَاتِيبُ"], "ekBilgi": "Sülâsî sâlim İsm-i Mef'ûl", "ornek": "الْمَعْلُومَاتُ الْمَكْتُوبَةُ وَاضِحَةٌ.", "ornekTr": "Yazılı bilgiler açıktır.", "kullanimNotu": "Sülâsî İsm-i Mef'ûl'ün ana şablon kelimesidir.", "tur": "İsm-i Mef'ûl" },
+    { "id": "m30_fc11", "ar": "مَصُونٌ", "harekesiz": "مصون", "okunus": "Masûnun", "tr": "Korunmuş / mahfuz", "kok": "ص-و-ن", "vezin": "مَفْعُولٌ (مَفُولٌ)", "turevler": ["صَانَ", "صِيَانَةٌ"], "ekBilgi": "Ecvef-i vâvî İsm-i Mef'ûl (tek vav!)", "ornek": "الْحُقُوقُ مَصُونَةٌ بِالْقَانُونِ.", "ornekTr": "Haklar kanunla korunmuştur.", "kullanimNotu": "مَقُولٌ (söylenmiş) aynı ecvef-i vâvî kalıbındadır.", "tur": "İsm-i Mef'ûl" },
+    { "id": "m30_fc12", "ar": "مَبِيعٌ", "harekesiz": "مبيع", "okunus": "Mebî‘un", "tr": "Satılmış / satılan", "kok": "ب-ي-ع", "vezin": "مَفْعُولٌ (مَفِيلٌ)", "turevler": ["بَاعَ", "بَائِعٌ", "مَبِيعَاتٌ"], "ekBilgi": "Ecvef-i yâî İsm-i Mef'ûl (مَبْيُوع değil!)", "ornek": "الْمُنْتَجَاتُ الْمَبِيعَةُ عَالِيَةُ الْجَوْدَةِ.", "ornekTr": "Satılan ürünler yüksek kalitelidir.", "kullanimNotu": "مَبِيعَاتٌ = satışlar (ekonomi terimi).", "tur": "İsm-i Mef'ûl" },
+    { "id": "m30_fc13", "ar": "مَدْعُوٌّ", "harekesiz": "مدعو", "okunus": "Med‘uvvun", "tr": "Davet edilmiş / davetli", "kok": "د-ع-و", "vezin": "مَفْعُولٌ", "turevler": ["دَعَا", "دَاعٍ", "دَعْوَةٌ"], "ekBilgi": "Nâkıs-ı vâvî İsm-i Mef'ûl (şeddeli و!)", "ornek": "الضُّيُوفُ الْمَدْعُوُّونَ فِي الْقَاعَةِ.", "ornekTr": "Davetli misafirler salondadır.", "kullanimNotu": "مَرْجُوٌّ (umulan) aynı nâkıs-ı vâvî kuralıyla türer.", "tur": "İsm-i Mef'ûl" },
+    { "id": "m30_fc14", "ar": "مَبْنِيٌّ", "harekesiz": "مبني", "okunus": "Mebniyyun", "tr": "İnşa edilmiş / kurulu / mebnî", "kok": "ب-ن-ي", "vezin": "مَفْعُولٌ", "turevler": ["بَنَى", "بَانٍ", "بِنَاءٌ"], "ekBilgi": "Nâkıs-ı yâî İsm-i Mef'ûl (şeddeli ي!)", "ornek": "بَيْتٌ مَبْنِيٌّ عَلَى أَسَاسٍ قَوِيٍّ.", "ornekTr": "Sağlam temel üzerine inşa edilmiş bir ev.", "kullanimNotu": "Nahivdeki 'mebnî' terimi de bu kelimedir.", "tur": "İsm-i Mef'ûl" },
+    { "id": "m30_fc15", "ar": "مُنْتَجٌ", "harekesiz": "منتج", "okunus": "Muntecun", "tr": "Ürün / üretilen mal", "kok": "ن-ت-ج", "vezin": "مُفْعَلٌ", "turevler": ["أَنْتَجَ", "مُنْتِجٌ", "مُنْتَجَاتٌ"], "ekBilgi": "IV. bab İsm-i Mef'ûl (ت fethalı!)", "ornek": "هٰذَا مُنْتَجٌ مَحَلِّيٌّ مُمْتَازٌ.", "ornekTr": "Bu mükemmel bir yerli üründür.", "kullanimNotu": "Çoğulu: مُنْتَجَاتٌ (ürünler).", "tur": "İsm-i Mef'ûl" },
+    { "id": "m30_fc16", "ar": "مُتَرْجَمٌ", "harekesiz": "مترجم", "okunus": "Mutercemun", "tr": "Tercüme edilmiş / çevrilmiş", "kok": "ت-ر-ج-م", "vezin": "مُفَعْلَلٌ", "turevler": ["تَرْجَمَ", "مُتَرْجِمٌ", "تَرْجَمَةٌ"], "ekBilgi": "Rubâî İsm-i Mef'ûl (ج fethalı!)", "ornek": "الْكِتَابُ الْمُتَرْجَمُ مَفْهُومٌ جِدًّا.", "ornekTr": "Tercüme edilmiş kitap çok anlaşılırdır.", "kullanimNotu": "Sadece ج harekesi etken/edilgen ayrımını yapar.", "tur": "İsm-i Mef'ûl" },
+    { "id": "m30_fc17", "ar": "مُتَّفَقٌ عَلَيْهِ", "harekesiz": "متفق عليه", "okunus": "Muttefakun ‘aleyhi", "tr": "Üzerinde uzlaşılan / ittifak edilen", "kok": "و-ف-ق", "vezin": "مُفْتَعَلٌ", "turevler": ["اِتَّفَقَ", "اِتِّفَاقٌ", "مُتَّفِقٌ"], "ekBilgi": "Lâzım VIII. bab İsm-i Mef'ûl + harf-i cer", "ornek": "هٰذَا مَبْدَأٌ مُتَّفَقٌ عَلَيْهِ.", "ornekTr": "Bu üzerinde uzlaşılmış bir ilkedir.", "kullanimNotu": "Lâzım fiil ism-i mef'ûlü mutlaka harf-i cerli zamirle kullanılır.", "tur": "İsm-i Mef'ûl" },
+    { "id": "m30_fc18", "ar": "مُشَارٌ إِلَيْهِ", "harekesiz": "مشار إليه", "okunus": "Muşârun ileyhi", "tr": "İşaret edilen / bahsi geçen", "kok": "ش-و-ر", "vezin": "مُفْعَلٌ (مُفَالٌ)", "turevler": ["أَشَارَ", "إِشَارَةٌ", "مُشِيرٌ"], "ekBilgi": "IV. bab ecvef İsm-i Mef'ûl + إِلَيْهِ", "ornek": "التَّقْرِيرُ الْمُشَارُ إِلَيْهِ مُعْتَمَدٌ.", "ornekTr": "Bahsi geçen rapor onaylıdır.", "kullanimNotu": "Resmî yazışmalar ve YDS metinlerinin vazgeçilmez kalıbıdır.", "tur": "İsm-i Mef'ûl" },
+    { "id": "m30_fc19", "ar": "مُعْتَمَدٌ", "harekesiz": "معتمد", "okunus": "Mu‘temedun", "tr": "Onaylı / geçerli / akredite", "kok": "ع-م-د", "vezin": "مُفْتَعَلٌ", "turevler": ["اِعْتَمَدَ", "اِعْتِمَادٌ", "مُعْتَمِدٌ"], "ekBilgi": "VIII. bab İsm-i Mef'ûl (م fethalı!)", "ornek": "دَوْرَةُ بَرْمَجَةٍ مُعْتَمَدَةٌ مِنَ الْجَامِعَةِ.", "ornekTr": "Üniversite tarafından onaylı bir programlama kursu.", "kullanimNotu": "مُعْتَمِدٌ عَلَى = ...'e dayanan (ism-i fâil).", "tur": "İsm-i Mef'ûl" },
+    { "id": "m30_fc20", "ar": "مُخْتَارٌ", "harekesiz": "مختار", "okunus": "Muhtârun", "tr": "Seçen (Fâil) / Seçilmiş (Mef'ûl)", "kok": "خ-ي-ر", "vezin": "مُفْتَعِلٌ / مُفْتَعَلٌ", "turevler": ["اِخْتَارَ", "اِخْتِيَارٌ"], "ekBilgi": "VIII. bab ecvef — Etken & Edilgen ORTAK!", "ornek": "اللَّوْحَةُ الْمُخْتَارَةُ جَمِيلَةٌ جِدًّا.", "ornekTr": "Seçilmiş tablo çok güzeldir.", "kullanimNotu": "Etken mi edilgen mi olduğunu yalnızca cümle bağlamı belirler.", "tur": "Ortak Türev" },
+    { "id": "m30_fc21", "ar": "مُحْتَلٌّ", "harekesiz": "محتل", "okunus": "Muhtellun", "tr": "İşgalci (Fâil) / İşgal edilmiş (Mef'ûl)", "kok": "ح-ل-ل", "vezin": "مُفْتَعِلٌ / مُفْتَعَلٌ", "turevler": ["اِحْتَلَّ", "اِحْتِلَالٌ"], "ekBilgi": "VIII. bab muzaaf — Etken & Edilgen ORTAK!", "ornek": "الْجَيْشُ الْمُحْتَلُّ ≠ الْمَدِينَةُ الْمُحْتَلَّةُ.", "ornekTr": "İşgalci ordu ≠ İşgal edilmiş şehir.", "kullanimNotu": "Basın Arapçasında her gün karşılaşılan ortak şekilli türevdir.", "tur": "Ortak Türev" },
+    { "id": "m30_fc22", "ar": "مُنَظَّمَةٌ", "harekesiz": "منظمة", "okunus": "Munazzametun", "tr": "Örgüt / kuruluş (≠ الْمُنَظِّمَة düzenleyici)", "kok": "ن-ظ-م", "vezin": "مُفَعَّلَةٌ", "turevler": ["نَظَّمَ", "مُنَظِّمٌ", "تَنْظِيمٌ"], "ekBilgi": "II. bab İsm-i Mef'ûl (ظ fethalı!)", "ornek": "الْمُنَظَّمَةُ الدَّوْلِيَّةُ تَدْعَمُ السَّلَامَ.", "ornekTr": "Uluslararası örgüt barışı destekliyor.", "kullanimNotu": "اللَّجْنَةُ الْمُنَظِّمَةُ (kesra) = düzenleyici komite.", "tur": "İsm-i Mef'ûl" },
+    { "id": "m30_fc23", "ar": "صَبُورٌ", "harekesiz": "صبور", "okunus": "Sabûrun", "tr": "Çok sabırlı", "kok": "ص-ب-ر", "vezin": "فَعُولٌ", "turevler": ["صَبَرَ", "صَابِرٌ", "صَبْرٌ"], "ekBilgi": "Mübalağalı İsm-i Fâil (müenneste ة almaz!)", "ornek": "هٰذِهِ الْأُمُّ صَبُورٌ وَوَدُودٌ.", "ornekTr": "Bu anne çok sabırlı ve çok şefkatlidir.", "kullanimNotu": "رَجُلٌ صَبُورٌ ve اِمْرَأَةٌ صَبُورٌ — ikisi de aynıdır.", "tur": "Mübalağa" },
+    { "id": "m30_fc24", "ar": "شَكُورٌ", "harekesiz": "شكور", "okunus": "Şekûrun", "tr": "Çok şükreden", "kok": "ش-ك-ر", "vezin": "فَعُولٌ", "turevler": ["شَكَرَ", "شَاكِرٌ", "شُكْرٌ"], "ekBilgi": "Mübalağalı İsm-i Fâil (eril/dişil ortak)", "ornek": "الْمُؤْمِنُ شَكُورٌ عِنْدَ النِّعَمِ.", "ornekTr": "Mümin nimetler karşısında çok şükredicidir.", "kullanimNotu": "صَدُوقٌ (çok doğru sözlü), وَدُودٌ (çok seven) aynı kalıptadır.", "tur": "Mübalağa" },
+    { "id": "m30_fc25", "ar": "مِعْطَاءٌ", "harekesiz": "معطاء", "okunus": "Mı‘tâ’un", "tr": "Çok cömert / bol veren", "kok": "ع-ط-و", "vezin": "مِفْعَالٌ", "turevler": ["أَعْطَى", "عَطَاءٌ"], "ekBilgi": "IV. babdan türeyebilen nadir مِفْعَالٌ mübalağası", "ornek": "عَرَفْتُهُ رَجُلًا مِعْطَاءً وَكَرِيمًا.", "ornekTr": "Onu çok cömert ve eli açık bir adam olarak tanıdım.", "kullanimNotu": "مِفْعَالٌ mübalağası da müzekker-müennes ortak kullanılır: اِمْرَأَةٌ مِعْطَاءٌ!", "tur": "Mübalağa" },
+    { "id": "m30_fc26", "ar": "مِضْيَافٌ", "harekesiz": "مضياف", "okunus": "Mıdyâfun", "tr": "Çok misafirperver", "kok": "ض-ي-ف", "vezin": "مِفْعَالٌ", "turevler": ["ضَيْفٌ", "ضِيَافَةٌ", "مُضِيفٌ"], "ekBilgi": "Mübalağalı İsm-i Fâil", "ornek": "صَاحِبُ الْبَيْتِ رَجُلٌ مِضْيَافٌ.", "ornekTr": "Ev sahibi çok misafirperver bir adamdır.", "kullanimNotu": "مِقْدَامٌ (çok atılgan) ile aynı kalıptadır.", "tur": "Mübalağa" },
+    { "id": "m30_fc27", "ar": "فَعَّالٌ", "harekesiz": "فعال", "okunus": "Fe‘‘âlun", "tr": "Çok etkin / tesirli / faal", "kok": "ف-ع-ل", "vezin": "فَعَّالٌ", "turevler": ["فَعَلَ", "فَاعِلٌ", "فَاعِلِيَّةٌ"], "ekBilgi": "En yaygın mübalağa kalıbı (فَعَّالٌ)", "ornek": "قَدَّمَ الْبَاحِثُ حَلًّا فَعَّالًا.", "ornekTr": "Araştırmacı son derece etkin bir çözüm sundu.", "kullanimNotu": "Modern Arapçada 'etkili tedavi, etkili rol' için her gün kullanılır.", "tur": "Mübalağa" },
+    { "id": "m30_fc28", "ar": "حَذِرٌ", "harekesiz": "حذر", "okunus": "Hazirun", "tr": "Çok dikkatli / temkinli", "kok": "ح-ذ-ر", "vezin": "فَعِلٌ", "turevler": ["حَذِرَ", "حَذَرٌ", "تَحْذِيرٌ"], "ekBilgi": "5. mübalağa kalıbı (فَعِلٌ)", "ornek": "السَّائِقُ الْحَذِرُ يَتَجَنَّبُ الْحَوَادِثَ.", "ornekTr": "Çok dikkatli sürücü kazalardan kaçınır.", "kullanimNotu": "يَقِظٌ (çok uyanık) ve فَطِنٌ (çok zeki) ile ikizdir.", "tur": "Mübalağa" },
+    { "id": "m30_fc29", "ar": "فَطِنٌ", "harekesiz": "فطن", "okunus": "Fatınun", "tr": "Çok zeki / kavrayışlı", "kok": "ف-ط-ن", "vezin": "فَعِلٌ", "turevler": ["فَطِنَ", "فِطْنَةٌ"], "ekBilgi": "فَعِلٌ mübalağası", "ornek": "الْقَائِدُ الْفَطِنُ يَتَوَقَّعُ الْمُشْكِلَاتِ.", "ornekTr": "Çok kavrayışlı lider sorunları önceden sezer.", "kullanimNotu": "فِطْنَةٌ (fetanet/keskin zekâ) mastarıdır.", "tur": "Mübalağa" },
+    { "id": "m30_fc30", "ar": "أَخْضَرُ / خَضْرَاءُ", "harekesiz": "أخضر / خضراء", "okunus": "Ahdaru / Hadrâ’u", "tr": "Yeşil (çoğul: خُضْرٌ)", "kok": "خ-ض-ر", "vezin": "أَفْعَلُ / فَعْلَاءُ", "turevler": ["اِخْضَرَّ", "خُضْرَةٌ", "خُضْرٌ"], "ekBilgi": "Gayr-i Munsarıf Sıfat-ı Müşebbehe (tenvinsiz!)", "ornek": "تَجَوَّلْنَا فِي حَدِيقَةٍ خَضْرَاءَ.", "ornekTr": "Yeşil bir bahçede gezdik.", "kullanimNotu": "Nekre mecrûr hâlde fetha alır: خَضْرَاءَ / أَخْضَرَ.", "tur": "Sıfat-ı Müşebbehe" },
+    { "id": "m30_fc31", "ar": "أَحْمَرُ / حَمْرَاءُ", "harekesiz": "أحمر / حمراء", "okunus": "Ahmaru / Hamrâ’u", "tr": "Kırmızı (çoğul: حُمْرٌ)", "kok": "ح-م-ر", "vezin": "أَفْعَلُ / فَعْلَاءُ", "turevler": ["اِحْمَرَّ", "حُمْرَةٌ", "حُمْرٌ"], "ekBilgi": "Gayr-i Munsarıf renk sıfatı", "ornek": "قَطَفْتُ وَرْدَةً حَمْرَاءَ جَمِيلَةً.", "ornekTr": "Güzel bir kırmızı gül kopardım.", "kullanimNotu": "Sonuna asla tenvin konmaz.", "tur": "Sıfat-ı Müşebbehe" },
+    { "id": "m30_fc32", "ar": "عَطْشَانُ / عَطْشَى", "harekesiz": "عطشان / عطشى", "okunus": "‘Atşânu / ‘Atşâ", "tr": "Susamış", "kok": "ع-ط-ش", "vezin": "فَعْلَانُ / فَعْلَى", "turevler": ["عَطِشَ", "عَطَشٌ", "عِطَاشٌ"], "ekBilgi": "Gayr-i Munsarıf Sıfat-ı Müşebbehe", "ornek": "الْمُسَافِرُ عَطْشَانُ وَأُخْتُهُ عَطْشَى.", "ornekTr": "Yolcu susamış, kız kardeşi de susamıştır.", "kullanimNotu": "جَوْعَانُ/جَوْعَى (aç) ve غَضْبَانُ/غَضْبَى (öfkeli) aynı kalıptadır.", "tur": "Sıfat-ı Müşebbehe" },
+    { "id": "m30_fc33", "ar": "مَلْآنُ / مَلْأَى", "harekesiz": "ملآن / ملأى", "okunus": "Mel’ânu / Mel’â", "tr": "Dolu / dopdolu", "kok": "م-ل-أ", "vezin": "فَعْلَانُ / فَعْلَى", "turevler": ["مَلَأَ", "مَمْلُوءٌ", "مَلِيءٌ"], "ekBilgi": "Gayr-i Munsarıf Sıfat-ı Müşebbehe", "ornek": "حَدِيقَةٌ مَلْأَى بِالْوُرُودِ.", "ornekTr": "Güllerle dopdolu bir bahçe.", "kullanimNotu": "Edebi metinlerde مَلْأَى (müennes) çok zarif kullanılır.", "tur": "Sıfat-ı Müşebbehe" },
+    { "id": "m30_fc34", "ar": "كَرِيمٌ", "harekesiz": "كريم", "okunus": "Kerîmun", "tr": "Cömert / soylu / değerli", "kok": "ك-ر-م", "vezin": "فَعِيلٌ", "turevler": ["كَرُمَ", "كَرَمٌ", "كِرَامٌ"], "ekBilgi": "5. bab (فَعُلَ) Sıfat-ı Müşebbehesi", "ornek": "هٰذَا الطَّالِبُ كَرِيمُ الْأَخْلَاقِ.", "ornekTr": "Bu öğrenci güzel/soylu ahlaklıdır.", "kullanimNotu": "Çoğulu كِرَامٌ veya كُرَمَاءُ gelir.", "tur": "Sıfat-ı Müşebbehe" },
+    { "id": "m30_fc35", "ar": "شُجَاعٌ", "harekesiz": "شجاع", "okunus": "Şucâ‘un", "tr": "Cesur / yiğit", "kok": "ش-ج-ع", "vezin": "فُعَالٌ", "turevler": ["شَجُعَ", "شَجَاعَةٌ", "شُجْعَانٌ"], "ekBilgi": "5. bab Sıfat-ı Müşebbehesi (çoğul: شُجْعَانٌ)", "ornek": "الْقَائِدُ شُجَاعٌ فِي قَوْلِ الْحَقِّ.", "ornekTr": "Lider hakkı söylemede cesurdur.", "kullanimNotu": "Zıddı: جَبَانٌ (korkak — فَعَالٌ).", "tur": "Sıfat-ı Müşebbehe" },
+    { "id": "m30_fc36", "ar": "سَهْلٌ", "harekesiz": "سهل", "okunus": "Sehlun", "tr": "Kolay / düz", "kok": "س-ه-ل", "vezin": "فَعْلٌ", "turevler": ["سَهُلَ", "سُهُولَةٌ", "سُهُولٌ"], "ekBilgi": "5. bab kısa Sıfat-ı Müşebbehe", "ornek": "التَّمْرِينُ الْأَوَّلُ سَهْلٌ وَوَاضِحٌ.", "ornekTr": "Birinci alıştırma kolay ve açıktır.", "kullanimNotu": "Zıddı: صَعْبٌ (zor — فَعْلٌ).", "tur": "Sıfat-ı Müşebbehe" }
+  ]
+}
