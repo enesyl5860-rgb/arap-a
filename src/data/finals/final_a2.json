@@ -1,0 +1,474 @@
+{
+  "id": "final_a2",
+  "cefr": "A2",
+  "cilt": 2,
+  "title": "A2 Seviye Sonu Büyük Finali (Modül 12–23)",
+  "arabicTitle": "الِاخْتِبَارُ النِّهَائِيُّ الشَّامِلُ لِلْمُسْتَوَى الثَّانِي",
+  "description": "Faz 2 (Modül 12–23) boyunca öğrenilen Sülâsî 6 bab, tesniye/çoğul i'rabı, Esmâ-i ve Ef'âl-i Hamse, nasb ve cezm edatları, emir/nehiy, meçhul çatı, ism-i mevsûl, haber ve sıfat çeşitleri, Kâne ve İnne aileleri, tam sayı sistemi (11–1000+, sıra sayıları) ve mansub munfasıl zamirleri (إِيَّاكَ/إِيَّاهُ) ölçen 10 Diyalog, 10 Okuma Metni ve 20 Soruluk Çözümlü Değerlendirme Sınavı.",
+  "diyaloglar": [
+    {
+      "id": "final_a2_d01",
+      "baslik": "Kök Sözlüğü ve Altı Bab Çalışması",
+      "ortam": "İki öğrenci kütüphanede sülâsî fiillerin bablarını karşılaştırıyor",
+      "replikler": [
+        { "konusan": "طارق", "ar": "هَلْ تَعْرِفُ مِنْ أَيِّ بَابٍ يَأْتِي الْفِعْلُ «فَتَحَ – يَفْتَحُ» يَا يُوسُفُ؟", "okunus": "Hel ta‘rifu min eyyi bâbin ye'ti'l-fi‘lu 'feteha – yeftehu' yâ Yûsufu?", "tr": "'Feteha – yeftehu' fiilinin kaçıncı babtan geldiğini biliyor musun Yusuf?" },
+        { "konusan": "يوسف", "ar": "نَعَمْ، هُوَ مِنَ الْبَابِ الثَّالِثِ (فَعَلَ – يَفْعَلُ)، لِأَنَّ لَامَهُ حَرْفُ حَلْقٍ وَهُوَ الْحَاءُ.", "okunus": "Ne‘am, huve mine'l-bâbi's-sâlisi (fe‘ale – yef‘alu), li-enne lâmehu harfu halkın ve huve'l-hâu.", "tr": "Evet, 3. babtandır (fe‘ale – yef‘alu); çünkü lâm'ul-fiili boğaz harfi olan hâ'dır." },
+        { "konusan": "طارق", "ar": "مُمْتَازٌ! وَمَاذَا عَنِ الْفِعْلِ «كَرُمَ – يَكْرُمُ» وَالْفِعْلِ «عَلِمَ – يَعْلَمُ»؟", "okunus": "Mumtâzun! Ve mâzâ ‘ani'l-fi‘li 'kerume – yekrumu' ve'l-fi‘li ‘alime – ya‘lemu?", "tr": "Harika! Peki 'kerume – yekrumu' ve 'alime – ya‘lemu' fiilleri hakkında ne dersin?" },
+        { "konusan": "يوسف", "ar": "«كَرُمَ» مِنَ الْبَابِ الْخَامِسِ وَأَفْعَالُهُ لَازِمَةٌ تَدُلُّ عَلَى الطَّبَائِعِ، أَمَّا «عَلِمَ» فَمِنَ الْبَابِ الرَّابِعِ.", "okunus": "'Kerume' mine'l-bâbi'l-hâmisi ve ef‘âluhu lâzimetun tedullu ‘ale't-tabâi‘i, emmâ ‘alime fe-mine'l-bâbi'r-râbi‘i.", "tr": "'Kerume' 5. babtandır ve fiilleri huy/tabiat bildiren lâzım fiillerdir; 'alime' ise 4. babtandır." },
+        { "konusan": "طارق", "ar": "كَيْفَ نَعْرِفُ بَابَ الْفِعْلِ إِذَا كُنَّا لَا نَحْفَظُ حَرَكَةَ عَيْنِ الْمُضَارِعِ؟", "okunus": "Keyfe na‘rifu bâbe'l-fi‘li izâ kunnâ lâ nahfezu harakete ‘ayni'l-mudâri‘i?", "tr": "Muzârinin orta harfinin harekesini ezberlemediysek fiilin babını nasıl biliriz?" },
+        { "konusan": "يوسف", "ar": "نَرْجِعُ إِلَى الْمُعْجَمِ الْعَرَبِيِّ، فَالرَّمْزُ (ن) يَعْنِي الْبَابَ الْأَوَّلَ وَ(ض) يَعْنِي الثَّانِيَ وَ(ف) يَعْنِي الثَّالِثَ!", "okunus": "Nerci‘u ile'l-mu‘cemi'l-‘arabiyyi, fe'r-ramzu (n) ya‘ni'l-bâbe'l-evvele ve (d) ya‘ni's-sâniye ve (f) ya‘ni's-sâlise!", "tr": "Arapça sözlüğe bakarız: (ن) simgesi 1. babı, (ض) 2. babı ve (ف) 3. babı gösterir!" }
+      ]
+    },
+    {
+      "id": "final_a2_d02",
+      "baslik": "Fakülte Toplantısında İki Araştırmacı (Tesniye & Çoğullar)",
+      "ortam": "Dekanlık sekreteri ile iki öğretim üyesi konferans hazırlığını konuşuyor",
+      "replikler": [
+        { "konusan": "الأمينة", "ar": "أَهْلًا بِكُمَا! هَلْ وَصَلَ مُهَنْدِسَا الْمَشْرُوعِ وَمُعَلِّمُو الْقِسْمِ إِلَى الْقَاعَةِ؟", "okunus": "Ehlen bikumâ! Hel vasale muhendisâ'l-meşrû‘i ve mu‘allimû'l-kısmi ile'l-kâ‘ati?", "tr": "Hoş geldiniz! Projenin iki mühendisi ve bölümün öğretmenleri salona ulaştı mı?" },
+        { "konusan": "الباحث", "ar": "نَعَمْ، رَأَيْتُ مُهَنْدِسَيِ الْمَشْرُوعِ وَتَحَدَّثْتُ مَعَ مُعَلِّمِي الْقِسْمِ قَبْلَ دَقَائِقَ.", "okunus": "Ne‘am, raeytu muhendiseyi'l-meşrû‘i ve tehaddestu me‘a mu‘allimi'l-kısmi kable dekâika.", "tr": "Evet, projenin iki mühendisini gördüm ve birkaç dakika önce bölüm öğretmenleriyle konuştum." },
+        { "konusan": "الأمينة", "ar": "مُمْتَازٌ! وَهَلْ كَرَّمَتِ الْجَامِعَةُ الطَّالِبَاتِ الْمُتَفَوِّقَاتِ فِي الصَّبَاحِ؟", "okunus": "Mumtâzun! Ve hel kerrameti'l-câmi‘atu't-tâlibâti'l-mutefevvikâti fi's-sabâhi?", "tr": "Harika! Peki üniversite sabahleyin başarılı kız öğrencileri ödüllendirdi mi?" },
+        { "konusan": "الباحث", "ar": "نَعَمْ، كَرَّمَتْهُنَّ الْجَامِعَةُ وَسَلَّمَتْهُنَّ شَهَادَاتٍ تَقْدِيرِيَّةً أَمَامَ الْحَاضِرِينَ.", "okunus": "Ne‘am, kerramethunne'l-câmi‘atu ve sellemtehunne şehâdâtin takdîriyyeten emâme'l-hâdırîne.", "tr": "Evet, üniversite onları ödüllendirdi ve katılımcıların önünde takdir belgeleri takdim etti." },
+        { "konusan": "الأمينة", "ar": "اُدْخُلَا الْقَاعَةَ مِنْ فَضْلِكُمَا؛ فَالْأَسَاتِذَةُ الْمُشَارِكُونَ يَنْتَظِرُونَ بَدْءَ الْجَلْسَةِ.", "okunus": "Udhula'l-kâ‘ate min fadlikumâ; fe'l-esâtizetu'l-muşârikûne yentezirûne bed'e'l-celseti.", "tr": "Lütfen salona giriniz; katılımcı hocalar oturumun başlamasını bekliyor." },
+        { "konusan": "الباحث", "ar": "شُكْرًا لَكِ! سَنَبْدَأُ فَوْرًا وَنَعْرِضُ التَّقْرِيرَيْنِ الْعِلْمِيَّيْنِ.", "okunus": "Şukran leki! Se-nebdeu fevran ve na‘ridu't-takrîreyni'l-‘ilmiyyeyni.", "tr": "Teşekkürler! Hemen başlayacak ve iki bilimsel raporu sunacağız." }
+      ]
+    },
+    {
+      "id": "final_a2_d03",
+      "baslik": "Aile Ziyareti: Esmâ-i Hamse ve Ef'âl-i Hamse",
+      "ortam": "İki dost hafta sonu aile buluşmasını konuşuyor",
+      "replikler": [
+        { "konusan": "سلمان", "ar": "كَيْفَ حَالُ أَبِيكَ وَأَخِيكَ الْكَبِيرِ يَا كَرِيمُ؟ لَمْ أَرَهُمَا مُنْذُ أُسْبُوعَيْنِ.", "okunus": "Keyfe hâlu ebîke ve ahîke'l-kebîri yâ Kerîmu? Lem erahumâ munzu usbû‘ayni.", "tr": "Babanın ve büyük abinin hâli nasıl Kerim? İki haftadır ikisini görmedim." },
+        { "konusan": "كريم", "ar": "الْحَمْدُ لِلّٰهِ! أَبُوكَ وَأَبِي كَانَا مَعًا أَمْسِ، وَأَخُوكَ ذُو خُلُقٍ رَفِيعٍ يَسْأَلُ عَنْكَ دَائِمًا.", "okunus": "El-hamdu lillâhi! Ebûke ve ebî kânâ me‘an emsi, ve ahûke zû hulukin refî‘in yes'elu ‘anke dâimen.", "tr": "Elhamdülillah! Senin babanla benim babam dün birlikteydi, yüksek ahlak sahibi abin de seni hep soruyor." },
+        { "konusan": "سلمان", "ar": "جَزَاهُمَا اللّٰهُ خَيْرًا! قَابَلْتُ حَمَاكَ فِي السُّوقِ صَبَاحًا وَسَلَّمْتُ عَلَى أَخِيكَ الصَّغِيرِ.", "okunus": "Cezâhumallâhu hayran! Kâbeltu hamâke fi's-sûki sabâhan ve sellemtu ‘alâ ahîke's-sagîri.", "tr": "Allah ikisinden de razı olsun! Sabah çarşıda kayınpederini gördüm ve küçük kardeşine selam verdim." },
+        { "konusan": "كريم", "ar": "هَلْ تَعْلَمُونَ أَنَّ أَبِي يَدْعُوكُمْ لِلْعَشَاءِ يَوْمَ الْجُمُعَةِ؟ أَرْجُو أَلَّا تَعْتَذِرُوا!", "okunus": "Hel ta‘lemûne enne ebî yed‘ûkum li'l-‘aşâi yevme'l-cumu‘ati? Ercû ellâ ta‘tezirû!", "tr": "Babamın sizi cuma günü akşam yemeğine davet ettiğini biliyor musunuz? Umarım mazeret bildirmezsiniz!" },
+        { "konusan": "سلمان", "ar": "لَنْ نَعْتَذِرَ أَبَدًا! أَنْتُمْ أَصْحَابُ كَرَمٍ، وَنَحْنُ نُحِبُّ أَنْ نَجْتَمِعَ بِأُسْرَتِكُمُ الْكَرِيمَةِ.", "okunus": "Len na‘tezira ebeden! Entum ashâbu keramin, ve nahnu nuhibbu en nectemi‘a bi-usratikumu'l-kerîmeti.", "tr": "Asla mazeret bildirmeyeceğiz! Siz cömertlik sahiplerisiniz, biz de değerli ailenizle buluşmayı seviyoruz." },
+        { "konusan": "كريم", "ar": "أَهْلًا وَسَهْلًا بِكُمْ! إِنَّ أَخَاكَ وَإِخْوَتِي يَنْتَظِرُونَ هٰذَا اللِّقَاءَ بِفَارِغِ الصَّبْرِ.", "okunus": "Ehlen ve sehlen bikum! İnne ahâke ve ihvetî yentezirûne hâze'l-likâe bi-fârigi's-sabri.", "tr": "Hoş geldiniz sefa geldiniz! Senin kardeşin ve benim kardeşlerim bu buluşmayı sabırsızlıkla bekliyor." }
+      ]
+    },
+    {
+      "id": "final_a2_d04",
+      "baslik": "Yeni Dönem Hedefleri (Nasb Edatları & Müevvel Mastar)",
+      "ortam": "İki öğrenci yüksek lisans hedeflerini ve çalışma planlarını konuşuyor",
+      "replikler": [
+        { "konusan": "زينب", "ar": "أُرِيدُ أَنْ أُتْقِنَ اللُّغَةَ الْعَرَبِيَّةَ هٰذَا الْعَامَ كَيْ أَقْرَأَ الْمَصَادِرَ الْأَصْلِيَّةَ بِلَا وَسِيطٍ.", "okunus": "Urîdu en utkıne'l-lugate'l-‘arabiyyete hâze'l-‘âme key ekrae'l-mesâdira'l-asliyyete bi-lâ vasîtin.", "tr": "Bu yıl ana kaynakları aracısız okuyabilmek için Arapçada ustalaşmak istiyorum." },
+        { "konusan": "حفصة", "ar": "هَدَفٌ رَائِعٌ! إِذَنْ تَنْجَحِي بِإِذْنِ اللّٰهِ، لِأَنَّ عَزِيمَتَكِ قَوِيَّةٌ وَخُطَّتَكِ وَاضِحَةٌ.", "okunus": "Hedefun râi‘un! İzen tencehî bi-iznillâhi, li-enne ‘azîmeteki kaviyyetun ve huttateki vâdıhatun.", "tr": "Harika bir hedef! Öyleyse Allah'ın izniyle başarırsın; çünkü azmin güçlü ve planın net." },
+        { "konusan": "زينب", "ar": "لَنْ أُؤَجِّلَ وَاجِبَاتِي بَعْدَ الْيَوْمِ، وَسَأُثَابِرُ حَتَّى أَصِلَ إِلَى الْمُسْتَوَى الْمُتَقَدِّمِ.", "okunus": "Len ueccile vâcibâtî ba‘de'l-yevmi, ve se-usâbiru hattâ esile ile'l-musteve'l-mutekaddimi.", "tr": "Bugünden sonra ödevlerimi asla ertelemeyeceğim ve ileri seviyeye ulaşıncaya dek azmedeceğim." },
+        { "konusan": "حفصة", "ar": "أَنْ تَدْرُسِي نِصْفَ سَاعَةٍ يَوْمِيًّا خَيْرٌ مِنْ أَنْ تَدْرُسِي خَمْسَ سَاعَاتٍ مَرَّةً فِي الشَّهْرِ.", "okunus": "En tedrusî nısfe sâ‘atin yevmiyyen hayrun min en tedrusî hamse sâ‘âtin merraten fi'ş-şehri.", "tr": "Her gün yarım saat çalışman, ayda bir kez beş saat çalışmandan daha hayırlıdır." },
+        { "konusan": "زينب", "ar": "صَحِيحٌ! وَلِكَيْ لَا نَشْعُرَ بِالْمَلَلِ، مَا رَأْيُكِ أَنْ نَتَدَرَّبَ عَلَى الْمُحَادَثَةِ مَعًا؟", "okunus": "Sahîhun! Ve li-key lâ neş‘ura bi'l-meleli, mâ ra'yuki en netederrabe ‘ale'l-muhâdeseti me‘an?", "tr": "Doğru! Sıkılmamak için birlikte konuşma pratiği yapmamıza ne dersin?" },
+        { "konusan": "حفصة", "ar": "مُوَافِقَةٌ تَمَامًا! لَنْ نَتَوَقَّفَ حَتَّى نَتَحَدَّثَ الْعَرَبِيَّةَ بِطَلَاقَةٍ وَثِقَةٍ!", "okunus": "Muvâfikatun temâmen! Len netevakkafe hattâ netehaddese'l-‘arabiyyete bi-talâkatin ve sikatin!", "tr": "Kesinlikle kabul! Arapçayı akıcı ve özgüvenli konuşuncaya dek durmayacağız!" }
+      ]
+    },
+    {
+      "id": "final_a2_d05",
+      "baslik": "Araştırma Raporu Takibi (لَمْ / لَمَّا ve Emr-i / Nehy-i Gâib)",
+      "ortam": "Proje lideri ekip arkadaşıyla rapor teslim durumunu kontrol ediyor",
+      "replikler": [
+        { "konusan": "المدير", "ar": "هَلْ سَلَّمَ الْفَرِيقُ التَّقْرِيرَ النِّهَائِيَّ أَمْ لَمْ يَنْتَهِ مِنْهُ بَعْدُ؟", "okunus": "Hel selleme'l-ferîku't-takrîra'n-nihâiyye em lem yentehi minhu ba‘du?", "tr": "Ekip final raporunu teslim etti mi yoksa henüz bitirmedi mi?" },
+        { "konusan": "المساعد", "ar": "لَمْ يَصِلِ التَّقْرِيرُ الْكَامِلُ أَمْسِ، وَلَمَّا يُرْسِلِ الْمُحَرِّرُونَ النُّسْخَةَ الْأَخِيرَةَ، لٰكِنَّهَا شِبْهُ جَاهِزَةٍ.", "okunus": "Lem yasili't-takrîru'l-kâmilu emsi, ve lemmâ yursili'l-muharrirûne'n-nushate'l-ahîrate, lâkinnehâ şibhu câhizetin.", "tr": "Tam rapor dün ulaşmadı, editörler de son kopyayı henüz göndermedi; ama neredeyse hazır." },
+        { "konusan": "المدير", "ar": "حَسَنًا، لِيُرَاجِعْ كُلُّ عُضْوٍ قِسْمَهُ بِدِقَّةٍ وَلَا يَتَسَرَّعْ أَحَدٌ فِي الطِّبَاعَةِ.", "okunus": "Hasenen, li-yurâci‘ kullu ‘udvin kısmehu bi-dikkatin ve lâ yeteserra‘ ehadun fi't-tıbâ‘ati.", "tr": "Güzel, her üye kendi bölümünü dikkatle gözden geçirsin ve kimse basımda acele etmesin." },
+        { "konusan": "المساعد", "ar": "وَلْتُجَهِّزِ اللَّجْنَةُ الرُّسُومَ الْبَيَانِيَّةَ أَيْضًا قَبْلَ السَّاعَةِ الرَّابِعَةِ.", "okunus": "Ve'l-tucehhizi'l-lecnetu'r-rusûme'l-beyâniyyete eydan kable's-sâ‘ati'r-râbi‘ati.", "tr": "Komisyon saat dörtten önce grafikleri de hazırlasın." },
+        { "konusan": "المدير", "ar": "نَعَمْ، وَلَا يَنْسَ الْمُتَرْجِمُونَ تَدْقِيقَ الْمُصْطَلَحَاتِ الْعِلْمِيَّةِ وَالْأَرْقَامِ!", "okunus": "Ne‘am, ve lâ yense'l-mutercimûne tedkîka'l-mustalahâti'l-‘ilmiyyeti ve'l-erkâmi!", "tr": "Evet, çevirmenler de bilimsel terimleri ve rakamları denetlemeyi unutmasınlar!" },
+        { "konusan": "المساعد", "ar": "تَمَامًا، لِنَجْتَمِعْ فِي الْخَامِسَةِ لِلْمُرَاجَعَةِ الْأَخِيرَةِ قَبْلَ النَّشْرِ.", "okunus": "Temâmen, li-nectemi‘ fi'l-hâmiseti li'l-murâca‘ati'l-ahîrati kable'n-neşri.", "tr": "Tamamdır, yayımdan önceki son kontrol için beşte toplanalım." }
+      ]
+    },
+    {
+      "id": "final_a2_d06",
+      "baslik": "Tarihi Yarımadada Yön Tarifi (Emr-i Hâzır & Nehy-i Hâzır)",
+      "ortam": "Yerel rehber turist aileye tarihi mekânlara nasıl gideceklerini tarif ediyor",
+      "replikler": [
+        { "konusan": "السائح", "ar": "لَوْ سَمَحْتَ، نُرِيدُ أَنْ نَزُورَ الْمَتْحَفَ الْإِسْلَامِيَّ وَالسُّوقَ الْمُغَطَّى. بِمَاذَا تَنْصَحُنَا؟", "okunus": "Lev semahte, nurîdu en nezûra'l-methafe'l-islâmiyye ve's-sûka'l-mugattâ. Bi-mâzâ tensahunâ?", "tr": "Affedersiniz, İslam Müzesini ve Kapalı Çarşı'yı ziyaret etmek istiyoruz. Bize ne önerirsiniz?" },
+        { "konusan": "المرشد", "ar": "اِبْدَؤُوا بِالْمَتْحَفِ صَبَاحًا، اِسْمَعُوا شَرْحَ الدَّلِيلِ الصَّوْتِيِّ، وَاكْتُبُوا مُلَاحَظَاتِكُمْ.", "okunus": "İbdeû bi'l-methafi sabâhan, isme‘û şerha'd-delîli's-savtiyyi, ve'ktubû mulâhazâtikum.", "tr": "Sabah müzeyle başlayın, sesli rehberin anlatımını dinleyin ve notlarınızı yazın." },
+        { "konusan": "السائحة", "ar": "وَهَلْ نَذْهَبُ إِلَى السُّوقِ بِالسَّيَّارَةِ أَمْ مَشْيًا عَلَى الْأَقْدَامِ؟", "okunus": "Ve hel nezhebu ile's-sûki bi's-seyyârati em meşyen ‘ale'l-akdâmi?", "tr": "Peki çarşıya arabayla mı gidelim yoksa yürüyerek mi?" },
+        { "konusan": "المرشد", "ar": "لَا تَأْخُذُوا سَيَّارَةً هُنَا لِأَنَّ الشَّوَارِعَ مُزْدَحِمَةٌ؛ اِمْشُوا عَشْرَ دَقَائِقَ وَانْظُرُوا إِلَى الْمَبَانِي التَّارِيخِيَّةِ!", "okunus": "Lâ te'huzû seyyâraten hunâ li-enne'ş-şevâri‘a muzdehimetun; imşû ‘aşra dekâika ve'nzurû ile'l-mebâni't-târîhiyyeti!", "tr": "Burada araba tutmayın çünkü caddeler kalabalık; on dakika yürüyün ve tarihî binalara bakın!" },
+        { "konusan": "السائح", "ar": "وَأَيْنَ نَتَنَاوَلُ طَعَامَ الْغَدَاءِ فِي الظُّهْرِ؟", "okunus": "Ve eyne netenâvelu ta‘âme'l-gadâi fi'z-zuhri?", "tr": "Öğlen yemeğini nerede yiyelim?" },
+        { "konusan": "المرشد", "ar": "اُدْخُلُوا الْمَطْعَمَ التَّقْلِيدِيَّ خَلْفَ الْمَسْجِدِ، اِجْلِسُوا فِي الشُّرْفَةِ وَلَا تَنْسَوْا تَذَوُّقَ الشَّايِ التُّرْكِيِّ!", "okunus": "Udhulu'l-mat‘ame't-taklîdiyye halfe'l-mescidi, iclisû fi'ş-şurfeti ve lâ tensev tezevvuka'ş-şâyi't-turkiyyi!", "tr": "Caminin arkasındaki geleneksel lokantaya girin, balkonda oturun ve Türk çayını tatmayı unutmayın!" }
+      ]
+    },
+    {
+      "id": "final_a2_d07",
+      "baslik": "Akşam Haber Bülteni (Meçhul Fiil & Nâib-i Fâil)",
+      "ortam": "İki gazeteci akşam bülteninin manşetlerini hazırlıyor",
+      "replikler": [
+        { "konusan": "المذيع", "ar": "مَا أَهَمُّ الْأَخْبَارِ الثَّقَافِيَّةِ الَّتِي سَتُذَاعُ فِي نَشْرَةِ الْمَسَاءِ الْيَوْمَ؟", "okunus": "Mâ ehemmu'l-ahbâri's-sekâfiyyeti'lletî se-tuzâ‘u fî neşrati'l-mesâi'l-yevme?", "tr": "Bugün akşam bülteninde yayımlanacak en önemli kültür haberleri neler?" },
+        { "konusan": "المحررة", "ar": "فُتِحَتِ الْيَوْمَ الْمَكْتَبَةُ الرَّقْمِيَّةُ الْجَدِيدَةُ، وَوُزِّعَتِ الْجَوَائِزُ عَلَى الْبَاحِثِينَ الْمُتَمَيِّزِينَ.", "okunus": "Futihati'l-yevme'l-mektebetu'r-rakmiyyetu'l-cedîdetu, ve vuzzi‘ati'l-cevâizu ‘ale'l-bâhisîne'l-mutemeyyizîne.", "tr": "Bugün yeni dijital kütüphane açıldı ve seçkin araştırmacılara ödüller dağıtıldı." },
+        { "konusan": "المذيع", "ar": "رَائِعٌ! وَهَلْ عُرِفَ مَوْعِدُ الْمُؤْتَمَرِ الدَّوْلِيِّ لِلُّغَةِ الْعَرَبِيَّةِ؟", "okunus": "Râi‘un! Ve hel ‘urife mev‘idu'l-mu'temeri'd-devliyyi li'l-lugati'l-‘arabiyyeti?", "tr": "Harika! Peki Uluslararası Arapça Konferansı'nın tarihi bilindi mi?" },
+        { "konusan": "المحررة", "ar": "نَعَمْ، أُعْلِنَ الْمَوْعِدُ رَسْمِيًّا؛ سَيُعْقَدُ الْمُؤْتَمَرُ فِي الشَّهْرِ الْقَادِمِ وَيُدْعَى إِلَيْهِ عُلَمَاءُ مِنْ عِشْرِينَ دَوْلَةً.", "okunus": "Ne‘am, u‘line'l-mev‘idu resmiyyen; se-yu‘kadu'l-mu'temeru fi'ş-şehri'l-kâdimi ve yud‘â ileyhi ‘ulemâu min ‘işrîne devleten.", "tr": "Evet, tarih resmen ilan edildi; konferans gelecek ay düzenlenecek ve ona yirmi ülkeden âlimler davet ediliyor." },
+        { "konusan": "المذيع", "ar": "وَمَاذَا عَنِ الْمَخْطُوطَاتِ النَّادِرَةِ الَّتِي عُثِرَ عَلَيْهَا فِي الْأَرْشِيفِ؟", "okunus": "Ve mâzâ ‘ani'l-mahtûtâti'n-nâdirati'lletî ‘usira ‘aleyhâ fi'l-erşîfi?", "tr": "Arşivde bulunan nadir el yazmaları ne durumda?" },
+        { "konusan": "المحررة", "ar": "تُحْفَظُ الْآنَ بِعِنَايَةٍ فَائِقَةٍ، وَسَتُنْشَرُ صُوَرُهَا الرَّقْمِيَّةُ قَرِيبًا لِيَسْتَفِيدَ مِنْهَا الْجَمِيعُ.", "okunus": "Tuhfezu'l-âne bi-‘inâyetin fâikatin, ve se-tunşeru suvaruha'r-rakmiyyetu karîben li-yestefîde minha'l-cemî‘u.", "tr": "Şu an büyük bir özenle korunuyorlar ve herkesin faydalanması için dijital görüntüleri yakında yayımlanacak." }
+      ]
+    },
+    {
+      "id": "final_a2_d08",
+      "baslik": "Kitap Kulübü Buluşması (İsm-i Mevsûl & Haber/Sıfat Çeşitleri)",
+      "ortam": "İki okur okudukları son romanı ve yazarı değerlendiriyor",
+      "replikler": [
+        { "konusan": "مريم", "ar": "هَلْ قَرَأْتِ الرِّوَايَةَ الَّتِي اِقْتَرَحَهَا نَادِي الْقِرَاءَةِ هٰذَا الشَّهْرَ يَا سَلْمَى؟", "okunus": "Hel kara'ti'r-rivâyete'lleti'kterahahâ nâdi'l-kırâeti hâze'ş-şehra yâ Selmâ?", "tr": "Bu ay okuma kulübünün önerdiği romanı okudun mu Selma?" },
+        { "konusan": "سلمى", "ar": "نَعَمْ، إِنَّهَا رِوَايَةٌ أُسْلُوبُهَا شَيِّقٌ وَأَحْدَاثُهَا تَشُدُّ الْقَارِئَ مِنَ الصَّفْحَةِ الْأُولَى!", "okunus": "Ne‘am, innehâ rivâyetun uslûbuhâ şeyyikun ve ahdâsuhâ teşuddu'l-kâria mine's-safhati'l-ûlâ!", "tr": "Evet, o üslubu sürükleyici ve olayları okuru ilk sayfadan itibaren çeken bir roman!" },
+        { "konusan": "مريم", "ar": "الْمُؤَلِّفُ الَّذِي كَتَبَهَا يَعِيشُ فِي قُرْطُبَةَ، وَهُوَ كَاتِبٌ يَجْمَعُ بَيْنَ التَّارِيخِ وَالْأَدَبِ.", "okunus": "El-muellifu'llezî ketebehâ ye‘îşu fî Kurtubete, ve huve kâtibun yecme‘u beyne't-târîhi ve'l-edebi.", "tr": "Onu yazan yazar Kurtuba'da yaşıyor ve tarihle edebiyatı birleştiren bir yazar." },
+        { "konusan": "سلمى", "ar": "أَعْجَبَنِي كَثِيرًا الْفَصْلُ الَّذِي يَصِفُ الْمَكْتَبَةَ الْقَدِيمَةَ؛ فَالْكُتُبُ فِيهَا فَوْقَ رُفُوفٍ تَمْتَدُّ إِلَى السَّقْفِ.", "okunus": "A‘cebenî kesîran el-faslu'llezî yasıfu'l-mektebete'l-kadîmete; fe'l-kutubu fîhâ fevka rufûfin temteddu ile's-sakfi.", "tr": "Eski kütüphaneyi tasvir eden bölüm çok hoşuma gitti; oradaki kitaplar tavana kadar uzanan rafların üzerinde." },
+        { "konusan": "مريم", "ar": "وَالْأَجْمَلُ أَنَّ مَنْ يَقْرَأُ هٰذِهِ الرِّوَايَةَ يَشْعُرُ كَأَنَّهُ يُسَافِرُ عَبْرَ الزَّمَنِ.", "okunus": "Ve'l-ecmelu enne men yakrau hâzihi'r-rivâyete yeş‘uru ke-ennehu yusâfiru ‘abra'z-zemeni.", "tr": "En güzeli de bu romanı okuyan kimsenin sanki zaman içinde yolculuk ediyormuş gibi hissetmesi." },
+        { "konusan": "سلمى", "ar": "حَقًّا! لِنُشَارِكْ مَا كَتَبْنَاهُ مِنْ مُلَاحَظَاتٍ مَعَ الْأَعْضَاءِ الَّذِينَ سَيَحْضُرُونَ جَلْسَةَ السَّبْتِ.", "okunus": "Hakkan! Li-nuşârik mâ ketebnâhu min mulâhazâtin me‘a'l-a‘dâi'llezîne se-yahdurûne celsete's-sebti.", "tr": "Gerçekten! Yazdığımız notları cumartesi oturumuna katılacak üyelerle paylaşalım." }
+      ]
+    },
+    {
+      "id": "final_a2_d09",
+      "baslik": "Geçmişten Bugüne Dönüşüm (Kâne ve İnne Aileleri)",
+      "ortam": "İki mezun eski mahallelerinin yıllar içindeki değişimini konuşuyor",
+      "replikler": [
+        { "konusan": "عمر", "ar": "هَلْ تَذْكُرُ كَيْفَ كَانَتْ مَكْتَبَةُ حَيِّنَا قَبْلَ عَشْرِ سَنَوَاتٍ يَا خَالِدُ؟", "okunus": "Hel tezkuru keyfe kânet mektebetu hayyinâ kable ‘aşri senevâtin yâ Hâlidu?", "tr": "On yıl önce mahalle kütüphanemizin nasıl olduğunu hatırlıyor musun Halid?" },
+        { "konusan": "خالد", "ar": "نَعَمْ، كَانَتْ صَغِيرَةً وَمُتَوَاضِعَةً، وَلٰكِنَّهَا أَصْبَحَتِ الْيَوْمَ مَرْكَزًا ثَقَافِيًّا وَاسِعًا وَحَدِيثًا!", "okunus": "Ne‘am, kânet sagîraten ve mutevâdi‘aten, ve lâkinnehâ esbahati'l-yevme merkezen sekâfiyyen vâsi‘an ve hadîsen!", "tr": "Evet, küçük ve mütevazıydı; fakat bugün geniş ve modern bir kültür merkezine dönüştü!" },
+        { "konusan": "عمر", "ar": "إِنَّ التَّغْيِيرَ لَجَمِيلٌ حَقًّا! كُنَّا نَجْلِسُ فِيهَا سَاعَاتٍ، وَمَا زَالَ أَمِينُ الْمَكْتَبَةِ الْقَدِيمُ يَعْمَلُ هُنَاكَ.", "okunus": "İnne't-tagyîra le-cemîlun hakkan! Kunnâ neclisu fîhâ sâ‘âtin, ve mâ zâle emînu'l-mektebeti'l-kadîmu ya‘melu hunâke.", "tr": "Şüphesiz değişim gerçekten güzel! Orada saatlerce otururduk ve eski kütüphaneci hâlâ orada çalışıyor." },
+        { "konusan": "خالد", "ar": "لَيْتَ أَيَّامَ الطُّفُولَةِ تَعُودُ يَوْمًا، لٰكِنْ إِنَّمَا تَبْقَى الذِّكْرَيَاتُ الْجَمِيلَةُ فِي قُلُوبِنَا.", "okunus": "Leyte eyyâme't-tufûleti te‘ûdu yevmen, lâkin innemâ tebka'z-zikrayâtu'l-cemîletu fî kulûbinâ.", "tr": "Keşke çocukluk günleri bir gün geri dönse; ama kalplerimizde yalnızca güzel hatıralar kalıyor." },
+        { "konusan": "عمر", "ar": "لَعَلَّ الْجِيلَ الْجَدِيدَ يَسْتَفِيدُ مِنْ هٰذَا الْمَرْكَزِ أَكْثَرَ مِمَّا اسْتَفَدْنَا نَحْنُ.", "okunus": "Le‘alle'l-cîle'l-cedîde yestefîdu min hâze'l-merkezi eksera mimme'stefednâ nahnu.", "tr": "Umarım yeni nesil bu merkezden bizim faydalandığımızdan daha fazla faydalanır." },
+        { "konusan": "خالد", "ar": "بِالتَّأْكِيدِ، مَا دَامَ حُبُّ الْقِرَاءَةِ حَيًّا فِي نُفُوسِ الشَّبَابِ فَلَنْ يَغِيبَ الْعِلْمُ عَنْ مَدِينَتِنَا!", "okunus": "Bi't-te'kîdi, mâ dâme hubbu'l-kırâeti hayyen fî nufûsi'ş-şebâbi fe-len yegîbe'l-‘ilmu ‘an medînetinâ!", "tr": "Elbette, gençlerin ruhlarında okuma sevgisi canlı kaldığı sürece ilim şehrimizden eksik olmayacaktır!" }
+      ]
+    },
+    {
+      "id": "final_a2_d10",
+      "baslik": "A2 Finalinden B1'e: Mezuniyet Kutlaması",
+      "ortam": "Öğrenci ile hocası Faz 2'nin (23. Modül) tamamlanışını kutluyor",
+      "replikler": [
+        { "konusan": "الأستاذة", "ar": "مُبَارَكٌ لَكَ يَا أَحْمَدُ! لَقَدْ أَتْمَمْتَ ثَلَاثًا وَعِشْرِينَ وَحْدَةً مِنْ كُلِّيَّاتِ الْعَرَبِيَّةِ!", "okunus": "Mubârakun leke yâ Ahmedu! Lekad etmemte selâsen ve ‘işrîne vahdeten min kulliyyâti'l-‘arabiyyeti!", "tr": "Tebrikler Ahmed! Arapça külliyatından yirmi üç üniteyi tamamladın!" },
+        { "konusan": "أحمد", "ar": "الْحَمْدُ لِلّٰهِ يَا أُسْتَاذَتِي! كُنْتُ قَدْ بَدَأْتُ مِنَ الصِّفْرِ، وَالْيَوْمَ أَفْهَمُ النُّصُوصَ وَالْقَوَاعِدَ بِثِقَةٍ.", "okunus": "El-hamdu lillâhi yâ ustâzetî! Kuntu kad bede'tu mine's-sıfri, ve'l-yevme efhemu'n-nusûsa ve'l-kavâ‘ide bi-sikatin.", "tr": "Elhamdülillah hocam! Sıfırdan başlamıştım, bugün ise metinleri ve kuralları özgüvenle anlıyorum." },
+        { "konusan": "الأستاذة", "ar": "فِي هٰذَا الْمُسْتَوَى الثَّانِي حَفِظْتَ أَكْثَرَ مِنْ ثَلَاثِمِئَةِ كَلِمَةٍ جَدِيدَةٍ وَحَلَلْتَ سِتَّمِئَةِ تَطْبِيقٍ.", "okunus": "Fî hâze'l-musteve's-sânî hafizte eksera min selâsumieti kelimetin cedîdetin ve halelte sittemieti tatbîkin.", "tr": "Bu ikinci seviyede üç yüzden fazla yeni kelime ezberledin ve altı yüz tatbik çözdün." },
+        { "konusan": "أحمد", "ar": "صَحِيحٌ! وَهٰذِهِ شَهَادَةُ الْمُسْتَوَى الثَّانِي الَّتِي كُنْتُ أَحْلُمُ بِهَا. شُكْرًا عَلَى دَعْمِكِ!", "okunus": "Sahîhun! Ve hâzihi şehâdetu'l-musteve's-sânî'lletî kuntu ehlumu bihâ. Şukran ‘alâ da‘miki!", "tr": "Doğru! Bu da hayalini kurduğum ikinci seviye belgesi. Desteğiniz için teşekkürler!" },
+        { "konusan": "الأستاذة", "ar": "إِيَّاكَ وَالتَّوَقُّفَ الْآنَ! فَالْمَرْحَلَةُ الثَّالِثَةُ فِيهَا أَبْوَابُ الْمَزِيدِ وَالْمُشْتَقَّاتِ وَالْأَقْسَامِ السَّبْعَةِ.", "okunus": "İyyâke ve't-tevakkufe'l-âne! Fe'l-merhaletu's-sâlisetu fîhâ ebvâbu'l-mezîdi ve'l-muştekkâti ve'l-aksâmi's-seb‘ati.", "tr": "Sakın şimdi durma! Çünkü üçüncü aşamada mezîd babları, müştak isimler ve aksâm-ı seb'a var." },
+        { "konusan": "أحمد", "ar": "لَنْ أَتَوَقَّفَ بِإِذْنِ اللّٰهِ! سَأَبْدَأُ الدَّرْسَ الرَّابِعَ وَالْعِشْرِينَ غَدًا بِحَمَاسٍ كَبِيرٍ!", "okunus": "Len etevakkafe bi-iznillâhi! Se-ebdeu'd-derse'r-râbi‘a ve'l-‘işrîne gaden bi-hamâsin kebîrin!", "tr": "Allah'ın izniyle durmayacağım! Yarın yirmi dördüncü derse büyük bir heyecanla başlayacağım!" }
+      ]
+    }
+  ],
+  "okumalar": [
+    {
+      "id": "final_a2_r01",
+      "baslik": "Arapça Sözlüğün Anahtarı: Sülâsî Altı Bab",
+      "arBaslik": "مِفْتَاحُ الْمُعْجَمِ الْعَرَبِيِّ: الْأَبْوَابُ السِّتَّةُ",
+      "ar": "يُعَدُّ فَهْمُ أَبْوَابِ الْفِعْلِ الثُّلَاثِيِّ الْمُجَرَّدِ خُطْوَةً حَاسِمَةً لِكُلِّ مَنْ يَتَعَلَّمُ اللُّغَةَ الْعَرَبِيَّةَ. فَحَرَكَةُ الْحَرْفِ الثَّانِي (عَيْنِ الْفِعْلِ) فِي الْمَاضِي وَالْمُضَارِعِ تَضْبِطُ النُّطْقَ الصَّحِيحَ وَتَفْتَحُ أَبْوَابَ الْمَعَاجمِ. نَقُولُ: نَصَرَ – يَنْصُرُ فِي الْبَابِ الْأَوَّلِ، وَضَرَبَ – يَضْرِبُ فِي الثَّانِي، وَفَتَحَ – يَفْتَحُ فِي الثَّالِثِ، وَعَلِمَ – يَعْلَمُ فِي الرَّابِعِ، وَحَسُنَ – يَحْسُنُ فِي الْخَامِسِ، وَحَسِبَ – يَحْسِبُ فِي السَّادِسِ. وَمَنْ يُتْقِنُ هٰذَا النِّظَامَ الصَّرْفِيَّ يَقْرَأُ النُّصُوصَ غَيْرَ الْمَشْكُولَةِ بِيُسْرٍ وَدِقَّةٍ.",
+      "okunus": "Yu‘addu fehmu ebvâbi'l-fi‘li's-sulâsiyyi'l-mucerradi hutvaten hâsimeten li-kulli men yete‘allemu'l-lugate'l-‘arabiyyete. Fe-haraketu'l-harfi's-sânî (‘ayni'l-fi‘li) fi'l-mâdî ve'l-mudâri‘i tadbitu'n-nutka's-sahîha ve teftehu ebvâbe'l-me‘âcimi. Nekûlu: nasara – yensuru fi'l-bâbi'l-evveli, ve darabe – yadribu fi's-sânî, ve feteha – yeftehu fi's-sâlisi, ve ‘alime – ya‘lemu fi'r-râbi‘i, ve hasune – yahsunu fi'l-hâmisi, ve hasibe – yahsibu fi's-sâdisi. Ve men yutkınu hâze'n-nizâme's-sarfiyye yakrau'n-nusûsa gayra'l-meşkûleti bi-yusrin ve dikkatin.",
+      "tr": "Sülâsî mücerred fiil bablarını anlamak Arapça öğrenen herkes için belirleyici bir adımdır. Mâzi ve muzâride ikinci harfin (ayn'ul-fiilin) harekesi doğru telaffuzu sabitler ve sözlüklerin kapılarını açar. Birinci babta 'nasara – yensuru', ikincide 'darabe – yadribu', üçüncüde 'feteha – yeftehu', dördüncüde 'alime – ya‘lemu', beşincide 'hasune – yahsunu' ve altıncıda 'hasibe – yahsibu' deriz. Bu sarf sisteminde ustalaşan kimse harekesiz metinleri kolaylık ve doğrulukla okur."
+    },
+    {
+      "id": "final_a2_r02",
+      "baslik": "İki Mühendis ve Büyük Köprü Projesi",
+      "arBaslik": "مُهَنْدِسَانِ وَمَشْرُوعُ الْجِسْرِ الْكَبِيرِ",
+      "ar": "شَارَكَ مُهَنْدِسَا الْمَدِينَةِ وَمُصَمِّمُو الْجَامِعَةِ فِي إِنْشَاءِ جِسْرٍ حَدِيثٍ يَرْبِطُ بَيْنَ ضَفَّتَيِ النَّهْرِ. عَمِلَ الْعَامِلُونَ وَالْمُهَنْدِسَاتُ بِتَعَاوُنٍ وَثِيقٍ طَوَالَ اثْنَيْ عَشَرَ شَهْرًا، وَكَانَ التَّخْطِيطُ الدَّقِيقُ سَبَبًا فِي إِنْجَازِ الْمَشْرُوعِ قَبْلَ مَوْعِدِهِ. وَفِي يَوْمِ الِافْتِتَاحِ شَكَرَ الْمُدِيرُ مُهَنْدِسَيِ الْمَشْرُوعِ وَمُعَلِّمِي الْفَرِيقِ، وَكَرَّمَ الطَّالِبَاتِ الْمُتَدَرِّبَاتِ عَلَى جُهُودِهِنَّ الْمُبَارَكَةِ.",
+      "okunus": "Şâraka muhendisâ'l-medîneti ve musammimû'l-câmi‘ati fî inşâi cisrin hadîsin yerbitu beyne daffeteyi'n-nehri. ‘Amile'l-‘âmilûne ve'l-muhendisâtu bi-te‘âvunin vesîkın tavâle'sney ‘aşera şehran, ve kâne't-tahtîtu'd-dakîku sebeben fî incâzi'l-meşrû‘i kable mev‘idihi. Ve fî yevmi'l-iftitâhi şekera'l-mudîru muhendiseyi'l-meşrû‘i ve mu‘allimi'l-ferîkı, ve kerrame't-tâlibâti'l-mutederribâti ‘alâ cuhûdihinne'l-mubâraketi.",
+      "tr": "Şehrin iki mühendisi ve üniversitenin tasarımcıları nehrin iki yakasını birbirine bağlayan modern bir köprünün inşasına katıldı. İşçiler ve kadın mühendisler on iki ay boyunca sıkı bir işbirliği içinde çalıştı ve titiz planlama projenin vaktinden önce tamamlanmasına vesile oldu. Açılış gününde müdür projenin iki mühendisine ve ekibin eğitmenlerine teşekkür etti, stajyer kız öğrencileri de bereketli çabalarından dolayı ödüllendirdi."
+    },
+    {
+      "id": "final_a2_r03",
+      "baslik": "Ahlak ve İlim Sahibi Bir Aile (Esmâ-i Hamse)",
+      "arBaslik": "أُسْرَةٌ ذَاتُ عِلْمٍ وَخُلُقٍ",
+      "ar": "يُعْرَفُ أَبُو سَعِيدٍ فِي مَدِينَتِهِ بِأَنَّهُ رَجُلٌ ذُو حِكْمَةٍ وَكَرَمٍ، لَا يَخْرُجُ مِنْ فِيهِ إِلَّا الْكَلَامُ الطَّيِّبُ. كَانَ أَخُوهُ مُعَلِّمًا قَدِيرًا يُحِبُّهُ الطُّلَّابُ وَيَحْتَرِمُونَهُ، وَقَدْ زَارَهُ الْأُسْبُوعَ الْمَاضِي حَمُوهُ وَجَمِيعُ أَقَارِبِهِ. إِنَّ أَبَا سَعِيدٍ يُعَلِّمُ أَبْنَاءَهُ دَائِمًا أَنْ يَحْتَرِمُوا الْكِبَارَ وَأَنْ يَكُونُوا ذَوِي أَمَانَةٍ وَصِدْقٍ؛ لِأَنَّ الْإِنْسَانَ يَعْلُو بِأَخْلَاقِهِ قَبْلَ مَالِهِ.",
+      "okunus": "Yu‘rafu Ebû Sa‘îdin fî medînetihi bi-ennehu raculun zû hikmetin ve keramin, lâ yahrucu min fîhi ille'l-kelâmu't-tayyibu. Kâne ahûhu mu‘allimen kadîran yuhibbuhu't-tullâbu ve yahterimûnehu, ve kad zârahu'l-usbû‘a'l-mâdî hamûhu ve cemî‘u ekâribihi. İnne Ebâ Sa‘îdin yu‘allimu ebnâehu dâimen en yahterimû'l-kibâra ve en yekûnû zevî emânetin ve sıdkın; li-enne'l-insâne ya‘lû bi-ahlâkıhi kable mâlihi.",
+      "tr": "Ebû Said şehrinde hikmet ve cömertlik sahibi, ağzından sadece güzel söz çıkan bir adam olarak tanınır. Kardeşi öğrencilerin sevdiği ve saygı duyduğu yetkin bir öğretmendi; geçen hafta kendisini kayınpederi ve tüm akrabaları ziyaret etti. Şüphesiz Ebû Said çocuklarına her zaman büyüklere saygı göstermelerini, emanet ve doğruluk sahibi olmalarını öğretir; çünkü insan malından önce ahlakıyla yücelir."
+    },
+    {
+      "id": "final_a2_r04",
+      "baslik": "Zamanı Yönetmenin Altın Kuralı (Nasb & Cezm)",
+      "arBaslik": "الْقَاعِدَةُ الذَّهَبِيَّةُ لِإِدَارَةِ الْوَقْتِ",
+      "ar": "أَنْ تَسْتَثْمِرَ وَقْتَكَ بِذَكَاءٍ خَيْرٌ مِنْ أَنْ تَضِيعَهُ فِي أُمُورٍ لَا تَنْفَعُكَ. كَثِيرٌ مِنَ النَّاسِ يَشْكُونَ ضِيقَ الْوَقْتِ، وَلٰكِنَّهُمْ لَمْ يَضَعُوا خُطَّةً يَوْمِيَّةً وَاضِحَةً وَلَمَّا يُجَرِّبُوا تَنْظِيمَ أَوْلَوِيَّاتِهِمْ. فَلْيَكْتُبْ كُلُّ طَالِبٍ مَهَامَّهُ صَبَاحًا، وَلَا يُؤَجِّلْ عَمَلَ الْيَوْمِ إِلَى الْغَدِ كَيْ يَصِلَ إِلَى أَهْدَافِهِ بِهُدُوءٍ. وَاعْلَمْ أَنَّ النَّجَاحَ لَنْ يَأْتِيَ بِالْأَمَانِي وَحْدَهَا، بَلْ بِالْعَمَلِ الْمُنَظَّمِ حَتَّى تَظْهَرَ الثِّمَارُ.",
+      "okunus": "En testesmira vaktake bi-zekâin hayrun min en tudî‘ahu fî umûrin lâ tenfe‘uke. Kesîrun mine'n-nâsi yeşkûne dîka'l-vakti, ve lâkinnehum lem yeda‘û huttaten yevmiyyeten vâdıhaten ve lemmâ yucerribû tanzîme evleviyyâtihim. Fe'l-yektub kullu tâlibin mehâmmehu sabâhan, ve lâ yueccil ‘amele'l-yevmi ile'l-gadi key yasile ilâ ehdâfihi bi-hudûin. Ve'‘lem enne'n-necâha len ye'tiye bi'l-emânî vahdehâ, bel bi'l-‘ameli'l-munazzami hattâ tazhera's-simâru.",
+      "tr": "Vaktini akıllıca değerlendirmen, onu sana fayda vermeyen işlerde harcamandan daha hayırlıdır. Birçok insan vaktin darlığından şikâyet eder; fakat net bir günlük plan koymamış ve önceliklerini düzenlemeyi henüz denememişlerdir. O hâlde her öğrenci görevlerini sabah yazsın ve hedeflerine sakinlikle ulaşabilmek için bugünün işini yarına ertelemesin. Bil ki başarı yalnızca temennilerle asla gelmeyecektir; aksine meyveler ortaya çıkıncaya dek düzenli çalışmayla gelir."
+    },
+    {
+      "id": "final_a2_r05",
+      "baslik": "Bilge Öğretmenin Altı Öğüdü (Emir & Nehiy)",
+      "arBaslik": "سِتُّ وَصَايَا مِنْ مُعَلِّمٍ حَكِيمٍ",
+      "ar": "وَقَفَ الْمُعَلِّمُ أَمَامَ طُلَّابِهِ فِي نِهَايَةِ الْعَامِ الدِّرَاسِيِّ وَقَالَ لَهُمْ: «يَا أَبْنَائِي، اِسْمَعُوا وَصَايَايَ وَاحْفَظُوهَا فِي قُلُوبِكُمْ! اِقْرَؤُوا كُلَّ يَوْمٍ وَلَا تَتْرُكُوا الْكِتَابَ أَبَدًا. اِحْتَرِمُوا وَالِدِيكُمْ وَأَسَاتِذَتَكُمْ، وَاشْكُرُوا مَنْ يُسَاعِدُكُمْ فِي الطَّرِيقِ. اُصْدُقُوا فِي أَقْوَالِكُمْ وَلَا تَكْذِبُوا وَلَوْ مَازِحِينَ. وَإِذَا أَخْطَأْتُمْ فَاعْتَرِفُوا بِالْخَطَأِ وَتَعَلَّمُوا مِنْهُ، وَلَا تَيْأَسُوا أَمَامَ أَيِّ عَقَبَةٍ تَعْتَرِضُكُمْ!»",
+      "okunus": "Vekafe'l-mu‘allimu emâme tullâbihi fî nihâyeti'l-‘âmi'd-dirâsiyyi ve kâle lehum: 'Yâ ebnâî, isme‘û vasâyâye ve'hfezûhâ fî kulûbikum! İkraû kulle yevmin ve lâ tetrukû'l-kitâbe ebeden. İhterımû vâlidîkum ve esâtizetekum, ve'şkurû men yusâ‘idukum fi't-tarîkı. Usdukû fî akvâlikum ve lâ tekzibû ve lev mâzihîne. Ve izâ ahta'tum fe'‘terifû bi'l-hatai ve te‘allemû minhu, ve lâ tey'esû emâme eyyi ‘akabetin ta‘teridukum!'",
+      "tr": "Öğretmen öğretim yılının sonunda öğrencilerinin önünde durdu ve onlara şöyle dedi: 'Ey evlatlarım, öğütlerimi dinleyin ve onları kalplerinizde koruyun! Her gün okuyun ve kitabı asla bırakmayın. Anne babanıza ve hocalarınıza saygı gösterin, yolda size yardım edenlere teşekkür edin. Sözlerinizde dürüst olun ve şaka yollu bile olsa yalan söylemeyin. Hata yaptığınızda hatayı kabul edin ve ondan ders çıkarın; önünüze çıkan hiçbir engel karşısında umutsuzluğa kapılmayın!'"
+    },
+    {
+      "id": "final_a2_r06",
+      "baslik": "Kağıdın ve Matbaanın Yolculuğu (Meçhul Fiil)",
+      "arBaslik": "رِحْلَةُ الْوَرَقِ وَالطِّبَاعَةِ عَبْرَ التَّارِيخِ",
+      "ar": "صُنِعَ الْوَرَقُ لِأَوَّلِ مَرَّةٍ فِي الصِّينِ قَبْلَ نَحْوِ أَلْفَيْ عَامٍ، ثُمَّ نُقِلَتْ صِنَاعَتُهُ إِلَى سَمَرْقَنْدَ وَبَغْدَادَ وَدِمَشْقَ وَالْأَنْدَلُسِ. وَفِي تِلْكَ الْمُدُنِ أُنشِئَتْ مَصَانِعُ كَبِيرَةٌ لِلْوَرَقِ، فَنُسِخَتْ آلَافُ الْكُتُبِ وَتُرْجِمَتْ عُلُومُ الْأُمَمِ السَّابِقَةِ إِلَى اللُّغَةِ الْعَرَبِيَّةِ. وَبَعْدَ قُرُونٍ اخْتُرِعَتِ الْمَطْبَعَةُ الْحَدِيثَةُ، فَأَصْبَحَ الْكِتَابُ يُطْبَعُ بِآلَافِ النُّسَخِ فِي يَوْمٍ وَاحِدٍ وَيُوزَّعُ فِي أَنْحَاءِ الْعَالَمِ، لِيَصِلَ الْعِلْمُ إِلَى كُلِّ بَيْتٍ.",
+      "okunus": "Suni‘a'l-varaku li-evveli merratin fi's-Sîni kable nahvi elfey ‘âmin, summe nukilet sınâ‘atuhu ilâ Semerkande ve Bagdâde ve Dimeşka ve'l-Endelusi. Ve fî tilke'l-muduni unşiet mesâni‘u kebîratun li'l-varakı, fe-nusihat âlâfu'l-kutubi ve turcimet ‘ulûmu'l-umemi's-sâbikati ile'l-lugati'l-‘arabiyyeti. Ve ba‘de kurûnin uhturi‘ati'l-matba‘atu'l-hadîsetu, fe-esbaha'l-kitâbu yutba‘u bi-âlâfi'n-nusahi fî yevmin vâhidin ve yuvezza‘u fî enhâi'l-‘âlemi, li-yasile'l-‘ilmu ilâ kulli beytin.",
+      "tr": "Kağıt ilk kez yaklaşık iki bin yıl önce Çin'de üretildi; ardından üretimi Semerkand, Bağdat, Şam ve Endülüs'e taşındı. O şehirlerde büyük kağıt fabrikaları kuruldu; böylece binlerce kitap çoğaltıldı ve önceki milletlerin ilimleri Arapçaya tercüme edildi. Yüzyıllar sonra modern matbaa icat edildi; artık kitap bir günde binlerce nüsha basılıyor ve ilmin her eve ulaşması için dünyanın dört bir yanına dağıtılıyor."
+    },
+    {
+      "id": "final_a2_r07",
+      "baslik": "Üç Nesli Buluşturan Kütüphane (İsm-i Mevsûl & Sıfat)",
+      "arBaslik": "الْمَكْتَبَةُ الَّتِي تَجْمَعُ ثَلَاثَةَ أَجْيَالٍ",
+      "ar": "فِي وَسَطِ مَدِينَتِنَا مَكْتَبَةٌ عَرِيقَةٌ جُدْرَانُهَا حَجَرِيَّةٌ وَنَوَافِذُهَا وَاسِعَةٌ تُدْخِلُ نُورَ الشَّمْسِ طَوَالَ النَّهَارِ. يَزُورُهَا الشُّيُوخُ الَّذِينَ تَعَلَّمُوا فِيهَا صِغَارًا، وَالشَّبَابُ الَّذِينَ يُعِدُّونَ رَسَائِلَهُمُ الْجَامِعِيَّةَ، وَالْأَطْفَالُ الَّذِينَ يَسْتَمِعُونَ إِلَى قِصَصٍ تُحْكَى لَهُمْ فِي قَاعَةِ الصِّغَارِ. إِنَّ مَنْ يَدْخُلُ هٰذَا الْمَكَانَ الَّذِي يَعْبَقُ بِرَائِحَةِ الْوَرَقِ الْقَدِيمِ يَشْعُرُ بِسَكِينَةٍ تَمْلَأُ قَلْبَهُ.",
+      "okunus": "Fî vasati medînetinâ mektebetun ‘arîkatun cudrânuhâ haceriyyetun ve nevâfizuhâ vâsi‘atun tudhilu nûra'ş-şemsi tavâle'n-nehâri. Yezûruha'ş-şuyûhu'llezîne te‘allemû fîhâ sıgâran, ve'ş-şebâbu'llezîne yu‘iddûne resâilehumu'l-câmi‘iyyete, ve'l-etfâlu'llezîne yestemi‘ûne ilâ kısasin tuhkâ lehum fî kâ‘ati's-sıgâri. İnne men yedhulu hâze'l-mekâne'llezî ya‘baku bi-râihati'l-varakı'l-kadîmi yeş‘uru bi-sekînetin temleu kalbehu.",
+      "tr": "Şehrimizin merkezinde duvarları taş, pencereleri gün boyu güneş ışığını içeri alan geniş, köklü bir kütüphane vardır. Orayı küçükken orada eğitim görmüş yaşlılar, üniversite tezlerini hazırlayan gençler ve küçükler salonunda kendilerine anlatılan hikâyeleri dinleyen çocuklar ziyaret eder. Eski kağıt kokusuyla dolup taşan bu mekâna giren kimse kalbini dolduran bir huzur hisseder."
+    },
+    {
+      "id": "final_a2_r08",
+      "baslik": "Mevsimler ve Doğanın Değişimi (Kâne ve Kardeşleri)",
+      "arBaslik": "الْفُصُولُ وَتَحَوُّلَاتُ الطَّبِيعَةِ",
+      "ar": "كَانَ الشِّتَاءُ هٰذَا الْعَامَ بَارِدًا وَطَوِيلًا، فَظَلَّتِ الثُّلُوجُ تُغَطِّي قِمَمَ الْجِبَالِ عِدَّةَ أَشْهُرٍ، وَبَاتَتِ الْحُقُولُ صَامِتَةً تَنْتَظِرُ الدِّفْءَ. وَعِنْدَمَا أَقْبَلَ الرَّبِيعُ صَارَ الْجَوُّ مُعْتَدِلًا، وَأَصْبَحَتِ الْحَدَائِقُ مُزْدَانَةً بِالْأَزْهَارِ الْمُلَوَّنَةِ، وَأَضْحَتِ الْعَصَافِيرُ تُغَرِّدُ فَوْقَ الْأَغْصَانِ. وَمَا زَالَتِ الطَّبِيعَةُ تُذَكِّرُنَا بِحِكْمَةٍ بَلِيغَةٍ: لَيْسَتِ الشِّدَّةُ دَائِمَةً، بَلْ يَأْتِي بَعْدَ كُلِّ شِتَاءٍ رَبِيعٌ مُزْهِرٌ مَا دَامَ الْأَمَلُ حَيًّا!",
+      "okunus": "Kâne'ş-şitâu hâze'l-‘âme bâridan ve tavîlen, fe-zalleti's-sulûcu tugattî kimeme'l-cibâli ‘iddete eşhurin, ve bâteti'l-hukûlu sâmiteten tenteziru'd-dif'e. Ve ‘indemâ akbele'r-rabî‘u sâra'l-cevvu mu‘tedilen, ve esbahati'l-hadâiku muzdâneten bi'l-ezhâri'l-mulevveneti, ve adhati'l-‘asâfîru tugarridu fevka'l-agsâni. Ve mâ zâleti't-tabî‘atu tuzekkirunâ bi-hikmetin belîgatin: leyseti'ş-şiddetu dâimeten, bel ye'tî ba‘de kulli şitâin rabî‘un muzhirun mâ dâme'l-emelu hayyen!",
+      "tr": "Bu yıl kış soğuk ve uzundu; karlar birkaç ay boyunca dağ zirvelerini örtmeye devam etti ve tarlalar sıcaklığı bekleyerek geceledi. İlkbahar gelince hava ılıman hâle geldi, bahçeler renkli çiçeklerle bezendi ve serçeler dalların üzerinde şakımaya başladı. Doğa bize hâlâ derin bir hikmeti hatırlatıyor: Zorluk kalıcı değildir; bilakis umut canlı kaldığı sürece her kıştan sonra çiçekli bir bahar gelir!"
+    },
+    {
+      "id": "final_a2_r09",
+      "baslik": "Gerçek Zenginlik Nedir? (İnne Ailesi & İnnemâ)",
+      "arBaslik": "مَا الْغِنَى الْحَقِيقِيُّ؟",
+      "ar": "يَظُنُّ بَعْضُ النَّاسِ أَنَّ السَّعَادَةَ تَكْمُنُ فِي كَثْرَةِ الْمَالِ وَحْدَهُ، لٰكِنَّ التَّجْرِبَةَ تُثْبِتُ عَكْسَ ذٰلِكَ. إِنَّمَا الْغِنَى غِنَى النَّفْسِ وَالْقَنَاعَةِ وَصِحَّةِ الْبَدَنِ وَسَلَامَةِ الْقَلْبِ! كَأَنَّ الْإِنْسَانَ الْقَنُوعَ مَلِكٌ فِي بَيْتِهِ، وَلَعَلَّ صَاحِبَ الْأَمْوَالِ الطَّائِلَةِ يَعِيشُ فِي قَلَقٍ دَائِمٍ إِذَا فَقَدَ الرِّضَا. إِنَّ الْعِلْمَ وَالْأَخْلَاقَ لَهُمَا الثَّرْوَةُ الَّتِي لَا تَنْفَدُ، فَلَيْتَ كُلَّ شَابٍّ يُدْرِكُ هٰذِهِ الْحَقِيقَةَ مُنْذُ صِغَرِهِ!",
+      "okunus": "Yezunnu ba‘du'n-nâsi enne's-sa‘âdete tekmenu fî kesrati'l-mâli vahdehu, lâkinne't-tecribete tusbitu ‘akse zâlike. İnnema'l-gınâ gıne'n-nefsi ve'l-kanâ‘ati ve sıhhati'l-bedeni ve selâmeti'l-kalbi! Ke-enne'l-insâne'l-kanû‘a melikun fî beytihi, ve le‘alle sâhibe'l-emvâli't-tâileti ye‘îşu fî kalakın dâimin izâ fekade'r-ridâ. İnne'l-‘ilme ve'l-ahlâka le-huma's-servetu'lletî lâ tenfedu, fe-leyte kulle şâbbin yudriku hâzihi'l-hakîkate munzu sıgarihi!",
+      "tr": "Bazı insanlar mutluluğun yalnızca mal çokluğunda gizli olduğunu sanır; fakat tecrübe bunun aksini ispatlar. Gerçek zenginlik yalnızca gönül zenginliği, kanaat, beden sağlığı ve kalp selametidir! Kanaatkâr insan sanki evinde bir kraldır; buna karşılık devasa servet sahibi kimse rızayı kaybettiğinde belki de sürekli bir kaygı içinde yaşar. Şüphesiz ilim ve ahlak hiç tükenmeyen servettir; keşke her genç bu hakikati küçüklüğünden itibaren kavrasa!"
+    },
+    {
+      "id": "final_a2_r10",
+      "baslik": "Yirmi Üç Adımlık A2 Yolculuğunun Muhasebesi (Sayılar & إِيَّا)",
+      "arBaslik": "حَصَادُ ثَلَاثٍ وَعِشْرِينَ خُطْوَةً نَحْوَ الْإِتْقَانِ",
+      "ar": "بَعْدَ اثْنَتَيْ عَشْرَةَ وَحْدَةً فِي الْمَرْحَلَةِ الثَّانِيَةِ، وَثَلَاثٍ وَعِشْرِينَ وَحْدَةً مُنْذُ بِدَايَةِ الْكُلِّيَّاتِ، نَقِفُ الْيَوْمَ عَلَى أَعْتَابِ الْمُسْتَوَى الْمُتَوَسِّطِ بِفَخْرٍ وَثِقَةٍ. لَقَدْ تَعَلَّمْنَا مِئَاتِ الْقَوَاعِدِ وَالتَّرَاكِيبِ، وَأَجَبْنَا عَنْ أَكْثَرَ مِنْ أَلْفِ تَطْبِيقٍ، وَحَفِظْنَا سَبْعَمِئَةٍ وَسِتًّا وَثَلَاثِينَ بِطَاقَةً ذَكِيَّةً. فَيَا طَالِبَ الْعَرَبِيَّةِ: إِيَّاكَ وَالتَّرَاجُعَ، وَإِيَّاكَ أَنْ تَظُنَّ أَنَّ الطَّرِيقَ قَدِ انْتَهَى؛ فَفِي الْقَرْنِ الْحَادِي وَالْعِشْرِينَ يَفْتَحُ لَكَ إِتْقَانُ الْعَرَبِيَّةِ أَبْوَابَ الْعِلْمِ وَالتُّرَاثِ وَالْمُسْتَقْبَلِ!",
+      "okunus": "Ba‘de'snetey ‘aşrate vahdeten fi'l-merhaleti's-sâniyeti, ve selâsin ve ‘işrîne vahdeten munzu bidâyeti'l-kulliyyâti, nakifu'l-yevme ‘alâ a‘tâbi'l-musteve'l-mutevassıti bi-fahrin ve sikatin. Lekad te‘allemnâ miâti'l-kavâ‘idi ve't-terâkîbi, ve ecebnâ ‘an eksera min elfi tatbîkın, ve hafiznâ seb‘amietin ve sitten ve selâsîne bitâkaten zekiyyeten. Fe-yâ tâlibe'l-‘arabiyyeti: iyyâke ve't-terâcu‘a, ve iyyâke en tezunnne enne't-tarîka kadi'ntehâ; fe-fi'l-karni'l-hâdî ve'l-‘işrîne yeftehu leke itkânu'l-‘arabiyyeti ebvâbe'l-‘ilmi ve't-turâsi ve'l-mustekbeli!",
+      "tr": "İkinci aşamadaki on iki ünitenin ve külliyatın başlangıcından bu yana yirmi üç ünitenin ardından bugün orta seviyenin eşiğinde gurur ve özgüvenle duruyoruz. Yüzlerce kural ve terkip öğrendik, binden fazla tatbik çözdük ve yedi yüz otuz altı akıllı kart ezberledik. Ey Arapça öğrencisi: Sakın geri adım atma ve yolun bittiğini sakın sanma; zira yirmi birinci yüzyılda Arapçada ustalaşmak sana ilmin, mirasın ve geleceğin kapılarını açacaktır!"
+    }
+  ],
+  "sinav": [
+    {
+      "id": "final_a2_q01",
+      "soru": "(M12 — Sülâsî 6 Bab) Aşağıdaki fiillerden hangisi 5. babtan (فَعُلَ – يَفْعُلُ) gelir ve daima lâzım (geçişsiz) olarak huy/tabiat bildirir?",
+      "soruAr": "كَتَبَ · جَلَسَ · فَتَحَ · كَرُمَ",
+      "secenekler": ["كَرُمَ – يَكْرُمُ", "كَتَبَ – يَكْتُبُ", "جَلَسَ – يَجْلِسُ", "فَتَحَ – يَفْتَحُ"],
+      "dogruIndeks": 0,
+      "aciklama": "5. bab (فَعُلَ – يَفْعُلُ) mâzi ve muzâride orta harfi dammeli olan tek babtır; tüm fiilleri lâzımdır ve kalıcı nitelik/huy bildirir (كَرُمَ، حَسُنَ، شَرُفَ)."
+    },
+    {
+      "id": "final_a2_q02",
+      "soru": "(M12 — 3. Bab Boğaz Harfi Şartı) 'ذَهَبَ – يَذْهَبُ' fiili neden 3. babtan (فَعَلَ – يَفْعَلُ) gelmiştir?",
+      "soruAr": "ذَهَبَ – يَذْهَبُ",
+      "secenekler": [
+        "Ayn'ul-fiili (ه) boğaz harfi olduğu için",
+        "İlk harfi (ذ) şemsî olduğu için",
+        "Geçişli (müteaddi) olduğu için",
+        "Kökünde illet harfi bulunduğu için"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "3. bab (فَعَلَ – يَفْعَلُ) için ayn'ul-fiil veya lâm'ul-fiilde 6 boğaz harfinden (ء، ه، ع، ح، غ، خ) biri bulunması şarttır; ذَهَبَ'de ه harfi vardır."
+    },
+    {
+      "id": "final_a2_q03",
+      "soru": "(M13 — Muzâfta Nûn Hazfi) 'Okulun iki mühendisini gördüm' cümlesinin doğru Arapça i'rabı hangisidir?",
+      "soruAr": "رَأَيْتُ ..... الْمَدْرَسَةِ.",
+      "secenekler": [
+        "رَأَيْتُ مُهَنْدِسَيِ الْمَدْرَسَةِ.",
+        "رَأَيْتُ مُهَنْدِسَيْنِ الْمَدْرَسَةِ.",
+        "رَأَيْتُ مُهَنْدِسَا الْمَدْرَسَةِ.",
+        "رَأَيْتُ مُهَنْدِسِي الْمَدْرَسَةِ."
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Mef'ûlün bih mansub tesniye مُهَنْدِسَيْنِ'dir; izâfette nûn düşer ve sakin yâ geçiş için kesralanır: مُهَنْدِسَيِ الْمَدْرَسَةِ."
+    },
+    {
+      "id": "final_a2_q04",
+      "soru": "(M13 — Cemi Müennes Sâlim İ'rabı) 'كَرَّمَتِ الْجَامِعَةُ الطَّالِبَاتِ الْمُتَفَوِّقَاتِ.' cümlesinde الطَّالِبَاتِ kelimesi neden kesra ile harekelenmiştir?",
+      "soruAr": "كَرَّمَتِ الْجَامِعَةُ الطَّالِبَاتِ",
+      "secenekler": [
+        "Cemi müennes sâlim olduğu için nasb alâmeti fetha yerine kesradır",
+        "Harf-i cerden sonra geldiği için mecrûrdur",
+        "Muzâfun ileyh olduğu için mecrûrdur",
+        "Nâib-i fâil olduğu için kesralıdır"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Cemi müennes sâlim (ـَاتٌ) mansub konumda fetha kabul etmez, fethaya bedel kesra ile mansub olur (مَنْصُوبٌ بِالْكَسْرَةِ نِيَابَةً عَنِ الْفَتْحَةِ)."
+    },
+    {
+      "id": "final_a2_q05",
+      "soru": "(M14 — Esmâ-i Hamse) 'إِنَّ ..... رَجُلٌ ..... عِلْمٍ وَأَدَبٍ.' (Şüphesiz senin baban ilim ve edep sahibi bir adamdır) boşluklarına ne gelir?",
+      "soruAr": "إِنَّ ..... رَجُلٌ ..... عِلْمٍ",
+      "secenekler": [
+        "أَبَاكَ / ذُو",
+        "أَبُوكَ / ذَا",
+        "أَبِيكَ / ذِي",
+        "أَبَاكَ / ذَا"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "إِنَّ'nin ismi mansubdur → elif ile أَبَاكَ; رَجُلٌ merfû haberdir, sıfatı da merfû olur → vâv ile ذُو."
+    },
+    {
+      "id": "final_a2_q06",
+      "soru": "(M14 — Mütekellim Yâsı İstisnası) 'قَابَلْتُ أَخِي وَأَخَاكَ فِي الْمَكْتَبَةِ.' cümlesinde أَخِي neden elif ile (أَخَايَ) değil takdîrî fetha ile mansubdur?",
+      "soruAr": "قَابَلْتُ أَخِي وَأَخَاكَ",
+      "secenekler": [
+        "Esmâ-i Hamse mütekellim yâsına (ـِي) muzâf olduğunda harf ile değil takdîrî harekeyle i'rab alır",
+        "أَخِي çoğul olduğu için",
+        "أَخِي harf-i cer aldığı için",
+        "أَخِي merfû konumda olduğu için"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Esmâ-i Hamse'nin vâv/elif/yâ ile i'rab alması için mütekellim yâsı DIŞINDA bir şeye muzâf olması şarttır."
+    },
+    {
+      "id": "final_a2_q07",
+      "soru": "(M15 — Nasb Edatları & Ef'âl-i Hamse) 'الطُّلَّابُ لَنْ ..... عَنْ هَدَفِهِمْ كَيْ ..... بِالنَّجَاحِ.' boşluklarına ne gelir?",
+      "soruAr": "لَنْ ..... كَيْ .....",
+      "secenekler": [
+        "يَتَرَاجَعُوا / يَفُوزُوا",
+        "يَتَرَاجَعُونَ / يَفُوزُونَ",
+        "يَتَرَاجَعُوا / يَفُوزُونَ",
+        "يَتَرَاجَعُ / يَفُوزُ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "لَنْ ve كَيْ muzâriyi nasbeder; Ef'âl-i Hamse'nin nasb alâmeti sondaki nûnun düşmesidir: يَتَرَاجَعُوا / يَفُوزُوا."
+    },
+    {
+      "id": "final_a2_q08",
+      "soru": "(M15 — Müevvel Mastar) 'أَنْ تَقْرَأَ كُلَّ يَوْمٍ خَيْرٌ لَكَ.' cümlesindeki 'أَنْ تَقْرَأَ' müevvel mastarının cümledeki konumu ve sarih mastar karşılığı nedir?",
+      "soruAr": "أَنْ تَقْرَأَ كُلَّ يَوْمٍ خَيْرٌ لَكَ.",
+      "secenekler": [
+        "Mübteda (mahallen merfû) — قِرَاءَتُكَ",
+        "Mef'ûlün bih (mahallen mansub) — قِرَاءَتَكَ",
+        "Haber (mahallen merfû) — قَارِئٌ",
+        "Mecrûr isim — بِقِرَاءَتِكَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Cümle başında 'Okuman (قِرَاءَتُكَ) senin için daha hayırlıdır' anlamında mahallen merfû mübtedadır."
+    },
+    {
+      "id": "final_a2_q09",
+      "soru": "(M16 — لَمْ vs. لَمَّا Farkı) 'وَصَلْتُ إِلَى الْمَحَطَّةِ وَلَمَّا يَصِلِ الْقِطَارُ.' cümlesinde لَمْ yerine لَمَّا seçilmesinin ince anlam farkı nedir?",
+      "soruAr": "وَلَمَّا يَصِلِ الْقِطَارُ",
+      "secenekler": [
+        "Tren HENÜZ gelmedi ama gelmesi bekleniyor (cahd-ı mustağrak)",
+        "Tren gelecekte asla gelmeyecek",
+        "Tren dün geldi",
+        "Trenin gelmesi yasaklandı"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "لَمَّا geçmişten konuşma anına kadar olumsuzluğu kapsar ve eylemin hâlâ gerçekleşmesinin beklendiğini ('henüz -medi') bildirir."
+    },
+    {
+      "id": "final_a2_q10",
+      "soru": "(M16 — Emr-i Gâib & Nehy-i Gâib) 'Her öğrenci ödevini yazsın ve kimse dersten geç kalmasın!' cümlesinin doğru Arapçası hangisidir?",
+      "soruAr": "الْأَمْرُ وَالنَّهْيُ لِلْغَائِبِ",
+      "secenekler": [
+        "لِيَكْتُبْ كُلُّ طَالِبٍ وَاجِبَهُ وَلَا يَتَأَخَّرْ أَحَدٌ عَنِ الدَّرْسِ!",
+        "لِيَكْتُبَ كُلُّ طَالِبٍ وَاجِبَهُ وَلَا يَتَأَخَّرُ أَحَدٌ عَنِ الدَّرْسِ!",
+        "اُكْتُبْ كُلُّ طَالِبٍ وَاجِبَهُ وَلَمْ يَتَأَخَّرْ أَحَدٌ عَنِ الدَّرْسِ!",
+        "لِيَكْتُبُ كُلُّ طَالِبٍ وَاجِبَهُ وَلَا يَتَأَخَّرَ أَحَدٌ عَنِ الدَّرْسِ!"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Emir lâmı (لِـ) ve nehiy lâ'sı (لَا) muzâriyi cezmeder: لِيَكْتُبْ (sükûn) ve لَا يَتَأَخَّرْ (sükûn)."
+    },
+    {
+      "id": "final_a2_q11",
+      "soru": "(M17 — Emr-i Hâzır Vasıl Hemzesi) 'يَدْخُلُ – يَجْلِسُ – يَفْتَحُ' fiillerinin tekil eril emr-i hâzır biçimleri hangisinde doğru verilmiştir?",
+      "soruAr": "يَدْخُلُ · يَجْلِسُ · يَفْتَحُ ← الْأَمْرُ",
+      "secenekler": [
+        "اُدْخُلْ · اِجْلِسْ · اِفْتَحْ",
+        "اِدْخُلْ · اُجْلِسْ · اَفْتَحْ",
+        "اُدْخُلْ · اُجْلِسْ · اُفْتَحْ",
+        "أُدْخُلْ · إِجْلِسْ · إِفْتَحْ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Muzâri orta harfi dammeliyse vasıl hemzesi damme (اُدْخُلْ), kesralı veya fethalıysa kesra (اِجْلِسْ، اِفْتَحْ) alır (kat' hemzesi çizilmez!)."
+    },
+    {
+      "id": "final_a2_q12",
+      "soru": "(M17 — Nehy-i Hâzır Muhataba) 'Ey kız kardeşim, sakın dersten önce yorulma / acele etme!' (تَتَسَرَّعِينَ → nehiy) hangisidir?",
+      "soruAr": "يَا أُخْتِي، لَا ..... !",
+      "secenekler": [
+        "لَا تَتَسَرَّعِي",
+        "لَا تَتَسَرَّعِينَ",
+        "لَا تَتَسَرَّعْ",
+        "لَا تَتَسَرَّعُوا"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Nehy-i hâzırda muhataba (أَنْتِ) çekimi Ef'âl-i Hamse olduğundan cezm alâmeti nûnun düşmesidir: لَا تَتَسَرَّعِي."
+    },
+    {
+      "id": "final_a2_q13",
+      "soru": "(M18 — Meçhul Fiil & Nâib-i Fâil) 'كَتَبَ الطَّالِبُ الرِّسَالَتَيْنِ.' cümlesi edilgene (meçhule) çevrilirse nasıl olur?",
+      "soruAr": "كَتَبَ الطَّالِبُ الرِّسَالَتَيْنِ ← مَبْنِيٌّ لِلْمَجْهُولِ",
+      "secenekler": [
+        "كُتِبَتِ الرِّسَالَتَانِ.",
+        "كُتِبَ الرِّسَالَتَيْنِ.",
+        "كُتِبَتِ الرِّسَالَتَيْنِ.",
+        "يُكْتَبُ الرِّسَالَتَانِ."
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Fâil silinir, mâzi meçhul (كُتِبَ) yeni müennes nâib-i fâile uyar (كُتِبَتِ) ve tesniye merfû olur: الرِّسَالَتَانِ."
+    },
+    {
+      "id": "final_a2_q14",
+      "soru": "(M19 — İsm-i Mevsûl) 'قَرَأْتُ الْمَقَالَاتِ ..... نُشِرَتْ فِي الْمَجَلَّةِ.' (Dergide yayımlanan makaleleri okudum) boşluğuna hangi ism-i mevsûl gelir?",
+      "soruAr": "الْمَقَالَاتِ ..... نُشِرَتْ",
+      "secenekler": ["الَّتِي", "اللَّاتِي", "الَّذِينَ", "الَّذِي"],
+      "dogruIndeks": 0,
+      "aciklama": "الْمَقَالَاتِ gayr-i âkil (akılsız) çoğuldur; tekil müennes hükmünde olduğu için الَّتِي kullanılır (اللَّاتِي sadece akıllı kadın çoğulu içindir!)."
+    },
+    {
+      "id": "final_a2_q15",
+      "soru": "(M20 — Haber ve Sıfat Çeşitleri) 'شَاهَدْتُ مَدِينَةً شَوَارِعُهَا نَظِيفَةٌ.' cümlesindeki 'شَوَارِعُهَا نَظِيفَةٌ' cümlesinin nahivdeki görevi nedir?",
+      "soruAr": "شَاهَدْتُ مَدِينَةً شَوَارِعُهَا نَظِيفَةٌ.",
+      "secenekler": [
+        "Nekre olan مَدِينَةً kelimesinin mahallen mansub İSİM CÜMLESİ SIFATI",
+        "Mahallen merfû haber",
+        "Hâl cümlesi",
+        "Sıla cümlesi"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Altın kural: 'الْجُمَلُ بَعْدَ النَّكِرَاتِ صِفَاتٌ' (Nekre isimden sonra gelen cümle sıfattır); مَدِينَةً mansub olduğundan cümle sıfat mahallen mansubdur."
+    },
+    {
+      "id": "final_a2_q16",
+      "soru": "(M21 — Kâne ve Kardeşleri) 'لَيْسَ الْمُجْتَهِدُونَ ..... ، بَلْ أَصْبَحُوا ..... .' (Çalışkanlar başarısız değildir, bilakis üstün oldular) boşluklarına ne gelir?",
+      "soruAr": "لَيْسَ الْمُجْتَهِدُونَ ..... بَلْ أَصْبَحُوا .....",
+      "secenekler": [
+        "فَاشِلِينَ / مُتَفَوِّقِينَ",
+        "فَاشِلُونَ / مُتَفَوِّقُونَ",
+        "فَاشِلِينَ / مُتَفَوِّقُونَ",
+        "فَاشِلُونَ / مُتَفَوِّقِينَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Hem لَيْسَ hem أَصْبَحَ Kâne kardeşidir; haberleri mansub olur. Cemi müzekker sâlimin nasb alâmeti yâ'dır: فَاشِلِينَ / مُتَفَوِّقِينَ."
+    },
+    {
+      "id": "final_a2_q17",
+      "soru": "(M22 — İnne/Enne & Mâ-i Kâffe) Aşağıdaki cümlelerden hangisinde Mâ-i Kâffe (مَا) sebebiyle إِنَّ'nin ameli (nasb etkisi) İPTAL OLMUŞTUR?",
+      "soruAr": "إِنَّ وَمَا الْكَافَّةُ",
+      "secenekler": [
+        "إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ.",
+        "إِنَّ الْمُؤْمِنِينَ إِخْوَةٌ.",
+        "قَالَ إِنَّ الصِّدْقَ مَنْجَاةٌ.",
+        "عَلِمْتُ أَنَّ الْعِلْمَ نُورٌ."
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "إِنَّمَا yapısındaki مَا (Mâ-i Kâffe) إِنَّ'nin amelini durdurur; ardındaki الْمُؤْمِنُونَ normal merfû mübteda olarak gelir."
+    },
+    {
+      "id": "final_a2_q18",
+      "soru": "(M23 — 11–19 Sayıları) 'Okulda 12 erkek öğretmen ve 15 kadın öğretmen vardır' cümlesinin doğru Arapçası hangisidir?",
+      "soruAr": "فِي الْمَدْرَسَةِ (12) مُعَلِّمًا وَ(15) مُعَلِّمَةً",
+      "secenekler": [
+        "فِي الْمَدْرَسَةِ اثْنَا عَشَرَ مُعَلِّمًا وَخَمْسَ عَشْرَةَ مُعَلِّمَةً.",
+        "فِي الْمَدْرَسَةِ اثْنَيْ عَشَرَ مُعَلِّمًا وَخَمْسَةَ عَشَرَ مُعَلِّمَةً.",
+        "فِي الْمَدْرَسَةِ اثْنَا عَشَرَ مُعَلِّمِينَ وَخَمْسَ عَشْرَةَ مُعَلِّمَاتٍ.",
+        "فِي الْمَدْرَسَةِ اثْنَتَا عَشْرَةَ مُعَلِّمًا وَخَمْسَةَ عَشْرَةَ مُعَلِّمَةً."
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Mübteda-i muahhar merfûdur: 12 erkek → اثْنَا عَشَرَ مُعَلِّمًا (uyumlu + merfû); 15 kadın → خَمْسَ عَشْرَةَ مُعَلِّمَةً (5 zıt + 10 uyumlu + tekil mansub)."
+    },
+    {
+      "id": "final_a2_q19",
+      "soru": "(M23 — 100/1000 & Sıra Sayıları) 'Yirmi birinci yüzyılda kütüphanemiz iki yüz bin kitabı barındırıyor' cümlesindeki boşluklara ne gelir?",
+      "soruAr": "فِي الْقَرْنِ ..... تَضُمُّ مَكْتَبَتُنَا ..... كِتَابٍ.",
+      "secenekler": [
+        "الْحَادِي وَالْعِشْرِينَ / مِئَتَيْ أَلْفِ",
+        "الْأَوَّلِ وَالْعِشْرُونَ / مِئَتَيْنِ أَلْفِ",
+        "الْحَادِي وَالْعِشْرُونَ / مِئَتَا أَلْفِ",
+        "الْحَادِيَةِ وَالْعِشْرِينَ / مِئَتَيْ أَلْفًا"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "فِي الْقَرْنِ mecrûr → الْحَادِي وَالْعِشْرِينَ; تَضُمُّ'nun nesnesi mansub ve muzâf (nûnsuz) → مِئَتَيْ أَلْفِ كِتَابٍ."
+    },
+    {
+      "id": "final_a2_q20",
+      "soru": "(M23 — Mansub Munfasıl Zamir إِيَّا) 'إِيَّاكُمْ وَالتَّسْوِيفَ!' ifadesinin doğru anlamı ve gramer yapısı nedir?",
+      "soruAr": "إِيَّاكُمْ وَالتَّسْوِيفَ!",
+      "secenekler": [
+        "'Sakın ertelemekten uzak durun!' — Tahzîr (sakındırma) üslubu, her ikisi mansub",
+        "'Siz ertelemeyi seversiniz' — Mübteda ve haber",
+        "'Yalnızca siz ertelediniz' — Hasr cümlesi",
+        "'Erteleme sizinle birliktedir' — Şibh-i cümle haber"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "إِيَّاكُمْ وَ + mansub isim klasik ve modern Arapçada güçlü uyarı/sakındırma (tahzîr) üslubudur."
+    }
+  ]
+}

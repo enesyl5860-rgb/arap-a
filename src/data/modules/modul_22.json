@@ -1,0 +1,779 @@
+{
+  "id": "22",
+  "slug": "modul_22",
+  "phaseId": 2,
+  "cilt": 2,
+  "cefr": "A2",
+  "title": "İnne ve Kardeşleri, İnne/Enne Okunuşu & Mâ-i Kâffe",
+  "arabicTitle": "إِنَّ وَأَخَوَاتُهَا وَمَا الْكَافَّةُ",
+  "category": "Nahiv",
+  "summary": "إِنَّ، أَنَّ، كَأَنَّ، لٰكِنَّ، لَيْتَ، لَعَلَّ harflerinin nasb–ref' ameli, kesralı إِنَّ vs. fethalı أَنَّ okunuş kuralları, Mâ-i Kâffe (إِنَّمَا), Te'kîd Lâmı (لَـ) ve öne geçmiş şibh-i cümle haber.",
+  "grammar": [
+    {
+      "id": "m22_g1",
+      "baslik": "İnne ve Kardeşlerinin Ameli (Nasb – Ref'): Kâne'nin Tam Ayna Görüntüsü!",
+      "arBaslik": "عَمَلُ «إِنَّ وَأَخَوَاتِهَا» (تَنْصِبُ الِاسْمَ وَتَرْفَعُ الْخَبَرَ)",
+      "mantik": "Modül 21'de **Kâne ve Kardeşlerinin** isim cümlesinde **Ref' – Nasb** (`كَانَ الطَّالِبُ مُجْتَهِدًا`) yaptığını öğrendik. Şimdi onların tam tersi çalışan ama aynı derecede ünlü kuzenleriyle tanışalım: **İnne ve Kardeşleri (`الْحُرُوفُ الْمُشَبَّهَةُ بِالْفِعْلِ`)**! Bunlar fiil değil, isim cümlesinin başına gelen **6 harftir**: `إِنَّ، أَنَّ، كَأَنَّ، لٰكِنَّ، لَيْتَ، لَعَلَّ`. İsim cümlesine girdiklerinde Kâne'nin tam ayna görüntüsünü oluştururlar: (1) Mübtedâyı kendi **İsmi** yapar ve **MANSUB** kılarlar (`إِنَّ الطَّالِبَ`), (2) Haberi kendi **Haberi** yapar ve **MERFÛ** bırakırlar (`مُجْتَهِدٌ`)! Tüm harfle i'rab türlerinde de (tesniye `يْنِ → انِ`, cem-i müzekker `ينَ → ونَ`, cem-i müennes `اتٍ → اتٌ`, Esmâ-i Hamse `ا → و`) bu ters yön kusursuz işler!",
+      "formul": "إِنَّ / أَنَّ / كَأَنَّ / لٰكِنَّ / لَيْتَ / لَعَلَّ + İnne'nin İsmi (MANSUB!) + İnne'nin Haberi (MERFÛ!)",
+      "formulAr": "اَلْعِلْمُ نُورٌ  ←  إِنَّ الْعِلْمَ نُورٌ  |  إِنَّ الْمُهَنْدِسِينَ مَاهِرُونَ  |  إِنَّ أَبَاكَ كَرِيمٌ",
+      "tablo": {
+        "baslik": "Kâne vs. İnne Karşılaştırmalı İ'rab Tablosu (Tüm İsim Türleriyle!)",
+        "sutunlar": ["İsim Türü", "كَانَ (Ref' → Nasb)", "إِنَّ (Nasb → Ref'!)", "İnne İsminin Nasb Alâmeti"],
+        "satirlar": [
+          { "hucreler": ["Tekil İsim", "كَانَ الدَّرْسُ سَهْلًا.", "إِنَّ الدَّرْسَ سَهْلٌ.", "Açık Fetha (الدَّرْسَ)"], "ar": "إِنَّ الدَّرْسَ سَهْلٌ." },
+          { "hucreler": ["Tesniye (İkil)", "كَانَ الطَّالِبَانِ مُجْتَهِدَيْنِ.", "إِنَّ الطَّالِبَيْنِ مُجْتَهِدَانِ.", "Yâ (انِ → يْنِ!)"], "ar": "إِنَّ الطَّالِبَيْنِ مُجْتَهِدَانِ." },
+          { "hucreler": ["Cemi Müzekker", "كَانَ الْمُهَنْدِسُونَ مَاهِرِينَ.", "إِنَّ الْمُهَنْدِسِينَ مَاهِرُونَ.", "Yâ (ونَ → ينَ!)"], "ar": "إِنَّ الْمُهَنْدِسِينَ مَاهِرُونَ." },
+          { "hucreler": ["Cemi Müennes", "كَانَتِ الطَّالِبَاتُ مُجْتَهِدَاتٍ.", "إِنَّ الطَّالِبَاتِ مُجْتَهِدَاتٌ.", "Kesra (اتٌ → اتٍ!)"], "ar": "إِنَّ الطَّالِبَاتِ مُجْتَهِدَاتٌ." },
+          { "hucreler": ["Esmâ-i Hamse", "كَانَ أَخُوكَ ذَا عِلْمٍ.", "إِنَّ أَخَاكَ ذُو عِلْمٍ.", "Elif (أَخُوكَ → أَخَاكَ!)"], "ar": "إِنَّ أَخَاكَ ذُو عِلْمٍ." },
+          { "hucreler": ["Muttasıl Zamir", "كَانُوا نَاجِحِينَ.", "إِنَّهُمْ نَاجِحُونَ / إِنَّنِي (إِنِّي) مَسْرُورٌ.", "Zamir (mahallen mansub!)"], "ar": "إِنَّهُمْ نَاجِحُونَ — إِنِّي مَسْرُورٌ." }
+        ]
+      },
+      "trKiyas": "Altın hafıza ipucu: **Kâne** (k-a-n) **Ref'–Nasb** yapar, **İnne** (i-n-n) **Nasb–Ref'** yapar! İnne'nin ismine muttasıl zamir bitiştiğinde (M10'daki mansub zamirler!) çok şık kısaltmalar doğar: `إِنَّ + نِي` hem `إِنَّنِي` hem `إِنِّي` olabilir; `إِنَّ + نَا` hem `إِنَّنَا` hem `إِنَّا` olabilir; `إِنَّ + هُ` = `إِنَّهُ`, `إِنَّ + كَ` = `إِنَّكَ`, `إِنَّ + هُمْ` = `إِنَّهُمْ`! Ve haber her zaman merfû kalır (`إِنَّهُمْ مُجْتَهِدُونَ`)!",
+      "sikHatalar": [
+        "İnne ile Kâne'nin amelini ters karıştırmak (✗ إِنَّ الطَّالِبُ مُجْتَهِدًا → ✓ إِنَّ الطَّالِبَ مُجْتَهِدٌ!).",
+        "Cemi müennes sâlimi İnne'nin ismi yaparken fetha koymak (✗ إِنَّ الطَّالِبَاتَ مُجْتَهِدَاتٌ → ✓ إِنَّ الطَّالِبَاتِ مُجْتَهِدَاتٌ — kesra ile mansub!).",
+        "İnne + zamirden sonraki haberi mansub yapmak (✗ إِنَّهُمْ مَاهِرِينَ → ✓ إِنَّهُمْ مَاهِرُونَ — هُمْ isimdir, مَاهِرُونَ MERFÛ haberdir!)."
+      ],
+      "ornekler": [
+        { "ar": "إِنَّ الصَّبْرَ مِفْتَاحُ الْفَرَجِ وَسَبِيلُ النَّجَاحِ.", "okunus": "İnne's-sabra miftâhu'l-fereci ve sebîlu'n-necâhi.", "tr": "Şüphesiz sabır ferahlığın anahtarı ve başarının yoludur.", "not": "الصَّبْرَ (mansub isim) + مِفْتَاحُ (merfû haber)" },
+        { "ar": "إِنَّ الْمُؤْمِنِينَ إِخْوَةٌ مُتَحَابُّونَ.", "okunus": "İnne'l-mu'minîne ihvetun mutehâbbûne.", "tr": "Şüphesiz müminler birbirini seven kardeşlerdir.", "not": "Cemi müzekker isim: ي ile mansub (الْمُؤْمِنِينَ)" },
+        { "ar": "إِنَّ الطَّالِبَيْنِ فَائِزَانِ بِالْمَرْكَزِ الْأَوَّلِ!", "okunus": "İnne't-tâlibeyni fâizâni bi'l-merkezi'l-evveli!", "tr": "Şüphesiz iki öğrenci birinciliği kazanmıştır!", "not": "Tesniye: يْنِ (mansub isim) → انِ (merfû haber!)" },
+        { "ar": "إِنَّ الْمُمَرِّضَاتِ مُخْلِصَاتٌ فِي خِدْمَةِ الْمَرْضَى.", "okunus": "İnne'l-mumerrıdâti muhlisâtun fî hidmeti'l-merdâ.", "tr": "Şüphesiz hemşireler hastalara hizmette samimidirler.", "not": "Cemi müennes isim kesra ile mansub: الْمُمَرِّضَاتِ!" },
+        { "ar": "إِنَّ أَبَاكَ رَجُلٌ ذُو خُلُقٍ كَرِيمٍ!", "okunus": "İnne ebâke raculun zû hulukin kerîmin!", "tr": "Şüphesiz baban güzel ahlak sahibi bir adamdır!", "not": "Esmâ-i Hamse isim: elif (أَبَاكَ); haber: merfû (رَجُلٌ ذُو)!" },
+        { "ar": "إِنَّنَا وَاثِقُونَ مِنْ قُدْرَتِكُمْ عَلَى التَّفَوُّقِ!", "okunus": "İnnenâ vâsikûne min kudratikum ‘ale't-tefevvukı!", "tr": "Üstün başarı gösterme gücünüzden kesinlikle eminiz!", "not": "ـنَا (isim) + وَاثِقُونَ (merfû haber!)" }
+      ],
+      "tatbikler": [
+        { "id": "m22_g1_t01", "tip": "bosluk", "soru": "«إِنَّ ___ مُتَعَاوِنُونَ فِي الْمَشْرُوعِ.» — İnne'nin doğru mansub ismi hangisidir?", "secenekler": ["الْمُهَنْدِسِينَ", "الْمُهَنْدِسُونَ", "الْمُهَنْدِسَانِ", "الْمُهَنْدِسُ"], "dogruIndeks": 0, "aciklama": "Cemi müzekker sâlim İnne'nin ismi olunca yâ ile mansub olur: الْمُهَنْدِسِينَ!" },
+        { "id": "m22_g1_t02", "tip": "bosluk", "soru": "«إِنَّ الطَّالِبَاتِ ___ فِي دُرُوسِهِنَّ.» — İnne'nin doğru merfû haberi hangisidir?", "secenekler": ["مُجْتَهِدَاتٌ", "مُجْتَهِدَاتٍ", "مُجْتَهِدَاتًا", "مُجْتَهِدُونَ"], "dogruIndeks": 0, "aciklama": "İnne'nin ismi kesrayla mansub (الطَّالِبَاتِ), haberi dammeyle MERFÛDUR: مُجْتَهِدَاتٌ!" },
+        { "id": "m22_g1_t03", "tip": "bosluk", "soru": "«إِنَّ ___ ذُو عِلْمٍ وَأَدَبٍ.» — Esmâ-i Hamse İnne'nin ismi olarak nasıl gelir?", "secenekler": ["أَخَاكَ", "أَخُوكَ", "أَخِيكَ", "أَخٌ"], "dogruIndeks": 0, "aciklama": "Esmâ-i Hamse İnne'nin ismi olunca elifle mansub olur: إِنَّ أَخَاكَ ذُو عِلْمٍ!" },
+        { "id": "m22_g1_t04", "tip": "donusturme", "soru": "«كَانَ الْكِتَابَانِ مُفِيدَيْنِ.» cümlesinde «كَانَ» çıkarılıp yerine «إِنَّ» konulursa nasıl olur?", "secenekler": ["إِنَّ الْكِتَابَيْنِ مُفِيدَانِ.", "إِنَّ الْكِتَابَانِ مُفِيدَيْنِ.", "إِنَّ الْكِتَابَيْنِ مُفِيدَيْنِ.", "إِنَّ الْكِتَابَانِ مُفِيدَانِ."], "dogruIndeks": 0, "aciklama": "Kâne'nin tam tersi: İsim yâ ile mansub (الْكِتَابَيْنِ), haber elifle merfû (مُفِيدَانِ)!" },
+        { "id": "m22_g1_t05", "tip": "hata", "soru": "«إِنَّهُمْ مُسْتَعِدِّينَ لِلْمُسَابَقَةِ.» cümlesindeki hata nasıl düzeltilir?", "secenekler": ["مُسْتَعِدِّينَ → مُسْتَعِدُّونَ (İnne'nin haberi merfûdur!)", "إِنَّهُمْ → إِنَّهُ", "لِلْمُسَابَقَةِ → الْمُسَابَقَةُ", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "هُمْ İnne'nin ismidir; haberi vâv ile merfû olur: مُسْتَعِدُّونَ!" },
+        { "id": "m22_g1_t06", "tip": "bosluk", "soru": "«إِنَّ السَّيَّارَاتِ الْحَدِيثَةَ سَرِيعَةٌ.» cümlesinde «السَّيَّارَاتِ» neden kesralı ama sıfatı «الْحَدِيثَةَ» neden fethalıdır?", "secenekler": ["السَّيَّارَاتِ cemi müennes olduğu için kesrayla mansubdur; sıfatı الْحَدِيثَةَ tekil olduğundan açık fethayla mansubdur!", "الْحَدِيثَةَ haberdir", "السَّيَّارَاتِ mecrûrdur", "Yazım hatasıdır"], "dogruIndeks": 0, "aciklama": "Harika incelik! İkisi de mansubdur ama her kelime kendi türünün nasb alâmetini alır!" },
+        { "id": "m22_g1_t07", "tip": "tr_ar", "soru": "'Şüphesiz iki kardeş cömerttir.' (İnne + tesniye) hangisidir?", "secenekler": ["إِنَّ الْأَخَوَيْنِ كَرِيمَانِ.", "إِنَّ الْأَخَوَانِ كَرِيمَيْنِ.", "إِنَّ الْأَخَوَيْنِ كَرِيمَيْنِ.", "إِنَّ الْأَخَوَانِ كَرِيمَانِ."], "dogruIndeks": 0, "aciklama": "الْأَخَوَيْنِ (yâ ile mansub isim) + كَرِيمَانِ (elifle merfû haber)!" },
+        { "id": "m22_g1_t08", "tip": "bosluk", "soru": "«إِنَّنِي مَسْرُورٌ بِرُؤْيَتِكَ.» cümlesindeki «إِنَّنِي» hangi kısaltmayla da yazılabilir?", "secenekler": ["إِنِّي", "إِنْ", "أَنَّ", "لَعَلَّ"], "dogruIndeks": 0, "aciklama": "إِنَّنِي = إِنِّي ve إِنَّنَا = إِنَّا (ikisi de tamamen fasîhtir!)." },
+        { "id": "m22_g1_t09", "tip": "donusturme", "soru": "«اَلْمُعَلِّمَاتُ حَرِيصَاتٌ عَلَى الطُّلَّابِ.» cümlesinin başına «إِنَّ» getirin:", "secenekler": ["إِنَّ الْمُعَلِّمَاتِ حَرِيصَاتٌ عَلَى الطُّلَّابِ.", "إِنَّ الْمُعَلِّمَاتَ حَرِيصَاتٌ.", "إِنَّ الْمُعَلِّمَاتُ حَرِيصَاتٍ.", "إِنَّ الْمُعَلِّمَاتِ حَرِيصَاتٍ."], "dogruIndeks": 0, "aciklama": "الْمُعَلِّمَاتِ (kesrayla mansub isim) + حَرِيصَاتٌ (dammeyle merfû haber)!" },
+        { "id": "m22_g1_t10", "tip": "bosluk", "soru": "«إِنَّ ذَا الْعِلْمِ مُحْتَرَمٌ.» cümlesinde «ذَا» neden elifle gelmiştir?", "secenekler": ["Esmâ-i Hamse'den olan ذُو, İnne'nin ismi olarak elifle mansub olmuştur", "Haberdir", "Mecrûrdur", "İşaret ismidir"], "dogruIndeks": 0, "aciklama": "ذُو (merfû) → İnne'nin ismi olunca ذَا (mansub)!" }
+      ]
+    },
+    {
+      "id": "m22_g2",
+      "baslik": "6 Harfin Anlam İncelikleri: إِنَّ / أَنَّ، كَأَنَّ، لٰكِنَّ، لَيْتَ vs. لَعَلَّ",
+      "arBaslik": "مَعَانِي الْأَحْرُفِ السِّتَّةِ وَالْفَرْقُ بَيْنَ «لَيْتَ» وَ«لَعَلَّ»",
+      "mantik": "Bu 6 kardeşin tamamı aynı **Nasb – Ref'** amelini yapar ama her birinin cümleye kattığı duygu ve mantık bambaşkadır!\n1) **`إِنَّ` (Şüphesiz / Muhakkak)**: Cümleyi güçlü bir kesinlikle pekiştirir (`إِنَّ اللّٰهَ مَعَ الصَّابِرِينَ`).\n2) **`أَنَّ` (...-diğini / ... olduğunu)**: Cümle ortasında yan cümle bağlar (`عَلِمْتُ أَنَّ الْعِلْمَ نُورٌ`; `لِأَنَّ` = çünkü!).\n3) **`كَأَنَّ` (Sanki / ... gibi)**: Güçlü benzetme yapar (`كَأَنَّ الْقَمَرَ مِصْبَاحٌ` = Sanki ay bir lambadır!).\n4) **`لٰكِنَّ` (Fakat / Ancak)**: Önceki cümledeki yanlış anlamayı düzeltir (`الِامْتِحَانُ طَوِيلٌ وَلٰكِنَّهُ سَهْلٌ` — dikkat: şeddeli `لٰكِنَّ` isim cümlesini nasbeder; sükûnlu `لٰكِنْ` amel etmez!).\n5) **`لَيْتَ` (Keşke!)**: Gerçekleşmesi **imkânsız veya çok zor** olan bir şeyi özlemle dilemektir (`لَيْتَ الشَّبَابَ يَعُودُ يَوْمًا!` = Keşke gençlik bir gün geri dönse!).\n6) **`لَعَلَّ` (Umulur ki / Belki / Umarım)**: Gerçekleşmesi **mümkün ve beklenen** güzel bir şeyi ümit etmektir (`لَعَلَّ الْقِطَارَ قَرِيبٌ` = Umarım/belki tren yakındır!).",
+      "formul": "إِنَّ/أَنَّ (Kesinlik) | كَأَنَّ (Sanki) | لٰكِنَّ (Fakat) | لَيْتَ (Keşke — zor!) | لَعَلَّ (Umarım/belki — mümkün!)",
+      "formulAr": "كَأَنَّ الْكِتَابَ صَدِيقٌ  |  وَلٰكِنَّهُ سَهْلٌ  |  لَيْتَ الزَّمَانَ يَعُودُ  |  لَعَلَّ الْفَرَجَ قَرِيبٌ",
+      "tablo": {
+        "baslik": "İnne ve 5 Kardeşinin Tam Anlam & Kullanım Atlası",
+        "sutunlar": ["Harf", "Anlam / İşlev", "Örnek Cümle", "Türkçe Çeviri"],
+        "satirlar": [
+          { "hucreler": ["إِنَّ", "Te'kîd (Şüphesiz / Elbette)", "إِنَّ مَعَ الْعُسْرِ يُسْرًا.", "Şüphesiz zorlukla beraber kolaylık vardır."], "ar": "إِنَّ مَعَ الْعُسْرِ يُسْرًا." },
+          { "hucreler": ["أَنَّ / لِأَنَّ", "Yan cümle / Çünkü", "فَرِحْتُ لِأَنَّ أَخِي نَاجِحٌ.", "Kardeşim başarılı olduğu için sevindim."], "ar": "فَرِحْتُ لِأَنَّ أَخِي نَاجِحٌ." },
+          { "hucreler": ["كَأَنَّ", "Teşbih (Sanki / ... gibi)", "كَأَنَّ الْحَدِيقَةَ جَنَّةٌ خَضْرَاءُ!", "Bahçe sanki yemyeşil bir cennettir!"], "ar": "كَأَنَّ الْحَدِيقَةَ جَنَّةٌ." },
+          { "hucreler": ["لٰكِنَّ", "İstidrâk (Fakat / Ancak)", "اَلشَّقَّةُ صَغِيرَةٌ لٰكِنَّهَا مُمْتَازَةٌ.", "Daire küçüktür fakat harikadır."], "ar": "اَلشَّقَّةُ صَغِيرَةٌ لٰكِنَّهَا مُمْتَازَةٌ." },
+          { "hucreler": ["لَيْتَ", "Temenni (Keşke — zor/imkânsız!)", "لَيْتَ الشَّبَابَ يَعُودُ يَوْمًا!", "Keşke gençlik bir gün geri dönse!"], "ar": "لَيْتَ الشَّبَابَ يَعُودُ يَوْمًا!" },
+          { "hucreler": ["لَعَلَّ", "Teraccî (Umarım / Belki — mümkün!)", "لَعَلَّ الْخَبَرَ صَحِيحٌ!", "Umarım (belki) haber doğrudur!"], "ar": "لَعَلَّ الْخَبَرَ صَحِيحٌ!" }
+        ]
+      },
+      "trKiyas": "YDS bağlaç ve anlam sorularında 3 şahane incelik: (1) **`لَيْتَ`** (keşke — gerçekleşmesi zor/geçmişe özlem) vs. **`لَعَلَّ`** (umarım/belki — geleceğe yönelik mümkün beklenti) ayrımı! (2) **`لٰكِنَّ`** (şeddeli — arkasından mutlaka mansub isim veya zamir gelir: `لٰكِنَّ الْجَوَّ بَارِدٌ / لٰكِنَّهُ بَارِدٌ`) vs. **`لٰكِنْ`** (sükûnlu — amel etmez, fiil cümlesinin başına bile gelir: `لٰكِنْ لَمْ يَحْضُرْ`!). (3) `لَيْتَ` ve `لَعَلَّ` 1. tekil zamir alınca: **`لَيْتَنِي`** (keşke ben!) ve **`لَعَلِّي`** (umarım ben!) şeklinde gelir!",
+      "sikHatalar": [
+        "Şeddeli لٰكِنَّ'den sonra doğrudan fiil getirmek (✗ ذَهَبْتُ لٰكِنَّ لَمْ أَجِدْهُ → ✓ ذَهَبْتُ لٰكِنْ لَمْ أَجِدْهُ [sükûnlu!] veya لٰكِنَّنِي لَمْ أَجِدْهُ [zamirli!]).",
+        "لَيْتَ ile لَعَلَّ'yi birbirinin yerine kullanmak (Gerçekleşmesi mümkün umut için لَعَلَّ, imkânsız/geçmiş özlem için لَيْتَ kullanılır!).",
+        "لٰكِنَّ kelimesinin yazılışında uzun elif yazmak (✗ لَاكِنَّ → ✓ لٰكِنَّ / لَكِنَّ — okunuşta uzun 'lâkinne', yazılışta elifsizdir!)."
+      ],
+      "ornekler": [
+        { "ar": "كَأَنَّ الطِّفْلَ الْمُبْتَسِمَ قَمَرٌ مُضِيءٌ!", "okunus": "Ke-enne't-tıfle'l-mubtesime kamerun mudîun!", "tr": "Gülümseyen çocuk sanki parlak bir aydır!", "not": "كَأَنَّ (benzetme) + mansub isim + merfû haber" },
+        { "ar": "اَلسَّفَرُ طَوِيلٌ وَلٰكِنَّ الرِّحْلَةَ مُمْتِعَةٌ جِدًّا.", "okunus": "Es-seferu tavîlun ve lâkinne'r-rihlete mumti‘atun cidden.", "tr": "Yolculuk uzundur fakat gezi çok keyiflidir.", "not": "لٰكِنَّ + الرِّحْلَةَ (mansub) + مُمْتِعَةٌ (merfû)" },
+        { "ar": "لَيْتَنِي تَعَلَّمْتُ اللُّغَةَ الْعَرَبِيَّةَ مُنْذُ صِغَرِي!", "okunus": "Leytenî te‘allemtu'l-lugate'l-‘arabiyyete munzu sıgarî!", "tr": "Keşke Arapçayı küçüklüğümden beri öğrenseydim!", "not": "لَيْتَ + نِي (geçmişe yönelik imkânsız özlem!)" },
+        { "ar": "لَعَلَّ اللّٰهَ يُحْدِثُ بَعْدَ ذٰلِكَ أَمْرًا!", "okunus": "Le‘allallâhe yuhdisu ba‘de zâlike emran!", "tr": "Umulur ki Allah bundan sonra yeni bir durum ortaya çıkarır!", "not": "لَعَلَّ (mümkün beklenti — Talâk 1)" },
+        { "ar": "تَأَخَّرَ أَخِي عَنِ الْغَدَاءِ، لَعَلَّهُ عَالِقٌ فِي زَحْمَةِ الْمُرُورِ.", "okunus": "Teahhara ahî ‘ani'l-gadâi, le‘allehu ‘âlikun fî zahmeti'l-murûri.", "tr": "Kardeşim öğle yemeğine gecikti, belki trafik yoğunluğuna takılmıştır.", "not": "لَعَلَّهُ (ihtimal/tahmin: 'belki o...')" },
+        { "ar": "أُحِبُّ هٰذَا الْمُعْجَمَ لِأَنَّ شَرْحَهُ وَاضِحٌ وَأَمْثِلَتَهُ كَثِيرَةٌ.", "okunus": "Uhibbu hâze'l-mu‘ceme li-enne şerhahu vâdihun ve emsiletehu kesîratun.", "tr": "Anlatımı açık ve örnekleri çok olduğu için bu sözlüğü seviyorum.", "not": "لِأَنَّ ('çünkü') + nasb–ref'" }
+      ],
+      "tatbikler": [
+        { "id": "m22_g2_t01", "tip": "bosluk", "soru": "«___ الْعَاصِفَةَ تَهْدَأُ غَدًا فَنُسَافِرَ بِسَلَامٍ!» (Gerçekleşmesi mümkün umut: 'Umarım!')", "secenekler": ["لَعَلَّ", "لَيْتَ", "كَأَنَّ", "لٰكِنَّ"], "dogruIndeks": 0, "aciklama": "Geleceğe yönelik mümkün ümit ve beklenti → لَعَلَّ!" },
+        { "id": "m22_g2_t02", "tip": "bosluk", "soru": "«___ أَيَّامَ الطُّفُولَةِ تَرْجِعُ لَحْظَةً وَاحِدَةً!» (Geçmişe imkânsız özlem: 'Keşke!')", "secenekler": ["لَيْتَ", "لَعَلَّ", "لِأَنَّ", "كَأَنَّ"], "dogruIndeks": 0, "aciklama": "Gerçekleşmesi imkânsız veya çok zor dilek → لَيْتَ!" },
+        { "id": "m22_g2_t03", "tip": "bosluk", "soru": "«اَلْكِتَابُ كَبِيرٌ، ___ أُسْلُوبَهُ سَهْلٌ وَشَيِّقٌ.» ('Fakat üslubu kolaydır.')", "secenekler": ["وَلٰكِنَّ", "كَأَنَّ", "لَيْتَ", "لَعَلَّ"], "dogruIndeks": 0, "aciklama": "Karşıtlık / düzeltme (istidrâk): لٰكِنَّ + mansub أُسْلُوبَهُ!" },
+        { "id": "m22_g2_t04", "tip": "bosluk", "soru": "«___ الْبَحْرَ مِرْآةٌ زَرْقَاءُ صَافِيَةٌ!» ('Deniz sanki berrak mavi bir aynadır!')", "secenekler": ["كَأَنَّ", "لٰكِنَّ", "لَعَلَّ", "أَنَّ"], "dogruIndeks": 0, "aciklama": "Benzetme (teşbih): كَأَنَّ!" },
+        { "id": "m22_g2_t05", "tip": "hata", "soru": "«أَرَدْتُ السَّفَرَ وَلٰكِنَّ تَأَخَّرَ الْقِطَارُ.» cümlesindeki hata nasıl düzeltilir?", "secenekler": ["وَلٰكِنْ تَأَخَّرَ الْقِطَارُ (fiilden önce sükûnlu لٰكِنْ gelir, şeddeli لٰكِنَّ gelmez!)", "الْقِطَارُ → الْقِطَارَ", "أَرَدْتُ → أُرِيدُ", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "Şeddeli لٰكِنَّ sadece isim cümlesine girer; fiil gelirse sükûnlu لٰكِنْ (veya لٰكِنَّ الْقِطَارَ تَأَخَّرَ) kullanılır!" },
+        { "id": "m22_g2_t06", "tip": "tr_ar", "soru": "'Keşke sınav sonuçları bugün açıklansa!' (لَيْتَ) hangisidir?", "secenekler": ["لَيْتَ نَتَائِجَ الِامْتِحَانِ تُعْلَنُ الْيَوْمَ!", "لَيْتَ نَتَائِجُ الِامْتِحَانِ تُعْلَنُ!", "لَعَلَّ نَتَائِجُ الِامْتِحَانِ!", "كَأَنَّ نَتَائِجَ الِامْتِحَانِ!"], "dogruIndeks": 0, "aciklama": "لَيْتَ + mansub نَتَائِجَ + fiil haberi!" },
+        { "id": "m22_g2_t07", "tip": "bosluk", "soru": "«لَمْ أَحْضُرْ أَمْسِ ___ كُنْتُ مَرِيضًا.» ('Çünkü hastaydım.')", "secenekler": ["لِأَنَّنِي", "لِإِنَّنِي", "لَيْتَنِي", "كَأَنَّنِي"], "dogruIndeks": 0, "aciklama": "لِـ + أَنَّ (fethalı!) + نِي = لِأَنَّنِي ('çünkü ben...')!" },
+        { "id": "m22_g2_t08", "tip": "bosluk", "soru": "«لَعَلَّ الْمُسَافِرِينَ ___ إِلَى الْمَطَارِ بِسَلَامٍ.»", "secenekler": ["وَصَلُوا / وَاصِلُونَ", "وَاصِلِينَ", "وَصَلَ", "وَاصِلًا"], "dogruIndeks": 0, "aciklama": "لَعَلَّ'nin haberi merfû (وَاصِلُونَ) veya çoğul uyumlu fiil cümlesi (وَصَلُوا) olur!" },
+        { "id": "m22_g2_t09", "tip": "bosluk", "soru": "«لٰكِنَّ» (şeddeli) ile «لٰكِنْ» (sükûnlu) arasındaki en temel fark nedir?", "secenekler": ["Şeddeli لٰكِنَّ isim cümlesine girip ismini nasbeder; sükûnlu لٰكِنْ amel etmez ve fiil başına da gelebilir!", "Hiç fark yoktur", "Sükûnlu olan nasbeder", "Şeddeli olan fiil başına gelir"], "dogruIndeks": 0, "aciklama": "Şeddeli لٰكِنَّ = nasb–ref' ameli yapar; sükûnlu لٰكِنْ = bağlaçtır, amel etmez!" },
+        { "id": "m22_g2_t10", "tip": "tr_ar", "soru": "'Sanki öğretmenlerimiz babalarımız gibidir (babalarımızdır).' (كَأَنَّ) hangisidir?", "secenekler": ["كَأَنَّ مُعَلِّمِينَا آبَاؤُنَا.", "كَأَنَّ مُعَلِّمُونَا آبَاؤُنَا.", "كَأَنَّ مُعَلِّمِينَا آبَاءَنَا.", "كَأَنَّ مُعَلِّمُونَا آبَاءَنَا."], "dogruIndeks": 0, "aciklama": "مُعَلِّمِينَا (yâ ile mansub, muzâfta ن düştü!) + آبَاؤُنَا (dammeyle merfû haber)!" }
+      ]
+    },
+    {
+      "id": "m22_g3",
+      "baslik": "Altın İncelik: Ne Zaman Kesralı «إِنَّ», Ne Zaman Fethalı «أَنَّ» Okunur?",
+      "arBaslik": "مَوَاضِعُ كَسْرِ هَمْزَةِ «إِنَّ» وَفَتْحِ هَمْزَةِ «أَنَّ»",
+      "mantik": "Harekesiz bir Arapça metinde `ان` harflerini gördüğünüzde en çok sorduğunuz soru şudur: **'Bunu kesralı `إِنَّ` mi yoksa fethalı `أَنَّ` mı okuyacağım?'** İşte Prof. Dr. Hüseyin Günday & Şener Şahin sistematiğinin 2 altın kuralı:\n► **Fethalı `أَنَّ` (Tek Kural!)**: `أَنَّ + ismi + haberi` bütün hâlinde tek bir **isim/mastar (Müevvel Mastar)** yerine geçebiliyorsa FETHALI **`أَنَّ`** okunur! Özellikle şu yerlerde daima **`أَنَّ`**: (a) Düşünme/bilme/duyma fiillerinden sonra (`عَلِمْتُ أَنَّ / سَمِعْتُ أَنَّ / أَعْتَقِدُ أَنَّ / يُذْكَرُ أَنَّ`), (b) Harf-i cerlerden sonra (`لِأَنَّ / بِأَنَّ / عَلَى أَنَّ / إِلَى أَنَّ / مَعَ أَنَّ / رَغْمَ أَنَّ`)!\n► **Kesralı `إِنَّ` (5 Ünlü Yer!)**: Bağımsız cümle olarak kalıyorsa KESRALI **`إِنَّ`** okunur: (1) **Cümle başında** (`إِنَّ الْعِلْمَ نُورٌ`), (2) **`قَالَ / يَقُولُ / قِيلَ`** (söyleme fiilinden hemen sonra! `قَالَ الْأُسْتَاذُ إِنَّ الدَّرْسَ مُهِمٌّ` — EN ÇOK SORULAN KURAL!), (3) **Yeminden sonra** (`وَاللّٰهِ إِنَّ الصِّدْقَ مَنْجَاةٌ`), (4) **İsm-i mevsûlden sonra** (`جَاءَ الَّذِي إِنَّهُ كَرِيمٌ`), (5) **`حَيْثُ` veya Hâl vâvından sonra** (`زُرْتُهُ وَإِنَّهُ مَسْرُورٌ` / `حَيْثُ إِنَّ`)!",
+      "formul": "Başta / قَالَ sonrası / Yemin / حَيْثُ → Kesralı إِنَّ  |  عَلِمْتُ / سَمِعْتُ / Harf-i Cer sonrası → Fethalı أَنَّ!",
+      "formulAr": "قَالَ: إِنَّ الْحَقَّ وَاضِحٌ (كَسْرٌ!)  ≠  عَلِمْتُ أَنَّ الْحَقَّ وَاضِحٌ (فَتْحٌ!)",
+      "tablo": {
+        "baslik": "Kesralı إِنَّ vs. Fethalı أَنَّ Kesin Karar Tablosu",
+        "sutunlar": ["Konum / Önündeki Kelime", "Doğru Okunuş", "Örnek Cümle", "Neden?"],
+        "satirlar": [
+          { "hucreler": ["Cümle Başında", "إِنَّ (Kesra)", "إِنَّ الصِّدْقَ يَهْدِي إِلَى الْبِرِّ.", "Yeni bağımsız cümle başlatıyor"], "ar": "إِنَّ الصِّدْقَ يَهْدِي إِلَى الْبِرِّ." },
+          { "hucreler": ["قَالَ / يَقُولُ / قِيلَ Sonrası!", "إِنَّ (Kesra!)", "قَالَ الطَّبِيبُ إِنَّ الرَّاحَةَ ضَرُورِيَّةٌ.", "Söz aktarımı (makûlü'l-kavl) hep kesralıdır!"], "ar": "قَالَ الطَّبِيبُ إِنَّ الرَّاحَةَ ضَرُورِيَّةٌ." },
+          { "hucreler": ["Yemin / حَيْثُ / أَلَا Sonrası", "إِنَّ (Kesra!)", "أَزُورُ الْمَكْتَبَةَ حَيْثُ إِنَّهَا هَادِئَةٌ.", "حَيْثُ إِنَّ YDS'de kesralı okunur!"], "ar": "حَيْثُ إِنَّهَا هَادِئَةٌ." },
+          { "hucreler": ["عَلِمَ / سَمِعَ / اِعْتَقَدَ / أَكَّدَ Sonrası", "أَنَّ (Fetha!)", "سَمِعْتُ أَنَّ أَخَاكَ نَجَحَ بِامْتِيَازٍ.", "Müevvel mastar (سَمِعْتُ نَجَاحَ أَخِيكَ)"], "ar": "سَمِعْتُ أَنَّ أَخَاكَ نَجَحَ." },
+          { "hucreler": ["Harf-i Cer / Zarf Sonrası", "أَنَّ (Fetha!)", "نَجَحَ رَغْمَ أَنَّ الِامْتِحَانَ صَعْبٌ / لِأَنَّهُ اجْتَهَدَ.", "Harf-i cer sadece isme (müevvel mastara) gelir!"], "ar": "رَغْمَ أَنَّ — لِأَنَّ — بِأَنَّ" },
+          { "hucreler": ["مِنَ الْمَعْرُوفِ / يُذْكَرُ / لَا شَكَّ Sonrası", "أَنَّ (Fetha!)", "مِنَ الْمَعْرُوفِ أَنَّ الْقِرَاءَةَ تُقَوِّي الذَّاكِرَةَ.", "Sona kalmış mübtedâ / nâib-i fâil (müevvel mastar)!"], "ar": "مِنَ الْمَعْرُوفِ أَنَّ الْقِرَاءَةَ..." }
+        ]
+      },
+      "trKiyas": "Gazetecilerin ve öğrencilerin bile sıkça düştüğü 2 büyük tuzak: (1) **`قَالَ إِنَّ`** — `قَالَ` (dedi) fiilinden sonra ASLA `أَنَّ` okunmaz, her zaman kesralı **`إِنَّ`** okunur (`قَالَ الْوَزِيرُ إِنَّ الْمَشْرُوعَ سَيَبْدَأُ غَدًا`)! (2) **`حَيْثُ إِنَّ`** ('zira / şundan dolayı ki') — YDS'de çok sık geçer ve `حَيْثُ` cümlelere muzâf olduğu için arkasından daima kesralı **`إِنَّ`** gelir! Buna karşın `عَلِمَ / أَكَّدَ / أَعْلَنَ / لِـ / بِـ / رَغْمَ / مَعَ` sonrasında daima fethalı **`أَنَّ`** gelir!",
+      "sikHatalar": [
+        "قَالَ / يَقُولُ / قِيلَ fiilinden sonra fethalı أَنَّ okumak (✗ قَالَ الْأُسْتَاذُ أَنَّ الِامْتِحَانَ سَهْلٌ → ✓ قَالَ الْأُسْتَاذُ إِنَّ الِامْتِحَانَ سَهْلٌ!).",
+        "حَيْثُ kelimesinden sonra أَنَّ okumak (✗ حَيْثُ أَنَّ → ✓ حَيْثُ إِنَّ — Fasîh Arapçada kesin kesra kuralıdır!).",
+        "Harf-i cerden sonra kesralı إِنَّ yazmak (✗ لِإِنَّ / بِإِنَّ → ✓ لِأَنَّ / بِأَنَّ — harf-i cerden sonra daima fethalı أَنَّ!)."
+      ],
+      "ornekler": [
+        { "ar": "قَالَ الْحَكِيمُ: إِنَّ الْوَقْتَ أَغْلَى مِنَ الذَّهَبِ!", "okunus": "Kâle'l-hakîmu: inne'l-vakte aglâ mine'z-zehebi!", "tr": "Bilge dedi ki: Şüphesiz vakit altından daha değerlidir!", "not": "قَالَ sonrası → kesralı إِنَّ!" },
+        { "ar": "أَكَّدَ الْمُدِيرُ أَنَّ الْمَشْرُوعَ سَيُكْتَمَلُ فِي مَوْعِدِهِ.", "okunus": "Ekkede'l-mudîru enne'l-meşrû‘a se-yuktemelu fî mev‘idihi.", "tr": "Müdür projenin vaktinde tamamlanacağını teyit etti.", "not": "أَكَّدَ sonrası → fethalı أَنَّ (müevvel mastar)!" },
+        { "ar": "أُحِبُّ هٰذِهِ الْمَكْتَبَةَ، حَيْثُ إِنَّهَا تَضُمُّ أَحْدَثَ الْمَرَاجِعِ.", "okunus": "Uhibbu hâzihi'l-mektebete, haysu innehâ tedummu ahdese'l-merâci‘i.", "tr": "Bu kütüphaneyi seviyorum; zira en yeni kaynakları barındırıyor.", "not": "حَيْثُ إِنَّ → kesinlikle kesralı!" },
+        { "ar": "وَاللّٰهِ إِنَّ الْأَمَانَةَ لَخُلُقٌ عَظِيمٌ!", "okunus": "Vallâhi inne'l-emânete le-hulukun ‘azîmun!", "tr": "Allah'a yemin olsun ki güvenilirlik gerçekten büyük bir ahlaktır!", "not": "Yeminden sonra → kesralı إِنَّ!" },
+        { "ar": "مِنَ الْمُؤَكَّدِ أَنَّ التَّعَاوُنَ يُحَقِّقُ نَتَائِجَ بَاهِرَةً.", "okunus": "Mine'l-muekkedi enne't-te‘âvune yuhakkıku netâice bâhiraten.", "tr": "İş birliğinin parlak sonuçlar doğurduğu kesindir.", "not": "مِنَ الْمُؤَكَّدِ أَنَّ → fethalı أَنَّ (müevvel mastar mübtedâ)!" },
+        { "ar": "حَضَرَ الْحَفْلَ رَغْمَ أَنَّهُ كَانَ مُتْعَبًا جِدًّا.", "okunus": "Hadara'l-hafle ragme ennehu kâne mut‘aben cidden.", "tr": "Çok yorgun olmasına rağmen törene katıldı.", "not": "رَغْمَ أَنَّ ('...-mesine rağmen' — fethalı!)" }
+      ],
+      "tatbikler": [
+        { "id": "m22_g3_t01", "tip": "bosluk", "soru": "«قَالَ الْمُعَلِّمُ ___ الِامْتِحَانَ سَهْلٌ.» — قَالَ fiilinden sonra doğru okunuş hangisidir?", "secenekler": ["إِنَّ", "أَنَّ", "أَنْ", "لِأَنَّ"], "dogruIndeks": 0, "aciklama": "قَالَ / يَقُولُ / قِيلَ fiillerinden sonra daima kesralı إِنَّ okunur!" },
+        { "id": "m22_g3_t02", "tip": "bosluk", "soru": "«عَلِمْتُ ___ الصَّدِيقَ قَدْ وَصَلَ بِسَلَامٍ.» — عَلِمْتُ fiilinden sonra hangisi doğrudur?", "secenekler": ["أَنَّ", "إِنَّ", "أَنْ", "إِنْ"], "dogruIndeks": 0, "aciklama": "عَلِمْتُ + müevvel mastar (عَلِمْتُ وُصُولَ الصَّدِيقِ) → fethalı أَنَّ!" },
+        { "id": "m22_g3_t03", "tip": "bosluk", "soru": "«أَخْتَارُ هٰذَا الْكِتَابَ، حَيْثُ ___ أُسْلُوبَهُ وَاضِحٌ.» — حَيْثُ sonrası Fasîh kural hangisidir?", "secenekler": ["إِنَّ", "أَنَّ", "أَنْ", "إِنْ"], "dogruIndeks": 0, "aciklama": "حَيْثُ'dan sonra daima kesralı إِنَّ gelir: حَيْثُ إِنَّ!" },
+        { "id": "m22_g3_t04", "tip": "bosluk", "soru": "«وَاصَلَ الْفَرِيقُ الْعَمَلَ مَعَ ___ الْجَوَّ كَانَ بَارِدًا.» ('Hava soğuk olmasına rağmen...')", "secenekler": ["أَنَّ", "إِنَّ", "أَنْ", "لَيْتَ"], "dogruIndeks": 0, "aciklama": "مَعَ أَنَّ / رَغْمَ أَنَّ ('...-mesine rağmen') daima fethalı أَنَّ alır!" },
+        { "id": "m22_g3_t05", "tip": "bosluk", "soru": "«وَاللّٰهِ ___ الصِّدْقَ أَقْصَرُ طَرِيقٍ إِلَى الثِّقَةِ!» — Yeminden sonra hangisi doğrudur?", "secenekler": ["إِنَّ", "أَنَّ", "أَنْ", "كَأَنَّ"], "dogruIndeks": 0, "aciklama": "Yemin (وَاللّٰهِ) cevabının başında daima kesralı إِنَّ okunur!" },
+        { "id": "m22_g3_t06", "tip": "hata", "soru": "«أَخْبَرَنِي صَدِيقِي بِإِنَّ الْمُؤْتَمَرَ أُجِّلَ.» cümlesindeki hemze hatası nedir?", "secenekler": ["بِإِنَّ → بِأَنَّ (harf-i cerden sonra fethalı أَنَّ zorunludur!)", "أُجِّلَ → أَجَّلَ", "الْمُؤْتَمَرَ → الْمُؤْتَمَرُ", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "Harf-i cer (بِـ / لِـ / عَنْ / فِي) sonrasında daima fethalı أَنَّ okunur!" },
+        { "id": "m22_g3_t07", "tip": "bosluk", "soru": "«أَلَا ___ أَوْلِيَاءَ اللّٰهِ لَا خَوْفٌ عَلَيْهِمْ!» — Dikkat çekme harfi «أَلَا» sonrası hangisidir?", "secenekler": ["إِنَّ", "أَنَّ", "أَنْ", "إِنْ"], "dogruIndeks": 0, "aciklama": "أَلَا (dikkat edin!) harfinden sonra daima kesralı إِنَّ okunur (Yûnus 62)!" },
+        { "id": "m22_g3_t08", "tip": "bosluk", "soru": "«يَسُرُّنِي ___ الْمَشْرُوعَ نَجَحَ بِامْتِيَازٍ.» — Müevvel mastar fâil olarak hangisi gelir?", "secenekler": ["أَنَّ", "إِنَّ", "لَيْتَ", "لٰكِنَّ"], "dogruIndeks": 0, "aciklama": "يَسُرُّنِي نَجَاحُ الْمَشْرُوعِ (fâil müevvel mastar!) → fethalı أَنَّ!" },
+        { "id": "m22_g3_t09", "tip": "bosluk", "soru": "«زُرْتُ صَدِيقِي وَ___ مُبْتَهِجٌ بِزِيَارَتِي.» — Hâl vâvından sonra hangisi okunur?", "secenekler": ["إِنَّهُ", "أَنَّهُ", "أَنْ", "إِنْ"], "dogruIndeks": 0, "aciklama": "Hâl cümlesi başında (وَإِنَّهُ...) kesralı إِنَّ okunur!" },
+        { "id": "m22_g3_t10", "tip": "bosluk", "soru": "«يُقَالُ ___ الْعِلْمَ خَيْرٌ مِنَ الْمَالِ.» — يُقَالُ fiilinden sonra hangisi doğrudur?", "secenekler": ["إِنَّ (قَالَ ve meçhulü قِيلَ/يُقَالُ sonrası kesralı!)", "أَنَّ", "أَنْ", "بِأَنَّ"], "dogruIndeks": 0, "aciklama": "قَالَ / قِيلَ / يُقَالُ sonrasında daima kesralı إِنَّ okunur!" }
+      ]
+    },
+    {
+      "id": "m22_g4",
+      "baslik": "Mâ-i Kâffe (إِنَّمَا — Ameli Durduran مَا) & Te'kîd Lâmı (لَامُ الْمُزَحْلَقَةِ: إِنَّ ... لَـ)",
+      "arBaslik": "«مَا الْكَافَّةُ» (إِنَّمَا) وَلَامُ التَّوْكِيدِ الْمُزَحْلَقَةُ («إِنَّ الْعِلْمَ لَنُورٌ»)",
+      "mantik": "İnne ailesinin hem Kur'an'da hem modern Arapçada en çok karşınıza çıkacak iki süper gücü vardır:\n1) **Mâ-i Kâffe (`مَا الْكَافَّةُ` — Fren Yapan مَا!)**: `إِنَّ، أَنَّ، كَأَنَّ، لٰكِنَّ، لَعَلَّ` harflerinin sonuna `مَا` bitiştiğinde (`إِنَّمَا، كَأَنَّمَا، لٰكِنَّمَا`) o `مَا` tıpkı bir **el freni** gibi bunların nasb amelini **DURDURUR**! Sonuçta iki harika şey olur: (a) Arkadaki mübtedâ artık mansub değil, normal **MERFÛ** gelir (`إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ` — Hucurât 10: `الْمُؤْمِنُونَ` merfû!), (b) Artık **fiil cümlesinin başına da** rahatça gelebilirler (`إِنَّمَا يُرِيدُ الطَّالِبُ التَّفَوُّقَ` = Öğrenci yalnızca üstün başarıyı istiyor!) ve cümleye keskin bir **'ancak / yalnızca'** (hasr/sınırlama) vurgusu katarlar! (Tek istisna: `لَيْتَمَا` hem amel edebilir hem etmeyebilir!).\n2) **Kaydırılmış Te'kîd Lâmı (`اللَّامُ الْمُزَحْلَقَةُ`)**: İnne ile zaten vurgulanan cümleye **çifte vurgu** katmak için haberin (veya gecikmiş ismin) başına fethalı bir **`لَـ`** konur: **`إِنَّ الْعِلْمَ لَنُورٌ`** ('Şüphesiz ilim gerçekten/elbette nurdur!'). Bu `لَـ` harf-i cer DEĞİLDİR, haberi asla mecrûr yapmaz — haber merfû kalır!",
+      "formul": "إِنَّمَا + Merfû Mübtedâ + Merfû Haber (veya Fiil!) = 'Ancak / Yalnızca' | إِنَّ + Mansub + لَـ + Merfû = Çifte Vurgu!",
+      "formulAr": "إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ (مَرْفُوعٌ!)  |  إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ  |  إِنَّ الْعِلْمَ لَنُورٌ",
+      "tablo": {
+        "baslik": "إِنَّ vs. إِنَّمَا (Mâ-i Kâffe) & Te'kîd Lâmı (لَـ) Karşılaştırma Tablosu",
+        "sutunlar": ["Yapı", "Arapça Örnek", "İ'rab Etkisi", "Türkçe Çeviri"],
+        "satirlar": [
+          { "hucreler": ["إِنَّ (Normal)", "إِنَّ الْمُجْتَهِدِينَ نَاجِحُونَ.", "Nasb (الْمُجْتَهِدِينَ) → Ref' (نَاجِحُونَ)", "Şüphesiz çalışkanlar başarılıdır."], "ar": "إِنَّ الْمُجْتَهِدِينَ نَاجِحُونَ." },
+          { "hucreler": ["إِنَّمَا (İsim Cümlesi!)", "إِنَّمَا الْمُجْتَهِدُونَ نَاجِحُونَ.", "Amel DURUR → İkisi de MERFÛ!", "Ancak (yalnızca) çalışkanlar başarılıdır."], "ar": "إِنَّمَا الْمُجْتَهِدُونَ نَاجِحُونَ." },
+          { "hucreler": ["إِنَّمَا (Fiil Cümlesi!)", "إِنَّمَا يَنْجَحُ الْمُجْتَهِدُونَ!", "Fiil başına gelebilir! (Hasr)", "Yalnızca çalışkanlar başarır!"], "ar": "إِنَّمَا يَنْجَحُ الْمُجْتَهِدُونَ!" },
+          { "hucreler": ["كَأَنَّمَا (Fiil / İsim)", "كَأَنَّمَا أَحْيَا النَّاسَ جَمِيعًا!", "Amel durur → fiile gelir!", "Sanki bütün insanları diriltmiş gibidir!"], "ar": "كَأَنَّمَا أَحْيَا النَّاسَ جَمِيعًا!" },
+          { "hucreler": ["Te'kîd Lâmı (Müfred Haber)", "إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ / إِنَّهُ لَصَادِقٌ!", "لَـ fethalıdır, i'rabı değiştirmez!", "Şüphesiz o elbette doğru sözlüdür!"], "ar": "إِنَّهُ لَصَادِقٌ!" },
+          { "hucreler": ["Te'kîd Lâmı (Fiil Haber)", "إِنَّ اللّٰهَ لَيَعْلَمُ مَا فِي الصُّدُورِ.", "Muzâri merfû kalır!", "Şüphesiz Allah kalplerde olanı elbette bilir."], "ar": "إِنَّ اللّٰهَ لَيَعْلَمُ..." }
+        ]
+      },
+      "trKiyas": "Çok kritik bir okuma ve YDS sorusu farkı: `إِنَّمَا` kelimesindeki `مَا` (Mâ-i Kâffe — bitişik yazılır!) ile `إِنَّ مَا` (`إِنَّ` + ism-i mevsûl `مَا` — ayrı yazılır!) arasındaki farka bayılacaksınız! (1) **`إِنَّمَا الْعِلْمُ نُورٌ`** (bitişik `إِنَّمَا` = 'ancak/yalnızca' → amel durdu, `الْعِلْمُ` merfû!). (2) **`إِنَّ مَا قُلْتَهُ صَحِيحٌ`** (ayrı `إِنَّ مَا` = 'Şüphesiz söylediğin şey doğrudur' → buradaki `مَا` ism-i mevsûldür ve `إِنَّ`'nin mahallen mansub ismidir, `صَحِيحٌ` ise haberidir!). Ayrıca `لَـ` (fethalı Te'kîd Lâmı: `إِنَّهُ لَصَادِقٌ`) ile `لِـ` (kesralı Harf-i Cer: `لِصَادِقٍ`) hareke farkını asla karıştırmayın!",
+      "sikHatalar": [
+        "إِنَّمَا'dan sonra gelen ismi hâlâ mansub okumak (✗ إِنَّمَا الْمُؤْمِنِينَ إِخْوَةٌ → ✓ إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ — مَا el freni çekti, amel durdu!).",
+        "Te'kîd Lâmı (لَـ) sonrası haberi mecrûr yapmak (✗ إِنَّ الْعِلْمَ لَنُورٍ → ✓ إِنَّ الْعِلْمَ لَنُورٌ — fethalı لَـ harf-i cer değildir, haber merfû kalır!).",
+        "إِنَّمَا (Mâ-i Kâffe) ile إِنَّ مَا (İnne + ism-i mevsûl 'şey') arasındaki anlam ve yazım farkını karıştırmak."
+      ],
+      "ornekler": [
+        { "ar": "إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى!", "okunus": "İnneme'l-a‘mâlu bi'n-niyyâti, ve innemâ li-kulli'mriin mâ nevâ!", "tr": "Ameller ancak niyetlere göredir ve her kişiye ancak niyet ettiği şey vardır!", "not": "Meşhur hadis: إِنَّمَا + merfû الْأَعْمَالُ!" },
+        { "ar": "إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ!", "okunus": "İnneme'l-mu'minûne ihvetun fe-aslihû beyne ehâveykum!", "tr": "Müminler ancak kardeştirler; öyleyse iki kardeşinizin arasını düzeltin!", "not": "Hucurât 10 — إِنَّمَا + vâv ile merfû!" },
+        { "ar": "إِنَّمَا تُقَاسُ الْأُمَمُ بِعِلْمِهَا وَأَخْلَاقِهَا لَا بِكَثْرَةِ أَمْوَالِهَا.", "okunus": "İnnemâ tukâsu'l-umemu bi-‘ilmihâ ve ahlâkihâ lâ bi-kesrati emvâlihâ.", "tr": "Milletler ancak ilimleri ve ahlaklarıyla ölçülür, mallarının çokluğuyla değil.", "not": "إِنَّمَا + fiil cümlesi (meçhul!)" },
+        { "ar": "إِنَّ الصَّدِيقَ الْوَفِيَّ لَكَنْزٌ ثَمِينٌ لَا يُقَدَّرُ بِثَمَنٍ!", "okunus": "İnne's-sadîka'l-vefiyye le-kenzun semînun lâ yukadderu bi-semenin!", "tr": "Şüphesiz vefalı dost, paha biçilemez gerçekten değerli bir hazinedir!", "not": "Fethalı Te'kîd Lâmı (لَكَنْزٌ — merfû!)" },
+        { "ar": "إِنَّ مَا تَعَلَّمْتَهُ الْيَوْمَ سَيَنْفَعُكَ غَدًا فِي مَسِيرَتِكَ!", "okunus": "İnne mâ te‘allemtehu'l-yevme se-yenfe‘uke gaden fî mesîratike!", "tr": "Şüphesiz bugün öğrendiğin şey yarın yolculuğunda sana fayda verecektir!", "not": "Ayrı إِنَّ مَا (مَا = ism-i mevsûl!)" },
+        { "ar": "إِنَّ فِي ذٰلِكَ لَعِبْرَةً لِأُولِي الْأَبْصَارِ!", "okunus": "İnne fî zâlike le-‘ibraten li-uli'l-ebsâri!", "tr": "Şüphesiz bunda basiret sahipleri için elbette bir ibret vardır!", "not": "Gecikmiş İnne isminin (عِبْرَةً) başına gelen Te'kîd Lâmı!" }
+      ],
+      "tatbikler": [
+        { "id": "m22_g4_t01", "tip": "bosluk", "soru": "«إِنَّمَا ___ مَاهِرُونَ فِي عَمَلِهِمْ.» — إِنَّمَا (Mâ-i Kâffe) sonrası doğru isim hangisidir?", "secenekler": ["الْمُهَنْدِسُونَ", "الْمُهَنْدِسِينَ", "الْمُهَنْدِسَيْنِ", "الْمُهَنْدِسَ"], "dogruIndeks": 0, "aciklama": "مَا الْكَافَّةُ إِنَّ'nin amelini durdurur → mübtedâ vâv ile MERFÛ gelir: الْمُهَنْدِسُونَ!" },
+        { "id": "m22_g4_t02", "tip": "bosluk", "soru": "«إِنَّ الْكِتَابَ ___ صَدِيقٌ وَفِيٌّ!» — Çifte vurgu katan Te'kîd Lâmı ile doğru yazım hangisidir?", "secenekler": ["لَصَدِيقٌ (fethalı لَـ + merfû haber)", "لِصَدِيقٍ", "لَصَدِيقًا", "لِصَدِيقٌ"], "dogruIndeks": 0, "aciklama": "Te'kîd Lâmı (اللَّامُ الْمُزَحْلَقَةُ) fethalıdır ve haberi merfû bırakır: لَصَدِيقٌ!" },
+        { "id": "m22_g4_t03", "tip": "donusturme", "soru": "«إِنَّ الطَّالِبَيْنِ مُتَفَوِّقَانِ.» cümlesinde «إِنَّ» yerine «إِنَّمَا» yazılırsa cümle nasıl değişir?", "secenekler": ["إِنَّمَا الطَّالِبَانِ مُتَفَوِّقَانِ.", "إِنَّمَا الطَّالِبَيْنِ مُتَفَوِّقَانِ.", "إِنَّمَا الطَّالِبَيْنِ مُتَفَوِّقَيْنِ.", "إِنَّمَا الطَّالِبَانِ مُتَفَوِّقَيْنِ."], "dogruIndeks": 0, "aciklama": "Mâ-i Kâffe gelince nasb biter → tesniye mübtedâ elifle merfû olur: الطَّالِبَانِ مُتَفَوِّقَانِ!" },
+        { "id": "m22_g4_t04", "tip": "bosluk", "soru": "«إِنَّمَا يَنْجَحُ الصَّابِرُونَ.» cümlesinde «إِنَّمَا» neden fiil cümlesinin başına gelebilmiştir?", "secenekler": ["مَا الْكَافَّةُ إِنَّ'yi isim cümlesine özgü olmaktan çıkarır ve fiil başına da girmesini sağlar ('ancak/yalnızca')!", "Çünkü يَنْجَحُ isimdir", "Yazım hatasıdır", "Çünkü لَنْ vardır"], "dogruIndeks": 0, "aciklama": "إِنَّمَا hem isim hem fiil cümlesine girer ve 'ancak/yalnızca' sınırlaması yapar!" },
+        { "id": "m22_g4_t05", "tip": "hata", "soru": "«إِنَّمَا الْأَخَوَيْنِ مُتَعَاوِنَانِ.» cümlesindeki hata nasıl düzeltilir?", "secenekler": ["الْأَخَوَيْنِ → الْأَخَوَانِ (Mâ-i Kâffe ameli durdurur, mübtedâ merfûdur!)", "مُتَعَاوِنَانِ → مُتَعَاوِنَيْنِ", "إِنَّمَا → إِنَّ", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "إِنَّمَا + merfû mübtedâ (الْأَخَوَانِ) + merfû haber (مُتَعَاوِنَانِ)!" },
+        { "id": "m22_g4_t06", "tip": "bosluk", "soru": "«إِنَّمَا الصَّبْرُ نَجَاحٌ» ile «إِنَّ مَا قُلْتَهُ صَحِيحٌ» arasındaki «مَا» farkı nedir?", "secenekler": ["İlkinde bitişik مَا الْكَافَّةُ (ameli durdurur: 'ancak'); ikincisinde ayrı ism-i mevsûl مَا ('söylediğin şey')!", "İkisi de aynıdır", "İlkinde ism-i mevsûldür", "İkincisinde soru ismidir"], "dogruIndeks": 0, "aciklama": "Bitişik إِنَّمَا = Mâ-i Kâffe; ayrı إِنَّ مَا = İnne + ism-i mevsûl مَا!" },
+        { "id": "m22_g4_t07", "tip": "bosluk", "soru": "«إِنَّ هٰذَا الْكِتَابَ لَمُفِيدٌ جِدًّا.» cümlesinde «لَمُفِيدٌ» kelimesindeki «لَـ»'nin adı nedir?", "secenekler": ["اللَّامُ الْمُزَحْلَقَةُ (Kaydırılmış Te'kîd Lâmı)", "لَامُ الْأَمْرِ", "لَامُ التَّعْلِيلِ", "Harf-i cer"], "dogruIndeks": 0, "aciklama": "İnne haberinin başındaki fethalı vurgu lâmına اللَّامُ الْمُزَحْلَقَةُ denir!" },
+        { "id": "m22_g4_t08", "tip": "bosluk", "soru": "«إِنَّ فِي التَّأَنِّي لَسَلَامَةً!» cümlesinde «سَلَامَةً» neden mansubdur?", "secenekler": ["فِي التَّأَنِّي öne geçmiş haber, سَلَامَةً ise Te'kîd Lâmı almış gecikmiş İnne İSMİDİR (mansub)!", "Haber olduğu için", "Fâil olduğu için", "Mecrûr olduğu için"], "dogruIndeks": 0, "aciklama": "Te'kîd Lâmı i'rabı değiştirmez; gecikmiş İnne ismi mansub kalır: لَسَلَامَةً!" },
+        { "id": "m22_g4_t09", "tip": "tr_ar", "soru": "'Başarı ancak sürekli gayretle elde edilir.' (إِنَّمَا + meçhul fiil!) hangisidir?", "secenekler": ["إِنَّمَا يُنَالُ النَّجَاحُ بِالِاجْتِهَادِ الْمُسْتَمِرِّ.", "إِنَّ يُنَالُ النَّجَاحُ بِالِاجْتِهَادِ.", "إِنَّمَا النَّجَاحَ بِالِاجْتِهَادِ.", "لَيْتَ يُنَالُ النَّجَاحُ."], "dogruIndeks": 0, "aciklama": "إِنَّ fiil başına gelemez, ama إِنَّمَا fiil başına gelir: إِنَّمَا يُنَالُ النَّجَاحُ!" },
+        { "id": "m22_g4_t10", "tip": "bosluk", "soru": "Mâ-i Kâffe eklendiğinde istisna olarak hem amel edebilen hem etmeyebilen tek kardeş hangisidir?", "secenekler": ["لَيْتَمَا (لَيْتَمَا الشَّبَابَ / الشَّبَابُ يَعُودُ)", "إِنَّمَا", "كَأَنَّمَا", "لٰكِنَّمَا"], "dogruIndeks": 0, "aciklama": "Günday & Şahin Nahiv notu: Sadece لَيْتَمَا istisna olarak iki türlü de okunabilir; diğer 5'inde amel kesin durur!" }
+      ]
+    },
+    {
+      "id": "m22_g5",
+      "baslik": "İnne'nin Haber Çeşitleri & Öne Geçmiş Şibh-i Cümle Haber (إِنَّ هُنَاكَ أَمَلًا ≠ كَانَ هُنَاكَ أَمَلٌ!)",
+      "arBaslik": "أَنْوَاعُ خَبَرِ «إِنَّ» وَتَقْدِيمُ خَبَرِهَا الشِّبْهِ جُمْلَةِ",
+      "mantik": "Modül 21'in en kritik kuralıyla şimdi doğrudan yüzleşelim! Tıpkı Kâne'de olduğu gibi İnne ve Kardeşlerinin haberi de 4 türde gelebilir (Müfred, İsim Cümlesi, Fiil Cümlesi, Şibh-i Cümle — cümle/şibh-i cümle olunca **mahallen MERFÛ** olur!). VE işte YDS'nin şampiyonluk sorusu: İnne'nin ismi **nekre**, haberi ise **şibh-i cümle** (`فِي / لِـ / عِنْدَ / هُنَاكَ / مَعَ`) olduğunda haber öne geçer, nekre isim sonraya kalır — AMA bu kez sona kalan isim **İnne'nin İSMİ** olduğu için **MANSUB** olur!\nİkisini yan yana zihninize kazıyın:\n► `كَانَ هُنَاكَ أَمَلٌ كَبِيرٌ.` (**MERFÛ!** — Kâne'nin ismi)\n► `إِنَّ هُنَاكَ أَمَلًا كَبِيرًا!` (**MANSUB!** — İnne'nin ismi!)\n► `إِنَّ مَعَ الْعُسْرِ يُسْرًا!` (**MANSUB!** — İnşirâh 6: `مَعَ الْعُسْرِ` öne geçmiş haber, `يُسْرًا` gecikmiş MANSUB isim!)",
+      "formul": "إِنَّ + [Öne Geçmiş Şibh-i Cümle Haber] + [Sona Kalmış MANSUB İsim!]  ≠  كَانَ + Şibh-i Cümle + MERFÛ İsim!",
+      "formulAr": "إِنَّ فِي الْبَيْتِ ضَيْفًا (مَنْصُوبٌ!)  ≠  كَانَ فِي الْبَيْتِ ضَيْفٌ (مَرْفُوعٌ!)",
+      "tablo": {
+        "baslik": "İnne'de 4 Haber Türü + Öne Geçmiş Şibh-i Cümle (Kâne ile Kıyaslı!)",
+        "sutunlar": ["Yapı Türü", "Arapça Örnek", "İ'rab Analizi", "Türkçe Çeviri"],
+        "satirlar": [
+          { "hucreler": ["Müfred Haber", "إِنَّ النَّجَاحَ ثَمَرَةُ الصَّبْرِ.", "ثَمَرَةُ: Açık damme ile merfû", "Şüphesiz başarı sabrın meyvesidir."], "ar": "إِنَّ النَّجَاحَ ثَمَرَةُ الصَّبْرِ." },
+          { "hucreler": ["Fiil Cümlesi Haber", "إِنَّ الْعِلْمَ يَبْنِي الْحَضَارَاتِ.", "يَبْنِي: Mahallen merfû haber!", "Şüphesiz ilim medeniyetleri inşa eder."], "ar": "إِنَّ الْعِلْمَ يَبْنِي الْحَضَارَاتِ." },
+          { "hucreler": ["İsim Cümlesi Haber", "إِنَّ الْمَدِينَةَ تَارِيخُهَا عَرِيقٌ.", "تَارِيخُهَا عَرِيقٌ: Mahallen merfû!", "Şüphesiz şehrin tarihi köklüdür."], "ar": "إِنَّ الْمَدِينَةَ تَارِيخُهَا عَرِيقٌ." },
+          { "hucreler": ["Öne Geçmiş Haber (فِي)", "إِنَّ فِي الْمَكْتَبَةِ كُتُبًا نَادِرَةً.", "فِي الْمَكْتَبَةِ (haber) + كُتُبًا (MANSUB isim!)", "Şüphesiz kütüphanede nadir kitaplar vardır."], "ar": "إِنَّ فِي الْمَكْتَبَةِ كُتُبًا نَادِرَةً." },
+          { "hucreler": ["Öne Geçmiş Haber (هُنَاكَ)", "إِنَّ هُنَاكَ فُرْصَةً ذَهَبِيَّةً!", "هُنَاكَ (haber) + فُرْصَةً (MANSUB isim!)", "Şüphesiz altın bir fırsat vardır!"], "ar": "إِنَّ هُنَاكَ فُرْصَةً ذَهَبِيَّةً!" },
+          { "hucreler": ["Öne Geçmiş Haber (لِـ / عِنْدَ)", "إِنَّ لِلصَّبْرِ عَاقِبَةً حَسَنَةً!", "لِلصَّبْرِ (haber) + عَاقِبَةً (MANSUB isim!)", "Şüphesiz sabrın güzel bir sonu vardır!"], "ar": "إِنَّ لِلصَّبْرِ عَاقِبَةً حَسَنَةً!" }
+        ]
+      },
+      "trKiyas": "Kur'an'dan iki ölümsüz ayet bu kuralı tek seferde unutmamanızı sağlar: `إِنَّ مَعَ الْعُسْرِ يُسْرًا` (İnşirâh 6) ve `إِنَّ لِلْمُتَّقِينَ مَفَازًا` (Nebe 31)! İkisinde de şibh-i cümle (`مَعَ الْعُسْرِ / لِلْمُتَّقِينَ`) öne geçmiş haber, sondaki `يُسْرًا / مَفَازًا` ise İnne'nin **gecikmiş MANSUB ismidir**! Modern gazetelerde de **`أَكَّدَ التَّقْرِيرُ أَنَّ هُنَاكَ تَحَدِّيَاتٍ كَبِيرَةً`** ('Rapor büyük zorluklar bulunduğunu teyit etti' — `تَحَدِّيَاتٍ` kesrayla mansub!) her gün karşınıza çıkar!",
+      "sikHatalar": [
+        "إِنَّ هُنَاكَ / إِنَّ فِي... yapısında sona kalan ismi merfû okumak (✗ إِنَّ هُنَاكَ مُشْكِلَةٌ / إِنَّ فِي الصَّفِّ طَالِبَانِ → ✓ إِنَّ هُنَاكَ مُشْكِلَةً / إِنَّ فِي الصَّفِّ طَالِبَيْنِ!).",
+        "أَنَّ هُنَاكَ ile كَانَ هُنَاكَ'yi karıştırmak (كَانَ هُنَاكَ + MERFÛ; إِنَّ/أَنَّ هُنَاكَ + MANSUB!).",
+        "İnne + isim cümlesi haberde (إِنَّ الْبَيْتَ غُرَفُهُ وَاسِعَةٌ) 2. mübtedâyı mansub yapmak (✗ غُرَفَهُ → ✓ غُرَفُهُ — sadece 1. isim الْبَيْتَ mansub olur!)."
+      ],
+      "ornekler": [
+        { "ar": "إِنَّ مَعَ الْعُسْرِ يُسْرًا!", "okunus": "İnne me‘a'l-‘usri yusran!", "tr": "Şüphesiz zorlukla beraber bir kolaylık vardır!", "not": "مَعَ الْعُسْرِ (haber) + يُسْرًا (gecikmiş mansub isim!)" },
+        { "ar": "أَعْلَنَ التَّقْرِيرُ أَنَّ هُنَاكَ تَحَسُّنًا مَلْحُوظًا فِي النَّتَائِجِ.", "okunus": "A‘lene't-takrîru enne hunâke tehassunen melhûzan fi'n-netâici.", "tr": "Rapor sonuçlarda belirgin bir iyileşme olduğunu duyurdu.", "not": "أَنَّ هُنَاكَ + mansub (تَحَسُّنًا!)" },
+        { "ar": "إِنَّ فِي الْقَاعَةِ مُهَنْدِسِينَ وَبَاحِثِينَ مِنْ عَشْرِ دُوَلٍ.", "okunus": "İnne fi'l-kâ‘ati muhendisîne ve bâhisîne min ‘aşri duvelin.", "tr": "Şüphesiz salonda on ülkeden mühendisler ve araştırmacılar vardır.", "not": "Gecikmiş cemi müzekker isim: ي ile mansub (مُهَنْدِسِينَ!)" },
+        { "ar": "لَعَلَّ لَدَيْهِمْ أَخْبَارًا سَارَّةً عَنِ الْمَشْرُوعِ!", "okunus": "Le‘alle ledeyhim ahbâran sârraten ‘ani'l-meşrû‘i!", "tr": "Belki proje hakkında sevindirici haberleri vardır!", "not": "لَعَلَّ + öne geçmiş haber (لَدَيْهِمْ) + mansub أَخْبَارًا!" },
+        { "ar": "إِنَّ لِلْقِرَاءَةِ أَثَرًا عَمِيقًا فِي بِنَاءِ الشَّخْصِيَّةِ.", "okunus": "İnne li'l-kırâeti eseran ‘amîkan fî binâi'ş-şahsiyyeti.", "tr": "Şüphesiz okumanın kişilik inşasında derin bir etkisi vardır.", "not": "لِلْقِرَاءَةِ (haber) + أَثَرًا (mansub isim!)" },
+        { "ar": "أُؤْمِنُ بِأَنَّ هُنَاكَ طَالِبَيْنِ مُتَفَوِّقَيْنِ فِي هٰذِهِ الْمَجْمُوعَةِ.", "okunus": "U'minu bi-enne hunâke tâlibeyni mutefevvikayni fî hâzihi'l-mecmû‘ati.", "tr": "Bu grupta iki üstün başarılı öğrenci bulunduğuna inanıyorum.", "not": "بِأَنَّ هُنَاكَ + tesniye mansub isim (طَالِبَيْنِ!)" }
+      ],
+      "tatbikler": [
+        { "id": "m22_g5_t01", "tip": "bosluk", "soru": "«إِنَّ هُنَاكَ ___ كَبِيرًا فِي نَجَاحِ الْمَشْرُوعِ.» — Sona kalmış İnne'nin ismi hangisidir?", "secenekler": ["أَمَلًا", "أَمَلٌ", "أَمَلٍ", "الْأَمَلُ"], "dogruIndeks": 0, "aciklama": "هُنَاكَ öne geçmiş haber, أَمَلًا ise İnne'nin sona kalmış MANSUB ismidir!" },
+        { "id": "m22_g5_t02", "tip": "bosluk", "soru": "«كَانَ هُنَاكَ أَمَلٌ» ile «إِنَّ هُنَاكَ أَمَلًا» arasındaki hareke farkının sebebi nedir?", "secenekler": ["İkisinde de أَمَل gecikmiş İSİMDİR; Kâne ismini MERFÛ, İnne ise MANSUB yapar!", "İlki fâildir", "İkincisi haberdir", "Rastgeledir"], "dogruIndeks": 0, "aciklama": "Kâne'nin ismi = merfû (أَمَلٌ); İnne'nin ismi = mansub (أَمَلًا)!" },
+        { "id": "m22_g5_t03", "tip": "bosluk", "soru": "«إِنَّ فِي الْمَدْرَسَةِ ___ مُخْلِصِينَ.» — Cemi müzekker gecikmiş İnne ismi hangisidir?", "secenekler": ["مُعَلِّمِينَ", "مُعَلِّمُونَ", "مُعَلِّمَانِ", "مُعَلِّمٌ"], "dogruIndeks": 0, "aciklama": "فِي الْمَدْرَسَةِ öne geçmiş haber; gecikmiş İnne ismi yâ ile mansubdur: مُعَلِّمِينَ!" },
+        { "id": "m22_g5_t04", "tip": "bosluk", "soru": "«أَشَارَ التَّقْرِيرُ إِلَى أَنَّ هُنَاكَ ___ مُهِمَّةً فِي الْبَحْثِ.» — Cemi müennes gecikmiş أَنَّ ismi!", "secenekler": ["تَطَوُّرَاتٍ", "تَطَوُّرَاتٌ", "تَطَوُّرَاتًا", "تَطَوُّرٌ"], "dogruIndeks": 0, "aciklama": "Cemi müennes sâlim kesrayla mansub olur: تَطَوُّرَاتٍ مُهِمَّةً!" },
+        { "id": "m22_g5_t05", "tip": "hata", "soru": "«إِنَّ لِلْوَقْتِ قِيمَةٌ عَظِيمَةٌ!» cümlesindeki i'rab hatası nasıl düzeltilir?", "secenekler": ["قِيمَةٌ عَظِيمَةٌ → قِيمَةً عَظِيمَةً (İnne'nin gecikmiş mansub ismidir!)", "لِلْوَقْتِ → الْوَقْتَ", "إِنَّ → إِنَّمَا", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "لِلْوَقْتِ öne geçmiş haber, قِيمَةً عَظِيمَةً mansub isimdir!" },
+        { "id": "m22_g5_t06", "tip": "bosluk", "soru": "«إِنَّ الْقِرَاءَةَ تُنَمِّي الْعَقْلَ.» cümlesinde «تُنَمِّي الْعَقْلَ» haberinin mahallen i'rabı nedir?", "secenekler": ["Fiil cümlesi, İnne'nin mahallen MERFÛ haberi!", "Mahallen mansub haber", "Sıfat", "Hâl"], "dogruIndeks": 0, "aciklama": "Kâne'nin cümle haberi mahallen mansub, İnne'nin cümle haberi mahallen MERFÛDUR!" },
+        { "id": "m22_g5_t07", "tip": "tr_ar", "soru": "'Şüphesiz odada iki yeni masa vardır.' (İnne + öne geçmiş haber + tesniye!) hangisidir?", "secenekler": ["إِنَّ فِي الْغُرْفَةِ طَاوِلَتَيْنِ جَدِيدَتَيْنِ.", "إِنَّ فِي الْغُرْفَةِ طَاوِلَتَانِ جَدِيدَتَانِ.", "كَانَ فِي الْغُرْفَةِ طَاوِلَتَيْنِ.", "إِنَّ طَاوِلَتَانِ فِي الْغُرْفَةِ."], "dogruIndeks": 0, "aciklama": "فِي الْغُرْفَةِ haber, طَاوِلَتَيْنِ جَدِيدَتَيْنِ (yâ ile mansub!) İnne'nin ismidir!" },
+        { "id": "m22_g5_t08", "tip": "bosluk", "soru": "«لَعَلَّ عِنْدَ أَخِيكَ ___ لِهٰذِهِ الْمُشْكِلَةِ.» ('Belki kardeşinde bir çözüm vardır.')", "secenekler": ["حَلًّا", "حَلٌّ", "حَلٍّ", "الْحَلُّ"], "dogruIndeks": 0, "aciklama": "عِنْدَ أَخِيكَ öne geçmiş haber; حَلًّا لَعَلَّ'nin mansub ismidir!" },
+        { "id": "m22_g5_t09", "tip": "bosluk", "soru": "«إِنَّ الْمَدْرَسَةَ صُفُوفُهَا وَاسِعَةٌ.» cümlesinde «صُفُوفُهَا» neden merfûdur?", "secenekler": ["İnne'nin haberi olan isim cümlesinin 2. mübtedâsı olduğu için merfûdur!", "İnne'nin ismi olduğu için", "Fâil olduğu için", "Mecrûr olduğu için"], "dogruIndeks": 0, "aciklama": "الْمَدْرَسَةَ (İnne'nin mansub ismi), [صُفُوفُهَا وَاسِعَةٌ] (mahallen merfû isim cümlesi haber)!" },
+        { "id": "m22_g5_t10", "tip": "donusturme", "soru": "«كَانَ هُنَاكَ عَشَرَةُ طُلَّابٍ.» cümlesinde «كَانَ» yerine «إِنَّ» getirilirse nasıl olur?", "secenekler": ["إِنَّ هُنَاكَ عَشَرَةَ طُلَّابٍ.", "إِنَّ هُنَاكَ عَشَرَةُ طُلَّابٍ.", "إِنَّ هُنَاكَ عَشَرَةِ طُلَّابٍ.", "إِنَّ عَشَرَةُ طُلَّابٍ هُنَاكَ."], "dogruIndeks": 0, "aciklama": "عَشَرَةُ (Kâne'nin merfû ismi) → عَشَرَةَ (İnne'nin mansub ismi)!" }
+      ]
+    }
+  ],
+  "workshop": {
+    "motors": [
+      {
+        "id": "m22_mot1",
+        "baslik": "Kalıp 1: İnne & Kardeşleri (Nasb – Ref') Çekim Makinesi",
+        "aciklama": "6 harfi mansub isim + merfû haberle kusursuz eşleştirin.",
+        "slotlar": [
+          {
+            "etiket": "İnne & Kardeşi",
+            "secenekler": [
+              { "ar": "إِنَّ", "tr": "Şüphesiz" },
+              { "ar": "عَلِمْتُ أَنَّ", "tr": "... olduğunu bildim" },
+              { "ar": "كَأَنَّ", "tr": "Sanki" },
+              { "ar": "اَلْأَمْرُ صَعْبٌ وَلٰكِنَّ", "tr": "İş zor fakat ..." },
+              { "ar": "لَيْتَ", "tr": "Keşke ..." },
+              { "ar": "لَعَلَّ", "tr": "Umarım / Belki ..." }
+            ]
+          },
+          {
+            "etiket": "Mansub İsim + Merfû Haber",
+            "secenekler": [
+              { "ar": "الصَّبْرَ مِفْتَاحُ كُلِّ نَجَاحٍ عَظِيمٍ.", "tr": "sabır her büyük başarının anahtarıdır." },
+              { "ar": "الطَّالِبَيْنِ مُجْتَهِدَانِ فِي أَبْحَاثِهِمَا.", "tr": "iki öğrenci araştırmalarında çalışkandır." },
+              { "ar": "الْمُهَنْدِسِينَ مُبْدِعُونَ فِي تَصَامِيمِهِمْ.", "tr": "mühendisler tasarımlarında üretkendir." },
+              { "ar": "الطَّالِبَاتِ حَرِيصَاتٌ عَلَى التَّفَوُّقِ.", "tr": "kız öğrenciler üstün başarıya özenlidir." },
+              { "ar": "أَخَاكَ ذُو خِبْرَةٍ وَحِكْمَةٍ وَاسِعَةٍ.", "tr": "kardeşin geniş tecrübe ve hikmet sahibidir." },
+              { "ar": "الْفَرَجَ قَرِيبٌ وَالْمُسْتَقْبَلَ مُشْرِقٌ.", "tr": "ferahlık yakındır ve gelecek aydınlıktır." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m22_mot2",
+        "baslik": "Kalıp 2: Kesralı إِنَّ vs. Fethalı أَنَّ Karar Motoru",
+        "aciklama": "Öndeki ifadeye göre kesralı إِنَّ veya fethalı أَنَّ seçerek cümle kurun.",
+        "slotlar": [
+          {
+            "etiket": "Ön Yapı + Doğru Hemze (إِنَّ / أَنَّ)",
+            "secenekler": [
+              { "ar": "قَالَ الْأُسْتَاذُ: إِنَّ", "tr": "Hoca dedi ki: Şüphesiz (Kesra!)" },
+              { "ar": "وَاللّٰهِ إِنَّ", "tr": "Allah'a yemin olsun ki (Kesra!)" },
+              { "ar": "أَزُورُ الْمَكْتَبَةَ حَيْثُ إِنَّ", "tr": "Kütüphaneye giderim zira (Kesra!)" },
+              { "ar": "أَكَّدَ الْخُبَرَاءُ أَنَّ", "tr": "Uzmanlar ... olduğunu teyit etti (Fetha!)" },
+              { "ar": "نَجَحَ الطَّالِبُ لِأَنَّ", "tr": "Öğrenci başardı çünkü (Fetha!)" },
+              { "ar": "مِنَ الْمَعْرُوفِ أَنَّ", "tr": "... olduğu bilinmektedir (Fetha!)" }
+            ]
+          },
+          {
+            "etiket": "İsim Cümlesi (Mansub + Merfû)",
+            "secenekler": [
+              { "ar": "الْقِرَاءَةَ الْيَوْمِيَّةَ تُقَوِّي الذَّاكِرَةَ.", "tr": "günlük okuma hafızayı güçlendirir." },
+              { "ar": "الِاجْتِهَادَ طَرِيقٌ مَضْمُونٌ لِلتَّفَوُّقِ.", "tr": "gayret üstün başarı için garanti yoldur." },
+              { "ar": "قَاعَاتِهَا هَادِئَةٌ وَكُتُبَهَا شَامِلَةٌ.", "tr": "salonları sakin ve kitapları kapsamlıdır." },
+              { "ar": "النَّوْمَ الْمُنْتَظِمَ يَرْفَعُ التَّرْكِيزَ.", "tr": "düzenli uyku odaklanmayı artırır." },
+              { "ar": "خُطَّتَهُ كَانَتْ وَاضِحَةً وَمُنَظَّمَةً.", "tr": "planı net ve düzenliydi." },
+              { "ar": "التَّعَاوُنَ يُحَقِّقُ نَتَائِجَ بَاهِرَةً.", "tr": "iş birliği parlak sonuçlar doğurur." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m22_mot3",
+        "baslik": "Kalıp 3: إِنَّمَا (Mâ-i Kâffe) Hasr & Sınırlama Motoru",
+        "aciklama": "İsim cümlesinde MERFÛ, fiil cümlesinde akıcı 'ancak / yalnızca' cümleleri üretin.",
+        "slotlar": [
+          {
+            "etiket": "إِنَّمَا / كَأَنَّمَا",
+            "secenekler": [
+              { "ar": "إِنَّمَا الْمُجْتَهِدُونَ", "tr": "Ancak çalışkanlar ... (Merfû!)" },
+              { "ar": "إِنَّمَا النَّجَاحُ الْحَقِيقِيُّ", "tr": "Gerçek başarı ancak ... (Merfû!)" },
+              { "ar": "إِنَّمَا يَنَالُ التَّفَوُّقَ", "tr": "Üstün başarıya ancak ... ulaşır (Fiil!)" },
+              { "ar": "إِنَّمَا تُقَاسُ الْأُمَمُ", "tr": "Milletler ancak ... ile ölçülür (Meçhul!)" },
+              { "ar": "إِنَّمَا الصَّدِيقُ الْوَفِيُّ", "tr": "Vefalı dost ancak ... (Merfû!)" },
+              { "ar": "كَأَنَّمَا الْعَالَمُ الْيَوْمَ", "tr": "Bugün dünya sanki ... (Merfû!)" }
+            ]
+          },
+          {
+            "etiket": "Tamamlayıcı Yargı",
+            "secenekler": [
+              { "ar": "فَائِزُونَ بِالنَّتَائِجِ الْعَالِيَةِ.", "tr": "yüksek sonuçları kazananlardır." },
+              { "ar": "ثَمَرَةُ الصَّبْرِ وَالْإِخْلَاصِ فِي الْعَمَلِ.", "tr": "işte sabır ve samimiyetin meyvesidir." },
+              { "ar": "مَنْ يُنَظِّمُ وَقْتَهُ وَيُثَابِرُ كُلَّ يَوْمٍ.", "tr": "zamanını düzenleyen ve her gün sebat eden." },
+              { "ar": "بِعِلْمِهَا وَأَخْلَاقِهَا وَإِنْتَاجِهَا الْعِلْمِيِّ.", "tr": "ilmi, ahlakı ve bilimsel üretimiyle." },
+              { "ar": "مَنْ يَقِفُ مَعَكَ فِي أَيَّامِ الشِّدَّةِ.", "tr": "dar günlerinde yanında duran kimsedir." },
+              { "ar": "قَرْيَةٌ صَغِيرَةٌ بِفَضْلِ وَسَائِلِ التَّوَاصُلِ.", "tr": "iletişim araçları sayesinde küçük bir köydür." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m22_mot4",
+        "baslik": "Kalıp 4: Te'kîd Lâmı (إِنَّ ... لَـ) Çifte Vurgu Motoru",
+        "aciklama": "Fethalı اللَّامُ الْمُزَحْلَقَةُ ile güçlü edebî vurgular oluşturun.",
+        "slotlar": [
+          {
+            "etiket": "إِنَّ + Mansub İsim",
+            "secenekler": [
+              { "ar": "إِنَّ اللُّغَةَ الْعَرَبِيَّةَ", "tr": "Şüphesiz Arap dili" },
+              { "ar": "إِنَّ الصِّدْقَ وَالْأَمَانَةَ", "tr": "Şüphesiz doğruluk ve güvenilirlik" },
+              { "ar": "إِنَّ هٰذَا الْكِتَابَ الْقَيِّمَ", "tr": "Şüphesiz bu kıymetli kitap" },
+              { "ar": "إِنَّ الْعُلَمَاءَ الْمُخْلِصِينَ", "tr": "Şüphesiz samimi âlimler" },
+              { "ar": "إِنَّ فِي التَّأَنِّي", "tr": "Şüphesiz acele etmemekte" },
+              { "ar": "إِنَّكَ يَا صَدِيقِي", "tr": "Şüphesiz sen arkadaşım" }
+            ]
+          },
+          {
+            "etiket": "لَـ (Fethalı Te'kîd!) + Haber / Gecikmiş İsim",
+            "secenekler": [
+              { "ar": "لَلُغَةٌ غَنِيَّةٌ بِالْمَعَانِي وَالْجَمَالِ!", "tr": "gerçekten anlam ve güzellikle zengin bir dildir!" },
+              { "ar": "لَأَسَاسَانِ مَتِينَانِ لِكُلِّ مُجْتَمَعٍ نَاجِحٍ!", "tr": "her başarılı toplum için elbette sağlam iki temeldir!" },
+              { "ar": "لَمَرْجِعٌ شَامِلٌ لَا يُسْتَغْنَى عَنْهُ!", "tr": "gerçekten vazgeçilmez kapsamlı bir kaynaktır!" },
+              { "ar": "لَمَصَابِيحُ تُنِيرُ طَرِيقَ الْإِنْسَانِيَّةِ!", "tr": "elbette insanlığın yolunu aydınlatan kandillerdir!" },
+              { "ar": "لَسَلَامَةً، وَفِي الْعَجَلَةِ لَنَدَامَةً!", "tr": "elbette selamet, acelede ise pişmanlık vardır!" },
+              { "ar": "لَقَادِرٌ عَلَى تَحْقِيقِ أَعْلَى الْمَرَاتِبِ!", "tr": "en yüksek derecelere ulaşmaya gerçekten muktedirsin!" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m22_mot5",
+        "baslik": "Kalıp 5: Öne Geçmiş Şibh-i Cümle Haber (إِنَّ هُنَاكَ + MANSUB!)",
+        "aciklama": "Sona kalan İnne isminin MANSUB olduğunu otomatikleştirin.",
+        "slotlar": [
+          {
+            "etiket": "İnne/Enne/Lealle + Şibh-i Cümle Haber",
+            "secenekler": [
+              { "ar": "إِنَّ هُنَاكَ", "tr": "Şüphesiz ... vardır" },
+              { "ar": "إِنَّ فِي الْمَدِينَةِ", "tr": "Şüphesiz şehirde ... vardır" },
+              { "ar": "إِنَّ لِلتَّعْلِيمِ", "tr": "Şüphesiz eğitimin ... vardır" },
+              { "ar": "أَكَّدَ التَّقْرِيرُ أَنَّ هُنَاكَ", "tr": "Rapor ... olduğunu teyit etti" },
+              { "ar": "لَعَلَّ لَدَيْهِمْ", "tr": "Belki onların ... vardır" },
+              { "ar": "إِنَّ أَمَامَنَا", "tr": "Şüphesiz önümüzde ... vardır" }
+            ]
+          },
+          {
+            "etiket": "Sona Kalmış MANSUB İsim!",
+            "secenekler": [
+              { "ar": "فُرْصَةً ذَهَبِيَّةً لِتَطْوِيرِ مَهَارَاتِنَا.", "tr": "becerilerimizi geliştirmek için altın bir fırsat." },
+              { "ar": "مَكْتَبَاتٍ عَامَّةً مَفْتُوحَةً لِلْجَمِيعِ.", "tr": "herkese açık halk kütüphaneleri." },
+              { "ar": "أَثَرًا عَمِيقًا فِي نَهْضَةِ الْبِلَادِ.", "tr": "ülkenin kalkınmasında derin bir etki." },
+              { "ar": "تَحَسُّنًا مَلْحُوظًا فِي جَوْدَةِ الْخَدَمَاتِ.", "tr": "hizmetlerin kalitesinde belirgin bir iyileşme." },
+              { "ar": "أَخْبَارًا سَارَّةً عَنْ نَتَائِجِ الْمُسَابَقَةِ.", "tr": "yarışma sonuçları hakkında sevindirici haberler." },
+              { "ar": "طَرِيقَيْنِ وَاضِحَيْنِ لِحَلِّ هٰذِهِ الْمَسْأَلَةِ.", "tr": "bu meseleyi çözmek için iki açık yol." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m22_mot6",
+        "baslik": "Kalıp 6: YDS Bağlaç Ailesi (لِأَنَّ / رَغْمَ أَنَّ / مَعَ أَنَّ / كَمَا أَنَّ / إِلَّا أَنَّ)",
+        "aciklama": "أَنَّ türevli en güçlü 6 YDS akademik bağlacıyla profesyonel cümleler üretin.",
+        "slotlar": [
+          {
+            "etiket": "1. Cümle",
+            "secenekler": [
+              { "ar": "نَجَحَ الْمَشْرُوعُ نَجَاحًا بَاهِرًا،", "tr": "Proje parlak bir başarı kazandı," },
+              { "ar": "حَضَرَ الْبَاحِثُ الْمُؤْتَمَرَ،", "tr": "Araştırmacı konferansa katıldı," },
+              { "ar": "اَلتِّقْنِيَّةُ تُسَهِّلُ حَيَاتَنَا كَثِيرًا،", "tr": "Teknoloji hayatımızı çok kolaylaştırıyor," },
+              { "ar": "اَلْكِتَابُ غَنِيٌّ بِالْمَعْلُومَاتِ،", "tr": "Kitap bilgi bakımından zengindir," },
+              { "ar": "تَوَافَرَتْ جَمِيعُ الشُّرُوطِ الْأَسَاسِيَّةِ،", "tr": "Tüm temel şartlar sağlandı," },
+              { "ar": "أُعْجِبَ الْجَمِيعُ بِالْعَرْضِ الْعِلْمِيِّ،", "tr": "Herkes bilimsel sunuma hayran kaldı," }
+            ]
+          },
+          {
+            "etiket": "أَنَّ Türevli YDS Bağlacı + Devamı",
+            "secenekler": [
+              { "ar": "لِأَنَّ التَّخْطِيطَ كَانَ دَقِيقًا وَمُنَظَّمًا.", "tr": "çünkü planlama titiz ve düzenliydi." },
+              { "ar": "رَغْمَ أَنَّ السَّفَرَ كَانَ طَوِيلًا وَمُتْعِبًا.", "tr": "yolculuk uzun ve yorucu olmasına rağmen." },
+              { "ar": "إِلَّا أَنَّ الِاسْتِخْدَامَ الْمُفْرِطَ لَهَا مُضِرٌّ.", "tr": "ancak aşırı kullanımı zararlıdır." },
+              { "ar": "كَمَا أَنَّ أُسْلُوبَهُ سَهْلٌ وَشَيِّقٌ لِلْقَارِئِ.", "tr": "ayrıca üslubu okuyucu için kolay ve sürükleyicidir." },
+              { "ar": "غَيْرَ أَنَّ التَّمْرِينَ الْمُسْتَمِرَّ مَا زَالَ ضَرُورِيًّا.", "tr": "ne var ki sürekli pratik hâlâ zorunludur." },
+              { "ar": "حَيْثُ إِنَّهُ تَضَمَّنَ نَمَاذِجَ تَطْبِيقِيَّةً وَاضِحَةً.", "tr": "zira açık uygulamalı modeller içeriyordu." }
+            ]
+          }
+        ]
+      }
+    ],
+    "merdivenler": [
+      {
+        "id": "m22_lad1",
+        "baslik": "A1 → B2 Merdiveni: İnne'den Te'kîd Lâmına ve Mâ-i Kâffe'ye",
+        "adimlar": [
+          { "seviye": "A1", "ar": "إِنَّ الْعِلْمَ نُورٌ.", "okunus": "İnne'l-‘ilme nûrun.", "tr": "Şüphesiz ilim nurdur.", "ekleme": "Temel İnne (Nasb – Ref')" },
+          { "seviye": "A1+", "ar": "إِنَّ الْعِلْمَ لَنُورٌ يَهْدِي الْإِنْسَانَ!", "okunus": "İnne'l-‘ilme le-nûrun yehdi'l-insâne!", "tr": "Şüphesiz ilim insanı doğru yola ileten gerçekten bir nurdur!", "ekleme": "Te'kîd Lâmı (لَنُورٌ) + nekre sıfat cümlesi!" },
+          { "seviye": "A2", "ar": "إِنَّمَا الْعُلَمَاءُ الْمُخْلِصُونَ مَصَابِيحُ تُنِيرُ طَرِيقَ الْمُجْتَمَعِ!", "okunus": "İnneme'l-‘ulemâu'l-muhlisûne mesâbîhu tunîru tarîka'l-muctema‘i!", "tr": "Samimi âlimler ancak toplumun yolunu aydınlatan kandillerdir!", "ekleme": "Mâ-i Kâffe (إِنَّمَا → merfû الْعُلَمَاءُ!)" },
+          { "seviye": "B1", "ar": "قَالَ الْأُسْتَاذُ إِنَّ النَّجَاحَ الْحَقِيقِيَّ لَا يَأْتِي بِالصُّدْفَةِ، وَلٰكِنَّهُ ثَمَرَةُ الصَّبْرِ وَالتَّخْطِيطِ الدَّقِيقِ.", "okunus": "Kâle'l-ustâzu inne'n-necâha'l-hakîkıyye lâ ye'tî bi's-sudfeti, ve lâkinnehu semeratu's-sabri ve't-tahtîti'd-dakîkı.", "tr": "Hoca dedi ki: Gerçek başarı tesadüfen gelmez, aksine sabrın ve titiz planlamanın meyvesidir.", "ekleme": "قَالَ إِنَّ (kesralı!) + لٰكِنَّهُ" },
+          { "seviye": "B2", "ar": "مِنَ الْمُؤَكَّدِ أَنَّ هُنَاكَ عَلاقَةً وَثِيقَةً بَيْنَ جَوْدَةِ التَّعْلِيمِ وَتَقَدُّمِ الْأُمَمِ، حَيْثُ إِنَّ الِاسْتِثْمَارَ فِي الْعُقُولِ لَأَنْجَحُ اسْتِثْمَارٍ عَلَى الْإِطْلَاقِ!", "okunus": "Mine'l-muekkedi enne hunâke ‘alâkaten vesîkaten beyne cevdeti't-ta‘lîmi ve tekaddumi'l-umemi, haysu inne'l-istismâra fi'l-‘ukûli le-encehu'stismârin ‘ale'l-itlâkı!", "tr": "Eğitimin kalitesi ile milletlerin ilerlemesi arasında sıkı bir ilişki olduğu kesindir; zira akıllara yatırım yapmak kesinlikle en başarılı yatırımdır!", "ekleme": "أَنَّ هُنَاكَ (mansub عَلاقَةً!) + حَيْثُ إِنَّ + لَـ Te'kîd!" }
+        ]
+      },
+      {
+        "id": "m22_lad2",
+        "baslik": "A1 → B2 Merdiveni: لَيْتَ (Keşke) vs. لَعَلَّ (Umarım) Duygu Derinliği",
+        "adimlar": [
+          { "seviye": "A1", "ar": "لَعَلَّ الْخَبَرَ صَحِيحٌ!", "okunus": "Le‘alle'l-habera sahîhun!", "tr": "Umarım haber doğrudur!", "ekleme": "لَعَلَّ (mümkün beklenti)" },
+          { "seviye": "A1+", "ar": "لَيْتَ الزَّمَانَ يَعُودُ قَلِيلًا!", "okunus": "Leyte'z-zemâne ye‘ûdu kalîlen!", "tr": "Keşke zaman biraz geri dönse!", "ekleme": "لَيْتَ (imkânsız dilek)" },
+          { "seviye": "A2", "ar": "تَأَخَّرَ صَدِيقُنَا عَنِ اللِّقَاءِ، لَعَلَّهُ عَالِقٌ فِي الْمُرُورِ، وَلَيْتَنَا اتَّصَلْنَا بِهِ قَبْلَ سَاعَةٍ!", "okunus": "Teahhara sadîkunâ ‘ani'l-likâi, le‘allehu ‘âlikun fi'l-murûri, ve leytena'ttasalnâ bihi kable sâ‘atin!", "tr": "Arkadaşımız buluşmaya gecikti, belki trafikte takılmıştır; keşke bir saat önce onu arasaydık!", "ekleme": "Tek cümlede لَعَلَّ (tahmin) + لَيْتَ (pişmanlık/özlem)!" },
+          { "seviye": "B1", "ar": "لَعَلَّ هٰذِهِ التَّجْرِبَةَ الصَّعْبَةَ تَكُونُ دَرْسًا نَافِعًا لَنَا فِي الْمُسْتَقْبَلِ، وَلَعَلَّ فِي التَّأْخِيرِ خَيْرًا لَا نَعْلَمُهُ!", "okunus": "Le‘alle hâzihi't-tecribete's-sa‘bete tekûnu dersen nâfi‘an lenâ fi'l-mustakbeli, ve le‘alle fi't-te'hîri hayran lâ na‘lemuhu!", "tr": "Umarım bu zor tecrübe gelecekte bizim için faydalı bir ders olur ve umulur ki gecikmede bilmediğimiz bir hayır vardır!", "ekleme": "لَعَلَّ + öne geçmiş haber (فِي التَّأْخِيرِ) + mansub خَيْرًا!" },
+          { "seviye": "B2", "ar": "لَيْتَ الْبَشَرِيَّةَ تُدْرِكُ أَنَّ السَّلَامَ وَالتَّعَاوُنَ هُمَا السَّبِيلُ الْوَحِيدُ لِلرُّقِيِّ، وَلَعَلَّ الْأَجْيَالَ الْقَادِمَةَ تَبْنِي عَالَمًا أَكْثَرَ عَدْلًا وَرَحْمَةً!", "okunus": "Leyte'l-beşeriyyete tudriku enne's-selâme ve't-te‘âvune hume's-sebîlu'l-vahîdu li'r-rukıyyi, ve le‘alle'l-ecyâle'l-kâdimete tebnî ‘âlemen eksera ‘adlen ve rahmeten!", "tr": "Keşke insanlık barış ve iş birliğinin yükselmenin tek yolu olduğunu kavrasa; umulur ki gelecek nesiller daha adil ve merhametli bir dünya inşa ederler!", "ekleme": "لَيْتَ + أَنَّ + لَعَلَّ yüksek hitabet sentezi!" }
+        ]
+      },
+      {
+        "id": "m22_lad3",
+        "baslik": "A1 → B2 Merdiveni: YDS Bağlaçları (إِلَّا أَنَّ / رَغْمَ أَنَّ / كَمَا أَنَّ)",
+        "adimlar": [
+          { "seviye": "A1", "ar": "اَلْجَوُّ بَارِدٌ لٰكِنَّهُ مُشْمِسٌ.", "okunus": "El-cevvu bâridun lâkinnehu muşmisun.", "tr": "Hava soğuktur fakat güneşlidir.", "ekleme": "لٰكِنَّ" },
+          { "seviye": "A1+", "ar": "خَرَجْنَا إِلَى النُّزْهَةِ رَغْمَ أَنَّ الْجَوَّ بَارِدٌ.", "okunus": "Haracnâ ile'n-nuzheti ragme enne'l-cevve bâridun.", "tr": "Hava soğuk olmasına rağmen gezintiye çıktık.", "ekleme": "رَغْمَ أَنَّ (zıtlık!)" },
+          { "seviye": "A2", "ar": "اَلْكِتَابُ شَامِلٌ جِدًّا، كَمَا أَنَّ أَمْثِلَتَهُ وَاضِحَةٌ، إِلَّا أَنَّ حَجْمَهُ كَبِيرٌ قَلِيلًا.", "okunus": "El-kitâbu şâmilun cidden, kemâ enne emsiletehu vâdihatun, illâ enne hacmehu kebîrun kalîlen.", "tr": "Kitap çok kapsamlıdır, ayrıca örnekleri açıktır; ancak hacmi biraz büyüktür.", "ekleme": "كَمَا أَنَّ (ekleme) + إِلَّا أَنَّ (zıtlık/istisna)!" },
+          { "seviye": "B1", "ar": "تَطَوَّرَتْ وَسَائِلُ التَّعْلِيمِ الرَّقْمِيِّ بِشَكْلٍ مَذْهِلٍ، غَيْرَ أَنَّ دَوْرَ الْمُعَلِّمِ مَا زَالَ أَسَاسِيًّا وَلَا يُمْكِنُ الِاسْتِغْنَاءُ عَنْهُ.", "okunus": "Tetavvarat vesâilu't-ta‘lîmi'r-rakmiyyi bi-şeklin muzhilin, gayra enne devra'l-mu‘allimi mâ zâle esâsiyyen ve lâ yumkinu'l-istignâu ‘anhu.", "tr": "Dijital eğitim araçları şaşırtıcı biçimde gelişti; ne var ki öğretmenin rolü hâlâ temeldir ve onsuz olunamaz.", "ekleme": "غَيْرَ أَنَّ (YDS #1 zıtlık bağlacı!) + مَا زَالَ!" },
+          { "seviye": "B2", "ar": "عَلَى الرَّغْمِ مِنْ أَنَّ الْمَشْرُوعَ وَاجَهَ عَقَبَاتٍ تَمْوِيلِيَّةً فِي بِدَايَتِهِ، إِلَّا أَنَّ إِصْرَارَ الْفَرِيقِ أَثْمَرَ نَجَاحًا بَاهِرًا، كَمَا أَنَّهُ فَتَحَ آفَاقًا جَدِيدَةً لِلْبَحْثِ.", "okunus": "‘Ale'r-ragmi min enne'l-meşrû‘a vâcehe ‘akabâtin temvîliyyeten fî bidâyetihi, illâ enne isrâra'l-ferîkı esmera necâhan bâhiran, kemâ ennehu feteha âfâkan cedîdeten li'l-bahsi.", "tr": "Proje başlangıcında finansal engellerle karşılaşmasına rağmen ekibin kararlılığı parlak bir başarı doğurdu; ayrıca araştırma için yeni ufuklar açtı.", "ekleme": "عَلَى الرَّغْمِ مِنْ أَنَّ ... إِلَّا أَنَّ ... كَمَا أَنَّ (tam YDS B2 paragrafı!)" }
+        ]
+      },
+      {
+        "id": "m22_lad4",
+        "baslik": "A1 → B2 Merdiveni: Kâne vs. İnne Öne Geçmiş Haber Kıyaslaması",
+        "adimlar": [
+          { "seviye": "A1", "ar": "إِنَّ فِي الْبَيْتِ ضَيْفًا.", "okunus": "İnne fi'l-beyti dayfen.", "tr": "Şüphesiz evde bir misafir vardır.", "ekleme": "Gecikmiş mansub isim (ضَيْفًا)" },
+          { "seviye": "A1+", "ar": "كَانَ فِي الْبَيْتِ ضَيْفٌ، وَإِنَّ فِي الْحَدِيقَةِ ضَيْفًا آخَرَ.", "okunus": "Kâne fi'l-beyti dayfun, ve inne fi'l-hadîkati dayfen âhara.", "tr": "Evde bir misafir vardı ve bahçede başka bir misafir vardır.", "ekleme": "ضَيْفٌ (Kâne) vs. ضَيْفًا (İnne)!" },
+          { "seviye": "A2", "ar": "لَيْسَ هُنَاكَ عُذْرٌ لِلْكَسَلِ، فَإِنَّ هُنَاكَ مَصَادِرَ كَثِيرَةً لِلتَّعَلُّمِ الْمَجَّانِيِّ!", "okunus": "Leyse hunâke ‘uzrun li'l-keseli, fe-inne hunâke mesâdira kesîraten li't-ta‘allumi'l-meccâniyyi!", "tr": "Tembellik için hiçbir mazeret yoktur; zira ücretsiz öğrenme için pek çok kaynak vardır!", "ekleme": "لَيْسَ هُنَاكَ (merfû عُذْرٌ) vs. إِنَّ هُنَاكَ (mansub مَصَادِرَ)!" },
+          { "seviye": "B1", "ar": "أَكَّدَ الْمَسْؤُولُ أَنَّ لَدَى الْجَامِعَةِ خُطَّةً شَامِلَةً، وَأَنَّ هُنَاكَ مِنْحَتَيْنِ جَدِيدَتَيْنِ لِلطُّلَّابِ الْمُتَفَوِّقِينَ.", "okunus": "Ekkede'l-mes'ûlu enne lede'l-câmi‘ati huttaten şâmileten, ve enne hunâke minhatayni cedîdeteyni li't-tullâbi'l-mutefevvikîne.", "tr": "Yetkili üniversitenin kapsamlı bir planı olduğunu ve üstün başarılı öğrenciler için iki yeni burs bulunduğunu teyit etti.", "ekleme": "أَنَّ لَدَى + خُطَّةً; أَنَّ هُنَاكَ + tesniye mansub (مِنْحَتَيْنِ)!" },
+          { "seviye": "B2", "ar": "إِنَّ لِكُلِّ تَحَدٍّ كَبِيرٍ حَلًّا عِلْمِيًّا مُنَاسِبًا، وَإِنَّ فِي التَّعَاوُنِ الدَّوْلِيِّ لَفَائِدَةً عَظِيمَةً تَعُودُ بِالْخَيْرِ عَلَى الْبَشَرِيَّةِ جَمْعَاءَ!", "okunus": "İnne li-kulli tehaddin kebîrin hallen ‘ilmiyyen munâsiben, ve inne fi't-te‘âvuni'd-devliyyi le-fâideten ‘azîmeten te‘ûdu bi'l-hayri ‘ale'l-beşeriyyeti cem‘âe!", "tr": "Şüphesiz her büyük zorluğun uygun bir bilimsel çözümü vardır ve uluslararası iş birliğinde tüm insanlığa hayır getiren gerçekten büyük bir fayda vardır!", "ekleme": "Öne geçmiş haber + Te'kîd Lâmı + gecikmiş mansub isim (لَفَائِدَةً)!" }
+        ]
+      }
+    ],
+    "bloklar": [
+      { "id": "m22_b01", "hedefAr": "إِنَّ الصَّبْرَ مِفْتَاحُ الْفَرَجِ وَالنَّجَاحِ", "tr": "Şüphesiz sabır ferahlığın ve başarının anahtarıdır.", "karisik": ["وَالنَّجَاحِ", "مِفْتَاحُ", "إِنَّ", "الْفَرَجِ", "الصَّبْرَ"] },
+      { "id": "m22_b02", "hedefAr": "إِنَّ الْمُهَنْدِسِينَ مَاهِرُونَ فِي عَمَلِهِمْ", "tr": "Şüphesiz mühendisler işlerinde ustadırlar.", "karisik": ["عَمَلِهِمْ", "مَاهِرُونَ", "إِنَّ", "فِي", "الْمُهَنْدِسِينَ"] },
+      { "id": "m22_b03", "hedefAr": "إِنَّ الطَّالِبَيْنِ مُتَفَوِّقَانِ فِي الدِّرَاسَةِ", "tr": "Şüphesiz iki öğrenci eğitimde üstün başarılıdır.", "karisik": ["الدِّرَاسَةِ", "مُتَفَوِّقَانِ", "إِنَّ", "فِي", "الطَّالِبَيْنِ"] },
+      { "id": "m22_b04", "hedefAr": "إِنَّ الطَّالِبَاتِ مُجْتَهِدَاتٌ فِي الْبَحْثِ", "tr": "Şüphesiz kız öğrenciler araştırmada çalışkandırlar.", "karisik": ["الْبَحْثِ", "مُجْتَهِدَاتٌ", "إِنَّ", "فِي", "الطَّالِبَاتِ"] },
+      { "id": "m22_b05", "hedefAr": "إِنَّ أَبَاكَ رَجُلٌ ذُو خُلُقٍ كَرِيمٍ", "tr": "Şüphesiz baban güzel ahlak sahibi bir adamdır.", "karisik": ["كَرِيمٍ", "ذُو", "إِنَّ", "خُلُقٍ", "رَجُلٌ", "أَبَاكَ"] },
+      { "id": "m22_b06", "hedefAr": "كَأَنَّ الْقَمَرَ مِصْبَاحٌ مُضِيءٌ فِي السَّمَاءِ", "tr": "Ay sanki gökyüzünde parlak bir lambadır.", "karisik": ["السَّمَاءِ", "مُضِيءٌ", "كَأَنَّ", "فِي", "مِصْبَاحٌ", "الْقَمَرَ"] },
+      { "id": "m22_b07", "hedefAr": "لَيْتَ أَيَّامَ الطُّفُولَةِ تَعُودُ يَوْمًا", "tr": "Keşke çocukluk günleri bir gün geri dönse.", "karisik": ["يَوْمًا", "الطُّفُولَةِ", "لَيْتَ", "تَعُودُ", "أَيَّامَ"] },
+      { "id": "m22_b08", "hedefAr": "لَعَلَّ الْخَبَرَ صَحِيحٌ وَمُفْرِحٌ جِدًّا", "tr": "Umarım haber doğru ve çok sevindiricidir.", "karisik": ["جِدًّا", "صَحِيحٌ", "لَعَلَّ", "وَمُفْرِحٌ", "الْخَبَرَ"] },
+      { "id": "m22_b09", "hedefAr": "قَالَ الْأُسْتَاذُ إِنَّ الِامْتِحَانَ سَهْلٌ جِدًّا", "tr": "Hoca sınavın çok kolay olduğunu söyledi.", "karisik": ["جِدًّا", "الِامْتِحَانَ", "قَالَ", "سَهْلٌ", "إِنَّ", "الْأُسْتَاذُ"] },
+      { "id": "m22_b10", "hedefAr": "عَلِمْتُ أَنَّ الْحَقَّ وَاضِحٌ لِلْجَمِيعِ", "tr": "Hakkın herkes için açık olduğunu bildim.", "karisik": ["لِلْجَمِيعِ", "الْحَقَّ", "عَلِمْتُ", "وَاضِحٌ", "أَنَّ"] },
+      { "id": "m22_b11", "hedefAr": "إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ مُتَحَابُّونَ", "tr": "Müminler ancak birbirini seven kardeşlerdir.", "karisik": ["مُتَحَابُّونَ", "الْمُؤْمِنُونَ", "إِنَّمَا", "إِخْوَةٌ"] },
+      { "id": "m22_b12", "hedefAr": "إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ الصَّادِقَةِ", "tr": "Ameller ancak samimi niyetlere göredir.", "karisik": ["الصَّادِقَةِ", "الْأَعْمَالُ", "إِنَّمَا", "بِالنِّيَّاتِ"] },
+      { "id": "m22_b13", "hedefAr": "إِنَّ الْعِلْمَ لَنُورٌ يُنِيرُ الْعُقُولَ", "tr": "Şüphesiz ilim akılları aydınlatan gerçekten bir nurdur.", "karisik": ["الْعُقُولَ", "لَنُورٌ", "إِنَّ", "يُنِيرُ", "الْعِلْمَ"] },
+      { "id": "m22_b14", "hedefAr": "إِنَّ مَعَ الْعُسْرِ يُسْرًا كَبِيرًا", "tr": "Şüphesiz zorlukla beraber büyük bir kolaylık vardır.", "karisik": ["كَبِيرًا", "الْعُسْرِ", "إِنَّ", "يُسْرًا", "مَعَ"] },
+      { "id": "m22_b15", "hedefAr": "إِنَّ هُنَاكَ فُرْصَةً ذَهَبِيَّةً أَمَامَنَا", "tr": "Şüphesiz önümüzde altın bir fırsat vardır.", "karisik": ["أَمَامَنَا", "فُرْصَةً", "إِنَّ", "ذَهَبِيَّةً", "هُنَاكَ"] }
+    ]
+  },
+  "readings": [
+    {
+      "id": "m22_r1",
+      "baslik": "Dilin Gücü ve Hikmetin Sırları (إِنَّ / إِنَّمَا / Te'kîd Lâmı)",
+      "arBaslik": "قُوَّةُ الْكَلِمَةِ وَأَسْرَارُ الْحِكْمَةِ",
+      "seviye": "A2",
+      "paragraflar": [
+        {
+          "ar": "إِنَّ الْكَلِمَةَ الطَّيِّبَةَ لَقُوَّةٌ عَظِيمَةٌ تُؤَثِّرُ فِي النُّفُوسِ وَتَبْنِي جُسُورَ الْمَوَدَّةِ بَيْنَ النَّاسِ! وَلَقَدْ قَالَ الْحُكَمَاءُ قَدِيمًا إِنَّ اللِّسَانَ مِفْتَاحُ الْقَلْبِ، وَإِنَّمَا يُعْرَفُ مِقْدَارُ الْإِنْسَانِ بِأَدَبِهِ وَحُسْنِ مَنْطِقِهِ لَا بِمَظْهَرِهِ الْخَارِجِيِّ!",
+          "okunus": "İnne'l-kelimete't-tayyibete le-kuvvetun ‘azîmetun tuessiru fi'n-nufûsi ve tebnî cusûra'l-meveddeti beyne'n-nâsi! Ve lekad kâle'l-hukemâu kadîmen inne'l-lisâne miftâhu'l-kalbi, ve innemâ yu‘rafu mikdâru'l-insâni bi-edebihi ve husni mantıkıhi lâ bi-mazharihi'l-hâriciyyi!",
+          "tr": "Şüphesiz güzel söz gönüllere tesir eden ve insanlar arasında sevgi köprüleri kuran gerçekten büyük bir güçtür! Eskiden bilgeler dediler ki: Dil kalbin anahtarıdır; insanın değeri ancak edebi ve güzel konuşmasıyla bilinir, dış görünüşüyle değil!",
+          "analiz": [
+            { "kelime": "إِنَّ الْكَلِمَةَ ... لَقُوَّةٌ", "kok": "ق و ي", "gramer": "İnne + mansub isim + Te'kîd Lâmı (لَـ) + merfû haber!", "tr": "şüphesiz güzel söz elbette bir güçtür" },
+            { "kelime": "قَالَ ... إِنَّ / إِنَّمَا يُعْرَفُ", "kok": "ع ر ف", "gramer": "قَالَ sonrası kesralı إِنَّ + fiil başında Mâ-i Kâffe إِنَّمَا!", "tr": "dedi ki şüphesiz / ancak bilinir" }
+          ]
+        },
+        {
+          "ar": "قَدْ يَظُنُّ بَعْضُ النَّاسِ أَنَّ الصَّوْتَ الْمُرْتَفِعَ يُقْنِعُ الْآخَرِينَ، غَيْرَ أَنَّ الْحَقِيقَةَ عَكْسُ ذٰلِكَ تَمَامًا! فَاَلْحُجَّةُ الْهَادِئَةُ وَالِابْتِسَامَةُ الصَّادِقَةُ تَفْتَحَانِ الْقُلُوبَ الْمُغْلَقَةَ، كَأَنَّهُمَا شَمْسٌ دَافِئَةٌ تُذِيبُ جَلِيدَ الْخِلَافَاتِ.",
+          "okunus": "Kad yazunnu ba‘du'n-nâsi enne's-savte'l-murtefi‘a yukni‘u'l-âharîne, gayra enne'l-hakîkate ‘aksu zâlike temâmen! Fe'l-huccetu'l-hâdietu ve'l-ibtisâmetu's-sâdikatu teftehâni'l-kulûbe'l-muglakate, ke-ennehumâ şemsun dâfietun tuzîbu celîde'l-hilâfâti.",
+          "tr": "Bazı insanlar yüksek sesin başkalarını ikna ettiğini sanabilir, ne var ki gerçek bunun tam tersidir! Zira sakin bir delil ve samimi bir tebessüm kapalı kalpleri açar; sanki ikisi anlaşmazlıkların buzunu eriten sıcak bir güneştir.",
+          "analiz": [
+            { "kelime": "يَظُنُّ ... أَنَّ / غَيْرَ أَنَّ", "kok": "ظ ن ن", "gramer": "Fethalı أَنَّ (düşünme fiili & zıtlık bağlacı)", "tr": "olduğunu sanabilir / ne var ki" },
+            { "kelime": "كَأَنَّهُمَا شَمْسٌ", "kok": "ش م س", "gramer": "كَأَنَّ + ikil zamir (ـهُمَا) + merfû haber (شَمْسٌ)", "tr": "sanki ikisi bir güneştir" }
+          ]
+        },
+        {
+          "ar": "لَيْتَ كُلَّ إِنْسَانٍ يَتَفَكَّرُ فِي كَلِمَاتِهِ قَبْلَ أَنْ يَنْطِقَ بِهَا! فَكَلِمَةٌ وَاحِدَةٌ قَدْ تُسْعِدُ إِنْسَانًا طَوَالَ يَوْمِهِ، وَلٰكِنَّ كَلِمَةً قَاسِيَةً قَدْ تَجْرَحُ قَلْبًا وَلَا يُنْسَى أَثَرُهَا سَنَوَاتٍ طَوِيلَةً.",
+          "okunus": "Leyte kulle insânin yetefekkeru fî kelimâtihi kable en yentıka bihâ! Fe-kelimetun vâhidetun kad tus‘idu insânen tavâle yevmihi, ve lâkinne kelimeten kâsiyeten kad tecrahu kalben ve lâ yunsâ eseruhâ senevâtin tavîleten.",
+          "tr": "Keşke her insan sözlerini telaffuz etmeden önce üzerine düşünse! Zira tek bir söz bir insanı gün boyu mutlu edebilir; fakat sert bir söz bir kalbi yaralayabilir ve etkisi uzun yıllar unutulmaz.",
+          "analiz": [
+            { "kelime": "لَيْتَ كُلَّ إِنْسَانٍ يَتَفَكَّرُ", "kok": "ف ك ر", "gramer": "لَيْتَ + mansub كُلَّ + fiil cümlesi haber", "tr": "keşke her insan düşünse" },
+            { "kelime": "وَلٰكِنَّ كَلِمَةً قَاسِيَةً", "kok": "ق س و", "gramer": "لٰكِنَّ + mansub isim (كَلِمَةً)", "tr": "fakat sert bir söz" }
+          ]
+        },
+        {
+          "ar": "إِنَّ فِي حُسْنِ الِاسْتِمَاعِ لَأَدَبًا رَفِيعًا لَا يَقِلُّ عَنْ حُسْنِ الْكَلَامِ! وَلَعَلَّنَا حِينَ نُتْقِنُ فَنَّ الْإِصْغَاءِ وَاللُّطْفِ فِي الْحِوَارِ نَصْنَعُ مُجْتَمَعًا أَكْثَرَ تَفَاهُمًا وَسَكِينَةً، حَيْثُ إِنَّ الْحِوَارَ الْبَنَّاءَ هُوَ أَسَاسُ كُلِّ نَجَاحٍ إِنْسَانِيٍّ!",
+          "okunus": "İnne fî husni'l-istimâ‘i le-edeben rafî‘an lâ yakıllu ‘an husni'l-kelâmi! Ve le‘allenâ hîne nutkınu fenne'l-isgâi ve'l-lutfi fi'l-hivâri nasna‘u muctema‘an eksera tefâhumen ve sekîneten, haysu inne'l-hivâra'l-bennâe huve esâsu kulli necâhin insâniyyin!",
+          "tr": "Şüphesiz güzel dinlemede güzel konuşmadan geri kalmayan gerçekten yüce bir edep vardır! Umarız dinleme sanatında ve diyalogda nezakette ustalaştığımızda daha anlayışlı ve huzurlu bir toplum kurarız; zira yapıcı diyalog her insani başarının temelidir!",
+          "analiz": [
+            { "kelime": "إِنَّ فِي حُسْنِ ... لَأَدَبًا", "kok": "أ د ب", "gramer": "Öne geçmiş haber + Te'kîd Lâmı + gecikmiş MANSUB isim (لَأَدَبًا!)", "tr": "elbette bir edep vardır" },
+            { "kelime": "حَيْثُ إِنَّ الْحِوَارَ", "kok": "ح و ر", "gramer": "حَيْثُ sonrası kesralı إِنَّ!", "tr": "zira yapıcı diyalog" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m22_r1_q1", "soru": "1. paragrafta insanın değerinin ne ile bilindiği vurgulanmaktadır (إِنَّمَا)?", "secenekler": ["Edebi ve güzel konuşmasıyla (dış görünüşüyle değil)", "Yüksek sesiyle", "Sadece malıyla", "Kıyafetiyle"], "dogruIndeks": 0, "aciklama": "'إِنَّمَا يُعْرَفُ مِقْدَارُ الْإِنْسَانِ بِأَدَبِهِ وَحُسْنِ مَنْطِقِهِ لَا بِمَظْهَرِهِ الْخَارِجِيِّ!'." },
+        { "id": "m22_r1_q2", "soru": "1. paragraftaki «إِنَّ الْكَلِمَةَ الطَّيِّبَةَ لَقُوَّةٌ» ifadesinde «لَقُوَّةٌ» neden merfûdur?", "secenekler": ["لَـ Te'kîd Lâmıdır (harf-i cer değildir!), قُوَّةٌ ise İnne'nin merfû haberidir!", "Çünkü fâildir", "Çünkü Mâ-i Kâffe vardır", "Çünkü isimdir"], "dogruIndeks": 0, "aciklama": "Fethalı اللَّامُ الْمُزَحْلَقَةُ i'rabı değiştirmez!" },
+        { "id": "m22_r1_q3", "soru": "4. paragraftaki «إِنَّ فِي حُسْنِ الِاسْتِمَاعِ لَأَدَبًا» cümlesinde «أَدَبًا» neden mansubdur?", "secenekler": ["فِي حُسْنِ öne geçmiş haber, لَأَدَبًا ise İnne'nin gecikmiş MANSUB ismidir!", "Haberdir", "Mef'ûlün bihdir", "Hâldir"], "dogruIndeks": 0, "aciklama": "Öne geçmiş şibh-i cümle haberden sonra gelen İnne ismi mansub olur!" },
+        { "id": "m22_r1_q4", "soru": "1. paragraftaki «قَالَ الْحُكَمَاءُ إِنَّ» ve 4. paragraftaki «حَيْثُ إِنَّ» ifadelerinde neden fethalı أَنَّ değil kesralı إِنَّ okunmuştur?", "secenekler": ["قَالَ (söz aktarımı) ve حَيْثُ sonrasında İnne'nin hemzesi daima kesralı okunur!", "İsteğe bağlıdır", "Harf-i cer vardır", "İkisi de cümle başındadır"], "dogruIndeks": 0, "aciklama": "قَالَ إِنَّ ve حَيْثُ إِنَّ kesin kesra kurallarıdır!" },
+        { "id": "m22_r1_q5", "soru": "2. paragrafta sakin delil ve samimi tebessüm neye benzetilmiştir (كَأَنَّ)?", "secenekler": ["Anlaşmazlıkların buzunu eriten sıcak bir güneşe", "Yüksek bir dağa", "Derin bir denize", "Hızlı bir rüzgâra"], "dogruIndeks": 0, "aciklama": "'كَأَنَّهُمَا شَمْسٌ دَافِئَةٌ تُذِيبُ جَلِيدَ الْخِلَافَاتِ'." }
+      ]
+    },
+    {
+      "id": "m22_r2",
+      "baslik": "Bilimsel Merak ve Keşif Ruhu (YDS Bağlaçları: عَلَى الرَّغْمِ مِنْ أَنَّ / إِلَّا أَنَّ / كَمَا أَنَّ)",
+      "arBaslik": "الْفُضُولُ الْعِلْمِيُّ وَرُوحُ الِاكْتِشَافِ",
+      "seviye": "A2",
+      "paragraflar": [
+        {
+          "ar": "مِنَ الْمَعْرُوفِ أَنَّ أَعْظَمَ الِاكْتِشَافَاتِ الْعِلْمِيَّةِ فِي التَّارِيخِ بَدَأَتْ بِسُؤَالٍ بَسِيطٍ! فَعَلَى الرَّغْمِ مِنْ أَنَّ كَثِيرًا مِنَ النَّاسِ يَمُرُّونَ بِالظَّوَاهِرِ الطَّبِيعِيَّةِ دُونَ انْتِبَاهٍ، إِلَّا أَنَّ الْعَالِمَ الْفُضُولِيَّ يَتَوَقَّفُ وَيَسْأَلُ: «لِمَاذَا يَحْدُثُ هٰذَا؟».",
+          "okunus": "Mine'l-ma‘rûfi enne a‘zame'l-iktişâfâti'l-‘ilmiyyeti fi't-târîhi bedeet bi-suâlin basîtin! Fe-‘ale'r-ragmi min enne kesîran mine'n-nâsi yemurrûne bi'z-zevâhiri't-tabî‘iyyeti dûne'ntibâhin, illâ enne'l-‘âlime'l-fudûliyye yetevakkafu ve yes'elu: «Limâzâ yahdusu hâzâ?».",
+          "tr": "Tarihteki en büyük bilimsel keşiflerin basit bir soruyla başladığı bilinmektedir! Pek çok insan doğa olaylarının yanından dikkat etmeden geçmesine rağmen, meraklı bilim insanı durur ve 'Bu neden oluyor?' diye sorar.",
+          "analiz": [
+            { "kelime": "مِنَ الْمَعْرُوفِ أَنَّ", "kok": "ع ر ف", "gramer": "Fethalı أَنَّ (müevvel mastar mübtedâ)", "tr": "... olduğu bilinmektedir" },
+            { "kelime": "عَلَى الرَّغْمِ مِنْ أَنَّ ... إِلَّا أَنَّ", "kok": "ر غ م", "gramer": "YDS'nin 1 numaralı zıtlık çifti!", "tr": "...-mesine rağmen, ancak ..." }
+          ]
+        },
+        {
+          "ar": "قَالَ أَحَدُ الْعُلَمَاءِ الْمَشْهُورِينَ إِنَّ الْعَقْلَ الَّذِي لَا يَسْأَلُ لَا يَتَقَدَّمُ، كَمَا أَنَّ الْخَطَأَ فِي التَّجْرِبَةِ لَيْسَ نِهَايَةَ الطَّرِيقِ، بَلْ هُوَ خُطْوَةٌ نَحْوَ الْحَقِيقَةِ! إِنَّمَا يَتَعَلَّمُ الْبَاحِثُونَ مِنْ تَجَارِبِهِمُ السَّابِقَةِ حَتَّى يَصِلُوا إِلَى النَّتِيجَةِ الصَّحِيحَةِ.",
+          "okunus": "Kâle ehadu'l-‘ulemâi'l-meşhûrîne inne'l-‘akle'llezî lâ yes'elu lâ yetekaddemu, kemâ enne'l-hatae fi't-tecribeti leyse nihâyete't-tarîkı, bel huve hutvetun nahve'l-hakîkati! İnnemâ yete‘allemu'l-bâhisûne min tecâribihimu's-sâbikati hattâ yesilû ile'n-netîceti's-sahîhati.",
+          "tr": "Ünlü bilim insanlarından biri dedi ki: Sormayan akıl ilerlemez; ayrıca deneydeki hata yolun sonu değildir, bilakis hakikate doğru bir adımdır! Araştırmacılar doğru sonuca ulaşıncaya kadar ancak önceki tecrübelerinden öğrenirler.",
+          "analiz": [
+            { "kelime": "قَالَ ... إِنَّ / كَمَا أَنَّ", "kok": "ق و ل", "gramer": "Kesralı إِنَّ vs. ekleme bağlacı كَمَا أَنَّ!", "tr": "dedi ki / ayrıca" },
+            { "kelime": "إِنَّمَا يَتَعَلَّمُ", "kok": "ع ل م", "gramer": "Mâ-i Kâffe + fiil cümlesi", "tr": "ancak öğrenirler" }
+          ]
+        },
+        {
+          "ar": "يُشِيرُ خُبَرَاءُ التَّرْبِيَةِ إِلَى أَنَّ هُنَاكَ عَادَةً رَائِعَةً يَجِبُ غَرْسُهَا فِي الْأَطْفَالِ مُنْذُ الصِّغَرِ، وَهِيَ تَشْجِيعُهُمْ عَلَى طَرْحِ الْأَسْئِلَةِ وَالْبَحْثِ عَنِ الْإِجَابَاتِ فِي الْكُتُبِ وَالْمُخْتَبَرَاتِ؛ لِأَنَّ طِفْلَ الْيَوْمِ الْفُضُولِيَّ هُوَ عَالِمُ الْغَدِ الْمُبْدِعُ!",
+          "okunus": "Yuşîru huberâu't-terbiyeti ilâ enne hunâke ‘âdeten râi‘aten yecibu garsuhâ fi'l-atfâli munzu's-sıgari, ve hiye teşcî‘uhum ‘alâ tarhi'l-es'ileti ve'l-bahsi ‘ani'l-icâbâti fi'l-kutubi ve'l-muhteberâti; li-enne tıfle'l-yevmi'l-fudûliyye huve ‘âlimu'l-gadi'l-mubdi‘u!",
+          "tr": "Eğitim uzmanları, çocuklara küçüklükten itibaren aşılanması gereken harika bir alışkanlık bulunduğuna işaret ediyorlar; o da onları soru sormaya ve cevapları kitaplar ile laboratuvarlarda aramaya teşvik etmektir; çünkü bugünün meraklı çocuğu yarının üretken bilim insanıdır!",
+          "analiz": [
+            { "kelime": "إِلَى أَنَّ هُنَاكَ عَادَةً", "kok": "ع و د", "gramer": "Harf-i cer + أَنَّ + öne geçmiş haber + mansub عَادَةً!", "tr": "bir alışkanlık bulunduğuna" },
+            { "kelime": "لِأَنَّ طِفْلَ الْيَوْمِ", "kok": "ط ف ل", "gramer": "لِأَنَّ + mansub izâfet (طِفْلَ)", "tr": "çünkü bugünün çocuğu" }
+          ]
+        },
+        {
+          "ar": "وَلَا شَكَّ أَنَّ الْمَدَارِسَ الَّتِي تَفْتَحُ أَبْوَابَ الْمُخْتَبَرَاتِ وَالْمَكْتَبَاتِ أَمَامَ طُلَّابِهَا لَقَادِرَةٌ عَلَى صِنَاعَةِ جِيلٍ مُبْتَكِرٍ! وَلَعَلَّ مُسْتَقْبَلَ الْعُلُومِ سَيَشْهَدُ إِنْجَازَاتٍ عَظِيمَةً عَلَى أَيْدِي هٰؤُلَاءِ الشَّبَابِ الطَّمُوحِينَ.",
+          "okunus": "Ve lâ şekke enne'l-medârise'lletî teftehu ebvâbe'l-muhteberâti ve'l-mektebâti emâme tullâbihâ le-kâdiratun ‘alâ sınâ‘ati cîlin mubtekarin! Ve le‘alle mustakbele'l-‘ulûmi se-yeşhedu incâzâtin ‘azîmeten ‘alâ eydî hâulâi'ş-şebâbi't-tamûhîne.",
+          "tr": "Ve hiç şüphe yoktur ki laboratuvarların ve kütüphanelerin kapılarını öğrencilerine açan okullar yenilikçi bir nesil yetiştirmeye gerçekten muktedirdir! Umarız bilimlerin geleceği bu azimli gençlerin ellerinde büyük başarılara tanık olacaktır.",
+          "analiz": [
+            { "kelime": "أَنَّ الْمَدَارِسَ ... لَقَادِرَةٌ", "kok": "ق د ر", "gramer": "Uzun sıla sonrası gelen merfû haber (لَقَادِرَةٌ)!", "tr": "okullar gerçekten muktedirdir" },
+            { "kelime": "لَعَلَّ مُسْتَقْبَلَ الْعُلُومِ سَيَشْهَدُ", "kok": "ش ه د", "gramer": "لَعَلَّ + mansub isim + gelecek fiil haberi", "tr": "umarız geleceği tanık olacak" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m22_r2_q1", "soru": "1. paragraftaki «عَلَى الرَّغْمِ مِنْ أَنَّ ... إِلَّا أَنَّ» bağlaç çiftinin Türkçe karşılığı nedir?", "secenekler": ["'...-mesine rağmen, ancak/yine de ...'", "'Hem ... hem ...'", "'Çünkü ... bu yüzden ...'", "'Önce ... sonra ...'"], "dogruIndeks": 0, "aciklama": "YDS'nin en meşhur zıtlık bağlaç çiftidir!" },
+        { "id": "m22_r2_q2", "soru": "2. paragrafta ünlü bilim insanı deneydeki hatayı nasıl tanımlamaktadır?", "secenekler": ["Yolun sonu değil, hakikate doğru bir adım olarak", "Tam bir başarısızlık olarak", "Zaman kaybı olarak", "Araştırmayı bırakma sebebi olarak"], "dogruIndeks": 0, "aciklama": "'الْخَطَأَ فِي التَّجْرِبَةِ لَيْسَ نِهَايَةَ الطَّرِيقِ، بَلْ هُوَ خُطْوَةٌ نَحْوَ الْحَقِيقَةِ!'." },
+        { "id": "m22_r2_q3", "soru": "3. paragraftaki «أَنَّ هُنَاكَ عَادَةً رَائِعَةً» ifadesinde «عَادَةً» neden mansubdur?", "secenekler": ["هُنَاكَ öne geçmiş haber, عَادَةً ise أَنَّ'nin gecikmiş mansub ismidir!", "Haberdir", "Sıfattır", "Fâildir"], "dogruIndeks": 0, "aciklama": "أَنَّ هُنَاكَ + MANSUB isim!" },
+        { "id": "m22_r2_q4", "soru": "4. paragraftaki «أَنَّ الْمَدَارِسَ الَّتِي ... لَقَادِرَةٌ» cümlesinde «أَنَّ»'nin haberi hangisidir?", "secenekler": ["لَقَادِرَةٌ (uzun sıla cümlesinden sonra gelen merfû haber!)", "الَّتِي", "تَفْتَحُ", "أَبْوَابَ"], "dogruIndeks": 0, "aciklama": "YDS'de uzun sıla cümlelerini atlayıp asıl haberi (لَقَادِرَةٌ) bulmak çok değerlidir!" },
+        { "id": "m22_r2_q5", "soru": "3. paragrafta eğitim uzmanları çocuklara küçüklükten itibaren hangi alışkanlığın aşılanması gerektiğini söylüyor?", "secenekler": ["Soru sormaya ve cevapları kitap ile laboratuvarlarda aramaya teşvik edilmesi", "Hiç soru sormamaları", "Sadece ezber yapmaları", "Laboratuvarlardan uzak durmaları"], "dogruIndeks": 0, "aciklama": "'تَشْجِيعُهُمْ عَلَى طَرْحِ الْأَسْئِلَةِ وَالْبَحْثِ عَنِ الْإِجَابَاتِ'." }
+      ]
+    },
+    {
+      "id": "m22_r3",
+      "baslik": "Aile Büyüklerine Vefa ve İki Kuşak Arasında Köprü",
+      "arBaslik": "الْوَفَاءُ لِلْكِبَارِ وَجِسْرُ التَّوَاصُلِ بَيْنَ الْأَجْيَالِ",
+      "seviye": "A2",
+      "paragraflar": [
+        {
+          "ar": "إِنَّ الْأَجْدَادَ وَالْجَدَّاتِ بَرَكَةُ الْبُيُوتِ وَذَاكِرَةُ الْأُسْرَةِ الْحَيَّةُ! فَعِنْدَمَا نَجْلِسُ مَعَهُمْ وَنَسْتَمِعُ إِلَى قِصَصِهِمْ، نَشْعُرُ كَأَنَّنَا نَتَصَفَّحُ كِتَابًا مَلِيئًا بِالْحِكْمَةِ وَالتَّجَارِبِ الصَّادِقَةِ.",
+          "okunus": "İnne'l-ecdâde ve'l-ceddâti beraketu'l-buyûti ve zâkiratu'l-usrati'l-hayyetu! Fe-‘indemâ neclisu me‘ahum ve nestemi‘u ilâ kısasıhim, neş‘uru ke-ennenâ netesaffahu kitâben melîen bi'l-hikmeti ve't-tecâribi's-sâdikati.",
+          "tr": "Şüphesiz dedeler ve nineler evlerin bereketi ve ailenin canlı hafızasıdır! Onlarla oturup hikâyelerini dinlediğimizde, sanki hikmet ve samimi tecrübelerle dolu bir kitabın sayfalarını çeviriyormuşuz gibi hissederiz.",
+          "analiz": [
+            { "kelime": "الْأَجْدَادَ وَالْجَدَّاتِ", "kok": "ج د د", "gramer": "Mansub İnne ismi (fetha) + atıflı cemi müennes (kesrayla mansub!)", "tr": "dedeler ve nineler" },
+            { "kelime": "كَأَنَّنَا نَتَصَفَّحُ", "kok": "ص ف ح", "gramer": "كَأَنَّ + zamir (ـنَا) + fiil haberi", "tr": "sanki sayfalarını çeviriyoruz" }
+          ]
+        },
+        {
+          "ar": "يَقُولُ جَدِّي دَائِمًا: «إِنَّمَا تَقْوَى الْأُسْرَةُ بِالتَّزَاوُرِ وَالسُّؤَالِ عَنْ بَعْضِنَا، وَإِنَّنِي أَفْرَحُ كَثِيرًا حِينَ أَرَى أَحْفَادِي يَتَعَلَّمُونَ وَيَنْجَحُونَ!». وَمَعَ أَنَّ جَدِّي بَلَغَ الثَّمَانِينَ مِنَ الْعُمْرِ، إِلَّا أَنَّهُ مَا زَالَ يَقْرَأُ الصُّحُفَ يَوْمِيًّا وَيُتَابِعُ أَخْبَارَ الْعَالَمِ!",
+          "okunus": "Yekûlu ceddî dâimen: «İnnemâ tekva'l-usratu bi't-tezâvuri ve's-suâli ‘an ba‘dinâ, ve innenî efrahu kesîran hîne erâ ahfâdî yete‘allemûne ve yencehûne!». Ve me‘a enne ceddî belega's-semânîne mine'l-‘umri, illâ ennehu mâ zâle yakrau's-suhufe yevmiyyen ve yutâbi‘u ahbâra'l-‘âlemi!",
+          "tr": "Dedem daima der ki: 'Aile ancak birbirimizi ziyaret etmek ve hâl hatır sormakla güçlenir; torunlarımın öğrenip başardığını gördüğümde çok seviniyorum!'. Dedem seksen yaşına ulaşmış olmasına rağmen hâlâ günlük gazeteleri okuyor ve dünya haberlerini takip ediyor!",
+          "analiz": [
+            { "kelime": "إِنَّمَا تَقْوَى / وَإِنَّنِي", "kok": "ق و ي", "gramer": "Mâ-i Kâffe fiille + قَالَ sonrası kesralı إِنَّنِي", "tr": "ancak güçlenir / şüphesiz ben" },
+            { "kelime": "مَعَ أَنَّ ... إِلَّا أَنَّهُ", "kok": "ح ر ف", "gramer": "Zıtlık çifti ('...-mesine rağmen, ancak o...')", "tr": "...-mesine rağmen, ancak o" }
+          ]
+        },
+        {
+          "ar": "فِي أَيَّامِنَا السَّرِيعَةِ، قَدْ يَنْشَغِلُ الشَّبَابُ بِالْهَوَاتِفِ وَالْأَعْمَالِ، وَلٰكِنَّ زِيَارَةً قَصِيرَةً أَوِ اتِّصَالًا هَاتِفِيًّا لَطِيفًا يُدْخِلُ السُّرُورَ الْكَبِيرَ عَلَى قُلُوبِ الْكِبَارِ! وَلَيْتَنَا نُخَصِّصُ كُلَّ أُسْبُوعٍ سَاعَاتٍ هَادِئَةً نَجْلِسُ فِيهَا مَعَ وَالِدَيْنَا وَأَجْدَادِنَا بِلَا شَاشَاتٍ!",
+          "okunus": "Fî eyyâmine's-serî‘ati, kad yenşegilu'ş-şebâbu bi'l-hevâtifi ve'l-a‘mâli, ve lâkinne ziyâraten kasîraten evi'ttisâlen hâtifiyyen latîfen yudhilu's-surûra'l-kebîra ‘alâ kulûbi'l-kibâri! Ve leytenâ nuhassısu kulle usbû‘in sâ‘âtin hâdieten neclisu fîhâ me‘a vâlideynâ ve ecdâdinâ bi-lâ şâşâtin!",
+          "tr": "Hızlı günlerimizde gençler telefonlarla ve işlerle meşgul olabilir; fakat kısa bir ziyaret veya nazik bir telefon araması büyüklerin kalplerine büyük bir sevinç koyar! Keşke her hafta anne babamız ve dedelerimizle ekransız oturduğumuz sakin saatler ayırsak!",
+          "analiz": [
+            { "kelime": "وَلٰكِنَّ زِيَارَةً", "kok": "ز و ر", "gramer": "لٰكِنَّ + mansub isim + fiil cümlesi haber (يُدْخِلُ)", "tr": "fakat kısa bir ziyaret" },
+            { "kelime": "لَيْتَنَا نُخَصِّصُ", "kok": "خ ص ص", "gramer": "لَيْتَ + ـنَا (temenni: 'keşke biz...')", "tr": "keşke ayırsak" }
+          ]
+        },
+        {
+          "ar": "إِنَّ بِرَّ الْوَالِدَيْنِ وَتَوْقِيرَ الْكِبَارِ لَمِنْ أَجْمَلِ الْقِيَمِ الَّتِي تُبَارِكُ فِي أَعْمَارِنَا وَأَرْزَاقِنَا! وَلَعَلَّ أَبْنَاءَنَا غَدًا يَتَعَلَّمُونَ مِنَّا هٰذَا الْوَفَاءَ حِينَ يَرَوْنَنَا نَحْتَرِمُ كِبَارَنَا وَنَرْعَاهُمْ بِكُلِّ حُبٍّ وَتَقْدِيرٍ!",
+          "okunus": "İnne birra'l-vâlideyni ve tevkîra'l-kibâri le-min ecmeli'l-kıyemi'lletî tubâriku fî a‘mârinâ ve erzâkınâ! Ve le‘alle ebnâenâ gaden yete‘allemûne minnâ hâze'l-vefâe hîne yeravnenâ nahterimu kibâranâ ve ner‘âhum bi-kulli hubbin ve takdîrin!",
+          "tr": "Şüphesiz anne babaya iyilik ve büyüklere saygı, ömürlerimizi ve rızıklarımızı bereketlendiren gerçekten en güzel değerlerdendir! Umarız yarın çocuklarımız da büyüklerimize saygı duyup onları sevgi ve takdirle gözettiğimizi gördüklerinde bizden bu vefayı öğrenirler!",
+          "analiz": [
+            { "kelime": "لَمِنْ أَجْمَلِ الْقِيَمِ", "kok": "ج م ل", "gramer": "Şibh-i cümle haberin başına gelen Te'kîd Lâmı (لَمِنْ)!", "tr": "elbette en güzel değerlerdendir" },
+            { "kelime": "لَعَلَّ أَبْنَاءَنَا", "kok": "ب ن و", "gramer": "لَعَلَّ + mansub (hemze satırda: أَبْنَاءَنَا!)", "tr": "umarız çocuklarımız" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m22_r3_q1", "soru": "1. paragraftaki «إِنَّ الْأَجْدَادَ وَالْجَدَّاتِ» ifadesinde «الْجَدَّاتِ» neden kesra ile bitmiştir?", "secenekler": ["Mansub olan الْأَجْدَادَ'a atfedilen cemi müennes sâlim olduğu için kesra ile mansubdur!", "Harf-i cer olduğu için", "Muzâfun ileyh olduğu için", "Merfû olduğu için"], "dogruIndeks": 0, "aciklama": "İnne ismi الْأَجْدَادَ (fetha ile mansub) + وَالْجَدَّاتِ (kesra ile mansub)!" },
+        { "id": "m22_r3_q2", "soru": "2. paragrafta dede seksen yaşında olmasına rağmen her gün ne yapmaya devam etmektedir?", "secenekler": ["Günlük gazeteleri okumaya ve dünya haberlerini takip etmeye", "Yurt dışına seyahat etmeye", "Şirket yönetmeye", "Sadece televizyon izlemeye"], "dogruIndeks": 0, "aciklama": "'مَا زَالَ يَقْرَأُ الصُّحُفَ يَوْمِيًّا وَيُتَابِعُ أَخْبَارَ الْعَالَمِ!'." },
+        { "id": "m22_r3_q3", "soru": "4. paragraftaki «لَعَلَّ أَبْنَاءَنَا» kelimesinde hemze neden satır üzerinde (ءَ) yazılmıştır?", "secenekler": ["لَعَلَّ'nin MANSUB ismi olduğu için (ref'te أَبْنَاؤُنَا, nasbta أَبْنَاءَنَا, cerde أَبْنَائِنَا)!", "Merfû olduğu için", "Mecrûr olduğu için", "Rastgeledir"], "dogruIndeks": 0, "aciklama": "Hemzeli isimlerde i'rab imzası: ؤُ (ref'), ءَ (nasb!), ئِ (cer)!" },
+        { "id": "m22_r3_q4", "soru": "3. paragrafta yazar «لَيْتَنَا» ile neyi temenni etmektedir?", "secenekler": ["Her hafta anne baba ve dedelerle ekransız sakin saatler ayırmayı", "Daha fazla telefon almayı", "Sadece mesajlaşmayı", "Uzak bir şehre taşınmayı"], "dogruIndeks": 0, "aciklama": "'لَيْتَنَا نُخَصِّصُ كُلَّ أُسْبُوعٍ سَاعَاتٍ هَادِئَةً نَجْلِسُ فِيهَا مَعَ وَالِدَيْنَا وَأَجْدَادِنَا بِلَا شَاشَاتٍ!'." },
+        { "id": "m22_r3_q5", "soru": "4. paragraftaki «لَمِنْ أَجْمَلِ الْقِيَمِ» ifadesindeki «لَـ» nedir?", "secenekler": ["İnne'nin şibh-i cümle haberine gelen Te'kîd Lâmı (اللَّامُ الْمُزَحْلَقَةُ)", "Harf-i cer", "Emir lâmı", "Olumsuzluk harfi"], "dogruIndeks": 0, "aciklama": "Te'kîd Lâmı (لَـ) şibh-i cümle haberin başına da gelir: لَمِنْ أَجْمَلِ الْقِيَمِ!" }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "m22_d1",
+      "baslik": "Sınav Sonrası Sohbet (لٰكِنَّ / لَعَلَّ / لَيْتَ / إِنَّ)",
+      "ortam": "İki öğrenci Arapça sınavından çıkıp soruları konuşuyor",
+      "replikler": [
+        { "konusan": "طارق", "ar": "كَيْفَ كَانَ الِامْتِحَانُ يَا يُوسُفُ؟ إِنَّنِي أَشْعُرُ أَنَّهُ كَانَ أَسْهَلَ مِمَّا تَوَقَّعْنَا!", "okunus": "Keyfe kâne'l-imtihânu yâ Yûsufu? İnnenî eş‘uru ennehu kâne eshele mimmâ tevakka‘nâ!", "tr": "Sınav nasıldı Yusuf? Beklediğimizden daha kolay olduğunu hissediyorum!" },
+        { "konusan": "يوسف", "ar": "نَعَمْ، إِنَّ أَسْئِلَةَ النَّحْوِ كَانَتْ وَاضِحَةً جِدًّا، وَلٰكِنَّ النَّصَّ الْأَخِيرَ كَانَ طَوِيلًا قَلِيلًا!", "okunus": "Ne‘am, inne es'ilete'n-nahvi kânet vâdihaten cidden, ve lâkinne'n-nassa'l-ehîra kâne tavîlen kalîlen!", "tr": "Evet, nahiv soruları çok açıktı; fakat son metin biraz uzundu!" },
+        { "konusan": "طارق", "ar": "صَحِيحٌ، وَلٰكِنَّ أَسْئِلَتَهُ كَانَتْ مُبَاشِرَةً! هَلْ تَأَكَّدْتَ مِنَ السُّؤَالِ الْعِشْرِينَ حَوْلَ «إِنَّ» وَ«أَنَّ»؟", "okunus": "Sahîhun, ve lâkinne es'iletehu kânet mubâşiraten! Hel teekkedte mine's-suâli'l-‘işrîne havle «inne» ve «enne»?", "tr": "Doğru ama soruları doğrudan (net) idi! 'İnne' ve 'enne' hakkındaki yirminci sorudan emin oldun mu?" },
+        { "konusan": "يوسف", "ar": "نَعَمْ الْحَمْدُ لِلّٰهِ! تَذَكَّرْتُ أَنَّهُ بَعْدَ «قَالَ» نَكْسِرُ الْهَمْزَةَ «قَالَ إِنَّ»، وَبَعْدَ «عَلِمَ» نَفْتَحُهَا «عَلِمَ أَنَّ»!", "okunus": "Ne‘am el-hamdu lillâhi! Tezekkertu ennehu ba‘de «kâle» neksiru'l-hemzete «kâle inne», ve ba‘de «‘alime» neftehuhâ «‘alime enne»!", "tr": "Evet elhamdülillah! 'Kâle'den sonra hemzeyi kesralı ('kâle inne'), 'alime'den sonra fethalı ('alime enne') okuduğumuzu hatırladım!" },
+        { "konusan": "طارق", "ar": "أَحْسَنْتَ! أَمَّا أَنَا فَلَيْتَنِي رَاجَعْتُ السُّؤَالَ الْخَامِسَ مَرَّةً ثَانِيَةً قَبْلَ تَسْلِيمِ الْوَرَقَةِ!", "okunus": "Ahsente! Emmâ ene fe-leytenî râca‘tu's-suâle'l-hâmise merraten sâniyeten kable teslîmi'l-varakati!", "tr": "Aferin! Bana gelince, keşke kâğıdı teslim etmeden önce beşinci soruyu ikinci kez gözden geçirseydim!" },
+        { "konusan": "يوسف", "ar": "لَا تَقْلَقْ! لَعَلَّ إِجَابَتَكَ صَحِيحَةٌ إِنْ شَاءَ اللّٰهُ! إِنَّكَ دَرَسْتَ جَيِّدًا طَوَالَ الْفَصْلِ.", "okunus": "Lâ taklak! Le‘alle icâbeteke sahîhatun inşâallâhu! İnneke deraste ceyyiden tavâle'l-fasli.", "tr": "Endişelenme! Umarım cevabın inşallah doğrudur! Dönem boyunca çok iyi çalıştın." },
+        { "konusan": "طارق", "ar": "قَالَ الْأُسْتَاذُ إِنَّ النَّتَائِجَ سَتُعْلَنُ يَوْمَ الْخَمِيسِ، أَلَيْسَ كَذٰلِكَ؟", "okunus": "Kâle'l-ustâzu inne'n-netâice se-tu‘lenu yevme'l-hamîsi, e-leyse kezâlike?", "tr": "Hoca sonuçların perşembe günü açıklanacağını söyledi, öyle değil mi?" },
+        { "konusan": "يوسف", "ar": "بَلَى! كَمَا أَنَّهُ أَخْبَرَنَا أَنَّ الطُّلَّابَ الْأَوَائِلَ سَيَحْصُلُونَ عَلَى كُتُبٍ عَرَبِيَّةٍ هَدِيَّةً!", "okunus": "Belâ! Kemâ ennehu ahberanâ enne't-tullâbe'l-evâile se-yahsulûne ‘alâ kutubin ‘arabiyyetin hediyyeten!", "tr": "Evet! Ayrıca bize dereceye giren öğrencilerin hediye olarak Arapça kitaplar kazanacağını haber verdi!" },
+        { "konusan": "طارق", "ar": "إِنَّمَا يَسْتَحِقُّ التَّفَوُّقَ مَنْ يَثْبُتُ عَلَى الْمُرَاجَعَةِ الْيَوْمِيَّةِ! مَاذَا سَنَفْعَلُ الْآنَ بَعْدَ هٰذَا الِامْتِحَانِ؟", "okunus": "İnnemâ yestehıkku't-tefevvuka men yesbutu ‘ale'l-murâca‘ati'l-yevmiyyeti! Mâzâ se-nef‘alu'l-âne ba‘de hâze'l-imtihâni?", "tr": "Üstün başarıyı ancak günlük tekrarda sebat eden hak eder! Bu sınavdan sonra şimdi ne yapacağız?" },
+        { "konusan": "يوسف", "ar": "أَشْعُرُ كَأَنَّ جَبَلًا كَبِيرًا نَزَلَ عَنْ كَتِفِي! فَلْنَذْهَبْ لِنَشْرَبَ الْعَصِيرَ الطَّازَجَ وَنَسْتَرِيحَ قَلِيلًا!", "okunus": "Eş‘uru ke-enne cebelen kebîran nezele ‘an ketifî! Fel-nezheb li-neşrabe'l-‘asîra't-tâzece ve nesterîha kalîlen!", "tr": "Sanki omzumdan büyük bir dağ inmiş gibi hissediyorum! Haydi taze meyve suyu içip biraz dinlenmeye gidelim!" },
+        { "konusan": "طارق", "ar": "فِكْرَةٌ رَائِعَةٌ! إِنَّ هُنَاكَ مَقْهًى جَدِيدًا بِجَانِبِ الْحَدِيقَةِ، هَيَّا بِنَا إِلَيْهِ!", "okunus": "Fikratun râi‘atun! İnne hunâke makhen cedîden bi-cânibi'l-hadîkati, heyyâ binâ ileyhi!", "tr": "Harika fikir! Parkın yanında yeni bir kafe var, haydi oraya gidelim!" },
+        { "konusan": "يوسف", "ar": "هَيَّا بِنَا، وَلَعَلَّ نَتَائِجَنَا تَكُونُ مُفْرِحَةً جِدًّا يَوْمَ الْخَمِيسِ!", "okunus": "Heyyâ binâ, ve le‘alle netâicenâ tekûnu mufrihaten cidden yevme'l-hamîsi!", "tr": "Haydi gidelim ve umarım perşembe günü sonuçlarımız çok sevindirici olur!" }
+      ],
+      "partner": [
+        { "soruAr": "كَيْفَ نَقُولُ 'Keşke beşinci soruyu tekrar gözden geçirseydim!'؟", "soruTr": "'Keşke gözden geçirseydim!' (لَيْتَ + نِي) hangisidir?", "ipucu": "لَيْتَنِي رَاجَعْتُ...", "secenekler": ["لَيْتَنِي رَاجَعْتُ السُّؤَالَ الْخَامِسَ!", "لَعَلَّنِي رَاجَعْتُ السُّؤَالَ أَمْسِ!", "كَأَنَّنِي رَاجَعْتُ السُّؤَالَ!"], "dogruIndeks": 0, "aciklama": "Geçmişe yönelik pişmanlık/keşke → لَيْتَنِي!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Umarım cevabın doğrudur!' (لَعَلَّ)؟", "soruTr": "'Umarım cevabın doğrudur!' hangisidir?", "ipucu": "لَعَلَّ + mansub إِجَابَتَكَ + merfû صَحِيحَةٌ!", "secenekler": ["لَعَلَّ إِجَابَتَكَ صَحِيحَةٌ!", "لَعَلَّ إِجَابَتُكَ صَحِيحَةً!", "لَيْتَ إِجَابَتُكَ صَحِيحَةٌ!"], "dogruIndeks": 0, "aciklama": "لَعَلَّ + mansub isim (إِجَابَتَكَ) + merfû haber (صَحِيحَةٌ)!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Hoca sonuçların perşembe açıklanacağını söyledi'؟", "soruTr": "قَالَ fiilinden sonra kesralı mı fethalı mı gelir?", "ipucu": "قَالَ الْأُسْتَاذُ إِنَّ النَّتَائِجَ...", "secenekler": ["قَالَ الْأُسْتَاذُ إِنَّ النَّتَائِجَ سَتُعْلَنُ يَوْمَ الْخَمِيسِ.", "قَالَ الْأُسْتَاذُ أَنَّ النَّتَائِجَ سَتُعْلَنُ.", "قَالَ الْأُسْتَاذُ إِنَّ النَّتَائِجُ سَتُعْلَنُ."], "dogruIndeks": 0, "aciklama": "قَالَ sonrası kesinlikle kesralı إِنَّ + mansub النَّتَائِجَ!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Sanki omzumdan büyük bir dağ inmiş gibi!' (كَأَنَّ)؟", "soruTr": "'Sanki büyük bir dağ...' hangisidir?", "ipucu": "كَأَنَّ جَبَلًا كَبِيرًا...", "secenekler": ["كَأَنَّ جَبَلًا كَبِيرًا نَزَلَ عَنْ كَتِفِي!", "كَأَنَّ جَبَلٌ كَبِيرٌ نَزَلَ!", "لٰكِنَّ جَبَلًا كَبِيرًا!"], "dogruIndeks": 0, "aciklama": "كَأَنَّ + mansub جَبَلًا كَبِيرًا!" },
+        { "soruAr": "لِمَاذَا «مَقْهًى جَدِيدًا» مَنْصُوبٌ فِي: «إِنَّ هُنَاكَ مَقْهًى جَدِيدًا»؟", "soruTr": "'إِنَّ هُنَاكَ مَقْهًى جَدِيدًا' cümlesinde جَدِيدًا neden mansubdur?", "ipucu": "إِنَّ هُنَاكَ + gecikmiş İnne ismi!", "secenekler": ["مَقْهًى İnne'nin gecikmiş mansub ismidir, جَدِيدًا da onun mansub sıfatıdır!", "Haber olduğu için.", "Fâil olduğu için."], "dogruIndeks": 0, "aciklama": "هُنَاكَ öne geçmiş haber, مَقْهًى جَدِيدًا gecikmiş mansub isim+sıfattır!" }
+      ]
+    },
+    {
+      "id": "m22_d2",
+      "baslik": "Gezi Fotoğraflarına Bakarken (كَأَنَّ / مَعَ أَنَّ / إِنَّ ... لَـ)",
+      "ortam": "İki arkadaş Kapadokya ve Karadeniz gezisinin fotoğraflarını inceliyor",
+      "replikler": [
+        { "konusan": "مريم", "ar": "اُنْظُرِي يَا زَيْنَبُ إِلَى هٰذِهِ الصُّورَةِ! كَأَنَّ الْجِبَالَ الْخَضْرَاءَ تَلْمِسُ السُّحُبَ الْبَيْضَاءَ!", "okunus": "Unzurî yâ Zeynebu ilâ hâzihi's-sûrati! Ke-enne'l-cibâle'l-hadrâe telmisu's-suhube'l-beydâe!", "tr": "Bak Zeyneb bu fotoğrafa! Yeşil dağlar sanki beyaz bulutlara dokunuyor!" },
+        { "konusan": "زينب", "ar": "سُبْحَانَ اللّٰهِ! إِنَّ طَبِيعَةَ الْبَحْرِ الْأَسْوَدِ لَجَنَّةٌ عَلَى الْأَرْضِ! أَيْنَ الْتَقَطْتِ هٰذِهِ الصُّورَةَ؟", "okunus": "Subhânallâhi! İnne tabî‘ate'l-bahri'l-esvedi le-cennetun ‘ale'l-ardi! Eyne'ltakatti hâzihi's-sûrate?", "tr": "Sübhanallah! Karadeniz'in doğası gerçekten yeryüzünde bir cennet! Bu fotoğrafı nerede çektin?" },
+        { "konusan": "مريم", "ar": "اِلْتَقَطْتُهَا فِي هَضَبَةٍ مُرْتَفِعَةٍ فِي طَرَابْزُونَ، مَعَ أَنَّ الضَّبَابَ كَانَ كَثِيفًا فِي الصَّبَاحِ الْبَاكِرِ، إِلَّا أَنَّ الشَّمْسَ أَشْرَقَتْ عِنْدَ الظُّهْرِ!", "okunus": "İltakattuhâ fî hadabatin murtefi‘atin fî Tarâbzûne, me‘a enne'd-dabâbe kâne kesîfen fi's-sabâhi'l-bâkiri, illâ enne'ş-şemse eşrakat ‘inde'z-zuhri!", "tr": "Trabzon'da yüksek bir yaylada çektim; sabahın erken saatinde sis yoğun olmasına rağmen öğleyin güneş açtı!" },
+        { "konusan": "زينب", "ar": "وَهٰذِهِ الصُّورَةُ الثَّانِيَةُ؟ إِنَّ الْمَنَاطِيدَ الْمُلَوَّنَةَ فِي سَمَاءِ كَابَادُوكْيَا كَأَنَّهَا لَوْحَةٌ فَنِّيَّةٌ مَرْسُومَةٌ بِالْيَدِ!", "okunus": "Ve hâzihi's-sûratu's-sâniyetu? İnne'l-menâtîde'l-mulevvenete fî semâi Kâbâdûkyâ ke-ennehâ levhatun fenniyyetun mersûmetun bi'l-yedi!", "tr": "Ya bu ikinci fotoğraf? Kapadokya semalarındaki renkli balonlar sanki elle çizilmiş bir sanat tablosu gibi!" },
+        { "konusan": "مريم", "ar": "نَعَمْ! قَالَ لَنَا الْمُرْشِدُ إِنَّ مِئَاتِ السُّيَّاحِ يَسْتَيْقِظُونَ قَبْلَ الْفَجْرِ كَيْ يُشَاهِدُوا هٰذَا الْمَنْظَرَ السَّاحِرَ!", "okunus": "Ne‘am! Kâle lene'l-murşidu inne miâti's-suyyâhi yesteykızûne kable'l-fecri key yuşâhidû hâze'l-manzara's-sâhira!", "tr": "Evet! Rehber bize yüzlerce turistin bu büyüleyici manzarayı izlemek için şafaktan önce uyandığını söyledi!" },
+        { "konusan": "زينب", "ar": "لَيْتَنِي كُنْتُ مَعَكُمْ فِي تِلْكَ الرِّحْلَةِ! لَقَدْ كَانَتْ جَوْلَةً لَا تُنْسَى!", "okunus": "Leytenî kuntu me‘akum fî tilke'r-rihleti! Lekad kânet cevleten lâ tunsâ!", "tr": "Keşke o gezide sizinle olsaydım! Unutulmaz bir tur olmuş!" },
+        { "konusan": "مريم", "ar": "لَا تَحْزَنِي يَا زَيْنَبُ! لَعَلَّنَا نُسَافِرُ مَعًا فِي الْعُطْلَةِ الصَّيْفِيَّةِ الْقَادِمَةِ، حَيْثُ إِنَّ أُسْرَتِي تُخَطِّطُ لِرِحْلَةٍ جَدِيدَةٍ!", "okunus": "Lâ tahzenî yâ Zeynebu! Le‘allenâ nusâfiru me‘an fi'l-‘utleti's-sayfiyyeti'l-kâdimeti, haysu inne usratî tuhattitu li-rihletin cedîdetin!", "tr": "Üzülme Zeyneb! Umarım gelecek yaz tatilinde birlikte yolculuk yaparız; zira ailem yeni bir gezi planlıyor!" },
+        { "konusan": "زينب", "ar": "حَقًّا؟ إِنَّ هٰذَا الْخَبَرَ لَأَجْمَلُ خَبَرٍ سَمِعْتُهُ هٰذَا الْأُسْبُوعَ!", "okunus": "Hakkan? İnne hâze'l-habera le-ecmelu haberin semi‘tuhu hâze'l-usbû‘a!", "tr": "Gerçekten mi? Şüphesiz bu haber bu hafta duyduğum gerçekten en güzel haber!" },
+        { "konusan": "مريم", "ar": "كَمَا أَنَّ السَّفَرَ مَعَ الْأَصْدِقَاءِ يُضِيفُ إِلَى الرِّحْلَةِ بَهْجَةً خَاصَّةً، وَإِنَّمَا تَحْلُو الذِّكْرَيَاتُ بِالْمُشَارَكَةِ!", "okunus": "Kemâ enne's-sefera me‘a'l-esdikâi yudîfu ile'r-rihleti behceten hâssaten, ve innemâ tahlû'z-zikrayâtu bi'l-muşâraketi!", "tr": "Ayrıca arkadaşlarla seyahat etmek geziye özel bir neşe katar; hatıralar ancak paylaşınca güzelleşir!" },
+        { "konusan": "زينب", "ar": "صَدَقْتِ! إِنَّ فِي السَّفَرِ فَوَائِدَ كَثِيرَةً: التَّعَرُّفُ عَلَى الثَّقَافَاتِ وَتَجْدِيدُ النَّشَاطِ وَالتَّأَمُّلُ فِي خَلْقِ اللّٰهِ.", "okunus": "Sadakti! İnne fi's-seferi fevâide kesîraten: et-te‘arrufu ‘ale's-sekâfâti ve tecdîdu'n-neşâtı ve't-teemmulu fî halkıllâhi.", "tr": "Doğru söyledin! Şüphesiz yolculukta pek çok fayda vardır: Kültürleri tanımak, enerjiyi yenilemek ve Allah'ın yaratışını tefekkür etmek." },
+        { "konusan": "مريم", "ar": "إِذَنْ اِسْتَعِدِّي مِنَ الْآنَ، وَسَأُرْسِلُ لَكِ بَقِيَّةَ الصُّوَرِ مَسَاءَ الْيَوْمِ!", "okunus": "İzen ista‘iddî mine'l-âne, ve se-ursilu leki bakıyyete's-suvari mesâe'l-yevmi!", "tr": "O hâlde şimdiden hazırlan; fotoğrafların kalanını bugün akşam sana göndereceğim!" },
+        { "konusan": "زينب", "ar": "شُكْرًا يَا مَرْيَمُ، أَنْتَظِرُهَا بِكُلِّ شَوْقٍ!", "okunus": "Şukran yâ Meryemu, enteziruhâ bi-kulli şevkın!", "tr": "Teşekkürler Meryem, onları büyük bir merakla bekliyorum!" }
+      ],
+      "partner": [
+        { "soruAr": "كَيْفَ نَقُولُ 'Yolculukta pek çok fayda vardır' (إِنَّ + öne geçmiş haber!)؟", "soruTr": "'Yolculukta pek çok fayda vardır' hangisidir?", "ipucu": "إِنَّ فِي السَّفَرِ فَوَائِدَ كَثِيرَةً (mansub!).", "secenekler": ["إِنَّ فِي السَّفَرِ فَوَائِدَ كَثِيرَةً.", "إِنَّ فِي السَّفَرِ فَوَائِدُ كَثِيرَةٌ.", "كَانَ فِي السَّفَرِ فَوَائِدَ."], "dogruIndeks": 0, "aciklama": "فَوَائِدَ (gayr-i munsarif mansub isim!) + كَثِيرَةً (mansub sıfat)!" },
+        { "soruAr": "لِمَاذَا جَاءَتْ «مِئَاتِ» مَكْسُورَةً فِي: «قَالَ الْمُرْشِدُ إِنَّ مِئَاتِ السُّيَّاحِ»؟", "soruTr": "'إِنَّ مِئَاتِ' kelimesi neden kesralıdır?", "ipucu": "مِئَاتٌ cemi müennes sâlimdir!", "secenekler": ["Cemi müennes sâlim (مِئَات) İnne'nin ismi olarak kesrayla mansub olmuştur!", "Harf-i cer vardır.", "Haber olduğu için."], "dogruIndeks": 0, "aciklama": "Cemi müennes sâlim nasb hâlinde kesra alır: إِنَّ مِئَاتِ!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Keşke sizinle olsaydım!' (لَيْتَ)؟", "soruTr": "'Keşke sizinle olsaydım!' hangisidir?", "ipucu": "لَيْتَنِي كُنْتُ مَعَكُمْ!", "secenekler": ["لَيْتَنِي كُنْتُ مَعَكُمْ!", "لَعَلَّنِي كُنْتُ مَعَكُمْ!", "لٰكِنَّنِي كُنْتُ مَعَكُمْ!"], "dogruIndeks": 0, "aciklama": "Geçmişe dair gerçekleşmesi imkânsız dilek: لَيْتَنِي!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Hatıralar ancak paylaşınca güzelleşir' (إِنَّمَا)؟", "soruTr": "'Ancak paylaşınca güzelleşir' hangisidir?", "ipucu": "إِنَّمَا تَحْلُو الذِّكْرَيَاتُ بِالْمُشَارَكَةِ!", "secenekler": ["إِنَّمَا تَحْلُو الذِّكْرَيَاتُ بِالْمُشَارَكَةِ!", "إِنَّ تَحْلُو الذِّكْرَيَاتُ!", "لٰكِنَّ تَحْلُو الذِّكْرَيَاتُ!"], "dogruIndeks": 0, "aciklama": "Fiil başına İnne değil, Mâ-i Kâffeli إِنَّمَا gelir!" },
+        { "soruAr": "مَا نَوْعُ «لَـ» فِي: «إِنَّ هٰذَا الْخَبَرَ لَأَجْمَلُ خَبَرٍ»؟", "soruTr": "'لَأَجْمَلُ' kelimesindeki لَـ nedir?", "ipucu": "Fethalı vurgu lâmı + merfû haber!", "secenekler": ["Te'kîd Lâmı (اللَّامُ الْمُزَحْلَقَةُ — haberi merfû bırakır!).", "Harf-i cer.", "Emir lâmı."], "dogruIndeks": 0, "aciklama": "لَأَجْمَلُ: Te'kîd Lâmı + merfû haber!" }
+      ]
+    },
+    {
+      "id": "m22_d3",
+      "baslik": "Girişimcilik Toplantısında İkna Konuşması (إِنَّمَا / بِأَنَّ / لٰكِنَّ)",
+      "ortam": "İki ortak yeni dijital eğitim girişimini yatırımcıya sunuyor",
+      "replikler": [
+        { "konusan": "المستثمر", "ar": "أَهْلًا بِكُمَا! قَرَأْتُ مُلَخَّصَ مَشْرُوعِكُمَا، وَأَرَى أَنَّ الْفِكْرَةَ مُبْتَكَرَةٌ، وَلٰكِنَّ السُّوقَ مَلِيءٌ بِالْمُنَافِسِينَ!", "okunus": "Ehlen bikumâ! Kara'tu mulahhasa meşrû‘ikumâ, ve erâ enne'l-fikrate mubtekaratun, ve lâkinne's-sûka melîun bi'l-munâfisîne!", "tr": "Hoş geldiniz ikiniz! Projenizin özetini okudum; fikrin yenilikçi olduğunu görüyorum fakat piyasa rakiplerle dolu!" },
+        { "konusan": "كريم", "ar": "صَحِيحٌ يَا أُسْتَاذُ، إِنَّ هُنَاكَ تَطْبِيقَاتٍ كَثِيرَةً، غَيْرَ أَنَّ مُعْظَمَهَا لَا يُقَدِّمُ شَرْحًا مَنْهَجِيًّا وَاضِحًا بِاللُّغَةِ التُّرْكِيَّةِ!", "okunus": "Sahîhun yâ ustâzu, inne hunâke tatbîkâtin kesîraten, gayra enne mu‘zamehâ lâ yukaddimu şerhan menheciyyen vâdihan bi'l-lugati't-turkiyyeti!", "tr": "Doğru beyefendi, pek çok uygulama var; ne var ki çoğu Türkçe olarak net ve sistematik bir anlatım sunmuyor!" },
+        { "konusan": "سلمى", "ar": "كَمَا أَنَّ مِنَصَّتَنَا تَجْمَعُ بَيْنَ التَّطْبِيقِ التَّفَاعُلِيِّ وَالْكِتَابِ الْمَطْبُوعِ، حَيْثُ إِنَّ الطَّالِبَ يَسْتَطِيعُ الدِّرَاسَةَ بِالطَّرِيقَتَيْنِ مَعًا!", "okunus": "Kemâ enne minassatenâ tecme‘u beyne't-tatbîkı't-tefâ‘uliyyi ve'l-kitâbi'l-matbû‘i, haysu inne't-tâlibe yestatî‘u'd-dirâsete bi't-tarîkateyni me‘an!", "tr": "Ayrıca platformumuz etkileşimli uygulama ile basılı kitabı birleştiriyor; zira öğrenci her iki yolla birden çalışabiliyor!" },
+        { "konusan": "المستثمر", "ar": "مُلَاحَظَةٌ ذَكِيَّةٌ! وَهَلْ أَنْتُمَا وَاثِقَانِ مِنْ أَنَّ الْمُسْتَخْدِمِينَ سَيَسْتَمِرُّونَ فِي اسْتِعْمَالِ الْمِنَصَّةِ؟", "okunus": "Mulâhazatun zekiyyetun! Ve hel entumâ vâsikâni min enne'l-mustahdimîne se-yestemirrûne fi'sti‘mâli'l-minassati?", "tr": "Akıllıca bir tespit! Peki kullanıcıların platformu kullanmaya devam edeceğinden emin misiniz?" },
+        { "konusan": "كريم", "ar": "بِالتَّأْكِيدِ! إِنَّ النِّظَامَ الذَّكِيَّ لِلْمُرَاجَعَةِ الْمُتَبَاعِدَةِ لَضَمَانٌ قَوِيٌّ لِاسْتِمْرَارِ الطَّالِبِ دُونَ مَلَلٍ!", "okunus": "Bi't-te'kîdi! İnne'n-nizâme'z-zekiyye li'l-murâca‘ati'l-mutebâ‘ideti le-damânun kaviyyun li'stimrâri't-tâlibi dûne melelin!", "tr": "Elbette! Aralıklı tekrar için akıllı sistem, öğrencinin sıkılmadan devam etmesi için gerçekten güçlü bir güvencedir!" },
+        { "konusan": "سلمى", "ar": "وَبِمَا أَنَّنَا اخْتَبَرْنَا النُّسْخَةَ التَّجْرِيبِيَّةَ مَعَ مِئَتَيْ طَالِبٍ، فَقَدْ ثَبَتَ أَنَّ تِسْعِينَ فِي الْمِئَةِ مِنْهُمْ أُعْجِبُوا بِهَا كَثِيرًا!", "okunus": "Ve bimâ ennene'hteberne'n-nushate't-tecrîbiyyete me‘a mietey tâlibin, fe-kad sebete enne tis‘îne fi'l-mieti minhum u‘cibû bihâ kesîran!", "tr": "Deneme sürümünü iki yüz öğrenciyle test ettiğimize göre, onların yüzde doksanının onu çok beğendiği sabit oldu!" },
+        { "konusan": "المستثمر", "ar": "مَا شَاءَ اللّٰهُ! أَرْقَامٌ مُشَجِّعَةٌ جِدًّا! وَلٰكِنَّ التَّوَسُّعَ يَحْتَاجُ إِلَى فَرِيقٍ مُتَكَامِلٍ، فَهَلْ لَدَيْكُمَا فَرِيقٌ كَافٍ؟", "okunus": "Mâ şâallâhu! Erkâmun muşecci‘atun cidden! Ve lâkinne't-tevessu‘a yahtâcu ilâ ferîkın mutekâmilin, fe-hel ledeykumâ ferîkun kâfin?", "tr": "Maşallah! Çok cesaret verici rakamlar! Fakat büyümek bütünleşik bir ekip ister; yeterli ekibiniz var mı?" },
+        { "konusan": "كريم", "ar": "إِنَّ فَرِيقَنَا الْحَالِيَّ صَغِيرٌ، إِلَّا أَنَّ كَفَاءَتَهُ عَالِيَةٌ جِدًّا؛ وَإِنَّمَا نَطْلُبُ التَّمْوِيلَ لِتَوْظِيفِ مُبَرْمِجَيْنِ وَمُصَمِّمٍ جَدِيدٍ!", "okunus": "İnne ferîkane'l-hâliyye sagîrun, illâ enne kefâetehu ‘âliyetun cidden; ve innemâ natlubu't-temvîle li-tevzîfi mubermiceyni ve musammimin cedîdin!", "tr": "Mevcut ekibimiz küçük, ancak yetkinliği çok yüksek; finansmanı yalnızca iki yazılımcı ve yeni bir tasarımcı istihdam etmek için istiyoruz!" },
+        { "konusan": "المستثمر", "ar": "أُعْلِنُ لَكُمَا بِكُلِّ صَرَاحَةٍ أَنَّنِي مُقْتَنِعٌ بِرُؤْيَتِكُمَا، وَأَنَّنِي مُسْتَعِدٌّ لِدَعْمِ هٰذَا الْمَشْرُوعِ النَّافِعِ!", "okunus": "U‘linu lekumâ bi-kulli sarâhatin ennenî mukteni‘un bi-ru'yetikumâ, ve ennenî musta‘iddun li-da‘mi hâze'l-meşrû‘i'n-nâfi‘i!", "tr": "İkinize tüm açıklığımla ilan ediyorum ki vizyonunuza ikna oldum ve bu faydalı projeyi desteklemeye hazırım!" },
+        { "konusan": "سلمى", "ar": "شُكْرًا جَزِيلًا عَلَى ثِقَتِكُمْ بِنَا! وَاللّٰهِ إِنَّنَا سَنَبْذُلُ قُصَارَى جُهْدِنَا لِإِنْجَاحِ هٰذِهِ الشَّرَاكَةِ!", "okunus": "Şukran cezîlen ‘alâ sikatikum binâ! Vallâhi innenâ se-nebzulu kusârâ cuhdinâ li-incâhi hâzihi'ş-şerâketi!", "tr": "Bize olan güveniniz için çok teşekkürler! Vallahi bu ortaklığı başarıya ulaştırmak için elimizden gelen en büyük çabayı göstereceğiz!" },
+        { "konusan": "المستثمر", "ar": "لَعَلَّنَا نُوَقِّعُ الِاتِّفَاقِيَّةَ الْأُسْبُوعَ الْقَادِمَ بَعْدَ مُرَاجَعَةِ التَّفَاصِيلِ الْقَانُونِيَّةِ!", "okunus": "Le‘allenâ nuvakkı‘u'ttifâkıyyete'l-usbû‘a'l-kâdime ba‘de murâca‘ati't-tefâsîli'l-kânûniyyeti!", "tr": "Umarım hukuki ayrıntıları gözden geçirdikten sonra gelecek hafta anlaşmayı imzalarız!" },
+        { "konusan": "كريم", "ar": "بِإِذْنِ اللّٰهِ يَا أُسْتَاذُ، شُكْرًا لِوَقْتِكُمْ وَدَعْمِكُمْ!", "okunus": "Bi-iznillâhi yâ ustâzu, şukran li-vaktikum ve da‘mikum!", "tr": "İnşallah beyefendi, vaktiniz ve desteğiniz için teşekkürler!" }
+      ],
+      "partner": [
+        { "soruAr": "كَيْفَ نَقُولُ 'Pek çok uygulama var' (إِنَّ هُنَاكَ + cemi müennes!)؟", "soruTr": "'Şüphesiz pek çok uygulama var' hangisidir?", "ipucu": "إِنَّ هُنَاكَ تَطْبِيقَاتٍ كَثِيرَةً (kesrayla mansub!).", "secenekler": ["إِنَّ هُنَاكَ تَطْبِيقَاتٍ كَثِيرَةً.", "إِنَّ هُنَاكَ تَطْبِيقَاتٌ كَثِيرَةٌ.", "إِنَّ هُنَاكَ تَطْبِيقَاتًا كَثِيرَةً."], "dogruIndeks": 0, "aciklama": "Cemi müennes İnne ismi kesrayla (تَطْبِيقَاتٍ), sıfatı fethayla (كَثِيرَةً) mansub!" },
+        { "soruAr": "مَا مَعْنَى «غَيْرَ أَنَّ / إِلَّا أَنَّ» فِي الْحِوَارِ؟", "soruTr": "Bu iki YDS bağlacı Türkçeye nasıl çevrilir?", "ipucu": "لٰكِنَّ ile eş anlamlı!", "secenekler": ["Ne var ki / ancak / fakat.", "Çünkü.", "Ayrıca."], "dogruIndeks": 0, "aciklama": "غَيْرَ أَنَّ = إِلَّا أَنَّ = 'ne var ki / ancak'!" },
+        { "soruAr": "لِمَاذَا قَالَتْ سَلْمَى «وَاللّٰهِ إِنَّنَا» بِالْكَسْرِ وَلَيْسَ «أَنَّنَا»؟", "soruTr": "Selma yeminden sonra neden kesralı إِنَّنَا dedi?", "ipucu": "Yemin cevabı kuralı!", "secenekler": ["Yeminden (وَاللّٰهِ) sonra İnne'nin hemzesi daima kesralı okunur!", "Çünkü harf-i cer vardır.", "Çünkü fiil vardır."], "dogruIndeks": 0, "aciklama": "وَاللّٰهِ إِنَّ... kesin kesra kuralıdır!" },
+        { "soruAr": "لِمَاذَا قَالَ كَرِيمٌ «إِنَّمَا نَطْلُبُ التَّمْوِيلَ» وَلَمْ يَقُلْ «إِنَّ نَطْلُبُ»؟", "soruTr": "Kerim neden إِنَّ değil إِنَّمَا dedi?", "ipucu": "Mâ-i Kâffe'nin 2. mucizesi!", "secenekler": ["إِنَّ fiil başına gelemez; مَا الْكَافَّةُ eklenince (إِنَّمَا) fiil başına da gelebilir ('yalnızca istiyoruz')!", "İsteğe bağlıdır.", "نَطْلُبُ isimdir."], "dogruIndeks": 0, "aciklama": "إِنَّمَا + fiil = 'ancak / yalnızca ... yapıyoruz'!" },
+        { "soruAr": "لِمَاذَا «تِسْعِينَ» بِالْيَاءِ فِي: «ثَبَتَ أَنَّ تِسْعِينَ فِي الْمِئَةِ...»؟", "soruTr": "'أَنَّ تِسْعِينَ' ifadesinde 90 sayısı neden yâ ile gelmiştir?", "ipucu": "أَنَّ'nin mansub ismi (ukûd sayısı: ونَ → ينَ)!", "secenekler": ["تِسْعِينَ أَنَّ'nin ismidir ve ukûd sayıları cemi müzekker gibi yâ ile mansub olur!", "Mecrûrdur.", "Merfûdur."], "dogruIndeks": 0, "aciklama": "أَنَّ + تِسْعِينَ (yâ ile mansub — M23'e harika köprü!)!" }
+      ]
+    },
+    {
+      "id": "m22_d4",
+      "baslik": "Kardeşler Arasında Kâne vs. İnne Gramer Yarışması",
+      "ortam": "İki öğrenci kahve içerken birbirlerine hızlı Kâne ve İnne dönüşüm soruları soruyor",
+      "replikler": [
+        { "konusan": "أحمد", "ar": "يَا سَامِي، هَلْ أَنْتَ مُسْتَعِدٌّ لِتَحَدِّي السُّرْعَةِ بَيْنَ «كَانَ» وَ«إِنَّ»؟", "okunus": "Yâ Sâmî, hel ente musta‘iddun li-tehaddi's-sur‘ati beyne «kâne» ve «inne»?", "tr": "Sami, 'Kâne' ve 'İnne' arasında hız meydan okumasına hazır mısın?" },
+        { "konusan": "سامي", "ar": "نَعَمْ! إِنِّي مُسْتَعِدٌّ تَمَامًا! هَاتِ الْجُمْلَةَ الْأُولَى!", "okunus": "Ne‘am! İnnî musta‘iddun temâmen! Hâti'l-cumlete'l-ûlâ!", "tr": "Evet! Tamamen hazırım! İlk cümleyi getir!" },
+        { "konusan": "أحمد", "ar": "اَلْجُمْلَةُ هِيَ: «اَلْمُعَلِّمُونَ مُخْلِصُونَ». أَدْخِلْ عَلَيْهَا «كَانَ» ثُمَّ «إِنَّ» ثُمَّ «إِنَّمَا»!", "okunus": "El-cumletu hiye: «El-mu‘allimûne muhlisûne». Edhil ‘aleyhâ «kâne» summe «inne» summe «innemâ»!", "tr": "Cümle şu: 'Öğretmenler samimidir.' Başına sırasıyla 'Kâne', sonra 'İnne', sonra 'İnnemâ' getir!" },
+        { "konusan": "سامي", "ar": "سَهْلٌ جِدًّا! «كَانَ الْمُعَلِّمُونَ مُخْلِصِينَ»، «إِنَّ الْمُعَلِّمِينَ مُخْلِصُونَ»، «إِنَّمَا الْمُعَلِّمُونَ مُخْلِصُونَ»!", "okunus": "Sehlun cidden! «Kâne'l-mu‘allimûne muhlisîne», «İnne'l-mu‘allimîne muhlisûne», «İnneme'l-mu‘allimûne muhlisûne»!", "tr": "Çok kolay! Kâne'de ref'-nasb, İnne'de nasb-ref', İnnemâ'da ikisi de merfû!" },
+        { "konusan": "أحمد", "ar": "مُمْتَازٌ! عَشَرَةٌ مِنْ عَشَرَةٍ! وَالْآنَ جُمْلَةٌ أَصْعَبُ بِالْأَسْمَاءِ الْخَمْسَةِ: «أَخُوكَ ذُو عِلْمٍ»!", "okunus": "Mumtâzun! ‘Aşeratun min ‘aşeratin! Ve'l-âne cumletun as‘abu bi'l-esmâi'l-hamseti: «Ehûke zû ‘ilmin»!", "tr": "Harika! On üzerinden on! Şimdi Esmâ-i Hamse ile daha zor bir cümle: 'Kardeşin ilim sahibidir'!" },
+        { "konusan": "سامي", "ar": "«كَانَ أَخُوكَ ذَا عِلْمٍ» — وَاوٌ ثُمَّ أَلِفٌ! وَ«إِنَّ أَخَاكَ ذُو عِلْمٍ» — أَلِفٌ ثُمَّ وَاوٌ!", "okunus": "«Kâne ehûke zâ ‘ilmin» — vâvun summe elifun! Ve «İnne ehâke zû ‘ilmin» — elifun summe vâvun!", "tr": "'Kâne ehûke zâ ilmin' — önce vâv sonra elif! Ve 'İnne ehâke zû ilmin' — önce elif sonra vâv!" },
+        { "konusan": "أحمد", "ar": "بَرَاعَةٌ مُذْهِلَةٌ! دَوْرُكَ الْآنَ: جُمْلَةُ جَمْعِ الْمُؤَنَّثِ السَّالِمِ: «اَلطَّبِيبَاتُ مَاهِرَاتٌ»!", "okunus": "Berâ‘atun muzhiletun! Devruke'l-âne: cumletu cem‘i'l-muennesi's-sâlimi: «Et-tabîbâtu mâhirâtun»!", "tr": "Şaşırtıcı ustalık! Şimdi sıradaki: Cemi müennes sâlim cümlesi: 'Kadın doktorlar ustadır'!" },
+        { "konusan": "سامي", "ar": "اِنْتَبِهْ لِلْكَسْرَةِ! «كَانَتِ الطَّبِيبَاتُ مَاهِرَاتٍ»، وَ«إِنَّ الطَّبِيبَاتِ مَاهِرَاتٌ»!", "okunus": "İntebih li'l-kesrati! «Kâneti't-tabîbâtu mâhirâtin», ve «İnne't-tabîbâti mâhirâtun»!", "tr": "Kesraya dikkat! Kâne'de haber kesralı (mâhirâtin), İnne'de isim kesralı (et-tabîbâti)!" },
+        { "konusan": "أحمد", "ar": "وَاخْتِبَارُ الْقِمَّةِ الْأَخِيرُ: مَا الْفَرْقُ بَيْنَ «كَانَ هُنَاكَ أَمَلٌ» وَ«إِنَّ هُنَاكَ أَمَلًا»؟", "okunus": "Va'htibâru'l-kimmeti'l-ehîru: me'l-farku beyne «kâne hunâke emelun» ve «inne hunâke emelen»?", "tr": "Ve son zirve testi: 'Kâne hunâke emelun' ile 'İnne hunâke emelen' arasındaki fark nedir?" },
+        { "konusan": "سامي", "ar": "لِأَنَّ «هُنَاكَ» خَبَرٌ مُقَدَّمٌ، فَكَلِمَةُ «أَمَل» هِيَ الِاسْمُ الْمُؤَخَّرُ: مَرْفُوعٌ مَعَ «كَانَ»، وَمَنْصُوبٌ مَعَ «إِنَّ»!", "okunus": "Li-enne «hunâke» haberun mukaddemun, fe-kelimetu «emel» hiye'l-ismu'l-muehharu: merfû‘un me‘a «kâne», ve mansûbun me‘a «inne»!", "tr": "Çünkü 'hunâke' öne geçmiş haberdir; dolayısıyla 'emel' kelimesi gecikmiş isimdir: Kâne ile merfû, İnne ile mansub!" },
+        { "konusan": "أحمد", "ar": "أَنْتَ بَطَلُ النَّحْوِ بِلَا مُنَازِعٍ! إِنَّكَ لَتَسْتَحِقُّ كُوبَ قَهْوَةٍ عَلَى حِسَابِي الْيَوْمَ!", "okunus": "Ente betalu'n-nahvi bi-lâ munâzi‘in! İnneke le-testehıkku kûbe kahvetin ‘alâ hisâbi'l-yevme!", "tr": "Tartışmasız nahiv şampiyonusun! Bugün benim hesabıma bir fincan kahveyi gerçekten hak ediyorsun!" },
+        { "konusan": "سامي", "ar": "شُكْرًا يَا أَحْمَدُ! إِنَّمَا يَثْبُتُ الْعِلْمُ بِالْمُذَاكَرَةِ وَالْمُمَارَسَةِ مَعَ الْأَصْدِقَاءِ!", "okunus": "Şukran yâ Ahmedu! İnnemâ yesbutu'l-‘ilmu bi'l-muzâkerati ve'l-mumâraseti me‘a'l-esdikâi!", "tr": "Teşekkürler Ahmed! İlim ancak arkadaşlarla müzakere ve pratikle kalıcı olur!" }
+      ],
+      "partner": [
+        { "soruAr": "مَا الصَّحِيحُ عِنْدَ إِدْخَالِ «إِنَّ» عَلَى: «أَخُوكَ ذُو عِلْمٍ»؟", "soruTr": "'أَخُوكَ ذُو عِلْمٍ' başına إِنَّ gelirse nasıl olur?", "ipucu": "Nasb (ا) → Ref' (و)!", "secenekler": ["إِنَّ أَخَاكَ ذُو عِلْمٍ.", "إِنَّ أَخُوكَ ذَا عِلْمٍ.", "إِنَّ أَخِيكَ ذُو عِلْمٍ."], "dogruIndeks": 0, "aciklama": "İnne: önce elif (أَخَاكَ), sonra vâv (ذُو)!" },
+        { "soruAr": "مَا الصَّحِيحُ عِنْدَ إِدْخَالِ «إِنَّمَا» عَلَى: «اَلْمُعَلِّمُونَ مُخْلِصُونَ»؟", "soruTr": "Başına إِنَّمَا gelirse nasıl olur?", "ipucu": "Mâ-i Kâffe ameli durdurur!", "secenekler": ["إِنَّمَا الْمُعَلِّمُونَ مُخْلِصُونَ.", "إِنَّمَا الْمُعَلِّمِينَ مُخْلِصُونَ.", "إِنَّمَا الْمُعَلِّمُونَ مُخْلِصِينَ."], "dogruIndeks": 0, "aciklama": "إِنَّمَا'dan sonra iki öge de merfû kalır!" },
+        { "soruAr": "مَا الصَّحِيحُ عِنْدَ إِدْخَالِ «إِنَّ» عَلَى: «اَلطَّبِيبَاتُ مَاهِرَاتٌ»؟", "soruTr": "Cemi müennes cümlesinin başına إِنَّ gelirse?", "ipucu": "İsim kesra (الطَّبِيبَاتِ), haber damme (مَاهِرَاتٌ)!", "secenekler": ["إِنَّ الطَّبِيبَاتِ مَاهِرَاتٌ.", "إِنَّ الطَّبِيبَاتُ مَاهِرَاتٍ.", "إِنَّ الطَّبِيبَاتَ مَاهِرَاتٌ."], "dogruIndeks": 0, "aciklama": "Cemi müennes İnne ismi kesrayla mansubdur!" },
+        { "soruAr": "لِمَاذَا «لَتَسْتَحِقُّ» مَرْفُوعٌ فِي: «إِنَّكَ لَتَسْتَحِقُّ كُوبَ قَهْوَةٍ»؟", "soruTr": "'لَتَسْتَحِقُّ' fiili neden dammeli (merfû) kalmıştır?", "ipucu": "Fethalı Te'kîd Lâmı!", "secenekler": ["Çünkü لَـ Te'kîd Lâmıdır (اللَّامُ الْمُزَحْلَقَةُ), muzâriye amel etmez!", "Çünkü emir lâmıdır.", "Çünkü nasb lâmıdır."], "dogruIndeks": 0, "aciklama": "Te'kîd Lâmı fethalıdır ve muzâriyi merfû bırakır!" },
+        { "soruAr": "مَا الْفَرْقُ بَيْنَ «كَانَ هُنَاكَ أَمَلٌ» وَ«إِنَّ هُنَاكَ أَمَلًا»؟", "soruTr": "Neden biri merfû diğeri mansubdur?", "ipucu": "İkisi de gecikmiş İSİM!", "secenekler": ["أَمَلٌ Kâne'nin gecikmiş merfû ismi, أَمَلًا ise İnne'nin gecikmiş mansub ismidir!", "İlki haberdir.", "İkincisi haberdir."], "dogruIndeks": 0, "aciklama": "Öne geçmiş haberli cümlelerde Kâne → merfû, İnne → mansub!" }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "id": "m22_fc01", "ar": "إِنَّ", "harekesiz": "إن", "okunus": "İnne", "tr": "Şüphesiz / Muhakkak / Elbette", "kok": "ح ر ف", "vezin": "حَرْفُ تَوْكِيدٍ وَنَصْبٍ", "turevler": ["إِنِّي / إِنَّنِي", "إِنَّا / إِنَّنَا", "إِنَّمَا"], "ekBilgi": "İsmini MANSUB, haberini MERFÛ yapar; cümle başında ve قَالَ sonrası kesralıdır!", "ornek": "إِنَّ الصَّبْرَ مِفْتَاحُ الْفَرَجِ.", "ornekTr": "Şüphesiz sabır ferahlığın anahtarıdır.", "kullanimNotu": "Kâne'nin (Ref'–Nasb) tam ayna görüntüsüdür (Nasb–Ref')!", "tur": "Edat" },
+    { "id": "m22_fc02", "ar": "أَنَّ", "harekesiz": "أن", "okunus": "Enne", "tr": "...-diğini / ... olduğunu (Yan cümle bağlacı)", "kok": "ح ر ف", "vezin": "حَرْفٌ مَصْدَرِيٌّ", "turevler": ["لِأَنَّ", "بِأَنَّ", "رَغْمَ أَنَّ", "كَمَا أَنَّ"], "ekBilgi": "Cümle başında gelmez; fiil veya harf-i cerden sonra müevvel mastar kurar!", "ornek": "عَلِمْتُ أَنَّ الْحَقَّ وَاضِحٌ.", "ornekTr": "Hakkın açık olduğunu bildim.", "kullanimNotu": "أَنْ (fiil alır) vs. أَنَّ (isim cümlesi alır) farkına dikkat!", "tur": "Edat" },
+    { "id": "m22_fc03", "ar": "كَأَنَّ", "harekesiz": "كأن", "okunus": "Ke-enne", "tr": "Sanki / ... gibi (Benzetme)", "kok": "ح ر ف", "vezin": "حَرْفُ تَشْبِيهٍ", "turevler": ["كَأَنَّهُ", "كَأَنَّمَا"], "ekBilgi": "Nasb – Ref' ameli yapar; مَا bitişince (كَأَنَّمَا) amel durur ve fiile de gelir!", "ornek": "كَأَنَّ الْقَمَرَ مِصْبَاحٌ مُضِيءٌ!", "ornekTr": "Ay sanki parlak bir lambadır!", "kullanimNotu": "كَـ (harf-i cer) + أَنَّ birleşimidir.", "tur": "Edat" },
+    { "id": "m22_fc04", "ar": "لٰكِنَّ", "harekesiz": "لكن", "okunus": "Lâkinne", "tr": "Fakat / Ancak / Ama (İstidrâk)", "kok": "ح ر ف", "vezin": "حَرْفُ اسْتِدْرَاكٍ", "turevler": ["وَلٰكِنَّهُ", "لٰكِنْ (sükûnlu)", "لٰكِنَّمَا"], "ekBilgi": "Şeddeli لٰكِنَّ isim cümlesine girer (nasb–ref'); sükûnlu لٰكِنْ amel etmez!", "ornek": "اَلِامْتِحَانُ طَوِيلٌ وَلٰكِنَّهُ سَهْلٌ.", "ornekTr": "Sınav uzundur fakat kolaydır.", "kullanimNotu": "Uzun okunur ama elif yazılmaz: لٰكِنَّ / لَكِنَّ!", "tur": "Edat" },
+    { "id": "m22_fc05", "ar": "لَيْتَ", "harekesiz": "ليت", "okunus": "Leyte", "tr": "Keşke! (Gerçekleşmesi zor/imkânsız dilek)", "kok": "ح ر ف", "vezin": "حَرْفُ تَمَنٍّ", "turevler": ["لَيْتَنِي", "لَيْتَنَا", "لَيْتَمَا"], "ekBilgi": "Geçmişe özlem veya gerçekleşmesi imkânsız dileklerde kullanılır", "ornek": "لَيْتَ الشَّبَابَ يَعُودُ يَوْمًا!", "ornekTr": "Keşke gençlik bir gün geri dönse!", "kullanimNotu": "لَيْتَمَا Mâ-i Kâffe ile hem amel edebilir hem etmeyebilir!", "tur": "Edat" },
+    { "id": "m22_fc06", "ar": "لَعَلَّ", "harekesiz": "لعل", "okunus": "Le‘alle", "tr": "Umulur ki / Umarım / Belki (Mümkün beklenti)", "kok": "ح ر ف", "vezin": "حَرْفُ تَرَجٍّ", "turevler": ["لَعَلِّي", "لَعَلَّهُ", "لَعَلَّنَا"], "ekBilgi": "Gerçekleşmesi mümkün umut ve tahminlerde kullanılır", "ornek": "لَعَلَّ الْفَرَجَ قَرِيبٌ!", "ornekTr": "Umarım ferahlık yakındır!", "kullanimNotu": "لَيْتَ (imkânsız) vs. لَعَلَّ (mümkün) farkı çok önemlidir!", "tur": "Edat" },
+    { "id": "m22_fc07", "ar": "إِنَّمَا", "harekesiz": "إنما", "okunus": "İnnemâ", "tr": "Ancak / Yalnızca / Sadece (Mâ-i Kâffe!)", "kok": "ح ر ف", "vezin": "أَدَاةُ حَصْرٍ", "turevler": ["كَأَنَّمَا", "لٰكِنَّمَا", "مَا الْكَافَّةُ"], "ekBilgi": "مَا el freni çeker: nasb ameli durur (sonrası MERFÛ!) ve fiil başına da gelir!", "ornek": "إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ.", "ornekTr": "Müminler ancak kardeştirler.", "kullanimNotu": "Ayrı yazılan إِنَّ مَا ('şüphesiz ... şey') ile karıştırmayın!", "tur": "Edat" },
+    { "id": "m22_fc08", "ar": "اَللَّامُ الْمُزَحْلَقَةُ (لَـ)", "harekesiz": "اللام المزحلقة", "okunus": "El-lâmu'l-muzahlekatu", "tr": "Kaydırılmış Te'kîd Lâmı ('gerçekten / elbette')", "kok": "ز ح ل ق", "vezin": "لَامُ التَّوْكِيدِ", "turevler": ["إِنَّهُ لَصَادِقٌ", "إِنَّ فِي ذٰلِكَ لَعِبْرَةً"], "ekBilgi": "Fethalıdır; İnne haberinin (veya gecikmiş isminin) başına gelir, i'rabı değiştirmez!", "ornek": "إِنَّ الْعِلْمَ لَنُورٌ!", "ornekTr": "Şüphesiz ilim gerçekten bir nurdur!", "kullanimNotu": "Kesralı harf-i cer لِـ ile asla karıştırmayın!", "tur": "Terim" },
+    { "id": "m22_fc09", "ar": "قَالَ ... إِنَّ", "harekesiz": "قال إن", "okunus": "Kâle ... inne", "tr": "... olduğunu söyledi / dedi ki (Kesin kesra!)", "kok": "ق و ل", "vezin": "قَاعِدَةٌ نَحْوِيَّةٌ", "turevler": ["يَقُولُ إِنَّ", "قِيلَ إِنَّ"], "ekBilgi": "قَالَ ve türevlerinden hemen sonra İnne daima KESRALI okunur!", "ornek": "قَالَ الْأُسْتَاذُ إِنَّ الِامْتِحَانَ سَهْلٌ.", "ornekTr": "Hoca sınavın kolay olduğunu söyledi.", "kullanimNotu": "En yüksek frekanslı harekeleme kuralıdır!", "tur": "Kalıp" },
+    { "id": "m22_fc10", "ar": "حَيْثُ إِنَّ", "harekesiz": "حيث إن", "okunus": "Haysu inne", "tr": "Zira / Çünkü / Şundan dolayı ki", "kok": "ح ي ث", "vezin": "أَدَاةُ تَعْلِيلٍ", "turevler": ["حَيْثُ إِنَّهُ", "حَيْثُ إِنَّهَا"], "ekBilgi": "حَيْثُ sonrasında İnne daima KESRALI okunur (حَيْثُ إِنَّ)!", "ornek": "أُحِبُّ الْمَكْتَبَةَ حَيْثُ إِنَّهَا هَادِئَةٌ.", "ornekTr": "Kütüphaneyi seviyorum zira çok sakin.", "kullanimNotu": "YDS sebep-gerekçe bağlaçlarının baş tacıdır!", "tur": "Kalıp" },
+    { "id": "m22_fc11", "ar": "عَلَى الرَّغْمِ مِنْ أَنَّ / رَغْمَ أَنَّ", "harekesiz": "على الرغم من أن / رغم أن", "okunus": "‘Ale'r-ragmi min enne / Ragma enne", "tr": "...-mesine rağmen / karşın", "kok": "ر غ م", "vezin": "أَدَاةُ اسْتِدْرَاكٍ", "turevler": ["مَعَ أَنَّ", "إِلَّا أَنَّ"], "ekBilgi": "Genellikle ikinci cümlede إِلَّا أَنَّ ile eşleşir!", "ornek": "حَضَرَ رَغْمَ أَنَّهُ كَانَ مُتْعَبًا.", "ornekTr": "Yorgun olmasına rağmen katıldı.", "kullanimNotu": "İsim gelirse أَنَّ düşer: رَغْمَ التَّعَبِ!", "tur": "Kalıp" },
+    { "id": "m22_fc12", "ar": "مَعَ أَنَّ", "harekesiz": "مع أن", "okunus": "Me‘a enne", "tr": "... olmasına rağmen / hâlde", "kok": "م ع", "vezin": "أَدَاةُ اسْتِدْرَاكٍ", "turevler": ["رَغْمَ أَنَّ", "إِلَّا أَنَّ"], "ekBilgi": "رَغْمَ أَنَّ ile eş anlamlıdır; fethalı أَنَّ alır", "ornek": "مَعَ أَنَّ جَدِّي بَلَغَ الثَّمَانِينَ، مَا زَالَ يَقْرَأُ!", "ornekTr": "Dedem seksene ulaşmasına rağmen hâlâ okuyor!", "kullanimNotu": "YDS zıtlık bağlacıdır.", "tur": "Kalıp" },
+    { "id": "m22_fc13", "ar": "إِلَّا أَنَّ / غَيْرَ أَنَّ", "harekesiz": "إلا أن / غير أن", "okunus": "İllâ enne / Gayra enne", "tr": "Ancak / Ne var ki / Fakat", "kok": "غ ي ر", "vezin": "أَدَاةُ اسْتِدْرَاكٍ", "turevler": ["بَيْدَ أَنَّ", "لٰكِنَّ"], "ekBilgi": "Akademik Arapçada لٰكِنَّ yerine çok sık kullanılan üst düzey zıtlık bağlaçlarıdır", "ornek": "اَلْكِتَابُ شَامِلٌ، غَيْرَ أَنَّ حَجْمَهُ كَبِيرٌ.", "ornekTr": "Kitap kapsamlıdır, ne var ki hacmi büyüktür.", "kullanimNotu": "بَيْدَ أَنَّ da aynı anlamdadır (YDS B2)!", "tur": "Kalıp" },
+    { "id": "m22_fc14", "ar": "كَمَا أَنَّ", "harekesiz": "كما أن", "okunus": "Kemâ enne", "tr": "Ayrıca / Bunun yanı sıra / Üstelik", "kok": "ح ر ف", "vezin": "أَدَاةُ إِضَافَةٍ", "turevler": ["إِضَافَةً إِلَى أَنَّ", "فَضْلًا عَنْ أَنَّ"], "ekBilgi": "Önceki cümleye paralel ek bilgi katmak için kullanılır", "ornek": "اَلْكِتَابُ مُفِيدٌ، كَمَا أَنَّ أُسْلُوبَهُ سَهْلٌ.", "ornekTr": "Kitap faydalıdır, ayrıca üslubu kolaydır.", "kullanimNotu": "YDS paragraf tamamlamanın 1 numaralı ekleme bağlacıdır!", "tur": "Kalıp" },
+    { "id": "m22_fc15", "ar": "لِأَنَّ", "harekesiz": "لأن", "okunus": "Li-enne", "tr": "Çünkü / ... olduğu için", "kok": "ح ر ف", "vezin": "لِـ + أَنَّ", "turevler": ["لِأَنَّهُ", "لِأَنَّنِي", "لِذٰلِكَ"], "ekBilgi": "لِـ harf-i cerinden sonra daima fethalı أَنَّ okunur!", "ornek": "نَجَحَ لِأَنَّهُ اجْتَهَدَ بِإِخْلَاصٍ.", "ornekTr": "Samimiyetle gayret ettiği için başardı.", "kullanimNotu": "Sebep cümlesi getirir (لِذٰلِكَ ise sonuç cümlesi getirir!).", "tur": "Edat" },
+    { "id": "m22_fc16", "ar": "لَا شَكَّ أَنَّ / فِي أَنَّ", "harekesiz": "لا شك أن", "okunus": "Lâ şekke enne", "tr": "Hiç şüphe yok ki / Şüphesiz", "kok": "ش ك ك", "vezin": "عِبَارَة تَأْكِيدٍ", "turevler": ["بِلَا شَكٍّ", "مِنَ الْمُؤَكَّدِ أَنَّ"], "ekBilgi": "Fethalı أَنَّ ile akademik yargıları vurgular", "ornek": "لَا شَكَّ أَنَّ الْعِلْمَ يُنِيرُ الْحَيَاةَ.", "ornekTr": "Hiç şüphe yok ki ilim hayatı aydınlatır.", "kullanimNotu": "YDS'de çok sık geçen kesinlik girişidir.", "tur": "Kalıp" },
+    { "id": "m22_fc17", "ar": "مِنَ الْمَعْرُوفِ أَنَّ", "harekesiz": "من المعروف أن", "okunus": "Mine'l-ma‘rûfi enne", "tr": "... olduğu bilinmektedir", "kok": "ع ر ف", "vezin": "عِبَارَة أَكَادِيمِيَّة", "turevler": ["مِنَ الْمُؤَكَّدِ أَنَّ", "مِنَ الْمُلَاحَظِ أَنَّ"], "ekBilgi": "أَنَّ + devamı müevvel mastar olarak gecikmiş mübtedâdır", "ornek": "مِنَ الْمَعْرُوفِ أَنَّ الْقِرَاءَةَ تُقَوِّي الذَّاكِرَةَ.", "ornekTr": "Okumanın hafızayı güçlendirdiği bilinmektedir.", "kullanimNotu": "Makale giriş cümlelerinin klasiğidir.", "tur": "Kalıp" },
+    { "id": "m22_fc18", "ar": "إِنَّ هُنَاكَ + مَنْصُوب", "harekesiz": "إن هناك", "okunus": "İnne hunâke", "tr": "Şüphesiz ... vardır (Gecikmiş MANSUB isim!)", "kok": "ح ر ف", "vezin": "تَرْكِيب نَحْوِيّ", "turevler": ["أَنَّ هُنَاكَ", "كَانَ هُنَاكَ (مَرْفُوع!)"], "ekBilgi": "هُنَاكَ öne geçmiş haber, sondaki isim MANSUBDUR!", "ornek": "إِنَّ هُنَاكَ فُرْصَةً ذَهَبِيَّةً أَمَامَنَا!", "ornekTr": "Şüphesiz önümüzde altın bir fırsat vardır!", "kullanimNotu": "كَانَ هُنَاكَ أَمَلٌ (merfû) vs. إِنَّ هُنَاكَ أَمَلًا (mansub)!", "tur": "Kalıp" },
+    { "id": "m22_fc19", "ar": "اَلتَّأَنِّي وَالْعَجَلَةُ", "harekesiz": "التأني والعجلة", "okunus": "Et-teennî ve'l-‘aceletu", "tr": "Sabırla/ağırbaşlı hareket ve acelecilik", "kok": "أ ن ي", "vezin": "تَفَعُّل / فَعَلَة", "turevler": ["مُتَأَنٍّ", "اِسْتَعْجَلَ"], "ekBilgi": "Meşhur Arap atasözü: فِي التَّأَنِّي السَّلَامَةُ وَفِي الْعَجَلَةِ النَّدَامَةُ!", "ornek": "إِنَّ فِي التَّأَنِّي لَسَلَامَةً!", "ornekTr": "Şüphesiz acele etmemekte elbette selamet vardır!", "kullanimNotu": "عَجَلَةٌ = acele / tekerlek.", "tur": "İsim" },
+    { "id": "m22_fc20", "ar": "اَلْإِصْغَاءُ", "harekesiz": "الإصغاء", "okunus": "El-isgâu", "tr": "Dikkatle ve gönülden dinlemek", "kok": "ص غ و", "vezin": "إِفْعَال (IV)", "turevler": ["أَصْغَى إِلَى", "حُسْنُ الْإِصْغَاءِ"], "ekBilgi": "Sıradan işitmekten (سَمِعَ) daha derin, dikkatle kulak vermektir", "ornek": "نُتْقِنُ فَنَّ الْإِصْغَاءِ وَاللُّطْفِ فِي الْحِوَارِ.", "ornekTr": "Dinleme sanatında ve diyalogda nezakette ustalaşıyoruz.", "kullanimNotu": "إِلَى harf-i ceriyle kullanılır: أَصْغَى إِلَى.", "tur": "İsim" },
+    { "id": "m22_fc21", "ar": "حُجَّةٌ (ج: حُجَجٌ)", "harekesiz": "حجة", "okunus": "Huccetun", "tr": "Kanıt / delil / argüman", "kok": "ح ج ج", "vezin": "فُعْلَة", "turevler": ["اِحْتَجَّ", "حُجَّةٌ قَوِيَّةٌ"], "ekBilgi": "Tartışma ve akademik ikna metinlerinde çok sıktır", "ornek": "اَلْحُجَّةُ الْهَادِئَةُ تَفْتَحُ الْقُلُوبَ الْمُغْلَقَةَ.", "ornekTr": "Sakin delil kapalı kalpleri açar.", "kullanimNotu": "حُجَجٌ (çoğul) = kanıtlar / deliller.", "tur": "İsim" },
+    { "id": "m22_fc22", "ar": "أَقْنَعَ — يُقْنِعُ", "harekesiz": "أقنع — يقنع", "okunus": "Akna‘a — yukni‘u", "tr": "İkna etmek", "kok": "ق ن ع", "vezin": "أَفْعَلَ (IV)", "turevler": ["إِقْنَاع", "مُقْتَنِع", "قَنَاعَة"], "ekBilgi": "اِقْتَنَعَ بِـ = ikna olmak (مُقْتَنِعٌ = ikna olmuş)", "ornek": "أَنَا مُقْتَنِعٌ بِرُؤْيَتِكُمَا تَمَامًا!", "ornekTr": "Vizyonunuza tamamen ikna oldum!", "kullanimNotu": "بِـ harf-i ceriyle ('bir şeye ikna etmek') kullanılır.", "tur": "Fiil" },
+    { "id": "m22_fc23", "ar": "بِرُّ الْوَالِدَيْنِ", "harekesiz": "بر الوالدين", "okunus": "Birru'l-vâlideyni", "tr": "Anne babaya iyilik ve saygı", "kok": "ب ر ر", "vezin": "إِضَافَة", "turevler": ["بَارّ", "أَبْرَار"], "ekBilgi": "بِرٌّ (kesralı بِـ: iyilik!), بَرٌّ (fethalı بَـ: kara/toprak!) farkına dikkat!", "ornek": "إِنَّ بِرَّ الْوَالِدَيْنِ لَمِنْ أَجْمَلِ الْقِيَمِ!", "ornekTr": "Şüphesiz anne babaya iyilik en güzel değerlerdendir!", "kullanimNotu": "بَارٌّ بِوَالِدَيْهِ = anne babasına hayırlı evlat.", "tur": "İsim" },
+    { "id": "m22_fc24", "ar": "تَوْقِيرُ الْكِبَارِ", "harekesiz": "توقير الكبار", "okunus": "Tevkîru'l-kibâri", "tr": "Büyüklere saygı ve hürmet", "kok": "و ق ر", "vezin": "تَفْعِيل (II)", "turevler": ["وَقَّرَ", "وَقَار", "وَقُور"], "ekBilgi": "وَقَّرَ (II. bab: saygı göstermek) fiilinin mastarıdır", "ornek": "إِنَّ تَوْقِيرَ الْكِبَارِ يُبَارِكُ فِي أَعْمَارِنَا.", "ornekTr": "Şüphesiz büyüklere saygı ömürlerimizi bereketlendirir.", "kullanimNotu": "M21'deki وَقُورٌ ile aynı köktendir!", "tur": "İsim" },
+    { "id": "m22_fc25", "ar": "اَلْفُضُولُ الْعِلْمِيُّ", "harekesiz": "الفضول العلمي", "okunus": "El-fudûlu'l-‘ilmiyyu", "tr": "Bilimsel merak", "kok": "ف ض ل", "vezin": "فُعُول", "turevler": ["فُضُولِيّ", "فَضْل"], "ekBilgi": "فُضُولٌ olumlu bağlamda 'merak', olumsuz bağlamda 'gereksiz müdahale' demektir", "ornek": "إِنَّ طِفْلَ الْيَوْمِ الْفُضُولِيَّ هُوَ عَالِمُ الْغَدِ!", "ornekTr": "Bugünün meraklı çocuğu yarının bilim insanıdır!", "kullanimNotu": "Eğitim ve bilim metinlerinde çok yaygındır.", "tur": "İsim" },
+    { "id": "m22_fc26", "ar": "عَلَاقَةٌ وَثِيقَةٌ", "harekesiz": "علاقة وثيقة", "okunus": "‘Alâkatun vesîkatun", "tr": "Sıkı / yakın ilişki", "kok": "و ث ق", "vezin": "تَرْكِيب وَصْفِيّ", "turevler": ["عَلَاقَات", "وَثِيقَة (belge)"], "ekBilgi": "YDS akademik paragraflarının en yüksek frekanslı tamlamalarındandır", "ornek": "إِنَّ هُنَاكَ عَلَاقَةً وَثِيقَةً بَيْنَ الْعِلْمِ وَالتَّقَدُّمِ.", "ornekTr": "İlim ile ilerleme arasında sıkı bir ilişki vardır.", "kullanimNotu": "وَثِيقَةٌ tek başına isim olarak 'belge' demektir!", "tur": "İsim" },
+    { "id": "m22_fc27", "ar": "مُفْرِطٌ (اِسْتِخْدَامٌ مُفْرِطٌ)", "harekesiz": "مفرط", "okunus": "Mufritun", "tr": "Aşırı / ölçüsüz", "kok": "ف ر ط", "vezin": "مُفْعِل (IV)", "turevler": ["إِفْرَاط", "أَفْرَطَ فِي"], "ekBilgi": "اِسْتِخْدَامٌ مُفْرِطٌ = aşırı kullanım (YDS Sağlık & Teknoloji!)", "ornek": "إِلَّا أَنَّ الِاسْتِخْدَامَ الْمُفْرِطَ لِلْهَاتِفِ مُضِرٌّ.", "ornekTr": "Ancak telefonun aşırı kullanımı zararlıdır.", "kullanimNotu": "إِفْرَاطٌ = aşırılık; تَفْرِيطٌ = ihmal/eksiklik.", "tur": "Sıfat" },
+    { "id": "m22_fc28", "ar": "إِصْرَارٌ", "harekesiz": "إصرار", "okunus": "İsrârun", "tr": "Kararlılık / ısrar / azim", "kok": "ص ر ر", "vezin": "إِفْعَال (IV + مُضَعَّف)", "turevler": ["أَصَرَّ عَلَى", "مُصِرّ"], "ekBilgi": "أَصَرَّ عَلَى ('bir konuda ısrar/kararlılık göstermek') fiilinin mastarıdır", "ornek": "إِلَّا أَنَّ إِصْرَارَ الْفَرِيقِ أَثْمَرَ نَجَاحًا بَاهِرًا.", "ornekTr": "Ancak ekibin kararlılığı parlak bir başarı doğurdu.", "kullanimNotu": "عَلَى harf-i ceriyle kullanılır.", "tur": "İsim" },
+    { "id": "m22_fc29", "ar": "تَمْوِيلٌ", "harekesiz": "تمويل", "okunus": "Temvîlun", "tr": "Finansman / fonlama", "kok": "م و ل", "vezin": "تَفْعِيل (II)", "turevler": ["مَوَّلَ", "مَال", "مُمَوِّل"], "ekBilgi": "مَال (para/mal) kökünden II. bab mastarıdır", "ornek": "إِنَّمَا نَطْلُبُ التَّمْوِيلَ لِتَوْسِيعِ الْفَرِيقِ.", "ornekTr": "Finansmanı yalnızca ekibi büyütmek için istiyoruz.", "kullanimNotu": "Ekonomi ve girişimcilik metinlerinin temel kelimesidir.", "tur": "İsim" },
+    { "id": "m22_fc30", "ar": "تَصَفَّحَ — يَتَصَفَّحُ", "harekesiz": "تصفح — يتصفح", "okunus": "Tesaffaha — yetesaffahu", "tr": "(Kitap/internet) sayfalarını çevirmek / gezinmek", "kok": "ص ف ح", "vezin": "تَفَعَّلَ (V)", "turevler": ["صَفْحَة", "مُتَصَفِّح (tarayıcı)"], "ekBilgi": "Hem kitap hem web tarayıcısı (مُتَصَفِّحٌ) için kullanılır!", "ornek": "نَشْعُرُ كَأَنَّنَا نَتَصَفَّحُ كِتَابًا مَلِيئًا بِالْحِكْمَةِ.", "ornekTr": "Sanki hikmet dolu bir kitabın sayfalarını çeviriyormuşuz gibi hissederiz.", "kullanimNotu": "صَفْحَةٌ (sayfa) kelimesiyle aynı köktendir.", "tur": "Fiil" },
+    { "id": "m22_fc31", "ar": "أَذَابَ — يُذِيبُ", "harekesiz": "أذاب — يذيب", "okunus": "Ezâbe — yuzîbu", "tr": "Eritmek (buz / şeker / mecazen buzları eritmek)", "kok": "ذ و ب", "vezin": "أَفْعَلَ (IV + أَجْوَف)", "turevler": ["ذَابَ (erimek)", "ذَوَبَان"], "ekBilgi": "ذَابَ (I. bab: eridi) → أَذَابَ (IV. bab: eritti)!", "ornek": "كَأَنَّهَا شَمْسٌ دَافِئَةٌ تُذِيبُ جَلِيدَ الْخِلَافَاتِ.", "ornekTr": "Sanki anlaşmazlıkların buzunu eriten sıcak bir güneştir.", "kullanimNotu": "Fen ve edebiyatta çok kullanışlıdır.", "tur": "Fiil" },
+    { "id": "m22_fc32", "ar": "بَاهِرٌ (نَجَاحٌ بَاهِرٌ)", "harekesiz": "باهر", "okunus": "Bâhirun", "tr": "Parlak / göz kamaştırıcı / muhteşem", "kok": "ب ه ر", "vezin": "فَاعِل", "turevler": ["مُبْهِر", "نَتَائِجُ بَاهِرَةٌ"], "ekBilgi": "نَجَاحٌ بَاهِرٌ (parlak başarı) ve نَتَائِجُ بَاهِرَةٌ klasik eşdizimleridir", "ornek": "مِنَ الْمُؤَكَّدِ أَنَّ التَّعَاوُنَ يُحَقِّقُ نَتَائِجَ بَاهِرَةً.", "ornekTr": "İş birliğinin parlak sonuçlar doğurduğu kesindir.", "kullanimNotu": "اِنْبَهَرَ بِـ = hayran kalmak / büyülenmek.", "tur": "Sıfat" }
+  ]
+}

@@ -1,0 +1,780 @@
+{
+  "id": "21",
+  "slug": "modul_21",
+  "phaseId": 2,
+  "cilt": 2,
+  "cefr": "A2",
+  "title": "Kâne ve Kardeşleri (Nâkıs Fiiller)",
+  "arabicTitle": "كَانَ وَأَخَوَاتُهَا (الْأَفْعَالُ النَّاقِصَةُ)",
+  "category": "Nahiv",
+  "summary": "كَانَ، أَصْبَحَ، أَمْسَى، ظَلَّ، بَاتَ، صَارَ، لَيْسَ، مَا زَالَ ve مَا دَامَ ile isim cümlesini zamanlandırma, ref'–nasb ameli, birleşik zamanlar (كَانَ + muzâri / كَانَ قَدْ + mâzi) ve haberin öne geçmesi.",
+  "grammar": [
+    {
+      "id": "m21_g1",
+      "baslik": "Kâne'nin Ameli (Ref' – Nasb): İsim Cümlesini Zamanlandırmak!",
+      "arBaslik": "عَمَلُ «كَانَ وَأَخَوَاتِهَا» (تَرْفَعُ الِاسْمَ وَتَنْصِبُ الْخَبَرَ)",
+      "mantik": "Normal bir Arapça isim cümlesi (`اَلْجَوُّ جَمِيلٌ` = Hava güzeldir) daima **şimdiki/geniş zamanı** bildirir ve iki ögesi de merfûdur. Peki 'Hava güzel**di**', 'Hava güzel **olacak**' veya 'Sabırlı **ol!**' demek istediğimizde isim cümlesine zamanı kim kazandırır? İşte **Kâne ve Kardeşleri (Nâkıs / Eksik Fiiller)**! Bunlara 'nâkıs (eksik)' denmesinin sebebi, normal fiiller gibi sadece bir fâille yetinmeyip anlamlarının tamamlanması için mutlaka **mansub bir habere** ihtiyaç duymalarıdır! Kâne isim cümlesinin başına girdiğinde: (1) Mübtedâyı kendi **İsmi** yapar ve **MERFÛ** bırakır (`اَلْجَوُّ`), (2) Haberi kendi **Haberi** yapar ve **MANSUB** kılar (`جَمِيلًا`)! Muzârisi (`يَكُونُ`) ve emri (`كُنْ`) de birebir aynı ameli yapar!",
+      "formul": "كَانَ / يَكُونُ / كُنْ + Kâne'nin İsmi (MERFÛ!) + Kâne'nin Haberi (MANSUB!)",
+      "formulAr": "اَلْجَوُّ جَمِيلٌ  ←  كَانَ الْجَوُّ جَمِيلًا  |  سَيَكُونُ الْجَوُّ جَمِيلًا  |  كُنْ صَبُورًا!",
+      "tablo": {
+        "baslik": "Kâne'nin Tüm İ'rab Türlerinde Ref' – Nasb Tablosu",
+        "sutunlar": ["İsim Türü", "Önce (Mübtedâ + Haber)", "كَانَ ile (Merfû + Mansub!)", "Nasb Alâmeti"],
+        "satirlar": [
+          { "hucreler": ["Tekil Eril/Dişil", "اَلدَّرْسُ سَهْلٌ.", "كَانَ الدَّرْسُ سَهْلًا.", "Açık Fetha (سَهْلًا)"], "ar": "كَانَ الدَّرْسُ سَهْلًا." },
+          { "hucreler": ["Tesniye (İkil)", "اَلطَّالِبَانِ مُجْتَهِدَانِ.", "كَانَ الطَّالِبَانِ مُجْتَهِدَيْنِ.", "Yâ (انِ → يْنِ!)"], "ar": "كَانَ الطَّالِبَانِ مُجْتَهِدَيْنِ." },
+          { "hucreler": ["Cemi Müzekker", "اَلْمُهَنْدِسُونَ مَاهِرُونَ.", "كَانَ الْمُهَنْدِسُونَ مَاهِرِينَ.", "Yâ (ونَ → ينَ!)"], "ar": "كَانَ الْمُهَنْدِسُونَ مَاهِرِينَ." },
+          { "hucreler": ["Cemi Müennes", "اَلطَّالِبَاتُ مُجْتَهِدَاتٌ.", "كَانَتِ الطَّالِبَاتُ مُجْتَهِدَاتٍ.", "Kesra (اتٌ → اتٍ!)"], "ar": "كَانَتِ الطَّالِبَاتُ مُجْتَهِدَاتٍ." },
+          { "hucreler": ["Esmâ-i Hamse", "أَخُوكَ ذُو عِلْمٍ.", "كَانَ أَخُوكَ ذَا عِلْمٍ.", "Elif (ذُو → ذَا!)"], "ar": "كَانَ أَخُوكَ ذَا عِلْمٍ." },
+          { "hucreler": ["Muttasıl Zamir (İsim)", "أَنَا مَسْرُورٌ / أَنْتَ صَبُورٌ.", "كُنْتُ مَسْرُورًا / كُنْ صَبُورًا!", "تُ / gizli أَنْتَ = Kâne'nin İsmi!"], "ar": "كُنْتُ مَسْرُورًا — كُنْ صَبُورًا!" }
+        ]
+      },
+      "trKiyas": "Çok değerli bir hatırlatma: `كُنْتُ مَسْرُورًا` ('Mutluydum') cümlesinde Kâne'nin ismi sondaki `تُ` zamiridir; `كُنْ صَادِقًا` ('Doğru ol!') cümlesinde ise Kâne'nin ismi gizli `أَنْتَ` zamiridir; dolayısıyla tek görünen kelime (`صَادِقًا`) Kâne'nin **mansub haberidir**! Ayrıca cemi müennes sâlim haberlerin fetha değil **kesra** ile mansub olduğunu (`كَانَتِ الْمُمَرِّضَاتُ مُخْلِصَاتٍ`) asla unutmayın!",
+      "sikHatalar": [
+        "Kâne'nin haberini merfû bırakmak (✗ كَانَ الطَّالِبُ مُجْتَهِدٌ / كَانُوا نَاجِحُونَ → ✓ كَانَ الطَّالِبُ مُجْتَهِدًا / كَانُوا نَاجِحِينَ!).",
+        "Emir كُنْ ve muzâri يَكُونُ'nun haberini merfû okumak (✗ كُنْ صَبُورٌ / سَيَكُونُ الْجَوُّ حَارٌّ → ✓ كُنْ صَبُورًا / سَيَكُونُ الْجَوُّ حَارًّا!).",
+        "Cemi müennes habere fetha koymak (✗ كَانَتِ الطَّالِبَاتُ مُجْتَهِدَاتًا → ✓ كَانَتِ الطَّالِبَاتُ مُجْتَهِدَاتٍ — kesra ile mansub!)."
+      ],
+      "ornekler": [
+        { "ar": "كَانَ الِامْتِحَانُ وَاضِحًا وَمُنَظَّمًا جِدًّا.", "okunus": "Kâne'l-imtihânu vâdihan ve munazzamen cidden.", "tr": "Sınav çok açık ve düzenliydi.", "not": "Merfû isim (الِامْتِحَانُ) + mansub haber (وَاضِحًا)" },
+        { "ar": "كَانَ الْمُتَسَابِقَانِ مُسْتَعِدَّيْنِ لِلْجَوْلَةِ النِّهَائِيَّةِ.", "okunus": "Kâne'l-mutesâbikâni musta‘iddeyni li'l-cevleti'n-nihâiyyeti.", "tr": "İki yarışmacı final turuna hazırdı.", "not": "Tesniye: انِ (merfû) → يْنِ (mansub!)" },
+        { "ar": "كُنَّا مَسْرُورِينَ بِزِيَارَةِ الْمُتْحَفِ التَّارِيخِيِّ.", "okunus": "Kunnâ mesrûrîne bi-ziyârati'l-muthafi't-târîhiyyi.", "tr": "Tarihî müzeyi ziyaret etmekten mutluyduk.", "not": "ـنَا (isim) + مَسْرُورِينَ (yâ ile mansub!)" },
+        { "ar": "كَانَتِ الْمُعَلِّمَاتُ حَرِيصَاتٍ عَلَى تَقَدُّمِ الطُّلَّابِ.", "okunus": "Kâneti'l-mu‘allimâtu harîsâtin ‘alâ tekaddumi't-tullâbi.", "tr": "Kadın öğretmenler öğrencilerin ilerlemesine özen gösteriyorlardı.", "not": "Cemi müennes haber kesra ile mansub: حَرِيصَاتٍ!" },
+        { "ar": "سَيَكُونُ أَبُوكَ فَخُورًا بِنَجَاحِكَ الْكَبِيرِ!", "okunus": "Se-yekûnu ebûke fehûran bi-necâhike'l-kebîri!", "tr": "Baban büyük başarınla gurur duyacak!", "not": "Esmâ-i Hamse (أَبُوكَ merfû) + فَخُورًا (mansub)" },
+        { "ar": "كُونُوا صَادِقِينَ فِي أَقْوَالِكُمْ وَمُخْلِصِينَ فِي أَعْمَالِكُمْ!", "okunus": "Kûnû sâdikîne fî akvâlikum ve muhlisîne fî a‘mâlikum!", "tr": "Sözlerinizde doğru ve işlerinizde samimi olun!", "not": "Emir كُونُوا + çoğul mansub haber (صَادِقِينَ!)" }
+      ],
+      "tatbikler": [
+        { "id": "m21_g1_t01", "tip": "bosluk", "soru": "«كَانَ الْمُهَنْدِسُونَ ___ فِي الْمَشْرُوعِ.» — Kâne'nin doğru mansub haberi hangisidir?", "secenekler": ["مُتَعَاوِنِينَ", "مُتَعَاوِنُونَ", "مُتَعَاوِنَانِ", "مُتَعَاوِنًا"], "dogruIndeks": 0, "aciklama": "Cemi müzekker sâlim Kâne'nin haberi olunca yâ ile mansub olur: مُتَعَاوِنِينَ!" },
+        { "id": "m21_g1_t02", "tip": "bosluk", "soru": "«كَانَتِ الطَّالِبَاتُ ___ بِالنَّتِيجَةِ.» — Cemi müennes mansub haber hangisidir?", "secenekler": ["مَسْرُورَاتٍ", "مَسْرُورَاتٌ", "مَسْرُورَاتًا", "مَسْرُورِينَ"], "dogruIndeks": 0, "aciklama": "Cemi müennes sâlim kesra ile mansub olur: مَسْرُورَاتٍ!" },
+        { "id": "m21_g1_t03", "tip": "bosluk", "soru": "«كُنْ ___ عَلَى التَّعَلُّمِ كُلَّ يَوْمٍ!» — كُنْ emrinin mansub haberi hangisidir?", "secenekler": ["حَرِيصًا", "حَرِيصٌ", "حَرِيصٍ", "حَرِيصِينَ"], "dogruIndeks": 0, "aciklama": "كُنْ'un ismi gizli أَنْتَ, haberi açık fetha ile mansub: حَرِيصًا!" },
+        { "id": "m21_g1_t04", "tip": "bosluk", "soru": "«كَانَ الطَّالِبَانِ ___ بِالْمُسَابَقَةِ.» (İkil mansub haber)", "secenekler": ["فَائِزَيْنِ", "فَائِزَانِ", "فَائِزِينَ", "فَائِزًا"], "dogruIndeks": 0, "aciklama": "Tesniye haber yâ ile mansub olur: فَائِزَيْنِ!" },
+        { "id": "m21_g1_t05", "tip": "bosluk", "soru": "«كَانَ جَدِّي ___ خِبْرَةٍ وَاسِعَةٍ فِي الزِّرَاعَةِ.» (Esmâ-i Hamse haberi!)", "secenekler": ["ذَا", "ذُو", "ذِي", "ذَوُو"], "dogruIndeks": 0, "aciklama": "Esmâ-i Hamse Kâne'nin haberi olunca elifle mansub olur: ذَا!" },
+        { "id": "m21_g1_t06", "tip": "hata", "soru": "«سَيَكُونُ الْغَدُ يَوْمٌ جَمِيلٌ!» cümlesindeki hata nasıl düzeltilir?", "secenekler": ["يَوْمٌ جَمِيلٌ → يَوْمًا جَمِيلًا (سَيَكُونُ'nun haberi ve sıfatı mansubdur!)", "الْغَدُ → الْغَدَ", "سَيَكُونُ → كَانَ", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "يَكُونُ haberini nasbeder; sıfatı da habere uyarak mansub olur: يَوْمًا جَمِيلًا!" },
+        { "id": "m21_g1_t07", "tip": "donusturme", "soru": "«أَخُوكَ مُهَنْدِسٌ مَاهِرٌ.» cümlesinin başına «كَانَ» getirilirse nasıl olur?", "secenekler": ["كَانَ أَخُوكَ مُهَنْدِسًا مَاهِرًا.", "كَانَ أَخَاكَ مُهَنْدِسٌ مَاهِرٌ.", "كَانَ أَخِيكَ مُهَنْدِسًا مَاهِرًا.", "كَانَ أَخُوكَ مُهَنْدِسٌ مَاهِرٌ."], "dogruIndeks": 0, "aciklama": "أَخُوكَ (merfû, vâv!) + مُهَنْدِسًا مَاهِرًا (mansub)!" },
+        { "id": "m21_g1_t08", "tip": "tr_ar", "soru": "'Sözlerinizde doğru ve işlerinizde titiz olun!' (كُونُوا) hangisidir?", "secenekler": ["كُونُوا صَادِقِينَ فِي أَقْوَالِكُمْ وَدَقِيقِينَ فِي أَعْمَالِكُمْ!", "كُونُوا صَادِقُونَ وَدَقِيقُونَ!", "كُنْ صَادِقِينَ وَدَقِيقِينَ!", "كُونُوا صَادِقًا وَدَقِيقًا!"], "dogruIndeks": 0, "aciklama": "كُونُوا (و = isim) + صَادِقِينَ وَدَقِيقِينَ (çoğul mansub haberler)!" },
+        { "id": "m21_g1_t09", "tip": "bosluk", "soru": "«كُنْتُ مُسَافِرًا أَمْسِ.» cümlesinde Kâne'nin ismi hangisidir?", "secenekler": ["Sondaki «تُ» zamiri (mahallen merfû)", "مُسَافِرًا", "أَمْسِ", "Gizli هُوَ"], "dogruIndeks": 0, "aciklama": "تُ (Kâne'nin ismi), مُسَافِرًا (Kâne'nin mansub haberi)!" },
+        { "id": "m21_g1_t10", "tip": "bosluk", "soru": "«لَمْ يَكُنِ التَّمْرِينُ ___.» — Boşluğa uygun mansub haber hangisidir?", "secenekler": ["صَعْبًا", "صَعْبٌ", "صَعْبٍ", "صَعْبَةً"], "dogruIndeks": 0, "aciklama": "لَمْ يَكُنْ yine Kâne'nin meczum muzârisidir; haberi mansub olur: صَعْبًا!" }
+      ]
+    },
+    {
+      "id": "m21_g2",
+      "baslik": "Kâne'nin Kardeşleri: Dönüşüm (أَصْبَحَ / صَارَ), Süreklilik (مَا زَالَ / ظَلَّ / مَا دَامَ) & لَيْسَ",
+      "arBaslik": "أَخَوَاتُ «كَانَ» وَمَعَانِيهَا (التَّحَوُّلُ وَالِاسْتِمْرَارُ وَالنَّفْيُ)",
+      "mantik": "Kâne'nin ailesini tek tek ezberlemek yerine 4 anlam grubuna ayırarak 1 dakikada kavrayalım — hepsi **aynı Ref'–Nasb amelini** yapar:\n1) **Dönüşüm & Olma Grubu:** **`أَصْبَحَ`** (modern Arapçada 'sabahladı'nın ötesinde en çok **'... hâline geldi / oldu'** anlamında kullanılır!), **`صَارَ`** ('dönüştü / oldu': `صَارَ الْمَاءُ ثَلْجًا`), **`أَمْسَى`** (akşamladı / hâline geldi), **`بَاتَ`** (geceledi / artık ... hâline geldi — YDS'de `بَاتَ مِنْ الضَّرُورِيِّ` = 'artık zorunlu hâle geldi'!).\n2) **Süreklilik Grubu:** **`ظَلَّ`** (hep / gün boyu ... kaldı: `ظَلَّ الطَّالِبُ صَامِتًا`), **`مَا زَالَ / لَا يَزَالُ`** (**'hâlâ / hâlâ devam ediyor!'** — modern Arapçanın en yüksek frekanslı kardeşidir! Ayrıca eş anlamlıları: `مَا بَرِحَ، مَا فَتِئَ، مَا انْفَكَّ`).\n3) **Süre Şartı:** **`مَا دَامَ`** (**'... olduğu sürece / müddetçe'** — `سَأَدْرُسُ مَا دُمْتُ حَيًّا` = Yaşadığım sürece okuyacağım!).\n4) **Olumsuzluk:** **`لَيْسَ`** ('değildir' — vurgu için haberine harf-i cer `بِـ` eklenebilir: `لَيْسَ النَّجَاحُ بِمُسْتَحِيلٍ`!).",
+      "formul": "أَصْبَحَ / صَارَ / بَاتَ (Oldu) | ظَلَّ / مَا زَالَ / لَا يَزَالُ (Hâlâ) | مَا دَامَ (...-dığı sürece) | لَيْسَ (Değil) → Ref' + Nasb!",
+      "formulAr": "أَصْبَحَ التَّعْلِيمُ رَقْمِيًّا  |  مَا زَالَ الْأَمَلُ قَوِيًّا  |  مَا دُمْتَ مُجْتَهِدًا  |  لَيْسَ الْأَمْرُ بِصَعْبٍ",
+      "tablo": {
+        "baslik": "Kâne'nin En Önemli 8 Kardeşi ve Modern / YDS Anlamları",
+        "sutunlar": ["Kardeş Fiil", "Temel & Modern Anlam", "Örnek Cümle", "Türkçe Çeviri"],
+        "satirlar": [
+          { "hucreler": ["أَصْبَحَ — يُصْبِحُ", "Oldu / ... hâline geldi (En sık!)", "أَصْبَحَ الذَّكَاءُ الِاصْطِنَاعِيُّ مُهِمًّا.", "Yapay zekâ önemli hâle geldi."], "ar": "أَصْبَحَ الذَّكَاءُ الِاصْطِنَاعِيُّ مُهِمًّا." },
+          { "hucreler": ["صَارَ — يَصِيرُ", "Dönüştü / oldu", "صَارَ الطِّفْلُ شَابًّا نَاجِحًا.", "Çocuk başarılı bir genç oldu."], "ar": "صَارَ الطِّفْلُ شَابًّا نَاجِحًا." },
+          { "hucreler": ["بَاتَ — يَبِيتُ", "Geceledi / artık ... hâline geldi", "بَاتَ تَعَلُّمُ اللُّغَاتِ ضَرُورِيًّا.", "Dil öğrenmek artık zorunlu hâle geldi."], "ar": "بَاتَ تَعَلُّمُ اللُّغَاتِ ضَرُورِيًّا." },
+          { "hucreler": ["ظَلَّ — يَظَلُّ", "Hep / hâlâ ... kaldı", "ظَلَّ الصَّدِيقُ وَفِيًّا طَوَالَ حَيَاتِهِ.", "Dost tüm hayatı boyunca vefalı kaldı."], "ar": "ظَلَّ الصَّدِيقُ وَفِيًّا." },
+          { "hucreler": ["مَا زَالَ / لَا يَزَالُ", "Hâlâ (...-meye devam ediyor!)", "مَا زَالَ الْمُتْحَفُ مَفْتُوحًا لِلزُّوَّارِ.", "Müze hâlâ ziyaretçilere açıktır."], "ar": "مَا زَالَ الْمُتْحَفُ مَفْتُوحًا." },
+          { "hucreler": ["مَا دَامَ", "... olduğu sürece / müddetçe", "سَتَنْجَحُ مَا دُمْتَ مُثَابِرًا!", "Sebat ettiğin sürece başaracaksın!"], "ar": "سَتَنْجَحُ مَا دُمْتَ مُثَابِرًا!" },
+          { "hucreler": ["لَيْسَ (+ بِـ)", "Değildir (بِـ ile kuvvetli vurgu!)", "لَيْسَ النَّجَاحُ بِمُسْتَحِيلٍ.", "Başarı kesinlikle imkânsız değildir."], "ar": "لَيْسَ النَّجَاحُ بِمُسْتَحِيلٍ." }
+        ]
+      },
+      "trKiyas": "Çok önemli bir YDS anlam tuzağı! **`مَا زَالَ`** ve **`لَا يَزَالُ`** kelimelerinin başındaki `مَا / لَا` olumsuzluk harfi olduğu hâlde anlamı **OLUMLUDUR ('hâlâ!')** — çünkü `زَالَ` 'yok olmak, bitmek' demektir; 'bitmedi' = **'hâlâ devam ediyor!'** (`مَا زِلْتُ أَتَعَلَّمُ` = Hâlâ öğreniyorum!). İkinci altın nokta: `لَيْسَ` haberinin başına vurgu için zâid `بِـ` gelebilir (`لَيْسَ الْأَمْرُ بِسَهْلٍ`); bu durumda haber şeklen mecrûr ama mahallen **mansubdur**! Üçüncüsü: `مَا دَامَ` daima cümleyle bağlanır ('...-dığı sürece') ve çekimlenir (`مَا دُمْتُ / مَا دُمْتَ / مَا دَامُوا`)!",
+      "sikHatalar": [
+        "مَا زَالَ / لَا يَزَالُ kalıbını başındaki مَا/لَا yüzünden olumsuz çevirmek (✗ مَا زَالَ الْمَطَرُ يَنْزِلُ = 'Yağmur yağmıyor' → ✓ 'Yağmur HÂLÂ yağıyor!' — çift olumsuzluk = olumlu süreklilik!).",
+        "مَا زَالَ'nin şahıs çekimini unutmak (أَنَا: مَا زِلْتُ; نَحْنُ: مَا زِلْنَا; هِيَ: مَا زَالَتْ; هُمْ: مَا زَالُوا — ecvef!).",
+        "لَيْسَ'nin muzârisini veya emrini türetmeye çalışmak (لَيْسَ câmid / donuk fiildir, sadece mâzi kalıbında 14 şahsa çekilir: لَسْتُ، لَسْتَ، لَيْسُوا...)."
+      ],
+      "ornekler": [
+        { "ar": "أَصْبَحَتِ التِّكْنُولُوجْيَا جُزْءًا أَسَاسِيًّا مِنْ حَيَاتِنَا الْيَوْمِيَّةِ.", "okunus": "Asbehati't-tiknûlûcyâ cuz'en esâsiyyen min hayâtine'l-yevmiyyeti.", "tr": "Teknoloji günlük hayatımızın temel bir parçası hâline geldi.", "not": "أَصْبَحَتْ + merfû + mansub (جُزْءًا)" },
+        { "ar": "مَا زِلْتُ أَتَذَكَّرُ كَلِمَاتِ مُعَلِّمِي الْأَوَّلِ بِكُلِّ وُضُوحٍ!", "okunus": "Mâ ziltu etezekkeru kelimâti mu‘allimi'l-evveli bi-kulli vudûhin!", "tr": "İlk öğretmenimin sözlerini hâlâ tüm netliğiyle hatırlıyorum!", "not": "مَا زِلْتُ (1. tekil!) + fiil haber" },
+        { "ar": "لَا يَزَالُ الْعُلَمَاءُ يَبْحَثُونَ عَنْ عِلَاجٍ نِهَائِيٍّ لِهٰذَا الْمَرَضِ.", "okunus": "Lâ yezâlu'l-‘ulemâu yebhasûne ‘an ‘ilâcin nihâiyyin li-hâze'l-maradi.", "tr": "Bilim insanları bu hastalığa kesin bir tedavi aramaya hâlâ devam ediyorlar.", "not": "لَا يَزَالُ = hâlâ (YDS favorisi!)" },
+        { "ar": "لَنْ نَتَوَقَّفَ عَنِ التَّعَلُّمِ مَا دُمْنَا أَحْيَاءً!", "okunus": "Len netevakkafe ‘ani't-ta‘allumi mâ dumnâ ahyâen!", "tr": "Hayatta olduğumuz sürece öğrenmeyi asla bırakmayacağız!", "not": "مَا دُمْنَا (ـنَا isim) + أَحْيَاءً (mansub haber)" },
+        { "ar": "بَاتَ الْحِفَاظُ عَلَى الْبِيئَةِ مَسْؤُولِيَّةً مُشْتَرَكَةً بَيْنَ الْجَمِيعِ.", "okunus": "Bâte'l-hıfâzu ‘ale'l-bîeti mes'ûliyyeten muşteraketen beyne'l-cemî‘i.", "tr": "Çevreyi korumak artık herkes arasında ortak bir sorumluluk hâline geldi.", "not": "بَاتَ (modern basında 'artık ... oldu'!)" },
+        { "ar": "لَيْسَ الْفَشَلُ بِعَيْبٍ، بَلِ الْعَيْبُ أَلَّا تُحَاوِلَ مَرَّةً أُخْرَى!", "okunus": "Leyse'l-feşelu bi-‘aybin, beli'l-‘aybu ellâ tuhâvile merraten uhrâ!", "tr": "Başarısızlık kesinlikle ayıp değildir; aksine ayıp bir kez daha denememektir!", "not": "لَيْسَ + vurgulu زَائِد بِـ (بِعَيْبٍ)" }
+      ],
+      "tatbikler": [
+        { "id": "m21_g2_t01", "tip": "bosluk", "soru": "«مَا زَالَ الطُّلَّابُ ___ فِي قَاعَةِ الْمُطَالَعَةِ.» ('Öğrenciler hâlâ okuma salonunda hazırlar.')", "secenekler": ["مَوْجُودِينَ", "مَوْجُودُونَ", "مَوْجُودًا", "مَوْجُودَانِ"], "dogruIndeks": 0, "aciklama": "مَا زَالَ Kâne kardeşidir → çoğul haberi yâ ile mansub olur: مَوْجُودِينَ!" },
+        { "id": "m21_g2_t02", "tip": "bosluk", "soru": "«مَا زَالَ الْأَمَلُ حَيًّا.» cümlesinin doğru Türkçe anlamı nedir?", "secenekler": ["Umut hâlâ canlıdır (olumludur!)", "Umut canlı değildir", "Umut bitti", "Umut olmayacak"], "dogruIndeks": 0, "aciklama": "مَا زَالَ / لَا يَزَالُ = 'hâlâ' (olumlu süreklilik bildirir!)." },
+        { "id": "m21_g2_t03", "tip": "bosluk", "soru": "«سَأُسَاعِدُكَ ___ قَادِرًا عَلَى ذٰلِكَ.» ('Buna gücüm yettiği sürece sana yardım edeceğim.')", "secenekler": ["مَا دُمْتُ", "مَا دَامَ", "مَا دُمْتَ", "لَسْتُ"], "dogruIndeks": 0, "aciklama": "1. tekil şahıs ('ben olduğum sürece') → مَا دُمْتُ + mansub haber (قَادِرًا)!" },
+        { "id": "m21_g2_t04", "tip": "bosluk", "soru": "«أَصْبَحَ الْمَشْرُوعُ الصَّغِيرُ ___ كَبِيرَةً فِي خَمْسِ سَنَوَاتٍ.»", "secenekler": ["شَرِكَةً", "شَرِكَةٌ", "شَرِكَةٍ", "شَرِكَاتٌ"], "dogruIndeks": 0, "aciklama": "أَصْبَحَ haberini nasbeder: شَرِكَةً كَبِيرَةً!" },
+        { "id": "m21_g2_t05", "tip": "bosluk", "soru": "«لَيْسَ الْأَمْرُ بِسَهْلٍ.» cümlesinde «بِسَهْلٍ» haberinin başındaki «بِـ» ne işe yarar?", "secenekler": ["Olumsuzluğu pekiştiren zâid (vurgulu) harf-i cerdir ('hiç de kolay değildir!'); haber mahallen mansubdur", "Zaman bildirir", "Hatalı kullanımdır", "Fâil yapar"], "dogruIndeks": 0, "aciklama": "لَيْسَ haberinde zâid بِـ çok sık ve fasîh bir vurgu aracıdır!" },
+        { "id": "m21_g2_t06", "tip": "tr_ar", "soru": "'Kardeşlerimiz hâlâ yurtdışında okuyorlar.' (مَا زَالَ) hangisidir?", "secenekler": ["مَا زَالَ إِخْوَتُنَا يَدْرُسُونَ فِي الْخَارِجِ.", "مَا زَالُوا إِخْوَتُنَا يَدْرُسُ فِي الْخَارِجِ.", "لَيْسَ إِخْوَتُنَا يَدْرُسُونَ.", "مَا دَامَ إِخْوَتُنَا فِي الْخَارِجِ."], "dogruIndeks": 0, "aciklama": "Açık isimden önce مَا زَالَ tekil kalır, fiil haberde çoğul uyum gelir: مَا زَالَ إِخْوَتُنَا يَدْرُسُونَ!" },
+        { "id": "m21_g2_t07", "tip": "bosluk", "soru": "«صَارَ» ve modern basındaki «بَاتَ» kardeşlerinin ortak anlamı nedir?", "secenekler": ["Dönüşüm / '... hâline geldi / artık ... oldu'", "Yasaklama", "Soru sorma", "Sadece geceleme"], "dogruIndeks": 0, "aciklama": "صَارَ ve modern basında بَاتَ / أَصْبَحَ dönüşüm ('... hâline geldi') bildirir!" },
+        { "id": "m21_g2_t08", "tip": "hata", "soru": "«أَصْبَحْتُ أَنَا طَبِيبٌ بَعْدَ التَّخَرُّجِ.» cümlesindeki hata nasıl düzeltilir?", "secenekler": ["أَصْبَحْتُ طَبِيبًا بَعْدَ التَّخَرُّجِ.", "أَصْبَحَ أَنَا طَبِيبًا.", "أَصْبَحْتُ طَبِيبٍ.", "Hata yoktur."], "dogruIndeks": 0, "aciklama": "تُ zaten أَصْبَحَ'nin ismidir; haberi mansub olmalıdır: طَبِيبًا!" },
+        { "id": "m21_g2_t09", "tip": "bosluk", "soru": "«ظَلَّتِ الْمَكْتَبَةُ ___ طَوَالَ النَّهَارِ.» ('Kütüphane gün boyu açık kaldı.')", "secenekler": ["مَفْتُوحَةً", "مَفْتُوحَةٌ", "مَفْتُوحًا", "مَفْتُوحَةٍ"], "dogruIndeks": 0, "aciklama": "ظَلَّتْ + dişil merfû isim (الْمَكْتَبَةُ) + dişil mansub haber (مَفْتُوحَةً)!" },
+        { "id": "m21_g2_t10", "tip": "bosluk", "soru": "«مَا زِلْنَا نُحَاوِلُ» cümlesi hangi şahsa göredir ve anlamı nedir?", "secenekler": ["نَحْنُ (biz) — 'Hâlâ deniyoruz!'", "هُمْ — 'Denemediler'", "أَنَا — 'Denemiyorum'", "هُوَ — 'Denedi'"], "dogruIndeks": 0, "aciklama": "مَا زَالَ'nin نَحْنُ çekimi: مَا زِلْنَا ('biz hâlâ...')!" }
+      ]
+    },
+    {
+      "id": "m21_g3",
+      "baslik": "Birleşik Zamanlar: كَانَ + Muzâri (-yordu / -rdı) & كَانَ قَدْ + Mâzi (-mıştı)",
+      "arBaslik": "الْأَزْمِنَةُ الْمُرَكَّبَةُ: «كَانَ + الْمُضَارِعُ» وَ«كَانَ قَدْ + الْمَاضِي»",
+      "mantik": "Modül 09 ve 10'da tekil zamanları (`كَتَبَ` = yazdı, `يَكْتُبُ` = yazıyor/yazar, `سَيَكْتُبُ` = yazacak) öğrendik. Peki Türkçedeki hikâye ve miş'li geçmiş zamanlarını — **'yazıyordu / eskiden yazardı'** ve **'yazmıştı'** — Arapçada nasıl kurarız? İşte Kâne burada muhteşem bir zaman makinesine dönüşür!\n1) **Şimdiki / Geniş Zamanın Hikâyesi (`كَانَ + Muzâri`)**: Geçmişte devam eden bir eylemi ('çalışıyordu') veya geçmiş alışkanlığı ('eskiden her gün okurdu') anlatır: `كُنْتُ أَقْرَأُ حِينَ دَقَّ الْجَرَسُ` ('Zil çaldığında okuyordum'); `كَانَ جَدِّي يَزُورُنَا كُلَّ جُمُعَةٍ` ('Dedem her cuma bizi ziyaret ederdi').\n2) **Miş'li Geçmişin Hikâyesi (`كَانَ + قَدْ + Mâzi`)**: Geçmişte bir olaydan **daha önce** bitmiş olan eylemi ('-mıştı') anlatır: `عِنْدَمَا وَصَلْتُ، كَانَ الْقِطَارُ قَدْ غَادَرَ` ('Vardığımda tren çoktan ayrılmıştı!')!\n3) **Gelecekte Tamamlanmış Zaman (`سَيَكُونُ قَدْ + Mâzi`)**: 'Yarın bu saatte bitirmiş olacağım' (`سَأَكُونُ قَدْ أَنْهَيْتُ الْمَشْرُوعَ`)!",
+      "formul": "كَانَ + Muzâri = -yordu / -rdı  |  كَانَ قَدْ + Mâzi = -mıştı  |  سَيَكُونُ قَدْ + Mâzi = -mış olacak!",
+      "formulAr": "كُنْتُ أَدْرُسُ (Çalışıyordum)  |  كُنْتُ قَدْ دَرَسْتُ (Çalışmıştım)  |  سَأَكُونُ قَدْ دَرَسْتُ (Çalışmış olacağım)",
+      "tablo": {
+        "baslik": "Arapça Birleşik Zamanlar Tam Çekim & Kullanım Tablosu",
+        "sutunlar": ["Birleşik Zaman", "Formül", "Arapça Örnek", "Türkçe Tam Karşılık"],
+        "satirlar": [
+          { "hucreler": ["Şimdiki Hikâye (Devam)", "كَانَ + Muzâri", "كُنْتُ أَكْتُبُ الرِّسَالَةَ عِنْدَمَا اتَّصَلْتَ.", "Sen aradığında mektubu yazıyordum."], "ar": "كُنْتُ أَكْتُبُ الرِّسَالَةَ..." },
+          { "hucreler": ["Geçmiş Alışkanlık", "كَانَ + Muzâri", "كَانَ الطُّلَّابُ يَجْتَمِعُونَ فِي الْمَكْتَبَةِ.", "Öğrenciler kütüphanede toplanırlardı."], "ar": "كَانَ الطُّلَّابُ يَجْتَمِعُونَ." },
+          { "hucreler": ["Miş'li Geçmiş (-mıştı)", "كَانَ قَدْ + Mâzi", "لَمَّا وَصَلْنَا، كَانَ الْعَرْضُ قَدْ بَدَأَ.", "Vardığımızda sunum başlamıştı."], "ar": "كَانَ الْعَرْضُ قَدْ بَدَأَ." },
+          { "hucreler": ["Olumsuz -mamıştı", "لَمْ يَكُنْ قَدْ + Mâzi / كَانَ لَمْ + Meczum", "كُنْتُ لَمْ أَقْرَأْ هٰذَا الْكِتَابَ مِنْ قَبْلُ.", "Bu kitabı daha önce okumamıştım."], "ar": "لَمْ أَكُنْ قَدْ قَرَأْتُهُ." },
+          { "hucreler": ["Gelecekte Bitmiş", "سَيَكُونُ قَدْ + Mâzi", "غَدًا سَنَكُونُ قَدْ أَنْهَيْنَا الْمَشْرُوعَ.", "Yarın projeyi bitirmiş olacağız."], "ar": "سَنَكُونُ قَدْ أَنْهَيْنَا الْمَشْرُوعَ." },
+          { "hucreler": ["Edilgen Hikâye", "كَانَ + Muzâri Meçhul", "كَانَتِ الْكُتُبُ تُنْسَخُ بِالْيَدِ قَدِيمًا.", "Eskiden kitaplar elle çoğaltılırdı."], "ar": "كَانَتِ الْكُتُبُ تُنْسَخُ بِالْيَدِ." }
+        ]
+      },
+      "trKiyas": "Çok dikkat edilen bir uyum kuralı: Birleşik zamanlarda **hem `كَانَ` hem de ikinci fiil özneye uyar** (`كُنْتُ أَدْرُسُ` = çalışıyordum; `كُنَّا نَدْرُسُ` = çalışıyorduk; `كَانُوا قَدْ سَافَرُوا` = seyahat etmişlerdi)! Sadece açık özne `كَانَ` ile ikinci fiilin **arasına** girdiğinde `كَانَ` tekil kalır, ikinci fiil özneye uyar: `كَانَ الطُّلَّابُ يَدْرُسُونَ` ('Öğrenciler çalışıyorlardı') / `كَانَ الطُّلَّابُ قَدْ خَرَجُوا` ('Öğrenciler çıkmışlardı')!",
+      "sikHatalar": [
+        "İkinci fiilde şahıs uyumunu unutmak (✗ كُنْتُ يَدْرُسُ / كُنَّا أَدْرُسُ → ✓ كُنْتُ أَدْرُسُ / كُنَّا نَدْرُسُ!).",
+        "'-mıştı' için قَدْ'ı koymayı unutmak veya muzâriyle karıştırmak (كَانَ يَخْرُجُ = çıkıyordu; كَانَ قَدْ خَرَجَ = çıkmıştı!).",
+        "Açık çoğul özneden önce كَانَ'yi çoğul yapmak (✗ كَانُوا الطُّلَّابُ يَدْرُسُونَ → ✓ كَانَ الطُّلَّابُ يَدْرُسُونَ!)."
+      ],
+      "ornekler": [
+        { "ar": "كُنْتُ أُشَاهِدُ الْأَخْبَارَ حِينَ دَقَّ هَاتِفِي فَجْأَةً.", "okunus": "Kuntu uşâhidu'l-ahbâra hîne dakka hâtifî fec'eten.", "tr": "Telefonum aniden çaldığında haberleri izliyordum.", "not": "كُنْتُ أُشَاهِدُ (devam eden geçmiş)" },
+        { "ar": "كَانَ الْعُلَمَاءُ قَدِيمًا يُسَافِرُونَ أَشْهُرًا طَوِيلَةً لِطَلَبِ الْعِلْمِ.", "okunus": "Kâne'l-‘ulemâu kadîmen yusâfirûne eşhuran tavîleten li-talebi'l-‘ilmi.", "tr": "Eskiden âlimler ilim aramak için uzun aylar boyunca yolculuk yaparlardı.", "not": "Geçmiş alışkanlık (كَانَ + açık isim + çoğul muzâri)" },
+        { "ar": "عِنْدَمَا وَصَلْنَا إِلَى الْمَحَطَّةِ، كَانَ الْقِطَارُ قَدْ تَحَرَّكَ قَبْلَ دَقِيقَتَيْنِ!", "okunus": "‘İndemâ vasalnâ ile'l-mahattati, kâne'l-kitâru kad teharrake kable dakîkateyni!", "tr": "İstasyona vardığımızda tren iki dakika önce hareket etmişti!", "not": "كَانَ قَدْ + mâzi (-mıştı!)" },
+        { "ar": "لَمْ أَكُنْ أَعْرِفُ أَنَّ الْعَرَبِيَّةَ بِهٰذَا الْجَمَالِ قَبْلَ هٰذِهِ الدَّوْرَةِ!", "okunus": "Lem ekun a‘rifu enne'l-‘arabiyyete bi-hâze'l-cemâli kable hâzihi'd-devrati!", "tr": "Bu kurstan önce Arapçanın bu güzellikte olduğunu bilmiyordum!", "not": "لَمْ أَكُنْ أَعْرِفُ (bilmiyordum)" },
+        { "ar": "بِحُلُولِ نِهَايَةِ هٰذَا الشَّهْرِ، سَنَكُونُ قَدْ أَكْمَلْنَا الْمُسْتَوَى الثَّانِيَ!", "okunus": "Bi-hulûli nihâyeti hâze'ş-şehri, se-nekûnu kad ekmelne'l-musteve's-sâniye!", "tr": "Bu ayın sonu geldiğinde ikinci seviyeyi tamamlamış olacağız!", "not": "سَنَكُونُ قَدْ + mâzi (-mış olacağız!)" },
+        { "ar": "كَانَتِ الْبَاحِثَاتُ قَدْ جَمَعْنَ جَمِيعَ الْبَيَانَاتِ قَبْلَ الْمُؤْتَمَرِ.", "okunus": "Kâneti'l-bâhisâtu kad cema‘ne cemî‘a'l-beyânâti kable'l-mu'temeri.", "tr": "Kadın araştırmacılar konferanstan önce tüm verileri toplamışlardı.", "not": "Dişil çoğul -mıştı (كَانَتْ ... قَدْ جَمَعْنَ)" }
+      ],
+      "tatbikler": [
+        { "id": "m21_g3_t01", "tip": "tr_ar", "soru": "'Sen aradığında ben ders çalışıyordum.' (Şimdiki hikâye) hangisidir?", "secenekler": ["كُنْتُ أَدْرُسُ عِنْدَمَا اتَّصَلْتَ.", "كُنْتُ دَرَسْتُ عِنْدَمَا اتَّصَلْتَ.", "كُنْتُ يَدْرُسُ عِنْدَمَا اتَّصَلْتَ.", "كَانَ أَدْرُسُ عِنْدَمَا اتَّصَلْتَ."], "dogruIndeks": 0, "aciklama": "كُنْتُ + أَدْرُسُ (her iki fiil 1. tekil!) = 'çalışıyordum'!" },
+        { "id": "m21_g3_t02", "tip": "tr_ar", "soru": "'Vardığımızda toplantı çoktan bitmişti.' (Miş'li geçmiş) hangisidir?", "secenekler": ["عِنْدَمَا وَصَلْنَا، كَانَ الِاجْتِمَاعُ قَدِ انْتَهَى.", "عِنْدَمَا وَصَلْنَا، كَانَ الِاجْتِمَاعُ يَنْتَهِي.", "عِنْدَمَا وَصَلْنَا، سَيَكُونُ الِاجْتِمَاعُ انْتَهَى.", "عِنْدَمَا وَصَلْنَا، لَيْسَ الِاجْتِمَاعُ انْتَهَى."], "dogruIndeks": 0, "aciklama": "'-mıştı' = كَانَ + قَدْ + mâzi (كَانَ الِاجْتِمَاعُ قَدِ انْتَهَى)!" },
+        { "id": "m21_g3_t03", "tip": "bosluk", "soru": "«كَانَ الْأَطْفَالُ ___ فِي الْحَدِيقَةِ قَبْلَ الْمَطَرِ.» ('Çocuklar oynuyorlardı.')", "secenekler": ["يَلْعَبُونَ", "يَلْعَبُ", "لَعِبَ", "يَلْعَبْنَ"], "dogruIndeks": 0, "aciklama": "Açık isim الْأَطْفَالُ aradaysa كَانَ tekil, haber fiili çoğul olur: يَلْعَبُونَ!" },
+        { "id": "m21_g3_t04", "tip": "bosluk", "soru": "«لَمْ ___ أَعْلَمُ بِتَأْجِيلِ الْمَوْعِدِ.» ('Randevunun ertelendiğini bilmiyordum.')", "secenekler": ["أَكُنْ", "أَكُونُ", "كُنْتُ", "يَكُنْ"], "dogruIndeks": 0, "aciklama": "لَمْ + أَكُونُ (ecvef cezm!) → لَمْ أَكُنْ أَعْلَمُ!" },
+        { "id": "m21_g3_t05", "tip": "bosluk", "soru": "«سَنَكُونُ قَدْ ___ التَّقْرِيرَ غَدًا مَسَاءً.» ('Yarın akşam raporu bitirmiş olacağız.')", "secenekler": ["أَنْهَيْنَا", "نُنْهِي", "أَنْهَى", "أَنْهَيْتُ"], "dogruIndeks": 0, "aciklama": "سَنَكُونُ (نَحْنُ) + قَدْ + mâzi (نَحْنُ): أَنْهَيْنَا!" },
+        { "id": "m21_g3_t06", "tip": "bosluk", "soru": "«كَانَ أَخِي يَقْرَأُ» ile «كَانَ أَخِي قَدْ قَرَأَ» arasındaki zaman farkı nedir?", "secenekler": ["İlki 'okuyordu / okurdu', ikincisi 'okumuştu' demektir", "İkisi aynıdır", "İlki gelecek zamandır", "İkincisi şimdiki zamandır"], "dogruIndeks": 0, "aciklama": "كَانَ + muzâri = -yordu/-rdı; كَانَ قَدْ + mâzi = -mıştı!" },
+        { "id": "m21_g3_t07", "tip": "hata", "soru": "«كَانُوا الْمُهَنْدِسُونَ قَدْ أَكْمَلُوا التَّصْمِيمَ.» cümlesindeki uyum hatası nedir?", "secenekler": ["كَانُوا → كَانَ (açık isim الْمُهَنْدِسُونَ önde değil arkadaysa كَانَ tekil kalır!)", "الْمُهَنْدِسُونَ → الْمُهَنْدِسِينَ", "أَكْمَلُوا → أَكْمَلَ", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "Doğrusu: كَانَ الْمُهَنْدِسُونَ قَدْ أَكْمَلُوا (veya اَلْمُهَنْدِسُونَ كَانُوا قَدْ أَكْمَلُوا)!" },
+        { "id": "m21_g3_t08", "tip": "bosluk", "soru": "«كَانَتِ الْكُتُبُ ___ بِالْيَدِ قَبْلَ اخْتِرَاعِ الْمَطْبَعَةِ.» ('Elle yazılırdı' — edilgen hikâye!)", "secenekler": ["تُكْتَبُ", "تَكْتُبُ", "كُتِبَتْ", "يُكْتَبُ"], "dogruIndeks": 0, "aciklama": "الْكُتُبُ akılsız çoğul → كَانَتْ + dişil muzâri meçhul: تُكْتَبُ!" },
+        { "id": "m21_g3_t09", "tip": "donusturme", "soru": "«نَحْنُ نَسْكُنُ فِي قَرْيَةٍ هَادِئَةٍ.» cümlesini 'Eskiden sakin bir köyde otururduk' hâline çevirin:", "secenekler": ["كُنَّا نَسْكُنُ فِي قَرْيَةٍ هَادِئَةٍ.", "كُنْتُ نَسْكُنُ فِي قَرْيَةٍ هَادِئَةٍ.", "كَانَ نَسْكُنُ فِي قَرْيَةٍ هَادِئَةٍ.", "كُنَّا سَكَنَّا فِي قَرْيَةٍ."], "dogruIndeks": 0, "aciklama": "كُنَّا (نَحْنُ) + نَسْكُنُ (muzâri) = otururduk / oturuyorduk!" },
+        { "id": "m21_g3_t10", "tip": "bosluk", "soru": "«كَانَ الطَّالِبُ يَدْرُسُ.» cümlesinde «يَدْرُسُ» fiil cümlesinin i'rabı nedir?", "secenekler": ["Kâne'nin haberi, mahallen MANSUB!", "Kâne'nin haberi, mahallen merfû", "Sıfat", "Fâil"], "dogruIndeks": 0, "aciklama": "Kâne'nin haberi cümle veya şibh-i cümle olduğunda mahallen MANSUB olur!" }
+      ]
+    },
+    {
+      "id": "m21_g4",
+      "baslik": "Kâne'nin Haber Çeşitleri & Şibh-i Cümle Haberin Öne Geçmesi (كَانَ فِي الْبَيْتِ ضَيْفٌ)",
+      "arBaslik": "أَنْوَاعُ خَبَرِ «كَانَ» وَتَقْدِيمُ خَبَرِهَا الشِّبْهِ جُمْلَةِ",
+      "mantik": "Modül 20'de öğrendiğimiz 4 haber çeşidi (Müfred, İsim Cümlesi, Fiil Cümlesi, Şibh-i Cümle) Kâne ve Kardeşlerinin haberi olarak da aynen gelir; tek fark, cümle veya şibh-i cümle haberin artık mahallen merfû değil **mahallen MANSUB (`فِي مَحَلِّ نَصْبٍ`)** olmasıdır! Ve Modül 07'deki o meşhur 'var/yok' kuralı Kâne ailesinde de harikalar yaratır: Kâne'nin ismi **nekre**, haberi ise **şibh-i cümle** (`فِي / عِنْدَ / لِـ / هُنَاكَ`) olduğunda haber **öne geçer**, nekre isim ise **sonraya kalır ama MERFÛ olmaya devam eder**! Örnekler: **`كَانَ فِي الْمَدِينَةِ مَكْتَبَةٌ كَبِيرَةٌ`** ('Şehirde büyük bir kütüphane vardı'), **`كَانَ هُنَاكَ سُؤَالٌ مُهِمٌّ`** ('Önemli bir soru vardı'), **`لَيْسَ لَدَيْنَا وَقْتٌ كَافٍ`** ('Yeterli vaktimiz yok')!",
+      "formul": "كَانَ / لَيْسَ + [Öne Geçmiş Şibh-i Cümle Haber] + [Sona Kalmış MERFÛ İsim!] (Var idi / Yok!)",
+      "formulAr": "كَانَ فِي الْحَدِيقَةِ أَطْفَالٌ  |  كَانَ هُنَاكَ حَلٌّ سَهْلٌ  |  لَيْسَ عِنْدِي وَقْتٌ",
+      "tablo": {
+        "baslik": "Kâne & Leyse'de 4 Haber Türü + Öne Geçmiş 'Vardı / Yoktu' Kalıpları",
+        "sutunlar": ["Yapı", "Arapça Örnek", "İ'rab Analizi", "Türkçe Çeviri"],
+        "satirlar": [
+          { "hucreler": ["Müfred Haber", "كَانَ الْبَحْرُ هَادِئًا.", "هَادِئًا: Açık fetha ile mansub", "Deniz sakindi."], "ar": "كَانَ الْبَحْرُ هَادِئًا." },
+          { "hucreler": ["İsim Cümlesi Haber", "كَانَتِ الْمَدِينَةُ شَوَارِعُهَا نَظِيفَةً / نَظِيفَةٌ.", "شَوَارِعُهَا نَظِيفَةٌ: Mahallen mansub!", "Şehrin sokakları temizdi."], "ar": "كَانَتِ الْمَدِينَةُ شَوَارِعُهَا نَظِيفَةٌ." },
+          { "hucreler": ["Fiil Cümlesi Haber", "أَصْبَحَ الطُّلَّابُ يَتَحَدَّثُونَ الْعَرَبِيَّةَ.", "يَتَحَدَّثُونَ: Mahallen mansub", "Öğrenciler artık Arapça konuşuyorlar."], "ar": "أَصْبَحَ الطُّلَّابُ يَتَحَدَّثُونَ الْعَرَبِيَّةَ." },
+          { "hucreler": ["Öne Geçmiş Haber (فِي)", "كَانَ فِي الصَّفِّ عِشْرُونَ طَالِبًا.", "فِي الصَّفِّ (haber) + عِشْرُونَ (merfû isim!)", "Sınıfta yirmi öğrenci vardı."], "ar": "كَانَ فِي الصَّفِّ عِشْرُونَ طَالِبًا." },
+          { "hucreler": ["Öne Geçmiş Haber (عِنْدَ / لِـ)", "كَانَ عِنْدِي مَوْعِدٌ مُهِمٌّ أَمْسِ.", "عِنْدِي (haber) + مَوْعِدٌ (merfû isim!)", "Dün önemli bir randevum vardı."], "ar": "كَانَ عِنْدِي مَوْعِدٌ مُهِمٌّ." },
+          { "hucreler": ["لَيْسَ + Öne Geçmiş Haber", "لَيْسَ هُنَاكَ شَكٌّ فِي صِدْقِهِ!", "هُنَاكَ (haber) + شَكٌّ (merfû isim!)", "Onun doğruluğunda hiç şüphe yoktur!"], "ar": "لَيْسَ هُنَاكَ شَكٌّ فِي صِدْقِهِ!" }
+        ]
+      },
+      "trKiyas": "Çok yaygın bir sınav tuzağı: **`كَانَ هُنَاكَ مَشْكِلَةٌ / كَانَتْ هُنَاكَ مُشْكِلَةٌ`** ve **`لَيْسَ لَدَيْنَا وَقْتٌ`** cümlelerinde sona kalan `مُشْكِلَةٌ` ve `وَقْتٌ` kelimelerini öğrencilerin yarısı yanlışlıkla mansub (`مُشْكِلَةً / وَقْتًا`) okur! Oysa bunlar Kâne/Leyse'nin **haberi değil, sona kalmış İSMİDİR** — yani **MERFÛ** (`مُشْكِلَةٌ / وَقْتٌ / شَكٌّ / أَمَلٌ`) olmak zorundadır! Haberi ise öndeki `هُنَاكَ / لَدَيْنَا / فِي الْبَيْتِ` şibh-i cümlesidir!",
+      "sikHatalar": [
+        "Öne geçmiş haberli Kâne/Leyse cümlesinde sona kalan ismi mansub yapmak (✗ كَانَ فِي الْبَيْتِ ضَيْفًا / لَيْسَ عِنْدِي وَقْتًا → ✓ كَانَ فِي الْبَيْتِ ضَيْفٌ / لَيْسَ عِنْدِي وَقْتٌ!).",
+        "İsim cümlesi haberin içindeki 2. haberi yanlışlıkla mansub yapmak (✗ كَانَتِ الْحَدِيقَةُ أَشْجَارُهَا عَالِيَةً → ✓ كَانَتِ الْحَدِيقَةُ أَشْجَارُهَا عَالِيَةٌ — bütün isim cümlesi mahallen mansubdur, iç ögeler kendi içinde merfû kalır!).",
+        "لَيْسَ هُنَاكَ kalıbında çoğul/ikil ismi mansub yazmak (✗ لَيْسَ هُنَاكَ مُشْكِلَاتٍ → ✓ لَيْسَ هُنَاكَ مُشْكِلَاتٌ — merfû!)."
+      ],
+      "ornekler": [
+        { "ar": "كَانَ فِي قَرْيَتِنَا مَسْجِدٌ قَدِيمٌ وَمَدْرَسَةٌ صَغِيرَةٌ.", "okunus": "Kâne fî karyetinâ mescidun kadîmun ve medresetun sagîratun.", "tr": "Köyümüzde eski bir cami ve küçük bir okul vardı.", "not": "Öne geçmiş haber (فِي قَرْيَتِنَا) + merfû isim (مَسْجِدٌ)!" },
+        { "ar": "لَيْسَ لَدَيْنَا وَقْتٌ كَافٍ لِلتَّرَدُّدِ، فَلْنَبْدَأِ الْآنَ!", "okunus": "Leyse ledeynâ vaktun kâfin li't-tereddudi, fel-nebdei'l-âne!", "tr": "Tereddüt etmek için yeterli vaktimiz yok, haydi şimdi başlayalım!", "not": "لَدَيْنَا (haber) + وَقْتٌ (merfû isim!)" },
+        { "ar": "كَانَتْ هُنَاكَ عَقَبَاتٌ كَثِيرَةٌ، وَلٰكِنَّنَا تَغَلَّبْنَا عَلَيْهَا.", "okunus": "Kânet hunâke ‘akabâtun kesîratun, ve lâkinnenâ tegallebnâ ‘aleyhâ.", "tr": "Pek çok engel vardı, ancak onların üstesinden geldik.", "not": "هُنَاكَ (haber) + عَقَبَاتٌ (merfû isim!)" },
+        { "ar": "لَيْسَ هُنَاكَ شَكٌّ فِي أَنَّ الِاجْتِهَادَ يُثْمِرُ نَجَاحًا!", "okunus": "Leyse hunâke şekkun fî enne'l-ictihâde yusmiru necâhan!", "tr": "Gayretin başarı meyvesi verdiğinde hiç şüphe yoktur!", "not": "لَيْسَ هُنَاكَ شَكٌّ (YDS kalıbı!)" },
+        { "ar": "مَا زَالَ أَمَامَنَا فُرْصَةٌ ذَهَبِيَّةٌ لِلتَّعْوِيضِ!", "okunus": "Mâ zâle emâmenâ fursatun zehebiyyetun li't-ta‘vîdi!", "tr": "Telafi etmek için önümüzde hâlâ altın bir fırsat var!", "not": "أَمَامَنَا (haber) + فُرْصَةٌ (merfû isim!)" },
+        { "ar": "كَانَتِ الْمَكْتَبَةُ رُفُوفُهَا مَلِيئَةٌ بِالْمَخْطُوطَاتِ النَّادِرَةِ.", "okunus": "Kâneti'l-mektebetu rufûfuhâ melîetun bi'l-mahtûtâti'n-nâdirati.", "tr": "Kütüphanenin rafları nadir el yazmalarıyla doluydu.", "not": "İsim cümlesi haber (رُفُوفُهَا مَلِيئَةٌ — mahallen mansub!)" }
+      ],
+      "tatbikler": [
+        { "id": "m21_g4_t01", "tip": "bosluk", "soru": "«كَانَ فِي الْقَاعَةِ ___ مِنْ مُخْتَلِفِ الدُّوَلِ.» — Sona kalmış Kâne'nin ismi hangisidir?", "secenekler": ["مُشَارِكُونَ", "مُشَارِكِينَ", "مُشَارِكًا", "مُشَارِكَيْنِ"], "dogruIndeks": 0, "aciklama": "فِي الْقَاعَةِ öne geçmiş haberdir; boşluk Kâne'nin MERFÛ ismidir: مُشَارِكُونَ!" },
+        { "id": "m21_g4_t02", "tip": "bosluk", "soru": "«لَيْسَ عِنْدِي ___ الْيَوْمَ لِلنُّزْهَةِ.» ('Bugün gezinti için vaktim yok.')", "secenekler": ["وَقْتٌ", "وَقْتًا", "وَقْتٍ", "الْوَقْتَ"], "dogruIndeks": 0, "aciklama": "عِنْدِي öne geçmiş haber, وَقْتٌ sona kalmış MERFÛ isimdir!" },
+        { "id": "m21_g4_t03", "tip": "hata", "soru": "«كَانَ هُنَاكَ خَطَأً بَسِيطًا فِي التَّقْرِيرِ.» cümlesindeki yaygın hata nasıl düzeltilir?", "secenekler": ["خَطَأً بَسِيطًا → خَطَأٌ بَسِيطٌ (Kâne'nin sona kalmış merfû ismidir!)", "هُنَاكَ → هُنَا", "التَّقْرِيرِ → التَّقْرِيرُ", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "هُنَاكَ zarfı öne geçmiş haberdir; خَطَأٌ بَسِيطٌ merfû isimdir!" },
+        { "id": "m21_g4_t04", "tip": "bosluk", "soru": "«لَيْسَ لِلنَّجَاحِ طَرِيقٌ سَهْلٌ بِلَا تَعَبٍ.» cümlesinde «لَيْسَ»'nin ismi ve haberi hangisidir?", "secenekler": ["İsmi: طَرِيقٌ (merfû) — Haberi: لِلنَّجَاحِ (öne geçmiş şibh-i cümle)", "İsmi: لِلنَّجَاحِ — Haberi: طَرِيقٌ", "İsmi: تَعَبٍ — Haberi: سَهْلٌ", "İsmi yoktur"], "dogruIndeks": 0, "aciklama": "Şibh-i cümle (لِلنَّجَاحِ) öne geçmiş haber, nekre merfû (طَرِيقٌ) isimdir!" },
+        { "id": "m21_g4_t05", "tip": "bosluk", "soru": "«كَانَتِ الْحَدِيقَةُ أَشْجَارُهَا ___.» — İsim cümlesi haberin içindeki 2. haber hangisidir?", "secenekler": ["عَالِيَةٌ (2. mübtedânın merfû haberi; tüm cümle mahallen mansub!)", "عَالِيَةً", "عَالِيًا", "عَالِيَةٍ"], "dogruIndeks": 0, "aciklama": "أَشْجَارُهَا عَالِيَةٌ kendi içinde merfû+merfû isim cümlesidir; bütün hâlinde mahallen mansubdur!" },
+        { "id": "m21_g4_t06", "tip": "tr_ar", "soru": "'Önümüzde hâlâ iki büyük fırsat var.' (مَا زَالَ + tesniye!) hangisidir?", "secenekler": ["مَا زَالَ أَمَامَنَا فُرْصَتَانِ كَبِيرَتَانِ.", "مَا زَالَ أَمَامَنَا فُرْصَتَيْنِ كَبِيرَتَيْنِ.", "مَا زَالَتْ أَمَامَنَا فُرْصَتَيْنِ.", "لَيْسَ أَمَامَنَا فُرْصَتَانِ."], "dogruIndeks": 0, "aciklama": "أَمَامَنَا öne geçmiş haber; فُرْصَتَانِ كَبِيرَتَانِ merfû (elif!) isimdir!" },
+        { "id": "m21_g4_t07", "tip": "bosluk", "soru": "«لَيْسَ هُنَاكَ ___ فِي أَهَمِّيَّةِ التَّعْلِيمِ.» ('Eğitimin öneminde hiç şüphe yoktur.')", "secenekler": ["شَكٌّ", "شَكًّا", "شَكٍّ", "الشَّكَّ"], "dogruIndeks": 0, "aciklama": "لَيْسَ هُنَاكَ + merfû nekre isim (شَكٌّ)!" },
+        { "id": "m21_g4_t08", "tip": "bosluk", "soru": "«أَصْبَحَ لِلتِّقْنِيَّةِ دَوْرٌ كَبِيرٌ فِي التَّعْلِيمِ.» cümlesinde «دَوْرٌ» neden dammelidir?", "secenekler": ["أَصْبَحَ'nin sona kalmış merfû ismi olduğu için (لِلتِّقْنِيَّةِ öne geçmiş haberdir!)", "Haber olduğu için", "Fâil olduğu için", "Sıfat olduğu için"], "dogruIndeks": 0, "aciklama": "أَصْبَحَ + şibh-i cümle haber (لِلتِّقْنِيَّةِ) + merfû isim (دَوْرٌ)!" },
+        { "id": "m21_g4_t09", "tip": "bosluk", "soru": "«كَانَ فِي الْمَدِينَةِ أَخُوكَ أَمْ أَبُوكَ؟» cümlesinde neden «أَخُوكَ» (vâv!) gelmiştir?", "secenekler": ["Kâne'nin sona kalmış merfû ismi olduğu için vâv ile ref' olmuştur", "Haber olduğu için", "Mecrûr olduğu için", "Mansub olduğu için"], "dogruIndeks": 0, "aciklama": "فِي الْمَدِينَةِ haber, أَخُوكَ merfû (vâv) isimdir!" },
+        { "id": "m21_g4_t10", "tip": "donusturme", "soru": "«فِي الْحَقِيبَةِ كِتَابَانِ جَدِيدَانِ.» cümlesinin başına «كَانَ» getirilirse nasıl olur?", "secenekler": ["كَانَ فِي الْحَقِيبَةِ كِتَابَانِ جَدِيدَانِ.", "كَانَ فِي الْحَقِيبَةِ كِتَابَيْنِ جَدِيدَيْنِ.", "كَانَا فِي الْحَقِيبَةِ كِتَابَانِ.", "كَانَ كِتَابَيْنِ فِي الْحَقِيبَةِ."], "dogruIndeks": 0, "aciklama": "Şibh-i cümle haber (فِي الْحَقِيبَةِ) mahallen mansub, كِتَابَانِ جَدِيدَانِ merfû kalır!" }
+      ]
+    },
+    {
+      "id": "m21_g5",
+      "baslik": "Tâm Kâne (كَانَ التَّامَّةُ) & YDS Akademik Kâne Kalıpları (مَهْمَا يَكُنْ / سَوَاءٌ أَكَانَ)",
+      "arBaslik": "«كَانَ» التَّامَّةُ وَالتَّعَابِيرُ الْأَكَادِيمِيَّةُ («سَوَاءٌ أَكَانَ... أَمْ» / «مَهْمَا يَكُنْ»)",
+      "mantik": "Kâne ailesiyle ilgili son ama en yüksek seviye sır şudur: `كَانَ` ve bazı kardeşleri (`أَصْبَحَ، أَمْسَى، بَاتَ، ظَلَّ، مَا دَامَ`) bazen **'var oldu / meydana geldi / bulundu'** anlamında normal, **Tâm (Tam) Fiil** olarak kullanılır! O zaman mansub haber İSTEMEZ; tıpkı `جَاءَ / ذَهَبَ` gibi sadece **merfû bir FÂİL** alır! Bakın: `اِتَّقِ اللّٰهَ حَيْثُمَا كُنْتَ` ('Nerede bulunursan bulun Allah'tan sakın!'), `اِجْتَهِدْ فَيَكُونَ النَّجَاحُ` ('Çalış ki başarı gerçekleşsin!'), `خَالِدِينَ فِيهَا مَا دَامَتِ السَّمَاوَاتُ وَالْأَرْضُ` ('Gökler ve yer var oldukça...'). Ayrıca YDS/YÖKDİL'de altın gibi parlayan 3 kalıp: (1) **`سَوَاءٌ أَكَانَ ... أَمْ ...`** ('İster ... olsun ister ... olsun'), (2) **`مَهْمَا يَكُنْ / مَهْمَا كَانَتِ الظُّرُوفُ`** ('Koşullar her ne olursa olsun'), (3) **`كَمَا كَانَ مُتَوَقَّعًا`** ('Beklendiği gibi')!",
+      "formul": "Tâm Kâne = 'Var oldu / gerçekleşti' (Sadece Merfû Fâil!) | سَوَاءٌ أَكَانَ ... أَمْ | مَهْمَا كَانَ",
+      "formulAr": "اِتَّقِ اللّٰهَ حَيْثُمَا كُنْتَ (تَامَّةٌ!)  |  سَوَاءٌ أَكَانَ صَغِيرًا أَمْ كَبِيرًا  |  مَهْمَا كَانَتِ الصُّعُوبَاتُ",
+      "tablo": {
+        "baslik": "Tâm Kâne vs. Nâkıs Kâne + YDS Yüksek Frekanslı Kâne Kalıpları",
+        "sutunlar": ["Kalıp / Tür", "Örnek Cümle", "Gramer Notu", "Türkçe Çeviri"],
+        "satirlar": [
+          { "hucreler": ["Tâm Kâne (Gerçekleşmek)", "تَعَاوَنَ الْفَرِيقُ فَكَانَ النَّجَاحُ.", "النَّجَاحُ: Merfû Fâil (Haber yok!)", "Ekip yardımlaştı ve başarı gerçekleşti."], "ar": "تَعَاوَنَ الْفَرِيقُ فَكَانَ النَّجَاحُ." },
+          { "hucreler": ["Tâm مَا دَامَ (Var olmak)", "سَأُحَافِظُ عَلَى وَعْدِي مَا دَامَتِ الْحَيَاةُ.", "الْحَيَاةُ: Merfû Fâil!", "Hayat var oldukça sözümü tutacağım."], "ar": "مَا دَامَتِ الْحَيَاةُ." },
+          { "hucreler": ["سَوَاءٌ أَكَانَ ... أَمْ", "نَحْتَرِمُ الْجَمِيعَ سَوَاءٌ أَكَانَ غَنِيًّا أَمْ فَقِيرًا.", "YDS #1 eşitlik bağlacı!", "İster zengin ister fakir olsun herkese saygı duyarız."], "ar": "سَوَاءٌ أَكَانَ غَنِيًّا أَمْ فَقِيرًا." },
+          { "hucreler": ["مَهْمَا كَانَتْ / يَكُنْ", "سَنُوَاصِلُ الْعَمَلَ مَهْمَا كَانَتِ التَّحَدِّيَاتُ.", "التَّحَدِّيَاتُ: Tâm Kâne fâili!", "Zorluklar her ne olursa olsun çalışmaya devam edeceğiz."], "ar": "مَهْمَا كَانَتِ التَّحَدِّيَاتُ." },
+          { "hucreler": ["لَا بُدَّ أَنْ يَكُونَ", "لَا بُدَّ أَنْ يَكُونَ الْحَلُّ عَادِلًا.", "Kesin gereklilik + mansub haber", "Çözümün mutlaka adil olması gerekir."], "ar": "لَا بُدَّ أَنْ يَكُونَ الْحَلُّ عَادِلًا." },
+          { "hucreler": ["كَمَا كَانَ مُتَوَقَّعًا", "نَجَحَ الْمُؤْتَمَرُ كَمَا كَانَ مُتَوَقَّعًا.", "مُتَوَقَّعًا: Mansub haber!", "Konferans beklendiği gibi başarılı oldu."], "ar": "كَمَا كَانَ مُتَوَقَّعًا." }
+        ]
+      },
+      "trKiyas": "YDS ve YÖKDİL sınavlarının bağlaç sorularında **`سَوَاءٌ أَكَانَ ... أَمْ ...`** ('İster ... olsun ister ...') kalıbını gördüğünüzde ikinci boşluğa mutlaka **`أَمْ`** (asla `أَوْ` değil!) koyun! Aynı şekilde **`مَهْمَا كَانَتِ الظُّرُوفُ`** ('Koşullar her ne olursa olsun') ve **`لَوْ كَانَ ... لَـ...`** ('Eğer ... olsaydı') yapıları metin anlama ve çeviride çok sık karşınıza çıkar!",
+      "sikHatalar": [
+        "سَوَاءٌ أَكَانَ ... kalıbında ikinci bağlaç olarak أَمْ yerine أَوْ seçmek (✗ سَوَاءٌ أَكَانَ قَرِيبًا أَوْ بَعِيدًا → ✓ سَوَاءٌ أَكَانَ قَرِيبًا أَمْ بَعِيدًا — Fasîh ve YDS'de أَمْ!).",
+        "Tâm Kâne'nin fâilini nâkıs Kâne'nin haberi sanıp mansub yapmak (✗ تَعَاوَنُوا فَكَانَ النَّجَاحَ → ✓ تَعَاوَنُوا فَكَانَ النَّجَاحُ — merfû fâil!).",
+        "مَهْمَا يَكُنْ ... ifadesinde şart cezmini unutmak (يَكُونُ → يَكُنْ — ecvef cezm!)."
+      ],
+      "ornekler": [
+        { "ar": "اِتَّقِ اللّٰهَ حَيْثُمَا كُنْتَ، وَأَتْبِعِ السَّيِّئَةَ الْحَسَنَةَ تَمْحُهَا!", "okunus": "İttakıllâhe haysumâ kunte, ve etbi‘i's-seyyiete'l-hasenete temhuhâ!", "tr": "Nerede olursan ol Allah'tan sakın ve kötülüğün ardından onu silecek bir iyilik yap!", "not": "Tâm Kâne (حَيْثُمَا كُنْتَ = nerede bulunursan!)" },
+        { "ar": "فَسُبْحَانَ اللّٰهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ!", "okunus": "Fe-subhânallâhi hîne tumsûne ve hîne tusbihûne!", "tr": "Akşama erdiğinizde ve sabaha kavuştuğunuzda Allah'ı tesbih edin!", "not": "Tâm أَمْسَى & أَصْبَحَ (Rûm 17 — haber yok!)" },
+        { "ar": "يَسْتَفِيدُ مِنْ هٰذِهِ الدَّوْرَةِ الْجَمِيعُ، سَوَاءٌ أَكَانُوا مُبْتَدِئِينَ أَمْ مُتَقَدِّمِينَ.", "okunus": "Yestefîdu min hâzihi'd-devrati'l-cemî‘u, sevâun e-kânû mubtediîne em mutekaddimîne.", "tr": "İster yeni başlayan ister ileri düzeyde olsunlar, herkes bu kurstan faydalanır.", "not": "سَوَاءٌ أَكَانُوا ... أَمْ + mansub haberler!" },
+        { "ar": "لَنْ نَتَخَلَّى عَنْ أَحْلَامِنَا مَهْمَا كَانَتِ الْعَقَبَاتُ!", "okunus": "Len netehallâ ‘an ahlâminâ mehmâ kâneti'l-‘akabâtu!", "tr": "Engeller her ne olursa olsun hayallerimizden asla vazgeçmeyeceğiz!", "not": "مَهْمَا كَانَتْ + Tâm fâil (الْعَقَبَاتُ)" },
+        { "ar": "مَهْمَا يَكُنِ السَّبَبُ، فَلَا يَجُوزُ التَّأَخُّرُ عَنِ الْمَوْعِدِ الرَّسْمِيِّ.", "okunus": "Mehmâ yekuni's-sebebu, fe-lâ yecûzu't-teahhur ‘ani'l-mev‘idi'r-resmiyyi.", "tr": "Sebep her ne olursa olsun resmî randevuya geç kalmak caiz (uygun) değildir.", "not": "مَهْمَا يَكُنْ (ecvef cezm + Tâm fâil!)" },
+        { "ar": "جَاءَتْ نَتَائِجُ التَّجْرِبَةِ دَقِيقَةً كَمَا كَانَ مُتَوَقَّعًا!", "okunus": "Câet netâicu't-tecribeti dakîkaten kemâ kâne mutevakka‘an!", "tr": "Deneyin sonuçları beklendiği gibi kesin geldi!", "not": "كَمَا كَانَ مُتَوَقَّعًا (akademik kalıp)" }
+      ],
+      "tatbikler": [
+        { "id": "m21_g5_t01", "tip": "bosluk", "soru": "«اَلنِّظَامُ يَشْمَلُ الْجَمِيعَ سَوَاءٌ أَكَانَ طَالِبًا ___ مُعَلِّمًا.» — YDS bağlaç eşleşmesi hangisidir?", "secenekler": ["أَمْ", "وَلٰكِنْ", "بَلْ", "ثُمَّ"], "dogruIndeks": 0, "aciklama": "سَوَاءٌ أَكَانَ ... أَمْ ('ister ... ister ...') kesin YDS eşleşmesidir!" },
+        { "id": "m21_g5_t02", "tip": "bosluk", "soru": "«بَذَلَ الْفَرِيقُ جُهْدًا كَبِيرًا فَكَانَ ___.» (Tâm Kâne: 'Böylece zafer gerçekleşti!')", "secenekler": ["النَّصْرُ (merfû fâil!)", "النَّصْرَ", "النَّصْرِ", "نَصْرًا"], "dogruIndeks": 0, "aciklama": "Tâm Kâne ('gerçekleşti') sadece merfû fâil alır: فَكَانَ النَّصْرُ!" },
+        { "id": "m21_g5_t03", "tip": "bosluk", "soru": "«مَهْمَا ___ الظُّرُوفُ، فَلَا تَيْأَسْ!» ('Koşullar her ne olursa olsun...')", "secenekler": ["كَانَتِ / تَكُنِ", "يَكُونُ", "كَانَ", "تَكُونُ"], "dogruIndeks": 0, "aciklama": "الظُّرُوفُ akılsız çoğuldur → dişil mâzi كَانَتِ (veya meczum تَكُنِ) gelir!" },
+        { "id": "m21_g5_t04", "tip": "bosluk", "soru": "«اِتَّقِ اللّٰهَ حَيْثُمَا كُنْتَ.» hadisindeki «كُنْتَ» fiili nâkıs mı tâm mıdır?", "secenekler": ["Tâm Kâne ('bulunmak / var olmak' anlamında — تَ fâildir, haber gerekmez!)", "Nâkıs Kâne (haberi eksiktir)", "Meçhul fiildir", "İsimdir"], "dogruIndeks": 0, "aciklama": "حَيْثُمَا كُنْتَ = 'Nerede bulunursan bulun' → Tâm Kâne!" },
+        { "id": "m21_g5_t05", "tip": "tr_ar", "soru": "'Sonuçlar beklendiği gibi sevindirici geldi.' (كَمَا كَانَ مُتَوَقَّعًا) hangisidir?", "secenekler": ["جَاءَتِ النَّتَائِجُ سَارَّةً كَمَا كَانَ مُتَوَقَّعًا.", "جَاءَتِ النَّتَائِجُ سَارَّةً كَمَا كَانَ مُتَوَقَّعٌ.", "جَاءَ النَّتَائِجُ كَمَا يَكُنْ مُتَوَقَّعًا.", "جَاءَتِ النَّتَائِجُ لَيْسَ مُتَوَقَّعًا."], "dogruIndeks": 0, "aciklama": "كَمَا كَانَ مُتَوَقَّعًا (مُتَوَقَّعًا Kâne'nin mansub haberidir!)." },
+        { "id": "m21_g5_t06", "tip": "bosluk", "soru": "«نَجَحَ الطُّلَّابُ سَوَاءٌ أَكَانُوا فِي الصَّفِّ الْأَوَّلِ أَمِ الثَّانِي.» cümlesinde «أَكَانُوا»'daki «أَ» nedir?", "secenekler": ["سَوَاءٌ ile birlikte kullanılan tesviye (eşitlik) hemzesi ('ister ... ister')", "Soru cümlesi", "Olumsuzluk harfi", "Nidâ harfi"], "dogruIndeks": 0, "aciklama": "سَوَاءٌ + أَ (tesviye hemzesi) ... أَمْ = 'ister ... ister ...'!" },
+        { "id": "m21_g5_t07", "tip": "bosluk", "soru": "«أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلّٰهِ.» duasında ilk «أَصْبَحْنَا» neden Tâm fiildir?", "secenekler": ["'Sabaha kavuştuk' anlamında tam eylem bildirir, mansub haber almaz!", "Çünkü haberi vardır", "Çünkü meçhuldür", "Çünkü isimdir"], "dogruIndeks": 0, "aciklama": "أَصْبَحْنَا = 'Sabaha ulaştık' (Tâm fiil, نَا fâildir!)." },
+        { "id": "m21_g5_t08", "tip": "hata", "soru": "«مَهْمَا يَكُونُ الثَّمَنُ، سَأَشْتَرِي هٰذَا الْمُعْجَمَ.» cümlesindeki cezm hatası nedir?", "secenekler": ["يَكُونُ → يَكُنِ (مَهْمَا şart ismidir, muzâriyi cezmeder!)", "الثَّمَنُ → الثَّمَنَ", "سَأَشْتَرِي → اِشْتَرَيْتُ", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "مَهْمَا + meczum ecvef: مَهْمَا يَكُنِ الثَّمَنُ!" },
+        { "id": "m21_g5_t09", "tip": "bosluk", "soru": "«لَا بُدَّ أَنْ يَكُونَ الْعَمَلُ ___.» ('İşin düzenli olması şarttır.')", "secenekler": ["مُنَظَّمًا", "مُنَظَّمٌ", "مُنَظَّمٍ", "مُنَظَّمِينَ"], "dogruIndeks": 0, "aciklama": "أَنْ يَكُونَ (mansub nâkıs) + الْعَمَلُ (merfû isim) + مُنَظَّمًا (mansub haber)!" },
+        { "id": "m21_g5_t10", "tip": "bosluk", "soru": "«خَالِدِينَ فِيهَا مَا دَامَتِ السَّمَاوَاتُ وَالْأَرْضُ.» ayetinde «السَّمَاوَاتُ» neden fâildir?", "secenekler": ["مَا دَامَتْ burada 'bâki kaldıkça / var oldukça' anlamında Tâm fiildir!", "Çünkü mansub haber vardır", "Çünkü mef'ûlün bihdir", "Çünkü sıfattır"], "dogruIndeks": 0, "aciklama": "Hûd 107 — Tâm مَا دَامَ'nin en meşhur örneğidir!" }
+      ]
+    }
+  ],
+  "workshop": {
+    "motors": [
+      {
+        "id": "m21_mot1",
+        "baslik": "Kalıp 1: Kâne & Kardeşleri Ref'–Nasb Makinesi",
+        "aciklama": "Nâkıs fiili ve uyumlu merfû isim + mansub haber çiftini birleştirin.",
+        "slotlar": [
+          {
+            "etiket": "Nâkıs Fiil",
+            "secenekler": [
+              { "ar": "كَانَ", "tr": "... idi (Geçmiş)" },
+              { "ar": "أَصْبَحَ", "tr": "... hâline geldi" },
+              { "ar": "صَارَ", "tr": "...-e dönüştü" },
+              { "ar": "ظَلَّ", "tr": "Hep ... kaldı" },
+              { "ar": "مَا زَالَ", "tr": "Hâlâ ...-dir" },
+              { "ar": "لَيْسَ", "tr": "... değildir" }
+            ]
+          },
+          {
+            "etiket": "Merfû İsim + Mansub Haber",
+            "secenekler": [
+              { "ar": "الْجَوُّ مُعْتَدِلًا وَمُشْمِسًا الْيَوْمَ.", "tr": "hava bugün ılıman ve güneşli." },
+              { "ar": "الطَّالِبَانِ مُجْتَهِدَيْنِ فِي دُرُوسِهِمَا.", "tr": "iki öğrenci derslerinde çalışkan." },
+              { "ar": "الْمُهَنْدِسُونَ مُتَعَاوِنِينَ فِي الْمَشْرُوعِ.", "tr": "mühendisler projede yardımlaşan." },
+              { "ar": "الْكِتَابُ مُفِيدًا وَشَيِّقًا لِلْقُرَّاءِ.", "tr": "kitap okuyucular için faydalı ve sürükleyici." },
+              { "ar": "التَّعْلِيمُ الرَّقْمِيُّ جُزْءًا أَسَاسِيًّا مِنْ حَيَاتِنَا.", "tr": "dijital eğitim hayatımızın temel bir parçası." },
+              { "ar": "الْأَمَلُ قَوِيًّا فِي قُلُوبِ الْمُجْتَهِدِينَ.", "tr": "umut çalışkanların kalplerinde güçlü." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m21_mot2",
+        "baslik": "Kalıp 2: Birleşik Zaman Makinesi (كَانَ + Muzâri vs. كَانَ قَدْ + Mâzi)",
+        "aciklama": "Geçmiş devamlılık ('-yordu') ve miş'li geçmiş ('-mıştı') cümleleri üretin.",
+        "slotlar": [
+          {
+            "etiket": "Zaman Bağlamı",
+            "secenekler": [
+              { "ar": "عِنْدَمَا وَصَلْتُ إِلَى الْمَحَطَّةِ،", "tr": "İstasyona vardığımda," },
+              { "ar": "عِنْدَمَا دَقَّ جَرَسُ الْبَابِ،", "tr": "Kapı zili çaldığında," },
+              { "ar": "فِي طُفُولَتِنَا الْجَمِيلَةِ،", "tr": "Güzel çocukluğumuzda," },
+              { "ar": "قَبْلَ أَنْ يَبْدَأَ الْمُؤْتَمَرُ،", "tr": "Konferans başlamadan önce," },
+              { "ar": "حِينَ نَزَلَ الْمَطَرُ فَجْأَةً،", "tr": "Yağmur aniden yağdığında," },
+              { "ar": "بِحُلُولِ نِهَايَةِ هٰذَا الْعَامِ،", "tr": "Bu yılın sonu geldiğinde," }
+            ]
+          },
+          {
+            "etiket": "Birleşik Zamanlı Ana Cümle",
+            "secenekler": [
+              { "ar": "كَانَ الْقِطَارُ قَدْ غَادَرَ قَبْلَ دَقَائِقَ.", "tr": "tren birkaç dakika önce ayrılmıştı." },
+              { "ar": "كُنْتُ أَقْرَأُ كِتَابًا شَيِّقًا فِي الصَّالَةِ.", "tr": "salonda sürükleyici bir kitap okuyordum." },
+              { "ar": "كُنَّا نَلْعَبُ فِي حَدِيقَةِ الْجَدِّ كُلَّ صَيْفٍ.", "tr": "her yaz dedenin bahçesinde oynardık." },
+              { "ar": "كَانَ الْبَاحِثُونَ قَدْ أَعَدُّوا عُرُوضَهُمْ كَامِلَةً.", "tr": "araştırmacılar sunumlarını tamamen hazırlamışlardı." },
+              { "ar": "كُنَّا نَمْشِي عَلَى شَاطِئِ الْبَحْرِ مَعًا.", "tr": "birlikte deniz kıyısında yürüyorduk." },
+              { "ar": "سَنَكُونُ قَدْ أَتْقَنَّا قَوَاعِدَ النَّحْوِ بِإِذْنِ اللّٰهِ.", "tr": "inşallah nahiv kurallarında ustalaşmış olacağız." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m21_mot3",
+        "baslik": "Kalıp 3: Öne Geçmiş Şibh-i Cümle Haber ('Vardı / Hâlâ Var / Yok')",
+        "aciklama": "Sona kalan ismin MERFÛ olduğunu hissederek 'vardı / yok' cümleleri üretin.",
+        "slotlar": [
+          {
+            "etiket": "Nâkıs Fiil + Öne Geçmiş Haber",
+            "secenekler": [
+              { "ar": "كَانَ فِي الْمَدِينَةِ", "tr": "Şehirde ... vardı" },
+              { "ar": "كَانَ هُنَاكَ", "tr": "Orada ... vardı" },
+              { "ar": "مَا زَالَ أَمَامَنَا", "tr": "Önümüzde hâlâ ... var" },
+              { "ar": "لَيْسَ لَدَيْنَا", "tr": "Bizim ... yok" },
+              { "ar": "أَصْبَحَ لِلتِّقْنِيَّةِ", "tr": "Teknolojinin ... oldu" },
+              { "ar": "لَمْ يَكُنْ هُنَاكَ", "tr": "Orada ... yoktu" }
+            ]
+          },
+          {
+            "etiket": "Sona Kalmış MERFÛ İsim!",
+            "secenekler": [
+              { "ar": "مَكْتَبَةٌ تَارِيخِيَّةٌ عَرِيقَةٌ.", "tr": "köklü bir tarihî kütüphane." },
+              { "ar": "فُرْصَةٌ ذَهَبِيَّةٌ لِلتَّعَلُّمِ وَالتَّطَوُّرِ.", "tr": "öğrenme ve gelişim için altın bir fırsat." },
+              { "ar": "وَقْتٌ كَافٍ لِإِنْجَازِ الْمَشْرُوعِ.", "tr": "projeyi tamamlamak için yeterli vakit." },
+              { "ar": "شَكٌّ فِي صِدْقِ كَلَامِكَ أَبَدًا.", "tr": "sözünün doğruluğunda asla bir şüphe." },
+              { "ar": "دَوْرٌ كَبِيرٌ فِي تَسْهِيلِ التَّعْلِيمِ.", "tr": "eğitimi kolaylaştırmada büyük bir rol." },
+              { "ar": "عَقَبَاتٌ تَمْنَعُنَا مِنَ التَّقَدُّمِ.", "tr": "ilerlememizi engelleyen engeller." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m21_mot4",
+        "baslik": "Kalıp 4: مَا دَامَ ('...-dığı sürece') & مَا زَالَ ('Hâlâ') Motoru",
+        "aciklama": "Süreklilik ve koşul bağlamında güçlü motivasyon cümleleri üretin.",
+        "slotlar": [
+          {
+            "etiket": "Ana Yargı",
+            "secenekler": [
+              { "ar": "سَتَصِلُ إِلَى هَدَفِكَ", "tr": "Hedefine ulaşacaksın" },
+              { "ar": "لَنْ تَشْعُرَ بِالْيَأْسِ", "tr": "Umutsuzluk hissetmeyeceksin" },
+              { "ar": "سَيَحْتَرِمُكَ الْجَمِيعُ", "tr": "Herkes sana saygı duyacak" },
+              { "ar": "اَلْأُسْرَةُ تَبْقَى سَعِيدَةً", "tr": "Aile mutlu kalır" },
+              { "ar": "لَنْ تَضِيعَ جُهُودُكَ", "tr": "Emeklerin asla boşa gitmeyecek" },
+              { "ar": "سَنُوَاصِلُ التَّعَاوُنَ مَعًا", "tr": "Birlikte iş birliğini sürdüreceğiz" }
+            ]
+          },
+          {
+            "etiket": "مَا دَامَ + Mansub Haber",
+            "secenekler": [
+              { "ar": "مَا دُمْتَ مُجْتَهِدًا وَمُثَابِرًا!", "tr": "çalışkan ve sebatkâr olduğun sürece!" },
+              { "ar": "مَا دَامَ الْأَمَلُ حَيًّا فِي قَلْبِكَ!", "tr": "umut kalbinde canlı olduğu sürece!" },
+              { "ar": "مَا دُمْتَ صَادِقًا وَأَمِينًا مَعَ النَّاسِ!", "tr": "insanlara karşı dürüst ve güvenilir olduğun sürece!" },
+              { "ar": "مَا دَامَ الِاحْتِرَامُ سَائِدًا بَيْنَ أَفْرَادِهَا!", "tr": "fertleri arasında saygı hâkim olduğu sürece!" },
+              { "ar": "مَا دُمْتَ تَعْمَلُ بِإِخْلَاصٍ وَإِتْقَانٍ!", "tr": "samimiyet ve ustalıkla çalıştığın sürece!" },
+              { "ar": "مَا دُمْنَا مُتَّفِقِينَ عَلَى خِدْمَةِ الْخَيْرِ!", "tr": "hayra hizmette hemfikir olduğumuz sürece!" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m21_mot5",
+        "baslik": "Kalıp 5: لَيْسَ + Vurgulu بِـ (Zâid Bâ) Motoru",
+        "aciklama": "لَيْسَ ile güçlü ve edebî olumsuzluk cümleleri kurun.",
+        "slotlar": [
+          {
+            "etiket": "لَيْسَ + Merfû İsim",
+            "secenekler": [
+              { "ar": "لَيْسَ النَّجَاحُ الْكَبِيرُ", "tr": "Büyük başarı ... değildir" },
+              { "ar": "لَيْسَ تَعَلُّمُ الْعَرَبِيَّةِ", "tr": "Arapça öğrenmek ... değildir" },
+              { "ar": "لَيْسَ الصَّبْرُ عَلَى الصُّعُوبَاتِ", "tr": "Zorluklara sabretmek ... değildir" },
+              { "ar": "لَسْتُ أَنَا", "tr": "Ben ... değilim" },
+              { "ar": "لَيْسَتِ الْحَقِيقَةُ", "tr": "Hakikat ... değildir" },
+              { "ar": "لَيْسَ الْوَقْتُ الْبَاقِي", "tr": "Kalan vakit ... değildir" }
+            ]
+          },
+          {
+            "etiket": "بِـ + Mecrûr Şekilli (Mahallen Mansub!) Haber",
+            "secenekler": [
+              { "ar": "بِمُسْتَحِيلٍ عَلَى مَنْ يَجْتَهِدُ!", "tr": "çalışan kimse için kesinlikle imkânsız!" },
+              { "ar": "بِصَعْبٍ إِذَا دَرَسْتَهُ بِانْتِظَامٍ!", "tr": "düzenli çalışırsan hiç de zor!" },
+              { "ar": "بِضَعْفٍ، بَلْ هُوَ قُوَّةٌ عَظِيمَةٌ!", "tr": "asla zayıflık, bilakis büyük bir güçtür!" },
+              { "ar": "بِغَاضِبٍ مِنْكَ، بَلْ أُرِيدُ مَصْلَحَتَكَ!", "tr": "sana hiç kızgın, aksine iyiliğini istiyorum!" },
+              { "ar": "بِخَافِيَةٍ عَلَى أَصْحَابِ الْبَصِيرَةِ!", "tr": "basiret sahiplerine asla gizli!" },
+              { "ar": "بِقَلِيلٍ إِذَا نَظَّمْنَا خُطَّتَنَا جَيِّدًا!", "tr": "planımızı iyi düzenlersek hiç de az!" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m21_mot6",
+        "baslik": "Kalıp 6: YDS Bağlaçları (سَوَاءٌ أَكَانَ ... أَمْ & مَهْمَا كَانَتْ)",
+        "aciklama": "YDS ve YÖKDİL sınavlarının en çok puan getiren Kâne kalıplarını üretin.",
+        "slotlar": [
+          {
+            "etiket": "Ana Cümle",
+            "secenekler": [
+              { "ar": "نُعَامِلُ الْجَمِيعَ بِاحْتِرَامٍ وَعَدْلٍ،", "tr": "Herkese saygı ve adaletle davranırız," },
+              { "ar": "يَنْفَعُ هٰذَا الدَّلِيلُ كُلَّ قَارِئٍ،", "tr": "Bu rehber her okura fayda sağlar," },
+              { "ar": "سَنُوَاصِلُ بَحْثَنَا الْعِلْمِيَّ بِثَبَاتٍ،", "tr": "Bilimsel araştırmamızı kararlılıkla sürdüreceğiz," },
+              { "ar": "نَتَمَسَّكُ بِالصِّدْقِ وَالْأَمَانَةِ دَائِمًا،", "tr": "Doğruluk ve güvenilirliğe daima sarılırız," },
+              { "ar": "اَلْكِتَابُ صَدِيقٌ وَفِيٌّ لِلْإِنْسَانِ،", "tr": "Kitap insan için vefalı bir dosttur," },
+              { "ar": "سَتُثْمِرُ جُهُودُكَ فِي النِّهَايَةِ،", "tr": "Çabaların sonunda meyve verecektir," }
+            ]
+          },
+          {
+            "etiket": "سَوَاءٌ أَكَانَ ... أَمْ / مَهْمَا كَانَتْ",
+            "secenekler": [
+              { "ar": "سَوَاءٌ أَكَانَ صَغِيرًا أَمْ كَبِيرًا.", "tr": "ister küçük ister büyük olsun." },
+              { "ar": "سَوَاءٌ أَكَانَ مُبْتَدِئًا أَمْ مُتَقَدِّمًا.", "tr": "ister yeni başlayan ister ileri düzeyde olsun." },
+              { "ar": "مَهْمَا كَانَتِ التَّحَدِّيَاتُ وَالْعَقَبَاتُ!", "tr": "zorluklar ve engeller her ne olursa olsun!" },
+              { "ar": "مَهْمَا كَانَتِ الظُّرُوفُ صَعْبَةً!", "tr": "koşullar ne kadar zor olursa olsun!" },
+              { "ar": "سَوَاءٌ أَكَانَ وَرَقِيًّا أَمْ رَقْمِيًّا.", "tr": "ister basılı ister dijital olsun." },
+              { "ar": "مَهْمَا يَكُنِ الطَّرِيقُ طَوِيلًا!", "tr": "yol ne kadar uzun olursa olsun!" }
+            ]
+          }
+        ]
+      }
+    ],
+    "merdivenler": [
+      {
+        "id": "m21_lad1",
+        "baslik": "A1 → B2 Merdiveni: İsim Cümlesinden Kâne & Kardeşlerine Yükseliş",
+        "adimlar": [
+          { "seviye": "A1", "ar": "كَانَ الدَّرْسُ سَهْلًا.", "okunus": "Kâne'd-dersu sehlen.", "tr": "Ders kolaydı.", "ekleme": "Kâne + ref' + nasb" },
+          { "seviye": "A1+", "ar": "أَصْبَحَتِ اللُّغَةُ الْعَرَبِيَّةُ سَهْلَةً وَمُمْتِعَةً.", "okunus": "Asbehati'l-lugatu'l-‘arabiyyetu sehleten ve mumti‘aten.", "tr": "Arapça kolay ve keyifli hâle geldi.", "ekleme": "أَصْبَحَتْ (dönüşüm!)" },
+          { "seviye": "A2", "ar": "كَانَ الطُّلَّابُ قَلِقِينَ فِي الْبِدَايَةِ، ثُمَّ أَصْبَحُوا وَاثِقِينَ بِأَنْفُسِهِمْ.", "okunus": "Kâne't-tullâbu kalikîne fi'l-bidâyeti, summe asbehû vâsikîne bi-enfusihim.", "tr": "Öğrenciler başlangıçta endişeliydiler, sonra kendilerine güvenir hâle geldiler.", "ekleme": "Cemi müzekker mansub haberler (قَلِقِينَ / وَاثِقِينَ)" },
+          { "seviye": "B1", "ar": "مَا زَالَ التَّعْلِيمُ الْجَيِّدُ رَكِيزَةً أَسَاسِيَّةً لِتَقَدُّمِ الْأُمَمِ، وَلَيْسَ هُنَاكَ بَدِيلٌ عَنْهُ مَهْمَا تَطَوَّرَتِ الْآلَاتُ.", "okunus": "Mâ zâle't-ta‘lîmu'l-ceyyidu rakîzeten esâsiyyeten li-tekaddumi'l-umemi, ve leyse hunâke bedîlun ‘anhu mehmâ tetavvarati'l-âlâtu.", "tr": "İyi eğitim hâlâ milletlerin ilerlemesinin temel direğidir ve makineler ne kadar gelişirse gelişsin onun alternatifi yoktur.", "ekleme": "مَا زَالَ + لَيْسَ هُنَاكَ (merfû بَدِيلٌ!)" },
+          { "seviye": "B2", "ar": "بَاتَ مِنْ غَيْرِ الْمُمْكِنِ تَجَاهُلُ أَثَرِ الذَّكَاءِ الِاصْطِنَاعِيِّ، سَوَاءٌ أَكَانَ ذٰلِكَ فِي التَّعْلِيمِ أَمْ فِي الصِّنَاعَةِ أَمْ فِي الطِّبِّ.", "okunus": "Bâte min gayri'l-mumkini tecâhulu eseri'z-zekâi'l-istınâ‘iyyi, sevâun e-kâne zâlike fi't-ta‘lîmi em fi's-sınâ‘ati em fi't-tıbbi.", "tr": "İster eğitimde ister sanayide ister tıpta olsun, yapay zekânın etkisini görmezden gelmek artık imkânsız hâle gelmiştir.", "ekleme": "بَاتَ + öne geçmiş haber (مِنْ غَيْرِ الْمُمْكِنِ) + سَوَاءٌ أَكَانَ ... أَمْ!" }
+        ]
+      },
+      {
+        "id": "m21_lad2",
+        "baslik": "A1 → B2 Merdiveni: Birleşik Zamanlarla Hikâye Anlatımı",
+        "adimlar": [
+          { "seviye": "A1", "ar": "كُنْتُ أَقْرَأُ.", "okunus": "Kuntu ekrau.", "tr": "Okuyordum.", "ekleme": "كَانَ + muzâri" },
+          { "seviye": "A1+", "ar": "كُنْتُ أَقْرَأُ فِي الْمَكْتَبَةِ عِنْدَمَا اتَّصَلَ أَخِي.", "okunus": "Kuntu ekrau fi'l-mektebeti ‘indema'ttesale ahî.", "tr": "Kardeşim aradığında kütüphanede okuyordum.", "ekleme": "Zaman bağlacı + geçmiş devamlılık" },
+          { "seviye": "A2", "ar": "لَمَّا وَصَلْتُ إِلَى الْمَطَارِ، كَانَتِ الطَّائِرَةُ قَدْ أَقْلَعَتْ قَبْلَ عَشْرِ دَقَائِقَ.", "okunus": "Lemmâ vasaltu ile'l-matâri, kâneti't-tâiratu kad akle‘at kable ‘aşri dekâika.", "tr": "Havaalanına vardığımda uçak on dakika önce kalkmıştı.", "ekleme": "كَانَتْ قَدْ + mâzi (-mıştı!)" },
+          { "seviye": "B1", "ar": "كَانَ الْأَطِبَّاءُ قَدِيمًا يَعْتَمِدُونَ عَلَى الْأَعْشَابِ الطَّبِيعِيَّةِ، وَكَانَتْ وَصَفَاتُهُمْ تُنْقَلُ مِنْ جِيلٍ إِلَى جِيلٍ.", "okunus": "Kâne'l-etıbbâu kadîmen ya‘temidûne ‘ale'l-a‘şâbi't-tabî‘iyyeti, ve kânet vasafâtuhum tunkalu min cîlin ilâ cîlin.", "tr": "Eskiden hekimler doğal bitkilere dayanırlardı ve reçeteleri nesilden nesile aktarılırdı.", "ekleme": "Etken + edilgen geçmiş alışkanlık!" },
+          { "seviye": "B2", "ar": "بِحُلُولِ عَامِ أَلْفَيْنِ وَثَلَاثِينَ، سَتَكُونُ مُعْظَمُ الْمُدُنِ الْكُبْرَى قَدِ انْتَقَلَتْ إِلَى أَنْظِمَةِ النَّقْلِ الْكَهْرَبَائِيِّ الصَّدِيقِ لِلْبِيئَةِ.", "okunus": "Bi-hulûli ‘âmi elfeyni ve selâsîne, se-tekûnu mu‘zamu'l-muduni'l-kubrâ kadi'ntekalet ilâ enzımeti'n-nakli'l-kehrubâiyyi's-sadîkı li'l-bîeti.", "tr": "2030 yılı geldiğinde büyük şehirlerin çoğu çevre dostu elektrikli ulaşım sistemlerine geçmiş olacaktır.", "ekleme": "سَتَكُونُ قَدْ + mâzi (gelecekte tamamlanmış — YDS B2!)" }
+        ]
+      },
+      {
+        "id": "m21_lad3",
+        "baslik": "A1 → B2 Merdiveni: مَا دَامَ ve مَا زَالَ ile Kararlılık",
+        "adimlar": [
+          { "seviye": "A1", "ar": "مَا زِلْتُ أَتَعَلَّمُ.", "okunus": "Mâ ziltu ete‘allemu.", "tr": "Hâlâ öğreniyorum.", "ekleme": "مَا زِلْتُ (olumlu süreklilik!)" },
+          { "seviye": "A1+", "ar": "سَأَتَعَلَّمُ مَا دُمْتُ حَيًّا.", "okunus": "Se-ete‘allemu mâ dumtu hayyen.", "tr": "Yaşadığım sürece öğreneceğim.", "ekleme": "مَا دُمْتُ + mansub haber" },
+          { "seviye": "A2", "ar": "مَا زَالَ أَمَامَنَا وَقْتٌ كَافٍ، وَلَنْ نَيْأَسَ مَا دُمْنَا نَتَعَاوَنُ مَعًا!", "okunus": "Mâ zâle emâmenâ vaktun kâfin, ve len ney'ese mâ dumnâ nete‘âvenu me‘an!", "tr": "Önümüzde hâlâ yeterli vakit var ve birlikte yardımlaştığımız sürece asla umutsuzluğa kapılmayacağız!", "ekleme": "Öne geçmiş haberli مَا زَالَ + مَا دُمْنَا!" },
+          { "seviye": "B1", "ar": "لَا يَزَالُ الْبَاحِثُونَ يُطَوِّرُونَ طُرُقًا جَدِيدَةً لِتَحْلِيَةِ مِيَاهِ الْبَحْرِ، مَا دَامَتِ الْحَاجَةُ إِلَى الْمِيَاهِ الْعَذْبَةِ تَزْدَادُ يَوْمًا بَعْدَ يَوْمٍ.", "okunus": "Lâ yezâlu'l-bâhisûne yutavvirûne turukan cedîdeten li-tahliyeti miyâhi'l-bahri, mâ dâmeti'l-hâcetu ile'l-miyâhi'l-‘azbeti tezdâdu yevmen ba‘de yevmin.", "tr": "Tatlı suya ihtiyaç günden güne arttığı sürece araştırmacılar deniz suyunu arıtmanın yeni yollarını geliştirmeye hâlâ devam etmektedirler.", "ekleme": "لَا يَزَالُ + مَا دَامَتْ (YÖKDİL Fen!)" },
+          { "seviye": "B2", "ar": "سَتَظَلُّ اللُّغَةُ الْعَرَبِيَّةُ حَيَّةً وَمُتَجَدِّدَةً مَا دَامَتِ الْأَجْيَالُ تَقْرَأُ تُرَاثَهَا وَتُبْدِعُ بِهَا فِي مَيَادِينِ الْعِلْمِ وَالْأَدَبِ!", "okunus": "Se-tezallu'l-lugatu'l-‘arabiyyetu hayyeten ve muteceddideden mâ dâmeti'l-ecyâlu takrau turâsehâ ve tubdi‘u bihâ fî meyâdîni'l-‘ilmi ve'l-edebi!", "tr": "Nesiller mirasını okuyup onunla bilim ve edebiyat alanlarında eser ürettiği sürece Arapça canlı ve yenilenen bir dil olarak kalacaktır!", "ekleme": "سَتَظَلُّ + مَا دَامَتْ + fiil haberi!" }
+        ]
+      },
+      {
+        "id": "m21_lad4",
+        "baslik": "A1 → B2 Merdiveni: لَيْسَ ve Vurgulu بِـ ile Etkili İfade",
+        "adimlar": [
+          { "seviye": "A1", "ar": "لَيْسَ الْأَمْرُ صَعْبًا.", "okunus": "Leyse'l-emru sa‘ben.", "tr": "İş zor değildir.", "ekleme": "لَيْسَ + mansub haber" },
+          { "seviye": "A1+", "ar": "لَيْسَ الْأَمْرُ بِصَعْبٍ عَلَى الْمُجْتَهِدِ.", "okunus": "Leyse'l-emru bi-sa‘bin ‘ale'l-muctehidi.", "tr": "İş çalışkan kimseye hiç de zor değildir.", "ekleme": "Zâid بِـ vurgusu!" },
+          { "seviye": "A2", "ar": "لَيْسَ الْعِلْمُ مَا حُفِظَ، إِنَّمَا الْعِلْمُ مَا نَفَعَ!", "okunus": "Leyse'l-‘ilmu mâ hufıza, inneme'l-‘ilmu mâ nefe‘a!", "tr": "İlim ezberlenen şey değildir; ilim ancak fayda veren şeydir!", "ekleme": "İmam Şâfiî'nin sözü (لَيْسَ + مَا mevsûl!)" },
+          { "seviye": "B1", "ar": "لَيْسَ هُنَاكَ نَجَاحٌ حَقِيقِيٌّ بِلَا صَبْرٍ، وَلَسْنَا بِعَاجِزِينَ عَنْ تَحْقِيقِ أَهْدَافِنَا إِذَا عَمِلْنَا بِخُطَّةٍ وَاضِحَةٍ.", "okunus": "Leyse hunâke necâhun hakîkiyyun bi-lâ sabrin, ve lesnâ bi-‘âcizîne ‘an tahkîkı ehdâfinâ izâ ‘amilnâ bi-huttatin vâdihatin.", "tr": "Sabır olmadan gerçek bir başarı yoktur ve net bir planla çalışırsak hedeflerimizi gerçekleştirmekten hiç de aciz değiliz.", "ekleme": "لَيْسَ هُنَاكَ + لَسْنَا بِعَاجِزِينَ!" },
+          { "seviye": "B2", "ar": "لَيْسَ الْغِنَى بِكَثْرَةِ الْعَرَضِ، وَلٰكِنَّ الْغِنَى غِنَى النَّفْسِ، وَلَا يَزَالُ هٰذَا الْمَبْدَأُ مِيزَانًا لِلسَّعَادَةِ فِي كُلِّ عَصْرٍ.", "okunus": "Leyse'l-gınâ bi-kesrati'l-‘aradi, ve lâkinne'l-gınâ gıne'n-nefsi, ve lâ yezâlu hâze'l-mebdeu mîzânen li's-sa‘âdeti fî kulli ‘asrin.", "tr": "Zenginlik mal çokluğuyla değildir, aksine gerçek zenginlik gönül zenginliğidir; ve bu ilke her çağda mutluluğun ölçüsü olmaya hâlâ devam etmektedir.", "ekleme": "Hadis-i şerif + لَا يَزَالُ akademik sentezi!" }
+        ]
+      }
+    ],
+    "bloklar": [
+      { "id": "m21_b01", "hedefAr": "كَانَ الْجَوُّ جَمِيلًا وَمُعْتَدِلًا أَمْسِ", "tr": "Dün hava güzel ve ılımandı.", "karisik": ["أَمْسِ", "الْجَوُّ", "كَانَ", "وَمُعْتَدِلًا", "جَمِيلًا"] },
+      { "id": "m21_b02", "hedefAr": "كَانَ الْمُهَنْدِسُونَ مُتَعَاوِنِينَ فِي الْمَشْرُوعِ", "tr": "Mühendisler projede yardımlaşmaktaydılar.", "karisik": ["الْمَشْرُوعِ", "مُتَعَاوِنِينَ", "كَانَ", "فِي", "الْمُهَنْدِسُونَ"] },
+      { "id": "m21_b03", "hedefAr": "كَانَتِ الطَّالِبَاتُ مَسْرُورَاتٍ بِالنَّتِيجَةِ", "tr": "Kız öğrenciler sonuçtan mutluydular.", "karisik": ["بِالنَّتِيجَةِ", "الطَّالِبَاتُ", "كَانَتِ", "مَسْرُورَاتٍ"] },
+      { "id": "m21_b04", "hedefAr": "أَصْبَحَ التَّعْلِيمُ الرَّقْمِيُّ جُزْءًا أَسَاسِيًّا", "tr": "Dijital eğitim temel bir parça hâline geldi.", "karisik": ["أَسَاسِيًّا", "الرَّقْمِيُّ", "أَصْبَحَ", "جُزْءًا", "التَّعْلِيمُ"] },
+      { "id": "m21_b05", "hedefAr": "مَا زَالَ الْأَمَلُ قَوِيًّا فِي قُلُوبِنَا", "tr": "Umut kalplerimizde hâlâ güçlüdür.", "karisik": ["قُلُوبِنَا", "قَوِيًّا", "مَا", "فِي", "الْأَمَلُ", "زَالَ"] },
+      { "id": "m21_b06", "hedefAr": "سَتَنْجَحُ مَا دُمْتَ مُجْتَهِدًا وَصَبُورًا", "tr": "Çalışkan ve sabırlı olduğun sürece başaracaksın.", "karisik": ["وَصَبُورًا", "دُمْتَ", "سَتَنْجَحُ", "مُجْتَهِدًا", "مَا"] },
+      { "id": "m21_b07", "hedefAr": "لَيْسَ النَّجَاحُ بِمُسْتَحِيلٍ عَلَى الْمُجْتَهِدِ", "tr": "Başarı çalışan kimseye hiç de imkânsız değildir.", "karisik": ["الْمُجْتَهِدِ", "بِمُسْتَحِيلٍ", "لَيْسَ", "عَلَى", "النَّجَاحُ"] },
+      { "id": "m21_b08", "hedefAr": "كُنْتُ أَقْرَأُ عِنْدَمَا دَقَّ الْجَرَسُ", "tr": "Zil çaldığında okuyordum.", "karisik": ["الْجَرَسُ", "أَقْرَأُ", "كُنْتُ", "دَقَّ", "عِنْدَمَا"] },
+      { "id": "m21_b09", "hedefAr": "كَانَ الْقِطَارُ قَدْ غَادَرَ قَبْلَ دَقِيقَتَيْنِ", "tr": "Tren iki dakika önce ayrılmıştı.", "karisik": ["دَقِيقَتَيْنِ", "قَدْ", "كَانَ", "قَبْلَ", "غَادَرَ", "الْقِطَارُ"] },
+      { "id": "m21_b10", "hedefAr": "سَنَكُونُ قَدْ أَنْهَيْنَا الْمَشْرُوعَ غَدًا", "tr": "Yarın projeyi bitirmiş olacağız.", "karisik": ["غَدًا", "أَنْهَيْنَا", "سَنَكُونُ", "الْمَشْرُوعَ", "قَدْ"] },
+      { "id": "m21_b11", "hedefAr": "كَانَ فِي الْمَدِينَةِ مَكْتَبَةٌ كَبِيرَةٌ", "tr": "Şehirde büyük bir kütüphane vardı.", "karisik": ["كَبِيرَةٌ", "الْمَدِينَةِ", "كَانَ", "مَكْتَبَةٌ", "فِي"] },
+      { "id": "m21_b12", "hedefAr": "لَيْسَ لَدَيْنَا وَقْتٌ كَافٍ الْيَوْمَ", "tr": "Bugün yeterli vaktimiz yok.", "karisik": ["الْيَوْمَ", "وَقْتٌ", "لَيْسَ", "كَافٍ", "لَدَيْنَا"] },
+      { "id": "m21_b13", "hedefAr": "لَيْسَ هُنَاكَ شَكٌّ فِي صِدْقِهِ", "tr": "Onun doğruluğunda hiç şüphe yoktur.", "karisik": ["صِدْقِهِ", "شَكٌّ", "لَيْسَ", "فِي", "هُنَاكَ"] },
+      { "id": "m21_b14", "hedefAr": "نَحْتَرِمُ الْجَمِيعَ سَوَاءٌ أَكَانَ صَغِيرًا أَمْ كَبِيرًا", "tr": "İster küçük ister büyük olsun herkese saygı duyarız.", "karisik": ["كَبِيرًا", "سَوَاءٌ", "نَحْتَرِمُ", "أَمْ", "صَغِيرًا", "الْجَمِيعَ", "أَكَانَ"] },
+      { "id": "m21_b15", "hedefAr": "تَعَاوَنَ الْفَرِيقُ فَكَانَ النَّجَاحُ الْكَبِيرُ", "tr": "Ekip yardımlaştı ve büyük başarı gerçekleşti.", "karisik": ["الْكَبِيرُ", "الْفَرِيقُ", "تَعَاوَنَ", "النَّجَاحُ", "فَكَانَ"] }
+    ]
+  },
+  "readings": [
+    {
+      "id": "m21_r1",
+      "baslik": "Eskiden ve Şimdi: Bir Şehrin Elli Yıllık Dönüşümü",
+      "arBaslik": "بَيْنَ الْأَمْسِ وَالْيَوْمِ: كَيْفَ تَغَيَّرَتْ مَدِينَتُنَا خِلَالَ خَمْسِينَ عَامًا؟",
+      "seviye": "A2",
+      "paragraflar": [
+        {
+          "ar": "قَبْلَ خَمْسِينَ عَامًا، كَانَتْ مَدِينَتُنَا بَلْدَةً صَغِيرَةً هَادِئَةً، وَكَانَ عَدَدُ سُكَّانِهَا قَلِيلًا جِدًّا. كَانَ فِي وَسَطِهَا سُوقٌ تَقْلِيدِيٌّ وَاحِدٌ، وَكَانَتِ الْبُيُوتُ قَرِيبَةً مِنَ الْبَسَاتِينِ، وَكَانَ الْأَطْفَالُ يَلْعَبُونَ فِي الْأَزِقَّةِ بِأَمَانٍ تَامٍّ طَوَالَ النَّهَارِ.",
+          "okunus": "Kable hamsîne ‘âmen, kânet medînetunâ beldeten sagîraten hâdieten, ve kâne ‘adedu sukkânihâ kalîlen cidden. Kâne fî vesatıhâ sûkun taklîdiyyun vâhidun, ve kâneti'l-buyûtu karîbeten mine'l-besâtîni, ve kâne'l-atfâlu yel‘abûne fi'l-ezıkkati bi-emânin tâmmin tavâle'n-nehâri.",
+          "tr": "Elli yıl önce şehrimiz küçük ve sakin bir kasabaydı, nüfusu ise çok azdı. Merkezinde tek bir geleneksel çarşı vardı, evler bahçelere yakındı ve çocuklar gün boyu sokaklarda tam bir güven içinde oynarlardı.",
+          "analiz": [
+            { "kelime": "كَانَتْ مَدِينَتُنَا بَلْدَةً", "kok": "ك و ن", "gramer": "Kâne + merfû isim + mansub haber", "tr": "şehrimiz bir kasabaydı" },
+            { "kelime": "كَانَ فِي وَسَطِهَا سُوقٌ / كَانَ الْأَطْفَالُ يَلْعَبُونَ", "kok": "ل ع ب", "gramer": "Öne geçmiş haber + merfû سُوقٌ; geçmiş alışkanlık!", "tr": "bir çarşı vardı / çocuklar oynarlardı" }
+          ]
+        },
+        {
+          "ar": "ثُمَّ مَرَّتِ السَّنَوَاتُ، وَأَصْبَحَتِ الْبَلْدَةُ الصَّغِيرَةُ مَدِينَةً جَامِعِيَّةً كَبِيرَةً، وَصَارَتِ الطُّرُقُ الضَّيِّقَةُ شَوَارِعَ وَاسِعَةً تَمُرُّ فِيهَا الْحَافِلَاتُ وَالْقِطَارَاتُ السَّرِيعَةُ! وَبَاتَ التَّعْلِيمُ وَالتِّجَارَةُ مُزْدَهِرَيْنِ فِي كُلِّ أَحْيَائِهَا.",
+          "okunus": "Summe marrati's-senevâtu, ve asbehati'l-beldetu's-sagîratu medîneten câmi‘iyyeten kebîraten, ve sârati't-turuku'd-dayyikatu şevâri‘a vâsi‘aten temurru fîhe'l-hâfilâtu ve'l-kitârâtu's-serî‘atu! Ve bâte't-ta‘lîmu ve't-ticâratu muzdehirayni fî kulli ahyâihâ.",
+          "tr": "Sonra yıllar geçti; küçük kasaba büyük bir üniversite şehri hâline geldi, dar yollar otobüslerin ve hızlı trenlerin geçtiği geniş caddelere dönüştü! Eğitim ve ticaret artık tüm mahallelerinde gelişen iki alan oldu.",
+          "analiz": [
+            { "kelime": "أَصْبَحَتْ / صَارَتْ / بَاتَ", "kok": "ص ي ر", "gramer": "3 dönüşüm kardeşi + ikil mansub haber (مُزْدَهِرَيْنِ!)", "tr": "hâline geldi / dönüştü / artık oldu" },
+            { "kelime": "شَوَارِعَ وَاسِعَةً", "kok": "ش ر ع", "gramer": "Gayr-i munsarif tenvinsiz mansub haber (شَوَارِعَ!)", "tr": "geniş caddelere" }
+          ]
+        },
+        {
+          "ar": "وَعَلَى الرَّغْمِ مِنْ هٰذَا التَّطَوُّرِ السَّرِيعِ، مَا زَالَ أَهْلُ الْمَدِينَةِ مُحَافِظِينَ عَلَى كَرَمِ الضِّيَافَةِ وَحُسْنِ الْجِوَارِ! وَمَا زَالَتِ الْمَسَاجِدُ التَّارِيخِيَّةُ وَالْمَقَاهِي الْقَدِيمَةُ مَفْتُوحَةً تَسْتَقْبِلُ الزُّوَّارَ كُلَّ صَبَاحٍ كَمَا كَانَتْ فِي الْمَاضِي.",
+          "okunus": "Ve ‘ale'r-ragmi min hâze't-tetavvuri's-serî‘i, mâ zâle ehlu'l-medîneti muhâfizîne ‘alâ kerami'd-diyâfeti ve husni'l-civâri! Ve mâ zâleti'l-mesâcidu't-târîhiyyetu ve'l-mekâhi'l-kadîmetu meftûhaten testakbilu'z-zuvvâra kulle sabâhin kemâ kânet fi'l-mâdî.",
+          "tr": "Bu hızlı gelişmeye rağmen şehir halkı hâlâ misafirperverliği ve iyi komşuluğu korumaktadır! Tarihî camiler ve eski kahvehaneler geçmişte olduğu gibi her sabah ziyaretçileri karşılayarak hâlâ açıktır.",
+          "analiz": [
+            { "kelime": "مَا زَالَ أَهْلُ ... مُحَافِظِينَ", "kok": "ز و ل", "gramer": "مَا زَالَ + cemi müzekker mansub haber (مُحَافِظِينَ!)", "tr": "hâlâ korumaktadırlar" },
+            { "kelime": "مَا زَالَتِ الْمَسَاجِدُ ... مَفْتُوحَةً", "kok": "ف ت ح", "gramer": "Akılsız çoğul → dişil مَا زَالَتْ + mansub مَفْتُوحَةً!", "tr": "hâlâ açıktır" }
+          ]
+        },
+        {
+          "ar": "يَقُولُ جَدِّي دَائِمًا: «لَيْسَ التَّطَوُّرُ بِعَدُوٍّ لِلْأَصَالَةِ، بَلْ تَظَلُّ الْمَدِينَةُ جَمِيلَةً مَا دَامَ أَبْنَاؤُهَا يَحْتَرِمُونَ تَارِيخَهَا وَيَبْنُونَ مُسْتَقْبَلَهَا مَعًا!». وَحَقًّا، لَيْسَ هُنَاكَ أَجْمَلُ مِنْ مَدِينَةٍ تَجْمَعُ بَيْنَ عَبَقِ الْمَاضِي وَرُوحِ الْحَاضِرِ!",
+          "okunus": "Yekûlu ceddî dâimen: «Leyse't-tetavvuru bi-‘aduvvin li'l-asâleti, bel tezallu'l-medînetu cemîleten mâ dâme ebnâuhâ yahterimûne târîhahâ ve yebnûne mustakbelehâ me‘an!». Ve hakkan, leyse hunâke ecmelu min medînetin tecme‘u beyne ‘abakı'l-mâdî ve rûhi'l-hâdiri!",
+          "tr": "Dedem daima der ki: 'Gelişim asla özgünlüğün düşmanı değildir; aksine evlatları tarihine saygı duyup geleceğini birlikte inşa ettiği sürece şehir güzel kalacaktır!'. Gerçekten de geçmişin kokusuyla bugünün ruhunu birleştiren bir şehirden daha güzeli yoktur!",
+          "analiz": [
+            { "kelime": "لَيْسَ التَّطَوُّرُ بِعَدُوٍّ", "kok": "ع د و", "gramer": "لَيْسَ + zâid بِـ vurgusu (mahallen mansub!)", "tr": "asla düşmanı değildir" },
+            { "kelime": "تَظَلُّ ... جَمِيلَةً مَا دَامَ", "kok": "د و م", "gramer": "ظَلَّ (kalır) + مَا دَامَ (...-dığı sürece)!", "tr": "güzel kalır ... olduğu sürece" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m21_r1_q1", "soru": "1. paragraftaki «كَانَ فِي وَسَطِهَا سُوقٌ تَقْلِيدِيٌّ وَاحِدٌ» cümlesinde «سُوقٌ» neden merfûdur?", "secenekler": ["فِي وَسَطِهَا öne geçmiş haber, سُوقٌ ise Kâne'nin sona kalmış merfû ismidir!", "Kâne'nin haberidir", "Mef'ûlün bihdir", "Mecrûrdur"], "dogruIndeks": 0, "aciklama": "Öne geçmiş şibh-i cümle haberden sonra gelen nekre isim Kâne'nin MERFÛ ismidir!" },
+        { "id": "m21_r1_q2", "soru": "2. paragraftaki «بَاتَ التَّعْلِيمُ وَالتِّجَارَةُ مُزْدَهِرَيْنِ» cümlesinde «مُزْدَهِرَيْنِ» neden yâ ile gelmiştir?", "secenekler": ["بَاتَ (Kâne kardeşi) iki özne için ikil mansub haber alır (tesniye nasb: يْنِ)!", "Mecrûrdur", "Çoğuldur", "Fâildir"], "dogruIndeks": 0, "aciklama": "التَّعْلِيمُ وَالتِّجَارَةُ (2 alan) → ikil mansub haber: مُزْدَهِرَيْنِ!" },
+        { "id": "m21_r1_q3", "soru": "3. paragrafa göre şehir halkı hızlı gelişmeye rağmen hangi iki değeri hâlâ korumaktadır?", "secenekler": ["Misafirperverlik (كَرَمِ الضِّيَافَةِ) ve iyi komşuluk (حُسْنِ الْجِوَارِ)", "Sadece eski yolları", "Yalnızca tek çarşıyı", "Sessizliği"], "dogruIndeks": 0, "aciklama": "'مَا زَالَ أَهْلُ الْمَدِينَةِ مُحَافِظِينَ عَلَى كَرَمِ الضِّيَافَةِ وَحُسْنِ الْجِوَارِ!'." },
+        { "id": "m21_r1_q4", "soru": "4. paragraftaki «لَيْسَ التَّطَوُّرُ بِعَدُوٍّ» ifadesinde «بِـ» harfinin görevi nedir?", "secenekler": ["لَيْسَ haberindeki olumsuzluğu pekiştiren zâid (vurgulu) harf-i cerdir", "Zaman zarfıdır", "Mekân bildirir", "Soru harfidir"], "dogruIndeks": 0, "aciklama": "لَيْسَ + بِـ = kuvvetli olumsuzluk ('hiç de / asla ... değildir')." },
+        { "id": "m21_r1_q5", "soru": "Dedeye göre bir şehir ne zaman güzel kalmaya devam edecektir?", "secenekler": ["Evlatları tarihine saygı duyup geleceğini birlikte inşa ettiği sürece (مَا دَامَ)", "Sadece binalar boyandığında", "Hiç değişmediğinde", "Turistler geldiğinde"], "dogruIndeks": 0, "aciklama": "'تَظَلُّ الْمَدِينَةُ جَمِيلَةً مَا دَامَ أَبْنَاؤُهَا يَحْتَرِمُونَ تَارِيخَهَا وَيَبْنُونَ مُسْتَقْبَلَهَا مَعًا!'." }
+      ]
+    },
+    {
+      "id": "m21_r2",
+      "baslik": "Kaçırılan Tren ve Beklenmedik Dostluk (Birleşik Zaman Hikâyesi)",
+      "arBaslik": "الْقِطَارُ الَّذِي غَادَرَ وَالصَّدَاقَةُ غَيْرُ الْمُتَوَقَّعَةِ",
+      "seviye": "A2",
+      "paragraflar": [
+        {
+          "ar": "فِي صَبَاحِ يَوْمٍ مُمْطِرٍ، كُنْتُ مُسْتَعْجِلًا لِلُحَاقِ بِقِطَارِ السَّاعَةِ الثَّامِنَةِ إِلَى أَنْقَرَةَ. كَانَتِ الشَّوَارِعُ مُزْدَحِمَةً جِدًّا بِسَبَبِ الْمَطَرِ، وَلَمَّا وَصَلْتُ إِلَى الرَّصِيفِ، كَانَ الْقِطَارُ قَدْ تَحَرَّكَ قَبْلَ دَقِيقَتَيْنِ فَقَطْ!",
+          "okunus": "Fî sabâhi yevmin mumtırin, kuntu musta‘cilen li'l-lihâkı bi-kitâri's-sâ‘ati's-sâmineti ilâ Enkara. Kâneti'ş-şevâri‘u muzdahimeten cidden bi-sebebi'l-matari, ve lemmâ vasaltu ile'r-rasîfi, kâne'l-kitâru kad teharrake kable dakîkateyni fakat!",
+          "tr": "Yağmurlu bir sabah saat sekiz Ankara trenine yetişmek için acele ediyordum. Yağmur yüzünden caddeler çok kalabalıktı ve perona vardığımda tren sadece iki dakika önce hareket etmişti!",
+          "analiz": [
+            { "kelime": "كُنْتُ مُسْتَعْجِلًا / كَانَتِ الشَّوَارِعُ مُزْدَحِمَةً", "kok": "ع ج ل", "gramer": "Kâne + mansub müfred haberler", "tr": "acele ediyordum / caddeler kalabalıktı" },
+            { "kelime": "كَانَ الْقِطَارُ قَدْ تَحَرَّكَ", "kok": "ح ر ك", "gramer": "كَانَ قَدْ + mâzi ('hareket etmişti' — miş'li geçmiş!)", "tr": "tren hareket etmişti" }
+          ]
+        },
+        {
+          "ar": "شَعَرْتُ بِالضِّيقِ فِي الْبِدَايَةِ، لِأَنَّهُ كَانَ لَدَيَّ اجْتِمَاعٌ مُهِمٌّ بَعْدَ الظُّهْرِ، وَلَمْ يَكُنْ هُنَاكَ قِطَارٌ آخَرُ إِلَّا بَعْدَ سَاعَتَيْنِ! جَلَسْتُ فِي مَقْهَى الْمَحَطَّةِ أَشْرَبُ الشَّايَ وَأُرَاجِعُ أَوْرَاقِي.",
+          "okunus": "Şe‘artu bi'd-dîkı fi'l-bidâyeti, li-ennehu kâne ledeyye'ctimâ‘un muhimmun ba‘de'z-zuhri, ve lem yekun hunâke kitârun âharu illâ ba‘de sâ‘ateyni! Celestu fî makhe'l-mahattati eşrabu'ş-şâye ve urâci‘u evrâkî.",
+          "tr": "Başlangıçta canım sıkıldı; çünkü öğleden sonra önemli bir toplantım vardı ve iki saat sonrasına kadar başka bir tren yoktu! İstasyon kafesinde oturup çay içerek evraklarımı gözden geçirdim.",
+          "analiz": [
+            { "kelime": "كَانَ لَدَيَّ اجْتِمَاعٌ / لَمْ يَكُنْ هُنَاكَ قِطَارٌ", "kok": "ج م ع", "gramer": "Öne geçmiş haberler + sona kalmış MERFÛ isimler (اِجْتِمَاعٌ / قِطَارٌ!)", "tr": "toplantım vardı / başka tren yoktu" },
+            { "kelime": "أَشْرَبُ الشَّايَ", "kok": "ش ر ب", "gramer": "M20 tekrarı: Marife zamir (تُ) sonrası Hâl ('içerek')!", "tr": "çay içerek" }
+          ]
+        },
+        {
+          "ar": "بَيْنَمَا كُنْتُ أَقْرَأُ كِتَابًا عَنِ النَّحْوِ الْعَرَبِيِّ، جَلَسَ بِجَانِبِي رَجُلٌ وَقُورٌ وَابْتَسَمَ قَائِلًا: «يَبْدُو أَنَّكَ مِثْلِي، قَدْ فَاتَكَ الْقِطَارُ أَيْضًا!». وَمَا إِنْ بَدَأْنَا الْحَدِيثَ حَتَّى اكْتَشَفْتُ أَنَّهُ كَانَ أُسْتَاذًا جَامِعِيًّا مُتَخَصِّصًا فِي اللُّغَةِ الْعَرَبِيَّةِ وَآدَابِهَا!",
+          "okunus": "Beynemâ kuntu ekrau kitâben ‘ani'n-nahvi'l-‘arabiyyi, celese bi-cânibî raculun vekûrun vebteseme kâilen: «Yebdû enneke mislî, kad fâteke'l-kitâru eydan!». Ve mâ in bede'ne'l-hadîse hatte'kteşeftu ennehu kâne ustâzen câmi‘iyyen mutehassısan fi'l-lugati'l-‘arabiyyeti ve âdâbihâ!",
+          "tr": "Arapça nahiv hakkında bir kitap okurken yanıma ağırbaşlı bir adam oturdu ve gülümseyerek dedi ki: 'Görünüşe göre sen de benim gibi treni kaçırmışsın!'. Sohbete başlar başlamaz onun Arap dili ve edebiyatında uzman bir üniversite profesörü olduğunu keşfettim!",
+          "analiz": [
+            { "kelime": "بَيْنَمَا كُنْتُ أَقْرَأُ", "kok": "ق ر أ", "gramer": "بَيْنَمَا + كُنْتُ أَقْرَأُ ('ben okurken')", "tr": "ben okurken" },
+            { "kelime": "كَانَ أُسْتَاذًا جَامِعِيًّا", "kok": "أ س ت ذ", "gramer": "Gizli isim (هُوَ) + mansub haber (أُسْتَاذًا)", "tr": "üniversite hocasıydı" }
+          ]
+        },
+        {
+          "ar": "قَضَيْنَا سَاعَتَيْنِ مُمْتِعَتَيْنِ نَتَحَدَّثُ عَنْ أَسْرَارِ الْبَلَاغَةِ وَالتَّرْجَمَةِ، فَأَصْبَحَ ذٰلِكَ التَّأْخِيرُ مِنْ أَجْمَلِ صُدَفِ حَيَاتِي! وَمَا زِلْنَا حَتَّى الْيَوْمِ أَصْدِقَاءَ نَتَبَادَلُ الْكُتُبَ وَالرَّسَائِلَ، وَلَمْ أَكُنْ أَتَوَقَّعُ أَنَّ قِطَارًا فَائِتًا سَيَمْنَحُنِي أُسْتَاذًا وَصَدِيقًا عَظِيمًا!",
+          "okunus": "Kadaynâ sâ‘ateyni mumti‘ateyni netehaddesu ‘an esrâri'l-belâgati ve't-tercemeti, fe-asbeha zâlike't-te'hîru min ecmeli sudefi hayâtî! Ve mâ zilnâ hatte'l-yevmi esdikâe netebâdelu'l-kutube ve'r-resâile, ve lem ekun etevakka‘u enne kitâran fâiten se-yemnehunî ustâzen ve sadîkan ‘azîmen!",
+          "tr": "Belagat ve çevirinin sırları hakkında sohbet ederek keyifli iki saat geçirdik; böylece o gecikme hayatımın en güzel tesadüflerinden biri hâline geldi! Bugüne dek hâlâ kitap ve mektup paylaştığımız dostlarız; kaçan bir trenin bana büyük bir hoca ve dost kazandıracağını hiç beklemiyordum!",
+          "analiz": [
+            { "kelime": "مَا زِلْنَا ... أَصْدِقَاءَ", "kok": "ص د ق", "gramer": "مَا زِلْنَا (ـنَا isim) + mansub haber (أَصْدِقَاءَ — gayr-i munsarif!)", "tr": "hâlâ dostlarız" },
+            { "kelime": "لَمْ أَكُنْ أَتَوَقَّعُ", "kok": "و ق ع", "gramer": "Olumsuz geçmiş devamlılık ('beklemiyordum')", "tr": "beklemiyordum" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m21_r2_q1", "soru": "Yazar perona vardığında saat sekiz treni ne durumdaydı?", "secenekler": ["İki dakika önce hareket etmişti (كَانَ الْقِطَارُ قَدْ تَحَرَّكَ)", "Henüz gelmemişti", "İptal edilmişti", "İstasyonda bekliyordu"], "dogruIndeks": 0, "aciklama": "'كَانَ الْقِطَارُ قَدْ تَحَرَّكَ قَبْلَ دَقِيقَتَيْنِ فَقَطْ!'." },
+        { "id": "m21_r2_q2", "soru": "2. paragraftaki «لَمْ يَكُنْ هُنَاكَ قِطَارٌ آخَرُ» cümlesinde «قِطَارٌ» neden merfûdur?", "secenekler": ["هُنَاكَ öne geçmiş haber, قِطَارٌ ise لَمْ يَكُنْ'un sona kalmış merfû ismidir!", "Haberdir", "Sıfattır", "Mef'ûlün bihdir"], "dogruIndeks": 0, "aciklama": "Öne geçmiş şibh-i cümle haberden sonraki nekre isim merfû kalır!" },
+        { "id": "m21_r2_q3", "soru": "Yazarın istasyon kafesinde tanıştığı ağırbaşlı adam kim çıktı?", "secenekler": ["Arap dili ve edebiyatında uzman bir üniversite profesörü", "Tren makinisti", "Bilet görevlisi", "Eski bir sınıf arkadaşı"], "dogruIndeks": 0, "aciklama": "'كَانَ أُسْتَاذًا جَامِعِيًّا مُتَخَصِّصًا فِي اللُّغَةِ الْعَرَبِيَّةِ وَآدَابِهَا!'." },
+        { "id": "m21_r2_q4", "soru": "4. paragraftaki «مَا زِلْنَا حَتَّى الْيَوْمِ أَصْدِقَاءَ» ifadesinin anlamı nedir?", "secenekler": ["Bugüne dek hâlâ dostlarız", "Artık dost değiliz", "Dost olmadık", "Yarın dost olacağız"], "dogruIndeks": 0, "aciklama": "مَا زِلْنَا (نَحْنُ) = 'biz hâlâ...' (olumlu süreklilik!)." },
+        { "id": "m21_r2_q5", "soru": "4. paragraftaki «لَمْ أَكُنْ أَتَوَقَّعُ» ifadesi Türkçeye nasıl çevrilir?", "secenekler": ["Beklemiyordum (olumsuz şimdiki zamanın hikâyesi)", "Beklemeyeceğim", "Beklemiştim", "Bekliyorum"], "dogruIndeks": 0, "aciklama": "لَمْ أَكُنْ + muzâri = geçmişte olumsuz devamlılık ('-miyordum')!" }
+      ]
+    },
+    {
+      "id": "m21_r3",
+      "baslik": "Sağlıklı Yaşamın Sırrı: Önleyici Tıp (YÖKDİL Sağlık — مَا دَامَ & سَوَاءٌ أَكَانَ)",
+      "arBaslik": "سِرُّ الْحَيَاةِ الصِّحِّيَّةِ: الطِّبُّ الْوِقَائِيُّ بَيْنَ الْأَمْسِ وَالْيَوْمِ",
+      "seviye": "A2",
+      "paragraflar": [
+        {
+          "ar": "مَا زَالَتِ الْحِكْمَةُ الْقَدِيمَةُ «الْوِقَايَةُ خَيْرٌ مِنَ الْعِلَاجِ» قَاعِدَةً ذَهَبِيَّةً فِي الطِّبِّ الْحَدِيثِ! فَقَدْ بَاتَ الْأَطِبَّاءُ يُؤَكِّدُونَ أَنَّ نَمَطَ الْحَيَاةِ الْيَوْمِيِّ هُوَ الْعَامِلُ الْأَكْبَرُ فِي حِمَايَةِ الْإِنْسَانِ مِنَ الْأَمْرَاضِ الْمُزْمِنَةِ.",
+          "okunus": "Mâ zâleti'l-hikmetu'l-kadîmetu «el-vikâyetu hayrun mine'l-‘ilâci» kâ‘ideten zehebiyyeten fi't-tıbbi'l-hadîsi! Fe-kad bâte'l-etıbbâu yuekkidûne enne nemata'l-hayâti'l-yevmiyyi huve'l-‘âmilu'l-ekberu fî himâyeti'l-insâni mine'l-emrâdi'l-muzmineti.",
+          "tr": "'Korunma tedaviden hayırlıdır' kadim hikmeti modern tıpta hâlâ altın bir kuraldır! Hekimler artık günlük yaşam tarzının insanı kronik hastalıklardan korumada en büyük etken olduğunu vurgulamaktadırlar.",
+          "analiz": [
+            { "kelime": "مَا زَالَتِ الْحِكْمَةُ ... قَاعِدَةً", "kok": "ز و ل", "gramer": "مَا زَالَتْ + merfû isim + mansub haber (قَاعِدَةً)", "tr": "hikmet hâlâ bir kuraldır" },
+            { "kelime": "بَاتَ الْأَطِبَّاءُ يُؤَكِّدُونَ", "kok": "ب ي ت", "gramer": "بَاتَ ('artık ... hâline geldi') + fiil cümlesi haber!", "tr": "hekimler artık vurguluyorlar" }
+          ]
+        },
+        {
+          "ar": "فِي الْمَاضِي، لَمْ يَكُنْ كَثِيرٌ مِنَ النَّاسِ يَزُورُونَ الطَّبِيبَ إِلَّا عِنْدَ الشُّعُورِ بِالْأَلَمِ الشَّدِيدِ. أَمَّا الْيَوْمَ، فَقَدْ أَصْبَحَ الْفَحْصُ الدَّوْرِيُّ عَادَةً صِحِّيَّةً يُقْبِلُ عَلَيْهَا الْجَمِيعُ، سَوَاءٌ أَكَانُوا شَبَابًا أَمْ كِبَارًا فِي السِّنِّ!",
+          "okunus": "Fi'l-mâdî, lem yekun kesîrun mine'n-nâsi yezûrûne't-tabîbe illâ ‘inde'ş-şu‘ûri bi'l-elemi'ş-şedîdi. Emme'l-yevme, fe-kad asbeha'l-fahsu'd-devriyyu ‘âdeten sıhhıyyeten yukbilu ‘aleyhe'l-cemî‘u, sevâun e-kânû şebâben em kibâran fi's-sinni!",
+          "tr": "Geçmişte pek çok insan şiddetli ağrı hissetmedikçe doktora gitmezdi. Bugün ise düzenli kontrol, ister genç ister yaşlı olsunlar, herkesin yöneldiği sağlıklı bir alışkanlık hâline geldi!",
+          "analiz": [
+            { "kelime": "لَمْ يَكُنْ ... يَزُورُونَ", "kok": "ز و ر", "gramer": "Olumsuz geçmiş alışkanlık ('ziyaret etmezlerdi')", "tr": "ziyaret etmezlerdi" },
+            { "kelime": "سَوَاءٌ أَكَانُوا شَبَابًا أَمْ كِبَارًا", "kok": "س و ي", "gramer": "YDS kalıbı + mansub haberler (شَبَابًا / كِبَارًا)!", "tr": "ister genç ister yaşlı olsunlar" }
+          ]
+        },
+        {
+          "ar": "وَيُشِيرُ الْخُبَرَاءُ إِلَى أَنَّ الْجِسْمَ يَظَلُّ نَشِيطًا وَقَوِيًّا مَا دَامَ الْإِنْسَانُ يَحْرِصُ عَلَى ثَلَاثَةِ أُمُورٍ: النَّوْمِ الْمُنْتَظِمِ، وَالتَّغْذِيَةِ الْمُتَوَازِنَةِ، وَالْحَرَكَةِ الْيَوْمِيَّةِ! وَلَيْسَ الْأَمْرُ بِمُكَلِّفٍ وَلَا صَعْبٍ، بَلْ يَحْتَاجُ إِلَى قَرَارٍ وَاسْتِمْرَارٍ فَقَطْ.",
+          "okunus": "Ve yuşîru'l-huberâu ilâ enne'l-cisme yezallu neşîtan ve kaviyyen mâ dâme'l-insânu yahrisu ‘alâ selâseti umûrin: en-nevmi'l-muntazımi, ve't-tagziyeti'l-mutevâzineti, ve'l-hareketi'l-yevmiyyeti! Ve leyse'l-emru bi-mukellifin ve lâ sa‘bin, bel yahtâcu ilâ karârin ve'stimrârin fakat.",
+          "tr": "Uzmanlar, insan üç şeye özen gösterdiği sürece vücudun dinç ve güçlü kalacağına işaret ediyorlar: Düzenli uyku, dengeli beslenme ve günlük hareket! Bu iş hiç de maliyetli veya zor değildir; yalnızca bir karar ve süreklilik gerektirir.",
+          "analiz": [
+            { "kelime": "يَظَلُّ نَشِيطًا مَا دَامَ", "kok": "ظ ل ل", "gramer": "يَظَلُّ + mansub + مَا دَامَ (...-dığı sürece)", "tr": "dinç kalır ... sürece" },
+            { "kelime": "لَيْسَ الْأَمْرُ بِمُكَلِّفٍ", "kok": "ك ل ف", "gramer": "لَيْسَ + zâid بِـ vurgusu", "tr": "hiç de maliyetli değildir" }
+          ]
+        },
+        {
+          "ar": "وَمَهْمَا كَانَتْ مَشَاغِلُ الْحَيَاةِ كَثِيرَةً، فَلَا بُدَّ أَنْ يَكُونَ لِلصِّحَّةِ نَصِيبٌ يَوْمِيٌّ فِي جَدْوَلِنَا! فَلَمْ تَكُنِ الصِّحَّةُ يَوْمًا أَمْرًا ثَانَوِيًّا، بَلْ هِيَ التَّاجُ الَّذِي لَا يَعْرِفُ قِيمَتَهُ إِلَّا مَنْ فَقَدَهُ!",
+          "okunus": "Ve mehmâ kânet meşâgilu'l-hayâti kesîraten, fe-lâ budde en yekûne li's-sıhhati nasîbun yevmiyyun fî cedvelinâ! Fe-lem tekuni's-sıhhatu yevmen emran sâneviyyen, bel hiye't-tâcu'llezî lâ ya‘rifu kîmetehu illâ men fekadehu!",
+          "tr": "Hayatın meşgaleleri ne kadar çok olursa olsun, programımızda sağlığın mutlaka günlük bir payı olmalıdır! Zira sağlık hiçbir zaman ikincil bir mesele olmadı; aksine değerini ancak onu kaybedenin bildiği bir taçtır!",
+          "analiz": [
+            { "kelime": "يَكُونَ لِلصِّحَّةِ نَصِيبٌ", "kok": "ن ص ب", "gramer": "Öne geçmiş haber (لِلصِّحَّةِ) + merfû isim (نَصِيبٌ!)", "tr": "sağlığın bir payı olması" },
+            { "kelime": "مَهْمَا كَانَتْ ... كَثِيرَةً", "kok": "ك ث ر", "gramer": "مَهْمَا كَانَتْ + mansub haber (كَثِيرَةً)", "tr": "ne kadar çok olursa olsun" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m21_r3_q1", "soru": "3. paragrafta uzmanlara göre insan hangi üç şeye özen gösterdiği sürece vücut dinç ve güçlü kalır?", "secenekler": ["Düzenli uyku, dengeli beslenme ve günlük hareket", "Yalnızca ilaç kullanmak", "Sadece çok uyumak", "Yalnızca ağır spor yapmak"], "dogruIndeks": 0, "aciklama": "'النَّوْمِ الْمُنْتَظِمِ، وَالتَّغْذِيَةِ الْمُتَوَازِنَةِ، وَالْحَرَكَةِ الْيَوْمِيَّةِ!'." },
+        { "id": "m21_r3_q2", "soru": "4. paragraftaki «أَنْ يَكُونَ لِلصِّحَّةِ نَصِيبٌ يَوْمِيٌّ» ifadesinde «نَصِيبٌ» neden merfûdur?", "secenekler": ["لِلصِّحَّةِ öne geçmiş şibh-i cümle haber, نَصِيبٌ ise يَكُونَ'nin sona kalmış merfû ismidir!", "Haberdir", "Fâildir", "Sıfattır"], "dogruIndeks": 0, "aciklama": "يَكُونَ + şibh-i cümle haber (لِلصِّحَّةِ) + merfû isim (نَصِيبٌ)!" },
+        { "id": "m21_r3_q3", "soru": "2. paragraftaki «سَوَاءٌ أَكَانُوا شَبَابًا أَمْ كِبَارًا» ifadesinde شَبَابًا ve كِبَارًا neden mansubdur?", "secenekler": ["كَانُوا fiilinin haberi (ve ona atfedilen kelime) oldukları için mansubdurlar!", "Fâil oldukları için", "Mecrûr oldukları için", "Mübtedâ oldukları için"], "dogruIndeks": 0, "aciklama": "كَانُوا'nun ismi و, haberi mansub شَبَابًا (ve atıf كِبَارًا)!" },
+        { "id": "m21_r3_q4", "soru": "2. paragrafta geçmişte pek çok insanın ne zaman doktora gittiği belirtiliyor?", "secenekler": ["Yalnızca şiddetli ağrı hissettiklerinde", "Her ay düzenli olarak", "Her hafta", "Hiç gitmezlerdi"], "dogruIndeks": 0, "aciklama": "'لَمْ يَكُنْ كَثِيرٌ مِنَ النَّاسِ يَزُورُونَ الطَّبِيبَ إِلَّا عِنْدَ الشُّعُورِ بِالْأَلَمِ الشَّدِيدِ'." },
+        { "id": "m21_r3_q5", "soru": "4. paragraftaki «لَمْ تَكُنِ الصِّحَّةُ يَوْمًا أَمْرًا ثَانَوِيًّا» cümlesinde «أَمْرًا» hangi görevdedir?", "secenekler": ["تَكُنْ fiilinin açık fetha ile mansub haberi", "تَكُنْ fiilinin ismi", "Zaman zarfı", "Sıfat"], "dogruIndeks": 0, "aciklama": "الصِّحَّةُ (isim — merfû), أَمْرًا (haber — mansub)!" }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "m21_d1",
+      "baslik": "Eski Okul Arkadaşlarının Kavuşması (كَانَ & أَصْبَحَ & مَا زَالَ)",
+      "ortam": "Beş yıl sonra karşılaşan iki üniversite arkadaşı sohbet ediyor",
+      "replikler": [
+        { "konusan": "أحمد", "ar": "يَا سُبْحَانَ اللّٰهِ! خَالِدٌ؟! كَيْفَ حَالُكَ يَا صَدِيقِي الْقَدِيمَ؟ لَمْ أَرَكَ مُنْذُ خَمْسِ سَنَوَاتٍ!", "okunus": "Yâ subhânallâhi! Hâlidun?! Keyfe hâluke yâ sadîki'l-kadîme? Lem erake munzu hamsi senevâtin!", "tr": "Sübhanallah! Halid?! Nasılsın eski dostum? Seni beş yıldır görmedim!" },
+        { "konusan": "خالد", "ar": "أَهْلًا يَا أَحْمَدُ! مَا أَجْمَلَ هٰذِهِ الصُّدْفَةَ! كُنْتُ أَفَكِّرُ فِيكَ الْأُسْبُوعَ الْمَاضِي فِعْلًا!", "okunus": "Ehlen yâ Ahmedu! Mâ ecmele hâzihi's-sudfete! Kuntu ufekkiru fîke'l-usbû‘a'l-mâdî fi‘len!", "tr": "Merhaba Ahmed! Ne güzel tesadüf! Gerçekten de geçen hafta seni düşünüyordum!" },
+        { "konusan": "أحمد", "ar": "أَخْبِرْنِي عَنْكَ! هَلْ مَا زِلْتَ تَعْمَلُ فِي شَرِكَةِ الْهَنْدَسَةِ فِي إِزْمِيرَ؟", "okunus": "Ahbirnî ‘anke! Hel mâ zilte ta‘melu fî şeriketi'l-hendeseti fî İzmîra?", "tr": "Kendinden bahset! Hâlâ İzmir'deki mühendislik şirketinde mi çalışıyorsun?" },
+        { "konusan": "خالد", "ar": "لَا، اِنْتَقَلْتُ إِلَى إِسْطَنْبُولَ قَبْلَ عَامَيْنِ، وَأَصْبَحْتُ مُدِيرَ قِسْمِ التَّصْمِيمِ فِي شَرِكَةٍ جَدِيدَةٍ!", "okunus": "Lâ, intekaltu ilâ İstânbûle kable ‘âmeyni, ve asbahtu mudîra kismi't-tasmîmi fî şeriketin cedîdetin!", "tr": "Hayır, iki yıl önce İstanbul'a taşındım ve yeni bir şirkette tasarım bölümü müdürü oldum!" },
+        { "konusan": "أحمد", "ar": "مَا شَاءَ اللّٰهُ، أَلْفُ مَبْرُوكٍ! كُنْتُ وَاثِقًا دَائِمًا أَنَّكَ سَتُصْبِحُ مُهَنْدِسًا نَاجِحًا جِدًّا!", "okunus": "Mâ şâallâhu, elfu mebrûkin! Kuntu vâsikan dâimen enneke se-tusbihu muhendisen nâcihan cidden!", "tr": "Maşallah, binlerce tebrikler! Senin çok başarılı bir mühendis olacağına daima emindim!" },
+        { "konusan": "خالد", "ar": "شُكْرًا يَا أَحْمَدُ! وَأَنْتَ؟ هَلْ صِرْتَ أُسْتَاذًا فِي الْجَامِعَةِ كَمَا كُنْتَ تَتَمَنَّى؟", "okunus": "Şukran yâ Ahmedu! Ve ente? Hel sırte ustâzen fi'l-câmi‘ati kemâ kunte tetemennâ?", "tr": "Teşekkürler Ahmed! Peki ya sen? Hayal ettiğin gibi üniversitede hoca oldun mu?" },
+        { "konusan": "أحمد", "ar": "نَعَمْ الْحَمْدُ لِلّٰهِ! أَصْبَحْتُ مُحَاضِرًا فِي قِسْمِ اللُّغَةِ الْعَرَبِيَّةِ، وَمَا زِلْتُ أُكْمِلُ أُطْرُوحَةَ الدُّكْتُورَاهِ!", "okunus": "Ne‘am el-hamdu lillâhi! Asbahtu muhâdiran fî kismi'l-lugati'l-‘arabiyyeti, ve mâ ziltu ukmilu utrûhate'd-duktûrâhi!", "tr": "Evet elhamdülillah! Arapça bölümünde öğretim görevlisi oldum ve hâlâ doktora tezimi tamamlıyorum!" },
+        { "konusan": "خالد", "ar": "أَتَذْكُرُ كَيْفَ كُنَّا نَسْهَرُ فِي مَكْتَبَةِ الْكُلِّيَّةِ قَبْلَ الِامْتِحَانَاتِ؟ كَانَتْ أَيَّامًا لَا تُنْسَى!", "okunus": "E-tezkuru keyfe kunnâ nesheru fî mektebeti'l-kulliyyeti kable'l-imtihânâti? Kânet eyyâmen lâ tunsâ!", "tr": "Sınavlardan önce fakülte kütüphanesinde nasıl sabahladığımızı hatırlıyor musun? Unutulmaz günlerdi!" },
+        { "konusan": "أحمد", "ar": "نَعَمْ! كُنَّا نَشْرَبُ كَثِيرًا مِنَ الشَّايِ، وَظَلَّتْ تِلْكَ الذِّكْرَيَاتُ حَيَّةً فِي قَلْبِي حَتَّى الْيَوْمِ!", "okunus": "Ne‘am! Kunnâ neşrabu kesîran mine'ş-şâyi, ve zalleti tilke'z-zikrayâtu hayyeten fî kalbî hatte'l-yevmi!", "tr": "Evet! Çok çay içerdik ve o hatıralar bugüne dek kalbimde canlı kaldı!" },
+        { "konusan": "خالد", "ar": "هَلْ لَدَيْكَ وَقْتٌ الْآنَ، أَمْ أَنْتَ مَشْغُولٌ؟ لِنَشْرَبِ الْقَهْوَةَ مَعًا!", "okunus": "Hel ledeyke vaktun el-âne, em ente meşgûlun? Li-neşrabi'l-kahvete me‘an!", "tr": "Şimdi vaktin var mı yoksa meşgul müsün? Birlikte kahve içelim!" },
+        { "konusan": "أحمد", "ar": "لَسْتُ مَشْغُولًا الْآنَ! كَانَ عِنْدِي دَرْسٌ صَبَاحًا وَقَدِ انْتَهَى، فَلْنَجْلِسْ وَنَتَحَدَّثْ طَوِيلًا!", "okunus": "Lestu meşgûlen el-âne! Kâne ‘indî dersun sabâhan ve kadi'ntehâ, fel-neclis ve netehaddes tavîlen!", "tr": "Şu an meşgul değilim! Sabah bir dersim vardı ve bitti; haydi oturup uzun uzun sohbet edelim!" },
+        { "konusan": "خالد", "ar": "يَا سَلَامُ! مَا دُمْنَا الْآنَ فِي مَدِينَةٍ وَاحِدَةٍ، فَلَنْ نَنْقَطِعَ عَنِ اللِّقَاءِ بَعْدَ الْيَوْمِ!", "okunus": "Yâ selâmu! Mâ dumnâ el-âne fî medînetin vâhidetin, fe-len nenkatı‘a ‘ani'l-likâi ba‘de'l-yevmi!", "tr": "Ne harika! Mademki artık aynı şehirdeyiz, bugünden sonra görüşmeyi asla kesmeyeceğiz!" }
+      ],
+      "partner": [
+        { "soruAr": "كَيْفَ نَقُولُ 'Hâlâ İzmir'de mi çalışıyorsun?' (مَا زَالَ)؟", "soruTr": "'Hâlâ çalışıyor musun?' (أَنْتَ) hangisidir?", "ipucu": "هَلْ مَا زِلْتَ تَعْمَلُ...", "secenekler": ["هَلْ مَا زِلْتَ تَعْمَلُ فِي إِزْمِيرَ؟", "هَلْ مَا زَالَ تَعْمَلُ فِي إِزْمِيرَ؟", "هَلْ لَسْتَ تَعْمَلُ فِي إِزْمِيرَ؟"], "dogruIndeks": 0, "aciklama": "مَا زَالَ'nin أَنْتَ çekimi: مَا زِلْتَ!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Şu an meşgul değilim!' (لَيْسَ)؟", "soruTr": "'Meşgul değilim!' (أَنَا) hangisidir?", "ipucu": "لَسْتُ مَشْغُولًا!", "secenekler": ["لَسْتُ مَشْغُولًا الْآنَ!", "لَسْتُ مَشْغُولٌ الْآنَ!", "لَيْسَ أَنَا مَشْغُولًا!"], "dogruIndeks": 0, "aciklama": "لَسْتُ (تُ isim) + مَشْغُولًا (mansub haber)!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Üniversitede hoca oldun mu?' (صَارَ)؟", "soruTr": "'Hoca oldun mu?' (أَنْتَ + mansub haber) hangisidir?", "ipucu": "هَلْ صِرْتَ أُسْتَاذًا؟", "secenekler": ["هَلْ صِرْتَ أُسْتَاذًا فِي الْجَامِعَةِ؟", "هَلْ صَارْتَ أُسْتَاذٌ؟", "هَلْ صِرْتَ أُسْتَاذٌ؟"], "dogruIndeks": 0, "aciklama": "صَارَ (ecvef) → أَنْتَ: صِرْتَ + mansub haber: أُسْتَاذًا!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Sabah bir dersim vardı' (Öne geçmiş haber!)؟", "soruTr": "'Sabah bir dersim vardı' hangisidir?", "ipucu": "كَانَ عِنْدِي دَرْسٌ (merfû!).", "secenekler": ["كَانَ عِنْدِي دَرْسٌ صَبَاحًا.", "كَانَ عِنْدِي دَرْسًا صَبَاحًا.", "كُنْتُ عِنْدِي دَرْسٌ."], "dogruIndeks": 0, "aciklama": "عِنْدِي öne geçmiş haber; دَرْسٌ merfû isimdir!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Artık aynı şehirde olduğumuz sürece...' (مَا دَامَ)؟", "soruTr": "'Biz olduğumuz sürece' hangisidir?", "ipucu": "مَا دُمْنَا (نَحْنُ).", "secenekler": ["مَا دُمْنَا فِي مَدِينَةٍ وَاحِدَةٍ...", "مَا دَامَ نَحْنُ فِي مَدِينَةٍ...", "مَا زِلْنَا لَا نَلْتَقِي..."], "dogruIndeks": 0, "aciklama": "مَا دَامَ'nin نَحْنُ çekimi: مَا دُمْنَا!" }
+      ]
+    },
+    {
+      "id": "m21_d2",
+      "baslik": "Hava Durumu ve Hafta Sonu Planı (أَصْبَحَ / ظَلَّ / سَيَكُونُ)",
+      "ortam": "İki kardeş hafta sonu doğa yürüyüşü öncesi hava durumunu konuşuyor",
+      "replikler": [
+        { "konusan": "سارة", "ar": "صَبَاحُ الْخَيْرِ يَا يُوسُفُ! كَيْفَ أَصْبَحَ الْجَوُّ الْيَوْمَ؟ كَانَ غَائِمًا جِدًّا لَيْلَةَ أَمْسِ!", "okunus": "Sabâhu'l-hayri yâ Yûsufu! Keyfe asbeha'l-cevvu'l-yevme? Kâne gâimen cidden leylete emsi!", "tr": "Günaydın Yusuf! Bugün hava nasıl oldu? Dün gece çok bulutluydu!" },
+        { "konusan": "يوسف", "ar": "صَبَاحُ النُّورِ! تَحَسَّنَ الطَّقْسُ كَثِيرًا؛ أَصْبَحَتِ السَّمَاءُ صَافِيَةً وَصَارَ الْهَوَاءُ دَافِئًا وَلَطِيفًا!", "okunus": "Sabâhu'n-nûri! Tehassene't-taksu kesîran; asbehati's-semâu sâfiyeten ve sâra'l-hevâu dâfien ve latîfen!", "tr": "Günaydın! Hava çok düzeldi; gökyüzü berraklaştı ve hava ılık ve hoş oldu!" },
+        { "konusan": "سارة", "ar": "الْحَمْدُ لِلّٰهِ! كُنْتُ قَلِقَةً أَنْ نُؤَجِّلَ رِحْلَةَ الْغَابَةِ بِسَبَبِ الْمَطَرِ.", "okunus": "El-hamdu lillâhi! Kuntu kalikaten en nueccile rihlete'l-gâbeti bi-sebebi'l-matari.", "tr": "Elhamdülillah! Yağmur yüzünden orman gezisini erteleyeceğiz diye endişeliydim." },
+        { "konusan": "يوسف", "ar": "تَابَعْتُ النَّشْرَةَ الْجَوِّيَّةَ صَبَاحًا؛ سَيَظَلُّ الْجَوُّ مُشْمِسًا طَوَالَ النَّهَارِ، وَلَيْسَ هُنَاكَ احْتِمَالٌ لِلْمَطَرِ!", "okunus": "Tâba‘tu'n-neşrate'l-cevviyyete sabâhan; se-yezallu'l-cevvu muşmisen tavâle'n-nehâri, ve leyse hunâke'htimâlun li'l-matari!", "tr": "Sabah hava durumunu takip ettim; hava gün boyu güneşli kalacak ve yağmur ihtimali yok!" },
+        { "konusan": "سارة", "ar": "مُمْتَازٌ! هَلْ كَانَ أَصْدِقَاؤُنَا قَدْ جَهَّزُوا حَقَائِبَهُمْ أَمْسِ؟", "okunus": "Mumtâzun! Hel kâne esdikâunâ kad cehhezû hakâibehum emsi?", "tr": "Harika! Arkadaşlarımız dün çantalarını hazırlamışlar mıydı?" },
+        { "konusan": "يوسف", "ar": "نَعَمْ، كَانُوا قَدِ اتَّفَقُوا عَلَى كُلِّ التَّفَاصِيلِ، وَسَيَكُونُونَ فِي نُقْطَةِ الِانْطِلَاقِ قَبْلَ التَّاسِعَةِ!", "okunus": "Ne‘am, kânû kadi'ttefakû ‘alâ kulli't-tefâsîli, ve se-yekûnûne fî nuktatı'l-intilâkı kable't-tâsi‘ati!", "tr": "Evet, tüm ayrıntılarda anlaşmışlardı ve dokuzdan önce başlangıç noktasında olacaklar!" },
+        { "konusan": "سارة", "ar": "وَلٰكِنْ فِي الْمَسَاءِ، قَدْ يُصْبِحُ الْجَوُّ بَارِدًا قَلِيلًا فِي الْجَبَلِ؛ فَلْنَأْخُذْ مَعَاطِفَ خَفِيفَةً!", "okunus": "Ve lâkin fi'l-mesâi, kad yusbihu'l-cevvu bâridan kalîlen fi'l-cebeli; fel-ne'huz me‘âtıfe hafîfeten!", "tr": "Ama akşam dağda hava biraz soğuk olabilir; haydi yanımıza hafif ceketler alalım!" },
+        { "konusan": "يوسف", "ar": "فِكْرَةٌ حَكِيمَةٌ! لَيْسَ حَمْلُ مِعْطَفٍ خَفِيفٍ بِمُتْعِبٍ، وَسَيَكُونُ مُفِيدًا عِنْدَ الْغُرُوبِ.", "okunus": "Fikratun hakîmetun! Leyse hamlu mi‘tafın hafîfin bi-mut‘ibin, ve se-yekûnu mufîden ‘inde'l-gurûbi.", "tr": "Akıllıca fikir! Hafif bir ceket taşımak hiç de yorucu değil ve gün batımında faydalı olacak." },
+        { "konusan": "سارة", "ar": "هَلْ مَا زَالَ إِبْرِيقُ الشَّايِ فِي الْمَطْبَخِ أَمْ وَضَعْتَهُ فِي السَّيَّارَةِ؟", "okunus": "Hel mâ zâle ibrîku'ş-şâyi fi'l-matbahi em veda‘tehu fi's-seyyârati?", "tr": "Çay termosu hâlâ mutfakta mı yoksa arabaya mı koydun?" },
+        { "konusan": "يوسف", "ar": "لَقَدْ كُنْتُ قَدْ وَضَعْتُهُ فِي الصُّنْدُوقِ مَعَ الْفَوَاكِهِ وَالْمَاءِ قَبْلَ أَنْ تَسْتَيْقِظِي!", "okunus": "Lekad kuntu kad veda‘tuhu fi's-sundûkı me‘a'l-fevâkihi ve'l-mâi kable en testeykızî!", "tr": "Sen uyanmadan önce onu meyveler ve suyla birlikte bagaja koymuştum bile!" },
+        { "konusan": "سارة", "ar": "مَا شَاءَ اللّٰهُ عَلَيْكَ يَا يُوسُفُ! كُنْتَ مُنَظَّمًا جِدًّا الْيَوْمَ! هَيَّا بِنَا نَنْطَلِقْ!", "okunus": "Mâ şâallâhu ‘aleyke yâ Yûsufu! Kunte munazzamen ciddeni'l-yevme! Heyyâ binâ nentalık!", "tr": "Maşallah sana Yusuf! Bugün çok düzenliymişsin! Haydi yola çıkalım!" },
+        { "konusan": "يوسف", "ar": "هَيَّا بِنَا، سَتَكُونُ رِحْلَةً رَائِعَةً بِإِذْنِ اللّٰهِ!", "okunus": "Heyyâ binâ, se-tekûnu rihleten râi‘aten bi-iznillâhi!", "tr": "Haydi gidelim, inşallah harika bir gezi olacak!" }
+      ],
+      "partner": [
+        { "soruAr": "كَيْفَ نَقُولُ 'Gökyüzü berraklaştı (berrak oldu)'؟", "soruTr": "'Gökyüzü berrak oldu' (أَصْبَحَ) hangisidir?", "ipucu": "أَصْبَحَتِ السَّمَاءُ صَافِيَةً.", "secenekler": ["أَصْبَحَتِ السَّمَاءُ صَافِيَةً.", "أَصْبَحَ السَّمَاءُ صَافِيَةٌ.", "أَصْبَحَتِ السَّمَاءَ صَافِيَةٌ."], "dogruIndeks": 0, "aciklama": "السَّمَاءُ dişil merfû, صَافِيَةً mansub haber!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Hava gün boyu güneşli kalacak' (ظَلَّ)؟", "soruTr": "'Hava güneşli kalacak' hangisidir?", "ipucu": "سَيَظَلُّ الْجَوُّ مُشْمِسًا.", "secenekler": ["سَيَظَلُّ الْجَوُّ مُشْمِسًا طَوَالَ النَّهَارِ.", "سَيَظَلُّ الْجَوُّ مُشْمِسٌ.", "ظَلَّ الْجَوُّ مُشْمِسًا غَدًا."], "dogruIndeks": 0, "aciklama": "سَيَظَلُّ (gelecek) + الْجَوُّ (merfû) + مُشْمِسًا (mansub)!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Yağmur ihtimali yok!' (لَيْسَ هُنَاكَ)؟", "soruTr": "'Yağmur ihtimali yok!' hangisidir?", "ipucu": "لَيْسَ هُنَاكَ احْتِمَالٌ (merfû!).", "secenekler": ["لَيْسَ هُنَاكَ احْتِمَالٌ لِلْمَطَرِ!", "لَيْسَ هُنَاكَ احْتِمَالًا لِلْمَطَرِ!", "لَيْسَ احْتِمَالًا هُنَاكَ!"], "dogruIndeks": 0, "aciklama": "هُنَاكَ öne geçmiş haber, اِحْتِمَالٌ merfû isimdir!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Sen uyanmadan önce onu koymuştum' (كَانَ قَدْ)؟", "soruTr": "'Onu koymuştum' (-mıştı) hangisidir?", "ipucu": "كُنْتُ قَدْ وَضَعْتُهُ.", "secenekler": ["كُنْتُ قَدْ وَضَعْتُهُ.", "كُنْتُ أَضَعُهُ.", "كَانَ قَدْ وَضَعْتُهُ."], "dogruIndeks": 0, "aciklama": "كُنْتُ + قَدْ + وَضَعْتُهُ = 'koymuştum'!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Harika bir gezi olacak!' (سَتَكُونُ)؟", "soruTr": "'Harika bir gezi olacak!' hangisidir?", "ipucu": "سَتَكُونُ رِحْلَةً رَائِعَةً (mansub!).", "secenekler": ["سَتَكُونُ رِحْلَةً رَائِعَةً!", "سَتَكُونُ رِحْلَةٌ رَائِعَةٌ!", "سَيَكُونُ رِحْلَةً رَائِعَةً!"], "dogruIndeks": 0, "aciklama": "Gizli isim (هِيَ) + mansub haber (رِحْلَةً رَائِعَةً)!" }
+      ]
+    },
+    {
+      "id": "m21_d3",
+      "baslik": "Kütüphanede Tarih Araştırması (لَمْ يَكُنْ / بَاتَ / كَانَ + Meçhul)",
+      "ortam": "İki öğrenci orta çağ bilim tarihi ödevi için bilgi topluyor",
+      "replikler": [
+        { "konusan": "ليلى", "ar": "يَا مَرْيَمُ، كَيْفَ كَانَتِ الْجَامِعَاتُ فِي الْعُصُورِ الْوُسْطَى؟ هَلْ كَانَتْ مِثْلَ جَامِعَاتِنَا الْيَوْمَ؟", "okunus": "Yâ Meryemu, keyfe kâneti'l-câmi‘âtu fi'l-‘usûri'l-vustâ? Hel kânet misle câmi‘âtine'l-yevme?", "tr": "Meryem, Orta Çağ'da üniversiteler nasıldı? Bugünkü üniversitelerimiz gibi miydi?" },
+        { "konusan": "مريم", "ar": "كَانَتْ مُخْتَلِفَةً فِي الشَّكْلِ، وَلٰكِنَّهَا كَانَتْ مَرَاكِزَ عِلْمِيَّةً كُبْرَى! كَانَتْ جَامِعَةُ الْقَرَوِيِّينَ فِي فَاسَ تَسْتَقْبِلُ الطُّلَّابَ مِنْ شَتَّى الْبِلَادِ.", "okunus": "Kânet muhtelifeten fi'ş-şekli, ve lâkinnehâ kânet merâkize ‘ilmiyyeten kubrâ! Kânet câmi‘atu'l-Karaviyyîne fî Fâse testakbilu't-tullâbe min şette'l-bilâdi.", "tr": "Biçim olarak farklıydı ama büyük bilim merkezleriydi! Fas'taki Karaviyyîn Üniversitesi dört bir yandan öğrencileri kabul ederdi." },
+        { "konusan": "ليلى", "ar": "سُبْحَانَ اللّٰهِ! وَهَلْ كَانَ التَّعْلِيمُ فِيهَا مَجَّانِيًّا أَمْ بِرُسُومٍ؟", "okunus": "Subhânallâhi! Ve hel kâne't-ta‘lîmu fîhâ meccâniyyen em bi-rusûmin?", "tr": "Sübhanallah! Orada eğitim ücretsiz miydi yoksa ücretli miydi?" },
+        { "konusan": "مريم", "ar": "لَمْ يَكُنِ الطُّلَّابُ يَدْفَعُونَ رُسُومًا، بَلْ كَانَتْ تُقَدَّمُ لَهُمُ الْغُرَفُ وَالطَّعَامُ وَالْكُتُبُ مِنْ أَوْقَافِ الْمَدْرَسَةِ!", "okunus": "Lem yekuni't-tullâbu yedfe‘ûne rusûmen, bel kânet tukaddemu lehumu'l-gurafu ve't-ta‘âmu ve'l-kutubu min evkâfi'l-medreseti!", "tr": "Öğrenciler ücret ödemezlerdi; bilakis onlara medresenin vakıflarından odalar, yemek ve kitaplar sunulurdu!" },
+        { "konusan": "ليلى", "ar": "وَكَيْفَ كَانَ الْعُلَمَاءُ يَتَبَادَلُونَ الْأَبْحَاثَ قَبْلَ اخْتِرَاعِ الطِّبَاعَةِ وَالْإِنْتَرْنِتِ؟", "okunus": "Ve keyfe kâne'l-‘ulemâu yetebâdelûne'l-ebhâse kable'htirâ‘i't-tıbâ‘ati ve'l-intirnit?", "tr": "Peki matbaa ve internetin icadından önce âlimler araştırmaları nasıl paylaşırlardı?" },
+        { "konusan": "مريم", "ar": "كَانَتِ الْكُتُبُ تُنْسَخُ بِالْيَدِ فِي حَلَقَاتِ الْوَرَّاقِينَ، وَكَانَ طَالِبُ الْعِلْمِ يَرْحَلُ مِنْ بَغْدَادَ إِلَى دِمَشْقَ وَالْقَاهِرَةِ لِسَمَاعِ أُسْتَاذٍ وَاحِدٍ!", "okunus": "Kâneti'l-kutubu tunsehu bi'l-yedi fî halakâti'l-verrâkîne, ve kâne tâlibu'l-‘ilmi yerhalu min Bagdâde ilâ Dimeşka ve'l-Kâhirati li-semâ‘i ustâzin vâhidin!", "tr": "Kitaplar müstensih (verrâk) halkalarında elle çoğaltılırdı ve bir ilim talebesi tek bir hocayı dinlemek için Bağdat'tan Şam'a ve Kahire'ye yolculuk yapardı!" },
+        { "konusan": "ليلى", "ar": "أَمَّا الْيَوْمَ، فَقَدْ أَصْبَحَ الْوُصُولُ إِلَى الْمَعْلُومَةِ سَهْلًا جِدًّا، وَبَاتَتِ الْمَخْطُوطَاتُ النَّادِرَةُ مُتَاحَةً عَلَى الشَّبَكَةِ!", "okunus": "Emme'l-yevme, fe-kad asbeha'l-vusûlu ile'l-ma‘lûmeti sehlen cidden, ve bâteti'l-mahtûtâtu'n-nâdiratu mutâhaten ‘ale'ş-şebeketi!", "tr": "Bugün ise bilgiye ulaşmak çok kolay hâle geldi ve nadir el yazmaları artık internette erişilebilir oldu!" },
+        { "konusan": "مريم", "ar": "صَحِيحٌ! وَلٰكِنْ لَا يَزَالُ الصَّبْرُ وَالْقِرَاءَةُ الْعَمِيقَةُ شَرْطَيْنِ أَسَاسِيَّيْنِ لِتَحْصِيلِ الْعِلْمِ الْحَقِيقِيِّ!", "okunus": "Sahîhun! Ve lâkin lâ yezâlu's-sabru ve'l-kırâetu'l-‘amîkatu şartayni esâsiyyeyni li-tahsîli'l-‘ilmi'l-hakîkıyyi!", "tr": "Doğru! Ama sabır ve derin okuma gerçek ilmi elde etmenin hâlâ iki temel şartıdır!" },
+        { "konusan": "ليلى", "ar": "هَلْ كُنَّا قَدِ اخْتَرْنَا عُنْوَانًا نِهَائِيًّا لِبَحْثِنَا، أَمْ مَا زِلْنَا نُفَكِّرُ فِيهِ؟", "okunus": "Hel kunnâ kadi'hternâ ‘unvânen nihâiyyen li-bahsinâ, em mâ zilnâ nufekkiru fîhi?", "tr": "Araştırmamız için kesin bir başlık seçmiş miydik yoksa hâlâ üzerine düşünüyor muyuz?" },
+        { "konusan": "مريم", "ar": "مَا زِلْنَا نُفَكِّرُ فِيهِ، وَلٰكِنْ غَدًا سَنَكُونُ قَدْ حَدَّدْنَا الْعُنْوَانَ وَالْمَرَاجِعَ كُلَّهَا بِإِذْنِ اللّٰهِ!", "okunus": "Mâ zilnâ nufekkiru fîhi, ve lâkin gaden se-nekûnu kad haddedne'l-‘unvâne ve'l-merâci‘a kullehâ bi-iznillâhi!", "tr": "Hâlâ düşünüyoruz, ama yarın inşallah başlığı ve tüm kaynakları belirlemiş olacağız!" },
+        { "konusan": "ليلى", "ar": "مُمْتَازٌ! مَا دُمْنَا نَعْمَلُ بِهٰذَا النَّشَاطِ، فَسَيَكُونُ بَحْثُنَا مُمَيَّزًا جِدًّا!", "okunus": "Mumtâzun! Mâ dumnâ na‘melu bi-hâze'n-neşâtı, fe-se-yekûnu bahsunâ mumeyyezen cidden!", "tr": "Harika! Bu dinçlikle çalıştığımız sürece araştırmamız çok seçkin olacak!" },
+        { "konusan": "مريم", "ar": "بِإِذْنِ اللّٰهِ يَا لَيْلَى! فَلْنَطْلُبِ الْكِتَابَ الثَّانِيَ مِنَ الرَّفِّ الْآنَ.", "okunus": "Bi-iznillâhi yâ Leylâ! Fel-natlubi'l-kitâbe's-sâniye mine'r-raffi'l-âne.", "tr": "İnşallah Leyla! Haydi şimdi raftan ikinci kitabı isteyelim." }
+      ],
+      "partner": [
+        { "soruAr": "كَيْفَ نَقُولُ 'Öğrenciler ücret ödemezlerdi'؟", "soruTr": "'Öğrenciler ücret ödemezlerdi' hangisidir?", "ipucu": "لَمْ يَكُنِ الطُّلَّابُ يَدْفَعُونَ رُسُومًا.", "secenekler": ["لَمْ يَكُنِ الطُّلَّابُ يَدْفَعُونَ رُسُومًا.", "لَمْ يَكُونُوا الطُّلَّابُ يَدْفَعُ.", "لَمْ يَكُنِ الطُّلَّابُ دَفَعُوا."], "dogruIndeks": 0, "aciklama": "لَمْ يَكُنْ (açık isimden önce tekil!) + çoğul muzâri (يَدْفَعُونَ)!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Sabır ve okuma hâlâ iki temel şarttır' (Tesniye mansub!)؟", "soruTr": "'İki temel şarttır' (لَا يَزَالُ haberi) hangisidir?", "ipucu": "شَرْطَيْنِ أَسَاسِيَّيْنِ (يْنِ!).", "secenekler": ["لَا يَزَالُ الصَّبْرُ وَالْقِرَاءَةُ شَرْطَيْنِ أَسَاسِيَّيْنِ.", "لَا يَزَالُ الصَّبْرُ وَالْقِرَاءَةُ شَرْطَانِ أَسَاسِيَّانِ.", "لَيْسَ الصَّبْرُ شَرْطَيْنِ."], "dogruIndeks": 0, "aciklama": "لَا يَزَالُ'nun ikil haberi yâ ile mansubdur: شَرْطَيْنِ أَسَاسِيَّيْنِ!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Kesin bir başlık seçmiş miydik?' (كَانَ قَدْ)؟", "soruTr": "'Seçmiş miydik?' hangisidir?", "ipucu": "هَلْ كُنَّا قَدِ اخْتَرْنَا...", "secenekler": ["هَلْ كُنَّا قَدِ اخْتَرْنَا عُنْوَانًا نِهَائِيًّا؟", "هَلْ كُنَّا نَخْتَارُ عُنْوَانًا؟", "هَلْ سَنَكُونُ قَدِ اخْتَرْنَا أَمْسِ؟"], "dogruIndeks": 0, "aciklama": "كُنَّا + قَدْ + mâzi = '-miş miydik?'!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Yarın tüm kaynakları belirlemiş olacağız'؟", "soruTr": "'Belirlemiş olacağız' (سَنَكُونُ قَدْ) hangisidir?", "ipucu": "سَنَكُونُ قَدْ حَدَّدْنَا...", "secenekler": ["غَدًا سَنَكُونُ قَدْ حَدَّدْنَا الْمَرَاجِعَ كُلَّهَا.", "غَدًا كُنَّا قَدْ حَدَّدْنَا الْمَرَاجِعَ.", "غَدًا سَنَكُونُ نُحَدِّدُ."], "dogruIndeks": 0, "aciklama": "سَنَكُونُ + قَدْ + mâzi = '-mış olacağız'!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Nadir el yazmaları artık erişilebilir oldu' (بَاتَ)؟", "soruTr": "'Erişilebilir oldu' (akılsız çoğul!) hangisidir?", "ipucu": "بَاتَتِ الْمَخْطُوطَاتُ مُتَاحَةً.", "secenekler": ["بَاتَتِ الْمَخْطُوطَاتُ النَّادِرَةُ مُتَاحَةً.", "بَاتَ الْمَخْطُوطَاتُ مُتَاحٌ.", "بَاتَتِ الْمَخْطُوطَاتُ مُتَاحَةٌ."], "dogruIndeks": 0, "aciklama": "بَاتَتْ (dişil) + الْمَخْطُوطَاتُ (merfû) + مُتَاحَةً (mansub haber)!" }
+      ]
+    },
+    {
+      "id": "m21_d4",
+      "baslik": "Akademik Danışmanla Sınav Stratejisi (سَوَاءٌ أَكَانَ / مَهْمَا يَكُنْ / لَيْسَ بِـ)",
+      "ortam": "YDS öğrencisi danışman hocasından son ay çalışma planı hakkında tavsiye alıyor",
+      "replikler": [
+        { "konusan": "عمر", "ar": "أُسْتَاذِي الْفَاضِلَ، بَقِيَ شَهْرٌ وَاحِدٌ عَلَى امْتِحَانِ اللُّغَةِ الْعَرَبِيَّةِ، وَأَصْبَحْتُ أَشْعُرُ بِبَعْضِ التَّوَتُّرِ!", "okunus": "Ustâzi'l-fâdile, bakıye şehrun vâhidun ‘ale'mtihâni'l-lugati'l-‘arabiyyeti, ve asbahtu eş‘uru bi-ba‘di't-tevetturi!", "tr": "Saygıdeğer hocam, Arapça sınavına bir ay kaldı ve biraz stres hissetmeye başladım (hisseder hâle geldim)!" },
+        { "konusan": "الأستاذ", "ar": "لَا تَقْلَقْ يَا عُمَرُ! لَيْسَ هٰذَا الشُّعُورُ بِغَرِيبٍ قَبْلَ الِامْتِحَانَاتِ، وَلٰكِنْ كُنْ هَادِئًا وَوَاثِقًا بِجُهْدِكَ!", "okunus": "Lâ taklak yâ ‘Umeru! Leyse hâze'ş-şu‘ûru bi-garîbin kable'l-imtihânâti, ve lâkin kun hâdien ve vâsikan bi-cuhdike!", "tr": "Endişelenme Ömer! Sınavlardan önce bu his hiç de tuhaf değil; ama sakin ve emeğine güvenen biri ol!" },
+        { "konusan": "عمر", "ar": "هَلْ تَظُنُّ أَنَّ شَهْرًا وَاحِدًا يَكْفِي لِمُرَاجَعَةِ كُلِّ الْقَوَاعِدِ وَالْمُفْرَدَاتِ؟", "okunus": "Hel tazunnu enne şehran vâhiden yekfî li-murâca‘ati kulli'l-kavâ‘idi ve'l-mufredâti?", "tr": "Bir ayın tüm kuralları ve kelimeleri tekrar etmeye yeteceğini düşünüyor musunuz?" },
+        { "konusan": "الأستاذ", "ar": "بِالتَّأْكِيدِ! مَا دَامَ لَدَيْكَ أَسَاسٌ قَوِيٌّ فِي الصَّرْفِ وَالنَّحْوِ، فَإِنَّ شَهْرًا وَاحِدًا كَافٍ جِدًّا لِلْمُرَاجَعَةِ وَالتَّدْرِيبِ!", "okunus": "Bi't-te'kîdi! Mâ dâme ledeyke esâsun kaviyyun fi's-sarfi ve'n-nahvi, fe-inne şehran vâhiden kâfin cidden li'l-murâca‘ati ve't-tedrîbi!", "tr": "Elbette! Sarf ve nahivde güçlü bir temelin olduğu sürece bir ay tekrar ve pratik için fazlasıyla yeterlidir!" },
+        { "konusan": "عمر", "ar": "مَاذَا أَفْعَلُ فِي نُصُوصِ الْقِرَاءَةِ؟ أَحْيَانًا أَجِدُ كَلِمَةً جَدِيدَةً لَمْ أَكُنْ أَعْرِفُهَا مِنْ قَبْلُ.", "okunus": "Mâzâ ef‘alu fî nusûsi'l-kırâeti? Ahyânen ecidu kelimeten cedîdeten lem ekun a‘rifuhâ min kablu.", "tr": "Okuma metinlerinde ne yapayım? Bazen daha önce bilmediğim yeni bir kelimeye rastlıyorum." },
+        { "konusan": "الأستاذ", "ar": "لَيْسَ ضَرُورِيًّا أَنْ تَعْرِفَ كُلَّ كَلِمَةٍ مُنْفَرِدَةً! اِفْهَمِ السِّيَاقَ الْعَامَّ، سَوَاءٌ أَكَانَ النَّصُّ تَارِيخِيًّا أَمْ عِلْمِيًّا أَمْ صِحَافِيًّا!", "okunus": "Leyse darûriyyen en ta‘rife kulle kelimetin munferideten! İfhemi's-siyâka'l-‘âmme, sevâun e-kâne'n-nassu târîhiyyen em ‘ilmiyyen em sıhâfiyyen!", "tr": "Her tekil kelimeyi bilmen zorunlu değil! Metin ister tarihî ister bilimsel ister basın metni olsun, genel bağlamı anla!" },
+        { "konusan": "عمر", "ar": "كُنْتُ أَخَافُ مِنْ أَسْئِلَةِ التَّرْجَمَةِ، وَلٰكِنَّهَا أَصْبَحَتْ أَسْهَلَ بَعْدَ أَنْ تَعَلَّمْتُ الِاسْمَ الْمَوْصُولَ وَأَنْوَاعَ النَّعْتِ!", "okunus": "Kuntu ehâfu min es'ileti't-tercemeti, ve lâkinnehâ asbehat eshele ba‘de en te‘allemtu'l-isme'l-mevsûle ve envâ‘a'n-na‘ti!", "tr": "Çeviri sorularından korkuyordum ama ism-i mevsûl ve sıfat çeşitlerini öğrendikten sonra daha kolay hâle geldiler!" },
+        { "konusan": "الأستاذ", "ar": "أَحْسَنْتَ! وَحُلَّ كُلَّ يَوْمٍ اخْتِبَارًا تَجْرِيبِيًّا مَعَ الْوَقْتِ؛ فَمَهْمَا يَكُنِ الِامْتِحَانُ طَوِيلًا، سَتُصْبِحُ إِدَارَةُ الْوَقْتِ عَادَةً سَهْلَةً لَدَيْكَ!", "okunus": "Ahsente! Ve hulle kulle yevmin ihtibâran tecrîbiyyen me‘a'l-vakti; fe-mehmâ yekuni'l-imtihânu tavîlen, se-tusbihu idâratu'l-vakti ‘âdeten sehleten ledeyke!", "tr": "Aferin! Her gün süre tutarak bir deneme sınavı çöz; böylece sınav ne kadar uzun olursa olsun zaman yönetimi sende kolay bir alışkanlık hâline gelecek!" },
+        { "konusan": "عمر", "ar": "شُكْرًا جَزِيلًا يَا أُسْتَاذُ! صِرْتُ الْآنَ أَكْثَرَ هُدُوءًا وَتَفَاؤُلًا!", "okunus": "Şukran cezîlen yâ ustâzu! Sırtu'l-âne eksera hudûen ve tefâulen!", "tr": "Çok teşekkür ederim hocam! Şimdi çok daha sakin ve iyimser oldum!" },
+        { "konusan": "الأستاذ", "ar": "مَا زَالَ أَمَامَكَ ثَلَاثُونَ يَوْمًا كَامِلَةً؛ اِسْتَثْمِرْهَا بِذَكَاءٍ وَنَمْ جَيِّدًا، فَسَتَكُونُ النَّتِيجَةُ مُفْرِحَةً كَمَا هُوَ مُتَوَقَّعٌ!", "okunus": "Mâ zâle emâmeke selâsûne yevmen kâmileten; istesmirhâ bi-zekâin ve nem ceyyiden, fe-se-tekûnu'n-netîcetu mufrihaten kemâ huve mutevakka‘un!", "tr": "Önünde hâlâ tam otuz gün var; onları akıllıca değerlendir ve iyi uyu, sonuç beklendiği gibi sevindirici olacaktır!" },
+        { "konusan": "عمر", "ar": "بَارَكَ اللّٰهُ فِيكَ يَا أُسْتَاذُ، لَنْ أُخَيِّبَ ظَنَّكَ بِإِذْنِ اللّٰهِ!", "okunus": "Bârakallâhu fîke yâ ustâzu, len uhayyibe zanneke bi-iznillâhi!", "tr": "Allah sizden razı olsun hocam, inşallah beklentinizi boşa çıkarmayacağım!" },
+        { "konusan": "الأستاذ", "ar": "بِالتَّوْفِيقِ وَالنَّجَاحِ يَا عُمَرُ، وَبَابُ مَكْتَبِي مَفْتُوحٌ لَكَ دَائِمًا!", "okunus": "Bi't-tevfîkı ve'n-necâhi yâ ‘Umeru, ve bâbu mektebî meftûhun leke dâimen!", "tr": "Başarılar ve muvaffakiyetler Ömer, ofisimin kapısı sana daima açık!" }
+      ],
+      "partner": [
+        { "soruAr": "كَيْفَ نَقُولُ 'Bu his hiç de tuhaf değil!' (لَيْسَ + بِـ)؟", "soruTr": "'Bu his hiç de tuhaf değil!' hangisidir?", "ipucu": "لَيْسَ هٰذَا الشُّعُورُ بِغَرِيبٍ.", "secenekler": ["لَيْسَ هٰذَا الشُّعُورُ بِغَرِيبٍ.", "لَيْسَ هٰذَا الشُّعُورُ غَرِيبٌ.", "لَا هٰذَا الشُّعُورُ بِغَرِيبٍ."], "dogruIndeks": 0, "aciklama": "لَيْسَ + zâid بِـ (mahallen mansub)!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Metin ister tarihî ister bilimsel olsun!'؟", "soruTr": "'İster tarihî ister bilimsel olsun!' hangisidir?", "ipucu": "سَوَاءٌ أَكَانَ النَّصُّ تَارِيخِيًّا أَمْ عِلْمِيًّا!", "secenekler": ["سَوَاءٌ أَكَانَ النَّصُّ تَارِيخِيًّا أَمْ عِلْمِيًّا!", "سَوَاءٌ أَكَانَ النَّصُّ تَارِيخِيٌّ أَمْ عِلْمِيٌّ!", "سَوَاءٌ كَانَ النَّصُّ تَارِيخِيًّا بَلْ عِلْمِيًّا!"], "dogruIndeks": 0, "aciklama": "سَوَاءٌ أَكَانَ + merfû isim + mansub haber + أَمْ + mansub!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Sınav ne kadar uzun olursa olsun!' (مَهْمَا يَكُنْ)؟", "soruTr": "'Sınav ne kadar uzun olursa olsun!' hangisidir?", "ipucu": "مَهْمَا يَكُنِ الِامْتِحَانُ طَوِيلًا.", "secenekler": ["مَهْمَا يَكُنِ الِامْتِحَانُ طَوِيلًا!", "مَهْمَا يَكُونُ الِامْتِحَانُ طَوِيلٌ!", "مَهْمَا كَانَ الِامْتِحَانُ طَوِيلٌ!"], "dogruIndeks": 0, "aciklama": "مَهْمَا + meczum يَكُنْ + merfû isim + mansub haber (طَوِيلًا)!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Güçlü bir temelin olduğu sürece...' (Öne geçmiş haberli مَا دَامَ)؟", "soruTr": "'Güçlü bir temelin olduğu sürece' hangisidir?", "ipucu": "مَا دَامَ لَدَيْكَ أَسَاسٌ قَوِيٌّ (merfû!).", "secenekler": ["مَا دَامَ لَدَيْكَ أَسَاسٌ قَوِيٌّ", "مَا دَامَ لَدَيْكَ أَسَاسًا قَوِيًّا", "مَا زَالَ لَدَيْكَ أَسَاسًا"], "dogruIndeks": 0, "aciklama": "لَدَيْكَ öne geçmiş haber, أَسَاسٌ قَوِيٌّ merfû isimdir!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Önünde hâlâ tam otuz gün var' (مَا زَالَ)؟", "soruTr": "'Önünde hâlâ otuz gün var' (30 merfû: ثَلَاثُونَ!) hangisidir?", "ipucu": "مَا زَالَ أَمَامَكَ ثَلَاثُونَ يَوْمًا.", "secenekler": ["مَا زَالَ أَمَامَكَ ثَلَاثُونَ يَوْمًا.", "مَا زَالَ أَمَامَكَ ثَلَاثِينَ يَوْمًا.", "لَيْسَ أَمَامَكَ ثَلَاثُونَ يَوْمًا."], "dogruIndeks": 0, "aciklama": "أَمَامَكَ öne geçmiş haber; ثَلَاثُونَ (vâv ile merfû!) isimdir!" }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "id": "m21_fc01", "ar": "كَانَ — يَكُونُ — كُنْ", "harekesiz": "كان — يكون — كن", "okunus": "Kâne — yekûnu — kun", "tr": "İdi / olmak / ol! (Nâkıs fiillerin başı)", "kok": "ك و ن", "vezin": "فَعَلَ (أَجْوَف)", "turevler": ["كُنْتُ", "لَمْ يَكُنْ", "كَائِن"], "ekBilgi": "İsim cümlesine girer; ismini MERFÛ, haberini MANSUB yapar!", "ornek": "كَانَ الدَّرْسُ سَهْلًا — كُنْ صَبُورًا!", "ornekTr": "Ders kolaydı — Sabırlı ol!", "kullanimNotu": "Mâzi, muzâri ve emir tüm sığaları aynı ameli yapar.", "tur": "Fiil" },
+    { "id": "m21_fc02", "ar": "أَصْبَحَ — يُصْبِحُ", "harekesiz": "أصبح — يصبح", "okunus": "Asbeha — yusbihu", "tr": "... hâline geldi / oldu (Modern Arapçada en sık!)", "kok": "ص ب ح", "vezin": "أَفْعَلَ (IV)", "turevler": ["أَصْبَحْتُ", "سَيُصْبِحُ"], "ekBilgi": "Klasikte 'sabahladı', modern dilde 'oldu / hâline geldi' anlamındadır", "ornek": "أَصْبَحَ التَّعْلِيمُ الرَّقْمِيُّ جُزْءًا أَسَاسِيًّا.", "ornekTr": "Dijital eğitim temel bir parça hâline geldi.", "kullanimNotu": "Ref'–Nasb ameli yapar.", "tur": "Fiil" },
+    { "id": "m21_fc03", "ar": "صَارَ — يَصِيرُ", "harekesiz": "صار — يصير", "okunus": "Sâra — yasîru", "tr": "Dönüştü / oldu", "kok": "ص ي ر", "vezin": "فَعَلَ (أَجْوَف)", "turevler": ["صِرْتُ", "مَصِير"], "ekBilgi": "Bir hâlden başka bir hâle dönüşümü bildirir (أَنَا: صِرْتُ!)", "ornek": "صَارَ الطِّفْلُ شَابًّا نَاجِحًا.", "ornekTr": "Çocuk başarılı bir genç oldu.", "kullanimNotu": "Ref'–Nasb ameli yapar.", "tur": "Fiil" },
+    { "id": "m21_fc04", "ar": "ظَلَّ — يَظَلُّ", "harekesiz": "ظل — يظل", "okunus": "Zalle — yezallu", "tr": "Hep / gün boyu ... kaldı / olmaya devam etti", "kok": "ظ ل ل", "vezin": "فَعِلَ (مُضَعَّف)", "turevler": ["ظَلَلْتُ", "سَتَظَلُّ"], "ekBilgi": "Süreklilik bildirir; 1. şahısta şedde açılır: ظَلَلْتُ", "ornek": "ظَلَّ الصَّدِيقُ وَفِيًّا طَوَالَ حَيَاتِهِ.", "ornekTr": "Dost hayatı boyunca vefalı kaldı.", "kullanimNotu": "YDS'de 'olmaya devam edecektir' = سَيَظَلُّ!", "tur": "Fiil" },
+    { "id": "m21_fc05", "ar": "بَاتَ — يَبِيتُ", "harekesiz": "بات — يبيت", "okunus": "Bâte — yebîtu", "tr": "Artık ... hâline geldi (Klasikte: geceledi)", "kok": "ب ي ت", "vezin": "فَعَلَ (أَجْوَف)", "turevler": ["بِتُّ", "بَاتَ مِنَ الضَّرُورِيِّ"], "ekBilgi": "Modern basında ve YDS'de أَصْبَحَ gibi 'artık ... hâline geldi' anlamındadır!", "ornek": "بَاتَ تَعَلُّمُ اللُّغَاتِ ضَرُورِيًّا.", "ornekTr": "Dil öğrenmek artık zorunlu hâle geldi.", "kullanimNotu": "Ref'–Nasb ameli yapar.", "tur": "Fiil" },
+    { "id": "m21_fc06", "ar": "أَمْسَى — يُمْسِي", "harekesiz": "أمسى — يمسي", "okunus": "Emsâ — yumsî", "tr": "Akşamladı / (akşam) ... hâline geldi", "kok": "م س و", "vezin": "أَفْعَلَ (IV + نَاقِص)", "turevler": ["أَمْسَيْتُ", "مَسَاء"], "ekBilgi": "أَصْبَحَ'nin akşam ikizidir; Tâm fiil olarak da ('akşama ulaştı') kullanılır", "ornek": "أَمْسَى الْجَوُّ بَارِدًا فِي الْجَبَلِ.", "ornekTr": "Akşam dağda hava soğudu.", "kullanimNotu": "Ref'–Nasb ameli yapar.", "tur": "Fiil" },
+    { "id": "m21_fc07", "ar": "لَيْسَ", "harekesiz": "ليس", "okunus": "Leyse", "tr": "Değildir (İsim cümlesini olumsuz yapan nâkıs fiil)", "kok": "ل ي س", "vezin": "فِعْلٌ جَامِدٌ", "turevler": ["لَسْتُ", "لَيْسُوا", "لَيْسَ هُنَاكَ"], "ekBilgi": "Câmid fiildir (muzâri/emri yoktur); haberine vurgu için zâid بِـ gelebilir!", "ornek": "لَيْسَ النَّجَاحُ بِمُسْتَحِيلٍ.", "ornekTr": "Başarı kesinlikle imkânsız değildir.", "kullanimNotu": "لَيْسَ هُنَاكَ + merfû isim = '... yoktur'!", "tur": "Fiil" },
+    { "id": "m21_fc08", "ar": "مَا زَالَ / لَا يَزَالُ", "harekesiz": "ما زال / لا يزال", "okunus": "Mâ zâle / Lâ yezâlu", "tr": "Hâlâ (...-meye devam ediyor!)", "kok": "ز و ل", "vezin": "فِعْلُ اسْتِمْرَارٍ", "turevler": ["مَا زِلْتُ", "مَا زِلْنَا", "لَا تَزَالُ"], "ekBilgi": "Başındaki مَا/لَا'ya rağmen anlamı OLUMLUDUR ('hâlâ!')", "ornek": "مَا زَالَ الْأَمَلُ حَيًّا فِي قُلُوبِنَا.", "ornekTr": "Umut kalplerimizde hâlâ canlıdır.", "kullanimNotu": "YDS'de en sık geçen süreklilik fiilidir!", "tur": "Kalıp" },
+    { "id": "m21_fc09", "ar": "مَا دَامَ", "harekesiz": "ما دام", "okunus": "Mâ dâme", "tr": "... olduğu sürece / müddetçe", "kok": "د و م", "vezin": "مَا الْمَصْدَرِيَّةُ + دَامَ", "turevler": ["مَا دُمْتُ", "مَا دُمْتَ", "مَا دُمْنَا"], "ekBilgi": "İsmi merfû, haberi mansub olur; mutlaka bir ana cümleye bağlanır!", "ornek": "سَتَنْجَحُ مَا دُمْتَ مُثَابِرًا!", "ornekTr": "Sebat ettiğin sürece başaracaksın!", "kullanimNotu": "مَا دَامَ'daki مَا olumsuzluk değil, 'süre' (masdariyye-i zarfiyye) مَا'sıdır!", "tur": "Kalıp" },
+    { "id": "m21_fc10", "ar": "مَا بَرِحَ / مَا انْفَكَّ / مَا فَتِئَ", "harekesiz": "ما برح / ما انفك / ما فتئ", "okunus": "Mâ beriha / Menfekke / Mâ fetie", "tr": "Hâlâ (مَا زَالَ'nin edebî eş anlamlıları)", "kok": "ب ر ح", "vezin": "أَفْعَالُ اسْتِمْرَارٍ", "turevler": ["لَا يَبْرَحُ", "لَا يَنْفَكُّ"], "ekBilgi": "مَا زَالَ ile tamamen aynı anlam ve Ref'–Nasb ameline sahiptirler", "ornek": "مَا بَرِحَ الْعَالِمُ بَاحِثًا عَنِ الْحَقِيقَةِ.", "ornekTr": "Âlim hâlâ hakikati aramaktadır.", "kullanimNotu": "Klasik ve ileri akademik metinlerde çıkar.", "tur": "Kalıp" },
+    { "id": "m21_fc11", "ar": "كَانَ + الْمُضَارِعُ", "harekesiz": "كان + المضارع", "okunus": "Kâne + el-mudâri‘u", "tr": "-yordu / eskiden -rdı (Şimdiki/geniş hikâye)", "kok": "ك و ن", "vezin": "زَمَنٌ مُرَكَّبٌ", "turevler": ["كُنْتُ أَقْرَأُ", "كُنَّا نَلْعَبُ"], "ekBilgi": "Geçmişte süren bir eylemi veya geçmiş alışkanlığı anlatır", "ornek": "كُنْتُ أَقْرَأُ عِنْدَمَا دَقَّ الْجَرَسُ.", "ornekTr": "Zil çaldığında okuyordum.", "kullanimNotu": "Muzâri fiil cümlesi Kâne'nin mahallen mansub haberidir.", "tur": "Kalıp" },
+    { "id": "m21_fc12", "ar": "كَانَ قَدْ + الْمَاضِي", "harekesiz": "كان قد + الماضي", "okunus": "Kâne kad + el-mâdî", "tr": "-mıştı (Miş'li geçmiş zaman)", "kok": "ك و ن", "vezin": "زَمَنٌ مُرَكَّبٌ", "turevler": ["كُنْتُ قَدْ كَتَبْتُ", "كَانُوا قَدْ سَافَرُوا"], "ekBilgi": "Geçmişte başka bir olaydan daha önce tamamlanmış işi bildirir", "ornek": "لَمَّا وَصَلْتُ، كَانَ الْقِطَارُ قَدْ غَادَرَ.", "ornekTr": "Vardığımda tren çoktan ayrılmıştı.", "kullanimNotu": "قَدْ bu yapının anahtar kelimesidir!", "tur": "Kalıp" },
+    { "id": "m21_fc13", "ar": "سَيَكُونُ قَدْ + الْمَاضِي", "harekesiz": "سيكون قد + الماضي", "okunus": "Se-yekûnu kad + el-mâdî", "tr": "-mış olacak (Gelecekte tamamlanmış zaman)", "kok": "ك و ن", "vezin": "زَمَنٌ مُرَكَّبٌ", "turevler": ["سَأَكُونُ قَدْ أَنْهَيْتُ", "سَنَكُونُ قَدْ وَصَلْنَا"], "ekBilgi": "بِحُلُولِ ('... geldiğinde') zarfıyla çok sık kullanılır", "ornek": "غَدًا سَنَكُونُ قَدْ أَنْهَيْنَا الْمَشْرُوعَ.", "ornekTr": "Yarın projeyi bitirmiş olacağız.", "kullanimNotu": "YDS zaman uyumu sorularında çok kıymetlidir.", "tur": "Kalıp" },
+    { "id": "m21_fc14", "ar": "سَوَاءٌ أَكَانَ ... أَمْ", "harekesiz": "سواء أكان ... أم", "okunus": "Sevâun e-kâne ... em", "tr": "İster ... olsun ister ... olsun", "kok": "س و ي", "vezin": "تَرْكِيبُ تَسْوِيَةٍ", "turevler": ["سَوَاءٌ أَكَانَتْ ... أَمْ", "سَوَاءٌ أَكَانُوا ... أَمْ"], "ekBilgi": "İkinci bağlaç daima أَمْ olur; iki taraf da mansub haberdir!", "ornek": "نَحْتَرِمُ الْجَمِيعَ سَوَاءٌ أَكَانَ صَغِيرًا أَمْ كَبِيرًا.", "ornekTr": "İster küçük ister büyük olsun herkese saygı duyarız.", "kullanimNotu": "YDS'nin en popüler eşleşmeli bağlacıdır!", "tur": "Kalıp" },
+    { "id": "m21_fc15", "ar": "مَهْمَا يَكُنْ / مَهْمَا كَانَتْ", "harekesiz": "مهما يكن / مهما كانت", "okunus": "Mehmâ yekun / Mehmâ kânet", "tr": "Her ne olursa olsun / ne kadar ... olursa olsun", "kok": "ك و ن", "vezin": "أُسْلُوبُ شَرْطٍ", "turevler": ["مَهْمَا كَانَتِ الظُّرُوفُ", "مَهْمَا يَكُنِ الثَّمَنُ"], "ekBilgi": "مَهْمَا muzâriyi cezmeder: يَكُونُ → يَكُنْ!", "ornek": "سَنُوَاصِلُ الْعَمَلَ مَهْمَا كَانَتِ الصُّعُوبَاتُ.", "ornekTr": "Zorluklar her ne olursa olsun çalışmaya devam edeceğiz.", "kullanimNotu": "Hem Tâm hem Nâkıs Kâne ile kullanılabilir.", "tur": "Kalıp" },
+    { "id": "m21_fc16", "ar": "كَانَ التَّامَّةُ", "harekesiz": "كان التامة", "okunus": "Kâne et-tâmmetu", "tr": "Tâm Kâne ('var oldu / gerçekleşti')", "kok": "ت م م", "vezin": "مُصْطَلَح نَحْوِيّ", "turevler": ["كَانَ النَّاقِصَةُ", "فَاعِل"], "ekBilgi": "Mansub haber istemez; yalnızca merfû bir FÂİL ile anlamı tamamlanır!", "ornek": "تَعَاوَنَ الْفَرِيقُ فَكَانَ النَّجَاحُ.", "ornekTr": "Ekip yardımlaştı ve başarı gerçekleşti.", "kullanimNotu": "حَيْثُمَا كُنْتَ ('nerede olursan ol') ünlü örneğidir.", "tur": "Terim" },
+    { "id": "m21_fc17", "ar": "لَيْسَ هُنَاكَ + مَرْفُوع", "harekesiz": "ليس هناك", "okunus": "Leyse hunâke", "tr": "... yoktur (Öne geçmiş haber + merfû isim!)", "kok": "ل ي س", "vezin": "تَرْكِيب نَفْيٍ", "turevler": ["لَيْسَ هُنَاكَ شَكٌّ", "لَمْ يَكُنْ هُنَاكَ"], "ekBilgi": "هُنَاكَ haberdir; arkasından gelen nekre isim MERFÛDUR!", "ornek": "لَيْسَ هُنَاكَ شَكٌّ فِي صِدْقِهِ.", "ornekTr": "Onun doğruluğunda hiç şüphe yoktur.", "kullanimNotu": "Asla لَيْسَ هُنَاكَ شَكًّا denmez!", "tur": "Kalıp" },
+    { "id": "m21_fc18", "ar": "كَمَا كَانَ مُتَوَقَّعًا", "harekesiz": "كما كان متوقعا", "okunus": "Kemâ kâne mutevakka‘an", "tr": "Beklendiği gibi", "kok": "و ق ع", "vezin": "عِبَارَة صِحَافِيَّة", "turevler": ["كَمَا هُوَ مُتَوَقَّعٌ", "مُتَوَقَّع"], "ekBilgi": "كَانَ ile مُتَوَقَّعًا (mansub), هُوَ ile مُتَوَقَّعٌ (merfû) olur!", "ornek": "نَجَحَ الْمُؤْتَمَرُ كَمَا كَانَ مُتَوَقَّعًا.", "ornekTr": "Konferans beklendiği gibi başarılı oldu.", "kullanimNotu": "Basın ve akademik analizlerin sık kullanılan ifadesidir.", "tur": "Kalıp" },
+    { "id": "m21_fc19", "ar": "بِحُلُولِ", "harekesiz": "بحلول", "okunus": "Bi-hulûli", "tr": "... geldiğinde / ... itibarıyla (by the time)", "kok": "ح ل ل", "vezin": "بِـ + فُعُول", "turevler": ["بِحُلُولِ عَامِ", "بِحُلُولِ نِهَايَةِ الشَّهْرِ"], "ekBilgi": "سَيَكُونُ قَدْ + mâzi ('-mış olacak') zamanının 1 numaralı ipucudur!", "ornek": "بِحُلُولِ نِهَايَةِ الشَّهْرِ، سَنَكُونُ قَدْ أَنْهَيْنَا الْكِتَابَ.", "ornekTr": "Ay sonu geldiğinde kitabı bitirmiş olacağız.", "kullanimNotu": "YDS zaman uyumu sorularının altın zarfıdır!", "tur": "Zarf" },
+    { "id": "m21_fc20", "ar": "مُزْدَهِرٌ", "harekesiz": "مزدهر", "okunus": "Muzdehirun", "tr": "Gelişen / müreffeh / parlak", "kok": "ز ه ر", "vezin": "مُفْتَعِل (VIII)", "turevler": ["اِزْدِهَار", "مُسْتَقْبَلٌ مُزْدَهِرٌ"], "ekBilgi": "اِزْدَهَرَ (gelişti/çiçeklendi) fiilinin ism-i fâilidir (ت → د dönüşümü!)", "ornek": "بَاتَ التَّعْلِيمُ وَالتِّجَارَةُ مُزْدَهِرَيْنِ.", "ornekTr": "Eğitim ve ticaret gelişen iki alan hâline geldi.", "kullanimNotu": "Ekonomi ve tarih metinlerinde çok yaygındır.", "tur": "Sıfat" },
+    { "id": "m21_fc21", "ar": "مُثَابِرٌ", "harekesiz": "مثابر", "okunus": "Musâbirun", "tr": "Sebatkâr / azimli / kararlı", "kok": "ث ب ر", "vezin": "مُفَاعِل (III)", "turevler": ["مُثَابَرَة", "ثَابَرَ عَلَى"], "ekBilgi": "مَا دُمْتَ مُثَابِرًا ('sebat ettiğin sürece') bağlamında çok kullanılır", "ornek": "سَتَنْجَحُ مَا دُمْتَ مُثَابِرًا عَلَى التَّعَلُّمِ!", "ornekTr": "Öğrenmede sebatkâr olduğun sürece başaracaksın!", "kullanimNotu": "ثَابَرَ = sebat etmek, ısrarla çalışmak.", "tur": "Sıfat" },
+    { "id": "m21_fc22", "ar": "مُزْدَحِمٌ", "harekesiz": "مزدحم", "okunus": "Muzdahimun", "tr": "Kalabalık / sıkışık", "kok": "ز ح م", "vezin": "مُفْتَعِل (VIII)", "turevler": ["اِزْدِحَام", "زَحْمَة"], "ekBilgi": "Şehir trafiği ve caddeler için kullanılır", "ornek": "كَانَتِ الشَّوَارِعُ مُزْدَحِمَةً بِسَبَبِ الْمَطَرِ.", "ornekTr": "Yağmur yüzünden caddeler kalabalıktı.", "kullanimNotu": "اِزْدِحَامُ الْمُرُورِ = trafik sıkışıklığı.", "tur": "Sıfat" },
+    { "id": "m21_fc23", "ar": "صَافٍ (م: صَافِيَةٌ)", "harekesiz": "صاف / صافية", "okunus": "Sâfin / Sâfiyetun", "tr": "Berrak / açık / saf / temiz", "kok": "ص ف و", "vezin": "فَاعِل (مَنْقُوص)", "turevler": ["صَفَاء", "سَمَاءٌ صَافِيَةٌ"], "ekBilgi": "Hava, gökyüzü, su ve kalp için kullanılır (mansubu: صَافِيًا!)", "ornek": "أَصْبَحَتِ السَّمَاءُ صَافِيَةً بَعْدَ الْمَطَرِ.", "ornekTr": "Yağmurdan sonra gökyüzü berraklaştı.", "kullanimNotu": "Mankûs isimdir (M29'da derinleşecek!).", "tur": "Sıfat" },
+    { "id": "m21_fc24", "ar": "وَقُورٌ", "harekesiz": "وقور", "okunus": "Vekûrun", "tr": "Ağırbaşlı / vakur / saygın", "kok": "و ق ر", "vezin": "فَعُول", "turevler": ["وَقَار", "رَجُلٌ وَقُورٌ"], "ekBilgi": "فَعُول vezninde eril ve dişil için aynı şekildedir", "ornek": "جَلَسَ بِجَانِبِي رَجُلٌ وَقُورٌ وَابْتَسَمَ.", "ornekTr": "Yanıma ağırbaşlı bir adam oturdu ve gülümsedi.", "kullanimNotu": "وَقَارٌ = ağırbaşlılık.", "tur": "Sıfat" },
+    { "id": "m21_fc25", "ar": "عَبَقُ الْمَاضِي", "harekesiz": "عبق الماضي", "okunus": "‘Abaku'l-mâdî", "tr": "Geçmişin güzel kokusu / tarihî atmosfer", "kok": "ع ب ق", "vezin": "إِضَافَة أَدَبِيَّة", "turevler": ["عَبَقُ التَّارِيخِ", "عَبْقَرِيّ"], "ekBilgi": "Tarihî şehir ve kültür tanıtımlarının en zarif tamlamasıdır", "ornek": "مَدِينَةٌ تَجْمَعُ بَيْنَ عَبَقِ الْمَاضِي وَرُوحِ الْحَاضِرِ.", "ornekTr": "Geçmişin kokusuyla bugünün ruhunu birleştiren bir şehir.", "kullanimNotu": "عَبَقٌ = hoş koku.", "tur": "İsim" },
+    { "id": "m21_fc26", "ar": "مُزْمِنٌ (أَمْرَاضٌ مُزْمِنَةٌ)", "harekesiz": "مزمن", "okunus": "Muzminun", "tr": "Kronik / süreğen", "kok": "ز م ن", "vezin": "مُفْعِل (IV)", "turevler": ["زَمَن", "أَمْرَاضٌ مُزْمِنَةٌ"], "ekBilgi": "YÖKDİL Sağlık metinlerinin en yüksek frekanslı tıp terimidir", "ornek": "نَمَطُ الْحَيَاةِ يَحْمِي مِنَ الْأَمْرَاضِ الْمُزْمِنَةِ.", "ornekTr": "Yaşam tarzı kronik hastalıklardan korur.", "kullanimNotu": "مُزْمِنٌ ← زَمَنٌ (uzun zamana yayılan).", "tur": "Sıfat" },
+    { "id": "m21_fc27", "ar": "اَلْوِقَايَةُ خَيْرٌ مِنَ الْعِلَاجِ", "harekesiz": "الوقاية خير من العلاج", "okunus": "El-vikâyetu hayrun mine'l-‘ilâci", "tr": "Korunma tedaviden hayırlıdır", "kok": "و ق ي", "vezin": "حِكْمَة طِبِّيَّة", "turevler": ["طِبٌّ وِقَائِيٌّ", "وَقَى — يَقِي"], "ekBilgi": "Sağlık metinlerinin dünyaca ünlü Arapça atasözüdür", "ornek": "مَا زَالَتِ الْوِقَايَةُ خَيْرًا مِنَ الْعِلَاجِ!", "ornekTr": "Korunma hâlâ tedaviden daha hayırlıdır!", "kullanimNotu": "وِقَايَةٌ = korunma / önlem.", "tur": "Kalıp" },
+    { "id": "m21_fc28", "ar": "فَحْصٌ دَوْرِيٌّ", "harekesiz": "فحص دوري", "okunus": "Fahsun devriyyun", "tr": "Düzenli sağlık kontrolü / periyodik tarama", "kok": "ف ح ص", "vezin": "تَرْكِيب وَصْفِيّ", "turevler": ["فُحُوصَات", "دَوْرِيًّا"], "ekBilgi": "Sağlık ve kalite kontrol metinlerinde çok sık geçer", "ornek": "أَصْبَحَ الْفَحْصُ الدَّوْرِيُّ عَادَةً صِحِّيَّةً.", "ornekTr": "Düzenli kontrol sağlıklı bir alışkanlık hâline geldi.", "kullanimNotu": "دَوْرِيٌّ = periyodik / düzenli.", "tur": "İsim" },
+    { "id": "m21_fc29", "ar": "ثَانَوِيٌّ", "harekesiz": "ثانوي", "okunus": "Sâneviyyun", "tr": "İkincil / tali; (eğitimde) lise", "kok": "ث ن ي", "vezin": "فَاعَلِيّ (مَنْسُوب)", "turevler": ["مَدْرَسَةٌ ثَانَوِيَّةٌ", "أَمْرٌ ثَانَوِيٌّ"], "ekBilgi": "أَسَاسِيٌّ (temel/birincil) kelimesinin zıt anlamlısıdır", "ornek": "لَمْ تَكُنِ الصِّحَّةُ يَوْمًا أَمْرًا ثَانَوِيًّا.", "ornekTr": "Sağlık hiçbir zaman ikincil bir mesele olmadı.", "kullanimNotu": "اَلْمَرْحَلَةُ الثَّانَوِيَّةُ = lise kademesi.", "tur": "Sıfat" },
+    { "id": "m21_fc30", "ar": "تَغَلَّبَ — يَتَغَلَّبُ عَلَى", "harekesiz": "تغلب — يتغلب على", "okunus": "Tegallebe — yetegallebu ‘alâ", "tr": "Üstesinden gelmek / yenmek / aşmak", "kok": "غ ل ب", "vezin": "تَفَعَّلَ (V)", "turevler": ["تَغَلُّب", "أَغْلَبِيَّة"], "ekBilgi": "عَلَى الصُّعُوبَاتِ / عَلَى الْعَقَبَاتِ ile klasik YDS eşdizimidir", "ornek": "كَانَتْ هُنَاكَ عَقَبَاتٌ وَلٰكِنَّنَا تَغَلَّبْنَا عَلَيْهَا.", "ornekTr": "Engeller vardı ama onların üstesinden geldik.", "kullanimNotu": "عَلَى harf-i ceriyle kullanılır.", "tur": "Fiil" },
+    { "id": "m21_fc31", "ar": "تَخَلَّى — يَتَخَلَّى عَنْ", "harekesiz": "تخلى — يتخلى عن", "okunus": "Tehallâ — yetehallâ ‘an", "tr": "Vazgeçmek / bırakmak / terk etmek", "kok": "خ ل و", "vezin": "تَفَعَّلَ (V + نَاقِص)", "turevler": ["تَخَلٍّ", "خَالٍ"], "ekBilgi": "عَنْ harf-i ceriyle kullanılır (عَنْ أَحْلَامِهِ / عَنْ مَبَادِئِهِ)", "ornek": "لَنْ نَتَخَلَّى عَنْ أَحْلَامِنَا مَهْمَا كَانَتِ الْعَقَبَاتُ!", "ornekTr": "Engeller ne olursa olsun hayallerimizden asla vazgeçmeyeceğiz!", "kullanimNotu": "YDS'de çok yüksek frekanslı fiildir.", "tur": "Fiil" },
+    { "id": "m21_fc32", "ar": "رَكِيزَةٌ (ج: رَكَائِزُ)", "harekesiz": "ركيزة", "okunus": "Rakîzetun", "tr": "Temel direk / dayanak / sütun", "kok": "ر ك ز", "vezin": "فَعِيلَة", "turevler": ["مَرْكَز", "تَرْكِيز"], "ekBilgi": "رَكِيزَةٌ أَسَاسِيَّةٌ = temel direk / ana dayanak", "ornek": "مَا زَالَ التَّعْلِيمُ رَكِيزَةً أَسَاسِيَّةً لِلتَّقَدُّمِ.", "ornekTr": "Eğitim hâlâ ilerlemenin temel direğidir.", "kullanimNotu": "Çoğulu رَكَائِزُ (gayr-i munsarif!).", "tur": "İsim" }
+  ]
+}

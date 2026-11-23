@@ -1,0 +1,3564 @@
+{
+  "id": "23",
+  "slug": "modul_23",
+  "phaseId": 2,
+  "cilt": 2,
+  "cefr": "A2",
+  "title": "Sayılar Tam Sistemi (11–1000+, Sıra Sayıları) & Mansub Munfasıl Zamirler",
+  "arabicTitle": "الْأَعْدَادُ وَتَمْيِيزُهَا وَالضَّمَائِرُ الْمُنْفَصِلَةُ الْمَنْصُوبَةُ",
+  "category": "Nahiv & Pratik",
+  "summary": "11–19 mürekkep sayılar, 20–99 ukûd ve ma'tûf sayılar, 100/1000/milyon ve yıl okuma, sıra sayıları (الْأَوَّلُ/الثَّانِي) ve mansub munfasıl zamirler (إِيَّاكَ/إِيَّاهُ) eksiksiz sistemi.",
+  "grammar": [
+    {
+      "id": "m23_g1",
+      "baslik": "11–19 Mürekkep Sayılar (الْأَعْدَادُ الْمُرَكَّبَةُ) ve Tekil Mansub Temyîz",
+      "mantik": "Modül 11'de 1–10 arası sayıları öğrenmiştin; şimdi 11–19 katına çıkıyoruz. 11–19 sayıları iki parçadan oluştuğu için 'mürekkep (birleşik) sayı' adını alır ve 3 basit altın yasayla yönetilir: (1) Sayılan isim (temyîz) 11'den 99'a kadar DAİMA tekil ve mansubdur (كَوْكَبًا، طَالِبَةً). Yani 'on beş kitaplar' değil, 'on beş kitap (خَمْسَةَ عَشَرَ كِتَابًا)' denir! (2) 11 ve 12, tıpkı 1 ve 2 gibi, her iki parçasıyla da sayılana cinsiyette TAM UYAR: أَحَدَ عَشَرَ كَوْكَبًا / إِحْدَى عَشْرَةَ طَالِبَةً; اِثْنَا عَشَرَ شَهْرًا / اِثْنَتَا عَشْرَةَ عَيْنًا. (3) 13–19 arasında ise ilk parça (3–9) sayılana ZIT, ikinci parça (عَشَرَ / عَشْرَةَ) ise sayılana UYUMLU olur: خَمْسَةَ عَشَرَ طَالِبًا / خَمْسَ عَشْرَةَ طَالِبَةً. İ'rab bakımından 11 ve 13–19 her iki parçası fetha üzere mebnîdir (konumu değişse de fetha değişmez); sadece 12'nin ilk parçası tesniye gibi çekimlenir (merfû اِثْنَا/اِثْنَتَا, mansub/mecrûr اِثْنَيْ/اِثْنَتَيْ).",
+      "formul": "11–12: [Uyumlu] + [Uyumlu] + Tekil Mansub | 13–19: [Zıt 3–9] + [Uyumlu 10] + Tekil Mansub",
+      "formulAr": "أَحَدَ عَشَرَ كَوْكَبًا  ·  اِثْنَا عَشَرَ شَهْرًا  ·  خَمْسَةَ عَشَرَ طَالِبًا  ·  خَمْسَ عَشْرَةَ طَالِبَةً",
+      "tablo": {
+        "baslik": "11–19 Mürekkep Sayılar ve Cinsiyet/İ'rab Tablosu",
+        "sutunlar": [
+          "Sayı",
+          "Müzekker Sayılan (طَالِبًا)",
+          "Müennes Sayılan (طَالِبَةً)",
+          "Cinsiyet & İ'rab Kuralı"
+        ],
+        "satirlar": [
+          {
+            "hucreler": [
+              "11",
+              "أَحَدَ عَشَرَ طَالِبًا",
+              "إِحْدَى عَشْرَةَ طَالِبَةً",
+              "İki parça da uyumlu; fetha üzere mebnî"
+            ],
+            "ar": "أَحَدَ عَشَرَ طَالِبًا — إِحْدَى عَشْرَةَ طَالِبَةً"
+          },
+          {
+            "hucreler": [
+              "12 (Merfû)",
+              "اِثْنَا عَشَرَ طَالِبًا",
+              "اِثْنَتَا عَشْرَةَ طَالِبَةً",
+              "İki parça uyumlu; ilk parça elif ile merfû"
+            ],
+            "ar": "اِثْنَا عَشَرَ طَالِبًا — اِثْنَتَا عَشْرَةَ طَالِبَةً"
+          },
+          {
+            "hucreler": [
+              "12 (Mansub/Mecrûr)",
+              "اِثْنَيْ عَشَرَ طَالِبًا",
+              "اِثْنَتَيْ عَشْرَةَ طَالِبَةً",
+              "İlk parça yâ ile mansub/mecrûr; عَشَرَ mebnî"
+            ],
+            "ar": "اِثْنَيْ عَشَرَ طَالِبًا — اِثْنَتَيْ عَشْرَةَ طَالِبَةً"
+          },
+          {
+            "hucreler": [
+              "13",
+              "ثَلَاثَةَ عَشَرَ طَالِبًا",
+              "ثَلَاثَ عَشْرَةَ طَالِبَةً",
+              "3 zıt + 10 uyumlu; iki parça fetha mebnî"
+            ],
+            "ar": "ثَلَاثَةَ عَشَرَ طَالِبًا — ثَلَاثَ عَشْرَةَ طَالِبَةً"
+          },
+          {
+            "hucreler": [
+              "15",
+              "خَمْسَةَ عَشَرَ طَالِبًا",
+              "خَمْسَ عَشْرَةَ طَالِبَةً",
+              "5 zıt + 10 uyumlu; temyîz tekil mansub"
+            ],
+            "ar": "خَمْسَةَ عَشَرَ طَالِبًا — خَمْسَ عَشْرَةَ طَالِبَةً"
+          },
+          {
+            "hucreler": [
+              "19",
+              "تِسْعَةَ عَشَرَ طَالِبًا",
+              "تِسْعَ عَشْرَةَ طَالِبَةً",
+              "9 zıt + 10 uyumlu; عَشَرَ (şîn fetha) / عَشْرَةَ (şîn sükûn)"
+            ],
+            "ar": "تِسْعَةَ عَشَرَ طَالِبًا — تِسْعَ عَشْرَةَ طَالِبَةً"
+          }
+        ]
+      },
+      "trKiyas": "Türkçede 'on beş öğrenci' dediğimizde sayı cinsiyet veya hâl değiştirmez. Arapçada ise 13–19 arası tıpkı bir 'ters-düz mıknatıs' gibidir: baştaki 3–9 zıt kutup, ortadaki 10 aynı kutup, sondaki isim ise her zaman tekil-fethalıdır! Ayrıca şîn harfinin harekesine dikkat et: müzekkerde عَشَرَ (şîn fethalı), müenneste عَشْرَةَ (şîn cezimli) okunur.",
+      "sikHatalar": [
+        "11–19 sonrası sayılanı çoğul mecrûr yapmak (YANLIŞ: خَمْسَةَ عَشَرَ طُلَّابٍ — DOĞRU: خَمْسَةَ عَشَرَ طَالِبًا; çoğul mecrûr kuralı yalnızca 3–10 içindir!).",
+        "12 sayısını her konumda اِثْنَا عَشَرَ bırakmak (YANLIŞ: رَأَيْتُ اِثْنَا عَشَرَ رَجُلًا — DOĞRU: رَأَيْتُ اِثْنَيْ عَشَرَ رَجُلًا; çünkü 12'nin ilk parçası tesniye gibi i'rab alır!).",
+        "11 ve 12'de zıtlık kuralı uygulamak (YANLIŞ: وَاحِدَةَ عَشَرَ طَالِبًا — DOĞRU: أَحَدَ عَشَرَ طَالِبًا; 11–12'de her iki parça tam uyumludur)."
+      ],
+      "ornekler": [
+        {
+          "ar": "إِنِّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا.",
+          "okunus": "İnnî raeytu ehade ‘aşera kevkeben.",
+          "tr": "Şüphesiz ben (rüyamda) on bir yıldız gördüm. (Yûsuf 4)"
+        },
+        {
+          "ar": "إِنَّ عِدَّةَ الشُّهُورِ عِنْدَ اللّٰهِ اثْنَا عَشَرَ شَهْرًا.",
+          "okunus": "İnne ‘iddete'ş-şuhûri ‘indellâhi'snâ ‘aşera şehran.",
+          "tr": "Şüphesiz Allah katında ayların sayısı on iki aydır."
+        },
+        {
+          "ar": "فِي الْمَدْرَسَةِ إِحْدَى عَشْرَةَ مُعَلِّمَةً وَثَلَاثَةَ عَشَرَ مُعَلِّمًا.",
+          "okunus": "Fi'l-medreseti ihdâ ‘aşrate mu‘allimeten ve selâsete ‘aşera mu‘allimen.",
+          "tr": "Okulda on bir kadın öğretmen ve on üç erkek öğretmen vardır."
+        },
+        {
+          "ar": "قَرَأْتُ اثْنَتَيْ عَشْرَةَ قِصَّةً قَصِيرَةً هٰذَا الشَّهْرَ.",
+          "okunus": "Kara'tu'snetey ‘aşrate kıssaten kasîraten hâze'ş-şehra.",
+          "tr": "Bu ay on iki kısa hikâye okudum."
+        },
+        {
+          "ar": "سَلَّمْتُ عَلَى خَمْسَةَ عَشَرَ ضَيْفًا فِي الْمُؤْتَمَرِ.",
+          "okunus": "Sellemtu ‘alâ hamsete ‘aşera dayfen fi'l-mu'temeri.",
+          "tr": "Konferansta on beş misafire selam verdim. (عَلَى'dan sonra bile fetha mebnî!)"
+        },
+        {
+          "ar": "تَتَكَوَّنُ الْمَسْرَحِيَّةُ مِنْ سَبْعَ عَشْرَةَ لَوْحَةً فَنِّيَّةً.",
+          "okunus": "Tetekevvenu'l-mesrahiyyetu min seb‘a ‘aşrate levhaten fenniyyeten.",
+          "tr": "Tiyatro oyunu on yedi sanatsal sahneden oluşuyor."
+        }
+      ],
+      "tatbikler": [
+        {
+          "id": "m23_t1",
+          "tip": "bosluk",
+          "soru": "'فِي الصَّفِّ ..... طَالِبًا.' (Sınıfta on bir erkek öğrenci var) boşluğuna ne gelir?",
+          "secenekler": [
+            "أَحَدَ عَشَرَ",
+            "إِحْدَى عَشْرَةَ",
+            "أَحَدٌ عَشَرَ",
+            "وَاحِدَ عَشَرَ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "طَالِبًا müzekkerdir; 11 sayısının müzekkeri her iki parçası fetha mebnî olan أَحَدَ عَشَرَ şeklindedir."
+        },
+        {
+          "id": "m23_t2",
+          "tip": "bosluk",
+          "soru": "'اِشْتَرَيْتُ ..... كِتَابًا.' (On iki kitap aldım) boşluğuna doğru i'rablı biçim hangisidir?",
+          "secenekler": [
+            "اثْنَيْ عَشَرَ",
+            "اثْنَا عَشَرَ",
+            "اثْنَتَيْ عَشْرَةَ",
+            "اثْنَتَا عَشْرَةَ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "كِتَابًا müzekker ve mef'ûlün bih (mansub) konumdadır; 12'nin ilk parçası tesniye gibi yâ ile mansub olur: اثْنَيْ عَشَرَ."
+        },
+        {
+          "id": "m23_t3",
+          "tip": "bosluk",
+          "soru": "'نَجَحَتْ ..... طَالِبَةً فِي الِامْتِحَانِ.' (On beş kız öğrenci sınavda başarılı oldu) boşluğuna ne gelir?",
+          "secenekler": [
+            "خَمْسَ عَشْرَةَ",
+            "خَمْسَةَ عَشَرَ",
+            "خَمْسَةَ عَشْرَةَ",
+            "خَمْسَ عَشَرَ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "طَالِبَةً müennestir; 13–19 arasında birler (خَمْسَ) zıt (müzekker), onlar (عَشْرَةَ) uyumlu (müennes) gelir."
+        },
+        {
+          "id": "m23_t4",
+          "tip": "hata",
+          "soru": "'قَرَأْتُ تِسْعَةَ عَشَرَ صَفَحَاتٍ.' cümlesindeki hatanın doğru düzeltilişi hangisidir?",
+          "secenekler": [
+            "قَرَأْتُ تِسْعَ عَشْرَةَ صَفْحَةً.",
+            "قَرَأْتُ تِسْعَةَ عَشَرَ صَفْحَةً.",
+            "قَرَأْتُ تِسْعَ عَشْرَةَ صَفَحَاتٍ.",
+            "قَرَأْتُ تِسْعَةَ عَشْرَةَ صَفْحَةٍ."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "صَفْحَةً müennestir ve 11–99 sonrası temyîz tekil mansub olmalıdır: تِسْعَ عَشْرَةَ صَفْحَةً."
+        },
+        {
+          "id": "m23_t5",
+          "tip": "bosluk",
+          "soru": "'حَضَرَ ..... مُهَنْدِسًا الِاجْتِمَاعَ.' (On iki erkek mühendis toplantıya katıldı) boşluğuna ne gelir?",
+          "secenekler": [
+            "اثْنَا عَشَرَ",
+            "اثْنَيْ عَشَرَ",
+            "اثْنَتَا عَشْرَةَ",
+            "اثْنَتَيْ عَشْرَةَ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Fâil (merfû) konumunda ve müzekker olduğu için 12'nin ilk parçası elif ile merfûdur: اثْنَا عَشَرَ."
+        },
+        {
+          "id": "m23_t6",
+          "tip": "bosluk",
+          "soru": "'سَلَّمْتُ عَلَى ..... طَالِبًا.' (On dört erkek öğrenciye selam verdim) — عَلَى harf-i cerrinden sonra nasıl yazılır?",
+          "secenekler": [
+            "أَرْبَعَةَ عَشَرَ",
+            "أَرْبَعَةِ عَشَرٍ",
+            "أَرْبَعَ عَشْرَةَ",
+            "أَرْبَعَةِ عَشَرَ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "13–19 sayıları harf-i cerden sonra bile mahallen mecrûr, lafzen iki parçası fetha üzere mebnî kalır: أَرْبَعَةَ عَشَرَ."
+        },
+        {
+          "id": "m23_t7",
+          "tip": "donusturme",
+          "soru": "'فِي الْقَاعَةِ ثَمَانِيَةَ عَشَرَ كُرْسِيًّا' cümlesinde كُرْسِيًّا yerine müennes طَاوِلَةً (masa) getirilirse nasıl olur?",
+          "secenekler": [
+            "فِي الْقَاعَةِ ثَمَانِيَ عَشْرَةَ طَاوِلَةً",
+            "فِي الْقَاعَةِ ثَمَانِيَةَ عَشْرَةَ طَاوِلَةً",
+            "فِي الْقَاعَةِ ثَمَانِيَ عَشَرَ طَاوِلَةً",
+            "فِي الْقَاعَةِ ثَمَانِيَةَ عَشَرَ طَاوِلَةً"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "طَاوِلَةً müennes olunca 8 zıt (ثَمَانِيَ), 10 uyumlu (عَشْرَةَ) olur."
+        },
+        {
+          "id": "m23_t8",
+          "tip": "bosluk",
+          "soru": "'رَأَيْتُ ..... نَجْمَةً فِي السَّمَاءِ.' (Gökyüzünde on bir yıldız gördüm) boşluğuna ne gelir?",
+          "secenekler": [
+            "إِحْدَى عَشْرَةَ",
+            "أَحَدَ عَشَرَ",
+            "وَاحِدَةَ عَشْرَةَ",
+            "إِحْدَى عَشَرَ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "نَجْمَةً müennestir; 11 sayısının müennesi إِحْدَى عَشْرَةَ'dir."
+        },
+        {
+          "id": "m23_t9",
+          "tip": "tr_ar",
+          "soru": "'On iki kız öğrenci ödülü kazandı' cümlesinin doğru Arapçası hangisidir?",
+          "secenekler": [
+            "فَازَتِ اثْنَتَا عَشْرَةَ طَالِبَةً بِالْجَائِزَةِ.",
+            "فَازَتِ اثْنَتَيْ عَشْرَةَ طَالِبَةً بِالْجَائِزَةِ.",
+            "فَازَ اثْنَا عَشَرَ طَالِبَةً بِالْجَائِزَةِ.",
+            "فَازَتِ اثْنَتَا عَشَرَ طَالِبَاتٍ بِالْجَائِزَةِ."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Fâil merfû ve müennes: فَازَتِ اثْنَتَا عَشْرَةَ طَالِبَةً بِالْجَائِزَةِ."
+        },
+        {
+          "id": "m23_t10",
+          "tip": "bosluk",
+          "soru": "11–19 arası sayılarda 'عَشَرَ / عَشْرَةَ' kelimesindeki ش harfinin harekesi hakkında hangisi doğrudur?",
+          "secenekler": [
+            "Müzekkerde fethalı (عَشَرَ), müenneste cezimli (عَشْرَةَ) okunur",
+            "Her iki cinsiyette de cezimli okunur",
+            "Müzekkerde cezimli, müenneste kesralı okunur",
+            "Her iki cinsiyette de dammeli okunur"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Fasih Arapçada müzekker için عَشَرَ (şîn fethalı), müennes için عَشْرَةَ (şîn sükûnlu) okunur."
+        }
+      ],
+      "arBaslik": "الْأَعْدَادُ الْمُرَكَّبَةُ (١١–١٩) وَتَمْيِيزُهَا الْمُفْرَدُ الْمَنْصُوبُ"
+    },
+    {
+      "id": "m23_g2",
+      "baslik": "20–99 Ukûd (Onluklar) ve Ma'tûf (Atıflı) Sayılar",
+      "mantik": "20, 30, 40, 50, 60, 70, 80, 90 sayılarına Arapçada 'Elfâzu'l-Ukûd' (onluklar) denir ve seni çok rahatlatacak bir özellikleri vardır: Cinsiyetleri HİÇ DEĞİŞMEZ! Hem erkek hem kadın için aynı form kullanılır (عِشْرُونَ طَالِبًا / عِشْرُونَ طَالِبَةً). İ'rabları ise cemi müzekker sâlim gibidir (mülhak): merfû durumda vâv ile (عِشْرُونَ), mansub ve mecrûr durumda yâ ile (عِشْرِينَ) gelir. 21–99 arası ara sayılar (ma'tûf / وَ ile bağlı sayılar) iki ayrı parça hâlinde söylenir ve önce BİRLER, sonra وَ, sonra ONLAR okunur — tıpkı 'bir ve yirmi (وَاحِدٌ وَعِشْرُونَ)' gibi! Burada birler basamağı eski kurala uyar: 1–2 sayılana uyumlu (وَاحِدٌ/إِحْدَى، اِثْنَانِ/اِثْنَتَانِ), 3–9 ise sayılana ZIT olur (ثَلَاثَةٌ وَعِشْرُونَ رَجُلًا / ثَلَاثٌ وَعِشْرُونَ امْرَأَةً). Her iki parça da cümledeki konumuna göre i'rab alır, temyîz yine daima tekil mansubdur!",
+      "formul": "Ukûd: عِشْرُونَ (Merfû) / عِشْرِينَ (Mansub-Mecrûr) + Tekil Mansub | Ma'tûf: [Birler] + وَ + [Onlar] + Tekil Mansub",
+      "formulAr": "عِشْرُونَ كِتَابًا  ·  قَرَأْتُ ثَلَاثِينَ صَفْحَةً  ·  خَمْسَةٌ وَعِشْرُونَ طَالِبًا  ·  خَمْسًا وَعِشْرِينَ طَالِبَةً",
+      "tablo": {
+        "baslik": "20–99 Ukûd (Onluklar) ve Ma'tûf Sayılar Tablosu",
+        "sutunlar": [
+          "Sayı",
+          "Merfû (Özne)",
+          "Mansub / Mecrûr",
+          "Temyîz & Not"
+        ],
+        "satirlar": [
+          {
+            "hucreler": [
+              "20",
+              "عِشْرُونَ طَالِبًا / طَالِبَةً",
+              "عِشْرِينَ طَالِبًا / طَالِبَةً",
+              "Cinsiyet farksız; cemi müzekker gibi i'rab"
+            ],
+            "ar": "عِشْرُونَ طَالِبًا / طَالِبَةً — عِشْرِينَ طَالِبًا / طَالِبَةً"
+          },
+          {
+            "hucreler": [
+              "30 / 40 / 50",
+              "ثَلَاثُونَ · أَرْبَعُونَ · خَمْسُونَ",
+              "ثَلَاثِينَ · أَرْبَعِينَ · خَمْسِينَ",
+              "Temyîz daima tekil mansub"
+            ],
+            "ar": "ثَلَاثُونَ · أَرْبَعُونَ · خَمْسُونَ — ثَلَاثِينَ · أَرْبَعِينَ · خَمْسِينَ"
+          },
+          {
+            "hucreler": [
+              "60 / 70 / 80 / 90",
+              "سِتُّونَ · سَبْعُونَ · ثَمَانُونَ · تِسْعُونَ",
+              "سِتِّينَ · سَبْعِينَ · ثَمَانِينَ · تِسْعِينَ",
+              "Harf-i cer veya nesne olunca ـِينَ"
+            ],
+            "ar": "سِتُّونَ · سَبْعُونَ · ثَمَانُونَ · تِسْعُونَ — سِتِّينَ · سَبْعِينَ · ثَمَانِينَ · تِسْعِينَ"
+          },
+          {
+            "hucreler": [
+              "21 (Müzekker)",
+              "وَاحِدٌ وَعِشْرُونَ كِتَابًا",
+              "وَاحِدًا وَعِشْرِينَ / وَاحِدٍ وَعِشْرِينَ",
+              "1 uyumlu + وَ + 20 (aynı i'rab)"
+            ],
+            "ar": "وَاحِدٌ وَعِشْرُونَ كِتَابًا — وَاحِدًا وَعِشْرِينَ / وَاحِدٍ وَعِشْرِينَ"
+          },
+          {
+            "hucreler": [
+              "22 (Müennes)",
+              "اِثْنَتَانِ وَعِشْرُونَ صَفْحَةً",
+              "اِثْنَتَيْنِ وَعِشْرِينَ صَفْحَةً",
+              "2 uyumlu (tesniye i'rabı) + وَ + 20"
+            ],
+            "ar": "اِثْنَتَانِ وَعِشْرُونَ صَفْحَةً — اِثْنَتَيْنِ وَعِشْرِينَ صَفْحَةً"
+          },
+          {
+            "hucreler": [
+              "35 (Müzekker / Müennes)",
+              "خَمْسَةٌ وَثَلَاثُونَ رَجُلًا",
+              "خَمْسًا وَثَلَاثِينَ امْرَأَةً",
+              "3–9 zıt + وَ + onluk (aynı i'rab)"
+            ],
+            "ar": "خَمْسَةٌ وَثَلَاثُونَ رَجُلًا — خَمْسًا وَثَلَاثِينَ امْرَأَةً"
+          }
+        ]
+      },
+      "trKiyas": "Türkçede 'yirmi beş' derken önce onluğu (20), sonra birliği (5) söyleriz. Arapçada ise tam tersi (Alman/eski dil düzeni gibi) önce BİRLER, sonra وَ, sonra ONLAR söylenir: 'خَمْسَةٌ وَعِشْرُونَ' (beş ve yirmi). Bu sıraya alışmanın en kolay yolu, Türkçe 25 gördüğünde sağdan sola okumaktır: 5 ve 20!",
+      "sikHatalar": [
+        "Ma'tûf sayılarda önce onluğu söylemek (YANLIŞ: عِشْرُونَ وَخَمْسَةُ كُتُبٍ — DOĞRU: خَمْسَةٌ وَعِشْرُونَ كِتَابًا).",
+        "Birler basamağı mansub/mecrûr iken onluğu merfû bırakmak (YANLIŞ: رَأَيْتُ خَمْسَةً وَعِشْرُونَ طَالِبًا — DOĞRU: رَأَيْتُ خَمْسَةً وَعِشْرِينَ طَالِبًا; atıf nedeniyle ikisi de aynı i'rabta olmalıdır!).",
+        "Ukûd sayılarına müennes ة eklemeye çalışmak (YANLIŞ: عِشْرُونَةٌ — DOĞRU: عِشْرُونَ; onluklar her iki cinsiyette sabittir)."
+      ],
+      "ornekler": [
+        {
+          "ar": "حَفِظْتُ ثَلَاثِينَ كَلِمَةً جَدِيدَةً هٰذَا الْأُسْبُوعَ.",
+          "okunus": "Hafiztu selâsîne kelimeten cedîdeten hâze'l-usbû‘a.",
+          "tr": "Bu hafta otuz yeni kelime ezberledim."
+        },
+        {
+          "ar": "فِي الْمُؤْتَمَرِ أَرْبَعُونَ بَاحِثًا وَخَمْسُونَ بَاحِثَةً.",
+          "okunus": "Fi'l-mu'temeri erba‘ûne bâhisen ve hamsûne bâhiseten.",
+          "tr": "Konferansta kırk erkek araştırmacı ve elli kadın araştırmacı vardır."
+        },
+        {
+          "ar": "تَخَرَّجَ وَاحِدٌ وَعِشْرُونَ طَبِيبًا وَإِحْدَى وَعِشْرُونَ طَبِيبَةً.",
+          "okunus": "Teharrace vâhidun ve ‘işrûne tabîben ve ihdâ ve ‘işrûne tabîbeten.",
+          "tr": "Yirmi bir erkek doktor ve yirmi bir kadın doktor mezun oldu."
+        },
+        {
+          "ar": "قَطَعَ الْقِطَارُ سِتِّينَ كِيلُومِتْرًا فِي خَمْسٍ وَعِشْرِينَ دَقِيقَةً.",
+          "okunus": "Kata‘a'l-kitâru sittîne kîlûmitran fî hamsin ve ‘işrîne dakîkaten.",
+          "tr": "Tren yirmi beş dakikada altmış kilometre katetti."
+        },
+        {
+          "ar": "دَفَعْتُ ثَمَانِيَةً وَسَبْعِينَ دِينَارًا ثَمَنًا لِلْحَقِيبَةِ.",
+          "okunus": "Defa‘tu semâniyeten ve seb‘îne dînâran semenen li'l-hakîbeti.",
+          "tr": "Çantanın bedeli olarak yetmiş sekiz dinar ödedim."
+        },
+        {
+          "ar": "تَتَأَلَّفُ السُّورَةُ مِنْ تِسْعٍ وَتِسْعِينَ آيَةً.",
+          "okunus": "Teteellefu's-sûratu min tis‘in ve tis‘îne âyeten.",
+          "tr": "Sure doksan dokuz ayetten oluşmaktadır."
+        }
+      ],
+      "tatbikler": [
+        {
+          "id": "m23_t11",
+          "tip": "bosluk",
+          "soru": "'قَرَأْتُ ..... كِتَابًا هٰذَا الْعَامَ.' (Bu yıl yirmi kitap okudum) boşluğuna ne gelir?",
+          "secenekler": [
+            "عِشْرِينَ",
+            "عِشْرُونَ",
+            "عِشْرِينٌ",
+            "عَشْرِينَ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Mef'ûlün bih (mansub) konumda olduğu için عِشْرُونَ → عِشْرِينَ (yâ ile mansub) olur."
+        },
+        {
+          "id": "m23_t12",
+          "tip": "bosluk",
+          "soru": "'فِي الْفَصْلِ ..... طَالِبًا.' (Sınıfta otuz beş erkek öğrenci var) boşluğuna hangisi gelir?",
+          "secenekler": [
+            "خَمْسَةٌ وَثَلَاثُونَ",
+            "خَمْسٌ وَثَلَاثُونَ",
+            "خَمْسَةً وَثَلَاثِينَ",
+            "ثَلَاثُونَ وَخَمْسَةٌ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Mübteda-i muahhar (merfû), طَالِبًا müzekker olduğu için 5 zıt (خَمْسَةٌ) + وَ + 30 (ثَلَاثُونَ)."
+        },
+        {
+          "id": "m23_t13",
+          "tip": "bosluk",
+          "soru": "'سَلَّمْتُ عَلَى ..... مُعَلِّمَةً.' (Kırk üç kadın öğretmene selam verdim) boşluğuna hangisi gelir?",
+          "secenekler": [
+            "ثَلَاثٍ وَأَرْبَعِينَ",
+            "ثَلَاثَةٍ وَأَرْبَعِينَ",
+            "ثَلَاثٌ وَأَرْبَعُونَ",
+            "ثَلَاثٍ وَأَرْبَعُونَ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "عَلَى harf-i cerrinden sonra her iki parça mecrûr; مُعَلِّمَةً müennes olduğu için 3 zıt (ثَلَاثٍ) + وَ + أَرْبَعِينَ."
+        },
+        {
+          "id": "m23_t14",
+          "tip": "hata",
+          "soru": "'اِشْتَرَيْتُ أَرْبَعَةً وَخَمْسُونَ دَفْتَرًا.' cümlesindeki hata nasıl düzeltilir?",
+          "secenekler": [
+            "اِشْتَرَيْتُ أَرْبَعَةً وَخَمْسِينَ دَفْتَرًا.",
+            "اِشْتَرَيْتُ أَرْبَعًا وَخَمْسُونَ دَفْتَرًا.",
+            "اِشْتَرَيْتُ خَمْسِينَ وَأَرْبَعَةً دَفْتَرًا.",
+            "اِشْتَرَيْتُ أَرْبَعَةً وَخَمْسِينَ دَفَاتِرَ."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "أَرْبَعَةً mansub olduğuna göre وَ ile ona atfedilen onluk da mansub olmalıdır: وَخَمْسِينَ."
+        },
+        {
+          "id": "m23_t15",
+          "tip": "bosluk",
+          "soru": "'فِي السَّاعَةِ ..... دَقِيقَةً.' (Bir saatte altmış dakika vardır) boşluğuna ne gelir?",
+          "secenekler": [
+            "سِتُّونَ",
+            "سِتِّينَ",
+            "سِتَّةٌ",
+            "سِتٌّ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Mübteda-i muahhar merfûdur: سِتُّونَ دَقِيقَةً."
+        },
+        {
+          "id": "m23_t16",
+          "tip": "bosluk",
+          "soru": "'شَاهَدْتُ ..... فِيلْمًا وَثَائِقِيًّا.' (Yirmi iki belgesel film izledim) boşluğuna ne gelir?",
+          "secenekler": [
+            "اثْنَيْنِ وَعِشْرِينَ",
+            "اثْنَانِ وَعِشْرُونَ",
+            "اثْنَتَيْنِ وَعِشْرِينَ",
+            "اثْنَيْ وَعِشْرِينَ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "فِيلْمًا müzekker ve mef'ûlün bih mansubdur; 2 uyum sağlar ve atıflı yapıda nûn düşmez: اثْنَيْنِ وَعِشْرِينَ."
+        },
+        {
+          "id": "m23_t17",
+          "tip": "tr_ar",
+          "soru": "'Kütüphanede seksen iki dergi vardır' cümlesinin doğru Arapçası hangisidir?",
+          "secenekler": [
+            "فِي الْمَكْتَبَةِ اثْنَتَانِ وَثَمَانُونَ مَجَلَّةً.",
+            "فِي الْمَكْتَبَةِ اثْنَانِ وَثَمَانُونَ مَجَلَّةً.",
+            "فِي الْمَكْتَبَةِ اثْنَتَيْنِ وَثَمَانِينَ مَجَلَّةً.",
+            "فِي الْمَكْتَبَةِ ثَمَانُونَ وَاثْنَتَانِ مَجَلَّةً."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "مَجَلَّةً müennes, konum merfû: اثْنَتَانِ وَثَمَانُونَ مَجَلَّةً."
+        },
+        {
+          "id": "m23_t18",
+          "tip": "donusturme",
+          "soru": "'جَاءَ سَبْعُونَ ضَيْفًا' cümlesini 'رَأَيْتُ ...' (Gördüm) ile başlatırsak nasıl değişir?",
+          "secenekler": [
+            "رَأَيْتُ سَبْعِينَ ضَيْفًا.",
+            "رَأَيْتُ سَبْعُونَ ضَيْفًا.",
+            "رَأَيْتُ سَبْعِينَ ضُيُوفٍ.",
+            "رَأَيْتُ سَبْعَةً ضَيْفًا."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Fâil iken سَبْعُونَ, mef'ûlün bih olunca yâ ile mansub سَبْعِينَ olur; temyîz ضَيْفًا aynen kalır."
+        },
+        {
+          "id": "m23_t19",
+          "tip": "bosluk",
+          "soru": "'تَضُمُّ الْمَدِينَةُ ..... مَدْرَسَةً.' (Şehir doksan bir okulu barındırıyor) boşluğuna hangisi gelir?",
+          "secenekler": [
+            "إِحْدَى وَتِسْعِينَ",
+            "وَاحِدًا وَتِسْعِينَ",
+            "إِحْدَى وَتِسْعُونَ",
+            "وَاحِدَةٌ وَتِسْعُونَ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "مَدْرَسَةً müennes ve nesne mansub: إِحْدَى (takdîrî mansub) وَتِسْعِينَ (yâ ile mansub) veya وَاحِدَةً وَتِسْعِينَ."
+        },
+        {
+          "id": "m23_t20",
+          "tip": "bosluk",
+          "soru": "20–90 (Ukûd) sayılarının i'rabı aşağıdaki hangi kategoriyle aynıdır?",
+          "secenekler": [
+            "Cemi Müzekker Sâlim (Merfû: ونَ / Mansub-Mecrûr: ينَ)",
+            "Tesniye (انِ / يْنِ)",
+            "İki parçası fetha mebnî",
+            "Cemi Müennes Sâlim"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Ukûd sayıları cemi müzekker sâlime mülhaktır; vâv ile merfû, yâ ile mansub ve mecrûr olurlar."
+        }
+      ],
+      "arBaslik": "أَلْفَاظُ الْعُقُودِ وَالْأَعْدَادُ الْمَعْطُوفَةُ (٢٠–٩٩)"
+    },
+    {
+      "id": "m23_g3",
+      "baslik": "100 (مِئَةٌ), 1000 (أَلْفٌ), Milyon ve Yıl/Tarih Okuma",
+      "mantik": "Şimdi sayı merdiveninin zirvesine çıkıyoruz: مِئَةٌ (100), أَلْفٌ (1000) ve مِلْيُونٌ (1 milyon). Bu büyük sayıların en rahat kuralı şudur: (1) Tıpkı onluklar gibi CİNSİYET DEĞİŞTİRMEZLER! Hem erkek hem kadın isimden önce aynen gelirler (مِئَةُ طَالِبٍ / مِئَةُ طَالِبَةٍ). (2) Sayılan isimleri (temyîz) ise 11–99'dan farklı olarak TEKİL MECRÛR (مُفْرَدٌ مَجْرُورٌ) olur — çünkü aralarında izâfet (isim tamlaması) vardır! Bu yüzden muzâf olan مِئَةُ / أَلْفُ tenvin almaz, ikilleri مِئَتَا / أَلْفَا (merfû) ve مِئَتَيْ / أَلْفَيْ (mansub-mecrûr) olurken nûn düşer! (3) 300–900 arasında مِئَةٌ kelimesi daima tekil mecrûr yazılır (ثَلَاثُمِئَةِ كِتَابٍ — dikkat: ثَلَاثُ müzekkerdir çünkü مِئَة müennestir!). 3000–9000 arasında ise أَلْف kelimesi çoğul olur (ثَلَاثَةُ آلَافِ طَالِبٍ — ثَلَاثَةُ müennestir çünkü أَلْف müzekkerdir!). Büyük ve karmaşık sayılarda temyîz DAİMA kendisine EN YAKIN olan son sayıya göre harekelenir!",
+      "formul": "مِئَةُ / أَلْفُ / مِلْيُونُ + Tekil Mecrûr (İzâfet) | Yıl: عَامَ / سَنَةَ + Mecrûr Sayı",
+      "formulAr": "مِئَةُ كِتَابٍ  ·  مِئَتَا طَالِبٍ  ·  أَلْفُ لَيْلَةٍ  ·  فِي عَامِ أَلْفَيْنِ وَسِتَّةٍ وَعِشْرِينَ",
+      "tablo": {
+        "baslik": "100, 1000, Milyon ve Yıl Okuma Karşılaştırma Tablosu",
+        "sutunlar": [
+          "Sayı",
+          "Arapça Yazılışı",
+          "Örnek Tamlama",
+          "Temyîz Kuralı"
+        ],
+        "satirlar": [
+          {
+            "hucreler": [
+              "100",
+              "مِئَةُ (مِائَةُ)",
+              "مِئَةُ كِتَابٍ / مِئَةُ صَفْحَةٍ",
+              "Tekil mecrûr (izâfet, tenvin düşer)"
+            ],
+            "ar": "مِئَةُ — مِئَةُ كِتَابٍ / مِئَةُ صَفْحَةٍ"
+          },
+          {
+            "hucreler": [
+              "200",
+              "مِئَتَا (Merfû) / مِئَتَيْ (Mansub-Mecrûr)",
+              "قَرَأْتُ مِئَتَيْ صَفْحَةٍ",
+              "İzâfette nûn düşer + tekil mecrûr"
+            ],
+            "ar": "مِئَتَا  / مِئَتَيْ — قَرَأْتُ مِئَتَيْ صَفْحَةٍ"
+          },
+          {
+            "hucreler": [
+              "300–900",
+              "ثَلَاثُمِئَةِ · خَمْسُمِئَةِ · تِسْعُمِئَةِ",
+              "خَمْسُمِئَةِ طَالِبٍ",
+              "مِئَة müennes → önündeki 3–9 müzekker!"
+            ],
+            "ar": "ثَلَاثُمِئَةِ · خَمْسُمِئَةِ · تِسْعُمِئَةِ — خَمْسُمِئَةِ طَالِبٍ"
+          },
+          {
+            "hucreler": [
+              "1000 / 2000",
+              "أَلْفُ · أَلْفَا / أَلْفَيْ",
+              "أَلْفُ دِينَارٍ · أَلْفَا زَائِرٍ",
+              "Tekil mecrûr (izâfet)"
+            ],
+            "ar": "أَلْفُ · أَلْفَا / أَلْفَيْ — أَلْفُ دِينَارٍ · أَلْفَا زَائِرٍ"
+          },
+          {
+            "hucreler": [
+              "3000–9000",
+              "ثَلَاثَةُ آلَافِ · خَمْسَةُ آلَافِ",
+              "خَمْسَةُ آلَافِ كِتَابٍ",
+              "أَلْف müzekker → 3–9 müennes + آلَافِ!"
+            ],
+            "ar": "ثَلَاثَةُ آلَافِ · خَمْسَةُ آلَافِ — خَمْسَةُ آلَافِ كِتَابٍ"
+          },
+          {
+            "hucreler": [
+              "1.000.000 / Yıl",
+              "مِلْيُونُ · سَنَةَ أَلْفَيْنِ وَسِتٍّ وَعِشْرِينَ",
+              "مِلْيُونُ نَسَمَةٍ · عَامَ ٢٠٢٦",
+              "عَامَ müzekker, سَنَةَ müennes sayılır!"
+            ],
+            "ar": "مِلْيُونُ · سَنَةَ أَلْفَيْنِ وَسِتٍّ وَعِشْرِينَ — مِلْيُونُ نَسَمَةٍ · عَامَ ٢٠٢٦"
+          }
+        ]
+      },
+      "trKiyas": "Türkçede 'iki bin yirmi altı yılı' derken yıl kelimesi cinsiyet taşımaz. Arapçada ise iki yıl kelimesi vardır: عَامٌ (müzekker) ve سَنَةٌ (müennes)! Dolayısıyla '2026 yılında' derken عَامَ kullanırsan 6 sayısı müennes olur (عَامَ أَلْفَيْنِ وَسِتَّةٍ وَعِشْرِينَ), سَنَةَ kullanırsan 6 sayısı müzekker olur (سَنَةَ أَلْفَيْنِ وَسِتٍّ وَعِشْرِينَ)! Bu ince fark YDS/YÖKDİL metinlerinde karşına çok çıkar.",
+      "sikHatalar": [
+        "مِئَةُ ve أَلْفُ sonrası temyîzi mansub veya çoğul yapmak (YANLIŞ: مِئَةُ كِتَابًا / أَلْفُ طُلَّابٍ — DOĞRU: مِئَةُ كِتَابٍ / أَلْفُ طَالِبٍ; 100 ve 1000'in temyîzi TEKİL MECRÛRDUR!).",
+        "200 veya 2000 muzâf olduğunda nûn harfini bırakmak (YANLIŞ: قَرَأْتُ مِئَتَيْنِ صَفْحَةٍ — DOĞRU: قَرَأْتُ مِئَتَيْ صَفْحَةٍ).",
+        "300 yazarken ثَلَاثَةُ مِئَةٍ demek (YANLIŞ: ثَلَاثَةُ مِئَةٍ — DOĞRU: ثَلَاثُمِئَةِ; çünkü مِئَةٌ müennestir, 3–9 ona zıt gelmelidir)."
+      ],
+      "ornekler": [
+        {
+          "ar": "فِي الْمَكْتَبَةِ مِئَةُ قَامُوسٍ وَأَلْفُ كِتَابٍ تَارِيخِيٍّ.",
+          "okunus": "Fi'l-mektebeti mietu kâmûsin ve elfu kitâbin târîhiyyin.",
+          "tr": "Kütüphanede yüz sözlük ve bin tarih kitabı vardır."
+        },
+        {
+          "ar": "حَضَرَ الْمِهْرَجَانَ أَلْفَا زَائِرٍ مِنْ مُخْتَلِفِ الْمُدُنِ.",
+          "okunus": "Hadara'l-mihracâne elfâ zâirin min muhtelifi'l-muduni.",
+          "tr": "Festivale farklı şehirlerden iki bin ziyaretçi katıldı."
+        },
+        {
+          "ar": "قَرَأْتُ مِئَتَيْ صَفْحَةٍ مِنْ رِوَايَةٍ أَدَبِيَّةٍ طَوِيلَةٍ.",
+          "okunus": "Kara'tu mietey safhatin min rivâyetin edebiyyetin tavîletin.",
+          "tr": "Uzun bir edebî romandan iki yüz sayfa okudum."
+        },
+        {
+          "ar": "تَخَرَّجَ هٰذَا الْعَامَ خَمْسُمِئَةِ طَالِبٍ وَثَلَاثَةُ آلَافِ طَالِبَةٍ.",
+          "okunus": "Teharrace hâze'l-‘âme hamsumieti tâlibin ve selâsetu âlâfi tâlibetin.",
+          "tr": "Bu yıl beş yüz erkek öğrenci ve üç bin kız öğrenci mezun oldu."
+        },
+        {
+          "ar": "يَسْكُنُ فِي هٰذِهِ الْمَدِينَةِ مِلْيُونُ نَسَمَةٍ تَقْرِيبًا.",
+          "okunus": "Yeskunu fî hâzihi'l-medîneti milyûnu nesemetin takrîben.",
+          "tr": "Bu şehirde yaklaşık bir milyon nüfus yaşamaktadır."
+        },
+        {
+          "ar": "وُلِدَ الْعَالِمُ سَنَةَ أَلْفٍ وَتِسْعِمِئَةٍ وَخَمْسٍ وَثَمَانِينَ.",
+          "okunus": "Vulide'l-‘âlimu senete elfin ve tis‘umietin ve hamsin ve semânîne.",
+          "tr": "Bilim insanı 1985 yılında doğdu."
+        }
+      ],
+      "tatbikler": [
+        {
+          "id": "m23_t21",
+          "tip": "bosluk",
+          "soru": "'فِي الْقَاعَةِ مِئَةُ ..... .' (Salonda yüz öğrenci var) boşluğuna ne gelir?",
+          "secenekler": [
+            "طَالِبٍ",
+            "طَالِبًا",
+            "طُلَّابٍ",
+            "طَالِبٌ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "مِئَةُ ve أَلْفُ sayılarının temyîzi izâfet nedeniyle daima tekil mecrûrdur: مِئَةُ طَالِبٍ."
+        },
+        {
+          "id": "m23_t22",
+          "tip": "bosluk",
+          "soru": "'دَفَعْتُ ..... لِيرَةٍ ثَمَنًا لِلْمِعْطَفِ.' (Palto bedeli olarak iki yüz lira ödedim) boşluğuna ne gelir?",
+          "secenekler": [
+            "مِئَتَيْ",
+            "مِئَتَا",
+            "مِئَتَيْنِ",
+            "مِئَتَانِ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Mef'ûlün bih (mansub) ve لِيرَةٍ kelimesine muzâf olduğu için hem yâ ile mansub hem nûnsuzdur: مِئَتَيْ."
+        },
+        {
+          "id": "m23_t23",
+          "tip": "bosluk",
+          "soru": "'فِي الْمُؤْتَمَرِ ..... بَاحِثٍ.' (Konferansta beş yüz araştırmacı var) boşluğuna doğru yazım hangisidir?",
+          "secenekler": [
+            "خَمْسُمِئَةِ",
+            "خَمْسَةُمِئَةِ",
+            "خَمْسُمِئَاتٍ",
+            "خَمْسَةُ مِئَاتِ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "مِئَةٌ müennes olduğu için önündeki 5 müzekker (خَمْسُ) ve مِئَةٌ tekil mecrûr gelir: خَمْسُمِئَةِ."
+        },
+        {
+          "id": "m23_t24",
+          "tip": "bosluk",
+          "soru": "'شَارَكَ فِي السِّبَاقِ ..... عَدَّاءٍ.' (Yarışa dört bin koşucu katıldı) boşluğuna ne gelir?",
+          "secenekler": [
+            "أَرْبَعَةُ آلَافِ",
+            "أَرْبَعُ آلَافِ",
+            "أَرْبَعَةُ أَلْفِ",
+            "أَرْبَعُ أَلْفٍ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "أَلْفٌ müzekker olduğu için 3–9 ona zıt (أَرْبَعَةُ) ve أَلْف çoğul (آلَافِ) gelir: أَرْبَعَةُ آلَافِ عَدَّاءٍ."
+        },
+        {
+          "id": "m23_t25",
+          "tip": "hata",
+          "soru": "'تَضُمُّ الْمَكْتَبَةُ أَلْفَيْنِ كِتَابٍ.' cümlesindeki hatanın düzeltilişi hangisidir?",
+          "secenekler": [
+            "تَضُمُّ الْمَكْتَبَةُ أَلْفَيْ كِتَابٍ.",
+            "تَضُمُّ الْمَكْتَبَةُ أَلْفَا كِتَابٍ.",
+            "تَضُمُّ الْمَكْتَبَةُ أَلْفَيْنِ كِتَابًا.",
+            "تَضُمُّ الْمَكْتَبَةُ أَلْفَيْ كُتُبٍ."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "أَلْفَيْنِ muzâf olduğunda sonundaki nûn düşer: أَلْفَيْ كِتَابٍ."
+        },
+        {
+          "id": "m23_t26",
+          "tip": "bosluk",
+          "soru": "'تَأَسَّسَتِ الْجَامِعَةُ سَنَةَ أَلْفَيْنِ وَ..... وَعِشْرِينَ.' (Üniversite 2024 yılında kuruldu) — سَنَةَ müennes olduğuna göre 4 nasıl yazılır?",
+          "secenekler": [
+            "أَرْبَعٍ",
+            "أَرْبَعَةٍ",
+            "أَرْبَعًا",
+            "أَرْبَعَةً"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "سَنَةَ muzâftır, ardındaki yıl sayıları mecrûrdur; سَنَة müennes olduğundan 4 zıt (müzekker) gelir: أَرْبَعٍ."
+        },
+        {
+          "id": "m23_t27",
+          "tip": "bosluk",
+          "soru": "'اِنْعَقَدَ الْمُؤْتَمَرُ عَامَ أَلْفَيْنِ وَ..... وَعِشْرِينَ.' (Konferans 2025 yılında toplandı) — عَامَ müzekker olduğuna göre 5 nasıl yazılır?",
+          "secenekler": [
+            "خَمْسَةٍ",
+            "خَمْسٍ",
+            "خَمْسَةً",
+            "خَمْسٌ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "عَامَ müzekkerdir ve mecrûr izâfet zinciri devam eder; 5 zıt (müennes) gelir: خَمْسَةٍ."
+        },
+        {
+          "id": "m23_t28",
+          "tip": "donusturme",
+          "soru": "'مِئَةُ طَالِبٍ' tamlamasına 'وَعِشْرُونَ' eklenirse (120 öğrenci) temyîz nasıl değişir?",
+          "secenekler": [
+            "مِئَةٌ وَعِشْرُونَ طَالِبًا",
+            "مِئَةٌ وَعِشْرُونَ طَالِبٍ",
+            "مِئَةُ وَعِشْرُونَ طُلَّابٍ",
+            "مِئَةً وَعِشْرِينَ طَالِبٍ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Temyîz daima kendisine EN YAKIN sayıya uyar! Son sayı عِشْرُونَ olduğu için temyîz tekil mansub (طَالِبًا) olur."
+        },
+        {
+          "id": "m23_t29",
+          "tip": "tr_ar",
+          "soru": "'Şehirde iki milyon kişi yaşıyor' cümlesinin doğru Arapçası hangisidir?",
+          "secenekler": [
+            "يَعِيشُ فِي الْمَدِينَةِ مِلْيُونَا شَخْصٍ.",
+            "يَعِيشُ فِي الْمَدِينَةِ مِلْيُونَانِ شَخْصٍ.",
+            "يَعِيشُ فِي الْمَدِينَةِ مِلْيُونَيْ شَخْصٍ.",
+            "يَعِيشُ فِي الْمَدِينَةِ مِلْيُونَا شَخْصًا."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Fâil merfû (مِلْيُونَانِ), muzâf olunca nûn düşer (مِلْيُونَا) + tekil mecrûr (شَخْصٍ)."
+        },
+        {
+          "id": "m23_t30",
+          "tip": "bosluk",
+          "soru": "'بَاعَ التَّاجِرُ أَلْفَ ..... .' (Tüccar bin gömlek sattı) boşluğuna ne gelir?",
+          "secenekler": [
+            "قَمِيصٍ",
+            "قَمِيصًا",
+            "قُمْصَانٍ",
+            "قَمِيصٌ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "أَلْفَ kelimesinden sonra gelen temyîz izâfet gereği tekil mecrûrdur: قَمِيصٍ."
+        }
+      ],
+      "arBaslik": "الْمِئَةُ وَالْأَلْفُ وَالْمِلْيُونُ وَقِرَاءَةُ التَّارِيخِ"
+    },
+    {
+      "id": "m23_g4",
+      "baslik": "Sıra Sayıları (الْأَعْدَادُ التَّرْتِيبِيَّةُ: الْأَوَّلُ، الثَّانِي… الْعِشْرُونَ)",
+      "mantik": "Şimdi 'kaç tane?' sorusundan 'kaçıncı?' sorusuna geçiyoruz! Sıra sayıları (1., 2., 3., 11., 20.) Arapçada tamamen bir SIFAT (نَعْتٌ) gibi davranır; yani zıtlık karmaşası BURADA YOKTUR! Önündeki isme cinsiyet, belirlilik ve i'rab bakımından %100 UYAR! Sadece 1. sıra sayısı özel kalıptadır: اَلْأَوَّلُ (müzekker) / اَلْأُولَى (müennes). 2'den 10'a kadar ise tamamı kolayca فَاعِلٌ / فَاعِلَةٌ (ism-i fâil) kalıbından türetilir: الثَّانِي/الثَّانِيَةُ، الثَّالِثُ/الثَّالِثَةُ، الرَّابِعُ/الرَّابِعَةُ ... الْعَاشِرُ/الْعَاشِرَةُ! 11.–19. sıra sayılarında her iki parça da isme cinsiyette uyar ve fetha üzere mebnî kalır (الْحَادِيَ عَشَرَ / الْحَادِيَةَ عَشْرَةَ — dikkat: 11'de الْأَوَّل değil الْحَادِيَ kullanılır!). 20., 30., 100. sıra sayıları ise başına الـ alarak (الْعِشْرُونَ، الثَّلَاثُونَ، الْمِئَةُ) her iki cinsiyet için ortak kullanılır.",
+      "formul": "İsim + Sıra Sayısı (Sıfat gibi 4 yönden tam uyum!) | 2–10: فَاعِلٌ / فَاعِلَةٌ | 11–19: الْحَادِيَ عَشَرَ … التَّاسِعَ عَشَرَ",
+      "formulAr": "الدَّرْسُ الْأَوَّلُ · الصَّفْحَةُ الْأُولَى · الطَّابِقُ الثَّالِثُ · الْفَصْلُ الْحَادِيَ عَشَرَ · الْقَرْنُ الْحَادِي وَالْعِشْرُونَ",
+      "tablo": {
+        "baslik": "Sıra Sayıları (1.–21.) Müzekker ve Müennes Uyum Tablosu",
+        "sutunlar": [
+          "Sıra",
+          "Müzekker Sıfat",
+          "Müennes Sıfat",
+          "Örnek Kullanım"
+        ],
+        "satirlar": [
+          {
+            "hucreler": [
+              "1.",
+              "الْأَوَّلُ",
+              "الْأُولَى",
+              "الدَّرْسُ الْأَوَّلُ / الصَّفْحَةُ الْأُولَى"
+            ],
+            "ar": "الْأَوَّلُ — الْأُولَى"
+          },
+          {
+            "hucreler": [
+              "2. / 3.",
+              "الثَّانِي · الثَّالِثُ",
+              "الثَّانِيَةُ · الثَّالِثَةُ",
+              "الْيَوْمُ الثَّانِي / السَّنَةُ الثَّالِثَةُ"
+            ],
+            "ar": "الثَّانِي · الثَّالِثُ — الثَّانِيَةُ · الثَّالِثَةُ"
+          },
+          {
+            "hucreler": [
+              "4. / 5. / 6.",
+              "الرَّابِعُ · الْخَامِسُ · السَّادِسُ",
+              "الرَّابِعَةُ · الْخَامِسَةُ · السَّادِسَةُ",
+              "الطَّابِقُ السَّادِسُ (6'da سَادِس!)"
+            ],
+            "ar": "الرَّابِعُ · الْخَامِسُ · السَّادِسُ — الرَّابِعَةُ · الْخَامِسَةُ · السَّادِسَةُ"
+          },
+          {
+            "hucreler": [
+              "7.–10.",
+              "السَّابِعُ · الثَّامِنُ · التَّاسِعُ · الْعَاشِرُ",
+              "السَّابِعَةُ · الثَّامِنَةُ · التَّاسِعَةُ · الْعَاشِرَةُ",
+              "السَّاعَةُ التَّاسِعَةُ / الْجُزْءُ الْعَاشِرُ"
+            ],
+            "ar": "السَّابِعُ · الثَّامِنُ · التَّاسِعُ · الْعَاشِرُ — السَّابِعَةُ · الثَّامِنَةُ · التَّاسِعَةُ · الْعَاشِرَةُ"
+          },
+          {
+            "hucreler": [
+              "11. / 12.",
+              "الْحَادِيَ عَشَرَ · الثَّانِيَ عَشَرَ",
+              "الْحَادِيَةَ عَشْرَةَ · الثَّانِيَةَ عَشْرَةَ",
+              "فِي الْقَرْنِ الْحَادِيَ عَشَرَ (Fetha mebnî!)"
+            ],
+            "ar": "الْحَادِيَ عَشَرَ · الثَّانِيَ عَشَرَ — الْحَادِيَةَ عَشْرَةَ · الثَّانِيَةَ عَشْرَةَ"
+          },
+          {
+            "hucreler": [
+              "21. / 20.",
+              "الْحَادِي وَالْعِشْرُونَ · الْعِشْرُونَ",
+              "الْحَادِيَةُ وَالْعِشْرُونَ · الْعِشْرُونَ",
+              "الْقَرْنُ الْحَادِي وَالْعِشْرُونَ (21. yüzyıl)"
+            ],
+            "ar": "الْحَادِي وَالْعِشْرُونَ · الْعِشْرُونَ — الْحَادِيَةُ وَالْعِشْرُونَ · الْعِشْرُونَ"
+          }
+        ]
+      },
+      "trKiyas": "Türkçede '21. yüzyıl' derken 'birinci' yerine Arapçada 11., 21., 31. gibi bileşik sıra sayılarında الْأَوَّل değil الْحَادِي (müennes الْحَادِيَةُ) kullanılır! Ayrıca 6 sayısının kökü س-د-س olduğu için 6. sıra sayısı سَاتِس değil السَّادِسُ / السَّادِسَةُ gelir. Saat söylerken (السَّاعَةُ الثَّالِثَةُ) ve tarih okurken (فِي الْخَامِسِ عَشَرَ مِنْ تَمُّوزَ) hep sıra sayıları kullanılır!",
+      "sikHatalar": [
+        "1. sıra sayısının müennesini الْأَوَّلَةُ yapmak (YANLIŞ: السَّنَةُ الْأَوَّلَةُ — DOĞRU: السَّنَةُ الْأُولَى!).",
+        "21. yüzyıl için الْقَرْنُ الْأَوَّلُ وَالْعِشْرُونَ demek (YANLIŞ — DOĞRU: الْقَرْنُ الْحَادِي وَالْعِشْرُونَ!).",
+        "11.–19. sıra sayılarında her iki parçaya الـ eklemek (YANLIŞ: الدَّرْسُ الْحَادِي الْعَشَرَ — DOĞRU: الدَّرْسُ الْحَادِيَ عَشَرَ; الـ sadece ilk parçaya gelir!)."
+      ],
+      "ornekler": [
+        {
+          "ar": "حَصَلَ خَالِدٌ عَلَى الْمَرْكَزِ الْأَوَّلِ، وَحَصَلَتْ سَلْمَى عَلَى الْجَائِزَةِ الْأُولَى.",
+          "okunus": "Hasale Hâlidun ‘ale'l-merkezi'l-evveli, ve hasalet Selmâ ‘ale'l-câizeti'l-ûlâ.",
+          "tr": "Halid birinci sırayı elde etti, Selma da birinci ödülü kazandı."
+        },
+        {
+          "ar": "أَسْكُنُ فِي الطَّابِقِ السَّادِسِ مِنَ الْبِنَايَةِ الثَّانِيَةِ.",
+          "okunus": "Eskunu fi't-tâbiki's-sâdisi mine'l-binâyeti's-sâniyeti.",
+          "tr": "İkinci binanın altıncı katında oturuyorum."
+        },
+        {
+          "ar": "تَخَرَّجْتُ فِي الْيَوْمِ الْخَامِسَ عَشَرَ مِنْ شَهْرِ حُزَيْرَانَ.",
+          "okunus": "Teharractu fi'l-yevmi'l-hâmise ‘aşera min şehri Huzeyrâne.",
+          "tr": "Haziran ayının on beşinci gününde mezun oldum."
+        },
+        {
+          "ar": "نَحْنُ نَعِيشُ فِي الْقَرْنِ الْحَادِي وَالْعِشْرِينَ.",
+          "okunus": "Nahnu ne‘îşu fi'l-karni'l-hâdî ve'l-‘işrîne.",
+          "tr": "Biz yirmi birinci yüzyılda yaşıyoruz."
+        },
+        {
+          "ar": "وَصَلْنَا إِلَى الصَّفْحَةِ الثَّانِيَةَ عَشْرَةَ مِنَ الْفَصْلِ الرَّابِعِ.",
+          "okunus": "Vasalnâ ile's-safhati's-sâniyete ‘aşrate mine'l-fasli'r-râbi‘i.",
+          "tr": "Dördüncü bölümün on ikinci sayfasına ulaştık."
+        },
+        {
+          "ar": "نَحْنُ الْآنَ فِي الدَّرْسِ الثَّالِثِ وَالْعِشْرِينَ مِنْ هٰذَا الْكِتَابِ.",
+          "okunus": "Nahnu'l-âne fi'd-dersi's-sâlisi ve'l-‘işrîne min hâze'l-kitâbi.",
+          "tr": "Şu an bu kitabın yirmi üçüncü dersindeyiz."
+        }
+      ],
+      "tatbikler": [
+        {
+          "id": "m23_t31",
+          "tip": "bosluk",
+          "soru": "'قَرَأْتُ الصَّفْحَةَ ..... مِنَ الْكِتَابِ.' (Kitabın birinci sayfasını okudum) boşluğuna ne gelir?",
+          "secenekler": [
+            "الْأُولَى",
+            "الْأَوَّلَ",
+            "الْأَوَّلَةَ",
+            "الْوَاحِدَةَ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "الصَّفْحَةَ müennestir; الْأَوَّلُ kelimesinin müennesi الْأُولَى'dır."
+        },
+        {
+          "id": "m23_t32",
+          "tip": "bosluk",
+          "soru": "'مَكْتَبُ الْمُدِيرِ فِي الطَّابِقِ ..... .' (Müdürün ofisi altıncı kattadır) boşluğuna ne gelir?",
+          "secenekler": [
+            "السَّادِسِ",
+            "السَّاتِسِ",
+            "السَّادِسَةِ",
+            "السِّتَّةِ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "الطَّابِقِ müzekker mecrûrdur; 6. sıra sayısı س-د-س kökünden السَّادِسِ gelir."
+        },
+        {
+          "id": "m23_t33",
+          "tip": "bosluk",
+          "soru": "'نَعِيشُ فِي الْقَرْنِ ..... وَالْعِشْرِينَ.' (Yirmi birinci yüzyılda yaşıyoruz) boşluğuna hangisi gelir?",
+          "secenekler": [
+            "الْحَادِي",
+            "الْأَوَّلِ",
+            "الْوَاحِدِ",
+            "الْحَادِيَةِ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "21., 31. gibi bileşik sıra sayılarında müzekker için الْحَادِي kullanılır: الْقَرْنِ الْحَادِي وَالْعِشْرِينَ."
+        },
+        {
+          "id": "m23_t34",
+          "tip": "hata",
+          "soru": "'هٰذِهِ هِيَ الْحَلْقَةُ الثَّالِثَ عَشَرَ.' cümlesindeki hatanın doğru hâli hangisidir?",
+          "secenekler": [
+            "هٰذِهِ هِيَ الْحَلْقَةُ الثَّالِثَةَ عَشْرَةَ.",
+            "هٰذِهِ هِيَ الْحَلْقَةُ الثَّالِثَةَ عَشَرَ.",
+            "هٰذِهِ هِيَ الْحَلْقَةُ الثَّالِثَ عَشْرَةَ.",
+            "هٰذِهِ هِيَ الْحَلْقَةُ الثَّالِثَةُ الْعَشْرَةُ."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Sıra sayılarında zıtlık olmaz; الْحَلْقَةُ müennes olduğundan her iki parça müennes ve fetha mebnî olur: الثَّالِثَةَ عَشْرَةَ."
+        },
+        {
+          "id": "m23_t35",
+          "tip": "bosluk",
+          "soru": "'نَحْنُ فِي الْوَحْدَةِ ..... وَالْعِشْرِينَ.' (Yirmi ikinci ünitedeyiz) boşluğuna ne gelir?",
+          "secenekler": [
+            "الثَّانِيَةِ",
+            "الثَّانِي",
+            "الِاثْنَتَيْنِ",
+            "الثَّانِيَةَ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "الْوَحْدَةِ müennes ve mecrûrdur; sıfat olan sıra sayısı da müennes mecrûr gelir: الثَّانِيَةِ وَالْعِشْرِينَ."
+        },
+        {
+          "id": "m23_t36",
+          "tip": "bosluk",
+          "soru": "'اِجْتَمَعْنَا فِي الْيَوْمِ ..... مِنْ شَهْرِ أَيْلُولَ.' (Eylül ayının on dokuzuncu gününde toplandık) boşluğuna ne gelir?",
+          "secenekler": [
+            "التَّاسِعَ عَشَرَ",
+            "التَّاسِعِ عَشَرِ",
+            "التَّاسِعَةَ عَشْرَةَ",
+            "التَّاسِعَ الْعَشَرَ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "11.–19. sıra sayılarında الـ sadece ilk parçaya gelir ve iki parça da fetha üzere mebnî kalır: التَّاسِعَ عَشَرَ."
+        },
+        {
+          "id": "m23_t37",
+          "tip": "tr_ar",
+          "soru": "'Bu, kitabın yirmi üçüncü dersidir' cümlesinin doğru Arapçası hangisidir?",
+          "secenekler": [
+            "هٰذَا هُوَ الدَّرْسُ الثَّالِثُ وَالْعِشْرُونَ مِنَ الْكِتَابِ.",
+            "هٰذَا هُوَ الدَّرْسُ الثَّالِثَةُ وَالْعِشْرُونَ مِنَ الْكِتَابِ.",
+            "هٰذَا هُوَ الدَّرْسُ الثَّلَاثَةُ وَالْعِشْرُونَ مِنَ الْكِتَابِ.",
+            "هٰذَا هُوَ الدَّرْسُ الثَّالِثَ وَالْعِشْرِينَ مِنَ الْكِتَابِ."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "الدَّرْسُ müzekker merfûdur; sıra sayısı sıfat olarak ona uyar: الثَّالِثُ وَالْعِشْرُونَ."
+        },
+        {
+          "id": "m23_t38",
+          "tip": "donusturme",
+          "soru": "'الْبَابُ الْحَادِيَ عَشَرَ' tamlamasını müennes 'الصَّفْحَةُ' ile yeniden kur:",
+          "secenekler": [
+            "الصَّفْحَةُ الْحَادِيَةَ عَشْرَةَ",
+            "الصَّفْحَةُ الْحَادِيَ عَشْرَةَ",
+            "الصَّفْحَةُ الْأُولَى عَشْرَةَ",
+            "الصَّفْحَةُ الْحَادِيَةُ الْعَشْرَةُ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Her iki parça da müennes ve fetha mebnî olur: الصَّفْحَةُ الْحَادِيَةَ عَشْرَةَ."
+        },
+        {
+          "id": "m23_t39",
+          "tip": "bosluk",
+          "soru": "'تَبْدَأُ الْمُحَاضَرَةُ فِي السَّاعَةِ ..... صَبَاحًا.' (Ders sabah saat on birde başlıyor) boşluğuna ne gelir?",
+          "secenekler": [
+            "الْحَادِيَةَ عَشْرَةَ",
+            "الْحَادِيَ عَشَرَ",
+            "الْأُولَى عَشْرَةَ",
+            "الْحَادِيَةِ عَشْرَةِ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "السَّاعَةِ müennes olduğundan 11. sıra sayısı الْحَادِيَةَ عَشْرَةَ şeklinde fetha mebnî gelir."
+        },
+        {
+          "id": "m23_t40",
+          "tip": "bosluk",
+          "soru": "Sıra sayılarının asıl sayılardan (3–19) en temel farkı nedir?",
+          "secenekler": [
+            "Sıra sayıları sıfat gibi davranır ve cinsiyette isme daima UYAR (zıtlık yoktur)",
+            "Sıra sayılarında da 3–9 zıtlık kuralı uygulanır",
+            "Sıra sayıları daima nekredir",
+            "Sıra sayılarından sonra tekil mansub temyîz gelir"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Sıra sayıları isimden sonra sıfat olarak gelir ve cinsiyet/belirlilik/i'rabda tam uyum sağlar."
+        }
+      ],
+      "arBaslik": "الْأَعْدَادُ التَّرْتِيبِيَّةُ (الْأَوَّلُ – الْعِشْرُونَ)"
+    },
+    {
+      "id": "m23_g5",
+      "baslik": "Mansub Munfasıl Zamirler (الضَّمَائِرُ الْمُنْفَصِلَةُ الْمَنْصُوبَةُ: إِيَّاكَ / إِيَّاهُ)",
+      "mantik": "Modül 04'te merfû ayrı zamirleri (هُوَ، أَنْتَ، أَنَا), Modül 10'da ise fiile bitişen nesne zamirlerini (رَأَيْتُهُ، أَعْطَيْتُكَ) öğrenmiştin. Peki bir nesne zamirini fiilden AYRI yazmak istediğimizde ne yaparız? Arapça burada çok şık bir taşıyıcı kelime kullanır: إِيَّا (İyyâ) + şahıs eki! Böylece 14 şahıslık 'Mansub Munfasıl Zamir' ailesi doğar: إِيَّايَ (beni), إِيَّانَا (bizi), إِيَّاكَ (seni), إِيَّاهُ (onu)… Peki bu ayrı nesne zamirini nerede kullanırız? Tam 3 altın durum vardır: (1) HASR / VURGU (Yalnızca Seni!): Nesneyi fiilin önüne alırsak bitişik zamir yazamayız, إِيَّا kullanırız ve anlam 'Yalnızca/Sadece' gücünü kazanır: إِيَّاكَ نَعْبُدُ (Yalnızca Sana kulluk ederiz!). (2) İKİ NESNELİ FİİLLERDE: Fiile iki zamir birden bitiştiğinde ikinci zamiri ayırıp netleştirmek için: أَعْطَيْتُكَ إِيَّاهُ (Onu sana verdim). (3) TAHZÎR (SAKINDIRMA / UYARI): إِيَّاكَ وَالْكَذِبَ! (Sakın yalandan uzak dur! / Sakın yalan söyleme!) veya إِيَّاكَ أَنْ تَتَكَاسَلَ! (Sakın tembellik etme!). Bu kalıp hem klasik metinlerde hem modern Arapçada çok yaygındır!",
+      "formul": "إِيَّا + Zamir = Ayrı Nesne | ① إِيَّاكَ + Fiil (Hasr) | ② Fiil + Zamir + إِيَّاهُ | ③ إِيَّاكَ وَ + İsim / إِيَّاكَ أَنْ + Muzâri (Tahzîr)",
+      "formulAr": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ  ·  أَعْطَيْتُكَ إِيَّاهُ  ·  إِيَّاكَ وَالْكَذِبَ!  ·  إِيَّاكُمْ أَنْ تَتَأَخَّرُوا!",
+      "tablo": {
+        "baslik": "14 Şahıs Mansub Munfasıl Zamirler (إِيَّا) ve Tahzîr Tablosu",
+        "sutunlar": [
+          "Şahıs Grubu",
+          "Tekil",
+          "İkil",
+          "Çoğul"
+        ],
+        "satirlar": [
+          {
+            "hucreler": [
+              "Gâib (3. Eril)",
+              "إِيَّاهُ (onu)",
+              "إِيَّاهُمَا (o ikisini)",
+              "إِيَّاهُمْ (onları)"
+            ],
+            "ar": "إِيَّاهُ — إِيَّاهُمَا"
+          },
+          {
+            "hucreler": [
+              "Gâibe (3. Dişil)",
+              "إِيَّاهَا (onu)",
+              "إِيَّاهُمَا (o ikisini)",
+              "إِيَّاهُنَّ (onları)"
+            ],
+            "ar": "إِيَّاهَا — إِيَّاهُمَا"
+          },
+          {
+            "hucreler": [
+              "Muhatap (2. Eril)",
+              "إِيَّاكَ (seni)",
+              "إِيَّاكُمَا (ikiniz)",
+              "إِيَّاكُمْ (sizi)"
+            ],
+            "ar": "إِيَّاكَ — إِيَّاكُمَا"
+          },
+          {
+            "hucreler": [
+              "Muhataba (2. Dişil)",
+              "إِيَّاكِ (seni)",
+              "إِيَّاكُمَا (ikiniz)",
+              "إِيَّاكُنَّ (sizi)"
+            ],
+            "ar": "إِيَّاكِ — إِيَّاكُمَا"
+          },
+          {
+            "hucreler": [
+              "Mütekellim (1. Şahıs)",
+              "إِيَّايَ (beni)",
+              "إِيَّانَا (bizi)",
+              "إِيَّانَا (bizi)"
+            ],
+            "ar": "إِيَّايَ — إِيَّانَا"
+          },
+          {
+            "hucreler": [
+              "Tahzîr (Sakındırma)",
+              "إِيَّاكَ وَالْكَسَلَ! (Sakın tembellikten!)",
+              "إِيَّاكَ أَنْ تَيْأَسَ! (Sakın ümitsizliğe düşme!)",
+              "Mef'ûlün bih (gizli اِحْذَرْ fiiliyle mansub)"
+            ],
+            "ar": "إِيَّاكَ وَالْكَسَلَ! — إِيَّاكَ أَنْ تَيْأَسَ!"
+          }
+        ]
+      },
+      "trKiyas": "Türkçede 'Seni arıyorum' ile 'Yalnızca SENİ arıyorum' arasındaki farkı vurgu ve 'sadece' kelimesiyle veririz. Arapça ise nesneyi fiilin başına إِيَّاكَ şeklinde çekerek tek kelimeyle 'sadece seni' anlamı üretir! Fatiha Suresi'ndeki 'إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ' ayeti bunun dünyadaki en meşhur örneğidir; نَعْبُدُكَ denseydi 'Sana kulluk ederiz' olurdu, إِيَّاكَ نَعْبُدُ denince 'Yalnızca Sana kulluk ederiz' anlamı doğar!",
+      "sikHatalar": [
+        "Vurgu için nesneyi başa alırken merfû zamir kullanmak (YANLIŞ: أَنْتَ نَعْبُدُ — DOĞRU: إِيَّاكَ نَعْبُدُ; çünkü nesne konumu mansub zamir ister!).",
+        "Tahzîr kalıbında وَ'dan sonraki ismi merfû okumak (YANLIŞ: إِيَّاكَ وَالْكَذِبُ! — DOĞRU: إِيَّاكَ وَالْكَذِبَ!; çünkü gizli 'اِحْذَرِ الْكَذِبَ' fiilinin nesnesi olarak mansubdur!).",
+        "إِيَّايَ (beni) yerine إِيَّانِي demek (YANLIŞ: إِيَّانِي — DOĞRU: إِيَّايَ; burada vikâye nûnu gelmez!)."
+      ],
+      "ornekler": [
+        {
+          "ar": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ.",
+          "okunus": "İyyâke na‘budu ve iyyâke neste‘înu.",
+          "tr": "Yalnızca Sana kulluk eder ve yalnızca Senden yardım dileriz. (Fâtiha 5)"
+        },
+        {
+          "ar": "طَلَبَ مِنِّي أَخِي الْكِتَابَ فَأَعْطَيْتُهُ إِيَّاهُ.",
+          "okunus": "Talebe minnî ahî'l-kitâbe fe-a‘taytuhu iyyâhu.",
+          "tr": "Kardeşim benden kitabı istedi, ben de onu kendisine verdim."
+        },
+        {
+          "ar": "إِيَّاكَ وَالْكَذِبَ، فَإِنَّ الصِّدْقَ مَنْجَاةٌ!",
+          "okunus": "İyyâke ve'l-kezibe, fe-inne's-sıdka mencâtun!",
+          "tr": "Sakın yalandan uzak dur; çünkü doğruluk kurtuluştur!"
+        },
+        {
+          "ar": "إِيَّاكُمْ أَنْ تَتَكَاسَلُوا قَبْلَ الِامْتِحَانِ النِّهَائِيِّ!",
+          "okunus": "İyyâkum en tetekâselû kable'l-imtihâni'n-nihâiyyi!",
+          "tr": "Sakın final sınavından önce tembellik etmeyiniz!"
+        },
+        {
+          "ar": "مَا قَصَدْتُ غَيْرَكَ، بَلْ إِيَّاكَ قَصَدْتُ بِالذَّاتِ.",
+          "okunus": "Mâ kasadtu gayrake, bel iyyâke kasadtu bi'z-zâti.",
+          "tr": "Senden başkasını kastetmedim; bilakis bizzat sadece seni kastettim."
+        },
+        {
+          "ar": "سَأَلَتْنِي أُخْتِي عَنِ الْهَدِيَّةِ فَأَرَيْتُهَا إِيَّاهَا.",
+          "okunus": "Se'eletnî uhtî ‘ani'l-hediyyeti fe-eraytuhâ iyyâhâ.",
+          "tr": "Kız kardeşim bana hediyeyi sordu, ben de onu kendisine gösterdim."
+        }
+      ],
+      "tatbikler": [
+        {
+          "id": "m23_t41",
+          "tip": "bosluk",
+          "soru": "'..... نَعْبُدُ وَ..... نَسْتَعِينُ.' (Yalnızca Sana kulluk eder, yalnızca Senden yardım dileriz) boşluklarına ne gelir?",
+          "secenekler": [
+            "إِيَّاكَ / إِيَّاكَ",
+            "أَنْتَ / أَنْتَ",
+            "إِيَّاهُ / إِيَّاهُ",
+            "كَ / كَ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Öne alınmış mansub munfasıl zamir hasr (yalnızca) anlamı verir: إِيَّاكَ."
+        },
+        {
+          "id": "m23_t42",
+          "tip": "bosluk",
+          "soru": "'طَلَبْتَ مِنِّي الْقَامُوسَ فَأَعْطَيْتُكَ ..... .' (Benden sözlüğü istedin, ben de onu sana verdim) boşluğuna ne gelir?",
+          "secenekler": [
+            "إِيَّاهُ",
+            "هُوَ",
+            "إِيَّاهَا",
+            "إِيَّاكَ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "الْقَامُوسَ müzekker tekildir; ikinci nesne olarak ayrı mansub zamir إِيَّاهُ gelir."
+        },
+        {
+          "id": "m23_t43",
+          "tip": "bosluk",
+          "soru": "'إِيَّاكَ وَ..... يَا بُنَيَّ!' (Evladım, sakın tembellikten uzak dur!) boşluğuna doğru harekeli isim hangisidir?",
+          "secenekler": [
+            "الْكَسَلَ",
+            "الْكَسَلُ",
+            "الْكَسَلِ",
+            "كَسَلٌ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Tahzîr (sakındırma) üslubunda وَ'dan sonraki isim gizli اِحْذَرْ fiilinin mef'ûlü olarak mansubdur: الْكَسَلَ."
+        },
+        {
+          "id": "m23_t44",
+          "tip": "hata",
+          "soru": "'إِيَّانِي قَصَدَ الْأُسْتَاذُ بِالسُّؤَالِ.' cümlesindeki zamir hatası nasıl düzeltilir?",
+          "secenekler": [
+            "إِيَّايَ قَصَدَ الْأُسْتَاذُ بِالسُّؤَالِ.",
+            "أَنَا قَصَدَ الْأُسْتَاذُ بِالسُّؤَالِ.",
+            "نِي قَصَدَ الْأُسْتَاذُ بِالسُّؤَالِ.",
+            "إِيَّانَا قَصَدَ الْأُسْتَاذُ بِالسُّؤَالِ."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "1. tekil şahıs mansub munfasıl zamiri إِيَّايَ'dir (vikâye nûnu gelmez)."
+        },
+        {
+          "id": "m23_t45",
+          "tip": "bosluk",
+          "soru": "'أَخَذْتُ الرِّسَالَةَ وَسَلَّمْتُ الْمُدِيرَ ..... .' (Mektubu aldım ve onu müdüre teslim ettim) boşluğuna ne gelir?",
+          "secenekler": [
+            "إِيَّاهَا",
+            "إِيَّاهُ",
+            "هِيَ",
+            "إِيَّاهُمْ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "الرِّسَالَةَ müennes tekil olduğu için ikinci nesne замiri إِيَّاهَا gelir."
+        },
+        {
+          "id": "m23_t46",
+          "tip": "bosluk",
+          "soru": "'إِيَّاكِ أَنْ ..... الْأَمَلَ يَا أُخْتِي!' (Kız kardeşim, sakın umudu kaybetme!) boşluğuna ne gelir?",
+          "secenekler": [
+            "تَفْقِدِي",
+            "تَفْقِدِينَ",
+            "تَفْقِدْ",
+            "يَفْقِدُ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "أَنْ nasbedicidir ve muhataba (أَنْتِ) çekiminde Ef'âl-i Hamse nûnu düşer: تَفْقِدِي."
+        },
+        {
+          "id": "m23_t47",
+          "tip": "donusturme",
+          "soru": "'نَحْتَرِمُكَ' (Sana saygı duyuyoruz) cümlesini 'Yalnızca SANA saygı duyuyoruz' şeklinde vurgulu hâle getir:",
+          "secenekler": [
+            "إِيَّاكَ نَحْتَرِمُ.",
+            "أَنْتَ نَحْتَرِمُ.",
+            "لَكَ نَحْتَرِمُ.",
+            "إِيَّاهُ نَحْتَرِمُ."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Nesneyi öne alıp إِيَّاكَ şeklinde yazınca hasr (yalnızca) vurgusu doğar: إِيَّاكَ نَحْتَرِمُ."
+        },
+        {
+          "id": "m23_t48",
+          "tip": "tr_ar",
+          "soru": "'Sakın öfkeden (öfkelenmekten) uzak durun! (çoğul erkek)' cümlesinin doğru Arapçası hangisidir?",
+          "secenekler": [
+            "إِيَّاكُمْ وَالْغَضَبَ!",
+            "إِيَّاكُمْ وَالْغَضَبُ!",
+            "أَنْتُمْ وَالْغَضَبَ!",
+            "إِيَّاكَ وَالْغَضَبِ!"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Çoğul muhatap إِيَّاكُمْ + وَ + mansub isim الْغَضَبَ!"
+        },
+        {
+          "id": "m23_t49",
+          "tip": "bosluk",
+          "soru": "'إِيَّاكَ وَالنَّمِيمَةَ!' ifadesinde إِيَّاكَ'nin nahivdeki irab konumu nedir?",
+          "secenekler": [
+            "Gizli 'أُحَذِّرُ' fiilinin mahallen mansub mef'ûlün bihi",
+            "Merfû mübteda",
+            "Mecrûr isim",
+            "Kâne'nin ismi"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Tahzîr üslubunda إِيَّاكَ, takdirî 'أُحَذِّرُكَ (seni sakındırıyorum)' fiilinin mef'ûlün bihi olarak mahallen mansubdur."
+        },
+        {
+          "id": "m23_t50",
+          "tip": "bosluk",
+          "soru": "'وَعَدْتُ أَصْدِقَائِي بِالْهَدَايَا فَمَنَحْتُهُمْ ..... .' (Arkadaşlarıma hediyeler söz verdim ve onları kendilerine takdim ettim) — الْهَدَايَا gayr-i âkil çoğul olduğuna göre ne gelir?",
+          "secenekler": [
+            "إِيَّاهَا",
+            "إِيَّاهُمْ",
+            "إِيَّاهُ",
+            "إِيَّاهُنَّ"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "الْهَدَايَا akılsız çoğul (tekil müennes hükmünde) olduğundan zamiri إِيَّاهَا olur!"
+        }
+      ],
+      "arBaslik": "الضَّمَائِرُ الْمُنْفَصِلَةُ الْمَنْصُوبَةُ (إِيَّاكَ / إِيَّاهُ) وَأُسْلُوبُ التَّحْذِيرِ"
+    }
+  ],
+  "workshop": {
+    "motors": [
+      {
+        "id": "m23_mot1",
+        "baslik": "11–19 Mürekkep Sayı Kurucu",
+        "aciklama": "Fiil/mekân başlangıcını seç, ardından 11–19 mürekkep sayı + tekil mansub temyîzi birleştir.",
+        "slotlar": [
+          {
+            "etiket": "Başlangıç",
+            "secenekler": [
+              {
+                "ar": "فِي الْمَكْتَبَةِ",
+                "tr": "Kütüphanede"
+              },
+              {
+                "ar": "قَرَأْتُ هٰذَا الشَّهْرَ",
+                "tr": "Bu ay okudum"
+              },
+              {
+                "ar": "حَضَرَ الْمُؤْتَمَرَ",
+                "tr": "Konferansa katıldı"
+              },
+              {
+                "ar": "سَلَّمْتُ عَلَى",
+                "tr": "Selam verdim"
+              },
+              {
+                "ar": "تَتَكَوَّنُ الْمَدْرَسَةُ مِنْ",
+                "tr": "Okul oluşuyor"
+              },
+              {
+                "ar": "اِشْتَرَى الْمُدِيرُ",
+                "tr": "Müdür satın aldı"
+              }
+            ]
+          },
+          {
+            "etiket": "11–19 Sayı + Tekil Mansub Temyîz",
+            "secenekler": [
+              {
+                "ar": "أَحَدَ عَشَرَ كِتَابًا قَيِّمًا.",
+                "tr": "on bir değerli kitap."
+              },
+              {
+                "ar": "إِحْدَى عَشْرَةَ مَجَلَّةً عِلْمِيَّةً.",
+                "tr": "on bir bilimsel dergi."
+              },
+              {
+                "ar": "ثَلَاثَةَ عَشَرَ بَاحِثًا مُتَخَصِّصًا.",
+                "tr": "on üç uzman araştırmacı."
+              },
+              {
+                "ar": "خَمْسَ عَشْرَةَ طَالِبَةً مُجْتَهِدَةً.",
+                "tr": "on beş çalışkan kız öğrenci."
+              },
+              {
+                "ar": "سَبْعَةَ عَشَرَ حَاسُوبًا حَدِيثًا.",
+                "tr": "on yedi modern bilgisayar."
+              },
+              {
+                "ar": "تِسْعَ عَشْرَةَ غُرْفَةً وَاسِعَةً.",
+                "tr": "on dokuz geniş oda."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m23_mot2",
+        "baslik": "12 Sayısı İ'rab Motoru (Merfû vs. Mansub/Mecrûr)",
+        "aciklama": "Merfû veya mansub/mecrûr bağlama göre اِثْنَا/اِثْنَتَا ile اِثْنَيْ/اِثْنَتَيْ farkını kur.",
+        "slotlar": [
+          {
+            "etiket": "Merfû / Mansub-Mecrûr Yapı",
+            "secenekler": [
+              {
+                "ar": "فِي السَّنَةِ",
+                "tr": "Bir yılda (merfû)"
+              },
+              {
+                "ar": "نَجَحَ فِي الِاخْتِبَارِ",
+                "tr": "Sınavda başardı (merfû)"
+              },
+              {
+                "ar": "قَرَأْتُ فِي الْعُطْلَةِ",
+                "tr": "Tatilde okudum (mansub)"
+              },
+              {
+                "ar": "كَتَبَ الصَّحَفِيُّ",
+                "tr": "Gazeteci yazdı (mansub)"
+              },
+              {
+                "ar": "تَحَدَّثْتُ مَعَ",
+                "tr": "Konuştum (mecrûr)"
+              },
+              {
+                "ar": "مَرَرْتُ بِـ",
+                "tr": "Yanından geçtim (mecrûr)"
+              }
+            ]
+          },
+          {
+            "etiket": "12 + Temyîz",
+            "secenekler": [
+              {
+                "ar": "اثْنَا عَشَرَ شَهْرًا كَامِلًا.",
+                "tr": "tam on iki ay (merfû müz.)."
+              },
+              {
+                "ar": "اثْنَتَا عَشْرَةَ طَالِبَةً مُتَفَوِّقَةً.",
+                "tr": "on iki üstün kız öğrenci (merfû müen.)."
+              },
+              {
+                "ar": "اثْنَيْ عَشَرَ كِتَابًا مُفِيدًا.",
+                "tr": "on iki faydalı kitap (mansub müz.)."
+              },
+              {
+                "ar": "اثْنَتَيْ عَشْرَةَ مَقَالَةً أَدَبِيَّةً.",
+                "tr": "on iki edebî makale (mansub müen.)."
+              },
+              {
+                "ar": "اثْنَيْ عَشَرَ ضَيْفًا كَرِيمًا.",
+                "tr": "on iki değerli misafir (mecrûr müz.)."
+              },
+              {
+                "ar": "اثْنَتَيْ عَشْرَةَ قَرْيَةً جَمِيلَةً.",
+                "tr": "on iki güzel köy (mecrûr müen.)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m23_mot3",
+        "baslik": "20–99 Ukûd & Ma'tûf Sayı Motoru",
+        "aciklama": "Cümledeki i'rab konumuna göre 20–99 sayılarını tekil mansub temyîzle eşleştir.",
+        "slotlar": [
+          {
+            "etiket": "Bağlam (Merfû / Mansub / Mecrûr)",
+            "secenekler": [
+              {
+                "ar": "فِي الْقَاعَةِ الْيَوْمَ",
+                "tr": "Bugün salonda (merfû)"
+              },
+              {
+                "ar": "شَارَكَ فِي الدَّوْرَةِ",
+                "tr": "Kursa katıldı (merfû)"
+              },
+              {
+                "ar": "حَفِظْتُ هٰذَا الْأُسْبُوعَ",
+                "tr": "Bu hafta ezberledim (mansub)"
+              },
+              {
+                "ar": "زُرْتُ خِلَالَ رِحْلَتِي",
+                "tr": "Gezimde ziyaret ettim (mansub)"
+              },
+              {
+                "ar": "تَتَكَوَّنُ الْمَوْسُوعَةُ مِنْ",
+                "tr": "Ansiklopedi oluşuyor (mecrûr)"
+              },
+              {
+                "ar": "تَخَرَّجَ هٰذَا الْفَصْلَ",
+                "tr": "Bu dönem mezun oldu (merfû)"
+              }
+            ]
+          },
+          {
+            "etiket": "20–99 Sayı + Temyîz",
+            "secenekler": [
+              {
+                "ar": "ثَلَاثُونَ مُعَلِّمًا وَمُعَلِّمَةً.",
+                "tr": "otuz öğretmen (merfû)."
+              },
+              {
+                "ar": "خَمْسَةٌ وَعِشْرُونَ بَاحِثًا.",
+                "tr": "yirmi beş araştırmacı (merfû)."
+              },
+              {
+                "ar": "أَرْبَعِينَ كَلِمَةً عَرَبِيَّةً.",
+                "tr": "kırk Arapça kelime (mansub)."
+              },
+              {
+                "ar": "خَمْسًا وَعِشْرِينَ مَدِينَةً.",
+                "tr": "yirmi beş şehir (mansub)."
+              },
+              {
+                "ar": "تِسْعِينَ جُزْءًا مُفَصَّلًا.",
+                "tr": "doksan ayrıntılı cilt (mecrûr)."
+              },
+              {
+                "ar": "سَبْعٌ وَثَمَانُونَ طَالِبَةً.",
+                "tr": "seksen yedi kız öğrenci (merfû)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m23_mot4",
+        "baslik": "100 / 1000 / Milyon & Yıl Okuma Motoru",
+        "aciklama": "Büyük sayıları tekil mecrûr temyîz ve yıl kalıplarıyla eksiksiz kur.",
+        "slotlar": [
+          {
+            "etiket": "Başlangıç",
+            "secenekler": [
+              {
+                "ar": "تَضُمُّ الْمَكْتَبَةُ الْمَرْكَزِيَّةُ",
+                "tr": "Merkez kütüphane barındırıyor"
+              },
+              {
+                "ar": "حَضَرَ الْمِهْرَجَانَ الثَّقَافِيَّ",
+                "tr": "Kültür festivaline katıldı"
+              },
+              {
+                "ar": "تَأَسَّسَتْ هٰذِهِ الْجَامِعَةُ",
+                "tr": "Bu üniversite kuruldu"
+              },
+              {
+                "ar": "قَرَأْتُ فِي عَامٍ وَاحِدٍ",
+                "tr": "Bir yılda okudum"
+              },
+              {
+                "ar": "يَسْكُنُ فِي هٰذِهِ الْعَاصِمَةِ",
+                "tr": "Bu başkentte yaşıyor"
+              },
+              {
+                "ar": "تَمَّ افْتِتَاحُ الْمَتْحَفِ",
+                "tr": "Müzenin açılışı yapıldı"
+              }
+            ]
+          },
+          {
+            "etiket": "100 / 1000 / Yıl İfadesi",
+            "secenekler": [
+              {
+                "ar": "مِئَةَ أَلْفِ كِتَابٍ وَمَخْطُوطَةٍ.",
+                "tr": "yüz bin kitap ve el yazması."
+              },
+              {
+                "ar": "أَلْفَا زَائِرٍ مِنْ دُوَلٍ شَتَّى.",
+                "tr": "çeşitli ülkelerden iki bin ziyaretçi."
+              },
+              {
+                "ar": "سَنَةَ أَلْفٍ وَتِسْعِمِئَةٍ وَخَمْسٍ وَتِسْعِينَ.",
+                "tr": "1995 yılında."
+              },
+              {
+                "ar": "مِئَتَيْ كِتَابٍ وَمِئَةَ مَقَالَةٍ.",
+                "tr": "iki yüz kitap ve yüz makale."
+              },
+              {
+                "ar": "خَمْسَةُ مَلَايِينَ نَسَمَةٍ تَقْرِيبًا.",
+                "tr": "yaklaşık beş milyon nüfus."
+              },
+              {
+                "ar": "عَامَ أَلْفَيْنِ وَسِتَّةٍ وَعِشْرِينَ.",
+                "tr": "2026 yılında."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m23_mot5",
+        "baslik": "Sıra Sayıları (الْأَوَّلُ – الْحَادِي وَالْعِشْرُونَ) Motoru",
+        "aciklama": "Müzekker veya müennes isimle sıra sayısını sıfat olarak tam uyumlu kur.",
+        "slotlar": [
+          {
+            "etiket": "İsim + Konum",
+            "secenekler": [
+              {
+                "ar": "نَحْنُ الْآنَ فِي الدَّرْسِ",
+                "tr": "Şu an dersteyiz:"
+              },
+              {
+                "ar": "وَصَلْتُ إِلَى الصَّفْحَةِ",
+                "tr": "Sayfaya ulaştım:"
+              },
+              {
+                "ar": "أَسْكُنُ فِي الطَّابِقِ",
+                "tr": "Katta oturuyorum:"
+              },
+              {
+                "ar": "نَعِيشُ الْيَوْمَ فِي الْقَرْنِ",
+                "tr": "Bugün yüzyılda yaşıyoruz:"
+              },
+              {
+                "ar": "اِنْطَلَقَ الْمُؤْتَمَرُ فِي الْيَوْمِ",
+                "tr": "Konferans günde başladı:"
+              },
+              {
+                "ar": "تَخَرَّجْتُ فِي السَّنَةِ",
+                "tr": "Yılda mezun oldum:"
+              }
+            ]
+          },
+          {
+            "etiket": "Sıra Sayısı Sıfatı",
+            "secenekler": [
+              {
+                "ar": "الْأَوَّلِ مِنَ الْجُزْءِ الثَّانِي.",
+                "tr": "ikinci cildin birincisi."
+              },
+              {
+                "ar": "الْأُولَى مِنَ الْفَصْلِ الرَّابِعِ.",
+                "tr": "dördüncü bölümün birincisi."
+              },
+              {
+                "ar": "السَّادِسِ عَشَرَ مِنَ الْبُرْجِ.",
+                "tr": "kulenin on altıncısı."
+              },
+              {
+                "ar": "الْحَادِي وَالْعِشْرِينَ الْمِيلَادِيِّ.",
+                "tr": "miladi yirmi birincisi."
+              },
+              {
+                "ar": "الْخَامِسَ عَشَرَ مِنْ شَهْرِ أَيَّارَ.",
+                "tr": "Mayıs ayının on beşincisi."
+              },
+              {
+                "ar": "الثَّالِثَةِ وَالْعِشْرِينَ مِنْ عُمْرِي.",
+                "tr": "ömrümün yirmi üçüncüsü."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m23_mot6",
+        "baslik": "إِيَّا (Vurgu, İkinci Nesne & Tahzîr) Motoru",
+        "aciklama": "Mansub munfasıl zamirlerle hasr vurgusu, ikinci zamir nesne ve sakındırma cümleleri üret.",
+        "slotlar": [
+          {
+            "etiket": "إِيَّا / Başlangıç",
+            "secenekler": [
+              {
+                "ar": "إِيَّاكَ",
+                "tr": "Yalnızca Seni / Sakın (eril)"
+              },
+              {
+                "ar": "إِيَّاكُمْ",
+                "tr": "Sakın sizler (çoğul)"
+              },
+              {
+                "ar": "إِيَّاهُ",
+                "tr": "Yalnızca onu"
+              },
+              {
+                "ar": "أَعْطَيْتُكَ",
+                "tr": "Sana verdim"
+              },
+              {
+                "ar": "سَلَّمْتُ أُخْتِي الْهَدِيَّةَ وَأَرَيْتُهَا",
+                "tr": "Kız kardeşime hediyeyi verip gösterdim"
+              },
+              {
+                "ar": "إِيَّاكِ",
+                "tr": "Sakın sen (dişil)"
+              }
+            ]
+          },
+          {
+            "etiket": "Devam (Hasr / İkinci Nesne / Tahzîr)",
+            "secenekler": [
+              {
+                "ar": "نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ.",
+                "tr": "kulluk eder ve Senden yardım dileriz."
+              },
+              {
+                "ar": "وَالْكَذِبَ، فَإِنَّهُ يُهْلِكُ الصَّدَاقَةَ!",
+                "tr": "yalandan uzak durun; çünkü dostluğu yıkar!"
+              },
+              {
+                "ar": "قَصَدَ الْمُدِيرُ بِالتَّكْرِيمِ الْيَوْمَ.",
+                "tr": "müdür bugün ödüllendirmeyle kastetti."
+              },
+              {
+                "ar": "إِيَّاهُ أَمَامَ جَمِيعِ الزُّمَلَاءِ.",
+                "tr": "onu tüm meslektaşların önünde."
+              },
+              {
+                "ar": "إِيَّاهَا بِكُلِّ فَرَحٍ وَسُرُورٍ.",
+                "tr": "onu büyük sevinç ve mutlulukla."
+              },
+              {
+                "ar": "أَنْ تَسْتَسْلِمِي أَمَامَ الصُّعُوبَاتِ!",
+                "tr": "zorluklar karşısında pes etme!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "merdivenler": [
+      {
+        "id": "m23_l1",
+        "baslik": "11–19 ve 12 Sayı Merdiveni",
+        "adimlar": [
+          {
+            "seviye": "A1",
+            "ar": "فِي السَّنَةِ شُهُورٌ.",
+            "okunus": "Fi's-seneti şuhûrun.",
+            "tr": "Yılda aylar vardır.",
+            "ekleme": "Temel şibh-i cümle"
+          },
+          {
+            "seviye": "A1+",
+            "ar": "فِي السَّنَةِ اثْنَا عَشَرَ شَهْرًا.",
+            "okunus": "Fi's-seneti'snâ ‘aşera şehran.",
+            "tr": "Yılda on iki ay vardır.",
+            "ekleme": "12 merfû + tekil mansub temyîz"
+          },
+          {
+            "seviye": "A2",
+            "ar": "فِي السَّنَةِ اثْنَا عَشَرَ شَهْرًا وَفِي كُلِّ شَهْرٍ ثَلَاثُونَ يَوْمًا تَقْرِيبًا.",
+            "okunus": "Fi's-seneti'snâ ‘aşera şehran ve fî kulli şehrin selâsûne yevmen takrîben.",
+            "tr": "Yılda on iki ay ve her ayda yaklaşık otuz gün vardır.",
+            "ekleme": "Ukûd sayısı (ثَلَاثُونَ) eklendi"
+          },
+          {
+            "seviye": "A2+",
+            "ar": "تَعَلَّمْتُ خِلَالَ اثْنَيْ عَشَرَ شَهْرًا خَمْسَ عَشْرَةَ وَحْدَةً فِي الصَّرْفِ وَالنَّحْوِ.",
+            "okunus": "Te‘allemtu hilâle'sney ‘aşera şehran hamse ‘aşrate vahdeten fi's-sarfi ve'n-nahvi.",
+            "tr": "On iki ay boyunca sarf ve nahivde on beş ünite öğrendim.",
+            "ekleme": "Mecrûr 12 (اثْنَيْ) + müennes 15 (خَمْسَ عَشْرَةَ)"
+          },
+          {
+            "seviye": "B1",
+            "ar": "إِنَّ الطَّالِبَ الَّذِي يُنَظِّمُ أَيَّامَهُ طَوَالَ اثْنَيْ عَشَرَ شَهْرًا يُتْقِنُ ثَلَاثًا وَعِشْرِينَ وَحْدَةً بِكُلِّ يَسْرٍ.",
+            "okunus": "İnne't-tâlibe'llezî yunazzimu eyyâmehu tavâle'sney ‘aşera şehran yutkınu selâsen ve ‘işrîne vahdeten bi-kulli yusrin.",
+            "tr": "On iki ay boyunca günlerini planlayan öğrenci yirmi üç üniteyi büyük bir kolaylıkla kavrar.",
+            "ekleme": "İnne + İsm-i Mevsûl + Ma'tûf 23 (ثَلَاثًا وَعِشْرِينَ)"
+          }
+        ]
+      },
+      {
+        "id": "m23_l2",
+        "baslik": "100 / 1000 ve Yıl Okuma Merdiveni",
+        "adimlar": [
+          {
+            "seviye": "A1",
+            "ar": "فِي الْمَكْتَبَةِ كُتُبٌ كَثِيرَةٌ.",
+            "okunus": "Fi'l-mektebeti kutubun kesîratun.",
+            "tr": "Kütüphanede çok kitap vardır.",
+            "ekleme": "Temel isim cümlesi"
+          },
+          {
+            "seviye": "A1+",
+            "ar": "فِي الْمَكْتَبَةِ أَلْفُ كِتَابٍ.",
+            "okunus": "Fi'l-mektebeti elfu kitâbin.",
+            "tr": "Kütüphanede bin kitap vardır.",
+            "ekleme": "1000 + tekil mecrûr temyîz"
+          },
+          {
+            "seviye": "A2",
+            "ar": "فِي الْمَكْتَبَةِ خَمْسَةُ آلَافِ كِتَابٍ وَمِئَتَا قَامُوسٍ.",
+            "okunus": "Fi'l-mektebeti hamsetu âlâfi kitâbin ve mietâ kâmûsin.",
+            "tr": "Kütüphanede beş bin kitap ve iki yüz sözlük vardır.",
+            "ekleme": "5000 (آلَافِ) + 200 muzâf (مِئَتَا)"
+          },
+          {
+            "seviye": "A2+",
+            "ar": "تَأَسَّسَتْ هٰذِهِ الْمَكْتَبَةُ سَنَةَ أَلْفٍ وَتِسْعِمِئَةٍ وَثَمَانٍ وَتِسْعِينَ، وَتَضُمُّ مِئَةَ أَلْفِ مَرْجِعٍ.",
+            "okunus": "Teesseset hâzihi'l-mektebetu senete elfin ve tis‘umietin ve semânin ve tis‘îne, ve tedummu miete elfi merci‘in.",
+            "tr": "Bu kütüphane 1998 yılında kuruldu ve yüz bin kaynak barındırıyor.",
+            "ekleme": "سَنَةَ ile 1998 yılı okuma + 100.000"
+          },
+          {
+            "seviye": "B1",
+            "ar": "قَرَأَ الْبَاحِثُونَ فِي عَامِ أَلْفَيْنِ وَسِتَّةٍ وَعِشْرِينَ أَكْثَرَ مِنْ مِلْيُونِ صَفْحَةٍ فِي هٰذِهِ الْمَكْتَبَةِ الْعَرِيقَةِ.",
+            "okunus": "Karae'l-bâhisûne fî ‘âmi elfeyni ve sittetin ve ‘işrîne eksera min milyûni safhatin fî hâzihi'l-mektebeti'l-‘arîkati.",
+            "tr": "Araştırmacılar 2026 yılında bu köklü kütüphanede bir milyondan fazla sayfa okudu.",
+            "ekleme": "عَامِ (müzekker yıl) + مِلْيُونِ صَفْحَةٍ"
+          }
+        ]
+      },
+      {
+        "id": "m23_l3",
+        "baslik": "Sıra Sayılarıyla Akademik Merdiven",
+        "adimlar": [
+          {
+            "seviye": "A1",
+            "ar": "هٰذَا دَرْسٌ جَدِيدٌ.",
+            "okunus": "Hâzâ dersun cedîdun.",
+            "tr": "Bu yeni bir derstir.",
+            "ekleme": "Temel işaret cümlesi"
+          },
+          {
+            "seviye": "A1+",
+            "ar": "هٰذَا الدَّرْسُ الْأَوَّلُ.",
+            "okunus": "Hâze'd-dersu'l-evvelu.",
+            "tr": "Bu birinci derstir.",
+            "ekleme": "1. sıra sayısı (الْأَوَّلُ)"
+          },
+          {
+            "seviye": "A2",
+            "ar": "نَحْنُ الْآنَ فِي الدَّرْسِ الثَّالِثِ وَالْعِشْرِينَ مِنَ الْمُسْتَوَى الثَّانِي.",
+            "okunus": "Nahnu'l-âne fi'd-dersi's-sâlisi ve'l-‘işrîne mine'l-musteve's-sânî.",
+            "tr": "Şu an ikinci seviyenin yirmi üçüncü dersindeyiz.",
+            "ekleme": "23. sıra sayısı (mecrûr sıfat)"
+          },
+          {
+            "seviye": "A2+",
+            "ar": "اِنْعَقَدَ الْمُؤْتَمَرُ الدَّوْلِيُّ الْحَادِيَ عَشَرَ فِي الْيَوْمِ الْخَامِسَ عَشَرَ مِنْ أَيَّارَ.",
+            "okunus": "İn‘akade'l-mu'temeru'd-devliyyu'l-hâdiye ‘aşera fi'l-yevmi'l-hâmise ‘aşera min Eyyâra.",
+            "tr": "On birinci uluslararası konferans Mayıs ayının on beşinci gününde toplandı.",
+            "ekleme": "11. ve 15. mürekkep sıra sayıları (fetha mebnî)"
+          },
+          {
+            "seviye": "B1",
+            "ar": "فِي الْقَرْنِ الْحَادِي وَالْعِشْرِينَ أَصْبَحَتِ الطَّبْعَةُ الثَّانِيَةَ عَشْرَةَ مِنْ هٰذِهِ الْمَوْسُوعَةِ مَرْجِعًا أَسَاسِيًّا لِلْبَاحِثِينَ.",
+            "okunus": "Fi'l-karni'l-hâdî ve'l-‘işrîne esbahati't-tab‘atu's-sâniyete ‘aşrate min hâzihi'l-mevsû‘ati merci‘an esâsiyyen li'l-bâhisîne.",
+            "tr": "Yirmi birinci yüzyılda bu ansiklopedinin on ikinci baskısı araştırmacılar için temel bir kaynak hâline geldi.",
+            "ekleme": "21. yüzyıl + أَصْبَحَ + 12. müennes sıra sayısı"
+          }
+        ]
+      },
+      {
+        "id": "m23_l4",
+        "baslik": "إِيَّا (Vurgu ve Tahzîr) Merdiveni",
+        "adimlar": [
+          {
+            "seviye": "A1",
+            "ar": "لَا تَكْذِبْ!",
+            "okunus": "Lâ tekzib!",
+            "tr": "Yalan söyleme!",
+            "ekleme": "Temel nehy-i hâzır"
+          },
+          {
+            "seviye": "A1+",
+            "ar": "إِيَّاكَ وَالْكَذِبَ!",
+            "okunus": "İyyâke ve'l-kezibe!",
+            "tr": "Sakın yalandan uzak dur!",
+            "ekleme": "إِيَّاكَ ile güçlü tahzîr üslubu"
+          },
+          {
+            "seviye": "A2",
+            "ar": "إِيَّاكَ وَالْكَذِبَ، وَإِيَّاكَ أَنْ تُخْلِفَ الْوَعْدَ!",
+            "okunus": "İyyâke ve'l-kezibe, ve iyyâke en tuhlife'l-va‘de!",
+            "tr": "Sakın yalandan uzak dur ve sakın sözünden dönme!",
+            "ekleme": "إِيَّاكَ أَنْ + nasb muzâri eklendi"
+          },
+          {
+            "seviye": "A2+",
+            "ar": "طَلَبَ صَدِيقِي الْقَامُوسَ فَأَعْطَيْتُهُ إِيَّاهُ، وَقُلْتُ لَهُ: إِيَّاكَ أَنْ تُضِيعَهُ!",
+            "okunus": "Talebe sadîkî'l-kâmûse fe-a‘taytuhu iyyâhu, ve kultu lehu: iyyâke en tudî‘ahu!",
+            "tr": "Arkadaşım sözlüğü istedi, ben de onu kendisine verdim ve ona 'Sakın kaybetme!' dedim.",
+            "ekleme": "İkinci nesne zamiri (إِيَّاهُ) + tahzîr"
+          },
+          {
+            "seviye": "B1",
+            "ar": "إِيَّاكَ نَسْأَلُ التَّوْفِيقَ يَا رَبَّنَا، وَإِيَّاكُمْ يَا طُلَّابُ وَالْيَأْسَ، فَإِنَّ النَّجَاحَ حَلِيفُ الْمُثَابِرِينَ!",
+            "okunus": "İyyâke nes'elu't-tevfîka yâ Rabbenâ, ve iyyâkum yâ tullâbu ve'l-ye'se, fe-inne'n-necâha halîfu'l-musâbirîne!",
+            "tr": "Yalnızca Senden başarı dileriz Rabbimiz; ve ey öğrenciler, sakın umutsuzluktan uzak durun, çünkü başarı azimlilerin dostudur!",
+            "ekleme": "Hasr (إِيَّاكَ نَسْأَلُ) + çoğul tahzîr (إِيَّاكُمْ وَالْيَأْسَ)"
+          }
+        ]
+      }
+    ],
+    "bloklar": [
+      {
+        "id": "m23_b1",
+        "tr": "Rüyamda on bir yıldız gördüm.",
+        "hedefAr": "رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا فِي مَنَامِي",
+        "karisik": [
+          "كَوْكَبًا",
+          "أَحَدَ",
+          "فِي",
+          "مَنَامِي",
+          "رَأَيْتُ",
+          "عَشَرَ"
+        ]
+      },
+      {
+        "id": "m23_b2",
+        "tr": "Bir yılda on iki ay vardır.",
+        "hedefAr": "فِي السَّنَةِ اثْنَا عَشَرَ شَهْرًا",
+        "karisik": [
+          "عَشَرَ",
+          "شَهْرًا",
+          "السَّنَةِ",
+          "اثْنَا",
+          "فِي"
+        ]
+      },
+      {
+        "id": "m23_b3",
+        "tr": "Bu ay on iki hikâye okudum.",
+        "hedefAr": "قَرَأْتُ اثْنَتَيْ عَشْرَةَ قِصَّةً هٰذَا الشَّهْرَ",
+        "karisik": [
+          "قِصَّةً",
+          "قَرَأْتُ",
+          "الشَّهْرَ",
+          "اثْنَتَيْ",
+          "هٰذَا",
+          "عَشْرَةَ"
+        ]
+      },
+      {
+        "id": "m23_b4",
+        "tr": "Sınıfta on beş kız öğrenci vardır.",
+        "hedefAr": "فِي الصَّفِّ خَمْسَ عَشْرَةَ طَالِبَةً",
+        "karisik": [
+          "طَالِبَةً",
+          "خَمْسَ",
+          "الصَّفِّ",
+          "عَشْرَةَ",
+          "فِي"
+        ]
+      },
+      {
+        "id": "m23_b5",
+        "tr": "Bu hafta otuz kelime ezberledim.",
+        "hedefAr": "حَفِظْتُ ثَلَاثِينَ كَلِمَةً هٰذَا الْأُسْبُوعَ",
+        "karisik": [
+          "ثَلَاثِينَ",
+          "الْأُسْبُوعَ",
+          "حَفِظْتُ",
+          "هٰذَا",
+          "كَلِمَةً"
+        ]
+      },
+      {
+        "id": "m23_b6",
+        "tr": "Konferansa yirmi beş araştırmacı katıldı.",
+        "hedefAr": "حَضَرَ خَمْسَةٌ وَعِشْرُونَ بَاحِثًا الْمُؤْتَمَرَ",
+        "karisik": [
+          "وَعِشْرُونَ",
+          "الْمُؤْتَمَرَ",
+          "حَضَرَ",
+          "بَاحِثًا",
+          "خَمْسَةٌ"
+        ]
+      },
+      {
+        "id": "m23_b7",
+        "tr": "Kütüphanede yüz sözlük ve bin kitap vardır.",
+        "hedefAr": "فِي الْمَكْتَبَةِ مِئَةُ قَامُوسٍ وَأَلْفُ كِتَابٍ",
+        "karisik": [
+          "وَأَلْفُ",
+          "قَامُوسٍ",
+          "الْمَكْتَبَةِ",
+          "كِتَابٍ",
+          "مِئَةُ",
+          "فِي"
+        ]
+      },
+      {
+        "id": "m23_b8",
+        "tr": "Romandan iki yüz sayfa okudum.",
+        "hedefAr": "قَرَأْتُ مِئَتَيْ صَفْحَةٍ مِنَ الرِّوَايَةِ",
+        "karisik": [
+          "صَفْحَةٍ",
+          "مِنَ",
+          "قَرَأْتُ",
+          "الرِّوَايَةِ",
+          "مِئَتَيْ"
+        ]
+      },
+      {
+        "id": "m23_b9",
+        "tr": "Festivale iki bin ziyaretçi katıldı.",
+        "hedefAr": "حَضَرَ الْمِهْرَجَانَ أَلْفَا زَائِرٍ",
+        "karisik": [
+          "زَائِرٍ",
+          "حَضَرَ",
+          "أَلْفَا",
+          "الْمِهْرَجَانَ"
+        ]
+      },
+      {
+        "id": "m23_b10",
+        "tr": "Bu yıl üç bin öğrenci mezun oldu.",
+        "hedefAr": "تَخَرَّجَ ثَلَاثَةُ آلَافِ طَالِبٍ هٰذَا الْعَامَ",
+        "karisik": [
+          "الْعَامَ",
+          "آلَافِ",
+          "تَخَرَّجَ",
+          "ثَلَاثَةُ",
+          "هٰذَا",
+          "طَالِبٍ"
+        ]
+      },
+      {
+        "id": "m23_b11",
+        "tr": "İkinci binanın altıncı katında oturuyorum.",
+        "hedefAr": "أَسْكُنُ فِي الطَّابِقِ السَّادِسِ مِنَ الْبِنَايَةِ الثَّانِيَةِ",
+        "karisik": [
+          "السَّادِسِ",
+          "أَسْكُنُ",
+          "الْبِنَايَةِ",
+          "فِي",
+          "مِنَ",
+          "الثَّانِيَةِ",
+          "الطَّابِقِ"
+        ]
+      },
+      {
+        "id": "m23_b12",
+        "tr": "Biz yirmi birinci yüzyılda yaşıyoruz.",
+        "hedefAr": "نَحْنُ نَعِيشُ فِي الْقَرْنِ الْحَادِي وَالْعِشْرِينَ",
+        "karisik": [
+          "الْحَادِي",
+          "نَعِيشُ",
+          "فِي",
+          "وَالْعِشْرِينَ",
+          "الْقَرْنِ",
+          "نَحْنُ"
+        ]
+      },
+      {
+        "id": "m23_b13",
+        "tr": "Yalnızca Sana kulluk eder ve yalnızca Senden yardım dileriz.",
+        "hedefAr": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+        "karisik": [
+          "نَسْتَعِينُ",
+          "إِيَّاكَ",
+          "وَإِيَّاكَ",
+          "نَعْبُدُ"
+        ]
+      },
+      {
+        "id": "m23_b14",
+        "tr": "Onu (kitabı) sana meslektaşların önünde verdim.",
+        "hedefAr": "أَعْطَيْتُكَ إِيَّاهُ أَمَامَ الزُّمَلَاءِ",
+        "karisik": [
+          "أَمَامَ",
+          "إِيَّاهُ",
+          "أَعْطَيْتُكَ",
+          "الزُّمَلَاءِ"
+        ]
+      },
+      {
+        "id": "m23_b15",
+        "tr": "Sakın yalandan uzak dur ve sakın tembellik etme!",
+        "hedefAr": "إِيَّاكَ وَالْكَذِبَ وَإِيَّاكَ أَنْ تَتَكَاسَلَ",
+        "karisik": [
+          "أَنْ",
+          "وَالْكَذِبَ",
+          "إِيَّاكَ",
+          "تَتَكَاسَلَ",
+          "وَإِيَّاكَ"
+        ]
+      }
+    ]
+  },
+  "readings": [
+    {
+      "id": "m23_r1",
+      "baslik": "Büyük Kitap Fuarının Rakamları",
+      "arBaslik": "أَرْقَامٌ مِنْ مَعْرِضِ الْكِتَابِ الدَّوْلِيِّ",
+      "seviye": "A2",
+      "paragraflar": [
+        {
+          "ar": "اِنْطَلَقَ مَعْرِضُ الْكِتَابِ الدَّوْلِيُّ الْحَادِي وَالْعِشْرُونَ فِي الْيَوْمِ الْخَامِسَ عَشَرَ مِنْ شَهْرِ تِشْرِينَ الْأَوَّلِ عَامَ أَلْفَيْنِ وَسِتَّةٍ وَعِشْرِينَ. شَارَكَتْ فِي الْمَعْرِضِ مِئَتَا دَارِ نَشْرٍ مِنْ ثَلَاثٍ وَثَلَاثِينَ دَوْلَةً، وَعُرِضَ فِيهِ أَكْثَرُ مِنْ مِئَةِ أَلْفِ عُنْوَانٍ فِي مُخْتَلِفِ الْعُلُومِ وَالْآدَابِ.",
+          "okunus": "İntalaka ma‘ridu'l-kitâbi'd-devliyyu'l-hâdî ve'l-‘işrûne fi'l-yevmi'l-hâmise ‘aşera min şehri Tişrîne'l-evveli ‘âme elfeyni ve sittetin ve ‘işrîne. Şâraket fi'l-ma‘ridi mietâ dâri neşrin min selâsin ve selâsîne devleten, ve ‘urida fîhi ekseru min mieti elfi ‘unvânin fî muhtelifi'l-‘ulûmi ve'l-âdâbi.",
+          "tr": "Yirmi birinci Uluslararası Kitap Fuarı 2026 yılı Ekim ayının on beşinci gününde başladı. Fuara otuz üç ülkeden iki yüz yayınevi katıldı ve orada çeşitli bilim ve edebiyat alanlarında yüz binden fazla başlık sergilendi.",
+          "analiz": [
+            {
+              "kelime": "الْحَادِي وَالْعِشْرُونَ",
+              "kok": "و-ح-د / ع-ش-ر",
+              "gramer": "21. sıra sayısı (مَعْرِضُ kelimesinin merfû sıfatı)",
+              "tr": "yirmi birinci"
+            },
+            {
+              "kelime": "مِئَتَا دَارِ",
+              "kok": "م-أ-ي",
+              "gramer": "200 (fâil merfû; izâfette nûn düşmüş + tekil mecrûr temyîz)",
+              "tr": "iki yüz yayınevi"
+            },
+            {
+              "kelime": "ثَلَاثٍ وَثَلَاثِينَ دَوْلَةً",
+              "kok": "ث-ل-ث",
+              "gramer": "33 (مِنْ sonrası mecrûr; دَوْلَةً müennes → 3 zıt, temyîz tekil mansub)",
+              "tr": "otuz üç ülke"
+            }
+          ]
+        },
+        {
+          "ar": "فِي الْيَوْمِ الْأَوَّلِ وَحْدَهُ زَارَ الْمَعْرِضَ خَمْسَةَ عَشَرَ أَلْفَ قَارِئٍ، وَحَضَرَ أَرْبَعَ عَشْرَةَ نَدْوَةً ثَقَافِيَّةً أَقَامَهَا كِبَارُ الْأُدَبَاءِ. وَفِي الْجَنَاحِ الثَّانِي عَشَرَ التَقَيْتُ بِاثْنَيْ عَشَرَ مُؤَلِّفًا وَبِإِحْدَى عَشْرَةَ مُتَرْجِمَةً مِنْ تَرْكِيَا وَالْعَالَمِ الْعَرَبِيِّ.",
+          "okunus": "Fi'l-yevmi'l-evveli vahdehu zâra'l-ma‘rida hamsete ‘aşera elfe kâriin, ve hadara erba‘a ‘aşrate nedveten sekâfiyyeten ekâmehâ kibâru'l-udebâi. Ve fi'l-cenâhi's-sânî ‘aşera'ltekaytu bi'sney ‘aşera muellifen ve bi-ihdâ ‘aşrate mutercimeten min Turkiyâ ve'l-‘âlemi'l-‘arabiyyi.",
+          "tr": "Sadece ilk günde fuarı on beş bin okur ziyaret etti ve büyük edebiyatçıların düzenlediği on dört kültür paneline katıldı. On ikinci salonda ise Türkiye'den ve Arap dünyasından on iki erkek yazar ve on bir kadın çevirmenle buluştum.",
+          "analiz": [
+            {
+              "kelime": "أَرْبَعَ عَشْرَةَ نَدْوَةً",
+              "kok": "ر-ب-ع",
+              "gramer": "14 mürekkep sayı (نَدْوَةً müennes → 4 zıt, 10 uyumlu, fetha mebnî)",
+              "tr": "on dört panel"
+            },
+            {
+              "kelime": "بِاثْنَيْ عَشَرَ مُؤَلِّفًا",
+              "kok": "ث-ن-ي",
+              "gramer": "12 (بِـ harf-i cerrinden sonra ilk parça yâ ile mecrûr!)",
+              "tr": "on iki yazar ile"
+            }
+          ]
+        },
+        {
+          "ar": "اِشْتَرَيْتُ أَحَدَ عَشَرَ كِتَابًا فِي اللُّغَةِ وَالتَّارِيخِ، وَدَفَعْتُ ثَمَانِيَمِئَةٍ وَخَمْسِينَ لِيرَةً تَقْرِيبًا. طَلَبَ مِنِّي صَدِيقِي قَامُوسًا عَرَبِيًّا نَادِرًا فَاشْتَرَيْتُهُ لَهُ وَسَلَّمْتُهُ إِيَّاهُ فِي الْمَسَاءِ، فَفَرِحَ بِهِ كَثِيرًا.",
+          "okunus": "İşteraytu ehade ‘aşera kitâben fi'l-lugati ve't-târîhi, ve defa‘tu semâniyemietin ve hamsîne lîraten takrîben. Talebe minnî sadîkî kâmûsen ‘arabiyyen nâdiran fe'şteraytuhu lehu ve sellemtuhu iyyâhu fi'l-mesâi, fe-feriha bihi kesîran.",
+          "tr": "Dil ve tarih alanında on bir kitap satın aldım ve yaklaşık sekiz yüz elli lira ödedim. Arkadaşım benden nadir bir Arapça sözlük istedi; ben de onu kendisi için satın alıp akşam ona teslim ettim ve buna çok sevindi.",
+          "analiz": [
+            {
+              "kelime": "أَحَدَ عَشَرَ كِتَابًا",
+              "kok": "أ-ح-د",
+              "gramer": "11 (كِتَابًا müzekker → iki parça uyumlu + tekil mansub)",
+              "tr": "on bir kitap"
+            },
+            {
+              "kelime": "سَلَّمْتُهُ إِيَّاهُ",
+              "kok": "س-ل-م",
+              "gramer": "إِيَّاهُ: ikinci nesne olan ayrı mansub zamir (قَامُوسًا'ya döner)",
+              "tr": "onu kendisine teslim ettim"
+            }
+          ]
+        },
+        {
+          "ar": "قَالَ لَنَا أُسْتَاذُنَا وَنَحْنُ نُغَادِرُ الْمَعْرِضَ: «إِيَّاكُمْ وَتَرْكَ الْقِرَاءَةِ! فَإِنَّ مَنْ يَقْرَأُ عِشْرِينَ صَفْحَةً كُلَّ يَوْمٍ يَقْرَأُ فِي السَّنَةِ أَكْثَرَ مِنْ سَبْعَةِ آلَافِ صَفْحَةٍ، وَهٰذَا يَصْنَعُ فَرْقًا عَظِيمًا فِي حَيَاتِهِ!»",
+          "okunus": "Kâle lenâ ustâzunâ ve nahnu nugâdiru'l-ma‘rida: 'İyyâkum ve terke'l-kırâeti! Fe-inne men yakrau ‘işrîne safhaten kulle yevmin yakrau fi's-seneti eksera min seb‘ati âlâfi safhatin, ve hâzâ yasna‘u farkan ‘azîmen fî hayâtihi!'",
+          "tr": "Fuardan ayrılırken hocamız bize şöyle dedi: 'Sakın okumayı bırakmayın! Çünkü her gün yirmi sayfa okuyan kimse bir yılda yedi binden fazla sayfa okur ve bu onun hayatında büyük bir fark yaratır!'",
+          "analiz": [
+            {
+              "kelime": "إِيَّاكُمْ وَتَرْكَ",
+              "kok": "ت-ر-ك",
+              "gramer": "Tahzîr (sakındırma) üslubu; تَرْكَ mansub mef'ûlün bih",
+              "tr": "sakın bırakmayın!"
+            },
+            {
+              "kelime": "سَبْعَةِ آلَافِ صَفْحَةٍ",
+              "kok": "أ-ل-ف",
+              "gramer": "7000 + tekil mecrûr temyîz (أَلْف müzekker → سَبْعَةِ müennes)",
+              "tr": "yedi bin sayfa"
+            }
+          ]
+        }
+      ],
+      "sorular": [
+        {
+          "id": "m23_r1_q1",
+          "soru": "Kitap fuarı kaçıncı kez düzenlendi ve kaç yayınevi katıldı?",
+          "secenekler": [
+            "21. kez düzenlendi, 200 yayınevi katıldı",
+            "15. kez düzenlendi, 100 yayınevi katıldı",
+            "20. kez düzenlendi, 33 yayınevi katıldı",
+            "12. kez düzenlendi, 500 yayınevi katıldı"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "الْحَادِي وَالْعِشْرُونَ (21.) ve مِئَتَا دَارِ نَشْرٍ (200 yayınevi)."
+        },
+        {
+          "id": "m23_r1_q2",
+          "soru": "Yazar on ikinci salonda kimlerle buluştu?",
+          "secenekler": [
+            "12 erkek yazar ve 11 kadın çevirmenle",
+            "11 erkek yazar ve 12 kadın çevirmenle",
+            "15 okur ve 14 şairle",
+            "20 yayıncı ve 33 araştırmacıyla"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "بِاثْنَيْ عَشَرَ مُؤَلِّفًا وَبِإِحْدَى عَشْرَةَ مُتَرْجِمَةً."
+        },
+        {
+          "id": "m23_r1_q3",
+          "soru": "'سَلَّمْتُهُ إِيَّاهُ' ifadesindeki 'إِيَّاهُ' zamiri neye dönmektedir?",
+          "secenekler": [
+            "Nadir Arapça sözlüğe (قَامُوسًا)",
+            "Arkadaşına",
+            "Kitap fuarına",
+            "On bir kitaba"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "إِيَّاهُ ikinci mef'ûlün bih olup 'قَامُوسًا عَرَبِيًّا نَادِرًا'ya döner."
+        },
+        {
+          "id": "m23_r1_q4",
+          "soru": "Hocanın hesabı nedir: Günde 20 sayfa okuyan yılda ne kadar okur?",
+          "secenekler": [
+            "7.000'den fazla sayfa",
+            "1.000 sayfa",
+            "2.000 sayfa",
+            "500 sayfa"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "أَكْثَرَ مِنْ سَبْعَةِ آلَافِ صَفْحَةٍ (7.000'den fazla sayfa)."
+        },
+        {
+          "id": "m23_r1_q5",
+          "soru": "'إِيَّاكُمْ وَتَرْكَ الْقِرَاءَةِ!' cümlesinde تَرْكَ neden fetha ile mansubdur?",
+          "secenekler": [
+            "Tahzîr (sakındırma) üslubunda gizli اِحْذَرُوا fiilinin mef'ûlün bihi olduğu için",
+            "İnne'nin ismi olduğu için",
+            "Temyîz olduğu için",
+            "Kâne'nin haberi olduğu için"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "إِيَّاكُمْ وَ + mansub isim tahzîr üslubudur."
+        }
+      ]
+    },
+    {
+      "id": "m23_r2",
+      "baslik": "Tarihten Sayfalar: Bilim ve Medeniyet Yüzyılları",
+      "arBaslik": "صَفَحَاتٌ مِنَ التَّارِيخِ وَالْحَضَارَةِ",
+      "seviye": "A2",
+      "paragraflar": [
+        {
+          "ar": "شَهِدَ التَّارِيخُ الْإِسْلَامِيُّ نَهْضَةً عِلْمِيَّةً كُبْرَى بَيْنَ الْقَرْنِ الثَّامِنِ وَالْقَرْنِ الرَّابِعَ عَشَرَ الْمِيلَادِيِّ. فِي بَغْدَادَ تَأَسَّسَ «بَيْتُ الْحِكْمَةِ» الَّذِي جَمَعَ آلَافَ الْمَخْطُوطَاتِ وَمِئَاتِ الْعُلَمَاءِ وَالْمُتَرْجِمِينَ مِنْ أَصْقَاعِ الْأَرْضِ.",
+          "okunus": "Şehide't-târîhu'l-islâmiyyu nehdaten ‘ilmiyyeten kubrâ beyne'l-karni's-sâmini ve'l-karni'r-râbi‘a ‘aşera'l-mîlâdiyyi. Fî Bagdâde teessese 'Beytu'l-Hikmeti'llezî ceme‘a âlâfe'l-mahtûtâti ve miâti'l-‘ulemâi ve'l-mutercimîne min eskâ‘i'l-ardi.",
+          "tr": "İslam tarihi miladi sekizinci yüzyıl ile on dördüncü yüzyıl arasında büyük bir bilimsel uyanışa tanık oldu. Bağdat'ta yeryüzünün dört bir yanından binlerce el yazmasını ve yüzlerce âlim ile çevirmeni bir araya getiren 'Beytü'l-Hikme' kuruldu.",
+          "analiz": [
+            {
+              "kelime": "الْقَرْنِ الرَّابِعَ عَشَرَ",
+              "kok": "ر-ب-ع",
+              "gramer": "14. sıra sayısı (فِي ile mecrûr ismin sıfatı ama fetha mebnî!)",
+              "tr": "on dördüncü yüzyıl"
+            },
+            {
+              "kelime": "الَّذِي جَمَعَ",
+              "kok": "ج-م-ع",
+              "gramer": "İsm-i mevsûl + sıla cümlesi (M19 pekiştirme)",
+              "tr": "bir araya getiren"
+            }
+          ]
+        },
+        {
+          "ar": "أَلَّفَ ابْنُ سِينَا كِتَابَ «الْقَانُونِ فِي الطِّبِّ» الَّذِي ظَلَّ مَرْجِعًا فِي جَامِعَاتِ أُورُوبَّا أَكْثَرَ مِنْ خَمْسِمِئَةِ عَامٍ، وَكَتَبَ ابْنُ الْهَيْثَمِ كِتَابَ «الْمَنَاظِرِ» فِي سَبْعَةِ مُجَلَّدَاتٍ كَبِيرَةٍ، وَوَضَعَ الْخُوَارِزْمِيُّ أُسُسَ عِلْمِ الْجَبْرِ وَالْأَرْقَامِ.",
+          "okunus": "Ellefe'bnu Sînâ kitâbe 'el-Kânûni fi't-Tıbbi'llezî zalle merci‘an fî câmi‘âti Ûrubbâ eksera min hamsumieti ‘âmin, ve ketebe'bnu'l-Heysemi kitâbe 'el-Menâzıri' fî seb‘ati mucelledâtin kebîratin, ve veda‘a'l-Huvârizmiyyu ususe ‘ilmi'l-cebri ve'l-erkâmi.",
+          "tr": "İbn Sînâ Avrupa üniversitelerinde beş yüz yıldan fazla kaynak olarak kalan 'el-Kânûn fi't-Tıb' kitabını yazdı; İbnü'l-Heysem 'el-Menâzır' kitabını yedi büyük cilt hâlinde kaleme aldı; Hârizmî ise cebir ilminin ve rakamların temellerini attı.",
+          "analiz": [
+            {
+              "kelime": "خَمْسِمِئَةِ عَامٍ",
+              "kok": "خ-م-س / م-أ-ي",
+              "gramer": "500 + tekil mecrûr (مِنْ nedeniyle خَمْسِ mecrûr!)",
+              "tr": "beş yüz yıl"
+            },
+            {
+              "kelime": "ظَلَّ مَرْجِعًا",
+              "kok": "ظ-ل-ل",
+              "gramer": "Kâne kardeşi + mansub haber (M21 pekiştirme)",
+              "tr": "kaynak olmaya devam etti"
+            }
+          ]
+        },
+        {
+          "ar": "وَلَمْ تَكُنْ تِلْكَ الْمَكْتَبَاتُ مَحْصُورَةً فِي مَدِينَةٍ وَاحِدَةٍ؛ فَفِي قُرْطُبَةَ كَانَتْ مَكْتَبَةُ الْحَكَمِ الثَّانِي تَضُمُّ أَرْبَعَمِئَةِ أَلْفِ كِتَابٍ، وَفِي إِسْطَنْبُولَ أُنشِئَتْ مَكْتَبَةُ السُّلَيْمَانِيَّةِ الَّتِي تَحْفَظُ الْيَوْمَ أَكْثَرَ مِنْ سَبْعِينَ أَلْفَ مَخْطُوطَةٍ نَادِرَةٍ.",
+          "okunus": "Ve lem tekun tilke'l-mektebâtu mahsûraten fî medînetin vâhidetin; fe-fî Kurtubete kânet mektebetu'l-Hakemi's-sânî tedummu erba‘amieti elfi kitâbin, ve fî İstânbûle unşiet mektebetu's-Suleymâniyyeti'lletî tahfezu'l-yevme eksera min seb‘îne elfe mahtûtatin nâdiratin.",
+          "tr": "O kütüphaneler tek bir şehirle sınırlı değildi; Kurtuba'da II. Hakem'in kütüphanesi dört yüz bin kitap barındırıyordu; İstanbul'da ise bugün yetmiş binden fazla nadir el yazmasını koruyan Süleymaniye Kütüphanesi kuruldu.",
+          "analiz": [
+            {
+              "kelime": "أَرْبَعَمِئَةِ أَلْفِ كِتَابٍ",
+              "kok": "ر-ب-ع / أ-ل-ف",
+              "gramer": "400.000 kitap (مفعول به mansub أَرْبَعَ + izâfet zinciri)",
+              "tr": "dört yüz bin kitap"
+            },
+            {
+              "kelime": "سَبْعِينَ أَلْفَ مَخْطُوطَةٍ",
+              "kok": "س-ب-ع / أ-ل-ف",
+              "gramer": "70.000 (سَبْعِينَ mecrûr → أَلْفَ tekil mansub → مَخْطُوطَةٍ tekil mecrûr!)",
+              "tr": "yetmiş bin el yazması"
+            }
+          ]
+        },
+        {
+          "ar": "إِنَّ قِرَاءَةَ تَارِيخِ الْعُلُومِ تُعَلِّمُنَا دَرْسًا وَاضِحًا: الْحَضَارَةُ لَا تُبْنَى فِي يَوْمٍ أَوْ يَوْمَيْنِ، بَلْ بِالْعِلْمِ وَالصَّبْرِ وَالتَّرَاكُمِ عَبْرَ مِئَاتِ السِّنِينَ. فَإِيَّانَا وَنِسْيَانَ تُرَاثِنَا، وَإِيَّانَا أَنْ نَكْتَفِيَ بِالْمَاضِي دُونَ أَنْ نَصْنَعَ الْمُسْتَقْبَلَ!",
+          "okunus": "İnne kırâete târîhi'l-‘ulûmi tu‘allimunâ dersen vâdıhan: El-hadâratu lâ tubnâ fî yevmin ev yevmeyni, bel bi'l-‘ilmi ve's-sabri ve't-terâkumi ‘abra miâti's-sinîne. Fe-iyyânâ ve nisyâne turâsinâ, ve iyyânâ en nektefiye bi'l-mâdî dûne en nasna‘a'l-mustekbele!",
+          "tr": "Bilim tarihini okumak bize açık bir ders öğretir: Medeniyet bir iki günde değil, yüzlerce yıl boyunca ilim, sabır ve birikimle inşa edilir. O hâlde sakın mirasımızı unutmayalım ve geleceği inşa etmeden geçmişle yetinmeyelim!",
+          "analiz": [
+            {
+              "kelime": "لَا تُبْنَى",
+              "kok": "ب-ن-ي",
+              "gramer": "Muzâri meçhul (inşa edilmez, M18 pekiştirme)",
+              "tr": "inşa edilmez"
+            },
+            {
+              "kelime": "إِيَّانَا وَنِسْيَانَ",
+              "kok": "ن-س-ي",
+              "gramer": "1. çoğul tahzîr (sakın biz unutmayalım!)",
+              "tr": "sakın unutmayalım!"
+            }
+          ]
+        }
+      ],
+      "sorular": [
+        {
+          "id": "m23_r2_q1",
+          "soru": "Metne göre büyük bilimsel uyanış hangi yüzyıllar arasında yaşandı?",
+          "secenekler": [
+            "8. yüzyıl ile 14. yüzyıl arasında",
+            "10. yüzyıl ile 12. yüzyıl arasında",
+            "15. yüzyıl ile 19. yüzyıl arasında",
+            "1. yüzyıl ile 5. yüzyıl arasında"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "بَيْنَ الْقَرْنِ الثَّامِنِ وَالْقَرْنِ الرَّابِعَ عَشَرَ الْمِيلَادِيِّ."
+        },
+        {
+          "id": "m23_r2_q2",
+          "soru": "İbn Sînâ'nın 'el-Kânûn' eseri Avrupa üniversitelerinde ne kadar süre kaynak olarak kaldı?",
+          "secenekler": [
+            "500 yıldan fazla",
+            "200 yıl",
+            "70 yıl",
+            "100 yıldan az"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "أَكْثَرَ مِنْ خَمْسِمِئَةِ عَامٍ."
+        },
+        {
+          "id": "m23_r2_q3",
+          "soru": "Kurtuba'daki II. Hakem Kütüphanesi ile Süleymaniye Kütüphanesi'nin sayıları hangisinde doğru eşleştirilmiştir?",
+          "secenekler": [
+            "Kurtuba: 400.000 kitap — Süleymaniye: 70.000'den fazla el yazması",
+            "Kurtuba: 70.000 kitap — Süleymaniye: 400.000 el yazması",
+            "Kurtuba: 100.000 kitap — Süleymaniye: 12.000 el yazması",
+            "Kurtuba: 500.000 kitap — Süleymaniye: 50.000 el yazması"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "أَرْبَعَمِئَةِ أَلْفِ كِتَابٍ ve أَكْثَرَ مِنْ سَبْعِينَ أَلْفَ مَخْطُوطَةٍ."
+        },
+        {
+          "id": "m23_r2_q4",
+          "soru": "'سَبْعِينَ أَلْفَ مَخْطُوطَةٍ' tamlamasında أَلْفَ neden mansub, مَخْطُوطَةٍ neden mecrûr okunmuştur?",
+          "secenekler": [
+            "أَلْفَ, 70'in (ukûd) tekil mansub temyîzidir; مَخْطُوطَةٍ ise أَلْفَ'in tekil mecrûr temyîzidir",
+            "Her ikisi de mef'ûlün bihtir",
+            "Sıra sayısı oldukları için",
+            "İnne'nin ismi ve haberi oldukları için"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Temyîz daima hemen önündeki sayıya uyar: سَبْعِينَ → أَلْفَ (mansub) → مَخْطُوطَةٍ (mecrûr)!"
+        },
+        {
+          "id": "m23_r2_q5",
+          "soru": "Metnin son cümlesindeki ana mesaj nedir?",
+          "secenekler": [
+            "Mirasımızı unutmadan geleceği de bizzat inşa etmeliyiz",
+            "Sadece geçmişi okumak yeterlidir",
+            "Kütüphaneler tek şehirde toplanmalıdır",
+            "Medeniyet hızlıca birkaç yılda kurulur"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "إِيَّانَا وَنِسْيَانَ تُرَاثِنَا، وَإِيَّانَا أَنْ نَكْتَفِيَ بِالْمَاضِي دُونَ أَنْ نَصْنَعَ الْمُسْتَقْبَلَ!"
+        }
+      ]
+    },
+    {
+      "id": "m23_r3",
+      "baslik": "A2 Seviyesinin Zirvesinde: 23 Modülün Hikâyesi",
+      "arBaslik": "عَلَى قِمَّةِ الْمُسْتَوَى الثَّانِي: قِصَّةُ ثَلَاثٍ وَعِشْرِينَ وَحْدَةً",
+      "seviye": "A2",
+      "paragraflar": [
+        {
+          "ar": "عِنْدَمَا بَدَأْتُ الْمُسْتَوَى الثَّانِي قَبْلَ عِدَّةِ أَشْهُرٍ، كَانَتِ الْأَبْوَابُ السِّتَّةُ وَالنَّوَاصِبُ وَالْجَوَازِمُ تَبْدُو لِي صَعْبَةً جِدًّا. لٰكِنَّنِي قَسَّمْتُ دِرَاسَتِي إِلَى اثْنَتَيْ عَشْرَةَ وَحْدَةً مُتَدَرِّجَةً، وَكُنْتُ أُخَصِّصُ كُلَّ يَوْمٍ خَمْسًا وَأَرْبَعِينَ دَقِيقَةً لِلْقَوَاعِدِ وَالْمُفْرَدَاتِ.",
+          "okunus": "‘İndemâ bede'tu'l-musteve's-sâniye kable ‘iddeti eşhurin, kâneti'l-ebvâbu's-sittetu ve'n-nevâsibu ve'l-cevâzimu tebdû lî sa‘beten cidden. Lâkinnenî kassemtu dirâsetî ilâ'snetey ‘aşrate vahdeten mutederriceten, ve kuntu uhassisu kulle yevmin hamsen ve erba‘îne dakîkaten li'l-kavâ‘idi ve'l-mufredâti.",
+          "tr": "Birkaç ay önce ikinci seviyeye başladığımda altı bab, nasb ve cezm edatları bana çok zor görünüyordu. Fakat çalışmamı aşamalı on iki üniteye böldüm ve her gün kırk beş dakikayı gramer ve kelimelere ayırıyordum.",
+          "analiz": [
+            {
+              "kelime": "اثْنَتَيْ عَشْرَةَ وَحْدَةً",
+              "kok": "ث-ن-ي",
+              "gramer": "12 (إِلَى sonrası yâ ile mecrûr + müennes uyum)",
+              "tr": "on iki ünite"
+            },
+            {
+              "kelime": "خَمْسًا وَأَرْبَعِينَ دَقِيقَةً",
+              "kok": "خ-م-س / ر-ب-ع",
+              "gramer": "45 (mef'ûlün bih mansub; دَقِيقَةً müennes → 5 zıt)",
+              "tr": "kırk beş dakika"
+            }
+          ]
+        },
+        {
+          "ar": "فِي كُلِّ وَحْدَةٍ حَفِظْتُ اثْنَتَيْنِ وَثَلَاثِينَ بِطَاقَةً ذَكِيَّةً، وَأَجَبْتُ عَنْ خَمْسِينَ تَطْبِيقًا فَوْرِيًّا، وَقَرَأْتُ ثَلَاثَةَ نُصُوصٍ طَوِيلَةٍ بِحَرَكَاتٍ كَامِلَةٍ ثُمَّ بِلَا حَرَكَاتٍ. وَهٰكَذَا جَمَعْتُ فِي هٰذَا الْمُسْتَوَى أَكْثَرَ مِنْ ثَلَاثِمِئَةٍ وَثَمَانِينَ بِطَاقَةً وَسِتِّمِئَةِ تَطْبِيقٍ!",
+          "okunus": "Fî kulli vahdetin hafiztu'sneteyni ve selâsîne bitâkaten zekiyyeten, ve ecebtu ‘an hamsîne tatbîkan fevriyyen, ve kara'tu selâsete nusûsin tavîletin bi-harakâtin kâmiletin summe bi-lâ harakâtin. Ve hâkezâ cema‘tu fî hâze'l-mustevâ eksera min selâsumietin ve semânîne bitâkaten ve sittimieti tatbîkin!",
+          "tr": "Her ünitede otuz iki akıllı kart ezberledim, elli anlık tatbik çözdüm ve önce tam harekeli sonra harekesiz üç uzun metin okudum. Böylece bu seviyede üç yüz seksenden fazla kart ve altı yüz tatbik biriktirdim!",
+          "analiz": [
+            {
+              "kelime": "اثْنَتَيْنِ وَثَلَاثِينَ بِطَاقَةً",
+              "kok": "ث-ن-ي / ث-ل-ث",
+              "gramer": "32 (mansub ma'tûf sayı + tekil mansub)",
+              "tr": "otuz iki kart"
+            },
+            {
+              "kelime": "سِتِّمِئَةِ تَطْبِيقٍ",
+              "kok": "س-ت-ت / م-أ-ي",
+              "gramer": "600 (mecrûr + tekil mecrûr temyîz)",
+              "tr": "altı yüz tatbik"
+            }
+          ]
+        },
+        {
+          "ar": "سَأَلَنِي أَخِي عَنْ سِرِّ هٰذَا التَّقَدُّمِ السَّرِيعِ وَطَلَبَ مِنِّي دَفْتَرَ الْمُلَاحَظَاتِ فَأَعْطَيْتُهُ إِيَّاهُ. قُلْتُ لَهُ: «إِيَّاكَ وَالتَّسْوِيفَ، وَإِيَّاكَ أَنْ تَنْقَطِعَ عَنِ الْمُرَاجَعَةِ الْيَوْمِيَّةِ وَلَوْ لِعَشْرِ دَقَائِقَ!»",
+          "okunus": "Se'elenî ahî ‘an sirri hâze't-tekaddumi's-serî‘i ve talebe minnî deftera'l-mulâhazâti fe-a‘taytuhu iyyâhu. Kultu lehu: 'İyyâke ve't-tesvîfe, ve iyyâke en tenkati‘a ‘ani'l-murâca‘ati'l-yevmiyyeti ve lev li-‘aşri dekâika!'",
+          "tr": "Kardeşim bana bu hızlı ilerlemenin sırrını sordu ve not defterini istedi; ben de onu kendisine verdim. Ona şöyle dedim: 'Sakın ertelemekten uzak dur ve on dakikalığına bile olsa günlük tekrardan asla kopma!'",
+          "analiz": [
+            {
+              "kelime": "أَعْطَيْتُهُ إِيَّاهُ",
+              "kok": "ع-ط-و",
+              "gramer": "İki zamirli geçişli fiil + ayrı mansub zamir إِيَّاهُ",
+              "tr": "onu kendisine verdim"
+            },
+            {
+              "kelime": "إِيَّاكَ وَالتَّسْوِيفَ",
+              "kok": "س-و-ف",
+              "gramer": "Tahzîr üslubu: erteleme (التَّسْوِيفَ mansub)",
+              "tr": "sakın erteleme!"
+            }
+          ]
+        },
+        {
+          "ar": "الْيَوْمَ أَصِلُ إِلَى الدَّرْسِ الثَّالِثِ وَالْعِشْرِينَ وَأَسْتَعِدُّ لِلِاخْتِبَارِ النِّهَائِيِّ لِلْمُسْتَوَى الثَّانِي بِثِقَةٍ كَبِيرَةٍ. إِنَّ اللُّغَةَ الْعَرَبِيَّةَ لَيْسَتْ صَعْبَةً كَمَا يَظُنُّ الْبَعْضُ، بَلْ هِيَ بِنَاءٌ هَنْدَسِيٌّ جَمِيلٌ يَكْشِفُ أَسْرَارَهُ لِمَنْ يَتَعَلَّمُهُ بِخُطُوَاتٍ ثَابِتَةٍ!",
+          "okunus": "El-yevme esilu ile'd-dersi's-sâlisi ve'l-‘işrîne ve esta‘iddu li'l-ihtibâri'n-nihâiyyi li'l-musteve's-sânî bi-sikatin kebîratin. İnne'l-lugate'l-‘arabiyyete leyset sa‘beten kemâ yezunnu'l-ba‘du, bel hiye binâun hendesiyyun cemîlun yekşifu esrârahu li-men yete‘allemuhu bi-hutuvâtin sâbitetin!",
+          "tr": "Bugün yirmi üçüncü derse ulaşıyor ve büyük bir özgüvenle ikinci seviye final sınavına hazırlanıyorum. Şüphesiz Arapça bazılarının sandığı gibi zor değildir; aksine sabit adımlarla öğrenene sırlarını açan güzel bir mühendislik yapısıdır!",
+          "analiz": [
+            {
+              "kelime": "الدَّرْسِ الثَّالِثِ وَالْعِشْرِينَ",
+              "kok": "ث-ل-ث / ع-ش-ر",
+              "gramer": "23. sıra sayısı (mecrûr sıfat)",
+              "tr": "yirmi üçüncü ders"
+            },
+            {
+              "kelime": "إِنَّ اللُّغَةَ ... لَيْسَتْ صَعْبَةً",
+              "kok": "ل-ي-س",
+              "gramer": "İnne ismi + Kâne kardeşi لَيْسَتْ fiil cümlesi haberi (M20–22 sentezi!)",
+              "tr": "şüphesiz dil zor değildir"
+            }
+          ]
+        }
+      ],
+      "sorular": [
+        {
+          "id": "m23_r3_q1",
+          "soru": "Yazar ikinci seviyede her gün kaç dakikasını gramer ve kelimelere ayırdı?",
+          "secenekler": [
+            "45 dakika",
+            "20 dakika",
+            "15 dakika",
+            "60 dakika"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "خَمْسًا وَأَرْبَعِينَ دَقِيقَةً (45 dakika)."
+        },
+        {
+          "id": "m23_r3_q2",
+          "soru": "Yazar her ünitede kaç akıllı kart ve kaç anlık tatbik tamamladı?",
+          "secenekler": [
+            "32 akıllı kart ve 50 anlık tatbik",
+            "12 akıllı kart ve 20 tatbik",
+            "45 akıllı kart ve 30 tatbik",
+            "100 akıllı kart ve 10 tatbik"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "اثْنَتَيْنِ وَثَلَاثِينَ بِطَاقَةً ve خَمْسِينَ تَطْبِيقًا."
+        },
+        {
+          "id": "m23_r3_q3",
+          "soru": "Yazar kardeşini neyden sakındırdı?",
+          "secenekler": [
+            "Ertelemekten ve günlük tekrardan kopmaktan",
+            "Sözlük kullanmaktan",
+            "Okuma metinlerini sesli okumaktan",
+            "Not defteri tutmaktan"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "إِيَّاكَ وَالتَّسْوِيفَ، وَإِيَّاكَ أَنْ تَنْقَطِعَ عَنِ الْمُرَاجَعَةِ الْيَوْمِيَّةِ!"
+        },
+        {
+          "id": "m23_r3_q4",
+          "soru": "'الدَّرْسِ الثَّالِثِ وَالْعِشْرِينَ' ifadesinde neden الثَّالِثِ kesralı, الْعِشْرِينَ yâlı gelmiştir?",
+          "secenekler": [
+            "إِلَى harf-i cerrinden dolayı الدَّرْسِ mecrûr olduğu için sıfatı da mecrûrdur",
+            "Mef'ûlün bih olduğu için",
+            "11–19 gibi fetha mebnî olduğu için",
+            "Temyîz olduğu için"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "21–99 sıra sayıları murabtır ve mevsûfunun i'rabına tam uyar."
+        },
+        {
+          "id": "m23_r3_q5",
+          "soru": "Yazar Arapçayı neye benzetiyor?",
+          "secenekler": [
+            "Sabit adımlarla öğrenene sırlarını açan güzel bir mühendislik yapısına",
+            "Ezberlenmesi imkânsız bir labirente",
+            "Sadece tarihî bir dile",
+            "Harekeler olmadan okunamayan bir şifreye"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "بِنَاءٌ هَنْدَسِيٌّ جَمِيلٌ يَكْشِفُ أَسْرَارَهُ لِمَنْ يَتَعَلَّمُهُ بِخُطُوَاتٍ ثَابِتَةٍ."
+        }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "m23_d1",
+      "baslik": "Kırtasiye ve Kitap Siparişi (11–1000 Sayıları)",
+      "ortam": "Okul kütüphanesi sorumlusu kitapçıdan toplu sipariş veriyor",
+      "replikler": [
+        {
+          "konusan": "المسؤول",
+          "ar": "السَّلَامُ عَلَيْكُمْ! نُرِيدُ طَلَبًا كَبِيرًا لِمَكْتَبَةِ الْمَدْرَسَةِ الْجَدِيدَةِ.",
+          "okunus": "Es-selâmu ‘aleykum! Nurîdu taleben kebîran li-mektebeti'l-medreseti'l-cedîdeti.",
+          "tr": "Selamün aleyküm! Yeni okul kütüphanesi için büyük bir sipariş vermek istiyoruz."
+        },
+        {
+          "konusan": "البائع",
+          "ar": "وَعَلَيْكُمُ السَّلَامُ وَأَهْلًا بِكَ! مَاذَا تَحْتَاجُونَ بِالتَّحْدِيدِ؟",
+          "okunus": "Ve ‘aleykumu's-selâmu ve ehlen bike! Mâzâ tahtâcûne bi't-tahdîdi?",
+          "tr": "Aleykümselam, hoş geldiniz! Tam olarak nelere ihtiyacınız var?"
+        },
+        {
+          "konusan": "المسؤول",
+          "ar": "أَوَّلًا، نُرِيدُ اثْنَيْ عَشَرَ قَامُوسًا عَرَبِيًّا وَخَمْسَ عَشْرَةَ مَوْسُوعَةً عِلْمِيَّةً.",
+          "okunus": "Evvelen, nurîdu'sney ‘aşera kâmûsen ‘arabiyyen ve hamse ‘aşrate mevsû‘aten ‘ilmiyyeten.",
+          "tr": "İlk olarak on iki Arapça sözlük ve on beş bilimsel ansiklopedi istiyoruz."
+        },
+        {
+          "konusan": "البائع",
+          "ar": "مَوْجُودٌ كُلُّهُ! هَلْ تَحْتَاجُونَ إِلَى كُتُبِ النَّحْوِ وَالصَّرْفِ أَيْضًا؟",
+          "okunus": "Mevcûdun kulluhu! Hel tahtâcûne ilâ kutubi'n-nahvi ve's-sarfi eydan?",
+          "tr": "Hepsi mevcut! Nahiv ve sarf kitaplarına da ihtiyacınız var mı?"
+        },
+        {
+          "konusan": "المسؤول",
+          "ar": "نَعَمْ، نُرِيدُ خَمْسَةً وَثَلَاثِينَ كِتَابًا فِي النَّحْوِ وَأَرْبَعِينَ كِتَابًا فِي الصَّرْفِ.",
+          "okunus": "Ne‘am, nurîdu hamseten ve selâsîne kitâben fi'n-nahvi ve erba‘îne kitâben fi's-sarfi.",
+          "tr": "Evet, nahivde otuz beş kitap ve sarfta kırk kitap istiyoruz."
+        },
+        {
+          "konusan": "البائع",
+          "ar": "مُمْتَازٌ! وَمَاذَا عَنْ قِصَصِ الْأَطْفَالِ وَالدَّفَاتِرِ؟",
+          "okunus": "Mumtâzun! Ve mâzâ ‘an kısasi'l-etfâli ve'd-defâtiri?",
+          "tr": "Harika! Peki çocuk hikâyeleri ve defterler ne olacak?"
+        },
+        {
+          "konusan": "المسؤول",
+          "ar": "نَحْتَاجُ إِلَى مِئَتَيْ قِصَّةٍ مُصَوَّرَةٍ وَثَلَاثِمِئَةِ دَفْتَرٍ كَبِيرٍ.",
+          "okunus": "Nahtâcu ilâ mietey kıssatin musavvaratin ve selâsumieti defterin kebîrin.",
+          "tr": "İki yüz resimli hikâyeye ve üç yüz büyük deftere ihtiyacımız var."
+        },
+        {
+          "konusan": "البائع",
+          "ar": "حَسَنًا، سَأَحْسُبُ الْمَجْمُوعَ الْكُلِّيَّ مَعَ خَصْمٍ خَاصٍّ لِلْمَدَارِسِ.",
+          "okunus": "Hasenen, se-ehsubu'l-mecmû‘a'l-kulliyye me‘a hasmin hâssin li'l-medârisi.",
+          "tr": "Güzel, okullara özel indirimle toplam tutarı hesaplayacağım."
+        },
+        {
+          "konusan": "المسؤول",
+          "ar": "كَمْ يَبْلُغُ الْحِسَابُ بَعْدَ الْخَصْمِ مِنْ فَضْلِكَ؟",
+          "okunus": "Kem yeblugu'l-hisâbu ba‘de'l-hasmi min fadlike?",
+          "tr": "Lütfen indirimden sonra hesap ne kadar tutuyor?"
+        },
+        {
+          "konusan": "البائع",
+          "ar": "يَبْلُغُ أَرْبَعَةَ آلَافٍ وَسِتَّمِئَةٍ وَخَمْسِينَ لِيرَةً فَقَطْ.",
+          "okunus": "Yeblugu erba‘ate âlâfin ve sittemietin ve hamsîne lîraten fakat.",
+          "tr": "Sadece dört bin altı yüz elli lira tutuyor."
+        },
+        {
+          "konusan": "المسؤول",
+          "ar": "مُنَاسِبٌ جِدًّا! مَتَى يُمْكِنُ إِرْسَالُ الطَّلَبِ إِلَى الْمَدْرَسَةِ؟",
+          "okunus": "Munâsibun cidden! Metâ yumkinu irsâlu't-talebi ile'l-medreseti?",
+          "tr": "Çok uygun! Sipariş okula ne zaman gönderilebilir?"
+        },
+        {
+          "konusan": "البائع",
+          "ar": "غَدًا فِي السَّاعَةِ الْحَادِيَةَ عَشْرَةَ صَبَاحًا سَتَصِلُ الشَّاحِنَةُ إِلَى بَابِ الْمَدْرَسَةِ!",
+          "okunus": "Gaden fi's-sâ‘ati'l-hâdiyete ‘aşrate sabâhan se-tasilu'ş-şâhinetu ilâ bâbi'l-medreseti!",
+          "tr": "Yarın sabah saat on birde kamyon okulun kapısına ulaşacaktır!"
+        }
+      ],
+      "partner": [
+        {
+          "soruAr": "كَمْ قَامُوسًا عَرَبِيًّا تُرِيدُونَ لِلْمَكْتَبَةِ؟",
+          "soruTr": "Kütüphane için kaç Arapça sözlük istiyorsunuz? (12 sözlük)",
+          "ipucu": "12 müzekker mansub: اثْنَيْ عَشَرَ قَامُوسًا.",
+          "secenekler": [
+            "نُرِيدُ اثْنَيْ عَشَرَ قَامُوسًا.",
+            "نُرِيدُ اثْنَا عَشَرَ قَامُوسًا.",
+            "نُرِيدُ اثْنَتَيْ عَشْرَةَ قَامُوسًا."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Mef'ûlün bih mansub ve müzekker: اثْنَيْ عَشَرَ قَامُوسًا."
+        },
+        {
+          "soruAr": "وَكَمْ مَوْسُوعَةً عِلْمِيَّةً تَحْتَاجُونَ؟",
+          "soruTr": "Ve kaç bilimsel ansiklopediye ihtiyacınız var? (15 ansiklopedi)",
+          "ipucu": "15 müennes: خَمْسَ عَشْرَةَ مَوْسُوعَةً.",
+          "secenekler": [
+            "نَحْتَاجُ إِلَى خَمْسَ عَشْرَةَ مَوْسُوعَةً.",
+            "نَحْتَاجُ إِلَى خَمْسَةَ عَشَرَ مَوْسُوعَةً.",
+            "نَحْتَاجُ إِلَى خَمْسَ عَشْرَةَ مَوْسُوعَاتٍ."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "مَوْسُوعَةً müennes → 5 zıt (خَمْسَ), 10 uyumlu (عَشْرَةَ), tekil mansub."
+        },
+        {
+          "soruAr": "كَمْ كِتَابًا فِي النَّحْوِ تَطْلُبُونَ؟",
+          "soruTr": "Nahiv alanında kaç kitap sipariş ediyorsunuz? (35 kitap)",
+          "ipucu": "35 mansub: خَمْسَةً وَثَلَاثِينَ كِتَابًا.",
+          "secenekler": [
+            "نَطْلُبُ خَمْسَةً وَثَلَاثِينَ كِتَابًا.",
+            "نَطْلُبُ خَمْسَةً وَثَلَاثُونَ كِتَابًا.",
+            "نَطْلُبُ ثَلَاثِينَ وَخَمْسَةً كِتَابًا."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Önce birler (خَمْسَةً zıt mansub), sonra وَ, sonra onlar (ثَلَاثِينَ mansub)."
+        },
+        {
+          "soruAr": "وَكَمْ قِصَّةً مُصَوَّرَةً تُرِيدُونَ؟",
+          "soruTr": "Ve kaç resimli hikâye istiyorsunuz? (200 hikâye)",
+          "ipucu": "200 mansub izâfet: مِئَتَيْ قِصَّةٍ.",
+          "secenekler": [
+            "نُرِيدُ مِئَتَيْ قِصَّةٍ مُصَوَّرَةٍ.",
+            "نُرِيدُ مِئَتَيْنِ قِصَّةً مُصَوَّرَةً.",
+            "نُرِيدُ مِئَتَا قِصَّةٍ مُصَوَّرَةٍ."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "200 muzâf olunca nûn düşer (مِئَتَيْ) ve temyîz tekil mecrûr (قِصَّةٍ) olur."
+        },
+        {
+          "soruAr": "فِي أَيِّ سَاعَةٍ نُرْسِلُ الشَّاحِنَةَ غَدًا؟",
+          "soruTr": "Yarın kamyonu saat kaçta gönderelim? (Sabah 11)",
+          "ipucu": "Saat 11 (sıra sayısı müennes): الْحَادِيَةَ عَشْرَةَ.",
+          "secenekler": [
+            "فِي السَّاعَةِ الْحَادِيَةَ عَشْرَةَ صَبَاحًا.",
+            "فِي السَّاعَةِ الْحَادِيَ عَشَرَ صَبَاحًا.",
+            "فِي السَّاعَةِ الْأُولَى عَشْرَةَ صَبَاحًا."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "السَّاعَةِ müennes olduğundan 11. sıra sayısı الْحَادِيَةَ عَشْرَةَ olur."
+        }
+      ]
+    },
+    {
+      "id": "m23_d2",
+      "baslik": "Üniversite Binasında Kat ve Sınıf Sorma (Sıra Sayıları)",
+      "ortam": "Yeni öğrenci danışma masasında sınıfların ve ofislerin yerini öğreniyor",
+      "replikler": [
+        {
+          "konusan": "الطالب",
+          "ar": "صَبَاحُ الْخَيْرِ! أَنَا طَالِبٌ جَدِيدٌ فِي السَّنَةِ الْأُولَى وَأَبْحَثُ عَنْ قَاعَةِ النَّحْوِ.",
+          "okunus": "Sabâhu'l-hayri! Ene tâlibun cedîdun fi's-seneti'l-ûlâ ve ebhasu ‘an kâ‘ati'n-nahvi.",
+          "tr": "Günaydın! Birinci sınıfta yeni bir öğrenciyim ve nahiv dersliğini arıyorum."
+        },
+        {
+          "konusan": "الموظفة",
+          "ar": "أَهْلًا بِكَ! قَاعَةُ النَّحْوِ هِيَ الْقَاعَةُ الثَّالِثَةَ عَشْرَةَ فِي الطَّابِقِ الثَّالِثِ.",
+          "okunus": "Ehlen bike! Kâ‘atu'n-nahvi hiye'l-kâ‘atu's-sâlisete ‘aşrate fi't-tâbiki's-sâlisi.",
+          "tr": "Hoş geldin! Nahiv dersliği üçüncü kattaki on üçüncü dersliktir."
+        },
+        {
+          "konusan": "الطالب",
+          "ar": "وَأَيْنَ يَقَعُ مَكْتَبُ رَئِيسِ الْقِسْمِ مِنْ فَضْلِكِ؟",
+          "okunus": "Ve eyne yeka‘u mektebu raîsi'l-kısmi min fadliki?",
+          "tr": "Peki bölüm başkanının ofisi nerede yer alıyor lütfen?"
+        },
+        {
+          "konusan": "الموظفة",
+          "ar": "مَكْتَبُهُ فِي الطَّابِقِ السَّادِسِ، الْغُرْفَةُ الْحَادِيَةُ وَالْعِشْرُونَ عَلَى الْيَمِينِ.",
+          "okunus": "Mektebuhu fi't-tâbiki's-sâdisi, el-gurfetu'l-hâdiyetu ve'l-‘işrûne ‘ale'l-yemîni.",
+          "tr": "Ofisi altıncı katta, sağdaki yirmi birinci odadır."
+        },
+        {
+          "konusan": "الطالب",
+          "ar": "شُكْرًا! وَمَتَى يَبْدَأُ الِامْتِحَانُ النِّصْفِيُّ هٰذَا الْفَصْلَ؟",
+          "okunus": "Şukran! Ve metâ yebdeu'l-imtihânu'n-nısfiyyu hâze'l-fasle?",
+          "tr": "Teşekkürler! Peki bu dönem vize sınavı ne zaman başlıyor?"
+        },
+        {
+          "konusan": "الموظفة",
+          "ar": "يَبْدَأُ فِي الْيَوْمِ الثَّامِنَ عَشَرَ مِنْ شَهْرِ تِشْرِينَ الثَّانِي وَيَسْتَمِرُّ أُسْبُوعًا.",
+          "okunus": "Yebdeu fi'l-yevmi's-sâmine ‘aşera min şehri Tişrîne's-sânî ve yestemirru usbû‘an.",
+          "tr": "Kasım ayının on sekizinci gününde başlıyor ve bir hafta sürüyor."
+        },
+        {
+          "konusan": "الطالب",
+          "ar": "هَلْ مَخْبَرُ اللُّغَاتِ فِي هٰذَا الْمَبْنَى أَمْ فِي الْمَبْنَى الثَّانِي؟",
+          "okunus": "Hel mahberu'l-lugâti fî hâze'l-mebnâ em fi'l-mebne's-sânî?",
+          "tr": "Dil laboratuvarı bu binada mı yoksa ikinci binada mı?"
+        },
+        {
+          "konusan": "الموظفة",
+          "ar": "فِي الْمَبْنَى الثَّانِي، فِي الطَّابِقِ الْخَامِسِ بِجَانِبِ الْمَكْتَبَةِ الصَّوْتِيَّةِ.",
+          "okunus": "Fi'l-mebne's-sânî, fi't-tâbiki'l-hâmisi bi-cânibi'l-mektebeti's-savtiyyeti.",
+          "tr": "İkinci binada, beşinci katta ses kütüphanesinin yanında."
+        },
+        {
+          "konusan": "الطالب",
+          "ar": "هَلْ يُوجَدُ مِصْعَدٌ قَرِيبٌ؟ أَحْمِلُ كُتُبًا كَثِيرَةً الْيَوْمَ.",
+          "okunus": "Hel yûcedu mis‘adun karîbun? Ahmilu kutuben kesîraten el-yevme.",
+          "tr": "Yakında bir asansör var mı? Bugün çok kitap taşıyorum."
+        },
+        {
+          "konusan": "الموظفة",
+          "ar": "نَعَمْ، الْمِصْعَدُ الْأَوَّلُ بِجَانِبِ الْبَوَّابَةِ الرَّئِيسِيَّةِ، وَالثَّانِي فِي نِهَايَةِ الْمَمَرِّ.",
+          "okunus": "Ne‘am, el-mis‘adu'l-evvelu bi-cânibi'l-bevvâbeti'r-raîsiyyeti, ve's-sânî fî nihâyeti'l-memerri.",
+          "tr": "Evet, birinci asansör ana kapının yanında, ikincisi koridorun sonunda."
+        },
+        {
+          "konusan": "الطالب",
+          "ar": "شُكْرًا جَزِيلًا لَكِ عَلَى هٰذِهِ الْمَعْلُومَاتِ الْوَاضِحَةِ!",
+          "okunus": "Şukran cezîlen leki ‘alâ hâzihi'l-ma‘lûmâti'l-vâdıhati!",
+          "tr": "Bu net bilgiler için size çok teşekkür ederim!"
+        },
+        {
+          "konusan": "الموظفة",
+          "ar": "عَفْوًا، وَأَتَمَنَّى لَكَ عَامًا دِرَاسِيًّا مَلِيئًا بِالنَّجَاحِ!",
+          "okunus": "‘Afven, ve etemennâ leke ‘âmen dirâsiyyen melîen bi'n-necâhi!",
+          "tr": "Rica ederim, sana başarılarla dolu bir öğretim yılı dilerim!"
+        }
+      ],
+      "partner": [
+        {
+          "soruAr": "فِي أَيِّ سَنَةٍ دِرَاسِيَّةٍ أَنْتَ يَا أَخِي؟",
+          "soruTr": "Kaçıncı sınıftasın kardeşim? (1. sınıf)",
+          "ipucu": "1. sıra sayısı müennes: السَّنَةِ الْأُولَى.",
+          "secenekler": [
+            "أَنَا فِي السَّنَةِ الْأُولَى.",
+            "أَنَا فِي السَّنَةِ الْأَوَّلِ.",
+            "أَنَا فِي السَّنَةِ الْأَوَّلَةِ."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "الْأَوَّلُ kelimesinin müennes biçimi الْأُولَى'dır."
+        },
+        {
+          "soruAr": "تَبْحَثُ عَنْ أَيِّ طَابِقٍ؟",
+          "soruTr": "Hangi katı arıyorsun? (6. kat)",
+          "ipucu": "الطَّابِقِ السَّادِسِ.",
+          "secenekler": [
+            "أَبْحَثُ عَنِ الطَّابِقِ السَّادِسِ.",
+            "أَبْحَثُ عَنِ الطَّابِقِ السَّاتِسِ.",
+            "أَبْحَثُ عَنِ الطَّابِقِ السَّادِسَةِ."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "6. sıra sayısı س-د-س kökünden السَّادِسِ gelir."
+        },
+        {
+          "soruAr": "هَلْ تَقْصِدُ الْقَاعَةَ الثَّالِثَةَ عَشْرَةَ؟",
+          "soruTr": "On üçüncü dersliği mi kastediyorsun?",
+          "ipucu": "Aynı müennes sıra sayısıyla onayla.",
+          "secenekler": [
+            "نَعَمْ، أَقْصِدُ الْقَاعَةَ الثَّالِثَةَ عَشْرَةَ.",
+            "نَعَمْ، أَقْصِدُ الْقَاعَةَ الثَّالِثَ عَشَرَ.",
+            "نَعَمْ، أَقْصِدُ الْقَاعَةَ الثَّالِثَةِ الْعَشْرَةِ."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "11.–19. sıra sayılarında iki parça cinsiyette uyumlu ve fetha mebnîdir."
+        },
+        {
+          "soruAr": "مَتَى يَبْدَأُ الِامْتِحَانُ؟",
+          "soruTr": "Sınav ne zaman başlıyor? (18 Kasım)",
+          "ipucu": "الْيَوْمِ الثَّامِنَ عَشَرَ.",
+          "secenekler": [
+            "فِي الْيَوْمِ الثَّامِنَ عَشَرَ مِنْ تِشْرِينَ الثَّانِي.",
+            "فِي الْيَوْمِ الثَّامِنَةِ عَشْرَةَ مِنْ تِشْرِينَ الثَّانِي.",
+            "فِي الْيَوْمِ الثَّمَانِيَةَ عَشَرَ مِنْ تِشْرِينَ الثَّانِي."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "الْيَوْمِ müzekker → 18. sıra sayısı الثَّامِنَ عَشَرَ."
+        },
+        {
+          "soruAr": "وَمَا رَقْمُ غُرْفَةِ رَئِيسِ الْقِسْمِ؟",
+          "soruTr": "Bölüm başkanının oda numarası kaç? (21. oda)",
+          "ipucu": "الْغُرْفَةُ müennes → الْحَادِيَةُ وَالْعِشْرُونَ.",
+          "secenekler": [
+            "الْغُرْفَةُ الْحَادِيَةُ وَالْعِشْرُونَ.",
+            "الْغُرْفَةُ الْأُولَى وَالْعِشْرُونَ.",
+            "الْغُرْفَةُ الْحَادِي وَالْعِشْرُونَ."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "21. sıra sayısı müennes: الْحَادِيَةُ وَالْعِشْرُونَ."
+        }
+      ]
+    },
+    {
+      "id": "m23_d3",
+      "baslik": "Üstadın Öğüdü (إِيَّاكَ ile Tahzîr ve İki Nesneli Zamir)",
+      "ortam": "Final öncesi tecrübeli bir hoca öğrencisine altın öğütler veriyor",
+      "replikler": [
+        {
+          "konusan": "الطالب",
+          "ar": "أُسْتَاذِي الْكَرِيمَ، بَقِيَ أُسْبُوعَانِ عَلَى الِامْتِحَانِ النِّهَائِيِّ وَأَشْعُرُ بِبَعْضِ الْقَلَقِ.",
+          "okunus": "Ustâziye'l-kerîme, bakiye usbû‘âni ‘ale'l-imtihâni'n-nihâiyyi ve eş‘uru bi-ba‘di'l-kalaki.",
+          "tr": "Değerli hocam, final sınavına iki hafta kaldı ve biraz kaygı hissediyorum."
+        },
+        {
+          "konusan": "الأستاذ",
+          "ar": "لَا تَقْلَقْ يَا بُنَيَّ! إِيَّاكَ وَالتَّوَتُّرَ، فَإِنَّ الْقَلَقَ الزَّائِدَ يُشَتِّتُ الذِّهْنَ.",
+          "okunus": "Lâ taklak yâ buneyye! İyyâke ve't-tevettura, fe-inne'l-kalaka'z-zâide yuşettitu'z-zihne.",
+          "tr": "Kaygılanma evladım! Sakın stresten uzak dur; çünkü aşırı kaygı zihni dağıtır."
+        },
+        {
+          "konusan": "الطالب",
+          "ar": "مَا أَهَمُّ نَصِيحَةٍ تُقَدِّمُهَا لِي فِي هٰذِهِ الْأَيَّامِ الْأَرْبَعَةَ عَشَرَ؟",
+          "okunus": "Mâ ehemmu nasîhatin tukaddimuhâ lî fî hâzihi'l-eyyâmi'l-erba‘ate ‘aşera?",
+          "tr": "Bu on dört günde bana vereceğiniz en önemli tavsiye nedir?"
+        },
+        {
+          "konusan": "الأستاذ",
+          "ar": "أَوَّلًا: إِيَّاكَ وَالتَّسْوِيفَ! رَاجِعْ كُلَّ يَوْمٍ وَحْدَةً وَاحِدَةً بِهُدُوءٍ وَنِظَامٍ.",
+          "okunus": "Evvelen: iyyâke ve't-tesvîfe! Râci‘ kulle yevmin vahdeten vâhideten bi-hudûin ve nizâmin.",
+          "tr": "Birincisi: Sakın erteleme! Her gün sakinlik ve düzenle bir ünite tekrar et."
+        },
+        {
+          "konusan": "الطالب",
+          "ar": "وَهَلْ أُعِيدُ حَلَّ الِاخْتِبَارَاتِ السَّابِقَةِ؟",
+          "okunus": "Ve hel u‘îdu halle'l-ihtibârâti's-sâbikati?",
+          "tr": "Önceki testleri yeniden çözeyim mi?"
+        },
+        {
+          "konusan": "الأستاذ",
+          "ar": "نَعَمْ بِالتَّأْكِيدِ! أَعْدَدْتُ لَكَ مَلَفَّ مُرَاجَعَةٍ شَامِلًا وَسَأُعْطِيكَ إِيَّاهُ الْآنَ.",
+          "okunus": "Ne‘am bi't-te'kîdi! A‘dedtu leke meleffe murâca‘atin şâmilen ve se-u‘tîke iyyâhu'l-âne.",
+          "tr": "Evet elbette! Senin için kapsamlı bir tekrar dosyası hazırladım ve onu sana şimdi vereceğim."
+        },
+        {
+          "konusan": "الطالب",
+          "ar": "جَزَاكَ اللّٰهُ خَيْرًا يَا أُسْتَاذِي! هَلْ أُشَارِكُهُ مَعَ زُمَلَائِي فِي الصَّفِّ؟",
+          "okunus": "Cezâkellâhu hayran yâ ustâzî! Hel uşârikuhu me‘a zumelâî fi's-saffi?",
+          "tr": "Allah sizden razı olsun hocam! Onu sınıftaki arkadaşlarımla paylaşayım mı?"
+        },
+        {
+          "konusan": "الأستاذ",
+          "ar": "بِكُلِّ سُرُورٍ، أَرْسِلْ لَهُمْ إِيَّاهُ الْيَوْمَ، وَإِيَّاكُمْ أَنْ تَسْهَرُوا لَيْلَةَ الِامْتِحَانِ!",
+          "okunus": "Bi-kulli surûrin, ersil lehum iyyâhu'l-yevme, ve iyyâkum en tesherû leylete'l-imtihâni!",
+          "tr": "Memnuniyetle, onu onlara bugün gönder ve sakın sınav gecesi uykusuz kalmayın!"
+        },
+        {
+          "konusan": "الطالب",
+          "ar": "صَحِيحٌ، النَّوْمُ الْمُبَكِّرُ يُسَاعِدُ عَلَى التَّرْكِيزِ. هَلْ مِنْ وَصِيَّةٍ أَخِيرَةٍ؟",
+          "okunus": "Sahîhun, en-nevmu'l-mubekkiru yusâ‘idu ‘ale't-terkîzi. Hel min vasıyyetin ahîratin?",
+          "tr": "Doğru, erken uyumak odaklanmaya yardımcı olur. Son bir tavsiyeniz var mı?"
+        },
+        {
+          "konusan": "الأستاذ",
+          "ar": "اِقْرَأِ السُّؤَالَ مَرَّتَيْنِ، وَإِيَّاكَ وَالتَّسَرُّعَ فِي الْإِجَابَةِ!",
+          "okunus": "İkrai's-suâle merrateyni, ve iyyâke ve't-teserru‘a fi'l-icâbeti!",
+          "tr": "Soruyu iki kez oku ve sakın cevaplamada acelecilikten uzak dur!"
+        },
+        {
+          "konusan": "الطالب",
+          "ar": "وَعْدٌ مِنِّي يَا أُسْتَاذِي، سَأَعْمَلُ بِكُلِّ نَصَائِحِكَ حَرْفِيًّا.",
+          "okunus": "Va‘dun minnî yâ ustâzî, se-a‘melu bi-kulli nasâihike harfiyyen.",
+          "tr": "Benden söz hocam, tüm tavsiyelerinizi harfiyen uygulayacağım."
+        },
+        {
+          "konusan": "الأستاذ",
+          "ar": "أَحْسَنْتَ! أَنْتَ مُجْتَهِدٌ، وَإِيَّاكَ أَنْ تَشُكَّ فِي قُدُرَاتِكَ!",
+          "okunus": "Ahsente! Ente muctehidun, ve iyyâke en teşukke fî kudurâtike!",
+          "tr": "Aferin! Sen çalışkansın ve sakın yeteneklerinden şüphe etme!"
+        }
+      ],
+      "partner": [
+        {
+          "soruAr": "إِيَّاكَ وَالتَّسْوِيفَ قَبْلَ الِامْتِحَانِ!",
+          "soruTr": "Sınavdan önce sakın ertelemekten uzak dur!",
+          "ipucu": "Anladığını ve düzenli çalışacağını söyle.",
+          "secenekler": [
+            "حَاضِرٌ يَا أُسْتَاذِي، سَأُرَاجِعُ كُلَّ يَوْمٍ بِانْتِظَامٍ.",
+            "إِيَّاكَ وَالتَّسْوِيفُ.",
+            "أَنَا لَنْ أَدْرُسَ الْيَوْمَ."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Tahzîr uyarısına uygun olumlu karşılık."
+        },
+        {
+          "soruAr": "هٰذَا مَلَفُّ الْمُرَاجَعَةِ، هَلْ أُعْطِيكَ إِيَّاهُ الْآنَ؟",
+          "soruTr": "Bu tekrar dosyası, onu sana şimdi vereyim mi?",
+          "ipucu": "Evet, lütfen onu bana ver (أَعْطِنِي إِيَّاهُ).",
+          "secenekler": [
+            "نَعَمْ مِنْ فَضْلِكَ، أَعْطِنِي إِيَّاهُ الْآنَ.",
+            "نَعَمْ، أَعْطِنِي هُوَ الْآنَ.",
+            "لَا، أَعْطِنِي إِيَّاهَا الْآنَ."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "مَلَفُّ müzekker tekil; ikinci nesne olarak إِيَّاهُ gelir."
+        },
+        {
+          "soruAr": "كَيْفَ تَنْصَحُ أَخَاكَ الصَّغِيرَ بِالتَّحْذِيرِ مِنَ الْكَسَلِ؟",
+          "soruTr": "Küçük kardeşini tembellikten nasıl sakındırırsın?",
+          "ipucu": "إِيَّاكَ وَ + mansub isim.",
+          "secenekler": [
+            "أَقُولُ لَهُ: إِيَّاكَ وَالْكَسَلَ!",
+            "أَقُولُ لَهُ: إِيَّاكَ وَالْكَسَلُ!",
+            "أَقُولُ لَهُ: أَنْتَ وَالْكَسَلِ!"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Tahzîr üslubunda وَ'dan sonraki isim mansubdur: الْكَسَلَ."
+        },
+        {
+          "soruAr": "مَنْ نَعْبُدُ وَبِمَنْ نَسْتَعِينُ؟",
+          "soruTr": "Kime kulluk eder ve kimden yardım dileriz?",
+          "ipucu": "Fâtiha 5: إِيَّاكَ نَعْبُدُ…",
+          "secenekler": [
+            "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ.",
+            "أَنْتَ نَعْبُدُ وَأَنْتَ نَسْتَعِينُ.",
+            "إِيَّاهُ نَعْبُدُ وَإِيَّاهُ نَسْتَعِينُ."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Hasr (yalnızca) vurgusu mansub munfasıl zamir إِيَّاكَ ile kurulur."
+        },
+        {
+          "soruAr": "وَمَاذَا تَقُولُ لِزُمَلَائِكَ لَيْلَةَ الِامْتِحَانِ؟",
+          "soruTr": "Sınav gecesi arkadaşlarına ne dersin? (Sakın uykusuz kalmayın!)",
+          "ipucu": "إِيَّاكُمْ أَنْ + nasb muzâri.",
+          "secenekler": [
+            "إِيَّاكُمْ أَنْ تَسْهَرُوا لَيْلَةَ الِامْتِحَانِ!",
+            "إِيَّاكُمْ أَنْ تَسْهَرُونَ لَيْلَةَ الِامْتِحَانِ!",
+            "إِيَّاكَ أَنْ تَسْهَرُوا لَيْلَةَ الِامْتِحَانِ!"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "إِيَّاكُمْ çoğul muhatap + أَنْ + nûnu düşmüş nasb muzâri تَسْهَرُوا."
+        }
+      ]
+    },
+    {
+      "id": "m23_d4",
+      "baslik": "Müze Rehberiyle Tarih ve Yıl Sohbeti",
+      "ortam": "İki ziyaretçi müze rehberiyle tarihi eserlerin yıllarını konuşuyor",
+      "replikler": [
+        {
+          "konusan": "الزائر",
+          "ar": "مَرْحَبًا! هٰذَا الْمَتْحَفُ رَائِعٌ جِدًّا. فِي أَيِّ عَامٍ تَأَسَّسَ؟",
+          "okunus": "Merhaben! Hâze'l-methafu râi‘un cidden. Fî eyyi ‘âmin teessese?",
+          "tr": "Merhaba! Bu müze çok harika. Hangi yılda kuruldu?"
+        },
+        {
+          "konusan": "المرشد",
+          "ar": "تَأَسَّسَ عَامَ أَلْفٍ وَتِسْعِمِئَةٍ وَخَمْسَةٍ وَسَبْعِينَ، أَيْ قَبْلَ أَكْثَرَ مِنْ خَمْسِينَ عَامًا.",
+          "okunus": "Teessese ‘âme elfin ve tis‘umietin ve hamsetin ve seb‘îne, ey kable eksera min hamsîne ‘âmen.",
+          "tr": "1975 yılında, yani elli yıldan daha uzun bir süre önce kuruldu."
+        },
+        {
+          "konusan": "الزائر",
+          "ar": "كَمْ قِطْعَةً أَثَرِيَّةً يُوجَدُ فِي قَاعَاتِ الْمَتْحَفِ؟",
+          "okunus": "Kem kit‘aten eseriyyeten yûcedu fî kâ‘âti'l-methafi?",
+          "tr": "Müzenin salonlarında kaç tarihî eser bulunuyor?"
+        },
+        {
+          "konusan": "المرشد",
+          "ar": "فِي الْمَتْحَفِ ثَمَانِيَ عَشْرَةَ قَاعَةً، وَتَضُمُّ أَكْثَرَ مِنْ عَشَرَةِ آلَافِ قِطْعَةٍ أَثَرِيَّةٍ.",
+          "okunus": "Fi'l-methafi semâniye ‘aşrate kâ‘aten, ve tedummu eksera min ‘aşerati âlâfi kit‘atin eseriyyetin.",
+          "tr": "Müzede on sekiz salon vardır ve on binden fazla tarihî eser barındırır."
+        },
+        {
+          "konusan": "الزائر",
+          "ar": "مَا شَاءَ اللّٰهُ! وَإِلَى أَيِّ قَرْنٍ تَعُودُ هٰذِهِ الْمَخْطُوطَةُ الْجَمِيلَةُ؟",
+          "okunus": "Mâ şâallâhu! Ve ilâ eyyi karnin te‘ûdu hâzihi'l-mahtûtatu'l-cemîletu?",
+          "tr": "Maşallah! Peki bu güzel el yazması hangi yüzyıla ait?"
+        },
+        {
+          "konusan": "المرشد",
+          "ar": "تَعُودُ إِلَى الْقَرْنِ الثَّالِثَ عَشَرَ الْمِيلَادِيِّ، وَعُمْرُهَا نَحْوُ سَبْعِمِئَةٍ وَخَمْسِينَ سَنَةً.",
+          "okunus": "Te‘ûdu ile'l-karni's-sâlise ‘aşera'l-mîlâdiyyi, ve ‘umruhâ nahvu seb‘umietin ve hamsîne seneten.",
+          "tr": "Miladi on üçüncü yüzyıla ait ve yaşı yaklaşık yedi yüz elli yıldır."
+        },
+        {
+          "konusan": "الزائر",
+          "ar": "كَمْ زَائِرًا يَزُورُ الْمَتْحَفَ سَنَوِيًّا تَقْرِيبًا؟",
+          "okunus": "Kem zâiran yezûru'l-methafe seneviyyen takrîben?",
+          "tr": "Müzeyi yılda yaklaşık kaç ziyaretçi geziyor?"
+        },
+        {
+          "konusan": "المرشد",
+          "ar": "يَزُورُهُ نَحْوُ مِلْيُونٍ وَمِئَتَيْ أَلْفِ زَائِرٍ كُلَّ عَامٍ.",
+          "okunus": "Yezûruhu nahvu milyûnin ve mietey elfi zâirin kulle ‘âmin.",
+          "tr": "Her yıl yaklaşık bir milyon iki yüz bin ziyaretçi geziyor."
+        },
+        {
+          "konusan": "الزائر",
+          "ar": "هَلْ يُسْمَحُ بِالتَّصْوِيرِ دَاخِلَ الْقَاعَةِ الْحَادِيَةَ عَشْرَةَ؟",
+          "okunus": "Hel yusmehu bi't-tasvîri dâhile'l-kâ‘ati'l-hâdiyete ‘aşrate?",
+          "tr": "On birinci salonun içinde fotoğraf çekmeye izin var mı?"
+        },
+        {
+          "konusan": "المرشد",
+          "ar": "يُسْمَحُ بِلَا إِضَاءَةٍ؛ وَلٰكِنْ إِيَّاكُمْ وَمَلَامَسَةَ الزُّجَاجِ أَوِ الْمَخْطُوطَاتِ!",
+          "okunus": "Yusmehu bi-lâ idâetin; ve lâkin iyyâkum ve mulâmesete'z-zucâci evi'l-mahtûtâti!",
+          "tr": "Flaşsız izin var; fakat sakın cama veya el yazmalarına dokunmayın!"
+        },
+        {
+          "konusan": "الزائر",
+          "ar": "بِالتَّأْكِيدِ سَنَلْتَزِمُ بِالْقَوَاعِدِ. شُكْرًا لَكَ عَلَى هٰذِهِ الْجَوْلَةِ الْمُمْتِعَةِ!",
+          "okunus": "Bi't-te'kîdi se-neltezimu bi'l-kavâ‘idi. Şukran leke ‘alâ hâzihi'l-cevleti'l-mumti‘ati!",
+          "tr": "Elbette kurallara uyacağız. Bu keyifli tur için size teşekkürler!"
+        },
+        {
+          "konusan": "المرشد",
+          "ar": "عَفْوًا، وَأَهْلًا بِكُمْ دَائِمًا فِي مَتْحَفِنَا!",
+          "okunus": "‘Afven, ve ehlen bikum dâimen fî methafinâ!",
+          "tr": "Rica ederim, müzemize her zaman hoş geldiniz!"
+        }
+      ],
+      "partner": [
+        {
+          "soruAr": "فِي أَيِّ عَامٍ وُلِدْتَ؟",
+          "soruTr": "Hangi yılda doğdun? (örnek: 2004 yılında)",
+          "ipucu": "عَامَ أَلْفَيْنِ وَأَرْبَعَةٍ.",
+          "secenekler": [
+            "وُلِدْتُ عَامَ أَلْفَيْنِ وَأَرْبَعَةٍ.",
+            "وُلِدْتُ عَامَ أَلْفَانِ وَأَرْبَعَةٌ.",
+            "وُلِدْتُ عَامَ أَلْفَيْنِ وَأَرْبَعٍ."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "عَامَ müzekker muzâf olduğu için ardı mecrûr ve 4 zıt (مُؤَنَّث) gelir: أَرْبَعَةٍ."
+        },
+        {
+          "soruAr": "كَمْ قَاعَةً فِي الْمَتْحَفِ؟",
+          "soruTr": "Müzede kaç salon var? (18 salon)",
+          "ipucu": "قَاعَةً müennes → ثَمَانِيَ عَشْرَةَ.",
+          "secenekler": [
+            "فِي الْمَتْحَفِ ثَمَانِيَ عَشْرَةَ قَاعَةً.",
+            "فِي الْمَتْحَفِ ثَمَانِيَةَ عَشَرَ قَاعَةً.",
+            "فِي الْمَتْحَفِ ثَمَانِيَ عَشْرَةَ قَاعَاتٍ."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "قَاعَةً müennes → 8 zıt (ثَمَانِيَ), 10 uyumlu (عَشْرَةَ), tekil mansub."
+        },
+        {
+          "soruAr": "إِلَى أَيِّ قَرْنٍ تَعُودُ الْمَخْطُوطَةُ؟",
+          "soruTr": "El yazması hangi yüzyıla ait? (13. yüzyıl)",
+          "ipucu": "الْقَرْنِ الثَّالِثَ عَشَرَ.",
+          "secenekler": [
+            "تَعُودُ إِلَى الْقَرْنِ الثَّالِثَ عَشَرَ.",
+            "تَعُودُ إِلَى الْقَرْنِ الثَّالِثَةِ عَشْرَةَ.",
+            "تَعُودُ إِلَى الْقَرْنِ الثَّلَاثَةَ عَشَرَ."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "الْقَرْنِ müzekker → 13. sıra sayısı الثَّالِثَ عَشَرَ."
+        },
+        {
+          "soruAr": "كَمْ قِطْعَةً أَثَرِيَّةً فِي الْمَتْحَفِ؟",
+          "soruTr": "Müzede kaç tarihî eser var? (10.000 parça)",
+          "ipucu": "عَشَرَةُ آلَافِ قِطْعَةٍ.",
+          "secenekler": [
+            "فِيهِ عَشَرَةُ آلَافِ قِطْعَةٍ أَثَرِيَّةٍ.",
+            "فِيهِ عَشْرُ آلَافِ قِطْعَةٍ أَثَرِيَّةٍ.",
+            "فِيهِ عَشَرَةُ آلَافِ قِطْعَةً أَثَرِيَّةً."
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "أَلْف müzekker → عَشَرَةُ آلَافِ + tekil mecrûr قِطْعَةٍ."
+        },
+        {
+          "soruAr": "مَا التَّنْبِيهُ الْأَهَمُّ دَاخِلَ الْقَاعَةِ؟",
+          "soruTr": "Salondaki en önemli uyarı nedir? (Sakın cama dokunmayın!)",
+          "ipucu": "إِيَّاكُمْ وَ + mansub isim.",
+          "secenekler": [
+            "إِيَّاكُمْ وَمَلَامَسَةَ الزُّجَاجِ!",
+            "إِيَّاكُمْ وَمَلَامَسَةُ الزُّجَاجِ!",
+            "أَنْتُمْ وَمَلَامَسَةَ الزُّجَاجِ!"
+          ],
+          "dogruIndeks": 0,
+          "aciklama": "Tahzîr üslubunda وَ'dan sonraki mastar mansubdur: مَلَامَسَةَ."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "m23_f01",
+      "ar": "أَحَدَ عَشَرَ",
+      "harekesiz": "أحد عشر",
+      "okunus": "ehade ‘aşera",
+      "tr": "on bir (müzekker)",
+      "kok": "أ-ح-د / ع-ش-ر",
+      "vezin": "عَدَدٌ مُرَكَّبٌ",
+      "turevler": [
+        "إِحْدَى عَشْرَةَ (müennes)",
+        "الْحَادِيَ عَشَرَ (11.)"
+      ],
+      "ekBilgi": "İki parça fetha mebnî; temyîzi tekil mansub",
+      "ornek": "رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا.",
+      "ornekTr": "On bir yıldız gördüm.",
+      "kullanimNotu": "11 sayısı cinsiyette tam uyum sağlar.",
+      "tur": "sayı"
+    },
+    {
+      "id": "m23_f02",
+      "ar": "إِحْدَى عَشْرَةَ",
+      "harekesiz": "إحدى عشرة",
+      "okunus": "ihdâ ‘aşrate",
+      "tr": "on bir (müennes)",
+      "kok": "أ-ح-د / ع-ش-ر",
+      "vezin": "عَدَدٌ مُرَكَّبٌ",
+      "turevler": [
+        "أَحَدَ عَشَرَ (müzekker)",
+        "الْحَادِيَةَ عَشْرَةَ (11. dişil)"
+      ],
+      "ekBilgi": "Müennes isimler için; ش sükûnlu okunur",
+      "ornek": "فِي الصَّفِّ إِحْدَى عَشْرَةَ طَالِبَةً.",
+      "ornekTr": "Sınıfta on bir kız öğrenci var.",
+      "kullanimNotu": "İki parça da müennestir.",
+      "tur": "sayı"
+    },
+    {
+      "id": "m23_f03",
+      "ar": "اثْنَا عَشَرَ",
+      "harekesiz": "اثنا عشر",
+      "okunus": "isnâ ‘aşera",
+      "tr": "on iki (merfû müzekker)",
+      "kok": "ث-ن-ي / ع-ش-ر",
+      "vezin": "عَدَدٌ مُرَكَّبٌ",
+      "turevler": [
+        "اثْنَيْ عَشَرَ (mansub/mecrûr)",
+        "اثْنَتَا عَشْرَةَ (merfû müennes)"
+      ],
+      "ekBilgi": "İlk parça tesniye gibi murabtır",
+      "ornek": "فِي السَّنَةِ اثْنَا عَشَرَ شَهْرًا.",
+      "ornekTr": "Yılda on iki ay vardır.",
+      "kullanimNotu": "Mansub/mecrûr olunca اثْنَيْ عَشَرَ olur.",
+      "tur": "sayı"
+    },
+    {
+      "id": "m23_f04",
+      "ar": "اثْنَتَيْ عَشْرَةَ",
+      "harekesiz": "اثنتي عشرة",
+      "okunus": "isnetey ‘aşrate",
+      "tr": "on iki (mansub/mecrûr müennes)",
+      "kok": "ث-ن-ي / ع-ش-ر",
+      "vezin": "عَدَدٌ مُرَكَّبٌ",
+      "turevler": [
+        "اثْنَتَا عَشْرَةَ (merfû)",
+        "الثَّانِيَةَ عَشْرَةَ (12. dişil)"
+      ],
+      "ekBilgi": "İlk parça yâ ile mansub/mecrûr",
+      "ornek": "قَرَأْتُ اثْنَتَيْ عَشْرَةَ قِصَّةً.",
+      "ornekTr": "On iki hikâye okudum.",
+      "kullanimNotu": "İki parça da müennese tam uyar.",
+      "tur": "sayı"
+    },
+    {
+      "id": "m23_f05",
+      "ar": "ثَلَاثَةَ عَشَرَ",
+      "harekesiz": "ثلاثة عشر",
+      "okunus": "selâsete ‘aşera",
+      "tr": "on üç (müzekker sayılan için)",
+      "kok": "ث-ل-ث / ع-ش-ر",
+      "vezin": "عَدَدٌ مُرَكَّبٌ",
+      "turevler": [
+        "ثَلَاثَ عَشْرَةَ (müennes için)",
+        "الثَّالِثَ عَشَرَ (13.)"
+      ],
+      "ekBilgi": "İlk parça zıt, 10 uyumlu; fetha mebnî",
+      "ornek": "حَضَرَ ثَلَاثَةَ عَشَرَ بَاحِثًا.",
+      "ornekTr": "On üç araştırmacı katıldı.",
+      "kullanimNotu": "13–19 arası zıtlık + uyum kuralı işler.",
+      "tur": "sayı"
+    },
+    {
+      "id": "m23_f06",
+      "ar": "خَمْسَ عَشْرَةَ",
+      "harekesiz": "خمس عشرة",
+      "okunus": "hamse ‘aşrate",
+      "tr": "on beş (müennes sayılan için)",
+      "kok": "خ-م-س / ع-ش-ر",
+      "vezin": "عَدَدٌ مُرَكَّبٌ",
+      "turevler": [
+        "خَمْسَةَ عَشَرَ (müzekker için)",
+        "الْخَامِسَةَ عَشْرَةَ (15.)"
+      ],
+      "ekBilgi": "5 müzekker (zıt) + 10 müennes (uyumlu)",
+      "ornek": "اِشْتَرَيْتُ خَمْسَ عَشْرَةَ مَجَلَّةً.",
+      "ornekTr": "On beş dergi aldım.",
+      "kullanimNotu": "Harf-i cerden sonra da fetha mebnî kalır.",
+      "tur": "sayı"
+    },
+    {
+      "id": "m23_f07",
+      "ar": "تِسْعَةَ عَشَرَ",
+      "harekesiz": "تسعة عشر",
+      "okunus": "tis‘ate ‘aşera",
+      "tr": "on dokuz (müzekker sayılan için)",
+      "kok": "ت-س-ع / ع-ش-ر",
+      "vezin": "عَدَدٌ مُرَكَّبٌ",
+      "turevler": [
+        "تِسْعَ عَشْرَةَ (müennes için)",
+        "التَّاسِعَ عَشَرَ (19.)"
+      ],
+      "ekBilgi": "İki parça fetha mebnî + tekil mansub",
+      "ornek": "فِي الْمَكْتَبِ تِسْعَةَ عَشَرَ مُوَظَّفًا.",
+      "ornekTr": "Ofiste on dokuz memur var.",
+      "kullanimNotu": "19'dan sonra ukûd (20) sistemine geçilir.",
+      "tur": "sayı"
+    },
+    {
+      "id": "m23_f08",
+      "ar": "عِشْرُونَ",
+      "harekesiz": "عشرون",
+      "okunus": "‘işrûne",
+      "tr": "yirmi (merfû)",
+      "kok": "ع-ش-ر",
+      "vezin": "أَلْفَاظُ الْعُقُودِ",
+      "turevler": [
+        "عِشْرِينَ (mansub/mecrûr)",
+        "الْعِشْرُونَ (20.)"
+      ],
+      "ekBilgi": "Cinsiyet farksız; cemi müzekker gibi i'rab",
+      "ornek": "فِي الْقَاعَةِ عِشْرُونَ طَالِبًا.",
+      "ornekTr": "Salonda yirmi öğrenci var.",
+      "kullanimNotu": "Hem eril hem dişil isimle aynen kullanılır.",
+      "tur": "sayı"
+    },
+    {
+      "id": "m23_f09",
+      "ar": "ثَلَاثُونَ",
+      "harekesiz": "ثلاثون",
+      "okunus": "selâsûne",
+      "tr": "otuz (merfû)",
+      "kok": "ث-ل-ث",
+      "vezin": "أَلْفَاظُ الْعُقُودِ",
+      "turevler": [
+        "ثَلَاثِينَ (mansub/mecrûr)",
+        "الثَّلَاثُونَ (30.)"
+      ],
+      "ekBilgi": "Ukûd; temyîzi tekil mansub",
+      "ornek": "قَرَأْتُ ثَلَاثِينَ صَفْحَةً.",
+      "ornekTr": "Otuz sayfa okudum.",
+      "kullanimNotu": "Mansub ve mecrûrda ثَلَاثِينَ olur.",
+      "tur": "sayı"
+    },
+    {
+      "id": "m23_f10",
+      "ar": "أَرْبَعُونَ",
+      "harekesiz": "أربعون",
+      "okunus": "erba‘ûne",
+      "tr": "kırk (merfû)",
+      "kok": "ر-ب-ع",
+      "vezin": "أَلْفَاظُ الْعُقُودِ",
+      "turevler": [
+        "أَرْبَعِينَ (mansub/mecrûr)",
+        "الْأَرْبَعُونَ (40.)"
+      ],
+      "ekBilgi": "Ukûd; cinsiyet değiştirmez",
+      "ornek": "عُمْرُهُ أَرْبَعُونَ سَنَةً.",
+      "ornekTr": "Yaşı kırk yıldır.",
+      "kullanimNotu": "40 hadis: الْأَرْبَعُونَ النَّوَوِيَّةُ.",
+      "tur": "sayı"
+    },
+    {
+      "id": "m23_f11",
+      "ar": "خَمْسُونَ",
+      "harekesiz": "خمسون",
+      "okunus": "hamsûne",
+      "tr": "elli (merfû)",
+      "kok": "خ-م-س",
+      "vezin": "أَلْفَاظُ الْعُقُودِ",
+      "turevler": [
+        "خَمْسِينَ (mansub/mecrûr)",
+        "الْخَمْسُونَ (50.)"
+      ],
+      "ekBilgi": "Ukûd; yâ ile mansub/mecrûr",
+      "ornek": "أَجَبْتُ عَنْ خَمْسِينَ سُؤَالًا.",
+      "ornekTr": "Elli soruyu cevapladım.",
+      "kullanimNotu": "Harf-i cer sonrası خَمْسِينَ.",
+      "tur": "sayı"
+    },
+    {
+      "id": "m23_f12",
+      "ar": "سِتُّونَ",
+      "harekesiz": "ستون",
+      "okunus": "sittûne",
+      "tr": "altmış (merfû)",
+      "kok": "س-د-س",
+      "vezin": "أَلْفَاظُ الْعُقُودِ",
+      "turevler": [
+        "سِتِّينَ (mansub/mecrûr)",
+        "السَّادِسُ (6.)"
+      ],
+      "ekBilgi": "Ukûd; saatte 60 dakika",
+      "ornek": "فِي السَّاعَةِ سِتُّونَ دَقِيقَةً.",
+      "ornekTr": "Bir saatte altmış dakika vardır.",
+      "kullanimNotu": "Sıra sayısında 6. = السَّادِسُ!",
+      "tur": "sayı"
+    },
+    {
+      "id": "m23_f13",
+      "ar": "سَبْعُونَ",
+      "harekesiz": "سبعون",
+      "okunus": "seb‘ûne",
+      "tr": "yetmiş (merfû)",
+      "kok": "س-ب-ع",
+      "vezin": "أَلْفَاظُ الْعُقُودِ",
+      "turevler": [
+        "سَبْعِينَ (mansub/mecrûr)",
+        "السَّابِعُ (7.)"
+      ],
+      "ekBilgi": "Ukûd; temyîz tekil mansub",
+      "ornek": "زُرْتُ سَبْعِينَ مَوْقِعًا أَثَرِيًّا.",
+      "ornekTr": "Yetmiş tarihî alanı ziyaret ettim.",
+      "kullanimNotu": "Cemi müzekker sâlime mülhaktır.",
+      "tur": "sayı"
+    },
+    {
+      "id": "m23_f14",
+      "ar": "ثَمَانُونَ",
+      "harekesiz": "ثمانون",
+      "okunus": "semânûne",
+      "tr": "seksen (merfû)",
+      "kok": "ث-م-ن",
+      "vezin": "أَلْفَاظُ الْعُقُودِ",
+      "turevler": [
+        "ثَمَانِينَ (mansub/mecrûr)",
+        "الثَّامِنُ (8.)"
+      ],
+      "ekBilgi": "Ukûd; yâ ile mansub/mecrûr",
+      "ornek": "حَضَرَ ثَمَانُونَ ضَيْفًا الْحَفْلَ.",
+      "ornekTr": "Törene seksen misafir katıldı.",
+      "kullanimNotu": "20–90 arası tüm onluklar aynı i'rabtadır.",
+      "tur": "sayı"
+    },
+    {
+      "id": "m23_f15",
+      "ar": "تِسْعُونَ",
+      "harekesiz": "تسعون",
+      "okunus": "tis‘ûne",
+      "tr": "doksan (merfû)",
+      "kok": "ت-س-ع",
+      "vezin": "أَلْفَاظُ الْعُقُودِ",
+      "turevler": [
+        "تِسْعِينَ (mansub/mecrûr)",
+        "التَّاسِعُ (9.)"
+      ],
+      "ekBilgi": "Ukûd; cinsiyet değiştirmez",
+      "ornek": "تَضُمُّ السُّورَةُ تِسْعًا وَتِسْعِينَ آيَةً.",
+      "ornekTr": "Sure doksan dokuz ayet içerir.",
+      "kullanimNotu": "Ma'tûf sayılarda önce birler, sonra وَ, sonra onlar gelir.",
+      "tur": "sayı"
+    },
+    {
+      "id": "m23_f16",
+      "ar": "مِئَةٌ",
+      "harekesiz": "مئة",
+      "okunus": "mietun",
+      "tr": "yüz (100)",
+      "kok": "م-أ-ي",
+      "vezin": "فِعَةٌ",
+      "turevler": [
+        "مِئَتَانِ (200)",
+        "مِئَاتٌ (yüzlerce)"
+      ],
+      "ekBilgi": "Temyîzi daima TEKİL MECRÛR; müennes isim",
+      "ornek": "فِي الْمَكْتَبَةِ مِئَةُ كِتَابٍ.",
+      "ornekTr": "Kütüphanede yüz kitap var.",
+      "kullanimNotu": "مِائَةٌ imlasıyla da yazılır ama elif okunmaz.",
+      "tur": "sayı"
+    },
+    {
+      "id": "m23_f17",
+      "ar": "مِئَتَانِ",
+      "harekesiz": "مئتان",
+      "okunus": "mietâni",
+      "tr": "iki yüz (200)",
+      "kok": "م-أ-ي",
+      "vezin": "مُثَنًّى",
+      "turevler": [
+        "مِئَتَا (izâfet merfû)",
+        "مِئَتَيْ (izâfet mansub/mecrûr)"
+      ],
+      "ekBilgi": "Muzâf olunca nûn düşer + tekil mecrûr",
+      "ornek": "قَرَأْتُ مِئَتَيْ صَفْحَةٍ.",
+      "ornekTr": "İki yüz sayfa okudum.",
+      "kullanimNotu": "مِئَتَيْنِ صَفْحَةٍ demek hatadır; nûn mutlaka düşer.",
+      "tur": "sayı"
+    },
+    {
+      "id": "m23_f18",
+      "ar": "ثَلَاثُمِئَةٍ",
+      "harekesiz": "ثلاثمئة",
+      "okunus": "selâsumietin",
+      "tr": "üç yüz (300)",
+      "kok": "ث-ل-ث / م-أ-ي",
+      "vezin": "مُرَكَّبٌ إِضَافِيٌّ",
+      "turevler": [
+        "خَمْسُمِئَةٍ (500)",
+        "تِسْعُمِئَةٍ (900)"
+      ],
+      "ekBilgi": "مِئَة müennes olduğu için 3–9 müzekker gelir",
+      "ornek": "دَفَعْتُ خَمْسَمِئَةِ لِيرَةٍ.",
+      "ornekTr": "Beş yüz lira ödedim.",
+      "kullanimNotu": "300–900 arası مِئَة daima tekil mecrûrdur.",
+      "tur": "sayı"
+    },
+    {
+      "id": "m23_f19",
+      "ar": "أَلْفٌ",
+      "harekesiz": "ألف",
+      "okunus": "elfun",
+      "tr": "bin (1000)",
+      "kok": "أ-ل-ف",
+      "vezin": "فَعْلٌ",
+      "turevler": [
+        "أَلْفَانِ (2000)",
+        "آلَافٌ (binler)"
+      ],
+      "ekBilgi": "Müzekker isim; temyîzi tekil mecrûr",
+      "ornek": "أَلْفُ لَيْلَةٍ وَلَيْلَةٍ.",
+      "ornekTr": "Bin bir gece.",
+      "kullanimNotu": "3000–9000 arası çoğul gelir: ثَلَاثَةُ آلَافِ طَالِبٍ.",
+      "tur": "sayı"
+    },
+    {
+      "id": "m23_f20",
+      "ar": "مِلْيُونٌ",
+      "harekesiz": "مليون",
+      "okunus": "milyûnun",
+      "tr": "milyon (1.000.000)",
+      "kok": "م-ل-ي",
+      "vezin": "مُعَرَّبٌ",
+      "turevler": [
+        "مِلْيُونَانِ (2 milyon)",
+        "مَلَايِينُ (milyonlar)"
+      ],
+      "ekBilgi": "Temyîzi tekil mecrûr; cinsiyet değiştirmez",
+      "ornek": "يَسْكُنُ هُنَا مِلْيُونُ نَسَمَةٍ.",
+      "ornekTr": "Burada bir milyon nüfus yaşıyor.",
+      "kullanimNotu": "Milyar: مِلْيَارٌ (çoğul مِلْيَارَاتٌ).",
+      "tur": "sayı"
+    },
+    {
+      "id": "m23_f21",
+      "ar": "الْأَوَّلُ",
+      "harekesiz": "الأول",
+      "okunus": "el-evvelu",
+      "tr": "birinci (müzekker sıra sayısı)",
+      "kok": "أ-و-ل",
+      "vezin": "أَفْعَلُ",
+      "turevler": [
+        "الْأُولَى (birinci müennes)",
+        "أَوَّلًا (ilk olarak)"
+      ],
+      "ekBilgi": "Sıfat olarak isme tam uyar",
+      "ornek": "هٰذَا هُوَ الدَّرْسُ الْأَوَّلُ.",
+      "ornekTr": "Bu birinci derstir.",
+      "kullanimNotu": "11. ve 21.'de الْأَوَّل değil الْحَادِي kullanılır.",
+      "tur": "sıra sayısı"
+    },
+    {
+      "id": "m23_f22",
+      "ar": "الْأُولَى",
+      "harekesiz": "الأولى",
+      "okunus": "el-ûlâ",
+      "tr": "birinci (müennes sıra sayısı)",
+      "kok": "أ-و-ل",
+      "vezin": "فُعْلَى",
+      "turevler": [
+        "الْأَوَّلُ (eril)",
+        "الْأُولَيَاتُ (ilkler)"
+      ],
+      "ekBilgi": "Maksûr isim; harekeleri takdîrîdir",
+      "ornek": "حَصَلَتْ عَلَى الْجَائِزَةِ الْأُولَى.",
+      "ornekTr": "Birinci ödülü kazandı.",
+      "kullanimNotu": "الْأَوَّلَةُ demek yanlıştır!",
+      "tur": "sıra sayısı"
+    },
+    {
+      "id": "m23_f23",
+      "ar": "السَّادِسُ",
+      "harekesiz": "السادس",
+      "okunus": "es-sâdisu",
+      "tr": "altıncı (müzekker)",
+      "kok": "س-د-س",
+      "vezin": "فَاعِلٌ",
+      "turevler": [
+        "السَّادِسَةُ (altıncı dişil)",
+        "سُدُسٌ (altıda bir)"
+      ],
+      "ekBilgi": "Kökü س-د-س olduğu için د ile gelir",
+      "ornek": "أَسْكُنُ فِي الطَّابِقِ السَّادِسِ.",
+      "ornekTr": "Altıncı katta oturuyorum.",
+      "kullanimNotu": "Asıl sayı سِتَّةٌ iken sıra sayısı السَّادِسُ olur.",
+      "tur": "sıra sayısı"
+    },
+    {
+      "id": "m23_f24",
+      "ar": "الْحَادِيَ عَشَرَ",
+      "harekesiz": "الحادي عشر",
+      "okunus": "el-hâdiye ‘aşera",
+      "tr": "on birinci (müzekker)",
+      "kok": "و-ح-د / ع-ش-ر",
+      "vezin": "عَدَدٌ تَرْتِيبِيٌّ",
+      "turevler": [
+        "الْحَادِيَةَ عَشْرَةَ (11. dişil)",
+        "الْحَادِي وَالْعِشْرُونَ (21.)"
+      ],
+      "ekBilgi": "İki parça fetha mebnî; الـ sadece ilkinde",
+      "ornek": "فِي الْفَصْلِ الْحَادِيَ عَشَرَ.",
+      "ornekTr": "On birinci bölümde.",
+      "kullanimNotu": "Cinsiyette her iki parça isme tam uyar.",
+      "tur": "sıra sayısı"
+    },
+    {
+      "id": "m23_f25",
+      "ar": "الْقَرْنُ الْحَادِي وَالْعِشْرُونَ",
+      "harekesiz": "القرن الحادي والعشرون",
+      "okunus": "el-karnu'l-hâdî ve'l-‘işrûne",
+      "tr": "yirmi birinci yüzyıl",
+      "kok": "ق-ر-ن / و-ح-د",
+      "vezin": "تَرْكِيبٌ وَصْفِيٌّ",
+      "turevler": [
+        "قُرُونٌ (yüzyıllar)",
+        "الْقَرْنُ الْعِشْرُونَ (20. yüzyıl)"
+      ],
+      "ekBilgi": "Modern/YDS metinlerinin en sık tarih kalıbı",
+      "ornek": "نَحْنُ نَعِيشُ فِي الْقَرْنِ الْحَادِي وَالْعِشْرِينَ.",
+      "ornekTr": "Biz yirmi birinci yüzyılda yaşıyoruz.",
+      "kullanimNotu": "فِي sonrasında وَالْعِشْرِينَ yâ ile mecrûr olur.",
+      "tur": "kalıp"
+    },
+    {
+      "id": "m23_f26",
+      "ar": "إِيَّاكَ",
+      "harekesiz": "إياك",
+      "okunus": "iyyâke",
+      "tr": "yalnızca seni / sakın (eril tekil)",
+      "kok": "إ-ي-ا",
+      "vezin": "ضَمِيرٌ مَنْصُوبٌ مُنْفَصِلٌ",
+      "turevler": [
+        "إِيَّاكِ (dişil)",
+        "إِيَّاكُمْ (çoğul)"
+      ],
+      "ekBilgi": "Hasr (vurgu) ve Tahzîr (sakındırma) zamiri",
+      "ornek": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ.",
+      "ornekTr": "Yalnızca Sana kulluk eder ve yalnızca Senden yardım dileriz.",
+      "kullanimNotu": "إِيَّاكَ وَالْكَذِبَ! = Sakın yalan söyleme!",
+      "tur": "zamir"
+    },
+    {
+      "id": "m23_f27",
+      "ar": "إِيَّاهُ",
+      "harekesiz": "إياه",
+      "okunus": "iyyâhu",
+      "tr": "onu / yalnızca onu (eril tekil)",
+      "kok": "إ-ي-ا",
+      "vezin": "ضَمِيرٌ مَنْصُوبٌ مُنْفَصِلٌ",
+      "turevler": [
+        "إِيَّاهَا (dişil)",
+        "إِيَّاهُمْ (çoğul)"
+      ],
+      "ekBilgi": "İki zamirli fiillerde ikinci nesne",
+      "ornek": "طَلَبَ الْكِتَابَ فَأَعْطَيْتُهُ إِيَّاهُ.",
+      "ornekTr": "Kitabı istedi, ben de onu kendisine verdim.",
+      "kullanimNotu": "Müzekker nesneye döner.",
+      "tur": "zamir"
+    },
+    {
+      "id": "m23_f28",
+      "ar": "إِيَّايَ",
+      "harekesiz": "إياي",
+      "okunus": "iyyâye",
+      "tr": "beni / yalnızca beni",
+      "kok": "إ-ي-ا",
+      "vezin": "ضَمِيرٌ مَنْصُوبٌ مُنْفَصِلٌ",
+      "turevler": [
+        "إِيَّانَا (bizi)",
+        "إِيَّاكُمَا (ikiniz)"
+      ],
+      "ekBilgi": "1. tekil mansub munfasıl (vikâye nûnu yok!)",
+      "ornek": "إِيَّايَ قَصَدَ الْمُدِيرُ بِالْخِطَابِ.",
+      "ornekTr": "Müdür hitabında yalnızca beni kastetti.",
+      "kullanimNotu": "إِيَّانِي şeklinde söylenmez!",
+      "tur": "zamir"
+    },
+    {
+      "id": "m23_f29",
+      "ar": "إِيَّاكُمْ",
+      "harekesiz": "إياكم",
+      "okunus": "iyyâkum",
+      "tr": "sizi / sakın sizler",
+      "kok": "إ-ي-ا",
+      "vezin": "ضَمِيرٌ مَنْصُوبٌ مُنْفَصِلٌ",
+      "turevler": [
+        "إِيَّاكُنَّ (dişil çoğul)",
+        "إِيَّاهُنَّ (onları dişil)"
+      ],
+      "ekBilgi": "Topluluğa yönelik tahzîr uyarısı",
+      "ornek": "إِيَّاكُمْ وَالْغَضَبَ وَالتَّسَرُّعَ!",
+      "ornekTr": "Sakın öfkeden ve acelecilikten uzak durun!",
+      "kullanimNotu": "إِيَّاكُمْ أَنْ + nasb muzâri ile de kullanılır.",
+      "tur": "zamir"
+    },
+    {
+      "id": "m23_f30",
+      "ar": "تَمْيِيزُ الْعَدَدِ",
+      "harekesiz": "تمييز العدد",
+      "okunus": "temyîzu'l-‘adedi",
+      "tr": "sayının temyîzi (sayılan isim)",
+      "kok": "م-ي-ز / ع-د-د",
+      "vezin": "مُصْطَلَحٌ نَحْوِيٌّ",
+      "turevler": [
+        "مَعْدُودٌ (sayılan)",
+        "مُمَيَّزٌ (açıklanan)"
+      ],
+      "ekBilgi": "3–10: çoğul mecrûr | 11–99: tekil mansub | 100/1000: tekil mecrûr",
+      "ornek": "تَمْيِيزُ الْعَدَدِ بَعْدَ عِشْرِينَ مُفْرَدٌ مَنْصُوبٌ.",
+      "ornekTr": "Yirmiden sonra sayının temyîzi tekil mansubdur.",
+      "kullanimNotu": "Bu 3 basamaklı kural tüm sayı sisteminin özetidir.",
+      "tur": "terim"
+    },
+    {
+      "id": "m23_f31",
+      "ar": "عَامٌ",
+      "harekesiz": "عام",
+      "okunus": "‘âmun",
+      "tr": "yıl, sene (müzekker)",
+      "kok": "ع-و-م",
+      "vezin": "فَعْلٌ",
+      "turevler": [
+        "أَعْوَامٌ (yıllar)",
+        "سَنَةٌ (yıl, müennes)"
+      ],
+      "ekBilgi": "Yıl okurken عَامَ müzekker, سَنَةَ müennes sayılır",
+      "ornek": "تَخَرَّجْتُ عَامَ أَلْفَيْنِ وَسِتَّةٍ وَعِشْرِينَ.",
+      "ornekTr": "2026 yılında mezun oldum.",
+      "kullanimNotu": "عَامَ + 3–9 müennes; سَنَةَ + 3–9 müzekker gelir.",
+      "tur": "isim"
+    },
+    {
+      "id": "m23_f32",
+      "ar": "التَّسْوِيفُ",
+      "harekesiz": "التسويف",
+      "okunus": "et-tesvîfu",
+      "tr": "erteleme, 'sonra yaparım' deme",
+      "kok": "س-و-ف",
+      "vezin": "تَفْعِيلٌ",
+      "turevler": [
+        "سَوْفَ (ileride)",
+        "سَوَّفَ (erteledi)"
+      ],
+      "ekBilgi": "سَوْفَ edatından türemiş çok zarif Arapça mastar",
+      "ornek": "إِيَّاكَ وَالتَّسْوِيفَ فِي طَلَبِ الْعِلْمِ!",
+      "ornekTr": "İlim talebinde sakın ertelemekten uzak dur!",
+      "kullanimNotu": "Klasik ve modern metinlerde tahzîrle sık geçer.",
+      "tur": "isim"
+    }
+  ]
+}

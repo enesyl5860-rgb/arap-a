@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T08:11:37.943Z",
+  "generatedAt": "2026-11-23T08:43:04.925Z",
   "prepositionalVerbs": [
     {
       "ar": "بَحَثَ عَنْ",
@@ -1000,6 +1000,141 @@
       "arBaslik": "النَّعْتُ السَّبَبِيُّ وَتَعَدُّدُ الْخَبَرِ وَالنَّعْتِ",
       "formul": "Sebebî Sıfat: İ'rab & Belirlilik ← Öndeki İsim | Cinsiyet → Arkadaki İsim (Merfû Fâil!) | Sayı: Daima TEKİL!",
       "mantik": "Modülümüzün zirvesinde, hem Kur'an'da hem de yüksek edebî ve YDS Arapçasında çok şık bir kullanım olan iki ileri kural var: (1) **Çoklu Haber & Çoklu Sıfat**: Bir mübtedânın tek bir cümlede birden fazla haberi (`وَ` olmadan bile: `اَللّٰهُ غَفُورٌ رَحِيمٌ كَرِ…"
+    },
+    {
+      "id": "m21_g1",
+      "moduleId": "21",
+      "cefr": "A2",
+      "baslik": "Kâne'nin Ameli (Ref' – Nasb): İsim Cümlesini Zamanlandırmak!",
+      "arBaslik": "عَمَلُ «كَانَ وَأَخَوَاتِهَا» (تَرْفَعُ الِاسْمَ وَتَنْصِبُ الْخَبَرَ)",
+      "formul": "كَانَ / يَكُونُ / كُنْ + Kâne'nin İsmi (MERFÛ!) + Kâne'nin Haberi (MANSUB!)",
+      "mantik": "Normal bir Arapça isim cümlesi (`اَلْجَوُّ جَمِيلٌ` = Hava güzeldir) daima **şimdiki/geniş zamanı** bildirir ve iki ögesi de merfûdur. Peki 'Hava güzel**di**', 'Hava güzel **olacak**' veya 'Sabırlı **ol!**' demek istediğimizde isim cümlesine zamanı kim kazandı…"
+    },
+    {
+      "id": "m21_g2",
+      "moduleId": "21",
+      "cefr": "A2",
+      "baslik": "Kâne'nin Kardeşleri: Dönüşüm (أَصْبَحَ / صَارَ), Süreklilik (مَا زَالَ / ظَلَّ / مَا دَامَ) & لَيْسَ",
+      "arBaslik": "أَخَوَاتُ «كَانَ» وَمَعَانِيهَا (التَّحَوُّلُ وَالِاسْتِمْرَارُ وَالنَّفْيُ)",
+      "formul": "أَصْبَحَ / صَارَ / بَاتَ (Oldu) | ظَلَّ / مَا زَالَ / لَا يَزَالُ (Hâlâ) | مَا دَامَ (...-dığı sürece) | لَيْسَ (Değil) → Ref' + Nasb!",
+      "mantik": "Kâne'nin ailesini tek tek ezberlemek yerine 4 anlam grubuna ayırarak 1 dakikada kavrayalım — hepsi **aynı Ref'–Nasb amelini** yapar:\n1) **Dönüşüm & Olma Grubu:** **`أَصْبَحَ`** (modern Arapçada 'sabahladı'nın ötesinde en çok **'... hâline geldi / oldu'** anlam…"
+    },
+    {
+      "id": "m21_g3",
+      "moduleId": "21",
+      "cefr": "A2",
+      "baslik": "Birleşik Zamanlar: كَانَ + Muzâri (-yordu / -rdı) & كَانَ قَدْ + Mâzi (-mıştı)",
+      "arBaslik": "الْأَزْمِنَةُ الْمُرَكَّبَةُ: «كَانَ + الْمُضَارِعُ» وَ«كَانَ قَدْ + الْمَاضِي»",
+      "formul": "كَانَ + Muzâri = -yordu / -rdı  |  كَانَ قَدْ + Mâzi = -mıştı  |  سَيَكُونُ قَدْ + Mâzi = -mış olacak!",
+      "mantik": "Modül 09 ve 10'da tekil zamanları (`كَتَبَ` = yazdı, `يَكْتُبُ` = yazıyor/yazar, `سَيَكْتُبُ` = yazacak) öğrendik. Peki Türkçedeki hikâye ve miş'li geçmiş zamanlarını — **'yazıyordu / eskiden yazardı'** ve **'yazmıştı'** — Arapçada nasıl kurarız? İşte Kâne bur…"
+    },
+    {
+      "id": "m21_g4",
+      "moduleId": "21",
+      "cefr": "A2",
+      "baslik": "Kâne'nin Haber Çeşitleri & Şibh-i Cümle Haberin Öne Geçmesi (كَانَ فِي الْبَيْتِ ضَيْفٌ)",
+      "arBaslik": "أَنْوَاعُ خَبَرِ «كَانَ» وَتَقْدِيمُ خَبَرِهَا الشِّبْهِ جُمْلَةِ",
+      "formul": "كَانَ / لَيْسَ + [Öne Geçmiş Şibh-i Cümle Haber] + [Sona Kalmış MERFÛ İsim!] (Var idi / Yok!)",
+      "mantik": "Modül 20'de öğrendiğimiz 4 haber çeşidi (Müfred, İsim Cümlesi, Fiil Cümlesi, Şibh-i Cümle) Kâne ve Kardeşlerinin haberi olarak da aynen gelir; tek fark, cümle veya şibh-i cümle haberin artık mahallen merfû değil **mahallen MANSUB (`فِي مَحَلِّ نَصْبٍ`)** olmas…"
+    },
+    {
+      "id": "m21_g5",
+      "moduleId": "21",
+      "cefr": "A2",
+      "baslik": "Tâm Kâne (كَانَ التَّامَّةُ) & YDS Akademik Kâne Kalıpları (مَهْمَا يَكُنْ / سَوَاءٌ أَكَانَ)",
+      "arBaslik": "«كَانَ» التَّامَّةُ وَالتَّعَابِيرُ الْأَكَادِيمِيَّةُ («سَوَاءٌ أَكَانَ... أَمْ» / «مَهْمَا يَكُنْ»)",
+      "formul": "Tâm Kâne = 'Var oldu / gerçekleşti' (Sadece Merfû Fâil!) | سَوَاءٌ أَكَانَ ... أَمْ | مَهْمَا كَانَ",
+      "mantik": "Kâne ailesiyle ilgili son ama en yüksek seviye sır şudur: `كَانَ` ve bazı kardeşleri (`أَصْبَحَ، أَمْسَى، بَاتَ، ظَلَّ، مَا دَامَ`) bazen **'var oldu / meydana geldi / bulundu'** anlamında normal, **Tâm (Tam) Fiil** olarak kullanılır! O zaman mansub haber İSTE…"
+    },
+    {
+      "id": "m22_g1",
+      "moduleId": "22",
+      "cefr": "A2",
+      "baslik": "İnne ve Kardeşlerinin Ameli (Nasb – Ref'): Kâne'nin Tam Ayna Görüntüsü!",
+      "arBaslik": "عَمَلُ «إِنَّ وَأَخَوَاتِهَا» (تَنْصِبُ الِاسْمَ وَتَرْفَعُ الْخَبَرَ)",
+      "formul": "إِنَّ / أَنَّ / كَأَنَّ / لٰكِنَّ / لَيْتَ / لَعَلَّ + İnne'nin İsmi (MANSUB!) + İnne'nin Haberi (MERFÛ!)",
+      "mantik": "Modül 21'de **Kâne ve Kardeşlerinin** isim cümlesinde **Ref' – Nasb** (`كَانَ الطَّالِبُ مُجْتَهِدًا`) yaptığını öğrendik. Şimdi onların tam tersi çalışan ama aynı derecede ünlü kuzenleriyle tanışalım: **İnne ve Kardeşleri (`الْحُرُوفُ الْمُشَبَّهَةُ بِالْفِعْ…"
+    },
+    {
+      "id": "m22_g2",
+      "moduleId": "22",
+      "cefr": "A2",
+      "baslik": "6 Harfin Anlam İncelikleri: إِنَّ / أَنَّ، كَأَنَّ، لٰكِنَّ، لَيْتَ vs. لَعَلَّ",
+      "arBaslik": "مَعَانِي الْأَحْرُفِ السِّتَّةِ وَالْفَرْقُ بَيْنَ «لَيْتَ» وَ«لَعَلَّ»",
+      "formul": "إِنَّ/أَنَّ (Kesinlik) | كَأَنَّ (Sanki) | لٰكِنَّ (Fakat) | لَيْتَ (Keşke — zor!) | لَعَلَّ (Umarım/belki — mümkün!)",
+      "mantik": "Bu 6 kardeşin tamamı aynı **Nasb – Ref'** amelini yapar ama her birinin cümleye kattığı duygu ve mantık bambaşkadır!\n1) **`إِنَّ` (Şüphesiz / Muhakkak)**: Cümleyi güçlü bir kesinlikle pekiştirir (`إِنَّ اللّٰهَ مَعَ الصَّابِرِينَ`).\n2) **`أَنَّ` (...-diğini / …"
+    },
+    {
+      "id": "m22_g3",
+      "moduleId": "22",
+      "cefr": "A2",
+      "baslik": "Altın İncelik: Ne Zaman Kesralı «إِنَّ», Ne Zaman Fethalı «أَنَّ» Okunur?",
+      "arBaslik": "مَوَاضِعُ كَسْرِ هَمْزَةِ «إِنَّ» وَفَتْحِ هَمْزَةِ «أَنَّ»",
+      "formul": "Başta / قَالَ sonrası / Yemin / حَيْثُ → Kesralı إِنَّ  |  عَلِمْتُ / سَمِعْتُ / Harf-i Cer sonrası → Fethalı أَنَّ!",
+      "mantik": "Harekesiz bir Arapça metinde `ان` harflerini gördüğünüzde en çok sorduğunuz soru şudur: **'Bunu kesralı `إِنَّ` mi yoksa fethalı `أَنَّ` mı okuyacağım?'** İşte Prof. Dr. Hüseyin Günday & Şener Şahin sistematiğinin 2 altın kuralı:\n► **Fethalı `أَنَّ` (Tek Kural…"
+    },
+    {
+      "id": "m22_g4",
+      "moduleId": "22",
+      "cefr": "A2",
+      "baslik": "Mâ-i Kâffe (إِنَّمَا — Ameli Durduran مَا) & Te'kîd Lâmı (لَامُ الْمُزَحْلَقَةِ: إِنَّ ... لَـ)",
+      "arBaslik": "«مَا الْكَافَّةُ» (إِنَّمَا) وَلَامُ التَّوْكِيدِ الْمُزَحْلَقَةُ («إِنَّ الْعِلْمَ لَنُورٌ»)",
+      "formul": "إِنَّمَا + Merfû Mübtedâ + Merfû Haber (veya Fiil!) = 'Ancak / Yalnızca' | إِنَّ + Mansub + لَـ + Merfû = Çifte Vurgu!",
+      "mantik": "İnne ailesinin hem Kur'an'da hem modern Arapçada en çok karşınıza çıkacak iki süper gücü vardır:\n1) **Mâ-i Kâffe (`مَا الْكَافَّةُ` — Fren Yapan مَا!)**: `إِنَّ، أَنَّ، كَأَنَّ، لٰكِنَّ، لَعَلَّ` harflerinin sonuna `مَا` bitiştiğinde (`إِنَّمَا، كَأَنَّمَا، لٰ…"
+    },
+    {
+      "id": "m22_g5",
+      "moduleId": "22",
+      "cefr": "A2",
+      "baslik": "İnne'nin Haber Çeşitleri & Öne Geçmiş Şibh-i Cümle Haber (إِنَّ هُنَاكَ أَمَلًا ≠ كَانَ هُنَاكَ أَمَلٌ!)",
+      "arBaslik": "أَنْوَاعُ خَبَرِ «إِنَّ» وَتَقْدِيمُ خَبَرِهَا الشِّبْهِ جُمْلَةِ",
+      "formul": "إِنَّ + [Öne Geçmiş Şibh-i Cümle Haber] + [Sona Kalmış MANSUB İsim!]  ≠  كَانَ + Şibh-i Cümle + MERFÛ İsim!",
+      "mantik": "Modül 21'in en kritik kuralıyla şimdi doğrudan yüzleşelim! Tıpkı Kâne'de olduğu gibi İnne ve Kardeşlerinin haberi de 4 türde gelebilir (Müfred, İsim Cümlesi, Fiil Cümlesi, Şibh-i Cümle — cümle/şibh-i cümle olunca **mahallen MERFÛ** olur!). VE işte YDS'nin şamp…"
+    },
+    {
+      "id": "m23_g1",
+      "moduleId": "23",
+      "cefr": "A2",
+      "baslik": "11–19 Mürekkep Sayılar (الْأَعْدَادُ الْمُرَكَّبَةُ) ve Tekil Mansub Temyîz",
+      "arBaslik": "الْأَعْدَادُ الْمُرَكَّبَةُ (١١–١٩) وَتَمْيِيزُهَا الْمُفْرَدُ الْمَنْصُوبُ",
+      "formul": "11–12: [Uyumlu] + [Uyumlu] + Tekil Mansub | 13–19: [Zıt 3–9] + [Uyumlu 10] + Tekil Mansub",
+      "mantik": "Modül 11'de 1–10 arası sayıları öğrenmiştin; şimdi 11–19 katına çıkıyoruz. 11–19 sayıları iki parçadan oluştuğu için 'mürekkep (birleşik) sayı' adını alır ve 3 basit altın yasayla yönetilir: (1) Sayılan isim (temyîz) 11'den 99'a kadar DAİMA tekil ve mansubdur …"
+    },
+    {
+      "id": "m23_g2",
+      "moduleId": "23",
+      "cefr": "A2",
+      "baslik": "20–99 Ukûd (Onluklar) ve Ma'tûf (Atıflı) Sayılar",
+      "arBaslik": "أَلْفَاظُ الْعُقُودِ وَالْأَعْدَادُ الْمَعْطُوفَةُ (٢٠–٩٩)",
+      "formul": "Ukûd: عِشْرُونَ (Merfû) / عِشْرِينَ (Mansub-Mecrûr) + Tekil Mansub | Ma'tûf: [Birler] + وَ + [Onlar] + Tekil Mansub",
+      "mantik": "20, 30, 40, 50, 60, 70, 80, 90 sayılarına Arapçada 'Elfâzu'l-Ukûd' (onluklar) denir ve seni çok rahatlatacak bir özellikleri vardır: Cinsiyetleri HİÇ DEĞİŞMEZ! Hem erkek hem kadın için aynı form kullanılır (عِشْرُونَ طَالِبًا / عِشْرُونَ طَالِبَةً). İ'rabları …"
+    },
+    {
+      "id": "m23_g3",
+      "moduleId": "23",
+      "cefr": "A2",
+      "baslik": "100 (مِئَةٌ), 1000 (أَلْفٌ), Milyon ve Yıl/Tarih Okuma",
+      "arBaslik": "الْمِئَةُ وَالْأَلْفُ وَالْمِلْيُونُ وَقِرَاءَةُ التَّارِيخِ",
+      "formul": "مِئَةُ / أَلْفُ / مِلْيُونُ + Tekil Mecrûr (İzâfet) | Yıl: عَامَ / سَنَةَ + Mecrûr Sayı",
+      "mantik": "Şimdi sayı merdiveninin zirvesine çıkıyoruz: مِئَةٌ (100), أَلْفٌ (1000) ve مِلْيُونٌ (1 milyon). Bu büyük sayıların en rahat kuralı şudur: (1) Tıpkı onluklar gibi CİNSİYET DEĞİŞTİRMEZLER! Hem erkek hem kadın isimden önce aynen gelirler (مِئَةُ طَالِبٍ / مِئَة…"
+    },
+    {
+      "id": "m23_g4",
+      "moduleId": "23",
+      "cefr": "A2",
+      "baslik": "Sıra Sayıları (الْأَعْدَادُ التَّرْتِيبِيَّةُ: الْأَوَّلُ، الثَّانِي… الْعِشْرُونَ)",
+      "arBaslik": "الْأَعْدَادُ التَّرْتِيبِيَّةُ (الْأَوَّلُ – الْعِشْرُونَ)",
+      "formul": "İsim + Sıra Sayısı (Sıfat gibi 4 yönden tam uyum!) | 2–10: فَاعِلٌ / فَاعِلَةٌ | 11–19: الْحَادِيَ عَشَرَ … التَّاسِعَ عَشَرَ",
+      "mantik": "Şimdi 'kaç tane?' sorusundan 'kaçıncı?' sorusuna geçiyoruz! Sıra sayıları (1., 2., 3., 11., 20.) Arapçada tamamen bir SIFAT (نَعْتٌ) gibi davranır; yani zıtlık karmaşası BURADA YOKTUR! Önündeki isme cinsiyet, belirlilik ve i'rab bakımından %100 UYAR! Sadece 1.…"
+    },
+    {
+      "id": "m23_g5",
+      "moduleId": "23",
+      "cefr": "A2",
+      "baslik": "Mansub Munfasıl Zamirler (الضَّمَائِرُ الْمُنْفَصِلَةُ الْمَنْصُوبَةُ: إِيَّاكَ / إِيَّاهُ)",
+      "arBaslik": "الضَّمَائِرُ الْمُنْفَصِلَةُ الْمَنْصُوبَةُ (إِيَّاكَ / إِيَّاهُ) وَأُسْلُوبُ التَّحْذِيرِ",
+      "formul": "إِيَّا + Zamir = Ayrı Nesne | ① إِيَّاكَ + Fiil (Hasr) | ② Fiil + Zamir + إِيَّاهُ | ③ إِيَّاكَ وَ + İsim / إِيَّاكَ أَنْ + Muzâri (Tahzîr)",
+      "mantik": "Modül 04'te merfû ayrı zamirleri (هُوَ، أَنْتَ، أَنَا), Modül 10'da ise fiile bitişen nesne zamirlerini (رَأَيْتُهُ، أَعْطَيْتُكَ) öğrenmiştin. Peki bir nesne zamirini fiilden AYRI yazmak istediğimizde ne yaparız? Arapça burada çok şık bir taşıyıcı kelime kull…"
     }
   ],
   "quickPractice": [
@@ -4002,6 +4137,456 @@
       ],
       "dogruIndeks": 0,
       "aciklama": "Marife+cer ← الْمَدِينَةِ; eril ← تَارِيخُهَا → الْعَرِيقِ!"
+    },
+    {
+      "id": "atlas_m21_g1_t01",
+      "moduleId": "21",
+      "kategori": "Nahiv",
+      "soru": "«كَانَ الْمُهَنْدِسُونَ ___ فِي الْمَشْرُوعِ.» — Kâne'nin doğru mansub haberi hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "مُتَعَاوِنِينَ",
+        "مُتَعَاوِنُونَ",
+        "مُتَعَاوِنَانِ",
+        "مُتَعَاوِنًا"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Cemi müzekker sâlim Kâne'nin haberi olunca yâ ile mansub olur: مُتَعَاوِنِينَ!"
+    },
+    {
+      "id": "atlas_m21_g1_t02",
+      "moduleId": "21",
+      "kategori": "Nahiv",
+      "soru": "«كَانَتِ الطَّالِبَاتُ ___ بِالنَّتِيجَةِ.» — Cemi müennes mansub haber hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "مَسْرُورَاتٍ",
+        "مَسْرُورَاتٌ",
+        "مَسْرُورَاتًا",
+        "مَسْرُورِينَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Cemi müennes sâlim kesra ile mansub olur: مَسْرُورَاتٍ!"
+    },
+    {
+      "id": "atlas_m21_g2_t01",
+      "moduleId": "21",
+      "kategori": "Nahiv",
+      "soru": "«مَا زَالَ الطُّلَّابُ ___ فِي قَاعَةِ الْمُطَالَعَةِ.» ('Öğrenciler hâlâ okuma salonunda hazırlar.')",
+      "soruAr": "",
+      "secenekler": [
+        "مَوْجُودِينَ",
+        "مَوْجُودُونَ",
+        "مَوْجُودًا",
+        "مَوْجُودَانِ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "مَا زَالَ Kâne kardeşidir → çoğul haberi yâ ile mansub olur: مَوْجُودِينَ!"
+    },
+    {
+      "id": "atlas_m21_g2_t02",
+      "moduleId": "21",
+      "kategori": "Nahiv",
+      "soru": "«مَا زَالَ الْأَمَلُ حَيًّا.» cümlesinin doğru Türkçe anlamı nedir?",
+      "soruAr": "",
+      "secenekler": [
+        "Umut hâlâ canlıdır (olumludur!)",
+        "Umut canlı değildir",
+        "Umut bitti",
+        "Umut olmayacak"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "مَا زَالَ / لَا يَزَالُ = 'hâlâ' (olumlu süreklilik bildirir!)."
+    },
+    {
+      "id": "atlas_m21_g3_t01",
+      "moduleId": "21",
+      "kategori": "Nahiv",
+      "soru": "'Sen aradığında ben ders çalışıyordum.' (Şimdiki hikâye) hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "كُنْتُ أَدْرُسُ عِنْدَمَا اتَّصَلْتَ.",
+        "كُنْتُ دَرَسْتُ عِنْدَمَا اتَّصَلْتَ.",
+        "كُنْتُ يَدْرُسُ عِنْدَمَا اتَّصَلْتَ.",
+        "كَانَ أَدْرُسُ عِنْدَمَا اتَّصَلْتَ."
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "كُنْتُ + أَدْرُسُ (her iki fiil 1. tekil!) = 'çalışıyordum'!"
+    },
+    {
+      "id": "atlas_m21_g3_t02",
+      "moduleId": "21",
+      "kategori": "Nahiv",
+      "soru": "'Vardığımızda toplantı çoktan bitmişti.' (Miş'li geçmiş) hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "عِنْدَمَا وَصَلْنَا، كَانَ الِاجْتِمَاعُ قَدِ انْتَهَى.",
+        "عِنْدَمَا وَصَلْنَا، كَانَ الِاجْتِمَاعُ يَنْتَهِي.",
+        "عِنْدَمَا وَصَلْنَا، سَيَكُونُ الِاجْتِمَاعُ انْتَهَى.",
+        "عِنْدَمَا وَصَلْنَا، لَيْسَ الِاجْتِمَاعُ انْتَهَى."
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "'-mıştı' = كَانَ + قَدْ + mâzi (كَانَ الِاجْتِمَاعُ قَدِ انْتَهَى)!"
+    },
+    {
+      "id": "atlas_m21_g4_t01",
+      "moduleId": "21",
+      "kategori": "Nahiv",
+      "soru": "«كَانَ فِي الْقَاعَةِ ___ مِنْ مُخْتَلِفِ الدُّوَلِ.» — Sona kalmış Kâne'nin ismi hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "مُشَارِكُونَ",
+        "مُشَارِكِينَ",
+        "مُشَارِكًا",
+        "مُشَارِكَيْنِ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "فِي الْقَاعَةِ öne geçmiş haberdir; boşluk Kâne'nin MERFÛ ismidir: مُشَارِكُونَ!"
+    },
+    {
+      "id": "atlas_m21_g4_t02",
+      "moduleId": "21",
+      "kategori": "Nahiv",
+      "soru": "«لَيْسَ عِنْدِي ___ الْيَوْمَ لِلنُّزْهَةِ.» ('Bugün gezinti için vaktim yok.')",
+      "soruAr": "",
+      "secenekler": [
+        "وَقْتٌ",
+        "وَقْتًا",
+        "وَقْتٍ",
+        "الْوَقْتَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "عِنْدِي öne geçmiş haber, وَقْتٌ sona kalmış MERFÛ isimdir!"
+    },
+    {
+      "id": "atlas_m21_g5_t01",
+      "moduleId": "21",
+      "kategori": "Nahiv",
+      "soru": "«اَلنِّظَامُ يَشْمَلُ الْجَمِيعَ سَوَاءٌ أَكَانَ طَالِبًا ___ مُعَلِّمًا.» — YDS bağlaç eşleşmesi hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "أَمْ",
+        "وَلٰكِنْ",
+        "بَلْ",
+        "ثُمَّ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "سَوَاءٌ أَكَانَ ... أَمْ ('ister ... ister ...') kesin YDS eşleşmesidir!"
+    },
+    {
+      "id": "atlas_m21_g5_t02",
+      "moduleId": "21",
+      "kategori": "Nahiv",
+      "soru": "«بَذَلَ الْفَرِيقُ جُهْدًا كَبِيرًا فَكَانَ ___.» (Tâm Kâne: 'Böylece zafer gerçekleşti!')",
+      "soruAr": "",
+      "secenekler": [
+        "النَّصْرُ (merfû fâil!)",
+        "النَّصْرَ",
+        "النَّصْرِ",
+        "نَصْرًا"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Tâm Kâne ('gerçekleşti') sadece merfû fâil alır: فَكَانَ النَّصْرُ!"
+    },
+    {
+      "id": "atlas_m22_g1_t01",
+      "moduleId": "22",
+      "kategori": "Nahiv",
+      "soru": "«إِنَّ ___ مُتَعَاوِنُونَ فِي الْمَشْرُوعِ.» — İnne'nin doğru mansub ismi hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "الْمُهَنْدِسِينَ",
+        "الْمُهَنْدِسُونَ",
+        "الْمُهَنْدِسَانِ",
+        "الْمُهَنْدِسُ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Cemi müzekker sâlim İnne'nin ismi olunca yâ ile mansub olur: الْمُهَنْدِسِينَ!"
+    },
+    {
+      "id": "atlas_m22_g1_t02",
+      "moduleId": "22",
+      "kategori": "Nahiv",
+      "soru": "«إِنَّ الطَّالِبَاتِ ___ فِي دُرُوسِهِنَّ.» — İnne'nin doğru merfû haberi hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "مُجْتَهِدَاتٌ",
+        "مُجْتَهِدَاتٍ",
+        "مُجْتَهِدَاتًا",
+        "مُجْتَهِدُونَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "İnne'nin ismi kesrayla mansub (الطَّالِبَاتِ), haberi dammeyle MERFÛDUR: مُجْتَهِدَاتٌ!"
+    },
+    {
+      "id": "atlas_m22_g2_t01",
+      "moduleId": "22",
+      "kategori": "Nahiv",
+      "soru": "«___ الْعَاصِفَةَ تَهْدَأُ غَدًا فَنُسَافِرَ بِسَلَامٍ!» (Gerçekleşmesi mümkün umut: 'Umarım!')",
+      "soruAr": "",
+      "secenekler": [
+        "لَعَلَّ",
+        "لَيْتَ",
+        "كَأَنَّ",
+        "لٰكِنَّ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Geleceğe yönelik mümkün ümit ve beklenti → لَعَلَّ!"
+    },
+    {
+      "id": "atlas_m22_g2_t02",
+      "moduleId": "22",
+      "kategori": "Nahiv",
+      "soru": "«___ أَيَّامَ الطُّفُولَةِ تَرْجِعُ لَحْظَةً وَاحِدَةً!» (Geçmişe imkânsız özlem: 'Keşke!')",
+      "soruAr": "",
+      "secenekler": [
+        "لَيْتَ",
+        "لَعَلَّ",
+        "لِأَنَّ",
+        "كَأَنَّ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Gerçekleşmesi imkânsız veya çok zor dilek → لَيْتَ!"
+    },
+    {
+      "id": "atlas_m22_g3_t01",
+      "moduleId": "22",
+      "kategori": "Nahiv",
+      "soru": "«قَالَ الْمُعَلِّمُ ___ الِامْتِحَانَ سَهْلٌ.» — قَالَ fiilinden sonra doğru okunuş hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "إِنَّ",
+        "أَنَّ",
+        "أَنْ",
+        "لِأَنَّ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "قَالَ / يَقُولُ / قِيلَ fiillerinden sonra daima kesralı إِنَّ okunur!"
+    },
+    {
+      "id": "atlas_m22_g3_t02",
+      "moduleId": "22",
+      "kategori": "Nahiv",
+      "soru": "«عَلِمْتُ ___ الصَّدِيقَ قَدْ وَصَلَ بِسَلَامٍ.» — عَلِمْتُ fiilinden sonra hangisi doğrudur?",
+      "soruAr": "",
+      "secenekler": [
+        "أَنَّ",
+        "إِنَّ",
+        "أَنْ",
+        "إِنْ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "عَلِمْتُ + müevvel mastar (عَلِمْتُ وُصُولَ الصَّدِيقِ) → fethalı أَنَّ!"
+    },
+    {
+      "id": "atlas_m22_g4_t01",
+      "moduleId": "22",
+      "kategori": "Nahiv",
+      "soru": "«إِنَّمَا ___ مَاهِرُونَ فِي عَمَلِهِمْ.» — إِنَّمَا (Mâ-i Kâffe) sonrası doğru isim hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "الْمُهَنْدِسُونَ",
+        "الْمُهَنْدِسِينَ",
+        "الْمُهَنْدِسَيْنِ",
+        "الْمُهَنْدِسَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "مَا الْكَافَّةُ إِنَّ'nin amelini durdurur → mübtedâ vâv ile MERFÛ gelir: الْمُهَنْدِسُونَ!"
+    },
+    {
+      "id": "atlas_m22_g4_t02",
+      "moduleId": "22",
+      "kategori": "Nahiv",
+      "soru": "«إِنَّ الْكِتَابَ ___ صَدِيقٌ وَفِيٌّ!» — Çifte vurgu katan Te'kîd Lâmı ile doğru yazım hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "لَصَدِيقٌ (fethalı لَـ + merfû haber)",
+        "لِصَدِيقٍ",
+        "لَصَدِيقًا",
+        "لِصَدِيقٌ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Te'kîd Lâmı (اللَّامُ الْمُزَحْلَقَةُ) fethalıdır ve haberi merfû bırakır: لَصَدِيقٌ!"
+    },
+    {
+      "id": "atlas_m22_g5_t01",
+      "moduleId": "22",
+      "kategori": "Nahiv",
+      "soru": "«إِنَّ هُنَاكَ ___ كَبِيرًا فِي نَجَاحِ الْمَشْرُوعِ.» — Sona kalmış İnne'nin ismi hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "أَمَلًا",
+        "أَمَلٌ",
+        "أَمَلٍ",
+        "الْأَمَلُ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "هُنَاكَ öne geçmiş haber, أَمَلًا ise İnne'nin sona kalmış MANSUB ismidir!"
+    },
+    {
+      "id": "atlas_m22_g5_t02",
+      "moduleId": "22",
+      "kategori": "Nahiv",
+      "soru": "«كَانَ هُنَاكَ أَمَلٌ» ile «إِنَّ هُنَاكَ أَمَلًا» arasındaki hareke farkının sebebi nedir?",
+      "soruAr": "",
+      "secenekler": [
+        "İkisinde de أَمَل gecikmiş İSİMDİR; Kâne ismini MERFÛ, İnne ise MANSUB yapar!",
+        "İlki fâildir",
+        "İkincisi haberdir",
+        "Rastgeledir"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Kâne'nin ismi = merfû (أَمَلٌ); İnne'nin ismi = mansub (أَمَلًا)!"
+    },
+    {
+      "id": "atlas_m23_t1",
+      "moduleId": "23",
+      "kategori": "Nahiv & Pratik",
+      "soru": "'فِي الصَّفِّ ..... طَالِبًا.' (Sınıfta on bir erkek öğrenci var) boşluğuna ne gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "أَحَدَ عَشَرَ",
+        "إِحْدَى عَشْرَةَ",
+        "أَحَدٌ عَشَرَ",
+        "وَاحِدَ عَشَرَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "طَالِبًا müzekkerdir; 11 sayısının müzekkeri her iki parçası fetha mebnî olan أَحَدَ عَشَرَ şeklindedir."
+    },
+    {
+      "id": "atlas_m23_t2",
+      "moduleId": "23",
+      "kategori": "Nahiv & Pratik",
+      "soru": "'اِشْتَرَيْتُ ..... كِتَابًا.' (On iki kitap aldım) boşluğuna doğru i'rablı biçim hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "اثْنَيْ عَشَرَ",
+        "اثْنَا عَشَرَ",
+        "اثْنَتَيْ عَشْرَةَ",
+        "اثْنَتَا عَشْرَةَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "كِتَابًا müzekker ve mef'ûlün bih (mansub) konumdadır; 12'nin ilk parçası tesniye gibi yâ ile mansub olur: اثْنَيْ عَشَرَ."
+    },
+    {
+      "id": "atlas_m23_t11",
+      "moduleId": "23",
+      "kategori": "Nahiv & Pratik",
+      "soru": "'قَرَأْتُ ..... كِتَابًا هٰذَا الْعَامَ.' (Bu yıl yirmi kitap okudum) boşluğuna ne gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "عِشْرِينَ",
+        "عِشْرُونَ",
+        "عِشْرِينٌ",
+        "عَشْرِينَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Mef'ûlün bih (mansub) konumda olduğu için عِشْرُونَ → عِشْرِينَ (yâ ile mansub) olur."
+    },
+    {
+      "id": "atlas_m23_t12",
+      "moduleId": "23",
+      "kategori": "Nahiv & Pratik",
+      "soru": "'فِي الْفَصْلِ ..... طَالِبًا.' (Sınıfta otuz beş erkek öğrenci var) boşluğuna hangisi gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "خَمْسَةٌ وَثَلَاثُونَ",
+        "خَمْسٌ وَثَلَاثُونَ",
+        "خَمْسَةً وَثَلَاثِينَ",
+        "ثَلَاثُونَ وَخَمْسَةٌ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Mübteda-i muahhar (merfû), طَالِبًا müzekker olduğu için 5 zıt (خَمْسَةٌ) + وَ + 30 (ثَلَاثُونَ)."
+    },
+    {
+      "id": "atlas_m23_t21",
+      "moduleId": "23",
+      "kategori": "Nahiv & Pratik",
+      "soru": "'فِي الْقَاعَةِ مِئَةُ ..... .' (Salonda yüz öğrenci var) boşluğuna ne gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "طَالِبٍ",
+        "طَالِبًا",
+        "طُلَّابٍ",
+        "طَالِبٌ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "مِئَةُ ve أَلْفُ sayılarının temyîzi izâfet nedeniyle daima tekil mecrûrdur: مِئَةُ طَالِبٍ."
+    },
+    {
+      "id": "atlas_m23_t22",
+      "moduleId": "23",
+      "kategori": "Nahiv & Pratik",
+      "soru": "'دَفَعْتُ ..... لِيرَةٍ ثَمَنًا لِلْمِعْطَفِ.' (Palto bedeli olarak iki yüz lira ödedim) boşluğuna ne gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "مِئَتَيْ",
+        "مِئَتَا",
+        "مِئَتَيْنِ",
+        "مِئَتَانِ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Mef'ûlün bih (mansub) ve لِيرَةٍ kelimesine muzâf olduğu için hem yâ ile mansub hem nûnsuzdur: مِئَتَيْ."
+    },
+    {
+      "id": "atlas_m23_t31",
+      "moduleId": "23",
+      "kategori": "Nahiv & Pratik",
+      "soru": "'قَرَأْتُ الصَّفْحَةَ ..... مِنَ الْكِتَابِ.' (Kitabın birinci sayfasını okudum) boşluğuna ne gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "الْأُولَى",
+        "الْأَوَّلَ",
+        "الْأَوَّلَةَ",
+        "الْوَاحِدَةَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "الصَّفْحَةَ müennestir; الْأَوَّلُ kelimesinin müennesi الْأُولَى'dır."
+    },
+    {
+      "id": "atlas_m23_t32",
+      "moduleId": "23",
+      "kategori": "Nahiv & Pratik",
+      "soru": "'مَكْتَبُ الْمُدِيرِ فِي الطَّابِقِ ..... .' (Müdürün ofisi altıncı kattadır) boşluğuna ne gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "السَّادِسِ",
+        "السَّاتِسِ",
+        "السَّادِسَةِ",
+        "السِّتَّةِ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "الطَّابِقِ müzekker mecrûrdur; 6. sıra sayısı س-د-س kökünden السَّادِسِ gelir."
+    },
+    {
+      "id": "atlas_m23_t41",
+      "moduleId": "23",
+      "kategori": "Nahiv & Pratik",
+      "soru": "'..... نَعْبُدُ وَ..... نَسْتَعِينُ.' (Yalnızca Sana kulluk eder, yalnızca Senden yardım dileriz) boşluklarına ne gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "إِيَّاكَ / إِيَّاكَ",
+        "أَنْتَ / أَنْتَ",
+        "إِيَّاهُ / إِيَّاهُ",
+        "كَ / كَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Öne alınmış mansub munfasıl zamir hasr (yalnızca) anlamı verir: إِيَّاكَ."
+    },
+    {
+      "id": "atlas_m23_t42",
+      "moduleId": "23",
+      "kategori": "Nahiv & Pratik",
+      "soru": "'طَلَبْتَ مِنِّي الْقَامُوسَ فَأَعْطَيْتُكَ ..... .' (Benden sözlüğü istedin, ben de onu sana verdim) boşluğuna ne gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "إِيَّاهُ",
+        "هُوَ",
+        "إِيَّاهَا",
+        "إِيَّاكَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "الْقَامُوسَ müzekker tekildir; ikinci nesne olarak ayrı mansub zamir إِيَّاهُ gelir."
     }
   ]
 }

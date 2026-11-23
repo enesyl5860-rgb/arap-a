@@ -116,14 +116,28 @@ async function run() {
     await page.getByRole('button', { name: '10 Diyalog (10)', exact: true }).click();
     await page.waitForFunction(() => document.body.textContent.includes('Üniversite Kayıt Masasında Tanışma'), { timeout: 5000 });
 
-    // Modül 11 lazy yükleme doğrulama
+    // A2 Büyük Finali tam doğrulama
+    await page.waitForSelector('#btn-select-final_a2');
+    await page.click('#btn-select-final_a2');
+    await page.waitForFunction(() => document.body.textContent.includes('20 Soruluk Sınav (20)'), { timeout: 8000 });
+    await page.getByRole('button', { name: '10 Okuma (10)', exact: true }).click();
+    await page.waitForFunction(() => document.body.textContent.includes('Arapça Sözlüğün Anahtarı: Sülâsî Altı Bab'), { timeout: 5000 });
+    await page.getByRole('button', { name: '10 Diyalog (10)', exact: true }).click();
+    await page.waitForFunction(() => document.body.textContent.includes('Kök Sözlüğü ve Altı Bab Çalışması'), { timeout: 5000 });
+
+    // Modül 11 ve Modül 23 lazy yükleme doğrulama
     await page.selectOption('#select-active-module', '11');
     await page.click('#nav-grammar');
     await page.waitForFunction(() => document.body.textContent.includes('Modül 11'), { timeout: 8000 });
 
-    // Cilt 1 PDF erişilebilirlik kontrolü
-    const pdfRes = await fetch(`${URL}/pdf/arapca-kulliyati-cilt-1.pdf`, { method: 'HEAD' });
-    if (!pdfRes.ok) throw new Error(`Cilt 1 PDF sunulamadı: HTTP ${pdfRes.status}`);
+    await page.selectOption('#select-active-module', '23');
+    await page.waitForFunction(() => document.body.textContent.includes('Modül 23'), { timeout: 8000 });
+
+    // Cilt 1 & Cilt 2 PDF erişilebilirlik kontrolü
+    const pdfRes1 = await fetch(`${URL}/pdf/arapca-kulliyati-cilt-1.pdf`, { method: 'HEAD' });
+    if (!pdfRes1.ok) throw new Error(`Cilt 1 PDF sunulamadı: HTTP ${pdfRes1.status}`);
+    const pdfRes2 = await fetch(`${URL}/pdf/arapca-kulliyati-cilt-2.pdf`, { method: 'HEAD' });
+    if (!pdfRes2.ok) throw new Error(`Cilt 2 PDF sunulamadı: HTTP ${pdfRes2.status}`);
 
     // 8) Referans Atlası & YDS Laboratuvarı
     await page.click('#nav-atlas');
@@ -150,7 +164,7 @@ async function run() {
       throw new Error(`Tarayıcı hataları: console=${JSON.stringify(consoleErrors)}, page=${JSON.stringify(pageErrors)}`);
     }
 
-    console.log('PLAYWRIGHT E2E BAŞARILI! 8 bölüm, lazy loading (M01, M02, M11), A1 Büyük Finali (10 Diyalog/10 Okuma/20 Soru), Cilt 1 PDF, 3 hareke modu, SRS, Ctrl+K, tema ve yedekleme %100 geçti (0 hata).');
+    console.log('PLAYWRIGHT E2E BAŞARILI! 8 bölüm, lazy loading (M01, M02, M11, M23), A1 & A2 Büyük Finalleri, Cilt 1 & Cilt 2 PDF, 3 hareke modu, SRS, Ctrl+K, tema ve yedekleme %100 geçti (0 hata).');
   } finally {
     server.kill('SIGTERM');
   }

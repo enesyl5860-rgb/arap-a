@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-23T08:11:37.945Z",
-  "totalItems": 807,
+  "generatedAt": "2026-11-23T08:43:04.930Z",
+  "totalItems": 918,
   "items": [
     {
       "id": "search_mod_01",
@@ -7796,6 +7796,1101 @@
       "subtitle": "Gramer Kuralı · M20",
       "ar": "النَّعْتُ السَّبَبِيُّ وَتَعَدُّدُ الْخَبَرِ وَالنَّعْتِ",
       "keywords": "Sebebî Sıfat: İ'rab & Belirlilik ← Öndeki İsim | Cinsiyet → Arkadaki İsim (Merfû Fâil!) | Sayı: Daima TEKİL! Modülümüzün zirvesinde, hem Kur'an'da hem de yüksek edebî ve YDS Arapçasında çok şık bir kullanım olan iki ileri kural v"
+    },
+    {
+      "id": "search_card_m21_fc01",
+      "type": "card",
+      "moduleId": "21",
+      "title": "İdi / olmak / ol! (Nâkıs fiillerin başı) (Kâne — yekûnu — kun)",
+      "subtitle": "SRS Kartı · M21 · Kök: ك و ن",
+      "ar": "كَانَ — يَكُونُ — كُنْ",
+      "kok": "ك و ن",
+      "keywords": "كان — يكون — كن فَعَلَ (أَجْوَف) Fiil"
+    },
+    {
+      "id": "search_card_m21_fc02",
+      "type": "card",
+      "moduleId": "21",
+      "title": "... hâline geldi / oldu (Modern Arapçada en sık!) (Asbeha — yusbihu)",
+      "subtitle": "SRS Kartı · M21 · Kök: ص ب ح",
+      "ar": "أَصْبَحَ — يُصْبِحُ",
+      "kok": "ص ب ح",
+      "keywords": "أصبح — يصبح أَفْعَلَ (IV) Fiil"
+    },
+    {
+      "id": "search_card_m21_fc03",
+      "type": "card",
+      "moduleId": "21",
+      "title": "Dönüştü / oldu (Sâra — yasîru)",
+      "subtitle": "SRS Kartı · M21 · Kök: ص ي ر",
+      "ar": "صَارَ — يَصِيرُ",
+      "kok": "ص ي ر",
+      "keywords": "صار — يصير فَعَلَ (أَجْوَف) Fiil"
+    },
+    {
+      "id": "search_card_m21_fc04",
+      "type": "card",
+      "moduleId": "21",
+      "title": "Hep / gün boyu ... kaldı / olmaya devam etti (Zalle — yezallu)",
+      "subtitle": "SRS Kartı · M21 · Kök: ظ ل ل",
+      "ar": "ظَلَّ — يَظَلُّ",
+      "kok": "ظ ل ل",
+      "keywords": "ظل — يظل فَعِلَ (مُضَعَّف) Fiil"
+    },
+    {
+      "id": "search_card_m21_fc05",
+      "type": "card",
+      "moduleId": "21",
+      "title": "Artık ... hâline geldi (Klasikte: geceledi) (Bâte — yebîtu)",
+      "subtitle": "SRS Kartı · M21 · Kök: ب ي ت",
+      "ar": "بَاتَ — يَبِيتُ",
+      "kok": "ب ي ت",
+      "keywords": "بات — يبيت فَعَلَ (أَجْوَف) Fiil"
+    },
+    {
+      "id": "search_card_m21_fc06",
+      "type": "card",
+      "moduleId": "21",
+      "title": "Akşamladı / (akşam) ... hâline geldi (Emsâ — yumsî)",
+      "subtitle": "SRS Kartı · M21 · Kök: م س و",
+      "ar": "أَمْسَى — يُمْسِي",
+      "kok": "م س و",
+      "keywords": "أمسى — يمسي أَفْعَلَ (IV + نَاقِص) Fiil"
+    },
+    {
+      "id": "search_card_m21_fc07",
+      "type": "card",
+      "moduleId": "21",
+      "title": "Değildir (İsim cümlesini olumsuz yapan nâkıs fiil) (Leyse)",
+      "subtitle": "SRS Kartı · M21 · Kök: ل ي س",
+      "ar": "لَيْسَ",
+      "kok": "ل ي س",
+      "keywords": "ليس فِعْلٌ جَامِدٌ Fiil"
+    },
+    {
+      "id": "search_card_m21_fc08",
+      "type": "card",
+      "moduleId": "21",
+      "title": "Hâlâ (...-meye devam ediyor!) (Mâ zâle / Lâ yezâlu)",
+      "subtitle": "SRS Kartı · M21 · Kök: ز و ل",
+      "ar": "مَا زَالَ / لَا يَزَالُ",
+      "kok": "ز و ل",
+      "keywords": "ما زال / لا يزال فِعْلُ اسْتِمْرَارٍ Kalıp"
+    },
+    {
+      "id": "search_card_m21_fc09",
+      "type": "card",
+      "moduleId": "21",
+      "title": "... olduğu sürece / müddetçe (Mâ dâme)",
+      "subtitle": "SRS Kartı · M21 · Kök: د و م",
+      "ar": "مَا دَامَ",
+      "kok": "د و م",
+      "keywords": "ما دام مَا الْمَصْدَرِيَّةُ + دَامَ Kalıp"
+    },
+    {
+      "id": "search_card_m21_fc10",
+      "type": "card",
+      "moduleId": "21",
+      "title": "Hâlâ (مَا زَالَ'nin edebî eş anlamlıları) (Mâ beriha / Menfekke / Mâ fetie)",
+      "subtitle": "SRS Kartı · M21 · Kök: ب ر ح",
+      "ar": "مَا بَرِحَ / مَا انْفَكَّ / مَا فَتِئَ",
+      "kok": "ب ر ح",
+      "keywords": "ما برح / ما انفك / ما فتئ أَفْعَالُ اسْتِمْرَارٍ Kalıp"
+    },
+    {
+      "id": "search_card_m21_fc11",
+      "type": "card",
+      "moduleId": "21",
+      "title": "-yordu / eskiden -rdı (Şimdiki/geniş hikâye) (Kâne + el-mudâri‘u)",
+      "subtitle": "SRS Kartı · M21 · Kök: ك و ن",
+      "ar": "كَانَ + الْمُضَارِعُ",
+      "kok": "ك و ن",
+      "keywords": "كان + المضارع زَمَنٌ مُرَكَّبٌ Kalıp"
+    },
+    {
+      "id": "search_card_m21_fc12",
+      "type": "card",
+      "moduleId": "21",
+      "title": "-mıştı (Miş'li geçmiş zaman) (Kâne kad + el-mâdî)",
+      "subtitle": "SRS Kartı · M21 · Kök: ك و ن",
+      "ar": "كَانَ قَدْ + الْمَاضِي",
+      "kok": "ك و ن",
+      "keywords": "كان قد + الماضي زَمَنٌ مُرَكَّبٌ Kalıp"
+    },
+    {
+      "id": "search_card_m21_fc13",
+      "type": "card",
+      "moduleId": "21",
+      "title": "-mış olacak (Gelecekte tamamlanmış zaman) (Se-yekûnu kad + el-mâdî)",
+      "subtitle": "SRS Kartı · M21 · Kök: ك و ن",
+      "ar": "سَيَكُونُ قَدْ + الْمَاضِي",
+      "kok": "ك و ن",
+      "keywords": "سيكون قد + الماضي زَمَنٌ مُرَكَّبٌ Kalıp"
+    },
+    {
+      "id": "search_card_m21_fc14",
+      "type": "card",
+      "moduleId": "21",
+      "title": "İster ... olsun ister ... olsun (Sevâun e-kâne ... em)",
+      "subtitle": "SRS Kartı · M21 · Kök: س و ي",
+      "ar": "سَوَاءٌ أَكَانَ ... أَمْ",
+      "kok": "س و ي",
+      "keywords": "سواء أكان ... أم تَرْكِيبُ تَسْوِيَةٍ Kalıp"
+    },
+    {
+      "id": "search_card_m21_fc15",
+      "type": "card",
+      "moduleId": "21",
+      "title": "Her ne olursa olsun / ne kadar ... olursa olsun (Mehmâ yekun / Mehmâ kânet)",
+      "subtitle": "SRS Kartı · M21 · Kök: ك و ن",
+      "ar": "مَهْمَا يَكُنْ / مَهْمَا كَانَتْ",
+      "kok": "ك و ن",
+      "keywords": "مهما يكن / مهما كانت أُسْلُوبُ شَرْطٍ Kalıp"
+    },
+    {
+      "id": "search_card_m21_fc16",
+      "type": "card",
+      "moduleId": "21",
+      "title": "Tâm Kâne ('var oldu / gerçekleşti') (Kâne et-tâmmetu)",
+      "subtitle": "SRS Kartı · M21 · Kök: ت م م",
+      "ar": "كَانَ التَّامَّةُ",
+      "kok": "ت م م",
+      "keywords": "كان التامة مُصْطَلَح نَحْوِيّ Terim"
+    },
+    {
+      "id": "search_card_m21_fc17",
+      "type": "card",
+      "moduleId": "21",
+      "title": "... yoktur (Öne geçmiş haber + merfû isim!) (Leyse hunâke)",
+      "subtitle": "SRS Kartı · M21 · Kök: ل ي س",
+      "ar": "لَيْسَ هُنَاكَ + مَرْفُوع",
+      "kok": "ل ي س",
+      "keywords": "ليس هناك تَرْكِيب نَفْيٍ Kalıp"
+    },
+    {
+      "id": "search_card_m21_fc18",
+      "type": "card",
+      "moduleId": "21",
+      "title": "Beklendiği gibi (Kemâ kâne mutevakka‘an)",
+      "subtitle": "SRS Kartı · M21 · Kök: و ق ع",
+      "ar": "كَمَا كَانَ مُتَوَقَّعًا",
+      "kok": "و ق ع",
+      "keywords": "كما كان متوقعا عِبَارَة صِحَافِيَّة Kalıp"
+    },
+    {
+      "id": "search_card_m21_fc19",
+      "type": "card",
+      "moduleId": "21",
+      "title": "... geldiğinde / ... itibarıyla (by the time) (Bi-hulûli)",
+      "subtitle": "SRS Kartı · M21 · Kök: ح ل ل",
+      "ar": "بِحُلُولِ",
+      "kok": "ح ل ل",
+      "keywords": "بحلول بِـ + فُعُول Zarf"
+    },
+    {
+      "id": "search_card_m21_fc20",
+      "type": "card",
+      "moduleId": "21",
+      "title": "Gelişen / müreffeh / parlak (Muzdehirun)",
+      "subtitle": "SRS Kartı · M21 · Kök: ز ه ر",
+      "ar": "مُزْدَهِرٌ",
+      "kok": "ز ه ر",
+      "keywords": "مزدهر مُفْتَعِل (VIII) Sıfat"
+    },
+    {
+      "id": "search_card_m21_fc21",
+      "type": "card",
+      "moduleId": "21",
+      "title": "Sebatkâr / azimli / kararlı (Musâbirun)",
+      "subtitle": "SRS Kartı · M21 · Kök: ث ب ر",
+      "ar": "مُثَابِرٌ",
+      "kok": "ث ب ر",
+      "keywords": "مثابر مُفَاعِل (III) Sıfat"
+    },
+    {
+      "id": "search_card_m21_fc22",
+      "type": "card",
+      "moduleId": "21",
+      "title": "Kalabalık / sıkışık (Muzdahimun)",
+      "subtitle": "SRS Kartı · M21 · Kök: ز ح م",
+      "ar": "مُزْدَحِمٌ",
+      "kok": "ز ح م",
+      "keywords": "مزدحم مُفْتَعِل (VIII) Sıfat"
+    },
+    {
+      "id": "search_card_m21_fc23",
+      "type": "card",
+      "moduleId": "21",
+      "title": "Berrak / açık / saf / temiz (Sâfin / Sâfiyetun)",
+      "subtitle": "SRS Kartı · M21 · Kök: ص ف و",
+      "ar": "صَافٍ (م: صَافِيَةٌ)",
+      "kok": "ص ف و",
+      "keywords": "صاف / صافية فَاعِل (مَنْقُوص) Sıfat"
+    },
+    {
+      "id": "search_card_m21_fc24",
+      "type": "card",
+      "moduleId": "21",
+      "title": "Ağırbaşlı / vakur / saygın (Vekûrun)",
+      "subtitle": "SRS Kartı · M21 · Kök: و ق ر",
+      "ar": "وَقُورٌ",
+      "kok": "و ق ر",
+      "keywords": "وقور فَعُول Sıfat"
+    },
+    {
+      "id": "search_card_m21_fc25",
+      "type": "card",
+      "moduleId": "21",
+      "title": "Geçmişin güzel kokusu / tarihî atmosfer (‘Abaku'l-mâdî)",
+      "subtitle": "SRS Kartı · M21 · Kök: ع ب ق",
+      "ar": "عَبَقُ الْمَاضِي",
+      "kok": "ع ب ق",
+      "keywords": "عبق الماضي إِضَافَة أَدَبِيَّة İsim"
+    },
+    {
+      "id": "search_card_m21_fc26",
+      "type": "card",
+      "moduleId": "21",
+      "title": "Kronik / süreğen (Muzminun)",
+      "subtitle": "SRS Kartı · M21 · Kök: ز م ن",
+      "ar": "مُزْمِنٌ (أَمْرَاضٌ مُزْمِنَةٌ)",
+      "kok": "ز م ن",
+      "keywords": "مزمن مُفْعِل (IV) Sıfat"
+    },
+    {
+      "id": "search_card_m21_fc27",
+      "type": "card",
+      "moduleId": "21",
+      "title": "Korunma tedaviden hayırlıdır (El-vikâyetu hayrun mine'l-‘ilâci)",
+      "subtitle": "SRS Kartı · M21 · Kök: و ق ي",
+      "ar": "اَلْوِقَايَةُ خَيْرٌ مِنَ الْعِلَاجِ",
+      "kok": "و ق ي",
+      "keywords": "الوقاية خير من العلاج حِكْمَة طِبِّيَّة Kalıp"
+    },
+    {
+      "id": "search_card_m21_fc28",
+      "type": "card",
+      "moduleId": "21",
+      "title": "Düzenli sağlık kontrolü / periyodik tarama (Fahsun devriyyun)",
+      "subtitle": "SRS Kartı · M21 · Kök: ف ح ص",
+      "ar": "فَحْصٌ دَوْرِيٌّ",
+      "kok": "ف ح ص",
+      "keywords": "فحص دوري تَرْكِيب وَصْفِيّ İsim"
+    },
+    {
+      "id": "search_card_m21_fc29",
+      "type": "card",
+      "moduleId": "21",
+      "title": "İkincil / tali; (eğitimde) lise (Sâneviyyun)",
+      "subtitle": "SRS Kartı · M21 · Kök: ث ن ي",
+      "ar": "ثَانَوِيٌّ",
+      "kok": "ث ن ي",
+      "keywords": "ثانوي فَاعَلِيّ (مَنْسُوب) Sıfat"
+    },
+    {
+      "id": "search_card_m21_fc30",
+      "type": "card",
+      "moduleId": "21",
+      "title": "Üstesinden gelmek / yenmek / aşmak (Tegallebe — yetegallebu ‘alâ)",
+      "subtitle": "SRS Kartı · M21 · Kök: غ ل ب",
+      "ar": "تَغَلَّبَ — يَتَغَلَّبُ عَلَى",
+      "kok": "غ ل ب",
+      "keywords": "تغلب — يتغلب على تَفَعَّلَ (V) Fiil"
+    },
+    {
+      "id": "search_card_m21_fc31",
+      "type": "card",
+      "moduleId": "21",
+      "title": "Vazgeçmek / bırakmak / terk etmek (Tehallâ — yetehallâ ‘an)",
+      "subtitle": "SRS Kartı · M21 · Kök: خ ل و",
+      "ar": "تَخَلَّى — يَتَخَلَّى عَنْ",
+      "kok": "خ ل و",
+      "keywords": "تخلى — يتخلى عن تَفَعَّلَ (V + نَاقِص) Fiil"
+    },
+    {
+      "id": "search_card_m21_fc32",
+      "type": "card",
+      "moduleId": "21",
+      "title": "Temel direk / dayanak / sütun (Rakîzetun)",
+      "subtitle": "SRS Kartı · M21 · Kök: ر ك ز",
+      "ar": "رَكِيزَةٌ (ج: رَكَائِزُ)",
+      "kok": "ر ك ز",
+      "keywords": "ركيزة فَعِيلَة İsim"
+    },
+    {
+      "id": "search_gram_m21_g1",
+      "type": "grammar",
+      "moduleId": "21",
+      "title": "Kâne'nin Ameli (Ref' – Nasb): İsim Cümlesini Zamanlandırmak!",
+      "subtitle": "Gramer Kuralı · M21",
+      "ar": "عَمَلُ «كَانَ وَأَخَوَاتِهَا» (تَرْفَعُ الِاسْمَ وَتَنْصِبُ الْخَبَرَ)",
+      "keywords": "كَانَ / يَكُونُ / كُنْ + Kâne'nin İsmi (MERFÛ!) + Kâne'nin Haberi (MANSUB!) Normal bir Arapça isim cümlesi (`اَلْجَوُّ جَمِيلٌ` = Hava güzeldir) daima **şimdiki/geniş zamanı** bildirir ve iki öges"
+    },
+    {
+      "id": "search_gram_m21_g2",
+      "type": "grammar",
+      "moduleId": "21",
+      "title": "Kâne'nin Kardeşleri: Dönüşüm (أَصْبَحَ / صَارَ), Süreklilik (مَا زَالَ / ظَلَّ / مَا دَامَ) & لَيْسَ",
+      "subtitle": "Gramer Kuralı · M21",
+      "ar": "أَخَوَاتُ «كَانَ» وَمَعَانِيهَا (التَّحَوُّلُ وَالِاسْتِمْرَارُ وَالنَّفْيُ)",
+      "keywords": "أَصْبَحَ / صَارَ / بَاتَ (Oldu) | ظَلَّ / مَا زَالَ / لَا يَزَالُ (Hâlâ) | مَا دَامَ (...-dığı sürece) | لَيْسَ (Değil) → Ref' + Nasb! Kâne'nin ailesini tek tek ezberlemek yerine 4 anlam grubuna ayırarak 1 dakikada kavrayalım — hepsi **aynı Ref'–Nasb amel"
+    },
+    {
+      "id": "search_gram_m21_g3",
+      "type": "grammar",
+      "moduleId": "21",
+      "title": "Birleşik Zamanlar: كَانَ + Muzâri (-yordu / -rdı) & كَانَ قَدْ + Mâzi (-mıştı)",
+      "subtitle": "Gramer Kuralı · M21",
+      "ar": "الْأَزْمِنَةُ الْمُرَكَّبَةُ: «كَانَ + الْمُضَارِعُ» وَ«كَانَ قَدْ + الْمَاضِي»",
+      "keywords": "كَانَ + Muzâri = -yordu / -rdı  |  كَانَ قَدْ + Mâzi = -mıştı  |  سَيَكُونُ قَدْ + Mâzi = -mış olacak! Modül 09 ve 10'da tekil zamanları (`كَتَبَ` = yazdı, `يَكْتُبُ` = yazıyor/yazar, `سَيَكْتُبُ` = yazacak) öğrendik. Peki "
+    },
+    {
+      "id": "search_gram_m21_g4",
+      "type": "grammar",
+      "moduleId": "21",
+      "title": "Kâne'nin Haber Çeşitleri & Şibh-i Cümle Haberin Öne Geçmesi (كَانَ فِي الْبَيْتِ ضَيْفٌ)",
+      "subtitle": "Gramer Kuralı · M21",
+      "ar": "أَنْوَاعُ خَبَرِ «كَانَ» وَتَقْدِيمُ خَبَرِهَا الشِّبْهِ جُمْلَةِ",
+      "keywords": "كَانَ / لَيْسَ + [Öne Geçmiş Şibh-i Cümle Haber] + [Sona Kalmış MERFÛ İsim!] (Var idi / Yok!) Modül 20'de öğrendiğimiz 4 haber çeşidi (Müfred, İsim Cümlesi, Fiil Cümlesi, Şibh-i Cümle) Kâne ve Kardeşlerinin haberi "
+    },
+    {
+      "id": "search_gram_m21_g5",
+      "type": "grammar",
+      "moduleId": "21",
+      "title": "Tâm Kâne (كَانَ التَّامَّةُ) & YDS Akademik Kâne Kalıpları (مَهْمَا يَكُنْ / سَوَاءٌ أَكَانَ)",
+      "subtitle": "Gramer Kuralı · M21",
+      "ar": "«كَانَ» التَّامَّةُ وَالتَّعَابِيرُ الْأَكَادِيمِيَّةُ («سَوَاءٌ أَكَانَ... أَمْ» / «مَهْمَا يَكُنْ»)",
+      "keywords": "Tâm Kâne = 'Var oldu / gerçekleşti' (Sadece Merfû Fâil!) | سَوَاءٌ أَكَانَ ... أَمْ | مَهْمَا كَانَ Kâne ailesiyle ilgili son ama en yüksek seviye sır şudur: `كَانَ` ve bazı kardeşleri (`أَصْبَحَ، أَمْسَى، بَاتَ، ظَلَّ، "
+    },
+    {
+      "id": "search_card_m22_fc01",
+      "type": "card",
+      "moduleId": "22",
+      "title": "Şüphesiz / Muhakkak / Elbette (İnne)",
+      "subtitle": "SRS Kartı · M22 · Kök: ح ر ف",
+      "ar": "إِنَّ",
+      "kok": "ح ر ف",
+      "keywords": "إن حَرْفُ تَوْكِيدٍ وَنَصْبٍ Edat"
+    },
+    {
+      "id": "search_card_m22_fc02",
+      "type": "card",
+      "moduleId": "22",
+      "title": "...-diğini / ... olduğunu (Yan cümle bağlacı) (Enne)",
+      "subtitle": "SRS Kartı · M22 · Kök: ح ر ف",
+      "ar": "أَنَّ",
+      "kok": "ح ر ف",
+      "keywords": "أن حَرْفٌ مَصْدَرِيٌّ Edat"
+    },
+    {
+      "id": "search_card_m22_fc03",
+      "type": "card",
+      "moduleId": "22",
+      "title": "Sanki / ... gibi (Benzetme) (Ke-enne)",
+      "subtitle": "SRS Kartı · M22 · Kök: ح ر ف",
+      "ar": "كَأَنَّ",
+      "kok": "ح ر ف",
+      "keywords": "كأن حَرْفُ تَشْبِيهٍ Edat"
+    },
+    {
+      "id": "search_card_m22_fc04",
+      "type": "card",
+      "moduleId": "22",
+      "title": "Fakat / Ancak / Ama (İstidrâk) (Lâkinne)",
+      "subtitle": "SRS Kartı · M22 · Kök: ح ر ف",
+      "ar": "لٰكِنَّ",
+      "kok": "ح ر ف",
+      "keywords": "لكن حَرْفُ اسْتِدْرَاكٍ Edat"
+    },
+    {
+      "id": "search_card_m22_fc05",
+      "type": "card",
+      "moduleId": "22",
+      "title": "Keşke! (Gerçekleşmesi zor/imkânsız dilek) (Leyte)",
+      "subtitle": "SRS Kartı · M22 · Kök: ح ر ف",
+      "ar": "لَيْتَ",
+      "kok": "ح ر ف",
+      "keywords": "ليت حَرْفُ تَمَنٍّ Edat"
+    },
+    {
+      "id": "search_card_m22_fc06",
+      "type": "card",
+      "moduleId": "22",
+      "title": "Umulur ki / Umarım / Belki (Mümkün beklenti) (Le‘alle)",
+      "subtitle": "SRS Kartı · M22 · Kök: ح ر ف",
+      "ar": "لَعَلَّ",
+      "kok": "ح ر ف",
+      "keywords": "لعل حَرْفُ تَرَجٍّ Edat"
+    },
+    {
+      "id": "search_card_m22_fc07",
+      "type": "card",
+      "moduleId": "22",
+      "title": "Ancak / Yalnızca / Sadece (Mâ-i Kâffe!) (İnnemâ)",
+      "subtitle": "SRS Kartı · M22 · Kök: ح ر ف",
+      "ar": "إِنَّمَا",
+      "kok": "ح ر ف",
+      "keywords": "إنما أَدَاةُ حَصْرٍ Edat"
+    },
+    {
+      "id": "search_card_m22_fc08",
+      "type": "card",
+      "moduleId": "22",
+      "title": "Kaydırılmış Te'kîd Lâmı ('gerçekten / elbette') (El-lâmu'l-muzahlekatu)",
+      "subtitle": "SRS Kartı · M22 · Kök: ز ح ل ق",
+      "ar": "اَللَّامُ الْمُزَحْلَقَةُ (لَـ)",
+      "kok": "ز ح ل ق",
+      "keywords": "اللام المزحلقة لَامُ التَّوْكِيدِ Terim"
+    },
+    {
+      "id": "search_card_m22_fc09",
+      "type": "card",
+      "moduleId": "22",
+      "title": "... olduğunu söyledi / dedi ki (Kesin kesra!) (Kâle ... inne)",
+      "subtitle": "SRS Kartı · M22 · Kök: ق و ل",
+      "ar": "قَالَ ... إِنَّ",
+      "kok": "ق و ل",
+      "keywords": "قال إن قَاعِدَةٌ نَحْوِيَّةٌ Kalıp"
+    },
+    {
+      "id": "search_card_m22_fc10",
+      "type": "card",
+      "moduleId": "22",
+      "title": "Zira / Çünkü / Şundan dolayı ki (Haysu inne)",
+      "subtitle": "SRS Kartı · M22 · Kök: ح ي ث",
+      "ar": "حَيْثُ إِنَّ",
+      "kok": "ح ي ث",
+      "keywords": "حيث إن أَدَاةُ تَعْلِيلٍ Kalıp"
+    },
+    {
+      "id": "search_card_m22_fc11",
+      "type": "card",
+      "moduleId": "22",
+      "title": "...-mesine rağmen / karşın (‘Ale'r-ragmi min enne / Ragma enne)",
+      "subtitle": "SRS Kartı · M22 · Kök: ر غ م",
+      "ar": "عَلَى الرَّغْمِ مِنْ أَنَّ / رَغْمَ أَنَّ",
+      "kok": "ر غ م",
+      "keywords": "على الرغم من أن / رغم أن أَدَاةُ اسْتِدْرَاكٍ Kalıp"
+    },
+    {
+      "id": "search_card_m22_fc12",
+      "type": "card",
+      "moduleId": "22",
+      "title": "... olmasına rağmen / hâlde (Me‘a enne)",
+      "subtitle": "SRS Kartı · M22 · Kök: م ع",
+      "ar": "مَعَ أَنَّ",
+      "kok": "م ع",
+      "keywords": "مع أن أَدَاةُ اسْتِدْرَاكٍ Kalıp"
+    },
+    {
+      "id": "search_card_m22_fc13",
+      "type": "card",
+      "moduleId": "22",
+      "title": "Ancak / Ne var ki / Fakat (İllâ enne / Gayra enne)",
+      "subtitle": "SRS Kartı · M22 · Kök: غ ي ر",
+      "ar": "إِلَّا أَنَّ / غَيْرَ أَنَّ",
+      "kok": "غ ي ر",
+      "keywords": "إلا أن / غير أن أَدَاةُ اسْتِدْرَاكٍ Kalıp"
+    },
+    {
+      "id": "search_card_m22_fc14",
+      "type": "card",
+      "moduleId": "22",
+      "title": "Ayrıca / Bunun yanı sıra / Üstelik (Kemâ enne)",
+      "subtitle": "SRS Kartı · M22 · Kök: ح ر ف",
+      "ar": "كَمَا أَنَّ",
+      "kok": "ح ر ف",
+      "keywords": "كما أن أَدَاةُ إِضَافَةٍ Kalıp"
+    },
+    {
+      "id": "search_card_m22_fc15",
+      "type": "card",
+      "moduleId": "22",
+      "title": "Çünkü / ... olduğu için (Li-enne)",
+      "subtitle": "SRS Kartı · M22 · Kök: ح ر ف",
+      "ar": "لِأَنَّ",
+      "kok": "ح ر ف",
+      "keywords": "لأن لِـ + أَنَّ Edat"
+    },
+    {
+      "id": "search_card_m22_fc16",
+      "type": "card",
+      "moduleId": "22",
+      "title": "Hiç şüphe yok ki / Şüphesiz (Lâ şekke enne)",
+      "subtitle": "SRS Kartı · M22 · Kök: ش ك ك",
+      "ar": "لَا شَكَّ أَنَّ / فِي أَنَّ",
+      "kok": "ش ك ك",
+      "keywords": "لا شك أن عِبَارَة تَأْكِيدٍ Kalıp"
+    },
+    {
+      "id": "search_card_m22_fc17",
+      "type": "card",
+      "moduleId": "22",
+      "title": "... olduğu bilinmektedir (Mine'l-ma‘rûfi enne)",
+      "subtitle": "SRS Kartı · M22 · Kök: ع ر ف",
+      "ar": "مِنَ الْمَعْرُوفِ أَنَّ",
+      "kok": "ع ر ف",
+      "keywords": "من المعروف أن عِبَارَة أَكَادِيمِيَّة Kalıp"
+    },
+    {
+      "id": "search_card_m22_fc18",
+      "type": "card",
+      "moduleId": "22",
+      "title": "Şüphesiz ... vardır (Gecikmiş MANSUB isim!) (İnne hunâke)",
+      "subtitle": "SRS Kartı · M22 · Kök: ح ر ف",
+      "ar": "إِنَّ هُنَاكَ + مَنْصُوب",
+      "kok": "ح ر ف",
+      "keywords": "إن هناك تَرْكِيب نَحْوِيّ Kalıp"
+    },
+    {
+      "id": "search_card_m22_fc19",
+      "type": "card",
+      "moduleId": "22",
+      "title": "Sabırla/ağırbaşlı hareket ve acelecilik (Et-teennî ve'l-‘aceletu)",
+      "subtitle": "SRS Kartı · M22 · Kök: أ ن ي",
+      "ar": "اَلتَّأَنِّي وَالْعَجَلَةُ",
+      "kok": "أ ن ي",
+      "keywords": "التأني والعجلة تَفَعُّل / فَعَلَة İsim"
+    },
+    {
+      "id": "search_card_m22_fc20",
+      "type": "card",
+      "moduleId": "22",
+      "title": "Dikkatle ve gönülden dinlemek (El-isgâu)",
+      "subtitle": "SRS Kartı · M22 · Kök: ص غ و",
+      "ar": "اَلْإِصْغَاءُ",
+      "kok": "ص غ و",
+      "keywords": "الإصغاء إِفْعَال (IV) İsim"
+    },
+    {
+      "id": "search_card_m22_fc21",
+      "type": "card",
+      "moduleId": "22",
+      "title": "Kanıt / delil / argüman (Huccetun)",
+      "subtitle": "SRS Kartı · M22 · Kök: ح ج ج",
+      "ar": "حُجَّةٌ (ج: حُجَجٌ)",
+      "kok": "ح ج ج",
+      "keywords": "حجة فُعْلَة İsim"
+    },
+    {
+      "id": "search_card_m22_fc22",
+      "type": "card",
+      "moduleId": "22",
+      "title": "İkna etmek (Akna‘a — yukni‘u)",
+      "subtitle": "SRS Kartı · M22 · Kök: ق ن ع",
+      "ar": "أَقْنَعَ — يُقْنِعُ",
+      "kok": "ق ن ع",
+      "keywords": "أقنع — يقنع أَفْعَلَ (IV) Fiil"
+    },
+    {
+      "id": "search_card_m22_fc23",
+      "type": "card",
+      "moduleId": "22",
+      "title": "Anne babaya iyilik ve saygı (Birru'l-vâlideyni)",
+      "subtitle": "SRS Kartı · M22 · Kök: ب ر ر",
+      "ar": "بِرُّ الْوَالِدَيْنِ",
+      "kok": "ب ر ر",
+      "keywords": "بر الوالدين إِضَافَة İsim"
+    },
+    {
+      "id": "search_card_m22_fc24",
+      "type": "card",
+      "moduleId": "22",
+      "title": "Büyüklere saygı ve hürmet (Tevkîru'l-kibâri)",
+      "subtitle": "SRS Kartı · M22 · Kök: و ق ر",
+      "ar": "تَوْقِيرُ الْكِبَارِ",
+      "kok": "و ق ر",
+      "keywords": "توقير الكبار تَفْعِيل (II) İsim"
+    },
+    {
+      "id": "search_card_m22_fc25",
+      "type": "card",
+      "moduleId": "22",
+      "title": "Bilimsel merak (El-fudûlu'l-‘ilmiyyu)",
+      "subtitle": "SRS Kartı · M22 · Kök: ف ض ل",
+      "ar": "اَلْفُضُولُ الْعِلْمِيُّ",
+      "kok": "ف ض ل",
+      "keywords": "الفضول العلمي فُعُول İsim"
+    },
+    {
+      "id": "search_card_m22_fc26",
+      "type": "card",
+      "moduleId": "22",
+      "title": "Sıkı / yakın ilişki (‘Alâkatun vesîkatun)",
+      "subtitle": "SRS Kartı · M22 · Kök: و ث ق",
+      "ar": "عَلَاقَةٌ وَثِيقَةٌ",
+      "kok": "و ث ق",
+      "keywords": "علاقة وثيقة تَرْكِيب وَصْفِيّ İsim"
+    },
+    {
+      "id": "search_card_m22_fc27",
+      "type": "card",
+      "moduleId": "22",
+      "title": "Aşırı / ölçüsüz (Mufritun)",
+      "subtitle": "SRS Kartı · M22 · Kök: ف ر ط",
+      "ar": "مُفْرِطٌ (اِسْتِخْدَامٌ مُفْرِطٌ)",
+      "kok": "ف ر ط",
+      "keywords": "مفرط مُفْعِل (IV) Sıfat"
+    },
+    {
+      "id": "search_card_m22_fc28",
+      "type": "card",
+      "moduleId": "22",
+      "title": "Kararlılık / ısrar / azim (İsrârun)",
+      "subtitle": "SRS Kartı · M22 · Kök: ص ر ر",
+      "ar": "إِصْرَارٌ",
+      "kok": "ص ر ر",
+      "keywords": "إصرار إِفْعَال (IV + مُضَعَّف) İsim"
+    },
+    {
+      "id": "search_card_m22_fc29",
+      "type": "card",
+      "moduleId": "22",
+      "title": "Finansman / fonlama (Temvîlun)",
+      "subtitle": "SRS Kartı · M22 · Kök: م و ل",
+      "ar": "تَمْوِيلٌ",
+      "kok": "م و ل",
+      "keywords": "تمويل تَفْعِيل (II) İsim"
+    },
+    {
+      "id": "search_card_m22_fc30",
+      "type": "card",
+      "moduleId": "22",
+      "title": "(Kitap/internet) sayfalarını çevirmek / gezinmek (Tesaffaha — yetesaffahu)",
+      "subtitle": "SRS Kartı · M22 · Kök: ص ف ح",
+      "ar": "تَصَفَّحَ — يَتَصَفَّحُ",
+      "kok": "ص ف ح",
+      "keywords": "تصفح — يتصفح تَفَعَّلَ (V) Fiil"
+    },
+    {
+      "id": "search_card_m22_fc31",
+      "type": "card",
+      "moduleId": "22",
+      "title": "Eritmek (buz / şeker / mecazen buzları eritmek) (Ezâbe — yuzîbu)",
+      "subtitle": "SRS Kartı · M22 · Kök: ذ و ب",
+      "ar": "أَذَابَ — يُذِيبُ",
+      "kok": "ذ و ب",
+      "keywords": "أذاب — يذيب أَفْعَلَ (IV + أَجْوَف) Fiil"
+    },
+    {
+      "id": "search_card_m22_fc32",
+      "type": "card",
+      "moduleId": "22",
+      "title": "Parlak / göz kamaştırıcı / muhteşem (Bâhirun)",
+      "subtitle": "SRS Kartı · M22 · Kök: ب ه ر",
+      "ar": "بَاهِرٌ (نَجَاحٌ بَاهِرٌ)",
+      "kok": "ب ه ر",
+      "keywords": "باهر فَاعِل Sıfat"
+    },
+    {
+      "id": "search_gram_m22_g1",
+      "type": "grammar",
+      "moduleId": "22",
+      "title": "İnne ve Kardeşlerinin Ameli (Nasb – Ref'): Kâne'nin Tam Ayna Görüntüsü!",
+      "subtitle": "Gramer Kuralı · M22",
+      "ar": "عَمَلُ «إِنَّ وَأَخَوَاتِهَا» (تَنْصِبُ الِاسْمَ وَتَرْفَعُ الْخَبَرَ)",
+      "keywords": "إِنَّ / أَنَّ / كَأَنَّ / لٰكِنَّ / لَيْتَ / لَعَلَّ + İnne'nin İsmi (MANSUB!) + İnne'nin Haberi (MERFÛ!) Modül 21'de **Kâne ve Kardeşlerinin** isim cümlesinde **Ref' – Nasb** (`كَانَ الطَّالِبُ مُجْتَهِدًا`) yaptığını öğrendi"
+    },
+    {
+      "id": "search_gram_m22_g2",
+      "type": "grammar",
+      "moduleId": "22",
+      "title": "6 Harfin Anlam İncelikleri: إِنَّ / أَنَّ، كَأَنَّ، لٰكِنَّ، لَيْتَ vs. لَعَلَّ",
+      "subtitle": "Gramer Kuralı · M22",
+      "ar": "مَعَانِي الْأَحْرُفِ السِّتَّةِ وَالْفَرْقُ بَيْنَ «لَيْتَ» وَ«لَعَلَّ»",
+      "keywords": "إِنَّ/أَنَّ (Kesinlik) | كَأَنَّ (Sanki) | لٰكِنَّ (Fakat) | لَيْتَ (Keşke — zor!) | لَعَلَّ (Umarım/belki — mümkün!) Bu 6 kardeşin tamamı aynı **Nasb – Ref'** amelini yapar ama her birinin cümleye kattığı duygu ve mantık bambaşkadır!\n1) "
+    },
+    {
+      "id": "search_gram_m22_g3",
+      "type": "grammar",
+      "moduleId": "22",
+      "title": "Altın İncelik: Ne Zaman Kesralı «إِنَّ», Ne Zaman Fethalı «أَنَّ» Okunur?",
+      "subtitle": "Gramer Kuralı · M22",
+      "ar": "مَوَاضِعُ كَسْرِ هَمْزَةِ «إِنَّ» وَفَتْحِ هَمْزَةِ «أَنَّ»",
+      "keywords": "Başta / قَالَ sonrası / Yemin / حَيْثُ → Kesralı إِنَّ  |  عَلِمْتُ / سَمِعْتُ / Harf-i Cer sonrası → Fethalı أَنَّ! Harekesiz bir Arapça metinde `ان` harflerini gördüğünüzde en çok sorduğunuz soru şudur: **'Bunu kesralı `إِنَّ` mi yoksa"
+    },
+    {
+      "id": "search_gram_m22_g4",
+      "type": "grammar",
+      "moduleId": "22",
+      "title": "Mâ-i Kâffe (إِنَّمَا — Ameli Durduran مَا) & Te'kîd Lâmı (لَامُ الْمُزَحْلَقَةِ: إِنَّ ... لَـ)",
+      "subtitle": "Gramer Kuralı · M22",
+      "ar": "«مَا الْكَافَّةُ» (إِنَّمَا) وَلَامُ التَّوْكِيدِ الْمُزَحْلَقَةُ («إِنَّ الْعِلْمَ لَنُورٌ»)",
+      "keywords": "إِنَّمَا + Merfû Mübtedâ + Merfû Haber (veya Fiil!) = 'Ancak / Yalnızca' | إِنَّ + Mansub + لَـ + Merfû = Çifte Vurgu! İnne ailesinin hem Kur'an'da hem modern Arapçada en çok karşınıza çıkacak iki süper gücü vardır:\n1) **Mâ-i Kâffe (`مَا ا"
+    },
+    {
+      "id": "search_gram_m22_g5",
+      "type": "grammar",
+      "moduleId": "22",
+      "title": "İnne'nin Haber Çeşitleri & Öne Geçmiş Şibh-i Cümle Haber (إِنَّ هُنَاكَ أَمَلًا ≠ كَانَ هُنَاكَ أَمَلٌ!)",
+      "subtitle": "Gramer Kuralı · M22",
+      "ar": "أَنْوَاعُ خَبَرِ «إِنَّ» وَتَقْدِيمُ خَبَرِهَا الشِّبْهِ جُمْلَةِ",
+      "keywords": "إِنَّ + [Öne Geçmiş Şibh-i Cümle Haber] + [Sona Kalmış MANSUB İsim!]  ≠  كَانَ + Şibh-i Cümle + MERFÛ İsim! Modül 21'in en kritik kuralıyla şimdi doğrudan yüzleşelim! Tıpkı Kâne'de olduğu gibi İnne ve Kardeşlerinin haberi de 4 t"
+    },
+    {
+      "id": "search_card_m23_f01",
+      "type": "card",
+      "moduleId": "23",
+      "title": "on bir (müzekker) (ehade ‘aşera)",
+      "subtitle": "SRS Kartı · M23 · Kök: أ-ح-د / ع-ش-ر",
+      "ar": "أَحَدَ عَشَرَ",
+      "kok": "أ-ح-د / ع-ش-ر",
+      "keywords": "أحد عشر عَدَدٌ مُرَكَّبٌ sayı"
+    },
+    {
+      "id": "search_card_m23_f02",
+      "type": "card",
+      "moduleId": "23",
+      "title": "on bir (müennes) (ihdâ ‘aşrate)",
+      "subtitle": "SRS Kartı · M23 · Kök: أ-ح-د / ع-ش-ر",
+      "ar": "إِحْدَى عَشْرَةَ",
+      "kok": "أ-ح-د / ع-ش-ر",
+      "keywords": "إحدى عشرة عَدَدٌ مُرَكَّبٌ sayı"
+    },
+    {
+      "id": "search_card_m23_f03",
+      "type": "card",
+      "moduleId": "23",
+      "title": "on iki (merfû müzekker) (isnâ ‘aşera)",
+      "subtitle": "SRS Kartı · M23 · Kök: ث-ن-ي / ع-ش-ر",
+      "ar": "اثْنَا عَشَرَ",
+      "kok": "ث-ن-ي / ع-ش-ر",
+      "keywords": "اثنا عشر عَدَدٌ مُرَكَّبٌ sayı"
+    },
+    {
+      "id": "search_card_m23_f04",
+      "type": "card",
+      "moduleId": "23",
+      "title": "on iki (mansub/mecrûr müennes) (isnetey ‘aşrate)",
+      "subtitle": "SRS Kartı · M23 · Kök: ث-ن-ي / ع-ش-ر",
+      "ar": "اثْنَتَيْ عَشْرَةَ",
+      "kok": "ث-ن-ي / ع-ش-ر",
+      "keywords": "اثنتي عشرة عَدَدٌ مُرَكَّبٌ sayı"
+    },
+    {
+      "id": "search_card_m23_f05",
+      "type": "card",
+      "moduleId": "23",
+      "title": "on üç (müzekker sayılan için) (selâsete ‘aşera)",
+      "subtitle": "SRS Kartı · M23 · Kök: ث-ل-ث / ع-ش-ر",
+      "ar": "ثَلَاثَةَ عَشَرَ",
+      "kok": "ث-ل-ث / ع-ش-ر",
+      "keywords": "ثلاثة عشر عَدَدٌ مُرَكَّبٌ sayı"
+    },
+    {
+      "id": "search_card_m23_f06",
+      "type": "card",
+      "moduleId": "23",
+      "title": "on beş (müennes sayılan için) (hamse ‘aşrate)",
+      "subtitle": "SRS Kartı · M23 · Kök: خ-م-س / ع-ش-ر",
+      "ar": "خَمْسَ عَشْرَةَ",
+      "kok": "خ-م-س / ع-ش-ر",
+      "keywords": "خمس عشرة عَدَدٌ مُرَكَّبٌ sayı"
+    },
+    {
+      "id": "search_card_m23_f07",
+      "type": "card",
+      "moduleId": "23",
+      "title": "on dokuz (müzekker sayılan için) (tis‘ate ‘aşera)",
+      "subtitle": "SRS Kartı · M23 · Kök: ت-س-ع / ع-ش-ر",
+      "ar": "تِسْعَةَ عَشَرَ",
+      "kok": "ت-س-ع / ع-ش-ر",
+      "keywords": "تسعة عشر عَدَدٌ مُرَكَّبٌ sayı"
+    },
+    {
+      "id": "search_card_m23_f08",
+      "type": "card",
+      "moduleId": "23",
+      "title": "yirmi (merfû) (‘işrûne)",
+      "subtitle": "SRS Kartı · M23 · Kök: ع-ش-ر",
+      "ar": "عِشْرُونَ",
+      "kok": "ع-ش-ر",
+      "keywords": "عشرون أَلْفَاظُ الْعُقُودِ sayı"
+    },
+    {
+      "id": "search_card_m23_f09",
+      "type": "card",
+      "moduleId": "23",
+      "title": "otuz (merfû) (selâsûne)",
+      "subtitle": "SRS Kartı · M23 · Kök: ث-ل-ث",
+      "ar": "ثَلَاثُونَ",
+      "kok": "ث-ل-ث",
+      "keywords": "ثلاثون أَلْفَاظُ الْعُقُودِ sayı"
+    },
+    {
+      "id": "search_card_m23_f10",
+      "type": "card",
+      "moduleId": "23",
+      "title": "kırk (merfû) (erba‘ûne)",
+      "subtitle": "SRS Kartı · M23 · Kök: ر-ب-ع",
+      "ar": "أَرْبَعُونَ",
+      "kok": "ر-ب-ع",
+      "keywords": "أربعون أَلْفَاظُ الْعُقُودِ sayı"
+    },
+    {
+      "id": "search_card_m23_f11",
+      "type": "card",
+      "moduleId": "23",
+      "title": "elli (merfû) (hamsûne)",
+      "subtitle": "SRS Kartı · M23 · Kök: خ-م-س",
+      "ar": "خَمْسُونَ",
+      "kok": "خ-م-س",
+      "keywords": "خمسون أَلْفَاظُ الْعُقُودِ sayı"
+    },
+    {
+      "id": "search_card_m23_f12",
+      "type": "card",
+      "moduleId": "23",
+      "title": "altmış (merfû) (sittûne)",
+      "subtitle": "SRS Kartı · M23 · Kök: س-د-س",
+      "ar": "سِتُّونَ",
+      "kok": "س-د-س",
+      "keywords": "ستون أَلْفَاظُ الْعُقُودِ sayı"
+    },
+    {
+      "id": "search_card_m23_f13",
+      "type": "card",
+      "moduleId": "23",
+      "title": "yetmiş (merfû) (seb‘ûne)",
+      "subtitle": "SRS Kartı · M23 · Kök: س-ب-ع",
+      "ar": "سَبْعُونَ",
+      "kok": "س-ب-ع",
+      "keywords": "سبعون أَلْفَاظُ الْعُقُودِ sayı"
+    },
+    {
+      "id": "search_card_m23_f14",
+      "type": "card",
+      "moduleId": "23",
+      "title": "seksen (merfû) (semânûne)",
+      "subtitle": "SRS Kartı · M23 · Kök: ث-م-ن",
+      "ar": "ثَمَانُونَ",
+      "kok": "ث-م-ن",
+      "keywords": "ثمانون أَلْفَاظُ الْعُقُودِ sayı"
+    },
+    {
+      "id": "search_card_m23_f15",
+      "type": "card",
+      "moduleId": "23",
+      "title": "doksan (merfû) (tis‘ûne)",
+      "subtitle": "SRS Kartı · M23 · Kök: ت-س-ع",
+      "ar": "تِسْعُونَ",
+      "kok": "ت-س-ع",
+      "keywords": "تسعون أَلْفَاظُ الْعُقُودِ sayı"
+    },
+    {
+      "id": "search_card_m23_f16",
+      "type": "card",
+      "moduleId": "23",
+      "title": "yüz (100) (mietun)",
+      "subtitle": "SRS Kartı · M23 · Kök: م-أ-ي",
+      "ar": "مِئَةٌ",
+      "kok": "م-أ-ي",
+      "keywords": "مئة فِعَةٌ sayı"
+    },
+    {
+      "id": "search_card_m23_f17",
+      "type": "card",
+      "moduleId": "23",
+      "title": "iki yüz (200) (mietâni)",
+      "subtitle": "SRS Kartı · M23 · Kök: م-أ-ي",
+      "ar": "مِئَتَانِ",
+      "kok": "م-أ-ي",
+      "keywords": "مئتان مُثَنًّى sayı"
+    },
+    {
+      "id": "search_card_m23_f18",
+      "type": "card",
+      "moduleId": "23",
+      "title": "üç yüz (300) (selâsumietin)",
+      "subtitle": "SRS Kartı · M23 · Kök: ث-ل-ث / م-أ-ي",
+      "ar": "ثَلَاثُمِئَةٍ",
+      "kok": "ث-ل-ث / م-أ-ي",
+      "keywords": "ثلاثمئة مُرَكَّبٌ إِضَافِيٌّ sayı"
+    },
+    {
+      "id": "search_card_m23_f19",
+      "type": "card",
+      "moduleId": "23",
+      "title": "bin (1000) (elfun)",
+      "subtitle": "SRS Kartı · M23 · Kök: أ-ل-ف",
+      "ar": "أَلْفٌ",
+      "kok": "أ-ل-ف",
+      "keywords": "ألف فَعْلٌ sayı"
+    },
+    {
+      "id": "search_card_m23_f20",
+      "type": "card",
+      "moduleId": "23",
+      "title": "milyon (1.000.000) (milyûnun)",
+      "subtitle": "SRS Kartı · M23 · Kök: م-ل-ي",
+      "ar": "مِلْيُونٌ",
+      "kok": "م-ل-ي",
+      "keywords": "مليون مُعَرَّبٌ sayı"
+    },
+    {
+      "id": "search_card_m23_f21",
+      "type": "card",
+      "moduleId": "23",
+      "title": "birinci (müzekker sıra sayısı) (el-evvelu)",
+      "subtitle": "SRS Kartı · M23 · Kök: أ-و-ل",
+      "ar": "الْأَوَّلُ",
+      "kok": "أ-و-ل",
+      "keywords": "الأول أَفْعَلُ sıra sayısı"
+    },
+    {
+      "id": "search_card_m23_f22",
+      "type": "card",
+      "moduleId": "23",
+      "title": "birinci (müennes sıra sayısı) (el-ûlâ)",
+      "subtitle": "SRS Kartı · M23 · Kök: أ-و-ل",
+      "ar": "الْأُولَى",
+      "kok": "أ-و-ل",
+      "keywords": "الأولى فُعْلَى sıra sayısı"
+    },
+    {
+      "id": "search_card_m23_f23",
+      "type": "card",
+      "moduleId": "23",
+      "title": "altıncı (müzekker) (es-sâdisu)",
+      "subtitle": "SRS Kartı · M23 · Kök: س-د-س",
+      "ar": "السَّادِسُ",
+      "kok": "س-د-س",
+      "keywords": "السادس فَاعِلٌ sıra sayısı"
+    },
+    {
+      "id": "search_card_m23_f24",
+      "type": "card",
+      "moduleId": "23",
+      "title": "on birinci (müzekker) (el-hâdiye ‘aşera)",
+      "subtitle": "SRS Kartı · M23 · Kök: و-ح-د / ع-ش-ر",
+      "ar": "الْحَادِيَ عَشَرَ",
+      "kok": "و-ح-د / ع-ش-ر",
+      "keywords": "الحادي عشر عَدَدٌ تَرْتِيبِيٌّ sıra sayısı"
+    },
+    {
+      "id": "search_card_m23_f25",
+      "type": "card",
+      "moduleId": "23",
+      "title": "yirmi birinci yüzyıl (el-karnu'l-hâdî ve'l-‘işrûne)",
+      "subtitle": "SRS Kartı · M23 · Kök: ق-ر-ن / و-ح-د",
+      "ar": "الْقَرْنُ الْحَادِي وَالْعِشْرُونَ",
+      "kok": "ق-ر-ن / و-ح-د",
+      "keywords": "القرن الحادي والعشرون تَرْكِيبٌ وَصْفِيٌّ kalıp"
+    },
+    {
+      "id": "search_card_m23_f26",
+      "type": "card",
+      "moduleId": "23",
+      "title": "yalnızca seni / sakın (eril tekil) (iyyâke)",
+      "subtitle": "SRS Kartı · M23 · Kök: إ-ي-ا",
+      "ar": "إِيَّاكَ",
+      "kok": "إ-ي-ا",
+      "keywords": "إياك ضَمِيرٌ مَنْصُوبٌ مُنْفَصِلٌ zamir"
+    },
+    {
+      "id": "search_card_m23_f27",
+      "type": "card",
+      "moduleId": "23",
+      "title": "onu / yalnızca onu (eril tekil) (iyyâhu)",
+      "subtitle": "SRS Kartı · M23 · Kök: إ-ي-ا",
+      "ar": "إِيَّاهُ",
+      "kok": "إ-ي-ا",
+      "keywords": "إياه ضَمِيرٌ مَنْصُوبٌ مُنْفَصِلٌ zamir"
+    },
+    {
+      "id": "search_card_m23_f28",
+      "type": "card",
+      "moduleId": "23",
+      "title": "beni / yalnızca beni (iyyâye)",
+      "subtitle": "SRS Kartı · M23 · Kök: إ-ي-ا",
+      "ar": "إِيَّايَ",
+      "kok": "إ-ي-ا",
+      "keywords": "إياي ضَمِيرٌ مَنْصُوبٌ مُنْفَصِلٌ zamir"
+    },
+    {
+      "id": "search_card_m23_f29",
+      "type": "card",
+      "moduleId": "23",
+      "title": "sizi / sakın sizler (iyyâkum)",
+      "subtitle": "SRS Kartı · M23 · Kök: إ-ي-ا",
+      "ar": "إِيَّاكُمْ",
+      "kok": "إ-ي-ا",
+      "keywords": "إياكم ضَمِيرٌ مَنْصُوبٌ مُنْفَصِلٌ zamir"
+    },
+    {
+      "id": "search_card_m23_f30",
+      "type": "card",
+      "moduleId": "23",
+      "title": "sayının temyîzi (sayılan isim) (temyîzu'l-‘adedi)",
+      "subtitle": "SRS Kartı · M23 · Kök: م-ي-ز / ع-د-د",
+      "ar": "تَمْيِيزُ الْعَدَدِ",
+      "kok": "م-ي-ز / ع-د-د",
+      "keywords": "تمييز العدد مُصْطَلَحٌ نَحْوِيٌّ terim"
+    },
+    {
+      "id": "search_card_m23_f31",
+      "type": "card",
+      "moduleId": "23",
+      "title": "yıl, sene (müzekker) (‘âmun)",
+      "subtitle": "SRS Kartı · M23 · Kök: ع-و-م",
+      "ar": "عَامٌ",
+      "kok": "ع-و-م",
+      "keywords": "عام فَعْلٌ isim"
+    },
+    {
+      "id": "search_card_m23_f32",
+      "type": "card",
+      "moduleId": "23",
+      "title": "erteleme, 'sonra yaparım' deme (et-tesvîfu)",
+      "subtitle": "SRS Kartı · M23 · Kök: س-و-ف",
+      "ar": "التَّسْوِيفُ",
+      "kok": "س-و-ف",
+      "keywords": "التسويف تَفْعِيلٌ isim"
+    },
+    {
+      "id": "search_gram_m23_g1",
+      "type": "grammar",
+      "moduleId": "23",
+      "title": "11–19 Mürekkep Sayılar (الْأَعْدَادُ الْمُرَكَّبَةُ) ve Tekil Mansub Temyîz",
+      "subtitle": "Gramer Kuralı · M23",
+      "ar": "الْأَعْدَادُ الْمُرَكَّبَةُ (١١–١٩) وَتَمْيِيزُهَا الْمُفْرَدُ الْمَنْصُوبُ",
+      "keywords": "11–12: [Uyumlu] + [Uyumlu] + Tekil Mansub | 13–19: [Zıt 3–9] + [Uyumlu 10] + Tekil Mansub Modül 11'de 1–10 arası sayıları öğrenmiştin; şimdi 11–19 katına çıkıyoruz. 11–19 sayıları iki parçadan oluştuğu için 'mü"
+    },
+    {
+      "id": "search_gram_m23_g2",
+      "type": "grammar",
+      "moduleId": "23",
+      "title": "20–99 Ukûd (Onluklar) ve Ma'tûf (Atıflı) Sayılar",
+      "subtitle": "Gramer Kuralı · M23",
+      "ar": "أَلْفَاظُ الْعُقُودِ وَالْأَعْدَادُ الْمَعْطُوفَةُ (٢٠–٩٩)",
+      "keywords": "Ukûd: عِشْرُونَ (Merfû) / عِشْرِينَ (Mansub-Mecrûr) + Tekil Mansub | Ma'tûf: [Birler] + وَ + [Onlar] + Tekil Mansub 20, 30, 40, 50, 60, 70, 80, 90 sayılarına Arapçada 'Elfâzu'l-Ukûd' (onluklar) denir ve seni çok rahatlatacak bir özellik"
+    },
+    {
+      "id": "search_gram_m23_g3",
+      "type": "grammar",
+      "moduleId": "23",
+      "title": "100 (مِئَةٌ), 1000 (أَلْفٌ), Milyon ve Yıl/Tarih Okuma",
+      "subtitle": "Gramer Kuralı · M23",
+      "ar": "الْمِئَةُ وَالْأَلْفُ وَالْمِلْيُونُ وَقِرَاءَةُ التَّارِيخِ",
+      "keywords": "مِئَةُ / أَلْفُ / مِلْيُونُ + Tekil Mecrûr (İzâfet) | Yıl: عَامَ / سَنَةَ + Mecrûr Sayı Şimdi sayı merdiveninin zirvesine çıkıyoruz: مِئَةٌ (100), أَلْفٌ (1000) ve مِلْيُونٌ (1 milyon). Bu büyük sayıların en "
+    },
+    {
+      "id": "search_gram_m23_g4",
+      "type": "grammar",
+      "moduleId": "23",
+      "title": "Sıra Sayıları (الْأَعْدَادُ التَّرْتِيبِيَّةُ: الْأَوَّلُ، الثَّانِي… الْعِشْرُونَ)",
+      "subtitle": "Gramer Kuralı · M23",
+      "ar": "الْأَعْدَادُ التَّرْتِيبِيَّةُ (الْأَوَّلُ – الْعِشْرُونَ)",
+      "keywords": "İsim + Sıra Sayısı (Sıfat gibi 4 yönden tam uyum!) | 2–10: فَاعِلٌ / فَاعِلَةٌ | 11–19: الْحَادِيَ عَشَرَ … التَّاسِعَ عَشَرَ Şimdi 'kaç tane?' sorusundan 'kaçıncı?' sorusuna geçiyoruz! Sıra sayıları (1., 2., 3., 11., 20.) Arapçada tamamen bir SI"
+    },
+    {
+      "id": "search_gram_m23_g5",
+      "type": "grammar",
+      "moduleId": "23",
+      "title": "Mansub Munfasıl Zamirler (الضَّمَائِرُ الْمُنْفَصِلَةُ الْمَنْصُوبَةُ: إِيَّاكَ / إِيَّاهُ)",
+      "subtitle": "Gramer Kuralı · M23",
+      "ar": "الضَّمَائِرُ الْمُنْفَصِلَةُ الْمَنْصُوبَةُ (إِيَّاكَ / إِيَّاهُ) وَأُسْلُوبُ التَّحْذِيرِ",
+      "keywords": "إِيَّا + Zamir = Ayrı Nesne | ① إِيَّاكَ + Fiil (Hasr) | ② Fiil + Zamir + إِيَّاهُ | ③ إِيَّاكَ وَ + İsim / إِيَّاكَ أَنْ + Muzâri (Tahzîr) Modül 04'te merfû ayrı zamirleri (هُوَ، أَنْتَ، أَنَا), Modül 10'da ise fiile bitişen nesne zamirlerini (رَأَيْتُهُ، أَع"
     },
     {
       "id": "search_verb_0",
