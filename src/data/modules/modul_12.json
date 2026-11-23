@@ -1,0 +1,777 @@
+{
+  "id": "12",
+  "slug": "modul_12",
+  "phaseId": 2,
+  "cilt": 2,
+  "cefr": "A2",
+  "category": "Sarf",
+  "title": "Sülâsî Mücerred 6 Bab Sistemi",
+  "arabicTitle": "أَبْوَابُ الْفِعْلِ الثُّلَاثِيِّ الْمُجَرَّدِ السِّتَّةُ",
+  "summary": "Sülâsî mücerred fiillerin 6 bab kalıbı (ayn'ul-fiil hareke mantığı), 1.–3. bablar ve 3. babın boğaz harfi şartı, 4.–6. bablar (5. babın daima lâzım olma özelliği), lâzım/müteaddi ayrımı ve Arapça kök sözlüğünde bab sembollerini okuma becerisi.",
+  "grammar": [
+    {
+      "id": "m12_g1",
+      "baslik": "Ayn'ul-Fiil (Orta Harf) Mantığı ve 6 Babın Şifreli Beyti",
+      "arBaslik": "عَيْنُ الْفِعْلِ وَمِفْتَاحُ الْأَبْوَابِ السِّتَّةِ",
+      "mantik": "Faz 1'de `كَتَبَ → يَكْتُبُ` (u), `جَلَسَ → يَجْلِسُ` (i) ve `فَتَحَ → يَفْتَحُ` (a) şeklinde farklı muzâri harekeleriyle karşılaştık. 'Peki hangi fiilin orta harfi muzâride damme, hangisi kesra, hangisi fetha alır?' İşte Arapça Sarf ilminin en temel kapısı olan **6 Bab Sistemi (الْأَبْوَابُ السِّتَّةُ)** tam olarak bu soruyu çözer!\nÜç harfli (sülâsî) bir fiilin kök kalıbı **ف - ع - ل** harfleriyle ölçülür: 1. harfe **Fâ'ul-Fiil**, 2. (orta) harfe **Ayn'ul-Fiil**, 3. harfe **Lâm'ul-Fiil** denir. Tüm bab farkını belirleyen tek yer **ORTA HARFİN (Ayn'ul-Fiil)** mâzi ve muzârideki hareke çiftidir! Klasik Arap dil bilginleri bu 6 babı unutulmaz tek bir tekerleme beytinde toplamışlardır:\n**«فَتْحُ ضَمٍّ، فَتْحُ كَسْرٍ، فَتْحَتَانِ ✦ كَسْرُ فَتْحٍ، ضَمُّ ضَمٍّ، كَسْرَتَانِ»**\nYani sırasıyla: **1) a→u** (`فَعَلَ يَفْعُلُ`), **2) a→i** (`فَعَلَ يَفْعِلُ`), **3) a→a** (`فَعَلَ يَفْعَلُ`), **4) i→a** (`فَعِلَ يَفْعَلُ`), **5) u→u** (`فَعُلَ يَفْعُلُ`), **6) i→i** (`فَعِلَ يَفْعِلُ`)!",
+      "formul": "1: فَعَلَ يَفْعُلُ (a→u) · 2: فَعَلَ يَفْعِلُ (a→i) · 3: فَعَلَ يَفْعَلُ (a→a) · 4: فَعِلَ يَفْعَلُ (i→a) · 5: فَعُلَ يَفْعُلُ (u→u) · 6: فَعِلَ يَفْعِلُ (i→i)",
+      "formulAr": "فَتْحُ ضَمٍّ · فَتْحُ كَسْرٍ · فَتْحَتَانِ · كَسْرُ فَتْحٍ · ضَمُّ ضَمٍّ · كَسْرَتَانِ",
+      "tablo": {
+        "baslik": "Sülâsî Mücerred 6 Babın Tam Özeti (Günday & Şahin Sistematiği)",
+        "sutunlar": ["Bab No", "Vezin (Mâzi → Muzâri)", "Orta Harf", "Klasik Model Fiil", "Anlamı"],
+        "satirlar": [
+          { "hucreler": ["1. Bab", "فَعَلَ ← يَفْعُلُ", "a → u (Fethu Dam)", "نَصَرَ يَنْصُرُ / كَتَبَ يَكْتُبُ", "yardım etti / yazdı"], "ses": "نَصَرَ يَنْصُرُ، كَتَبَ يَكْتُبُ" },
+          { "hucreler": ["2. Bab", "فَعَلَ ← يَفْعِلُ", "a → i (Fethu Kesr)", "ضَرَبَ يَضْرِبُ / جَلَسَ يَجْلِسُ", "vurdu / oturdu"], "ses": "ضَرَبَ يَضْرِبُ، جَلَسَ يَجْلِسُ" },
+          { "hucreler": ["3. Bab", "فَعَلَ ← يَفْعَلُ", "a → a (Fethatân)", "فَتَحَ يَفْتَحُ / ذَهَبَ يَذْهَبُ", "açtı / gitti"], "ses": "فَتَحَ يَفْتَحُ، ذَهَبَ يَذْهَبُ" },
+          { "hucreler": ["4. Bab", "فَعِلَ ← يَفْعَلُ", "i → a (Kesru Feth)", "عَلِمَ يَعْلَمُ / فَهِمَ يَفْهَمُ", "bildi / anladı"], "ses": "عَلِمَ يَعْلَمُ، فَهِمَ يَفْهَمُ" },
+          { "hucreler": ["5. Bab", "فَعُلَ ← يَفْعُلُ", "u → u (Dammu Dam)", "كَرُمَ يَكْرُمُ / حَسُنَ يَحْسُنُ", "cömert oldu / güzelleşti"], "ses": "كَرُمَ يَكْرُمُ، حَسُنَ يَحْسُنُ" },
+          { "hucreler": ["6. Bab", "فَعِلَ ← يَفْعِلُ", "i → i (Kesratân)", "حَسِبَ يَحْسِبُ / وَرِثَ يَرِثُ", "zannetti / mirasçı oldu"], "ses": "حَسِبَ يَحْسِبُ، وَرِثَ يَرِثُ" }
+        ]
+      },
+      "trKiyas": "Matematikte 3 hareke (`a, i, u`) × 3 hareke = 9 kombinasyon olması gerekir; neden Arapçada sadece 6 bab vardır? Çünkü **i→u** (`فَعِلَ يَفْعُلُ`), **u→i** (`فَعُلَ يَفْعِلُ`) ve **u→a** (`فَعُلَ يَفْعَلُ`) kombinasyonları Arap dilinde ses ağırlığından dolayı KULLANILMAZ! Yani mâzisi dammeli (`فَعُلَ`) bir fiil görürsen muzârisi **%100 DAMMELİDİR (5. Bab)** — hiç tereddüt etme!",
+      "sikHatalar": [
+        "1. ve 3. kök harflerinin harekesine bakıp bab tayin etmeye çalışmak (babı SADECE 2. kök harfi — Ayn'ul-Fiil — belirler!).",
+        "Mâzisi فَعُلَ olan bir fiile fetha veya kesralı muzâri uydurmak (كَبُرَ → يَكْبَرُ YANLIŞ! 5. bab daima damme→dammedir: يَكْبُرُ!).",
+        "Fiilleri tek başına sadece mâzisiyle ezberlemek; doğrusu her yeni fiili daima ikili çift olarak ('دَخَلَ يَدْخُلُ', 'عَرَفَ يَعْرِفُ') ezberlemektir!"
+      ],
+      "ornekler": [
+        { "ar": "دَخَلَ الطَّالِبُ الصَّفَّ وَهُوَ يَدْخُلُ كُلَّ يَوْمٍ مُبَكِّرًا.", "okunus": "Dehale't-tâlibu's-saffe ve huve yedhulu kulle yevmin mubekkiran.", "tr": "Öğrenci sınıfa girdi; o her gün erkenden girer.", "not": "1. Bab (a→u): دَخَلَ يَدْخُلُ." },
+        { "ar": "غَسَلَتِ الْأُمُّ الْفَوَاكِهَ، وَهِيَ تَغْسِلُهَا بِالْمَاءِ النَّقِيِّ.", "okunus": "Gaseleti'l-ummu'l-fevâkihe, ve hiye tagsiluhâ bi'l-mâi'n-nakiyyi.", "tr": "Anne meyveleri yıkadı; onları temiz suyla yıkar.", "not": "2. Bab (a→i): غَسَلَ يَغْسِلُ." },
+        { "ar": "قَرَأَ الْوَلَدُ الْقِصَّةَ وَيَقْرَأُ صَفْحَتَيْنِ كُلَّ لَيْلَةٍ.", "okunus": "Karae'l-veledu'l-kıssate ve yakrau safhateyni kulle leyletin.", "tr": "Çocuk hikâyeyi okudu ve her gece iki sayfa okur.", "not": "3. Bab (a→a): قَرَأَ يَقْرَأُ." },
+        { "ar": "عَلِمَ الْبَاحِثُ الْحَقِيقَةَ، وَكُلُّ عَاقِلٍ يَعْلَمُ قِيمَةَ الصِّدْقِ.", "okunus": "‘Alime'l-bâhisu'l-hakîkate, ve kullu ‘âkilin ya‘lemu kîmete's-sıdki.", "tr": "Araştırmacı gerçeği bildi; her akıl sahibi doğruluğun değerini bilir.", "not": "4. Bab (i→a): عَلِمَ يَعْلَمُ." },
+        { "ar": "حَسُنَ خُلُقُ الشَّابِّ وَكَرُمَ طَبْعُهُ فَأَحَبَّهُ النَّاسُ.", "okunus": "Hasune huluku'ş-şâbbi ve kerume tab‘uhu fe-ehabbehu'n-nâsu.", "tr": "Gencin ahlakı güzelleşti ve huyu cömertleşti; insanlar da onu sevdi.", "not": "5. Bab (u→u): حَسُنَ يَحْسُنُ / كَرُمَ يَكْرُمُ." },
+        { "ar": "حَسِبَ الْمُسَافِرُ الطَّرِيقَ قَصِيرًا، وَالْغَرِيبُ يَحْسِبُ الْأَمْرَ سَهْلًا.", "okunus": "Hasibe'l-musâfiru't-tarîka kasîran, ve'l-garîbu yahsibu'l-emra sehlen.", "tr": "Yolcu yolu kısa sandı; yabancı da işi kolay sanır.", "not": "6. Bab (i→i): حَسِبَ يَحْسِبُ." }
+      ],
+      "tatbikler": [
+        { "id": "m12_g1_d1", "tip": "bosluk", "soru": "Sülâsî mücerred 6 bab sisteminde bir fiilin hangi babdan olduğunu belirleyen harf hangisidir?", "secenekler": ["Ayn'ul-Fiil (2. kök harfinin mâzi ve muzâri harekesi)", "Fâ'ul-Fiil (1. kök harfi)", "Lâm'ul-Fiil (3. kök harfi)", "Muzâraat harfi"], "dogruIndeks": 0, "aciklama": "6 babın tamamı orta kök harfinin (ayn'ul-fiil) mâzi→muzâri hareke çiftine göre sınıflanır." },
+        { "id": "m12_g1_d2", "tip": "bosluk", "soru": "Mâzisi فَعُلَ (orta harfi dammeli: كَبُرَ، قَرُبَ، سَهُلَ) olan bir fiilin muzârisi kesinlikle hangi babdandır?", "secenekler": ["5. Bab — يَفْعُلُ (damme → damme)", "1. Bab", "4. Bab", "2. Bab"], "dogruIndeks": 0, "aciklama": "Arapçada u→a veya u→i babı yoktur; فَعُلَ daima 5. babdan يَفْعُلُ gelir!" },
+        { "id": "m12_g1_d3", "tip": "bosluk", "soru": "'كَتَبَ يَكْتُبُ' (a → u) fiili kaçıncı babdandır?", "secenekler": ["1. Bab (فَعَلَ يَفْعُلُ)", "2. Bab (فَعَلَ يَفْعِلُ)", "3. Bab (فَعَلَ يَفْعَلُ)", "5. Bab (فَعُلَ يَفْعُلُ)"], "dogruIndeks": 0, "aciklama": "Fethu damm (a→u) 1. babdır (نَصَرَ يَنْصُرُ)." },
+        { "id": "m12_g1_d4", "tip": "bosluk", "soru": "'شَرِبَ يَشْرَبُ' (i → a) fiili kaçıncı babdandır?", "secenekler": ["4. Bab (فَعِلَ يَفْعَلُ)", "3. Bab (فَعَلَ يَفْعَلُ)", "6. Bab (فَعِلَ يَفْعِلُ)", "2. Bab (فَعَلَ يَفْعِلُ)"], "dogruIndeks": 0, "aciklama": "Kesru feth (i→a) 4. babdır (عَلِمَ يَعْلَمُ)." },
+        { "id": "m12_g1_d5", "tip": "bosluk", "soru": "'رَجَعَ يَرْجِعُ' (a → i) fiili kaçıncı babdandır?", "secenekler": ["2. Bab (فَعَلَ يَفْعِلُ)", "1. Bab", "3. Bab", "6. Bab"], "dogruIndeks": 0, "aciklama": "Fethu kesr (a→i) 2. babdır (ضَرَبَ يَضْرِبُ)." },
+        { "id": "m12_g1_d6", "tip": "hata_bul", "soru": "Aşağıdaki mâzi–muzâri bab eşleştirmelerinden hangisi Arapçada İMKÂNSIZDIR?", "secenekler": ["فَعُلَ يَفْعَلُ (u → a)", "فَعَلَ يَفْعُلُ (a → u)", "فَعِلَ يَفْعَلُ (i → a)", "فَعِلَ يَفْعِلُ (i → i)"], "dogruIndeks": 0, "aciklama": "Mâzisi dammeli fiilin muzârisi fethalı veya kesralı olamaz; sadece dammeli (5. bab) olur." },
+        { "id": "m12_g1_d7", "tip": "bosluk", "soru": "'ذَهَبَ يَذْهَبُ' (a → a) fiili kaçıncı babdandır?", "secenekler": ["3. Bab (فَعَلَ يَفْعَلُ)", "4. Bab (فَعِلَ يَفْعَلُ)", "1. Bab", "2. Bab"], "dogruIndeks": 0, "aciklama": "Fethatân (a→a) 3. babdır (فَتَحَ يَفْتَحُ)." },
+        { "id": "m12_g1_d8", "tip": "bosluk", "soru": "'حَسِبَ يَحْسِبُ' (i → i) fiili kaçıncı babdandır?", "secenekler": ["6. Bab (فَعِلَ يَفْعِلُ)", "2. Bab", "4. Bab", "5. Bab"], "dogruIndeks": 0, "aciklama": "Kesratân (i→i) 6. babdır." },
+        { "id": "m12_g1_d9", "tip": "donusturme", "soru": "سَهُلَ (kolaylaştı) fiilinin muzârisi kurallı olarak hangisidir?", "secenekler": ["يَسْهُلُ", "يَسْهَلُ", "يَسْهِلُ", "يُسَهِّلُ"], "dogruIndeks": 0, "aciklama": "5. bab (فَعُلَ → يَفْعُلُ): سَهُلَ يَسْهُلُ." },
+        { "id": "m12_g1_d10", "tip": "bosluk", "soru": "6 bab tekerlemesindeki 'كَسْرُ فَتْحٍ' hangi babı ifade eder?", "secenekler": ["4. Bab (فَعِلَ يَفْعَلُ)", "2. Bab (فَعَلَ يَفْعِلُ)", "3. Bab (فَعَلَ يَفْعَلُ)", "6. Bab (فَعِلَ يَفْعِلُ)"], "dogruIndeks": 0, "aciklama": "İlk kelime mâzi (kesra), ikinci kelime muzâri (fetha) → 4. bab!" }
+      ]
+    },
+    {
+      "id": "m12_g2",
+      "baslik": "1., 2. ve 3. Bablar & 3. Babın Altın 'Boğaz Harfi' Şartı",
+      "arBaslik": "الْأَبْوَابُ الثَّلَاثَةُ الْأُولَى وَشَرْطُ الْبَابِ الثَّالِثِ",
+      "mantik": "İlk 3 babın tamamının mâzisi **فَعَلَ** (orta harf fethalı) şeklindedir; fakat muzâride üçe ayrılırlar:\n• **1. Bab (`فَعَلَ يَفْعُلُ` — نَصَرَ يَنْصُرُ):** Arapçadaki en kalabalık babdır! Günlük fiillerin büyük bölümü buradadır: `كَتَبَ يَكْتُبُ` (yazdı), `دَخَلَ يَدْخُلُ` (girdi), `خَرَجَ يَخْرُجُ` (çıktı), `دَرَسَ يَدْرُسُ` (çalıştı), `شَكَرَ يَشْكُرُ` (teşekkür etti), `نَظَرَ يَنْظُرُ` (baktı), `أَكَلَ يَأْكُلُ` (yedi), `سَكَنَ يَسْكُنُ` (oturdu).\n• **2. Bab (`فَعَلَ يَفْعِلُ` — ضَرَبَ يَضْرِبُ):** İkinci en kalabalık babdır: `جَلَسَ يَجْلِسُ` (oturdu), `رَجَعَ يَرْجِعُ` (döndü), `عَرَفَ يَعْرِفُ` (bildi/tanıdı), `غَسَلَ يَغْسِلُ` (yıkadı), `حَمَلَ يَحْمِلُ` (taşıdı), `نَزَلَ يَنْزِلُ` (indi), `كَسَرَ يَكْسِرُ` (kırdı).\n• **3. Bab (`فَعَلَ يَفْعَلُ` — فَتَحَ يَفْتَحُ) ALTIN ŞARTI:** Bir fiilin 3. babdan gelebilmesi için **2. (ayn) veya 3. (lâm) kök harfinin mutlaka 6 BOĞAZ HARFİNDEN (حُرُوفُ الْحَلْقِ: ء، هـ، ع، ح، غ، خ) BİRİ OLMASI ŞARTTIR!** Kontrol et ve şaşır: `فَتَحَ` (**ح**), `ذَهَبَ` (**هـ**), `قَرَأَ` (**أ**), `جَمَعَ` (**ع**), `سَأَلَ` (**أ**), `مَنَعَ` (**ع**), `شَرَحَ` (**ح**), `نَجَحَ` (**ح**), `صَنَعَ` (**ع**)! Hepsi boğaz harfi içerir!",
+      "formul": "1. Bab (نَصَرَ): a→u (En kalabalık)  |  2. Bab (ضَرَبَ): a→i  |  3. Bab (فَتَحَ): a→a (2. veya 3. harf Boğaz Harfi: ء هـ ع ح غ خ!)",
+      "formulAr": "حُرُوفُ الْحَلْقِ السِّتَّةُ: ء · هـ · ع · ح · غ · خ",
+      "tablo": {
+        "baslik": "1., 2. ve 3. Babların Yüksek Frekanslı Çekirdek Fiilleri",
+        "sutunlar": ["Bab", "Yüksek Frekanslı Fiiller", "Türkçe Anlamları", "Ayırt Edici İpucu"],
+        "satirlar": [
+          { "hucreler": ["1. Bab (a→u)", "كَتَبَ يَكْتُبُ · دَخَلَ يَدْخُلُ · خَرَجَ يَخْرُجُ · دَرَسَ يَدْرُسُ", "yazmak, girmek, çıkmak, ders çalışmak", "Arapçanın en geniş fiil havuzu"], "ses": "كَتَبَ يَكْتُبُ، دَخَلَ يَدْخُلُ، خَرَجَ يَخْرُجُ" },
+          { "hucreler": ["1. Bab (a→u)", "نَظَرَ يَنْظُرُ · طَلَبَ يَطْلُبُ · تَرَكَ يَتْرُكُ · حَضَرَ يَحْضُرُ", "bakmak, istemek, bırakmak, katılmak", "Emirleri dammeli başlar (اُكْتُبْ!)"], "ses": "نَظَرَ يَنْظُرُ، طَلَبَ يَطْلُبُ، تَرَكَ يَتْرُكُ" },
+          { "hucreler": ["2. Bab (a→i)", "جَلَسَ يَجْلِسُ · رَجَعَ يَرْجِعُ · عَرَفَ يَعْرِفُ · غَسَلَ يَغْسِلُ", "oturmak, dönmek, bilmek, yıkamak", "İlk harfi و olan çoğu fiil de 2. bab (وَصَلَ يَصِلُ)!"], "ses": "جَلَسَ يَجْلِسُ، رَجَعَ يَرْجِعُ، عَرَفَ يَعْرِفُ" },
+          { "hucreler": ["2. Bab (a→i)", "حَمَلَ يَحْمِلُ · نَزَلَ يَنْزِلُ · قَدَرَ يَقْدِرُ · كَذَبَ يَكْذِبُ", "taşımak, inmek, güç yetirmek, yalan söylemek", "Emirleri kesralı başlar (اِجْلِسْ!)"], "ses": "حَمَلَ يَحْمِلُ، نَزَلَ يَنْزِلُ، قَدَرَ يَقْدِرُ" },
+          { "hucreler": ["3. Bab (a→a)", "فَتَحَ يَفْتَحُ · ذَهَبَ يَذْهَبُ · قَرَأَ يَقْرَأُ · جَمَعَ يَجْمَعُ", "açmak, gitmek, okumak, toplamak", "2. veya 3. harf MUTLAKA boğaz harfidir!"], "ses": "فَتَحَ يَفْتَحُ، ذَهَبَ يَذْهَبُ، قَرَأَ يَقْرَأُ" },
+          { "hucreler": ["3. Bab (a→a)", "سَأَلَ يَسْأَلُ · شَرَحَ يَشْرَحُ · نَجَحَ يَنْجَحُ · بَحَثَ يَبْحَثُ", "sormak, anlatmak, başarmak, araştırmak", "Boğaz harfi kolaylığı yüzünden fetha korunur"], "ses": "سَأَلَ يَسْأَلُ، شَرَحَ يَشْرَحُ، بَحَثَ يَبْحَثُ" }
+        ]
+      },
+      "trKiyas": "Çok önemli bir mantık uyarısı: 'Her 3. bab fiilinde boğaz harfi vardır' kuralı %99 doğrudur (tek meşhur istisna `أَبَى يَأْبَى` — kaçındı); **FAKAT** tersi her zaman şart değildir! Yani boğaz harfi taşıyan bir fiil 1. veya 2. babdan da gelebilir: `دَخَلَ يَدْخُلُ` (خ boğaz harfi ama 1. bab!), `رَجَعَ يَرْجِعُ` (ع boğaz harfi ama 2. bab!). Bu yüzden boğaz harfi yoksa o fiilin 3. bab OLMADIĞINDAN %100 emin olabilirsin!",
+      "sikHatalar": [
+        "رَجَعَ (döndü) veya دَخَلَ (girdi) fiillerinde boğaz harfi görüp 3. bab sanmak (يَرْجَعُ / يَدْخَلُ YANLIŞ → doğrusu يَرْجِعُ [2. bab] ve يَدْخُلُ [1. bab]!).",
+        "عَرَفَ (bildi/tanıdı) fiilini يَعْرُفُ okumak (YANLIŞ → 2. babdır: عَرَفَ يَعْرِفُ!).",
+        "بَحَثَ (araştırdı) fiilini يَبْحُثُ okumak (YANLIŞ → 3. babdır: بَحَثَ يَبْحَثُ!)."
+      ],
+      "ornekler": [
+        { "ar": "يَنْظُرُ الطَّالِبُ إِلَى السَّبُّورَةِ وَيَكْتُبُ الدَّرْسَ فِي دَفْتَرِهِ.", "okunus": "Yenzuru't-tâlibu ile's-sebbûrati ve yektubu'd-derse fî defterihi.", "tr": "Öğrenci tahtaya bakıyor ve dersi defterine yazıyor.", "not": "نَظَرَ يَنْظُرُ ve كَتَبَ يَكْتُبُ → 1. Bab (a→u)." },
+        { "ar": "يَرْجِعُ الْأَبُ مِنَ الْعَمَلِ مَسَاءً وَيَجْلِسُ مَعَ أُسْرَتِهِ.", "okunus": "Yerci‘u'l-ebu mine'l-‘ameli mesâen ve yeclisu me‘a usratihi.", "tr": "Baba akşam işten döner ve ailesiyle oturur.", "not": "رَجَعَ يَرْجِعُ ve جَلَسَ يَجْلِسُ → 2. Bab (a→i)." },
+        { "ar": "يَفْتَحُ الْحَارِسُ بَابَ الْمَدْرَسَةِ وَيَذْهَبُ الطُّلَّابُ إِلَى صُفُوفِهِمْ.", "okunus": "Yeftehu'l-hârisu bâbe'l-medreseti ve yezhebu't-tullâbu ilâ sufûfihim.", "tr": "Görevli okulun kapısını açıyor ve öğrenciler sınıflarına gidiyorlar.", "not": "فَتَحَ يَفْتَحُ (ح) ve ذَهَبَ يَذْهَبُ (هـ) → 3. Bab (a→a)." },
+        { "ar": "يَبْحَثُ الْعَالِمُ عَنِ الْحَلِّ وَيَجْمَعُ الْمَعْلُومَاتِ الدَّقِيقَةَ.", "okunus": "Yebhasu'l-‘âlimu ‘ani'l-halli ve yecme‘u'l-ma‘lûmâti'd-dakîkate.", "tr": "Bilim insanı çözümü araştırıyor ve kesin bilgileri topluyor.", "not": "بَحَثَ يَبْحَثُ (ح) ve جَمَعَ يَجْمَعُ (ع) → 3. Bab!" },
+        { "ar": "يَحْمِلُ الْمُسَافِرُ حَقِيبَتَهُ وَيَنْزِلُ مِنَ الْقِطَارِ بِهُدُوءٍ.", "okunus": "Yahmilu'l-musâfiru hakîbetehu ve yenzilu mine'l-kitâri bi-hudûin.", "tr": "Yolcu çantasını taşıyor ve trenden sakin bir şekilde iniyor.", "not": "حَمَلَ يَحْمِلُ ve نَزَلَ يَنْزِلُ → 2. Bab (a→i)." },
+        { "ar": "يَطْلُبُ الْمُؤْمِنُ الْعِلْمَ النَّافِعَ وَيَشْكُرُ رَبَّهُ دَائِمًا.", "okunus": "Yatlubu'l-mu'minu'l-‘ilme'n-nâfi‘a ve yeşkuru rabbehu dâimen.", "tr": "Mümin faydalı ilmi ister ve Rabbine daima şükreder.", "not": "طَلَبَ يَطْلُبُ ve شَكَرَ يَشْكُرُ → 1. Bab (a→u)." }
+      ],
+      "tatbikler": [
+        { "id": "m12_g2_d1", "tip": "bosluk", "soru": "3. babdan (فَعَلَ يَفْعَلُ) gelen bir fiilin 2. veya 3. kök harfi hangi gruptan olmalıdır?", "secenekler": ["6 Boğaz Harfi (ء، هـ، ع، ح، غ، خ)", "Şemsî harfler", "Med harfleri", "Dudak harfleri"], "dogruIndeks": 0, "aciklama": "3. babın temel ses şartı 2. veya 3. harfin boğaz harfi olmasıdır." },
+        { "id": "m12_g2_d2", "tip": "bosluk", "soru": "عَرَفَ (bildi/tanıdı) fiilinin doğru muzârisi ve babı hangisidir?", "secenekler": ["يَعْرِفُ (2. Bab)", "يَعْرُفُ (1. Bab)", "يَعْرَفُ (3. Bab)", "يُعَرِّفُ"], "dogruIndeks": 0, "aciklama": "عَرَفَ يَعْرِفُ 2. bab fiilidir." },
+        { "id": "m12_g2_d3", "tip": "bosluk", "soru": "نَظَرَ (baktı) ve طَلَبَ (istedi) fiillerinin muzâri şekilleri hangisidir?", "secenekler": ["يَنْظُرُ — يَطْلُبُ (1. Bab)", "يَنْظِرُ — يَطْلِبُ (2. Bab)", "يَنْظَرُ — يَطْلَبُ (3. Bab)", "يُنْظِرُ — يُطْلِبُ"], "dogruIndeks": 0, "aciklama": "Her ikisi de 1. babdandır: نَظَرَ يَنْظُرُ ve طَلَبَ يَطْلُبُ." },
+        { "id": "m12_g2_d4", "tip": "hata_bul", "soru": "'يَدْخَلُ الطَّالِبُ الصَّفَّ' cümlesindeki bab/hareke hatası nedir?", "secenekler": ["دَخَلَ 1. babdandır; muzârisi dammeli يَدْخُلُ olmalıdır", "الطَّالِبُ fethalı olmalı", "الصَّفَّ kesralı olmalı", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "دَخَلَ fiilinde خ boğaz harfi olsa da 1. babdır: دَخَلَ يَدْخُلُ!" },
+        { "id": "m12_g2_d5", "tip": "bosluk", "soru": "Aşağıdaki fiillerden hangisi 3. bab (فَعَلَ يَفْعَلُ) DEĞİLDİR?", "secenekler": ["كَتَبَ يَكْتُبُ", "فَتَحَ يَفْتَحُ", "جَمَعَ يَجْمَعُ", "سَأَلَ يَسْأَلُ"], "dogruIndeks": 0, "aciklama": "كَتَبَ kelimesinde boğaz harfi yoktur ve 1. babdır." },
+        { "id": "m12_g2_d6", "tip": "donusturme", "soru": "حَمَلَ (taşıdı — 2. bab) fiilinin muzârisi hangisidir?", "secenekler": ["يَحْمِلُ", "يَحْمُلُ", "يَحْمَلُ", "يُحَمِّلُ"], "dogruIndeks": 0, "aciklama": "2. bab (a→i): حَمَلَ يَحْمِلُ." },
+        { "id": "m12_g2_d7", "tip": "bosluk", "soru": "بَحَثَ (araştırdı) ve صَنَعَ (üretti/yaptı) fiilleri hangi babdandır?", "secenekler": ["3. Bab (يَبْحَثُ — يَصْنَعُ)", "1. Bab (يَبْحُثُ — يَصْنُعُ)", "2. Bab (يَبْحِثُ — يَصْنِعُ)", "5. Bab"], "dogruIndeks": 0, "aciklama": "Her ikisi de boğaz harfli (ح / ع) 3. bab fiilleridir." },
+        { "id": "m12_g2_d8", "tip": "tr_ar", "soru": "'Araştırmacı kütüphanede bilgi topluyor' cümlesi hangisidir?", "secenekler": ["يَجْمَعُ الْبَاحِثُ الْمَعْلُومَاتِ فِي الْمَكْتَبَةِ", "يَجْمُعُ الْبَاحِثُ الْمَعْلُومَاتِ", "يَجْمِعُ الْبَاحِثُ الْمَعْلُومَاتِ", "جَمِعَ الْبَاحِثُ الْمَعْلُومَاتِ"], "dogruIndeks": 0, "aciklama": "جَمَعَ يَجْمَعُ (3. bab) + الْمَعْلُومَاتِ (kesra ile mansub)." },
+        { "id": "m12_g2_d9", "tip": "bosluk", "soru": "'غَسَلَ' (yıkadı) ve 'كَسَرَ' (kırdı) fiillerinin muzâri orta harekesi nedir?", "secenekler": ["Kesra — 2. Bab (يَغْسِلُ / يَكْسِرُ)", "Damme — 1. Bab", "Fetha — 3. Bab", "Sükûn"], "dogruIndeks": 0, "aciklama": "Her ikisi de 2. babdandır: يَغْسِلُ ve يَكْسِرُ." },
+        { "id": "m12_g2_d10", "tip": "bosluk", "soru": "Aşağıdakilerden hangisi 6 Boğaz Harfinden biri DEĞİLDİR?", "secenekler": ["ك (Kef)", "ح (Hâ)", "ع (Ayn)", "غ (Gayn)"], "dogruIndeks": 0, "aciklama": "6 boğaz harfi: ء، هـ، ع، ح، غ، خ. ك boğaz harfi değildir." }
+      ]
+    },
+    {
+      "id": "m12_g3",
+      "baslik": "4., 5. ve 6. Bablar (Duygular, Kalıcı Nitelikler ve Nadir Fiiller)",
+      "arBaslik": "الْأَبْوَابُ الرَّابِعُ وَالْخَامِسُ وَالسَّادِسُ",
+      "mantik": "İlk 3 babda mâzi hep `فَعَلَ` idi. Son 3 bab ise çok belirgin **ANLAM KARAKTERİNE** sahiptir; yani bir fiilin anlamından bile babını tahmin edebilirsin!\n• **4. Bab (`فَعِلَ يَفْعَلُ` — عَلِمَ يَعْلَمُ):** Çok zengindir! Genellikle **duygular, zihinsel haller, algılar ve geçici durumlar** bu babdan gelir: `فَرِحَ يَفْرَحُ` (sevindi), `حَزِنَ يَحْزَنُ` (üzüldü), `غَضِبَ يَغْضَبُ` (kızdı), `تَعِبَ يَتْعَبُ` (yoruldu), `مَرِضَ يَمْرَضُ` (hastalandı), `فَهِمَ يَفْهَمُ` (anladı), `سَمِعَ يَسْمَعُ` (duydu), `شَرِبَ يَشْرَبُ` (içti), `عَمِلَ يَعْمَلُ` (çalıştı), `لَبِسَ يَلْبَسُ` (giydi).\n• **5. Bab (`فَعُلَ يَفْعُلُ` — كَرُمَ يَكْرُمُ):** Arapçanın en düzenli babıdır! **TAMAMI LÂZIMDIR (geçişsizdir, nesne almaz)** ve bir varlıktaki **kalıcı nitelik, huy veya fiziksel özelliği** ('büyüdü, güzelleşti, kolaylaştı, yaklaştı, uzaklaştı') anlatır: `كَبُرَ يَكْبُرُ`, `صَغُرَ يَصْغُرُ`, `حَسُنَ يَحْسُنُ`, `سَهُلَ يَسْهُلُ`, `صَعُبَ يَصْعُبُ`, `قَرُبَ يَقْرُبُ`, `بَعُدَ يَبْعُدُ`, `شَرُفَ يَشْرُفُ`!\n• **6. Bab (`فَعِلَ يَفْعِلُ` — حَسِبَ يَحْسِبُ):** En nadir babdır (tüm Arapçada yaklaşık 20 fiil!). En meşhur 4 tanesini bilmen yeter: `حَسِبَ يَحْسِبُ` (zannetti), `وَرِثَ يَرِثُ` (mirasçı oldu), `وَثِقَ يَثِقُ` (güvendi), `نَعِمَ يَنْعِمُ` (nimet içinde oldu)!",
+      "formul": "4. Bab (i→a): Duygu/Algı/Durum  |  5. Bab (u→u): DAİMA Lâzım & Kalıcı Nitelik  |  6. Bab (i→i): En Nadir (~20 fiil)",
+      "formulAr": "٤: فَرِحَ يَفْرَحُ · ٥: كَبُرَ يَكْبُرُ (لَازِمٌ دَائِمًا) · ٦: حَسِبَ يَحْسِبُ / وَثِقَ يَثِقُ",
+      "tablo": {
+        "baslik": "4., 5. ve 6. Babların Anlam Grupları ve Örnekleri",
+        "sutunlar": ["Bab", "Anlam Eğilimi", "Örnek Fiiller", "Türkçesi"],
+        "satirlar": [
+          { "hucreler": ["4. Bab (i→a)", "Duygular & Zihin", "فَرِحَ يَفْرَحُ · حَزِنَ يَحْزَنُ · غَضِبَ يَغْضَبُ · فَهِمَ يَفْهَمُ", "sevinmek, üzülmek, kızmak, anlamak"], "ses": "فَرِحَ يَفْرَحُ، حَزِنَ يَحْزَنُ، فَهِمَ يَفْهَمُ" },
+          { "hucreler": ["4. Bab (i→a)", "Günlük Haller", "شَرِبَ يَشْرَبُ · لَبِسَ يَلْبَسُ · تَعِبَ يَتْعَبُ · مَرِضَ يَمْرَضُ", "içmek, giymek, yorulmak, hastalanmak"], "ses": "شَرِبَ يَشْرَبُ، لَبِسَ يَلْبَسُ، تَعِبَ يَتْعَبُ" },
+          { "hucreler": ["5. Bab (u→u)", "Kalıcı Nitelik (LÂZIM)", "كَبُرَ يَكْبُرُ · صَغُرَ يَصْغُرُ · حَسُنَ يَحْسُنُ · كَرُمَ يَكْرُمُ", "büyümek, küçülmek, güzelleşmek, cömertleşmek"], "ses": "كَبُرَ يَكْبُرُ، حَسُنَ يَحْسُنُ، كَرُمَ يَكْرُمُ" },
+          { "hucreler": ["5. Bab (u→u)", "Kolaylık / Mesafe", "سَهُلَ يَسْهُلُ · صَعُبَ يَصْعُبُ · قَرُبَ يَقْرُبُ · بَعُدَ يَبْعُدُ", "kolaylaşmak, zorlaşmak, yaklaşmak, uzaklaşmak"], "ses": "سَهُلَ يَسْهُلُ، صَعُبَ يَصْعُبُ، قَرُبَ يَقْرُبُ" },
+          { "hucreler": ["6. Bab (i→i)", "En Nadir (~20 fiil)", "حَسِبَ يَحْسِبُ · وَرِثَ يَرِثُ · وَثِقَ يَثِقُ", "sanmak, mirasçı olmak, güvenmek"], "ses": "حَسِبَ يَحْسِبُ، وَرِثَ يَرِثُ، وَثِقَ يَثِقُ" }
+        ]
+      },
+      "trKiyas": "Harika bir fark: Aynı kök harfler bazen farklı bablarda farklı anlamlar taşır! Örnek: **حَسَبَ يَحْسُبُ** (1. bab) = 'hesapladı / saydı', oysa **حَسِبَ يَحْسِبُ** (6. bab) = 'zannetti / sandı'! Aynı şekilde **عَلِمَ يَعْلَمُ** (4. bab) = 'bildi' ve **سَلِمَ يَسْلَمُ** (4. bab) = 'selamette oldu'. İşte harekenin anlam gücünü burada birebir görüyorsun!",
+      "sikHatalar": [
+        "5. babdan gelen bir fiile doğrudan mansub nesne (mef'ûlün bih) vermeye çalışmak (5. bab fiillerinin TAMAMI lâzımdır, doğrudan nesne almaz!).",
+        "حَسِبَ (zannetti — 6. bab) ile حَسَبَ (hesapladı — 1. bab) harekelerini karıştırmak.",
+        "4. babdaki لَبِسَ (giydi) fiilini لَبَسَ okumak (لَبِسَ يَلْبَسُ = giydi, لَبَسَ يَلْبِسُ = karıştırdı/şüpheye düşürdü!)."
+      ],
+      "ornekler": [
+        { "ar": "يَفْرَحُ الطَّالِبُ بِالنَّجَاحِ وَلَا يَحْزَنُ عِنْدَ الصُّعُوبَاتِ.", "okunus": "Yefrahu't-tâlibu bi'n-necâhi ve lâ yahzenu ‘inde's-su‘ûbâti.", "tr": "Öğrenci başarıya sevinir ve zorluklar karşısında üzülmez.", "not": "4. Bab duygu fiilleri: فَرِحَ يَفْرَحُ ve حَزِنَ يَحْزَنُ." },
+        { "ar": "يَلْبَسُ الْأَطْفَالُ مَلَابِسَ دَافِئَةً عِنْدَمَا يَبْرُدُ الطَّقْسُ.", "okunus": "Yelbesu'l-etfâlu melâbisa dâfieten ‘indemâ yebrudu't-taksu.", "tr": "Hava soğuduğunda çocuklar sıcak kıyafetler giyerler.", "not": "لَبِسَ يَلْبَسُ (4. bab) ve بَرُدَ يَبْرُدُ (5. bab)." },
+        { "ar": "عِنْدَمَا يَكْبُرُ الطِّفْلُ يَسْهُلُ عَلَيْهِ فَهْمُ الْحَيَاةِ.", "okunus": "‘İndemâ yekburu't-tıflu yeshulu ‘aleyhi fehmu'l-hayâti.", "tr": "Çocuk büyüdüğünde hayatı anlamak ona kolaylaşır.", "not": "كَبُرَ يَكْبُرُ ve سَهُلَ يَسْهُلُ → 5. Bab (lâzım!)." },
+        { "ar": "قَرُبَ مَوْعِدُ الِامْتِحَانِ، فَيَجْتَهِدُ الطُّلَّابُ كَثِيرًا.", "okunus": "Karube mev‘idu'l-imtihâni, fe-yectehidu't-tullâbu kesîran.", "tr": "Sınav vakti yaklaştı; bu yüzden öğrenciler çok gayret ediyorlar.", "not": "قَرُبَ يَقْرُبُ (5. bab — u→u)." },
+        { "ar": "أَثِقُ بِصَدِيقِي الْوَفِيِّ لِأَنَّهُ صَادِقٌ وَأَمِينٌ.", "okunus": "Esiku bi-sadîki'l-vefiyyi li-ennehu sâdikun ve emînun.", "tr": "Vefalı arkadaşıma güvenirim çünkü o doğru sözlü ve güvenilirdir.", "not": "وَثِقَ يَثِقُ (6. bab — misâl fiilde و düşer: أَثِقُ!)." },
+        { "ar": "يَرِثُ الْعُلَمَاءُ عِلْمَ الْأَنْبِيَاءِ وَيَنْشُرُونَهُ بَيْنَ النَّاسِ.", "okunus": "Yerisu'l-‘ulemâu ‘ilme'l-enbiyâi ve yenşurûnehu beyne'n-nâsi.", "tr": "Âlimler peygamberlerin ilmine mirasçı olurlar ve onu insanlar arasında yayarlar.", "not": "وَرِثَ يَرِثُ (6. bab — i→i)." }
+      ],
+      "tatbikler": [
+        { "id": "m12_g3_d1", "tip": "bosluk", "soru": "Arapçada istisnasız TAMAMI lâzım (geçişsiz) olan ve kalıcı nitelik bildiren bab hangisidir?", "secenekler": ["5. Bab (فَعُلَ يَفْعُلُ)", "1. Bab (فَعَلَ يَفْعُلُ)", "3. Bab (فَعَلَ يَفْعَلُ)", "4. Bab (فَعِلَ يَفْعَلُ)"], "dogruIndeks": 0, "aciklama": "5. bab (كَرُمَ، حَسُنَ، كَبُرَ، سَهُلَ) tamamen lâzımdır ve kalıcı vasıf bildirir." },
+        { "id": "m12_g3_d2", "tip": "bosluk", "soru": "6 bab içinde en az fiil barındıran (yaklaşık 20 fiil) bab hangisidir?", "secenekler": ["6. Bab (فَعِلَ يَفْعِلُ — حَسِبَ يَحْسِبُ)", "1. Bab", "2. Bab", "4. Bab"], "dogruIndeks": 0, "aciklama": "6. bab (kesratân) Arapçadaki en nadir sülâsî babdır." },
+        { "id": "m12_g3_d3", "tip": "bosluk", "soru": "'حَسَبَ يَحْسُبُ' (1. bab) ile 'حَسِبَ يَحْسِبُ' (6. bab) arasındaki anlam farkı nedir?", "secenekler": ["1. bab = hesapladı/saydı — 6. bab = zannetti/sandı", "İkisi tamamen aynıdır", "1. bab = sandı — 6. bab = hesapladı", "6. bab 'yazdı' demektir"], "dogruIndeks": 0, "aciklama": "Orta harfin harekesi iki farklı anlam üretir!" },
+        { "id": "m12_g3_d4", "tip": "bosluk", "soru": "فَرِحَ (sevindi), حَزِنَ (üzüldü), تَعِبَ (yoruldu) duygu/durum fiilleri hangi babdandır?", "secenekler": ["4. Bab (فَعِلَ يَفْعَلُ)", "5. Bab (فَعُلَ يَفْعُلُ)", "1. Bab", "6. Bab"], "dogruIndeks": 0, "aciklama": "Duygu ve geçici hâl fiillerinin büyük çoğunluğu 4. babdandır." },
+        { "id": "m12_g3_d5", "tip": "donusturme", "soru": "صَعُبَ (zorlaştı) fiilinin muzârisi hangisidir?", "secenekler": ["يَصْعُبُ", "يَصْعَبُ", "يَصْعِبُ", "يُصْعِبُ"], "dogruIndeks": 0, "aciklama": "5. bab (u→u): صَعُبَ يَصْعُبُ." },
+        { "id": "m12_g3_d6", "tip": "bosluk", "soru": "لَبِسَ (giydi) fiilinin doğru muzârisi hangisidir?", "secenekler": ["يَلْبَسُ (4. Bab)", "يَلْبُسُ (1. Bab)", "يَلْبِسُ (2. Bab)", "يُلَبِّسُ"], "dogruIndeks": 0, "aciklama": "لَبِسَ يَلْبَسُ (giydi) 4. babdandır." },
+        { "id": "m12_g3_d7", "tip": "tr_ar", "soru": "'Sana güveniyorum' (وَثِقَ بِـ — 6. bab) cümlesi hangisidir?", "secenekler": ["أَثِقُ بِكَ", "أَوْثُقُ بِكَ", "أَثَقُ بِكَ", "وَثَقْتُ بِكَ"], "dogruIndeks": 0, "aciklama": "وَثِقَ يَثِقُ (6. bab) → 1. tekil أَثِقُ بِكَ." },
+        { "id": "m12_g3_d8", "tip": "hata_bul", "soru": "'يَحْسَنُ الطَّقْسُ فِي الرَّبِيعِ' cümlesindeki hareke hatası nedir?", "secenekler": ["حَسُنَ 5. babdandır; muzârisi dammeli يَحْسُنُ olmalıdır", "الرَّبِيعِ fethalı olmalı", "الطَّقْسُ kesralı olmalı", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "حَسُنَ يَحْسُنُ (güzelleşmek) 5. babdandır." },
+        { "id": "m12_g3_d9", "tip": "bosluk", "soru": "مَرِضَ (hastalandı) ve سَلِمَ (kurtuldu/selamette oldu) fiilleri hangi babdandır?", "secenekler": ["4. Bab (يَمْرَضُ — يَسْلَمُ)", "5. Bab", "1. Bab", "2. Bab"], "dogruIndeks": 0, "aciklama": "İkisi de 4. bab (فَعِلَ يَفْعَلُ) fiilidir." },
+        { "id": "m12_g3_d10", "tip": "bosluk", "soru": "Aşağıdaki fiillerden hangisi 5. bab (فَعُلَ يَفْعُلُ) grubundadır?", "secenekler": ["قَرُبَ يَقْرُبُ (yaklaştı)", "شَرِبَ يَشْرَبُ", "فَتَحَ يَفْتَحُ", "جَلَسَ يَجْلِسُ"], "dogruIndeks": 0, "aciklama": "قَرُبَ يَقْرُبُ ve zıddı بَعُدَ يَبْعُدُ 5. babdandır." }
+      ]
+    },
+    {
+      "id": "m12_g4",
+      "baslik": "Lâzım (Geçişsiz) vs. Müteaddi (Geçişli) Fiil Mantığı",
+      "arBaslik": "الْفِعْلُ اللَّازِمُ وَالْفِعْلُ الْمُتَعَدِّي",
+      "mantik": "Arapçada cümle kurarken ve YDS/YÖKDİL'de harf-i cer boşluğu doldururken her fiil için şu temel soruyu sorarız: Bu fiil **Lâzım (geçişsiz)** mı, yoksa **Müteaddi (geçişli)** mi?\n• **Müteaddi (Geçişli) Fiil:** 'Kimi? Neyi?' sorusuna doğrudan cevap verir ve harf-i cersiz **MANSUB MEF'ÛLÜN BİH** alır! (`كَتَبَ الطَّالِبُ الدَّرْسَ`, `شَرِبَ الْمَاءَ`, `فَتَحَ الْبَابَ`, `فَهِمَ الْقَاعِدَةَ`).\n• **Lâzım (Geçişsiz) Fiil:** Eylem öznenin kendisinde kalır; doğrudan nesne ALMAZ! Başka bir isme bağlanmak isterse mutlaka araya bir **HARF-İ CER** alır! (`جَلَسَ عَلَى الْكُرْسِيِّ`, `ذَهَبَ إِلَى الْمَدْرَسَةِ`, `خَرَجَ مِنَ الْبَيْتِ`, `فَرِحَ بِالنَّجَاحِ`, `نَجَحَ فِي الِامْتِحَانِ`).\n**Pratik Test (ـهُ Testi):** Bir fiilin sonuna `ـهُ` ('onu') ekleyip anlamlı olup olmadığına bak! `قَرَأَهُ` (onu okudu → **Müteaddi** ✓), `جَلَسَهُ` (onu oturdu → **Anlamsız → Lâzım** ✓)!",
+      "formul": "Müteaddi: Fiil + Fâil + Mef'ûlün Bih (Mansub)  |  Lâzım: Fiil + Fâil (+ Harf-i Cer + Mecrûr)",
+      "formulAr": "قَرَأَ الطَّالِبُ الْكِتَابَ (مُتَعَدٍّ)  ≠  جَلَسَ الطَّالِبُ عَلَى الْكُرْسِيِّ (لَازِمٌ)",
+      "tablo": {
+        "baslik": "Lâzım ve Müteaddi Fiil Kıyaslaması + Sık Kullanılan Harf-i Cerli Lâzım Fiiller",
+        "sutunlar": ["Tür", "Arapça Fiil", "Yapı / Edat", "Örnek Cümle", "Türkçesi"],
+        "satirlar": [
+          { "hucreler": ["Müteaddi", "قَرَأَ / كَتَبَ / فَتَحَ", "Doğrudan Mansub Nesne", "فَتَحَ الْوَلَدُ النَّافِذَةَ.", "Çocuk pencereyi açtı."], "ses": "فَتَحَ الْوَلَدُ النَّافِذَةَ" },
+          { "hucreler": ["Lâzım (إِلَى)", "ذَهَبَ / نَظَرَ / وَصَلَ", "Harf-i Cer: إِلَى", "نَظَرَ الطَّالِبُ إِلَى السَّبُّورَةِ.", "Öğrenci tahtaya baktı."], "ses": "نَظَرَ الطَّالِبُ إِلَى السَّبُّورَةِ" },
+          { "hucreler": ["Lâzım (عَنْ)", "بَحَثَ / بَعُدَ", "Harf-i Cer: عَنْ", "بَحَثَ عَنِ الْحَقِيقَةِ.", "Gerçeği araştırdı."], "ses": "بَحَثَ عَنِ الْحَقِيقَةِ" },
+          { "hucreler": ["Lâzım (بِـ)", "فَرِحَ / وَثِقَ / شَعَرَ", "Harf-i Cer: بِـ", "شَعَرَ الْمَرِيضُ بِالتَّعَبِ.", "Hasta yorgunluk hissetti."], "ses": "شَعَرَ الْمَرِيضُ بِالتَّعَبِ" },
+          { "hucreler": ["Lâzım (فِي)", "نَجَحَ / رَغِبَ", "Harf-i Cer: فِي", "نَجَحَ أَخِي فِي الِامْتِحَانِ.", "Abim sınavda başardı."], "ses": "نَجَحَ أَخِي فِي الِامْتِحَانِ" }
+        ]
+      },
+      "trKiyas": "Türkçe ile Arapça arasında geçişlilik bazen TERS çalışır — işte YDS'nin en sevdiği tuzak! Türkçede 'gerçeği aramak' geçişlidir ama Arapçada **بَحَثَ عَنْ** (harf-i cerli lâzım!) kullanılır! Tersine, Türkçede 'arkadaşıma yardım ettim' (-e) dolaylıdır ama Arapçada **سَاعَدْتُ صَدِيقِي** doğrudan mansub nesne alır (harf-i cersiz müteaddi!)! Bu listeleri Referans Atlası'nda daima birlikte çalış!",
+      "sikHatalar": [
+        "بَحَثَ fiiline doğrudan nesne koymak ('بَحَثْتُ الْكِتَابَ' YANLIŞ → doğrusu بَحَثْتُ عَنِ الْكِتَابِ!).",
+        "شَعَرَ (hissetti) fiilinde بِـ harf-i cerini unutmak ('شَعَرْتُ التَّعَبَ' YANLIŞ → doğrusu شَعَرْتُ بِالتَّعَبِ!).",
+        "سَاعَدَ veya اِحْتَرَمَ fiillerine fazladan لِـ / إِلَى eklemek ('سَاعَدْتُ لِصَدِيقِي' YANLIŞ → doğrusu سَاعَدْتُ صَدِيقِي!)."
+      ],
+      "ornekler": [
+        { "ar": "شَعَرَ الطَّالِبُ بِالسَّعَادَةِ عِنْدَمَا نَجَحَ فِي الِامْتِحَانِ.", "okunus": "Şe‘ara't-tâlibu bi's-sa‘âdeti ‘indemâ necaha fi'l-imtihâni.", "tr": "Öğrenci sınavda başarılı olunca mutluluk hissetti.", "not": "شَعَرَ بِـ ve نَجَحَ فِي — iki lâzım fiil!" },
+        { "ar": "بَحَثْتُ عَنْ مِفْتَاحِي فِي كُلِّ الْغُرَفِ ثُمَّ وَجَدْتُهُ.", "okunus": "Behastu ‘an miftâhî fî kulli'l-gurafi summe vecedtuhu.", "tr": "Anahtarımı tüm odalarda aradım sonra onu buldum.", "not": "بَحَثَ عَنْ (lâzım) vs. وَجَدَ (müteaddi: وَجَدْتُهُ!)." },
+        { "ar": "غَضِبَ الْأَبُ مِنَ الْكَذِبِ وَفَرِحَ بِالصِّدْقِ.", "okunus": "Gadibe'l-ebu mine'l-kezibi ve feriha bi's-sıdki.", "tr": "Baba yalana kızdı ve doğruluğa sevindi.", "not": "غَضِبَ مِنْ / عَلَى ve فَرِحَ بِـ." },
+        { "ar": "رَغِبَ الشَّابُّ فِي تَعَلُّمِ اللُّغَةِ الْعَرَبِيَّةِ.", "okunus": "Ragibe'ş-şâbbu fî te‘allumi'l-lugati'l-‘arabiyyeti.", "tr": "Genç Arapça öğrenmeyi arzuladı.", "not": "رَغِبَ فِي = istedi/arzuladı (رَغِبَ عَنْ = yüz çevirdi!)." },
+        { "ar": "قَرَأَ الْأُسْتَاذُ النَّصَّ وَشَرَحَ مَعَانِيَهُ لِلطُّلَّابِ.", "okunus": "Karae'l-ustâzu'n-nassa ve şeraha me‘âniyehu li't-tullâbi.", "tr": "Hoca metni okudu ve anlamlarını öğrencilere açıkladı.", "not": "قَرَأَ ve شَرَحَ doğrudan nesne alan müteaddi fiillerdir." },
+        { "ar": "يَثِقُ الْمُعَلِّمُ بِطُلَّابِهِ وَيُشَجِّعُهُمْ عَلَى الْبَحْثِ.", "okunus": "Yesiku'l-mu‘allimu bi-tullâbihi ve yuşecci‘uhum ‘ale'l-bahsi.", "tr": "Öğretmen öğrencilerine güvenir ve onları araştırmaya teşvik eder.", "not": "وَثِقَ بِـ (6. bab lâzım) + يُشَجِّعُ (müteaddi)." }
+      ],
+      "tatbikler": [
+        { "id": "m12_g4_d1", "tip": "bosluk", "soru": "شَعَرَ الْمُسَافِرُ ....... التَّعَبِ بَعْدَ الرِّحْلَةِ الطَّوِيلَةِ. (Yolcu yorgunluk hissetti) boşluğuna hangi harf-i cer gelir?", "secenekler": ["بِـ (بِالتَّعَبِ)", "إِلَى", "عَنْ", "عَلَى"], "dogruIndeks": 0, "aciklama": "شَعَرَ (hissetti) fiili daima بِـ harf-i ceriyle kullanılır: شَعَرَ بِالتَّعَبِ." },
+        { "id": "m12_g4_d2", "tip": "bosluk", "soru": "بَحَثَ الطَّالِبُ ....... الْقَامُوسِ فِي الْمَكْتَبَةِ. (Öğrenci sözlüğü aradı) boşluğuna hangisi gelir?", "secenekler": ["عَنِ", "إِلَى", "بِـ", "فِي"], "dogruIndeks": 0, "aciklama": "بَحَثَ عَنْ = aramak / araştırmak." },
+        { "id": "m12_g4_d3", "tip": "bosluk", "soru": "Aşağıdaki fiillerden hangisi doğrudan mef'ûlün bih alan MÜTEADDİ (geçişli) bir fiildir?", "secenekler": ["كَتَبَ (yazdı)", "جَلَسَ (oturdu)", "ذَهَبَ (gitti)", "كَبُرَ (büyüdü)"], "dogruIndeks": 0, "aciklama": "كَتَبَ الدَّرْسَ (dersi yazdı) doğrudan mansub nesne alır." },
+        { "id": "m12_g4_d4", "tip": "hata_bul", "soru": "'شَعَرْتُ السَّعَادَةَ الْيَوْمَ' cümlesindeki kullanım hatası nedir?", "secenekler": ["شَعَرَ lâzım fiildir, بِـ harf-i ceri almalıdır: 'شَعَرْتُ بِالسَّعَادَةِ'", "الْيَوْمَ kesralı olmalı", "شَعَرْتُ yerine شَعَرَ gelmeli", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "شَعَرَ بِـ kalıbı zorunludur." },
+        { "id": "m12_g4_d5", "tip": "bosluk", "soru": "'رَغِبَ فِي' ve 'رَغِبَ عَنْ' arasındaki büyük anlam farkı nedir?", "secenekler": ["رَغِبَ فِي = istedi/arzuladı — رَغِبَ عَنْ = istemedi/yüz çevirdi", "İkisi tamamen aynıdır", "رَغِبَ فِي = kaçtı — رَغِبَ عَنْ = sevdi", "İkisi de 'okudu' demektir"], "dogruIndeks": 0, "aciklama": "YDS'nin en meşhur harf-i cerli fiil çiftidir: فِي arzu, عَنْ yüz çevirme!" },
+        { "id": "m12_g4_d6", "tip": "tr_ar", "soru": "'Öğrenci tahtaya baktı' cümlesi hangisidir?", "secenekler": ["نَظَرَ الطَّالِبُ إِلَى السَّبُّورَةِ", "نَظَرَ الطَّالِبُ السَّبُّورَةَ", "نَظَرَ الطَّالِبُ عَنِ السَّبُّورَةِ", "نَظَرَ الطَّالِبُ بِالسَّبُّورَةِ"], "dogruIndeks": 0, "aciklama": "نَظَرَ إِلَى = -e bakmak." },
+        { "id": "m12_g4_d7", "tip": "bosluk", "soru": "Bir fiilin müteaddi mi lâzım mı olduğunu test etmek için en hızlı yöntem nedir?", "secenekler": ["Sonuna nesne zamiri ـهُ ekleyip anlamlı olup olmadığına bakmak", "Sadece harf sayısını saymak", "Mâzisinin ilk harfine bakmak", "Sadece 1. şahsa çekmek"], "dogruIndeks": 0, "aciklama": "قَرَأَهُ (müteaddi) anlamlıdır; جَلَسَهُ / ذَهَبَهُ anlamsızdır (lâzım)." },
+        { "id": "m12_g4_d8", "tip": "bosluk", "soru": "يَثِقُ الْأَبُ ....... ابْنِهِ. (Baba oğluna güveniyor) boşluğuna hangi harf-i cer gelir?", "secenekler": ["بِـ (بِابْنِهِ)", "عَنْ", "مِنْ", "عَلَى"], "dogruIndeks": 0, "aciklama": "وَثِقَ بِـ = -e güvenmek." },
+        { "id": "m12_g4_d9", "tip": "bosluk", "soru": "لَازِمٌ (Lâzım) bir fiil nasıl müteaddi (geçişli) hâle getirilebilir? (İleri köprü)", "secenekler": ["Başına hemze (أَفْعَلَ) veya orta harfe şedde (فَعَّلَ) getirerek (ör. خَرَجَ → أَخْرَجَ)", "Başına ال ekleyerek", "Sonuna tenvîn ekleyerek", "Sadece geçmiş zamanda kullanarak"], "dogruIndeks": 0, "aciklama": "خَرَجَ (çıktı — lâzım) → أَخْرَجَ (çıkardı — müteaddi)! Faz 3'te detaylı işlenecek!" },
+        { "id": "m12_g4_d10", "tip": "bosluk", "soru": "'نَجَحَ الطَّالِبُ فِي الِامْتِحَانِ' cümlesinde نَجَحَ fiilinin türü nedir?", "secenekler": ["Lâzım (فِي harf-i ceriyle kullanılmıştır)", "Çift nesneli müteaddi", "Nâkıs fiil", "Meçhul fiil"], "dogruIndeks": 0, "aciklama": "نَجَحَ فِي harf-i ceriyle kullanılan lâzım bir fiildir." }
+      ]
+    },
+    {
+      "id": "m12_g5",
+      "baslik": "Arapça Kök Sözlüğü Kullanma ve Bab Sembollerini Okuma Sanatı",
+      "arBaslik": "كَيْفِيَّةُ اسْتِخْدَامِ الْمُعْجَمِ الْعَرَبِيِّ وَقِرَاءَةِ رُمُوزِ الْأَبْوَابِ",
+      "mantik": "Türkçe veya İngilizce sözlükler kelimeleri alfabetik sıraya göre dizilir; ama klasik Arapça sözlükler (Tevakku / Hans Wehr / Serdar Mutçalı / Mu'cemü'l-Vasît) kelimeleri **3 HARFLİ KÖKÜNE (جِذْر)** göre dizer! Örneğin `مَكْتَبَةٌ` (kütüphane) kelimesini م harfinde değil, fazla harfleri (`مَـ` ve `ـة`) atıp **ك - ت - ب** maddesinde bulursun!\nPeki sözlükte bir sülâsî fiilin muzârisini tam yazmak yerine yanına tek bir harf/sembol konduğunu gördün mü? İşte o şifreyi 10 saniyede çöz:\n• **Batı / Modern Sözlükler (Hans Wehr / Mutçalı):** Fiilin yanına muzâri orta harekesini yazar: **(u)** = 1. bab (`نَصَرَ u` → `يَنْصُرُ`), **(i)** = 2. bab (`جَلَسَ i` → `يَجْلِسُ`), **(a)** = 3. veya 4. bab (`فَتَحَ a` → `يَفْتَحُ`, `فَهِمَ a` → `يَفْهَمُ`)!\n• **Klasik Arapça Sözlükler (el-Müncid / Mu'cem):** 6 model fiilin ilk harfini yazar: **ن** (نَصَرَ = 1. bab), **ض** (ضَرَبَ = 2. bab), **ف** (فَتَحَ = 3. bab), **س** (سَمِعَ = 4. bab), **ك** (كَرُمَ = 5. bab), **ح** (حَسِبَ = 6. bab)!",
+      "formul": "Sözlük Kökü Bulma: Fazla Ekleri At → 3 Kök Harfi → Bab Sembolü: (u=ن / i=ض / a=ف-س / u=ك / i=ح)",
+      "formulAr": "ن (١) · ض (٢) · ف (٣) · س (٤) · ك (٥) · ح (٦)",
+      "tablo": {
+        "baslik": "Arapça Sözlüklerdeki Bab Sembolleri ve Kök Çözümleme Rehberi",
+        "sutunlar": ["Klasik Sembol", "Modern Sembol", "Karşılık Gelen Bab", "Sözlük Maddesi", "Doğru Okunuşu"],
+        "satirlar": [
+          { "hucreler": ["(ن) نَصَرَ", "(u)", "1. Bab (فَعَلَ يَفْعُلُ)", "كَتَبَ (ن / u)", "كَتَبَ يَكْتُبُ"], "ses": "كَتَبَ يَكْتُبُ" },
+          { "hucreler": ["(ض) ضَرَبَ", "(i)", "2. Bab (فَعَلَ يَفْعِلُ)", "عَرَفَ (ض / i)", "عَرَفَ يَعْرِفُ"], "ses": "عَرَفَ يَعْرِفُ" },
+          { "hucreler": ["(ف) فَتَحَ", "(a)", "3. Bab (فَعَلَ يَفْعَلُ)", "صَنَعَ (ف / a)", "صَنَعَ يَصْنَعُ"], "ses": "صَنَعَ يَصْنَعُ" },
+          { "hucreler": ["(س) سَمِعَ", "(a) — mâzi i", "4. Bab (فَعِلَ يَفْعَلُ)", "فَهِمَ (س / a)", "فَهِمَ يَفْهَمُ"], "ses": "فَهِمَ يَفْهَمُ" },
+          { "hucreler": ["(ك) كَرُمَ", "(u) — mâzi u", "5. Bab (فَعُلَ يَفْعُلُ)", "سَهُلَ (ك / u)", "سَهُلَ يَسْهُلُ"], "ses": "سَهُلَ يَسْهُلُ" },
+          { "hucreler": ["(ح) حَسِبَ", "(i) — mâzi i", "6. Bab (فَعِلَ يَفْعِلُ)", "وَرِثَ (ح / i)", "وَرِثَ يَرِثُ"], "ses": "وَرِثَ يَرِثُ" }
+        ]
+      },
+      "trKiyas": "Harika bir beceri: Bir kelimenin kökünü bulurken başındaki `ال، مُـ، مَـ، اِسْتَـ، تَـ` ve sonundaki `ة، ان، ون، ين، ات` eklerini soy! Mesela **الْمُسْتَخْرَجَاتُ** kelimesinden `ال` + `مُسْتَ` + `ات` atılınca geriye berrak **خ - ر - ج** kökü kalır! Bu beceri hem YDS'de bilmediğin kelimeleri tahmin etmeni sağlar hem de Arapça sözlükte hızını 5 katına çıkarır!",
+      "sikHatalar": [
+        "مَدْرَسَةٌ (okul) kelimesini klasik sözlükte م (mîm) harfinde aramak (kökü د - ر - س olduğu için د harfinde aranır!).",
+        "اِسْتِغْفَارٌ kelimesini ا (elif) harfinde aramak (اِسْتِـ ekini at, kökü غ - ف - ر!).",
+        "Sözlükteki (u / i / a) harfini kelimenin son harekesi sanmak (o harf daima MUZÂRİNİN ORTA HARF harekesini gösterir!)."
+      ],
+      "ornekler": [
+        { "ar": "إِذَا بَحَثْتَ عَنْ «مَكْتَبَةٍ» فِي الْمُعْجَمِ، فَتَجِدُهَا فِي مَادَّةِ «ك ت ب».", "okunus": "İzâ behaste ‘an «mektebetin» fi'l-mu‘cemi, fe-teciduhâ fî mâddeti «k-t-b».", "tr": "Sözlükte 'mektebe' kelimesini ararsan onu 'k-t-b' maddesinde bulursun.", "not": "مَـ ve ة zâid harflerdir; kök ك-ت-ب." },
+        { "ar": "كَلِمَةُ «مَشْرُوبَاتٍ» جِذْرُهَا «ش ر ب» وَفِعْلُهَا «شَرِبَ يَشْرَبُ» مِنَ الْبَابِ الرَّابِعِ.", "okunus": "Kelimetu «meşrûbâtin» cizruhâ «ş-r-b» ve fi‘luhâ «şeribe yeşrabu» mine'l-bâbi'r-râbi‘i.", "tr": "'İçecekler' kelimesinin kökü 'ş-r-b'dir ve fiili 4. babdan 'şeribe yeşrabu'dur.", "not": "مَـ، و، ات atılınca kök ش-ر-ب." },
+        { "ar": "رَمْزُ «ض» فِي الْمُعْجَمِ يَدُلُّ عَلَى أَنَّ الْفِعْلَ مِنْ بَابِ «ضَرَبَ يَضْرِبُ».", "okunus": "Ramzu «dâd» fi'l-mu‘cemi yedullu ‘alâ enne'l-fi‘le min bâbi «darabe yadribu».", "tr": "Sözlükteki 'ض' sembolü fiilin 'darabe yadribu' (2.) babından olduğuna işaret eder.", "not": "ض = 2. Bab (a→i)." },
+        { "ar": "مِنْ جِذْرِ «ع ل م» نَشْتَقُّ: عَلِمَ، عِلْمٌ، عَالِمٌ، مُعَلِّمٌ، تَعْلِيمٌ، مَعْلُومَاتٌ.", "okunus": "Min cizri «‘a-l-m» neştakku: ‘alime, ‘ilmun, ‘âlimun, mu‘allimun, ta‘lîmun, ma‘lûmâtun.", "tr": "'ع-ل-م' kökünden şu kelimeleri türetiriz: bildi, ilim, âlim, öğretmen, eğitim, bilgiler.", "not": "Tek kök = onlarca kelime!" },
+        { "ar": "نَسْتَخْرِجُ مَعْنَى «مَسْجِدٍ» مِنْ مَادَّةِ «س ج د» وَبَابُهُ الْأَوَّلُ: سَجَدَ يَسْجُدُ.", "okunus": "Nestahricu ma‘nâ «mescidin» min mâddeti «s-c-d» ve bâbuhu'l-evvelu: secede yescudu.", "tr": "'Mescid' kelimesinin anlamını 's-c-d' maddesinden çıkarırız; babı 1. babdır: secede yescudu.", "not": "مَـ mekân ön ekini at → س-ج-د." },
+        { "ar": "فِي الْمُعْجَمِ الْحَدِيثِ يَكْتُبُونَ «طَبَخَ (u)» فَنَقْرَؤُهَا: طَبَخَ يَطْبُخُ.", "okunus": "Fi'l-mu‘cemi'l-hadîsi yektubûne «tabaha (u)» fe-nekrauhâ: tabaha yatbuhu.", "tr": "Modern sözlükte 'tabaha (u)' yazarlar, biz de onu 'tabaha yatbuhu' okuruz.", "not": "(u) = muzâri ayn'ul-fiili dammeli." }
+      ],
+      "tatbikler": [
+        { "id": "m12_g5_d1", "tip": "bosluk", "soru": "'مَدْرَسَةٌ' (okul) kelimesi klasik Arapça kök sözlüğünde hangi kök maddesinde aranır?", "secenekler": ["د - ر - س", "م - د - ر", "ر - س - ة", "م - ر - س"], "dogruIndeks": 0, "aciklama": "مَـ ve ة ekleri atılınca 3 harfli kök د-ر-س ortaya çıkar." },
+        { "id": "m12_g5_d2", "tip": "bosluk", "soru": "Modern bir Arapça sözlükte 'حَمَلَ (i)' şeklinde gördüğün fiilin muzârisi nasıl okunur?", "secenekler": ["يَحْمِلُ (2. Bab)", "يَحْمُلُ (1. Bab)", "يَحْمَلُ (3. Bab)", "يُحَمِّلُ"], "dogruIndeks": 0, "aciklama": "(i) işareti muzâri orta harfinin kesralı (يَحْمِلُ) olduğunu gösterir." },
+        { "id": "m12_g5_d3", "tip": "bosluk", "soru": "Klasik Arapça sözlüklerde '(ن)' sembolü hangi babı ifade eder?", "secenekler": ["1. Bab (نَصَرَ يَنْصُرُ — a→u)", "2. Bab (ضَرَبَ يَضْرِبُ)", "4. Bab (سَمِعَ يَسْمَعُ)", "5. Bab (كَرُمَ يَكْرُمُ)"], "dogruIndeks": 0, "aciklama": "ن = نَصَرَ (1. bab)." },
+        { "id": "m12_g5_d4", "tip": "bosluk", "soru": "'مَفْهُومٌ' (kavram / anlaşılan) kelimesinin 3 harfli kökü hangisidir?", "secenekler": ["ف - ه - م", "م - ف - ه", "ه - م - و", "م - ه - م"], "dogruIndeks": 0, "aciklama": "مَفْعُول kalıbındaki مَـ ve و atılınca kök ف-ه-م kalır." },
+        { "id": "m12_g5_d5", "tip": "bosluk", "soru": "Klasik sözlükte '(ف)' harfi hangi babın kısaltmasıdır?", "secenekler": ["3. Bab (فَتَحَ يَفْتَحُ — a→a)", "1. Bab", "4. Bab", "6. Bab"], "dogruIndeks": 0, "aciklama": "ف = فَتَحَ (3. bab)." },
+        { "id": "m12_g5_d6", "tip": "bosluk", "soru": "'مِفْتَاحٌ' (anahtar) kelimesinin 3 harfli kökü ve fiil babı hangisidir?", "secenekler": ["ف - ت - ح (3. Bab: فَتَحَ يَفْتَحُ)", "م - ف - ت", "ت - ح - ا", "ف - ح - م"], "dogruIndeks": 0, "aciklama": "مِفْعَال (âlet ismi) kalıbından مِـ ve ا atılınca ف-ت-ح kökü bulunur." },
+        { "id": "m12_g5_d7", "tip": "bosluk", "soru": "Sözlükte '(ك)' sembolüyle işaretlenmiş 'بَعُدَ' fiilinin muzârisi nedir?", "secenekler": ["يَبْعُدُ (5. Bab — كَرُمَ)", "يَبْعَدُ", "يَبْعِدُ", "يُبْعِدُ"], "dogruIndeks": 0, "aciklama": "ك = كَرُمَ (5. bab: u→u) → بَعُدَ يَبْعُدُ." },
+        { "id": "m12_g5_d8", "tip": "bosluk", "soru": "'اِسْتِخْرَاجٌ' (çıkarma) kelimesinin 3 harfli kökü hangisidir?", "secenekler": ["خ - ر - ج", "س - ت - خ", "ا - س - ت", "ر - ج - ا"], "dogruIndeks": 0, "aciklama": "اِسْتِفْعَال kalıbındaki اِسْتِـ ve ا atılınca kök خ-ر-ج kalır." },
+        { "id": "m12_g5_d9", "tip": "bosluk", "soru": "Sözlükte 'حَفِظَ (a)' yazıyorsa bu fiilin muzârisi ve babı hangisidir?", "secenekler": ["يَحْفَظُ — 4. Bab", "يَحْفِظُ — 6. Bab", "يَحْفُظُ — 1. Bab", "يَحْفَظُ — 3. Bab"], "dogruIndeks": 0, "aciklama": "Mâzi kesralı (حَفِظَ) + muzâri (a) → 4. Bab (يَحْفَظُ)!" },
+        { "id": "m12_g5_d10", "tip": "bosluk", "soru": "Aşağıdaki kelimelerden hangisi 'ك - ت - ب' kök ailesinden DEĞİLDİR?", "secenekler": ["مَلْعَبٌ (oyun alanı)", "مَكْتَبٌ (masa/ofis)", "كَاتِبٌ (yazar)", "مَكْتُوبٌ (yazılı/mektup)"], "dogruIndeks": 0, "aciklama": "مَلْعَبٌ kelimesinin kökü ل-ع-ب (oynamak) kökündendir." }
+      ]
+    }
+  ],
+  "workshop": {
+    "motors": [
+      {
+        "id": "m12_mot1",
+        "baslik": "1. Bab (فَعَلَ يَفْعُلُ) Mâzi ↔ Muzâri Eşleştirme Motoru",
+        "aciklama": "1. babın en sık kullanılan fiillerini özne ve bağlamla birleştir.",
+        "slotlar": [
+          {
+            "etiket": "1. Bab Fiil Çifti",
+            "secenekler": [
+              { "ar": "دَخَلَ ← يَدْخُلُ", "okunus": "dehale → yedhulu", "tr": "girdi / girer:" },
+              { "ar": "خَرَجَ ← يَخْرُجُ", "okunus": "harace → yahrucu", "tr": "çıktı / çıkar:" },
+              { "ar": "كَتَبَ ← يَكْتُبُ", "okunus": "ketebe → yektubu", "tr": "yazdı / yazar:" },
+              { "ar": "نَظَرَ ← يَنْظُرُ", "okunus": "nezara → yenzuru", "tr": "baktı / bakar:" },
+              { "ar": "طَلَبَ ← يَطْلُبُ", "okunus": "talebe → yatlubu", "tr": "istedi / ister:" },
+              { "ar": "سَكَنَ ← يَسْكُنُ", "okunus": "sekene → yeskunu", "tr": "oturdu / ikamet eder:" }
+            ]
+          },
+          {
+            "etiket": "Cümle Devamı",
+            "secenekler": [
+              { "ar": "الطَّالِبُ إِلَى الْقَاعَةِ مُبَكِّرًا.", "okunus": "et-tâlibu ile'l-kâ‘ati mubekkiran.", "tr": "öğrenci salona erkenden." },
+              { "ar": "الْمُعَلِّمُ الدَّرْسَ عَلَى السَّبُّورَةِ.", "okunus": "el-mu‘allimu'd-derse ‘ale's-sebbûrati.", "tr": "öğretmen dersi tahtaya." },
+              { "ar": "الْبَاحِثُ الْعِلْمَ النَّافِعَ.", "okunus": "el-bâhisu'l-‘ilme'n-nâfi‘a.", "tr": "araştırmacı faydalı ilmi." },
+              { "ar": "الضَّيْفُ إِلَى الْمَنْظَرِ الْجَمِيلِ.", "okunus": "ed-dayfu ile'l-manzari'l-cemîli.", "tr": "misafir güzel manzaraya." },
+              { "ar": "أَخِي فِي حَيٍّ هَادِئٍ.", "okunus": "ahî fî hayyin hâdiin.", "tr": "abim sakin bir mahallede." },
+              { "ar": "الطُّلَّابُ مِنَ الْمَكْتَبَةِ مَسَاءً.", "okunus": "et-tullâbu mine'l-mektebeti mesâen.", "tr": "öğrenciler akşam kütüphaneden." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m12_mot2",
+        "baslik": "2. Bab (فَعَلَ يَفْعِلُ) Kesralı Muzâri Motoru",
+        "aciklama": "2. bab fiillerinde orta harfin kesralı (يَفْعِلُ) akışını kulağına yerleştir.",
+        "slotlar": [
+          {
+            "etiket": "2. Bab Muzâri",
+            "secenekler": [
+              { "ar": "يَجْلِسُ", "okunus": "Yeclisu", "tr": "Oturuyor:" },
+              { "ar": "يَرْجِعُ", "okunus": "Yerci‘u", "tr": "Dönüyor:" },
+              { "ar": "يَعْرِفُ", "okunus": "Ya‘rifu", "tr": "Biliyor:" },
+              { "ar": "يَغْسِلُ", "okunus": "Yagsilu", "tr": "Yıkıyor:" },
+              { "ar": "يَحْمِلُ", "okunus": "Yahmilu", "tr": "Taşıyor:" },
+              { "ar": "يَنْزِلُ", "okunus": "Yenzilu", "tr": "İniyor:" }
+            ]
+          },
+          {
+            "etiket": "Özne & Bağlam",
+            "secenekler": [
+              { "ar": "الطَّالِبُ فِي الصَّفِّ الْأَوَّلِ.", "okunus": "et-tâlibu fi's-saffi'l-evveli.", "tr": "öğrenci ilk sırada." },
+              { "ar": "أَبِي مِنَ الْعَمَلِ مَسَاءً.", "okunus": "ebî mine'l-‘ameli mesâen.", "tr": "babam akşam işten." },
+              { "ar": "أَخِي هٰذَا الْعُنْوَانَ جَيِّدًا.", "okunus": "ahî hâze'l-‘unvâne ceyyiden.", "tr": "abim bu adresi iyi." },
+              { "ar": "الطِّفْلُ يَدَيْهِ قَبْلَ الطَّعَامِ.", "okunus": "et-tıflu yedeyhi kable't-ta‘âmi.", "tr": "çocuk yemekten önce ellerini." },
+              { "ar": "الْمُسَافِرُ حَقِيبَتَهُ الثَّقِيلَةَ.", "okunus": "el-musâfiru hakîbetehu's-sakîlete.", "tr": "yolcu ağır çantasını." },
+              { "ar": "الرَّاكِبُ مِنَ الْحَافِلَةِ بِهُدُوءٍ.", "okunus": "er-râkibu mine'l-hâfileti bi-hudûin.", "tr": "yolcu otobüsten sakince." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m12_mot3",
+        "baslik": "3. Bab (Boğaz Harfli فَعَلَ يَفْعَلُ) Motoru",
+        "aciklama": "Boğaz harfli 3. bab fiillerini canlı günlük cümlelerde kullan.",
+        "slotlar": [
+          {
+            "etiket": "3. Bab Muzâri (a→a)",
+            "secenekler": [
+              { "ar": "يَفْتَحُ", "okunus": "Yeftehu", "tr": "Açıyor:" },
+              { "ar": "يَقْرَأُ", "okunus": "Yakrau", "tr": "Okuyor:" },
+              { "ar": "يَسْأَلُ", "okunus": "Yes'elu", "tr": "Soruyor:" },
+              { "ar": "يَشْرَحُ", "okunus": "Yeşrahu", "tr": "Anlatıyor:" },
+              { "ar": "يَجْمَعُ", "okunus": "Yecme‘u", "tr": "Topluyor:" },
+              { "ar": "يَبْحَثُ", "okunus": "Yebhasu", "tr": "Araştırıyor:" }
+            ]
+          },
+          {
+            "etiket": "Bağlam",
+            "secenekler": [
+              { "ar": "الْمُعَلِّمُ بَابَ الْقَاعَةِ.", "okunus": "el-mu‘allimu bâbe'l-kâ‘ati.", "tr": "öğretmen salonun kapısını." },
+              { "ar": "الطَّالِبُ نَصًّا جَدِيدًا.", "okunus": "et-tâlibu nassan cedîden.", "tr": "öğrenci yeni bir metni." },
+              { "ar": "التِّلْمِيذُ أُسْتَاذَهُ عَنِ الْبَابِ.", "okunus": "et-tilmîzu ustâzehu ‘ani'l-bâbi.", "tr": "öğrenci hocasına bab hakkında." },
+              { "ar": "الْأُسْتَاذُ قَوَاعِدَ الصَّرْفِ.", "okunus": "el-ustâzu kavâ‘ide's-sarfi.", "tr": "hoca sarf kurallarını." },
+              { "ar": "الْبَاحِثُ الْمَصَادِرَ الْعِلْمِيَّةَ.", "okunus": "el-bâhisu'l-mesâdira'l-‘ilmiyyete.", "tr": "araştırmacı bilimsel kaynakları." },
+              { "ar": "الصَّحَفِيُّ عَنِ الْحَقِيقَةِ.", "okunus": "es-sahafiyyu ‘ani'l-hakîkati.", "tr": "gazeteci gerçeği." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m12_mot4",
+        "baslik": "4. Bab (Duygu & Algı فَعِلَ يَفْعَلُ) Motoru",
+        "aciklama": "4. bab duygu ve zihin fiillerini doğru tamamlayıcılarıyla birleştir.",
+        "slotlar": [
+          {
+            "etiket": "4. Bab Fiil (i→a)",
+            "secenekler": [
+              { "ar": "يَفْهَمُ", "okunus": "Yefhemu", "tr": "Anlıyor:" },
+              { "ar": "يَعْلَمُ", "okunus": "Ya‘lemu", "tr": "Biliyor:" },
+              { "ar": "يَسْمَعُ", "okunus": "Yesme‘u", "tr": "Duyuyor:" },
+              { "ar": "يَفْرَحُ", "okunus": "Yefrahu", "tr": "Seviniyor:" },
+              { "ar": "يَلْبَسُ", "okunus": "Yelbesu", "tr": "Giyiyor:" },
+              { "ar": "يَحْفَظُ", "okunus": "Yahfazu", "tr": "Ezberliyor:" }
+            ]
+          },
+          {
+            "etiket": "Özne & Nesne/Cer",
+            "secenekler": [
+              { "ar": "الطَّالِبُ الْقَاعِدَةَ بِسُهُولَةٍ.", "okunus": "et-tâlibu'l-kâ‘idete bi-suhûletin.", "tr": "öğrenci kuralı kolaylıkla." },
+              { "ar": "الْعَاقِلُ قِيمَةَ الْوَقْتِ.", "okunus": "el-‘âkilu kîmete'l-vakti.", "tr": "akıllı kişi vaktin değerini." },
+              { "ar": "الْمُسْتَمِعُ صَوْتَ الْأَذَانِ.", "okunus": "el-mustemi‘u savte'l-ezâni.", "tr": "dinleyici ezan sesini." },
+              { "ar": "النَّاجِحُ بِهٰذِهِ النَّتِيجَةِ.", "okunus": "en-nâcihu bi-hâzihi'n-netîceti.", "tr": "başarılı kişi bu sonuca." },
+              { "ar": "الْوَلَدُ مِعْطَفًا دَافِئًا.", "okunus": "el-veledu mi‘tafen dâfien.", "tr": "çocuk sıcak bir palto." },
+              { "ar": "الْمُتَعَلِّمُ أَبْوَابَ الْفِعْلِ.", "okunus": "el-mute‘allimu ebvâbe'l-fi‘li.", "tr": "öğrenen kişi fiil bablarını." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m12_mot5",
+        "baslik": "5. Bab (Kalıcı Nitelik فَعُلَ يَفْعُلُ — Daima Lâzım) Motoru",
+        "aciklama": "5. babın nesne almayan kalıcı nitelik fiilleriyle zarif cümleler kur.",
+        "slotlar": [
+          {
+            "etiket": "5. Bab Fiil (u→u)",
+            "secenekler": [
+              { "ar": "سَهُلَ ← يَسْهُلُ", "okunus": "sehule → yeshulu", "tr": "Kolaylaştı / kolaylaşır:" },
+              { "ar": "صَعُبَ ← يَصْعُبُ", "okunus": "sa‘ube → yas‘ubu", "tr": "Zorlaştı / zorlaşır:" },
+              { "ar": "حَسُنَ ← يَحْسُنُ", "okunus": "hasune → yahsunu", "tr": "Güzelleşti / güzelleşir:" },
+              { "ar": "كَبُرَ ← يَكْبُرُ", "okunus": "kebura → yekburu", "tr": "Büyüdü / büyür:" },
+              { "ar": "قَرُبَ ← يَقْرُبُ", "okunus": "karube → yakrubu", "tr": "Yaklaştı / yaklaşır:" },
+              { "ar": "كَرُمَ ← يَكْرُمُ", "okunus": "kerume → yekrumu", "tr": "Cömert oldu / yücelir:" }
+            ]
+          },
+          {
+            "etiket": "Merfû Fâil",
+            "secenekler": [
+              { "ar": "الدَّرْسُ بِالتَّدْرِيبِ الْمُسْتَمِرِّ.", "okunus": "ed-dersu bi't-tedrîbi'l-mustemirri.", "tr": "sürekli pratikle ders." },
+              { "ar": "الْأَمْرُ عَلَى الْكَسُولِ.", "okunus": "el-emru ‘ale'l-kesûli.", "tr": "tembel kimseye iş." },
+              { "ar": "خُلُقُ الْمُؤْمِنِ بِالْعِلْمِ.", "okunus": "huluku'l-mu'mini bi'l-‘ilmi.", "tr": "ilimle müminin ahlakı." },
+              { "ar": "الطِّفْلُ سَنَةً بَعْدَ سَنَةٍ.", "okunus": "et-tıflu seneten ba‘de senetin.", "tr": "yıldan yıla çocuk." },
+              { "ar": "مَوْعِدُ السَّفَرِ كَثِيرًا.", "okunus": "mev‘idu's-seferi kesîran.", "tr": "yolculuk vakti iyice." },
+              { "ar": "الْإِنْسَانُ بِحُسْنِ أَدَبِهِ.", "okunus": "el-insânu bi-husni edebihi.", "tr": "güzel edebiyle insan." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m12_mot6",
+        "baslik": "Harf-i Cerli Lâzım Fiiller (YDS Çekirdeği) Motoru",
+        "aciklama": "Her lâzım fiili zorunlu harf-i ceriyle (بَحَثَ عَنْ / شَعَرَ بِـ / رَغِبَ فِي / وَثِقَ بِـ) doğru eşleştir.",
+        "slotlar": [
+          {
+            "etiket": "Lâzım Fiil + Harf-i Cer",
+            "secenekler": [
+              { "ar": "أَبْحَثُ عَنْ", "okunus": "Ebhasu ‘an", "tr": "Arıyorum:" },
+              { "ar": "أَشْعُرُ بِـ", "okunus": "Eş‘uru bi-", "tr": "Hissediyorum:" },
+              { "ar": "أَرْغَبُ فِي", "okunus": "Ergabu fî", "tr": "Arzuluyorum:" },
+              { "ar": "أَثِقُ بِـ", "okunus": "Esiku bi-", "tr": "Güveniyorum:" },
+              { "ar": "أَفْرَحُ بِـ", "okunus": "Efrahu bi-", "tr": "Seviniyorum:" },
+              { "ar": "أَنْظُرُ إِلَى", "okunus": "Enzuru ilâ", "tr": "Bakıyorum:" }
+            ]
+          },
+          {
+            "etiket": "Mecrûr Tamamlayıcı",
+            "secenekler": [
+              { "ar": "مُعْجَمٍ عَرَبِيٍّ مَوْثُوقٍ.", "okunus": "mu‘cemin ‘arabiyyin mevsûkin.", "tr": "güvenilir bir Arapça sözlüğü." },
+              { "ar": "الْفَخْرِ وَالسَّعَادَةِ الْكَبِيرَةِ.", "okunus": "el-fahri ve's-sa‘âdeti'l-kebîrati.", "tr": "büyük gurur ve mutluluk." },
+              { "ar": "إِتْقَانِ الصَّرْفِ وَالنَّحْوِ.", "okunus": "itkâni's-sarfi ve'n-nahvi.", "tr": "sarf ve nahivde ustalaşmayı." },
+              { "ar": "صَدِيقِي الْمُخْلِصِ تَمَامًا.", "okunus": "sadîki'l-muhlisi temâmen.", "tr": "samimi arkadaşıma tamamen." },
+              { "ar": "نَجَاحِ زُمَلَائِي فِي الصَّفِّ.", "okunus": "necâhi zumelâî fi's-saffi.", "tr": "sınıftaki arkadaşlarımın başarısına." },
+              { "ar": "الْمُسْتَقْبَلِ بِتَفَاؤُلٍ وَأَمَلٍ.", "okunus": "el-mustakbeli bi-tefâulin ve emelin.", "tr": "geleceğe iyimserlik ve umutla." }
+            ]
+          }
+        ]
+      }
+    ],
+    "merdivenler": [
+      {
+        "id": "m12_lad1",
+        "baslik": "A1 → B2 Merdiveni: Sözlük ve Kök Keşfinden Dil Ustalığına",
+        "adimlar": [
+          { "seviye": "A1", "ar": "أَبْحَثُ عَنْ كَلِمَةٍ.", "okunus": "Ebhasu ‘an kelimetin.", "tr": "Bir kelime arıyorum.", "ekleme": "3. bab lâzım fiil (بَحَثَ عَنْ)" },
+          { "seviye": "A1+", "ar": "أَبْحَثُ عَنْ كَلِمَةٍ جَدِيدَةٍ فِي الْمُعْجَمِ الْعَرَبِيِّ.", "okunus": "Ebhasu ‘an kelimetin cedîdetin fi'l-mu‘cemi'l-‘arabiyyi.", "tr": "Arapça sözlükte yeni bir kelime arıyorum.", "ekleme": "Sıfat + mekân" },
+          { "seviye": "A2", "ar": "أَبْحَثُ عَنْ جِذْرِ الْكَلِمَةِ فِي الْمُعْجَمِ وَأَعْرِفُ بَابَهَا بِنَفْسِي.", "okunus": "Ebhasu ‘an cizri'l-kelimeti fi'l-mu‘cemi ve a‘rifu bâbehâ bi-nefsî.", "tr": "Sözlükte kelimenin kökünü ararım ve babını kendim bilirim.", "ekleme": "2. bab (عَرَفَ يَعْرِفُ) eklendi" },
+          { "seviye": "B1", "ar": "عِنْدَمَا أَعْرِفُ الْجِذْرَ وَالْبَابَ، يَسْهُلُ عَلَيَّ نُطْقُ الْمُضَارِعِ وَفَهْمُ الْمُشْتَقَّاتِ.", "okunus": "‘İndemâ a‘rifu'l-cizra ve'l-bâbe, yeshulu ‘aleyye nutku'l-mudâri‘i ve fehmu'l-muştekkâti.", "tr": "Kökü ve babı bildiğimde muzâriyi telaffuz etmek ve türevleri anlamak bana kolaylaşır.", "ekleme": "5. bab lâzım fiil (يَسْهُلُ)" },
+          { "seviye": "B2", "ar": "إِنَّ إِتْقَانَ الْأَبْوَابِ السِّتَّةِ وَالْقُدْرَةَ عَلَى تَحْلِيلِ الْجُذُورِ يَفْتَحَانِ لِلْبَاحِثِ أَبْوَابَ التُّرَاثِ الْعَرَبِيِّ الْأَصِيلِ.", "okunus": "İnne itkâne'l-ebvâbi's-sitteti ve'l-kudrate ‘alâ tahlîli'l-cuzûri yeftehâni li'l-bâhisi ebvâbe't-turâsi'l-‘arabiyyi'l-esîli.", "tr": "Altı babda ustalaşmak ve kökleri çözümleyebilmek, araştırmacıya özgün Arap mirasının kapılarını açar.", "ekleme": "3. bab ikil (يَفْتَحَانِ) + akademik üslup" }
+        ]
+      },
+      {
+        "id": "m12_lad2",
+        "baslik": "A1 → B2 Merdiveni: 5. Bab Kalıcı Nitelik Fiillerinin Gücü",
+        "adimlar": [
+          { "seviye": "A1", "ar": "حَسُنَ الطَّقْسُ.", "okunus": "Hasune't-taksu.", "tr": "Hava güzelleşti.", "ekleme": "5. bab (u→u) lâzım fiil" },
+          { "seviye": "A1+", "ar": "حَسُنَ الطَّقْسُ وَقَرُبَ فَصْلُ الرَّبِيعِ.", "okunus": "Hasune't-taksu ve karube faslu'r-rabî‘i.", "tr": "Hava güzelleşti ve ilkbahar mevsimi yaklaştı.", "ekleme": "İkinci 5. bab fiil (قَرُبَ)" },
+          { "seviye": "A2", "ar": "بَعْدَ أَنْ حَسُنَ الطَّقْسُ، خَرَجَ النَّاسُ إِلَى الْحَدَائِقِ وَفَرِحَ الْأَطْفَالُ.", "okunus": "Ba‘de en hasune't-taksu, harace'n-nâsu ile'l-hadâiki ve feriha'l-etfâlu.", "tr": "Hava güzelleştikten sonra insanlar parklara çıktılar ve çocuklar sevindiler.", "ekleme": "5. bab + 1. bab + 4. bab uyumu" },
+          { "seviye": "B1", "ar": "كُلَّمَا كَبُرَ الْإِنْسَانُ وَكَرُمَ خُلُقُهُ، عَظُمَ قَدْرُهُ بَيْنَ النَّاسِ وَسَهُلَ التَّعَامُلُ مَعَهُ.", "okunus": "Kullemâ kebura'l-insânu ve kerume huluku'hu, ‘azume kadruhu beyne'n-nâsi ve sehule't-te‘âmulu me‘ahu.", "tr": "İnsan büyüyüp ahlakı güzelleştikçe insanlar arasındaki değeri yücelir ve onunla iletişim kolaylaşır.", "ekleme": "Dört 5. bab fiili bir arada (كَبُرَ، كَرُمَ، عَظُمَ، سَهُلَ)!" },
+          { "seviye": "B2", "ar": "إِنَّ الْمَكَانَةَ الرَّفِيعَةَ لَا تُنَالُ بِالْمَالِ وَحْدَهُ، بَلْ تَكْبُرُ وَتَشْرُفُ بِالْعِلْمِ النَّافِعِ وَالْأَدَبِ الْعَالِي.", "okunus": "İnne'l-mekânete'r-rafî‘ate lâ tunâlu bi'l-mâli vahdehu, bel tekburu ve teşrufu bi'l-‘ilmi'n-nâfi‘i ve'l-edebi'l-‘âlî.", "tr": "Yüksek mevki yalnızca malla elde edilmez; aksine faydalı ilim ve yüksek edeple büyür ve şereflenir.", "ekleme": "5. bab muzâri (تَكْبُرُ وَتَشْرُفُ)" }
+        ]
+      },
+      {
+        "id": "m12_lad3",
+        "baslik": "A1 → B2 Merdiveni: 6. Bab Güven Fiili (وَثِقَ بِـ) ile Dostluk",
+        "adimlar": [
+          { "seviye": "A1", "ar": "أَثِقُ بِصَدِيقِي.", "okunus": "Esiku bi-sadîkî.", "tr": "Arkadaşıma güveniyorum.", "ekleme": "6. bab (وَثِقَ يَثِقُ) + بِـ" },
+          { "seviye": "A1+", "ar": "أَثِقُ بِصَدِيقِي كَثِيرًا لِأَنَّهُ لَا يَكْذِبُ.", "okunus": "Esiku bi-sadîkî kesîran li-ennehu lâ yekzibu.", "tr": "Arkadaşıma çok güvenirim çünkü yalan söylemez.", "ekleme": "2. bab (كَذَبَ يَكْذِبُ)" },
+          { "seviye": "A2", "ar": "مَا حَسِبْتُ الصَّدَاقَةَ سَهْلَةً، وَلٰكِنَّنِي عَرَفْتُ أَنَّ الثِّقَةَ أَسَاسُهَا.", "okunus": "Mâ hasibtu's-sadâkate sehleten, ve lâkinnenî ‘araftu enne's-sikate esâsuhâ.", "tr": "Dostluğu kolay sanmadım ama güvenin onun temeli olduğunu bildim.", "ekleme": "6. bab (حَسِبَ) + 2. bab (عَرَفَ)" },
+          { "seviye": "B1", "ar": "يَثِقُ النَّاسُ بِمَنْ يَصْدُقُ فِي قَوْلِهِ وَيَعْمَلُ بِإِخْلَاصٍ فِي وَظِيفَتِهِ.", "okunus": "Yesiku'n-nâsu bi-men yasduku fî kavlihi ve ya‘melu bi-ihlâsin fî vazîfetihi.", "tr": "İnsanlar sözünde doğru olan ve işinde samimiyetle çalışan kimseye güvenirler.", "ekleme": "6. bab + 1. bab (صَدَقَ يَصْدُقُ) + 4. bab (عَمِلَ يَعْمَلُ)" },
+          { "seviye": "B2", "ar": "لَا تَثِقْ بِالْمَظَاهِرِ الْخَادِعَةِ، بَلِ اخْتَبِرِ الْأَفْعَالَ؛ فَالْمُجْتَمَعُ يَرِثُ الْقِيَمَ الصَّالِحَةَ مِنَ الصَّادِقِينَ.", "okunus": "Lâ tesik bi'l-mezâhiri'l-hâdi‘ati, beli'htebiri'l-ef‘âle; fe'l-mucteme‘u yerisu'l-kıyeme's-sâlihate mine's-sâdikîne.", "tr": "Aldatıcı dış görünüşlere güvenme, aksine eylemleri sına; zira toplum salih değerleri dürüstlerden miras alır.", "ekleme": "İki 6. bab fiili (تَثِقْ / يَرِثُ) bir arada!" }
+        ]
+      },
+      {
+        "id": "m12_lad4",
+        "baslik": "A1 → B2 Merdiveni: رَغِبَ فِي ↔ رَغِبَ عَنْ YDS Kıyaslaması",
+        "adimlar": [
+          { "seviye": "A1", "ar": "أَرْغَبُ فِي الْعِلْمِ.", "okunus": "Ergabu fi'l-‘ilmi.", "tr": "İlmi arzuluyorum.", "ekleme": "4. bab (رَغِبَ فِي = istemek)" },
+          { "seviye": "A1+", "ar": "أَرْغَبُ فِي النَّجَاحِ وَأَرْغَبُ عَنِ الْكَسَلِ.", "okunus": "Ergabu fi'n-necâhi ve ergabu ‘ani'l-keseli.", "tr": "Başarıyı arzuluyorum ve tembellikten yüz çeviriyorum.", "ekleme": "فِي ↔ عَنْ zıt harf-i cerler!" },
+          { "seviye": "A2", "ar": "يَرْغَبُ الطُّلَّابُ فِي تَعَلُّمِ اللُّغَاتِ وَيَبْحَثُونَ عَنْ مَصَادِرَ مَوْثُوقَةٍ.", "okunus": "Yergabu't-tullâbu fî te‘allumi'l-lugâti ve yebhasûne ‘an mesâdira mevsûkatin.", "tr": "Öğrenciler dil öğrenmeyi arzuluyor ve güvenilir kaynaklar arıyorlar.", "ekleme": "رَغِبَ فِي + بَحَثَ عَنْ" },
+          { "seviye": "B1", "ar": "مَنْ يَرْغَبْ فِي التَّفَوُّقِ الْعِلْمِيِّ، فَلْيَصْبِرْ عَلَى الْبَحْثِ وَلَا يَرْغَبْ عَنِ النَّصِيحَةِ.", "okunus": "Men yergab fi't-tefevvuki'l-‘ilmiyyi, fel-yasbir ‘ale'l-bahsi ve lâ yergab ‘ani'n-nasîhati.", "tr": "Bilimsel üstünlüğü arzulayan kimse araştırmada sabretsin ve nasihatten yüz çevirmesin.", "ekleme": "Şart + 2. bab (صَبَرَ يَصْبِرُ)" },
+          { "seviye": "B2", "ar": "يَرْغَبُ الْخُبَرَاءُ فِي تَعْزِيزِ الْبَحْثِ الْمُشْتَرَكِ وَيَرْغَبُونَ عَنِ الْحُلُولِ السَّطْحِيَّةِ الَّتِي لَا تَدُومُ.", "okunus": "Yergabu'l-huberâu fî ta‘zîzi'l-bahsi'l-muşteraki ve yergabûne ‘ani'l-hulûli's-sathiyyeti'lletî lâ tedûmu.", "tr": "Uzmanlar ortak araştırmayı güçlendirmeyi arzuluyor ve kalıcı olmayan yüzeysel çözümlerden uzak duruyorlar.", "ekleme": "YDS akademik paragraf modeli" }
+        ]
+      }
+    ],
+    "bloklar": [
+      { "id": "m12_b01", "hedefAr": "يَدْخُلُ الطَّالِبُ الصَّفَّ مُبَكِّرًا", "tr": "Öğrenci sınıfa erken girer.", "karisik": ["مُبَكِّرًا", "الصَّفَّ", "يَدْخُلُ", "الطَّالِبُ"] },
+      { "id": "m12_b02", "hedefAr": "يَرْجِعُ أَبِي مِنَ الْعَمَلِ مَسَاءً", "tr": "Babam akşam işten döner.", "karisik": ["مَسَاءً", "الْعَمَلِ", "يَرْجِعُ", "مِنَ", "أَبِي"] },
+      { "id": "m12_b03", "hedefAr": "يَجْمَعُ الْبَاحِثُ الْمَعْلُومَاتِ الدَّقِيقَةَ", "tr": "Araştırmacı kesin bilgileri toplar.", "karisik": ["الدَّقِيقَةَ", "الْبَاحِثُ", "يَجْمَعُ", "الْمَعْلُومَاتِ"] },
+      { "id": "m12_b04", "hedefAr": "يَفْرَحُ الطَّالِبُ بِالنَّجَاحِ الْكَبِيرِ", "tr": "Öğrenci büyük başarıya sevinir.", "karisik": ["الْكَبِيرِ", "الطَّالِبُ", "يَفْرَحُ", "بِالنَّجَاحِ"] },
+      { "id": "m12_b05", "hedefAr": "يَسْهُلُ الدَّرْسُ بِالتَّدْرِيبِ الْمُسْتَمِرِّ", "tr": "Sürekli pratikle ders kolaylaşır.", "karisik": ["الْمُسْتَمِرِّ", "الدَّرْسُ", "يَسْهُلُ", "بِالتَّدْرِيبِ"] },
+      { "id": "m12_b06", "hedefAr": "قَرُبَ مَوْعِدُ الِامْتِحَانِ النِّهَائِيِّ", "tr": "Final sınavının vakti yaklaştı.", "karisik": ["النِّهَائِيِّ", "مَوْعِدُ", "قَرُبَ", "الِامْتِحَانِ"] },
+      { "id": "m12_b07", "hedefAr": "أَثِقُ بِصَدِيقِي الْوَفِيِّ كَثِيرًا", "tr": "Vefalı arkadaşıma çok güvenirim.", "karisik": ["كَثِيرًا", "بِصَدِيقِي", "أَثِقُ", "الْوَفِيِّ"] },
+      { "id": "m12_b08", "hedefAr": "شَعَرَ الْمُسَافِرُ بِالتَّعَبِ الشَّدِيدِ", "tr": "Yolcu şiddetli yorgunluk hissetti.", "karisik": ["الشَّدِيدِ", "الْمُسَافِرُ", "شَعَرَ", "بِالتَّعَبِ"] },
+      { "id": "m12_b09", "hedefAr": "أَبْحَثُ عَنْ قَامُوسٍ عَرَبِيٍّ جَيِّدٍ", "tr": "İyi bir Arapça sözlük arıyorum.", "karisik": ["جَيِّدٍ", "قَامُوسٍ", "أَبْحَثُ", "عَرَبِيٍّ", "عَنْ"] },
+      { "id": "m12_b10", "hedefAr": "أَرْغَبُ فِي تَعَلُّمِ الصَّرْفِ وَالنَّحْوِ", "tr": "Sarf ve nahiv öğrenmeyi arzuluyorum.", "karisik": ["وَالنَّحْوِ", "تَعَلُّمِ", "أَرْغَبُ", "الصَّرْفِ", "فِي"] },
+      { "id": "m12_b11", "hedefAr": "يَغْسِلُ الطِّفْلُ يَدَيْهِ قَبْلَ الطَّعَامِ", "tr": "Çocuk yemekten önce ellerini yıkar.", "karisik": ["الطَّعَامِ", "يَدَيْهِ", "يَغْسِلُ", "قَبْلَ", "الطِّفْلُ"] },
+      { "id": "m12_b12", "hedefAr": "يَلْبَسُ الْوَلَدُ مِعْطَفًا دَافِئًا شِتَاءً", "tr": "Çocuk kışın sıcak bir palto giyer.", "karisik": ["شِتَاءً", "مِعْطَفًا", "يَلْبَسُ", "دَافِئًا", "الْوَلَدُ"] },
+      { "id": "m12_b13", "hedefAr": "حَسِبَ الرَّجُلُ الطَّرِيقَ قَصِيرًا", "tr": "Adam yolu kısa sandı.", "karisik": ["قَصِيرًا", "الرَّجُلُ", "حَسِبَ", "الطَّرِيقَ"] },
+      { "id": "m12_b14", "hedefAr": "نَظَرَ الطَّالِبُ إِلَى السَّبُّورَةِ بِانْتِبَاهٍ", "tr": "Öğrenci tahtaya dikkatle baktı.", "karisik": ["بِانْتِبَاهٍ", "السَّبُّورَةِ", "نَظَرَ", "إِلَى", "الطَّالِبُ"] },
+      { "id": "m12_b15", "hedefAr": "حَسُنَ خُلُقُ الشَّابِّ بِالْعِلْمِ وَالْأَدَبِ", "tr": "İlim ve edeple gencin ahlakı güzelleşti.", "karisik": ["وَالْأَدَبِ", "الشَّابِّ", "حَسُنَ", "بِالْعِلْمِ", "خُلُقُ"] }
+    ]
+  },
+  "readings": [
+    {
+      "id": "m12_r1",
+      "baslik": "Arapça Sözlüğün Sihirli Kapısı: 6 Bab",
+      "arBaslik": "الْبَابُ السِّحْرِيُّ لِلْمُعْجَمِ الْعَرَبِيِّ",
+      "seviye": "A2",
+      "paragraflar": [
+        {
+          "ar": "عِنْدَمَا دَخَلَ سَعِيدٌ الْمُسْتَوَى الثَّانِيَ، أَرَادَ أَنْ يَقْرَأَ قِصَصًا عَرَبِيَّةً بِلَا حَرَكَاتٍ. سَأَلَ أُسْتَاذَهُ: «كَيْفَ أَعْرِفُ حَرَكَةَ الْحَرْفِ الْأَوْسَطِ فِي الْمُضَارِعِ؟ لِمَاذَا نَقُولُ يَكْتُبُ بِالضَّمِّ وَيَجْلِسُ بِالْكَسْرِ وَيَفْتَحُ بِالْفَتْحِ؟».",
+          "okunus": "‘İndemâ dehale Sa‘îdun el-musteve's-sâniye, erâde en yakrae kısasan ‘arabiyyeten bi-lâ harakâtin. Seele ustâzehu: «Keyfe a‘rifu harakete'l-harfi'l-evsati fi'l-mudâri‘i? Limâzâ nekûlu yektubu bi'd-dammi ve yeclisu bi'l-kesri ve yeftehu bi'l-fethi?».",
+          "tr": "Said ikinci seviyeye girdiğinde harekesiz Arapça hikâyeler okumak istedi. Hocasına sordu: 'Muzâride orta harfin harekesini nasıl bilirim? Neden يَكْتُبُ dammeyle, يَجْلِسُ kesrayla ve يَفْتَحُ fethayla söylüyoruz?'.",
+          "analiz": [
+            { "kelime": "يَكْتُبُ / يَجْلِسُ / يَفْتَحُ", "kok": "ك ت ب", "gramer": "1., 2. ve 3. babların 3 muzâri harekesi", "tr": "yazar / oturur / açar" },
+            { "kelime": "أَعْرِفُ", "kok": "ع ر ف", "gramer": "2. bab muzâri (عَرَفَ يَعْرِفُ)", "tr": "bilirim" }
+          ]
+        },
+        {
+          "ar": "اِبْتَسَمَ الْأُسْتَاذُ وَكَتَبَ عَلَى السَّبُّورَةِ: «لِلْفِعْلِ الثُّلَاثِيِّ الْمُجَرَّدِ سِتَّةُ أَبْوَابٍ فَقَطْ، وَهِيَ تَعْتَمِدُ عَلَى عَيْنِ الْفِعْلِ». ثُمَّ شَرَحَ لَهُ الْبَيْتَ الْمَشْهُورَ: «فَتْحُ ضَمٍّ، فَتْحُ كَسْرٍ، فَتْحَتَانِ؛ كَسْرُ فَتْحٍ، ضَمُّ ضَمٍّ، كَسْرَتَانِ».",
+          "okunus": "İbteseme'l-ustâzu ve ketebe ‘ale's-sebbûrati: «Li'l-fi‘li's-sulâsiyyi'l-mucerradi sittetu ebvâbin fakat, ve hiye ta‘temidu ‘alâ ‘ayni'l-fi‘li». Summe şeraha lehu'l-beyte'l-meşhûra: «Fethu dammin, fethu kesrin, fethatâni; kesru fethin, dammu dammin, kesratâni».",
+          "tr": "Hoca gülümsedi ve tahtaya yazdı: 'Sülâsî mücerred fiilin yalnızca altı babı vardır ve bunlar ayn'ul-fiile dayanır'. Sonra ona meşhur beyti açıkladı: 'Fethu dam, fethu kesr, fethatân; kesru feth, dammu dam, kesratân'.",
+          "analiz": [
+            { "kelime": "سِتَّةُ أَبْوَابٍ", "kok": "ب و ب", "gramer": "بَابٌ (eril) → 3–10 zıtlığı: سِتَّةُ أَبْوَابٍ", "tr": "altı bab" },
+            { "kelime": "شَرَحَ", "kok": "ش ر ح", "gramer": "3. bab (boğaz harfi ح: شَرَحَ يَشْرَحُ)", "tr": "anlattı" }
+          ]
+        },
+        {
+          "ar": "أَضَافَ الْأُسْتَاذُ: «اُنْظُرْ إِلَى الْبَابِ الثَّالِثِ مِثْلَ فَتَحَ وَقَرَأَ وَجَمَعَ، سَتَجِدُ دَائِمًا حَرْفًا مِنْ حُرُوفِ الْحَلْقِ! أَمَّا الْبَابُ الْخَامِسُ مِثْلَ كَبُرَ وَسَهُلَ وَكَرُمَ فَهُوَ لَازِمٌ دَائِمًا وَيَدُلُّ عَلَى الصِّفَاتِ الثَّابِتَةِ».",
+          "okunus": "Edâfe'l-ustâzu: «Unzur ile'l-bâbi's-sâlisi misle feteha ve karae ve ceme‘a, se-tecidu dâimen harfen min hurûfi'l-halki! Emme'l-bâbu'l-hâmisu misle kebura ve sehule ve kerume fe-huve lâzimun dâimen ve yedullu ‘ale's-sıfâti's-sâbiteti».",
+          "tr": "Hoca ekledi: 'فَتَحَ, قَرَأَ ve جَمَعَ gibi 3. baba bak, daima boğaz harflerinden birini bulacaksın! كَبُرَ, سَهُلَ ve كَرُمَ gibi 5. bab ise daima lâzımdır ve kalıcı nitelikleri gösterir'.",
+          "analiz": [
+            { "kelime": "كَبُرَ / سَهُلَ / كَرُمَ", "kok": "ك ب ر", "gramer": "5. bab (فَعُلَ يَفْعُلُ — daima lâzım)", "tr": "büyüdü / kolaylaştı / cömert oldu" },
+            { "kelime": "حُرُوفِ الْحَلْقِ", "kok": "ح ل ق", "gramer": "İsim tamlaması (6 boğaz harfi)", "tr": "boğaz harfleri" }
+          ]
+        },
+        {
+          "ar": "بَعْدَ ذٰلِكَ الدَّرْسِ، فَرِحَ سَعِيدٌ كَثِيرًا وَبَدَأَ يَحْفَظُ كُلَّ فِعْلٍ جَدِيدٍ مَعَ مُضَارِعِهِ وَحَرْفِ جَرِّهِ. وَفِي أُسْبُوعَيْنِ فَقَطْ سَهُلَتْ عَلَيْهِ الْقِرَاءَةُ وَشَعَرَ بِثِقَةٍ كَبِيرَةٍ فِي فَهْمِ الْمُعْجَمِ.",
+          "okunus": "Ba‘de zâlike'd-dersi, feriha Sa‘îdun kesîran ve bedee yahfazu kulle fi‘lin cedîdin me‘a mudâri‘ihi ve harfi cerrihi. Ve fî usbû‘ayni fakat sehulet ‘aleyhi'l-kirâetu ve şe‘ara bi-sikatin kebîratin fî fehmi'l-mu‘cemi.",
+          "tr": "O dersten sonra Said çok sevindi ve her yeni fiili muzârisi ve harf-i ceriyle birlikte ezberlemeye başladı. Sadece iki haftada okuma ona kolaylaştı ve sözlüğü anlamada büyük bir özgüven hissetti.",
+          "analiz": [
+            { "kelime": "سَهُلَتْ", "kok": "س ه ل", "gramer": "5. bab müennes mâzi (لâzım)", "tr": "kolaylaştı" },
+            { "kelime": "شَعَرَ بِثِقَةٍ", "kok": "ش ع ر", "gramer": "1. bab lâzım fiil (شَعَرَ يَشْعُرُ بِـ)", "tr": "güven hissetti" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m12_r1_q1", "soru": "Said ikinci seviyeye geçince ne okumak istedi?", "secenekler": ["Harekesiz Arapça hikâyeler", "Sadece gazeteler", "Matematik kitapları", "Şiir divanları"], "dogruIndeks": 0, "aciklama": "'أَرَادَ أَنْ يَقْرَأَ قِصَصًا عَرَبِيَّةً بِلَا حَرَكَاتٍ'." },
+        { "id": "m12_r1_q2", "soru": "Sülâsî mücerred 6 bab hangi kök harfine dayanmaktadır?", "secenekler": ["Ayn'ul-fiile (orta kök harfine)", "İlk kök harfine", "Son kök harfine", "Muzâraat harfine"], "dogruIndeks": 0, "aciklama": "'وَهِيَ تَعْتَمِدُ عَلَى عَيْنِ الْفِعْلِ'." },
+        { "id": "m12_r1_q3", "soru": "5. bab (كَبُرَ، سَهُلَ، كَرُمَ) için metinde hangi iki temel özellik vurgulanmıştır?", "secenekler": ["Daima lâzımdır ve kalıcı nitelikleri gösterir", "Daima müteaddidir ve boğaz harflidir", "En kalabalık babdır", "Sadece 20 fiili vardır"], "dogruIndeks": 0, "aciklama": "'فَهُوَ لَازِمٌ دَائِمًا وَيَدُلُّ عَلَى الصِّفَاتِ الثَّابِتَةِ'." },
+        { "id": "m12_r1_q4", "soru": "Said her yeni fiili neyle birlikte ezberlemeye başladı?", "secenekler": ["Muzârisi ve harf-i ceriyle birlikte", "Sadece Türkçe anlamıyla", "Sadece çoğuluyla", "Sadece 1. şahıs hâliyle"], "dogruIndeks": 0, "aciklama": "'بَدَأَ يَحْفَظُ كُلَّ فِعْلٍ جَدِيدٍ مَعَ مُضَارِعِهِ وَحَرْفِ جَرِّهِ'." },
+        { "id": "m12_r1_q5", "soru": "Metinde geçen 'فَرِحَ' ve 'سَهُلَتْ' fiilleri sırasıyla kaçıncı babdardır?", "secenekler": ["4. Bab ve 5. Bab", "1. Bab ve 2. Bab", "3. Bab ve 6. Bab", "2. Bab ve 3. Bab"], "dogruIndeks": 0, "aciklama": "فَرِحَ يَفْرَحُ (4. bab) ve سَهُلَ يَسْهُلُ (5. bab)." }
+      ]
+    },
+    {
+      "id": "m12_r2",
+      "baslik": "Bilge Tüccar ve Güvenin Değeri",
+      "arBaslik": "التَّاجِرُ الْأَمِينُ وَقِيمَةُ الثِّقَةِ",
+      "seviye": "A2",
+      "paragraflar": [
+        {
+          "ar": "عَرَفَ أَهْلُ السُّوقِ تَاجِرًا صَادِقًا اسْمُهُ سُلَيْمَانُ. كَانَ يَفْتَحُ دُكَّانَهُ كُلَّ صَبَاحٍ مُبَكِّرًا، وَيَبِيعُ السِّلَعَ الْجَيِّدَةَ بِلَا غِشٍّ، وَلَا يَكْذِبُ عَلَى الزَّبَائِنِ أَبَدًا.",
+          "okunus": "‘Arafe ehlu's-sûki tâciran sâdikan ismuhu Suleymânu. Kâne yeftehu dukkânehu kulle sabâhin mubekkiran, ve yebî‘u's-sile‘a'l-ceyyidete bi-lâ gişşin, ve lâ yekzibu ‘ale'z-zebâini ebeden.",
+          "tr": "Çarşı halkı Süleyman adında dürüst bir tüccar tanıyordu. Dükkanını her sabah erkenden açar, kaliteli malları hilesiz satar ve müşterilere asla yalan söylemezdi.",
+          "analiz": [
+            { "kelime": "عَرَفَ / يَكْذِبُ", "kok": "ع ر ف", "gramer": "2. bab fiiller (عَرَفَ يَعْرِفُ / كَذَبَ يَكْذِبُ)", "tr": "tanıdı / yalan söyler" },
+            { "kelime": "يَفْتَحُ", "kok": "ف ت ح", "gramer": "3. bab (boğaz harfi ح)", "tr": "açar" }
+          ]
+        },
+        {
+          "ar": "فِي يَوْمٍ مِنَ الْأَيَّامِ، نَسِيَ مُسَافِرٌ كِيسَ نُقُودٍ عَلَى طَاوِلَةِ الدُّكَّانِ وَخَرَجَ مُسْرِعًا. نَظَرَ سُلَيْمَانُ إِلَى الْكِيسِ فَحَفِظَهُ فِي مَكَانٍ آمِنٍ وَبَحَثَ عَنِ الْمُسَافِرِ فِي الشَّارِعِ، وَلٰكِنَّهُ لَمْ يَجِدْهُ.",
+          "okunus": "Fî yevmin mine'l-eyyâmi, nesiye musâfirun kîse nukûdin ‘alâ tâvileti'd-dukkâni ve harace musri‘an. Nezara Suleymânu ile'l-kîsi fe-hafizahu fî mekânin âminin ve behase ‘ani'l-musâfiri fi'ş-şâri‘i, ve lâkinnehu lem yecidhu.",
+          "tr": "Günlerden bir gün bir yolcu dükkanın masasında bir para kesesi unuttu ve aceleyle çıktı. Süleyman keseye baktı, onu güvenli bir yerde sakladı ve sokakta yolcuyu aradı ama onu bulamadı.",
+          "analiz": [
+            { "kelime": "نَظَرَ إِلَى / خَرَجَ", "kok": "ن ظ ر", "gramer": "1. bab (نَظَرَ يَنْظُرُ / خَرَجَ يَخْرُجُ)", "tr": "baktı / çıktı" },
+            { "kelime": "بَحَثَ عَنْ", "kok": "ب ح ث", "gramer": "3. bab lâzım (بَحَثَ يَبْحَثُ عَنْ)", "tr": "aradı" }
+          ]
+        },
+        {
+          "ar": "بَعْدَ ثَلَاثَةِ أَيَّامٍ، رَجَعَ الْمُسَافِرُ حَزِينًا، لِأَنَّهُ حَسِبَ أَنَّ مَالَهُ ضَاعَ إِلَى الْأَبَدِ. عِنْدَمَا دَخَلَ الدُّكَّانَ وَسَأَلَ عَنِ الْكِيسِ، اِبْتَسَمَ سُلَيْمَانُ وَأَعَادَ إِلَيْهِ الْكِيسَ كَامِلًا دُونَ نَقْصٍ.",
+          "okunus": "Ba‘de selâseti eyyâmin, raca‘a'l-musâfiru hazînen, li-ennehu hasibe enne mâlehu dâ‘a ile'l-ebedi. ‘İndemâ dehale'd-dukkâne ve seele ‘ani'l-kîsi, ibteseme Suleymânu ve e‘âde ileyhi'l-kîse kâmilen dûne naksin.",
+          "tr": "Üç gün sonra yolcu üzgün bir hâlde döndü; çünkü parasının sonsuza dek kaybolduğunu sanmıştı. Dükkana girip keseyi sorduğunda Süleyman gülümsedi ve keseyi ona eksiksiz olarak geri verdi.",
+          "analiz": [
+            { "kelime": "حَسِبَ", "kok": "ح س ب", "gramer": "6. bab (حَسِبَ يَحْسِبُ = zannetti)", "tr": "sandı" },
+            { "kelime": "رَجَعَ", "kok": "ر ج ع", "gramer": "2. bab (رَجَعَ يَرْجِعُ)", "tr": "döndü" }
+          ]
+        },
+        {
+          "ar": "فَرِحَ الْمُسَافِرُ فَرَحًا شَدِيدًا وَشَكَرَ التَّاجِرَ الْأَمِينَ. اِنْتَشَرَتِ الْقِصَّةُ فِي الْمَدِينَةِ، فَوَثِقَ النَّاسُ بِسُلَيْمَانَ أَكْثَرَ، وَكَبُرَتْ تِجَارَتُهُ وَعَظُمَ احْتِرَامُهُ بَيْنَ الْجَمِيعِ.",
+          "okunus": "Feriha'l-musâfiru ferahan şedîden ve şekera't-tâcira'l-emîne. İnteşerati'l-kıssatu fi'l-medîneti, fe-vesika'n-nâsu bi-Suleymâne eksera, ve keburat ticâratuhu ve ‘azume'htirâmuhu beyne'l-cemî‘i.",
+          "tr": "Yolcu çok sevindi ve güvenilir tüccara teşekkür etti. Hikâye şehirde yayıldı; böylece insanlar Süleyman'a daha çok güvendiler, ticareti büyüdü ve herkes arasındaki saygınlığı yüceldi.",
+          "analiz": [
+            { "kelime": "وَثِقَ بِـ", "kok": "و ث ق", "gramer": "6. bab lâzım (وَثِقَ يَثِقُ بِـ)", "tr": "güvendi" },
+            { "kelime": "كَبُرَتْ / عَظُمَ", "kok": "ك ب ر", "gramer": "5. bab lâzım fiiller (u→u)", "tr": "büyüdü / yüceldi" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m12_r2_q1", "soru": "Yolcu dükkanda neyi unuttu?", "secenekler": ["Bir para kesesini", "Pasaportunu", "Şemsiyesini", "Saatini"], "dogruIndeks": 0, "aciklama": "'نَسِيَ مُسَافِرٌ كِيسَ نُقُودٍ عَلَى طَاوِلَةِ الدُّكَّانِ'." },
+        { "id": "m12_r2_q2", "soru": "Yolcu kaç gün sonra dükkana geri döndü?", "secenekler": ["Üç gün sonra", "Bir hafta sonra", "Aynı akşam", "On gün sonra"], "dogruIndeks": 0, "aciklama": "'بَعْدَ ثَلَاثَةِ أَيَّامٍ، رَجَعَ الْمُسَافِرُ'." },
+        { "id": "m12_r2_q3", "soru": "Metindeki 'حَسِبَ أَنَّ مَالَهُ ضَاعَ' cümlesinde حَسِبَ fiili kaçıncı babdandır ve ne anlama gelir?", "secenekler": ["6. Bab — zannetti/sandı", "1. Bab — hesapladı", "5. Bab — güzelleşti", "3. Bab — açtı"], "dogruIndeks": 0, "aciklama": "حَسِبَ يَحْسِبُ (6. bab) = zannetti." },
+        { "id": "m12_r2_q4", "soru": "Hikâye şehirde yayılınca ne oldu?", "secenekler": ["İnsanlar Süleyman'a daha çok güvendiler ve ticareti büyüdü", "Süleyman dükkanı kapattı", "Yolcu şehirden taşındı", "Fiyatlar yükseldi"], "dogruIndeks": 0, "aciklama": "'فَوَثِقَ النَّاسُ بِسُلَيْمَانَ أَكْثَرَ، وَكَبُرَتْ تِجَارَتُهُ'." },
+        { "id": "m12_r2_q5", "soru": "Metinde 6 babın tamamından örnek fiil var mıdır? Hangisi 5. bab örneğidir?", "secenekler": ["كَبُرَتْ ve عَظُمَ", "عَرَفَ ve رَجَعَ", "فَرِحَ ve حَفِظَ", "وَثِقَ ve حَسِبَ"], "dogruIndeks": 0, "aciklama": "كَبُرَ يَكْبُرُ ve عَظُمَ يَعْظُمُ 5. bab fiilleridir." }
+      ]
+    },
+    {
+      "id": "m12_r3",
+      "baslik": "Kökten Ormana: Tek Kökten Doğan Kelime Aileleri",
+      "arBaslik": "مِنَ الْجِذْرِ إِلَى الشَّجَرَةِ: عَائِلَاتُ الْكَلِمَاتِ",
+      "seviye": "A2",
+      "paragraflar": [
+        {
+          "ar": "تُشْبِهُ اللُّغَةُ الْعَرَبِيَّةُ شَجَرَةً عَظِيمَةً؛ جِذْرُهَا ثَلَاثَةُ حُرُوفٍ صَغِيرَةٍ، وَأَغْصَانُهَا عَشَرَاتُ الْكَلِمَاتِ الْمُتَرَابِطَةِ. إِذَا فَهِمَ الطَّالِبُ نِظَامَ الْجُذُورِ، فَإِنَّهُ يَكْتَشِفُ سِرَّ ثَرَاءِ هٰذِهِ اللُّغَةِ.",
+          "okunus": "Tuşbihu'l-lugatu'l-‘arabiyyetu şeceraten ‘azîmeten; cizruhâ selâsetu hurûfin sagîratin, ve agsânuhâ ‘aşerâtu'l-kelimâti'l-muterâbitati. İzâ fehime't-tâlibu nizâme'l-cuzûri, fe-innehu yekteşifu sirra serâi hâzihi'l-lugati.",
+          "tr": "Arap dili büyük bir ağaca benzer; kökü üç küçük harftir, dalları ise birbiriyle bağlantılı onlarca kelimedir. Öğrenci kök sistemini anlarsa bu dilin zenginliğinin sırrını keşfeder.",
+          "analiz": [
+            { "kelime": "فَهِمَ", "kok": "ف ه م", "gramer": "4. bab (فَهِمَ يَفْهَمُ)", "tr": "anladı" },
+            { "kelime": "الْجُذُورِ", "kok": "ج ذ ر", "gramer": "جِذْرٌ (kök) çoğulu", "tr": "kökler" }
+          ]
+        },
+        {
+          "ar": "خُذْ مَثَلًا جِذْرَ «ك ت ب» مِنَ الْبَابِ الْأَوَّلِ (كَتَبَ يَكْتُبُ): مِنْهُ يَأْتِي كِتَابٌ، وَكَاتِبٌ، وَمَكْتَبٌ، وَمَكْتَبَةٌ، وَمَكْتُوبٌ، وَكِتَابَةٌ. كُلُّ هٰذِهِ الْكَلِمَاتِ تَدُورُ حَوْلَ مَعْنَى الْكِتَابَةِ وَالْجَمْعِ.",
+          "okunus": "Huz meselen cizra «k-t-b» mine'l-bâbi'l-evveli (ketebe yektubu): minhu ye'tî kitâbun, ve kâtibun, ve mektebun, ve mektebetun, ve mektûbun, ve kitâbetun. Kullu hâzihi'l-kelimâti tedûru havle ma‘ne'l-kitâbeti ve'l-cem‘i.",
+          "tr": "Örneğin 1. babdan (كَتَبَ يَكْتُبُ) 'k-t-b' kökünü al: Ondan kitap, yazar, masa/ofis, kütüphane, mektup/yazılı ve yazı kelimeleri gelir. Bütün bu kelimeler yazma ve bir araya getirme anlamı etrafında döner.",
+          "analiz": [
+            { "kelime": "كَتَبَ يَكْتُبُ", "kok": "ك ت ب", "gramer": "1. bab (a→u)", "tr": "yazdı / yazar" },
+            { "kelime": "تَدُورُ حَوْلَ", "kok": "د و ر", "gramer": "Akılsız çoğul (الْكَلِمَاتِ) → müennes muzâri", "tr": "etrafında döner" }
+          ]
+        },
+        {
+          "ar": "وَاُنْظُرْ إِلَى جِذْرِ «س م ع» مِنَ الْبَابِ الرَّابِعِ (سَمِعَ يَسْمَعُ): تَجِدُ سَمْعٌ، وَسَامِعٌ، وَمَسْمُوعٌ، وَسَمَّاعَةٌ، وَمُسْتَمِعٌ. وَمِنْ جِذْرِ «ح ك م» مِنَ الْبَابِ الْأَوَّلِ (حَكَمَ يَحْكُمُ): حُكْمٌ، وَحَاكِمٌ، وَمَحْكَمَةٌ، وَحِكْمَةٌ، وَحَكِيمٌ!",
+          "okunus": "Ve'nzur ilâ cizri «s-m-‘a» mine'l-bâbi'r-râbi‘i (semi‘a yesme‘u): tecidu sem‘un, ve sâmi‘un, ve mesmû‘un, ve semmâ‘atun, ve mustemi‘un. Ve min cizri «h-k-m» mine'l-bâbi'l-evveli (hakeme yahkumu): hukmun, ve hâkimun, ve mahkemetun, ve hikmetun, ve hakîmun!",
+          "tr": "Ve 4. babdan 's-m-a' köküne bak: İşitme, dinleyen, işitilen, kulaklık/stetoskop ve dinleyici kelimelerini bulursun. 1. babdan 'h-k-m' kökünden ise hüküm, hâkim, mahkeme, hikmet ve bilge kelimeleri çıkar!",
+          "analiz": [
+            { "kelime": "سَمِعَ يَسْمَعُ", "kok": "س م ع", "gramer": "4. bab (i→a)", "tr": "duydu / duyar" },
+            { "kelime": "حَكَمَ يَحْكُمُ", "kok": "ح ك م", "gramer": "1. bab (a→u)", "tr": "hükmetti / hükmeder" }
+          ]
+        },
+        {
+          "ar": "لِذٰلِكَ، عِنْدَمَا تَرْغَبُ فِي زِيَادَةِ ثَرْوَتِكَ اللُّغَوِيَّةِ لِامْتِحَانَاتِ اللُّغَةِ، لَا تَحْفَظِ الْكَلِمَاتِ مُتَفَرِّقَةً، بَلِ ارْبُطْ كُلَّ كَلِمَةٍ بِجِذْرِهَا وَبَابِهَا؛ فَسَيَكْبُرُ رَصِيدُكَ اللُّغَوِيُّ بِسُرْعَةٍ مُذْهِلَةٍ!",
+          "okunus": "Li-zâlike, ‘indemâ tergabu fî ziyâdeti servetike'l-lugaviyyeti li'mtihânâti'l-lugati, lâ tahfazi'l-kelimâti muteferrikaten, beli'rbut kulle kelimetin bi-cizrihâ ve bâbihâ; fe-se-yekburu rasîduke'l-lugaviyyu bi-sur‘atin muzhiletin!",
+          "tr": "Bu yüzden dil sınavları için kelime hazineni artırmak istediğinde kelimeleri dağınık ezberleme; aksine her kelimeyi köküne ve babına bağla; böylece dil birikimin şaşırtıcı bir hızla büyüyecektir!",
+          "analiz": [
+            { "kelime": "تَرْغَبُ فِي", "kok": "ر غ ب", "gramer": "4. bab lâzım fiil (رَغِبَ فِي)", "tr": "istiyorsun / arzuluyorsun" },
+            { "kelime": "سَيَكْبُرُ", "kok": "ك ب ر", "gramer": "سَـ + 5. bab muzâri (كَبُرَ يَكْبُرُ)", "tr": "büyüyecektir" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m12_r3_q1", "soru": "Metinde Arap dili neye benzetilmektedir?", "secenekler": ["Üç harfli köklü ve onlarca dallı büyük bir ağaca", "Küçük bir nehire", "Yüksek bir dağa", "Eski bir haritaya"], "dogruIndeks": 0, "aciklama": "'تُشْبِهُ اللُّغَةُ الْعَرَبِيَّةُ شَجَرَةً عَظِيمَةً؛ جِذْرُهَا ثَلَاثَةُ حُرُوفٍ'." },
+        { "id": "m12_r3_q2", "soru": "Metne göre 'سَمَّاعَةٌ' (kulaklık/stetoskop) hangi kökten ve babdan gelir?", "secenekler": ["س - م - ع (4. Bab: سَمِعَ يَسْمَعُ)", "ح - ك - م (1. Bab)", "ك - ت - ب (1. Bab)", "ف - ت - ح (3. Bab)"], "dogruIndeks": 0, "aciklama": "'جِذْرِ س م ع مِنَ الْبَابِ الرَّابِعِ: سَمْعٌ ... وَسَمَّاعَةٌ'." },
+        { "id": "m12_r3_q3", "soru": "'مَحْكَمَةٌ' (mahkeme) ve 'حِكْمَةٌ' (hikmet) kelimelerinin ortak fiili ve babı hangisidir?", "secenekler": ["حَكَمَ يَحْكُمُ (1. Bab)", "حَكِمَ يَحْكَمُ (4. Bab)", "حَكُمَ يَحْكُمُ (5. Bab)", "حَكَمَ يَحْكِمُ (2. Bab)"], "dogruIndeks": 0, "aciklama": "'مِنْ جِذْرِ ح ك م مِنَ الْبَابِ الْأَوَّلِ (حَكَمَ يَحْكُمُ)'." },
+        { "id": "m12_r3_q4", "soru": "Dil sınavları için kelime hazinesini hızla artırmanın yolu nedir?", "secenekler": ["Her kelimeyi köküne ve babına bağlayarak öğrenmek", "Kelimeleri birbirinden kopuk ezberlemek", "Sadece harf-i cerleri okumak", "Sözlük kullanmamak"], "dogruIndeks": 0, "aciklama": "'ارْبُطْ كُلَّ كَلِمَةٍ بِجِذْرِهَا وَبَابِهَا'." },
+        { "id": "m12_r3_q5", "soru": "Son cümledeki 'سَيَكْبُرُ' fiili kaçıncı babdandır?", "secenekler": ["5. Bab (كَبُرَ يَكْبُرُ)", "1. Bab", "2. Bab", "3. Bab"], "dogruIndeks": 0, "aciklama": "كَبُرَ يَكْبُرُ (büyümek) 5. bab lâzım fiildir." }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "m12_d1",
+      "baslik": "Kütüphanede Sözlük Okuma Alıştırması",
+      "ortam": "İki arkadaş klasik Arapça sözlükte fiil bablarını çözüyor",
+      "replikler": [
+        { "konusan": "طارق", "ar": "أَهْلًا يَا أَنَسُ! مَاذَا تَفْعَلُ مَعَ هٰذَا الْمُعْجَمِ الضَّخْمِ؟", "okunus": "Ehlen yâ Enesu! Mâzâ tef‘alu me‘a hâze'l-mu‘cemi'd-dahmi?", "tr": "Merhaba Enes! Bu kocaman sözlükle ne yapıyorsun?" },
+        { "konusan": "أنس", "ar": "أَبْحَثُ عَنْ بَعْضِ الْأَفْعَالِ الثُّلَاثِيَّةِ لِأَعْرِفَ أَبْوَابَهَا السِّتَّةَ.", "okunus": "Ebhasu ‘an ba‘di'l-ef‘âli's-sulâsiyyeti li-a‘rife ebvâbehe's-sittete.", "tr": "Altı bablarını bilmek için bazı sülâsî fiilleri araştırıyorum." },
+        { "konusan": "طارق", "ar": "رَائِعٌ! مَا رَأْيُكَ أَنْ نَخْتَبِرَ بَعْضَنَا الْآنَ؟", "okunus": "Râi‘un! Mâ ra'yuke en nahtebira ba‘danâ'l-âne?", "tr": "Harika! Şimdi birbirimizi sınamaya ne dersin?" },
+        { "konusan": "أنس", "ar": "فِكْرَةٌ مُمْتَازَةٌ! اِبْدَأْ بِالسُّؤَالِ الْأَوَّلِ.", "okunus": "Fikratun mumtâzetun! İbde' bi's-suâli'l-evveli.", "tr": "Mükemmel fikir! İlk soruyla başla." },
+        { "konusan": "طارق", "ar": "مِنْ أَيِّ بَابٍ الْفِعْلُ «دَخَلَ»، وَمَا مُضَارِعُهُ؟", "okunus": "Min eyyi bâbin el-fi‘lu «dehale», ve mâ mudâri‘uhu?", "tr": "'دَخَلَ' fiili hangi babdandır ve muzârisi nedir?" },
+        { "konusan": "أنس", "ar": "دَخَلَ يَدْخُلُ! هُوَ مِنَ الْبَابِ الْأَوَّلِ، فَتْحُ ضَمٍّ، مِثْلُ نَصَرَ يَنْصُرُ.", "okunus": "Dehale yedhulu! Huve mine'l-bâbi'l-evveli, fethu dammin, mislu nasara yensuru.", "tr": "دَخَلَ يَدْخُلُ! 1. babdandır, fethu dam, tıpkı نَصَرَ يَنْصُرُ gibi." },
+        { "konusan": "طارق", "ar": "أَحْسَنْتَ! وَمِنْ أَيِّ بَابٍ «رَجَعَ» وَ«جَلَسَ» وَ«عَرَفَ»؟", "okunus": "Ahsente! Ve min eyyi bâbin «raca‘a» ve «celese» ve «‘arafe»?", "tr": "Aferin! Peki 'رَجَعَ', 'جَلَسَ' ve 'عَرَفَ' hangi babdandır?" },
+        { "konusan": "أنس", "ar": "كُلُّهَا مِنَ الْبَابِ الثَّانِي: يَرْجِعُ، وَيَجْلِسُ، وَيَعْرِفُ، بِالْكَسْرِ!", "okunus": "Kulluhâ mine'l-bâbi's-sânî: yerci‘u, ve yeclisu, ve ya‘rifu, bi'l-kesri!", "tr": "Hepsi 2. babdandır: يَرْجِعُ, يَجْلِسُ ve يَعْرِفُ, kesrayla!" },
+        { "konusan": "طارق", "ar": "مُمْتَازٌ! وَمَاذَا عَنِ الْبَابِ الثَّالِثِ مِثْلَ «جَمَعَ» وَ«بَحَثَ»؟", "okunus": "Mumtâzun! Ve mâzâ ‘ani'l-bâbi's-sâlisi misle «ceme‘a» ve «behase»?", "tr": "Harika! Peki 'جَمَعَ' ve 'بَحَثَ' gibi 3. bab hakkında ne dersin?" },
+        { "konusan": "أنس", "ar": "فِيهَا حَرْفٌ مِنْ حُرُوفِ الْحَلْقِ، فَنَقُولُ: جَمَعَ يَجْمَعُ وَبَحَثَ يَبْحَثُ!", "okunus": "Fîhâ harfun min hurûfi'l-halki, fe-nekûlu: ceme‘a yecme‘u ve behase yebhasu!", "tr": "İçlerinde boğaz harflerinden biri var; bu yüzden جَمَعَ يَجْمَعُ ve بَحَثَ يَبْحَثُ deriz!" },
+        { "konusan": "طارق", "ar": "آخِرُ سُؤَالٍ: مَا الْبَابُ الَّذِي تَكُونُ جَمِيعُ أَفْعَالِهِ لَازِمَةً؟", "okunus": "Âhiru suâlin: me'l-bâbu'llezî tekûnu cemî‘u ef‘âlihi lâzimeten?", "tr": "Son soru: Tüm fiilleri lâzım (geçişsiz) olan bab hangisidir?" },
+        { "konusan": "أنس", "ar": "الْبَابُ الْخَامِسُ طَبْعًا! مِثْلَ كَرُمَ يَكْرُمُ وَحَسُنَ يَحْسُنُ وَسَهُلَ يَسْهُلُ!", "okunus": "El-bâbu'l-hâmisu tab‘an! Misle kerume yekrumu ve hasune yahsunu ve sehule yeshulu!", "tr": "Elbette 5. bab! Tıpkı كَرُمَ يَكْرُمُ, حَسُنَ يَحْسُنُ ve سَهُلَ يَسْهُلُ gibi!" }
+      ],
+      "partner": [
+        { "soruAr": "مِنْ أَيِّ بَابٍ الْفِعْلُ «دَخَلَ يَدْخُلُ»؟", "soruTr": "'دَخَلَ يَدْخُلُ' fiili kaçıncı babdandır?", "ipucu": "Fethu dam (a→u) = 1. bab.", "secenekler": ["مِنَ الْبَابِ الْأَوَّلِ (فَعَلَ يَفْعُلُ).", "مِنَ الْبَابِ الثَّالِثِ.", "مِنَ الْبَابِ الْخَامِسِ."], "dogruIndeks": 0, "aciklama": "دَخَلَ يَدْخُلُ 1. babdandır." },
+        { "soruAr": "مَا مُضَارِعُ الْفِعْلِ «عَرَفَ»؟", "soruTr": "'عَرَفَ' fiilinin muzârisi nedir?", "ipucu": "2. bab (kesralı): يَعْرِفُ.", "secenekler": ["يَعْرِفُ.", "يَعْرُفُ.", "يَعْرَفُ."], "dogruIndeks": 0, "aciklama": "عَرَفَ يَعْرِفُ (2. bab)." },
+        { "soruAr": "لِمَاذَا جَاءَ «بَحَثَ يَبْحَثُ» مِنَ الْبَابِ الثَّالِثِ؟", "soruTr": "'بَحَثَ يَبْحَثُ' neden 3. babdan gelmiştir?", "ipucu": "Orta harfi ح boğaz harfidir.", "secenekler": ["لِأَنَّ عَيْنَهُ حَرْفٌ مِنْ حُرُوفِ الْحَلْقِ (ح).", "لِأَنَّهُ مِنْ بَابِ كَرُمَ.", "لِأَنَّهُ فِعْلٌ مَزِيدٌ."], "dogruIndeks": 0, "aciklama": "3. babda 2. veya 3. kök harfi boğaz harfidir." },
+        { "soruAr": "أَيُّ بَابٍ تَكُونُ جَمِيعُ أَفْعَالِهِ لَازِمَةً؟", "soruTr": "Hangi babın tüm fiilleri lâzımdır?", "ipucu": "5. bab (فَعُلَ يَفْعُلُ).", "secenekler": ["الْبَابُ الْخَامِسُ (فَعُلَ يَفْعُلُ).", "الْبَابُ الْأَوَّلُ.", "الْبَابُ الثَّانِي."], "dogruIndeks": 0, "aciklama": "5. bab daima lâzımdır." },
+        { "soruAr": "مَا مَعْنَى رَمْزِ «ض» فِي الْمُعْجَمِ الْعَرَبِيِّ؟", "soruTr": "Arapça sözlükte 'ض' sembolü ne anlama gelir?", "ipucu": "ضَرَبَ يَضْرِبُ = 2. bab.", "secenekler": ["الْبَابُ الثَّانِي (ضَرَبَ يَضْرِبُ).", "الْبَابُ الْأَوَّلُ.", "الْبَابُ السَّادِسُ."], "dogruIndeks": 0, "aciklama": "ض = 2. bab kısaltmasıdır." }
+      ]
+    },
+    {
+      "id": "m12_d2",
+      "baslik": "Sınıfta Lâzım ve Müteaddi Fiil Tartışması",
+      "ortam": "Öğretmen öğrencilere harf-i cerli fiil tuzaklarını soruyor",
+      "replikler": [
+        { "konusan": "الأستاذ", "ar": "صَبَاحُ الْخَيْرِ يَا طُلَّابُ! هَلْ تَعْرِفُونَ الْفَرْقَ بَيْنَ الْفِعْلِ اللَّازِمِ وَالْمُتَعَدِّي؟", "okunus": "Sabâhu'l-hayri yâ tullâbu! Hel ta‘rifûne'l-farka beyne'l-fi‘li'l-lâzimi ve'l-mute‘addî?", "tr": "Günaydın öğrenciler! Lâzım ile müteaddi fiil arasındaki farkı biliyor musunuz?" },
+        { "konusan": "مريم", "ar": "نَعَمْ يَا أُسْتَاذُ! الْمُتَعَدِّي يَحْتَاجُ إِلَى مَفْعُولٍ بِهِ مَنْصُوبٍ، مِثْلَ: قَرَأَ الطَّالِبُ الْكِتَابَ.", "okunus": "Ne‘am yâ ustâzu! El-mute‘addî yahtâcu ilâ mef‘ûlin bihi mansûbin, misle: karae't-tâlibu'l-kitâbe.", "tr": "Evet hocam! Müteaddi fiil mansub bir mef'ûlün bihe ihtiyaç duyar; 'Öğrenci kitabı okudu' gibi." },
+        { "konusan": "الأستاذ", "ar": "أَحْسَنْتِ يَا مَرْيَمُ! وَمَاذَا عَنِ الْفِعْلِ اللَّازِمِ يَا خَالِدُ؟", "okunus": "Ahsenti yâ Meryemu! Ve mâzâ ‘ani'l-fi‘li'l-lâzimi yâ Hâlidu?", "tr": "Aferin Meryem! Peki lâzım fiil nedir Halid?" },
+        { "konusan": "خالد", "ar": "اللَّازِمُ يَكْتَفِي بِفَاعِلِهِ وَلَا يَأْخُذُ مَفْعُولًا بِهِ مُبَاشَرَةً، مِثْلَ: جَلَسَ الطَّالِبُ عَلَى الْكُرْسِيِّ.", "okunus": "El-lâzimu yektefî bi-fâ‘ilihi ve lâ ye'huzu mef‘ûlen bihi mubâşeraten, misle: celese't-tâlibu ‘ale'l-kursiyyi.", "tr": "Lâzım fiil fâiliyle yetinir ve doğrudan nesne almaz; 'Öğrenci sandalyeye oturdu' gibi." },
+        { "konusan": "الأستاذ", "ar": "مُمْتَازٌ! الْآنَ سُؤَالٌ مُهِمٌّ لِامْتِحَانَاتِ اللُّغَةِ: أَيُّ حَرْفِ جَرٍّ يَأْتِي مَعَ الْفِعْلِ «بَحَثَ»؟", "okunus": "Mumtâzun! El-âne suâlun muhimmun li'mtihânâti'l-lugati: eyyu harfi cerrin ye'tî me‘a'l-fi‘li «behase»?", "tr": "Harika! Şimdi dil sınavları için önemli bir soru: 'بَحَثَ' fiiliyle hangi harf-i cer gelir?" },
+        { "konusan": "مريم", "ar": "حَرْفُ الْجَرِّ «عَنْ»! نَقُولُ: بَحَثْتُ عَنِ الْمِفْتَاحِ، وَلَا نَقُولُ بَحَثْتُ الْمِفْتَاحَ.", "okunus": "Harfu'l-cerri «‘an»! Nekûlu: behastu ‘ani'l-miftâhi, ve lâ nekûlu behastu'l-miftâha.", "tr": "'عَنْ' harf-i ceri! 'Anahtarı aradım' derken بَحَثْتُ عَنِ الْمِفْتَاحِ deriz." },
+        { "konusan": "الأستاذ", "ar": "بَارَكَ اللّٰهُ فِيكِ! وَمَاذَا نَقُولُ مَعَ «شَعَرَ» وَ«وَثِقَ»؟", "okunus": "Bârakallâhu fîki! Ve mâzâ nekûlu me‘a «şe‘ara» ve «vesika»?", "tr": "Allah seni bereketlendirsin! Peki 'شَعَرَ' ve 'وَثِقَ' ile ne deriz?" },
+        { "konusan": "خالد", "ar": "كِلَاهُمَا يَأْخُذَانِ حَرْفَ الْجَرِّ «بِـ»! نَقُولُ: شَعَرْتُ بِالسَّعَادَةِ، وَوَثِقْتُ بِصَدِيقِي.", "okunus": "Kilâhumâ ye'huzâni harfe'l-cerri «bi»! Nekûlu: şe‘artu bi's-sa‘âdeti, ve vesiktu bi-sadîkî.", "tr": "İkisi de 'بِـ' harf-i cerini alır! 'شَعَرْتُ بِالسَّعَادَةِ' ve 'وَثِقْتُ بِصَدِيقِي' deriz." },
+        { "konusan": "الأستاذ", "ar": "وَمَا الْفَرْقُ بَيْنَ «رَغِبَ فِي» وَ«رَغِبَ عَنْ» يَا طُلَّابُ؟", "okunus": "Ve me'l-farku beyne «ragibe fî» ve «ragibe ‘an» yâ tullâbu?", "tr": "Peki 'رَغِبَ فِي' ile 'رَغِبَ عَنْ' arasındaki fark nedir öğrenciler?" },
+        { "konusan": "مريم", "ar": "«رَغِبَ فِي» يَعْنِي أَحَبَّ وَأَرَادَ، أَمَّا «رَغِبَ عَنْ» فَيَعْنِي تَرَكَ وَأَعْرَضَ عَنْهُ!", "okunus": "«Ragibe fî» ya‘nî ehabbe ve erâde, emmâ «ragibe ‘an» fe-ya‘nî terake ve a‘rada ‘anhu!", "tr": "'رَغِبَ فِي' sevdi ve istedi demektir; 'رَغِبَ عَنْ' ise bıraktı ve yüz çevirdi demektir!" },
+        { "konusan": "الأستاذ", "ar": "مَا شَاءَ اللّٰهُ عَلَيْكُمْ! هٰذِهِ النِّقَاطُ تَرْفَعُ دَرَجَتَكُمْ فِي الْقِرَاءَةِ وَالتَّرْجَمَةِ كَثِيرًا.", "okunus": "Mâ şâallâhu ‘aleykum! Hâzihi'n-nikâtu terfa‘u derecetekum fi'l-kirâeti ve't-tercemeti kesîran.", "tr": "Maşallah size! Bu noktalar okuma ve tercümedeki notunuzu çok yükseltir." },
+        { "konusan": "خالد", "ar": "شُكْرًا يَا أُسْتَاذُ، سَنَكْتُبُ جَدْوَلًا خَاصًّا بِالْأَفْعَالِ وَحُرُوفِ جَرِّهَا!", "okunus": "Şukran yâ ustâzu, se-nektubu cedvelen hâssan bi'l-ef‘âli ve hurûfi cerrihâ!", "tr": "Teşekkürler hocam, fiiller ve harf-i cerleri için özel bir tablo yazacağız!" }
+      ],
+      "partner": [
+        { "soruAr": "أَيُّ حَرْفِ جَرٍّ يُسْتَخْدَمُ مَعَ «شَعَرَ»؟", "soruTr": "'شَعَرَ' fiili hangi harf-i cerle kullanılır?", "ipucu": "بِـ (شَعَرَ بِالتَّعَبِ).", "secenekler": ["حَرْفُ الْجَرِّ «بِـ».", "حَرْفُ الْجَرِّ «إِلَى».", "بِلَا حَرْفِ جَرٍّ."], "dogruIndeks": 0, "aciklama": "شَعَرَ بِـ kalıbı standarttır." },
+        { "soruAr": "مَا مَعْنَى «رَغِبَ عَنِ الْكَسَلِ»؟", "soruTr": "'رَغِبَ عَنِ الْكَسَلِ' ne demektir?", "ipucu": "عَنْ yüz çevirmek/uzak durmak anlamı verir!", "secenekler": ["Tembellikten yüz çevirdi / uzak durdu.", "Tembelliği çok istedi.", "Tembelliği anladı."], "dogruIndeks": 0, "aciklama": "رَغِبَ فِي = istedi, رَغِبَ عَنْ = yüz çevirdi." },
+        { "soruAr": "هَلِ الْفِعْلُ «جَلَسَ» لَازِمٌ أَمْ مُتَعَدٍّ؟", "soruTr": "'جَلَسَ' fiili lâzım mı müteaddi mi?", "ipucu": "Doğrudan nesne almaz → Lâzım.", "secenekler": ["فِعْلٌ لَازِمٌ.", "فِعْلٌ مُتَعَدٍّ.", "اِسْمُ إِشَارَةٍ."], "dogruIndeks": 0, "aciklama": "جَلَسَ عَلَى الْكُرْسِيِّ → lâzım fiildir." },
+        { "soruAr": "كَيْفَ تَقُولُ 'Anahtarı aradım' بِالْعَرَبِيَّةِ؟", "soruTr": "'Anahtarı aradım' Arapçada nasıl söylenir?", "ipucu": "بَحَثَ عَنْ!", "secenekler": ["بَحَثْتُ عَنِ الْمِفْتَاحِ.", "بَحَثْتُ الْمِفْتَاحَ.", "بَحَثْتُ إِلَى الْمِفْتَاحِ."], "dogruIndeks": 0, "aciklama": "بَحَثَ عَنْ kalıbı kullanılır." },
+        { "soruAr": "مَا مَعْنَى 'رَغِبْتُ فِي السَّفَرِ'؟", "soruTr": "'رَغِبْتُ فِي السَّفَرِ' ne demektir?", "ipucu": "فِي = istemek / arzulamak.", "secenekler": ["Yolculuk etmek istedim / arzuladım.", "Yolculuktan vazgeçtim.", "Yolculuktan döndüm."], "dogruIndeks": 0, "aciklama": "رَغِبَ فِي = arzuladı." }
+      ]
+    },
+    {
+      "id": "m12_d3",
+      "baslik": "Kök Avı Oyunu (İki Kardeş Yarışıyor)",
+      "ortam": "İki kardeş akşam çay içerken kelimelerin 3 harfli köklerini bulma oyunu oynuyor",
+      "replikler": [
+        { "konusan": "يوسف", "ar": "يَا زَيْنَبُ، هَلْ نَلْعَبُ لُعْبَةَ «الْجِذْرِ وَالْبَابِ» بَيْنَمَا نَشْرَبُ الشَّايَ؟", "okunus": "Yâ Zeynebu, hel nel‘abu lu‘bete «el-cizri ve'l-bâbi» beynemâ neşrabu'ş-şâye?", "tr": "Zeynep, çay içerken 'Kök ve Bab' oyunu oynayalım mı?" },
+        { "konusan": "زينب", "ar": "بِكُلِّ سُرُورٍ يَا يُوسُفُ! أَنَا جَاهِزَةٌ، أَعْطِنِي الْكَلِمَةَ الْأُولَى!", "okunus": "Bi-kulli surûrin yâ Yûsufu! Ene câhizetun, a‘tinî'l-kelimete'l-ûlâ!", "tr": "Memnuniyetle Yusuf! Hazırım, bana ilk kelimeyi ver!" },
+        { "konusan": "يوسف", "ar": "الْكَلِمَةُ الْأُولَى: «مِفْتَاحٌ». مَا جِذْرُهَا وَمَا بَابُ فِعْلِهَا؟", "okunus": "El-kelimetu'l-ûlâ: «miftâhun». Mâ cizruhâ ve mâ bâbu fi‘lihâ?", "tr": "İlk kelime: 'مِفْتَاحٌ' (anahtar). Kökü nedir ve fiilinin babı hangisidir?" },
+        { "konusan": "زينب", "ar": "سَهْلٌ جِدًّا! جِذْرُهَا «ف ت ح»، وَفِعْلُهَا «فَتَحَ يَفْتَحُ» مِنَ الْبَابِ الثَّالِثِ!", "okunus": "Sehlun cidden! Cizruhâ «f-t-h», ve fi‘luhâ «feteha yeftehu» mine'l-bâbi's-sâlisi!", "tr": "Çok kolay! Kökü 'ف-ت-ح' ve fiili 3. babdan 'فَتَحَ يَفْتَحُ'!" },
+        { "konusan": "يوسف", "ar": "نُقْطَةٌ لَكِ! الْآنَ دَوْرِي: اِسْأَلِينِي عَنْ كَلِمَةٍ صَعْبَةٍ!", "okunus": "Nuktatun leki! El-âne devrî: is'elînî ‘an kelimetin sa‘betin!", "tr": "Sana bir puan! Şimdi sıra bende: Bana zor bir kelime sor!" },
+        { "konusan": "زينب", "ar": "حَسَنًا! مَا جِذْرُ كَلِمَةِ «مَجْلِسٌ» وَمَا بَابُ فِعْلِهَا؟", "okunus": "Hasenen! Mâ cizru kelimeti «meclisun» ve mâ bâbu fi‘lihâ?", "tr": "Pekâlâ! 'مَجْلِسٌ' (meclis) kelimesinin kökü ve fiilinin babı nedir?" },
+        { "konusan": "يوسف", "ar": "جِذْرُهَا «ج ل س»، وَفِعْلُهَا «جَلَسَ يَجْلِسُ» مِنَ الْبَابِ الثَّانِي!", "okunus": "Cizruhâ «c-l-s», ve fi‘luhâ «celese yeclisu» mine'l-bâbi's-sânî!", "tr": "Kökü 'ج-ل-س' ve fiili 2. babdan 'جَلَسَ يَجْلِسُ'!" },
+        { "konusan": "زينب", "ar": "صَحِيحٌ! وَمَاذَا عَنْ كَلِمَةِ «مَفْهُومٌ» وَ«مَشْرُوبٌ»؟", "okunus": "Sahîhun! Ve mâzâ ‘an kelimeti «mefhûmun» ve «meşrûbun»?", "tr": "Doğru! Peki 'مَفْهُومٌ' ve 'مَشْرُوبٌ' kelimeleri?" },
+        { "konusan": "يوسف", "ar": "الْأُولَى مِنْ «ف ه م» (فَهِمَ يَفْهَمُ) وَالثَّانِيَةُ مِنْ «ش ر ب» (شَرِبَ يَشْرَبُ)، كِلَاهُمَا مِنَ الْبَابِ الرَّابِعِ!", "okunus": "El-ûlâ min «f-h-m» (fehime yefhemu) ve's-sâniyetu min «ş-r-b» (şeribe yeşrabu), kilâhumâ mine'l-bâbi'r-râbi‘i!", "tr": "İlki 'ف-ه-م' (فَهِمَ يَفْهَمُ), ikincisi 'ش-ر-ب' (شَرِبَ يَشْرَبُ); ikisi de 4. babdan!" },
+        { "konusan": "زينب", "ar": "مَا شَاءَ اللّٰهُ! وَآخِرُ كَلِمَةٍ: «كَرِيمٌ» وَ«سَهْلٌ»، مِنْ أَيِّ بَابٍ فِعْلَاهُمَا؟", "okunus": "Mâ şâallâhu! Ve âhiru kelimetin: «kerîmun» ve «sehlun», min eyyi bâbin fi‘lâhumâ?", "tr": "Maşallah! Ve son kelime: 'كَرِيمٌ' ve 'سَهْلٌ', ikisinin fiilleri hangi babdan?" },
+        { "konusan": "يوسف", "ar": "كَرُمَ يَكْرُمُ وَسَهُلَ يَسْهُلُ، مِنَ الْبَابِ الْخَامِسِ! تَعَادَلْنَا فِي النِّقَاطِ!", "okunus": "Kerume yekrumu ve sehule yeshulu, mine'l-bâbi'l-hâmisi! Te‘âdelnâ fi'n-nikâti!", "tr": "كَرُمَ يَكْرُمُ ve سَهُلَ يَسْهُلُ, 5. babdan! Puanlarda berabere kaldık!" },
+        { "konusan": "زينب", "ar": "هٰذِهِ أَجْمَلُ طَرِيقَةٍ لِمُرَاجَعَةِ الصَّرْفِ، سَنَلْعَبُهَا كُلَّ أُسْبُوعٍ!", "okunus": "Hâzihi ecmelu tarîkatin li-murâca‘ati's-sarfi, se-nel‘abuhâ kulle usbû‘in!", "tr": "Bu sarf tekrarı için en güzel yöntem, bunu her hafta oynayacağız!" }
+      ],
+      "partner": [
+        { "soruAr": "مَا جِذْرُ كَلِمَةِ «مَجْلِسٌ»؟", "soruTr": "'مَجْلِسٌ' kelimesinin 3 harfli kökü nedir?", "ipucu": "مَـ mekân ekini at: ج-ل-س.", "secenekler": ["ج - ل - س (جَلَسَ يَجْلِسُ).", "م - ج - ل.", "ل - س - م."], "dogruIndeks": 0, "aciklama": "مَجْلِسٌ = oturulan yer (ج-ل-س)." },
+        { "soruAr": "مِنْ أَيِّ بَابٍ الْفِعْلُ «فَهِمَ يَفْهَمُ»؟", "soruTr": "'فَهِمَ يَفْهَمُ' kaçıncı babdandır?", "ipucu": "Kesru feth (i→a) = 4. bab.", "secenekler": ["مِنَ الْبَابِ الرَّابِعِ.", "مِنَ الْبَابِ الْأَوَّلِ.", "مِنَ الْبَابِ الثَّانِي."], "dogruIndeks": 0, "aciklama": "4. bab: فَهِمَ يَفْهَمُ." },
+        { "soruAr": "مَا جِذْرُ كَلِمَةِ «مَشْرُوبٌ»؟", "soruTr": "'مَشْرُوبٌ' (içecek) kelimesinin kökü nedir?", "ipucu": "مَـ ve و eklerini at: ش-ر-ب.", "secenekler": ["ش - ر - ب (شَرِبَ يَشْرَبُ).", "م - ش - ر.", "ر - و - ب."], "dogruIndeks": 0, "aciklama": "ش-ر-ب kökünden ism-i mef'ûldür." },
+        { "soruAr": "مِنْ أَيِّ بَابٍ الْفِعْلُ «كَرُمَ يَكْرُمُ»؟", "soruTr": "'كَرُمَ يَكْرُمُ' kaçıncı babdandır?", "ipucu": "Dammu dam (u→u) = 5. bab.", "secenekler": ["مِنَ الْبَابِ الْخَامِسِ.", "مِنَ الْبَابِ السَّادِسِ.", "مِنَ الْبَابِ الثَّالِثِ."], "dogruIndeks": 0, "aciklama": "5. bab (فَعُلَ يَفْعُلُ)." },
+        { "soruAr": "أَيُّ فِعْلٍ يَدُلُّ عَلَى الْحَاجَةِ إِلَى حَرْفِ حَلْقٍ فِي الْبَابِ الثَّالِثِ؟", "soruTr": "3. babda boğaz harfi bulunan örnek fiil hangisidir?", "ipucu": "فَتَحَ يَفْتَحُ (ح harfi).", "secenekler": ["فَتَحَ يَفْتَحُ.", "كَتَبَ يَكْتُبُ.", "جَلَسَ يَجْلِسُ."], "dogruIndeks": 0, "aciklama": "فَتَحَ fiilinde ح boğaz harfidir." }
+      ]
+    },
+    {
+      "id": "m12_d4",
+      "baslik": "YDS Hazırlık Grubunda Hızlı Fiil Analizi",
+      "ortam": "İki üniversite öğrencisi sınav öncesi 6 bab ve harf-i cerli fiil tekrarı yapıyor",
+      "replikler": [
+        { "konusan": "سلمان", "ar": "هَلْ أَنْتَ مُسْتَعِدٌّ لِلتَّدْرِيبِ السَّرِيعِ عَلَى أَبْوَابِ الْأَفْعَالِ يَا كَرِيمُ؟", "okunus": "Hel ente muste‘iddun li't-tedrîbi's-serî‘i ‘alâ ebvâbi'l-ef‘âli yâ Kerîmu?", "tr": "Fiil babları üzerine hızlı antrenmana hazır mısın Kerim?" },
+        { "konusan": "كريم", "ar": "نَعَمْ! أَحْتَاجُ إِلَى تَثْبِيتِ الْفَرْقِ بَيْنَ بَعْضِ الْأَفْعَالِ الْمُتَشَابِهَةِ.", "okunus": "Ne‘am! Ahtâcu ilâ tesbîti'l-farki beyne ba‘di'l-ef‘âli'l-muteşâbiheti.", "tr": "Evet! Birbirine benzeyen bazı fiiller arasındaki farkı pekiştirmeye ihtiyacım var." },
+        { "konusan": "سلمان", "ar": "اِسْمَعْ هٰذَا الزَّوْجَ: «حَسَبَ يَحْسُبُ» وَ«حَسِبَ يَحْسِبُ»! مَا الْفَرْقُ؟", "okunus": "İsme‘ hâze'z-zevce: «hasebe yahsubu» ve «hasibe yahsibu»! Me'l-farku?", "tr": "Şu çifte kulak ver: 'حَسَبَ يَحْسُبُ' ve 'حَسِبَ يَحْسِبُ'! Fark nedir?" },
+        { "konusan": "كريم", "ar": "الْأَوَّلُ مِنَ الْبَابِ الْأَوَّلِ بِمَعْنَى عَدَّ وَحَسَبَ الْأَرْقَامَ، وَالثَّانِي مِنَ الْبَابِ السَّادِسِ بِمَعْنَى ظَنَّ!", "okunus": "El-evvelu mine'l-bâbi'l-evveli bi-ma‘nâ ‘adde ve hasebe'l-erkâme, ve's-sânî mine'l-bâbi's-sâdisi bi-ma‘nâ zanne!", "tr": "İlki 1. babdan olup rakamları saymak/hesaplamak anlamında; ikincisi 6. babdan olup zannetmek anlamında!" },
+        { "konusan": "سلمان", "ar": "رَائِعٌ! وَالْآنَ الزَّوْجُ الثَّانِي: «لَبِسَ يَلْبَسُ» وَ«لَبَسَ يَلْبِسُ»!", "okunus": "Râi‘un! Ve'l-âne'z-zevcu's-sânî: «lebise yelbesu» ve «lebese yelbisu»!", "tr": "Harika! Şimdi ikinci çift: 'لَبِسَ يَلْبَسُ' ve 'لَبَسَ يَلْبِسُ'!" },
+        { "konusan": "كريم", "ar": "«لَبِسَ يَلْبَسُ» مِنَ الْبَابِ الرَّابِعِ بِمَعْنَى ارْتَدَى الثِّيَابَ، أَمَّا «لَبَسَ» فَبِمَعْنَى خَلَطَ الْأَمْرَ!", "okunus": "«Lebise yelbesu» mine'l-bâbi'r-râbi‘i bi-ma‘nâ'rtede's-siyâbe, emmâ «lebese» fe-bi-ma‘nâ halata'l-emra!", "tr": "'لَبِسَ يَلْبَسُ' 4. babdan giyinmek demektir; 'لَبَسَ' ise işi karıştırmak/bulandırmak demektir!" },
+        { "konusan": "سلمان", "ar": "مُمْتَازٌ! هَلْ تَعْرِفُ لِمَاذَا نَحْتَاجُ إِلَى مَعْرِفَةِ الْبَابِ عِنْدَ صِيَاغَةِ الْأَمْرِ؟", "okunus": "Mumtâzun! Hel ta‘rifu limâzâ nahtâcu ilâ ma‘rifeti'l-bâbi ‘inde sıyâgati'l-emri?", "tr": "Mükemmel! Emir kipi türetirken babı bilmeye neden ihtiyaç duyduğumuzu biliyor musun?" },
+        { "konusan": "كريم", "ar": "نَعَمْ! لِأَنَّ الْبَابَ الْأَوَّلَ وَالْخَامِسَ يَبْدَأُ أَمْرُهُمَا بِالضَّمِّ (اُكْتُبْ)، وَالثَّانِي وَالثَّالِثَ وَالرَّابِعَ بِالْكَسْرِ (اِجْلِسْ، اِفْتَحْ)!", "okunus": "Ne‘am! Li-enne'l-bâbe'l-evvele ve'l-hâmise yebdeu emruhumâ bi'd-dammi (uktub), ve's-sâniye ve's-sâlise ve'r-râbi‘a bi'l-kesri (iclis, ifteh)!", "tr": "Evet! Çünkü 1. ve 5. babın emri dammeyle (اُكْتُبْ), 2., 3. ve 4. babların emri kesrayla (اِجْلِسْ، اِفْتَحْ) başlar!" },
+        { "konusan": "سلمان", "ar": "أَجَبْتَ بِدِقَّةٍ مُدْهِشَةٍ! فَعْلًا، الْأَبْوَابُ السِّتَّةُ هِيَ أَسَاسُ الصَّرْفِ كُلِّهِ.", "okunus": "Ecebte bi-dikkatin mudhişetin! Fi‘len, el-ebvâbu's-sittetu hiye esâsu's-sarfi kullihi.", "tr": "Şaşırtıcı bir kesinlikle cevapladın! Gerçekten altı bab tüm sarfın temelidir." },
+        { "konusan": "كريم", "ar": "وَأَيْضًا عَرَفْنَا أَنَّ كَلِمَةَ «أَثِقُ» جَاءَتْ مِنْ «وَثِقَ يَثِقُ» مِنَ الْبَابِ السَّادِسِ!", "okunus": "Ve eydan ‘arafnâ enne kelimete «esiku» câet min «vesika yesiku» mine'l-bâbi's-sâdisi!", "tr": "Ayrıca 'أَثِقُ' kelimesinin 6. babdan 'وَثِقَ يَثِقُ' fiilinden geldiğini de öğrendik!" },
+        { "konusan": "سلمان", "ar": "لَقَدْ صِرْنَا الْآنَ نَقْرَأُ الْمُعْجَمَ وَنَفْهَمُ رُمُوزَ الْأَبْوَابِ بِلَا صُعُوبَةٍ.", "okunus": "Lekad sırne'l-âne nekrau'l-mu‘ceme ve nefhemu rumûze'l-ebvâbi bi-lâ su‘ûbetin.", "tr": "Artık sözlüğü zorlanmadan okuyor ve bab sembollerini anlar hâle geldik." },
+        { "konusan": "كريم", "ar": "هَيَّا نَنْتَقِلْ غَدًا إِلَى الْمُودُولِ الثَّالِثَ عَشَرَ عَنْ إِعْرَابِ الْمُثَنَّى وَالْجُمُوعِ!", "okunus": "Heyyâ nentekil gaden ile'l-mûdûli's-sâlise ‘aşera ‘an i‘râbi'l-musennâ ve'l-cumû‘i!", "tr": "Haydi yarın tesniye ve çoğulların i'rabıyla ilgili 13. modüle geçelim!" }
+      ],
+      "partner": [
+        { "soruAr": "مَا مَعْنَى «حَسَبَ يَحْسُبُ» مِنَ الْبَابِ الْأَوَّلِ؟", "soruTr": "1. babdaki 'حَسَبَ يَحْسُبُ' ne demektir?", "ipucu": "Saydı / hesapladı.", "secenekler": ["Saydı / hesapladı.", "Zannetti / sandı.", "Güzelleşti."], "dogruIndeks": 0, "aciklama": "حَسَبَ يَحْسُبُ = hesapladı; حَسِبَ يَحْسِبُ = zannetti." },
+        { "soruAr": "مَا مَعْنَى «لَبِسَ يَلْبَسُ» مِنَ الْبَابِ الرَّابِعِ؟", "soruTr": "4. babdaki 'لَبِسَ يَلْبَسُ' ne demektir?", "ipucu": "Kıyafet giydi.", "secenekler": ["Giydi (kıyafet).", "Karıştırdı.", "Sattı."], "dogruIndeks": 0, "aciklama": "لَبِسَ يَلْبَسُ = giydi." },
+        { "soruAr": "أَيُّ فِعْلٍ يَبْدَأُ أَمْرُهُ بِالضَّمِّ (اُـ)؟", "soruTr": "Hangi fiilin emri damme (اُـ) ile başlar?", "ipucu": "Muzâri orta harfi dammeli olanlar (1. ve 5. bab: يَكْتُبُ → اُكْتُبْ).", "secenekler": ["كَتَبَ يَكْتُبُ (اُكْتُبْ).", "جَلَسَ يَجْلِسُ (اِجْلِسْ).", "فَتَحَ يَفْتَحُ (اِفْتَحْ)."], "dogruIndeks": 0, "aciklama": "Muzârisi dammeli olunca emrin vasıl hemzesi dammeli olur." },
+        { "soruAr": "مِنْ أَيِّ فِعْلٍ وَبَابٍ تَأْتِي كَلِمَةُ «أَثِقُ»؟", "soruTr": "'أَثِقُ' (güveniyorum) hangi fiilden ve babdan gelir?", "ipucu": "وَثِقَ يَثِقُ (6. bab).", "secenekler": ["وَثِقَ يَثِقُ — الْبَابُ السَّادِسُ.", "وَصَلَ يَصِلُ — الْبَابُ الثَّانِي.", "كَتَبَ يَكْتُبُ — الْبَابُ الْأَوَّلُ."], "dogruIndeks": 0, "aciklama": "وَثِقَ يَثِقُ 6. babdandır." },
+        { "soruAr": "مَا رَمْزُ الْبَابِ الرَّابِعِ فِي الْمُعْجَمِ الْعَرَبِيِّ الْكِلَاسِيكِيِّ؟", "soruTr": "Klasik Arapça sözlükte 4. babın sembolü nedir?", "ipucu": "سَمِعَ fiilinin ilk harfi: س.", "secenekler": ["(س) سَمِعَ يَسْمَعُ.", "(ن) نَصَرَ يَنْصُرُ.", "(ك) كَرُمَ يَكْرُمُ."], "dogruIndeks": 0, "aciklama": "س = 4. bab sembolüdür." }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "id": "m12_fc01", "ar": "نَصَرَ يَنْصُرُ", "harekesiz": "نصر ينصر", "okunus": "nasara yensuru", "tr": "yardım etti / zafer verdi (1. Bab)", "kok": "ن ص ر", "vezin": "فَعَلَ يَفْعُلُ", "turevler": [{ "ar": "نَصْرٌ", "tr": "yardım / zafer" }, { "ar": "مَنْصُورٌ", "tr": "muzaffer" }], "ekBilgi": "1. babın (a→u) klasik model fiilidir; sözlük sembolü (ن).", "ornek": "يَنْصُرُ اللّٰهُ الصَّادِقِينَ.", "ornekTr": "Allah dürüstlere yardım eder.", "kullanimNotu": "Arapçanın en geniş fiil grubunu temsil eder.", "tur": "fiil" },
+    { "id": "m12_fc02", "ar": "ضَرَبَ يَضْرِبُ", "harekesiz": "ضرب يضرب", "okunus": "darabe yadribu", "tr": "vurdu / örnek verdi (2. Bab)", "kok": "ض ر ب", "vezin": "فَعَلَ يَفْعِلُ", "turevler": [{ "ar": "ضَرْبٌ", "tr": "vurma / çarpma" }, { "ar": "ضَرَبَ مَثَلًا", "tr": "örnek verdi" }], "ekBilgi": "2. babın (a→i) klasik model fiilidir; sözlük sembolü (ض).", "ornek": "ضَرَبَ الْأُسْتَاذُ مَثَلًا وَاضِحًا.", "ornekTr": "Hoca açık bir örnek verdi.", "kullanimNotu": "ضَرَبَ مَثَلًا (örnek vermek) çok sık kullanılır.", "tur": "fiil" },
+    { "id": "m12_fc03", "ar": "فَتَحَ يَفْتَحُ", "harekesiz": "فتح يفتح", "okunus": "feteha yeftehu", "tr": "açtı (3. Bab)", "kok": "ف ت ح", "vezin": "فَعَلَ يَفْعَلُ", "turevler": [{ "ar": "فَتْحٌ", "tr": "açma / fetih" }, { "ar": "مِفْتَاحٌ", "tr": "anahtar" }], "ekBilgi": "3. babın (a→a) model fiilidir; boğaz harfi (ح) içerir; sembolü (ف).", "ornek": "فَتَحَ الطَّالِبُ الْكِتَابَ.", "ornekTr": "Öğrenci kitabı açtı.", "kullanimNotu": "3. babda 2. veya 3. harf mutlaka boğaz harfidir.", "tur": "fiil" },
+    { "id": "m12_fc04", "ar": "عَلِمَ يَعْلَمُ", "harekesiz": "علم يعلم", "okunus": "‘alime ya‘lemu", "tr": "bildi (4. Bab)", "kok": "ع ل م", "vezin": "فَعِلَ يَفْعَلُ", "turevler": [{ "ar": "عِلْمٌ", "tr": "ilim / bilgi" }, { "ar": "عَالِمٌ", "tr": "âlim / bilim insanı" }], "ekBilgi": "4. babın (i→a) en meşhur fiillerindendir; sembolü (س).", "ornek": "يَعْلَمُ الْعَاقِلُ قِيمَةَ الصِّدْقِ.", "ornekTr": "Akıllı kişi doğruluğun değerini bilir.", "kullanimNotu": "عَرَفَ daha çok tanımak/bilmek, عَلِمَ kesin bilgiyle bilmek!", "tur": "fiil" },
+    { "id": "m12_fc05", "ar": "كَرُمَ يَكْرُمُ", "harekesiz": "كرم يكرم", "okunus": "kerume yekrumu", "tr": "cömert oldu / yüceldi (5. Bab)", "kok": "ك ر م", "vezin": "فَعُلَ يَفْعُلُ", "turevler": [{ "ar": "كَرِيمٌ", "tr": "cömert" }, { "ar": "كَرَامَةٌ", "tr": "onur / kerem" }], "ekBilgi": "5. babın (u→u) model fiilidir; daima lâzımdır; sembolü (ك).", "ornek": "كَرُمَ خُلُقُ هٰذَا الشَّابِّ.", "ornekTr": "Bu gencin ahlakı yüceldi.", "kullanimNotu": "5. babdaki tüm fiiller nesne almaz.", "tur": "fiil" },
+    { "id": "m12_fc06", "ar": "حَسِبَ يَحْسِبُ", "harekesiz": "حسب يحسب", "okunus": "hasibe yahsibu", "tr": "zannetti / sandı (6. Bab)", "kok": "ح س ب", "vezin": "فَعِلَ يَفْعِلُ", "turevler": [{ "ar": "حُسْبَانٌ", "tr": "zan / hesap" }, { "ar": "حَسَبَ يَحْسُبُ", "tr": "hesapladı (1. bab!)" }], "ekBilgi": "6. babın (i→i) model fiilidir; sembolü (ح).", "ornek": "حَسِبَ الْمُسَافِرُ الطَّرِيقَ قَصِيرًا.", "ornekTr": "Yolcu yolu kısa sandı.", "kullanimNotu": "حَسَبَ يَحْسُبُ (1. bab = hesapladı) ile hareke farkına dikkat!", "tur": "fiil" },
+    { "id": "m12_fc07", "ar": "نَظَرَ يَنْظُرُ", "harekesiz": "نظر ينظر", "okunus": "nezara yenzuru", "tr": "baktı (1. Bab)", "kok": "ن ظ ر", "vezin": "فَعَلَ يَفْعُلُ", "turevler": [{ "ar": "نَظَرٌ", "tr": "bakış" }, { "ar": "مَنْظَرٌ", "tr": "manzara" }], "ekBilgi": "1. bab; إِلَى harf-i ceriyle kullanılır.", "ornek": "نَظَرَ الطَّالِبُ إِلَى السَّبُّورَةِ.", "ornekTr": "Öğrenci tahtaya baktı.", "kullanimNotu": "نَظَرَ فِي = bir konuyu incelemek / araştırmak!", "tur": "fiil" },
+    { "id": "m12_fc08", "ar": "طَلَبَ يَطْلُبُ", "harekesiz": "طلب يطلب", "okunus": "talebe yatlubu", "tr": "istedi / talep etti (1. Bab)", "kok": "ط ل ب", "vezin": "فَعَلَ يَفْعُلُ", "turevler": [{ "ar": "طَالِبٌ", "tr": "öğrenci / isteyen" }, { "ar": "طَلَبٌ", "tr": "istek / sipariş" }], "ekBilgi": "1. bab müteaddi fiil (طَلَبَ مِنْ ...).", "ornek": "طَلَبَ الطَّالِبُ الْمُسَاعَدَةَ.", "ornekTr": "Öğrenci yardım istedi.", "kullanimNotu": "طَالِبٌ (ilim talep eden) aynı köktendir.", "tur": "fiil" },
+    { "id": "m12_fc09", "ar": "تَرَكَ يَتْرُكُ", "harekesiz": "ترك يترك", "okunus": "terake yetruku", "tr": "bıraktı / terk etti (1. Bab)", "kok": "ت ر ك", "vezin": "فَعَلَ يَفْعُلُ", "turevler": [{ "ar": "تَرْكٌ", "tr": "bırakma" }, { "ar": "مَتْرُوكٌ", "tr": "terk edilmiş" }], "ekBilgi": "1. bab müteaddi fiil.", "ornek": "لَا تَتْرُكْ عَمَلَ الْيَوْمِ إِلَى الْغَدِ.", "ornekTr": "Bugünün işini yarına bırakma.", "kullanimNotu": "Atasözlerinde çok sık geçer.", "tur": "fiil" },
+    { "id": "m12_fc10", "ar": "شَعَرَ يَشْعُرُ", "harekesiz": "شعر يشعر", "okunus": "şe‘ara yeş‘uru", "tr": "hissetti (1. Bab — بِـ)", "kok": "ش ع ر", "vezin": "فَعَلَ يَفْعُلُ", "turevler": [{ "ar": "شُعُورٌ", "tr": "duygu / his" }, { "ar": "شَاعِرٌ", "tr": "şair" }], "ekBilgi": "1. bab lâzım fiil; DAİMA بِـ harf-i ceriyle kullanılır!", "ornek": "شَعَرْتُ بِالسَّعَادَةِ الْكَبِيرَةِ.", "ornekTr": "Büyük mutluluk hissettim.", "kullanimNotu": "ع harfine rağmen 1. babdır (يَشْعُرُ).", "tur": "fiil" },
+    { "id": "m12_fc11", "ar": "حَكَمَ يَحْكُمُ", "harekesiz": "حكم يحكم", "okunus": "hakeme yahkumu", "tr": "hükmetti / yönetti (1. Bab)", "kok": "ح ك م", "vezin": "فَعَلَ يَفْعُلُ", "turevler": [{ "ar": "مَحْكَمَةٌ", "tr": "mahkeme" }, { "ar": "حِكْمَةٌ", "tr": "hikmet" }], "ekBilgi": "1. bab; بِـ veya عَلَى ile kullanılır.", "ornek": "يَحْكُمُ الْقَاضِي بِالْعَدْلِ.", "ornekTr": "Hâkim adaletle hükmeder.", "kullanimNotu": "حُكُومَةٌ (hükümet) aynı köktendir.", "tur": "fiil" },
+    { "id": "m12_fc12", "ar": "صَدَقَ يَصْدُقُ", "harekesiz": "صدق يصدق", "okunus": "sadaka yasduku", "tr": "doğru söyledi (1. Bab)", "kok": "ص د ق", "vezin": "فَعَلَ يَفْعُلُ", "turevler": [{ "ar": "صِدْقٌ", "tr": "doğruluk" }, { "ar": "صَدِيقٌ", "tr": "arkadaş / dost" }], "ekBilgi": "1. bab; zıddı كَذَبَ يَكْذِبُ (2. bab).", "ornek": "صَدَقَ الشَّاهِدُ فِي كَلَامِهِ.", "ornekTr": "Tanık sözünde doğru söyledi.", "kullanimNotu": "صَادِقٌ = doğru sözlü.", "tur": "fiil" },
+    { "id": "m12_fc13", "ar": "عَرَفَ يَعْرِفُ", "harekesiz": "عرف يعرف", "okunus": "‘arafe ya‘rifu", "tr": "bildi / tanıdı (2. Bab)", "kok": "ع ر ف", "vezin": "فَعَلَ يَفْعِلُ", "turevler": [{ "ar": "مَعْرِفَةٌ", "tr": "bilgi / marife" }, { "ar": "مَعْرُوفٌ", "tr": "bilinen / iyilik" }], "ekBilgi": "2. bab müteaddi fiil.", "ornek": "أَعْرِفُ هٰذَا الْمَكَانَ جَيِّدًا.", "ornekTr": "Bu yeri iyi biliyorum.", "kullanimNotu": "En yüksek frekanslı 2. bab fiillerindendir.", "tur": "fiil" },
+    { "id": "m12_fc14", "ar": "غَسَلَ يَغْسِلُ", "harekesiz": "غسل يغسل", "okunus": "gasele yagsilu", "tr": "yıkadı (2. Bab)", "kok": "غ س ل", "vezin": "فَعَلَ يَفْعِلُ", "turevler": [{ "ar": "غَسْلٌ", "tr": "yıkama" }, { "ar": "غَسَّالَةٌ", "tr": "çamaşır makinesi" }], "ekBilgi": "2. bab müteaddi fiil.", "ornek": "أَغْسِلُ يَدَيَّ قَبْلَ الْأَكْلِ.", "ornekTr": "Yemekten önce ellerimi yıkarım.", "kullanimNotu": "Günlük rutinlerin temel fiilidir.", "tur": "fiil" },
+    { "id": "m12_fc15", "ar": "حَمَلَ يَحْمِلُ", "harekesiz": "حمل يحمل", "okunus": "hamele yahmilu", "tr": "taşıdı (2. Bab)", "kok": "ح م ل", "vezin": "فَعَلَ يَفْعِلُ", "turevler": [{ "ar": "حِمْلٌ", "tr": "yük" }, { "ar": "حَاسُوبٌ مَحْمُولٌ", "tr": "dizüstü bilgisayar" }], "ekBilgi": "2. bab müteaddi fiil.", "ornek": "يَحْمِلُ الطَّالِبُ حَقِيبَتَهُ.", "ornekTr": "Öğrenci çantasını taşıyor.", "kullanimNotu": "مَحْمُولٌ (taşınabilir) aynı köktendir.", "tur": "fiil" },
+    { "id": "m12_fc16", "ar": "كَسَرَ يَكْسِرُ", "harekesiz": "كسر يكسر", "okunus": "kesera yeksiru", "tr": "kırdı (2. Bab)", "kok": "ك س ر", "vezin": "فَعَلَ يَفْعِلُ", "turevler": [{ "ar": "كَسْرَةٌ", "tr": "kesra harekesi" }, { "ar": "مَكْسُورٌ", "tr": "kırık" }], "ekBilgi": "2. bab müteaddi fiil.", "ornek": "كَسَرَ الطِّفْلُ الْكُوبَ بِالْخَطَأِ.", "ornekTr": "Çocuk yanlışlıkla bardağı kırdı.", "kullanimNotu": "جَمْعُ التَّكْسِيرِ (kırık çoğul) aynı köktendir.", "tur": "fiil" },
+    { "id": "m12_fc17", "ar": "صَبَرَ يَصْبِرُ", "harekesiz": "صبر يصبر", "okunus": "sabera yasbiru", "tr": "sabretti (2. Bab — عَلَى)", "kok": "ص ب ر", "vezin": "فَعَلَ يَفْعِلُ", "turevler": [{ "ar": "صَبْرٌ", "tr": "sabır" }, { "ar": "صَابِرٌ", "tr": "sabırlı" }], "ekBilgi": "2. bab lâzım fiil; عَلَى harf-i ceriyle kullanılır.", "ornek": "يَصْبِرُ الْمُؤْمِنُ عَلَى الشَّدَائِدِ.", "ornekTr": "Mümin zorluklara sabreder.", "kullanimNotu": "صَبَرَ عَلَى = -e sabretmek.", "tur": "fiil" },
+    { "id": "m12_fc18", "ar": "كَذَبَ يَكْذِبُ", "harekesiz": "كذب يكذب", "okunus": "kezebe yekzibu", "tr": "yalan söyledi (2. Bab)", "kok": "ك ذ ب", "vezin": "فَعَلَ يَفْعِلُ", "turevler": [{ "ar": "كَذِبٌ", "tr": "yalan" }, { "ar": "كَاذِبٌ", "tr": "yalancı" }], "ekBilgi": "2. bab lâzım fiil (عَلَى ile kullanılır).", "ornek": "الْمُؤْمِنُ لَا يَكْذِبُ أَبَدًا.", "ornekTr": "Mümin asla yalan söylemez.", "kullanimNotu": "Zıddı: صَدَقَ يَصْدُقُ (1. bab).", "tur": "fiil" },
+    { "id": "m12_fc19", "ar": "جَمَعَ يَجْمَعُ", "harekesiz": "جمع يجمع", "okunus": "ceme‘a yecme‘u", "tr": "topladı / birleştirdi (3. Bab)", "kok": "ج م ع", "vezin": "فَعَلَ يَفْعَلُ", "turevler": [{ "ar": "جَمْعٌ", "tr": "çoğul / toplama" }, { "ar": "جَامِعَةٌ", "tr": "üniversite" }], "ekBilgi": "3. bab (boğaz harfi ع); müteaddi fiil.", "ornek": "يَجْمَعُ الْبَاحِثُ الْمَعْلُومَاتِ.", "ornekTr": "Araştırmacı bilgileri topluyor.", "kullanimNotu": "جَامِعٌ، جَامِعَةٌ، جُمُعَةٌ hep bu köktendir.", "tur": "fiil" },
+    { "id": "m12_fc20", "ar": "بَحَثَ يَبْحَثُ", "harekesiz": "بحث يبحث", "okunus": "behase yebhasu", "tr": "aradı / araştırdı (3. Bab — عَنْ)", "kok": "ب ح ث", "vezin": "فَعَلَ يَفْعَلُ", "turevler": [{ "ar": "بَحْثٌ", "tr": "araştırma / makale" }, { "ar": "بَاحِثٌ", "tr": "araştırmacı" }], "ekBilgi": "3. bab (boğaz harfi ح); عَنْ harf-i ceriyle kullanılır!", "ornek": "أَبْحَثُ عَنْ قَامُوسٍ عَرَبِيٍّ.", "ornekTr": "Arapça bir sözlük arıyorum.", "kullanimNotu": "بَحَثَ عَنْ (aramak) vs. بَحَثَ الْمَوْضُوعَ (konuyu ele almak).", "tur": "fiil" },
+    { "id": "m12_fc21", "ar": "صَنَعَ يَصْنَعُ", "harekesiz": "صنع يصنع", "okunus": "sana‘a yasna‘u", "tr": "yaptı / üretti (3. Bab)", "kok": "ص ن ع", "vezin": "فَعَلَ يَفْعَلُ", "turevler": [{ "ar": "صِنَاعَةٌ", "tr": "sanayi / üretim" }, { "ar": "مَصْنَعٌ", "tr": "fabrika" }], "ekBilgi": "3. bab (boğaz harfi ع); müteaddi fiil.", "ornek": "يَصْنَعُ النَّجَّارُ طَاوِلَةً خَشَبِيَّةً.", "ornekTr": "Marangoz ahşap bir masa yapıyor.", "kullanimNotu": "مَصْنَعٌ (fabrika) mekân ismidir.", "tur": "fiil" },
+    { "id": "m12_fc22", "ar": "مَنَعَ يَمْنَعُ", "harekesiz": "منع يمنع", "okunus": "mena‘a yemne‘u", "tr": "engelledi / yasakladı (3. Bab)", "kok": "م ن ع", "vezin": "فَعَلَ يَفْعَلُ", "turevler": [{ "ar": "مَمْنُوعٌ", "tr": "yasak" }, { "ar": "مَانِعٌ", "tr": "engel" }], "ekBilgi": "3. bab (boğaz harfi ع); مِنْ harf-i ceriyle (مَنَعَهُ مِنْ).", "ornek": "الْمَطَرُ مَنَعَنَا مِنَ الْخُرُوجِ.", "ornekTr": "Yağmur bizim çıkmamızı engelledi.", "kullanimNotu": "YDS metinlerinde çok yüksek frekanslıdır.", "tur": "fiil" },
+    { "id": "m12_fc23", "ar": "لَبِسَ يَلْبَسُ", "harekesiz": "لبس يلبس", "okunus": "lebise yelbesu", "tr": "giydi (4. Bab)", "kok": "ل ب س", "vezin": "فَعِلَ يَفْعَلُ", "turevler": [{ "ar": "مَلَابِسُ", "tr": "kıyafetler" }, { "ar": "لِبَاسٌ", "tr": "elbise" }], "ekBilgi": "4. bab müteaddi fiil.", "ornek": "يَلْبَسُ الْوَلَدُ مِعْطَفًا دَافِئًا.", "ornekTr": "Çocuk sıcak bir palto giyiyor.", "kullanimNotu": "لَبَسَ يَلْبِسُ (2. bab = karıştırdı) ile karıştırma!", "tur": "fiil" },
+    { "id": "m12_fc24", "ar": "حَزِنَ يَحْزَنُ", "harekesiz": "حزن يحزن", "okunus": "hazine yahzenu", "tr": "üzüldü (4. Bab — عَلَى)", "kok": "ح ز ن", "vezin": "فَعِلَ يَفْعَلُ", "turevler": [{ "ar": "حُزْنٌ", "tr": "üzüntü" }, { "ar": "حَزِينٌ", "tr": "üzgün" }], "ekBilgi": "4. bab duygu fiili; عَلَى ile kullanılır.", "ornek": "لَا تَحْزَنْ إِنَّ اللّٰهَ مَعَنَا.", "ornekTr": "Üzülme, şüphesiz Allah bizimledir.", "kullanimNotu": "Zıddı: فَرِحَ يَفْرَحُ (4. bab).", "tur": "fiil" },
+    { "id": "m12_fc25", "ar": "رَغِبَ يَرْغَبُ", "harekesiz": "رغب يرغب", "okunus": "ragibe yergabu", "tr": "istedi (فِي) / yüz çevirdi (عَنْ)", "kok": "ر غ ب", "vezin": "فَعِلَ يَفْعَلُ", "turevler": [{ "ar": "رَغْبَةٌ", "tr": "istek / arzu" }, { "ar": "رَغِبَ عَنْ", "tr": "istemedi / yüz çevirdi" }], "ekBilgi": "4. bab; harf-i ceri anlamı zıt yöne çevirir!", "ornek": "أَرْغَبُ فِي تَعَلُّمِ الْعَرَبِيَّةِ.", "ornekTr": "Arapça öğrenmeyi arzuluyorum.", "kullanimNotu": "YDS/YÖKDİL'de en sık sorulan harf-i cerli fiillerdendir.", "tur": "fiil" },
+    { "id": "m12_fc26", "ar": "كَبُرَ يَكْبُرُ", "harekesiz": "كبر يكبر", "okunus": "kebura yekburu", "tr": "büyüdü (5. Bab)", "kok": "ك ب ر", "vezin": "فَعُلَ يَفْعُلُ", "turevler": [{ "ar": "كَبِيرٌ", "tr": "büyük" }, { "ar": "أَكْبَرُ", "tr": "daha büyük" }], "ekBilgi": "5. bab lâzım nitelik fiili.", "ornek": "كَبُرَ الطِّفْلُ وَدَخَلَ الْمَدْرَسَةَ.", "ornekTr": "Çocuk büyüdü ve okula girdi.", "kullanimNotu": "Zıddı: صَغُرَ يَصْغُرُ (5. bab).", "tur": "fiil" },
+    { "id": "m12_fc27", "ar": "سَهُلَ يَسْهُلُ", "harekesiz": "سهل يسهل", "okunus": "sehule yeshulu", "tr": "kolaylaştı (5. Bab)", "kok": "س ه ل", "vezin": "فَعُلَ يَفْعُلُ", "turevler": [{ "ar": "سَهْلٌ", "tr": "kolay" }, { "ar": "سُهُولَةٌ", "tr": "kolaylık" }], "ekBilgi": "5. bab lâzım fiil (عَلَى ile kullanılır).", "ornek": "يَسْهُلُ الدَّرْسُ بِالتَّكْرَارِ.", "ornekTr": "Tekrarla ders kolaylaşır.", "kullanimNotu": "Zıddı: صَعُبَ يَصْعُبُ (5. bab).", "tur": "fiil" },
+    { "id": "m12_fc28", "ar": "حَسُنَ يَحْسُنُ", "harekesiz": "حسن يحسن", "okunus": "hasune yahsunu", "tr": "güzelleşti / iyi oldu (5. Bab)", "kok": "ح س ن", "vezin": "فَعُلَ يَفْعُلُ", "turevler": [{ "ar": "حَسَنٌ", "tr": "güzel / iyi" }, { "ar": "إِحْسَانٌ", "tr": "iyilik / mükemmeliyet" }], "ekBilgi": "5. bab lâzım nitelik fiili.", "ornek": "حَسُنَ الطَّقْسُ فِي الرَّبِيعِ.", "ornekTr": "İlkbaharda hava güzelleşti.", "kullanimNotu": "5. babın en klasik örneklerindendir.", "tur": "fiil" },
+    { "id": "m12_fc29", "ar": "قَرُبَ يَقْرُبُ", "harekesiz": "قرب يقرب", "okunus": "karube yakrubu", "tr": "yaklaştı (5. Bab)", "kok": "ق ر ب", "vezin": "فَعُلَ يَفْعُلُ", "turevler": [{ "ar": "قَرِيبٌ", "tr": "yakın" }, { "ar": "قُرْبٌ", "tr": "yakınlık" }], "ekBilgi": "5. bab lâzım fiil; zıddı بَعُدَ يَبْعُدُ (5. bab).", "ornek": "قَرُبَ مَوْعِدُ السَّفَرِ.", "ornekTr": "Yolculuk vakti yaklaştı.", "kullanimNotu": "مِنْ harf-i ceriyle kullanılır.", "tur": "fiil" },
+    { "id": "m12_fc30", "ar": "وَثِقَ يَثِقُ", "harekesiz": "وثق يثق", "okunus": "vesika yesiku", "tr": "güvendi (6. Bab — بِـ)", "kok": "و ث ق", "vezin": "فَعِلَ يَفْعِلُ", "turevler": [{ "ar": "ثِقَةٌ", "tr": "güven" }, { "ar": "مَوْثُوقٌ", "tr": "güvenilir" }], "ekBilgi": "6. bab lâzım misâl fiil; muzâride و düşer (يَثِقُ / أَثِقُ)!", "ornek": "أَثِقُ بِصَدِيقِي تَمَامًا.", "ornekTr": "Arkadaşıma tamamen güveniyorum.", "kullanimNotu": "بِـ harf-i ceriyle kullanılır.", "tur": "fiil" },
+    { "id": "m12_fc31", "ar": "وَرِثَ يَرِثُ", "harekesiz": "ورث يرث", "okunus": "verise yerisu", "tr": "mirasçı oldu (6. Bab)", "kok": "و ر ث", "vezin": "فَعِلَ يَفْعِلُ", "turevler": [{ "ar": "تُرَاثٌ", "tr": "miras / kültürel miras" }, { "ar": "وَارِثٌ", "tr": "mirasçı" }], "ekBilgi": "6. bab misâl fiil; muzâride و düşer (يَرِثُ).", "ornek": "الْعُلَمَاءُ يَرِثُونَ عِلْمَ الْأَنْبِيَاءِ.", "ornekTr": "Âlimler peygamberlerin ilmine mirasçı olurlar.", "kullanimNotu": "تُرَاثٌ (miras) aynı köktendir.", "tur": "fiil" },
+    { "id": "m12_fc32", "ar": "مُعْجَمٌ", "harekesiz": "معجم", "okunus": "mu‘cemun", "tr": "sözlük / kamus", "kok": "ع ج م", "vezin": "مُفْعَل", "turevler": [{ "ar": "مَعَاجِمُ", "tr": "sözlükler" }, { "ar": "قَامُوسٌ", "tr": "sözlük (eş anlamlı)" }], "ekBilgi": "Çoğulu مَعَاجِمُ (gayr-i munsarif).", "ornek": "أَبْحَثُ عَنِ الْجِذْرِ فِي الْمُعْجَمِ.", "ornekTr": "Sözlükte kökü arıyorum.", "kullanimNotu": "قَامُوسٌ ve مُعْجَمٌ modern Arapçada eş anlamlı kullanılır.", "tur": "isim" }
+  ]
+}

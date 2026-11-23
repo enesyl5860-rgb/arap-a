@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T23:35:58.253Z",
-  "totalRoots": 236,
+  "generatedAt": "2026-11-23T07:26:29.999Z",
+  "totalRoots": 308,
   "roots": [
     {
       "kok": "—",
@@ -492,6 +492,53 @@
       ]
     },
     {
+      "kok": "ع ل م",
+      "kelimeler": [
+        {
+          "ar": "يَتَعَلَّمُ",
+          "okunus": "yete‘allemu",
+          "tr": "öğreniyor / öğrenir",
+          "vezin": "يَتَفَعَّلُ",
+          "moduleId": "10"
+        },
+        {
+          "ar": "يُعَلِّمُ",
+          "okunus": "yu‘allimu",
+          "tr": "öğretiyor / öğretir",
+          "vezin": "يُفَعِّلُ",
+          "moduleId": "10"
+        },
+        {
+          "ar": "عَلِمَ يَعْلَمُ",
+          "okunus": "‘alime ya‘lemu",
+          "tr": "bildi (4. Bab)",
+          "vezin": "فَعِلَ يَفْعَلُ",
+          "moduleId": "12"
+        },
+        {
+          "ar": "عَالَمُونَ",
+          "okunus": "‘âlemûne",
+          "tr": "âlemler",
+          "vezin": "مُلْحَقٌ بِجَمْعِ الْمُذَكَّرِ",
+          "moduleId": "13"
+        },
+        {
+          "ar": "مُعَلِّمُو الْمَدْرَسَةِ",
+          "okunus": "mu‘allimu'l-medreseti",
+          "tr": "okulun öğretmenleri (Ref')",
+          "vezin": "مُضَافٌ (حَذْفُ النُّونِ)",
+          "moduleId": "13"
+        },
+        {
+          "ar": "عُلَمَاءُ",
+          "okunus": "‘ulemâu",
+          "tr": "âlimler / bilim insanları",
+          "vezin": "فُعَلَاءُ",
+          "moduleId": "13"
+        }
+      ]
+    },
+    {
       "kok": "ط-ل-ب",
       "kelimeler": [
         {
@@ -612,6 +659,72 @@
       ]
     },
     {
+      "kok": "ث ل ث",
+      "kelimeler": [
+        {
+          "ar": "الثُّلُثُ",
+          "okunus": "es-sulusu",
+          "tr": "yirmi dakika / üçte bir (1/3)",
+          "vezin": "فُعُل",
+          "moduleId": "11"
+        },
+        {
+          "ar": "الثُّلَاثَاءُ",
+          "okunus": "es-sulâsâu",
+          "tr": "Salı günü",
+          "vezin": "فُعَالَاء",
+          "moduleId": "11"
+        },
+        {
+          "ar": "ثَلَاثَةٌ",
+          "okunus": "selâsetun",
+          "tr": "üç (3)",
+          "vezin": "فَعَالَة",
+          "moduleId": "11"
+        },
+        {
+          "ar": "ثَلَاثُونَ",
+          "okunus": "selâsûne",
+          "tr": "otuz (30)",
+          "vezin": "مُلْحَقٌ بِجَمْعِ الْمُذَكَّرِ",
+          "moduleId": "13"
+        }
+      ]
+    },
+    {
+      "kok": "ذ و",
+      "kelimeler": [
+        {
+          "ar": "ذُو",
+          "okunus": "zû",
+          "tr": "sahip / -lı, -li (Ref' E)",
+          "vezin": "الْأَسْمَاءُ الْخَمْسَةُ",
+          "moduleId": "14"
+        },
+        {
+          "ar": "ذَاتُ",
+          "okunus": "zâtu",
+          "tr": "sahip / -lı, -li (Dişil / Akılsız Çoğul)",
+          "vezin": "مُؤَنَّثُ ذُو",
+          "moduleId": "14"
+        },
+        {
+          "ar": "ذَوُو",
+          "okunus": "zevû",
+          "tr": "sahipler / -lılar (Eril Çoğul Ref')",
+          "vezin": "جَمْعُ ذُو",
+          "moduleId": "14"
+        },
+        {
+          "ar": "ذَوَاتُ",
+          "okunus": "zevâtu",
+          "tr": "kadın sahipler / sahipler (Dişil Çoğul)",
+          "vezin": "جَمْعُ ذَاتُ",
+          "moduleId": "14"
+        }
+      ]
+    },
+    {
       "kok": "ر ب ع",
       "kelimeler": [
         {
@@ -678,28 +791,54 @@
       ]
     },
     {
-      "kok": "ث ل ث",
+      "kok": "خ ب ر",
       "kelimeler": [
         {
-          "ar": "الثُّلُثُ",
-          "okunus": "es-sulusu",
-          "tr": "yirmi dakika / üçte bir (1/3)",
-          "vezin": "فُعُل",
+          "ar": "خُبَرَاءُ",
+          "okunus": "huberâu",
+          "tr": "uzmanlar",
+          "vezin": "فُعَلَاءُ",
+          "moduleId": "13"
+        },
+        {
+          "ar": "خِبْرَةٌ",
+          "okunus": "hibratun",
+          "tr": "tecrübe / deneyim",
+          "vezin": "فِعْلَة",
+          "moduleId": "14"
+        },
+        {
+          "ar": "مُخْتَبَرٌ",
+          "okunus": "muhteberun",
+          "tr": "laboratuvar",
+          "vezin": "مُفْتَعَل",
+          "moduleId": "14"
+        }
+      ]
+    },
+    {
+      "kok": "خ م س",
+      "kelimeler": [
+        {
+          "ar": "الْخَمِيسُ",
+          "okunus": "el-hamîsu",
+          "tr": "Perşembe günü",
+          "vezin": "فَعِيل",
           "moduleId": "11"
         },
         {
-          "ar": "الثُّلَاثَاءُ",
-          "okunus": "es-sulâsâu",
-          "tr": "Salı günü",
-          "vezin": "فُعَالَاء",
+          "ar": "خَمْسَةٌ",
+          "okunus": "hamsetun",
+          "tr": "beş (5)",
+          "vezin": "فَعْلَة",
           "moduleId": "11"
         },
         {
-          "ar": "ثَلَاثَةٌ",
-          "okunus": "selâsetun",
-          "tr": "üç (3)",
-          "vezin": "فَعَالَة",
-          "moduleId": "11"
+          "ar": "خَمْسُونَ",
+          "okunus": "hamsûne",
+          "tr": "elli (50)",
+          "vezin": "مُلْحَقٌ بِجَمْعِ الْمُذَكَّرِ",
+          "moduleId": "13"
         }
       ]
     },
@@ -730,6 +869,32 @@
       ]
     },
     {
+      "kok": "ف ت ح",
+      "kelimeler": [
+        {
+          "ar": "فَتَحَ",
+          "okunus": "feteha",
+          "tr": "açtı",
+          "vezin": "فَعَلَ",
+          "moduleId": "09"
+        },
+        {
+          "ar": "فَتَحَ يَفْتَحُ",
+          "okunus": "feteha yeftehu",
+          "tr": "açtı (3. Bab)",
+          "vezin": "فَعَلَ يَفْعَلُ",
+          "moduleId": "12"
+        },
+        {
+          "ar": "مَفَاتِيحُ",
+          "okunus": "mefâtîhu",
+          "tr": "anahtarlar",
+          "vezin": "مَفَاعِيلُ",
+          "moduleId": "13"
+        }
+      ]
+    },
+    {
       "kok": "ق-ر-أ",
       "kelimeler": [
         {
@@ -752,6 +917,25 @@
           "tr": "okuyucu",
           "vezin": "فَاعِل",
           "moduleId": "02"
+        }
+      ]
+    },
+    {
+      "kok": "أ ب و",
+      "kelimeler": [
+        {
+          "ar": "أَبُوكَ",
+          "okunus": "ebûke",
+          "tr": "baban (Ref' — Vâv)",
+          "vezin": "الْأَسْمَاءُ الْخَمْسَةُ",
+          "moduleId": "14"
+        },
+        {
+          "ar": "أَبِي",
+          "okunus": "ebî",
+          "tr": "babam (ـِي İstisnası)",
+          "vezin": "مُضَافٌ لِيَاءِ الْمُتَكَلِّمِ",
+          "moduleId": "14"
         }
       ]
     },
@@ -790,6 +974,25 @@
           "tr": "uzak",
           "vezin": "فَعِيل",
           "moduleId": "07"
+        }
+      ]
+    },
+    {
+      "kok": "ب ي ن",
+      "kelimeler": [
+        {
+          "ar": "بَيْنَ",
+          "okunus": "beyne",
+          "tr": "arasında",
+          "vezin": "فَعْل",
+          "moduleId": "07"
+        },
+        {
+          "ar": "بَيَانَاتٌ",
+          "okunus": "beyânâtun",
+          "tr": "veriler / bildiriler",
+          "vezin": "فَعَالَات",
+          "moduleId": "13"
         }
       ]
     },
@@ -870,6 +1073,25 @@
       ]
     },
     {
+      "kok": "ج م ع",
+      "kelimeler": [
+        {
+          "ar": "الْجُمُعَةُ",
+          "okunus": "el-cumu‘atu",
+          "tr": "Cuma günü",
+          "vezin": "فُعُلَة",
+          "moduleId": "11"
+        },
+        {
+          "ar": "جَمَعَ يَجْمَعُ",
+          "okunus": "ceme‘a yecme‘u",
+          "tr": "topladı / birleştirdi (3. Bab)",
+          "vezin": "فَعَلَ يَفْعَلُ",
+          "moduleId": "12"
+        }
+      ]
+    },
+    {
       "kok": "ج-م-ع",
       "kelimeler": [
         {
@@ -908,6 +1130,25 @@
       ]
     },
     {
+      "kok": "ح ض ر",
+      "kelimeler": [
+        {
+          "ar": "حَضَرَ",
+          "okunus": "hadara",
+          "tr": "katıldı / hazır bulundu",
+          "vezin": "فَعَلَ",
+          "moduleId": "09"
+        },
+        {
+          "ar": "مُحَاضَرَةٌ",
+          "okunus": "muhâdaratun",
+          "tr": "ders / konferans",
+          "vezin": "مُفَاعَلَة",
+          "moduleId": "14"
+        }
+      ]
+    },
+    {
       "kok": "ح-ر-ف",
       "kelimeler": [
         {
@@ -927,25 +1168,6 @@
       ]
     },
     {
-      "kok": "خ م س",
-      "kelimeler": [
-        {
-          "ar": "الْخَمِيسُ",
-          "okunus": "el-hamîsu",
-          "tr": "Perşembe günü",
-          "vezin": "فَعِيل",
-          "moduleId": "11"
-        },
-        {
-          "ar": "خَمْسَةٌ",
-          "okunus": "hamsetun",
-          "tr": "beş (5)",
-          "vezin": "فَعْلَة",
-          "moduleId": "11"
-        }
-      ]
-    },
-    {
       "kok": "خ-ب-ر",
       "kelimeler": [
         {
@@ -961,6 +1183,25 @@
           "tr": "uzman / deneyimli",
           "vezin": "فَعِيل",
           "moduleId": "05"
+        }
+      ]
+    },
+    {
+      "kok": "د ر س",
+      "kelimeler": [
+        {
+          "ar": "يَدْرُسُ",
+          "okunus": "yedrusu",
+          "tr": "ders çalışıyor / okuyor",
+          "vezin": "يَفْعُلُ",
+          "moduleId": "10"
+        },
+        {
+          "ar": "مَدَارِسُ",
+          "okunus": "medârisu",
+          "tr": "okullar / ekoller",
+          "vezin": "مَفَاعِلُ",
+          "moduleId": "13"
         }
       ]
     },
@@ -1079,21 +1320,21 @@
       ]
     },
     {
-      "kok": "ع ل م",
+      "kok": "ع ش ر",
       "kelimeler": [
         {
-          "ar": "يَتَعَلَّمُ",
-          "okunus": "yete‘allemu",
-          "tr": "öğreniyor / öğrenir",
-          "vezin": "يَتَفَعَّلُ",
-          "moduleId": "10"
+          "ar": "عَشَرَةٌ",
+          "okunus": "‘aşeratun",
+          "tr": "on (10)",
+          "vezin": "فَعَلَة",
+          "moduleId": "11"
         },
         {
-          "ar": "يُعَلِّمُ",
-          "okunus": "yu‘allimu",
-          "tr": "öğretiyor / öğretir",
-          "vezin": "يُفَعِّلُ",
-          "moduleId": "10"
+          "ar": "عِشْرُونَ",
+          "okunus": "‘işrûne",
+          "tr": "yirmi (20)",
+          "vezin": "مُلْحَقٌ بِجَمْعِ الْمُذَكَّرِ",
+          "moduleId": "13"
         }
       ]
     },
@@ -1155,6 +1396,25 @@
       ]
     },
     {
+      "kok": "ف و ه",
+      "kelimeler": [
+        {
+          "ar": "فُوكَ",
+          "okunus": "fûke",
+          "tr": "ağzın (Ref' — م'siz!)",
+          "vezin": "الْأَسْمَاءُ الْخَمْسَةُ",
+          "moduleId": "14"
+        },
+        {
+          "ar": "فَمٌ",
+          "okunus": "femun",
+          "tr": "ağız (م'li Normal Hâl)",
+          "vezin": "اِسْمٌ مُعْرَبٌ بِالْحَرَكَاتِ",
+          "moduleId": "14"
+        }
+      ]
+    },
+    {
       "kok": "ف-ت-ح",
       "kelimeler": [
         {
@@ -1193,6 +1453,25 @@
       ]
     },
     {
+      "kok": "ق ر ب",
+      "kelimeler": [
+        {
+          "ar": "قَرِيبٌ",
+          "okunus": "karîbun",
+          "tr": "yakın",
+          "vezin": "فَعِيل",
+          "moduleId": "07"
+        },
+        {
+          "ar": "قَرُبَ يَقْرُبُ",
+          "okunus": "karube yakrubu",
+          "tr": "yaklaştı (5. Bab)",
+          "vezin": "فَعُلَ يَفْعُلُ",
+          "moduleId": "12"
+        }
+      ]
+    },
+    {
       "kok": "ق-ل-م",
       "kelimeler": [
         {
@@ -1227,6 +1506,25 @@
           "tr": "yazıyor / yazar",
           "vezin": "يَفْعُلُ",
           "moduleId": "10"
+        }
+      ]
+    },
+    {
+      "kok": "ك ر م",
+      "kelimeler": [
+        {
+          "ar": "يُكَرِّمُ",
+          "okunus": "yukerrimu",
+          "tr": "ödüllendiriyor / ikramda bulunuyor",
+          "vezin": "يُفَعِّلُ",
+          "moduleId": "10"
+        },
+        {
+          "ar": "كَرُمَ يَكْرُمُ",
+          "okunus": "kerume yekrumu",
+          "tr": "cömert oldu / yüceldi (5. Bab)",
+          "vezin": "فَعُلَ يَفْعُلُ",
+          "moduleId": "12"
         }
       ]
     },
@@ -1288,6 +1586,44 @@
       ]
     },
     {
+      "kok": "ن ج ح",
+      "kelimeler": [
+        {
+          "ar": "نَجَحَ",
+          "okunus": "necaha",
+          "tr": "başardı / sınavı geçti",
+          "vezin": "فَعَلَ",
+          "moduleId": "09"
+        },
+        {
+          "ar": "لَنْ يَنْجَحُوا",
+          "okunus": "len yencehû",
+          "tr": "asla başarmayacaklar (Nasb: ن Hazfi)",
+          "vezin": "الْأَفْعَالُ الْخَمْسَةُ (مَنْصُوب)",
+          "moduleId": "14"
+        }
+      ]
+    },
+    {
+      "kok": "ن ظ ر",
+      "kelimeler": [
+        {
+          "ar": "يَنْتَظِرُ",
+          "okunus": "yenteziru",
+          "tr": "bekliyor / bekler",
+          "vezin": "يَفْتَعِلُ",
+          "moduleId": "10"
+        },
+        {
+          "ar": "نَظَرَ يَنْظُرُ",
+          "okunus": "nezara yenzuru",
+          "tr": "baktı (1. Bab)",
+          "vezin": "فَعَلَ يَفْعُلُ",
+          "moduleId": "12"
+        }
+      ]
+    },
+    {
       "kok": "ن-ف-ذ",
       "kelimeler": [
         {
@@ -1331,6 +1667,42 @@
       ]
     },
     {
+      "kok": "أ خ ر",
+      "kelimeler": [
+        {
+          "ar": "لَمْ يَتَأَخَّرَا",
+          "okunus": "lem yeteahharâ",
+          "tr": "ikisi geç kalmadı (Cezm: ن Hazfi)",
+          "vezin": "الْأَفْعَالُ الْخَمْسَةُ (مَجْزُوم)",
+          "moduleId": "14"
+        }
+      ]
+    },
+    {
+      "kok": "أ خ و",
+      "kelimeler": [
+        {
+          "ar": "أَخُوكَ",
+          "okunus": "ehûke",
+          "tr": "erkek kardeşin (Ref' — Vâv)",
+          "vezin": "الْأَسْمَاءُ الْخَمْسَةُ",
+          "moduleId": "14"
+        }
+      ]
+    },
+    {
+      "kok": "أ ل ف",
+      "kelimeler": [
+        {
+          "ar": "مُؤَلِّفٌ",
+          "okunus": "muellifun",
+          "tr": "yazar / müellif",
+          "vezin": "مُفَعِّل",
+          "moduleId": "13"
+        }
+      ]
+    },
+    {
       "kok": "أ م س",
       "kelimeler": [
         {
@@ -1351,6 +1723,30 @@
           "tr": "önünde",
           "vezin": "فَعَال",
           "moduleId": "07"
+        }
+      ]
+    },
+    {
+      "kok": "أ م ن",
+      "kelimeler": [
+        {
+          "ar": "أَمَانَةٌ",
+          "okunus": "emânetun",
+          "tr": "güvenilirlik / emanet",
+          "vezin": "فَعَالَة",
+          "moduleId": "14"
+        }
+      ]
+    },
+    {
+      "kok": "أ و ل",
+      "kelimeler": [
+        {
+          "ar": "أُولُو",
+          "okunus": "ulû",
+          "tr": "sahipler / sahipleri (E)",
+          "vezin": "مُلْحَقٌ بِجَمْعِ الْمُذَكَّرِ",
+          "moduleId": "13"
         }
       ]
     },
@@ -1427,6 +1823,18 @@
       ]
     },
     {
+      "kok": "ب ح ث",
+      "kelimeler": [
+        {
+          "ar": "بَحَثَ يَبْحَثُ",
+          "okunus": "behase yebhasu",
+          "tr": "aradı / araştırdı (3. Bab — عَنْ)",
+          "vezin": "فَعَلَ يَفْعَلُ",
+          "moduleId": "12"
+        }
+      ]
+    },
+    {
       "kok": "ب د أ",
       "kelimeler": [
         {
@@ -1435,6 +1843,18 @@
           "tr": "başlıyor / başlar",
           "vezin": "يَفْعَلُ",
           "moduleId": "10"
+        }
+      ]
+    },
+    {
+      "kok": "ب د ر",
+      "kelimeler": [
+        {
+          "ar": "مُبَادَرَاتٌ",
+          "okunus": "mubâdarâtun",
+          "tr": "girişimler / inisiyatifler",
+          "vezin": "مُفَاعَلَات",
+          "moduleId": "13"
         }
       ]
     },
@@ -1451,14 +1871,14 @@
       ]
     },
     {
-      "kok": "ب ي ن",
+      "kok": "ب ي ت",
       "kelimeler": [
         {
-          "ar": "بَيْنَ",
-          "okunus": "beyne",
-          "tr": "arasında",
-          "vezin": "فَعْل",
-          "moduleId": "07"
+          "ar": "أَبْيَاتٌ",
+          "okunus": "ebyâtun",
+          "tr": "şiir beyitleri",
+          "vezin": "أَفْعَال",
+          "moduleId": "13"
         }
       ]
     },
@@ -1571,6 +1991,18 @@
       ]
     },
     {
+      "kok": "ت ر ك",
+      "kelimeler": [
+        {
+          "ar": "تَرَكَ يَتْرُكُ",
+          "okunus": "terake yetruku",
+          "tr": "bıraktı / terk etti (1. Bab)",
+          "vezin": "فَعَلَ يَفْعُلُ",
+          "moduleId": "12"
+        }
+      ]
+    },
+    {
       "kok": "ت س ع",
       "kelimeler": [
         {
@@ -1639,18 +2071,6 @@
           "tr": "ikil (tesniye)",
           "vezin": "مُفَعَّل",
           "moduleId": "03"
-        }
-      ]
-    },
-    {
-      "kok": "ج م ع",
-      "kelimeler": [
-        {
-          "ar": "الْجُمُعَةُ",
-          "okunus": "el-cumu‘atu",
-          "tr": "Cuma günü",
-          "vezin": "فُعُلَة",
-          "moduleId": "11"
         }
       ]
     },
@@ -1811,6 +2231,18 @@
       ]
     },
     {
+      "kok": "ح د ق",
+      "kelimeler": [
+        {
+          "ar": "حَدَائِقُ",
+          "okunus": "hadâiku",
+          "tr": "bahçeler / parklar",
+          "vezin": "فَعَائِلُ",
+          "moduleId": "13"
+        }
+      ]
+    },
+    {
       "kok": "ح ر م",
       "kelimeler": [
         {
@@ -1823,14 +2255,38 @@
       ]
     },
     {
-      "kok": "ح ض ر",
+      "kok": "ح ز ن",
       "kelimeler": [
         {
-          "ar": "حَضَرَ",
-          "okunus": "hadara",
-          "tr": "katıldı / hazır bulundu",
-          "vezin": "فَعَلَ",
-          "moduleId": "09"
+          "ar": "حَزِنَ يَحْزَنُ",
+          "okunus": "hazine yahzenu",
+          "tr": "üzüldü (4. Bab — عَلَى)",
+          "vezin": "فَعِلَ يَفْعَلُ",
+          "moduleId": "12"
+        }
+      ]
+    },
+    {
+      "kok": "ح س ب",
+      "kelimeler": [
+        {
+          "ar": "حَسِبَ يَحْسِبُ",
+          "okunus": "hasibe yahsibu",
+          "tr": "zannetti / sandı (6. Bab)",
+          "vezin": "فَعِلَ يَفْعِلُ",
+          "moduleId": "12"
+        }
+      ]
+    },
+    {
+      "kok": "ح س ن",
+      "kelimeler": [
+        {
+          "ar": "حَسُنَ يَحْسُنُ",
+          "okunus": "hasune yahsunu",
+          "tr": "güzelleşti / iyi oldu (5. Bab)",
+          "vezin": "فَعُلَ يَفْعُلُ",
+          "moduleId": "12"
         }
       ]
     },
@@ -1867,6 +2323,42 @@
           "tr": "otobüs",
           "vezin": "فَاعِلَة",
           "moduleId": "07"
+        }
+      ]
+    },
+    {
+      "kok": "ح ك م",
+      "kelimeler": [
+        {
+          "ar": "حَكَمَ يَحْكُمُ",
+          "okunus": "hakeme yahkumu",
+          "tr": "hükmetti / yönetti (1. Bab)",
+          "vezin": "فَعَلَ يَفْعُلُ",
+          "moduleId": "12"
+        }
+      ]
+    },
+    {
+      "kok": "ح م ل",
+      "kelimeler": [
+        {
+          "ar": "حَمَلَ يَحْمِلُ",
+          "okunus": "hamele yahmilu",
+          "tr": "taşıdı (2. Bab)",
+          "vezin": "فَعَلَ يَفْعِلُ",
+          "moduleId": "12"
+        }
+      ]
+    },
+    {
+      "kok": "ح م و",
+      "kelimeler": [
+        {
+          "ar": "حَمُوكَ",
+          "okunus": "hamûke",
+          "tr": "kayınpederin (Ref' — Vâv)",
+          "vezin": "الْأَسْمَاءُ الْخَمْسَةُ",
+          "moduleId": "14"
         }
       ]
     },
@@ -1955,6 +2447,18 @@
       ]
     },
     {
+      "kok": "خ ر ع",
+      "kelimeler": [
+        {
+          "ar": "يَخْتَرِعُ",
+          "okunus": "yahteri‘u",
+          "tr": "icat ediyor",
+          "vezin": "يَفْتَعِلُ",
+          "moduleId": "14"
+        }
+      ]
+    },
+    {
       "kok": "خ ر ف",
       "kelimeler": [
         {
@@ -1967,6 +2471,18 @@
       ]
     },
     {
+      "kok": "خ ط ط",
+      "kelimeler": [
+        {
+          "ar": "مَخْطُوطَاتٌ",
+          "okunus": "mahtûtâtun",
+          "tr": "el yazmaları",
+          "vezin": "مَفْعُولَات",
+          "moduleId": "13"
+        }
+      ]
+    },
+    {
       "kok": "خ ل ف",
       "kelimeler": [
         {
@@ -1975,6 +2491,18 @@
           "tr": "arkasında",
           "vezin": "فَعْل",
           "moduleId": "07"
+        }
+      ]
+    },
+    {
+      "kok": "خ ل ق",
+      "kelimeler": [
+        {
+          "ar": "خُلُقٌ",
+          "okunus": "hulukùn",
+          "tr": "ahlak / huy",
+          "vezin": "فُعُل",
+          "moduleId": "14"
         }
       ]
     },
@@ -2011,18 +2539,6 @@
           "tr": "girdi",
           "vezin": "فَعَلَ",
           "moduleId": "09"
-        }
-      ]
-    },
-    {
-      "kok": "د ر س",
-      "kelimeler": [
-        {
-          "ar": "يَدْرُسُ",
-          "okunus": "yedrusu",
-          "tr": "ders çalışıyor / okuyor",
-          "vezin": "يَفْعُلُ",
-          "moduleId": "10"
         }
       ]
     },
@@ -2119,6 +2635,18 @@
           "tr": "çizdi",
           "vezin": "فَعَلَ",
           "moduleId": "09"
+        }
+      ]
+    },
+    {
+      "kok": "ر غ ب",
+      "kelimeler": [
+        {
+          "ar": "رَغِبَ يَرْغَبُ",
+          "okunus": "ragibe yergabu",
+          "tr": "istedi (فِي) / yüz çevirdi (عَنْ)",
+          "vezin": "فَعِلَ يَفْعَلُ",
+          "moduleId": "12"
         }
       ]
     },
@@ -2243,6 +2771,18 @@
       ]
     },
     {
+      "kok": "س ج د",
+      "kelimeler": [
+        {
+          "ar": "مَسَاجِدُ",
+          "okunus": "mesâcidu",
+          "tr": "camiler / mescidler",
+          "vezin": "مَفَاعِلُ",
+          "moduleId": "13"
+        }
+      ]
+    },
+    {
       "kok": "س د س",
       "kelimeler": [
         {
@@ -2351,6 +2891,30 @@
       ]
     },
     {
+      "kok": "س ن و",
+      "kelimeler": [
+        {
+          "ar": "سِنُونَ",
+          "okunus": "sinûne",
+          "tr": "yıllar / seneler",
+          "vezin": "مُلْحَقٌ بِجَمْعِ الْمُذَكَّرِ",
+          "moduleId": "13"
+        }
+      ]
+    },
+    {
+      "kok": "س ه ل",
+      "kelimeler": [
+        {
+          "ar": "سَهُلَ يَسْهُلُ",
+          "okunus": "sehule yeshulu",
+          "tr": "kolaylaştı (5. Bab)",
+          "vezin": "فَعُلَ يَفْعُلُ",
+          "moduleId": "12"
+        }
+      ]
+    },
+    {
       "kok": "س و ع",
       "kelimeler": [
         {
@@ -2359,6 +2923,18 @@
           "tr": "saat",
           "vezin": "فَعَلَة",
           "moduleId": "11"
+        }
+      ]
+    },
+    {
+      "kok": "س ي ر",
+      "kelimeler": [
+        {
+          "ar": "السِّيرَةُ الذَّاتِيَّةُ",
+          "okunus": "es-sîratu'z-zâtiyyetu",
+          "tr": "özgeçmiş (CV)",
+          "vezin": "نَعْتٌ وَمَنْعُوتٌ",
+          "moduleId": "14"
         }
       ]
     },
@@ -2483,6 +3059,30 @@
       ]
     },
     {
+      "kok": "ش ر ك",
+      "kelimeler": [
+        {
+          "ar": "مُشَارِكُونَ",
+          "okunus": "muşârikûne",
+          "tr": "katılımcılar",
+          "vezin": "مُفَاعِلُونَ",
+          "moduleId": "13"
+        }
+      ]
+    },
+    {
+      "kok": "ش ع ر",
+      "kelimeler": [
+        {
+          "ar": "شَعَرَ يَشْعُرُ",
+          "okunus": "şe‘ara yeş‘uru",
+          "tr": "hissetti (1. Bab — بِـ)",
+          "vezin": "فَعَلَ يَفْعُلُ",
+          "moduleId": "12"
+        }
+      ]
+    },
+    {
       "kok": "ش ق ق",
       "kelimeler": [
         {
@@ -2515,6 +3115,18 @@
           "tr": "ay",
           "vezin": "فَعْل",
           "moduleId": "11"
+        }
+      ]
+    },
+    {
+      "kok": "ش و ر",
+      "kelimeler": [
+        {
+          "ar": "يَسْتَشِيرُ",
+          "okunus": "yesteşîru",
+          "tr": "danışıyor / istişare ediyor",
+          "vezin": "يَسْتَفْعِلُ",
+          "moduleId": "14"
         }
       ]
     },
@@ -2603,6 +3215,18 @@
       ]
     },
     {
+      "kok": "ص ب ر",
+      "kelimeler": [
+        {
+          "ar": "صَبَرَ يَصْبِرُ",
+          "okunus": "sabera yasbiru",
+          "tr": "sabretti (2. Bab — عَلَى)",
+          "vezin": "فَعَلَ يَفْعِلُ",
+          "moduleId": "12"
+        }
+      ]
+    },
+    {
       "kok": "ص د ع",
       "kelimeler": [
         {
@@ -2611,6 +3235,42 @@
           "tr": "baş ağrısı",
           "vezin": "فُعَال",
           "moduleId": "08"
+        }
+      ]
+    },
+    {
+      "kok": "ص د ق",
+      "kelimeler": [
+        {
+          "ar": "صَدَقَ يَصْدُقُ",
+          "okunus": "sadaka yasduku",
+          "tr": "doğru söyledi (1. Bab)",
+          "vezin": "فَعَلَ يَفْعُلُ",
+          "moduleId": "12"
+        }
+      ]
+    },
+    {
+      "kok": "ص ن ع",
+      "kelimeler": [
+        {
+          "ar": "صَنَعَ يَصْنَعُ",
+          "okunus": "sana‘a yasna‘u",
+          "tr": "yaptı / üretti (3. Bab)",
+          "vezin": "فَعَلَ يَفْعَلُ",
+          "moduleId": "12"
+        }
+      ]
+    },
+    {
+      "kok": "ص و ت",
+      "kelimeler": [
+        {
+          "ar": "أَصْوَاتٌ",
+          "okunus": "esvâtun",
+          "tr": "sesler / oylar",
+          "vezin": "أَفْعَال",
+          "moduleId": "13"
         }
       ]
     },
@@ -2675,6 +3335,18 @@
       ]
     },
     {
+      "kok": "ض ر ب",
+      "kelimeler": [
+        {
+          "ar": "ضَرَبَ يَضْرِبُ",
+          "okunus": "darabe yadribu",
+          "tr": "vurdu / örnek verdi (2. Bab)",
+          "vezin": "فَعَلَ يَفْعِلُ",
+          "moduleId": "12"
+        }
+      ]
+    },
+    {
       "kok": "ط ب خ",
       "kelimeler": [
         {
@@ -2695,6 +3367,30 @@
           "tr": "kat (bina katı)",
           "vezin": "فَاعَل",
           "moduleId": "07"
+        }
+      ]
+    },
+    {
+      "kok": "ط ل ب",
+      "kelimeler": [
+        {
+          "ar": "طَلَبَ يَطْلُبُ",
+          "okunus": "talebe yatlubu",
+          "tr": "istedi / talep etti (1. Bab)",
+          "vezin": "فَعَلَ يَفْعُلُ",
+          "moduleId": "12"
+        }
+      ]
+    },
+    {
+      "kok": "ط و ع",
+      "kelimeler": [
+        {
+          "ar": "مُتَطَوِّعُونَ",
+          "okunus": "mutetavvi‘ûne",
+          "tr": "gönüllüler",
+          "vezin": "مُتَفَعِّلُونَ",
+          "moduleId": "13"
         }
       ]
     },
@@ -2759,14 +3455,50 @@
       ]
     },
     {
-      "kok": "ع ش ر",
+      "kok": "ع ج م",
       "kelimeler": [
         {
-          "ar": "عَشَرَةٌ",
-          "okunus": "‘aşeratun",
-          "tr": "on (10)",
-          "vezin": "فَعَلَة",
-          "moduleId": "11"
+          "ar": "مُعْجَمٌ",
+          "okunus": "mu‘cemun",
+          "tr": "sözlük / kamus",
+          "vezin": "مُفْعَل",
+          "moduleId": "12"
+        }
+      ]
+    },
+    {
+      "kok": "ع ر ض",
+      "kelimeler": [
+        {
+          "ar": "مَعْرِضَانِ",
+          "okunus": "ma‘ridâni",
+          "tr": "iki sergi / iki fuar (Ref')",
+          "vezin": "مَفْعِلَانِ",
+          "moduleId": "13"
+        }
+      ]
+    },
+    {
+      "kok": "ع ر ف",
+      "kelimeler": [
+        {
+          "ar": "عَرَفَ يَعْرِفُ",
+          "okunus": "‘arafe ya‘rifu",
+          "tr": "bildi / tanıdı (2. Bab)",
+          "vezin": "فَعَلَ يَفْعِلُ",
+          "moduleId": "12"
+        }
+      ]
+    },
+    {
+      "kok": "ع م د",
+      "kelimeler": [
+        {
+          "ar": "عَمِيدٌ",
+          "okunus": "‘amîdun",
+          "tr": "dekan (fakülte dekanı)",
+          "vezin": "فَعِيل",
+          "moduleId": "13"
         }
       ]
     },
@@ -2939,6 +3671,18 @@
       ]
     },
     {
+      "kok": "غ س ل",
+      "kelimeler": [
+        {
+          "ar": "غَسَلَ يَغْسِلُ",
+          "okunus": "gasele yagsilu",
+          "tr": "yıkadı (2. Bab)",
+          "vezin": "فَعَلَ يَفْعِلُ",
+          "moduleId": "12"
+        }
+      ]
+    },
+    {
       "kok": "غ-ي-ر",
       "kelimeler": [
         {
@@ -2951,18 +3695,6 @@
       ]
     },
     {
-      "kok": "ف ت ح",
-      "kelimeler": [
-        {
-          "ar": "فَتَحَ",
-          "okunus": "feteha",
-          "tr": "açtı",
-          "vezin": "فَعَلَ",
-          "moduleId": "09"
-        }
-      ]
-    },
-    {
       "kok": "ف ر ح",
       "kelimeler": [
         {
@@ -2971,6 +3703,30 @@
           "tr": "sevindi",
           "vezin": "فَعِلَ",
           "moduleId": "09"
+        }
+      ]
+    },
+    {
+      "kok": "ف ر ق",
+      "kelimeler": [
+        {
+          "ar": "فَرِيقَانِ",
+          "okunus": "ferîkâni",
+          "tr": "iki ekip / iki takım (Ref')",
+          "vezin": "فَعِيلَانِ",
+          "moduleId": "13"
+        }
+      ]
+    },
+    {
+      "kok": "ف ك ه",
+      "kelimeler": [
+        {
+          "ar": "فَوَاكِهُ",
+          "okunus": "fevâkihu",
+          "tr": "meyveler",
+          "vezin": "فَوَاعِلُ",
+          "moduleId": "13"
         }
       ]
     },
@@ -3047,14 +3803,14 @@
       ]
     },
     {
-      "kok": "ق ر ب",
+      "kok": "ق د م",
       "kelimeler": [
         {
-          "ar": "قَرِيبٌ",
-          "okunus": "karîbun",
-          "tr": "yakın",
-          "vezin": "فَعِيل",
-          "moduleId": "07"
+          "ar": "مُتَقَدِّمٌ",
+          "okunus": "mutekaddimun",
+          "tr": "başvuran / aday / ileri",
+          "vezin": "مُتَفَعِّل",
+          "moduleId": "14"
         }
       ]
     },
@@ -3071,6 +3827,18 @@
       ]
     },
     {
+      "kok": "ق ض ي",
+      "kelimeler": [
+        {
+          "ar": "قَضِيَّةٌ",
+          "okunus": "kadiyyetun",
+          "tr": "mesele / dava / sorun",
+          "vezin": "فَعِيلَة",
+          "moduleId": "14"
+        }
+      ]
+    },
+    {
       "kok": "ق ط ر",
       "kelimeler": [
         {
@@ -3079,6 +3847,30 @@
           "tr": "tren",
           "vezin": "فِعَال",
           "moduleId": "07"
+        }
+      ]
+    },
+    {
+      "kok": "ق ع د",
+      "kelimeler": [
+        {
+          "ar": "قَوَاعِدُ",
+          "okunus": "kavâ‘idu",
+          "tr": "kurallar / kaideler",
+          "vezin": "فَوَاعِلُ",
+          "moduleId": "13"
+        }
+      ]
+    },
+    {
+      "kok": "ق ل ق",
+      "kelimeler": [
+        {
+          "ar": "لَا تَقْلَقِي",
+          "okunus": "lâ taklakî",
+          "tr": "endişelenme! (Sen K — Cezm: ن Hazfi)",
+          "vezin": "الْأَفْعَالُ الْخَمْسَةُ (مَجْزُوم)",
+          "moduleId": "14"
         }
       ]
     },
@@ -3155,14 +3947,62 @@
       ]
     },
     {
-      "kok": "ك ر م",
+      "kok": "ك ب ر",
       "kelimeler": [
         {
-          "ar": "يُكَرِّمُ",
-          "okunus": "yukerrimu",
-          "tr": "ödüllendiriyor / ikramda bulunuyor",
-          "vezin": "يُفَعِّلُ",
-          "moduleId": "10"
+          "ar": "كَبُرَ يَكْبُرُ",
+          "okunus": "kebura yekburu",
+          "tr": "büyüdü (5. Bab)",
+          "vezin": "فَعُلَ يَفْعُلُ",
+          "moduleId": "12"
+        }
+      ]
+    },
+    {
+      "kok": "ك ذ ب",
+      "kelimeler": [
+        {
+          "ar": "كَذَبَ يَكْذِبُ",
+          "okunus": "kezebe yekzibu",
+          "tr": "yalan söyledi (2. Bab)",
+          "vezin": "فَعَلَ يَفْعِلُ",
+          "moduleId": "12"
+        }
+      ]
+    },
+    {
+      "kok": "ك س ر",
+      "kelimeler": [
+        {
+          "ar": "كَسَرَ يَكْسِرُ",
+          "okunus": "kesera yeksiru",
+          "tr": "kırdı (2. Bab)",
+          "vezin": "فَعَلَ يَفْعِلُ",
+          "moduleId": "12"
+        }
+      ]
+    },
+    {
+      "kok": "ك ف أ",
+      "kelimeler": [
+        {
+          "ar": "كَفَاءَةٌ",
+          "okunus": "kefâetun",
+          "tr": "yetkinlik / yeterlilik",
+          "vezin": "فَعَالَة",
+          "moduleId": "14"
+        }
+      ]
+    },
+    {
+      "kok": "ك ل ا",
+      "kelimeler": [
+        {
+          "ar": "كِلَا / كِلْتَا",
+          "okunus": "kilâ / kiltâ",
+          "tr": "ikisi de / her ikisi (E / K)",
+          "vezin": "مُلْحَقٌ بِالْمُثَنَّى",
+          "moduleId": "13"
         }
       ]
     },
@@ -3179,6 +4019,18 @@
       ]
     },
     {
+      "kok": "ك ن ي",
+      "kelimeler": [
+        {
+          "ar": "كُنْيَةٌ",
+          "okunus": "kunyetun",
+          "tr": "künye (أَبُو / أُمُّ ile başlayan unvan)",
+          "vezin": "فُعْلَة",
+          "moduleId": "14"
+        }
+      ]
+    },
+    {
       "kok": "ك-و-ب",
       "kelimeler": [
         {
@@ -3187,6 +4039,18 @@
           "tr": "bardak / kupa",
           "vezin": "فُعْل",
           "moduleId": "06"
+        }
+      ]
+    },
+    {
+      "kok": "ل ب س",
+      "kelimeler": [
+        {
+          "ar": "لَبِسَ يَلْبَسُ",
+          "okunus": "lebise yelbesu",
+          "tr": "giydi (4. Bab)",
+          "vezin": "فَعِلَ يَفْعَلُ",
+          "moduleId": "12"
         }
       ]
     },
@@ -3211,6 +4075,18 @@
           "tr": "oynadı",
           "vezin": "فَعِلَ",
           "moduleId": "09"
+        }
+      ]
+    },
+    {
+      "kok": "ل و ح",
+      "kelimeler": [
+        {
+          "ar": "لَوْحَةٌ",
+          "okunus": "levhatun",
+          "tr": "tablo / levha",
+          "vezin": "فَعْلَة",
+          "moduleId": "13"
         }
       ]
     },
@@ -3275,6 +4151,18 @@
       ]
     },
     {
+      "kok": "م ن ع",
+      "kelimeler": [
+        {
+          "ar": "مَنَعَ يَمْنَعُ",
+          "okunus": "mena‘a yemne‘u",
+          "tr": "engelledi / yasakladı (3. Bab)",
+          "vezin": "فَعَلَ يَفْعَلُ",
+          "moduleId": "12"
+        }
+      ]
+    },
+    {
       "kok": "م ه ر",
       "kelimeler": [
         {
@@ -3335,18 +4223,6 @@
       ]
     },
     {
-      "kok": "ن ج ح",
-      "kelimeler": [
-        {
-          "ar": "نَجَحَ",
-          "okunus": "necaha",
-          "tr": "başardı / sınavı geçti",
-          "vezin": "فَعَلَ",
-          "moduleId": "09"
-        }
-      ]
-    },
-    {
       "kok": "ن ز ل",
       "kelimeler": [
         {
@@ -3355,6 +4231,18 @@
           "tr": "indi / yağdı",
           "vezin": "فَعَلَ",
           "moduleId": "09"
+        }
+      ]
+    },
+    {
+      "kok": "ن ص ر",
+      "kelimeler": [
+        {
+          "ar": "نَصَرَ يَنْصُرُ",
+          "okunus": "nasara yensuru",
+          "tr": "yardım etti / zafer verdi (1. Bab)",
+          "vezin": "فَعَلَ يَفْعُلُ",
+          "moduleId": "12"
         }
       ]
     },
@@ -3371,14 +4259,14 @@
       ]
     },
     {
-      "kok": "ن ظ ر",
+      "kok": "ن ظ م",
       "kelimeler": [
         {
-          "ar": "يَنْتَظِرُ",
-          "okunus": "yenteziru",
-          "tr": "bekliyor / bekler",
-          "vezin": "يَفْتَعِلُ",
-          "moduleId": "10"
+          "ar": "مُنَظِّمُونَ",
+          "okunus": "munazzimûne",
+          "tr": "düzenleyiciler / organizatörler",
+          "vezin": "مُفَعِّلُونَ",
+          "moduleId": "13"
         }
       ]
     },
@@ -3403,6 +4291,18 @@
           "tr": "yiyor / alıyor / ele alıyor",
           "vezin": "يَتَفَاعَلُ",
           "moduleId": "10"
+        }
+      ]
+    },
+    {
+      "kok": "ن ي ل",
+      "kelimeler": [
+        {
+          "ar": "يَنَالُ",
+          "okunus": "yenâlu",
+          "tr": "elde ediyor / ulaşıyor",
+          "vezin": "يَفْعَلُ",
+          "moduleId": "14"
         }
       ]
     },
@@ -3491,6 +4391,30 @@
       ]
     },
     {
+      "kok": "ه م ل",
+      "kelimeler": [
+        {
+          "ar": "يُهْمِلُ",
+          "okunus": "yuhmilu",
+          "tr": "ihmal ediyor / savsaklıyor",
+          "vezin": "يُفْعِلُ",
+          "moduleId": "14"
+        }
+      ]
+    },
+    {
+      "kok": "ه م م",
+      "kelimeler": [
+        {
+          "ar": "أَهَمِّيَّةٌ",
+          "okunus": "ehemmiyyetun",
+          "tr": "önem / ehemmiyet",
+          "vezin": "أَفْعَلِيَّة",
+          "moduleId": "14"
+        }
+      ]
+    },
+    {
       "kok": "ه-د-أ",
       "kelimeler": [
         {
@@ -3539,6 +4463,18 @@
       ]
     },
     {
+      "kok": "و ث ق",
+      "kelimeler": [
+        {
+          "ar": "وَثِقَ يَثِقُ",
+          "okunus": "vesika yesiku",
+          "tr": "güvendi (6. Bab — بِـ)",
+          "vezin": "فَعِلَ يَفْعِلُ",
+          "moduleId": "12"
+        }
+      ]
+    },
+    {
       "kok": "و ح د",
       "kelimeler": [
         {
@@ -3551,6 +4487,30 @@
       ]
     },
     {
+      "kok": "و د د",
+      "kelimeler": [
+        {
+          "ar": "مَوَدَّةٌ",
+          "okunus": "meveddetun",
+          "tr": "sevgi / dostluk / muhabbet",
+          "vezin": "مَفْعَلَة",
+          "moduleId": "14"
+        }
+      ]
+    },
+    {
+      "kok": "و ر ث",
+      "kelimeler": [
+        {
+          "ar": "وَرِثَ يَرِثُ",
+          "okunus": "verise yerisu",
+          "tr": "mirasçı oldu (6. Bab)",
+          "vezin": "فَعِلَ يَفْعِلُ",
+          "moduleId": "12"
+        }
+      ]
+    },
+    {
       "kok": "و ص ل",
       "kelimeler": [
         {
@@ -3559,6 +4519,54 @@
           "tr": "ulaştı / vardı",
           "vezin": "فَعَلَ",
           "moduleId": "09"
+        }
+      ]
+    },
+    {
+      "kok": "و ق ت",
+      "kelimeler": [
+        {
+          "ar": "أَوْقَاتٌ",
+          "okunus": "evkâtun",
+          "tr": "vakitler / zamanlar",
+          "vezin": "أَفْعَال",
+          "moduleId": "13"
+        }
+      ]
+    },
+    {
+      "kok": "و ق ف",
+      "kelimeler": [
+        {
+          "ar": "يَتَوَقَّفُ",
+          "okunus": "yetevakkafu",
+          "tr": "duruyor / vazgeçiyor / bağlı oluyor",
+          "vezin": "يَتَفَعَّلُ",
+          "moduleId": "14"
+        }
+      ]
+    },
+    {
+      "kok": "و ل د",
+      "kelimeler": [
+        {
+          "ar": "وَالِدَايَ",
+          "okunus": "vâlidâye",
+          "tr": "anne babam (Ref')",
+          "vezin": "مُثَنًّى مُضَافٌ",
+          "moduleId": "13"
+        }
+      ]
+    },
+    {
+      "kok": "و ه ب",
+      "kelimeler": [
+        {
+          "ar": "مَوْهِبَةٌ",
+          "okunus": "mevhibetun",
+          "tr": "yetenek / kabiliyet",
+          "vezin": "مَفْعِلَة",
+          "moduleId": "14"
         }
       ]
     },
@@ -3607,6 +4615,30 @@
           "tr": "çocuk / oğul",
           "vezin": "فَعَل",
           "moduleId": "01"
+        }
+      ]
+    },
+    {
+      "kok": "ي أ س",
+      "kelimeler": [
+        {
+          "ar": "يَيْأَسُ",
+          "okunus": "yey'esu",
+          "tr": "umutsuzluğa kapılıyor",
+          "vezin": "يَفْعَلُ",
+          "moduleId": "14"
+        }
+      ]
+    },
+    {
+      "kok": "ي د ي",
+      "kelimeler": [
+        {
+          "ar": "يَدَاكَ",
+          "okunus": "yedâke",
+          "tr": "iki elin (Ref')",
+          "vezin": "مُثَنًّى مُضَافٌ",
+          "moduleId": "13"
         }
       ]
     },

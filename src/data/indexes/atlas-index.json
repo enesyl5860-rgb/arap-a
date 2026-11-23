@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T23:35:58.254Z",
+  "generatedAt": "2026-11-23T07:26:30.002Z",
   "prepositionalVerbs": [
     {
       "ar": "بَحَثَ عَنْ",
@@ -595,6 +595,141 @@
       "arBaslik": "الْأَعْدَادُ مِن ١ إِلَى ١٠ وَأَحْكَامُهَا",
       "formul": "1–2: İsim + Sayı (Tam Uyum)  |  3–10: Sayı (Tekile Cinsiyetçe ZIT!) + ÇOĞUL MECRÛR İsim",
       "mantik": "Arapça sayı sisteminin temel taşını 1'den 10'a kadar olan kurallar oluşturur! Bu kuralı iki basit gruba ayırdığında asla kafan karışmaz:\n1) **1 ve 2 Sayıları (وَاحِدٌ / اِثْنَانِ) — TAM UYUM & SIFAT:** Sayılan isim ÖNCE, sayı SONRA gelir ve sıfat gibi cinsiyet…"
+    },
+    {
+      "id": "m12_g1",
+      "moduleId": "12",
+      "cefr": "A2",
+      "baslik": "Ayn'ul-Fiil (Orta Harf) Mantığı ve 6 Babın Şifreli Beyti",
+      "arBaslik": "عَيْنُ الْفِعْلِ وَمِفْتَاحُ الْأَبْوَابِ السِّتَّةِ",
+      "formul": "1: فَعَلَ يَفْعُلُ (a→u) · 2: فَعَلَ يَفْعِلُ (a→i) · 3: فَعَلَ يَفْعَلُ (a→a) · 4: فَعِلَ يَفْعَلُ (i→a) · 5: فَعُلَ يَفْعُلُ (u→u) · 6: فَعِلَ يَفْعِلُ (i→i)",
+      "mantik": "Faz 1'de `كَتَبَ → يَكْتُبُ` (u), `جَلَسَ → يَجْلِسُ` (i) ve `فَتَحَ → يَفْتَحُ` (a) şeklinde farklı muzâri harekeleriyle karşılaştık. 'Peki hangi fiilin orta harfi muzâride damme, hangisi kesra, hangisi fetha alır?' İşte Arapça Sarf ilminin en temel kapısı ol…"
+    },
+    {
+      "id": "m12_g2",
+      "moduleId": "12",
+      "cefr": "A2",
+      "baslik": "1., 2. ve 3. Bablar & 3. Babın Altın 'Boğaz Harfi' Şartı",
+      "arBaslik": "الْأَبْوَابُ الثَّلَاثَةُ الْأُولَى وَشَرْطُ الْبَابِ الثَّالِثِ",
+      "formul": "1. Bab (نَصَرَ): a→u (En kalabalık)  |  2. Bab (ضَرَبَ): a→i  |  3. Bab (فَتَحَ): a→a (2. veya 3. harf Boğaz Harfi: ء هـ ع ح غ خ!)",
+      "mantik": "İlk 3 babın tamamının mâzisi **فَعَلَ** (orta harf fethalı) şeklindedir; fakat muzâride üçe ayrılırlar:\n• **1. Bab (`فَعَلَ يَفْعُلُ` — نَصَرَ يَنْصُرُ):** Arapçadaki en kalabalık babdır! Günlük fiillerin büyük bölümü buradadır: `كَتَبَ يَكْتُبُ` (yazdı), `دَخ…"
+    },
+    {
+      "id": "m12_g3",
+      "moduleId": "12",
+      "cefr": "A2",
+      "baslik": "4., 5. ve 6. Bablar (Duygular, Kalıcı Nitelikler ve Nadir Fiiller)",
+      "arBaslik": "الْأَبْوَابُ الرَّابِعُ وَالْخَامِسُ وَالسَّادِسُ",
+      "formul": "4. Bab (i→a): Duygu/Algı/Durum  |  5. Bab (u→u): DAİMA Lâzım & Kalıcı Nitelik  |  6. Bab (i→i): En Nadir (~20 fiil)",
+      "mantik": "İlk 3 babda mâzi hep `فَعَلَ` idi. Son 3 bab ise çok belirgin **ANLAM KARAKTERİNE** sahiptir; yani bir fiilin anlamından bile babını tahmin edebilirsin!\n• **4. Bab (`فَعِلَ يَفْعَلُ` — عَلِمَ يَعْلَمُ):** Çok zengindir! Genellikle **duygular, zihinsel haller, …"
+    },
+    {
+      "id": "m12_g4",
+      "moduleId": "12",
+      "cefr": "A2",
+      "baslik": "Lâzım (Geçişsiz) vs. Müteaddi (Geçişli) Fiil Mantığı",
+      "arBaslik": "الْفِعْلُ اللَّازِمُ وَالْفِعْلُ الْمُتَعَدِّي",
+      "formul": "Müteaddi: Fiil + Fâil + Mef'ûlün Bih (Mansub)  |  Lâzım: Fiil + Fâil (+ Harf-i Cer + Mecrûr)",
+      "mantik": "Arapçada cümle kurarken ve YDS/YÖKDİL'de harf-i cer boşluğu doldururken her fiil için şu temel soruyu sorarız: Bu fiil **Lâzım (geçişsiz)** mı, yoksa **Müteaddi (geçişli)** mi?\n• **Müteaddi (Geçişli) Fiil:** 'Kimi? Neyi?' sorusuna doğrudan cevap verir ve harf-…"
+    },
+    {
+      "id": "m12_g5",
+      "moduleId": "12",
+      "cefr": "A2",
+      "baslik": "Arapça Kök Sözlüğü Kullanma ve Bab Sembollerini Okuma Sanatı",
+      "arBaslik": "كَيْفِيَّةُ اسْتِخْدَامِ الْمُعْجَمِ الْعَرَبِيِّ وَقِرَاءَةِ رُمُوزِ الْأَبْوَابِ",
+      "formul": "Sözlük Kökü Bulma: Fazla Ekleri At → 3 Kök Harfi → Bab Sembolü: (u=ن / i=ض / a=ف-س / u=ك / i=ح)",
+      "mantik": "Türkçe veya İngilizce sözlükler kelimeleri alfabetik sıraya göre dizilir; ama klasik Arapça sözlükler (Tevakku / Hans Wehr / Serdar Mutçalı / Mu'cemü'l-Vasît) kelimeleri **3 HARFLİ KÖKÜNE (جِذْر)** göre dizer! Örneğin `مَكْتَبَةٌ` (kütüphane) kelimesini م harf…"
+    },
+    {
+      "id": "m13_g1",
+      "moduleId": "13",
+      "cefr": "A2",
+      "baslik": "Tesniye (İkil) İsimlerin Harf ile İ'rabı (ـَانِ / ـَيْنِ)",
+      "arBaslik": "إِعْرَابُ الْمُثَنَّى وَالْمُلْحَقُ بِهِ",
+      "formul": "Tesniye İ'rabı: Ref' = ـَانِ (Elif)  |  Nasb = ـَيْنِ (Yâ)  |  Cer = ـَيْنِ (Yâ)  (Sondaki نِ daima kesralı!)",
+      "mantik": "Tekil isimler cümledeki görevlerini sonlarındaki kısa **HAREKELERLE** (`ـُ / ـَ / ـِ`) gösterir. Tesniye (ikil) isimler ise harekeyle değil, **HARF İLE İ'RAB** edilirler! Bu kural Arapçada inanılmaz derecede net ve tutarlıdır:\n• **Ref' Hâli (Mübtedâ, Haber, Fâ…"
+    },
+    {
+      "id": "m13_g2",
+      "moduleId": "13",
+      "cefr": "A2",
+      "baslik": "Cemi Müzekker Sâlim İ'rabı (ـُونَ / ـِينَ) & İkil–Çoğul Altın Ayrımı",
+      "arBaslik": "إِعْرَابُ جَمْعِ الْمُذَكَّرِ السَّالِمِ وَالْمُلْحَقِ بِهِ",
+      "formul": "Cemi Müzekker: Ref' = ـُونَ (Vâv)  |  Nasb & Cer = ـِينَ (Yâ)  ✦  ـَيْنِ (İkil) ≠ ـِينَ (Çoğul)",
+      "mantik": "Akıllı erkek topluluklarının düzenli çoğulu olan **Cemi Müzekker Sâlim** de tıpkı tesniye gibi **HARF İLE İ'RAB** edilir:\n• **Ref' Hâli (Mübtedâ, Haber, Fâil):** **Vâv (و)** ile → **ـُونَ** (`الْمُعَلِّمُونَ`, `الْمُسْلِمُونَ`).\n• **Nasb Hâli (Mef'ûlün Bih, لَ…"
+    },
+    {
+      "id": "m13_g3",
+      "moduleId": "13",
+      "cefr": "A2",
+      "baslik": "Cemi Müennes Sâlim İ'rabı & 'أَوْقَاتٌ / أَصْوَاتٌ' Tuzağı",
+      "arBaslik": "إِعْرَابُ جَمْعِ الْمُؤَنَّثِ السَّالِمِ وَتَنْبِيهٌ مُهِمٌّ",
+      "formul": "Cemi Müennes Sâlim (Zâid ـَات): Ref' ـَاتُ | Nasb & Cer ـَاتِ (KESRA!)  ≠  أَوْقَاتًا / أَصْوَاتًا / أَبْيَاتًا (Kök ت → FETHA!)",
+      "mantik": "Düzenli dişil çoğul (**Cemi Müennes Sâlim**: sonuna fazladan **ـَات** eklenerek yapılan çoğullar — `طَالِبَاتٌ، سَيَّارَاتٌ، مَعْلُومَاتٌ`) harekeyle i'rab edilir; fakat Arapçanın en meşhur ve sınavlarda en çok sorulan istisnasına sahiptir:\n• **Ref' Hâli:** **…"
+    },
+    {
+      "id": "m13_g4",
+      "moduleId": "13",
+      "cefr": "A2",
+      "baslik": "Muzâf Olunca Nûn'un Düşmesi (حَذْفُ النُّونِ عِنْدَ الْإِضَافَةِ)",
+      "arBaslik": "حَذْفُ نُونِ الْمُثَنَّى وَجَمْعِ الْمُذَكَّرِ السَّالِمِ عِنْدَ الْإِضَافَةِ",
+      "formul": "Muzâf İkil: ـَا (Ref) / ـَيْ (Nasb-Cer)  |  Muzâf Cemi Müzekker: ـُو (Ref — Elifsiz!) / ـِي (Nasb-Cer)",
+      "mantik": "Modül 06'da 'Muzâf (isim tamlamasının ilk kelimesi) ASLA tenvîn almaz' kuralını öğrenmiştik (`كِتَابُ الطَّالِبِ`). Peki tamlamanın ilk kelimesi (muzâf) bir **TESNİYE (`ـَانِ / ـَيْنِ`)** veya **CEMİ MÜZEKKER SÂLİM (`ـُونَ / ـِينَ`)** olursa ne olur? İşte Arap…"
+    },
+    {
+      "id": "m13_g5",
+      "moduleId": "13",
+      "cefr": "A2",
+      "baslik": "Cemi Teksir (Kırık Çoğul) İ'rabı & Gayr-i Munsarif Ön Uyarısı",
+      "arBaslik": "إِعْرَابُ جَمْعِ التَّكْسِيرِ وَمُلَخَّصُ عَلَامَاتِ الْإِعْرَابِ",
+      "formul": "Standart Cemi Teksir: Damme / Fetha / Kesra  |  مَفَاعِلُ / مَفَاعِيلُ (Nekre): Tenvîn YOK, Cer = FETHA (فِي مَسَاجِدَ)",
+      "mantik": "Düzenli ek almadan iç yapısı kırılıp değişen çoğullara **Cemi Teksir (جَمْعُ التَّكْسِيرِ — Kırık Çoğul)** denir (`طَالِبٌ → طُلَّابٌ`, `كِتَابٌ → كُتُبٌ`, `قَلَمٌ → أَقْلَامٌ`). İ'rabı çok rahattır: **Standart Cemi Teksir tıpkı TEKİL İSİM gibi asli harekelerl…"
+    },
+    {
+      "id": "m14_g1",
+      "moduleId": "14",
+      "cefr": "A2",
+      "baslik": "Esmâ-i Hamse (Beş İsim) ve Vâv / Elif / Yâ ile İ'rabı",
+      "arBaslik": "الْأَسْمَاءُ الْخَمْسَةُ وَإِعْرَابُهَا بِالْحُرُوفِ",
+      "formul": "Esmâ-i Hamse (أَب / أَخ / حَم / فُو / ذُو): Ref' = و (أَبُوكَ)  |  Nasb = ا (أَبَاكَ)  |  Cer = ي (أَبِيكَ)",
+      "mantik": "Arapçada tam **5 özel isim** vardır ki şartları sağlandığında kısa hareke (`ـُ / ـَ / ـِ`) yerine doğrudan **3 UZUN ÜNLÜ HARF (و / ا / ي)** ile i'rab edilirler! Bunlara **Esmâ-i Hamse (الْأَسْمَاءُ الْخَمْسَةُ — Beş İsim)** denir:\n1) **أَبٌ** (baba), 2) **أَخٌ…"
+    },
+    {
+      "id": "m14_g2",
+      "moduleId": "14",
+      "cefr": "A2",
+      "baslik": "Esmâ-i Hamse'nin 4 Altın Şartı & 'أَبِي / أَخِي / فَمٌ' İstisnaları",
+      "arBaslik": "شُرُوطُ إِعْرَابِ الْأَسْمَاءِ الْخَمْسَةِ بِالْحُرُوفِ",
+      "formul": "4 Şart: Tekil + Muzâf + (ـِي Hariç!) + Tasğîrsiz  |  Şart Bozulursa → Normal/Takdirî Hareke! (أَبٌ / أَبِي / فَمُكَ)",
+      "mantik": "Her gördüğün `أَبٌ` veya `أَخٌ` kelimesi otomatik olarak vâv/elif/yâ ile i'rab edilmez! Bu beş ismin harf ile i'rab edilebilmesi için **4 ALTIN ŞARTI** aynı anda taşıması zorunludur:\n1) **TEKİL (Müfred) olacak:** İkil olursa (`أَبَوَانِ / أَخَوَانِ`) tesniye g…"
+    },
+    {
+      "id": "m14_g3",
+      "moduleId": "14",
+      "cefr": "A2",
+      "baslik": "ذُو ('Sahip / -li') ve Dişil / Çoğul Ailesi (ذَاتُ · ذَوُو · ذَوَاتُ)",
+      "arBaslik": "«ذُو» بِمَعْنَى صَاحِبٍ وَفُرُوعُهَا (ذَاتُ / ذَوَا / ذَوُو / ذَوَاتُ)",
+      "formul": "Eril: ذُو/ذَا/ذِي  |  Dişil: ذَاتُ/ذَاتَ/ذَاتِ  |  Eril Çoğul: ذَوُو/ذَوِي  |  Dişil Çoğul: ذَوَاتُ/ذَوَاتِ  (+ DAİMA Mecrûr İsim!)",
+      "mantik": "Türkçede 'bilgili, ahlaklı, tecrübeli, önemli' gibi sıfatları üretmek için kelimenin sonuna **-lı / -li** veya **sahibi** ekleriz. Arapçanın en şık ve YDS/YÖKDİL metinlerinde neredeyse her paragrafta geçen süper kelimesi **ذُو** ('sahip / -li') işte tam bu gör…"
+    },
+    {
+      "id": "m14_g4",
+      "moduleId": "14",
+      "cefr": "A2",
+      "baslik": "Ef'âl-i Hamse (الْأَفْعَالُ الْخَمْسَةُ — Beş Fiil) Mimarisi",
+      "arBaslik": "الْأَفْعَالُ الْخَمْسَةُ وَصِيَغُهَا",
+      "formul": "Ef'âl-i Hamse (5 Kalıp): يَفْعَلَانِ · تَفْعَلَانِ · يَفْعَلُونَ · تَفْعَلُونَ · تَفْعَلِينَ  (يَفْعَلْنَ / تَفْعَلْنَ HARİÇ!)",
+      "mantik": "Modül 10'da muzâri fiilin 14 şahıs çekimini öğrenmiştik. Şimdi o tablonun içinde **HARF (NÛN) İLE İ'RAB EDİLEN** çok özel bir 5'li çekirdeği merceğe alıyoruz: **Ef'âl-i Hamse (الْأَفْعَالُ الْخَمْسَةُ — Beş Fiil)**!\nDikkat: 'Beş Fiil' denince aklına 5 tane söz…"
+    },
+    {
+      "id": "m14_g5",
+      "moduleId": "14",
+      "cefr": "A2",
+      "baslik": "Ef'âl-i Hamse'nin İ'rabı: Nûn'un Sübutu (Ref') & Nûn'un Hazfi (Nasb/Cezm)",
+      "arBaslik": "إِعْرَابُ الْأَفْعَالِ الْخَمْسَةِ: ثُبُوتُ النُّونِ وَحَذْفُهَا",
+      "formul": "Ref': ن VAR (يَكْتُبُونَ / تَكْتُبِينَ)  |  Nasb (أَنْ/لَنْ) & Cezm (لَمْ/لَا): ن DÜŞER! (لَنْ يَكْتُبُوا / لَمْ تَكْتُبِي)",
+      "mantik": "Modül 15 ve 16'ya geçmeden önce en büyük süper gücünü şimdiden kuşanıyorsun! Normal muzâri (`يَكْتُبُ`) ref'te damme (`يَكْتُبُ`), nasbta fetha (`لَنْ يَكْتُبَ`), cezmde sükûn (`لَمْ يَكْتُبْ`) alır. Peki **Ef'âl-i Hamse** (`يَكْتُبُونَ / يَكْتُبَانِ / تَكْتُب…"
     }
   ],
   "quickPractice": [
@@ -2247,6 +2382,456 @@
       ],
       "dogruIndeks": 0,
       "aciklama": "شَجَرَةٌ dişildir → sayı zıt (ة'siz: خَمْسُ), mübtedâ-i muahhar olduğu için merfû (damme) ve muzâf (tenvînsiz)!"
+    },
+    {
+      "id": "atlas_m12_g1_d1",
+      "moduleId": "12",
+      "kategori": "Sarf",
+      "soru": "Sülâsî mücerred 6 bab sisteminde bir fiilin hangi babdan olduğunu belirleyen harf hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "Ayn'ul-Fiil (2. kök harfinin mâzi ve muzâri harekesi)",
+        "Fâ'ul-Fiil (1. kök harfi)",
+        "Lâm'ul-Fiil (3. kök harfi)",
+        "Muzâraat harfi"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "6 babın tamamı orta kök harfinin (ayn'ul-fiil) mâzi→muzâri hareke çiftine göre sınıflanır."
+    },
+    {
+      "id": "atlas_m12_g1_d2",
+      "moduleId": "12",
+      "kategori": "Sarf",
+      "soru": "Mâzisi فَعُلَ (orta harfi dammeli: كَبُرَ، قَرُبَ، سَهُلَ) olan bir fiilin muzârisi kesinlikle hangi babdandır?",
+      "soruAr": "",
+      "secenekler": [
+        "5. Bab — يَفْعُلُ (damme → damme)",
+        "1. Bab",
+        "4. Bab",
+        "2. Bab"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Arapçada u→a veya u→i babı yoktur; فَعُلَ daima 5. babdan يَفْعُلُ gelir!"
+    },
+    {
+      "id": "atlas_m12_g2_d1",
+      "moduleId": "12",
+      "kategori": "Sarf",
+      "soru": "3. babdan (فَعَلَ يَفْعَلُ) gelen bir fiilin 2. veya 3. kök harfi hangi gruptan olmalıdır?",
+      "soruAr": "",
+      "secenekler": [
+        "6 Boğaz Harfi (ء، هـ، ع، ح، غ، خ)",
+        "Şemsî harfler",
+        "Med harfleri",
+        "Dudak harfleri"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "3. babın temel ses şartı 2. veya 3. harfin boğaz harfi olmasıdır."
+    },
+    {
+      "id": "atlas_m12_g2_d2",
+      "moduleId": "12",
+      "kategori": "Sarf",
+      "soru": "عَرَفَ (bildi/tanıdı) fiilinin doğru muzârisi ve babı hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "يَعْرِفُ (2. Bab)",
+        "يَعْرُفُ (1. Bab)",
+        "يَعْرَفُ (3. Bab)",
+        "يُعَرِّفُ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "عَرَفَ يَعْرِفُ 2. bab fiilidir."
+    },
+    {
+      "id": "atlas_m12_g3_d1",
+      "moduleId": "12",
+      "kategori": "Sarf",
+      "soru": "Arapçada istisnasız TAMAMI lâzım (geçişsiz) olan ve kalıcı nitelik bildiren bab hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "5. Bab (فَعُلَ يَفْعُلُ)",
+        "1. Bab (فَعَلَ يَفْعُلُ)",
+        "3. Bab (فَعَلَ يَفْعَلُ)",
+        "4. Bab (فَعِلَ يَفْعَلُ)"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "5. bab (كَرُمَ، حَسُنَ، كَبُرَ، سَهُلَ) tamamen lâzımdır ve kalıcı vasıf bildirir."
+    },
+    {
+      "id": "atlas_m12_g3_d2",
+      "moduleId": "12",
+      "kategori": "Sarf",
+      "soru": "6 bab içinde en az fiil barındıran (yaklaşık 20 fiil) bab hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "6. Bab (فَعِلَ يَفْعِلُ — حَسِبَ يَحْسِبُ)",
+        "1. Bab",
+        "2. Bab",
+        "4. Bab"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "6. bab (kesratân) Arapçadaki en nadir sülâsî babdır."
+    },
+    {
+      "id": "atlas_m12_g4_d1",
+      "moduleId": "12",
+      "kategori": "Sarf",
+      "soru": "شَعَرَ الْمُسَافِرُ ....... التَّعَبِ بَعْدَ الرِّحْلَةِ الطَّوِيلَةِ. (Yolcu yorgunluk hissetti) boşluğuna hangi harf-i cer gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "بِـ (بِالتَّعَبِ)",
+        "إِلَى",
+        "عَنْ",
+        "عَلَى"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "شَعَرَ (hissetti) fiili daima بِـ harf-i ceriyle kullanılır: شَعَرَ بِالتَّعَبِ."
+    },
+    {
+      "id": "atlas_m12_g4_d2",
+      "moduleId": "12",
+      "kategori": "Sarf",
+      "soru": "بَحَثَ الطَّالِبُ ....... الْقَامُوسِ فِي الْمَكْتَبَةِ. (Öğrenci sözlüğü aradı) boşluğuna hangisi gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "عَنِ",
+        "إِلَى",
+        "بِـ",
+        "فِي"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "بَحَثَ عَنْ = aramak / araştırmak."
+    },
+    {
+      "id": "atlas_m12_g5_d1",
+      "moduleId": "12",
+      "kategori": "Sarf",
+      "soru": "'مَدْرَسَةٌ' (okul) kelimesi klasik Arapça kök sözlüğünde hangi kök maddesinde aranır?",
+      "soruAr": "",
+      "secenekler": [
+        "د - ر - س",
+        "م - د - ر",
+        "ر - س - ة",
+        "م - ر - س"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "مَـ ve ة ekleri atılınca 3 harfli kök د-ر-س ortaya çıkar."
+    },
+    {
+      "id": "atlas_m12_g5_d2",
+      "moduleId": "12",
+      "kategori": "Sarf",
+      "soru": "Modern bir Arapça sözlükte 'حَمَلَ (i)' şeklinde gördüğün fiilin muzârisi nasıl okunur?",
+      "soruAr": "",
+      "secenekler": [
+        "يَحْمِلُ (2. Bab)",
+        "يَحْمُلُ (1. Bab)",
+        "يَحْمَلُ (3. Bab)",
+        "يُحَمِّلُ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "(i) işareti muzâri orta harfinin kesralı (يَحْمِلُ) olduğunu gösterir."
+    },
+    {
+      "id": "atlas_m13_g1_d1",
+      "moduleId": "13",
+      "kategori": "Nahiv & İ'rab",
+      "soru": "مَرَرْتُ بِـ....... جَمِيلَتَيْنِ. (İki güzel bahçenin yanından geçtim) boşluğuna doğru ikil hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "حَدِيقَتَيْنِ",
+        "حَدِيقَتَانِ",
+        "حَدِيقَتَيْنَ",
+        "حَدِيقَتَيْ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "بِـ harf-i cerinden sonra ikil isim ـَيْنِ ile mecrûr olur: حَدِيقَتَيْنِ."
+    },
+    {
+      "id": "atlas_m13_g1_d2",
+      "moduleId": "13",
+      "kategori": "Nahiv & İ'rab",
+      "soru": "دَخَلَ ....... الْقَاعَةَ. (İki hoca salona girdi) boşluğuna doğru fâil hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "الْأُسْتَاذَانِ",
+        "الْأُسْتَاذَيْنِ",
+        "الْأُسْتَاذِينَ",
+        "الْأُسْتَاذَا"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Fâil merfûdur; tesniyenin ref' alâmeti eliftir: الْأُسْتَاذَانِ."
+    },
+    {
+      "id": "atlas_m13_g2_d1",
+      "moduleId": "13",
+      "kategori": "Nahiv & İ'rab",
+      "soru": "اِشْتَرَيْتُ الْكِتَابَ بِـ....... لِيرَةً. (Kitabı kırk liraya aldım) boşluğuna doğru onluk sayı hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "أَرْبَعِينَ",
+        "أَرْبَعُونَ",
+        "أَرْبَعَةً",
+        "أَرْبَعَيْنِ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "بِـ harf-i ceri 20–90 sayılarını yâ ile mecrûr yapar: بِأَرْبَعِينَ."
+    },
+    {
+      "id": "atlas_m13_g2_d2",
+      "moduleId": "13",
+      "kategori": "Nahiv & İ'rab",
+      "soru": "كَرَّمَتِ الْجَامِعَةُ ....... . (Üniversite başarılıları ödüllendirdi)",
+      "soruAr": "",
+      "secenekler": [
+        "الْمُتَفَوِّقِينَ",
+        "الْمُتَفَوِّقُونَ",
+        "الْمُتَفَوِّقَانِ",
+        "الْمُتَفَوِّقُو"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Mef'ûlün bih cemi müzekker → yâ ile mansub: الْمُتَفَوِّقِينَ."
+    },
+    {
+      "id": "atlas_m13_g3_d1",
+      "moduleId": "13",
+      "kategori": "Nahiv & İ'rab",
+      "soru": "قَضَيْنَا ....... سَعِيدَةً فِي بُورْصَا. (Bursa'da mutlu vakitler geçirdik) boşluğuna doğru kelime hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "أَوْقَاتًا",
+        "أَوْقَاتٍ",
+        "أَوْقَاتٌ",
+        "أَوْقَاتِ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "أَوْقَاتٌ kelimesinin ت harfi köktendir (و-ق-ت); kırık çoğuldur ve fethayla mansub olur: أَوْقَاتًا!"
+    },
+    {
+      "id": "atlas_m13_g3_d2",
+      "moduleId": "13",
+      "kategori": "Nahiv & İ'rab",
+      "soru": "سَمِعْتُ ....... جَمِيلَةً فِي الْغَابَةِ. (Ormanda güzel sesler duydum) boşluğuna doğru şekil hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "أَصْوَاتًا",
+        "أَصْوَاتٍ",
+        "أَصْوَاتٌ",
+        "أَصْوَاتُ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "صَوْتٌ (ص-و-ت) → أَصْوَاتًا (kırık çoğul, fethatân ile mansub!)."
+    },
+    {
+      "id": "atlas_m13_g4_d1",
+      "moduleId": "13",
+      "kategori": "Nahiv & İ'rab",
+      "soru": "'مُهَنْدِسُونَ' + 'الشَّرِكَةِ' (Şirketin mühendisleri — ref' hâli) isim tamlaması nasıl yazılır?",
+      "soruAr": "",
+      "secenekler": [
+        "مُهَنْدِسُو الشَّرِكَةِ",
+        "مُهَنْدِسُوا الشَّرِكَةِ",
+        "مُهَنْدِسُونَ الشَّرِكَةِ",
+        "مُهَنْدِسِي الشَّرِكَةِ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Muzâf cemi müzekkerde ن düşer ve İSİMLERDE vâvdan sonra elif-i fârika YAZILMAZ: مُهَنْدِسُو الشَّرِكَةِ."
+    },
+    {
+      "id": "atlas_m13_g4_d2",
+      "moduleId": "13",
+      "kategori": "Nahiv & İ'rab",
+      "soru": "شَكَرْتُ ....... الْمَدْرَسَةِ. (Okulun öğretmenlerine teşekkür ettim) boşluğuna doğru muzâf hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "مُعَلِّمِي",
+        "مُعَلِّمُو",
+        "مُعَلِّمِينَ",
+        "مُعَلِّمَا"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Mef'ûlün bih (mansub) + muzâf (ن düşer): مُعَلِّمِي الْمَدْرَسَةِ."
+    },
+    {
+      "id": "atlas_m13_g5_d1",
+      "moduleId": "13",
+      "kategori": "Nahiv & İ'rab",
+      "soru": "صَلَّيْتُ فِي ....... قَدِيمَةٍ. (Eski camilerde namaz kıldım) boşluğuna doğru harekeli şekil hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "مَسَاجِدَ",
+        "مَسَاجِدٍ",
+        "مَسَاجِدٌ",
+        "مَسَاجِدُ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "مَسَاجِدُ (مَفَاعِلُ kalıbı) nekre iken fetha ile mecrûr olur: فِي مَسَاجِدَ."
+    },
+    {
+      "id": "atlas_m13_g5_d2",
+      "moduleId": "13",
+      "kategori": "Nahiv & İ'rab",
+      "soru": "تَعَلَّمَ الْأَطْفَالُ فِي ....... الْحَدِيثَةِ. (Çocuklar modern okullarda öğrendiler — ال takılı!)",
+      "soruAr": "",
+      "secenekler": [
+        "الْمَدَارِسِ",
+        "الْمَدَارِسَ",
+        "الْمَدَارِسُ",
+        "مَدَارِسٍ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "ال takısı gelince gayr-i munsarif kelime normal kesra alır: فِي الْمَدَارِسِ!"
+    },
+    {
+      "id": "atlas_m14_g1_d1",
+      "moduleId": "14",
+      "kategori": "Nahiv & İ'rab",
+      "soru": "شَاهَدْتُ ....... فِي الْمَكْتَبَةِ أَمْسِ. (Dün kütüphanede kardeşini gördüm) boşluğuna doğru kelime hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "أَخَاكَ",
+        "أَخُوكَ",
+        "أَخِيكَ",
+        "أَخًى"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Mef'ûlün bih (mansub) konumunda Esmâ-i Hamse elif (ا) alır: أَخَاكَ."
+    },
+    {
+      "id": "atlas_m14_g1_d2",
+      "moduleId": "14",
+      "kategori": "Nahiv & İ'rab",
+      "soru": "تَعَلَّمْتُ الْكَثِيرَ مِنْ ....... . (Babandan çok şey öğrendim) boşluğuna doğru şekil hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "أَبِيكَ",
+        "أَبُوكَ",
+        "أَبَاكَ",
+        "أَبٍ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "مِنْ harf-i cerinden sonra Esmâ-i Hamse yâ (ي) ile mecrûr olur: أَبِيكَ."
+    },
+    {
+      "id": "atlas_m14_g2_d1",
+      "moduleId": "14",
+      "kategori": "Nahiv & İ'rab",
+      "soru": "Aşağıdaki cümlelerden hangisinde 'أَخ' kelimesi HARF ile (Esmâ-i Hamse kuralıyla) i'rab EDİLMEMİŞTİR?",
+      "soruAr": "",
+      "secenekler": [
+        "رَأَيْتُ أَخِي فِي السُّوقِ.",
+        "جَاءَ أَخُوكَ أَمْسِ.",
+        "شَكَرْتُ أَخَاكَ كَثِيرًا.",
+        "سَلَّمْتُ عَلَى أَخِي أَحْمَدَ."
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "أَخِي mütekellim yâsına (ـِي) muzâf olduğu için harfle değil, takdirî harekeyle i'rab edilir!"
+    },
+    {
+      "id": "atlas_m14_g2_d2",
+      "moduleId": "14",
+      "kategori": "Nahiv & İ'rab",
+      "soru": "'رَأَيْتُ أَبًا حَنُونًا' cümlesinde 'أَبًا' neden elifle (أَبَا) değil normal fethatânla (أَبًا) mansub olmuştur?",
+      "soruAr": "",
+      "secenekler": [
+        "Muzâf olmadığı (yalın kullanıldığı) için",
+        "Çoğul olduğu için",
+        "Müennes olduğu için",
+        "Harf-i cer aldığı için"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Esmâ-i Hamse'nin harfle i'rabı için mutlaka muzâf olması şarttır."
+    },
+    {
+      "id": "atlas_m14_g3_d1",
+      "moduleId": "14",
+      "kategori": "Nahiv & İ'rab",
+      "soru": "اِلْتَقَيْتُ بِرَجُلٍ ....... خُلُقٍ كَرِيمٍ. (Güzel ahlaklı bir adamla karşılaştım) boşluğuna hangisi gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "ذِي",
+        "ذُو",
+        "ذَا",
+        "ذَاتِ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "رَجُلٍ eril mecrûr olduğu için sıfatı yâ ile mecrûr ذِي olur."
+    },
+    {
+      "id": "atlas_m14_g3_d2",
+      "moduleId": "14",
+      "kategori": "Nahiv & İ'rab",
+      "soru": "نَاقَشْنَا مَسْأَلَةً ....... أَهَمِّيَّةٍ بَالِغَةٍ. (Çok önemli bir meseleyi tartıştık) boşluğuna hangisi gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "ذَاتَ",
+        "ذَا",
+        "ذُو",
+        "ذَاتُ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "مَسْأَلَةً dişil mansub → sıfatı ذَاتَ (fetha ile mansub)."
+    },
+    {
+      "id": "atlas_m14_g4_d1",
+      "moduleId": "14",
+      "kategori": "Nahiv & İ'rab",
+      "soru": "Aşağıdaki fiillerden hangisi Ef'âl-i Hamse'den (Beş Fiil) DEĞİLDİR?",
+      "soruAr": "",
+      "secenekler": [
+        "يَكْتُبْنَ (onlar kadınlar)",
+        "يَكْتُبُونَ",
+        "تَكْتُبِينَ",
+        "يَكْتُبَانِ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "يَكْتُبْنَ (Nûn-u Nisve) mebnîdir, Ef'âl-i Hamse'ye dahil değildir!"
+    },
+    {
+      "id": "atlas_m14_g4_d2",
+      "moduleId": "14",
+      "kategori": "Nahiv & İ'rab",
+      "soru": "Aşağıdakilerden hangisi Ef'âl-i Hamse grubunda yer alan bir FİİLDİR (isim değil)?",
+      "soruAr": "",
+      "secenekler": [
+        "يُعَلِّمُونَ (öğretiyorlar)",
+        "الْمُعَلِّمُونَ (öğretmenler)",
+        "الْمُجْتَهِدِينَ (çalışkanlar)",
+        "الطَّالِبَانِ (iki öğrenci)"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "يُعَلِّمُونَ muzâri fiildir; diğer üçü isimdir."
+    },
+    {
+      "id": "atlas_m14_g5_d1",
+      "moduleId": "14",
+      "kategori": "Nahiv & İ'rab",
+      "soru": "الطُّلَّابُ لَمْ ....... عَنِ الدَّرْسِ أَمْسِ. (Öğrenciler dün dersten geri kalmadılar) boşluğuna hangisi gelir?",
+      "soruAr": "",
+      "secenekler": [
+        "يَتَغَيَّبُوا",
+        "يَتَغَيَّبُونَ",
+        "يَتَغَيَّبُو",
+        "يَتَغَيَّبْ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "لَمْ cezm edatıdır → Ef'âl-i Hamse'den ن düşer ve elif-i fârika eklenir: يَتَغَيَّبُوا."
+    },
+    {
+      "id": "atlas_m14_g5_d2",
+      "moduleId": "14",
+      "kategori": "Nahiv & İ'rab",
+      "soru": "يَا مَرْيَمُ، أُرِيدُ أَنْ ....... النَّصَّ بِصَوْتٍ عَالٍ. (Meryem, metni yüksek sesle okumanı istiyorum)",
+      "soruAr": "",
+      "secenekler": [
+        "تَقْرَئِي",
+        "تَقْرَئِينَ",
+        "تَقْرَأْ",
+        "تَقْرَؤُوا"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "أَنْ nasb edatıdır → تَقْرَئِينَ fiilinden ن düşer: أَنْ تَقْرَئِي."
     }
   ]
 }

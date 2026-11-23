@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T23:35:58.255Z",
-  "totalItems": 474,
+  "generatedAt": "2026-11-23T07:26:30.003Z",
+  "totalItems": 585,
   "items": [
     {
       "id": "search_mod_01",
@@ -4511,6 +4511,1101 @@
       "subtitle": "Gramer Kuralı · M11",
       "ar": "الْأَعْدَادُ مِن ١ إِلَى ١٠ وَأَحْكَامُهَا",
       "keywords": "1–2: İsim + Sayı (Tam Uyum)  |  3–10: Sayı (Tekile Cinsiyetçe ZIT!) + ÇOĞUL MECRÛR İsim Arapça sayı sisteminin temel taşını 1'den 10'a kadar olan kurallar oluşturur! Bu kuralı iki basit gruba ayırdığında asla"
+    },
+    {
+      "id": "search_card_m12_fc01",
+      "type": "card",
+      "moduleId": "12",
+      "title": "yardım etti / zafer verdi (1. Bab) (nasara yensuru)",
+      "subtitle": "SRS Kartı · M12 · Kök: ن ص ر",
+      "ar": "نَصَرَ يَنْصُرُ",
+      "kok": "ن ص ر",
+      "keywords": "نصر ينصر فَعَلَ يَفْعُلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc02",
+      "type": "card",
+      "moduleId": "12",
+      "title": "vurdu / örnek verdi (2. Bab) (darabe yadribu)",
+      "subtitle": "SRS Kartı · M12 · Kök: ض ر ب",
+      "ar": "ضَرَبَ يَضْرِبُ",
+      "kok": "ض ر ب",
+      "keywords": "ضرب يضرب فَعَلَ يَفْعِلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc03",
+      "type": "card",
+      "moduleId": "12",
+      "title": "açtı (3. Bab) (feteha yeftehu)",
+      "subtitle": "SRS Kartı · M12 · Kök: ف ت ح",
+      "ar": "فَتَحَ يَفْتَحُ",
+      "kok": "ف ت ح",
+      "keywords": "فتح يفتح فَعَلَ يَفْعَلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc04",
+      "type": "card",
+      "moduleId": "12",
+      "title": "bildi (4. Bab) (‘alime ya‘lemu)",
+      "subtitle": "SRS Kartı · M12 · Kök: ع ل م",
+      "ar": "عَلِمَ يَعْلَمُ",
+      "kok": "ع ل م",
+      "keywords": "علم يعلم فَعِلَ يَفْعَلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc05",
+      "type": "card",
+      "moduleId": "12",
+      "title": "cömert oldu / yüceldi (5. Bab) (kerume yekrumu)",
+      "subtitle": "SRS Kartı · M12 · Kök: ك ر م",
+      "ar": "كَرُمَ يَكْرُمُ",
+      "kok": "ك ر م",
+      "keywords": "كرم يكرم فَعُلَ يَفْعُلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc06",
+      "type": "card",
+      "moduleId": "12",
+      "title": "zannetti / sandı (6. Bab) (hasibe yahsibu)",
+      "subtitle": "SRS Kartı · M12 · Kök: ح س ب",
+      "ar": "حَسِبَ يَحْسِبُ",
+      "kok": "ح س ب",
+      "keywords": "حسب يحسب فَعِلَ يَفْعِلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc07",
+      "type": "card",
+      "moduleId": "12",
+      "title": "baktı (1. Bab) (nezara yenzuru)",
+      "subtitle": "SRS Kartı · M12 · Kök: ن ظ ر",
+      "ar": "نَظَرَ يَنْظُرُ",
+      "kok": "ن ظ ر",
+      "keywords": "نظر ينظر فَعَلَ يَفْعُلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc08",
+      "type": "card",
+      "moduleId": "12",
+      "title": "istedi / talep etti (1. Bab) (talebe yatlubu)",
+      "subtitle": "SRS Kartı · M12 · Kök: ط ل ب",
+      "ar": "طَلَبَ يَطْلُبُ",
+      "kok": "ط ل ب",
+      "keywords": "طلب يطلب فَعَلَ يَفْعُلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc09",
+      "type": "card",
+      "moduleId": "12",
+      "title": "bıraktı / terk etti (1. Bab) (terake yetruku)",
+      "subtitle": "SRS Kartı · M12 · Kök: ت ر ك",
+      "ar": "تَرَكَ يَتْرُكُ",
+      "kok": "ت ر ك",
+      "keywords": "ترك يترك فَعَلَ يَفْعُلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc10",
+      "type": "card",
+      "moduleId": "12",
+      "title": "hissetti (1. Bab — بِـ) (şe‘ara yeş‘uru)",
+      "subtitle": "SRS Kartı · M12 · Kök: ش ع ر",
+      "ar": "شَعَرَ يَشْعُرُ",
+      "kok": "ش ع ر",
+      "keywords": "شعر يشعر فَعَلَ يَفْعُلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc11",
+      "type": "card",
+      "moduleId": "12",
+      "title": "hükmetti / yönetti (1. Bab) (hakeme yahkumu)",
+      "subtitle": "SRS Kartı · M12 · Kök: ح ك م",
+      "ar": "حَكَمَ يَحْكُمُ",
+      "kok": "ح ك م",
+      "keywords": "حكم يحكم فَعَلَ يَفْعُلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc12",
+      "type": "card",
+      "moduleId": "12",
+      "title": "doğru söyledi (1. Bab) (sadaka yasduku)",
+      "subtitle": "SRS Kartı · M12 · Kök: ص د ق",
+      "ar": "صَدَقَ يَصْدُقُ",
+      "kok": "ص د ق",
+      "keywords": "صدق يصدق فَعَلَ يَفْعُلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc13",
+      "type": "card",
+      "moduleId": "12",
+      "title": "bildi / tanıdı (2. Bab) (‘arafe ya‘rifu)",
+      "subtitle": "SRS Kartı · M12 · Kök: ع ر ف",
+      "ar": "عَرَفَ يَعْرِفُ",
+      "kok": "ع ر ف",
+      "keywords": "عرف يعرف فَعَلَ يَفْعِلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc14",
+      "type": "card",
+      "moduleId": "12",
+      "title": "yıkadı (2. Bab) (gasele yagsilu)",
+      "subtitle": "SRS Kartı · M12 · Kök: غ س ل",
+      "ar": "غَسَلَ يَغْسِلُ",
+      "kok": "غ س ل",
+      "keywords": "غسل يغسل فَعَلَ يَفْعِلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc15",
+      "type": "card",
+      "moduleId": "12",
+      "title": "taşıdı (2. Bab) (hamele yahmilu)",
+      "subtitle": "SRS Kartı · M12 · Kök: ح م ل",
+      "ar": "حَمَلَ يَحْمِلُ",
+      "kok": "ح م ل",
+      "keywords": "حمل يحمل فَعَلَ يَفْعِلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc16",
+      "type": "card",
+      "moduleId": "12",
+      "title": "kırdı (2. Bab) (kesera yeksiru)",
+      "subtitle": "SRS Kartı · M12 · Kök: ك س ر",
+      "ar": "كَسَرَ يَكْسِرُ",
+      "kok": "ك س ر",
+      "keywords": "كسر يكسر فَعَلَ يَفْعِلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc17",
+      "type": "card",
+      "moduleId": "12",
+      "title": "sabretti (2. Bab — عَلَى) (sabera yasbiru)",
+      "subtitle": "SRS Kartı · M12 · Kök: ص ب ر",
+      "ar": "صَبَرَ يَصْبِرُ",
+      "kok": "ص ب ر",
+      "keywords": "صبر يصبر فَعَلَ يَفْعِلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc18",
+      "type": "card",
+      "moduleId": "12",
+      "title": "yalan söyledi (2. Bab) (kezebe yekzibu)",
+      "subtitle": "SRS Kartı · M12 · Kök: ك ذ ب",
+      "ar": "كَذَبَ يَكْذِبُ",
+      "kok": "ك ذ ب",
+      "keywords": "كذب يكذب فَعَلَ يَفْعِلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc19",
+      "type": "card",
+      "moduleId": "12",
+      "title": "topladı / birleştirdi (3. Bab) (ceme‘a yecme‘u)",
+      "subtitle": "SRS Kartı · M12 · Kök: ج م ع",
+      "ar": "جَمَعَ يَجْمَعُ",
+      "kok": "ج م ع",
+      "keywords": "جمع يجمع فَعَلَ يَفْعَلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc20",
+      "type": "card",
+      "moduleId": "12",
+      "title": "aradı / araştırdı (3. Bab — عَنْ) (behase yebhasu)",
+      "subtitle": "SRS Kartı · M12 · Kök: ب ح ث",
+      "ar": "بَحَثَ يَبْحَثُ",
+      "kok": "ب ح ث",
+      "keywords": "بحث يبحث فَعَلَ يَفْعَلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc21",
+      "type": "card",
+      "moduleId": "12",
+      "title": "yaptı / üretti (3. Bab) (sana‘a yasna‘u)",
+      "subtitle": "SRS Kartı · M12 · Kök: ص ن ع",
+      "ar": "صَنَعَ يَصْنَعُ",
+      "kok": "ص ن ع",
+      "keywords": "صنع يصنع فَعَلَ يَفْعَلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc22",
+      "type": "card",
+      "moduleId": "12",
+      "title": "engelledi / yasakladı (3. Bab) (mena‘a yemne‘u)",
+      "subtitle": "SRS Kartı · M12 · Kök: م ن ع",
+      "ar": "مَنَعَ يَمْنَعُ",
+      "kok": "م ن ع",
+      "keywords": "منع يمنع فَعَلَ يَفْعَلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc23",
+      "type": "card",
+      "moduleId": "12",
+      "title": "giydi (4. Bab) (lebise yelbesu)",
+      "subtitle": "SRS Kartı · M12 · Kök: ل ب س",
+      "ar": "لَبِسَ يَلْبَسُ",
+      "kok": "ل ب س",
+      "keywords": "لبس يلبس فَعِلَ يَفْعَلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc24",
+      "type": "card",
+      "moduleId": "12",
+      "title": "üzüldü (4. Bab — عَلَى) (hazine yahzenu)",
+      "subtitle": "SRS Kartı · M12 · Kök: ح ز ن",
+      "ar": "حَزِنَ يَحْزَنُ",
+      "kok": "ح ز ن",
+      "keywords": "حزن يحزن فَعِلَ يَفْعَلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc25",
+      "type": "card",
+      "moduleId": "12",
+      "title": "istedi (فِي) / yüz çevirdi (عَنْ) (ragibe yergabu)",
+      "subtitle": "SRS Kartı · M12 · Kök: ر غ ب",
+      "ar": "رَغِبَ يَرْغَبُ",
+      "kok": "ر غ ب",
+      "keywords": "رغب يرغب فَعِلَ يَفْعَلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc26",
+      "type": "card",
+      "moduleId": "12",
+      "title": "büyüdü (5. Bab) (kebura yekburu)",
+      "subtitle": "SRS Kartı · M12 · Kök: ك ب ر",
+      "ar": "كَبُرَ يَكْبُرُ",
+      "kok": "ك ب ر",
+      "keywords": "كبر يكبر فَعُلَ يَفْعُلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc27",
+      "type": "card",
+      "moduleId": "12",
+      "title": "kolaylaştı (5. Bab) (sehule yeshulu)",
+      "subtitle": "SRS Kartı · M12 · Kök: س ه ل",
+      "ar": "سَهُلَ يَسْهُلُ",
+      "kok": "س ه ل",
+      "keywords": "سهل يسهل فَعُلَ يَفْعُلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc28",
+      "type": "card",
+      "moduleId": "12",
+      "title": "güzelleşti / iyi oldu (5. Bab) (hasune yahsunu)",
+      "subtitle": "SRS Kartı · M12 · Kök: ح س ن",
+      "ar": "حَسُنَ يَحْسُنُ",
+      "kok": "ح س ن",
+      "keywords": "حسن يحسن فَعُلَ يَفْعُلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc29",
+      "type": "card",
+      "moduleId": "12",
+      "title": "yaklaştı (5. Bab) (karube yakrubu)",
+      "subtitle": "SRS Kartı · M12 · Kök: ق ر ب",
+      "ar": "قَرُبَ يَقْرُبُ",
+      "kok": "ق ر ب",
+      "keywords": "قرب يقرب فَعُلَ يَفْعُلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc30",
+      "type": "card",
+      "moduleId": "12",
+      "title": "güvendi (6. Bab — بِـ) (vesika yesiku)",
+      "subtitle": "SRS Kartı · M12 · Kök: و ث ق",
+      "ar": "وَثِقَ يَثِقُ",
+      "kok": "و ث ق",
+      "keywords": "وثق يثق فَعِلَ يَفْعِلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc31",
+      "type": "card",
+      "moduleId": "12",
+      "title": "mirasçı oldu (6. Bab) (verise yerisu)",
+      "subtitle": "SRS Kartı · M12 · Kök: و ر ث",
+      "ar": "وَرِثَ يَرِثُ",
+      "kok": "و ر ث",
+      "keywords": "ورث يرث فَعِلَ يَفْعِلُ fiil"
+    },
+    {
+      "id": "search_card_m12_fc32",
+      "type": "card",
+      "moduleId": "12",
+      "title": "sözlük / kamus (mu‘cemun)",
+      "subtitle": "SRS Kartı · M12 · Kök: ع ج م",
+      "ar": "مُعْجَمٌ",
+      "kok": "ع ج م",
+      "keywords": "معجم مُفْعَل isim"
+    },
+    {
+      "id": "search_gram_m12_g1",
+      "type": "grammar",
+      "moduleId": "12",
+      "title": "Ayn'ul-Fiil (Orta Harf) Mantığı ve 6 Babın Şifreli Beyti",
+      "subtitle": "Gramer Kuralı · M12",
+      "ar": "عَيْنُ الْفِعْلِ وَمِفْتَاحُ الْأَبْوَابِ السِّتَّةِ",
+      "keywords": "1: فَعَلَ يَفْعُلُ (a→u) · 2: فَعَلَ يَفْعِلُ (a→i) · 3: فَعَلَ يَفْعَلُ (a→a) · 4: فَعِلَ يَفْعَلُ (i→a) · 5: فَعُلَ يَفْعُلُ (u→u) · 6: فَعِلَ يَفْعِلُ (i→i) Faz 1'de `كَتَبَ → يَكْتُبُ` (u), `جَلَسَ → يَجْلِسُ` (i) ve `فَتَحَ → يَفْتَحُ` (a) şeklinde farklı muzâri harekeleriyl"
+    },
+    {
+      "id": "search_gram_m12_g2",
+      "type": "grammar",
+      "moduleId": "12",
+      "title": "1., 2. ve 3. Bablar & 3. Babın Altın 'Boğaz Harfi' Şartı",
+      "subtitle": "Gramer Kuralı · M12",
+      "ar": "الْأَبْوَابُ الثَّلَاثَةُ الْأُولَى وَشَرْطُ الْبَابِ الثَّالِثِ",
+      "keywords": "1. Bab (نَصَرَ): a→u (En kalabalık)  |  2. Bab (ضَرَبَ): a→i  |  3. Bab (فَتَحَ): a→a (2. veya 3. harf Boğaz Harfi: ء هـ ع ح غ خ!) İlk 3 babın tamamının mâzisi **فَعَلَ** (orta harf fethalı) şeklindedir; fakat muzâride üçe ayrılırlar:\n• **1. Bab (`فَع"
+    },
+    {
+      "id": "search_gram_m12_g3",
+      "type": "grammar",
+      "moduleId": "12",
+      "title": "4., 5. ve 6. Bablar (Duygular, Kalıcı Nitelikler ve Nadir Fiiller)",
+      "subtitle": "Gramer Kuralı · M12",
+      "ar": "الْأَبْوَابُ الرَّابِعُ وَالْخَامِسُ وَالسَّادِسُ",
+      "keywords": "4. Bab (i→a): Duygu/Algı/Durum  |  5. Bab (u→u): DAİMA Lâzım & Kalıcı Nitelik  |  6. Bab (i→i): En Nadir (~20 fiil) İlk 3 babda mâzi hep `فَعَلَ` idi. Son 3 bab ise çok belirgin **ANLAM KARAKTERİNE** sahiptir; yani bir fiilin anlamından"
+    },
+    {
+      "id": "search_gram_m12_g4",
+      "type": "grammar",
+      "moduleId": "12",
+      "title": "Lâzım (Geçişsiz) vs. Müteaddi (Geçişli) Fiil Mantığı",
+      "subtitle": "Gramer Kuralı · M12",
+      "ar": "الْفِعْلُ اللَّازِمُ وَالْفِعْلُ الْمُتَعَدِّي",
+      "keywords": "Müteaddi: Fiil + Fâil + Mef'ûlün Bih (Mansub)  |  Lâzım: Fiil + Fâil (+ Harf-i Cer + Mecrûr) Arapçada cümle kurarken ve YDS/YÖKDİL'de harf-i cer boşluğu doldururken her fiil için şu temel soruyu sorarız: Bu fiil *"
+    },
+    {
+      "id": "search_gram_m12_g5",
+      "type": "grammar",
+      "moduleId": "12",
+      "title": "Arapça Kök Sözlüğü Kullanma ve Bab Sembollerini Okuma Sanatı",
+      "subtitle": "Gramer Kuralı · M12",
+      "ar": "كَيْفِيَّةُ اسْتِخْدَامِ الْمُعْجَمِ الْعَرَبِيِّ وَقِرَاءَةِ رُمُوزِ الْأَبْوَابِ",
+      "keywords": "Sözlük Kökü Bulma: Fazla Ekleri At → 3 Kök Harfi → Bab Sembolü: (u=ن / i=ض / a=ف-س / u=ك / i=ح) Türkçe veya İngilizce sözlükler kelimeleri alfabetik sıraya göre dizilir; ama klasik Arapça sözlükler (Tevakku / Hans We"
+    },
+    {
+      "id": "search_card_m13_fc01",
+      "type": "card",
+      "moduleId": "13",
+      "title": "ikisi de / her ikisi (E / K) (kilâ / kiltâ)",
+      "subtitle": "SRS Kartı · M13 · Kök: ك ل ا",
+      "ar": "كِلَا / كِلْتَا",
+      "kok": "ك ل ا",
+      "keywords": "كلا كلتا مُلْحَقٌ بِالْمُثَنَّى isim"
+    },
+    {
+      "id": "search_card_m13_fc02",
+      "type": "card",
+      "moduleId": "13",
+      "title": "yirmi (20) (‘işrûne)",
+      "subtitle": "SRS Kartı · M13 · Kök: ع ش ر",
+      "ar": "عِشْرُونَ",
+      "kok": "ع ش ر",
+      "keywords": "عشرون مُلْحَقٌ بِجَمْعِ الْمُذَكَّرِ sayi"
+    },
+    {
+      "id": "search_card_m13_fc03",
+      "type": "card",
+      "moduleId": "13",
+      "title": "otuz (30) (selâsûne)",
+      "subtitle": "SRS Kartı · M13 · Kök: ث ل ث",
+      "ar": "ثَلَاثُونَ",
+      "kok": "ث ل ث",
+      "keywords": "ثلاثون مُلْحَقٌ بِجَمْعِ الْمُذَكَّرِ sayi"
+    },
+    {
+      "id": "search_card_m13_fc04",
+      "type": "card",
+      "moduleId": "13",
+      "title": "elli (50) (hamsûne)",
+      "subtitle": "SRS Kartı · M13 · Kök: خ م س",
+      "ar": "خَمْسُونَ",
+      "kok": "خ م س",
+      "keywords": "خمسون مُلْحَقٌ بِجَمْعِ الْمُذَكَّرِ sayi"
+    },
+    {
+      "id": "search_card_m13_fc05",
+      "type": "card",
+      "moduleId": "13",
+      "title": "yıllar / seneler (sinûne)",
+      "subtitle": "SRS Kartı · M13 · Kök: س ن و",
+      "ar": "سِنُونَ",
+      "kok": "س ن و",
+      "keywords": "سنون مُلْحَقٌ بِجَمْعِ الْمُذَكَّرِ isim"
+    },
+    {
+      "id": "search_card_m13_fc06",
+      "type": "card",
+      "moduleId": "13",
+      "title": "âlemler (‘âlemûne)",
+      "subtitle": "SRS Kartı · M13 · Kök: ع ل م",
+      "ar": "عَالَمُونَ",
+      "kok": "ع ل م",
+      "keywords": "عالمون مُلْحَقٌ بِجَمْعِ الْمُذَكَّرِ isim"
+    },
+    {
+      "id": "search_card_m13_fc07",
+      "type": "card",
+      "moduleId": "13",
+      "title": "sahipler / sahipleri (E) (ulû)",
+      "subtitle": "SRS Kartı · M13 · Kök: أ و ل",
+      "ar": "أُولُو",
+      "kok": "أ و ل",
+      "keywords": "أولو مُلْحَقٌ بِجَمْعِ الْمُذَكَّرِ isim"
+    },
+    {
+      "id": "search_card_m13_fc08",
+      "type": "card",
+      "moduleId": "13",
+      "title": "anne babam (Ref') (vâlidâye)",
+      "subtitle": "SRS Kartı · M13 · Kök: و ل د",
+      "ar": "وَالِدَايَ",
+      "kok": "و ل د",
+      "keywords": "والداي مُثَنًّى مُضَافٌ isim"
+    },
+    {
+      "id": "search_card_m13_fc09",
+      "type": "card",
+      "moduleId": "13",
+      "title": "iki elin (Ref') (yedâke)",
+      "subtitle": "SRS Kartı · M13 · Kök: ي د ي",
+      "ar": "يَدَاكَ",
+      "kok": "ي د ي",
+      "keywords": "يداك مُثَنًّى مُضَافٌ isim"
+    },
+    {
+      "id": "search_card_m13_fc10",
+      "type": "card",
+      "moduleId": "13",
+      "title": "okulun öğretmenleri (Ref') (mu‘allimu'l-medreseti)",
+      "subtitle": "SRS Kartı · M13 · Kök: ع ل م",
+      "ar": "مُعَلِّمُو الْمَدْرَسَةِ",
+      "kok": "ع ل م",
+      "keywords": "معلمو المدرسة مُضَافٌ (حَذْفُ النُّونِ) isim"
+    },
+    {
+      "id": "search_card_m13_fc11",
+      "type": "card",
+      "moduleId": "13",
+      "title": "vakitler / zamanlar (evkâtun)",
+      "subtitle": "SRS Kartı · M13 · Kök: و ق ت",
+      "ar": "أَوْقَاتٌ",
+      "kok": "و ق ت",
+      "keywords": "أوقات أَفْعَال isim"
+    },
+    {
+      "id": "search_card_m13_fc12",
+      "type": "card",
+      "moduleId": "13",
+      "title": "sesler / oylar (esvâtun)",
+      "subtitle": "SRS Kartı · M13 · Kök: ص و ت",
+      "ar": "أَصْوَاتٌ",
+      "kok": "ص و ت",
+      "keywords": "أصوات أَفْعَال isim"
+    },
+    {
+      "id": "search_card_m13_fc13",
+      "type": "card",
+      "moduleId": "13",
+      "title": "şiir beyitleri (ebyâtun)",
+      "subtitle": "SRS Kartı · M13 · Kök: ب ي ت",
+      "ar": "أَبْيَاتٌ",
+      "kok": "ب ي ت",
+      "keywords": "أبيات أَفْعَال isim"
+    },
+    {
+      "id": "search_card_m13_fc14",
+      "type": "card",
+      "moduleId": "13",
+      "title": "camiler / mescidler (mesâcidu)",
+      "subtitle": "SRS Kartı · M13 · Kök: س ج د",
+      "ar": "مَسَاجِدُ",
+      "kok": "س ج د",
+      "keywords": "مساجد مَفَاعِلُ isim"
+    },
+    {
+      "id": "search_card_m13_fc15",
+      "type": "card",
+      "moduleId": "13",
+      "title": "okullar / ekoller (medârisu)",
+      "subtitle": "SRS Kartı · M13 · Kök: د ر س",
+      "ar": "مَدَارِسُ",
+      "kok": "د ر س",
+      "keywords": "مدارس مَفَاعِلُ isim"
+    },
+    {
+      "id": "search_card_m13_fc16",
+      "type": "card",
+      "moduleId": "13",
+      "title": "anahtarlar (mefâtîhu)",
+      "subtitle": "SRS Kartı · M13 · Kök: ف ت ح",
+      "ar": "مَفَاتِيحُ",
+      "kok": "ف ت ح",
+      "keywords": "مفاتيح مَفَاعِيلُ isim"
+    },
+    {
+      "id": "search_card_m13_fc17",
+      "type": "card",
+      "moduleId": "13",
+      "title": "bahçeler / parklar (hadâiku)",
+      "subtitle": "SRS Kartı · M13 · Kök: ح د ق",
+      "ar": "حَدَائِقُ",
+      "kok": "ح د ق",
+      "keywords": "حدائق فَعَائِلُ isim"
+    },
+    {
+      "id": "search_card_m13_fc18",
+      "type": "card",
+      "moduleId": "13",
+      "title": "kurallar / kaideler (kavâ‘idu)",
+      "subtitle": "SRS Kartı · M13 · Kök: ق ع د",
+      "ar": "قَوَاعِدُ",
+      "kok": "ق ع د",
+      "keywords": "قواعد فَوَاعِلُ isim"
+    },
+    {
+      "id": "search_card_m13_fc19",
+      "type": "card",
+      "moduleId": "13",
+      "title": "meyveler (fevâkihu)",
+      "subtitle": "SRS Kartı · M13 · Kök: ف ك ه",
+      "ar": "فَوَاكِهُ",
+      "kok": "ف ك ه",
+      "keywords": "فواكه فَوَاعِلُ isim"
+    },
+    {
+      "id": "search_card_m13_fc20",
+      "type": "card",
+      "moduleId": "13",
+      "title": "âlimler / bilim insanları (‘ulemâu)",
+      "subtitle": "SRS Kartı · M13 · Kök: ع ل م",
+      "ar": "عُلَمَاءُ",
+      "kok": "ع ل م",
+      "keywords": "علماء فُعَلَاءُ isim"
+    },
+    {
+      "id": "search_card_m13_fc21",
+      "type": "card",
+      "moduleId": "13",
+      "title": "uzmanlar (huberâu)",
+      "subtitle": "SRS Kartı · M13 · Kök: خ ب ر",
+      "ar": "خُبَرَاءُ",
+      "kok": "خ ب ر",
+      "keywords": "خبراء فُعَلَاءُ isim"
+    },
+    {
+      "id": "search_card_m13_fc22",
+      "type": "card",
+      "moduleId": "13",
+      "title": "el yazmaları (mahtûtâtun)",
+      "subtitle": "SRS Kartı · M13 · Kök: خ ط ط",
+      "ar": "مَخْطُوطَاتٌ",
+      "kok": "خ ط ط",
+      "keywords": "مخطوطات مَفْعُولَات isim"
+    },
+    {
+      "id": "search_card_m13_fc23",
+      "type": "card",
+      "moduleId": "13",
+      "title": "veriler / bildiriler (beyânâtun)",
+      "subtitle": "SRS Kartı · M13 · Kök: ب ي ن",
+      "ar": "بَيَانَاتٌ",
+      "kok": "ب ي ن",
+      "keywords": "بيانات فَعَالَات isim"
+    },
+    {
+      "id": "search_card_m13_fc24",
+      "type": "card",
+      "moduleId": "13",
+      "title": "girişimler / inisiyatifler (mubâdarâtun)",
+      "subtitle": "SRS Kartı · M13 · Kök: ب د ر",
+      "ar": "مُبَادَرَاتٌ",
+      "kok": "ب د ر",
+      "keywords": "مبادرات مُفَاعَلَات isim"
+    },
+    {
+      "id": "search_card_m13_fc25",
+      "type": "card",
+      "moduleId": "13",
+      "title": "gönüllüler (mutetavvi‘ûne)",
+      "subtitle": "SRS Kartı · M13 · Kök: ط و ع",
+      "ar": "مُتَطَوِّعُونَ",
+      "kok": "ط و ع",
+      "keywords": "متطوعون مُتَفَعِّلُونَ isim"
+    },
+    {
+      "id": "search_card_m13_fc26",
+      "type": "card",
+      "moduleId": "13",
+      "title": "katılımcılar (muşârikûne)",
+      "subtitle": "SRS Kartı · M13 · Kök: ش ر ك",
+      "ar": "مُشَارِكُونَ",
+      "kok": "ش ر ك",
+      "keywords": "مشاركون مُفَاعِلُونَ isim"
+    },
+    {
+      "id": "search_card_m13_fc27",
+      "type": "card",
+      "moduleId": "13",
+      "title": "düzenleyiciler / organizatörler (munazzimûne)",
+      "subtitle": "SRS Kartı · M13 · Kök: ن ظ م",
+      "ar": "مُنَظِّمُونَ",
+      "kok": "ن ظ م",
+      "keywords": "منظمون مُفَعِّلُونَ isim"
+    },
+    {
+      "id": "search_card_m13_fc28",
+      "type": "card",
+      "moduleId": "13",
+      "title": "yazar / müellif (muellifun)",
+      "subtitle": "SRS Kartı · M13 · Kök: أ ل ف",
+      "ar": "مُؤَلِّفٌ",
+      "kok": "أ ل ف",
+      "keywords": "مؤلف مُفَعِّل isim"
+    },
+    {
+      "id": "search_card_m13_fc29",
+      "type": "card",
+      "moduleId": "13",
+      "title": "iki ekip / iki takım (Ref') (ferîkâni)",
+      "subtitle": "SRS Kartı · M13 · Kök: ف ر ق",
+      "ar": "فَرِيقَانِ",
+      "kok": "ف ر ق",
+      "keywords": "فريقان فَعِيلَانِ isim"
+    },
+    {
+      "id": "search_card_m13_fc30",
+      "type": "card",
+      "moduleId": "13",
+      "title": "iki sergi / iki fuar (Ref') (ma‘ridâni)",
+      "subtitle": "SRS Kartı · M13 · Kök: ع ر ض",
+      "ar": "مَعْرِضَانِ",
+      "kok": "ع ر ض",
+      "keywords": "معرضان مَفْعِلَانِ isim"
+    },
+    {
+      "id": "search_card_m13_fc31",
+      "type": "card",
+      "moduleId": "13",
+      "title": "tablo / levha (levhatun)",
+      "subtitle": "SRS Kartı · M13 · Kök: ل و ح",
+      "ar": "لَوْحَةٌ",
+      "kok": "ل و ح",
+      "keywords": "لوحة فَعْلَة isim"
+    },
+    {
+      "id": "search_card_m13_fc32",
+      "type": "card",
+      "moduleId": "13",
+      "title": "dekan (fakülte dekanı) (‘amîdun)",
+      "subtitle": "SRS Kartı · M13 · Kök: ع م د",
+      "ar": "عَمِيدٌ",
+      "kok": "ع م د",
+      "keywords": "عميد فَعِيل isim"
+    },
+    {
+      "id": "search_gram_m13_g1",
+      "type": "grammar",
+      "moduleId": "13",
+      "title": "Tesniye (İkil) İsimlerin Harf ile İ'rabı (ـَانِ / ـَيْنِ)",
+      "subtitle": "Gramer Kuralı · M13",
+      "ar": "إِعْرَابُ الْمُثَنَّى وَالْمُلْحَقُ بِهِ",
+      "keywords": "Tesniye İ'rabı: Ref' = ـَانِ (Elif)  |  Nasb = ـَيْنِ (Yâ)  |  Cer = ـَيْنِ (Yâ)  (Sondaki نِ daima kesralı!) Tekil isimler cümledeki görevlerini sonlarındaki kısa **HAREKELERLE** (`ـُ / ـَ / ـِ`) gösterir. Tesniye (ikil) isimler "
+    },
+    {
+      "id": "search_gram_m13_g2",
+      "type": "grammar",
+      "moduleId": "13",
+      "title": "Cemi Müzekker Sâlim İ'rabı (ـُونَ / ـِينَ) & İkil–Çoğul Altın Ayrımı",
+      "subtitle": "Gramer Kuralı · M13",
+      "ar": "إِعْرَابُ جَمْعِ الْمُذَكَّرِ السَّالِمِ وَالْمُلْحَقِ بِهِ",
+      "keywords": "Cemi Müzekker: Ref' = ـُونَ (Vâv)  |  Nasb & Cer = ـِينَ (Yâ)  ✦  ـَيْنِ (İkil) ≠ ـِينَ (Çoğul) Akıllı erkek topluluklarının düzenli çoğulu olan **Cemi Müzekker Sâlim** de tıpkı tesniye gibi **HARF İLE İ'RAB** edilir"
+    },
+    {
+      "id": "search_gram_m13_g3",
+      "type": "grammar",
+      "moduleId": "13",
+      "title": "Cemi Müennes Sâlim İ'rabı & 'أَوْقَاتٌ / أَصْوَاتٌ' Tuzağı",
+      "subtitle": "Gramer Kuralı · M13",
+      "ar": "إِعْرَابُ جَمْعِ الْمُؤَنَّثِ السَّالِمِ وَتَنْبِيهٌ مُهِمٌّ",
+      "keywords": "Cemi Müennes Sâlim (Zâid ـَات): Ref' ـَاتُ | Nasb & Cer ـَاتِ (KESRA!)  ≠  أَوْقَاتًا / أَصْوَاتًا / أَبْيَاتًا (Kök ت → FETHA!) Düzenli dişil çoğul (**Cemi Müennes Sâlim**: sonuna fazladan **ـَات** eklenerek yapılan çoğullar — `طَالِبَاتٌ، سَيَّارَ"
+    },
+    {
+      "id": "search_gram_m13_g4",
+      "type": "grammar",
+      "moduleId": "13",
+      "title": "Muzâf Olunca Nûn'un Düşmesi (حَذْفُ النُّونِ عِنْدَ الْإِضَافَةِ)",
+      "subtitle": "Gramer Kuralı · M13",
+      "ar": "حَذْفُ نُونِ الْمُثَنَّى وَجَمْعِ الْمُذَكَّرِ السَّالِمِ عِنْدَ الْإِضَافَةِ",
+      "keywords": "Muzâf İkil: ـَا (Ref) / ـَيْ (Nasb-Cer)  |  Muzâf Cemi Müzekker: ـُو (Ref — Elifsiz!) / ـِي (Nasb-Cer) Modül 06'da 'Muzâf (isim tamlamasının ilk kelimesi) ASLA tenvîn almaz' kuralını öğrenmiştik (`كِتَابُ الطَّالِبِ`). Peki"
+    },
+    {
+      "id": "search_gram_m13_g5",
+      "type": "grammar",
+      "moduleId": "13",
+      "title": "Cemi Teksir (Kırık Çoğul) İ'rabı & Gayr-i Munsarif Ön Uyarısı",
+      "subtitle": "Gramer Kuralı · M13",
+      "ar": "إِعْرَابُ جَمْعِ التَّكْسِيرِ وَمُلَخَّصُ عَلَامَاتِ الْإِعْرَابِ",
+      "keywords": "Standart Cemi Teksir: Damme / Fetha / Kesra  |  مَفَاعِلُ / مَفَاعِيلُ (Nekre): Tenvîn YOK, Cer = FETHA (فِي مَسَاجِدَ) Düzenli ek almadan iç yapısı kırılıp değişen çoğullara **Cemi Teksir (جَمْعُ التَّكْسِيرِ — Kırık Çoğul)** denir (`طَالِ"
+    },
+    {
+      "id": "search_card_m14_fc01",
+      "type": "card",
+      "moduleId": "14",
+      "title": "baban (Ref' — Vâv) (ebûke)",
+      "subtitle": "SRS Kartı · M14 · Kök: أ ب و",
+      "ar": "أَبُوكَ",
+      "kok": "أ ب و",
+      "keywords": "أبوك الْأَسْمَاءُ الْخَمْسَةُ isim"
+    },
+    {
+      "id": "search_card_m14_fc02",
+      "type": "card",
+      "moduleId": "14",
+      "title": "erkek kardeşin (Ref' — Vâv) (ehûke)",
+      "subtitle": "SRS Kartı · M14 · Kök: أ خ و",
+      "ar": "أَخُوكَ",
+      "kok": "أ خ و",
+      "keywords": "أخوك الْأَسْمَاءُ الْخَمْسَةُ isim"
+    },
+    {
+      "id": "search_card_m14_fc03",
+      "type": "card",
+      "moduleId": "14",
+      "title": "kayınpederin (Ref' — Vâv) (hamûke)",
+      "subtitle": "SRS Kartı · M14 · Kök: ح م و",
+      "ar": "حَمُوكَ",
+      "kok": "ح م و",
+      "keywords": "حموك الْأَسْمَاءُ الْخَمْسَةُ isim"
+    },
+    {
+      "id": "search_card_m14_fc04",
+      "type": "card",
+      "moduleId": "14",
+      "title": "ağzın (Ref' — م'siz!) (fûke)",
+      "subtitle": "SRS Kartı · M14 · Kök: ف و ه",
+      "ar": "فُوكَ",
+      "kok": "ف و ه",
+      "keywords": "فوك الْأَسْمَاءُ الْخَمْسَةُ isim"
+    },
+    {
+      "id": "search_card_m14_fc05",
+      "type": "card",
+      "moduleId": "14",
+      "title": "sahip / -lı, -li (Ref' E) (zû)",
+      "subtitle": "SRS Kartı · M14 · Kök: ذ و",
+      "ar": "ذُو",
+      "kok": "ذ و",
+      "keywords": "ذو الْأَسْمَاءُ الْخَمْسَةُ isim"
+    },
+    {
+      "id": "search_card_m14_fc06",
+      "type": "card",
+      "moduleId": "14",
+      "title": "sahip / -lı, -li (Dişil / Akılsız Çoğul) (zâtu)",
+      "subtitle": "SRS Kartı · M14 · Kök: ذ و",
+      "ar": "ذَاتُ",
+      "kok": "ذ و",
+      "keywords": "ذات مُؤَنَّثُ ذُو isim"
+    },
+    {
+      "id": "search_card_m14_fc07",
+      "type": "card",
+      "moduleId": "14",
+      "title": "sahipler / -lılar (Eril Çoğul Ref') (zevû)",
+      "subtitle": "SRS Kartı · M14 · Kök: ذ و",
+      "ar": "ذَوُو",
+      "kok": "ذ و",
+      "keywords": "ذوو جَمْعُ ذُو isim"
+    },
+    {
+      "id": "search_card_m14_fc08",
+      "type": "card",
+      "moduleId": "14",
+      "title": "kadın sahipler / sahipler (Dişil Çoğul) (zevâtu)",
+      "subtitle": "SRS Kartı · M14 · Kök: ذ و",
+      "ar": "ذَوَاتُ",
+      "kok": "ذ و",
+      "keywords": "ذوات جَمْعُ ذَاتُ isim"
+    },
+    {
+      "id": "search_card_m14_fc09",
+      "type": "card",
+      "moduleId": "14",
+      "title": "babam (ـِي İstisnası) (ebî)",
+      "subtitle": "SRS Kartı · M14 · Kök: أ ب و",
+      "ar": "أَبِي",
+      "kok": "أ ب و",
+      "keywords": "أبي مُضَافٌ لِيَاءِ الْمُتَكَلِّمِ isim"
+    },
+    {
+      "id": "search_card_m14_fc10",
+      "type": "card",
+      "moduleId": "14",
+      "title": "ağız (م'li Normal Hâl) (femun)",
+      "subtitle": "SRS Kartı · M14 · Kök: ف و ه",
+      "ar": "فَمٌ",
+      "kok": "ف و ه",
+      "keywords": "فم اِسْمٌ مُعْرَبٌ بِالْحَرَكَاتِ isim"
+    },
+    {
+      "id": "search_card_m14_fc11",
+      "type": "card",
+      "moduleId": "14",
+      "title": "künye (أَبُو / أُمُّ ile başlayan unvan) (kunyetun)",
+      "subtitle": "SRS Kartı · M14 · Kök: ك ن ي",
+      "ar": "كُنْيَةٌ",
+      "kok": "ك ن ي",
+      "keywords": "كنية فُعْلَة isim"
+    },
+    {
+      "id": "search_card_m14_fc12",
+      "type": "card",
+      "moduleId": "14",
+      "title": "asla başarmayacaklar (Nasb: ن Hazfi) (len yencehû)",
+      "subtitle": "SRS Kartı · M14 · Kök: ن ج ح",
+      "ar": "لَنْ يَنْجَحُوا",
+      "kok": "ن ج ح",
+      "keywords": "لن ينجحوا الْأَفْعَالُ الْخَمْسَةُ (مَنْصُوب) fiil"
+    },
+    {
+      "id": "search_card_m14_fc13",
+      "type": "card",
+      "moduleId": "14",
+      "title": "ikisi geç kalmadı (Cezm: ن Hazfi) (lem yeteahharâ)",
+      "subtitle": "SRS Kartı · M14 · Kök: أ خ ر",
+      "ar": "لَمْ يَتَأَخَّرَا",
+      "kok": "أ خ ر",
+      "keywords": "لم يتأخرا الْأَفْعَالُ الْخَمْسَةُ (مَجْزُوم) fiil"
+    },
+    {
+      "id": "search_card_m14_fc14",
+      "type": "card",
+      "moduleId": "14",
+      "title": "endişelenme! (Sen K — Cezm: ن Hazfi) (lâ taklakî)",
+      "subtitle": "SRS Kartı · M14 · Kök: ق ل ق",
+      "ar": "لَا تَقْلَقِي",
+      "kok": "ق ل ق",
+      "keywords": "لا تقلقي الْأَفْعَالُ الْخَمْسَةُ (مَجْزُوم) fiil"
+    },
+    {
+      "id": "search_card_m14_fc15",
+      "type": "card",
+      "moduleId": "14",
+      "title": "danışıyor / istişare ediyor (yesteşîru)",
+      "subtitle": "SRS Kartı · M14 · Kök: ش و ر",
+      "ar": "يَسْتَشِيرُ",
+      "kok": "ش و ر",
+      "keywords": "يستشير يَسْتَفْعِلُ fiil"
+    },
+    {
+      "id": "search_card_m14_fc16",
+      "type": "card",
+      "moduleId": "14",
+      "title": "yetkinlik / yeterlilik (kefâetun)",
+      "subtitle": "SRS Kartı · M14 · Kök: ك ف أ",
+      "ar": "كَفَاءَةٌ",
+      "kok": "ك ف أ",
+      "keywords": "كفاءة فَعَالَة isim"
+    },
+    {
+      "id": "search_card_m14_fc17",
+      "type": "card",
+      "moduleId": "14",
+      "title": "tecrübe / deneyim (hibratun)",
+      "subtitle": "SRS Kartı · M14 · Kök: خ ب ر",
+      "ar": "خِبْرَةٌ",
+      "kok": "خ ب ر",
+      "keywords": "خبرة فِعْلَة isim"
+    },
+    {
+      "id": "search_card_m14_fc18",
+      "type": "card",
+      "moduleId": "14",
+      "title": "önem / ehemmiyet (ehemmiyyetun)",
+      "subtitle": "SRS Kartı · M14 · Kök: ه م م",
+      "ar": "أَهَمِّيَّةٌ",
+      "kok": "ه م م",
+      "keywords": "أهمية أَفْعَلِيَّة isim"
+    },
+    {
+      "id": "search_card_m14_fc19",
+      "type": "card",
+      "moduleId": "14",
+      "title": "yetenek / kabiliyet (mevhibetun)",
+      "subtitle": "SRS Kartı · M14 · Kök: و ه ب",
+      "ar": "مَوْهِبَةٌ",
+      "kok": "و ه ب",
+      "keywords": "موهبة مَفْعِلَة isim"
+    },
+    {
+      "id": "search_card_m14_fc20",
+      "type": "card",
+      "moduleId": "14",
+      "title": "özgeçmiş (CV) (es-sîratu'z-zâtiyyetu)",
+      "subtitle": "SRS Kartı · M14 · Kök: س ي ر",
+      "ar": "السِّيرَةُ الذَّاتِيَّةُ",
+      "kok": "س ي ر",
+      "keywords": "السيرة الذاتية نَعْتٌ وَمَنْعُوتٌ isim"
+    },
+    {
+      "id": "search_card_m14_fc21",
+      "type": "card",
+      "moduleId": "14",
+      "title": "mesele / dava / sorun (kadiyyetun)",
+      "subtitle": "SRS Kartı · M14 · Kök: ق ض ي",
+      "ar": "قَضِيَّةٌ",
+      "kok": "ق ض ي",
+      "keywords": "قضية فَعِيلَة isim"
+    },
+    {
+      "id": "search_card_m14_fc22",
+      "type": "card",
+      "moduleId": "14",
+      "title": "ders / konferans (muhâdaratun)",
+      "subtitle": "SRS Kartı · M14 · Kök: ح ض ر",
+      "ar": "مُحَاضَرَةٌ",
+      "kok": "ح ض ر",
+      "keywords": "محاضرة مُفَاعَلَة isim"
+    },
+    {
+      "id": "search_card_m14_fc23",
+      "type": "card",
+      "moduleId": "14",
+      "title": "güvenilirlik / emanet (emânetun)",
+      "subtitle": "SRS Kartı · M14 · Kök: أ م ن",
+      "ar": "أَمَانَةٌ",
+      "kok": "أ م ن",
+      "keywords": "أمانة فَعَالَة isim"
+    },
+    {
+      "id": "search_card_m14_fc24",
+      "type": "card",
+      "moduleId": "14",
+      "title": "ahlak / huy (hulukùn)",
+      "subtitle": "SRS Kartı · M14 · Kök: خ ل ق",
+      "ar": "خُلُقٌ",
+      "kok": "خ ل ق",
+      "keywords": "خلق فُعُل isim"
+    },
+    {
+      "id": "search_card_m14_fc25",
+      "type": "card",
+      "moduleId": "14",
+      "title": "başvuran / aday / ileri (mutekaddimun)",
+      "subtitle": "SRS Kartı · M14 · Kök: ق د م",
+      "ar": "مُتَقَدِّمٌ",
+      "kok": "ق د م",
+      "keywords": "متقدم مُتَفَعِّل isim"
+    },
+    {
+      "id": "search_card_m14_fc26",
+      "type": "card",
+      "moduleId": "14",
+      "title": "laboratuvar (muhteberun)",
+      "subtitle": "SRS Kartı · M14 · Kök: خ ب ر",
+      "ar": "مُخْتَبَرٌ",
+      "kok": "خ ب ر",
+      "keywords": "مختبر مُفْتَعَل isim"
+    },
+    {
+      "id": "search_card_m14_fc27",
+      "type": "card",
+      "moduleId": "14",
+      "title": "ihmal ediyor / savsaklıyor (yuhmilu)",
+      "subtitle": "SRS Kartı · M14 · Kök: ه م ل",
+      "ar": "يُهْمِلُ",
+      "kok": "ه م ل",
+      "keywords": "يهمل يُفْعِلُ fiil"
+    },
+    {
+      "id": "search_card_m14_fc28",
+      "type": "card",
+      "moduleId": "14",
+      "title": "duruyor / vazgeçiyor / bağlı oluyor (yetevakkafu)",
+      "subtitle": "SRS Kartı · M14 · Kök: و ق ف",
+      "ar": "يَتَوَقَّفُ",
+      "kok": "و ق ف",
+      "keywords": "يتوقف يَتَفَعَّلُ fiil"
+    },
+    {
+      "id": "search_card_m14_fc29",
+      "type": "card",
+      "moduleId": "14",
+      "title": "umutsuzluğa kapılıyor (yey'esu)",
+      "subtitle": "SRS Kartı · M14 · Kök: ي أ س",
+      "ar": "يَيْأَسُ",
+      "kok": "ي أ س",
+      "keywords": "ييأس يَفْعَلُ fiil"
+    },
+    {
+      "id": "search_card_m14_fc30",
+      "type": "card",
+      "moduleId": "14",
+      "title": "elde ediyor / ulaşıyor (yenâlu)",
+      "subtitle": "SRS Kartı · M14 · Kök: ن ي ل",
+      "ar": "يَنَالُ",
+      "kok": "ن ي ل",
+      "keywords": "ينال يَفْعَلُ fiil"
+    },
+    {
+      "id": "search_card_m14_fc31",
+      "type": "card",
+      "moduleId": "14",
+      "title": "icat ediyor (yahteri‘u)",
+      "subtitle": "SRS Kartı · M14 · Kök: خ ر ع",
+      "ar": "يَخْتَرِعُ",
+      "kok": "خ ر ع",
+      "keywords": "يخترع يَفْتَعِلُ fiil"
+    },
+    {
+      "id": "search_card_m14_fc32",
+      "type": "card",
+      "moduleId": "14",
+      "title": "sevgi / dostluk / muhabbet (meveddetun)",
+      "subtitle": "SRS Kartı · M14 · Kök: و د د",
+      "ar": "مَوَدَّةٌ",
+      "kok": "و د د",
+      "keywords": "مودة مَفْعَلَة isim"
+    },
+    {
+      "id": "search_gram_m14_g1",
+      "type": "grammar",
+      "moduleId": "14",
+      "title": "Esmâ-i Hamse (Beş İsim) ve Vâv / Elif / Yâ ile İ'rabı",
+      "subtitle": "Gramer Kuralı · M14",
+      "ar": "الْأَسْمَاءُ الْخَمْسَةُ وَإِعْرَابُهَا بِالْحُرُوفِ",
+      "keywords": "Esmâ-i Hamse (أَب / أَخ / حَم / فُو / ذُو): Ref' = و (أَبُوكَ)  |  Nasb = ا (أَبَاكَ)  |  Cer = ي (أَبِيكَ) Arapçada tam **5 özel isim** vardır ki şartları sağlandığında kısa hareke (`ـُ / ـَ / ـِ`) yerine doğrudan **3 UZUN ÜNLÜ"
+    },
+    {
+      "id": "search_gram_m14_g2",
+      "type": "grammar",
+      "moduleId": "14",
+      "title": "Esmâ-i Hamse'nin 4 Altın Şartı & 'أَبِي / أَخِي / فَمٌ' İstisnaları",
+      "subtitle": "Gramer Kuralı · M14",
+      "ar": "شُرُوطُ إِعْرَابِ الْأَسْمَاءِ الْخَمْسَةِ بِالْحُرُوفِ",
+      "keywords": "4 Şart: Tekil + Muzâf + (ـِي Hariç!) + Tasğîrsiz  |  Şart Bozulursa → Normal/Takdirî Hareke! (أَبٌ / أَبِي / فَمُكَ) Her gördüğün `أَبٌ` veya `أَخٌ` kelimesi otomatik olarak vâv/elif/yâ ile i'rab edilmez! Bu beş ismin harf ile i'rab edil"
+    },
+    {
+      "id": "search_gram_m14_g3",
+      "type": "grammar",
+      "moduleId": "14",
+      "title": "ذُو ('Sahip / -li') ve Dişil / Çoğul Ailesi (ذَاتُ · ذَوُو · ذَوَاتُ)",
+      "subtitle": "Gramer Kuralı · M14",
+      "ar": "«ذُو» بِمَعْنَى صَاحِبٍ وَفُرُوعُهَا (ذَاتُ / ذَوَا / ذَوُو / ذَوَاتُ)",
+      "keywords": "Eril: ذُو/ذَا/ذِي  |  Dişil: ذَاتُ/ذَاتَ/ذَاتِ  |  Eril Çoğul: ذَوُو/ذَوِي  |  Dişil Çoğul: ذَوَاتُ/ذَوَاتِ  (+ DAİMA Mecrûr İsim!) Türkçede 'bilgili, ahlaklı, tecrübeli, önemli' gibi sıfatları üretmek için kelimenin sonuna **-lı / -li** veya **sahibi*"
+    },
+    {
+      "id": "search_gram_m14_g4",
+      "type": "grammar",
+      "moduleId": "14",
+      "title": "Ef'âl-i Hamse (الْأَفْعَالُ الْخَمْسَةُ — Beş Fiil) Mimarisi",
+      "subtitle": "Gramer Kuralı · M14",
+      "ar": "الْأَفْعَالُ الْخَمْسَةُ وَصِيَغُهَا",
+      "keywords": "Ef'âl-i Hamse (5 Kalıp): يَفْعَلَانِ · تَفْعَلَانِ · يَفْعَلُونَ · تَفْعَلُونَ · تَفْعَلِينَ  (يَفْعَلْنَ / تَفْعَلْنَ HARİÇ!) Modül 10'da muzâri fiilin 14 şahıs çekimini öğrenmiştik. Şimdi o tablonun içinde **HARF (NÛN) İLE İ'RAB EDİLEN** çok öze"
+    },
+    {
+      "id": "search_gram_m14_g5",
+      "type": "grammar",
+      "moduleId": "14",
+      "title": "Ef'âl-i Hamse'nin İ'rabı: Nûn'un Sübutu (Ref') & Nûn'un Hazfi (Nasb/Cezm)",
+      "subtitle": "Gramer Kuralı · M14",
+      "ar": "إِعْرَابُ الْأَفْعَالِ الْخَمْسَةِ: ثُبُوتُ النُّونِ وَحَذْفُهَا",
+      "keywords": "Ref': ن VAR (يَكْتُبُونَ / تَكْتُبِينَ)  |  Nasb (أَنْ/لَنْ) & Cezm (لَمْ/لَا): ن DÜŞER! (لَنْ يَكْتُبُوا / لَمْ تَكْتُبِي) Modül 15 ve 16'ya geçmeden önce en büyük süper gücünü şimdiden kuşanıyorsun! Normal muzâri (`يَكْتُبُ`) ref'te damme (`ي"
     },
     {
       "id": "search_verb_0",
