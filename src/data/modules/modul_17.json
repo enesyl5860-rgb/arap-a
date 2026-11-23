@@ -1,0 +1,777 @@
+{
+  "id": "17",
+  "slug": "modul_17",
+  "phaseId": 2,
+  "cilt": 2,
+  "cefr": "A2",
+  "title": "Emr-i Hâzır ve Nehy-i Hâzır Sistemi",
+  "arabicTitle": "فِعْلُ الْأَمْرِ الْحَاضِرِ وَالنَّهْيُ الْحَاضِرُ",
+  "category": "Sarf",
+  "summary": "Sülâsî fiillerde 3 adımlı emir türetme mekanizması, vasıl hemzesi (اُ / اِ) hareke kuralı, 6 muhatap şahıs emir/nehiy çekimi, özel ecvef/nâkıs emirler ve nazik rica kalıpları.",
+  "grammar": [
+    {
+      "id": "m17_g1",
+      "baslik": "Emr-i Hâzır Türetmenin 3 Altın Adımı & Vasıl Hemzesi (اُ vs. اِ)",
+      "arBaslik": "صِيَاغَةُ فِعْلِ الْأَمْرِ الْحَاضِرِ وَحَرَكَةُ هَمْزَةِ الْوَصْلِ",
+      "mantik": "Arapçada karşınızdaki kişiye emir (Emr-i Hâzır) yapmak asla ezber işi değil, 3 saniyelik bir makinedir! Elinize `أَنْتَ` (sen) muzârisini alın (`تَكْتُبُ / تَجْلِسُ / تَفْتَحُ`): **1. Adım:** Başındaki `تَـ` harfini atın (`كْتُبُ / جْلِسُ / فْتَحُ`). **2. Adım:** Sonunu cezmedin (`كْتُبْ / جْلِسْ / فْتَحْ`). **3. Adım:** Arapça sükûnlu harfle başlayamadığı için başa bir **Vasıl Hemzesi (`ا`)** destek tekeri takın! Peki bu hemze hangi harekeyi alacak? Gözünüzü hemen **orta harfe (ayn'ul-fiile)** dikin: Orta harf **dammeli** ise hemze **damme (`اُ`)** alır (`تَكْتُبُ → اُكْتُبْ`, `تَدْخُلُ → اُدْخُلْ`). Orta harf **kesralı veya fethalı** ise hemze **kesra (`اِ`)** alır (`تَجْلِسُ → اِجْلِسْ`, `تَفْتَحُ → اِفْتَحْ`, `تَسْمَعُ → اِسْمَعْ`)! Sülâsî mücerred emirlerde vasıl hemzesi ASLA fetha almaz!",
+      "formul": "أَنْتَ Muzâri → تَـ At → Sonunu Cezmet → Orta Harf (ـُ) ise اُ | (ـِ / ـَ) ise اِ!",
+      "formulAr": "تَكْتُبُ ← اُكْتُبْ (ـُ)  |  تَجْلِسُ ← اِجْلِسْ (ـِ)  |  تَفْتَحُ ← اِفْتَحْ (ـَ)",
+      "tablo": {
+        "baslik": "Sülâsî 6 Babdan 3 Adımda Emr-i Hâzır Üretim Tablosu",
+        "sutunlar": ["Bab / Orta Hareke", "Muzâri (أَنْتَ)", "تَـ At + Sükûn", "Emr-i Hâzır", "Anlam"],
+        "satirlar": [
+          { "hucreler": ["1. Bab (Orta ـُ)", "تَكْتُبُ / تَدْخُلُ", "كْتُبْ / دْخُلْ", "اُكْتُبْ / اُدْخُلْ", "Yaz! / Gir!"], "ar": "اُكْتُبْ — اُدْخُلْ" },
+          { "hucreler": ["5. Bab (Orta ـُ)", "تَكْرُمُ / تَحْسُنُ", "كْرُمْ / حْسُنْ", "اُكْرُمْ / اُحْسُنْ", "Cömert ol! / Güzel ol!"], "ar": "اُكْرُمْ — اُحْسُنْ" },
+          { "hucreler": ["2. Bab (Orta ـِ)", "تَجْلِسُ / تَرْجِعُ", "جْلِسْ / رْجِعْ", "اِجْلِسْ / اِرْجِعْ", "Otur! / Dön!"], "ar": "اِجْلِسْ — اِرْجِعْ" },
+          { "hucreler": ["6. Bab (Orta ـِ)", "تَحْسِبُ", "حْسِبْ", "اِحْسِبْ", "Zannet / Hesapla!"], "ar": "اِحْسِبْ" },
+          { "hucreler": ["3. Bab (Orta ـَ)", "تَفْتَحُ / تَقْرَأُ", "فْتَحْ / قْرَأْ", "اِفْتَحْ / اِقْرَأْ", "Aç! / Oku!"], "ar": "اِفْتَحْ — اِقْرَأْ" },
+          { "hucreler": ["4. Bab (Orta ـَ)", "تَسْمَعُ / تَفْهَمُ", "سْمَعْ / فْهَمْ", "اِسْمَعْ / اِفْهَمْ", "Dinle! / Anla!"], "ar": "اِسْمَعْ — اِفْهَمْ" }
+        ]
+      },
+      "trKiyas": "Çok yaygın bir okuma inceliği: Emr-i hâzırın başındaki `اُ / اِ` bir **Vasıl Hemzesidir** (üzerine hemze işareti `أ / إ` yazılmaz!). Cümle başında okunur (`اِقْرَأْ بِاسْمِ رَبِّكَ`), ama önünde `وَ` veya `فَـ` gibi bir harf gelirse aradan düşerek bağlanır: `وَاكْتُبْ` → *vektub* (ve-uktub değil!), `وَاقْرَأْ` → *vakra'* (ve-ikra' değil!)! Bu kuralı bilen öğrenci hem Kur'an hem modern Arapça metinlerini anadili gibi akıcı okur.",
+      "sikHatalar": [
+        "Orta harfi fethalı olan fiilin vasıl hemzesini fethalı okumak (✗ أَفْتَحْ / أَقْرَأْ → ✓ اِفْتَحْ / اِقْرَأْ — fethalıysa hemze KESRA olur!).",
+        "Sülâsî emirlerin başına kat' hemzesi işareti (أ / إ) koymak (✗ أُكْتُبْ / إِجْلِسْ → ✓ اُكْتُبْ / اِجْلِسْ — vasıl hemzesidir!).",
+        "IV. bab (أَفْعَلَ — İf'âl) emrini Sülâsî sanmak (IV. babda kat' hemzesi vardır ve FETHALIDIR: أَكْرِمْ / أَرْسِلْ / أَغْلِقْ!)."
+      ],
+      "ornekler": [
+        { "ar": "اِقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ!", "okunus": "İkra' bi'smi rabbike'llezî halaka!", "tr": "Yaratan Rabbinin adıyla oku!", "not": "تَقْرَأُ (orta ـَ) → اِقْرَأْ (kesralı vasıl!)" },
+        { "ar": "اُدْخُلِ الْغُرْفَةَ وَاكْتُبِ الْمُلَاحَظَاتِ!", "okunus": "Udhuli'l-gurfete vektubi'l-mulâhazâti!", "tr": "Odaya gir ve notları yaz!", "not": "تَدْخُلُ (orta ـُ) → اُدْخُلْ; وَ ile vasıl!" },
+        { "ar": "اِجْلِسْ هُنَا وَاسْمَعْ كَلَامَ الْأُسْتَاذِ جَيِّدًا!", "okunus": "İclis hunâ vesma‘ kelâme'l-ustâzi ceyyiden!", "tr": "Buraya otur ve hocanın sözünü iyice dinle!", "not": "تَجْلِسُ → اِجْلِسْ; تَسْمَعُ → اِسْمَعْ" },
+        { "ar": "اُشْكُرِ اللّٰهَ عَلَى نِعَمِهِ الْكَثِيرَةِ فِي كُلِّ وَقْتٍ!", "okunus": "Uşkuri'llâhe ‘alâ ni‘amihi'l-kesîrati fî kulli vaktin!", "tr": "Her vakitte çok nimetleri için Allah'a şükret!", "not": "تَشْكُرُ (1. bab) → اُشْكُرْ + geçiş kesrası" },
+        { "ar": "اِفْتَحِ النَّافِذَةَ لِيَدْخُلَ الْهَوَاءُ النَّقِيُّ!", "okunus": "İftahi'n-nâfizete li-yedhule'l-hevâu'n-nakıyyu!", "tr": "Temiz hava girmesi için pencereyi aç!", "not": "اِفْتَحْ (emir) + لِيَدْخُلَ (ta'lîl!)" },
+        { "ar": "اُخْرُجْ مُبَكِّرًا وَارْجِعْ قَبْلَ الْمَسَاءِ!", "okunus": "Uhruc mubekkiran verci‘ kable'l-mesâi!", "tr": "Erken çık ve akşamdan önce dön!", "not": "تَخْرُجُ → اُخْرُجْ (ـُ); تَرْجِعُ → اِرْجِعْ (ـِ)" }
+      ],
+      "tatbikler": [
+        { "id": "m17_g1_t01", "tip": "bosluk", "soru": "«تَخْرُجُ» (1. bab) fiilinin Emr-i Hâzırı (أَنْتَ) hangisidir?", "secenekler": ["اُخْرُجْ", "اِخْرُجْ", "أَخْرُجْ", "خُرُجْ"], "dogruIndeks": 0, "aciklama": "Orta harf dammeli (رُ) → vasıl hemzesi damme olur: اُخْرُجْ!" },
+        { "id": "m17_g1_t02", "tip": "bosluk", "soru": "«تَفْهَمُ» (4. bab) fiilinin Emr-i Hâzırı (أَنْتَ) hangisidir?", "secenekler": ["اِفْهَمْ", "اُفْهَمْ", "أَفْهَمْ", "فَهَمْ"], "dogruIndeks": 0, "aciklama": "Orta harf fethalı (هَ) → vasıl hemzesi KESRA olur: اِفْهَمْ!" },
+        { "id": "m17_g1_t03", "tip": "bosluk", "soru": "«تَغْسِلُ» (2. bab — yıkamak) fiilinin Emr-i Hâzırı (أَنْتَ) hangisidir?", "secenekler": ["اِغْسِلْ", "اُغْسِلْ", "أَغْسِلْ", "غَسِلْ"], "dogruIndeks": 0, "aciklama": "Orta harf kesralı (سِ) → vasıl hemzesi kesra olur: اِغْسِلْ!" },
+        { "id": "m17_g1_t04", "tip": "hata", "soru": "«أَفْتَحْ الْبَابَ يَا أَحْمَدُ!» cümlesindeki iki hata nasıl düzeltilir?", "secenekler": ["اِفْتَحِ الْبَابَ يَا أَحْمَدُ!", "اُفْتَحْ الْبَابَ يَا أَحْمَدُ!", "أِفْتَحْ الْبَابَ يَا أَحْمَدُ!", "فَتَحَ الْبَابَ!"], "dogruIndeks": 0, "aciklama": "Vasıl hemzesi kesralı (اِ) olur ve الْ geçişi için kesra konur: اِفْتَحِ الْبَابَ!" },
+        { "id": "m17_g1_t05", "tip": "bosluk", "soru": "«تَنْظُرُ» (bakmak) fiilinin Emr-i Hâzırı hangisidir?", "secenekler": ["اُنْظُرْ", "اِنْظُرْ", "أَنْظُرْ", "نَظُرْ"], "dogruIndeks": 0, "aciklama": "Orta harf dammeli (ظُ) → اُنْظُرْ!" },
+        { "id": "m17_g1_t06", "tip": "bosluk", "soru": "«تَشْرَبُ» (içmek) fiilinin Emr-i Hâzırı hangisidir?", "secenekler": ["اِشْرَبْ", "اُشْرَبْ", "أَشْرَبْ", "شَرِبْ"], "dogruIndeks": 0, "aciklama": "Orta harf fethalı (رَ) → اِشْرَبْ!" },
+        { "id": "m17_g1_t07", "tip": "tr_ar", "soru": "'Soru kâğıdını dikkatlice oku!' cümlesinin doğru Arapçası hangisidir?", "secenekler": ["اِقْرَأْ وَرَقَةَ الْأَسْئِلَةِ بِدِقَّةٍ!", "اُقْرَأْ وَرَقَةَ الْأَسْئِلَةِ بِدِقَّةٍ!", "أَقْرَأْ وَرَقَةَ الْأَسْئِلَةِ!", "تَقْرَأُ وَرَقَةَ الْأَسْئِلَةِ!"], "dogruIndeks": 0, "aciklama": "تَقْرَأُ → اِقْرَأْ (kesralı vasıl hemzesi!)." },
+        { "id": "m17_g1_t08", "tip": "bosluk", "soru": "Sülâsî emirlerde vasıl hemzesi (ا) ne zaman DAMME (اُ) alır?", "secenekler": ["Yalnızca muzârinin orta harfi (ayn'ul-fiil) dammeli olduğunda!", "Orta harf fethalı olduğunda", "Her zaman", "Hiçbir zaman"], "dogruIndeks": 0, "aciklama": "Ayn'ul-fiil damme → اُ; fetha veya kesra → اِ!" },
+        { "id": "m17_g1_t09", "tip": "bosluk", "soru": "«اِجْلِسْ وَاكْتُبْ» okunurken «وَاكْتُبْ» nasıl telaffuz edilir?", "secenekler": ["Vektub (vasıl hemzesi geçişte düşer!)", "Ve-uktub", "Ve-ektub", "Vâktub"], "dogruIndeks": 0, "aciklama": "Vasıl hemzesi cümle ortasında/geçişte telaffuz edilmez: vektub!" },
+        { "id": "m17_g1_t10", "tip": "donusturme", "soru": "«تَصْبِرُ عَلَى الشَّدَائِدِ.» fiilini Emr-i Hâzır (أَنْتَ) yapın:", "secenekler": ["اِصْبِرْ عَلَى الشَّدَائِدِ!", "اُصْبِرْ عَلَى الشَّدَائِدِ!", "أَصْبِرْ عَلَى الشَّدَائِدِ!", "صَبِرْ عَلَى الشَّدَائِدِ!"], "dogruIndeks": 0, "aciklama": "تَصْبِرُ (2. bab, orta ـِ) → اِصْبِرْ!" }
+      ]
+    },
+    {
+      "id": "m17_g2",
+      "baslik": "Emr-i Hâzırın 6 Muhatap Şahıs Çekimi & Binâ Alâmetleri",
+      "arBaslik": "تَصْرِيفُ فِعْلِ الْأَمْرِ مَعَ ضَمَائِرِ الْمُخَاطَبِ السِّتَّةِ",
+      "mantik": "Emir kipi yalnızca tek bir kişiye (`أَنْتَ`) değil, karşımızdaki **6 muhatap şahsın tamamına** (sen-eril, sen-dişil, ikiniz-eril, ikiniz-dişil, siz-eril, siz-dişil) çekilir! Kural inanılmaz derecede sadedir: **'Emir fiili, muzârisinin cezmedildiği alâmet üzere mebnîdir!'** Yani: (1) `أَنْتَ` tekilinde sükûn (`اُكْتُبْ`), (2) `أَنْتِ / أَنْتُمَا / أَنْتُمْ` şahıslarında (Ef'âl-i Hamse'den türedikleri için!) **ن hazfi** (`اُكْتُبِي / اُكْتُبَا / اُكْتُبُوا`), (3) `أَنْتُنَّ` (siz kadınlar) şahsında sükûn + نُ zamiri (`اُكْتُبْنَ`)! İkil (eril ve dişil) tamamen aynıdır (`اُكْتُبَا`)!",
+      "formul": "أَنْتَ: اِفْعَلْ | أَنْتِ: اِفْعَلِي | أَنْتُمَا: اِفْعَلَا | أَنْتُمْ: اِفْعَلُوا | أَنْتُنَّ: اِفْعَلْنَ",
+      "formulAr": "اُكْتُبْ — اُكْتُبِي — اُكْتُبَا — اُكْتُبُوا — اُكْتُبْنَ",
+      "tablo": {
+        "baslik": "Emr-i Hâzır 6 Muhatap Şahıs Tam Çekim Tablosu",
+        "sutunlar": ["Muhatap Zamir", "Muzâri", "Emr-i Hâzır (اُكْتُبْ / اِفْتَحْ)", "Binâ Alâmeti & Fâil", "Türkçe"],
+        "satirlar": [
+          { "hucreler": ["أَنْتَ (Sen - E)", "تَكْتُبُ / تَفْتَحُ", "اُكْتُبْ / اِفْتَحْ", "Sükûn (Fâil: gizli أَنْتَ)", "Yaz! / Aç!"], "ar": "اُكْتُبْ — اِفْتَحْ" },
+          { "hucreler": ["أَنْتِ (Sen - K)", "تَكْتُبِينَ / تَفْتَحِينَ", "اُكْتُبِي / اِفْتَحِي", "ن Hazfi (Fâil: ـِي)", "Yaz (K)! / Aç (K)!"], "ar": "اُكْتُبِي — اِفْتَحِي" },
+          { "hucreler": ["أَنْتُمَا (İkiniz - E/K)", "تَكْتُبَانِ / تَفْتَحَانِ", "اُكْتُبَا / اِفْتَحَا", "ن Hazfi (Fâil: ـَا)", "İkiniz yazın! / açın!"], "ar": "اُكْتُبَا — اِفْتَحَا" },
+          { "hucreler": ["أَنْتُمْ (Siz - E)", "تَكْتُبُونَ / تَفْتَحُونَ", "اُكْتُبُوا / اِفْتَحُوا", "ن Hazfi (Fâil: ـُوا)", "Yazın! / Açın!"], "ar": "اُكْتُبُوا — اِفْتَحُوا" },
+          { "hucreler": ["أَنْتُنَّ (Siz - K)", "تَكْتُبْنَ / تَفْتَحْنَ", "اُكْتُبْنَ / اِفْتَحْنَ", "Sükûn (Fâil: ـْنَ)", "Siz (K) yazın! / açın!"], "ar": "اُكْتُبْنَ — اِفْتَحْنَ" }
+        ]
+      },
+      "trKiyas": "Türkçede bir erkeğe de kadına da 'Oku!' deriz; ama Arapçada bir kadına hitap ederken mutlaka sonuna **ـِي (muhataba yâsı)** eklenir: `اِقْرَئِي يَا أُخْتِي!` (Oku kız kardeşim!). İki kişiye hitap ederken `اِقْرَآ يَا صَدِيقَيَّ!`, karma veya erkek topluluğa `اِقْرَؤُوا يَا طُلَّابُ!`, yalnızca kadın topluluğuna `اِقْرَأْنَ يَا طَالِبَاتُ!` denir! Ayrıca `اُكْتُبُوا` gibi çoğul emirlerin sonundaki **elif-i fârika (`ا`)** nesne zamiri bitişince düşer (`اُكْتُبُوهُ` = onu yazın!).",
+      "sikHatalar": [
+        "Kadına (أَنْتِ) emir verirken tekil eril emir kullanmak (✗ يَا مَرْيَمُ اُكْتُبْ → ✓ يَا مَرْيَمُ اُكْتُبِي!).",
+        "Çoğul emre nesne zamiri bitiştiğinde elif-i fârikayı silmeyi unutmak (✗ اُكْتُبُواهُ / اِفْتَحُواهَا → ✓ اُكْتُبُوهُ / اِفْتَحُوهَا!).",
+        "أَنْتِ emrinde ن harfini düşürmeyi unutmak (✗ اِجْلِسِينْ → ✓ اِجْلِسِي!)."
+      ],
+      "ornekler": [
+        { "ar": "يَا مَرْيَمُ، اِقْرَئِي الصَّفْحَةَ الْأُولَى بِصَوْتٍ وَاضِحٍ!", "okunus": "Yâ Meryemu, ikrai's-safhate'l-ûlâ bi-savtin vâdihin!", "tr": "Meryem, ilk sayfayı anlaşılır bir sesle oku!", "not": "أَنْتِ → اِقْرَئِي (ن hazfi)" },
+        { "ar": "يَا أَحْمَدُ وَيَا خَالِدُ، اُدْخُلَا الْمَكْتَبَ وَاجْلِسَا هُنَا!", "okunus": "Yâ Ahmedu ve yâ Hâlidu, udhule'l-mektebe veclisâ hunâ!", "tr": "Ahmed ve Halid, ofise girin ve buraya oturun!", "not": "أَنْتُمَا → اُدْخُلَا / اِجْلِسَا" },
+        { "ar": "يَا طُلَّابُ، اِفْتَحُوا كُتُبَكُمْ وَاسْمَعُوا الشَّرْحَ جَيِّدًا!", "okunus": "Yâ tullâbu, iftehû kutubekum vesme‘u'ş-şerha ceyyiden!", "tr": "Öğrenciler, kitaplarınızı açın ve anlatımı iyice dinleyin!", "not": "أَنْتُمْ → اِفْتَحُوا / اِسْمَعُوا" },
+        { "ar": "يَا طَالِبَاتُ، اُكْتُبْنَ الْمُلَخَّصَ فِي دَفَاتِرِكُنَّ!", "okunus": "Yâ tâlibâtu, uktubne'l-mulahhasa fî defâtirikunne!", "tr": "Kız öğrenciler, özeti defterlerinize yazın!", "not": "أَنْتُنَّ → اُكْتُبْنَ" },
+        { "ar": "هٰذَا الدَّرْسُ مُهِمٌّ جِدًّا، اِحْفَظُوهُ وَرَاجِعُوهُ كُلَّ يَوْمٍ!", "okunus": "Hâze'd-dersu muhimmun cidden, ihfazûhu ve râci‘ûhu kulle yevmin!", "tr": "Bu ders çok önemlidir, onu ezberleyin ve her gün tekrar edin!", "not": "اِحْفَظُوا + هُ → اِحْفَظُوهُ (elif düştü!)" },
+        { "ar": "يَا أُخْتِي، اِشْرَبِي الشَّايَ قَبْلَ أَنْ يَبْرُدَ!", "okunus": "Yâ uhtî, işrabi'ş-şâye kable en yebrude!", "tr": "Kız kardeşim, soğumadan önce çayı iç!", "not": "أَنْتِ → اِشْرَبِي" }
+      ],
+      "tatbikler": [
+        { "id": "m17_g2_t01", "tip": "bosluk", "soru": "«يَا فَاطِمَةُ، ___ النَّافِذَةَ مِنْ فَضْلِكِ!» (تَفْتَحِينَ)", "secenekler": ["اِفْتَحِي", "اِفْتَحْ", "اِفْتَحِينَ", "اِفْتَحُوا"], "dogruIndeks": 0, "aciklama": "أَنْتِ (sen - K) → ن düşer: اِفْتَحِي!" },
+        { "id": "m17_g2_t02", "tip": "bosluk", "soru": "«يَا طَالِبَاتُ، ___ إِلَى صَوْتِ الْمُعَلِّمَةِ!» (تَسْمَعْنَ)", "secenekler": ["اِسْمَعْنَ", "اِسْمَعُوا", "اِسْمَعِي", "اِسْمَعْ"], "dogruIndeks": 0, "aciklama": "أَنْتُنَّ (siz - K) → اِسْمَعْنَ!" },
+        { "id": "m17_g2_t03", "tip": "bosluk", "soru": "«يَا طَارِقُ وَيَا عُمَرُ، ___ الْبَابَ وَاخْرُجَا بِهُدُوءٍ!» (تُغْلِقَانِ / تَفْتَحَانِ — açmak)", "secenekler": ["اِفْتَحَا", "اِفْتَحُوا", "اِفْتَحْ", "اِفْتَحَانِ"], "dogruIndeks": 0, "aciklama": "İkil muhatap (أَنْتُمَا) → ن hazfiyle اِفْتَحَا!" },
+        { "id": "m17_g2_t04", "tip": "bosluk", "soru": "«هٰذِهِ الْقِصَّةُ رَائِعَةٌ؛ يَا طُلَّابُ، ___!» ('Onu okuyun!' = اِقْرَؤُوا + هَا)", "secenekler": ["اِقْرَؤُوهَا", "اِقْرَؤُواهَا", "اِقْرَأْهَا", "اِقْرَؤُونَهَا"], "dogruIndeks": 0, "aciklama": "Çoğul emre nesne zamiri bitişince elif-i fârika düşer: اِقْرَؤُوهَا!" },
+        { "id": "m17_g2_t05", "tip": "hata", "soru": "«يَا زَيْنَبُ، اُدْخُلْ وَاجْلِسْ هُنَا!» cümlesindeki hata nasıl düzeltilir?", "secenekler": ["يَا زَيْنَبُ، اُدْخُلِي وَاجْلِسِي هُنَا!", "يَا زَيْنَبُ، اُدْخُلُوا وَاجْلِسُوا هُنَا!", "يَا زَيْنَبُ، اُدْخُلْنَ وَاجْلِسْنَ!", "Hata yoktur."], "dogruIndeks": 0, "aciklama": "Zeyneb tekil kadındır (أَنْتِ) → اُدْخُلِي وَاجْلِسِي!" },
+        { "id": "m17_g2_t06", "tip": "bosluk", "soru": "«اُكْتُبُوا» emir fiilinin binâ (mebnîlik) alâmeti nedir?", "secenekler": ["ن hazfi (حَذْفُ النُّونِ)", "Sükûn", "Damme", "Fetha"], "dogruIndeks": 0, "aciklama": "تَكْتُبُونَ → اُكْتُبُوا (Ef'âl-i Hamse'den türediği için ن hazfi üzere mebnîdir!)." },
+        { "id": "m17_g2_t07", "tip": "tr_ar", "soru": "'Ey öğrenciler, defterlerinizi açın ve dersi yazın!' cümlesi hangisidir?", "secenekler": ["يَا طُلَّابُ، اِفْتَحُوا دَفَاتِرَكُمْ وَاكْتُبُوا الدَّرْسَ!", "يَا طُلَّابُ، اِفْتَحْ دَفَاتِرَكُمْ وَاكْتُبْ الدَّرْسَ!", "يَا طُلَّابُ، اِفْتَحُونَ دَفَاتِرَكُمْ!", "يَا طُلَّابُ، اِفْتَحْنَ دَفَاتِرَكُمْ!"], "dogruIndeks": 0, "aciklama": "أَنْتُمْ → اِفْتَحُوا ... وَاكْتُبُوا!" },
+        { "id": "m17_g2_t08", "tip": "bosluk", "soru": "«يَا أُخْتَايَ (iki kız kardeşim), ___ مَعِي إِلَى السُّوقِ!» (تَذْهَبَانِ)", "secenekler": ["اِذْهَبَا", "اِذْهَبِي", "اِذْهَبْنَ", "اِذْهَبُوا"], "dogruIndeks": 0, "aciklama": "İkil emirde eril ve dişil aynıdır: اِذْهَبَا!" },
+        { "id": "m17_g2_t09", "tip": "donusturme", "soru": "«اِشْرَبِ الْمَاءَ!» (أَنْتَ) emrini siz kadınlar (أَنْتُنَّ) için değiştirin:", "secenekler": ["اِشْرَبْنَ الْمَاءَ!", "اِشْرَبُوا الْمَاءَ!", "اِشْرَبِي الْمَاءَ!", "اِشْرَبَا الْمَاءَ!"], "dogruIndeks": 0, "aciklama": "أَنْتُنَّ → اِشْرَبْنَ!" },
+        { "id": "m17_g2_t10", "tip": "bosluk", "soru": "«اِجْلِسِي» emir fiilinin fâili (öznesi) hangisidir?", "secenekler": ["Sondaki ـِي (muhataba yâsı) zamiri", "Gizli أَنْتَ", "Başındaki اِ hemzesi", "Fâili yoktur"], "dogruIndeks": 0, "aciklama": "ـِي / ـَا / ـُوا / ـْنَ emir fiilinin açık muttasıl fâil zamirleridir!" }
+      ]
+    },
+    {
+      "id": "m17_g3",
+      "baslik": "Hemzesiz ve Özel Sık Kullanılan Emirler (Ecvef, Nâkıs, Misâl, Mehmûz, Mezîd)",
+      "arBaslik": "أَفْعَالُ الْأَمْرِ الْخَاصَّةُ (الْأَجْوَفُ وَالنَّاقِصُ وَالْمِثَالُ وَالْمَهْمُوزُ وَالرُّبَاعِيُّ)",
+      "mantik": "Emir türetirken **'تَـ harfini atınca ilk harf zaten HAREKELİ kalıyorsa'** başa asla vasıl hemzesi koymazsınız — destek tekerine gerek kalmaz! Günlük Arapçanın en sık kullanılan 20 emrinin çoğu işte bu harika kuraldan doğar: (1) **Ecvef**: `تَقُولُ → قُلْ` (Söyle!), `تَكُونُ → كُنْ` (Ol!), `تَبِيعُ → بِعْ` (Sat!), `تَنَامُ → نَمْ` (Uyu!). Çoğulda uzun sesli geri döner (`قُولُوا / كُونُوا / بِيعُوا`)! (2) **Misâl (و'lu)**: `تَقِفُ → قِفْ` (Dur!), `تَصِلُ → صِلْ` (Ulaş/bağla!), `تَضَعُ → ضَعْ` (Koy!). (3) **Nâkıs (Sonu illetli)**: Sondaki illet harfi düşer (`تَدْعُو → اُدْعُ`, `تَمْشِي → اِمْشِ`, `تَنْسَى → اِنْسَ`, `تُعْطِي → أَعْطِ` = Ver!). (4) **3 Ünlü Mehmûz Kısaltma**: `أَخَذَ → خُذْ` (Al!), `أَكَلَ → كُلْ` (Ye!), `أَمَرَ → مُرْ` (Emret!). (5) **Mezîd II/III/V/VI**: `تَتَكَلَّمُ → تَكَلَّمْ` (Konuş!), `تُسَافِرُ → سَافِرْ` (Yolculuk yap!), `تُعَلِّمُ → عَلِّمْ` (Öğret!), ve **IV. Bab (İf'âl)**: Fethalı kat' hemzesiyle **`أَرْسِلْ / أَغْلِقْ / أَكْرِمْ / أَجِبْ`**!",
+      "formul": "تَـ sonrası harekeliyse hemze YOK (قُلْ، كُنْ، قِفْ، خُذْ، كُلْ، سَافِرْ) | Nâkısta illet düşer (اِمْشِ، اُدْعُ) | IV. Babda أَ (أَغْلِقْ، أَرْسِلْ)",
+      "formulAr": "قُلْ — كُنْ — قِفْ — ضَعْ — خُذْ — كُلْ  |  اُدْعُ — اِمْشِ — أَعْطِ  |  أَغْلِقْ — أَرْسِلْ",
+      "tablo": {
+        "baslik": "Günlük Hayatta En Çok Kullanılan Özel Emirlerin Altın Tablosu",
+        "sutunlar": ["Grup", "Muzâri (أَنْتَ)", "Emir (أَنْتَ)", "Emir (أَنْتُمْ / أَنْتِ)", "Anlam"],
+        "satirlar": [
+          { "hucreler": ["Ecvef (قَالَ / كَانَ)", "تَقُولُ / تَكُونُ", "قُلْ / كُنْ", "قُولُوا / كُونُوا — قُولِي / كُونِي", "Söyle! / Ol!"], "ar": "قُلْ / قُولُوا — كُنْ / كُونُوا" },
+          { "hucreler": ["Ecvef (بَاعَ / نَامَ)", "تَبِيعُ / تَنَامُ", "بِعْ / نَمْ", "بِيعُوا / نَامُوا — بِيعِي / نَامِي", "Sat! / Uyu!"], "ar": "بِعْ / بِيعُوا — نَمْ / نَامُوا" },
+          { "hucreler": ["Misâl (وَقَفَ / وَضَعَ)", "تَقِفُ / تَضَعُ", "قِفْ / ضَعْ", "قِفُوا / ضَعُوا — قِفِي / ضَعِي", "Dur! / Koy!"], "ar": "قِفْ / قِفُوا — ضَعْ / ضَعُوا" },
+          { "hucreler": ["3 Özel Mehmûz", "تَأْخُذُ / تَأْكُلُ", "خُذْ / كُلْ", "خُذُوا / كُلُوا — خُذِي / كُلِي", "Al! / Ye!"], "ar": "خُذْ / خُذُوا — كُلْ / كُلُوا" },
+          { "hucreler": ["Nâkıs (دَعَا / مَشَى / أَعْطَى)", "تَدْعُو / تَمْشِي / تُعْطِي", "اُدْعُ / اِمْشِ / أَعْطِ", "اُدْعُوا / اِمْشُوا / أَعْطُوا", "Dua et! / Yürü! / Ver!"], "ar": "اُدْعُ — اِمْشِ — أَعْطِ" },
+          { "hucreler": ["IV. Bab (Kat' Hemzesi أَ!)", "تُغْلِقُ / تُرْسِلُ / تُجِيبُ", "أَغْلِقْ / أَرْسِلْ / أَجِبْ", "أَغْلِقُوا / أَرْسِلُوا / أَجِيبُوا", "Kapat! / Gönder! / Cevapla!"], "ar": "أَغْلِقْ — أَرْسِلْ — أَجِبْ" }
+        ]
+      },
+      "trKiyas": "Çok keyifli bir örüntü fark ettiniz mi? Ecvef fiillerde tekil (`أَنْتَ`: `قُلْ / كُنْ / نَمْ`) ve kadın çoğulda (`أَنْتُنَّ`: `قُلْنَ / كُنَّ / نَمْنَ`) ortadaki uzun harf düşer; ancak `أَنْتِ / أَنْتُمَا / أَنْتُمْ` şahıslarında sondaki harf harekelendiği için iki sükûn tehlikesi kalkar ve uzun sesli **zaferle geri döner**: `قُولِي / قُولَا / قُولُوا` — `كُونِي / كُونَا / كُونُوا` — `أَجِيبِي / أَجِيبُوا`! Bu 1 kuralı bilen öğrenci 50'den fazla fiilin emrini ezbersiz doğru çeker!",
+      "sikHatalar": [
+        "Ecvef tekil emirde uzun harfi bırakmak (✗ قُولْ / كُونْ / أَجِيبْ → ✓ قُلْ / كُنْ / أَجِبْ!).",
+        "Nâkıs emirde sondaki illet harfini bırakmak (✗ اُدْعُو / اِمْشِي / أَعْطِي → ✓ اُدْعُ / اِمْشِ / أَعْطِ — erkek tekilde illet harfi DÜŞER; أَعْطِي sadece kadına 'Ver (K)!' demektir!).",
+        "IV. bab emirlerini kesralı veya vasıl hemzeli yazmak (✗ اِغْلِقْ / اِرْسِلْ → ✓ أَغْلِقْ / أَرْسِلْ — fethalı kat' hemzesi!)."
+      ],
+      "ornekler": [
+        { "ar": "قُلِ الْحَقَّ وَلَوْ كَانَ مُرًّا!", "okunus": "Kuli'l-hakka ve lev kâne murran!", "tr": "Acı da olsa doğruyu söyle!", "not": "تَقُولُ → قُلْ (+ geçiş kesrası: قُلِ)" },
+        { "ar": "كُونُوا صَادِقِينَ وَمُتَعَاوِنِينَ دَائِمًا!", "okunus": "Kûnû sâdikîne ve mute‘âvinîne dâimen!", "tr": "Daima doğru sözlü ve yardımlaşan kimseler olun!", "not": "كُنْ → çoğulda و geri geldi: كُونُوا!" },
+        { "ar": "خُذْ هٰذَا الْكِتَابَ وَضَعْهُ عَلَى الرَّفِّ الْأَوَّلِ!", "okunus": "Huz hâze'l-kitâbe ve da‘hu ‘ale'r-raffi'l-evveli!", "tr": "Bu kitabı al ve ilk rafa koy!", "not": "أَخَذَ → خُذْ; وَضَعَ → ضَعْ" },
+        { "ar": "قِفْ هُنَا لَحْظَةً وَأَعْطِنِي جَوَازَ السَّفَرِ مِنْ فَضْلِكَ!", "okunus": "Kıf hunâ lahzaten ve a‘tınî cevâze's-seferi min fadlike!", "tr": "Bir dakika burada dur ve lütfen bana pasaportu ver!", "not": "وَقَفَ → قِفْ; أَعْطَى → أَعْطِ (ي düştü!)" },
+        { "ar": "أَغْلِقِ الْبَابَ وَأَرْسِلِ الرِّسَالَةَ قَبْلَ الْمَسَاءِ!", "okunus": "Aglikı'l-bâbe ve ersili'r-risâlete kable'l-mesâi!", "tr": "Kapıyı kapat ve akşamdan önce mesajı gönder!", "not": "IV. bab → fethalı kat' hemzesi (أَ)!" },
+        { "ar": "اُدْعُ اللّٰهَ بِإِخْلَاصٍ، وَامْشِ فِي طَرِيقِ الْخَيْرِ!", "okunus": "Ud‘ullâhe bi-ihlâsin, vemşi fî tarîkı'l-hayri!", "tr": "Allah'a samimiyetle dua et ve hayır yolunda yürü!", "not": "Nâkıs: اُدْعُ (و düştü) / اِمْشِ (ي düştü)!" }
+      ],
+      "tatbikler": [
+        { "id": "m17_g3_t01", "tip": "bosluk", "soru": "«يَا أَخِي، ___ لِي كُوبًا مِنَ الْمَاءِ مِنْ فَضْلِكَ!» (تُعْطِي — 'Ver!')", "secenekler": ["أَعْطِ", "أَعْطِي", "اِعْطِ", "عَطِي"], "dogruIndeks": 0, "aciklama": "Erkeğe (أَنْتَ) nâkıs emirde sondaki ي düşer: أَعْطِ! (أَعْطِي sadece kadına söylenir!)" },
+        { "id": "m17_g3_t02", "tip": "bosluk", "soru": "«يَا طُلَّابُ، ___ عَلَى السُّؤَالِ الْأَوَّلِ!» (تُجِيبُونَ — cevaplamak)", "secenekler": ["أَجِيبُوا", "أَجِبُوا", "اِجِيبُوا", "جِيبُوا"], "dogruIndeks": 0, "aciklama": "IV. bab (أَجَابَ) → أَ + çoğulda ي geri döner: أَجِيبُوا! (Tekili: أَجِبْ)." },
+        { "id": "m17_g3_t03", "tip": "bosluk", "soru": "«أَخَذَ» (almak) ve «أَكَلَ» (yemek) fiillerinin tekil eril emirleri hangisidir?", "secenekler": ["خُذْ — كُلْ", "اُأْخُذْ — اُأْكُلْ", "أَخِذْ — أَكِلْ", "خُوذْ — كُولْ"], "dogruIndeks": 0, "aciklama": "Sık kullanımdan dolayı hemzesi düşmüş 3 özel mehmûz: خُذْ، كُلْ، مُرْ!" },
+        { "id": "m17_g3_t04", "tip": "bosluk", "soru": "«تَقِفُ» (durmak) ve «تَضَعُ» (koymak) misâl fiillerinin emirleri hangisidir?", "secenekler": ["قِفْ — ضَعْ", "اِقِفْ — اِضَعْ", "وَقِفْ — وَضَعْ", "قُفْ — ضُعْ"], "dogruIndeks": 0, "aciklama": "تَـ atılınca ilk harf harekeli kaldığı için hemze gerekmez: قِفْ / ضَعْ!" },
+        { "id": "m17_g3_t05", "tip": "hata", "soru": "«يَا وَلَدِي، قُولْ الصِّدْقَ وَكُونْ شُجَاعًا!» cümlesindeki iki hata nasıl düzeltilir?", "secenekler": ["يَا وَلَدِي، قُلِ الصِّدْقَ وَكُنْ شُجَاعًا!", "يَا وَلَدِي، اُقُلْ الصِّدْقَ وَاكُنْ!", "يَا وَلَدِي، قُولَا الصِّدْقَ!", "Hata yoktur."], "dogruIndeks": 0, "aciklama": "Tekil ecvef emirde و düşer: قُلِ الصِّدْقَ وَكُنْ!" },
+        { "id": "m17_g3_t06", "tip": "bosluk", "soru": "«يَا أُخْتِي، ___ بَاكِرًا كَيْ تَسْتَيْقِظِي نَشِيطَةً!» (تَنَامِينَ — uyumak)", "secenekler": ["نَامِي", "نَمِي", "اِنَمِي", "نَامِينَ"], "dogruIndeks": 0, "aciklama": "Tekil eril نَمْ'dir ama أَنْتِ/أَنْتُمْ'da uzun ا geri döner: نَامِي / نَامُوا!" },
+        { "id": "m17_g3_t07", "tip": "tr_ar", "soru": "'Pencereyi kapat ve e-postayı gönder!' (IV. bab emirler) hangisidir?", "secenekler": ["أَغْلِقِ النَّافِذَةَ وَأَرْسِلِ الْبَرِيدَ الْإِلِكْتُرُونِيَّ!", "اِغْلِقِ النَّافِذَةَ وَارْسِلِ الْبَرِيدَ!", "غَلِقِ النَّافِذَةَ وَرَسِلْ!", "أُغْلِقُ النَّافِذَةَ وَأُرْسِلُ!"], "dogruIndeks": 0, "aciklama": "أَغْلَقَ / أَرْسَلَ (IV. bab) emirleri fethalı kat' hemzesiyle gelir: أَغْلِقْ / أَرْسِلْ!" },
+        { "id": "m17_g3_t08", "tip": "bosluk", "soru": "«اِنْسَ الْهَمَّ وَابْتَسِمْ!» cümlesindeki «اِنْسَ» hangi fiilin emridir?", "secenekler": ["نَسِيَ — يَنْسَى (unutmak — ى düşmüş!)", "نَسَخَ", "أَنِسَ", "نَسَجَ"], "dogruIndeks": 0, "aciklama": "تَنْسَى → اِنْسَ (son illet ى düşer, fetha kalır!)." },
+        { "id": "m17_g3_t09", "tip": "bosluk", "soru": "«سَافَرَ — يُسَافِرُ» (III. bab) ve «تَكَلَّمَ — يَتَكَلَّمُ» (V. bab) fiillerinin emirleri hangisidir?", "secenekler": ["سَافِرْ — تَكَلَّمْ", "اِسَافِرْ — اِتَكَلَّمْ", "أَسَافِرْ — أَتَكَلَّمْ", "سَفِرْ — كَلِّمْ"], "dogruIndeks": 0, "aciklama": "Muzâraat harfi atılınca ilk harf harekeli kalır → hemze gerekmez: سَافِرْ / تَكَلَّمْ!" },
+        { "id": "m17_g3_t10", "tip": "donusturme", "soru": "«قُلْ خَيْرًا!» (أَنْتَ) emrini çoğul erile (أَنْتُمْ) çevirin:", "secenekler": ["قُولُوا خَيْرًا!", "قُلُوا خَيْرًا!", "قُولُونَ خَيْرًا!", "قُلْنَ خَيْرًا!"], "dogruIndeks": 0, "aciklama": "Çoğulda و geri döner ve ن düşer: قُولُوا!" }
+      ]
+    },
+    {
+      "id": "m17_g4",
+      "baslik": "Nehy-i Hâzır (لَا تَفْعَلْ!) — 6 Muhatap Şahıs Yasaklama Sistemi",
+      "arBaslik": "النَّهْيُ الْحَاضِرُ («لَا» النَّاهِيَةُ مَعَ ضَمَائِرِ الْمُخَاطَبِ السِّتَّةِ)",
+      "mantik": "Emir kipinde `تَـ` harfini atıp vasıl hemzesiyle uğraşıyorduk; ama **Nehy-i Hâzırda ('Yapma! / Yapmayın!')** işimiz çok daha kolay! Hiçbir harf atmanıza ve vasıl hemzesi aramanıza gerek yok: 6 muhatap muzârinin (`تَكْتُبُ / تَكْتُبِينَ / تَكْتُبَانِ / تَكْتُبُونَ / تَكْتُبْنَ`) önüne sadece **لَا** koyup sonunu **cezmedin**! İşte bu kadar: `لَا تَكْتُبْ / لَا تَكْتُبِي / لَا تَكْتُبَا / لَا تَكْتُبُوا / لَا تَكْتُبْنَ`! Ecvef (`لَا تَقُلْ / لَا تَخَفْ / لَا تَتْرُكْ`) ve nâkıslarda (`لَا تَنْسَ / لَا تَمْشِ / لَا تَدْعُ`) M16'daki cezm kuralları birebir geçerlidir!",
+      "formul": "لَا + Muhatap Muzâri (Meczum!) → لَا تَفْعَلْ / لَا تَفْعَلِي / لَا تَفْعَلَا / لَا تَفْعَلُوا / لَا تَفْعَلْنَ",
+      "formulAr": "لَا تَحْزَنْ — لَا تَحْزَنِي — لَا تَحْزَنَا — لَا تَحْزَنُوا — لَا تَحْزَنَّ",
+      "tablo": {
+        "baslik": "Emr-i Hâzır vs. Nehy-i Hâzır (6 Şahıs Karşılaştırmalı Tablo)",
+        "sutunlar": ["Muhatap", "Emr-i Hâzır (Yap!)", "Nehy-i Hâzır (Yapma!)", "Ecvef & Nâkıs Nehiy", "Türkçe"],
+        "satirlar": [
+          { "hucreler": ["أَنْتَ", "اُكْتُبْ / اِفْتَحْ", "لَا تَكْتُبْ / لَا تَفْتَحْ", "لَا تَقُلْ / لَا تَنْسَ", "Yazma! / Söyleme! / Unutma!"], "ar": "لَا تَكْتُبْ — لَا تَقُلْ — لَا تَنْسَ" },
+          { "hucreler": ["أَنْتِ", "اُكْتُبِي / اِفْتَحِي", "لَا تَكْتُبِي / لَا تَفْتَحِي", "لَا تَقُولِي / لَا تَنْسَيْ", "Sen (K) yazma! / söyleme!"], "ar": "لَا تَكْتُبِي — لَا تَقُولِي" },
+          { "hucreler": ["أَنْتُمَا", "اُكْتُبَا / اِفْتَحَا", "لَا تَكْتُبَا / لَا تَفْتَحَا", "لَا تَقُولَا / لَا تَنْسَيَا", "İkiniz yazmayın! / söylemeyin!"], "ar": "لَا تَكْتُبَا — لَا تَقُولَا" },
+          { "hucreler": ["أَنْتُمْ", "اُكْتُبُوا / اِفْتَحُوا", "لَا تَكْتُبُوا / لَا تَفْتَحُوا", "لَا تَقُولُوا / لَا تَنْسَوْا", "Yazmayın! / Söylemeyin! / Unutmayın!"], "ar": "لَا تَكْتُبُوا — لَا تَقُولُوا — لَا تَنْسَوْا" },
+          { "hucreler": ["أَنْتُنَّ", "اُكْتُبْنَ / اِفْتَحْنَ", "لَا تَكْتُبْنَ / لَا تَفْتَحْنَ", "لَا تَقُلْنَ / لَا تَنْسَيْنَ", "Siz (K) yazmayın! / söylemeyin!"], "ar": "لَا تَكْتُبْنَ — لَا تَقُلْنَ" }
+        ]
+      },
+      "trKiyas": "Öğrencilerin en sık yaptığı kritik hata: Olumlu emrin (`اِجْلِسْ / اُدْخُلْ`) başına doğrudan `لَا` getirip `لَا اِجْلِسْ!` demeye çalışmak! Arapçada **emir kipinin başına ASLA `لَا` gelmez!** Olumsuz emir (nehiy) her zaman `لَا + تَـ... (meczum muzâri)` ile yapılır: `اِجْلِسْ` (Otur!) ⇄ `لَا تَجْلِسْ` (Oturma!) — `قُلْ` (Söyle!) ⇄ `لَا تَقُلْ` (Söyleme!) — `خُذْ` (Al!) ⇄ `لَا تَأْخُذْ` (Alma!).",
+      "sikHatalar": [
+        "Emir kipinin başına لَا koymak (✗ لَا اُكْتُبْ / لَا اِذْهَبْ / لَا قُلْ → ✓ لَا تَكْتُبْ / لَا تَذْهَبْ / لَا تَقُلْ!).",
+        "Nehiyde ن harfini düşürmeyi unutmak (✗ لَا تَغْضَبُونَ / لَا تَخَافِينَ → ✓ لَا تَغْضَبُوا / لَا تَخَافِي!).",
+        "Ecvef tekil nehiyde uzun harfi korumak (✗ لَا تَخَافْ / لَا تَقُولْ → ✓ لَا تَخَفْ / لَا تَقُلْ!)."
+      ],
+      "ornekler": [
+        { "ar": "لَا تَحْزَنْ إِنَّ اللّٰهَ مَعَنَا!", "okunus": "Lâ tahzen innallâhe me‘anâ!", "tr": "Üzülme, şüphesiz Allah bizimledir!", "not": "أَنْتَ → sükûn (Tevbe 40)" },
+        { "ar": "لَا تَخَفْ وَلَا تَقْلَقْ، سَيَكُونُ كُلُّ شَيْءٍ بِخَيْرٍ!", "okunus": "Lâ tehaf ve lâ taklak, se-yekûnu kullu şey'in bi-hayrin!", "tr": "Korkma ve endişelenme, her şey yolunda olacak!", "not": "تَخَافُ → لَا تَخَفْ (ecvef!)" },
+        { "ar": "يَا أُخْتِي، لَا تَنْسَيْ مِفْتَاحَ الْبَيْتِ قَبْلَ الْخُرُوجِ!", "okunus": "Yâ uhtî, lâ tensey miftâha'l-beyti kable'l-hurûci!", "tr": "Kız kardeşim, çıkmadan önce evin anahtarını unutma!", "not": "أَنْتِ + نَسِيَ → لَا تَنْسَيْ" },
+        { "ar": "يَا أَصْدِقَائِي، لَا تَتَأَخَّرُوا عَنِ الْقِطَارِ وَلَا تَنْسَوْا التَّذَاكِرَ!", "okunus": "Yâ esdikâî, lâ teteahharû ‘ani'l-kitâri ve lâ tensevu't-tezâkira!", "tr": "Arkadaşlarım, trene geç kalmayın ve biletleri unutmayın!", "not": "أَنْتُمْ → ن hazfi!" },
+        { "ar": "يَا طَالِبَاتُ، لَا تَتَرَدَّدْنَ فِي طَرْحِ الْأَسْئِلَةِ!", "okunus": "Yâ tâlibâtu, lâ tetereddedne fî tarhi'l-es'ileti!", "tr": "Kız öğrenciler, soru sormakta tereddüt etmeyin!", "not": "أَنْتُنَّ → mebnî ن" },
+        { "ar": "لَا تُؤَجِّلْ عَمَلَ الْيَوْمِ إِلَى الْغَدِ!", "okunus": "Lâ tueccil ‘amele'l-yevmi ile'l-gadi!", "tr": "Bugünün işini yarına erteleme!", "not": "Meşhur Arap atasözü" }
+      ],
+      "tatbikler": [
+        { "id": "m17_g4_t01", "tip": "donusturme", "soru": "«اِجْلِسْ هُنَا!» emrini Nehy-i Hâzıra ('Buraya oturma!') çevirin:", "secenekler": ["لَا تَجْلِسْ هُنَا!", "لَا اِجْلِسْ هُنَا!", "لَا تَجْلِسُ هُنَا!", "لَنْ تَجْلِسَ هُنَا!"], "dogruIndeks": 0, "aciklama": "Emir kipinin başına لَا gelmez; muzâri + cezm kullanılır: لَا تَجْلِسْ!" },
+        { "id": "m17_g4_t02", "tip": "bosluk", "soru": "«يَا أَخِي، لَا ___ مِنَ التَّجْرِبَةِ الْجَدِيدَةِ!» (تَخَافُ — korkmak)", "secenekler": ["تَخَفْ", "تَخَافْ", "تَخَافُ", "خَفْ"], "dogruIndeks": 0, "aciklama": "Ecvef (تَخَافُ) meczum olunca ا düşer: لَا تَخَفْ!" },
+        { "id": "m17_g4_t03", "tip": "bosluk", "soru": "«يَا زَيْنَبُ، لَا ___ كَثِيرًا بِسَبَبِ الِامْتِحَانِ!» (تَقْلَقِينَ)", "secenekler": ["تَقْلَقِي", "تَقْلَقِينَ", "تَقْلَقْ", "تَقْلَقُوا"], "dogruIndeks": 0, "aciklama": "أَنْتِ → ن hazfi: لَا تَقْلَقِي!" },
+        { "id": "m17_g4_t04", "tip": "bosluk", "soru": "«يَا أَبْنَائِي، لَا ___ الْكَذِبَ أَبَدًا!» (تَقُولُونَ)", "secenekler": ["تَقُولُوا", "تَقُلُوا", "تَقُولُونَ", "قُولُوا"], "dogruIndeks": 0, "aciklama": "Çoğulda و geri gelir ve ن düşer: لَا تَقُولُوا!" },
+        { "id": "m17_g4_t05", "tip": "hata", "soru": "«لَا اِفْتَحْ النَّافِذَةَ الْجَوُّ بَارِدٌ!» cümlesindeki temel hata nedir?", "secenekler": ["لَا emirle değil muzâriyle gelir → لَا تَفْتَحِ النَّافِذَةَ!", "الْجَوُّ mansub olmalıdır", "بَارِدٌ mecrûr olmalıdır", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "Nehiy daima لَا + meczum muzâridir: لَا تَفْتَحِ النَّافِذَةَ!" },
+        { "id": "m17_g4_t06", "tip": "bosluk", "soru": "«يَا صَدِيقِي، لَا ___ جَوَازَ السَّفَرِ فِي الْبَيْتِ!» (تَنْسَى)", "secenekler": ["تَنْسَ", "تَنْسَى", "تَنْسِي", "اِنْسَ"], "dogruIndeks": 0, "aciklama": "Nâkıs (تَنْسَى) meczum olunca ى düşer: لَا تَنْسَ!" },
+        { "id": "m17_g4_t07", "tip": "donusturme", "soru": "«خُذْ هٰذَا الطَّرِيقَ!» emrini olumsuza ('Bu yolu tutma/alma!') çevirin:", "secenekler": ["لَا تَأْخُذْ هٰذَا الطَّرِيقَ!", "لَا خُذْ هٰذَا الطَّرِيقَ!", "لَا تَأْخُذُ هٰذَا الطَّرِيقَ!", "لَمْ تَأْخُذْ هٰذَا الطَّرِيقَ!"], "dogruIndeks": 0, "aciklama": "خُذْ'un muzârisi تَأْخُذُ → nehîyde hemze geri gelir: لَا تَأْخُذْ!" },
+        { "id": "m17_g4_t08", "tip": "tr_ar", "soru": "'İkiniz acele etmeyin ve umutsuzluğa kapılmayın!' cümlesi hangisidir?", "secenekler": ["لَا تَتَسَرَّعَا وَلَا تَيْأَسَا!", "لَا تَتَسَرَّعَانِ وَلَا تَيْأَسَانِ!", "لَا تَتَسَرَّعُوا وَلَا تَيْأَسُوا!", "لَا تَتَسَرَّعْ وَلَا تَيْأَسْ!"], "dogruIndeks": 0, "aciklama": "İkil muhatap (أَنْتُمَا) → ن düşer: لَا تَتَسَرَّعَا وَلَا تَيْأَسَا!" },
+        { "id": "m17_g4_t09", "tip": "bosluk", "soru": "«يَا طَالِبَاتُ، لَا ___ عَنْ مُسَاعَدَةِ بَعْضِكُنَّ!» (تَتَوَقَّفْنَ)", "secenekler": ["تَتَوَقَّفْنَ", "تَتَوَقَّفُوا", "تَتَوَقَّفِي", "تَتَوَقَّفْ"], "dogruIndeks": 0, "aciklama": "أَنْتُنَّ (siz - K) → ن mebnîdir: لَا تَتَوَقَّفْنَ!" },
+        { "id": "m17_g4_t10", "tip": "bosluk", "soru": "«لَا تَمْشِ وَحْدَكَ لَيْلًا!» cümlesindeki «تَمْشِ» fiilinin cezm alâmeti nedir?", "secenekler": ["Sonundaki illet harfinin (ي) düşmesi", "Sükûn", "ن hazfi", "Kesra"], "dogruIndeks": 0, "aciklama": "تَمْشِي → لَا تَمْشِ (illet harfi ي düşmüştür!)." }
+      ]
+    },
+    {
+      "id": "m17_g5",
+      "baslik": "Günlük Hayatta Kibar Rica, İkram & Özel İsim-Fiil Emirler (تَفَضَّلْ، تَعَالَ، هَاتِ)",
+      "arBaslik": "أَسَالِيبُ الرَّجَاءِ الْمُهَذَّبِ وَأَسْمَاءُ أَفْعَالِ الْأَمْرِ (تَفَضَّلْ، تَعَالَ، هَاتِ)",
+      "mantik": "Arap kültüründe emir kipi kaba bir komut değil, doğru nezaket kelimeleriyle birleştiğinde çok zarif bir rica ve misafirperverlik dilidir! Birinden kibarca bir şey isterken emir kipinin yanına **`مِنْ فَضْلِكَ / مِنْ فَضْلِكِ`** (lütfen), **`لَوْ سَمَحْتَ / لَوْ سَمَحْتِ`** (müsaadenizle / lütfen) veya **`أَرْجُوكَ`** (rica ederim) eklenir. Ayrıca günlük Arapçanın kalbinde üç süper yıldız emir kelimesi vardır: (1) **`تَفَضَّلْ / تَفَضَّلِي / تَفَضَّلُوا`** ('Buyurun!' — otururken, girerken, ikram verirken, söz verirken her yerde!). (2) **`تَعَالَ / تَعَالَيْ / تَعَالَوْا`** ('Gel! / Gelin!' — dikkat: fethalı `تَعَالَ`dır, asla `تَعَالْ` veya `تَعَالِي` diye kesralı değil, fethalıdır!). (3) **`هَاتِ / هَاتِي / هَاتُوا`** ('Getir! / Ver!' — kesralı `هَاتِ`, Kur'an'da `قُلْ هَاتُوا بُرْهَانَكُمْ` = 'Delilinizi getirin!').",
+      "formul": "Emir + مِنْ فَضْلِكَ / لَوْ سَمَحْتَ (Kibar Rica) | تَفَضَّلْ (Buyur!) | تَعَالَ (Gel!) | هَاتِ (Getir!)",
+      "formulAr": "تَفَضَّلْ — تَفَضَّلِي — تَفَضَّلُوا  |  تَعَالَ — تَعَالَيْ — تَعَالَوْا  |  هَاتِ — هَاتِي — هَاتُوا",
+      "tablo": {
+        "baslik": "Kibar Rica & 3 Yıldız Günlük Emir Çekim Tablosu",
+        "sutunlar": ["Kalıp", "أَنْتَ (Sen - E)", "أَنْتِ (Sen - K)", "أَنْتُمْ (Siz)", "Kullanım Bağlamı"],
+        "satirlar": [
+          { "hucreler": ["Buyur / Buyurun!", "تَفَضَّلْ!", "تَفَضَّلِي!", "تَفَضَّلُوا!", "İkram, oturma, içeri davet, söz verme"], "ar": "تَفَضَّلْ — تَفَضَّلِي — تَفَضَّلُوا" },
+          { "hucreler": ["Gel / Gelin!", "تَعَالَ!", "تَعَالَيْ!", "تَعَالَوْا!", "Birini yanına çağırma (hep fethalı لَ!)"], "ar": "تَعَالَ — تَعَالَيْ — تَعَالَوْا" },
+          { "hucreler": ["Getir / Ver!", "هَاتِ!", "هَاتِي!", "هَاتُوا!", "Bir nesneyi veya delili isteme"], "ar": "هَاتِ — هَاتِي — هَاتُوا" },
+          { "hucreler": ["Lütfen!", "مِنْ فَضْلِكَ", "مِنْ فَضْلِكِ", "مِنْ فَضْلِكُمْ", "Her emri kibar ricaya dönüştürür"], "ar": "مِنْ فَضْلِكَ — مِنْ فَضْلِكِ — مِنْ فَضْلِكُمْ" },
+          { "hucreler": ["Müsaadenizle / Lütfen", "لَوْ سَمَحْتَ", "لَوْ سَمَحْتِ", "لَوْ سَمَحْتُمْ", "Yol tarifi, adres ve yardım isteme"], "ar": "لَوْ سَمَحْتَ — لَوْ سَمَحْتِ — لَوْ سَمَحْتُمْ" },
+          { "hucreler": ["Haydi! / Yürüyün!", "هَيَّا بِنَا!", "هَيَّا بِنَا!", "هَيَّا بِنَا!", "İsim-fiil emir (değişmez, herkese aynı!)"], "ar": "هَيَّا بِنَا!" }
+        ]
+      },
+      "trKiyas": "Çok ince bir Fasîh Arapça noktası: Halk lehçelerinde `تَعَالْ / تَعَالِي` sık duyulur ama Fasîh Arapçada `تَعَالَ` fiilinin `ل` harfi **her şahısta fethalıdır**: Erkeğe `تَعَالَ` (te‘âle), kadına `تَعَالَيْ` (te‘âley), çoğula `تَعَالَوْا` (te‘âlev)! Yine `هَاتِ` kelimesi de erkeğe kısa kesralı `هَاتِ` (hâti), kadına uzun `هَاتِي` (hâtî), çoğula `هَاتُوا` (hâtû) okunur! Bu ikisini kusursuz kullanan kişi Fasîh Arapçada hemen fark edilir!",
+      "sikHatalar": [
+        "Fasîh Arapçada تَعَالَ'nin sonunu sükûnlu okumak (✗ تَعَالْ → ✓ تَعَالَ — fethalı mebnîdir!).",
+        "Erkeğe 'Getir!' derken uzun ي ile هَاتِي yazmak (✗ يَا أَخِي هَاتِي الْقَلَمَ → ✓ يَا أَخِي هَاتِ الْقَلَمَ — erkeğe kısa kesra هَاتِ!).",
+        "Kadına 'Lütfen!' derken مِنْ فَضْلِكَ (eril) demek (✗ يَا أُخْتِي مِنْ فَضْلِكَ → ✓ يَا أُخْتِي مِنْ فَضْلِكِ!)."
+      ],
+      "ornekler": [
+        { "ar": "تَفَضَّلْ بِالْجُلُوسِ يَا أُسْتَاذُ، وَاشْرَبِ الْقَهْوَةَ!", "okunus": "Tefaddal bi'l-culûsi yâ ustâzu, veşrabi'l-kahvete!", "tr": "Buyurun oturun hocam ve kahvenizi için!", "not": "تَفَضَّلْ (misafirperverlik)" },
+        { "ar": "تَعَالَ مَعِي إِلَى الْمَكْتَبَةِ كَيْ نَخْتَارَ الْكُتُبَ!", "okunus": "Te‘âle me‘î ile'l-mektebeti key nahtâra'l-kutube!", "tr": "Kitapları seçmek için benimle kütüphaneye gel!", "not": "تَعَالَ (fethalı لَ!)" },
+        { "ar": "يَا طُلَّابُ، تَعَالَوْا إِلَى السَّاحَةِ وَهَاتُوا دَفَاتِرَكُمْ!", "okunus": "Yâ tullâbu, te‘âlev ile's-sâhati ve hâtû defâtirakum!", "tr": "Öğrenciler, bahçeye gelin ve defterlerinizi getirin!", "not": "تَعَالَوْا + هَاتُوا" },
+        { "ar": "لَوْ سَمَحْتِ يَا أُخْتِي، دُلِّينِي عَلَى طَرِيقِ الْمَحَطَّةِ مِنْ فَضْلِكِ!", "okunus": "Lev semahti yâ uhtî, dullînî ‘alâ tarîkı'l-mahattati min fadliki!", "tr": "Müsaadenizle hanımefendi, lütfen bana istasyonun yolunu gösterir misiniz!", "not": "لَوْ سَمَحْتِ + مِنْ فَضْلِكِ (dişil)" },
+        { "ar": "هَاتِ الْقَلَمَ الْأَزْرَقَ يَا سَامِي، وَلَا تَنْسَ الْمِسْطَرَةَ!", "okunus": "Hâti'l-kaleme'l-ezraka yâ Sâmî, ve lâ tense'l-mistarate!", "tr": "Mavi kalemi getir Sami ve cetveli unutma!", "not": "Erkeğe kısa kesra: هَاتِ" },
+        { "ar": "هَيَّا بِنَا نَخْرُجُ الْآنَ، فَالْجَوُّ مُعْتَدِلٌ وَجَمِيلٌ!", "okunus": "Heyyâ binâ nahrucu'l-âne, fe'l-cevvu mu‘tedilun ve cemîlun!", "tr": "Haydi şimdi çıkalım, zira hava ılıman ve güzel!", "not": "هَيَّا بِنَا (isim-fiil emir)" }
+      ],
+      "tatbikler": [
+        { "id": "m17_g5_t01", "tip": "bosluk", "soru": "«يَا أَخِي، ___ إِلَى هُنَا قَلِيلًا!» ('Buraya gel!' — Fasîh doğru yazılış)", "secenekler": ["تَعَالَ", "تَعَالْ", "تَعَالِي", "تَعَالُوا"], "dogruIndeks": 0, "aciklama": "Fasîh Arapçada erkeğe 'Gel!' fethalıdır: تَعَالَ!" },
+        { "id": "m17_g5_t02", "tip": "bosluk", "soru": "«يَا صَدِيقِي، ___ الْكِتَابَ مِنْ عَلَى الطَّاوِلَةِ!» ('Kitabı getir!' — eril tekil)", "secenekler": ["هَاتِ", "هَاتِي", "هَاتُوا", "هَاتَ"], "dogruIndeks": 0, "aciklama": "Erkeğe kısa kesra: هَاتِ! (Kadına هَاتِي, çoğula هَاتُوا)." },
+        { "id": "m17_g5_t03", "tip": "bosluk", "soru": "«يَا ضُيُوفَنَا الْكِرَامَ، ___ بِالدُّخُولِ!» ('Buyurun girin!' — çoğul)", "secenekler": ["تَفَضَّلُوا", "تَفَضَّلْ", "تَفَضَّلِي", "تَفَضَّلُونَ"], "dogruIndeks": 0, "aciklama": "Çoğul misafirlere 'Buyurun!': تَفَضَّلُوا!" },
+        { "id": "m17_g5_t04", "tip": "bosluk", "soru": "«يَا أُخْتِي، ___ مَعَنَا إِلَى الْمَعْرِضِ!» ('Bizimle gel!' — dişil tekil Fasîh)", "secenekler": ["تَعَالَيْ", "تَعَالَ", "تَعَالَوْا", "تَعَالْنَ"], "dogruIndeks": 0, "aciklama": "تَعَالَ'nin Fasîh dişil tekili (أَنْتِ): تَعَالَيْ (fethalı لَ + cezimli يْ)!" },
+        { "id": "m17_g5_t05", "tip": "tr_ar", "soru": "'Müsaadenizle hanımefendi, lütfen bana yolu gösterir misiniz?' ifadesinin girişi hangisidir?", "secenekler": ["لَوْ سَمَحْتِ يَا أُخْتِي، مِنْ فَضْلِكِ...", "لَوْ سَمَحْتَ يَا أُخْتِي، مِنْ فَضْلِكَ...", "لَوْ سَمَحْتُمْ يَا أُخْتِي...", "لَوْ سَمَحَ يَا أُخْتِي..."], "dogruIndeks": 0, "aciklama": "Kadına hitapta hem لَوْ سَمَحْتِ hem مِنْ فَضْلِكِ kesralı olur!" },
+        { "id": "m17_g5_t06", "tip": "bosluk", "soru": "«قُلْ ___ بُرْهَانَكُمْ إِنْ كُنْتُمْ صَادِقِينَ!» ('Delilinizi getirin!' — çoğul)", "secenekler": ["هَاتُوا", "هَاتِ", "هَاتِي", "هَاتُونَ"], "dogruIndeks": 0, "aciklama": "Çoğul eril 'Getirin!': هَاتُوا!" },
+        { "id": "m17_g5_t07", "tip": "hata", "soru": "«يَا طُلَّابُ، تَعَالُوا إِلَى الْمُخْتَبَرِ!» (Fethalı لَ yerine dammeli لُ okunursa) doğrusu nedir?", "secenekler": ["تَعَالَوْا (لَ daima fethalıdır: te‘âlev!)", "تَعَالِوا", "تَعَالْ", "تَعَالِ"], "dogruIndeks": 0, "aciklama": "تَعَالَ ailesinde ل harfi her şahısta fethalıdır: تَعَالَ / تَعَالَيْ / تَعَالَوْا!" },
+        { "id": "m17_g5_t08", "tip": "bosluk", "soru": "«هَيَّا بِنَا!» ifadesinin anlamı ve kullanım özelliği nedir?", "secenekler": ["'Haydi (gidelim/yapalım)!' — isim-fiil emirdir, şekli cinsiyete göre değişmez", "'Otur!' — sadece erkekler içindir", "'Sus!' — sadece kadınlar içindir", "'Bekle!' — mâzi fiildir"], "dogruIndeks": 0, "aciklama": "هَيَّا isim-fiil emirdir ve her bağlamda sabit kalır!" },
+        { "id": "m17_g5_t09", "tip": "bosluk", "soru": "«تَفَضَّلِي يَا أُمِّي، هٰذَا الشَّايُ السَّاخِنُ!» cümlesinde «تَفَضَّلِي» hangi şahsa göredir?", "secenekler": ["أَنْتِ (sen - dişil tekil)", "أَنْتَ (eril)", "أَنْتُمْ (çoğul)", "هُوَ"], "dogruIndeks": 0, "aciklama": "تَفَضَّلِي = 'Buyur (anneciğim / hanımefendi)!'." },
+        { "id": "m17_g5_t10", "tip": "tr_ar", "soru": "'Lütfen kapıyı kapat ve ışığı aç!' (أَنْتَ) cümlesinin doğru Arapçası hangisidir?", "secenekler": ["أَغْلِقِ الْبَابَ وَافْتَحِ النُّورَ مِنْ فَضْلِكَ!", "اِغْلِقْ الْبَابَ وَأَفْتَحْ النُّورَ!", "لَا تُغْلِقْ الْبَابَ وَافْتَحِ النُّورَ!", "أَغْلَقَ الْبَابَ وَفَتَحَ النُّورَ!"], "dogruIndeks": 0, "aciklama": "أَغْلِقْ (IV. bab) + اِفْتَحْ (vasıl kesra!) + مِنْ فَضْلِكَ!" }
+      ]
+    }
+  ],
+  "workshop": {
+    "motors": [
+      {
+        "id": "m17_mot1",
+        "baslik": "Kalıp 1: Sülâsî Vasıl Hemzesi Makinesi (اُ vs. اِ)",
+        "aciklama": "1. bab (اُ) ve 2./3./4. bab (اِ) emirlerini nesneleriyle birleştirip vasıl hemzesi harekesini pekiştirin.",
+        "slotlar": [
+          {
+            "etiket": "Emr-i Hâzır (اُ / اِ)",
+            "secenekler": [
+              { "ar": "اُكْتُبْ", "tr": "Yaz! (1. bab: ـُ)" },
+              { "ar": "اُدْخُلْ", "tr": "Gir! (1. bab: ـُ)" },
+              { "ar": "اِفْتَحْ", "tr": "Aç! (3. bab: ـَ → اِ)" },
+              { "ar": "اِقْرَأْ", "tr": "Oku! (3. bab: ـَ → اِ)" },
+              { "ar": "اِجْلِسْ", "tr": "Otur! (2. bab: ـِ → اِ)" },
+              { "ar": "اِسْمَعْ", "tr": "Dinle! (4. bab: ـَ → اِ)" }
+            ]
+          },
+          {
+            "etiket": "Tamamlayıcı & Nezaket",
+            "secenekler": [
+              { "ar": "هٰذَا النَّصَّ بِخَطٍّ جَمِيلٍ مِنْ فَضْلِكَ!", "tr": "lütfen bu metni güzel bir yazıyla!" },
+              { "ar": "الْقَاعَةَ بِهُدُوءٍ قَبْلَ بَدْءِ الدَّرْسِ!", "tr": "ders başlamadan önce salona sakinlikle!" },
+              { "ar": "النَّافِذَةَ لِيَدْخُلَ الْهَوَاءُ النَّقِيُّ!", "tr": "temiz hava girmesi için pencereyi!" },
+              { "ar": "السُّؤَالَ مَرَّتَيْنِ قَبْلَ الْإِجَابَةِ!", "tr": "cevaplamadan önce soruyu iki kez!" },
+              { "ar": "فِي الصَّفِّ الْأَوَّلِ قَرِيبًا مِنَ السَّبُّورَةِ!", "tr": "tahtaya yakın ilk sırada!" },
+              { "ar": "نَصِيحَةَ أُسْتَاذِكَ بِاهْتِمَامٍ وَتَرْكِيزٍ!", "tr": "hocanın nasihatini ilgi ve odaklanmayla!" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m17_mot2",
+        "baslik": "Kalıp 2: 6 Muhatap Şahısta Emir Çekim Motoru",
+        "aciklama": "Hitap ettiğiniz kişiyi/grubu seçip doğru şahıs ekli emirle eşleştirin.",
+        "slotlar": [
+          {
+            "etiket": "Hitap (Nidâ)",
+            "secenekler": [
+              { "ar": "يَا أَحْمَدُ،", "tr": "Ey Ahmed (أَنْتَ)," },
+              { "ar": "يَا مَرْيَمُ،", "tr": "Ey Meryem (أَنْتِ)," },
+              { "ar": "يَا صَدِيقَيَّ،", "tr": "Ey iki arkadaşım (أَنْتُمَا)," },
+              { "ar": "يَا أُخْتَيَّ،", "tr": "Ey iki kız kardeşim (أَنْتُمَا)," },
+              { "ar": "يَا طُلَّابُ،", "tr": "Ey öğrenciler (أَنْتُمْ)," },
+              { "ar": "يَا طَالِبَاتُ،", "tr": "Ey kız öğrenciler (أَنْتُنَّ)," }
+            ]
+          },
+          {
+            "etiket": "Şahsa Uyumlu Emir",
+            "secenekler": [
+              { "ar": "اِجْتَهِدْ فِي دُرُوسِكَ وَاكْتُبْ وَاجِبَكَ!", "tr": "derslerinde çalış ve ödevini yaz! (E)" },
+              { "ar": "اِجْتَهِدِي فِي دُرُوسِكِ وَاكْتُبِي وَاجِبَكِ!", "tr": "derslerinde çalış ve ödevini yaz! (K)" },
+              { "ar": "اِجْتَهِدَا فِي دُرُوسِكُمَا وَاكْتُبَا وَاجِبَكُمَا!", "tr": "ikiniz derslerinizde çalışın ve ödevinizi yazın!" },
+              { "ar": "اِفْتَحَا كِتَابَيْكُمَا وَاقْرَآ الصَّفْحَةَ الْأُولَى!", "tr": "ikiniz kitaplarınızı açın ve ilk sayfayı okuyun!" },
+              { "ar": "اِجْتَهِدُوا فِي دُرُوسِكُمْ وَاكْتُبُوا وَاجِبَاتِكُمْ!", "tr": "derslerinizde çalışın ve ödevlerinizi yazın! (Ç-E)" },
+              { "ar": "اِجْتَهِدْنَ فِي دُرُوسِكُنَّ وَاكْتُبْنَ وَاجِبَاتِكُنَّ!", "tr": "derslerinizde çalışın ve ödevlerinizi yazın! (Ç-K)" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m17_mot3",
+        "baslik": "Kalıp 3: Özel Kısa Emirler (قُلْ، كُنْ، خُذْ، قِفْ، أَعْطِ، أَغْلِقْ)",
+        "aciklama": "En sık kullanılan özel ecvef, misâl, mehmûz, nâkıs ve IV. bab emirleriyle pratik cümleler kurun.",
+        "slotlar": [
+          {
+            "etiket": "Özel Emir Fiili",
+            "secenekler": [
+              { "ar": "قُلْ", "tr": "Söyle! (Ecvef)" },
+              { "ar": "كُنْ", "tr": "Ol! (Ecvef)" },
+              { "ar": "خُذْ", "tr": "Al! (Mehmûz)" },
+              { "ar": "ضَعْ", "tr": "Koy! (Misâl)" },
+              { "ar": "أَعْطِنِي", "tr": "Bana ver! (Nâkıs IV)" },
+              { "ar": "أَغْلِقْ", "tr": "Kapat! (IV. Bab)" }
+            ]
+          },
+          {
+            "etiket": "Bağlam Tamamlayıcı",
+            "secenekler": [
+              { "ar": "الْحَقِيقَةَ بِشَجَاعَةٍ وَلَا تَخَفْ!", "tr": "gerçeği cesaretle ve korkma!" },
+              { "ar": "صَبُورًا وَمُتَفَائِلًا فِي كُلِّ الظُّرُوفِ!", "tr": "her koşulda sabırlı ve iyimser!" },
+              { "ar": "مِظَلَّتَكَ مَعَكَ فَالسَّمَاءُ غَائِمَةٌ!", "tr": "şemsiyeni yanına, zira gökyüzü bulutlu!" },
+              { "ar": "الْمَفَاتِيحَ عَلَى الطَّاوِلَةِ بِجَانِبِ الْبَابِ!", "tr": "anahtarları kapının yanındaki masaya!" },
+              { "ar": "الْقَلَمَ الْأَحْمَرَ لَحْظَةً مِنْ فَضْلِكَ!", "tr": "lütfen bir anlığına kırmızı kalemi!" },
+              { "ar": "النَّافِذَةَ قَبْلَ أَنْ تَخْرُجَ مِنَ الْغُرْفَةِ!", "tr": "odadan çıkmadan önce pencereyi!" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m17_mot4",
+        "baslik": "Kalıp 4: Nehy-i Hâzır (لَا تَفْعَلْ!) — Olumlu Emir + Yasaklama Çiftleri",
+        "aciklama": "Her bir 'Şunu yap!' tavsiyesini 'Şunu yapma!' uyarısıyla eşleştirin.",
+        "slotlar": [
+          {
+            "etiket": "Olumlu Emir",
+            "secenekler": [
+              { "ar": "اِصْبِرْ فِي عَمَلِكَ", "tr": "İşinde sabırlı ol" },
+              { "ar": "كُنْ صَادِقًا دَائِمًا", "tr": "Daima doğru sözlü ol" },
+              { "ar": "اِسْتَعِدَّ لِلِامْتِحَانِ مُبَكِّرًا", "tr": "Sınava erkenden hazırlan" },
+              { "ar": "اِسْتَمِعْ إِلَى النَّصِيحَةِ", "tr": "Nasihati dinle" },
+              { "ar": "سِرْ بِحَذَرٍ فِي الطَّرِيقِ", "tr": "Yolda dikkatli yürü" },
+              { "ar": "خُذْ قِسْطًا كَافِيًا مِنَ الرَّاحَةِ", "tr": "Yeterli kadar dinlen" }
+            ]
+          },
+          {
+            "etiket": "Nehy-i Hâzır (وَلَا تَـ...)",
+            "secenekler": [
+              { "ar": "وَلَا تَتَسَرَّعْ فِي النَّتَائِجِ!", "tr": "ve sonuçlarda acele etme!" },
+              { "ar": "وَلَا تَقُلْ إِلَّا الْحَقَّ!", "tr": "ve haktan başkasını söyleme!" },
+              { "ar": "وَلَا تُؤَجِّلْ مُرَاجَعَتَكَ إِلَى آخِرِ لَيْلَةٍ!", "tr": "ve tekrarını son geceye erteleme!" },
+              { "ar": "وَلَا تَغْضَبْ مِنَ النَّقْدِ الْبَنَّاءِ!", "tr": "ve yapıcı eleştiriye öfkelenme!" },
+              { "ar": "وَلَا تَمْشِ وَأَنْتَ تَنْظُرُ إِلَى الْهَاتِفِ!", "tr": "ve telefona bakarak yürüme!" },
+              { "ar": "وَلَا تَسْهَرْ إِلَى مُنْتَصَفِ اللَّيْلِ!", "tr": "ve gece yarısına kadar uykusuz kalma!" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m17_mot5",
+        "baslik": "Kalıp 5: Kibar Rica & Yol Tarifi Motoru (لَوْ سَمَحْتَ / مِنْ فَضْلِكَ)",
+        "aciklama": "Günlük şehir yaşamında nazik ricalar ve yol tarifleri üretin.",
+        "slotlar": [
+          {
+            "etiket": "Nezaket Girişi",
+            "secenekler": [
+              { "ar": "لَوْ سَمَحْتَ،", "tr": "Müsaadenizle (E)," },
+              { "ar": "لَوْ سَمَحْتِ،", "tr": "Müsaadenizle (K)," },
+              { "ar": "مِنْ فَضْلِكَ،", "tr": "Lütfen (E)," },
+              { "ar": "مِنْ فَضْلِكِ،", "tr": "Lütfen (K)," },
+              { "ar": "تَفَضَّلْ يَا أَخِي،", "tr": "Buyurun kardeşim (E)," },
+              { "ar": "تَفَضَّلِي يَا أُخْتِي،", "tr": "Buyurun hanımefendi (K)," }
+            ]
+          },
+          {
+            "etiket": "Yönerge / Rica",
+            "secenekler": [
+              { "ar": "سِرْ مُبَاشَرَةً ثُمَّ انْعَطِفْ يَمِينًا!", "tr": "dümdüz git, sonra sağa dön!" },
+              { "ar": "اُعْبُرِ الْجِسْرَ وَسَتَجِدُ الْمَكْتَبَةَ يَسَارًا!", "tr": "köprüyü geç, kütüphaneyi solda bulacaksın!" },
+              { "ar": "أَعِدِ الْجُمْلَةَ بِبُطْءٍ لِأَفْهَمَهَا جَيِّدًا!", "tr": "iyice anlamam için cümleyi yavaşça tekrarla!" },
+              { "ar": "اِكْتُبِي لِي الْعُنْوَانَ عَلَى هٰذِهِ الْوَرَقَةِ!", "tr": "bana adresi bu kâğıda yaz (K)!" },
+              { "ar": "اِجْلِسْ هُنَا وَاشْرَبْ كُوبًا مِنَ الشَّايِ!", "tr": "buraya otur ve bir bardak çay iç!" },
+              { "ar": "خُذِي هٰذَا الْمَقْعَدَ الْقَرِيبَ مِنَ النَّافِذَةِ!", "tr": "pencereye yakın bu koltuğu al (K)!" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m17_mot6",
+        "baslik": "Kalıp 6: تَعَالَ / هَاتِ / هَيَّا بِنَا Canlı Konuşma Motoru",
+        "aciklama": "En dinamik günlük emir kalıplarıyla doğal konuşma cümleleri üretin.",
+        "slotlar": [
+          {
+            "etiket": "Çağrı Kalıbı",
+            "secenekler": [
+              { "ar": "تَعَالَ يَا أَخِي،", "tr": "Gel kardeşim (E)," },
+              { "ar": "تَعَالَيْ يَا أُخْتِي،", "tr": "Gel kız kardeşim (K)," },
+              { "ar": "تَعَالَوْا يَا أَصْدِقَائِي،", "tr": "Gelin arkadaşlarım (Ç)," },
+              { "ar": "هَاتِ يَا سَامِي", "tr": "Getir Sami (E)" },
+              { "ar": "هَاتُوا يَا طُلَّابُ", "tr": "Getirin öğrenciler (Ç)" },
+              { "ar": "هَيَّا بِنَا", "tr": "Haydi" }
+            ]
+          },
+          {
+            "etiket": "Devam İfadesi",
+            "secenekler": [
+              { "ar": "اُنْظُرْ إِلَى هٰذِهِ الصُّورَةِ التَّارِيخِيَّةِ!", "tr": "bu tarihî fotoğrafa bak!" },
+              { "ar": "ذُوقِي هٰذِهِ الْحَلْوَى التَّقْلِيدِيَّةَ!", "tr": "bu geleneksel tatlının tadına bak (K)!" },
+              { "ar": "شَاهِدُوا مَعِي مَنْظَرَ غُرُوبِ الشَّمْسِ!", "tr": "benimle gün batımı manzarasını izleyin!" },
+              { "ar": "الْمُعْجَمَ الْعَرَبِيَّ مِنَ الرَّفِّ الْأَعْلَى!", "tr": "en üst raftan Arapça sözlüğü!" },
+              { "ar": "أَفْكَارَكُمُ الْجَدِيدَةَ لِلْمَشْرُوعِ الْقَادِمِ!", "tr": "gelecek proje için yeni fikirlerinizi!" },
+              { "ar": "نَبْدَأُ الرِّحْلَةَ قَبْلَ أَنْ تَشْتَدَّ الْحَرَارَةُ!", "tr": "sıcak artmadan önce yolculuğa başlayalım!" }
+            ]
+          }
+        ]
+      }
+    ],
+    "merdivenler": [
+      {
+        "id": "m17_lad1",
+        "baslik": "A1 → B2 Merdiveni: Sülâsî Emirle Etkili Yönerge İnşası",
+        "adimlar": [
+          { "seviye": "A1", "ar": "اِقْرَأِ الْكِتَابَ!", "okunus": "İkrai'l-kitâbe!", "tr": "Kitabı oku!", "ekleme": "Sülâsî vasıl hemzesi (اِ)" },
+          { "seviye": "A1+", "ar": "اِقْرَأِ النَّصَّ جَيِّدًا وَاكْتُبِ الْكَلِمَاتِ الْجَدِيدَةَ!", "okunus": "İkrai'n-nassa ceyyiden vektubi'l-kelimâti'l-cedîdete!", "tr": "Metni iyice oku ve yeni kelimeleri yaz!", "ekleme": "Çift emir + geçişte vasıl!" },
+          { "seviye": "A2", "ar": "اِقْرَؤُوا التَّعْلِيمَاتِ بِدِقَّةٍ قَبْلَ أَنْ تَبْدَؤُوا، وَلَا تَتَسَرَّعُوا فِي الْإِجَابَةِ!", "okunus": "İkrau't-ta‘lîmâti bi-dıkkatin kable en tebdeû, ve lâ teteserra‘û fi'l-icâbeti!", "tr": "Başlamadan önce yönergeleri dikkatle okuyun ve cevaplamada acele etmeyin!", "ekleme": "Çoğul emir + أَنْ nasb + çoğul nehiy" },
+          { "seviye": "B1", "ar": "اِقْرَأْ كُلَّ يَوْمٍ صَفَحَاتٍ مُخْتَارَةً مِنَ الْأَدَبِ الْعَرَبِيِّ، وَلَا تَتْرُكِ الْمُعْجَمَ بَعِيدًا عَنْكَ فَتَزْدَادَ ثَرْوَتُكَ اللُّغَوِيَّةُ!", "okunus": "İkra' kulle yevmin safahâtin muhtâratin mine'l-edebi'l-‘arabiyyi, ve lâ tetruki'l-mu‘ceme ba‘îden ‘anke fe-tezdâde servetuke'l-lugaviyyetu!", "tr": "Her gün Arap edebiyatından seçkin sayfalar oku ve sözlüğü kendinden uzak tutma ki kelime hazinen artsın!", "ekleme": "Emir + Nehiy + فَاءُ السَّبَبِيَّةِ!" },
+          { "seviye": "B2", "ar": "تَأَمَّلْ فِي مَعَانِي النُّصُوصِ بِعُمْقٍ، وَقَارِنْ بَيْنَ الْأَسَالِيبِ الْمُخْتَلِفَةِ، وَلَا تَكْتَفِ بِالْحِفْظِ السَّطْحِيِّ دُونَ فَهْمٍ وَتَطْبِيقٍ!", "okunus": "Teemmel fî me‘âni'n-nusûsi bi-‘umkın, ve kârin beyne'l-esâlîbi'l-muhtelifeti, ve lâ tektefi bi'l-hıfzi's-sathiyyi dûne fehmin ve tatbîkın!", "tr": "Metinlerin anlamları üzerine derinlemesine düşün, farklı üslupları karşılaştır ve anlama ve uygulama olmadan yüzeysel ezberle yetinme!", "ekleme": "Mezîd emirler (تَأَمَّلْ / قَارِنْ) + nâkıs nehiy (لَا تَكْتَفِ)!" }
+        ]
+      },
+      {
+        "id": "m17_lad2",
+        "baslik": "A1 → B2 Merdiveni: Ecvef & Nâkıs Özel Emirlerle Hayat Felsefesi",
+        "adimlar": [
+          { "seviye": "A1", "ar": "قُلِ الصِّدْقَ!", "okunus": "Kuli's-sıdka!", "tr": "Doğruyu söyle!", "ekleme": "Ecvef emir: قُلْ" },
+          { "seviye": "A1+", "ar": "قُلِ الصِّدْقَ وَكُنْ أَمِينًا دَائِمًا!", "okunus": "Kuli's-sıdka ve kun emînen dâimen!", "tr": "Doğruyu söyle ve daima güvenilir ol!", "ekleme": "قُلْ + كُنْ" },
+          { "seviye": "A2", "ar": "كُونُوا صَادِقِينَ فِي أَقْوَالِكُمْ، وَلَا تَقُولُوا إِلَّا مَا تَعْلَمُونَ!", "okunus": "Kûnû sâdikîne fî akvâlikum, ve lâ tekûlû illâ mâ ta‘lemûne!", "tr": "Sözlerinizde doğru olun ve bildiğinizden başkasını söylemeyin!", "ekleme": "Çoğulda و dönüşü: كُونُوا / لَا تَقُولُوا" },
+          { "seviye": "B1", "ar": "خُذِ الْعِبْرَةَ مِنْ تَجَارِبِ الْمَاضِي، وَامْشِ نَحْوَ الْمُسْتَقْبَلِ بِثِقَةٍ، وَلَا تَنْسَ شُكْرَ مَنْ سَاعَدَكَ!", "okunus": "Huzi'l-‘ibrata min tecâribi'l-mâdî, vemşi nahve'l-mustakbeli bi-sikatin, ve lâ tense şukra men sâ‘adeke!", "tr": "Geçmişin tecrübelerinden ibret al, geleceğe güvenle yürü ve sana yardım edene teşekkür etmeyi unutma!", "ekleme": "خُذْ (mehmûz) + اِمْشِ (nâkıs) + لَا تَنْسَ (nâkıs nehiy)" },
+          { "seviye": "B2", "ar": "اُدْعُ إِلَى الْخَيْرِ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ، وَأَعْطِ كُلَّ ذِي حَقٍّ حَقَّهُ، وَلَا تَخْشَ فِي الْحَقِّ لَوْمَةَ لَائِمٍ!", "okunus": "Ud‘u ile'l-hayri bi'l-hikmeti ve'l-mev‘izati'l-haseneti, ve a‘tı kulle zî hakkın hakkahu, ve lâ tahşe fi'l-hakkı levmete lâimin!", "tr": "Hikmet ve güzel öğütle hayra davet et, her hak sahibine hakkını ver ve hak yolunda kınayanın kınamasından korkma!", "ekleme": "اُدْعُ + أَعْطِ + ذِي (Esmâ-i Hamse) + لَا تَخْشَ (3 nâkıs)!" }
+        ]
+      },
+      {
+        "id": "m17_lad3",
+        "baslik": "A1 → B2 Merdiveni: Misafirperverlik ve Kibar İletişim",
+        "adimlar": [
+          { "seviye": "A1", "ar": "تَفَضَّلْ وَاجْلِسْ!", "okunus": "Tefaddal veclis!", "tr": "Buyur otur!", "ekleme": "تَفَضَّلْ" },
+          { "seviye": "A1+", "ar": "تَفَضَّلِي يَا خَالَتِي، اِجْلِسِي وَاشْرَبِي الشَّايَ!", "okunus": "Tefaddalî yâ hâletî, iclisî veşrabi'ş-şâye!", "tr": "Buyur teyzeciğim, otur ve çay iç!", "ekleme": "أَنْتِ dişil nezaket" },
+          { "seviye": "A2", "ar": "تَعَالَوْا يَا أَصْدِقَائِي، تَفَضَّلُوا بِالدُّخُولِ، فَالْبَيْتُ بَيْتُكُمْ!", "okunus": "Te‘âlev yâ esdikâî, tefaddalû bi'd-duhûli, fe'l-beytu beytukum!", "tr": "Gelin arkadaşlarım, buyurun içeri girin, ev sizin eviniz!", "ekleme": "تَعَالَوْا + تَفَضَّلُوا" },
+          { "seviye": "B1", "ar": "لَوْ سَمَحْتَ يَا أَخِي، أَعْطِنِي دَقِيقَةً مِنْ وَقْتِكَ وَدُلَّنِي عَلَى أَقْرَبِ مَحَطَّةِ مِتْرُو مِنْ فَضْلِكَ!", "okunus": "Lev semahte yâ ahî, a‘tınî dakîkaten min vaktike ve dullenî ‘alâ akrabi mahattati mitrû min fadlike!", "tr": "Müsaadenizle kardeşim, vaktinizden bir dakika ayırıp lütfen bana en yakın metro istasyonunu gösterir misiniz!", "ekleme": "لَوْ سَمَحْتَ + أَعْطِنِي + دُلَّنِي (muzaaf emir!)" },
+          { "seviye": "B2", "ar": "تَفَضَّلُوا بِتَقْدِيمِ مُقْتَرَحَاتِكُمُ الْعِلْمِيَّةِ، وَهَاتُوا مَا لَدَيْكُمْ مِنْ أَدِلَّةٍ وَنَمَاذِجَ، وَلَا تَتَرَدَّدُوا فِي طَرْحِ أَيِّ سُؤَالٍ!", "okunus": "Tefaddalû bi-takdîmi mukterahâtikumu'l-‘ilmiyyeti, ve hâtû mâ ledeykum min edilletin ve nemâzice, ve lâ tetereddedû fî tarhi eyyi suâlin!", "tr": "Bilimsel önerilerinizi sunmaya buyurun, elinizdeki kanıt ve modelleri getirin ve herhangi bir soru sormakta tereddüt etmeyin!", "ekleme": "Akademik konferans moderatör üslubu!" }
+        ]
+      },
+      {
+        "id": "m17_lad4",
+        "baslik": "A1 → B2 Merdiveni: Kadın Muhataba (أَنْتِ / أَنْتُنَّ) ile Motivasyon",
+        "adimlar": [
+          { "seviye": "A1", "ar": "اِقْرَئِي يَا أُخْتِي!", "okunus": "İkraî yâ uhtî!", "tr": "Oku kız kardeşim!", "ekleme": "أَنْتِ emir" },
+          { "seviye": "A1+", "ar": "لَا تَخَافِي، أَنْتِ ذَكِيَّةٌ وَقَادِرَةٌ!", "okunus": "Lâ tehâfî, enti zekiyyetun ve kâdiratun!", "tr": "Korkma (K), sen zeki ve yeteneklisin!", "ekleme": "أَنْتِ ecvef nehiy (ا geri geldi!)" },
+          { "seviye": "A2", "ar": "يَا طَالِبَاتُ، تَعَاوَنَّ فِي الْبَحْثِ وَلَا تَتَوَقَّفْنَ عَنِ الْمُحَاوَلَةِ!", "okunus": "Yâ tâlibâtu, te‘âvenne fi'l-bahsi ve lâ tetevakkafne ‘ani'l-muhâveleti!", "tr": "Kız öğrenciler, araştırmada yardımlaşın ve denemekten vazgeçmeyin!", "ekleme": "أَنْتُنَّ emir & nehiy" },
+          { "seviye": "B1", "ar": "يَا أُخْتِي الْعَزِيزَةَ، كُونِي وَاثِقَةً بِنَفْسِكِ، وَتَعَالَيْ نُحَضِّرُ الْعَرْضَ مَعًا وَلَا تَقْلَقِي أَبَدًا!", "okunus": "Yâ uhti'l-‘azîzete, kûnî vâsikaten bi-nefsiki, ve te‘âley nuhaddiru'l-‘arda me‘an ve lâ taklakî ebeden!", "tr": "Sevgili kız kardeşim, kendine güven, gel sunumu birlikte hazırlayalım ve asla endişelenme!", "ekleme": "كُونِي + تَعَالَيْ + لَا تَقْلَقِي!" },
+          { "seviye": "B2", "ar": "يَا بَاحِثَاتُ، وَاصِلْنَ إِبْدَاعَكُنَّ الْعِلْمِيَّ، وَأَرْسِلْنَ أَبْحَاثَكُنَّ إِلَى الْمَجَلَّاتِ الدَّوْلِيَّةِ، وَلَا تَسْمَحْنَ لِلْعَقَبَاتِ أَنْ تُوقِفَ طُمُوحَكُنَّ!", "okunus": "Yâ bâhisâtu, vâsılne ibdâ‘akunne'l-‘ilmiyye, ve ersilne ebhâsekunne ile'l-mecellâti'd-devliyyeti, ve lâ tesmahne li'l-‘akabâti en tûkıfe tumûhakunne!", "tr": "Kadın araştırmacılar, bilimsel üretkenliğinizi sürdürün, araştırmalarınızı uluslararası dergilere gönderin ve engellerin idealinizi durdurmasına izin vermeyin!", "ekleme": "أَنْتُنَّ + IV. bab (أَرْسِلْنَ) + أَنْ nasb!" }
+        ]
+      }
+    ],
+    "bloklar": [
+      { "id": "m17_b01", "hedefAr": "اِفْتَحِ النَّافِذَةَ مِنْ فَضْلِكَ", "tr": "Lütfen pencereyi aç.", "karisik": ["فَضْلِكَ", "النَّافِذَةَ", "اِفْتَحِ", "مِنْ"] },
+      { "id": "m17_b02", "hedefAr": "اُدْخُلِ الْغُرْفَةَ وَاكْتُبِ الْمُلَاحَظَاتِ", "tr": "Odaya gir ve notları yaz.", "karisik": ["الْمُلَاحَظَاتِ", "وَاكْتُبِ", "اُدْخُلِ", "الْغُرْفَةَ"] },
+      { "id": "m17_b03", "hedefAr": "قُلِ الصِّدْقَ وَكُنْ أَمِينًا دَائِمًا", "tr": "Doğruyu söyle ve daima güvenilir ol.", "karisik": ["دَائِمًا", "أَمِينًا", "قُلِ", "وَكُنْ", "الصِّدْقَ"] },
+      { "id": "m17_b04", "hedefAr": "خُذْ هٰذَا الْكِتَابَ وَضَعْهُ هُنَا", "tr": "Bu kitabı al ve buraya koy.", "karisik": ["هُنَا", "الْكِتَابَ", "خُذْ", "وَضَعْهُ", "هٰذَا"] },
+      { "id": "m17_b05", "hedefAr": "أَغْلِقِ الْبَابَ وَأَرْسِلِ الرِّسَالَةَ الْآنَ", "tr": "Kapıyı kapat ve mesajı şimdi gönder.", "karisik": ["الْآنَ", "الرِّسَالَةَ", "أَغْلِقِ", "وَأَرْسِلِ", "الْبَابَ"] },
+      { "id": "m17_b06", "hedefAr": "لَا تَحْزَنْ إِنَّ اللّٰهَ مَعَنَا", "tr": "Üzülme, şüphesiz Allah bizimledir.", "karisik": ["مَعَنَا", "اللّٰهَ", "تَحْزَنْ", "إِنَّ", "لَا"] },
+      { "id": "m17_b07", "hedefAr": "لَا تَخَفْ وَلَا تَقْلَقْ يَا صَدِيقِي", "tr": "Korkma ve endişelenme arkadaşım.", "karisik": ["صَدِيقِي", "وَلَا", "تَخَفْ", "يَا", "تَقْلَقْ", "لَا"] },
+      { "id": "m17_b08", "hedefAr": "لَا تُؤَجِّلْ عَمَلَ الْيَوْمِ إِلَى الْغَدِ", "tr": "Bugünün işini yarına erteleme.", "karisik": ["الْغَدِ", "الْيَوْمِ", "تُؤَجِّلْ", "إِلَى", "عَمَلَ", "لَا"] },
+      { "id": "m17_b09", "hedefAr": "يَا طُلَّابُ اِفْتَحُوا كُتُبَكُمْ وَاقْرَؤُوا", "tr": "Öğrenciler, kitaplarınızı açın ve okuyun.", "karisik": ["وَاقْرَؤُوا", "كُتُبَكُمْ", "يَا", "اِفْتَحُوا", "طُلَّابُ"] },
+      { "id": "m17_b10", "hedefAr": "يَا مَرْيَمُ اِقْرَئِي الصَّفْحَةَ الْأُولَى", "tr": "Meryem, ilk sayfayı oku.", "karisik": ["الْأُولَى", "اِقْرَئِي", "يَا", "الصَّفْحَةَ", "مَرْيَمُ"] },
+      { "id": "m17_b11", "hedefAr": "يَا طَالِبَاتُ اُكْتُبْنَ الْمُلَخَّصَ الْآنَ", "tr": "Kız öğrenciler, özeti şimdi yazın.", "karisik": ["الْآنَ", "الْمُلَخَّصَ", "يَا", "اُكْتُبْنَ", "طَالِبَاتُ"] },
+      { "id": "m17_b12", "hedefAr": "تَعَالَ مَعِي إِلَى الْمَكْتَبَةِ الْيَوْمَ", "tr": "Bugün benimle kütüphaneye gel.", "karisik": ["الْيَوْمَ", "الْمَكْتَبَةِ", "تَعَالَ", "إِلَى", "مَعِي"] },
+      { "id": "m17_b13", "hedefAr": "هَاتِ الْقَلَمَ الْأَزْرَقَ مِنْ فَضْلِكَ", "tr": "Lütfen mavi kalemi getir.", "karisik": ["فَضْلِكَ", "الْأَزْرَقَ", "هَاتِ", "مِنْ", "الْقَلَمَ"] },
+      { "id": "m17_b14", "hedefAr": "تَفَضَّلُوا بِالْجُلُوسِ وَاشْرَبُوا الشَّايَ", "tr": "Buyurun oturun ve çay için.", "karisik": ["الشَّايَ", "وَاشْرَبُوا", "تَفَضَّلُوا", "بِالْجُلُوسِ"] },
+      { "id": "m17_b15", "hedefAr": "لَا تَنْسَ مِفْتَاحَ الْبَيْتِ قَبْلَ الْخُرُوجِ", "tr": "Çıkmadan önce evin anahtarını unutma.", "karisik": ["الْخُرُوجِ", "الْبَيْتِ", "تَنْسَ", "قَبْلَ", "مِفْتَاحَ", "لَا"] }
+    ]
+  },
+  "readings": [
+    {
+      "id": "m17_r1",
+      "baslik": "Bilge Babanın Üniversiteye Giden Oğluna Mektubu",
+      "arBaslik": "وَصِيَّةُ أَبٍ حَكِيمٍ لِابْنِهِ الْمُسَافِرِ إِلَى الْجَامِعَةِ",
+      "seviye": "A2",
+      "paragraflar": [
+        {
+          "ar": "يَا بُنَيَّ الْعَزِيزَ! أَنْتَ تَبْدَأُ الْيَوْمَ مَرْحَلَةً جَدِيدَةً فِي حَيَاتِكَ الْجَامِعِيَّةِ. اِسْتَمِعْ إِلَى هٰذِهِ الْوَصَايَا الْقَلِيلَةِ وَاحْفَظْهَا فِي قَلْبِكَ! أَوَّلًا: اِحْتَرِمْ وَقْتَكَ، وَاسْتَيْقِظْ مُبَكِّرًا، وَلَا تُضَيِّعْ سَاعَاتِ شَبَابِكَ فِيمَا لَا يَنْفَعُ!",
+          "okunus": "Yâ buneyye'l-‘azîze! Ente tebdeu'l-yevme merhaleten cedîdeten fî hayâtike'l-câmi‘iyyeti. İstemi‘ ilâ hâzihi'l-vasâya'l-kalîleti vahfazhâ fî kalbike! Evvelen: ihterim vakteke, vesteykız mubekkiran, ve lâ tudayyi‘ sâ‘âti şebâbike fîmâ lâ yenfe‘u!",
+          "tr": "Sevgili oğlum! Bugün üniversite hayatında yeni bir döneme başlıyorsun. Bu birkaç öğüdü dinle ve onları kalbinde sakla! İlk olarak: Zamanına saygı duy, erken uyan ve gençliğinin saatlerini faydasız şeylerde harcama!",
+          "analiz": [
+            { "kelime": "اِسْتَمِعْ / اِحْفَظْهَا", "kok": "س م ع", "gramer": "Vasıl hemzeli emirler (kesra: اِ)", "tr": "dinle / onu sakla" },
+            { "kelime": "وَلَا تُضَيِّعْ", "kok": "ض ي ع", "gramer": "Nehy-i Hâzır (sükûn!)", "tr": "ve zayi etme!" }
+          ]
+        },
+        {
+          "ar": "ثَانِيًا: كُنْ صَادِقًا مَعَ نَفْسِكَ وَمَعَ النَّاسِ، وَقُلِ الْحَقَّ دَائِمًا وَلَا تَخَفْ! صَاحِبْ أَصْدِقَاءَ صَالِحِينَ يُعِينُونَكَ عَلَى الْخَيْرِ وَالتَّفَوُّقِ، وَابْتَعِدْ عَنْ كُلِّ مَنْ يُثَبِّطُ عَزِيمَتَكَ.",
+          "okunus": "Sâniyen: kun sâdikan me‘a nefsike ve me‘a'n-nâsi, ve kuli'l-hakka dâimen ve lâ tehaf! Sâhib esdikâe sâlihîne yu‘înûneke ‘ale'l-hayri ve't-tefevvukı, vebte‘id ‘an kulli men yusebbitu ‘azîmeteke.",
+          "tr": "İkinci olarak: Kendine ve insanlara karşı dürüst ol, daima doğruyu söyle ve korkma! Seni hayra ve üstün başarıya yönlendiren salih dostlarla arkadaş ol ve azmini kıran herkesten uzak dur.",
+          "analiz": [
+            { "kelime": "كُنْ / قُلِ / لَا تَخَفْ", "kok": "ك و ن", "gramer": "Üç ecvef (و/ا düşmüş!): كُنْ، قُلْ، لَا تَخَفْ!", "tr": "ol / söyle / korkma" },
+            { "kelime": "صَاحِبْ / اِبْتَعِدْ", "kok": "ص ح ب", "gramer": "III. bab hemzesiz emir + VIII. bab vasıl emir", "tr": "arkadaş ol / uzak dur" }
+          ]
+        },
+        {
+          "ar": "ثَالِثًا: اِقْرَأْ كَثِيرًا خَارِجَ الْمَنْهَجِ أَيْضًا، وَاكْتُبْ أَفْكَارَكَ فِي دَفْتَرٍ خَاصٍّ، وَأَرْسِلْ لَنَا أَخْبَارَكَ كُلَّ أُسْبُوعٍ! إِذَا وَاجَهْتَ صُعُوبَةً فَلَا تَيْأَسْ وَلَا تَحْزَنْ، بَلْ حَاوِلْ مَرَّةً أُخْرَى، فَإِنَّ النَّجَاحَ ثَمَرَةُ الصَّبْرِ!",
+          "okunus": "Sâlisen: ikra' kesîran hârice'l-menheci eydan, vektub efkârake fî defterin hâssın, ve ersil lenâ ahbârake kulle usbû‘in! İzâ vâcehte su‘ûbeten fe-lâ tey'es ve lâ tahzen, bel hâvil merraten uhrâ, fe-inne'n-necâha semeratu's-sabri!",
+          "tr": "Üçüncü olarak: Müfredat dışında da çok oku, fikirlerini özel bir deftere yaz ve her hafta bize haberlerini gönder! Bir zorlukla karşılaşırsan umutsuzluğa kapılma ve üzülme; bilakis bir kez daha dene, zira başarı sabrın meyvesidir!",
+          "analiz": [
+            { "kelime": "اِقْرَأْ / اُكْتُبْ / أَرْسِلْ", "kok": "ر س ل", "gramer": "3 hemze kuralı bir arada: اِ (vasıl), اُ (vasıl), أَ (kat' IV. bab!)", "tr": "oku / yaz / gönder" },
+            { "kelime": "لَا تَيْأَسْ وَلَا تَحْزَنْ", "kok": "ي أ س", "gramer": "Çift Nehy-i Hâzır (sükûn)", "tr": "umutsuz olma ve üzülme" }
+          ]
+        },
+        {
+          "ar": "وَأَخِيرًا: اُدْعُ اللّٰهَ فِي كُلِّ صَبَاحٍ أَنْ يُوَفِّقَكَ، وَخُذْ بِالْأَسْبَابِ، وَامْشِ فِي طَرِيقِ الْعِلْمِ بِتَوَاضُعٍ! وَلَا تَنْسَ أَنَّ أُمَّكَ وَأَبَاكَ يَنْتَظِرَانِ دَائِمًا سَمَاعَ صَوْتِكَ وَالِاطْمِئْنَانَ عَلَيْكَ!",
+          "okunus": "Ve ehîran: ud‘ullâhe fî kulli sabâhin en yuveffikake, ve huz bi'l-esbâbi, vemşi fî tarîkı'l-‘ilmi bi-tevâdu‘in! Ve lâ tense enne ummeke ve ebâke yentezirâni dâimen semâ‘a savtike ve'l-itmi'nâne ‘aleyke!",
+          "tr": "Ve son olarak: Her sabah seni muvaffak kılması için Allah'a dua et, sebeplere sarıl ve ilim yolunda tevazuyla yürü! Ve annenin ve babanın daima sesini duymayı ve senden emin olmayı beklediklerini unutma!",
+          "analiz": [
+            { "kelime": "اُدْعُ / اِمْشِ / لَا تَنْسَ", "kok": "د ع و", "gramer": "3 nâkıs (و / ي / ى düşmüş!): اُدْعُ، اِمْشِ، لَا تَنْسَ!", "tr": "dua et / yürü / unutma" },
+            { "kelime": "خُذْ بِالْأَسْبَابِ", "kok": "أ خ ذ", "gramer": "Özel mehmûz emir + harf-i cerli deyim", "tr": "sebeplere sarıl" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m17_r1_q1", "soru": "Bilge baba ilk öğüdünde oğluna gençliğinin saatleri konusunda neyi yasaklamıştır?", "secenekler": ["Faydasız şeylerde zayi etmemesini (لَا تُضَيِّعْ)", "Kitap okumasını", "Erken uyanmasını", "Arkadaş edinmesini"], "dogruIndeks": 0, "aciklama": "'لَا تُضَيِّعْ سَاعَاتِ شَبَابِكَ فِيمَا لَا يَنْفَعُ!'." },
+        { "id": "m17_r1_q2", "soru": "3. paragraftaki «اِقْرَأْ» (اِ), «وَاكْتُبْ» (اُ) ve «أَرْسِلْ» (أَ) emirlerindeki 3 farklı hemze kuralı nedir?", "secenekler": ["اِقْرَأْ kesralı vasıl (orta harf ـَ), اُكْتُبْ dammeli vasıl (orta harf ـُ), أَرْسِلْ fethalı kat' hemzesidir (IV. bab!)", "Hepsi kat' hemzesidir", "Hepsi vasıl hemzesidir", "Fark yoktur"], "dogruIndeks": 0, "aciklama": "Sülâsî emir vasıl hemzesi (اِ / اُ), IV. bab (İf'âl) emri fethalı kat' hemzesidir (أَ)!" },
+        { "id": "m17_r1_q3", "soru": "4. paragraftaki «اُدْعُ»، «اِمْشِ» ve «لَا تَنْسَ» fiillerinin ortak özelliği nedir?", "secenekler": ["Üçü de nâkıs fiildir ve sonlarındaki illet harfleri (و / ي / ى) düşmüştür", "Üçü de çoğuldur", "Üçü de mâzidir", "Üçü de isimdir"], "dogruIndeks": 0, "aciklama": "تَدْعُو → اُدْعُ; تَمْشِي → اِمْشِ; تَنْسَى → لَا تَنْسَ!" },
+        { "id": "m17_r1_q4", "soru": "2. paragraftaki «كُنْ» ve «قُلِ» emirlerinde neden başta hemze yoktur?", "secenekler": ["تَـ atılınca ilk harf (كُ / قُ) zaten harekeli kaldığı için hemzeye gerek yoktur!", "Çünkü mehmûzdur", "Çünkü isimdir", "Yazım hatasıdır"], "dogruIndeks": 0, "aciklama": "تَكُونُ → كُنْ; تَقُولُ → قُلْ." },
+        { "id": "m17_r1_q5", "soru": "Baba, oğlunun bir zorlukla karşılaştığında ne yapmasını istemektedir?", "secenekler": ["Umutsuzluğa kapılmamasını, üzülmemesini ve bir kez daha denemesini", "Hemen eve dönmesini", "Okulu bırakmasını", "Kimseye haber vermemesini"], "dogruIndeks": 0, "aciklama": "'فَلَا تَيْأَسْ وَلَا تَحْزَنْ، بَلْ حَاوِلْ مَرَّةً أُخْرَى!'." }
+      ]
+    },
+    {
+      "id": "m17_r2",
+      "baslik": "İstanbul'da İlk Gün: Bir Turiste Adım Adım Yol Tarifi",
+      "arBaslik": "الْيَوْمُ الْأَوَّلُ فِي إِسْطَنْبُولَ: دَلِيلُ الطَّرِيقِ خُطْوَةً بِخُطْوَةٍ",
+      "seviye": "A2",
+      "paragraflar": [
+        {
+          "ar": "إِذَا زُرْتَ مَدِينَةَ إِسْطَنْبُولَ لِأَوَّلِ مَرَّةٍ وَأَرَدْتَ أَنْ تَسْتَمْتِعَ بِتَارِيخِهَا الْعَرِيقِ، فَاتَّبِعْ هٰذَا الدَّلِيلَ الْبَسِيطَ! اِبْدَأْ رِحْلَتَكَ صَبَاحًا مِنْ مَيْدَانِ السُّلْطَانِ أَحْمَدَ، وَخُذْ مَعَكَ حِذَاءً مُرِيحًا وَآلَةَ تَصْوِيرٍ!",
+          "okunus": "İzâ zurte medînete İstânbûle li-evveli merratin ve eradte en testemti‘a bi-târîhihe'l-‘arîkı, fe'ttebi‘ hâze'd-delîle'l-basîta! İbde' rihleteke sabâhan min meydâni's-Sultân Ahmede, ve huz me‘ake hizâen murîhan ve âlete tasvîrin!",
+          "tr": "İstanbul şehrini ilk kez ziyaret eder ve köklü tarihinin tadını çıkarmak istersen şu basit rehberi takip et! Yolculuğuna sabah Sultanahmet Meydanından başla ve yanına rahat bir ayakkabı ile fotoğraf makinesi al!",
+          "analiz": [
+            { "kelime": "اِتَّبِعْ / اِبْدَأْ", "kok": "ت ب ع", "gramer": "Vasıl hemzeli emirler (kesra)", "tr": "takip et / başla" },
+            { "kelime": "خُذْ", "kok": "أ خ ذ", "gramer": "Özel mehmûz emir", "tr": "al!" }
+          ]
+        },
+        {
+          "ar": "اُدْخُلِ الْجَامِعَ الْأَزْرَقَ أَوَّلًا، وَتَأَمَّلْ فِي قِبَابِهِ الْعَالِيَةِ وَزَخَارِفِهِ الزَّرْقَاءِ! بَعْدَ ذٰلِكَ، اُخْرُجْ إِلَى الْحَدِيقَةِ الْمُقَابِلَةِ وَامْشِ خَمْسَ دَقَائِقَ حَتَّى تَصِلَ إِلَى مَسْجِدِ آيَا صُوفْيَا الْعَظِيمِ.",
+          "okunus": "Udhuli'l-câmi‘a'l-ezraka evvelen, ve teemmel fî kıbâbihi'l-‘âliyeti ve zehârifihi'z-zerkâi! Ba‘de zâlike, uhruc ile'l-hadîkati'l-mukâbileti vemşi hamse dekâika hattâ tesile ilâ mescidi Âyâ Sûfyâ'l-‘azîmi.",
+          "tr": "Önce Sultanahmet (Mavi) Camiine gir ve yüksek kubbeleri ile mavi çini süslemelerini seyret! Ondan sonra karşı parktan çık ve büyük Ayasofya Camiine varıncaya kadar beş dakika yürü.",
+          "analiz": [
+            { "kelime": "اُدْخُلِ / اُخْرُجْ", "kok": "د خ ل", "gramer": "1. bab dammeli vasıl hemzesi (اُ!)", "tr": "gir / çık" },
+            { "kelime": "وَامْشِ", "kok": "م ش ي", "gramer": "Nâkıs emir (ي düştü!) + geçişte vasıl", "tr": "ve yürü!" }
+          ]
+        },
+        {
+          "ar": "عِنْدَ الظُّهْرِ، اِرْكَبِ التِّرَامَ إِلَى مَحَطَّةِ إِيمِينُونُو، وَلَا تَنْسَ أَنْ تَشْتَرِيَ بِطَاقَةَ النَّقْلِ قَبْلَ الصُّعُودِ! اِنْزِلْ عِنْدَ الْمِينَاءِ، وَانْعَطِفْ يَمِينًا نَحْوَ السُّوقِ الْمِصْرِيِّ، وَتَذَوَّقِ التَّوَابِلَ وَالشَّايَ التُّرْكِيَّ التَّقْلِيدِيَّ!",
+          "okunus": "‘İnde'z-zuhri, irkebi't-tirâme ilâ mahattati İmînûnû, ve lâ tense en teşteriye bitâkate'n-nakli kable's-su‘ûdi! İnzil ‘inde'l-mînâi, ven‘atıf yemînen nahve's-sûkı'l-mısriyyi, ve tezevvakı't-tevâbile ve'ş-şâye't-turkiyye't-taklîdiyye!",
+          "tr": "Öğleyin Eminönü durağına giden tramvaya bin ve binmeden önce ulaşım kartı almayı unutma! İskelede in, Mısır Çarşısına doğru sağa dön ve baharatlarla geleneksel Türk çayının tadına bak!",
+          "analiz": [
+            { "kelime": "اِرْكَبِ / اِنْزِلْ / اِنْعَطِفْ", "kok": "ر ك ب", "gramer": "Şehir ulaşım emirleri (kesralı vasıl: اِ)", "tr": "bin / in / dön" },
+            { "kelime": "لَا تَنْسَ", "kok": "ن س ي", "gramer": "Nâkıs Nehy-i Hâzır (ى düştü)", "tr": "unutma!" }
+          ]
+        },
+        {
+          "ar": "فِي الْمَسَاءِ، اُصْعَدْ إِلَى السَّفِينَةِ لِجَوْلَةٍ فِي مَضِيقِ الْبُسْفُورِ، وَاجْلِسْ عَلَى السَّطْحِ وَشَاهِدِ الْجُسُورَ الْمُضِيئَةَ! وَلَا تَتَرَدَّدْ فِي سُؤَالِ أَهْلِ إِسْطَنْبُولَ إِذَا أَضَعْتَ الطَّرِيقَ، فَهُمْ يُسَاعِدُونَ الضُّيُوفَ بِكُلِّ مَحَبَّةٍ وَتَرْحِيبٍ!",
+          "okunus": "Fi'l-mesâi, us‘ad ile's-sefîneti li-cevletin fî madîkı'l-Busfûri, veclis ‘ale's-sathi ve şâhidi'l-cusûra'l-mudîete! Ve lâ teteredded fî suâli ehli İstânbûle izâ eda‘te't-tarîka, fe-hum yusâ‘idûne'd-duyûfe bi-kulli mehabbetin ve terhîbin!",
+          "tr": "Akşam Boğaz turu için vapura çık, güvertede otur ve ışıklı köprüleri izle! Yolunu kaybedersen İstanbullulara sormakta tereddüt etme; zira onlar misafirlere tüm sevgi ve konukseverlikle yardım ederler!",
+          "analiz": [
+            { "kelime": "اُصْعَدْ / اِجْلِسْ / شَاهِدِ", "kok": "ص ع د", "gramer": "3 farklı emir tipi: اُ (1. bab), اِ (2. bab), hemzesiz III. bab!", "tr": "çık / otur / izle" },
+            { "kelime": "لَا تَتَرَدَّدْ", "kok": "ر د د", "gramer": "Nehy-i Hâzır (sükûn)", "tr": "tereddüt etme!" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m17_r2_q1", "soru": "Rehbere göre İstanbul gezisine sabah nereden başlanması önerilmektedir?", "secenekler": ["Sultanahmet Meydanından", "Eminönü iskelesinden", "Havaalanından", "Mısır Çarşısından"], "dogruIndeks": 0, "aciklama": "'اِبْدَأْ رِحْلَتَكَ صَبَاحًا مِنْ مَيْدَانِ السُّلْطَانِ أَحْمَدَ'." },
+        { "id": "m17_r2_q2", "soru": "3. paragrafta tramvaya binmeden önce neyi unutmamak gerektiği vurgulanıyor?", "secenekler": ["Ulaşım kartı satın almayı (بِطَاقَةَ النَّقْلِ)", "Şemsiye açmayı", "Kahve içmeyi", "Otelden çıkmayı"], "dogruIndeks": 0, "aciklama": "'لَا تَنْسَ أَنْ تَشْتَرِيَ بِطَاقَةَ النَّقْلِ قَبْلَ الصُّعُودِ!'." },
+        { "id": "m17_r2_q3", "soru": "2. paragraftaki «اُدْخُلِ / اُخْرُجْ» emirleri neden dammeli (اُ) başlarken «اِرْكَبِ / اِنْزِلْ» neden kesralı (اِ) başlamıştır?", "secenekler": ["تَدْخُلُ / تَخْرُجُ fiillerinin orta harfi dammeli, تَرْكَبُ / تَنْزِلُ fiillerinin orta harfi fethalı/kesralıdır!", "Rastgeledir", "İlk ikisi çoğuldur", "Son ikisi IV. babtır"], "dogruIndeks": 0, "aciklama": "Ayn'ul-fiil damme → اُ; fetha veya kesra → اِ!" },
+        { "id": "m17_r2_q4", "soru": "4. paragraftaki «شَاهِدِ» (İzle!) emrinde neden başta hemze yoktur?", "secenekler": ["III. bab (تُشَاهِدُ) fiilinde تَـ atılınca شَ harekeli kaldığı için hemzeye gerek yoktur!", "Çünkü mehmûzdur", "Çünkü isimdir", "Çünkü nâkıstır"], "dogruIndeks": 0, "aciklama": "تُشَاهِدُ → شَاهِدْ (الْ geçişiyle شَاهِدِ)." },
+        { "id": "m17_r2_q5", "soru": "Rehber akşam vakti ne yapmayı tavsiye etmektedir?", "secenekler": ["Boğaz turu için vapura çıkıp ışıklı köprüleri izlemeyi", "Hemen uyumayı", "Müzeleri kapatmayı", "Sadece tramvaya binmeyi"], "dogruIndeks": 0, "aciklama": "'اُصْعَدْ إِلَى السَّفِينَةِ لِجَوْلَةٍ فِي مَضِيقِ الْبُسْفُورِ، وَشَاهِدِ الْجُسُورَ الْمُضِيئَةَ!'." }
+      ]
+    },
+    {
+      "id": "m17_r3",
+      "baslik": "Geleneksel Arap Kahvesi Hazırlama Tarifi (6 Şahıs Uygulamalı)",
+      "arBaslik": "طَرِيقَةُ تَحْضِيرِ الْقَهْوَةِ الْعَرَبِيَّةِ الْأَصِيلَةِ",
+      "seviye": "A2",
+      "paragraflar": [
+        {
+          "ar": "إِذَا أَرَدْتِ يَا أُخْتِي أَنْ تُحَضِّرِي قَهْوَةً عَرَبِيَّةً ذَاتَ رَائِحَةٍ زَكِيَّةٍ لِضُيُوفِكِ، فَاتَّبِعِي هٰذِهِ الْخُطُوَاتِ السَّهْلَةَ! أَوَّلًا: اِغْسِلِي دَلَّةَ الْقَهْوَةِ جَيِّدًا، وَضَعِي فِيهَا ثَلَاثَةَ أَكْوَابٍ مِنَ الْمَاءِ الْبَارِدِ.",
+          "okunus": "İzâ eradti yâ uhtî en tuhaddirî kahveten ‘arabiyyeten zâte râihatin zekiyyetin li-duyûfiki, fe'ttebi‘î hâzihi'l-hutuvâti's-sehlete! Evvelen: igsilî dellete'l-kahveti ceyyiden, ve da‘î fîhâ selâsete ekvâbin mine'l-mâi'l-bâridi.",
+          "tr": "Kız kardeşim, misafirlerin için hoş kokulu bir Arap kahvesi hazırlamak istersen bu kolay adımları izle! İlk olarak: Kahve cezvesini (delleyi) iyice yıka ve içine üç bardak soğuk su koy.",
+          "analiz": [
+            { "kelime": "اِتَّبِعِي / اِغْسِلِي / ضَعِي", "kok": "غ س ل", "gramer": "أَنْتِ (dişil) emirler (ن hazfi + ـِي!)", "tr": "izle / yıka / koy (K)" },
+            { "kelime": "ذَاتَ رَائِحَةٍ", "kok": "ذ و", "gramer": "M14 tekrarı: dişil nasb ذَاتَ", "tr": "kokuya sahip" }
+          ]
+        },
+        {
+          "ar": "ثَانِيًا: أَشْعِلِي النَّارَ الْهَادِئَةَ وَاتْرُكِي الْمَاءَ حَتَّى يَغْلِيَ! ثُمَّ خُذِي مِلْعَقَتَيْنِ كَبِيرَتَيْنِ مِنَ الْقَهْوَةِ الْمَطْحُونَةِ وَأَضِيفِيهِمَا بِبُطْءٍ، وَلَا تَرْفَعِي النَّارَ كَيْلَا تَفُورَ الْقَهْوَةُ!",
+          "okunus": "Sâniyen: eş‘ili'n-nâra'l-hâdiete vetruki'l-mâe hattâ yagliye! Summe huzî mil‘akateyni kebîrateyni mine'l-kahveti'l-mathûneti ve edîfîhimâ bi-but'in, ve lâ terfa‘i'n-nâra keylâ tefûra'l-kahvetu!",
+          "tr": "İkinci olarak: Kısık ateşi yak ve suyu kaynayıncaya kadar bırak! Sonra iki büyük kaşık çekilmiş kahve al ve yavaşça ekle; kahve taşmasın diye ateşi yükseltme!",
+          "analiz": [
+            { "kelime": "أَشْعِلِي / أَضِيفِيهِمَا", "kok": "ش ع ل", "gramer": "IV. bab (أَ) dişil emirler!", "tr": "yak / ikisini ekle (K)" },
+            { "kelime": "لَا تَرْفَعِي", "kok": "ر ف ع", "gramer": "أَنْتِ Nehy-i Hâzır (ن düştü!)", "tr": "yükseltme (K)!" }
+          ]
+        },
+        {
+          "ar": "ثَالِثًا: بَعْدَ عَشْرِ دَقَائِقَ، أَطْفِئِي النَّارَ، وَهَاتِي قَلِيلًا مِنَ الْهَيْلِ الْمَطْحُونِ وَالزَّعْفَرَانِ وَضَعِيهِمَا فِي الدَّلَّةِ! أَغْلِقِي الْغِطَاءَ وَانْتَظِرِي دَقِيقَتَيْنِ حَتَّى تَهْدَأَ الْقَهْوَةُ وَتَتَشَرَّبَ نَكْهَةَ الْهَيْلِ.",
+          "okunus": "Sâlisen: ba‘de ‘aşri dekâika, atfii'n-nâra, ve hâtî kalîlen mine'l-heyli'l-mathûni ve'z-za‘ferâni ve da‘îhimâ fi'd-delleti! Aglikı'l-gitâe ventezirî dakîkateyni hattâ tehdee'l-kahvetu ve teteşerrabe nekhete'l-heyli.",
+          "tr": "Üçüncü olarak: On dakika sonra ateşi söndür, biraz öğütülmüş kakule ve safran getirip cezveye koy! Kapağı kapat ve kahve dinlenip kakule aromasını çekinceye kadar iki dakika bekle.",
+          "analiz": [
+            { "kelime": "أَطْفِئِي / هَاتِي / أَغْلِقِي", "kok": "غ ل ق", "gramer": "Dişil IV. bab emirler + هَاتِي (getir - K!)", "tr": "söndür / getir / kapat (K)" },
+            { "kelime": "اِنْتَظِرِي", "kok": "ن ظ ر", "gramer": "VIII. bab dişil emir", "tr": "bekle (K)" }
+          ]
+        },
+        {
+          "ar": "وَأَخِيرًا: صُبِّي الْقَهْوَةَ فِي الْفَنَاجِينِ الصَّغِيرَةِ، وَقَدِّمِيهَا مَعَ التَّمْرِ قَائِلَةً لِضُيُوفِكِ: «تَفَضَّلُوا، أَهْلًا وَسَهْلًا بِكُمْ!». وَلَا تَنْسَيْ أَنْ تَبْتَسِمِي، فَالِابْتِسَامَةُ هِيَ سِرُّ كَرَمِ الضِّيَافَةِ الْعَرَبِيَّةِ!",
+          "okunus": "Ve ehîran: subbi'l-kahvete fi'l-fenâcîni's-sagîrati, ve kaddimîhâ me‘a't-temri kâileten li-duyûfiki: «Tefaddalû, ehlen ve sehlen bikum!». Ve lâ tensey en tebtesimî, fe'l-ibtisâmetu hiye sirru kerami'd-diyâfeti'l-‘arabiyyeti!",
+          "tr": "Ve son olarak: Kahveyi küçük fincanlara dök ve misafirlerine 'Buyurun, hoş geldiniz!' diyerek hurmayla birlikte ikram et! Ve gülümsemeyi unutma, zira tebessüm Arap misafirperverliğinin sırrıdır!",
+          "analiz": [
+            { "kelime": "صُبِّي / قَدِّمِيهَا / تَفَضَّلُوا", "kok": "ص ب ب", "gramer": "Muzaaf + II. bab dişil emir & çoğul تَفَضَّلُوا", "tr": "dök / onu ikram et / buyurun!" },
+            { "kelime": "لَا تَنْسَيْ", "kok": "ن س ي", "gramer": "أَنْتِ nâkıs nehiy (لَا تَنْسَيْ)", "tr": "unutma (K)!" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m17_r3_q1", "soru": "Bu tarifte tüm emir fiillerinin sonuna neden «ـِي» eklenmiştir (اِغْسِلِي، ضَعِي، خُذِي)?", "secenekler": ["Hitap tekil bir kadına («يَا أُخْتِي» — أَنْتِ) yönelik olduğu için!", "Çünkü hepsi çoğuldur", "Çünkü hepsi nâkıstır", "Çünkü harf-i cer vardır"], "dogruIndeks": 0, "aciklama": "Kadına hitapta (أَنْتِ) emir ve nehiy sonuna muhataba yâsı (ـِي) alır!" },
+        { "id": "m17_r3_q2", "soru": "2. paragrafta ateşin neden yükseltilmemesi (لَا تَرْفَعِي النَّارَ) söylenmektedir?", "secenekler": ["Kahvenin taşmaması için (كَيْلَا تَفُورَ الْقَهْوَةُ)", "Su soğumasın diye", "Süre uzasın diye", "Koku çıkmasın diye"], "dogruIndeks": 0, "aciklama": "'وَلَا تَرْفَعِي النَّارَ كَيْلَا تَفُورَ الْقَهْوَةُ!'." },
+        { "id": "m17_r3_q3", "soru": "3. paragrafta kahveye hangi iki aroma malzemesi eklenmektedir?", "secenekler": ["Öğütülmüş kakule (الْهَيْل) ve safran (الزَّعْفَرَان)", "Tuz ve karabiber", "Limon ve nane", "Şeker ve süt"], "dogruIndeks": 0, "aciklama": "'قَلِيلًا مِنَ الْهَيْلِ الْمَطْحُونِ وَالزَّعْفَرَانِ'." },
+        { "id": "m17_r3_q4", "soru": "Metindeki «هَاتِي» kelimesi erkek birine söylenseydi nasıl yazılırdı?", "secenekler": ["هَاتِ (kısa kesra ile!)", "هَاتُوا", "هَاتَ", "هَاتِينَ"], "dogruIndeks": 0, "aciklama": "Erkeğe هَاتِ (kısa kesra), kadına هَاتِي (uzun ي)!" },
+        { "id": "m17_r3_q5", "soru": "4. paragrafta Arap misafirperverliğinin sırrı olarak ne gösterilmektedir?", "secenekler": ["Tebessüm / gülümseme (الِابْتِسَامَةُ)", "Sadece pahalı fincanlar", "Çok fazla şeker", "Sessizlik"], "dogruIndeks": 0, "aciklama": "'فَالِابْتِسَامَةُ هِيَ سِرُّ كَرَمِ الضِّيَافَةِ الْعَرَبِيَّةِ!'." }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "m17_d1",
+      "baslik": "Şehirde Kibar Yol Tarifi İsteme (لَوْ سَمَحْتَ & Emirler)",
+      "ortam": "Bir ziyaretçi şehrin merkezinde kütüphaneyi soruyor",
+      "replikler": [
+        { "konusan": "المسافر", "ar": "السَّلَامُ عَلَيْكُمْ! لَوْ سَمَحْتَ يَا أَخِي، أَيْنَ الْمَكْتَبَةُ الْوَطَنِيَّةُ مِنْ فَضْلِكَ؟", "okunus": "Es-selâmu ‘aleykum! Lev semahte yâ ahî, eyne'l-mektebetu'l-vataniyyetu min fadlike?", "tr": "Selamün aleyküm! Müsaadenizle kardeşim, lütfen Milli Kütüphane nerede?" },
+        { "konusan": "طارق", "ar": "وَعَلَيْكُمُ السَّلَامُ وَأَهْلًا بِكَ! إِنَّهَا قَرِيبَةٌ جِدًّا مِنْ هُنَا، لَا تَرْكَبِ الْحَافِلَةَ، اِمْشِ عَلَى قَدَمَيْكَ!", "okunus": "Ve ‘aleykumu's-selâmu ve ehlen bike! İnnehâ karîbetun cidden min hunâ, lâ terkebi'l-hâfilete, imşi ‘alâ kademeyke!", "tr": "Aleyküm selam ve hoş geldiniz! Buradan çok yakın, otobüse binmeyin, yürüyün!" },
+        { "konusan": "المسافر", "ar": "مُمْتَازٌ! دُلَّنِي عَلَى الطَّرِيقِ مِنْ فَضْلِكَ!", "okunus": "Mumtâzun! Dullenî ‘ale't-tarîkı min fadlike!", "tr": "Harika! Lütfen bana yolu tarif edin!" },
+        { "konusan": "طارق", "ar": "سِرْ مُبَاشَرَةً فِي هٰذَا الشَّارِعِ مِئَتَيْ مِتْرٍ حَتَّى تَصِلَ إِلَى إِشَارَةِ الْمُرُورِ.", "okunus": "Sir mubâşeraten fî hâze'ş-şâri‘i mietey mitrin hattâ tesile ilâ işârati'l-murûri.", "tr": "Trafik ışığına varıncaya kadar bu caddede iki yüz metre dümdüz gidin." },
+        { "konusan": "المسافر", "ar": "ثُمَّ هَلْ أَنْعَطِفُ يَمِينًا أَمْ يَسَارًا عِنْدَ الْإِشَارَةِ؟", "okunus": "Summe hel en‘atıfu yemînen em yesâran ‘inde'l-işârati?", "tr": "Sonra ışıkta sağa mı yoksa sola mı döneyim?" },
+        { "konusan": "طارق", "ar": "اِنْعَطِفْ يَسَارًا بَعْدَ الْمَسْجِدِ الْكَبِيرِ، وَلَا تَدْخُلِ الشَّارِعَ الضَّيِّقَ الْأَوَّلَ!", "okunus": "İn‘atıf yesâran ba‘de'l-mescidi'l-kebîri, ve lâ tedhuli'ş-şâri‘a'd-dayyika'l-evvele!", "tr": "Büyük camiden sonra sola dönün ve ilk dar sokağa girmeyin!" },
+        { "konusan": "المسافر", "ar": "فَهِمْتُ! أَنْعَطِفُ يَسَارًا بَعْدَ الْمَسْجِدِ، وَمَاذَا بَعْدَ ذٰلِكَ؟", "okunus": "Fehimtu! En‘atıfu yesâran ba‘de'l-mescidi, ve mâzâ ba‘de zâlike?", "tr": "Anladım! Camiden sonra sola dönüyorum; peki ondan sonra ne var?" },
+        { "konusan": "طارق", "ar": "اُعْبُرِ الْحَدِيقَةَ الْخَضْرَاءَ، وَانْظُرْ إِلَى يَمِينِكَ؛ سَتَرَى مَبْنًى أَبْيَضَ كَبِيرًا أَمَامَكَ مُبَاشَرَةً!", "okunus": "U‘buri'l-hadîkate'l-hadrâe, venzur ilâ yemînike; se-terâ mebnen ebyada kebîran emâmeke mubâşeraten!", "tr": "Yeşil parkı geçin ve sağınıza bakın; hemen önünüzde büyük beyaz bir bina göreceksiniz!" },
+        { "konusan": "المسافر", "ar": "هَلِ الْمَكْتَبَةُ مَفْتُوحَةٌ الْآنَ؟", "okunus": "Heli'l-mektebetu meftûhatuni'l-âne?", "tr": "Kütüphane şu an açık mı?" },
+        { "konusan": "طارق", "ar": "نَعَمْ، تَفْتَحُ حَتَّى السَّاعَةِ الثَّامِنَةِ مَسَاءً! خُذْ بِطَاقَةَ الْهُوِيَّةِ مَعَكَ، وَلَا تَنْسَ أَنْ تَضَعَ الْهَاتِفَ عَلَى الصَّامِتِ دَاخِلَ الْقَاعَةِ!", "okunus": "Ne‘am, teftehu hatte's-sâ‘ati's-sâmineti mesâen! Huz bitâkate'l-huviyyeti me‘ake, ve lâ tense en teda‘a'l-hâtife ‘ale's-sâmiti dâhile'l-kâ‘ati!", "tr": "Evet, akşam sekize kadar açık! Kimlik kartını yanına al ve salonda telefonu sessize almayı unutma!" },
+        { "konusan": "المسافر", "ar": "شُكْرًا جَزِيلًا لَكَ يَا أَخِي عَلَى هٰذَا الْوَصْفِ الْوَاضِحِ!", "okunus": "Şukran cezîlen leke yâ ahî ‘alâ hâze'l-vasfi'l-vâdihi!", "tr": "Bu net tarif için çok teşekkür ederim kardeşim!" },
+        { "konusan": "طارق", "ar": "عَفْوًا! تَفَضَّلْ بِأَيِّ سُؤَالٍ آخَرَ، وَأَتَمَنَّى لَكَ قِرَاءَةً مُمْتِعَةً!", "okunus": "‘Afven! Tefaddal bi-eyyi suâlin âhara, ve etemennâ leke kırâeten mumti‘aten!", "tr": "Rica ederim! Başka bir sorunuz varsa buyurun, size keyifli okumalar dilerim!" }
+      ],
+      "partner": [
+        { "soruAr": "كَيْفَ نَقُولُ 'Otobüse binme, yürüyerek git!'؟", "soruTr": "'Otobüse binme, yürü!' nasıl söylenir?", "ipucu": "لَا تَرْكَبِ الْحَافِلَةَ، اِمْشِ!", "secenekler": ["لَا تَرْكَبِ الْحَافِلَةَ، اِمْشِ!", "لَا اِرْكَبْ الْحَافِلَةَ، اِمْشِي!", "لَنْ تَرْكَبَ الْحَافِلَةَ!"], "dogruIndeks": 0, "aciklama": "Nehiy: لَا تَرْكَبْ; nâkıs emir: اِمْشِ (ي düştü!)." },
+        { "soruAr": "كَيْفَ نَقُولُ 'Dümdüz git!' (سَارَ — يَسِيرُ)؟", "soruTr": "'Dümdüz git!' (ecvef emir) hangisidir?", "ipucu": "تَسِيرُ → سِرْ (ي düştü!).", "secenekler": ["سِرْ مُبَاشَرَةً!", "سِيرْ مُبَاشَرَةً!", "اِسِرْ مُبَاشَرَةً!"], "dogruIndeks": 0, "aciklama": "تَسِيرُ → سِرْ (ecvef emir, hemze yok!)." },
+        { "soruAr": "كَيْفَ نَقُولُ 'Sağa / sola dön!'؟", "soruTr": "'Sola dön!' nasıl söylenir?", "ipucu": "اِنْعَطِفْ يَسَارًا!", "secenekler": ["اِنْعَطِفْ يَسَارًا!", "اُنْعَطِفْ يَسَارًا!", "عَطِفْ يَسَارًا!"], "dogruIndeks": 0, "aciklama": "VII. bab (اِنْعَطَفَ) → kesralı vasıl hemzesi: اِنْعَطِفْ!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Kimlik kartını yanına al!'؟", "soruTr": "'Kimlik kartını yanına al!' hangisidir?", "ipucu": "خُذْ ... مَعَكَ.", "secenekler": ["خُذْ بِطَاقَةَ الْهُوِيَّةِ مَعَكَ!", "اُأْخُذْ بِطَاقَةَ الْهُوِيَّةِ!", "تَأْخُذْ بِطَاقَةَ الْهُوِيَّةِ!"], "dogruIndeks": 0, "aciklama": "أَخَذَ → خُذْ (özel mehmûz emir!)." },
+        { "soruAr": "لِمَاذَا «اُعْبُرِ / اُنْظُرْ» بِالضَّمَّةِ فِي أَوَّلِهِمَا؟", "soruTr": "'اُعْبُرْ' ve 'اُنْظُرْ' neden dammeli (اُ) başlar?", "ipucu": "Muzâride orta harfin harekesi!", "secenekler": ["تَعْبُرُ ve تَنْظُرُ fiillerinin orta harfleri dammeli olduğu için!", "Çünkü IV. babtırlar.", "Çünkü çoğuldurlar."], "dogruIndeks": 0, "aciklama": "Orta harf damme → vasıl hemzesi اُ!" }
+      ]
+    },
+    {
+      "id": "m17_d2",
+      "baslik": "Sınıfta Hoca ve Öğrenciler: Toplu Emir & Nehiy Pratiği",
+      "ortam": "Arapça dersinde hoca erkeklere, kızlara ve ikili gruplara görev veriyor",
+      "replikler": [
+        { "konusan": "الأستاذ", "ar": "صَبَاحُ الْخَيْرِ يَا طُلَّابُ! اِفْتَحُوا كُتُبَكُمْ عَلَى الصَّفْحَةِ الْخَامِسِينَ، وَأَغْلِقُوا هَوَاتِفَكُمْ مِنْ فَضْلِكُمْ!", "okunus": "Sabâhu'l-hayri yâ tullâbu! İftehû kutubekum ‘ale's-safhati'l-hamsîne, ve aglikû hevâtifekum min fadlikum!", "tr": "Günaydın öğrenciler! Kitaplarınızı ellinci sayfaya açın ve lütfen telefonlarınızı kapatın!" },
+        { "konusan": "عمر", "ar": "حَاضِرٌ يَا أُسْتَاذُ! هَلْ نَقْرَأُ النَّصَّ جَمَاعِيًّا أَمْ فَرْدِيًّا؟", "okunus": "Hâdirun yâ ustâzu! Hel nekrau'n-nassa cemâ‘iyyen em ferdiyyen?", "tr": "Başüstüne hocam! Metni topluca mı yoksa bireysel mi okuyalım?" },
+        { "konusan": "الأستاذ", "ar": "أَوَّلًا: اِسْمَعُونِي جَيِّدًا وَلَا تَتَكَلَّمُوا أَثْنَاءَ الْقِرَاءَةِ! ثُمَّ سَتَقْرَأُ كُلُّ مَجْمُوعَةٍ فِقْرَةً.", "okunus": "Evvelen: isme‘ûnî ceyyiden ve lâ tetekellemû esnâe'l-kirâeti! Summe se-tekrau kullu mecmû‘atin fikraten.", "tr": "Önce beni iyice dinleyin ve okuma esnasında konuşmayın! Sonra her grup bir paragraf okuyacak." },
+        { "konusan": "الأستاذ", "ar": "الْآنَ يَا مَرْيَمُ، قُومِي وَاقْرَئِي الْفِقْرَةَ الْأُولَى بِصَوْتٍ وَاضِحٍ!", "okunus": "El-âne yâ Meryemu, kûmî vakra'i'l-fikrate'l-ûlâ bi-savtin vâdihin!", "tr": "Şimdi Meryem, kalk ve ilk paragrafı anlaşılır bir sesle oku!" },
+        { "konusan": "مريم", "ar": "بِكُلِّ سُرُورٍ يَا أُسْتَاذُ! هَلْ أَقْرَأُ بِسُرْعَةٍ أَمْ بِبُطْءٍ؟", "okunus": "Bi-kulli surûrin yâ ustâzu! Hel ekrau bi-sur‘atin em bi-but'in?", "tr": "Memnuniyetle hocam! Hızlı mı yoksa yavaş mı okuyayım?" },
+        { "konusan": "الأستاذ", "ar": "اِقْرَئِي بِتَمَهُّلٍ وَلَا تَسْتَعْجِلِي، وَانْتَبِهِي إِلَى حَرَكَاتِ أَوَاخِرِ الْكَلِمَاتِ!", "okunus": "İkraî bi-temehhulin ve lâ testa‘cilî, ventebihî ilâ harekâti evâhiri'l-kelimâti!", "tr": "Yavaşça oku, acele etme ve kelimelerin son harekelerine dikkat et!" },
+        { "konusan": "الأستاذ", "ar": "أَحْسَنْتِ يَا مَرْيَمُ! اِجْلِسِي الْآنَ! وَيَا أَحْمَدُ وَيَا سَامِي، تَعَالَيَا إِلَى السَّبُّورَةِ وَاكْتُبَا الْجُمْلَتَيْنِ!", "okunus": "Ahsenti yâ Meryemu! İclisi'l-âne! Ve yâ Ahmedu ve yâ Sâmî, te‘âleyâ ile's-sebbûrati vektube'l-cumleteyni!", "tr": "Aferin Meryem! Şimdi otur! Ahmed ve Sami, ikiniz tahtaya gelin ve iki cümleyi yazın!" },
+        { "konusan": "سامي", "ar": "تَفَضَّلْ يَا أُسْتَاذُ، كَتَبْنَاهُمَا! هَلْ نَمْسَحُ الْجَانِبَ الْأَيْمَنَ؟", "okunus": "Tefaddal yâ ustâzu, ketebnâhumâ! Hel nemsehu'l-cânibe'l-eymene?", "tr": "Buyurun hocam, ikisini yazdık! Sağ tarafı silelim mi?" },
+        { "konusan": "الأستاذ", "ar": "لَا تَمْسَحَاهُ الْآنَ، اُتْرُكَاهُ كَيْ يَنْقُلَهُ بَاقِي الطُّلَّابِ!", "okunus": "Lâ temsehâhu'l-âne, utrukâhu key yenkulehu bâki't-tullâbi!", "tr": "Şimdi silmeyin ikiniz, diğer öğrenciler deftere geçirsin diye bırakın!" },
+        { "konusan": "الأستاذ", "ar": "وَيَا طَالِبَاتُ، خُذْنَ هٰذِهِ الْأَوْرَاقَ، وَأَجِبْنَ عَنِ التَّمْرِينِ الثَّالِثِ مَعًا وَلَا تَنْسَيْنَ كِتَابَةَ أَسْمَائِكُنَّ!", "okunus": "Ve yâ tâlibâtu, huzne hâzihi'l-evrâka, ve ecibne ‘ani't-temrîni's-sâlisi me‘an ve lâ tenseyne kitâbete esmâikunne!", "tr": "Ve kız öğrenciler, bu kâğıtları alın, üçüncü alıştırmayı birlikte cevaplayın ve adlarınızı yazmayı unutmayın!" },
+        { "konusan": "زينب", "ar": "حَاضِرٌ يَا أُسْتَاذُ! هَلْ نُسَلِّمُ الْأَوْرَاقَ قَبْلَ الْجَرَسِ؟", "okunus": "Hâdirun yâ ustâzu! Hel nusellimu'l-evrâka kable'l-cerasi?", "tr": "Başüstüne hocam! Kâğıtları zilden önce mi teslim edelim?" },
+        { "konusan": "الأستاذ", "ar": "نَعَمْ، هَاتُوا جَمِيعَ الْأَوْرَاقِ بَعْدَ عَشْرِ دَقَائِقَ! بَارَكَ اللّٰهُ فِيكُمْ جَمِيعًا!", "okunus": "Ne‘am, hâtû cemî‘a'l-evrâkı ba‘de ‘aşri dekâika! Bârakallâhu fîkum cemî‘an!", "tr": "Evet, on dakika sonra tüm kâğıtları getirin! Allah hepinizi bereketlendirsin!" }
+      ],
+      "partner": [
+        { "soruAr": "كَيْفَ نَقُولُ لِمَرْيَمَ: 'Kalk ve oku, acele etme!'؟", "soruTr": "Meryem'e (أَنْتِ) 'Kalk ve oku, acele etme!' nasıl söylenir?", "ipucu": "قُومِي وَاقْرَئِي وَلَا تَسْتَعْجِلِي!", "secenekler": ["قُومِي وَاقْرَئِي وَلَا تَسْتَعْجِلِي!", "قُمْ وَاقْرَأْ وَلَا تَسْتَعْجِلْ!", "قُومُوا وَاقْرَؤُوا!"], "dogruIndeks": 0, "aciklama": "قُمْ → kadına و geri gelir: قُومِي! + اِقْرَئِي + لَا تَسْتَعْجِلِي." },
+        { "soruAr": "كَيْفَ نَقُولُ لِأَحْمَدَ وَسَامِي: 'İkiniz tahtaya gelin ve yazın!'؟", "soruTr": "İki öğrenciye (أَنْتُمَا) 'Gelin ve yazın!' hangisidir?", "ipucu": "تَعَالَيَا ... وَاكْتُبَا!", "secenekler": ["تَعَالَيَا إِلَى السَّبُّورَةِ وَاكْتُبَا!", "تَعَالَ وَاكْتُبْ!", "تَعَالَوْا وَاكْتُبُوا!"], "dogruIndeks": 0, "aciklama": "İkil: تَعَالَيَا + اُكْتُبَا!" },
+        { "soruAr": "كَيْفَ نَقُولُ لِلطَّالِبَاتِ: 'Alın ve cevaplayın!' (أَنْتُنَّ)؟", "soruTr": "Kız öğrencilere (أَنْتُنَّ) 'Alın ve cevaplayın!' hangisidir?", "ipucu": "خُذْنَ ... وَأَجِبْنَ!", "secenekler": ["خُذْنَ وَأَجِبْنَ!", "خُذُوا وَأَجِيبُوا!", "خُذِي وَأَجِيبِي!"], "dogruIndeks": 0, "aciklama": "أَنْتُنَّ: خُذْنَ + أَجِبْنَ (ecvefte ي düştü!)." },
+        { "soruAr": "كَيْفَ نَقُولُ لِلطُّلَّابِ: 'Telefonlarınızı kapatın!' (IV. bab)؟", "soruTr": "'Telefonlarınızı kapatın!' hangisidir?", "ipucu": "أَغْلِقُوا (fethalı kat' hemzesi!).", "secenekler": ["أَغْلِقُوا هَوَاتِفَكُمْ!", "اِغْلِقُوا هَوَاتِفَكُمْ!", "أَغْلِقْ هَوَاتِفَكُمْ!"], "dogruIndeks": 0, "aciklama": "أَغْلَقَ (IV. bab) → أَغْلِقُوا!" },
+        { "soruAr": "لِمَاذَا سَقَطَتِ الْأَلِفُ فِي «اِسْمَعُونِي»؟", "soruTr": "'اِسْمَعُونِي' kelimesinde اِسْمَعُوا sonundaki elif neden yoktur?", "ipucu": "Nesne zamiri bitişince elif-i fârika!", "secenekler": ["Nesne zamiri (ـنِي) bitiştiği için elif-i fârika düşmüştür!", "Çünkü tekildir.", "Çünkü nehiydir."], "dogruIndeks": 0, "aciklama": "اِسْمَعُوا + نِي → اِسْمَعُونِي!" }
+      ]
+    },
+    {
+      "id": "m17_d3",
+      "baslik": "Ailede Misafir Hazırlığı (تَعَالَ، هَاتِ، ضَعْ، خُذْ)",
+      "ortam": "Evde akşam misafirleri gelmeden önce anne ve iki çocuğu hazırlık yapıyor",
+      "replikler": [
+        { "konusan": "الأم", "ar": "يَا أَوْلَادِي، سَيَصِلُ ضُيُوفُنَا بَعْدَ نِصْفِ سَاعَةٍ! تَعَالَوْا نُجَهِّزُ كُلَّ شَيْءٍ مَعًا!", "okunus": "Yâ evlâdî, se-yasilu duyûfunâ ba‘de nısfi sâ‘atin! Te‘âlev nucehhizu kulle şey'in me‘an!", "tr": "Çocuklarım, misafirlerimiz yarım saat sonra gelecek! Gelin her şeyi birlikte hazırlayalım!" },
+        { "konusan": "يوسف", "ar": "حَاضِرٌ يَا أُمِّي! قُولِي لِي مَاذَا أَفْعَلُ أَوَّلًا؟", "okunus": "Hâdirun yâ ummî! Kûlî lî mâzâ ef‘alu evvelen?", "tr": "Başüstüne anneciğim! Söyle bana ilk önce ne yapayım?" },
+        { "konusan": "الأم", "ar": "خُذْ هٰذِهِ الْأَطْبَاقَ النَّظِيفَةَ وَضَعْهَا عَلَى مَائِدَةِ الطَّعَامِ، وَلَا تَمْشِ بِسُرْعَةٍ كَيْلَا تَسْقُطَ!", "okunus": "Huz hâzihi'l-atbâka'n-nazîfete ve da‘hâ ‘alâ mâideti't-ta‘âmi, ve lâ temşi bi-sur‘atin keylâ teskuta!", "tr": "Bu temiz tabakları al ve yemek masasına koy; düşmesin diye hızlı yürüme!" },
+        { "konusan": "سارة", "ar": "وَأَنَا يَا أُمِّي، كَيْفَ أُسَاعِدُكِ؟", "okunus": "Ve ene yâ ummî, keyfe usâ‘iduki?", "tr": "Peki ben anneciğim, sana nasıl yardım edeyim?" },
+        { "konusan": "الأم", "ar": "تَعَالَيْ يَا سَارَةُ، هَاتِي فَنَاجِينَ الْقَهْوَةِ وَأَكْوَابَ الْمَاءِ مِنَ الْخِزَانَةِ وَرَتِّبِيهَا عَلَى الصِّينِيَّةِ!", "okunus": "Te‘âley yâ Sâratu, hâtî fenâcîne'l-kahveti ve ekvâbe'l-mâi mine'l-hizâneti ve rattibîhâ ‘ale's-sîniyyeti!", "tr": "Gel Sâre, dolaptan kahve fincanlarını ve su bardaklarını getir ve onları tepsiye diz!" },
+        { "konusan": "يوسف", "ar": "وَضَعْتُ الْأَطْبَاقَ يَا أُمِّي! هَلْ أُغْلِقُ نَافِذَةَ الصَّالَةِ أَمْ أَتْرُكُهَا مَفْتُوحَةً؟", "okunus": "Veda‘tu'l-atbâka yâ ummî! Hel ugliku nâfizete's-sâleti em etrukuhâ meftûhaten?", "tr": "Tabakları koydum anneciğim! Salonun penceresini kapatayım mı yoksa açık mı bırakayım?" },
+        { "konusan": "الأم", "ar": "اُتْرُكْهَا مَفْتُوحَةً قَلِيلًا لِيَدْخُلَ الْهَوَاءُ، وَأَعْطِنِي الْمِنْشَفَةَ الْبَيْضَاءَ مِنْ فَضْلِكَ!", "okunus": "Utrukhâ meftûhaten kalîlen li-yedhule'l-hevâu, ve a‘tıni'l-minşefete'l-beydâe min fadlike!", "tr": "Hava girmesi için biraz açık bırak ve lütfen bana beyaz havluyu ver!" },
+        { "konusan": "سارة", "ar": "أُمِّي، هَلْ أُشْعِلُ النَّارَ تَحْتَ إِبْرِيقِ الشَّايِ الْآنَ؟", "okunus": "Ummî, hel uş‘ilu'n-nâra tahte ibrîkı'ş-şâyi'l-âne?", "tr": "Anneciğim, çaydanlığın altındaki ocağı şimdi yakayım mı?" },
+        { "konusan": "الأم", "ar": "نَعَمْ، أَشْعِلِيهَا عَلَى نَارٍ هَادِئَةٍ، وَلَا تَنْسَيْ أَنْ تَضَعِي النَّعْنَاعَ الطَّازَجَ أَيْضًا!", "okunus": "Ne‘am, eş‘ilîhâ ‘alâ nârin hâdietin, ve lâ tensey en teda‘i'n-na‘nâ‘a't-tâzece eydan!", "tr": "Evet, kısık ateşte yak ve taze nane koymayı da unutma!" },
+        { "konusan": "يوسف", "ar": "سَمِعْتُ جَرَسَ الْبَابِ! لَقَدْ وَصَلَ ضُيُوفُنَا!", "okunus": "Semi‘tu cerase'l-bâbi! Lekad vasale duyûfunâ!", "tr": "Kapı zilini duydum! Misafirlerimiz geldi!" },
+        { "konusan": "الأم", "ar": "اِذْهَبْ يَا يُوسُفُ وَافْتَحِ الْبَابَ بِابْتِسَامَةٍ، وَقُلْ لَهُمْ: «تَفَضَّلُوا، أَهْلًا وَسَهْلًا!».", "okunus": "İzheb yâ Yûsufu veftahi'l-bâbe bi'btisâmetin, ve kul lehum: «Tefaddalû, ehlen ve sehlen!».", "tr": "Git Yusuf, kapıyı gülümseyerek aç ve onlara 'Buyurun, hoş geldiniz!' de." },
+        { "konusan": "سارة", "ar": "كُلُّ شَيْءٍ جَاهِزٌ تَمَامًا، تَفَضَّلُوا يَا ضُيُوفَنَا الْكِرَامَ!", "okunus": "Kullu şey'in câhizun temâmen, tefaddalû yâ duyûfena'l-kirâma!", "tr": "Her şey tamamen hazır, buyurun değerli misafirlerimiz!" }
+      ],
+      "partner": [
+        { "soruAr": "كَيْفَ قَالَتِ الْأُمُّ لِسَارَةَ: 'Gel ve fincanları getir!'؟", "soruTr": "Anne Sâre'ye (أَنْتِ) 'Gel ve fincanları getir!' nasıl dedi?", "ipucu": "تَعَالَيْ ... هَاتِي!", "secenekler": ["تَعَالَيْ، هَاتِي فَنَاجِينَ الْقَهْوَةِ!", "تَعَالَ، هَاتِ فَنَاجِينَ الْقَهْوَةِ!", "تَعَالَوْا، هَاتُوا فَنَاجِينَ!"], "dogruIndeks": 0, "aciklama": "Kadına: تَعَالَيْ + هَاتِي!" },
+        { "soruAr": "كَيْفَ قَالَ يُوسُفُ لِأُمِّهِ: 'Bana söyle!' (أَنْتِ)؟", "soruTr": "Yusuf annesine 'Bana söyle!' nasıl dedi?", "ipucu": "قُولِي لِي (و geri döner!).", "secenekler": ["قُولِي لِي!", "قُلِي لِي!", "قُلْ لِي!"], "dogruIndeks": 0, "aciklama": "تَقُولِينَ → قُولِي (أَنْتِ'de uzun و geri döner!)." },
+        { "soruAr": "كَيْفَ قَالَتِ الْأُمُّ لِيُوسُفَ: 'Hızlı yürüme!'؟", "soruTr": "Anne Yusuf'a (أَنْتَ) 'Hızlı yürüme!' nasıl dedi?", "ipucu": "لَا تَمْشِ بِسُرْعَةٍ!", "secenekler": ["لَا تَمْشِ بِسُرْعَةٍ!", "لَا تَمْشِي بِسُرْعَةٍ!", "لَا اِمْشِ بِسُرْعَةٍ!"], "dogruIndeks": 0, "aciklama": "Nâkıs erkek tekil nehiy: ي düşer → لَا تَمْشِ!" },
+        { "soruAr": "كَيْفَ قَالَتِ الْأُمُّ لِيُوسُفَ: 'Onu biraz açık bırak!'؟", "soruTr": "'Onu açık bırak!' (تَتْرُكُ — 1. bab) hangisidir?", "ipucu": "اُتْرُكْهَا (orta harf damme → اُ!).", "secenekler": ["اُتْرُكْهَا مَفْتُوحَةً!", "اِتْرُكْهَا مَفْتُوحَةً!", "أَتْرُكْهَا مَفْتُوحَةً!"], "dogruIndeks": 0, "aciklama": "تَتْرُكُ → اُتْرُكْ + هَا = اُتْرُكْهَا!" },
+        { "soruAr": "كَيْفَ قَالَتِ الْأُمُّ لِيُوسُفَ: 'Bana havluyu ver!'؟", "soruTr": "Erkeğe 'Bana ver!' nasıl söylenir?", "ipucu": "أَعْطِنِي (ي düşer!).", "secenekler": ["أَعْطِنِي الْمِنْشَفَةَ!", "أَعْطِينِي الْمِنْشَفَةَ!", "اِعْطِنِي الْمِنْشَفَةَ!"], "dogruIndeks": 0, "aciklama": "Erkeğe أَعْطِنِي (kısa kesra), kadına أَعْطِينِي!" }
+      ]
+    },
+    {
+      "id": "m17_d4",
+      "baslik": "Spor Koçu ile Sağlıklı Yaşam Programı (Emir & Nehiy Dengesi)",
+      "ortam": "Antrenör yeni başlayan sporcuya günlük egzersiz ve beslenme planı veriyor",
+      "replikler": [
+        { "konusan": "المدرب", "ar": "أَهْلًا يَا كَرِيمُ! إِذَا أَرَدْتَ أَنْ تُحَافِظَ عَلَى لِيَاقَتِكَ، فَاسْمَعْ هٰذَا الْبَرْنَامَجَ الْبَسِيطَ وَطَبِّقْهُ كُلَّ يَوْمٍ!", "okunus": "Ehlen yâ Kerîmu! İzâ eradte en tuhâfiza ‘alâ liyâkatike, fesma‘ hâze'l-bernâmece'l-basîta ve tabbıkhu kulle yevmin!", "tr": "Merhaba Kerim! Formunu korumak istersen bu basit programı dinle ve her gün uygula!" },
+        { "konusan": "كريم", "ar": "أَنَا مُسْتَعِدٌّ يَا مُدَرِّبُ! مِنْ أَيْنَ أَبْدَأُ؟", "okunus": "Ene musta‘iddun yâ muderribu! Min eyne ebdeu?", "tr": "Hazırım koç! Nereden başlayayım?" },
+        { "konusan": "المدرب", "ar": "أَوَّلًا: نَمْ مُبَكِّرًا وَاسْتَيْقِظْ فِي السَّادِسَةِ صَبَاحًا، وَلَا تَسْهَرْ أَمَامَ الشَّاشَاتِ لَيْلًا!", "okunus": "Evvelen: nem mubekkiran vesteykız fi's-sâdiseti sabâhan, ve lâ tesher emâme'ş-şâşâti leylen!", "tr": "İlk olarak: Erken uyu, sabah altıda uyan ve gece ekranların önünde geç saatlere kadar kalma!" },
+        { "konusan": "كريم", "ar": "حَسَنًا! وَمَاذَا أَفْعَلُ قَبْلَ التَّمْرِينِ الرِّيَاضِيِّ؟", "okunus": "Hasenen! Ve mâzâ ef‘alu kable't-temrîni'r-riyâdiyyi?", "tr": "Peki! Spor antrenmanından önce ne yapayım?" },
+        { "konusan": "المدرب", "ar": "اِشْرَبْ كُوبًا مِنَ الْمَاءِ، وَقُمْ بِتَمَارِينَ الْإِحْمَاءِ لِمُدَّةِ عَشْرِ دَقَائِقَ، وَلَا تَبْدَأِ الْجَرْيَ السَّرِيعَ فَجْأَةً!", "okunus": "İşrab kûben mine'l-mâi, ve kum bi-temârîni'l-ihmâi li-muddeti ‘aşri dekâika, ve lâ tebdei'l-cerye's-serî‘a fec'eten!", "tr": "Bir bardak su iç, on dakika boyunca ısınma egzersizleri yap ve hızlı koşuya aniden başlama!" },
+        { "konusan": "كريم", "ar": "وَكَمْ دَقِيقَةً أَجْرِي فِي الْأُسْبُوعِ الْأَوَّلِ؟", "okunus": "Ve kem dakîkaten ecrî fi'l-usbû‘i'l-evveli?", "tr": "İlk hafta kaç dakika koşayım?" },
+        { "konusan": "المدرب", "ar": "اِمْشِ عَشْرَ دَقَائِقَ ثُمَّ اجْرِ عِشْرِينَ دَقِيقَةً بِسُرْعَةٍ مُعْتَدِلَةٍ! خُذْ نَفَسًا عَمِيقًا، وَلَا تُجْهِدْ نَفْسَكَ كَثِيرًا فِي الْبِدَايَةِ!", "okunus": "İmşi ‘aşra dekâika summe'cri ‘işrîne dakîkaten bi-sur‘atin mu‘tediletin! Huz nefesen ‘amîkan, ve lâ tuchid nefseke kesîran fi'l-bidâyeti!", "tr": "On dakika yürü, sonra orta hızda yirmi dakika koş! Derin nefes al ve başlangıçta kendini aşırı yorma!" },
+        { "konusan": "كريم", "ar": "وَفِي الطَّعَامِ؟ مَاذَا تَنْصَحُنِي أَنْ آكُلَ؟", "okunus": "Ve fi't-ta‘âmi? Mâzâ tensahunî en âkule?", "tr": "Peki beslenmede? Ne yememi tavsiye edersin?" },
+        { "konusan": "المدرب", "ar": "كُلْ خُضْرَاوَاتٍ وَفَوَاكِهَ طَازَجَةً، وَأَكْثِرْ مِنْ شُرْبِ الْمَاءِ، وَلَا تَأْكُلِ الْوَجَبَاتِ السَّرِيعَةَ وَلَا تَشْرَبِ الْمَشْرُوبَاتِ الْغَازِيَّةَ!", "okunus": "Kul hudrâvâtin ve fevâkihe tâzeceten, ve eksir min şurbi'l-mâi, ve lâ te'kuli'l-vecebâti's-serî‘ate ve lâ teşrabi'l-meşrûbâti'l-gâziyyete!", "tr": "Taze sebze ve meyve ye, bol su iç; fast-food yeme ve gazlı içecekler içme!" },
+        { "konusan": "كريم", "ar": "مَا شَاءَ اللّٰهُ، نَصَائِحُ عَمَلِيَّةٌ جِدًّا! هَلْ أُوَاصِلُ هٰذَا النِّظَامَ كُلَّ يَوْمٍ؟", "okunus": "Mâ şâallâhu, nasâihu ‘ameliyyetun cidden! Hel uvâsilu hâze'n-nizâme kulle yevmin?", "tr": "Maşallah, çok pratik tavsiyeler! Bu düzeni her gün sürdüreyim mi?" },
+        { "konusan": "المدرب", "ar": "تَمَرَّنْ خَمْسَةَ أَيَّامٍ وَاسْتَرِحْ يَوْمَيْنِ فِي الْأُسْبُوعِ! كُنْ صَبُورًا، وَلَا تَيْأَسْ إِذَا تَعِبْتَ قَلِيلًا، فَسَتَرَى النَّتِيجَةَ بَعْدَ شَهْرٍ!", "okunus": "Temerran hamsete eyyâmin vesterih yevmeyni fi'l-usbû‘i! Kun sabûran, ve lâ tey'es izâ ta‘ibte kalîlen, fe-se-tera'n-netîcete ba‘de şehrin!", "tr": "Haftada beş gün antrenman yap ve iki gün dinlen! Sabırlı ol ve biraz yorulursan umutsuzluğa kapılma; bir ay sonra sonucu göreceksin!" },
+        { "konusan": "كريم", "ar": "شُكْرًا يَا مُدَرِّبُ! سَأَبْدَأُ غَدًا صَبَاحًا بِكُلِّ حَمَاسٍ!", "okunus": "Şukran yâ muderribu! Se-ebdeu gaden sabâhan bi-kulli hamâsin!", "tr": "Teşekkürler koç! Yarın sabah büyük bir hevesle başlayacağım!" }
+      ],
+      "partner": [
+        { "soruAr": "كَيْفَ نَقُولُ 'Erken uyu!' (تَنَامُ)؟", "soruTr": "'Erken uyu!' (ecvef emir) hangisidir?", "ipucu": "نَمْ مُبَكِّرًا! (ا düşer!).", "secenekler": ["نَمْ مُبَكِّرًا!", "نَامْ مُبَكِّرًا!", "اِنَمْ مُبَكِّرًا!"], "dogruIndeks": 0, "aciklama": "تَنَامُ → نَمْ (hemze yok, ا düşer!)." },
+        { "soruAr": "كَيْفَ نَقُولُ 'Sebze ye, ama fast-food yeme!'؟", "soruTr": "'Ye!' (emir) ve 'Yeme!' (nehiy) çifti hangisidir?", "ipucu": "كُلْ ... وَلَا تَأْكُلْ!", "secenekler": ["كُلْ خُضْرَاوَاتٍ، وَلَا تَأْكُلِ الْوَجَبَاتِ السَّرِيعَةَ!", "أَكِلْ خُضْرَاوَاتٍ وَلَا كُلْ!", "كُلْ وَلَا كُلْ!"], "dogruIndeks": 0, "aciklama": "Emir: كُلْ (hemzesiz kısa); Nehiy: لَا تَأْكُلْ (muzâride hemze döner!)." },
+        { "soruAr": "كَيْفَ نَقُولُ 'Yirmi dakika koş!' (تَجْرِي — nâkıs)؟", "soruTr": "'Koş!' (nâkıs emir) hangisidir?", "ipucu": "اِجْرِ (ي düşer!).", "secenekler": ["اِجْرِ عِشْرِينَ دَقِيقَةً!", "اِجْرِي عِشْرِينَ دَقِيقَةً!", "اُجْرِ عِشْرِينَ دَقِيقَةً!"], "dogruIndeks": 0, "aciklama": "تَجْرِي → اِجْرِ (kesralı vasıl + ي hazfi!)." },
+        { "soruAr": "كَيْفَ نَقُولُ 'İki gün dinlen!' (تَسْتَرِيحُ)؟", "soruTr": "'Dinlen!' (X. bab ecvef emir) hangisidir?", "ipucu": "اِسْتَرِحْ (ي düşer!).", "secenekler": ["اِسْتَرِحْ يَوْمَيْنِ!", "اِسْتَرِيحْ يَوْمَيْنِ!", "أَسْتَرِحْ يَوْمَيْنِ!"], "dogruIndeks": 0, "aciklama": "تَسْتَرِيحُ → اِسْتَرِحْ (ي düşer!)." },
+        { "soruAr": "كَيْفَ نَقُولُ 'Bol su iç (su içmeyi çoğalt)!' (IV. bab)؟", "soruTr": "'Bol su iç!' (أَكْثَرَ IV. bab emri) hangisidir?", "ipucu": "أَكْثِرْ مِنْ شُرْبِ الْمَاءِ!", "secenekler": ["أَكْثِرْ مِنْ شُرْبِ الْمَاءِ!", "اِكْثِرْ مِنْ شُرْبِ الْمَاءِ!", "كَثِّرْ مِنْ الْمَاءِ!"], "dogruIndeks": 0, "aciklama": "IV. bab → fethalı kat' hemzesi: أَكْثِرْ!" }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "id": "m17_fc01", "ar": "فِعْلُ الْأَمْرِ", "harekesiz": "فعل الأمر", "okunus": "Fi‘lu'l-emri", "tr": "Emir fiili (Emr-i Hâzır)", "kok": "أ م ر", "vezin": "فَعْل", "turevler": ["أَوَامِر", "مَأْمُور"], "ekBilgi": "Mebnîdir; muzârisinin cezmedildiği alâmet (sükûn / ن hazfi / illet hazfi) üzere mebnî olur", "ornek": "اِقْرَأْ وَاكْتُبْ وَافْهَمْ!", "ornekTr": "Oku, yaz ve anla!", "kullanimNotu": "Sadece 6 muhatap şahsa çekilir!", "tur": "Terim" },
+    { "id": "m17_fc02", "ar": "هَمْزَةُ الْوَصْلِ", "harekesiz": "همزة الوصل", "okunus": "Hemzetu'l-vasli", "tr": "Vasıl hemzesi (اُ / اِ)", "kok": "و ص ل", "vezin": "فَعْل", "turevler": ["اُكْتُبْ", "اِفْتَحْ", "اِجْلِسْ"], "ekBilgi": "Üzerine hemze işareti (أ/إ) konmaz; geçişte düşer (وَاكْتُبْ = vektub)", "ornek": "اِجْلِسْ وَاكْتُبِ الدَّرْسَ!", "ornekTr": "Otur ve dersi yaz!", "kullanimNotu": "Sülâsî emirde orta harf ـُ ise اُ, ـَ/ـِ ise اِ olur!", "tur": "Terim" },
+    { "id": "m17_fc03", "ar": "اُكْتُبْ / اُكْتُبِي / اُكْتُبُوا", "harekesiz": "اكتب / اكتبي / اكتبوا", "okunus": "Uktub / Uktubî / Uktubû", "tr": "Yaz! / Yaz (K)! / Yazın!", "kok": "ك ت ب", "vezin": "اُفْعُلْ", "turevler": ["اُكْتُبَا", "اُكْتُبْنَ"], "ekBilgi": "1. bab (تَكْتُبُ — orta ـُ) → vasıl hemzesi dammeli (اُ)", "ornek": "يَا طُلَّابُ، اُكْتُبُوا الْمُلَخَّصَ!", "ornekTr": "Öğrenciler, özeti yazın!", "kullanimNotu": "Dammeli vasıl hemzesi modelidir.", "tur": "Fiil" },
+    { "id": "m17_fc04", "ar": "اِفْتَحْ / اِفْتَحِي / اِفْتَحُوا", "harekesiz": "افتح / افتحي / افتحوا", "okunus": "İftah / İftahî / İftahû", "tr": "Aç! / Aç (K)! / Açın!", "kok": "ف ت ح", "vezin": "اِفْعَلْ", "turevler": ["اِفْتَحَا", "اِفْتَحْنَ"], "ekBilgi": "3. bab (تَفْتَحُ — orta ـَ) → vasıl hemzesi KESRALI (اِ)!", "ornek": "اِفْتَحِ النَّافِذَةَ مِنْ فَضْلِكَ!", "ornekTr": "Lütfen pencereyi aç!", "kullanimNotu": "Asla أَفْتَحْ diye fethalı okunmaz!", "tur": "Fiil" },
+    { "id": "m17_fc05", "ar": "اِجْلِسْ / اِجْلِسِي / اِجْلِسُوا", "harekesiz": "اجلس / اجلسي / اجلسوا", "okunus": "İclis / İclisî / İclisû", "tr": "Otur! / Otur (K)! / Oturun!", "kok": "ج ل س", "vezin": "اِفْعِلْ", "turevler": ["اِجْلِسَا", "اِجْلِسْنَ"], "ekBilgi": "2. bab (تَجْلِسُ — orta ـِ) → vasıl hemzesi kesralı (اِ)", "ornek": "تَفَضَّلْ وَاجْلِسْ هُنَا!", "ornekTr": "Buyur ve buraya otur!", "kullanimNotu": "Kesralı vasıl hemzesi modelidir.", "tur": "Fiil" },
+    { "id": "m17_fc06", "ar": "اِقْرَأْ / اِقْرَئِي / اِقْرَؤُوا", "harekesiz": "اقرأ / اقرئي / اقرؤوا", "okunus": "İkra' / İkraî / İkraû", "tr": "Oku! / Oku (K)! / Okuyun!", "kok": "ق ر أ", "vezin": "اِفْعَلْ", "turevler": ["اِقْرَآ", "اِقْرَأْنَ"], "ekBilgi": "Kur'an'ın ilk emri; 3. bab (تَقْرَأُ) → kesralı vasıl hemzesi", "ornek": "اِقْرَأْ بِاسْمِ رَبِّكَ!", "ornekTr": "Rabbinin adıyla oku!", "kullanimNotu": "Sonundaki hemze şahsa göre أ / ئ / ؤ üzerinde oturur.", "tur": "Fiil" },
+    { "id": "m17_fc07", "ar": "قُلْ / قُولِي / قُولُوا", "harekesiz": "قل / قولي / قولوا", "okunus": "Kul / Kûlî / Kûlû", "tr": "Söyle! / Söyle (K)! / Söyleyin!", "kok": "ق و ل", "vezin": "فُلْ (أَجْوَف)", "turevler": ["قُولَا", "قُلْنَ"], "ekBilgi": "Tekilde و düşer (قُلْ), أَنْتِ/أَنْتُمْ'da geri döner (قُولِي/قُولُوا)!", "ornek": "قُلِ الْحَقَّ وَلَوْ كَانَ مُرًّا!", "ornekTr": "Acı da olsa doğruyu söyle!", "kullanimNotu": "Hemzesiz ecvef emirlerin kralıdır.", "tur": "Fiil" },
+    { "id": "m17_fc08", "ar": "كُنْ / كُونِي / كُونُوا", "harekesiz": "كن / كوني / كونوا", "okunus": "Kun / Kûnî / Kûnû", "tr": "Ol! / Ol (K)! / Olun!", "kok": "ك و ن", "vezin": "فُلْ (أَجْوَف)", "turevler": ["كُونَا", "كُنَّ"], "ekBilgi": "كَانَ fiilinin emri; haberi mansub gelir: كُنْ صَادِقًا!", "ornek": "كُنْ صَبُورًا وَمُتَفَائِلًا!", "ornekTr": "Sabırlı ve iyimser ol!", "kullanimNotu": "أَنْتُنَّ şahsında iki ن şeddelenir: كُنَّ!", "tur": "Fiil" },
+    { "id": "m17_fc09", "ar": "قُمْ / قُومِي / قُومُوا", "harekesiz": "قم / قومي / قوموا", "okunus": "Kum / Kûmî / Kûmû", "tr": "Kalk! / (بِـ ile) Yap!", "kok": "ق و م", "vezin": "فُلْ (أَجْوَف)", "turevler": ["قُومَا", "قُمْنَ"], "ekBilgi": "بِـ ile gelirse 'yapmak/gerçekleştirmek' (قُمْ بِالتَّمَارِينِ) demektir!", "ornek": "قُمْ بِتَمَارِينَ الْإِحْمَاءِ أَوَّلًا!", "ornekTr": "Önce ısınma egzersizlerini yap!", "kullanimNotu": "Çok kullanışlı bir akademik ve günlük fiildir.", "tur": "Fiil" },
+    { "id": "m17_fc10", "ar": "نَمْ / نَامِي / نَامُوا", "harekesiz": "نم / نامي / ناموا", "okunus": "Nem / Nâmî / Nâmû", "tr": "Uyu! / Uyu (K)! / Uyuyun!", "kok": "ن و م", "vezin": "فَلْ (أَجْوَف)", "turevler": ["نَامَا", "نَمْنَ"], "ekBilgi": "تَنَامُ → tekilde ا düşer (نَمْ), çoğulda döner (نَامُوا)", "ornek": "نَمْ مُبَكِّرًا كَيْ تَسْتَيْقِظَ نَشِيطًا!", "ornekTr": "Dinç uyanmak için erken uyu!", "kullanimNotu": "Nehyi: لَا تَنَمْ / لَا تَنَامُوا.", "tur": "Fiil" },
+    { "id": "m17_fc11", "ar": "سِرْ / سِيرِي / سِيرُوا", "harekesiz": "سر / سيري / سيروا", "okunus": "Sir / Sîrî / Sîrû", "tr": "Yürü! / Git! / İlerle!", "kok": "س ي ر", "vezin": "فِلْ (أَجْوَف)", "turevler": ["سِيرَا", "سِرْنَ"], "ekBilgi": "Yol tariflerinde 'Dümdüz git!': سِرْ مُبَاشَرَةً!", "ornek": "سِرْ مُبَاشَرَةً ثُمَّ انْعَطِفْ يَمِينًا!", "ornekTr": "Dümdüz git, sonra sağa dön!", "kullanimNotu": "بِعْ (Sat!) da aynı ي'li ecvef modelidir.", "tur": "Fiil" },
+    { "id": "m17_fc12", "ar": "خُذْ / خُذِي / خُذُوا", "harekesiz": "خذ / خذي / خذوا", "okunus": "Huz / Huzî / Huzû", "tr": "Al! / Al (K)! / Alın!", "kok": "أ خ ذ", "vezin": "عُلْ (مَهْمُوز)", "turevler": ["خُذَا", "خُذْنَ"], "ekBilgi": "أَخَذَ fiilinin özel kısa emridir (hemze düşmüştür); nehyinde döner: لَا تَأْخُذْ!", "ornek": "خُذْ مِظَلَّتَكَ مَعَكَ!", "ornekTr": "Şemsiyeni yanına al!", "kullanimNotu": "خُذْ بِالْأَسْبَابِ = Sebeplere sarıl!", "tur": "Fiil" },
+    { "id": "m17_fc13", "ar": "كُلْ / كُلِي / كُلُوا", "harekesiz": "كل / كلي / كلوا", "okunus": "Kul / Kulî / Kulû", "tr": "Ye! / Ye (K)! / Yiyin!", "kok": "أ ك ل", "vezin": "عُلْ (مَهْمُوز)", "turevler": ["كُلَا", "كُلْنَ"], "ekBilgi": "أَكَلَ fiilinin özel kısa emri; nehyinde hemze döner: لَا تَأْكُلْ!", "ornek": "كُلْ خُضْرَاوَاتٍ وَفَوَاكِهَ طَازَجَةً!", "ornekTr": "Taze sebze ve meyve ye!", "kullanimNotu": "قُلْ (kalın k: Söyle!) ile كُلْ (ince k: Ye!) ses farkına dikkat!", "tur": "Fiil" },
+    { "id": "m17_fc14", "ar": "قِفْ / قِفِي / قِفُوا", "harekesiz": "قف / قفي / قفوا", "okunus": "Kıf / Kıfî / Kıfû", "tr": "Dur! / Ayakta dur!", "kok": "و ق ف", "vezin": "عِلْ (مِثَال)", "turevler": ["قِفَا", "قِفْنَ"], "ekBilgi": "Trafik levhasında 'DUR!' = قِفْ! (وَقَفَ → تَقِفُ → قِفْ)", "ornek": "قِفْ هُنَا لَحْظَةً مِنْ فَضْلِكَ!", "ornekTr": "Lütfen burada bir dakika dur!", "kullanimNotu": "Hemzesiz misâl emridir.", "tur": "Fiil" },
+    { "id": "m17_fc15", "ar": "ضَعْ / ضَعِي / ضَعُوا", "harekesiz": "ضع / ضعي / ضعوا", "okunus": "Da‘ / Da‘î / Da‘û", "tr": "Koy! / Yerleştir!", "kok": "و ض ع", "vezin": "عَلْ (مِثَال)", "turevler": ["ضَعَا", "ضَعْنَ"], "ekBilgi": "وَضَعَ → تَضَعُ → ضَعْ (و ve hemze yok!)", "ornek": "ضَعِ الْمَفَاتِيحَ عَلَى الطَّاوِلَةِ!", "ornekTr": "Anahtarları masaya koy!", "kullanimNotu": "Günlük evde/sınıfta çok sık kullanılır.", "tur": "Fiil" },
+    { "id": "m17_fc16", "ar": "اُدْعُ / اُدْعِي / اُدْعُوا", "harekesiz": "ادع / ادعي / ادعوا", "okunus": "Ud‘u / Ud‘î / Ud‘û", "tr": "Dua et! / Davet et! / Çağır!", "kok": "د ع و", "vezin": "اُفْعُ (نَاقِص)", "turevler": ["اُدْعُوَا", "اُدْعُونَ"], "ekBilgi": "Tekil erilde و düşer, damme kalır: اُدْعُ!", "ornek": "اُدْعُ اللّٰهَ بِإِخْلَاصٍ!", "ornekTr": "Allah'a samimiyetle dua et!", "kullanimNotu": "لِـ ile 'birine dua etmek' (اُدْعُ لِي = bana dua et!).", "tur": "Fiil" },
+    { "id": "m17_fc17", "ar": "اِمْشِ / اِمْشِي / اِمْشُوا", "harekesiz": "امش / امشي / امشوا", "okunus": "İmşi / İmşî / İmşû", "tr": "Yürü! / Yürüyün!", "kok": "م ش ي", "vezin": "اِفْعِ (نَاقِص)", "turevler": ["اِمْشِيَا", "اِمْشِينَ"], "ekBilgi": "Tekil erilde ي düşer, kısa kesra kalır: اِمْشِ!", "ornek": "اِمْشِ فِي طَرِيقِ الْخَيْرِ!", "ornekTr": "Hayır yolunda yürü!", "kullanimNotu": "اِمْشِي (uzun ي) sadece kadına (أَنْتِ) söylenir!", "tur": "Fiil" },
+    { "id": "m17_fc18", "ar": "أَعْطِ / أَعْطِي / أَعْطُوا", "harekesiz": "أعط / أعطي / أعطوا", "okunus": "A‘tı / A‘tî / A‘tû", "tr": "Ver! / Ver (K)! / Verin!", "kok": "ع ط و", "vezin": "أَفْعِ (IV + نَاقِص)", "turevler": ["أَعْطِنِي", "أَعْطُونِي"], "ekBilgi": "IV. bab olduğu için fethalı kat' hemzesi (أَ) + tekilde ي düşer!", "ornek": "أَعْطِنِي الْقَلَمَ مِنْ فَضْلِكَ!", "ornekTr": "Lütfen bana kalemi ver!", "kullanimNotu": "Erkeğe أَعْطِنِي, kadına أَعْطِينِي!", "tur": "Fiil" },
+    { "id": "m17_fc19", "ar": "أَغْلِقْ / أَغْلِقِي / أَغْلِقُوا", "harekesiz": "أغلق / أغلقي / أغلقوا", "okunus": "Aglık / Aglıkî / Aglıkû", "tr": "Kapat! / Kapatın!", "kok": "غ ل ق", "vezin": "أَفْعِلْ (IV. Bab)", "turevler": ["إِغْلَاق", "مُغْلَق"], "ekBilgi": "IV. bab emri fethalı kat' hemzesiyle (أَ) başlar!", "ornek": "أَغْلِقِ الْبَابَ قَبْلَ الْخُرُوجِ!", "ornekTr": "Çıkmadan önce kapıyı kapat!", "kullanimNotu": "اِفْتَحْ (Aç!) fiilinin zıt anlamlısıdır.", "tur": "Fiil" },
+    { "id": "m17_fc20", "ar": "أَرْسِلْ / أَرْسِلِي / أَرْسِلُوا", "harekesiz": "أرسل / أرسلي / أرسلوا", "okunus": "Ersil / Ersilî / Ersilû", "tr": "Gönder! / Yolla!", "kok": "ر س ل", "vezin": "أَفْعِلْ (IV. Bab)", "turevler": ["إِرْسَال", "رِسَالَة"], "ekBilgi": "IV. bab → fethalı kat' hemzesi (أَ)", "ornek": "أَرْسِلْ لَنَا أَخْبَارَكَ كُلَّ أُسْبُوعٍ!", "ornekTr": "Her hafta bize haberlerini gönder!", "kullanimNotu": "İletişimde en sık kullanılan IV. bab emridir.", "tur": "Fiil" },
+    { "id": "m17_fc21", "ar": "أَجِبْ / أَجِيبِي / أَجِيبُوا", "harekesiz": "أجب / أجيبي / أجيبوا", "okunus": "Ecib / Ecîbî / Ecîbû", "tr": "Cevapla! / Cevap ver!", "kok": "ج و ب", "vezin": "أَفِلْ (IV + أَجْوَف)", "turevler": ["إِجَابَة", "جَوَاب"], "ekBilgi": "عَنْ harf-i ceriyle kullanılır: أَجِبْ عَنِ السُّؤَالِ!", "ornek": "أَجِيبُوا عَنِ الْأَسْئِلَةِ التَّالِيَةِ!", "ornekTr": "Aşağıdaki soruları cevaplayın!", "kullanimNotu": "Sınav yönergelerinin 1 numaralı emridir!", "tur": "Fiil" },
+    { "id": "m17_fc22", "ar": "تَفَضَّلْ / تَفَضَّلِي / تَفَضَّلُوا", "harekesiz": "تفضل / تفضلي / تفضلوا", "okunus": "Tefaddal / Tefaddalî / Tefaddalû", "tr": "Buyur! / Buyurun!", "kok": "ف ض ل", "vezin": "تَفَعَّلْ", "turevler": ["فَضْل", "مِنْ فَضْلِكَ"], "ekBilgi": "İkram, içeri davet, oturma ve söz vermede en zarif Arapça ifadedir", "ornek": "تَفَضَّلُوا بِالْجُلُوسِ وَاشْرَبُوا الْقَهْوَةَ!", "ornekTr": "Buyurun oturun ve kahve için!", "kullanimNotu": "V. bab hemzesiz emirdir.", "tur": "Kalıp" },
+    { "id": "m17_fc23", "ar": "تَعَالَ / تَعَالَيْ / تَعَالَوْا", "harekesiz": "تعال / تعالي / تعالوا", "okunus": "Te‘âle / Te‘âley / Te‘âlev", "tr": "Gel! / Gel (K)! / Gelin!", "kok": "ع ل و", "vezin": "تَفَاعَلَ (أَمْر)", "turevler": ["تَعَالَيَا", "تَعَالَيْنَ"], "ekBilgi": "Fasîh Arapçada لَ harfi her şahısta FETHALIDIR!", "ornek": "تَعَالَ مَعِي إِلَى الْمَكْتَبَةِ!", "ornekTr": "Benimle kütüphaneye gel!", "kullanimNotu": "Günlük diyalogların vazgeçilmez çağrı fiilidir.", "tur": "Fiil" },
+    { "id": "m17_fc24", "ar": "هَاتِ / هَاتِي / هَاتُوا", "harekesiz": "هات / هاتي / هاتوا", "okunus": "Hâti / Hâtî / Hâtû", "tr": "Getir! / Ver! / Getirin!", "kok": "ه و ت", "vezin": "فِعْلُ أَمْرٍ خَاصٌّ", "turevler": ["هَاتِيَا", "هَاتِينَ"], "ekBilgi": "Erkeğe kısa kesra (هَاتِ), kadına uzun (هَاتِي), çoğula هَاتُوا!", "ornek": "هَاتُوا أَفْكَارَكُمُ الْجَدِيدَةَ!", "ornekTr": "Yeni fikirlerinizi getirin!", "kullanimNotu": "Mâzi ve muzârisi kullanılmaz, sadece emir olarak yaşar!", "tur": "Fiil" },
+    { "id": "m17_fc25", "ar": "هَيَّا بِنَا!", "harekesiz": "هيا بنا", "okunus": "Heyyâ binâ!", "tr": "Haydi (gidelim / başlayalım)!", "kok": "ه ي أ", "vezin": "اِسْمُ فِعْلِ أَمْرٍ", "turevler": ["هَيَّا", "هَيَّا إِلَى الْعَمَلِ"], "ekBilgi": "İsim-fiil emirdir; cinsiyete/sayıya göre değişmez", "ornek": "هَيَّا بِنَا نَبْدَأُ الرِّحْلَةَ!", "ornekTr": "Haydi yolculuğa başlayalım!", "kullanimNotu": "فَلْنَبْدَأْ ile harika uyum sağlar.", "tur": "Kalıp" },
+    { "id": "m17_fc26", "ar": "لَوْ سَمَحْتَ / لَوْ سَمَحْتِ", "harekesiz": "لو سمحت", "okunus": "Lev semahte / Lev semahti", "tr": "Müsaadenizle / Lütfen", "kok": "س م ح", "vezin": "عِبَارَةُ أَدَبٍ", "turevler": ["لَوْ سَمَحْتُمْ", "سَمَاح"], "ekBilgi": "Kibar rica ve dikkat çekme ('Affedersiniz / Müsaadenizle') kalıbıdır", "ornek": "لَوْ سَمَحْتَ، أَيْنَ مَحَطَّةُ الْمِتْرُو؟", "ornekTr": "Müsaadenizle, metro istasyonu nerede?", "kullanimNotu": "Erkeğe ـتَ, kadına ـتِ, çoğula ـتُمْ!", "tur": "Kalıp" },
+    { "id": "m17_fc27", "ar": "مِنْ فَضْلِكَ / مِنْ فَضْلِكِ", "harekesiz": "من فضلك", "okunus": "Min fadlike / Min fadliki", "tr": "Lütfen", "kok": "ف ض ل", "vezin": "عِبَارَةُ أَدَبٍ", "turevler": ["مِنْ فَضْلِكُمْ", "فَضْلًا"], "ekBilgi": "Her emri anında nazik bir ricaya dönüştürür", "ornek": "أَغْلِقِ النَّافِذَةَ مِنْ فَضْلِكَ!", "ornekTr": "Lütfen pencereyi kapat!", "kullanimNotu": "Cümle başında veya sonunda kullanılabilir.", "tur": "Kalıp" },
+    { "id": "m17_fc28", "ar": "دُلَّنِي عَلَى", "harekesiz": "دلني على", "okunus": "Dullenî ‘alâ", "tr": "Bana ...-yı göster / tarif et!", "kok": "د ل ل", "vezin": "فُعَّ (مُضَعَّف)", "turevler": ["دَلِيل", "دَلَالَة"], "ekBilgi": "دَلَّ — يَدُلُّ عَلَى (yol göstermek) muzaaf fiilinin emridir", "ornek": "دُلَّنِي عَلَى طَرِيقِ الْمَحَطَّةِ مِنْ فَضْلِكَ!", "ornekTr": "Lütfen bana istasyonun yolunu göster!", "kullanimNotu": "عَلَى harf-i ceriyle kullanılır.", "tur": "Kalıp" },
+    { "id": "m17_fc29", "ar": "اِنْعَطِفْ يَمِينًا / يَسَارًا", "harekesiz": "انعطف يمينا / يسارا", "okunus": "İn‘atıf yemînen / yesâran", "tr": "Sağa / sola dön!", "kok": "ع ط ف", "vezin": "اِنْفَعِلْ", "turevler": ["مُنْعَطَف", "اِنْعِطَاف"], "ekBilgi": "Yol tarifinin temel emir kalıbıdır", "ornek": "اِنْعَطِفْ يَسَارًا بَعْدَ إِشَارَةِ الْمُرُورِ!", "ornekTr": "Trafik ışığından sonra sola dön!", "kullanimNotu": "VII. bab kesralı vasıl hemzesi.", "tur": "Kalıp" },
+    { "id": "m17_fc30", "ar": "لَا تَخَفْ / لَا تَخَافِي / لَا تَخَافُوا", "harekesiz": "لا تخف / لا تخافي / لا تخافوا", "okunus": "Lâ tehaf / Lâ tehâfî / Lâ tehâfû", "tr": "Korkma! / Korkmayın!", "kok": "خ و ف", "vezin": "لَا تَفَلْ (أَجْوَف)", "turevler": ["خَوْف", "خَائِف"], "ekBilgi": "Tekilde ا düşer (لَا تَخَفْ), dişil/çoğulda döner (لَا تَخَافِي / لَا تَخَافُوا)", "ornek": "لَا تَخَفْ وَلَا تَحْزَنْ!", "ornekTr": "Korkma ve üzülme!", "kullanimNotu": "Kur'an ve günlük teselli dilinin klasik kalıbıdır.", "tur": "Fiil" },
+    { "id": "m17_fc31", "ar": "لَا تَنْسَ / لَا تَنْسَيْ / لَا تَنْسَوْا", "harekesiz": "لا تنس / لا تنسي / لا تنسوا", "okunus": "Lâ tense / Lâ tensey / Lâ tensev", "tr": "Unutma! / Unutmayın!", "kok": "ن س ي", "vezin": "لَا تَفْعَ (نَاقِص)", "turevler": ["نِسْيَان", "اِنْسَ"], "ekBilgi": "Tekil erilde ى düşer: لَا تَنْسَ!", "ornek": "لَا تَنْسَ جَوَازَ السَّفَرِ!", "ornekTr": "Pasaportu unutma!", "kullanimNotu": "أَنْ + muzâri ile ('...-mayı unutma!') çok kullanılır.", "tur": "Fiil" },
+    { "id": "m17_fc32", "ar": "اِسْتَرِحْ / اِسْتَرِيحِي / اِسْتَرِيحُوا", "harekesiz": "استرح / استريحي / استريحوا", "okunus": "İsterih / İsterîhî / İsterîhû", "tr": "Dinlen! / Dinlenin!", "kok": "ر و ح", "vezin": "اِسْتَفِلْ (X + أَجْوَف)", "turevler": ["اِسْتِرَاحَة", "رَاحَة"], "ekBilgi": "X. bab ecvef emri: tekilde ي düşer (اِسْتَرِحْ), çoğulda döner (اِسْتَرِيحُوا)", "ornek": "اِسْتَرِحْ قَلِيلًا بَعْدَ هٰذَا الْعَمَلِ الطَّوِيلِ!", "ornekTr": "Bu uzun işten sonra biraz dinlen!", "kullanimNotu": "مُرِيحٌ = rahat / konforlu.", "tur": "Fiil" }
+  ]
+}

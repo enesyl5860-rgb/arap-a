@@ -1,0 +1,778 @@
+{
+  "id": "16",
+  "slug": "modul_16",
+  "phaseId": 2,
+  "cilt": 2,
+  "cefr": "A2",
+  "title": "Muzâriyi Cezmeden Edatlar, Emr-i Gâib & Nehy-i Gâib",
+  "arabicTitle": "جَوَازِمُ الْفِعْلِ الْمُضَارِعِ وَالْأَمْرُ وَالنَّهْيُ لِلْغَائِبِ",
+  "category": "Sarf & Nahiv",
+  "summary": "لَمْ (Cahd-ı Mutlak), لَمَّا (Cahd-ı Mustağrak), لَامُ الْأَمْرِ (Emr-i Gâib / Mütekellim) ve لَا النَّاهِيَةُ (Nehy-i Gâib) ile 3 cezm alâmeti ve ecvef/nâkıs cezm kuralları.",
+  "grammar": [
+    {
+      "id": "m16_g1",
+      "baslik": "Muzâriyi Cezmeden 4 Edat & 3 Cezm Alâmeti (Sükûn, ن Hazfi, İllet Hazfi)",
+      "arBaslik": "الْجَوَازِمُ الْأَرْبَعَةُ وَعَلَامَاتُ الْجَزْمِ الثَّلَاثُ",
+      "mantik": "Cezm kelimesi Arapçada 'kesmek, durdurmak' demektir! Bir muzâri fiilin başına `لَمْ، لَمَّا، لَامُ الْأَمْرِ (لِـ)، لَا النَّاهِيَةُ` edatlarından biri geldiğinde fiilin sonu keskin bir fren yapar: (1) Sonu sağlam harfse **sükûn (ـْ)** gelir (`يَكْتُبُ → لَمْ يَكْتُبْ`), (2) Ef'âl-i Hamse ise sondaki **ن düşer** (`يَكْتُبُونَ → لَمْ يَكْتُبُوا`), (3) Sonu illetli (`و / ي / ى`) olan tekil bir fiilse **illet harfinin kendisi düşer** ve yerine o harfi hatırlatan kısa hareke kalır (`يَدْعُو → لَمْ يَدْعُ`, `يَمْشِي → لَمْ يَمْشِ`, `يَنْسَى → لَمْ يَنْسَ`)! Ayrıca ortası uzun sesli olan ecvef fiillerde (`يَقُولُ / يَكُونُ / يَبِيعُ`) iki sükûn çakışmasın diye ortadaki uzun harf düşer (`لَمْ يَقُلْ / لَمْ يَكُنْ / لَمْ يَبِعْ`)!",
+      "formul": "Cezm Alâmetleri: (1) Sükûn (لَمْ يَكْتُبْ) | (2) ن Hazfi (لَمْ يَكْتُبُوا) | (3) İllet Hazfi (لَمْ يَمْشِ / لَمْ يَدْعُ / لَمْ يَنْسَ)",
+      "formulAr": "لَمْ / لَمَّا / لِـ / لَا + فِعْلٌ مُضَارِعٌ مَجْزُومٌ (سُكُونٌ / حَذْفُ النُّونِ / حَذْفُ حَرْفِ الْعِلَّةِ)",
+      "tablo": {
+        "baslik": "3 Cezm Alâmeti + Ecvef & Geçiş Kesrası Referans Tablosu",
+        "sutunlar": ["Fiil Türü", "Merfû (Normal)", "Meczum (لَمْ ile)", "Cezm Alâmeti / Kural", "Anlam"],
+        "satirlar": [
+          { "hucreler": ["Sahîh Tekil (هُوَ / أَنَا / نَحْنُ)", "يَكْتُبُ / أَكْتُبُ", "لَمْ يَكْتُبْ / لَمْ أَكْتُبْ", "Açık Sükûn (ـْ)", "Yazmadı / yazmadım"], "ar": "لَمْ يَكْتُبْ — لَمْ أَكْتُبْ" },
+          { "hucreler": ["Ef'âl-i Hamse (هُمْ / هُمَا / أَنْتِ)", "يَكْتُبُونَ / تَكْتُبَانِ / تَكْتُبِينَ", "لَمْ يَكْتُبُوا / لَمْ تَكْتُبَا / لَمْ تَكْتُبِي", "ن Hazfi", "Yazmadılar / yazmadınız / yazmadın"], "ar": "لَمْ يَكْتُبُوا — لَمْ تَكْتُبَا — لَمْ تَكْتُبِي" },
+          { "hucreler": ["Nâkıs (Sonu و / ي / ى)", "يَدْعُو / يَمْشِي / يَنْسَى", "لَمْ يَدْعُ / لَمْ يَمْشِ / لَمْ يَنْسَ", "İllet Harfinin Hazfi!", "Çağırmadı / yürümedi / unutmadı"], "ar": "لَمْ يَدْعُ — لَمْ يَمْشِ — لَمْ يَنْسَ" },
+          { "hucreler": ["Ecvef (Ortası ا / و / ي)", "يَقُولُ / يَكُونُ / يَبِيعُ / يَنَامُ", "لَمْ يَقُلْ / لَمْ يَكُنْ / لَمْ يَبِعْ / لَمْ يَنَمْ", "Sükûn (+ orta illet hazfi!)", "Söylemedi / olmadı / satmadı / uyumadı"], "ar": "لَمْ يَقُلْ — لَمْ يَكُنْ — لَمْ يَبِعْ — لَمْ يَنَمْ" },
+          { "hucreler": ["Cem-i Müennes (هُنَّ / أَنْتُنَّ)", "يَكْتُبْنَ / تَكْتُبْنَ", "لَمْ يَكْتُبْنَ / لَمْ تَكْتُبْنَ", "Mebnî (Mahallen Meczum!)", "Onlar (K) yazmadılar"], "ar": "لَمْ يَكْتُبْنَ — لَمْ تَكْتُبْنَ" },
+          { "hucreler": ["الْ Takılı Kelimeye Geçiş", "لَمْ يَكْتُبْ + الطَّالِبُ", "لَمْ يَكْتُبِ الطَّالِبُ", "İki sükûn çakışınca kesra ile geçilir!", "Öğrenci yazmadı"], "ar": "لَمْ يَكْتُبِ الطَّالِبُ" }
+        ]
+      },
+      "trKiyas": "Öğrencilerin sınavlarda en çok şaşırdığı iki nokta: (1) `لَمْ يَكْتُبِ الطَّالِبُ` ifadesinde sondaki kesrayı görünce 'Fiil mecrûr mu oldu?' sanmak — hayır, fiil asla mecrûr olmaz! Sadece iki sükûn (بْ + الْ) yan yana okunamadığı için geçiş kesrası (كَسْرُ الْتِقَاءِ السَّاكِنَيْنِ) konmuştur. (2) `لَمْ يَقُلْ / لَمْ يَكُنْ` fiillerinde sondaki harf sağlam (ل / ن) olduğu için cezm alâmeti yine **sükûndur**; ortadaki و ise sadece telaffuzda iki sükûn çakışmasın diye düşmüştür!",
+      "sikHatalar": [
+        "Ecvef fiilde ortadaki uzun harfi düşürmeyi unutmak (✗ لَمْ يَقُولْ / لَمْ يَكُونْ → ✓ لَمْ يَقُلْ / لَمْ يَكُنْ).",
+        "Nâkıs fiilde sondaki illet harfini düşürmeyi unutmak (✗ لَمْ يَمْشِي / لَمْ يَنْسَى → ✓ لَمْ يَمْشِ / لَمْ يَنْسَ).",
+        "لَمْ + الـ geçişindeki kesrayı cer sanmak (لَمْ يَحْضُرِ الْمُدِيرُ — fiil hâlâ sükûnla meczumdur, kesra geçiş içindir!)."
+      ],
+      "ornekler": [
+        { "ar": "لَمْ يَحْضُرِ الطَّالِبُ إِلَى الصَّفِّ الْيَوْمَ.", "okunus": "Lem yahduri't-tâlibu ile's-saffi'l-yevme.", "tr": "Öğrenci bugün sınıfa gelmedi.", "not": "Sükûn + الْ geçiş kesrası (يَحْضُرِ)" },
+        { "ar": "لَمْ يَقُلِ الشَّاهِدُ إِلَّا الْحَقَّ أَمَامَ الْقَاضِي.", "okunus": "Lem yekuli'ş-şâhidu ille'l-hakka emâme'l-kâdî.", "tr": "Tanık hâkimin önünde haktan başka bir şey söylemedi.", "not": "Ecvef: يَقُولُ → لَمْ يَقُلْ" },
+        { "ar": "لَمْ يَنْسَ أَخِي مَوْعِدَ الطَّبِيبِ.", "okunus": "Lem yense ahî mev‘ide't-tabîbi.", "tr": "Kardeşim doktor randevusunu unutmadı.", "not": "Nâkıs (ى): يَنْسَى → لَمْ يَنْسَ" },
+        { "ar": "لَمْ يَمْشِ الطِّفْلُ وَحْدَهُ فِي الشَّارِعِ.", "okunus": "Lem yemşi't-tıflu vahdehu fi'ş-şâri‘i.", "tr": "Çocuk caddede tek başına yürümedi.", "not": "Nâkıs (ي): يَمْشِي → لَمْ يَمْشِ" },
+        { "ar": "الْمُتَسَابِقُونَ لَمْ يَسْتَسْلِمُوا رَغْمَ التَّعَبِ.", "okunus": "El-mutesâbikûne lem yesteslimû ragme't-ta‘abi.", "tr": "Yarışmacılar yorgunluğa rağmen pes etmediler.", "not": "Ef'âl-i Hamse: ن hazfi" },
+        { "ar": "الطَّالِبَاتُ لَمْ يَتَأَخَّرْنَ عَنِ الِامْتِحَانِ.", "okunus": "Et-tâlibâtu lem yeteahharne ‘ani'l-imtihâni.", "tr": "Kız öğrenciler sınava geç kalmadılar.", "not": "Cem-i müennes mebnîdir!" }
+      ],
+      "tatbikler": [
+        { "id": "m16_g1_t01", "tip": "bosluk", "soru": "«أَحْمَدُ لَمْ ___ الْحَقِيقَةَ بَعْدُ.» (يَقُولُ fiilinin meczum hâli)", "secenekler": ["يَقُلْ", "يَقُولْ", "يَقُولُ", "يَقُولَ"], "dogruIndeks": 0, "aciklama": "Ecvef fiil meczum olunca iki sükûn çakışmasın diye و düşer: لَمْ يَقُلْ!" },
+        { "id": "m16_g1_t02", "tip": "bosluk", "soru": "«أَنَا لَمْ ___ نَصِيحَتَكَ الْقَيِّمَةَ أَبَدًا.» (أَنْسَى fiilinin meczum hâli)", "secenekler": ["أَنْسَ", "أَنْسَى", "أَنْسِي", "أَنْسُ"], "dogruIndeks": 0, "aciklama": "Sonu ى olan nâkıs fiilde cezm alâmeti ى'nin düşmesidir; üstte fetha kalır: لَمْ أَنْسَ." },
+        { "id": "m16_g1_t03", "tip": "bosluk", "soru": "«أَخِي لَمْ ___ إِلَى الْمَدْرَسَةِ مَشْيًا الْيَوْمَ.» (يَمْشِي fiilinin meczum hâli)", "secenekler": ["يَمْشِ", "يَمْشِي", "يَمْشَ", "يَمْشُ"], "dogruIndeks": 0, "aciklama": "Sonu ي olan nâkıs fiilde ي düşer, kesra kalır: لَمْ يَمْشِ!" },
+        { "id": "m16_g1_t04", "tip": "bosluk", "soru": "«الطُّلَّابُ لَمْ ___ إِلَى الْقَاعَةِ بَعْدُ.» (يَدْخُلُونَ)", "secenekler": ["يَدْخُلُوا", "يَدْخُلُونَ", "يَدْخُلْ", "يَدْخُلُ"], "dogruIndeks": 0, "aciklama": "Ef'âl-i Hamse'de cezm alâmeti ن hazfidir: لَمْ يَدْخُلُوا." },
+        { "id": "m16_g1_t05", "tip": "bosluk", "soru": "«الْمُؤْمِنُ لَمْ ___ إِلَّا اللّٰهَ.» (يَدْعُو fiilinin meczum hâli)", "secenekler": ["يَدْعُ", "يَدْعُو", "يَدْعَ", "يَدْعِي"], "dogruIndeks": 0, "aciklama": "Sonu و olan nâkıs fiilde و düşer, damme kalır: لَمْ يَدْعُ!" },
+        { "id": "m16_g1_t06", "tip": "hata", "soru": "«لَمْ يَكُونْ الْجَوُّ بَارِدًا أَمْسِ.» cümlesindeki iki hata nasıl düzeltilir?", "secenekler": ["لَمْ يَكُنِ الْجَوُّ بَارِدًا أَمْسِ.", "لَمْ يَكُونُ الْجَوُّ بَارِدًا.", "لَمْ يَكُونَ الْجَوُّ بَارِدًا.", "لَمْ كَانَ الْجَوُّ بَارِدًا."], "dogruIndeks": 0, "aciklama": "Ecvefte و düşer (يَكُنْ), الْ geçişi için kesra konur: لَمْ يَكُنِ الْجَوُّ!" },
+        { "id": "m16_g1_t07", "tip": "bosluk", "soru": "«لَمْ يَخْرُجِ الطَّالِبُ» ifadesinde «يَخْرُجِ» fiilinin sonunda kesra bulunmasının sebebi nedir?", "secenekler": ["İki sükûn (جْ + الْ) yan yana gelince okunuşu kolaylaştıran geçiş kesrasıdır", "Fiil mecrûr olduğu için", "İsim olduğu için", "Çoğul olduğu için"], "dogruIndeks": 0, "aciklama": "Fiil asla cer olmaz! O kesra sadece الْ takısına geçiş içindir." },
+        { "id": "m16_g1_t08", "tip": "bosluk", "soru": "«الطَّالِبَاتُ لَمْ ___ مِنْ حَلِّ الْمَسْأَلَةِ.» (يَنْتَهِينَ)", "secenekler": ["يَنْتَهِينَ", "يَنْتَهُوا", "يَنْتَهِ", "يَنْتَهِيَا"], "dogruIndeks": 0, "aciklama": "Cem-i müennes ن'u mebnîdir, cezm edatıyla düşmez: يَنْتَهِينَ." },
+        { "id": "m16_g1_t09", "tip": "bosluk", "soru": "«التَّاجِرُ لَمْ ___ بَيْتَهُ الْقَدِيمَ.» (يَبِيعُ fiilinin meczum hâli)", "secenekler": ["يَبِعْ", "يَبِيعْ", "يَبِيعُ", "يَبِعَ"], "dogruIndeks": 0, "aciklama": "Ecvef (يَبِيعُ) meczum olunca ortadaki ي düşer: لَمْ يَبِعْ." },
+        { "id": "m16_g1_t10", "tip": "bosluk", "soru": "«أَنْتِ لَمْ ___ الرِّسَالَةَ أَمْسِ.» (تَقْرَئِينَ)", "secenekler": ["تَقْرَئِي", "تَقْرَئِينَ", "تَقْرَأْ", "تَقْرَؤُوا"], "dogruIndeks": 0, "aciklama": "أَنْتِ Ef'âl-i Hamse'dir → ن düşer: لَمْ تَقْرَئِي." }
+      ]
+    },
+    {
+      "id": "m16_g2",
+      "baslik": "لَمْ (Cahd-ı Mutlak) — Modern Arapçada Geçmiş Zaman Olumsuzluğu",
+      "arBaslik": "«لَمْ» (حَرْفُ نَفْيٍ وَجَزْمٍ وَقَلْبٍ)",
+      "mantik": "Arapça dil bilginleri `لَمْ` harfini üç sıfatla tanımlar: **Nefy** (olumsuz yapar), **Cezm** (sonunu cezmeder) ve **Kalb** (zamanı şimdiden **geçmişe çevirir**!). Yani `لَمْ يَكْتُبْ` şeklen muzâri görünse de anlamı 100% geçmiş zamandır: **'Yazmadı'**! Modül 11'de öğrendiğimiz `مَا كَتَبَ` ile aynı anlamdadır; ancak modern basında, kitaplarda, akademik metinlerde ve YDS/YÖKDİL sınavlarında geçmiş zaman olumsuzluğu ezici çoğunlukla `لَمْ + meczum muzâri` ile kurulur! Ayrıca `لَمْ ... أَبَدًا` (hiç -medi) ve `لَمْ ... بَعْدُ` (henüz -medi) kalıpları günlük ve akademik dilde çok yaygındır.",
+      "formul": "Mâzi (كَتَبَ / كَتَبُوا)  ⇄  لَمْ + Meczum Muzâri (لَمْ يَكْتُبْ / لَمْ يَكْتُبُوا)",
+      "formulAr": "ذَهَبَ أَمْسِ  ⇄  لَمْ يَذْهَبْ أَمْسِ  (مَا ذَهَبَ = لَمْ يَذْهَبْ)",
+      "tablo": {
+        "baslik": "Mâzi Olumlu → لَمْ ile Geçmiş Olumsuz Dönüşüm Tablosu",
+        "sutunlar": ["Şahıs", "Mâzi (Olumlu)", "لَمْ + Muzâri (Olumsuz)", "Türkçe Anlam"],
+        "satirlar": [
+          { "hucreler": ["هُوَ", "فَهِمَ الدَّرْسَ.", "لَمْ يَفْهَمِ الدَّرْسَ.", "Dersi anlamadı."], "ar": "لَمْ يَفْهَمِ الدَّرْسَ." },
+          { "hucreler": ["هِيَ", "زَارَتِ الْمُتْحَفَ.", "لَمْ تَزُرِ الْمُتْحَفَ.", "Müzeyi ziyaret etmedi."], "ar": "لَمْ تَزُرِ الْمُتْحَفَ." },
+          { "hucreler": ["هُمَا", "سَافَرَا أَمْسِ.", "لَمْ يُسَافِرَا أَمْسِ.", "İkisi dün seyahat etmedi."], "ar": "لَمْ يُسَافِرَا أَمْسِ." },
+          { "hucreler": ["هُمْ", "شَارَكُوا فِي النَّدْوَةِ.", "لَمْ يُشَارِكُوا فِي النَّدْوَةِ.", "Seminere katılmadılar."], "ar": "لَمْ يُشَارِكُوا فِي النَّدْوَةِ." },
+          { "hucreler": ["أَنَا / نَحْنُ", "نِمْتُ / نِمْنَا بَاكِرًا.", "لَمْ أَنَمْ / لَمْ نَنَمْ بَاكِرًا.", "Erken uyumadım / uyumadık."], "ar": "لَمْ أَنَمْ — لَمْ نَنَمْ بَاكِرًا." },
+          { "hucreler": ["لَمْ ... قَطُّ", "رَأَيْتُ مِثْلَهُ.", "لَمْ أَرَ مِثْلَهُ قَطُّ!", "Onun gibisini asla (hiç) görmedim!"], "ar": "لَمْ أَرَ مِثْلَهُ قَطُّ!" }
+        ]
+      },
+      "trKiyas": "Çok değerli bir YDS zarf kuralı: Geçmiş zamanlı `لَمْ` ile **قَطُّ** ('hayatımda hiç / asla — geçmişte!'), gelecek zamanlı `لَنْ` ile ise **أَبَدًا** ('gelecekte asla!') kullanılır (`لَمْ أَزُرْ مِصْرَ قَطُّ` = Mısır'ı hiç ziyaret etmedim; `لَنْ أَنْسَاكَ أَبَدًا` = Seni asla unutmayacağım)! Ayrıca `رَأَى → يَرَى` fiilinin `لَمْ` ile hâli **لَمْ يَرَ / لَمْ أَرَ** şeklinde tek harf gibi kısalır — bunu tanımak büyük avantaj sağlar!",
+      "sikHatalar": [
+        "لَمْ'den sonra mâzi fiil getirmek (✗ لَمْ ذَهَبَ / لَمْ كَتَبْتُ → ✓ لَمْ يَذْهَبْ / لَمْ أَكْتُبْ — لَمْ SADECE muzâri alır!).",
+        "لَمْ'i gelecek zaman zarfıyla (غَدًا) kullanmak (✗ لَمْ أُسَافِرْ غَدًا → ✓ لَنْ أُسَافِرَ غَدًا).",
+        "رَأَى (görmek) fiilini لَمْ ile yanlış çekmek (✗ لَمْ أَرَى → ✓ لَمْ أَرَ — ى düşer!)."
+      ],
+      "ornekler": [
+        { "ar": "لَمْ أَرَ مَنْظَرًا أَجْمَلَ مِنْ هٰذَا الْمَنْظَرِ قَطُّ!", "okunus": "Lem era manzaran ecmele min hâze'l-manzari kattu!", "tr": "Bu manzaradan daha güzel bir manzarayı hiç görmedim!", "not": "يَرَى → لَمْ أَرَ + قَطُّ (geçmiş!)" },
+        { "ar": "لَمْ يَنَمْ أَخِي جَيِّدًا لَيْلَةَ أَمْسِ بِسَبَبِ الضَّوْضَاءِ.", "okunus": "Lem yenem ahî ceyyiden leylete emsi bi-sebebi'd-davdâi.", "tr": "Kardeşim dün gece gürültü yüzünden iyi uyumadı.", "not": "يَنَامُ → لَمْ يَنَمْ (ecvef!)" },
+        { "ar": "لَمْ نَتَسَلَّمِ الطَّرْدَ الْبَرِيدِيَّ حَتَّى الْآنَ.", "okunus": "Lem netesellemi't-tarde'l-berîdiyye hatte'l-âne.", "tr": "Şimdiye kadar posta paketini teslim almadık.", "not": "لَمْ + geçiş kesrası" },
+        { "ar": "بَحَثْتُ عَنِ الْمِفْتَاحِ فِي كُلِّ مَكَانٍ، وَلٰكِنْ لَمْ أَجِدْهُ.", "okunus": "Behastu ‘ani'l-miftâhi fî kulli mekânin, ve lâkin lem ecidhu.", "tr": "Anahtarı her yerde aradım ama onu bulamadım.", "not": "لَمْ + zamirli meczum (أَجِدْهُ)" },
+        { "ar": "لَمْ تَسْتَطِعِ السَّيَّارَةُ أَنْ تَسِيرَ بِسَبَبِ الثَّلْجِ الْكَثِيفِ.", "okunus": "Lem testatı‘i's-seyyâratu en tesîra bi-sebebi's-selci'l-kesîfi.", "tr": "Araba yoğun kar yüzünden ilerleyemedi.", "not": "تَسْتَطِيعُ → لَمْ تَسْتَطِعْ (ي düştü!)" },
+        { "ar": "لَمْ يَكُنْ لَدَيْنَا وَقْتٌ كَافٍ لِزِيَارَةِ جَمِيعِ الْمَتَاحِفِ.", "okunus": "Lem yekun ledeynâ vaktun kâfin li-ziyârati cemî‘i'l-metâhifi.", "tr": "Tüm müzeleri ziyaret etmek için yeterli vaktimiz yoktu.", "not": "لَمْ يَكُنْ = yoktu / değildi" }
+      ],
+      "tatbikler": [
+        { "id": "m16_g2_t01", "tip": "donusturme", "soru": "«زُرْتُ مَدِينَةَ قُونْيَا أَمْسِ.» cümlesinin لَمْ ile doğru olumsuzu hangisidir?", "secenekler": ["لَمْ أَزُرْ مَدِينَةَ قُونْيَا أَمْسِ.", "لَمْ زُرْتُ مَدِينَةَ قُونْيَا أَمْسِ.", "لَمْ أَزُورْ مَدِينَةَ قُونْيَا أَمْسِ.", "لَنْ أَزُرْ مَدِينَةَ قُونْيَا أَمْسِ."], "dogruIndeks": 0, "aciklama": "أَزُورُ (ecvef) → لَمْ ile و düşer: لَمْ أَزُرْ!" },
+        { "id": "m16_g2_t02", "tip": "bosluk", "soru": "«لَمْ ___ هٰذَا الصَّدِيقَ مُنْذُ سَنَوَاتٍ طَوِيلَةٍ.» (أَرَى fiilinin meczum hâli)", "secenekler": ["أَرَ", "أَرَى", "رَأَيْتُ", "أَرِي"], "dogruIndeks": 0, "aciklama": "أَرَى → لَمْ أَرَ (ى düşer, fetha kalır!)." },
+        { "id": "m16_g2_t03", "tip": "bosluk", "soru": "«لَمْ أَسْمَعْ بِهٰذَا الْخَبَرِ ___!» (Geçmişte 'hiç / asla' zarfı)", "secenekler": ["قَطُّ", "غَدًا", "سَوْفَ", "لَنْ"], "dogruIndeks": 0, "aciklama": "قَطُّ geçmiş zamanlı olumsuzlukla (لَمْ / مَا) 'hiç, asla' anlamında kullanılır!" },
+        { "id": "m16_g2_t04", "tip": "hata", "soru": "«لَمْ ذَهَبَ خَالِدٌ إِلَى الْجَامِعَةِ أَمْسِ.» cümlesindeki temel hata nedir?", "secenekler": ["لَمْ mâzi değil muzâri alır → لَمْ يَذْهَبْ", "أَمْسِ → غَدًا", "خَالِدٌ → خَالِدًا", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "لَمْ yalnızca muzâri fiilin başına gelir ve anlamını geçmişe çevirir." },
+        { "id": "m16_g2_t05", "tip": "bosluk", "soru": "«لَمْ ___ الطَّالِبُ أَنْ يُجِيبَ عَنِ السُّؤَالِ الْأَخِيرِ.» (يَسْتَطِيعُ)", "secenekler": ["يَسْتَطِعِ", "يَسْتَطِيعْ", "يَسْتَطِيعُ", "اِسْتَطَاعَ"], "dogruIndeks": 0, "aciklama": "يَسْتَطِيعُ → ecvef gibi ي düşer (يَسْتَطِعْ) + الْ geçişi için kesra: يَسْتَطِعِ!" },
+        { "id": "m16_g2_t06", "tip": "tr_ar", "soru": "'Dün gece iyi uyuyamadım (uyumadım).' cümlesinin doğru Arapçası hangisidir?", "secenekler": ["لَمْ أَنَمْ جَيِّدًا لَيْلَةَ أَمْسِ.", "لَمْ أَنَامْ جَيِّدًا لَيْلَةَ أَمْسِ.", "لَنْ أَنَمْ جَيِّدًا لَيْلَةَ أَمْسِ.", "لَمْ نِمْتُ جَيِّدًا لَيْلَةَ أَمْسِ."], "dogruIndeks": 0, "aciklama": "أَنَامُ → لَمْ أَنَمْ (ortadaki ا düşer!)." },
+        { "id": "m16_g2_t07", "tip": "donusturme", "soru": "«كَانَ الْجَوُّ مُمْطِرًا أَمْسِ.» cümlesini لَمْ ile olumsuz yapın:", "secenekler": ["لَمْ يَكُنِ الْجَوُّ مُمْطِرًا أَمْسِ.", "لَمْ كَانَ الْجَوُّ مُمْطِرًا أَمْسِ.", "لَمْ يَكُونُ الْجَوُّ مُمْطِرًا أَمْسِ.", "لَنْ يَكُنِ الْجَوُّ مُمْطِرًا أَمْسِ."], "dogruIndeks": 0, "aciklama": "كَانَ → muzârisi يَكُونُ → لَمْ يَكُنْ + الْ geçişi: لَمْ يَكُنِ الْجَوُّ!" },
+        { "id": "m16_g2_t08", "tip": "bosluk", "soru": "«الطَّالِبَانِ لَمْ ___ مِنْ قِرَاءَةِ الْكِتَابِ أَمْسِ.»", "secenekler": ["يَنْتَهِيَا", "يَنْتَهِيَانِ", "يَنْتَهِ", "يَنْتَهُوا"], "dogruIndeks": 0, "aciklama": "İkil Ef'âl-i Hamse (يَنْتَهِيَانِ) → لَمْ ile ن düşer: يَنْتَهِيَا." },
+        { "id": "m16_g2_t09", "tip": "bosluk", "soru": "«مَا كَتَبْتُ الرِّسَالَةَ» cümlesinin modern Arapçadaki tam eşdeğeri hangisidir?", "secenekler": ["لَمْ أَكْتُبِ الرِّسَالَةَ.", "لَنْ أَكْتُبَ الرِّسَالَةَ.", "لَا أَكْتُبُ الرِّسَالَةَ.", "لَمْ كَتَبْتُ الرِّسَالَةَ."], "dogruIndeks": 0, "aciklama": "مَا + mâzi = لَمْ + meczum muzâri!" },
+        { "id": "m16_g2_t10", "tip": "hata", "soru": "«لَمْ يُسَافِرُونَ إِلَى أَنْقَرَةَ الْأُسْبُوعَ الْمَاضِي.» cümlesindeki hata nedir?", "secenekler": ["يُسَافِرُونَ → يُسَافِرُوا (لَمْ Ef'âl-i Hamse'den ن düşürür)", "لَمْ → لَنْ", "الْمَاضِي → الْقَادِمَ", "Hata yoktur"], "dogruIndeks": 0, "aciklama": "لَمْ cezmeder; çoğulda ن düşer ve elif-i fârika eklenir: لَمْ يُسَافِرُوا." }
+      ]
+    },
+    {
+      "id": "m16_g3",
+      "baslik": "لَمَّا (Cahd-ı Mustağrak: Henüz -medi) vs. لَمَّا (Zaman: -dığında)",
+      "arBaslik": "«لَمَّا» الْجَازِمَةُ (بِمَعْنَى: حَتَّى الْآنَ) وَالْفَرْقُ بَيْنَهَا وَبَيْنَ «لَمَّا» الظَّرْفِيَّةِ",
+      "mantik": "`لَمَّا` kelimesi Arapçada iki farklı şapka takar ve hangi şapkayı taktığını **hemen arkasındaki fiilin zamanından** 1 saniyede anlarsınız! (1) Arkasından **Meczum Muzâri** gelirse: `لَمَّا` bir cezm edatıdır ve **'henüz -medi (ama az sonra olması bekleniyor!)'** anlamına gelir (`لَمَّا يَصِلِ الْقِطَارُ` = Tren henüz varmadı — ama yolda, birazdan varacak!). `لَمْ`'den farkı, olumsuzluğun konuşma anına kadar kesintisiz sürmesi ve geleceğe yönelik beklenti taşımasıdır! (2) Arkasından **Mâzi Fiil** gelirse: `لَمَّا` cezm edatı DEĞİLDİR; **'-dığında / -ince'** anlamına gelen bir zaman zarfıdır (`لَمَّا وَصَلَ الْقِطَارُ، نَزَلَ الرُّكَّابُ` = Tren vardığında yolcular indi)!",
+      "formul": "لَمَّا + Meczum Muzâri = 'Henüz -medi' (Cezm!)  |  لَمَّا + Mâzi = '-dığında / -ince' (Zaman Zarfı!)",
+      "formulAr": "لَمَّا يَصِلْ (حَتَّى الْآنَ لَمْ يَصِلْ)  ≠  لَمَّا وَصَلَ (عِنْدَمَا وَصَلَ)",
+      "tablo": {
+        "baslik": "لَمَّا'nın İki Yüzü + لَمْ ile Anlam Farkı",
+        "sutunlar": ["Yapı", "Gramer Türü", "Örnek", "İnce Anlam & Çeviri"],
+        "satirlar": [
+          { "hucreler": ["لَمْ + Meczum Muzâri", "Cahd-ı Mutlak", "لَمْ يَنْزِلِ الْمَطَرُ أَمْسِ.", "Dün yağmur yağmadı (geçmişte bitti)."], "ar": "لَمْ يَنْزِلِ الْمَطَرُ أَمْسِ." },
+          { "hucreler": ["لَمَّا + Meczum Muzâri", "Cahd-ı Mustağrak (Cezm!)", "لَمَّا يَنْزِلِ الْمَطَرُ.", "Yağmur henüz yağmadı (bulutlar var, bekleniyor!)."], "ar": "لَمَّا يَنْزِلِ الْمَطَرُ." },
+          { "hucreler": ["لَمَّا + Ef'âl-i Hamse", "Cahd-ı Mustağrak (ن Hazfi)", "ذَهَبُوا وَلَمَّا يَرْجِعُوا.", "Gittiler ve henüz dönmediler."], "ar": "ذَهَبُوا وَلَمَّا يَرْجِعُوا." },
+          { "hucreler": ["لَمَّا + Mâzi Fiil", "Zaman Zarfı (عِنْدَمَا)", "لَمَّا جَاءَ الْأُسْتَاذُ، بَدَأَ الدَّرْسُ.", "Hoca geldiğinde ders başladı."], "ar": "لَمَّا جَاءَ الْأُسْتَاذُ، بَدَأَ الدَّرْسُ." },
+          { "hucreler": ["لَمْ ... بَعْدُ (Modern Eşdeğer)", "لَمْ + بَعْدُ", "لَمْ يَصِلِ الْقِطَارُ بَعْدُ.", "Tren henüz varmadı (لَمَّا يَصِلْ ile eş anlamlı!)."], "ar": "لَمْ يَصِلِ الْقِطَارُ بَعْدُ." }
+        ]
+      },
+      "trKiyas": "YDS ve YÖKDİL çeviri/bağlaç sorularında `لَمَّا` müthiş bir tuzak olarak kullanılır! Öğrenci `لَمَّا`yı görünce hep '-dığında' diye çevirmeye alışkındır; ama arkasında muzâri fiil varsa (`لَمَّا يَتَحَقَّقْ`) anlam bambaşka olur: **'henüz gerçekleşmedi'**! Sağlama kuralı: `لَمَّا + mâzi` = `عِنْدَمَا` (-dığında); `لَمَّا + meczum muzâri` = `لَمْ ... بَعْدُ` (henüz -medi)!",
+      "sikHatalar": [
+        "لَمَّا + muzâriyi '-dığında' diye çevirmek (✗ لَمَّا يَأْتِ = 'geldiğinde' → ✓ 'henüz gelmedi'!).",
+        "لَمَّا (henüz) ile بَعْدُ kelimesini aynı anda gereksiz tekrarlamak (لَمَّا zaten 'henüz' anlamını taşır; modern dilde ya لَمَّا يَصِلْ ya da لَمْ يَصِلْ بَعْدُ tercih edilir).",
+        "لَمَّا + mâzi cümlesini tek cümle bırakmak (لَمَّا وَصَلَ tek başına eksik kalır, mutlaka cevap cümlesi ister: لَمَّا وَصَلَ، اِتَّصَلَ بِنَا!)."
+      ],
+      "ornekler": [
+        { "ar": "بَدَأَ الْفَصْلُ الدِّرَاسِيُّ وَلَمَّا تَصِلِ الْكُتُبُ الْجَدِيدَةُ.", "okunus": "Bedee'l-faslu'd-dirâsiyyu ve lemmâ tesili'l-kutubu'l-cedîdetu.", "tr": "Eğitim dönemi başladı ve yeni kitaplar henüz gelmedi.", "not": "لَمَّا + muzâri = henüz -medi" },
+        { "ar": "قَرَأْتُ النِّصْفَ الْأَوَّلَ مِنَ الرِّوَايَةِ وَلَمَّا أُكْمِلْهَا.", "okunus": "Kara'tu'n-nısfe'l-evvele mine'r-rivâyeti ve lemmâ ukmilhâ.", "tr": "Romanın ilk yarısını okudum ve onu henüz bitirmedim.", "not": "لَمَّا + أُكْمِلْ (sükûn!)" },
+        { "ar": "لَمَّا تَطْلُعِ الشَّمْسُ، نَتَنَاوَلُ الْإِفْطَارَ فِي الْحَدِيقَةِ.", "okunus": "Lemmâ tatlu‘i'ş-şemsu, — DİKKAT: Güneş henüz doğmadı! (لَمَّا طَلَعَتِ الشَّمْسُ = Güneş doğduğunda!)", "tr": "Güneş henüz doğmadı (Mâzi ile: Güneş doğduğunda bahçede kahvaltı yaparız).", "not": "Muzâri vs. Mâzi farkı!" },
+        { "ar": "لَمَّا سَمِعَ الْأَبُ الْخَبَرَ السَّارَّ، فَرِحَ كَثِيرًا.", "okunus": "Lemmâ semi‘a'l-ebu'l-habera's-sârra, feriha kesîran.", "tr": "Baba sevindirici haberi duyduğunda çok sevindi.", "not": "لَمَّا + mâzi = -dığında!" },
+        { "ar": "ذَهَبَ الضُّيُوفُ إِلَى الْمَطَارِ وَلَمَّا يَصِلُوا إِلَى بَلَدِهِمْ.", "okunus": "Zehebe'd-duyûfu ile'l-matâri ve lemmâ yesilû ilâ beledihim.", "tr": "Misafirler havaalanına gittiler ve ülkelerine henüz varmadılar.", "not": "لَمَّا + Ef'âl-i Hamse (ن hazfi)" },
+        { "ar": "قَالَتِ الْأَعْرَابُ آمَنَّا، قُلْ لَمْ تُؤْمِنُوا وَلٰكِنْ قُولُوا أَسْلَمْنَا وَلَمَّا يَدْخُلِ الْإِيمَانُ فِي قُلُوبِكُمْ.", "okunus": "Kâleti'l-a‘râbu âmennâ, kul lem tu'minû ve lâkin kûlû eslemnâ ve lemmâ yedhuli'l-îmânu fî kulûbikum.", "tr": "Bedevîler 'İman ettik' dediler. De ki: 'İman etmediniz; fakat teslim olduk deyin. İman kalplerinize henüz girmedi.'", "not": "Hucurât 14 — لَمْ ve لَمَّا farkının şaheseri!" }
+      ],
+      "tatbikler": [
+        { "id": "m16_g3_t01", "tip": "bosluk", "soru": "«دَقَّ الْجَرَسُ وَلَمَّا ___ الْمُعَلِّمُ إِلَى الصَّفِّ.» ('Zil çaldı ve öğretmen henüz sınıfa girmedi.')", "secenekler": ["يَدْخُلِ", "يَدْخُلُ", "دَخَلَ", "يَدْخُلَ"], "dogruIndeks": 0, "aciklama": "لَمَّا (henüz) muzâriyi cezmeder + الْ geçiş kesrası: يَدْخُلِ." },
+        { "id": "m16_g3_t02", "tip": "bosluk", "soru": "«لَمَّا وَصَلْنَا إِلَى الْقَرْيَةِ، اِسْتَقْبَلَنَا جَدِّي.» cümlesinde «لَمَّا» hangi anlamdadır?", "secenekler": ["'-dığında / -ince' (çünkü ardından mâzi fiil وَصَلْنَا gelmiştir!)", "'Henüz -medi'", "'Asla -meyecek'", "'-mek için'"], "dogruIndeks": 0, "aciklama": "لَمَّا + mâzi = zaman zarfı (-dığında)." },
+        { "id": "m16_g3_t03", "tip": "bosluk", "soru": "«تَمَرَّنَ الطُّلَّابُ كَثِيرًا وَلَمَّا ___ النَّتَائِجَ.» ('Henüz sonuçları görmediler.')", "secenekler": ["يَرَوْا", "يَرَوْنَ", "رَأَوْا", "يَرَى"], "dogruIndeks": 0, "aciklama": "يَرَوْنَ (Ef'âl-i Hamse) → لَمَّا ile ن düşer: يَرَوْا!" },
+        { "id": "m16_g3_t04", "tip": "donusturme", "soru": "«لَمْ تَنْتَهِ الْمُبَارَاةُ بَعْدُ.» cümlesinin لَمَّا ile tek kelimede eşdeğeri hangisidir?", "secenekler": ["لَمَّا تَنْتَهِ الْمُبَارَاةُ.", "لَمَّا تَنْتَهِي الْمُبَارَاةُ.", "لَمَّا انْتَهَتِ الْمُبَارَاةُ.", "لَنْ تَنْتَهِيَ الْمُبَارَاةُ."], "dogruIndeks": 0, "aciklama": "لَمَّا = لَمْ ... بَعْدُ; nâkıs fiil تَنْتَهِي meczum olunca ي düşer: تَنْتَهِ!" },
+        { "id": "m16_g3_t05", "tip": "bosluk", "soru": "«لَمْ» ile «لَمَّا» (cezm edatı) arasındaki en belirgin anlam farkı nedir?", "secenekler": ["لَمَّا olumsuzluk konuşma anına kadar sürer ve sonradan olma beklentisi taşır ('henüz')", "لَمَّا gelecek zaman içindir", "لَمْ sadece çoğullar içindir", "Hiç fark yoktur"], "dogruIndeks": 0, "aciklama": "لَمَّا = Cahd-ı Mustağrak ('henüz -medi, ama bekleniyor')." },
+        { "id": "m16_g3_t06", "tip": "tr_ar", "soru": "'Haber gelince (geldiğinde) herkes sevindi.' cümlesinin doğru Arapçası hangisidir?", "secenekler": ["لَمَّا جَاءَ الْخَبَرُ، فَرِحَ الْجَمِيعُ.", "لَمَّا يَجِئِ الْخَبَرُ، فَرِحَ الْجَمِيعُ.", "لَمْ جَاءَ الْخَبَرُ، فَرِحَ الْجَمِيعُ.", "لَمَّا جَاءَ الْخَبَرُ فَقَطْ."], "dogruIndeks": 0, "aciklama": "'-dığında' → لَمَّا + mâzi (جَاءَ) + cevap cümlesi!" },
+        { "id": "m16_g3_t07", "tip": "bosluk", "soru": "«أَرْسَلْتُ إِلَيْهِمُ الدَّعْوَةَ وَلَمَّا ___ عَلَيْهَا.» (يَرُدُّونَ = cevap vermek)", "secenekler": ["يَرُدُّوا", "يَرُدُّونَ", "رَدُّوا", "يَرُدُّ"], "dogruIndeks": 0, "aciklama": "لَمَّا + Ef'âl-i Hamse → ن düşer: يَرُدُّوا." },
+        { "id": "m16_g3_t08", "tip": "hata", "soru": "«لَمَّا يَصِلُ الطَّائِرَةُ.» cümlesindeki iki hata nasıl düzeltilir?", "secenekler": ["لَمَّا تَصِلِ الطَّائِرَةُ.", "لَمَّا يَصِلْ الطَّائِرَةُ.", "لَمَّا وَصَلَ الطَّائِرَةُ.", "لَمَّا تَصِلُ الطَّائِرَةُ."], "dogruIndeks": 0, "aciklama": "الطَّائِرَةُ dişildir (تَصِلْ) ve الْ geçişi için kesra alır: لَمَّا تَصِلِ الطَّائِرَةُ!" },
+        { "id": "m16_g3_t09", "tip": "bosluk", "soru": "Hucurât 14'teki «وَلَمَّا يَدْخُلِ الْإِيمَانُ فِي قُلُوبِكُمْ» ifadesi neyi müjdeler?", "secenekler": ["İmanın kalplere 'henüz' girmediğini ama ileride girebileceğini", "İmanın asla girmeyeceğini", "İmanın dün girdiğini", "İman girdiğinde"], "dogruIndeks": 0, "aciklama": "لَمَّا 'henüz -medi (ama beklenebilir)' inceliğini taşır!" },
+        { "id": "m16_g3_t10", "tip": "bosluk", "soru": "«بَلَغَ الطِّفْلُ سَنَةً وَلَمَّا ___ بَعْدُ» yerine daha fasîh olan ifade hangisidir?", "secenekler": ["وَلَمَّا يَمْشِ (veya وَلَمْ يَمْشِ بَعْدُ)", "وَلَمَّا يَمْشِي بَعْدُ", "وَلَمْ مَشَى", "وَلَنْ يَمْشِ"], "dogruIndeks": 0, "aciklama": "يَمْشِي meczum olunca ي düşer: لَمَّا يَمْشِ (henüz yürümedi!)." }
+      ]
+    },
+    {
+      "id": "m16_g4",
+      "baslik": "لَامُ الْأَمْرِ (لِـ / فَلْـ / وَلْـ) — Emr-i Gâib & Emr-i Mütekellim",
+      "arBaslik": "لَامُ الْأَمْرِ (الْأَمْرُ لِلْغَائِبِ وَالْمُتَكَلِّمِ)",
+      "mantik": "Türkçede sadece karşımızdaki kişiye ('Yaz!') değil, 3. şahsa (**'Yazsın! / Yazsınlar!'**) ve 1. çoğul şahsa (**'Haydi yazalım! / Başlayalım!'**) da emir/istek veririz! Arapçada 2. şahsa verilen emir ayrı bir kalıptır (M17: `اُكْتُبْ`), ancak **3. şahsa (Emr-i Gâib)** ve **1. şahsa (Emr-i Mütekellim)** emir verirken tek yapmamız gereken muzâri fiilin başına **Emir Lâmı (`لِـ`)** koyup sonunu **cezmetmektir**: `لِيَكْتُبْ` (yazsın!), `لِتَكْتُبْ` (o kadın yazsın!), `لِيَكْتُبُوا` (yazsınlar!), `لِنَبْدَأْ` (haydi başlayalım!). Altın telaffuz kuralı: Emir Lâmı normalde kesralıdır (`لِـ`), ancak önüne **وَ / فَـ / ثُمَّ** geldiğinde cezimlenir: **وَلْيَكْتُبْ / فَلْنَبْدَأْ / فَلْيَجْتَهِدُوا**!",
+      "formul": "لِـ + Meczum Muzâri (-sin / -elim!)  |  وَ / فَـ / ثُمَّ + لْـ + Meczum Muzâri (وَلْيَكْتُبْ / فَلْنَبْدَأْ)",
+      "formulAr": "لِيَكْتُبْ / لِيَكْتُبُوا / لِنَبْدَأْ  |  فَلْنَبْدَأْ / وَلْيَعْمَلُوا",
+      "tablo": {
+        "baslik": "Emr-i Gâib & Emr-i Mütekellim Çekim Tablosu + Ta'lîl Lâmı Farkı",
+        "sutunlar": ["Şahıs", "لَامُ الْأَمْرِ (Başta)", "فَـ / وَ ile (Sükûnlu لْـ!)", "Türkçe Çeviri"],
+        "satirlar": [
+          { "hucreler": ["هُوَ (O - E)", "لِيَجْلِسْ كُلُّ طَالِبٍ!", "فَلْيَجْلِسْ كُلُّ طَالِبٍ!", "Her öğrenci otursun!"], "ar": "لِيَجْلِسْ — فَلْيَجْلِسْ" },
+          { "hucreler": ["هِيَ (O - K)", "لِتَقْرَأْ سَارَةُ النَّصَّ!", "وَلْتَقْرَأْ سَارَةُ النَّصَّ!", "Sâre metni okusun!"], "ar": "لِتَقْرَأْ — وَلْتَقْرَأْ" },
+          { "hucreler": ["هُمَا (O ikisi)", "لِيَتَعَاوَنَا فِي الْبَحْثِ!", "فَلْيَتَعَاوَنَا فِي الْبَحْثِ!", "İkisi araştırmada yardımlaşsın!"], "ar": "لِيَتَعَاوَنَا — فَلْيَتَعَاوَنَا" },
+          { "hucreler": ["هُمْ (Onlar - E)", "لِيَسْتَعِدُّوا لِلِامْتِحَانِ!", "فَلْيَسْتَعِدُّوا لِلِامْتِحَانِ!", "Sınava hazırlansınlar!"], "ar": "لِيَسْتَعِدُّوا — فَلْيَسْتَعِدُّوا" },
+          { "hucreler": ["هُنَّ (Onlar - K)", "لِيُشَارِكْنَ فِي النَّدْوَةِ!", "وَلْيُشَارِكْنَ فِي النَّدْوَةِ!", "Onlar (K) seminere katılsınlar!"], "ar": "لِيُشَارِكْنَ — وَلْيُشَارِكْنَ" },
+          { "hucreler": ["نَحْنُ (Biz — Mütekellim)", "لِنَبْدَأِ الدَّرْسَ الْآنَ!", "فَلْنَبْدَأِ الدَّرْسَ الْآنَ!", "Haydi derse şimdi başlayalım!"], "ar": "لِنَبْدَأِ — فَلْنَبْدَأِ" }
+        ]
+      },
+      "trKiyas": "İki `لِـ` arasındaki farkı artık gözünüz kapalı ayırt edebilirsiniz: (1) `جِئْتُ لِأَقْرَأَ` (fethalı → Lâm-ı Ta'lîl: 'okumak için geldim'), (2) `لِيَقْرَأْ كُلُّ طَالِبٍ!` (sükûnlu → Lâm-ı Emir: 'her öğrenci okusun!'). Özellikle `فَلْنَـ...` ('Haydi ...-elim!') kalıbı konuşma ve sunum Arapçasının en canlı, en doğal başlatma kalıbıdır (`فَلْنَبْدَأْ / فَلْنَخْرُجْ / فَلْنُفَكِّرْ مَعًا`)!",
+      "sikHatalar": [
+        "Emir Lâmından sonraki fiili mansub (fethalı) veya merfû (dammeli) okumak (✗ لِيَكْتُبَ / لِيَكْتُبُ → ✓ لِيَكْتُبْ!).",
+        "فَـ / وَ'dan sonra Emir Lâmını hâlâ kesralı okumak (✗ فَلِنَبْدَأْ → ✓ فَلْنَبْدَأْ — hafiflik için sükûnlu okunur!).",
+        "Nâkıs fiilde Emir Lâmıyla illet harfini düşürmeyi unutmak (✗ فَلْيَدْعُو / لِيَمْشِي → ✓ فَلْيَدْعُ / لِيَمْشِ)."
+      ],
+      "ornekler": [
+        { "ar": "فَلْنَبْدَأِ الِاجْتِمَاعَ بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيمِ!", "okunus": "Fel-nebdei'l-ictimâ‘a bismillâhi'r-Rahmâni'r-Rahîmi!", "tr": "Haydi toplantıya Rahmân ve Rahîm olan Allah'ın adıyla başlayalım!", "not": "فَلْنَبْدَأْ (Emr-i Mütekellim)" },
+        { "ar": "لِيَخْرُجْ كُلُّ طَالِبٍ بِهُدُوءٍ بَعْدَ انْتِهَاءِ الِامْتِحَانِ.", "okunus": "Li-yahruc kullu tâlibin bi-hudûin ba‘de'ntihâi'l-imtihâni.", "tr": "Sınav bittikten sonra her öğrenci sakinlikle çıksın.", "not": "لِيَخْرُجْ (Emr-i Gâib, sükûn)" },
+        { "ar": "وَلْيَتَعَاوَنِ الْجَمِيعُ مِنْ أَجْلِ نَظَافَةِ الْمَدْرَسَةِ!", "okunus": "Vel-yete‘âveni'l-cemî‘u min ecli nezâfeti'l-medreseti!", "tr": "Okulun temizliği için herkes yardımlaşsın!", "not": "وَلْـ (sükûnlu lâm) + geçiş kesrası" },
+        { "ar": "لِيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ!", "okunus": "Li-yekul hayran ev li-yasmut!", "tr": "Ya hayır söylesin ya da sussun!", "not": "Meşhur hadis: يَقُولُ → لِيَقُلْ (ecvef!)" },
+        { "ar": "فَلْيَحْضُرُوا جَمِيعًا غَدًا فِي تَمَامِ السَّاعَةِ التَّاسِعَةِ.", "okunus": "Fel-yahdurû cemî‘an gaden fî temâmi's-sâ‘ati't-tâsi‘ati.", "tr": "Yarın tam saat dokuzda hepsi hazır bulunsunlar.", "not": "Ef'âl-i Hamse: ن düştü" },
+        { "ar": "لِنُفَكِّرْ مَعًا فِي حَلٍّ إِبْدَاعِيٍّ لِهٰذِهِ الْمُشْكِلَةِ!", "okunus": "Li-nufekkir me‘an fî hallin ibdâ‘iyyin li-hâzihi'l-muşkileti!", "tr": "Bu soruna yaratıcı bir çözüm üzerine birlikte düşünelim!", "not": "لِنُفَكِّرْ (haydi düşünelim!)" }
+      ],
+      "tatbikler": [
+        { "id": "m16_g4_t01", "tip": "tr_ar", "soru": "'Haydi derse şimdi başlayalım!' (فَـ + Emir Lâmı) ifadesinin doğru Arapçası hangisidir?", "secenekler": ["فَلْنَبْدَأِ الدَّرْسَ الْآنَ!", "فَلِنَبْدَأُ الدَّرْسَ الْآنَ!", "فَلْنَبْدَأَ الدَّرْسَ الْآنَ!", "لَنْ نَبْدَأَ الدَّرْسَ الْآنَ!"], "dogruIndeks": 0, "aciklama": "فَـ + لْـ + نَبْدَأْ (الْ geçiş kesrasıyla فَلْنَبْدَأِ)." },
+        { "id": "m16_g4_t02", "tip": "bosluk", "soru": "«مَنْ كَانَ يُؤْمِنُ بِاللّٰهِ وَالْيَوْمِ الْآخِرِ فَلْـ___ خَيْرًا أَوْ لِيَصْمُتْ!» (يَقُولُ)", "secenekler": ["يَقُلْ", "يَقُولْ", "يَقُولُ", "يَقُولَ"], "dogruIndeks": 0, "aciklama": "فَلْـ (Emir Lâmı) + ecvef يَقُولُ → و düşer: فَلْيَقُلْ!" },
+        { "id": "m16_g4_t03", "tip": "bosluk", "soru": "«الطُّلَّابُ الْمُتَأَخِّرُونَ لِـ___ إِلَى مَكْتَبِ الْمُدِيرِ.» (يَذْهَبُونَ)", "secenekler": ["يَذْهَبُوا", "يَذْهَبُونَ", "يَذْهَبْ", "يَذْهَبُ"], "dogruIndeks": 0, "aciklama": "Emir Lâmı + Ef'âl-i Hamse → ن düşer: لِيَذْهَبُوا!" },
+        { "id": "m16_g4_t04", "tip": "bosluk", "soru": "Aşağıdaki iki cümleden hangisinde «لِـ» Emir Lâmıdır?", "secenekler": ["لِيَجْتَهِدْ كُلُّ طَالِبٍ فِي دُرُوسِهِ!", "ذَهَبْتُ إِلَى الْمَكْتَبَةِ لِأَجْتَهِدَ.", "جِئْتُ لِلْعِلْمِ.", "مَا كَانَ لِيَكْذِبَ."], "dogruIndeks": 0, "aciklama": "Sükûnla biten لِيَجْتَهِدْ Emir Lâmıdır ('Her öğrenci çalışsın!'); diğerleri Ta'lîl, Harf-i Cer ve Cuhûd'dur." },
+        { "id": "m16_g4_t05", "tip": "bosluk", "soru": "«وَ___ كُلُّ إِنْسَانٍ مَا قَدَّمَتْ لِغَدٍ.» (يَنْظُرُ fiili وَلْـ ile)", "secenekler": ["لْتَنْظُرْ (نَفْسٌ için) / لْيَنْظُرْ (إِنْسَانٌ için)", "لِيَنْظُرُ", "لِيَنْظُرَ", "يَنْظُرُ"], "dogruIndeks": 0, "aciklama": "إِنْسَانٌ eril olduğundan وَلْيَنْظُرْ (sükûnlu لْـ + meczum fiil!)." },
+        { "id": "m16_g4_t06", "tip": "hata", "soru": "«فَلِيَفْتَحُ النَّافِذَةَ!» cümlesindeki iki hata nasıl düzeltilir?", "secenekler": ["فَلْيَفْتَحِ النَّافِذَةَ!", "فَلِيَفْتَحَ النَّافِذَةَ!", "فَلْيَفْتَحُ النَّافِذَةَ!", "لَنْ يَفْتَحَ النَّافِذَةَ!"], "dogruIndeks": 0, "aciklama": "فَـ sonrası لْـ sükûnlu olur ve fiil meczum (+ الْ geçiş kesrası) olur: فَلْيَفْتَحِ!" },
+        { "id": "m16_g4_t07", "tip": "bosluk", "soru": "«لِـ___ الْمُشَارِكَاتُ فِي الْقَاعَةِ الْأُولَى.» (يَجْلِسْنَ)", "secenekler": ["تَجْلِسْنَ / يَجْلِسْنَ (هُنَّ: لِيَجْلِسْنَ)", "يَجْلِسُوا", "يَجْلِسْ", "تَجْلِسَ"], "dogruIndeks": 0, "aciklama": "الْمُشَارِكَاتُ (هُنَّ) → لِيَجْلِسْنَ (mebnî ن düşmez!)." },
+        { "id": "m16_g4_t08", "tip": "tr_ar", "soru": "'Haydi parkta birlikte yürüyelim!' (فَلْـ + نَمْشِي) nasıl söylenir?", "secenekler": ["فَلْنَمْشِ مَعًا فِي الْحَدِيقَةِ!", "فَلْنَمْشِي مَعًا فِي الْحَدِيقَةِ!", "فَلْنَمْشِيَ مَعًا فِي الْحَدِيقَةِ!", "لَنْ نَمْشِيَ فِي الْحَدِيقَةِ!"], "dogruIndeks": 0, "aciklama": "نَمْشِي (nâkıs) meczum olunca ي düşer: فَلْنَمْشِ!" },
+        { "id": "m16_g4_t09", "tip": "bosluk", "soru": "«لِـ___ الطَّالِبَانِ التَّقْرِيرَ غَدًا.» (يُقَدِّمَانِ)", "secenekler": ["يُقَدِّمَا", "يُقَدِّمَانِ", "يُقَدِّمُوا", "يُقَدِّمْ"], "dogruIndeks": 0, "aciklama": "İkil Ef'âl-i Hamse → ن düşer: لِيُقَدِّمَا!" },
+        { "id": "m16_g4_t10", "tip": "donusturme", "soru": "«يَسْمَعُ كُلُّ وَاحِدٍ كَلَامَ الْأُسْتَاذِ.» cümlesini Emr-i Gâib'e ('Herkes hocanın sözünü dinlesin!') çevirin:", "secenekler": ["لِيَسْمَعْ كُلُّ وَاحِدٍ كَلَامَ الْأُسْتَاذِ!", "لِيَسْمَعَ كُلُّ وَاحِدٍ كَلَامَ الْأُسْتَاذِ!", "لَا يَسْمَعُ كُلُّ وَاحِدٍ كَلَامَ الْأُسْتَاذِ!", "لَمْ يَسْمَعْ كُلُّ وَاحِدٍ!"], "dogruIndeks": 0, "aciklama": "Emir Lâmı (لِـ) + sükûn: لِيَسْمَعْ!" }
+      ]
+    },
+    {
+      "id": "m16_g5",
+      "baslik": "لَا النَّاهِيَةُ (Nehy-i Gâib) vs. لَا النَّافِيَةُ & Şart Edatlarına Köprü (إِنْ / مَنْ)",
+      "arBaslik": "«لَا» النَّاهِيَةُ (لِلْغَائِبِ) وَالْفَرْقُ عَنْ «لَا» النَّافِيَةِ + مَدْخَلٌ إِلَى أَدَوَاتِ الشَّرْطِ",
+      "mantik": "Modül 14'te gördüğümüz gibi Arapçada iki farklı `لَا` vardır ve harekesiz metinde onları ancak son harfe/nûna bakarak ayırt edersiniz: (1) **لَا النَّافِيَةُ (Olumsuzluk لَا'sı)** sadece bilgi verir, fiile hiç dokunmaz (`لَا يَتَأَخَّرُ أَحْمَدُ` = Ahmed geç kalmaz; `لَا يَتَخَاصَمُونَ` = tartışmazlar). (2) **لَا النَّاهِيَةُ (Yasaklama لَا'sı)** ise bir yasak/talep bildirir ve muzâriyi **cezmeder**! Hem 2. şahsa (M17: `لَا تَكْذِبْ!`) hem de 3. şahsa (**Nehy-i Gâib**: `لَا يَتَأَخَّرْ أَحَدٌ!` = Kimse geç kalmasın! `لَا يَخْرُجُوا قَبْلَ الْجَرَسِ!` = Zilden önce çıkmasınlar!). Ayrıca cezm dünyasının büyük zirvesine kapı aralayan **çift fiil cezmeden şart edatları (`إِنْ` = eğer, `مَنْ` = kim ...-erse)** de iki muzâriyi birden cezmeder (`إِنْ تَجْتَهِدْ تَنْجَحْ` = Eğer çalışırsan başarırsın; `مَنْ يَزْرَعْ يَحْصُدْ` = Kim ekerse biçer)!",
+      "formul": "لَا النَّاهِيَةُ + Meczum (-mesin!)  ≠  لَا النَّافِيَةُ + Merfû (-mez)  |  إِنْ / مَنْ + Meczum 1 + Meczum 2",
+      "formulAr": "لَا يَتَأَخَّرْ أَحَدٌ! (نَهْيٌ)  ≠  لَا يَتَأَخَّرُ أَحَدٌ (نَفْيٌ)  |  مَنْ يَزْرَعْ يَحْصُدْ",
+      "tablo": {
+        "baslik": "Nehy-i Gâib vs. Nefy لَا + Çift Cezmeden Şart Köprüsü",
+        "sutunlar": ["Yapı", "Gramer Analizi", "Örnek", "Türkçe Anlam"],
+        "satirlar": [
+          { "hucreler": ["لَا النَّاهِيَةُ (Tekil Gâib)", "Cezm (Sükûn)", "لَا يَدْخُلْ أَحَدٌ بِدُونِ إِذْنٍ!", "Kimse izinsiz girmesin!"], "ar": "لَا يَدْخُلْ أَحَدٌ بِدُونِ إِذْنٍ!" },
+          { "hucreler": ["لَا النَّافِيَةُ (Tekil Haber)", "Merfû (Damme)", "لَا يَدْخُلُ أَحَدٌ بِدُونِ إِذْنٍ.", "Kimse izinsiz girmez / girmiyor."], "ar": "لَا يَدْخُلُ أَحَدٌ بِدُونِ إِذْنٍ." },
+          { "hucreler": ["لَا النَّاهِيَةُ (Çoğul Gâib)", "Cezm (ن Hazfi)", "لَا يَنْسَوْا أَوْرَاقَهُمْ!", "Evraklarını unutmasınlar!"], "ar": "لَا يَنْسَوْا أَوْرَاقَهُمْ!" },
+          { "hucreler": ["لَا النَّاهِيَةُ (Nâkıs Gâib)", "Cezm (İllet Hazfi)", "لَا يَنْسَ الطَّالِبُ وَاجِبَهُ!", "Öğrenci ödevini unutmasın!"], "ar": "لَا يَنْسَ الطَّالِبُ وَاجِبَهُ!" },
+          { "hucreler": ["إِنْ + Şart + Cevap", "2 Fiili Cezmeder!", "إِنْ تَصْبِرْ تَظْفَرْ!", "Eğer sabredersen zafer kazanırsın!"], "ar": "إِنْ تَصْبِرْ تَظْفَرْ!" },
+          { "hucreler": ["مَنْ + Şart + Cevap", "2 Fiili Cezmeder!", "مَنْ يَبْحَثْ يَجِدْ!", "Kim ararsa bulur!"], "ar": "مَنْ يَبْحَثْ يَجِدْ!" }
+        ]
+      },
+      "trKiyas": "Arap atasözlerinin ve YDS'de çıkan hikmetli cümlelerin neredeyse yarısı `مَنْ + meczum + meczum` (`مَنْ جَدَّ وَجَدَ` / `مَنْ يَزْرَعْ يَحْصُدْ`) veya `إِنْ + meczum + meczum` yapısındadır! Ayrıca Kur'an'da ve resmî duyurularda 3. şahsa yasaklama (`لَا يَسْخَرْ قَوْمٌ مِنْ قَوْمٍ` = Bir topluluk başka bir toplulukla alay etmesin!) Nehy-i Gâib'in en parlak örneğidir. `لَا` sonrası sükûn veya ن hazfi gördüğünüz anda 'Bu bir yasaklamadır (-mesin / -me)!' hükmünü verin.",
+      "sikHatalar": [
+        "3. şahsa (هُوَ/هُمْ) nehiy olmayacağını sanmak (✗ sadece أَنْتَ'ye nehiy olur → ✓ 3. şahsa da Nehy-i Gâib olur: لَا يَكْذِبْ / لَا يَخْرُجُوا!).",
+        "Şart cümlesinde birinci fiili cezmedip ikinci (cevap) fiilini merfû bırakmak (✗ إِنْ تَدْرُسْ تَنْجَحُ → ✓ إِنْ تَدْرُسْ تَنْجَحْ!).",
+        "Nefy لَا'sı ile fiili yanlışlıkla cezmetmek (✗ هُوَ لَا يَشْرَبْ الْقَهْوَةَ → ✓ هُوَ لَا يَشْرَبُ الْقَهْوَةَ)."
+      ],
+      "ornekler": [
+        { "ar": "لَا يَتَكَلَّمْ أَحَدٌ أَثْنَاءَ الِامْتِحَانِ!", "okunus": "Lâ yetekellem ehadun esnâe'l-imtihâni!", "tr": "Sınav esnasında kimse konuşmasın!", "not": "Nehy-i Gâib (sükûn)" },
+        { "ar": "لَا يَتَأَخَّرِ الْمُتَسَابِقُونَ عَنْ مَوْعِدِ التَّسْجِيلِ!", "okunus": "Lâ yeteahhari'l-mutesâbikûne ‘an mev‘idi't-tescîli!", "tr": "Yarışmacılar kayıt vaktine geç kalmasınlar!", "not": "Açık fâil → fiil tekil meczum + geçiş kesrası" },
+        { "ar": "لَا يَغْضَبُوا إِذَا سَمِعُوا النَّقْدَ الْبَنَّاءَ!", "okunus": "Lâ yagdabû izâ semi‘u'n-nakde'l-bennâe!", "tr": "Yapıcı eleştiriyi duyduklarında öfkelenmesinler!", "not": "Nehy-i Gâib + Ef'âl-i Hamse (ن hazfi)" },
+        { "ar": "لَا يَنْسَ أَحَدُكُمْ إِغْلَاقَ الْأَنْوَارِ قَبْلَ الْخُرُوجِ!", "okunus": "Lâ yense ehadukum iglâka'l-envâri kable'l-hurûci!", "tr": "Sizden biri çıkmadan önce ışıkları kapatmayı unutmasın!", "not": "Nâkıs Nehy-i Gâib (ى düştü!)" },
+        { "ar": "إِنْ تَتَعَاوَنُوا فِي الْخَيْرِ تَنَالُوا النَّجَاحَ!", "okunus": "İn tete‘âvenû fi'l-hayri tenâlu'n-necâha!", "tr": "İyilikte yardımlaşırsanız başarıya ulaşırsınız!", "not": "إِنْ + 2 Ef'âl-i Hamse (ikisinde de ن düştü!)" },
+        { "ar": "مَنْ يَطْلُبِ الْعُلَا يَسْهَرِ اللَّيَالِيَ.", "okunus": "Men yatlubi'l-‘ulâ yesheri'l-leyâliye.", "tr": "Kim yüceliği ararsa geceleri uykusuz geçirir.", "not": "مَنْ + 2 meczum fiil (klasik özdeyiş)" }
+      ],
+      "tatbikler": [
+        { "id": "m16_g5_t01", "tip": "bosluk", "soru": "«لَا ___ أَحَدٌ الْقَاعَةَ قَبْلَ انْتِهَاءِ الْوَقْتِ!» ('Kimse salondan çıkmasın!')", "secenekler": ["يُغَادِرْ", "يُغَادِرُ", "يُغَادِرَ", "غَادَرَ"], "dogruIndeks": 0, "aciklama": "Nehy-i Gâib (yasaklama): لَا + sükûn (لَا يُغَادِرْ!)." },
+        { "id": "m16_g5_t02", "tip": "bosluk", "soru": "«لَا يَكْذِبُ الْمُؤْمِنُ.» ile «لَا يَكْذِبْ أَحَدٌ!» arasındaki fark nedir?", "secenekler": ["İlki haber veren olumsuzluktur (merfû: 'yalan söylemez'), ikincisi yasaklamadır (meczum: 'yalan söylemesin!')", "İkisi aynıdır", "İlki emirdir", "İkincisi geçmiş zamandır"], "dogruIndeks": 0, "aciklama": "Damme = nefy (haber); Sükûn = nehiy (yasaklama)!" },
+        { "id": "m16_g5_t03", "tip": "bosluk", "soru": "«إِنْ تَجْتَهِدْ فِي عَمَلِكَ ___ بِالنَّجَاحِ.» (تَفُوزُ fiilinin meczum hâli)", "secenekler": ["تَفُزْ", "تَفُوزْ", "تَفُوزُ", "تَفُوزَ"], "dogruIndeks": 0, "aciklama": "إِنْ iki fiili cezmeder; ecvef تَفُوزُ meczum olunca و düşer: تَفُزْ!" },
+        { "id": "m16_g5_t04", "tip": "bosluk", "soru": "«مَنْ ___ فِي الْبَحْثِ يَجِدْ جَوَابًا.»", "secenekler": ["يَجْتَهِدْ", "يَجْتَهِدُ", "يَجْتَهِدَ", "يَجْتَهِدُونَ"], "dogruIndeks": 0, "aciklama": "Şart ismi مَنْ hem şart fiilini hem cevap fiilini cezmeder: مَنْ يَجْتَهِدْ يَجِدْ." },
+        { "id": "m16_g5_t05", "tip": "tr_ar", "soru": "'Kimse önemli evrakları unutmasın!' (Nehy-i Gâib) nasıl söylenir?", "secenekler": ["لَا يَنْسَ أَحَدٌ الْأَوْرَاقَ الْمُهِمَّةَ!", "لَا يَنْسَى أَحَدٌ الْأَوْرَاقَ الْمُهِمَّةَ!", "لَنْ يَنْسَى أَحَدٌ!", "لَمْ يَنْسَ أَحَدٌ!"], "dogruIndeks": 0, "aciklama": "يَنْسَى (nâkıs) + Nehy-i Gâib → ى düşer: لَا يَنْسَ!" },
+        { "id": "m16_g5_t06", "tip": "bosluk", "soru": "«إِنْ تَقْرَؤُوا كَثِيرًا ___ خِبْرَتُكُمْ / ___ كَثِيرًا.» (تَسْتَفِيدُونَ)", "secenekler": ["تَسْتَفِيدُوا", "تَسْتَفِيدُونَ", "تَسْتَفِيدُ", "تَسْتَفِيدْ"], "dogruIndeks": 0, "aciklama": "إِنْ cevap fiilini de cezmeder; Ef'âl-i Hamse'den ن düşer: تَسْتَفِيدُوا!" },
+        { "id": "m16_g5_t07", "tip": "hata", "soru": "«مَنْ يَزْرَعُ الْخَيْرَ يَحْصُدُ الْخَيْرَ.» cümlesi şart cümlesi olarak nasıl düzeltilir?", "secenekler": ["مَنْ يَزْرَعِ الْخَيْرَ يَحْصُدِ الْخَيْرَ.", "مَنْ يَزْرَعَ يَحْصُدَ.", "مَنْ زَرَعَ يَحْصُدُ.", "Hata yoktur."], "dogruIndeks": 0, "aciklama": "مَنْ her iki muzâri fiili de cezmeder (الْ geçiş kesrasıyla: يَزْرَعِ ... يَحْصُدِ)." },
+        { "id": "m16_g5_t08", "tip": "bosluk", "soru": "«الطُّلَّابُ لَا ___ أَصْوَاتَهُمْ فِي الْمَكْتَبَةِ!» (يَرْفَعُونَ — Nehy-i Gâib)", "secenekler": ["يَرْفَعُوا", "يَرْفَعُونَ", "يَرْفَعْ", "يَرْفَعَ"], "dogruIndeks": 0, "aciklama": "Nehy-i Gâib + Ef'âl-i Hamse → ن düşer: لَا يَرْفَعُوا!" },
+        { "id": "m16_g5_t09", "tip": "bosluk", "soru": "«إِنْ تَسْعَ فِي الْخَيْرِ ___ رِضَا اللّٰهِ.» (تَنَالُ fiilinin meczum hâli)", "secenekler": ["تَنَلْ", "تَنَالْ", "تَنَالُ", "تَنَالَ"], "dogruIndeks": 0, "aciklama": "Ecvef تَنَالُ meczum olunca ا düşer: تَنَلْ!" },
+        { "id": "m16_g5_t10", "tip": "donusturme", "soru": "«لِيَتَكَلَّمْ بِصَوْتٍ مُرْتَفِعٍ!» (Emr-i Gâib) cümlesini Nehy-i Gâib'e ('Yüksek sesle konuşmasın!') çevirin:", "secenekler": ["لَا يَتَكَلَّمْ بِصَوْتٍ مُرْتَفِعٍ!", "لَا يَتَكَلَّمُ بِصَوْتٍ مُرْتَفِعٍ!", "لَا يَتَكَلَّمَ بِصَوْتٍ مُرْتَفِعٍ!", "لَنْ يَتَكَلَّمَ بِصَوْتٍ مُرْتَفِعٍ!"], "dogruIndeks": 0, "aciklama": "Emir Lâmı yerine Nehiy لَا'sı gelir, sükûn korunur: لَا يَتَكَلَّمْ!" }
+      ]
+    }
+  ],
+  "workshop": {
+    "motors": [
+      {
+        "id": "m16_mot1",
+        "baslik": "Kalıp 1: لَمْ ile Geçmiş Zaman Olumsuzluğu (Ecvef & Nâkıs Motoru)",
+        "aciklama": "Özneyi ve doğru cezmedilmiş (sükûn / ecvef / nâkıs) fiili seçerek kusursuz geçmiş olumsuz cümleler kurun.",
+        "slotlar": [
+          {
+            "etiket": "Özne",
+            "secenekler": [
+              { "ar": "الطَّالِبُ", "tr": "Öğrenci" },
+              { "ar": "الْمُهَنْدِسُ", "tr": "Mühendis" },
+              { "ar": "أَخِي الصَّغِيرُ", "tr": "Küçük kardeşim" },
+              { "ar": "الضَّيْفُ الْكَرِيمُ", "tr": "Değerli misafir" },
+              { "ar": "الْبَاحِثُ", "tr": "Araştırmacı" },
+              { "ar": "صَدِيقِي عُمَرُ", "tr": "Arkadaşım Ömer" }
+            ]
+          },
+          {
+            "etiket": "لَمْ + Meczum Fiil (Ecvef / Nâkıs / Sâlim)",
+            "secenekler": [
+              { "ar": "لَمْ يَقُلْ إِلَّا الْحَقِيقَةَ أَمْسِ.", "tr": "dün hakikatten başka bir şey söylemedi." },
+              { "ar": "لَمْ يَنْسَ مَوْعِدَ الِاجْتِمَاعِ الْمُهِمِّ.", "tr": "önemli toplantının vaktini unutmadı." },
+              { "ar": "لَمْ يَمْشِ وَحْدَهُ فِي الطَّرِيقِ الْمُظْلِمِ.", "tr": "karanlık yolda tek başına yürümedi." },
+              { "ar": "لَمْ يَنَمْ جَيِّدًا بِسَبَبِ كَثْرَةِ الْعَمَلِ.", "tr": "iş yoğunluğu yüzünden iyi uyumadı." },
+              { "ar": "لَمْ يَسْتَطِعِ الْحُضُورَ بِسَبَبِ السَّفَرِ.", "tr": "seyahat sebebiyle katılamadı." },
+              { "ar": "لَمْ يَرَ مَدِينَةً أَجْمَلَ مِنْ إِسْطَنْبُولَ قَطُّ.", "tr": "İstanbul'dan daha güzel bir şehir hiç görmedi." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m16_mot2",
+        "baslik": "Kalıp 2: لَمَّا (Henüz -medi) vs. لَمَّا (-dığında) Motoru",
+        "aciklama": "Durumu ve لَمَّا + meczum muzâri ('henüz -medi') devam cümlesini eşleştirin.",
+        "slotlar": [
+          {
+            "etiket": "İlk Olay",
+            "secenekler": [
+              { "ar": "دَقَّ جَرَسُ الْمَدْرَسَةِ", "tr": "Okul zili çaldı" },
+              { "ar": "اِنْتَهَى وَقْتُ الْفَحْصِ", "tr": "Sınav süresi bitti" },
+              { "ar": "تَجَمَّعَتِ السُّحُبُ فِي السَّمَاءِ", "tr": "Gökyüzünde bulutlar toplandı" },
+              { "ar": "قَرَأْتُ نِصْفَ الرِّوَايَةِ", "tr": "Romanın yarısını okudum" },
+              { "ar": "أَرْسَلْنَا الرِّسَالَةَ صَبَاحًا", "tr": "Mesajı sabah gönderdik" },
+              { "ar": "وَصَلْنَا إِلَى الْمَحَطَّةِ", "tr": "İstasyona vardık" }
+            ]
+          },
+          {
+            "etiket": "وَلَمَّا + Meczum Muzâri (Henüz -medi!)",
+            "secenekler": [
+              { "ar": "وَلَمَّا يَدْخُلِ الْأُسْتَاذُ الصَّفَّ.", "tr": "ve hoca sınıfa henüz girmedi." },
+              { "ar": "وَلَمَّا يُسَلِّمْ بَعْضُ الطُّلَّابِ أَوْرَاقَهُمْ.", "tr": "ve bazı öğrenciler kâğıtlarını henüz teslim etmedi." },
+              { "ar": "وَلَمَّا يَنْزِلِ الْمَطَرُ.", "tr": "ve yağmur henüz yağmadı." },
+              { "ar": "وَلَمَّا أَنْتَهِ مِنْ قِرَاءَتِهَا.", "tr": "ve onu okumayı henüz bitirmedim." },
+              { "ar": "وَلَمَّا يَصِلِ الرَّدُّ الرَّسْمِيُّ.", "tr": "ve resmî cevap henüz ulaşmadı." },
+              { "ar": "وَلَمَّا يَتَحَرَّكِ الْقِطَارُ.", "tr": "ve tren henüz hareket etmedi." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m16_mot3",
+        "baslik": "Kalıp 3: فَلْـ / لِـ — Emr-i Mütekellim ('Haydi ...-elim!') Motoru",
+        "aciklama": "Ekipçe harekete geçme cümleleri üretin.",
+        "slotlar": [
+          {
+            "etiket": "فَلْنَـ + Meczum Fiil",
+            "secenekler": [
+              { "ar": "فَلْنَبْدَأْ", "tr": "Haydi başlayalım" },
+              { "ar": "فَلْنَتَعَاوَنْ", "tr": "Haydi yardımlaşalım" },
+              { "ar": "فَلْنُفَكِّرْ", "tr": "Haydi düşünelim" },
+              { "ar": "فَلْنَمْشِ", "tr": "Haydi yürüyelim" },
+              { "ar": "فَلْنَقْرَأْ", "tr": "Haydi okuyalım" },
+              { "ar": "فَلْنُحَافِظْ", "tr": "Haydi koruyalım" }
+            ]
+          },
+          {
+            "etiket": "Hedef & Tamamlayıcı",
+            "secenekler": [
+              { "ar": "بِجِدٍّ وَنَشَاطٍ مُنْذُ الصَّبَاحِ!", "tr": "sabahtan itibaren ciddiyet ve dinçlikle!" },
+              { "ar": "فِي إِنْجَازِ هٰذَا الْمَشْرُوعِ النَّافِعِ!", "tr": "bu faydalı projeyi tamamlamakta!" },
+              { "ar": "فِي حَلٍّ عَمَلِيٍّ لِهٰذِهِ الْمُشْكِلَةِ!", "tr": "bu soruna pratik bir çözüm üzerine!" },
+              { "ar": "عَلَى شَاطِئِ الْبَحْرِ قَلِيلًا!", "tr": "deniz kıyısında biraz!" },
+              { "ar": "هٰذِهِ الصَّفْحَةَ بِتَرْكِيزٍ وَهُدُوءٍ!", "tr": "bu sayfayı odaklanma ve sakinlikle!" },
+              { "ar": "عَلَى نَظَافَةِ مَدِينَتِنَا وَبِيئَتِنَا!", "tr": "şehrimizin ve çevremizin temizliğini!" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m16_mot4",
+        "baslik": "Kalıp 4: Emr-i Gâib & Nehy-i Gâib (Sınıf / Kurum Kuralları)",
+        "aciklama": "3. şahsa (herkes yapsın / kimse yapmasın) yönelik kurallar üretin.",
+        "slotlar": [
+          {
+            "etiket": "Emr-i Gâib (-sin!)",
+            "secenekler": [
+              { "ar": "لِيَجْلِسْ كُلُّ طَالِبٍ فِي مَكَانِهِ،", "tr": "Her öğrenci yerine otursun," },
+              { "ar": "لِيَقْرَأِ الْجَمِيعُ التَّعْلِيمَاتِ بِدِقَّةٍ،", "tr": "Herkes yönergeleri dikkatle okusun," },
+              { "ar": "لِيُغْلِقْ كُلُّ وَاحِدٍ هَاتِفَهُ النَّقَّالَ،", "tr": "Herkes cep telefonunu kapatsın," },
+              { "ar": "لِيَحْضُرِ الْمُشَارِكُونَ قَبْلَ الْمَوْعِدِ،", "tr": "Katılımcılar vakitten önce gelsin," },
+              { "ar": "لِيَكْتُبْ كُلُّ طَالِبٍ اسْمَهُ وَاضِحًا،", "tr": "Her öğrenci adını açıkça yazsın," },
+              { "ar": "لِيَسْتَمِعِ الْحَاضِرُونَ بِاهْتِمَامٍ،", "tr": "Dinleyiciler ilgiyle dinlesin," }
+            ]
+          },
+          {
+            "etiket": "Nehy-i Gâib (-mesin!)",
+            "secenekler": [
+              { "ar": "وَلَا يَتَكَلَّمْ أَحَدٌ أَثْنَاءَ الشَّرْحِ!", "tr": "ve anlatım sırasında kimse konuşmasın!" },
+              { "ar": "وَلَا يَنْسَ أَحَدٌ كِتَابَةَ التَّارِيخِ!", "tr": "ve kimse tarihi yazmayı unutmasın!" },
+              { "ar": "وَلَا يَخْرُجْ أَحَدٌ قَبْلَ إِذْنِ الْمُرَاقِبِ!", "tr": "ve gözetmen izni olmadan kimse çıkmasın!" },
+              { "ar": "وَلَا يَتَأَخَّرْ أَحَدٌ عَنِ الْجَلْسَةِ الْأُولَى!", "tr": "ve kimse ilk oturuma geç kalmasın!" },
+              { "ar": "وَلَا يَرْفَعْ أَحَدٌ صَوْتَهُ فِي الْمَكْتَبَةِ!", "tr": "ve kütüphanede kimse sesini yükseltmesin!" },
+              { "ar": "وَلَا يَتَسَرَّعْ أَحَدٌ فِي تَسْلِيمِ الْوَرَقَةِ!", "tr": "ve kimse kâğıdı teslim etmekte acele etmesin!" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m16_mot5",
+        "baslik": "Kalıp 5: Ef'âl-i Hamse Cezm Motoru (Çoğul ن Hazfi)",
+        "aciklama": "4 cezm edatını çoğul Ef'âl-i Hamse ile birleştirip ن düşüşünü otomatikleştirin.",
+        "slotlar": [
+          {
+            "etiket": "Özne + Cezm Edatı",
+            "secenekler": [
+              { "ar": "الطُّلَّابُ لَمْ", "tr": "Öğrenciler ...-mediler" },
+              { "ar": "الضُّيُوفُ لَمَّا", "tr": "Misafirler henüz ...-mediler" },
+              { "ar": "الْمُوَظَّفُونَ فَلْـ", "tr": "Çalışanlar ...-sinler" },
+              { "ar": "اللَّاعِبُونَ لَا", "tr": "Oyuncular ...-mesinler" },
+              { "ar": "الْبَاحِثُونَ لَمْ", "tr": "Araştırmacılar ...-mediler" },
+              { "ar": "الزُّمَلَاءُ لِـ", "tr": "Arkadaşlar ...-sinler" }
+            ]
+          },
+          {
+            "etiket": "ن Düşmüş Çoğul Fiil",
+            "secenekler": [
+              { "ar": "يَتَأَخَّرُوا عَنِ الِاجْتِمَاعِ الصَّبَاحِيِّ.", "tr": "sabah toplantısına geç kalmak." },
+              { "ar": "يَصِلُوا إِلَى مَحَطَّةِ الْقِطَارِ.", "tr": "tren istasyonuna varmak." },
+              { "ar": "يَتَعَاوَنُوا فِي خِدْمَةِ الْمُوَاطِنِينَ.", "tr": "vatandaşlara hizmette yardımlaşmak." },
+              { "ar": "يَسْتَسْلِمُوا أَمَامَ الصُّعُوبَاتِ.", "tr": "zorluklar karşısında pes etmek." },
+              { "ar": "يُهْمِلُوا قِرَاءَةَ الْمَرَاجِعِ الْعِلْمِيَّةِ.", "tr": "bilimsel kaynakları okumayı ihmal etmek." },
+              { "ar": "يَسْتَعِدُّوا لِلْمُسَابَقَةِ الْكُبْرَى.", "tr": "büyük yarışmaya hazırlanmak." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m16_mot6",
+        "baslik": "Kalıp 6: Çift Cezmeden Şart Özdeyişleri (إِنْ / مَنْ)",
+        "aciklama": "Hem şart fiilini hem cevap fiilini cezmederek güçlü hikmetli cümleler kurun.",
+        "slotlar": [
+          {
+            "etiket": "Şart Kısmı (Meczum 1)",
+            "secenekler": [
+              { "ar": "مَنْ يَجْتَهِدْ فِي طَلَبِ الْعِلْمِ", "tr": "Kim ilim yolunda gayret ederse" },
+              { "ar": "مَنْ يَزْرَعِ الْخَيْرَ فِي حَيَاتِهِ", "tr": "Kim hayatında iyilik ekerse" },
+              { "ar": "إِنْ تَصْبِرْ عَلَى الشَّدَائِدِ", "tr": "Eğer zorluklara sabredersen" },
+              { "ar": "مَنْ يَصْدُقْ فِي أَقْوَالِهِ", "tr": "Kim sözlerinde doğru olursa" },
+              { "ar": "إِنْ تَقْرَأْ كُلَّ يَوْمٍ بِانْتِظَامٍ", "tr": "Eğer her gün düzenli okursan" },
+              { "ar": "مَنْ يَحْتَرِمِ الْآخَرِينَ", "tr": "Kim başkalarına saygı gösterirse" }
+            ]
+          },
+          {
+            "etiket": "Cevap Kısmı (Meczum 2)",
+            "secenekler": [
+              { "ar": "يَنَلِ النَّجَاحَ وَالتَّفَوُّقَ!", "tr": "başarıya ve üstünlüğe ulaşır!" },
+              { "ar": "يَحْصُدْ ثَمَرَتَهُ عَاجِلًا أَوْ آجِلًا!", "tr": "er ya da geç meyvesini biçer!" },
+              { "ar": "تَظْفَرْ بِالْفَرَجِ الْقَرِيبِ!", "tr": "yakın kurtuluşa kavuşursun!" },
+              { "ar": "يَثِقْ بِهِ النَّاسُ جَمِيعًا!", "tr": "tüm insanlar ona güvenir!" },
+              { "ar": "تَزْدَدْ ثَقَافَتُكَ وَيَتَّسِعْ أُفُقُكَ!", "tr": "kültürün artar ve ufkun genişler!" },
+              { "ar": "يَحْتَرِمْهُ الْجَمِيعُ!", "tr": "herkes ona saygı gösterir!" }
+            ]
+          }
+        ]
+      }
+    ],
+    "merdivenler": [
+      {
+        "id": "m16_lad1",
+        "baslik": "A1 → B2 Merdiveni: لَمْ ile Geçmiş Zaman Derinliği",
+        "adimlar": [
+          { "seviye": "A1", "ar": "لَمْ أَذْهَبْ.", "okunus": "Lem ezheb.", "tr": "Gitmedim.", "ekleme": "لَمْ + sükûn" },
+          { "seviye": "A1+", "ar": "لَمْ أَذْهَبْ إِلَى الْجَامِعَةِ أَمْسِ.", "okunus": "Lem ezheb ile'l-câmi‘ati emsi.", "tr": "Dün üniversiteye gitmedim.", "ekleme": "Yer + geçmiş zarfı" },
+          { "seviye": "A2", "ar": "لَمْ أَسْتَطِعْ أَنْ أَذْهَبَ إِلَى الْجَامِعَةِ أَمْسِ لِأَنَّنِي كُنْتُ مَرِيضًا.", "okunus": "Lem estatı‘ en ezhebe ile'l-câmi‘ati emsi li-ennenî kuntu marîdan.", "tr": "Hasta olduğum için dün üniversiteye gidemedim.", "ekleme": "Ecvef cezm (لَمْ أَسْتَطِعْ) + أَنْ nasb!" },
+          { "seviye": "B1", "ar": "لَمْ يَقُلِ الشَّاهِدُ كَلِمَةً وَاحِدَةً قَبْلَ أَنْ يَتَأَكَّدَ مِنَ التَّفَاصِيلِ، وَلَمْ يَنْسَ أَيَّ جُزْءٍ مِنَ الْحَادِثَةِ.", "okunus": "Lem yekuli'ş-şâhidu kelimeten vâhideten kable en yeteekkede mine't-tefâsîli, ve lem yense eyye cuz'in mine'l-hâdiseti.", "tr": "Tanık ayrıntılardan emin olmadan önce tek bir kelime söylemedi ve olayın hiçbir parçasını unutmadı.", "ekleme": "Ecvef (يَقُلْ) + Nâkıs (يَنْسَ)!" },
+          { "seviye": "B2", "ar": "لَمْ تَكُنِ الْمُؤَسَّسَاتُ الْبَحْثِيَّةُ تَمْلِكُ هٰذِهِ التِّقْنِيَّاتِ قَبْلَ عِشْرِينَ عَامًا، وَلَمْ يَرَ الْعُلَمَاءُ مِثْلَ هٰذِهِ الدِّقَّةِ قَطُّ.", "okunus": "Lem tekuni'l-muessesâtu'l-bahsiyyetu temliku hâzihi't-tikniyyâti kable ‘işrîne ‘âmen, ve lem yera'l-‘ulemâu misle hâzihi'd-dıkkati kattu.", "tr": "Araştırma kurumları yirmi yıl önce bu teknolojilere sahip değildi ve bilim insanları böyle bir hassasiyeti hiç görmemişlerdi.", "ekleme": "لَمْ تَكُنْ + لَمْ يَرَ + قَطُّ!" }
+        ]
+      },
+      {
+        "id": "m16_lad2",
+        "baslik": "A1 → B2 Merdiveni: لَمَّا'nın İki Yüzü (Henüz vs. -dığında)",
+        "adimlar": [
+          { "seviye": "A1", "ar": "لَمَّا يَصِلِ الْقِطَارُ.", "okunus": "Lemmâ yasili'l-kitâru.", "tr": "Tren henüz varmadı.", "ekleme": "لَمَّا + muzâri (henüz)" },
+          { "seviye": "A1+", "ar": "وَصَلْنَا إِلَى الْمَحَطَّةِ وَلَمَّا يَصِلِ الْقِطَارُ.", "okunus": "Vasalnâ ile'l-mahattati ve lemmâ yasili'l-kitâru.", "tr": "İstasyona vardık ama tren henüz gelmedi.", "ekleme": "İki cümle bağlama" },
+          { "seviye": "A2", "ar": "لَمَّا وَصَلَ الْقِطَارُ أَخِيرًا، صَعِدَ الْمُسَافِرُونَ بِسُرْعَةٍ.", "okunus": "Lemmâ vasale'l-kitâru ehîran, sa‘ide'l-musâfirûne bi-sur‘atin.", "tr": "Tren sonunda vardığında yolcular hızla bindiler.", "ekleme": "لَمَّا + mâzi (-dığında!)" },
+          { "seviye": "B1", "ar": "لَمَّا قَرَأَ الْمُدِيرُ التَّقْرِيرَ الْأَوَّلِيَّ، اِكْتَشَفَ أَنَّ الْمَرْحَلَةَ الثَّانِيَةَ لَمَّا تَبْدَأْ بَعْدُ بِشَكْلٍ فِعْلِيٍّ.", "okunus": "Lemmâ karae'l-mudîru't-takrîra'l-evveliyye, ikteşefe enne'l-merhalete's-sâniyete lemmâ tebde' bi-şeklin fi‘liyyin.", "tr": "Müdür ilk raporu okuduğunda, ikinci aşamanın henüz fiilen başlamadığını keşfetti.", "ekleme": "Tek cümlede 2 لَمَّا (mâzi + muzâri)!" },
+          { "seviye": "B2", "ar": "لَمَّا تَكْتَمِلِ الدِّرَاسَاتُ السَّرِيرِيَّةُ لِلدَّوَاءِ الْجَدِيدِ، غَيْرَ أَنَّ النَّتَائِجَ الْأَوَّلِيَّةَ تَبْعَثُ عَلَى التَّفَاؤُلِ الْكَبِيرِ.", "okunus": "Lemmâ tektemili'd-dirâsâtu's-serîriyyetu li'd-devâi'l-cedîdi, gayra enne'n-netâice'l-evveliyyete teb‘asu ‘ale't-tefâuli'l-kebîri.", "tr": "Yeni ilacın klinik çalışmaları henüz tamamlanmadı; ancak ilk sonuçlar büyük bir iyimserlik veriyor.", "ekleme": "YÖKDİL Sağlık üslubunda لَمَّا!" }
+        ]
+      },
+      {
+        "id": "m16_lad3",
+        "baslik": "A1 → B2 Merdiveni: Emr-i Gâib & Mütekellim (لِـ / فَلْـ)",
+        "adimlar": [
+          { "seviye": "A1", "ar": "لِنَبْدَأْ!", "okunus": "Li-nebde'!", "tr": "Başlayalım!", "ekleme": "Emr-i Mütekellim" },
+          { "seviye": "A1+", "ar": "فَلْنَبْدَأِ الدَّرْسَ الْآنَ!", "okunus": "Fel-nebdei'd-derse'l-âne!", "tr": "Haydi derse şimdi başlayalım!", "ekleme": "فَلْـ (sükûnlu lâm)" },
+          { "seviye": "A2", "ar": "لِيَفْتَحْ كُلُّ طَالِبٍ كِتَابَهُ، وَلَا يَتَكَلَّمْ أَحَدٌ أَثْنَاءَ الْقِرَاءَةِ.", "okunus": "Li-yeftah kullu tâlibin kitâbehu, ve lâ yetekellem ehadun esnâe'l-kirâeti.", "tr": "Her öğrenci kitabını açsın ve okuma esnasında kimse konuşmasın.", "ekleme": "Emr-i Gâib + Nehy-i Gâib" },
+          { "seviye": "B1", "ar": "فَلْنَتَعَاوَنْ جَمِيعًا فِي تَنْظِيمِ الْحَفْلِ، وَلْيَقُمْ كُلُّ فَرِيقٍ بِدَوْرِهِ عَلَى أَكْمَلِ وَجْهٍ!", "okunus": "Fel-nete‘âven cemî‘an fî tenzîmi'l-hafli, vel-yekum kullu ferîkın bi-devrihi ‘alâ ekmeli vechin!", "tr": "Haydi törenin düzenlenmesinde hep birlikte yardımlaşalım ve her ekip rolünü en mükemmel biçimde yerine getirsin!", "ekleme": "فَلْنَتَعَاوَنْ + وَلْيَقُمْ (ecvef!)" },
+          { "seviye": "B2", "ar": "لِيَعْلَمِ الْجَمِيعُ أَنَّ التَّقَدُّمَ الْعِلْمِيَّ لَا يَتَحَقَّقُ بِالْأَقْوَالِ، فَلْنُحَوِّلْ أَفْكَارَنَا إِلَى مَشَارِيعَ مَلْمُوسَةٍ تَخْدِمُ الْمُجْتَمَعَ!", "okunus": "Li-ya‘lemi'l-cemî‘u enne't-tekaddume'l-‘ilmiyye lâ yetehakkaku bi'l-akvâli, fel-nuhavvil efkâranâ ilâ meşârî‘a melmûsetin tahdimu'l-muctema‘a!", "tr": "Herkes bilsin ki bilimsel ilerleme sözlerle gerçekleşmez; o hâlde fikirlerimizi topluma hizmet eden somut projelere dönüştürelim!", "ekleme": "لِيَعْلَمْ + لَا (nefy) + فَلْنُحَوِّلْ" }
+        ]
+      },
+      {
+        "id": "m16_lad4",
+        "baslik": "A1 → B2 Merdiveni: Çift Cezmeden Şart Cümlesi (إِنْ / مَنْ)",
+        "adimlar": [
+          { "seviye": "A1", "ar": "إِنْ تَدْرُسْ تَنْجَحْ.", "okunus": "İn tedrus tenceh.", "tr": "Çalışırsan başarırsın.", "ekleme": "İki sükûn!" },
+          { "seviye": "A1+", "ar": "مَنْ يَزْرَعِ الْخَيْرَ يَحْصُدِ الْخَيْرَ.", "okunus": "Men yezra‘i'l-hayra yahsudi'l-hayra.", "tr": "Kim iyilik ekerse iyilik biçer.", "ekleme": "مَنْ + 2 meczum" },
+          { "seviye": "A2", "ar": "إِنْ تَتَعَاوَنُوا فِي الْعَمَلِ تُنْجِزُوا الْمَشْرُوعَ بِسُرْعَةٍ.", "okunus": "İn tete‘âvenû fi'l-‘ameli tuncizu'l-meşrû‘a bi-sur‘atin.", "tr": "İşte yardımlaşırsanız projeyi hızla tamamlarsınız.", "ekleme": "İki Ef'âl-i Hamse ن hazfi" },
+          { "seviye": "B1", "ar": "مَنْ يَسْعَ إِلَى الْمَعْرِفَةِ بِصِدْقٍ يَجِدِ الطَّرِيقَ مَفْتُوحًا أَمَامَهُ وَلَا يَخِبْ سَعْيُهُ.", "okunus": "Men yes‘a ile'l-ma‘rifeti bi-sıdkın yecidi't-tarîka meftûhan emâmehu ve lâ yahib sa‘yuhu.", "tr": "Kim samimiyetle bilgiye koşarsa yolu önünde açık bulur ve çabası boşa çıkmaz.", "ekleme": "Nâkıs (يَسْعَ) + Sâlim (يَجِدْ) + Ecvef (يَخِبْ)!" },
+          { "seviye": "B2", "ar": "إِنْ تَسْتَثْمِرِ الدُّوَلُ فِي التَّعْلِيمِ وَالْبَحْثِ الْعِلْمِيِّ تَحْقِقْ نُمُوًّا اقْتِصَادِيًّا مُسْتَدَامًا وَتَرْتَقِ بِمُجْتَمَعَاتِهَا.", "okunus": "İn testesmiri'd-duvelu fi't-ta‘lîmi ve'l-bahsi'l-‘ilmiyyi tuhakkık numuvven iktisâdiyyen mustedâmen ve tertakı bi-mucteme‘âtihâ.", "tr": "Devletler eğitim ve bilimsel araştırmaya yatırım yaparsa sürdürülebilir ekonomik büyüme gerçekleştirir ve toplumlarını yükseltir.", "ekleme": "Akademik çift cezm + nâkıs atıf (تَرْتَقِ)!" }
+        ]
+      }
+    ],
+    "bloklar": [
+      { "id": "m16_b01", "hedefAr": "لَمْ يَقُلِ الشَّاهِدُ إِلَّا الْحَقَّ", "tr": "Tanık haktan başkasını söylemedi.", "karisik": ["الْحَقَّ", "الشَّاهِدُ", "لَمْ", "إِلَّا", "يَقُلِ"] },
+      { "id": "m16_b02", "hedefAr": "لَمْ أَنْسَ نَصِيحَتَكَ الْقَيِّمَةَ قَطُّ", "tr": "Kıymetli nasihatini hiç unutmadım.", "karisik": ["قَطُّ", "نَصِيحَتَكَ", "لَمْ", "الْقَيِّمَةَ", "أَنْسَ"] },
+      { "id": "m16_b03", "hedefAr": "لَمْ يَمْشِ الطِّفْلُ وَحْدَهُ فِي الشَّارِعِ", "tr": "Çocuk caddede tek başına yürümedi.", "karisik": ["الشَّارِعِ", "الطِّفْلُ", "لَمْ", "فِي", "وَحْدَهُ", "يَمْشِ"] },
+      { "id": "m16_b04", "hedefAr": "لَمْ أَرَ مَنْظَرًا أَجْمَلَ مِنْ هٰذَا", "tr": "Bundan daha güzel bir manzara görmedim.", "karisik": ["هٰذَا", "أَجْمَلَ", "لَمْ", "مِنْ", "مَنْظَرًا", "أَرَ"] },
+      { "id": "m16_b05", "hedefAr": "لَمْ يَكُنِ الْجَوُّ بَارِدًا أَمْسِ", "tr": "Dün hava soğuk değildi.", "karisik": ["أَمْسِ", "الْجَوُّ", "لَمْ", "بَارِدًا", "يَكُنِ"] },
+      { "id": "m16_b06", "hedefAr": "لَمْ يَسْتَطِعِ الطَّالِبُ الْحُضُورَ الْيَوْمَ", "tr": "Öğrenci bugün katılamadı.", "karisik": ["الْيَوْمَ", "الطَّالِبُ", "لَمْ", "الْحُضُورَ", "يَسْتَطِعِ"] },
+      { "id": "m16_b07", "hedefAr": "وَصَلْنَا إِلَى الْمَحَطَّةِ وَلَمَّا يَصِلِ الْقِطَارُ", "tr": "İstasyona vardık ama tren henüz gelmedi.", "karisik": ["الْقِطَارُ", "وَلَمَّا", "الْمَحَطَّةِ", "وَصَلْنَا", "يَصِلِ", "إِلَى"] },
+      { "id": "m16_b08", "hedefAr": "لَمَّا وَصَلَ الْأُسْتَاذُ بَدَأَ الدَّرْسُ", "tr": "Hoca vardığında ders başladı.", "karisik": ["الدَّرْسُ", "الْأُسْتَاذُ", "لَمَّا", "بَدَأَ", "وَصَلَ"] },
+      { "id": "m16_b09", "hedefAr": "فَلْنَبْدَأِ الدَّرْسَ بِسْمِ اللّٰهِ", "tr": "Haydi derse Allah'ın adıyla başlayalım.", "karisik": ["اللّٰهِ", "الدَّرْسَ", "فَلْنَبْدَأِ", "بِسْمِ"] },
+      { "id": "m16_b10", "hedefAr": "لِيَجْلِسْ كُلُّ طَالِبٍ فِي مَكَانِهِ", "tr": "Her öğrenci yerine otursun.", "karisik": ["مَكَانِهِ", "طَالِبٍ", "لِيَجْلِسْ", "فِي", "كُلُّ"] },
+      { "id": "m16_b11", "hedefAr": "لِيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ", "tr": "Ya hayır söylesin ya da sussun.", "karisik": ["لِيَصْمُتْ", "خَيْرًا", "لِيَقُلْ", "أَوْ"] },
+      { "id": "m16_b12", "hedefAr": "لَا يَتَكَلَّمْ أَحَدٌ أَثْنَاءَ الِامْتِحَانِ", "tr": "Sınav esnasında kimse konuşmasın.", "karisik": ["الِامْتِحَانِ", "أَحَدٌ", "لَا", "أَثْنَاءَ", "يَتَكَلَّمْ"] },
+      { "id": "m16_b13", "hedefAr": "لَا يَنْسَ أَحَدٌ إِغْلَاقَ النَّافِذَةِ", "tr": "Kimse pencereyi kapatmayı unutmasın.", "karisik": ["النَّافِذَةِ", "أَحَدٌ", "لَا", "إِغْلَاقَ", "يَنْسَ"] },
+      { "id": "m16_b14", "hedefAr": "مَنْ يَزْرَعِ الْخَيْرَ يَحْصُدِ الْخَيْرَ", "tr": "Kim iyilik ekerse iyilik biçer.", "karisik": ["الْخَيْرَ", "يَحْصُدِ", "مَنْ", "الْخَيْرَ", "يَزْرَعِ"] },
+      { "id": "m16_b15", "hedefAr": "إِنْ تَتَعَاوَنُوا تَنَالُوا النَّجَاحَ", "tr": "Yardımlaşırsanız başarıya ulaşırsınız.", "karisik": ["النَّجَاحَ", "تَتَعَاوَنُوا", "إِنْ", "تَنَالُوا"] }
+    ]
+  },
+  "readings": [
+    {
+      "id": "m16_r1",
+      "baslik": "Kış Fırtınasında Tren İstasyonunda Bekleyiş",
+      "arBaslik": "الِانْتِظَارُ فِي مَحَطَّةِ الْقِطَارِ أَثْنَاءَ الْعَاصِفَةِ الثَّلْجِيَّةِ",
+      "seviye": "A2",
+      "paragraflar": [
+        {
+          "ar": "فِي مَسَاءِ يَوْمٍ شَتَوِيٍّ بَارِدٍ، وَصَلْتُ إِلَى مَحَطَّةِ الْقِطَارِ قَبْلَ الْمَوْعِدِ بِنِصْفِ سَاعَةٍ، وَلٰكِنَّ الثَّلْجَ كَانَ كَثِيفًا جِدًّا. نَظَرْتُ إِلَى لَوْحَةِ الْمَوَاعِيدِ فَرَأَيْتُ أَنَّ الْقِطَارَ السَّرِيعَ لَمَّا يَصِلْ، وَلَمْ تُعْلِنِ الْإِدَارَةُ مَوْعِدَ الِانْطِلَاقِ الْجَدِيدَ بَعْدُ.",
+          "okunus": "Fî mesâi yevmin şeteviyyin bâridin, vasaltu ilâ mahattati'l-kitâri kable'l-mev‘idi bi-nısfi sâ‘atin, ve lâkinne's-selce kâne kesîfen cidden. Nazartu ilâ levhati'l-mevâ‘îdi fe-raeytu enne'l-kitâra's-serî‘a lemmâ yasil, ve lem tu‘lini'l-idâratu mev‘ide'l-intilâkı'l-cedîde ba‘du.",
+          "tr": "Soğuk bir kış akşamı vakitten yarım saat önce tren istasyonuna vardım; ancak kar çok yoğundu. Saatler panosuna baktım ve hızlı trenin henüz gelmediğini, yönetimin de yeni hareket saatini henüz duyurmadığını gördüm.",
+          "analiz": [
+            { "kelime": "لَمَّا يَصِلْ", "kok": "و ص ل", "gramer": "لَمَّا (henüz) + sükûnlu meczum", "tr": "henüz varmadı" },
+            { "kelime": "لَمْ تُعْلِنِ الْإِدَارَةُ", "kok": "ع ل ن", "gramer": "لَمْ + sükûn + الْ geçiş kesrası!", "tr": "yönetim duyurmadı" }
+          ]
+        },
+        {
+          "ar": "لَمْ أَرَ عَاصِفَةً ثَلْجِيَّةً بِهٰذِهِ الْقُوَّةِ فِي مَدِينَتِنَا قَطُّ! جَلَسَ الْمُسَافِرُونَ فِي قَاعَةِ الِانْتِظَارِ الدَّافِئَةِ، وَلَمْ يَشْكُ أَحَدٌ مِنَ التَّأْخِيرِ، لِأَنَّ الْجَمِيعَ أَدْرَكُوا أَنَّ السَّلَامَةَ أَهَمُّ مِنْ كُلِّ شَيْءٍ.",
+          "okunus": "Lem era ‘âsıfeten selciyyeten bi-hâzihi'l-kuvveti fî medînetinâ kattu! Celese'l-musâfirûne fî kâ‘ati'l-intizâri'd-dâfieti, ve lem yeşku ehadun mine't-te'hîri, li-enne'l-cemî‘a edrakû enne's-selâmete ehemmu min kulli şey'in.",
+          "tr": "Şehrimizde bu güçte bir kar fırtınasını hiç görmemiştim! Yolcular sıcak bekleme salonunda oturdular ve kimse gecikmeden şikâyet etmedi; çünkü herkes güvenliğin her şeyden daha önemli olduğunu anladı.",
+          "analiz": [
+            { "kelime": "لَمْ أَرَ ... قَطُّ", "kok": "ر أ ي", "gramer": "Nâkıs cezm (ى düştü) + geçmiş zarfı قَطُّ!", "tr": "hiç görmedim" },
+            { "kelime": "لَمْ يَشْكُ", "kok": "ش ك و", "gramer": "Nâkıs (يَشْكُو) → و düştü, damme kaldı!", "tr": "şikâyet etmedi" }
+          ]
+        },
+        {
+          "ar": "بَعْدَ قَلِيلٍ، تَحَدَّثَ مُدِيرُ الْمَحَطَّةِ عَبْرَ مُكَبِّرِ الصَّوْتِ وَقَالَ: «أَيُّهَا الْمُسَافِرُونَ الْكِرَامُ! لِيَبْقَ الْجَمِيعُ دَاخِلَ الْقَاعَةِ الدَّافِئَةِ، وَلَا يَخْرُجْ أَحَدٌ إِلَى الرَّصِيفِ حَتَّى يَتَوَقَّفَ الثَّلْجُ! وَلْيَتَفَضَّلْ كُلُّ مُسَافِرٍ بِشُرْبِ الشَّايِ السَّاخِنِ مَجَّانًا!».",
+          "okunus": "Ba‘de kalîlin, tehaddeşe mudîru'l-mahattati ‘abra mukebbiri's-savti ve kâle: «Eyyuhe'l-musâfirûne'l-kirâmu! Li-yebka'l-cemî‘u dâhile'l-kâ‘ati'd-dâfieti, ve lâ yahruc ehadun ile'r-rasîfi hattâ yetevakkafe's-selcu! Vel-yetefaddal kullu musâfirin bi-şurbi'ş-şâyi's-sâhini meccânen!».",
+          "tr": "Az sonra istasyon müdürü hoparlörden konuştu ve dedi ki: 'Değerli yolcular! Herkes sıcak salonun içinde kalsın ve kar duruncaya kadar kimse perona çıkmasın! Ve her yolcu ücretsiz sıcak çay içmeye buyursun!'.",
+          "analiz": [
+            { "kelime": "لِيَبْقَ", "kok": "ب ق ي", "gramer": "Emr-i Gâib + nâkıs (يَبْقَى → ى düştü!)", "tr": "kalsın" },
+            { "kelime": "وَلَا يَخْرُجْ / وَلْيَتَفَضَّلْ", "kok": "خ ر ج", "gramer": "Nehy-i Gâib & وَلْـ (Emr-i Gâib)", "tr": "çıkmasın / buyursun" }
+          ]
+        },
+        {
+          "ar": "لَمَّا هَدَأَتِ الْعَاصِفَةُ بَعْدَ سَاعَةٍ، وَصَلَ الْقِطَارُ بِسَلَامٍ! قَالَ لِي مُسَافِرٌ بِجَانِبِي مُبْتَسِمًا: «مَنْ يَصْبِرْ يَظْفَرْ، وَالْحَمْدُ لِلّٰهِ لَمْ يَكُنِ التَّأْخِيرُ طَوِيلًا، فَلْنَصْعَدْ بِهُدُوءٍ!».",
+          "okunus": "Lemmâ hedeeti'l-‘âsıfetu ba‘de sâ‘atin, vasale'l-kitâru bi-selâmin! Kâle lî musâfirun bi-cânibî mubtesimen: «Men yasbir yazfer, ve'l-hamdu lillâhi lem yekuni't-te'hîru tavîlen, fel-nas‘ad bi-hudûin!».",
+          "tr": "Bir saat sonra fırtına dindiğinde tren selametle geldi! Yanımdaki bir yolcu gülümseyerek bana dedi ki: 'Kim sabrederse muradına erer; Allah'a hamdolsun gecikme uzun olmadı, haydi sakinlikle binelim!'.",
+          "analiz": [
+            { "kelime": "لَمَّا هَدَأَتْ", "kok": "ه د أ", "gramer": "لَمَّا + mâzi = zaman zarfı (-dığında!)", "tr": "dindiğinde" },
+            { "kelime": "مَنْ يَصْبِرْ يَظْفَرْ / فَلْنَصْعَدْ", "kok": "ص ب ر", "gramer": "Çift cezm şart + Emr-i Mütekellim", "tr": "kim sabrederse kazanır / haydi binelim" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m16_r1_q1", "soru": "Yolcular trenin gecikmesinden neden şikâyet etmediler?", "secenekler": ["Güvenliğin her şeyden daha önemli olduğunu anladıkları için", "Biletleri olmadığı için", "İstasyonda uyudukları için", "Hava sıcak olduğu için"], "dogruIndeks": 0, "aciklama": "'لِأَنَّ الْجَمِيعَ أَدْرَكُوا أَنَّ السَّلَامَةَ أَهَمُّ مِنْ كُلِّ شَيْءٍ'." },
+        { "id": "m16_r1_q2", "soru": "1. paragraftaki «لَمَّا يَصِلْ» ile 4. paragraftaki «لَمَّا هَدَأَتْ» arasındaki anlam farkı nedir?", "secenekler": ["İlki muzâriyle 'henüz varmadı', ikincisi mâziyle 'dindiğinde' anlamındadır", "İkisi de 'henüz' anlamındadır", "İkisi de '-dığında' anlamındadır", "İlki gelecek zamandır"], "dogruIndeks": 0, "aciklama": "لَمَّا + meczum muzâri = henüz; لَمَّا + mâzi = -dığında!" },
+        { "id": "m16_r1_q3", "soru": "2. paragraftaki «لَمْ يَشْكُ» fiilinin sonunda neden و harfi yoktur?", "secenekler": ["يَشْكُو nâkıs fiildir; لَمْ ile cezmedilince sondaki illet harfi و düşer!", "Çünkü tekil değildir", "Yazım hatasıdır", "Çünkü mâzidir"], "dogruIndeks": 0, "aciklama": "Nâkıs fiillerde cezm alâmeti illet harfinin hazfidir: يَشْكُو → لَمْ يَشْكُ." },
+        { "id": "m16_r1_q4", "soru": "3. paragraftaki «لِيَبْقَ الْجَمِيعُ» ifadesinde hangi kural uygulanmıştır?", "secenekler": ["Emr-i Gâib (لِـ) + nâkıs يَبْقَى fiilinden ى'nin düşmesi ('Herkes kalsın!')", "Lâm-ı Ta'lîl", "Harf-i cer", "Mâzi fiil"], "dogruIndeks": 0, "aciklama": "لِـ (emir) + يَبْقَى → ى düşer: لِيَبْقَ!" },
+        { "id": "m16_r1_q5", "soru": "İstasyon müdürü hoparlörden yolculara ne ikram etmiştir?", "secenekler": ["Ücretsiz sıcak çay", "Soğuk su", "Bilet iadesi", "Kitap"], "dogruIndeks": 0, "aciklama": "'وَلْيَتَفَضَّلْ كُلُّ مُسَافِرٍ بِشُرْبِ الشَّايِ السَّاخِنِ مَجَّانًا!'." }
+      ]
+    },
+    {
+      "id": "m16_r2",
+      "baslik": "Bilimsel Deney Laboratuvarı Kuralları",
+      "arBaslik": "قَوَاعِدُ السَّلَامَةِ فِي مُخْتَبَرِ التَّجَارِبِ الْعِلْمِيَّةِ",
+      "seviye": "A2",
+      "paragraflar": [
+        {
+          "ar": "أَصْدَرَتْ كُلِّيَّةُ الْعُلُومِ دَلِيلًا وَاضِحًا لِلسَّلَامَةِ فِي الْمُخْتَبَرَاتِ الْجَامِعِيَّةِ. فَلْيَقْرَأْ كُلُّ طَالِبٍ هٰذِهِ الْقَوَاعِدَ قَبْلَ أَنْ يَبْدَأَ أَيَّ تَجْرِبَةٍ، وَلَا يَدْخُلْ أَحَدٌ الْمُخْتَبَرَ دُونَ الْمِعْطَفِ الْأَبْيَضِ وَالنَّظَّارَةِ الْوَاقِيَةِ!",
+          "okunus": "Asderat kulliyyetu'l-‘ulûmi delîlen vâdihan li's-selâmeti fi'l-muhteberâti'l-câmi‘iyyeti. Fel-yakra' kullu tâlibin hâzihi'l-kavâ‘ide kable en yebdee eyye tecribetin, ve lâ yedhul ehaduni'l-muhtebera dûne'l-mi‘tafi'l-ebyadi ve'n-nazzârati'l-vâkıyeti!",
+          "tr": "Fen Fakültesi üniversite laboratuvarlarında güvenlik için net bir kılavuz yayımladı. Her öğrenci herhangi bir deneye başlamadan önce bu kuralları okusun ve kimse beyaz önlük ve koruyucu gözlük olmadan laboratuvara girmesin!",
+          "analiz": [
+            { "kelime": "فَلْيَقْرَأْ", "kok": "ق ر أ", "gramer": "فَلْـ (sükûnlu Emir Lâmı) + meczum", "tr": "okusun" },
+            { "kelime": "وَلَا يَدْخُلْ", "kok": "د خ ل", "gramer": "Nehy-i Gâib (sükûn!)", "tr": "girmesin" }
+          ]
+        },
+        {
+          "ar": "وَلَا يَلْمِسِ الطُّلَّابُ الْمَوَادَّ الْكِيمْيَائِيَّةَ بِأَيْدِيهِمْ، وَلَا يَخْلِطُوا مَادَّتَيْنِ قَبْلَ اسْتِشَارَةِ الْمُشْرِفِ! فَمَنْ يَلْتَزِمْ بِالتَّعْلِيمَاتِ يَحْمِ نَفْسَهُ وَزُمَلَاءَهُ مِنْ كُلِّ خَطَرٍ.",
+          "okunus": "Ve lâ yelmisi't-tullâbu'l-mevâdde'l-kîmyâiyyete bi-eydîhim, ve lâ yahlıtû mâddeteyni kable'stişârati'l-muşrifi! Fe-men yeltemiz bi't-ta‘lîmâti yahmi nefsehu ve zumelâehu min kulli hatarin.",
+          "tr": "Öğrenciler kimyasal maddelere elleriyle dokunmasınlar ve gözetmene danışmadan iki maddeyi karıştırmasınlar! Zira kim yönergelere uyarsa kendini ve arkadaşlarını her tehlikeden korur.",
+          "analiz": [
+            { "kelime": "وَلَا يَخْلِطُوا", "kok": "خ ل ط", "gramer": "Nehy-i Gâib + Ef'âl-i Hamse (ن düştü!)", "tr": "karıştırmasınlar" },
+            { "kelime": "مَنْ يَلْتَزِمْ ... يَحْمِ", "kok": "ح م ي", "gramer": "Çift cezm: يَحْمِي → يَحْمِ (ي düştü!)", "tr": "kim uyarsa ... korur" }
+          ]
+        },
+        {
+          "ar": "أَمَّا الْفَرِيقُ الَّذِي يُجْرِي التَّجْرِبَةَ الْحَالِيَّةَ، فَقَدْ جَمَعَ الْعَيِّنَاتِ كُلَّهَا، وَلٰكِنَّهُ لَمَّا يَنْتَهِ مِنْ تَحْلِيلِ النَّتَائِجِ، وَلَمْ يَكْتُبِ التَّقْرِيرَ النِّهَائِيَّ بَعْدُ.",
+          "okunus": "Emme'l-ferîku'llezî yucri't-tecribete'l-hâliyyete, fe-kad ceme‘a'l-‘ayyinâti kullehâ, ve lâkinnehu lemmâ yentehi min tahlîli'n-netâici, ve lem yektubi't-takrîra'n-nihâiyye ba‘du.",
+          "tr": "Mevcut deneyi yürüten ekibe gelince, tüm numuneleri topladı; ancak sonuçların analizini henüz bitirmedi ve nihai raporu henüz yazmadı.",
+          "analiz": [
+            { "kelime": "لَمَّا يَنْتَهِ", "kok": "ن ه ي", "gramer": "لَمَّا + nâkıs (يَنْتَهِي → ي düştü!)", "tr": "henüz bitirmedi" },
+            { "kelime": "لَمْ يَكْتُبِ التَّقْرِيرَ", "kok": "ك ت ب", "gramer": "لَمْ + sükûn + geçiş kesrası", "tr": "raporu yazmadı" }
+          ]
+        },
+        {
+          "ar": "فِي نِهَايَةِ الْيَوْمِ، قَالَ أُسْتَاذُ الْكِيمْيَاءِ: «لِيُنَظِّفْ كُلُّ فَرِيقٍ طَاوِلَتَهُ جَيِّدًا، وَلَا يَنْسَ إِغْلَاقَ الْأَجْهِزَةِ! فَلْنَجْعَلْ مُخْتَبَرَنَا نَمُوذَجًا فِي النِّظَامِ وَالدِّقَّةِ!».",
+          "okunus": "Fî nihâyeti'l-yevmi, kâle ustâzu'l-kîmyâi: «Li-yunazzif kullu ferîkın tâviletehu ceyyiden, ve lâ yense iglâka'l-echizeti! Fel-nec‘al muhteberanâ nemûzecen fi'n-nizâmi ve'd-dıkkati!».",
+          "tr": "Günün sonunda kimya hocası dedi ki: 'Her ekip masasını iyice temizlesin ve cihazları kapatmayı unutmasın! Haydi laboratuvarımızı düzen ve titizlikte örnek hâle getirelim!'.",
+          "analiz": [
+            { "kelime": "لِيُنَظِّفْ / وَلَا يَنْسَ", "kok": "ن ظ ف", "gramer": "Emr-i Gâib + Nâkıs Nehy-i Gâib", "tr": "temizlesin / unutmasın" },
+            { "kelime": "فَلْنَجْعَلْ", "kok": "ج ع ل", "gramer": "فَلْـ + Emr-i Mütekellim", "tr": "haydi yapalım" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m16_r2_q1", "soru": "Kılavuza göre öğrenciler hangi iki ekipman olmadan laboratuvara girmemelidir?", "secenekler": ["Beyaz önlük ve koruyucu gözlük", "Şapka ve atkı", "Defter ve silgi", "Sadece telefon"], "dogruIndeks": 0, "aciklama": "'دُونَ الْمِعْطَفِ الْأَبْيَضِ وَالنَّظَّارَةِ الْوَاقِيَةِ!'." },
+        { "id": "m16_r2_q2", "soru": "2. paragraftaki «مَنْ يَلْتَزِمْ ... يَحْمِ» cümlesinde «يَحْمِ» neden ي'siz yazılmıştır?", "secenekler": ["مَنْ şart isminin cevap fiilidir; يَحْمِي nâkıs fiilinde cezm alâmeti ي'nin düşmesidir!", "Çünkü isimdir", "Çünkü harf-i cer almıştır", "Çünkü mâzidir"], "dogruIndeks": 0, "aciklama": "مَنْ iki fiili cezmeder; يَحْمِي → يَحْمِ!" },
+        { "id": "m16_r2_q3", "soru": "3. paragrafta deneyi yürüten ekip hangi işi henüz bitirmemiştir?", "secenekler": ["Sonuçların analizini ve nihai raporu yazmayı", "Numuneleri toplamayı", "Laboratuvara girmeyi", "Önlük giymeyi"], "dogruIndeks": 0, "aciklama": "'لَمَّا يَنْتَهِ مِنْ تَحْلِيلِ النَّتَائِجِ، وَلَمْ يَكْتُبِ التَّقْرِيرَ النِّهَائِيَّ بَعْدُ'." },
+        { "id": "m16_r2_q4", "soru": "2. paragraftaki «لَا يَخْلِطُوا» fiilinde neden ن düşmüştür?", "secenekler": ["Nehy-i Gâib (لَا النَّاهِيَةُ) Ef'âl-i Hamse'yi ن hazfiyle cezmettiği için", "Nefy لَا'sı geldiği için", "لَنْ geldiği için", "Mâzi olduğu için"], "dogruIndeks": 0, "aciklama": "Yasaklama (karıştırmasınlar!): لَا + Ef'âl-i Hamse → ن düştü." },
+        { "id": "m16_r2_q5", "soru": "4. paragraftaki «فَلْنَجْعَلْ» fiilinin anlamı ve türü nedir?", "secenekler": ["Emr-i Mütekellim ('Haydi yapalım / kılalım!')", "Mâzi fiil", "Lâm-ı Ta'lîl", "Nehy-i Gâib"], "dogruIndeks": 0, "aciklama": "فَـ + Emir Lâmı (لْـ) + نَجْعَلْ = Haydi yapalım!" }
+      ]
+    },
+    {
+      "id": "m16_r3",
+      "baslik": "Ünlü Tarihî Atasözü: Sabır ve Doğru Karar",
+      "arBaslik": "حِكْمَةُ الصَّبْرِ وَالْقَرَارِ الصَّائِبِ",
+      "seviye": "A2",
+      "paragraflar": [
+        {
+          "ar": "يُحْكَى أَنَّ تَاجِرًا حَكِيمًا أَرَادَ أَنْ يُسَلِّمَ إِدَارَةَ مَتْجَرِهِ الْكَبِيرِ إِلَى أَحَدِ أَبْنَائِهِ، وَلٰكِنَّهُ لَمْ يَتَسَرَّعْ فِي الِاخْتِيَارِ، وَلَمْ يَقُلْ لَهُمْ شَيْئًا عَنِ الِاخْتِبَارِ الَّذِي أَعَدَّهُ.",
+          "okunus": "Yuhkâ enne tâciran hakîmen erâde en yusellime idârate metcerihi'l-kebîri ilâ ehadi ebnâihi, ve lâkinnehu lem yeteserra‘ fi'l-ihtiyâri, ve lem yekul lehum şey'en ‘ani'l-ihtibâri'llezî e‘addehu.",
+          "tr": "Anlatılır ki bilge bir tüccar büyük dükkânının yönetimini oğullarından birine teslim etmek istedi; ancak seçimde acele etmedi ve hazırladığı sınav hakkında onlara hiçbir şey söylemedi.",
+          "analiz": [
+            { "kelime": "لَمْ يَتَسَرَّعْ", "kok": "س ر ع", "gramer": "لَمْ + sükûnlu meczum", "tr": "acele etmedi" },
+            { "kelime": "لَمْ يَقُلْ", "kok": "ق و ل", "gramer": "لَمْ + ecvef cezm (و düştü!)", "tr": "söylemedi" }
+          ]
+        },
+        {
+          "ar": "قَالَ لِأَبْنَائِهِ الثَّلَاثَةِ: «إِنْ تَحْفَظُوا الْأَمَانَةَ وَتَصْدُقُوا مَعَ النَّاسِ تَكْسِبُوا ثِقَتَهُمْ، وَمَنْ يَغُشَّ فِي التِّجَارَةِ يَخْسَرْ سُمْعَتَهُ وَلَا يَرْبَحْ فِي النِّهَايَةِ!». ثُمَّ كَلَّفَ كُلَّ وَاحِدٍ مِنْهُمْ بِمُهِمَّةٍ صَعْبَةٍ لِأُسْبُوعٍ كَامِلٍ.",
+          "okunus": "Kâle li-ebnâihi's-selâseti: «İn tahfazû'l-emânete ve tasdukû me‘a'n-nâsi teksibû sikatehum, ve men yeguşşe fi't-ticârati yahser sum‘atehu ve lâ yerbah fi'n-nihâyeti!». Summe kellefe kulle vâhidin minhum bi-muhimmetin sa‘betin li-usbû‘in kâmilin.",
+          "tr": "Üç oğluna dedi ki: 'Eğer emaneti korur ve insanlara karşı doğru olursanız güvenlerini kazanırsınız; kim ticarette hile yaparsa itibarını kaybeder ve sonunda kazanamaz!'. Sonra her birine tam bir haftalık zor bir görev verdi.",
+          "analiz": [
+            { "kelime": "إِنْ تَحْفَظُوا ... تَكْسِبُوا", "kok": "ح ف ظ", "gramer": "إِنْ + çift Ef'âl-i Hamse (ن hazfi!)", "tr": "korursanız ... kazanırsınız" },
+            { "kelime": "مَنْ يَغُشَّ ... يَخْسَرْ", "kok": "خ س ر", "gramer": "مَنْ şart + cevap cezm (يَخْسَرْ)", "tr": "kim hile yaparsa ... kaybeder" }
+          ]
+        },
+        {
+          "ar": "لَمَّا مَرَّ الْأُسْبُوعُ، جَاءَ الْأَبْنَاءُ بِالنَّتَائِجِ. الْأَوَّلُ بَاعَ كَثِيرًا وَلٰكِنَّهُ لَمْ يَهْتَمَّ بِجَوْدَةِ الْبِضَاعَةِ. وَالثَّانِي غَضِبَ مِنْ أَحَدِ الزَّبَائِنِ وَلَمْ يَصْبِرْ عَلَى أَسْئِلَتِهِ. أَمَّا الثَّالِثُ فَقَدْ صَدَقَ مَعَ الْجَمِيعِ وَلَمْ يَبِعْ بِضَاعَةً مَعِيبَةً قَطُّ!",
+          "okunus": "Lemmâ marra'l-usbû‘u, câe'l-ebnâu bi'n-netâici. El-evvelu bâ‘a kesîran ve lâkinnehu lem yehtemme bi-cevdeti'l-bidâ‘ati. Ve's-sânî gadibe min ehadi'z-zebâini ve lem yasbir ‘alâ es'iletihi. Emme's-sâlisu fe-kad sadaka me‘a'l-cemî‘i ve lem yebi‘ bidâ‘aten ma‘îbeten kattu!",
+          "tr": "Hafta geçtiğinde oğullar sonuçlarla geldiler. Birincisi çok sattı ama malın kalitesine önem vermedi. İkincisi bir müşteriye öfkelendi ve sorularına sabretmedi. Üçüncüsüne gelince, herkese karşı dürüst oldu ve hiç kusurlu mal satmadı!",
+          "analiz": [
+            { "kelime": "لَمَّا مَرَّ", "kok": "م ر ر", "gramer": "لَمَّا + mâzi = zaman zarfı (-dığında)", "tr": "geçtiğinde" },
+            { "kelime": "لَمْ يَبِعْ ... قَطُّ", "kok": "ب ي ع", "gramer": "لَمْ + ecvef (يَبِيعُ → يَبِعْ) + قَطُّ!", "tr": "hiç satmadı" }
+          ]
+        },
+        {
+          "ar": "اِبْتَسَمَ التَّاجِرُ وَقَالَ: «لِيَسْتَلِمْ أَخُوكُمُ الثَّالِثُ الْإِدَارَةَ! وَلْيَتَعَلَّمِ الْجَمِيعُ هٰذَا الدَّرْسَ: لَا يَبْحَثِ التَّاجِرُ عَنِ الرِّبْحِ السَّرِيعِ وَيَنْسَ الْأَمَانَةَ، فَبِالصِّدْقِ تَدُومُ التِّجَارَةُ وَتَنْجَحُ!».",
+          "okunus": "İbteseme't-tâciru ve kâle: «Li-yestelim ehûkumu's-sâlisu'l-idârate! Vel-yete‘allemi'l-cemî‘u hâze'd-derse: lâ yebhasi't-tâciru ‘ani'r-ribhi's-serî‘i ve yense'l-emânete, fe-bi's-sıdkı tedûmu't-ticâratu ve tencehu!».",
+          "tr": "Tüccar gülümsedi ve dedi ki: 'Yönetimi üçüncü kardeşiniz teslim alsın! Herkes bu dersi öğrensin: Tüccar hızlı kazancı arayıp emaneti unutmasın; zira ticaret doğrulukla sürer ve başarılı olur!'.",
+          "analiz": [
+            { "kelime": "لِيَسْتَلِمْ / وَلْيَتَعَلَّمِ", "kok": "س ل م", "gramer": "Emr-i Gâib (başta لِـ, وَ ile وَلْـ!)", "tr": "teslim alsın / öğrensin" },
+            { "kelime": "لَا يَبْحَثِ ... وَيَنْسَ", "kok": "ن س ي", "gramer": "Nehy-i Gâib + atıfla nâkıs cezm (يَنْسَ!)", "tr": "aramasın ve unutmasın" }
+          ]
+        }
+      ],
+      "sorular": [
+        { "id": "m16_r3_q1", "soru": "Bilge tüccar neden üçüncü oğlunu dükkânın yöneticisi olarak seçti?", "secenekler": ["Herkese karşı dürüst olduğu ve hiç kusurlu mal satmadığı için", "En çok parayı hızlıca kazandığı için", "En büyük oğul olduğu için", "Müşterilerle konuşmadığı için"], "dogruIndeks": 0, "aciklama": "'صَدَقَ مَعَ الْجَمِيعِ وَلَمْ يَبِعْ بِضَاعَةً مَعِيبَةً قَطُّ!'." },
+        { "id": "m16_r3_q2", "soru": "3. paragraftaki «لَمْ يَبِعْ» fiilinin merfû (normal) muzâri hâli nedir?", "secenekler": ["يَبِيعُ (ecvef — cezmde ortadaki ي düşmüştür!)", "يَبْعُ", "يَبَعُ", "يَبْيَعُ"], "dogruIndeks": 0, "aciklama": "بَاعَ — يَبِيعُ → لَمْ يَبِعْ (iki sükûn çakışmasın diye ي düşer!)." },
+        { "id": "m16_r3_q3", "soru": "3. paragraftaki «لَمَّا مَرَّ الْأُسْبُوعُ» ifadesinde «لَمَّا» hangi anlamdadır?", "secenekler": ["'-dığında' (Hafta geçtiğinde — çünkü مَرَّ mâzidir!)", "'Henüz geçmedi'", "'Asla geçmeyecek'", "'-mek için'"], "dogruIndeks": 0, "aciklama": "لَمَّا + mâzi fiil = zaman zarfı (-dığında)." },
+        { "id": "m16_r3_q4", "soru": "4. paragraftaki «لِيَسْتَلِمْ» (kesralı لِـ) ile «وَلْيَتَعَلَّمِ» (sükûnlu لْـ) arasındaki ses değişiminin sebebi nedir?", "secenekler": ["Emir Lâmının önüne وَ / فَـ / ثُمَّ geldiğinde hafiflik için kesrası sükûna döner", "İkincisi Ta'lîl Lâmıdır", "İlki harf-i cerdir", "Yazım hatasıdır"], "dogruIndeks": 0, "aciklama": "لِيَتَعَلَّمْ + وَ → وَلْيَتَعَلَّمْ (الْ geçişiyle وَلْيَتَعَلَّمِ)!" },
+        { "id": "m16_r3_q5", "soru": "2. paragraftaki «إِنْ تَحْفَظُوا ... تَكْسِبُوا» cümlesinde her iki fiilden neden ن düşmüştür?", "secenekler": ["إِنْ şart edatı hem şart fiilini hem cevap fiilini Ef'âl-i Hamse'de ن hazfiyle cezmeder", "Çünkü لَنْ vardır", "Çünkü mâzidirler", "Çünkü tekildirler"], "dogruIndeks": 0, "aciklama": "إِنْ çift fiil cezmeden şart harfidir!" }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "m16_d1",
+      "baslik": "Kayıp Paket ve Kargo Takibi (لَمْ & لَمَّا)",
+      "ortam": "Müşteri kargo şubesini arayıp henüz ulaşmayan kitabını soruyor",
+      "replikler": [
+        { "konusan": "الموظف", "ar": "السَّلَامُ عَلَيْكُمْ، شَرِكَةُ الشَّحْنِ السَّرِيعِ، كَيْفَ أَسْتَطِيعُ خِدْمَتَكَ؟", "okunus": "Es-selâmu ‘aleykum, şeriketu'ş-şahni's-serî‘i, keyfe estatî‘u hidmeteke?", "tr": "Selamün aleyküm, Hızlı Kargo şirketi, size nasıl yardımcı olabilirim?" },
+        { "konusan": "سليم", "ar": "وَعَلَيْكُمُ السَّلَامُ! طَلَبْتُ طَرْدًا قَبْلَ ثَلَاثَةِ أَيَّامٍ وَلَمَّا يَصِلْ إِلَى عُنْوَانِي!", "okunus": "Ve ‘aleykumu's-selâmu! Talebtu tarden kable selâseti eyyâmin ve lemmâ yasil ilâ ‘unvânî!", "tr": "Aleyküm selam! Üç gün önce bir paket sipariş ettim ve adresime henüz ulaşmadı!" },
+        { "konusan": "الموظف", "ar": "عَفْوًا عَلَى التَّأْخِيرِ! هَلْ يُمْكِنُ أَنْ تُعْطِيَنِي رَقْمَ التَّتَبُّعِ؟", "okunus": "‘Afven ‘ale't-te'hîri! Hel yumkinu en tu‘tıyenî rakme't-tetebbu‘i?", "tr": "Gecikme için özür dileriz! Bana takip numarasını verebilir misiniz?" },
+        { "konusan": "سليم", "ar": "نَعَمْ، الرَّقْمُ هُوَ خَمْسَةٌ وَسَبْعُونَ أَلْفًا وَتِسْعُمِئَةٍ. لَمْ يَتَّصِلْ بِي الْمَنْدُوبُ أَمْسِ أَيْضًا.", "okunus": "Ne‘am, er-rakmu huve hamsetun ve seb‘ûne elfen ve tis‘umietin. Lem yettesil bi'l-mendûbu emsi eydan.", "tr": "Evet, numara yetmiş beş bin dokuz yüz. Dün kurye de beni aramadı." },
+        { "konusan": "الموظف", "ar": "لَحْظَةً وَاحِدَةً، أَفْحَصُ النِّظَامَ الْآنَ... وَجَدْتُهُ! وَصَلَ الطَّرْدُ إِلَى مَرْكَزِ التَّوْزِيعِ الْيَوْمَ صَبَاحًا، وَلَمَّا تَخْرُجِ السَّيَّارَةُ إِلَى حَيِّكُمْ.", "okunus": "Lahzaten vâhideten, efhasu'n-nizâme'l-âne... Vecedtuhu! Vasale't-tardu ilâ merkezi't-tevzî‘i'l-yevme sabâhan, ve lemmâ tahruci's-seyyâratu ilâ hayyikum.", "tr": "Bir dakika, şu an sistemi kontrol ediyorum... Buldum! Paket bugün sabah dağıtım merkezine ulaştı, ancak araç mahallenize henüz çıkmadı." },
+        { "konusan": "سليم", "ar": "لِمَاذَا لَمْ تَخْرُجْ حَتَّى الْآنَ؟", "okunus": "Limâzâ lem tahruc hatte'l-âne?", "tr": "Şimdiye kadar neden çıkmadı?" },
+        { "konusan": "الموظف", "ar": "بِسَبَبِ الْأَمْطَارِ الْغَزِيرَةِ صَبَاحًا لَمْ يَسْتَطِعِ السَّائِقُونَ الْخُرُوجَ فِي السَّاعَةِ الثَّامِنَةِ، وَلٰكِنَّهُمْ بَدَؤُوا التَّوْزِيعَ الْآنَ.", "okunus": "Bi-sebebi'l-emtâri'l-gazîrati sabâhan lem yestatı‘i's-sâikûne'l-hurûca fi's-sâ‘ati's-sâmineti, ve lâkinnehum bedeu't-tevzî‘a'l-âne.", "tr": "Sabahki şiddetli yağmur yüzünden şoförler saat sekizde çıkamadılar, ama şu an dağıtıma başladılar." },
+        { "konusan": "سليم", "ar": "مُمْتَازٌ! لِيَتَّصِلْ بِي السَّائِقُ قَبْلَ الْوُصُولِ بِعَشْرِ دَقَائِقَ مِنْ فَضْلِكَ.", "okunus": "Mumtâzun! Li-yettesil bi's-sâiku kable'l-vusûli bi-‘aşri dekâika min fadlike.", "tr": "Harika! Lütfen şoför varmadan on dakika önce beni arasın." },
+        { "konusan": "الموظف", "ar": "بِالتَّأْكِيدِ! سَأُضِيفُ هٰذِهِ الْمُلَاحَظَةَ، وَلَا يَنْسَ السَّائِقُ الِاتِّصَالَ بِكَ بِإِذْنِ اللّٰهِ.", "okunus": "Bi't-te'kîdi! Se-udîfu hâzihi'l-mulâhazate, ve lâ yense's-sâiku'l-ittisâle bike bi-iznillâhi.", "tr": "Elbette! Bu notu ekleyeceğim; şoför inşallah sizi aramayı unutmasın." },
+        { "konusan": "سليم", "ar": "لَمْ أُوَاجِهْ تَأْخِيرًا مَعَ شَرِكَتِكُمْ قَطُّ مِنْ قَبْلُ، لِذٰلِكَ أَنَا وَاثِقٌ بِكُمْ!", "okunus": "Lem uvâcih te'hîran me‘a şeriketikum kattu min kablu, li-zâlike ene vâsikun bikum!", "tr": "Daha önce şirketinizle hiç gecikme yaşamadım, bu yüzden size güveniyorum!" },
+        { "konusan": "الموظف", "ar": "شُكْرًا عَلَى تَفَهُّمِكَ يَا أُسْتَاذُ سَلِيمُ! سَيَصِلُ الطَّرْدُ قَبْلَ السَّاعَةِ الثَّالِثَةِ مَسَاءً.", "okunus": "Şukran ‘alâ tefehhumike yâ ustâzu Selîmu! Se-yasilu't-tardu kable's-sâ‘ati's-sâliseti mesâen.", "tr": "Anlayışınız için teşekkürler Selim Bey! Paket akşam üçten önce ulaşacaktır." },
+        { "konusan": "سليم", "ar": "شُكْرًا جَزِيلًا لَكَ، وَيَوْمًا سَعِيدًا!", "okunus": "Şukran cezîlen leke, ve yevmen sa‘îden!", "tr": "Size çok teşekkür ederim, iyi günler!" }
+      ],
+      "partner": [
+        { "soruAr": "كَيْفَ نَقُولُ 'Paket adresime henüz ulaşmadı'؟", "soruTr": "'Paket adresime henüz ulaşmadı' (لَمَّا) nasıl söylenir?", "ipucu": "لَمَّا + meczum (يَصِلْ).", "secenekler": ["لَمَّا يَصِلِ الطَّرْدُ إِلَى عُنْوَانِي.", "لَمَّا وَصَلَ الطَّرْدُ إِلَى عُنْوَانِي.", "لَمَّا يَصِلُ الطَّرْدُ."], "dogruIndeks": 0, "aciklama": "لَمَّا + meczum muzâri = henüz -medi." },
+        { "soruAr": "كَيْفَ نَقُولُ 'Şoförler çıkamadılar'؟", "soruTr": "'Şoförler çıkamadılar' nasıl söylenir?", "ipucu": "لَمْ يَسْتَطِعِ السَّائِقُونَ (ecvef cezm!).", "secenekler": ["لَمْ يَسْتَطِعِ السَّائِقُونَ الْخُرُوجَ.", "لَمْ يَسْتَطِيعُ السَّائِقُونَ الْخُرُوجَ.", "لَمْ اِسْتَطَاعَ السَّائِقُونَ."], "dogruIndeks": 0, "aciklama": "يَسْتَطِيعُ → لَمْ يَسْتَطِعْ + geçiş kesrası." },
+        { "soruAr": "كَيْفَ نَقُولُ 'Şoför beni arasın' (Emr-i Gâib)؟", "soruTr": "'Şoför beni arasın' nasıl söylenir?", "ipucu": "لِـ + يَتَّصِلْ.", "secenekler": ["لِيَتَّصِلْ بِي السَّائِقُ.", "لِيَتَّصِلُ بِي السَّائِقُ.", "لِيَتَّصِلَ بِي السَّائِقُ."], "dogruIndeks": 0, "aciklama": "Emr-i Gâib: لِـ + sükûn!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Daha önce hiç gecikme yaşamadım'؟", "soruTr": "'Hiç gecikme yaşamadım' (قَطُّ) hangisidir?", "ipucu": "لَمْ أُوَاجِهْ ... قَطُّ.", "secenekler": ["لَمْ أُوَاجِهْ تَأْخِيرًا قَطُّ.", "لَمْ أُوَاجِهُ تَأْخِيرًا غَدًا.", "لَنْ أُوَاجِهَ تَأْخِيرًا قَطُّ."], "dogruIndeks": 0, "aciklama": "Geçmişte 'hiç' = لَمْ + meczum + قَطُّ." },
+        { "soruAr": "لِمَاذَا «يَنْسَ» بِدُونِ أَلِفٍ مَقْصُورَةٍ فِي: «لَا يَنْسَ السَّائِقُ»؟", "soruTr": "'لَا يَنْسَ' fiilinde ى neden düşmüştür?", "ipucu": "Nehy-i Gâib + nâkıs fiil!", "secenekler": ["Nehy-i Gâib cezmettiği için nâkıs fiilin son illet harfi (ى) düşmüştür.", "Çünkü mâzidir.", "Yazım hatasıdır."], "dogruIndeks": 0, "aciklama": "يَنْسَى → لَا يَنْسَ (illet hazfi!)." }
+      ]
+    },
+    {
+      "id": "m16_d2",
+      "baslik": "Gönüllü Kitap Toplama Kampanyası (فَلْـ / لِـ Emr-i Mütekellim)",
+      "ortam": "Üniversiteli gençler köy okulları için kitap kampanyası başlatıyor",
+      "replikler": [
+        { "konusan": "عائشة", "ar": "يَا أَصْدِقَائِي، اِقْتَرَبَ مَوْعِدُ حَمْلَةِ «كِتَابٌ لِكُلِّ طِفْلٍ»! فَلْنَبْدَأِ التَّخْطِيطَ الْآنَ!", "okunus": "Yâ esdikâî, ikterabe mev‘idu hamleti «Kitâbun li-kulli tıflin»! Fel-nebdei't-tahtîta'l-âne!", "tr": "Arkadaşlarım, 'Her Çocuğa Bir Kitap' kampanyasının vakti yaklaştı! Haydi planlamaya şimdi başlayalım!" },
+        { "konusan": "يوسف", "ar": "فِكْرَةٌ عَظِيمَةٌ! لِنُقَسِّمِ الْعَمَلَ إِلَى ثَلَاثِ مَجْمُوعَاتٍ كَيْ نُنْجِزَ كُلَّ شَيْءٍ بِسُرْعَةٍ.", "okunus": "Fikratun ‘azîmetun! Li-nukassimi'l-‘amele ilâ selâsi mecmû‘âtin key nuncize kulle şey'in bi-sur‘atin.", "tr": "Harika fikir! Her şeyi hızla tamamlamak için işi üç gruba bölelim." },
+        { "konusan": "عائشة", "ar": "مُوَافِقَةٌ! لِيَهْتَمَّ الْفَرِيقُ الْأَوَّلُ بِجَمْعِ الْكُتُبِ، وَلْيُصَمِّمِ الْفَرِيقُ الثَّانِي الْإِعْلَانَاتِ!", "okunus": "Muvâfikatun! Li-yehtemme'l-ferîku'l-evvelu bi-cem‘i'l-kutubi, vel-yusammimi'l-ferîku's-sâni'l-i‘lânâti!", "tr": "Kabul! Birinci ekip kitapları toplamakla ilgilensin, ikinci ekip de afişleri tasarlasın!" },
+        { "konusan": "خالد", "ar": "وَأَمَّا الْفَرِيقُ الثَّالِثُ فَلْيَتَوَاصَلْ مَعَ مُدِيرِي مَدَارِسِ الْقُرَى لِيَعْرِفَ احْتِيَاجَاتِهِمْ.", "okunus": "Ve emme'l-ferîku's-sâlisu fel-yetevâsal me‘a mudîrî medârisi'l-kurâ li-ya‘rife'htiyâcâtihim.", "tr": "Üçüncü ekibe gelince, ihtiyaçlarını öğrenmek için köy okullarının müdürleriyle iletişime geçsin." },
+        { "konusan": "عائشة", "ar": "أَحْسَنْتَ يَا خَالِدُ! وَلَا يَنْسَ أَحَدٌ أَنْ يَفْحَصَ حَالَةَ الْكُتُبِ قَبْلَ التَّغْلِيفِ!", "okunus": "Ahsente yâ Hâlidu! Ve lâ yense ehadun en yefhasa hâlete'l-kutubi kable't-taglîfi!", "tr": "Aferin Halid! Ve kimse paketlemeden önce kitapların durumunu kontrol etmeyi unutmasın!" },
+        { "konusan": "يوسف", "ar": "صَحِيحٌ! لَا نُرْسِلْ إِلَّا كُتُبًا نَظِيفَةً وَمُنَاسِبَةً لِأَعْمَارِ الْأَطْفَالِ.", "okunus": "Sahîhun! Lâ nursil illâ kutuben nazîfeten ve munâsibeten li-a‘mâri'l-atfâli.", "tr": "Doğru! Çocukların yaşlarına uygun ve temiz kitaplardan başkasını göndermeyelim." },
+        { "konusan": "خالد", "ar": "هَلْ تَوَاصَلْنَا مَعَ شَرِكَةِ النَّقْلِ، أَمْ لَمَّا نَتَّصِلْ بِهَا؟", "okunus": "Hel tevâsalnâ me‘a şeriketi'n-nakli, em lemmâ nettesil bihâ?", "tr": "Nakliye şirketiyle iletişime geçtik mi, yoksa onları henüz aramadık mı?" },
+        { "konusan": "عائشة", "ar": "لَمَّا نَتَّصِلْ بِهَا! فَلْيَتَّصِلْ يُوسُفُ بِهِمُ الْيَوْمَ، وَإِنْ يَتَعَاوَنُوا مَعَنَا نُوَفِّرْ تَكَالِيفَ الشَّحْنِ.", "okunus": "Lemmâ nettesil bihâ! Fel-yettesil Yûsufu bihimu'l-yevme, ve in yete‘âvenû me‘anâ nuveffir tekâlîfe'ş-şahni.", "tr": "Henüz aramadık! Bugün Yusuf onları arasın; eğer bizimle iş birliği yaparlarsa kargo masraflarından tasarruf ederiz." },
+        { "konusan": "يوسف", "ar": "سَأَتَّصِلُ بِهِمْ بَعْدَ هٰذَا الِاجْتِمَاعِ مُبَاشَرَةً! وَلَا يَقْلَقْ أَحَدٌ، فَالنَّاسُ يُحِبُّونَ الْمُشَارَكَةَ فِي الْخَيْرِ.", "okunus": "Se-ettesilu bihim ba‘de hâze'l-ictimâ‘i mubâşeraten! Ve lâ yaklak ehadun, fe'n-nâsu yuhibbûne'l-muşârakete fi'l-hayri.", "tr": "Bu toplantıdan hemen sonra onları arayacağım! Kimse endişelenmesin; zira insanlar iyiliğe katılmayı severler." },
+        { "konusan": "خالد", "ar": "مَنْ يَزْرَعِ الْبَسْمَةَ عَلَى وُجُوهِ الْأَطْفَالِ يَجِدْ بَرَكَتَهَا فِي حَيَاتِهِ كُلِّهَا!", "okunus": "Men yezra‘i'l-besmete ‘alâ vucûhi'l-atfâli yecid beraketehâ fî hayâtihi kullihâ!", "tr": "Kim çocukların yüzüne tebessüm ekerse onun bereketini tüm hayatında bulur!" },
+        { "konusan": "عائشة", "ar": "صَدَقْتَ يَا خَالِدُ! فَلْنَتَوَكَّلْ عَلَى اللّٰهِ، وَلْنَجْتَمِعْ يَوْمَ الْجُمُعَةِ لِمُرَاجَعَةِ التَّقَدُّمِ!", "okunus": "Sadakte yâ Hâlidu! Fel-netevekkel ‘alallâhi, vel-nectemi‘ yevme'l-cumu‘ati li-murâca‘ati't-tekaddumi!", "tr": "Doğru söyledin Halid! Haydi Allah'a tevekkül edelim ve ilerlemeyi gözden geçirmek için cuma günü toplanalım!" },
+        { "konusan": "يوسف", "ar": "بِإِذْنِ اللّٰهِ، إِلَى الْعَمَلِ يَا فَرِيقَ الْخَيْرِ!", "okunus": "Bi-iznillâhi, ile'l-‘ameli yâ ferîka'l-hayri!", "tr": "Allah'ın izniyle, haydi işe ey iyilik ekibi!" }
+      ],
+      "partner": [
+        { "soruAr": "كَيْفَ نَقُولُ 'Haydi planlamaya şimdi başlayalım!'؟", "soruTr": "'Haydi planlamaya şimdi başlayalım!' nasıl söylenir?", "ipucu": "فَلْـ + نَبْدَأْ.", "secenekler": ["فَلْنَبْدَأِ التَّخْطِيطَ الْآنَ!", "فَلِنَبْدَأُ التَّخْطِيطَ الْآنَ!", "لَنْ نَبْدَأَ التَّخْطِيطَ!"], "dogruIndeks": 0, "aciklama": "فَـ + Emir Lâmı (لْـ) + meczum fiil!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Onları henüz aramadık!'؟", "soruTr": "'Onları henüz aramadık!' (لَمَّا) hangisidir?", "ipucu": "لَمَّا + نَتَّصِلْ.", "secenekler": ["لَمَّا نَتَّصِلْ بِهِمْ!", "لَمَّا اتَّصَلْنَا بِهِمْ!", "لَمَّا نَتَّصِلُ بِهِمْ!"], "dogruIndeks": 0, "aciklama": "لَمَّا + meczum muzâri = henüz -medik." },
+        { "soruAr": "مَا الْفَرْقُ بَيْنَ «فَلْيَتَوَاصَلْ» وَ«لِيَعْرِفَ» فِي جُمْلَةِ خَالِدٍ؟", "soruTr": "Halid'in cümlesindeki «فَلْيَتَوَاصَلْ» ve «لِيَعْرِفَ» arasındaki fark nedir?", "ipucu": "Biri sükûnlu (emir), biri fethalı (amaç)!", "secenekler": ["فَلْيَتَوَاصَلْ Emr-i Gâib'dir (iletişime geçsin!), لِيَعْرِفَ Lâm-ı Ta'lîl'dir (öğrenmek için).", "İkisi de emirdir.", "İkisi de amaçtır."], "dogruIndeks": 0, "aciklama": "Cezm = Emir Lâmı; Nasb = Ta'lîl Lâmı!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Kimse endişelenmesin!' (Nehy-i Gâib)؟", "soruTr": "'Kimse endişelenmesin!' nasıl söylenir?", "ipucu": "لَا يَقْلَقْ أَحَدٌ.", "secenekler": ["لَا يَقْلَقْ أَحَدٌ!", "لَا يَقْلَقُ أَحَدٌ!", "لَنْ يَقْلَقَ أَحَدٌ!"], "dogruIndeks": 0, "aciklama": "Nehy-i Gâib: لَا + sükûn." },
+        { "soruAr": "لِمَاذَا «يَتَعَاوَنُوا» وَ«نُوَفِّرْ» مَجْزُومَانِ فِي: «إِنْ يَتَعَاوَنُوا مَعَنَا نُوَفِّرْ»؟", "soruTr": "'إِنْ يَتَعَاوَنُوا مَعَنَا نُوَفِّرْ' cümlesinde neden iki fiil de meczumdur?", "ipucu": "إِنْ çift fiil cezmeden şart edatıdır!", "secenekler": ["إِنْ şart harfi hem şart fiilini (ن hazfi) hem cevap fiilini (sükûn) cezmeder.", "Çünkü لَمْ vardır.", "Çünkü geçmiş zamandır."], "dogruIndeks": 0, "aciklama": "إِنْ + meczum 1 (يَتَعَاوَنُوا) + meczum 2 (نُوَفِّرْ)!" }
+      ]
+    },
+    {
+      "id": "m16_d3",
+      "baslik": "Sınav Sabahı Hoca ve Gözetmenin Yönergeleri (Emr-i & Nehy-i Gâib)",
+      "ortam": "Sınav salonunda hoca sınava girecek öğrencilere kuralları okuyor",
+      "replikler": [
+        { "konusan": "الأستاذ", "ar": "صَبَاحُ الْخَيْرِ يَا طُلَّابُ! لَمْ يَبْقَ إِلَّا خَمْسُ دَقَائِقَ عَلَى بَدْءِ الِامْتِحَانِ.", "okunus": "Sabâhu'l-hayri yâ tullâbu! Lem yebka illâ hamsu dekâika ‘alâ bed'i'l-imtihâni.", "tr": "Günaydın öğrenciler! Sınavın başlamasına sadece beş dakika kaldı." },
+        { "konusan": "طارق", "ar": "يَا أُسْتَاذُ، بَعْضُ الطُّلَّابِ لَمَّا يَجْلِسُوا فِي أَمَاكِنِهِمُ الْمُخَصَّصَةِ!", "okunus": "Yâ ustâzu, ba‘du't-tullâbi lemmâ yeclisû fî emâkinihimu'l-muhassasati!", "tr": "Hocam, bazı öğrenciler kendilerine ayrılan yerlere henüz oturmadılar!" },
+        { "konusan": "الأستاذ", "ar": "لِيَجْلِسْ كُلُّ طَالِبٍ فِي مَقْعَدِهِ فَوْرًا، وَلْيَضَعْ حَقِيبَتَهُ وَهَاتِفَهُ عِنْدَ الْبَابِ!", "okunus": "Li-yeclis kullu tâlibin fî mak‘adihi fevran, vel-yeda‘ hakîbetehu ve hâtifehu ‘inde'l-bâbi!", "tr": "Her öğrenci hemen koltuğuna otursun ve çantasıyla telefonunu kapının yanına koysun!" },
+        { "konusan": "سارة", "ar": "هَلْ نَبْدَأُ الْكِتَابَةَ فَوْرًا عِنْدَمَا نَسْتَلِمُ الْوَرَقَةَ؟", "okunus": "Hel nebdeu'l-kitâbete fevran ‘indemâ nestelimu'l-varakate?", "tr": "Kâğıdı teslim alır almaz hemen yazmaya başlayalım mı?" },
+        { "konusan": "الأستاذ", "ar": "لَا! لَا يَفْتَحْ أَحَدٌ وَرَقَةَ الْأَسْئِلَةِ قَبْلَ أَنْ أَقُولَ «اِبْدَؤُوا»!", "okunus": "Lâ! Lâ yeftah ehadun varakate'l-es'ileti kable en ekûle «İbdeû»!", "tr": "Hayır! Ben 'Başlayın' demeden önce kimse soru kâğıdını açmasın!" },
+        { "konusan": "طارق", "ar": "هَلْ نَسْتَطِيعُ اسْتِخْدَامَ الْقَلَمِ الرَّصَاصِ فِي الْإِجَابَةِ؟", "okunus": "Hel nestatî‘u'stihdâme'l-kalemi'r-rasâsi fi'l-icâbeti?", "tr": "Cevapta kurşun kalem kullanabilir miyiz?" },
+        { "konusan": "الأستاذ", "ar": "نَعَمْ، وَلْيَكْتُبْ كُلُّ طَالِبٍ اسْمَهُ وَرَقْمَهُ الْجَامِعِيَّ بِخَطٍّ وَاضِحٍ فِي أَعْلَى الصَّفْحَةِ!", "okunus": "Ne‘am, vel-yektub kullu tâlibin ismehu ve rakmehu'l-câmi‘iyye bi-hattın vâdihin fî a‘le's-safhati!", "tr": "Evet; her öğrenci adını ve üniversite numarasını sayfanın en üstüne okunaklı bir yazıyla yazsın!" },
+        { "konusan": "سارة", "ar": "يَا أُسْتَاذُ، زَمِيلَتُنَا لَيْلَى لَمْ تَحْضُرْ حَتَّى الْآنَ؛ لَعَلَّهَا تَأَخَّرَتْ فِي الْمُرُورِ.", "okunus": "Yâ ustâzu, zemîletunâ Leylâ lem tahdur hatte'l-âne; le‘allehâ teahharat fi'l-murûri.", "tr": "Hocam, arkadaşımız Leyla şimdiye kadar gelmedi; belki trafikte gecikmiştir." },
+        { "konusan": "الأستاذ", "ar": "لَا بَأْسَ، لَمَّا يَدُقَّ الْجَرَسُ! إِنْ تَصِلْ خِلَالَ خَمْسِ دَقَائِقَ تَدْخُلِ الْقَاعَةَ بِإِذْنِ اللّٰهِ.", "okunus": "Lâ be'se, lemmâ yedukka'l-cerasu! İn tasil hilâle hamsi dekâika tedhuli'l-kâ‘ate bi-iznillâhi.", "tr": "Sorun değil, zil henüz çalmadı! Beş dakika içinde varırsa inşallah salona girer." },
+        { "konusan": "طارق", "ar": "هَا هِيَ لَيْلَى قَدْ وَصَلَتْ! لَمْ تَفُتْهَا بِدَايَةُ الِامْتِحَانِ!", "okunus": "Hâ hiye Leylâ kad vasalet! Lem tefuthâ bidâyetu'l-imtihâni!", "tr": "İşte Leyla geldi! Sınavın başlangıcını kaçırmadı!" },
+        { "konusan": "الأستاذ", "ar": "الْحَمْدُ لِلّٰهِ! الْآنَ وَصَلَ الْجَمِيعُ. لَا يَتَكَلَّمْ أَحَدٌ، وَلَا يَتَسَرَّعْ أَحَدٌ فِي الْإِجَابَةِ. فَلْنَبْدَأْ بِالتَّوْفِيقِ!", "okunus": "El-hamdu lillâhi! El-âne vasale'l-cemî‘u. Lâ yetekellem ehadun, ve lâ yeteserra‘ ehadun fi'l-icâbeti. Fel-nebde' bi't-tevfîkı!", "tr": "Elhamdülillah! Şimdi herkes geldi. Kimse konuşmasın ve kimse cevaplamada acele etmesin. Haydi başarı dileğiyle başlayalım!" },
+        { "konusan": "الطلاب", "ar": "شُكْرًا يَا أُسْتَاذُ، بِسْمِ اللّٰهِ!", "okunus": "Şukran yâ ustâzu, bismillâhi!", "tr": "Teşekkürler hocam, bismillah!" }
+      ],
+      "partner": [
+        { "soruAr": "كَيْفَ نَقُولُ 'Sadece beş dakika kaldı (kalmadı hariç)'؟", "soruTr": "'Sadece beş dakika kaldı' nasıl söylenir?", "ipucu": "لَمْ يَبْقَ إِلَّا ... (نâkıs: يَبْقَى → يَبْقَ!).", "secenekler": ["لَمْ يَبْقَ إِلَّا خَمْسُ دَقَائِقَ.", "لَمْ يَبْقَى إِلَّا خَمْسُ دَقَائِقَ.", "لَنْ يَبْقَ إِلَّا خَمْسُ دَقَائِقَ."], "dogruIndeks": 0, "aciklama": "يَبْقَى → لَمْ يَبْقَ (ى düşer!)." },
+        { "soruAr": "كَيْفَ نَقُولُ 'Kimse soru kâğıdını açmasın!'؟", "soruTr": "'Kimse soru kâğıdını açmasın!' (Nehy-i Gâib) hangisidir?", "ipucu": "لَا يَفْتَحْ أَحَدٌ ...", "secenekler": ["لَا يَفْتَحْ أَحَدٌ وَرَقَةَ الْأَسْئِلَةِ!", "لَا يَفْتَحُ أَحَدٌ وَرَقَةَ الْأَسْئِلَةِ!", "لَمْ يَفْتَحْ أَحَدٌ!"], "dogruIndeks": 0, "aciklama": "Nehy-i Gâib: لَا + sükûn." },
+        { "soruAr": "لِمَاذَا قَالَ طَارِقٌ «لَمْ تَفُتْهَا» وَلَيْسَ «لَمْ تَفُوتْهَا»؟", "soruTr": "Tarık neden 'لَمْ تَفُوتْهَا' değil 'لَمْ تَفُتْهَا' dedi?", "ipucu": "تَفُوتُ (ecvef) + لَمْ!", "secenekler": ["Ecvef fiil (تَفُوتُ) meczum olunca iki sükûn çakışmasın diye و düşer: تَفُتْ!", "Çünkü nâkıstır.", "Çünkü çoğuldur."], "dogruIndeks": 0, "aciklama": "فَاتَ — يَفُوتُ → لَمْ يَفُتْ / لَمْ تَفُتْ!" },
+        { "soruAr": "كَيْفَ نَقُولُ 'Beş dakika içinde varırsa salona girer'؟", "soruTr": "Çift cezm şart cümlesi hangisidir?", "ipucu": "إِنْ تَصِلْ ... تَدْخُلِ الْقَاعَةَ.", "secenekler": ["إِنْ تَصِلْ خِلَالَ خَمْسِ دَقَائِقَ تَدْخُلِ الْقَاعَةَ.", "إِنْ تَصِلُ تَدْخُلُ الْقَاعَةَ.", "لَمَّا تَصِلْ تَدْخُلْ."], "dogruIndeks": 0, "aciklama": "إِنْ hem şartı (تَصِلْ) hem cevabı (تَدْخُلِ) cezmeder." },
+        { "soruAr": "كَيْفَ نَقُولُ 'Her öğrenci adını yazsın' (وَ ile)؟", "soruTr": "'Ve her öğrenci adını yazsın' nasıl söylenir?", "ipucu": "وَلْيَكْتُبْ (sükûnlu لْـ!).", "secenekler": ["وَلْيَكْتُبْ كُلُّ طَالِبٍ اسْمَهُ.", "وَلِيَكْتُبُ كُلُّ طَالِبٍ اسْمَهُ.", "وَلْيَكْتُبَ كُلُّ طَالِبٍ اسْمَهُ."], "dogruIndeks": 0, "aciklama": "وَ + لْـ + يَكْتُبْ (meczum)." }
+      ]
+    },
+    {
+      "id": "m16_d4",
+      "baslik": "Tarihî Müze Gezisi ve Anılar (لَمْ أَرَ قَطُّ & لَمَّا + Mâzi)",
+      "ortam": "İki arkadaş Topkapı Müzesini gezdikten sonra izlenimlerini paylaşıyor",
+      "replikler": [
+        { "konusan": "عمر", "ar": "يَا أَحْمَدُ، لَمْ أَرَ مَجْمُوعَةَ مَخْطُوطَاتٍ بِهٰذَا الْجَمَالِ قَطُّ!", "okunus": "Yâ Ahmedu, lem era mecmû‘ate mahtûtâtin bi-hâze'l-cemâli kattu!", "tr": "Ahmed, bu güzellikte bir el yazması koleksiyonunu hayatımda hiç görmedim!" },
+        { "konusan": "أحمد", "ar": "وَأَنَا كَذٰلِكَ! لَمَّا دَخَلْنَا قَاعَةَ الْخَطِّ الْعَرَبِيِّ، شَعَرْتُ بِدَهْشَةٍ كَبِيرَةٍ.", "okunus": "Ve ene kezâlike! Lemmâ dehalnâ kâ‘ate'l-hatti'l-‘arabiyyi, şe‘artu bi-dehşetin kebîratin.", "tr": "Ben de öyle! Arap hat sanatı salonuna girdiğimizde büyük bir hayranlık duydum." },
+        { "konusan": "عمر", "ar": "أَتَعْلَمُ؟ زُرْتُ إِسْطَنْبُولَ ثَلَاثَ مَرَّاتٍ مِنْ قَبْلُ، وَلٰكِنْ لَمْ أَزُرْ هٰذَا الْقِسْمَ مِنْ قَبْلُ!", "okunus": "E-ta‘lemu? Zurtu İstânbûle selâse merrâtin min kablu, ve lâkin lem ezur hâze'l-kisme min kablu!", "tr": "Biliyor musun? İstanbul'u daha önce üç kez ziyaret ettim ama bu bölümü daha önce hiç ziyaret etmedim!" },
+        { "konusan": "أحمد", "ar": "حَقًّا؟ إِذَنْ قَرَارُنَا الْيَوْمَ كَانَ مُوَفَّقًا جِدًّا! هَلْ زُرْنَا كُلَّ الْقَاعَاتِ أَمْ لَمَّا نَنْتَهِ؟", "okunus": "Hakkan? İzen karâruna'l-yevme kâne muvaffakan cidden! Hel zurnâ kulle'l-kâ‘âti em lemmâ nentehi?", "tr": "Gerçekten mi? O hâlde bugünkü kararımız çok isabetliymiş! Tüm salonları gezdik mi yoksa henüz bitirmedik mi?" },
+        { "konusan": "عمر", "ar": "لَمَّا نَنْتَهِ! لَمْ نَدْخُلْ قَاعَةَ السَّاعَاتِ التَّارِيخِيَّةِ بَعْدُ، فَلْنَذْهَبْ إِلَيْهَا الْآنَ!", "okunus": "Lemmâ nentehi! Lem nedhul kâ‘ate's-sâ‘âti't-târîhiyyeti ba‘du, fel-nezheb ileyha'l-âne!", "tr": "Henüz bitirmedik! Tarihî saatler salonuna henüz girmedik, haydi şimdi oraya gidelim!" },
+        { "konusan": "أحمد", "ar": "هَيَّا بِنَا! وَلَا نَنْسَ أَنْ نَقْرَأَ الْبِطَاقَاتِ التَّعْرِيفِيَّةَ بِتَمَهُّلٍ!", "okunus": "Heyyâ binâ! Ve lâ nense en nekrae'l-bitâkâti't-ta‘rîfiyyete bi-temehhulin!", "tr": "Haydi gidelim! Ve tanıtım kartlarını yavaşça okumayı unutmayalım!" },
+        { "konusan": "عمر", "ar": "نَعَمْ، فَمَنْ يَمْشِ بِسُرْعَةٍ فِي الْمُتْحَفِ لَا يَسْتَمْتِعْ بِتَفَاصِيلِ التَّارِيخِ!", "okunus": "Ne‘am, fe-men yemşi bi-sur‘atin fi'l-muthafi lâ yestemti‘ bi-tefâsîli't-târîhi!", "tr": "Evet, zira kim müzede hızlı yürürse tarihin ayrıntılarının tadını çıkaramaz!" },
+        { "konusan": "أحمد", "ar": "وَلَمْ نَشْتَرِ كِتَابًا تَذْكَارِيًّا مِنْ مَتْجَرِ الْمُتْحَفِ أَيْضًا؛ لِنَمُرَّ بِالْمَتْجَرِ قَبْلَ الْخُرُوجِ!", "okunus": "Ve lem neşteri kitâben tezkâriyyen min metceri'l-muthafi eydan; li-nemurra bi'l-metceri kable'l-hurûci!", "tr": "Ayrıca müze mağazasından hatıra kitabı da almadık; çıkmadan önce mağazaya uğrayalım!" },
+        { "konusan": "عمر", "ar": "مُمْتَازٌ! لَمْ يَكُنْ لَدَيْنَا فُرْصَةٌ لِتَنَاوُلِ الْغَدَاءِ أَيْضًا، فَلْنَجْلِسْ بَعْدَ الزِّيَارَةِ فِي مَطْعَمٍ يُطِلُّ عَلَى الْبَحْرِ.", "okunus": "Mumtâzun! Lem yekun ledeynâ fursatun li-tenâvuli'l-gadâi eydan, fel-neclis ba‘de'z-ziyârati fî mat‘amin yutıllu ‘ale'l-bahri.", "tr": "Harika! Öğle yemeği yemek için de fırsatımız olmadı; ziyaretten sonra denize bakan bir restoranda oturalım." },
+        { "konusan": "أحمد", "ar": "يَا سَلَامُ! لَمْ أَقْضِ يَوْمًا أَجْمَلَ مِنْ هٰذَا الْيَوْمِ مُنْذُ زَمَنٍ طَوِيلٍ!", "okunus": "Yâ selâmu! Lem akdi yevmen ecmele min hâze'l-yevmi munzu zemenin tavîlin!", "tr": "Ne harika! Uzun zamandır bugünden daha güzel bir gün geçirmedim!" },
+        { "konusan": "عمر", "ar": "لِيَدُمْ وُدُّنَا وَرِحْلَاتُنَا الثَّقَافِيَّةُ دَائِمًا يَا صَدِيقِي!", "okunus": "Li-yedum vuddunâ ve rihalâtuna's-sekâfiyyetu dâimen yâ sadîkî!", "tr": "Dostluğumuz ve kültürel gezilerimiz daima sürsün arkadaşım!" },
+        { "konusan": "أحمد", "ar": "آمِينَ! فَلْنُكْمِلْ جَوْلَتَنَا بِكُلِّ سُرُورٍ!", "okunus": "Âmîne! Fel-nukmil cevletenâ bi-kulli surûrin!", "tr": "Âmin! Haydi turumuzu büyük bir neşeyle tamamlayalım!" }
+      ],
+      "partner": [
+        { "soruAr": "كَيْفَ نَقُولُ 'Bu bölümü daha önce ziyaret etmedim'؟", "soruTr": "'Bu bölümü ziyaret etmedim' (ecvef: أَزُورُ) nasıl söylenir?", "ipucu": "لَمْ أَزُرْ (و düşer!).", "secenekler": ["لَمْ أَزُرْ هٰذَا الْقِسْمَ مِنْ قَبْلُ.", "لَمْ أَزُورْ هٰذَا الْقِسْمَ.", "لَمْ زُرْتُ هٰذَا الْقِسْمَ."], "dogruIndeks": 0, "aciklama": "أَزُورُ → لَمْ أَزُرْ (ecvef cezm!)." },
+        { "soruAr": "كَيْفَ نَقُولُ 'Hatıra kitabı almadık' (نَشْتَرِي)؟", "soruTr": "'Almadık' (nâkıs: نَشْتَرِي) nasıl söylenir?", "ipucu": "لَمْ نَشْتَرِ (ي düşer!).", "secenekler": ["لَمْ نَشْتَرِ كِتَابًا تَذْكَارِيًّا.", "لَمْ نَشْتَرِي كِتَابًا تَذْكَارِيًّا.", "لَنْ نَشْتَرِ كِتَابًا."], "dogruIndeks": 0, "aciklama": "نَشْتَرِي → لَمْ نَشْتَرِ (illet harfi düşer!)." },
+        { "soruAr": "كَيْفَ نَقُولُ 'Daha güzel bir gün geçirmedim' (أَقْضِي)؟", "soruTr": "'Geçirmedim' (nâkıs: أَقْضِي) nasıl söylenir?", "ipucu": "لَمْ أَقْضِ (ي düşer!).", "secenekler": ["لَمْ أَقْضِ يَوْمًا أَجْمَلَ مِنْ هٰذَا.", "لَمْ أَقْضِي يَوْمًا أَجْمَلَ.", "لَمْ قَضَيْتُ يَوْمًا."], "dogruIndeks": 0, "aciklama": "أَقْضِي → لَمْ أَقْضِ (illet hazfi!)." },
+        { "soruAr": "مَا مَعْنَى «لَمَّا دَخَلْنَا» مُقَارَنَةً بِـ«لَمَّا نَنْتَهِ»؟", "soruTr": "'لَمَّا دَخَلْنَا' ile 'لَمَّا نَنْتَهِ' arasındaki fark nedir?", "ipucu": "Mâzi vs. Meczum Muzâri!", "secenekler": ["لَمَّا دَخَلْنَا = girdiğimizde; لَمَّا نَنْتَهِ = henüz bitirmedik.", "İkisi de 'henüz' demektir.", "İkisi de '-dığında' demektir."], "dogruIndeks": 0, "aciklama": "Mâzi = -dığında; Meczum Muzâri = henüz -medi!" },
+        { "soruAr": "مَا أَصْلُ «لِيَدُمْ» فِي: «لِيَدُمْ وُدُّنَا»؟", "soruTr": "'لِيَدُمْ' (sürsün!) fiilinin aslı nedir?", "ipucu": "يَدُومُ (ecvef) + Emir Lâmı!", "secenekler": ["يَدُومُ — Emir Lâmıyla cezmedilince و düşmüştür: لِيَدُمْ!", "يَدَمُ.", "دَامَ mâzisidir."], "dogruIndeks": 0, "aciklama": "دَامَ — يَدُومُ → لِيَدُمْ (ecvef cezm!)." }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "id": "m16_fc01", "ar": "لَمْ", "harekesiz": "لم", "okunus": "Lem", "tr": "-medi (Geçmiş zaman kesin olumsuzluğu)", "kok": "ح ر ف", "vezin": "حَرْفُ جَزْمٍ وَقَلْبٍ", "turevler": ["لَمْ يَكْتُبْ", "لَمْ يَكْتُبُوا"], "ekBilgi": "Muzâriyi cezmeder ve zamanını geçmişe çevirir (Cahd-ı Mutlak)", "ornek": "لَمْ يَحْضُرِ الطَّالِبُ أَمْسِ.", "ornekTr": "Öğrenci dün gelmedi.", "kullanimNotu": "Asla mâzi fiilin başına gelmez, daima muzâri alır!", "tur": "Edat" },
+    { "id": "m16_fc02", "ar": "لَمَّا (الْجَازِمَةُ)", "harekesiz": "لما", "okunus": "Lemmâ", "tr": "Henüz -medi (Cahd-ı Mustağrak)", "kok": "ح ر ف", "vezin": "حَرْفُ جَزْمٍ", "turevler": ["لَمَّا يَصِلْ", "لَمَّا يَرْجِعُوا"], "ekBilgi": "Meczum muzâri ile 'henüz -medi'; mâzi ile '-dığında' anlamına gelir!", "ornek": "لَمَّا يَصِلِ الْقِطَارُ.", "ornekTr": "Tren henüz varmadı.", "kullanimNotu": "Arkasındaki fiilin zamanına bakarak anlamını 1 saniyede çözün!", "tur": "Edat" },
+    { "id": "m16_fc03", "ar": "لَامُ الْأَمْرِ (لِـ / وَلْـ / فَلْـ)", "harekesiz": "لام الأمر", "okunus": "Lâmu'l-emri", "tr": "-sin / -elim (Emr-i Gâib & Mütekellim)", "kok": "أ م ر", "vezin": "حَرْفُ جَزْمٍ", "turevler": ["لِيَكْتُبْ", "فَلْنَبْدَأْ"], "ekBilgi": "وَ / فَـ / ثُمَّ gelince kesrası sükûna döner: وَلْيَكْتُبْ / فَلْنَبْدَأْ", "ornek": "فَلْنَبْدَأِ الدَّرْسَ الْآنَ!", "ornekTr": "Haydi derse şimdi başlayalım!", "kullanimNotu": "لَامُ التَّعْلِيلِ nasb eder (fetha), لَامُ الْأَمْرِ cezm eder (sükûn)!", "tur": "Edat" },
+    { "id": "m16_fc04", "ar": "لَا النَّاهِيَةُ", "harekesiz": "لا الناهية", "okunus": "Lâ en-nâhiyetu", "tr": "-me / -mesin! (Yasaklama)", "kok": "ن ه ي", "vezin": "حَرْفُ نَهْيٍ وَجَزْمٍ", "turevler": ["لَا تَتَأَخَّرْ", "لَا يَتَكَلَّمْ"], "ekBilgi": "Muzâriyi cezmeder; hem 2. şahsa hem 3. şahsa (Nehy-i Gâib) gelir", "ornek": "لَا يَتَكَلَّمْ أَحَدٌ أَثْنَاءَ الِامْتِحَانِ!", "ornekTr": "Sınav esnasında kimse konuşmasın!", "kullanimNotu": "لَا النَّافِيَةُ ise amel etmez (merfû bırakır).", "tur": "Edat" },
+    { "id": "m16_fc05", "ar": "الْجَزْمُ", "harekesiz": "الجزم", "okunus": "El-cezmu", "tr": "Cezm (Fiilin sonunu kesme / sükûnlama)", "kok": "ج ز م", "vezin": "فَعْل", "turevler": ["مَجْزُوم", "جَوَازِم"], "ekBilgi": "Sadece muzâri fiillere has i'rab hâlidir (isimler asla meczum olmaz!)", "ornek": "عَلَامَاتُ الْجَزْمِ: السُّكُونُ، حَذْفُ النُّونِ، حَذْفُ الْعِلَّةِ.", "ornekTr": "Cezm alâmetleri: sükûn, nûn hazfi, illet hazfi.", "kullanimNotu": "İsimde cer, fiilde cezm vardır!", "tur": "Terim" },
+    { "id": "m16_fc06", "ar": "حَذْفُ حَرْفِ الْعِلَّةِ", "harekesiz": "حذف حرف العلة", "okunus": "Hazfu harfi'l-‘illeti", "tr": "İllet harfinin düşmesi (Nâkıs cezm)", "kok": "ع ل ل", "vezin": "فِعْلَة", "turevler": ["لَمْ يَدْعُ", "لَمْ يَمْشِ", "لَمْ يَنْسَ"], "ekBilgi": "و düşer damme kalır, ي düşer kesra kalır, ى düşer fetha kalır!", "ornek": "لَمْ يَمْشِ الطِّفْلُ وَحْدَهُ.", "ornekTr": "Çocuk tek başına yürümedi.", "kullanimNotu": "Nâkıs fiilin cezm imzasıdır.", "tur": "Terim" },
+    { "id": "m16_fc07", "ar": "قَطُّ", "harekesiz": "قط", "okunus": "Kattu", "tr": "Hiç / Asla (Sadece geçmiş olumsuzlukla!)", "kok": "ق ط ط", "vezin": "ظَرْفُ زَمَانٍ", "turevler": ["لَمْ أَرَ ... قَطُّ", "مَا كَذَبَ قَطُّ"], "ekBilgi": "Daima damme üzere mebnîdir ve لَمْ / مَا ile kullanılır (لَنْ ile أَبَدًا!)", "ornek": "لَمْ أَسْمَعْ بِهٰذَا الْخَبَرِ قَطُّ!", "ornekTr": "Bu haberi hiç duymadım!", "kullanimNotu": "YDS zarf sorularında قَطُّ (geçmiş) vs. أَبَدًا (gelecek) sık sorulur!", "tur": "Zarf" },
+    { "id": "m16_fc08", "ar": "بَعْدُ (لَمْ ... بَعْدُ)", "harekesiz": "بعد", "okunus": "Ba‘du", "tr": "Henüz (Olumsuz geçmişle)", "kok": "ب ع د", "vezin": "ظَرْفٌ مَبْنِيٌّ", "turevler": ["لَمْ يَصِلْ بَعْدُ", "لَمْ أَنْتَهِ بَعْدُ"], "ekBilgi": "Muzâfun ileyh düşüp cümle sonunda geldiğinde damme üzere mebnîdir (بَعْدُ)", "ornek": "لَمْ تَنْتَهِ الْمُبَارَاةُ بَعْدُ.", "ornekTr": "Maç henüz bitmedi.", "kullanimNotu": "لَمْ ... بَعْدُ modern dilde لَمَّا'nın tam eşdeğeridir.", "tur": "Zarf" },
+    { "id": "m16_fc09", "ar": "لَمْ يَقُلْ", "harekesiz": "لم يقل", "okunus": "Lem yekul", "tr": "Söylemedi (قَالَ — يَقُولُ)", "kok": "ق و ل", "vezin": "يَفْعُلْ (أَجْوَف)", "turevler": ["لِيَقُلْ", "لَا تَقُلْ"], "ekBilgi": "İki sükûn çakışmasın diye ortadaki و düşmüştür!", "ornek": "لَمْ يَقُلِ الشَّاهِدُ إِلَّا الصِّدْقَ.", "ornekTr": "Tanık doğruluktan başkasını söylemedi.", "kullanimNotu": "Cezm alâmeti yine sondaki sükûndur!", "tur": "Fiil" },
+    { "id": "m16_fc10", "ar": "لَمْ يَكُنْ", "harekesiz": "لم يكن", "okunus": "Lem yekun", "tr": "Olmadı / değildi (كَانَ — يَكُونُ)", "kok": "ك و ن", "vezin": "يَفْعُلْ (أَجْوَف)", "turevler": ["لَمْ تَكُنْ", "لَمْ أَكُنْ"], "ekBilgi": "Arapçada en sık geçen meczum ecvef fiildir", "ornek": "لَمْ يَكُنِ الْجَوُّ بَارِدًا أَمْسِ.", "ornekTr": "Dün hava soğuk değildi.", "kullanimNotu": "الْ gelince لَمْ يَكُنِ şeklinde kesra ile bağlanır.", "tur": "Fiil" },
+    { "id": "m16_fc11", "ar": "لَمْ يَبِعْ", "harekesiz": "لم يبع", "okunus": "Lem yebi‘", "tr": "Satmadı (بَاعَ — يَبِيعُ)", "kok": "ب ي ع", "vezin": "يَفْعِلْ (أَجْوَف)", "turevler": ["لَا تَبِعْ", "بِعْ"], "ekBilgi": "Ortadaki ي iki sükûn çakışmasından dolayı düşmüştür", "ornek": "لَمْ يَبِعِ التَّاجِرُ بِضَاعَةً مَعِيبَةً.", "ornekTr": "Tüccar kusurlu mal satmadı.", "kullanimNotu": "Ecvef (ي'li) cezm modelidir.", "tur": "Fiil" },
+    { "id": "m16_fc12", "ar": "لَمْ يَنَمْ", "harekesiz": "لم ينم", "okunus": "Lem yenem", "tr": "Uyumadı (نَامَ — يَنَامُ)", "kok": "ن و م", "vezin": "يَفْعَلْ (أَجْوَف)", "turevler": ["لَمْ أَنَمْ", "لَا تَنَمْ"], "ekBilgi": "Ortadaki ا düşmüştür (يَنَامُ → لَمْ يَنَمْ)", "ornek": "لَمْ أَنَمْ جَيِّدًا لَيْلَةَ أَمْسِ.", "ornekTr": "Dün gece iyi uyumadım.", "kullanimNotu": "خَافَ — يَخَافُ → لَمْ يَخَفْ de aynı modeldir!", "tur": "Fiil" },
+    { "id": "m16_fc13", "ar": "لَمْ يَرَ / لَمْ أَرَ", "harekesiz": "لم ير / لم أر", "okunus": "Lem yera / Lem era", "tr": "Görmedi / Görmedim (رَأَى — يَرَى)", "kok": "ر أ ي", "vezin": "يَفْعَ (نَاقِص)", "turevler": ["لَمْ نَرَ", "لَمْ تَرَ"], "ekBilgi": "Sondaki ى düşer; tek harf gibi kısalır!", "ornek": "لَمْ أَرَ مِثْلَ هٰذَا الْجَمَالِ قَطُّ.", "ornekTr": "Bu güzelliğin benzerini hiç görmedim.", "kullanimNotu": "Çok yüksek frekanslıdır; mutlaka tanıyın!", "tur": "Fiil" },
+    { "id": "m16_fc14", "ar": "لَمْ يَنْسَ", "harekesiz": "لم ينس", "okunus": "Lem yense", "tr": "Unutmadı (نَسِيَ — يَنْسَى)", "kok": "ن س ي", "vezin": "يَفْعَ (نَاقِص)", "turevler": ["لَمْ أَنْسَ", "لَا تَنْسَ"], "ekBilgi": "ى düşer, fetha ى'yi hatırlatır", "ornek": "لَا يَنْسَ أَحَدٌ وَاجِبَهُ!", "ornekTr": "Kimse görevini unutmasın!", "kullanimNotu": "لَا تَنْسَ (Unutma!) günlük dilde çok sık geçer.", "tur": "Fiil" },
+    { "id": "m16_fc15", "ar": "لَمْ يَمْشِ", "harekesiz": "لم يمش", "okunus": "Lem yemşi", "tr": "Yürümedi (مَشَى — يَمْشِي)", "kok": "م ش ي", "vezin": "يَفْعِ (نَاقِص)", "turevler": ["فَلْنَمْشِ", "لَا تَمْشِ"], "ekBilgi": "ي düşer, kesra ي'yi hatırlatır", "ornek": "فَلْنَمْشِ مَعًا فِي الْحَدِيقَةِ!", "ornekTr": "Haydi parkta birlikte yürüyelim!", "kullanimNotu": "Nâkıs (ي'li) cezm modelidir.", "tur": "Fiil" },
+    { "id": "m16_fc16", "ar": "لَمْ يَدْعُ", "harekesiz": "لم يدع", "okunus": "Lem yed‘u", "tr": "Çağırmadı / dua etmedi (دَعَا — يَدْعُو)", "kok": "د ع و", "vezin": "يَفْعُ (نَاقِص)", "turevler": ["لِيَدْعُ", "لَا تَدْعُ"], "ekBilgi": "و düşer, damme و'yu hatırlatır", "ornek": "الْمُؤْمِنُ لَمْ يَدْعُ إِلَّا اللّٰهَ.", "ornekTr": "Mümin Allah'tan başkasına dua etmedi.", "kullanimNotu": "Nâkıs (و'lu) cezm modelidir.", "tur": "Fiil" },
+    { "id": "m16_fc17", "ar": "لَمْ يَسْتَطِعْ", "harekesiz": "لم يستطع", "okunus": "Lem yestatı‘", "tr": "Yapamadı / gücü yetmedi", "kok": "ط و ع", "vezin": "يَسْتَفْعِلْ", "turevler": ["لَمْ أَسْتَطِعْ", "لَمْ يَسْتَطِيعُوا"], "ekBilgi": "Tekilde ي düşer (يَسْتَطِعْ), çoğulda geri gelir (يَسْتَطِيعُوا)!", "ornek": "لَمْ أَسْتَطِعِ الْحُضُورَ أَمْسِ.", "ornekTr": "Dün katılamadım.", "kullanimNotu": "Çoğulda sondaki harf harekeli olduğu için ي geri döner!", "tur": "Fiil" },
+    { "id": "m16_fc18", "ar": "لَمْ يَبْقَ", "harekesiz": "لم يبق", "okunus": "Lem yebka", "tr": "Kalmadı (بَقِيَ — يَبْقَى)", "kok": "ب ق ي", "vezin": "يَفْعَ (نَاقِص)", "turevler": ["لِيَبْقَ", "لَا تَبْقَ"], "ekBilgi": "لَمْ يَبْقَ إِلَّا ... ('Sadece ... kaldı!') kalıbı çok yaygındır", "ornek": "لَمْ يَبْقَ إِلَّا خَمْسُ دَقَائِقَ.", "ornekTr": "Sadece beş dakika kaldı.", "kullanimNotu": "ى düşer, fetha kalır.", "tur": "Fiil" },
+    { "id": "m16_fc19", "ar": "لَمْ يَنْتَهِ", "harekesiz": "لم ينته", "okunus": "Lem yentehi", "tr": "Bitmedi / bitirmedi (اِنْتَهَى — يَنْتَهِي)", "kok": "ن ه ي", "vezin": "يَفْتَعِ", "turevler": ["لَمَّا تَنْتَهِ", "لَمَّا نَنْتَهِ"], "ekBilgi": "ي düşer, kesra kalır", "ornek": "لَمَّا نَنْتَهِ مِنَ التَّجْرِبَةِ.", "ornekTr": "Deneyi henüz bitirmedik.", "kullanimNotu": "مِنْ harf-i ceriyle 'bir işi bitirmek' anlamı verir.", "tur": "Fiil" },
+    { "id": "m16_fc20", "ar": "لَمْ يَشْكُ", "harekesiz": "لم يشك", "okunus": "Lem yeşku", "tr": "Şikâyet etmedi (شَكَا — يَشْكُو)", "kok": "ش ك و", "vezin": "يَفْعُ (نَاقِص)", "turevler": ["شَكْوَى", "مُشْتَكٍ"], "ekBilgi": "و düşer, damme kalır", "ornek": "لَمْ يَشْكُ أَحَدٌ مِنَ التَّأْخِيرِ.", "ornekTr": "Kimse gecikmeden şikâyet etmedi.", "kullanimNotu": "مِنْ harf-i ceriyle kullanılır.", "tur": "Fiil" },
+    { "id": "m16_fc21", "ar": "لَمْ يَقْضِ", "harekesiz": "لم يقض", "okunus": "Lem yakdi", "tr": "Hükmetmedi / (vakit) geçirmedi", "kok": "ق ض ي", "vezin": "يَفْعِ (نَاقِص)", "turevler": ["قَضَاء", "قَاضٍ"], "ekBilgi": "ي düşer, kesra kalır", "ornek": "لَمْ أَقْضِ يَوْمًا أَجْمَلَ مِنْ هٰذَا.", "ornekTr": "Bundan daha güzel bir gün geçirmedim.", "kullanimNotu": "Zamanla 'geçirmek', hukukta 'hüküm vermek' demektir.", "tur": "Fiil" },
+    { "id": "m16_fc22", "ar": "لَمْ يَشْتَرِ", "harekesiz": "لم يشتر", "okunus": "Lem yeşteri", "tr": "Satın almadı (اِشْتَرَى — يَشْتَرِي)", "kok": "ش ر ي", "vezin": "يَفْتَعِ", "turevler": ["لَمْ نَشْتَرِ", "مُشْتَرٍ"], "ekBilgi": "ي düşer, kesra kalır", "ornek": "لَمْ نَشْتَرِ هَدِيَّةً بَعْدُ.", "ornekTr": "Henüz hediye satın almadık.", "kullanimNotu": "VIII. bab nâkıs fiildir.", "tur": "Fiil" },
+    { "id": "m16_fc23", "ar": "لَمْ يَفُتْ", "harekesiz": "لم يفت", "okunus": "Lem yefut", "tr": "Kaçırmadı / geçip gitmedi (فَاتَ — يَفُوتُ)", "kok": "ف و ت", "vezin": "يَفْعُلْ (أَجْوَف)", "turevler": ["فَوَات", "لَا يَفُتْكَ"], "ekBilgi": "و düşer (يَفُوتُ → لَمْ يَفُتْ)", "ornek": "لَمْ تَفُتْهَا بِدَايَةُ الِامْتِحَانِ.", "ornekTr": "Sınavın başlangıcını kaçırmadı.", "kullanimNotu": "لَمْ يَفُتِ الْأَوَانُ = Henüz vakit geçmedi!", "tur": "Fiil" },
+    { "id": "m16_fc24", "ar": "لَمْ يَزُرْ", "harekesiz": "لم يزر", "okunus": "Lem yezur", "tr": "Ziyaret etmedi (زَارَ — يَزُورُ)", "kok": "ز و ر", "vezin": "يَفْعُلْ (أَجْوَف)", "turevler": ["زِيَارَة", "زَائِر"], "ekBilgi": "و düşer (يَزُورُ → لَمْ يَزُرْ)", "ornek": "لَمْ أَزُرْ هٰذَا الْمُتْحَفَ مِنْ قَبْلُ.", "ornekTr": "Bu müzeyi daha önce ziyaret etmedim.", "kullanimNotu": "Doğrudan nesne alır.", "tur": "Fiil" },
+    { "id": "m16_fc25", "ar": "إِنْ (الشَّرْطِيَّةُ)", "harekesiz": "إن", "okunus": "İn", "tr": "Eğer (İki muzâriyi cezmeden şart harfi)", "kok": "ح ر ف", "vezin": "حَرْفُ شَرْطٍ", "turevler": ["إِنْ تَدْرُسْ تَنْجَحْ", "إِنْ شَاءَ اللّٰهُ"], "ekBilgi": "Hem şart fiilini hem cevap fiilini cezmeder!", "ornek": "إِنْ تَصْبِرْ تَظْفَرْ!", "ornekTr": "Sabredersen zafer kazanırsın!", "kullanimNotu": "إِنَّ (şeddeli) ile karıştırmayın; şart olan sükûnlu إِنْ'dir!", "tur": "Edat" },
+    { "id": "m16_fc26", "ar": "مَنْ (الشَّرْطِيَّةُ)", "harekesiz": "من", "okunus": "Men", "tr": "Kim ...-erse (İki fiili cezmeden şart ismi)", "kok": "ا س م", "vezin": "اِسْمُ شَرْطٍ", "turevler": ["مَنْ يَزْرَعْ يَحْصُدْ", "مَنْ يَجْتَهِدْ يَنْجَحْ"], "ekBilgi": "İnsanlar (akıllı varlıklar) için kullanılır ve 2 muzâriyi cezmeder", "ornek": "مَنْ يَبْحَثْ يَجِدْ!", "ornekTr": "Kim ararsa bulur!", "kullanimNotu": "Soru ismi olan مَنْ ile bağlamdan ayrılır (2 fiil = şart!).", "tur": "Edat" },
+    { "id": "m16_fc27", "ar": "ظَفِرَ — يَظْفَرُ بِـ", "harekesiz": "ظفر — يظفر بـ", "okunus": "Zafira — yazferu bi-", "tr": "Zafer kazanmak / muradına ermek", "kok": "ظ ف ر", "vezin": "فَعِلَ (4. Bab)", "turevler": ["ظَفَر", "ظَافِر"], "ekBilgi": "مَنْ يَصْبِرْ يَظْفَرْ atasözünün fiilidir", "ornek": "إِنْ تَصْبِرْ تَظْفَرْ بِالْمَطْلُوبِ.", "ornekTr": "Sabredersen arzuladığın şeye kavuşursun.", "kullanimNotu": "بِـ harf-i ceriyle kullanılır.", "tur": "Fiil" },
+    { "id": "m16_fc28", "ar": "حَمَى — يَحْمِي", "harekesiz": "حمى — يحمي", "okunus": "Hamâ — yahmî", "tr": "Korumak / muhafaza etmek", "kok": "ح م ي", "vezin": "فَعَلَ (2. Bab)", "turevler": ["حِمَايَة", "حَامٍ"], "ekBilgi": "Nâkıs fiil → meczumda ي düşer: يَحْمِ", "ornek": "مَنْ يَلْتَزِمْ بِالْقَوَاعِدِ يَحْمِ نَفْسَهُ.", "ornekTr": "Kim kurallara uyarsa kendini korur.", "kullanimNotu": "مِنْ ile 'bir tehlikeden korumak' anlamı verir.", "tur": "Fiil" },
+    { "id": "m16_fc29", "ar": "صَمَتَ — يَصْمُتُ", "harekesiz": "صمت — يصمت", "okunus": "Samete — yasmutu", "tr": "Susmak / sessiz kalmak", "kok": "ص م ت", "vezin": "فَعَلَ (1. Bab)", "turevler": ["صَمْت", "صَامِت"], "ekBilgi": "فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ hadisinde geçer", "ornek": "لِيَصْمُتِ الْجَمِيعُ أَثْنَاءَ التِّلَاوَةِ.", "ornekTr": "Tilavet esnasında herkes sussun.", "kullanimNotu": "1. bab (fetha → damme) fiildir.", "tur": "Fiil" },
+    { "id": "m16_fc30", "ar": "اِلْتَزَمَ — يَلْتَزِمُ بِـ", "harekesiz": "التزم — يلتزم بـ", "okunus": "İltezeme — yeltemizu bi-", "tr": "Uymak / bağlı kalmak / riayet etmek", "kok": "ل ز م", "vezin": "اِفْتَعَلَ", "turevler": ["اِلْتِزَام", "مُلْتَزِم"], "ekBilgi": "بِـ harf-i ceriyle (بِالْقَوَاعِدِ / بِالْمَوْعِدِ) çok sık kullanılır", "ornek": "لِيَلْتَزِمْ كُلُّ سَائِقٍ بِقَوَاعِدِ الْمُرُورِ!", "ornekTr": "Her sürücü trafik kurallarına uysun!", "kullanimNotu": "YDS'nin en popüler harf-i cerli fiillerindendir.", "tur": "Fiil" },
+    { "id": "m16_fc31", "ar": "تَسَرَّعَ — يَتَسَرَّعُ", "harekesiz": "تسرع — يتسرع", "okunus": "Teserra‘a — yeteserra‘u", "tr": "Acele etmek / fevri davranmak", "kok": "س ر ع", "vezin": "تَفَعَّلَ", "turevler": ["تَسَرُّع", "مُتَسَرِّع"], "ekBilgi": "Genellikle olumsuz/uyarı bağlamında ('aceleci davranma') kullanılır", "ornek": "لَا يَتَسَرَّعْ أَحَدٌ فِي اتِّخَاذِ الْقَرَارِ!", "ornekTr": "Kimse karar vermede acele etmesin!", "kullanimNotu": "فِي harf-i ceriyle kullanılır.", "tur": "Fiil" },
+    { "id": "m16_fc32", "ar": "كَسْرُ الْتِقَاءِ السَّاكِنَيْنِ", "harekesiz": "كسر التقاء الساكنين", "okunus": "Kesru'ltikâi's-sâkineyni", "tr": "İki sükûn çakışması geçiş kesrası", "kok": "س ك ن", "vezin": "تَرْكِيب نَحْوِيّ", "turevler": ["لَمْ يَكْتُبِ الطَّالِبُ", "لَمْ يَكُنِ الْجَوُّ"], "ekBilgi": "Meczum fiilden sonra الْ takısı gelince fiil sonu kesra ile bağlanır", "ornek": "لَمْ يَحْضُرِ الْمُدِيرُ الْيَوْمَ.", "ornekTr": "Müdür bugün gelmedi.", "kullanimNotu": "Bu kesra cer değil, yalnızca telaffuz kolaylığıdır!", "tur": "Terim" }
+  ]
+}

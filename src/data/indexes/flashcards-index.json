@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-23T07:26:29.993Z",
-  "totalCards": 448,
+  "generatedAt": "2026-11-23T07:48:29.966Z",
+  "totalCards": 544,
   "modules": [
     {
       "id": "01",
@@ -83,6 +83,24 @@
     {
       "id": "14",
       "title": "Esmâ-i Hamse (Beş İsim) & Ef'âl-i Hamse (Beş Fiil)",
+      "cefr": "A2",
+      "count": 32
+    },
+    {
+      "id": "15",
+      "title": "Muzâriyi Nasbeden Edatlar & Müevvel Mastar",
+      "cefr": "A2",
+      "count": 32
+    },
+    {
+      "id": "16",
+      "title": "Muzâriyi Cezmeden Edatlar, Emr-i Gâib & Nehy-i Gâib",
+      "cefr": "A2",
+      "count": 32
+    },
+    {
+      "id": "17",
+      "title": "Emr-i Hâzır ve Nehy-i Hâzır Sistemi",
       "cefr": "A2",
       "count": 32
     }
@@ -11794,6 +11812,1928 @@
       "kullanimNotu": "Kur'an'da الرُّوم 21'de geçer (مَوَدَّةً وَرَحْمَةً).",
       "tur": "isim",
       "moduleId": "14",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc01",
+      "ar": "أَنْ",
+      "harekesiz": "أن",
+      "okunus": "En",
+      "tr": "-mek / -mak / -mesi (Mastar edatı)",
+      "kok": "ح ر ف",
+      "vezin": "حَرْفُ نَصْبٍ",
+      "turevler": [
+        "أَلَّا (أَنْ + لَا)",
+        "لِئَلَّا (لِـ + أَنْ + لَا)"
+      ],
+      "ekBilgi": "Muzâriyi nasbeder; fiili isim (müevvel mastar) değerine dönüştürür",
+      "ornek": "أُرِيدُ أَنْ أَتَعَلَّمَ الْعَرَبِيَّةَ.",
+      "ornekTr": "Arapça öğrenmek istiyorum.",
+      "kullanimNotu": "İki fiili bağlayan temel köprüdür!",
+      "tur": "Edat",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc02",
+      "ar": "لَنْ",
+      "harekesiz": "لن",
+      "okunus": "Len",
+      "tr": "Asla -meyecek (Kesin gelecek olumsuzluğu)",
+      "kok": "ح ر ف",
+      "vezin": "حَرْفُ نَفْيٍ وَنَصْبٍ",
+      "turevler": [
+        "لَنْ يَكْتُبَ (tekil)",
+        "لَنْ يَكْتُبُوا (çoğul)"
+      ],
+      "ekBilgi": "سَـ / سَوْفَ ile asla birlikte kullanılmaz!",
+      "ornek": "لَنْ أَنْسَى مَعْرُوفَكَ أَبَدًا.",
+      "ornekTr": "İyiliğini asla unutmayacağım.",
+      "kullanimNotu": "Gelecek zamanlı (غَدًا/أَبَدًا) cümlelerin kesin olumsuzudur.",
+      "tur": "Edat",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc03",
+      "ar": "كَيْ / لِكَيْ",
+      "harekesiz": "كي / لكي",
+      "okunus": "Key / Li-key",
+      "tr": "-mek için / -sin diye (Amaç)",
+      "kok": "ح ر ف",
+      "vezin": "حَرْفُ تَعْلِيلٍ",
+      "turevler": [
+        "كَيْلَا",
+        "لِكَيْلَا"
+      ],
+      "ekBilgi": "Yalnızca muzâri fiilin başına gelir ve nasbeder",
+      "ornek": "أَدْرُسُ لِكَيْ أَنْجَحَ بِامْتِيَازٍ.",
+      "ornekTr": "Pekiyi dereceyle başarmak için çalışıyorum.",
+      "kullanimNotu": "İsimden önce değil, mutlaka muzâri fiilden önce gelir.",
+      "tur": "Edat",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc04",
+      "ar": "إِذَنْ",
+      "harekesiz": "إذن",
+      "okunus": "İzen",
+      "tr": "O hâlde / Öyleyse (Cevap edatı)",
+      "kok": "ح ر ف",
+      "vezin": "حَرْفُ جَوَابٍ",
+      "turevler": [
+        "إِذَنْ أُكْرِمَكَ",
+        "إِذَنْ تَنْجَحَ"
+      ],
+      "ekBilgi": "Cevap başında, gelecek anlamlı ve araya engel girmeden muzâriyi nasbeder",
+      "ornek": "سَأَزُورُكَ غَدًا. — إِذَنْ أُكْرِمَكَ!",
+      "ornekTr": "Yarın seni ziyaret edeceğim. — O hâlde sana ikram ederim!",
+      "kullanimNotu": "3 şarttan biri bozulursa fiil merfû kalır.",
+      "tur": "Edat",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc05",
+      "ar": "لَامُ التَّعْلِيلِ (لِـ)",
+      "harekesiz": "لام التعليل",
+      "okunus": "Lâmu't-ta‘lîl",
+      "tr": "-mek için / -sin diye (Gerekçe lâmı)",
+      "kok": "ع ل ل",
+      "vezin": "تَعْلِيل",
+      "turevler": [
+        "لِيَدْرُسَ",
+        "لِيَنْجَحُوا"
+      ],
+      "ekBilgi": "Muzâriyi nasbeder (لَامُ الْأَمْرِ ise cezmeder!)",
+      "ornek": "ذَهَبْتُ إِلَى الْمَكْتَبَةِ لِأَقْرَأَ.",
+      "ornekTr": "Okumak için kütüphaneye gittim.",
+      "kullanimNotu": "İsme gelirse harf-i cer (لِلْعِلْمِ), muzâriye gelirse nasb edatıdır.",
+      "tur": "Terim",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc06",
+      "ar": "حَتَّى",
+      "harekesiz": "حتى",
+      "okunus": "Hattâ",
+      "tr": "-inceye kadar / -sin diye",
+      "kok": "ح ر ف",
+      "vezin": "حَرْفُ غَايَةٍ",
+      "turevler": [
+        "حَتَّى يَصِلَ",
+        "حَتَّى الصَّبَاحِ"
+      ],
+      "ekBilgi": "Gelecek anlamlı muzâriyi nasbeder; isme gelirse harf-i cerdir",
+      "ornek": "سَأَنْتَظِرُ هُنَا حَتَّى تَرْجِعَ.",
+      "ornekTr": "Sen dönünceye kadar burada bekleyeceğim.",
+      "kullanimNotu": "YDS'de hem gâye (-e kadar) hem amaç (-sin diye) anlamı sorulur.",
+      "tur": "Edat",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc07",
+      "ar": "أَلَّا",
+      "harekesiz": "ألا",
+      "okunus": "Ellâ",
+      "tr": "-memesi / -maması (أَنْ + لَا)",
+      "kok": "ح ر ف",
+      "vezin": "أَنْ + لَا",
+      "turevler": [
+        "أَرْجُو أَلَّا",
+        "يَجِبُ أَلَّا"
+      ],
+      "ekBilgi": "Hemze üsttedir (أَلَّا)! Alttaki إِلَّا (hariç) ile karıştırılmaz!",
+      "ornek": "أَرْجُو أَلَّا تَتَأَخَّرَ عَنِ الْمَوْعِدِ.",
+      "ornekTr": "Randevuya geç kalmamanı rica ediyorum.",
+      "kullanimNotu": "Muzâriyi nasbetmeye devam eder (ن düşer / fetha alır).",
+      "tur": "Edat",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc08",
+      "ar": "لِئَلَّا",
+      "harekesiz": "لئلا",
+      "okunus": "Li-ellâ",
+      "tr": "-memek için / -mesin diye (لِـ + أَنْ + لَا)",
+      "kok": "ح ر ف",
+      "vezin": "لِـ + أَنْ + لَا",
+      "turevler": [
+        "لِكَيْلَا",
+        "كَيْلَا"
+      ],
+      "ekBilgi": "Olumsuz amaç / tedbir bağlacı; muzâriyi nasbeder",
+      "ornek": "خَرَجْتُ مُبَكِّرًا لِئَلَّا أَتَأَخَّرَ.",
+      "ornekTr": "Geç kalmamak için erken çıktım.",
+      "kullanimNotu": "YDS bağlaç testlerinin favori tedbir kalıbıdır!",
+      "tur": "Edat",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc09",
+      "ar": "لِكَيْلَا",
+      "harekesiz": "لكيلا",
+      "okunus": "Li-keylâ",
+      "tr": "-memek için / -masın diye",
+      "kok": "ح ر ف",
+      "vezin": "لِـ + كَيْ + لَا",
+      "turevler": [
+        "لِئَلَّا",
+        "كَيْلَا"
+      ],
+      "ekBilgi": "لِئَلَّا ile tamamen eş anlamlıdır",
+      "ornek": "اُكْتُبِ الْمُلَاحَظَاتِ لِكَيْلَا تَنْسَاهَا.",
+      "ornekTr": "Unutmamak için notları yaz.",
+      "kullanimNotu": "Tek kelime veya لِكَيْ لَا şeklinde ayrı da yazılabilir.",
+      "tur": "Edat",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc10",
+      "ar": "الْمَصْدَرُ الْمُؤَوَّلُ",
+      "harekesiz": "المصدر المؤول",
+      "okunus": "El-masdaru'l-muevvelu",
+      "tr": "Müevvel mastar (أَنْ + muzâri)",
+      "kok": "أ و ل",
+      "vezin": "مُفَعَّل",
+      "turevler": [
+        "تَأْوِيل",
+        "مَصْدَر صَرِيح"
+      ],
+      "ekBilgi": "Cümlede fâil, mef'ûlün bih, mübtedâ veya mecrûr olabilir",
+      "ornek": "يَجِبُ أَنْ نَجْتَهِدَ (يَجِبُ الِاجْتِهَادُ).",
+      "ornekTr": "Gayret etmemiz gerekir.",
+      "kullanimNotu": "İsim değerindeki fiil öbeğidir.",
+      "tur": "Terim",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc11",
+      "ar": "فَاءُ السَّبَبِيَّةِ",
+      "harekesiz": "فاء السببية",
+      "okunus": "Fâu's-sebebiyyeti",
+      "tr": "Sebep fâsı (ki ... olsun)",
+      "kok": "س ب ب",
+      "vezin": "فَعَلِيَّة",
+      "turevler": [
+        "سَبَب",
+        "أَسْبَاب"
+      ],
+      "ekBilgi": "Önünde emir, nehiy, soru veya olumsuzluk bulununca muzâriyi nasbeder",
+      "ornek": "اِجْتَهِدْ فَتَنْجَحَ!",
+      "ornekTr": "Çalış ki başarasın!",
+      "kullanimNotu": "Talep + فَـ + mansub muzâri formülünü ezberleyin.",
+      "tur": "Terim",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc12",
+      "ar": "لَامُ الْجُحُودِ",
+      "harekesiz": "لام الجحود",
+      "okunus": "Lâmu'l-cuhûdi",
+      "tr": "Kuvvetli inkâr lâmı (asla ... değildir)",
+      "kok": "ج ح د",
+      "vezin": "فُعُول",
+      "turevler": [
+        "جَحَدَ",
+        "جَاحِد"
+      ],
+      "ekBilgi": "Önünde mutlaka مَا كَانَ veya لَمْ يَكُنْ bulunur!",
+      "ornek": "مَا كَانَ الْمُؤْمِنُ لِيَكْذِبَ.",
+      "ornekTr": "Mümin asla yalan söyleyecek değildir.",
+      "kullanimNotu": "Kur'an ve klasik/modern akademik metinlerde çok yaygındır.",
+      "tur": "Terim",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc13",
+      "ar": "يَجِبُ أَنْ",
+      "harekesiz": "يجب أن",
+      "okunus": "Yecibu en",
+      "tr": "...-mesi gerekir / -meli",
+      "kok": "و ج ب",
+      "vezin": "يَفْعِلُ",
+      "turevler": [
+        "وَاجِب",
+        "وُجُوب"
+      ],
+      "ekBilgi": "يَجِبُ hep 3. tekil eril kalır; şahıs أَنْ'den sonraki fiilde belirtilir",
+      "ornek": "يَجِبُ عَلَيْنَا أَنْ نَتَعَاوَنَ.",
+      "ornekTr": "Yardımlaşmamız gerekir.",
+      "kullanimNotu": "En sık kullanılan gereklilik kalıbıdır.",
+      "tur": "Kalıp",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc14",
+      "ar": "يُمْكِنُ أَنْ",
+      "harekesiz": "يمكن أن",
+      "okunus": "Yumkinu en",
+      "tr": "...-ebilir / olması mümkün",
+      "kok": "م ك ن",
+      "vezin": "يُفْعِلُ",
+      "turevler": [
+        "مُمْكِن",
+        "إِمْكَانِيَّة"
+      ],
+      "ekBilgi": "يُمْكِنُ sabit kalır + أَنْ + mansub muzâri",
+      "ornek": "يُمْكِنُ أَنْ نَبْدَأَ الْآنَ.",
+      "ornekTr": "Şimdi başlayabiliriz.",
+      "kullanimNotu": "İhtimal ve yeterlilik bildirir.",
+      "tur": "Kalıp",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc15",
+      "ar": "قَبْلَ أَنْ",
+      "harekesiz": "قبل أن",
+      "okunus": "Kable en",
+      "tr": "-meden önce",
+      "kok": "ق ب ل",
+      "vezin": "فَعْل",
+      "turevler": [
+        "قَبْلَ ذٰلِكَ",
+        "مُقْبِل"
+      ],
+      "ekBilgi": "Muzâri fiil ile kullanılır ve onu nasbeder",
+      "ornek": "اِغْسِلْ يَدَيْكَ قَبْلَ أَنْ تَأْكُلَ.",
+      "ornekTr": "Yemek yemeden önce ellerini yıka.",
+      "kullanimNotu": "İsim gelirse أَنْ düşer: قَبْلَ الْأَكْلِ.",
+      "tur": "Kalıp",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc16",
+      "ar": "بَعْدَ أَنْ",
+      "harekesiz": "بعد أن",
+      "okunus": "Ba‘de en",
+      "tr": "-dikten sonra",
+      "kok": "ب ع د",
+      "vezin": "فَعْل",
+      "turevler": [
+        "بَعْدَ ذٰلِكَ",
+        "بَعِيد"
+      ],
+      "ekBilgi": "Geçmişte mâzi ile, gelecekte mansub muzâri ile kullanılır",
+      "ornek": "بَعْدَ أَنْ نَصِلَ، سَنَتَّصِلُ بِكَ.",
+      "ornekTr": "Vardıktan sonra seni arayacağız.",
+      "kullanimNotu": "YDS zaman bağlaçlarının temel taşıdır.",
+      "tur": "Kalıp",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc17",
+      "ar": "دُونَ أَنْ / بِدُونِ أَنْ",
+      "harekesiz": "دون أن / بدون أن",
+      "okunus": "Dûne en / Bi-dûni en",
+      "tr": "-meksizin / -meden",
+      "kok": "د و ن",
+      "vezin": "فَعْل",
+      "turevler": [
+        "بِدُونِ شَكٍّ",
+        "دُونَ تَرَدُّدٍ"
+      ],
+      "ekBilgi": "Sonrasındaki muzâri mansub olur",
+      "ornek": "خَرَجَ دُونَ أَنْ يَقُولَ شَيْئًا.",
+      "ornekTr": "Hiçbir şey söylemeden çıktı.",
+      "kullanimNotu": "Akademik metinlerde çok sık geçer.",
+      "tur": "Kalıp",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc18",
+      "ar": "بَدَلًا مِنْ أَنْ",
+      "harekesiz": "بدلا من أن",
+      "okunus": "Bedelen min en",
+      "tr": "-mek yerine",
+      "kok": "ب د ل",
+      "vezin": "فَعَلًا",
+      "turevler": [
+        "بَدِيل",
+        "تَبْدِيل"
+      ],
+      "ekBilgi": "Fiil geldiğinde مِنْ أَنْ + mansub muzâri kullanılır",
+      "ornek": "بَدَلًا مِنْ أَنْ تَغْضَبَ، اِهْدَأْ!",
+      "ornekTr": "Öfkelenmek yerine sakinleş!",
+      "kullanimNotu": "İsim gelirse: بَدَلًا مِنَ الْغَضَبِ.",
+      "tur": "Kalıp",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc19",
+      "ar": "اِسْتَطَاعَ — يَسْتَطِيعُ",
+      "harekesiz": "استطاع — يستطيع",
+      "okunus": "İstatâ‘a — yestatî‘u",
+      "tr": "Yapabilmek / gücü yetmek",
+      "kok": "ط و ع",
+      "vezin": "اِسْتَفْعَلَ",
+      "turevler": [
+        "اِسْتِطَاعَة",
+        "مُسْتَطَاع"
+      ],
+      "ekBilgi": "Genellikle أَنْ + mansub muzâri ile tamamlanır",
+      "ornek": "أَسْتَطِيعُ أَنْ أَقْرَأَ النَّصَّ وَحْدِي.",
+      "ornekTr": "Metni tek başıma okuyabiliyorum.",
+      "kullanimNotu": "يُمْكِنُ أَنْ'den farkı özneye göre çekilmesidir.",
+      "tur": "Fiil",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc20",
+      "ar": "تَمَنَّى — يَتَمَنَّى",
+      "harekesiz": "تمنى — يتمنى",
+      "okunus": "Temennâ — yetemennâ",
+      "tr": "Dilemek / temenni etmek",
+      "kok": "م ن ي",
+      "vezin": "تَفَعَّلَ",
+      "turevler": [
+        "أُمْنِيَة",
+        "تَمَنٍّ"
+      ],
+      "ekBilgi": "أَنْ + mansub muzâri ile çok kullanılır",
+      "ornek": "أَتَمَنَّى أَنْ تَنْجَحَ فِي حَيَاتِكَ.",
+      "ornekTr": "Hayatında başarılı olmanı dilerim.",
+      "kullanimNotu": "Sonu ى olduğundan nasb fethası takdirîdir.",
+      "tur": "Fiil",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc21",
+      "ar": "رَجَا — يَرْجُو",
+      "harekesiz": "رجا — يرجو",
+      "okunus": "Racâ — yercû",
+      "tr": "Rica etmek / ummak",
+      "kok": "ر ج و",
+      "vezin": "فَعَلَ (1. Bab)",
+      "turevler": [
+        "رَجَاء",
+        "مَرْجُوّ"
+      ],
+      "ekBilgi": "أَرْجُو أَنْ / أَرْجُو أَلَّا nazik rica kalıbıdır",
+      "ornek": "أَرْجُو أَنْ تَقْبَلَ دَعْوَتِي.",
+      "ornekTr": "Davetimi kabul etmeni rica ediyorum.",
+      "kullanimNotu": "Resmî ve günlük nazik üslupta vazgeçilmezdir.",
+      "tur": "Fiil",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc22",
+      "ar": "حَرَصَ — يَحْرِصُ عَلَى",
+      "harekesiz": "حرص — يحرص على",
+      "okunus": "Harasa — yahrısu ‘alâ",
+      "tr": "Özen göstermek / dikkat etmek",
+      "kok": "ح ر ص",
+      "vezin": "فَعَلَ (2. Bab)",
+      "turevler": [
+        "حِرْص",
+        "حَرِيص"
+      ],
+      "ekBilgi": "عَلَى أَنْ + mansub muzâri kalıbıyla çok kullanılır",
+      "ornek": "أَحْرِصُ عَلَى أَنْ أَسْتَيْقِظَ مُبَكِّرًا.",
+      "ornekTr": "Erken uyanmaya özen gösteriyorum.",
+      "kullanimNotu": "عَلَى harf-i ceriyle birlikte ezberleyin!",
+      "tur": "Fiil",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc23",
+      "ar": "اِسْتَسْلَمَ — يَسْتَسْلِمُ",
+      "harekesiz": "استسلم — يستسلم",
+      "okunus": "İstesleme — yesteslimu",
+      "tr": "Pes etmek / teslim olmak",
+      "kok": "س ل م",
+      "vezin": "اِسْتَفْعَلَ",
+      "turevler": [
+        "اِسْتِسْلَام",
+        "مُسْتَسْلِم"
+      ],
+      "ekBilgi": "لَنْ ile çok sık kullanılır: لَنْ نَسْتَسْلِمَ",
+      "ornek": "الْمُجْتَهِدُ لَنْ يَسْتَسْلِمَ لِلْيَأْسِ.",
+      "ornekTr": "Çalışkan kişi umutsuzluğa asla teslim olmaz.",
+      "kullanimNotu": "لِـ harf-i ceri ile nesne alır.",
+      "tur": "Fiil",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc24",
+      "ar": "نَدِمَ — يَنْدَمُ عَلَى",
+      "harekesiz": "ندم — يندم على",
+      "okunus": "Nedime — yendemu ‘alâ",
+      "tr": "Pişman olmak",
+      "kok": "ن د م",
+      "vezin": "فَعِلَ (4. Bab)",
+      "turevler": [
+        "نَدَم",
+        "نَادِم"
+      ],
+      "ekBilgi": "عَلَى harf-i ceriyle kullanılır",
+      "ornek": "لَا تَتَسَرَّعْ فَتَنْدَمَ عَلَى قَرَارِكَ.",
+      "ornekTr": "Acele etme ki kararına pişman olmayasın.",
+      "kullanimNotu": "4. bab fiilidir.",
+      "tur": "Fiil",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc25",
+      "ar": "أَهْمَلَ — يُهْمِلُ",
+      "harekesiz": "أهمل — يهمل",
+      "okunus": "Ehmele — yuhmilu",
+      "tr": "İhmal etmek / savsaklamak",
+      "kok": "ه م ل",
+      "vezin": "أَفْعَلَ",
+      "turevler": [
+        "إِهْمَال",
+        "مُهْمِل"
+      ],
+      "ekBilgi": "Doğrudan nesne alır (müteaddi)",
+      "ornek": "لَنْ نُهْمِلَ مُرَاجَعَةَ الدُّرُوسِ.",
+      "ornekTr": "Dersleri tekrar etmeyi asla ihmal etmeyeceğiz.",
+      "kullanimNotu": "IV. bab (İf'âl) fiilidir.",
+      "tur": "Fiil",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc26",
+      "ar": "تَرَدَّدَ — يَتَرَدَّدُ فِي",
+      "harekesiz": "تردد — يتردد في",
+      "okunus": "Tereddede — yetereddedu fî",
+      "tr": "Tereddüt etmek",
+      "kok": "ر د د",
+      "vezin": "تَفَعَّلَ",
+      "turevler": [
+        "تَرَدُّد",
+        "مُتَرَدِّد"
+      ],
+      "ekBilgi": "فِي أَنْ + mansub muzâri ile yaygın kullanılır",
+      "ornek": "لَا تَتَرَدَّدْ فِي أَنْ تَسْأَلَ الْأُسْتَاذَ.",
+      "ornekTr": "Hocaya sormakta tereddüt etme.",
+      "kullanimNotu": "فِي harf-i ceriyle kullanılır.",
+      "tur": "Fiil",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc27",
+      "ar": "تَوَقَّفَ — يَتَوَقَّفُ عَنْ",
+      "harekesiz": "توقف — يتوقف عن",
+      "okunus": "Tevakkafe — yetevakkafu ‘an",
+      "tr": "Durmak / vazgeçmek / bırakmak",
+      "kok": "و ق ف",
+      "vezin": "تَفَعَّلَ",
+      "turevler": [
+        "تَوَقُّف",
+        "مُتَوَقِّف"
+      ],
+      "ekBilgi": "عَنْ harf-i ceriyle 'bir işi bırakmak' anlamı verir",
+      "ornek": "لَنْ نَتَوَقَّفَ عَنِ التَّعَلُّمِ أَبَدًا.",
+      "ornekTr": "Öğrenmekten asla vazgeçmeyeceğiz.",
+      "kullanimNotu": "عَلَى ile gelirse 'bağlı olmak' anlamına gelir!",
+      "tur": "Fiil",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc28",
+      "ar": "خَانَ — يَخُونُ",
+      "harekesiz": "خان — يخون",
+      "okunus": "Hâne — yehûnu",
+      "tr": "İhanet etmek",
+      "kok": "خ و ن",
+      "vezin": "فَعَلَ (Ecvef)",
+      "turevler": [
+        "خِيَانَة",
+        "خَائِن"
+      ],
+      "ekBilgi": "لَامُ الْجُحُودِ örneklerinin klasiğidir",
+      "ornek": "مَا كَانَ الصَّدِيقُ لِيَخُونَ صَدِيقَهُ.",
+      "ornekTr": "Dost, dostuna asla ihanet edecek değildir.",
+      "kullanimNotu": "Mansubda و korunur: لِيَخُونَ.",
+      "tur": "Fiil",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc29",
+      "ar": "تَفَوَّقَ — يَتَفَوَّقُ",
+      "harekesiz": "تفوق — يتفوق",
+      "okunus": "Tefevvaka — yetefevvaku",
+      "tr": "Üstün başarı göstermek",
+      "kok": "ف و ق",
+      "vezin": "تَفَعَّلَ",
+      "turevler": [
+        "تَفَوُّق",
+        "مُتَفَوِّق"
+      ],
+      "ekBilgi": "فِي (alanda) veya عَلَى (birine karşı) ile kullanılır",
+      "ornek": "اِجْتَهِدْ كَيْ تَتَفَوَّقَ فِي دِرَاسَتِكَ.",
+      "ornekTr": "Eğitiminde üstün başarı göstermek için gayret et.",
+      "kullanimNotu": "تَفَوُّقٌ = üstün başarı.",
+      "tur": "Fiil",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc30",
+      "ar": "أَزْعَجَ — يُزْعِجُ",
+      "harekesiz": "أزعج — يزعج",
+      "okunus": "Ez‘ace — yuz‘icu",
+      "tr": "Rahatsız etmek",
+      "kok": "ز ع ج",
+      "vezin": "أَفْعَلَ",
+      "turevler": [
+        "إِزْعَاج",
+        "مُزْعِج"
+      ],
+      "ekBilgi": "Doğrudan nesne alır",
+      "ornek": "اِخْفِضْ صَوْتَكَ لِئَلَّا تُزْعِجَ الْجِيرَانَ.",
+      "ornekTr": "Komşuları rahatsız etmemek için sesini alçalt.",
+      "kullanimNotu": "مُزْعِجٌ = rahatsız edici.",
+      "tur": "Fiil",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc31",
+      "ar": "طَمْأَنَ — يُطَمْئِنُ / اِطْمَأَنَّ",
+      "harekesiz": "طمأن — يطمئن / اطمأن",
+      "okunus": "Tam'ene — yutam'inu / itmeenne",
+      "tr": "İçini rahatlatmak / içi rahatlamak",
+      "kok": "ط م أ ن",
+      "vezin": "فَعْلَلَ / اِفْعَلَلَّ",
+      "turevler": [
+        "اِطْمِئْنَان",
+        "مُطْمَئِنّ"
+      ],
+      "ekBilgi": "Rubâî (4 harfli) köklü sık kullanılan fiildir",
+      "ornek": "أَرْسَلْتُ الرِّسَالَةَ لِتَطْمَئِنَّ أُمِّي عَلَيَّ.",
+      "ornekTr": "Annemin benden yana içi rahat etsin diye mesaj gönderdim.",
+      "kullanimNotu": "لِتَطْمَئِنَّ şeddeli son harfle mansub olur.",
+      "tur": "Fiil",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m15_fc32",
+      "ar": "حَقَّقَ — يُحَقِّقُ",
+      "harekesiz": "حقق — يحقق",
+      "okunus": "Hakkaka — yuhakkıku",
+      "tr": "Gerçekleştirmek / başarmak",
+      "kok": "ح ق ق",
+      "vezin": "فَعَّلَ",
+      "turevler": [
+        "تَحْقِيق",
+        "حَقِيقَة"
+      ],
+      "ekBilgi": "أَهْدَاف (hedefler) ve نَجَاح (başarı) ile eşdizimlidir",
+      "ornek": "نَعْمَلُ بِجِدٍّ حَتَّى نُحَقِّقَ أَهْدَافَنَا.",
+      "ornekTr": "Hedeflerimizi gerçekleştirinceye kadar ciddiyetle çalışıyoruz.",
+      "kullanimNotu": "YDS akademik metinlerinin en yüksek frekanslı fiillerindendir.",
+      "tur": "Fiil",
+      "moduleId": "15",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc01",
+      "ar": "لَمْ",
+      "harekesiz": "لم",
+      "okunus": "Lem",
+      "tr": "-medi (Geçmiş zaman kesin olumsuzluğu)",
+      "kok": "ح ر ف",
+      "vezin": "حَرْفُ جَزْمٍ وَقَلْبٍ",
+      "turevler": [
+        "لَمْ يَكْتُبْ",
+        "لَمْ يَكْتُبُوا"
+      ],
+      "ekBilgi": "Muzâriyi cezmeder ve zamanını geçmişe çevirir (Cahd-ı Mutlak)",
+      "ornek": "لَمْ يَحْضُرِ الطَّالِبُ أَمْسِ.",
+      "ornekTr": "Öğrenci dün gelmedi.",
+      "kullanimNotu": "Asla mâzi fiilin başına gelmez, daima muzâri alır!",
+      "tur": "Edat",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc02",
+      "ar": "لَمَّا (الْجَازِمَةُ)",
+      "harekesiz": "لما",
+      "okunus": "Lemmâ",
+      "tr": "Henüz -medi (Cahd-ı Mustağrak)",
+      "kok": "ح ر ف",
+      "vezin": "حَرْفُ جَزْمٍ",
+      "turevler": [
+        "لَمَّا يَصِلْ",
+        "لَمَّا يَرْجِعُوا"
+      ],
+      "ekBilgi": "Meczum muzâri ile 'henüz -medi'; mâzi ile '-dığında' anlamına gelir!",
+      "ornek": "لَمَّا يَصِلِ الْقِطَارُ.",
+      "ornekTr": "Tren henüz varmadı.",
+      "kullanimNotu": "Arkasındaki fiilin zamanına bakarak anlamını 1 saniyede çözün!",
+      "tur": "Edat",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc03",
+      "ar": "لَامُ الْأَمْرِ (لِـ / وَلْـ / فَلْـ)",
+      "harekesiz": "لام الأمر",
+      "okunus": "Lâmu'l-emri",
+      "tr": "-sin / -elim (Emr-i Gâib & Mütekellim)",
+      "kok": "أ م ر",
+      "vezin": "حَرْفُ جَزْمٍ",
+      "turevler": [
+        "لِيَكْتُبْ",
+        "فَلْنَبْدَأْ"
+      ],
+      "ekBilgi": "وَ / فَـ / ثُمَّ gelince kesrası sükûna döner: وَلْيَكْتُبْ / فَلْنَبْدَأْ",
+      "ornek": "فَلْنَبْدَأِ الدَّرْسَ الْآنَ!",
+      "ornekTr": "Haydi derse şimdi başlayalım!",
+      "kullanimNotu": "لَامُ التَّعْلِيلِ nasb eder (fetha), لَامُ الْأَمْرِ cezm eder (sükûn)!",
+      "tur": "Edat",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc04",
+      "ar": "لَا النَّاهِيَةُ",
+      "harekesiz": "لا الناهية",
+      "okunus": "Lâ en-nâhiyetu",
+      "tr": "-me / -mesin! (Yasaklama)",
+      "kok": "ن ه ي",
+      "vezin": "حَرْفُ نَهْيٍ وَجَزْمٍ",
+      "turevler": [
+        "لَا تَتَأَخَّرْ",
+        "لَا يَتَكَلَّمْ"
+      ],
+      "ekBilgi": "Muzâriyi cezmeder; hem 2. şahsa hem 3. şahsa (Nehy-i Gâib) gelir",
+      "ornek": "لَا يَتَكَلَّمْ أَحَدٌ أَثْنَاءَ الِامْتِحَانِ!",
+      "ornekTr": "Sınav esnasında kimse konuşmasın!",
+      "kullanimNotu": "لَا النَّافِيَةُ ise amel etmez (merfû bırakır).",
+      "tur": "Edat",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc05",
+      "ar": "الْجَزْمُ",
+      "harekesiz": "الجزم",
+      "okunus": "El-cezmu",
+      "tr": "Cezm (Fiilin sonunu kesme / sükûnlama)",
+      "kok": "ج ز م",
+      "vezin": "فَعْل",
+      "turevler": [
+        "مَجْزُوم",
+        "جَوَازِم"
+      ],
+      "ekBilgi": "Sadece muzâri fiillere has i'rab hâlidir (isimler asla meczum olmaz!)",
+      "ornek": "عَلَامَاتُ الْجَزْمِ: السُّكُونُ، حَذْفُ النُّونِ، حَذْفُ الْعِلَّةِ.",
+      "ornekTr": "Cezm alâmetleri: sükûn, nûn hazfi, illet hazfi.",
+      "kullanimNotu": "İsimde cer, fiilde cezm vardır!",
+      "tur": "Terim",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc06",
+      "ar": "حَذْفُ حَرْفِ الْعِلَّةِ",
+      "harekesiz": "حذف حرف العلة",
+      "okunus": "Hazfu harfi'l-‘illeti",
+      "tr": "İllet harfinin düşmesi (Nâkıs cezm)",
+      "kok": "ع ل ل",
+      "vezin": "فِعْلَة",
+      "turevler": [
+        "لَمْ يَدْعُ",
+        "لَمْ يَمْشِ",
+        "لَمْ يَنْسَ"
+      ],
+      "ekBilgi": "و düşer damme kalır, ي düşer kesra kalır, ى düşer fetha kalır!",
+      "ornek": "لَمْ يَمْشِ الطِّفْلُ وَحْدَهُ.",
+      "ornekTr": "Çocuk tek başına yürümedi.",
+      "kullanimNotu": "Nâkıs fiilin cezm imzasıdır.",
+      "tur": "Terim",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc07",
+      "ar": "قَطُّ",
+      "harekesiz": "قط",
+      "okunus": "Kattu",
+      "tr": "Hiç / Asla (Sadece geçmiş olumsuzlukla!)",
+      "kok": "ق ط ط",
+      "vezin": "ظَرْفُ زَمَانٍ",
+      "turevler": [
+        "لَمْ أَرَ ... قَطُّ",
+        "مَا كَذَبَ قَطُّ"
+      ],
+      "ekBilgi": "Daima damme üzere mebnîdir ve لَمْ / مَا ile kullanılır (لَنْ ile أَبَدًا!)",
+      "ornek": "لَمْ أَسْمَعْ بِهٰذَا الْخَبَرِ قَطُّ!",
+      "ornekTr": "Bu haberi hiç duymadım!",
+      "kullanimNotu": "YDS zarf sorularında قَطُّ (geçmiş) vs. أَبَدًا (gelecek) sık sorulur!",
+      "tur": "Zarf",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc08",
+      "ar": "بَعْدُ (لَمْ ... بَعْدُ)",
+      "harekesiz": "بعد",
+      "okunus": "Ba‘du",
+      "tr": "Henüz (Olumsuz geçmişle)",
+      "kok": "ب ع د",
+      "vezin": "ظَرْفٌ مَبْنِيٌّ",
+      "turevler": [
+        "لَمْ يَصِلْ بَعْدُ",
+        "لَمْ أَنْتَهِ بَعْدُ"
+      ],
+      "ekBilgi": "Muzâfun ileyh düşüp cümle sonunda geldiğinde damme üzere mebnîdir (بَعْدُ)",
+      "ornek": "لَمْ تَنْتَهِ الْمُبَارَاةُ بَعْدُ.",
+      "ornekTr": "Maç henüz bitmedi.",
+      "kullanimNotu": "لَمْ ... بَعْدُ modern dilde لَمَّا'nın tam eşdeğeridir.",
+      "tur": "Zarf",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc09",
+      "ar": "لَمْ يَقُلْ",
+      "harekesiz": "لم يقل",
+      "okunus": "Lem yekul",
+      "tr": "Söylemedi (قَالَ — يَقُولُ)",
+      "kok": "ق و ل",
+      "vezin": "يَفْعُلْ (أَجْوَف)",
+      "turevler": [
+        "لِيَقُلْ",
+        "لَا تَقُلْ"
+      ],
+      "ekBilgi": "İki sükûn çakışmasın diye ortadaki و düşmüştür!",
+      "ornek": "لَمْ يَقُلِ الشَّاهِدُ إِلَّا الصِّدْقَ.",
+      "ornekTr": "Tanık doğruluktan başkasını söylemedi.",
+      "kullanimNotu": "Cezm alâmeti yine sondaki sükûndur!",
+      "tur": "Fiil",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc10",
+      "ar": "لَمْ يَكُنْ",
+      "harekesiz": "لم يكن",
+      "okunus": "Lem yekun",
+      "tr": "Olmadı / değildi (كَانَ — يَكُونُ)",
+      "kok": "ك و ن",
+      "vezin": "يَفْعُلْ (أَجْوَف)",
+      "turevler": [
+        "لَمْ تَكُنْ",
+        "لَمْ أَكُنْ"
+      ],
+      "ekBilgi": "Arapçada en sık geçen meczum ecvef fiildir",
+      "ornek": "لَمْ يَكُنِ الْجَوُّ بَارِدًا أَمْسِ.",
+      "ornekTr": "Dün hava soğuk değildi.",
+      "kullanimNotu": "الْ gelince لَمْ يَكُنِ şeklinde kesra ile bağlanır.",
+      "tur": "Fiil",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc11",
+      "ar": "لَمْ يَبِعْ",
+      "harekesiz": "لم يبع",
+      "okunus": "Lem yebi‘",
+      "tr": "Satmadı (بَاعَ — يَبِيعُ)",
+      "kok": "ب ي ع",
+      "vezin": "يَفْعِلْ (أَجْوَف)",
+      "turevler": [
+        "لَا تَبِعْ",
+        "بِعْ"
+      ],
+      "ekBilgi": "Ortadaki ي iki sükûn çakışmasından dolayı düşmüştür",
+      "ornek": "لَمْ يَبِعِ التَّاجِرُ بِضَاعَةً مَعِيبَةً.",
+      "ornekTr": "Tüccar kusurlu mal satmadı.",
+      "kullanimNotu": "Ecvef (ي'li) cezm modelidir.",
+      "tur": "Fiil",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc12",
+      "ar": "لَمْ يَنَمْ",
+      "harekesiz": "لم ينم",
+      "okunus": "Lem yenem",
+      "tr": "Uyumadı (نَامَ — يَنَامُ)",
+      "kok": "ن و م",
+      "vezin": "يَفْعَلْ (أَجْوَف)",
+      "turevler": [
+        "لَمْ أَنَمْ",
+        "لَا تَنَمْ"
+      ],
+      "ekBilgi": "Ortadaki ا düşmüştür (يَنَامُ → لَمْ يَنَمْ)",
+      "ornek": "لَمْ أَنَمْ جَيِّدًا لَيْلَةَ أَمْسِ.",
+      "ornekTr": "Dün gece iyi uyumadım.",
+      "kullanimNotu": "خَافَ — يَخَافُ → لَمْ يَخَفْ de aynı modeldir!",
+      "tur": "Fiil",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc13",
+      "ar": "لَمْ يَرَ / لَمْ أَرَ",
+      "harekesiz": "لم ير / لم أر",
+      "okunus": "Lem yera / Lem era",
+      "tr": "Görmedi / Görmedim (رَأَى — يَرَى)",
+      "kok": "ر أ ي",
+      "vezin": "يَفْعَ (نَاقِص)",
+      "turevler": [
+        "لَمْ نَرَ",
+        "لَمْ تَرَ"
+      ],
+      "ekBilgi": "Sondaki ى düşer; tek harf gibi kısalır!",
+      "ornek": "لَمْ أَرَ مِثْلَ هٰذَا الْجَمَالِ قَطُّ.",
+      "ornekTr": "Bu güzelliğin benzerini hiç görmedim.",
+      "kullanimNotu": "Çok yüksek frekanslıdır; mutlaka tanıyın!",
+      "tur": "Fiil",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc14",
+      "ar": "لَمْ يَنْسَ",
+      "harekesiz": "لم ينس",
+      "okunus": "Lem yense",
+      "tr": "Unutmadı (نَسِيَ — يَنْسَى)",
+      "kok": "ن س ي",
+      "vezin": "يَفْعَ (نَاقِص)",
+      "turevler": [
+        "لَمْ أَنْسَ",
+        "لَا تَنْسَ"
+      ],
+      "ekBilgi": "ى düşer, fetha ى'yi hatırlatır",
+      "ornek": "لَا يَنْسَ أَحَدٌ وَاجِبَهُ!",
+      "ornekTr": "Kimse görevini unutmasın!",
+      "kullanimNotu": "لَا تَنْسَ (Unutma!) günlük dilde çok sık geçer.",
+      "tur": "Fiil",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc15",
+      "ar": "لَمْ يَمْشِ",
+      "harekesiz": "لم يمش",
+      "okunus": "Lem yemşi",
+      "tr": "Yürümedi (مَشَى — يَمْشِي)",
+      "kok": "م ش ي",
+      "vezin": "يَفْعِ (نَاقِص)",
+      "turevler": [
+        "فَلْنَمْشِ",
+        "لَا تَمْشِ"
+      ],
+      "ekBilgi": "ي düşer, kesra ي'yi hatırlatır",
+      "ornek": "فَلْنَمْشِ مَعًا فِي الْحَدِيقَةِ!",
+      "ornekTr": "Haydi parkta birlikte yürüyelim!",
+      "kullanimNotu": "Nâkıs (ي'li) cezm modelidir.",
+      "tur": "Fiil",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc16",
+      "ar": "لَمْ يَدْعُ",
+      "harekesiz": "لم يدع",
+      "okunus": "Lem yed‘u",
+      "tr": "Çağırmadı / dua etmedi (دَعَا — يَدْعُو)",
+      "kok": "د ع و",
+      "vezin": "يَفْعُ (نَاقِص)",
+      "turevler": [
+        "لِيَدْعُ",
+        "لَا تَدْعُ"
+      ],
+      "ekBilgi": "و düşer, damme و'yu hatırlatır",
+      "ornek": "الْمُؤْمِنُ لَمْ يَدْعُ إِلَّا اللّٰهَ.",
+      "ornekTr": "Mümin Allah'tan başkasına dua etmedi.",
+      "kullanimNotu": "Nâkıs (و'lu) cezm modelidir.",
+      "tur": "Fiil",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc17",
+      "ar": "لَمْ يَسْتَطِعْ",
+      "harekesiz": "لم يستطع",
+      "okunus": "Lem yestatı‘",
+      "tr": "Yapamadı / gücü yetmedi",
+      "kok": "ط و ع",
+      "vezin": "يَسْتَفْعِلْ",
+      "turevler": [
+        "لَمْ أَسْتَطِعْ",
+        "لَمْ يَسْتَطِيعُوا"
+      ],
+      "ekBilgi": "Tekilde ي düşer (يَسْتَطِعْ), çoğulda geri gelir (يَسْتَطِيعُوا)!",
+      "ornek": "لَمْ أَسْتَطِعِ الْحُضُورَ أَمْسِ.",
+      "ornekTr": "Dün katılamadım.",
+      "kullanimNotu": "Çoğulda sondaki harf harekeli olduğu için ي geri döner!",
+      "tur": "Fiil",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc18",
+      "ar": "لَمْ يَبْقَ",
+      "harekesiz": "لم يبق",
+      "okunus": "Lem yebka",
+      "tr": "Kalmadı (بَقِيَ — يَبْقَى)",
+      "kok": "ب ق ي",
+      "vezin": "يَفْعَ (نَاقِص)",
+      "turevler": [
+        "لِيَبْقَ",
+        "لَا تَبْقَ"
+      ],
+      "ekBilgi": "لَمْ يَبْقَ إِلَّا ... ('Sadece ... kaldı!') kalıbı çok yaygındır",
+      "ornek": "لَمْ يَبْقَ إِلَّا خَمْسُ دَقَائِقَ.",
+      "ornekTr": "Sadece beş dakika kaldı.",
+      "kullanimNotu": "ى düşer, fetha kalır.",
+      "tur": "Fiil",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc19",
+      "ar": "لَمْ يَنْتَهِ",
+      "harekesiz": "لم ينته",
+      "okunus": "Lem yentehi",
+      "tr": "Bitmedi / bitirmedi (اِنْتَهَى — يَنْتَهِي)",
+      "kok": "ن ه ي",
+      "vezin": "يَفْتَعِ",
+      "turevler": [
+        "لَمَّا تَنْتَهِ",
+        "لَمَّا نَنْتَهِ"
+      ],
+      "ekBilgi": "ي düşer, kesra kalır",
+      "ornek": "لَمَّا نَنْتَهِ مِنَ التَّجْرِبَةِ.",
+      "ornekTr": "Deneyi henüz bitirmedik.",
+      "kullanimNotu": "مِنْ harf-i ceriyle 'bir işi bitirmek' anlamı verir.",
+      "tur": "Fiil",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc20",
+      "ar": "لَمْ يَشْكُ",
+      "harekesiz": "لم يشك",
+      "okunus": "Lem yeşku",
+      "tr": "Şikâyet etmedi (شَكَا — يَشْكُو)",
+      "kok": "ش ك و",
+      "vezin": "يَفْعُ (نَاقِص)",
+      "turevler": [
+        "شَكْوَى",
+        "مُشْتَكٍ"
+      ],
+      "ekBilgi": "و düşer, damme kalır",
+      "ornek": "لَمْ يَشْكُ أَحَدٌ مِنَ التَّأْخِيرِ.",
+      "ornekTr": "Kimse gecikmeden şikâyet etmedi.",
+      "kullanimNotu": "مِنْ harf-i ceriyle kullanılır.",
+      "tur": "Fiil",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc21",
+      "ar": "لَمْ يَقْضِ",
+      "harekesiz": "لم يقض",
+      "okunus": "Lem yakdi",
+      "tr": "Hükmetmedi / (vakit) geçirmedi",
+      "kok": "ق ض ي",
+      "vezin": "يَفْعِ (نَاقِص)",
+      "turevler": [
+        "قَضَاء",
+        "قَاضٍ"
+      ],
+      "ekBilgi": "ي düşer, kesra kalır",
+      "ornek": "لَمْ أَقْضِ يَوْمًا أَجْمَلَ مِنْ هٰذَا.",
+      "ornekTr": "Bundan daha güzel bir gün geçirmedim.",
+      "kullanimNotu": "Zamanla 'geçirmek', hukukta 'hüküm vermek' demektir.",
+      "tur": "Fiil",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc22",
+      "ar": "لَمْ يَشْتَرِ",
+      "harekesiz": "لم يشتر",
+      "okunus": "Lem yeşteri",
+      "tr": "Satın almadı (اِشْتَرَى — يَشْتَرِي)",
+      "kok": "ش ر ي",
+      "vezin": "يَفْتَعِ",
+      "turevler": [
+        "لَمْ نَشْتَرِ",
+        "مُشْتَرٍ"
+      ],
+      "ekBilgi": "ي düşer, kesra kalır",
+      "ornek": "لَمْ نَشْتَرِ هَدِيَّةً بَعْدُ.",
+      "ornekTr": "Henüz hediye satın almadık.",
+      "kullanimNotu": "VIII. bab nâkıs fiildir.",
+      "tur": "Fiil",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc23",
+      "ar": "لَمْ يَفُتْ",
+      "harekesiz": "لم يفت",
+      "okunus": "Lem yefut",
+      "tr": "Kaçırmadı / geçip gitmedi (فَاتَ — يَفُوتُ)",
+      "kok": "ف و ت",
+      "vezin": "يَفْعُلْ (أَجْوَف)",
+      "turevler": [
+        "فَوَات",
+        "لَا يَفُتْكَ"
+      ],
+      "ekBilgi": "و düşer (يَفُوتُ → لَمْ يَفُتْ)",
+      "ornek": "لَمْ تَفُتْهَا بِدَايَةُ الِامْتِحَانِ.",
+      "ornekTr": "Sınavın başlangıcını kaçırmadı.",
+      "kullanimNotu": "لَمْ يَفُتِ الْأَوَانُ = Henüz vakit geçmedi!",
+      "tur": "Fiil",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc24",
+      "ar": "لَمْ يَزُرْ",
+      "harekesiz": "لم يزر",
+      "okunus": "Lem yezur",
+      "tr": "Ziyaret etmedi (زَارَ — يَزُورُ)",
+      "kok": "ز و ر",
+      "vezin": "يَفْعُلْ (أَجْوَف)",
+      "turevler": [
+        "زِيَارَة",
+        "زَائِر"
+      ],
+      "ekBilgi": "و düşer (يَزُورُ → لَمْ يَزُرْ)",
+      "ornek": "لَمْ أَزُرْ هٰذَا الْمُتْحَفَ مِنْ قَبْلُ.",
+      "ornekTr": "Bu müzeyi daha önce ziyaret etmedim.",
+      "kullanimNotu": "Doğrudan nesne alır.",
+      "tur": "Fiil",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc25",
+      "ar": "إِنْ (الشَّرْطِيَّةُ)",
+      "harekesiz": "إن",
+      "okunus": "İn",
+      "tr": "Eğer (İki muzâriyi cezmeden şart harfi)",
+      "kok": "ح ر ف",
+      "vezin": "حَرْفُ شَرْطٍ",
+      "turevler": [
+        "إِنْ تَدْرُسْ تَنْجَحْ",
+        "إِنْ شَاءَ اللّٰهُ"
+      ],
+      "ekBilgi": "Hem şart fiilini hem cevap fiilini cezmeder!",
+      "ornek": "إِنْ تَصْبِرْ تَظْفَرْ!",
+      "ornekTr": "Sabredersen zafer kazanırsın!",
+      "kullanimNotu": "إِنَّ (şeddeli) ile karıştırmayın; şart olan sükûnlu إِنْ'dir!",
+      "tur": "Edat",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc26",
+      "ar": "مَنْ (الشَّرْطِيَّةُ)",
+      "harekesiz": "من",
+      "okunus": "Men",
+      "tr": "Kim ...-erse (İki fiili cezmeden şart ismi)",
+      "kok": "ا س م",
+      "vezin": "اِسْمُ شَرْطٍ",
+      "turevler": [
+        "مَنْ يَزْرَعْ يَحْصُدْ",
+        "مَنْ يَجْتَهِدْ يَنْجَحْ"
+      ],
+      "ekBilgi": "İnsanlar (akıllı varlıklar) için kullanılır ve 2 muzâriyi cezmeder",
+      "ornek": "مَنْ يَبْحَثْ يَجِدْ!",
+      "ornekTr": "Kim ararsa bulur!",
+      "kullanimNotu": "Soru ismi olan مَنْ ile bağlamdan ayrılır (2 fiil = şart!).",
+      "tur": "Edat",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc27",
+      "ar": "ظَفِرَ — يَظْفَرُ بِـ",
+      "harekesiz": "ظفر — يظفر بـ",
+      "okunus": "Zafira — yazferu bi-",
+      "tr": "Zafer kazanmak / muradına ermek",
+      "kok": "ظ ف ر",
+      "vezin": "فَعِلَ (4. Bab)",
+      "turevler": [
+        "ظَفَر",
+        "ظَافِر"
+      ],
+      "ekBilgi": "مَنْ يَصْبِرْ يَظْفَرْ atasözünün fiilidir",
+      "ornek": "إِنْ تَصْبِرْ تَظْفَرْ بِالْمَطْلُوبِ.",
+      "ornekTr": "Sabredersen arzuladığın şeye kavuşursun.",
+      "kullanimNotu": "بِـ harf-i ceriyle kullanılır.",
+      "tur": "Fiil",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc28",
+      "ar": "حَمَى — يَحْمِي",
+      "harekesiz": "حمى — يحمي",
+      "okunus": "Hamâ — yahmî",
+      "tr": "Korumak / muhafaza etmek",
+      "kok": "ح م ي",
+      "vezin": "فَعَلَ (2. Bab)",
+      "turevler": [
+        "حِمَايَة",
+        "حَامٍ"
+      ],
+      "ekBilgi": "Nâkıs fiil → meczumda ي düşer: يَحْمِ",
+      "ornek": "مَنْ يَلْتَزِمْ بِالْقَوَاعِدِ يَحْمِ نَفْسَهُ.",
+      "ornekTr": "Kim kurallara uyarsa kendini korur.",
+      "kullanimNotu": "مِنْ ile 'bir tehlikeden korumak' anlamı verir.",
+      "tur": "Fiil",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc29",
+      "ar": "صَمَتَ — يَصْمُتُ",
+      "harekesiz": "صمت — يصمت",
+      "okunus": "Samete — yasmutu",
+      "tr": "Susmak / sessiz kalmak",
+      "kok": "ص م ت",
+      "vezin": "فَعَلَ (1. Bab)",
+      "turevler": [
+        "صَمْت",
+        "صَامِت"
+      ],
+      "ekBilgi": "فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ hadisinde geçer",
+      "ornek": "لِيَصْمُتِ الْجَمِيعُ أَثْنَاءَ التِّلَاوَةِ.",
+      "ornekTr": "Tilavet esnasında herkes sussun.",
+      "kullanimNotu": "1. bab (fetha → damme) fiildir.",
+      "tur": "Fiil",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc30",
+      "ar": "اِلْتَزَمَ — يَلْتَزِمُ بِـ",
+      "harekesiz": "التزم — يلتزم بـ",
+      "okunus": "İltezeme — yeltemizu bi-",
+      "tr": "Uymak / bağlı kalmak / riayet etmek",
+      "kok": "ل ز م",
+      "vezin": "اِفْتَعَلَ",
+      "turevler": [
+        "اِلْتِزَام",
+        "مُلْتَزِم"
+      ],
+      "ekBilgi": "بِـ harf-i ceriyle (بِالْقَوَاعِدِ / بِالْمَوْعِدِ) çok sık kullanılır",
+      "ornek": "لِيَلْتَزِمْ كُلُّ سَائِقٍ بِقَوَاعِدِ الْمُرُورِ!",
+      "ornekTr": "Her sürücü trafik kurallarına uysun!",
+      "kullanimNotu": "YDS'nin en popüler harf-i cerli fiillerindendir.",
+      "tur": "Fiil",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc31",
+      "ar": "تَسَرَّعَ — يَتَسَرَّعُ",
+      "harekesiz": "تسرع — يتسرع",
+      "okunus": "Teserra‘a — yeteserra‘u",
+      "tr": "Acele etmek / fevri davranmak",
+      "kok": "س ر ع",
+      "vezin": "تَفَعَّلَ",
+      "turevler": [
+        "تَسَرُّع",
+        "مُتَسَرِّع"
+      ],
+      "ekBilgi": "Genellikle olumsuz/uyarı bağlamında ('aceleci davranma') kullanılır",
+      "ornek": "لَا يَتَسَرَّعْ أَحَدٌ فِي اتِّخَاذِ الْقَرَارِ!",
+      "ornekTr": "Kimse karar vermede acele etmesin!",
+      "kullanimNotu": "فِي harf-i ceriyle kullanılır.",
+      "tur": "Fiil",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m16_fc32",
+      "ar": "كَسْرُ الْتِقَاءِ السَّاكِنَيْنِ",
+      "harekesiz": "كسر التقاء الساكنين",
+      "okunus": "Kesru'ltikâi's-sâkineyni",
+      "tr": "İki sükûn çakışması geçiş kesrası",
+      "kok": "س ك ن",
+      "vezin": "تَرْكِيب نَحْوِيّ",
+      "turevler": [
+        "لَمْ يَكْتُبِ الطَّالِبُ",
+        "لَمْ يَكُنِ الْجَوُّ"
+      ],
+      "ekBilgi": "Meczum fiilden sonra الْ takısı gelince fiil sonu kesra ile bağlanır",
+      "ornek": "لَمْ يَحْضُرِ الْمُدِيرُ الْيَوْمَ.",
+      "ornekTr": "Müdür bugün gelmedi.",
+      "kullanimNotu": "Bu kesra cer değil, yalnızca telaffuz kolaylığıdır!",
+      "tur": "Terim",
+      "moduleId": "16",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc01",
+      "ar": "فِعْلُ الْأَمْرِ",
+      "harekesiz": "فعل الأمر",
+      "okunus": "Fi‘lu'l-emri",
+      "tr": "Emir fiili (Emr-i Hâzır)",
+      "kok": "أ م ر",
+      "vezin": "فَعْل",
+      "turevler": [
+        "أَوَامِر",
+        "مَأْمُور"
+      ],
+      "ekBilgi": "Mebnîdir; muzârisinin cezmedildiği alâmet (sükûn / ن hazfi / illet hazfi) üzere mebnî olur",
+      "ornek": "اِقْرَأْ وَاكْتُبْ وَافْهَمْ!",
+      "ornekTr": "Oku, yaz ve anla!",
+      "kullanimNotu": "Sadece 6 muhatap şahsa çekilir!",
+      "tur": "Terim",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc02",
+      "ar": "هَمْزَةُ الْوَصْلِ",
+      "harekesiz": "همزة الوصل",
+      "okunus": "Hemzetu'l-vasli",
+      "tr": "Vasıl hemzesi (اُ / اِ)",
+      "kok": "و ص ل",
+      "vezin": "فَعْل",
+      "turevler": [
+        "اُكْتُبْ",
+        "اِفْتَحْ",
+        "اِجْلِسْ"
+      ],
+      "ekBilgi": "Üzerine hemze işareti (أ/إ) konmaz; geçişte düşer (وَاكْتُبْ = vektub)",
+      "ornek": "اِجْلِسْ وَاكْتُبِ الدَّرْسَ!",
+      "ornekTr": "Otur ve dersi yaz!",
+      "kullanimNotu": "Sülâsî emirde orta harf ـُ ise اُ, ـَ/ـِ ise اِ olur!",
+      "tur": "Terim",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc03",
+      "ar": "اُكْتُبْ / اُكْتُبِي / اُكْتُبُوا",
+      "harekesiz": "اكتب / اكتبي / اكتبوا",
+      "okunus": "Uktub / Uktubî / Uktubû",
+      "tr": "Yaz! / Yaz (K)! / Yazın!",
+      "kok": "ك ت ب",
+      "vezin": "اُفْعُلْ",
+      "turevler": [
+        "اُكْتُبَا",
+        "اُكْتُبْنَ"
+      ],
+      "ekBilgi": "1. bab (تَكْتُبُ — orta ـُ) → vasıl hemzesi dammeli (اُ)",
+      "ornek": "يَا طُلَّابُ، اُكْتُبُوا الْمُلَخَّصَ!",
+      "ornekTr": "Öğrenciler, özeti yazın!",
+      "kullanimNotu": "Dammeli vasıl hemzesi modelidir.",
+      "tur": "Fiil",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc04",
+      "ar": "اِفْتَحْ / اِفْتَحِي / اِفْتَحُوا",
+      "harekesiz": "افتح / افتحي / افتحوا",
+      "okunus": "İftah / İftahî / İftahû",
+      "tr": "Aç! / Aç (K)! / Açın!",
+      "kok": "ف ت ح",
+      "vezin": "اِفْعَلْ",
+      "turevler": [
+        "اِفْتَحَا",
+        "اِفْتَحْنَ"
+      ],
+      "ekBilgi": "3. bab (تَفْتَحُ — orta ـَ) → vasıl hemzesi KESRALI (اِ)!",
+      "ornek": "اِفْتَحِ النَّافِذَةَ مِنْ فَضْلِكَ!",
+      "ornekTr": "Lütfen pencereyi aç!",
+      "kullanimNotu": "Asla أَفْتَحْ diye fethalı okunmaz!",
+      "tur": "Fiil",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc05",
+      "ar": "اِجْلِسْ / اِجْلِسِي / اِجْلِسُوا",
+      "harekesiz": "اجلس / اجلسي / اجلسوا",
+      "okunus": "İclis / İclisî / İclisû",
+      "tr": "Otur! / Otur (K)! / Oturun!",
+      "kok": "ج ل س",
+      "vezin": "اِفْعِلْ",
+      "turevler": [
+        "اِجْلِسَا",
+        "اِجْلِسْنَ"
+      ],
+      "ekBilgi": "2. bab (تَجْلِسُ — orta ـِ) → vasıl hemzesi kesralı (اِ)",
+      "ornek": "تَفَضَّلْ وَاجْلِسْ هُنَا!",
+      "ornekTr": "Buyur ve buraya otur!",
+      "kullanimNotu": "Kesralı vasıl hemzesi modelidir.",
+      "tur": "Fiil",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc06",
+      "ar": "اِقْرَأْ / اِقْرَئِي / اِقْرَؤُوا",
+      "harekesiz": "اقرأ / اقرئي / اقرؤوا",
+      "okunus": "İkra' / İkraî / İkraû",
+      "tr": "Oku! / Oku (K)! / Okuyun!",
+      "kok": "ق ر أ",
+      "vezin": "اِفْعَلْ",
+      "turevler": [
+        "اِقْرَآ",
+        "اِقْرَأْنَ"
+      ],
+      "ekBilgi": "Kur'an'ın ilk emri; 3. bab (تَقْرَأُ) → kesralı vasıl hemzesi",
+      "ornek": "اِقْرَأْ بِاسْمِ رَبِّكَ!",
+      "ornekTr": "Rabbinin adıyla oku!",
+      "kullanimNotu": "Sonundaki hemze şahsa göre أ / ئ / ؤ üzerinde oturur.",
+      "tur": "Fiil",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc07",
+      "ar": "قُلْ / قُولِي / قُولُوا",
+      "harekesiz": "قل / قولي / قولوا",
+      "okunus": "Kul / Kûlî / Kûlû",
+      "tr": "Söyle! / Söyle (K)! / Söyleyin!",
+      "kok": "ق و ل",
+      "vezin": "فُلْ (أَجْوَف)",
+      "turevler": [
+        "قُولَا",
+        "قُلْنَ"
+      ],
+      "ekBilgi": "Tekilde و düşer (قُلْ), أَنْتِ/أَنْتُمْ'da geri döner (قُولِي/قُولُوا)!",
+      "ornek": "قُلِ الْحَقَّ وَلَوْ كَانَ مُرًّا!",
+      "ornekTr": "Acı da olsa doğruyu söyle!",
+      "kullanimNotu": "Hemzesiz ecvef emirlerin kralıdır.",
+      "tur": "Fiil",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc08",
+      "ar": "كُنْ / كُونِي / كُونُوا",
+      "harekesiz": "كن / كوني / كونوا",
+      "okunus": "Kun / Kûnî / Kûnû",
+      "tr": "Ol! / Ol (K)! / Olun!",
+      "kok": "ك و ن",
+      "vezin": "فُلْ (أَجْوَف)",
+      "turevler": [
+        "كُونَا",
+        "كُنَّ"
+      ],
+      "ekBilgi": "كَانَ fiilinin emri; haberi mansub gelir: كُنْ صَادِقًا!",
+      "ornek": "كُنْ صَبُورًا وَمُتَفَائِلًا!",
+      "ornekTr": "Sabırlı ve iyimser ol!",
+      "kullanimNotu": "أَنْتُنَّ şahsında iki ن şeddelenir: كُنَّ!",
+      "tur": "Fiil",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc09",
+      "ar": "قُمْ / قُومِي / قُومُوا",
+      "harekesiz": "قم / قومي / قوموا",
+      "okunus": "Kum / Kûmî / Kûmû",
+      "tr": "Kalk! / (بِـ ile) Yap!",
+      "kok": "ق و م",
+      "vezin": "فُلْ (أَجْوَف)",
+      "turevler": [
+        "قُومَا",
+        "قُمْنَ"
+      ],
+      "ekBilgi": "بِـ ile gelirse 'yapmak/gerçekleştirmek' (قُمْ بِالتَّمَارِينِ) demektir!",
+      "ornek": "قُمْ بِتَمَارِينَ الْإِحْمَاءِ أَوَّلًا!",
+      "ornekTr": "Önce ısınma egzersizlerini yap!",
+      "kullanimNotu": "Çok kullanışlı bir akademik ve günlük fiildir.",
+      "tur": "Fiil",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc10",
+      "ar": "نَمْ / نَامِي / نَامُوا",
+      "harekesiz": "نم / نامي / ناموا",
+      "okunus": "Nem / Nâmî / Nâmû",
+      "tr": "Uyu! / Uyu (K)! / Uyuyun!",
+      "kok": "ن و م",
+      "vezin": "فَلْ (أَجْوَف)",
+      "turevler": [
+        "نَامَا",
+        "نَمْنَ"
+      ],
+      "ekBilgi": "تَنَامُ → tekilde ا düşer (نَمْ), çoğulda döner (نَامُوا)",
+      "ornek": "نَمْ مُبَكِّرًا كَيْ تَسْتَيْقِظَ نَشِيطًا!",
+      "ornekTr": "Dinç uyanmak için erken uyu!",
+      "kullanimNotu": "Nehyi: لَا تَنَمْ / لَا تَنَامُوا.",
+      "tur": "Fiil",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc11",
+      "ar": "سِرْ / سِيرِي / سِيرُوا",
+      "harekesiz": "سر / سيري / سيروا",
+      "okunus": "Sir / Sîrî / Sîrû",
+      "tr": "Yürü! / Git! / İlerle!",
+      "kok": "س ي ر",
+      "vezin": "فِلْ (أَجْوَف)",
+      "turevler": [
+        "سِيرَا",
+        "سِرْنَ"
+      ],
+      "ekBilgi": "Yol tariflerinde 'Dümdüz git!': سِرْ مُبَاشَرَةً!",
+      "ornek": "سِرْ مُبَاشَرَةً ثُمَّ انْعَطِفْ يَمِينًا!",
+      "ornekTr": "Dümdüz git, sonra sağa dön!",
+      "kullanimNotu": "بِعْ (Sat!) da aynı ي'li ecvef modelidir.",
+      "tur": "Fiil",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc12",
+      "ar": "خُذْ / خُذِي / خُذُوا",
+      "harekesiz": "خذ / خذي / خذوا",
+      "okunus": "Huz / Huzî / Huzû",
+      "tr": "Al! / Al (K)! / Alın!",
+      "kok": "أ خ ذ",
+      "vezin": "عُلْ (مَهْمُوز)",
+      "turevler": [
+        "خُذَا",
+        "خُذْنَ"
+      ],
+      "ekBilgi": "أَخَذَ fiilinin özel kısa emridir (hemze düşmüştür); nehyinde döner: لَا تَأْخُذْ!",
+      "ornek": "خُذْ مِظَلَّتَكَ مَعَكَ!",
+      "ornekTr": "Şemsiyeni yanına al!",
+      "kullanimNotu": "خُذْ بِالْأَسْبَابِ = Sebeplere sarıl!",
+      "tur": "Fiil",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc13",
+      "ar": "كُلْ / كُلِي / كُلُوا",
+      "harekesiz": "كل / كلي / كلوا",
+      "okunus": "Kul / Kulî / Kulû",
+      "tr": "Ye! / Ye (K)! / Yiyin!",
+      "kok": "أ ك ل",
+      "vezin": "عُلْ (مَهْمُوز)",
+      "turevler": [
+        "كُلَا",
+        "كُلْنَ"
+      ],
+      "ekBilgi": "أَكَلَ fiilinin özel kısa emri; nehyinde hemze döner: لَا تَأْكُلْ!",
+      "ornek": "كُلْ خُضْرَاوَاتٍ وَفَوَاكِهَ طَازَجَةً!",
+      "ornekTr": "Taze sebze ve meyve ye!",
+      "kullanimNotu": "قُلْ (kalın k: Söyle!) ile كُلْ (ince k: Ye!) ses farkına dikkat!",
+      "tur": "Fiil",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc14",
+      "ar": "قِفْ / قِفِي / قِفُوا",
+      "harekesiz": "قف / قفي / قفوا",
+      "okunus": "Kıf / Kıfî / Kıfû",
+      "tr": "Dur! / Ayakta dur!",
+      "kok": "و ق ف",
+      "vezin": "عِلْ (مِثَال)",
+      "turevler": [
+        "قِفَا",
+        "قِفْنَ"
+      ],
+      "ekBilgi": "Trafik levhasında 'DUR!' = قِفْ! (وَقَفَ → تَقِفُ → قِفْ)",
+      "ornek": "قِفْ هُنَا لَحْظَةً مِنْ فَضْلِكَ!",
+      "ornekTr": "Lütfen burada bir dakika dur!",
+      "kullanimNotu": "Hemzesiz misâl emridir.",
+      "tur": "Fiil",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc15",
+      "ar": "ضَعْ / ضَعِي / ضَعُوا",
+      "harekesiz": "ضع / ضعي / ضعوا",
+      "okunus": "Da‘ / Da‘î / Da‘û",
+      "tr": "Koy! / Yerleştir!",
+      "kok": "و ض ع",
+      "vezin": "عَلْ (مِثَال)",
+      "turevler": [
+        "ضَعَا",
+        "ضَعْنَ"
+      ],
+      "ekBilgi": "وَضَعَ → تَضَعُ → ضَعْ (و ve hemze yok!)",
+      "ornek": "ضَعِ الْمَفَاتِيحَ عَلَى الطَّاوِلَةِ!",
+      "ornekTr": "Anahtarları masaya koy!",
+      "kullanimNotu": "Günlük evde/sınıfta çok sık kullanılır.",
+      "tur": "Fiil",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc16",
+      "ar": "اُدْعُ / اُدْعِي / اُدْعُوا",
+      "harekesiz": "ادع / ادعي / ادعوا",
+      "okunus": "Ud‘u / Ud‘î / Ud‘û",
+      "tr": "Dua et! / Davet et! / Çağır!",
+      "kok": "د ع و",
+      "vezin": "اُفْعُ (نَاقِص)",
+      "turevler": [
+        "اُدْعُوَا",
+        "اُدْعُونَ"
+      ],
+      "ekBilgi": "Tekil erilde و düşer, damme kalır: اُدْعُ!",
+      "ornek": "اُدْعُ اللّٰهَ بِإِخْلَاصٍ!",
+      "ornekTr": "Allah'a samimiyetle dua et!",
+      "kullanimNotu": "لِـ ile 'birine dua etmek' (اُدْعُ لِي = bana dua et!).",
+      "tur": "Fiil",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc17",
+      "ar": "اِمْشِ / اِمْشِي / اِمْشُوا",
+      "harekesiz": "امش / امشي / امشوا",
+      "okunus": "İmşi / İmşî / İmşû",
+      "tr": "Yürü! / Yürüyün!",
+      "kok": "م ش ي",
+      "vezin": "اِفْعِ (نَاقِص)",
+      "turevler": [
+        "اِمْشِيَا",
+        "اِمْشِينَ"
+      ],
+      "ekBilgi": "Tekil erilde ي düşer, kısa kesra kalır: اِمْشِ!",
+      "ornek": "اِمْشِ فِي طَرِيقِ الْخَيْرِ!",
+      "ornekTr": "Hayır yolunda yürü!",
+      "kullanimNotu": "اِمْشِي (uzun ي) sadece kadına (أَنْتِ) söylenir!",
+      "tur": "Fiil",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc18",
+      "ar": "أَعْطِ / أَعْطِي / أَعْطُوا",
+      "harekesiz": "أعط / أعطي / أعطوا",
+      "okunus": "A‘tı / A‘tî / A‘tû",
+      "tr": "Ver! / Ver (K)! / Verin!",
+      "kok": "ع ط و",
+      "vezin": "أَفْعِ (IV + نَاقِص)",
+      "turevler": [
+        "أَعْطِنِي",
+        "أَعْطُونِي"
+      ],
+      "ekBilgi": "IV. bab olduğu için fethalı kat' hemzesi (أَ) + tekilde ي düşer!",
+      "ornek": "أَعْطِنِي الْقَلَمَ مِنْ فَضْلِكَ!",
+      "ornekTr": "Lütfen bana kalemi ver!",
+      "kullanimNotu": "Erkeğe أَعْطِنِي, kadına أَعْطِينِي!",
+      "tur": "Fiil",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc19",
+      "ar": "أَغْلِقْ / أَغْلِقِي / أَغْلِقُوا",
+      "harekesiz": "أغلق / أغلقي / أغلقوا",
+      "okunus": "Aglık / Aglıkî / Aglıkû",
+      "tr": "Kapat! / Kapatın!",
+      "kok": "غ ل ق",
+      "vezin": "أَفْعِلْ (IV. Bab)",
+      "turevler": [
+        "إِغْلَاق",
+        "مُغْلَق"
+      ],
+      "ekBilgi": "IV. bab emri fethalı kat' hemzesiyle (أَ) başlar!",
+      "ornek": "أَغْلِقِ الْبَابَ قَبْلَ الْخُرُوجِ!",
+      "ornekTr": "Çıkmadan önce kapıyı kapat!",
+      "kullanimNotu": "اِفْتَحْ (Aç!) fiilinin zıt anlamlısıdır.",
+      "tur": "Fiil",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc20",
+      "ar": "أَرْسِلْ / أَرْسِلِي / أَرْسِلُوا",
+      "harekesiz": "أرسل / أرسلي / أرسلوا",
+      "okunus": "Ersil / Ersilî / Ersilû",
+      "tr": "Gönder! / Yolla!",
+      "kok": "ر س ل",
+      "vezin": "أَفْعِلْ (IV. Bab)",
+      "turevler": [
+        "إِرْسَال",
+        "رِسَالَة"
+      ],
+      "ekBilgi": "IV. bab → fethalı kat' hemzesi (أَ)",
+      "ornek": "أَرْسِلْ لَنَا أَخْبَارَكَ كُلَّ أُسْبُوعٍ!",
+      "ornekTr": "Her hafta bize haberlerini gönder!",
+      "kullanimNotu": "İletişimde en sık kullanılan IV. bab emridir.",
+      "tur": "Fiil",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc21",
+      "ar": "أَجِبْ / أَجِيبِي / أَجِيبُوا",
+      "harekesiz": "أجب / أجيبي / أجيبوا",
+      "okunus": "Ecib / Ecîbî / Ecîbû",
+      "tr": "Cevapla! / Cevap ver!",
+      "kok": "ج و ب",
+      "vezin": "أَفِلْ (IV + أَجْوَف)",
+      "turevler": [
+        "إِجَابَة",
+        "جَوَاب"
+      ],
+      "ekBilgi": "عَنْ harf-i ceriyle kullanılır: أَجِبْ عَنِ السُّؤَالِ!",
+      "ornek": "أَجِيبُوا عَنِ الْأَسْئِلَةِ التَّالِيَةِ!",
+      "ornekTr": "Aşağıdaki soruları cevaplayın!",
+      "kullanimNotu": "Sınav yönergelerinin 1 numaralı emridir!",
+      "tur": "Fiil",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc22",
+      "ar": "تَفَضَّلْ / تَفَضَّلِي / تَفَضَّلُوا",
+      "harekesiz": "تفضل / تفضلي / تفضلوا",
+      "okunus": "Tefaddal / Tefaddalî / Tefaddalû",
+      "tr": "Buyur! / Buyurun!",
+      "kok": "ف ض ل",
+      "vezin": "تَفَعَّلْ",
+      "turevler": [
+        "فَضْل",
+        "مِنْ فَضْلِكَ"
+      ],
+      "ekBilgi": "İkram, içeri davet, oturma ve söz vermede en zarif Arapça ifadedir",
+      "ornek": "تَفَضَّلُوا بِالْجُلُوسِ وَاشْرَبُوا الْقَهْوَةَ!",
+      "ornekTr": "Buyurun oturun ve kahve için!",
+      "kullanimNotu": "V. bab hemzesiz emirdir.",
+      "tur": "Kalıp",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc23",
+      "ar": "تَعَالَ / تَعَالَيْ / تَعَالَوْا",
+      "harekesiz": "تعال / تعالي / تعالوا",
+      "okunus": "Te‘âle / Te‘âley / Te‘âlev",
+      "tr": "Gel! / Gel (K)! / Gelin!",
+      "kok": "ع ل و",
+      "vezin": "تَفَاعَلَ (أَمْر)",
+      "turevler": [
+        "تَعَالَيَا",
+        "تَعَالَيْنَ"
+      ],
+      "ekBilgi": "Fasîh Arapçada لَ harfi her şahısta FETHALIDIR!",
+      "ornek": "تَعَالَ مَعِي إِلَى الْمَكْتَبَةِ!",
+      "ornekTr": "Benimle kütüphaneye gel!",
+      "kullanimNotu": "Günlük diyalogların vazgeçilmez çağrı fiilidir.",
+      "tur": "Fiil",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc24",
+      "ar": "هَاتِ / هَاتِي / هَاتُوا",
+      "harekesiz": "هات / هاتي / هاتوا",
+      "okunus": "Hâti / Hâtî / Hâtû",
+      "tr": "Getir! / Ver! / Getirin!",
+      "kok": "ه و ت",
+      "vezin": "فِعْلُ أَمْرٍ خَاصٌّ",
+      "turevler": [
+        "هَاتِيَا",
+        "هَاتِينَ"
+      ],
+      "ekBilgi": "Erkeğe kısa kesra (هَاتِ), kadına uzun (هَاتِي), çoğula هَاتُوا!",
+      "ornek": "هَاتُوا أَفْكَارَكُمُ الْجَدِيدَةَ!",
+      "ornekTr": "Yeni fikirlerinizi getirin!",
+      "kullanimNotu": "Mâzi ve muzârisi kullanılmaz, sadece emir olarak yaşar!",
+      "tur": "Fiil",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc25",
+      "ar": "هَيَّا بِنَا!",
+      "harekesiz": "هيا بنا",
+      "okunus": "Heyyâ binâ!",
+      "tr": "Haydi (gidelim / başlayalım)!",
+      "kok": "ه ي أ",
+      "vezin": "اِسْمُ فِعْلِ أَمْرٍ",
+      "turevler": [
+        "هَيَّا",
+        "هَيَّا إِلَى الْعَمَلِ"
+      ],
+      "ekBilgi": "İsim-fiil emirdir; cinsiyete/sayıya göre değişmez",
+      "ornek": "هَيَّا بِنَا نَبْدَأُ الرِّحْلَةَ!",
+      "ornekTr": "Haydi yolculuğa başlayalım!",
+      "kullanimNotu": "فَلْنَبْدَأْ ile harika uyum sağlar.",
+      "tur": "Kalıp",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc26",
+      "ar": "لَوْ سَمَحْتَ / لَوْ سَمَحْتِ",
+      "harekesiz": "لو سمحت",
+      "okunus": "Lev semahte / Lev semahti",
+      "tr": "Müsaadenizle / Lütfen",
+      "kok": "س م ح",
+      "vezin": "عِبَارَةُ أَدَبٍ",
+      "turevler": [
+        "لَوْ سَمَحْتُمْ",
+        "سَمَاح"
+      ],
+      "ekBilgi": "Kibar rica ve dikkat çekme ('Affedersiniz / Müsaadenizle') kalıbıdır",
+      "ornek": "لَوْ سَمَحْتَ، أَيْنَ مَحَطَّةُ الْمِتْرُو؟",
+      "ornekTr": "Müsaadenizle, metro istasyonu nerede?",
+      "kullanimNotu": "Erkeğe ـتَ, kadına ـتِ, çoğula ـتُمْ!",
+      "tur": "Kalıp",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc27",
+      "ar": "مِنْ فَضْلِكَ / مِنْ فَضْلِكِ",
+      "harekesiz": "من فضلك",
+      "okunus": "Min fadlike / Min fadliki",
+      "tr": "Lütfen",
+      "kok": "ف ض ل",
+      "vezin": "عِبَارَةُ أَدَبٍ",
+      "turevler": [
+        "مِنْ فَضْلِكُمْ",
+        "فَضْلًا"
+      ],
+      "ekBilgi": "Her emri anında nazik bir ricaya dönüştürür",
+      "ornek": "أَغْلِقِ النَّافِذَةَ مِنْ فَضْلِكَ!",
+      "ornekTr": "Lütfen pencereyi kapat!",
+      "kullanimNotu": "Cümle başında veya sonunda kullanılabilir.",
+      "tur": "Kalıp",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc28",
+      "ar": "دُلَّنِي عَلَى",
+      "harekesiz": "دلني على",
+      "okunus": "Dullenî ‘alâ",
+      "tr": "Bana ...-yı göster / tarif et!",
+      "kok": "د ل ل",
+      "vezin": "فُعَّ (مُضَعَّف)",
+      "turevler": [
+        "دَلِيل",
+        "دَلَالَة"
+      ],
+      "ekBilgi": "دَلَّ — يَدُلُّ عَلَى (yol göstermek) muzaaf fiilinin emridir",
+      "ornek": "دُلَّنِي عَلَى طَرِيقِ الْمَحَطَّةِ مِنْ فَضْلِكَ!",
+      "ornekTr": "Lütfen bana istasyonun yolunu göster!",
+      "kullanimNotu": "عَلَى harf-i ceriyle kullanılır.",
+      "tur": "Kalıp",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc29",
+      "ar": "اِنْعَطِفْ يَمِينًا / يَسَارًا",
+      "harekesiz": "انعطف يمينا / يسارا",
+      "okunus": "İn‘atıf yemînen / yesâran",
+      "tr": "Sağa / sola dön!",
+      "kok": "ع ط ف",
+      "vezin": "اِنْفَعِلْ",
+      "turevler": [
+        "مُنْعَطَف",
+        "اِنْعِطَاف"
+      ],
+      "ekBilgi": "Yol tarifinin temel emir kalıbıdır",
+      "ornek": "اِنْعَطِفْ يَسَارًا بَعْدَ إِشَارَةِ الْمُرُورِ!",
+      "ornekTr": "Trafik ışığından sonra sola dön!",
+      "kullanimNotu": "VII. bab kesralı vasıl hemzesi.",
+      "tur": "Kalıp",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc30",
+      "ar": "لَا تَخَفْ / لَا تَخَافِي / لَا تَخَافُوا",
+      "harekesiz": "لا تخف / لا تخافي / لا تخافوا",
+      "okunus": "Lâ tehaf / Lâ tehâfî / Lâ tehâfû",
+      "tr": "Korkma! / Korkmayın!",
+      "kok": "خ و ف",
+      "vezin": "لَا تَفَلْ (أَجْوَف)",
+      "turevler": [
+        "خَوْف",
+        "خَائِف"
+      ],
+      "ekBilgi": "Tekilde ا düşer (لَا تَخَفْ), dişil/çoğulda döner (لَا تَخَافِي / لَا تَخَافُوا)",
+      "ornek": "لَا تَخَفْ وَلَا تَحْزَنْ!",
+      "ornekTr": "Korkma ve üzülme!",
+      "kullanimNotu": "Kur'an ve günlük teselli dilinin klasik kalıbıdır.",
+      "tur": "Fiil",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc31",
+      "ar": "لَا تَنْسَ / لَا تَنْسَيْ / لَا تَنْسَوْا",
+      "harekesiz": "لا تنس / لا تنسي / لا تنسوا",
+      "okunus": "Lâ tense / Lâ tensey / Lâ tensev",
+      "tr": "Unutma! / Unutmayın!",
+      "kok": "ن س ي",
+      "vezin": "لَا تَفْعَ (نَاقِص)",
+      "turevler": [
+        "نِسْيَان",
+        "اِنْسَ"
+      ],
+      "ekBilgi": "Tekil erilde ى düşer: لَا تَنْسَ!",
+      "ornek": "لَا تَنْسَ جَوَازَ السَّفَرِ!",
+      "ornekTr": "Pasaportu unutma!",
+      "kullanimNotu": "أَنْ + muzâri ile ('...-mayı unutma!') çok kullanılır.",
+      "tur": "Fiil",
+      "moduleId": "17",
+      "cefr": "A2"
+    },
+    {
+      "id": "m17_fc32",
+      "ar": "اِسْتَرِحْ / اِسْتَرِيحِي / اِسْتَرِيحُوا",
+      "harekesiz": "استرح / استريحي / استريحوا",
+      "okunus": "İsterih / İsterîhî / İsterîhû",
+      "tr": "Dinlen! / Dinlenin!",
+      "kok": "ر و ح",
+      "vezin": "اِسْتَفِلْ (X + أَجْوَف)",
+      "turevler": [
+        "اِسْتِرَاحَة",
+        "رَاحَة"
+      ],
+      "ekBilgi": "X. bab ecvef emri: tekilde ي düşer (اِسْتَرِحْ), çoğulda döner (اِسْتَرِيحُوا)",
+      "ornek": "اِسْتَرِحْ قَلِيلًا بَعْدَ هٰذَا الْعَمَلِ الطَّوِيلِ!",
+      "ornekTr": "Bu uzun işten sonra biraz dinlen!",
+      "kullanimNotu": "مُرِيحٌ = rahat / konforlu.",
+      "tur": "Fiil",
+      "moduleId": "17",
       "cefr": "A2"
     }
   ]

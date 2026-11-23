@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-23T07:26:30.003Z",
-  "totalItems": 585,
+  "generatedAt": "2026-11-23T07:48:29.978Z",
+  "totalItems": 696,
   "items": [
     {
       "id": "search_mod_01",
@@ -5606,6 +5606,1101 @@
       "subtitle": "Gramer Kuralı · M14",
       "ar": "إِعْرَابُ الْأَفْعَالِ الْخَمْسَةِ: ثُبُوتُ النُّونِ وَحَذْفُهَا",
       "keywords": "Ref': ن VAR (يَكْتُبُونَ / تَكْتُبِينَ)  |  Nasb (أَنْ/لَنْ) & Cezm (لَمْ/لَا): ن DÜŞER! (لَنْ يَكْتُبُوا / لَمْ تَكْتُبِي) Modül 15 ve 16'ya geçmeden önce en büyük süper gücünü şimdiden kuşanıyorsun! Normal muzâri (`يَكْتُبُ`) ref'te damme (`ي"
+    },
+    {
+      "id": "search_card_m15_fc01",
+      "type": "card",
+      "moduleId": "15",
+      "title": "-mek / -mak / -mesi (Mastar edatı) (En)",
+      "subtitle": "SRS Kartı · M15 · Kök: ح ر ف",
+      "ar": "أَنْ",
+      "kok": "ح ر ف",
+      "keywords": "أن حَرْفُ نَصْبٍ Edat"
+    },
+    {
+      "id": "search_card_m15_fc02",
+      "type": "card",
+      "moduleId": "15",
+      "title": "Asla -meyecek (Kesin gelecek olumsuzluğu) (Len)",
+      "subtitle": "SRS Kartı · M15 · Kök: ح ر ف",
+      "ar": "لَنْ",
+      "kok": "ح ر ف",
+      "keywords": "لن حَرْفُ نَفْيٍ وَنَصْبٍ Edat"
+    },
+    {
+      "id": "search_card_m15_fc03",
+      "type": "card",
+      "moduleId": "15",
+      "title": "-mek için / -sin diye (Amaç) (Key / Li-key)",
+      "subtitle": "SRS Kartı · M15 · Kök: ح ر ف",
+      "ar": "كَيْ / لِكَيْ",
+      "kok": "ح ر ف",
+      "keywords": "كي / لكي حَرْفُ تَعْلِيلٍ Edat"
+    },
+    {
+      "id": "search_card_m15_fc04",
+      "type": "card",
+      "moduleId": "15",
+      "title": "O hâlde / Öyleyse (Cevap edatı) (İzen)",
+      "subtitle": "SRS Kartı · M15 · Kök: ح ر ف",
+      "ar": "إِذَنْ",
+      "kok": "ح ر ف",
+      "keywords": "إذن حَرْفُ جَوَابٍ Edat"
+    },
+    {
+      "id": "search_card_m15_fc05",
+      "type": "card",
+      "moduleId": "15",
+      "title": "-mek için / -sin diye (Gerekçe lâmı) (Lâmu't-ta‘lîl)",
+      "subtitle": "SRS Kartı · M15 · Kök: ع ل ل",
+      "ar": "لَامُ التَّعْلِيلِ (لِـ)",
+      "kok": "ع ل ل",
+      "keywords": "لام التعليل تَعْلِيل Terim"
+    },
+    {
+      "id": "search_card_m15_fc06",
+      "type": "card",
+      "moduleId": "15",
+      "title": "-inceye kadar / -sin diye (Hattâ)",
+      "subtitle": "SRS Kartı · M15 · Kök: ح ر ف",
+      "ar": "حَتَّى",
+      "kok": "ح ر ف",
+      "keywords": "حتى حَرْفُ غَايَةٍ Edat"
+    },
+    {
+      "id": "search_card_m15_fc07",
+      "type": "card",
+      "moduleId": "15",
+      "title": "-memesi / -maması (أَنْ + لَا) (Ellâ)",
+      "subtitle": "SRS Kartı · M15 · Kök: ح ر ف",
+      "ar": "أَلَّا",
+      "kok": "ح ر ف",
+      "keywords": "ألا أَنْ + لَا Edat"
+    },
+    {
+      "id": "search_card_m15_fc08",
+      "type": "card",
+      "moduleId": "15",
+      "title": "-memek için / -mesin diye (لِـ + أَنْ + لَا) (Li-ellâ)",
+      "subtitle": "SRS Kartı · M15 · Kök: ح ر ف",
+      "ar": "لِئَلَّا",
+      "kok": "ح ر ف",
+      "keywords": "لئلا لِـ + أَنْ + لَا Edat"
+    },
+    {
+      "id": "search_card_m15_fc09",
+      "type": "card",
+      "moduleId": "15",
+      "title": "-memek için / -masın diye (Li-keylâ)",
+      "subtitle": "SRS Kartı · M15 · Kök: ح ر ف",
+      "ar": "لِكَيْلَا",
+      "kok": "ح ر ف",
+      "keywords": "لكيلا لِـ + كَيْ + لَا Edat"
+    },
+    {
+      "id": "search_card_m15_fc10",
+      "type": "card",
+      "moduleId": "15",
+      "title": "Müevvel mastar (أَنْ + muzâri) (El-masdaru'l-muevvelu)",
+      "subtitle": "SRS Kartı · M15 · Kök: أ و ل",
+      "ar": "الْمَصْدَرُ الْمُؤَوَّلُ",
+      "kok": "أ و ل",
+      "keywords": "المصدر المؤول مُفَعَّل Terim"
+    },
+    {
+      "id": "search_card_m15_fc11",
+      "type": "card",
+      "moduleId": "15",
+      "title": "Sebep fâsı (ki ... olsun) (Fâu's-sebebiyyeti)",
+      "subtitle": "SRS Kartı · M15 · Kök: س ب ب",
+      "ar": "فَاءُ السَّبَبِيَّةِ",
+      "kok": "س ب ب",
+      "keywords": "فاء السببية فَعَلِيَّة Terim"
+    },
+    {
+      "id": "search_card_m15_fc12",
+      "type": "card",
+      "moduleId": "15",
+      "title": "Kuvvetli inkâr lâmı (asla ... değildir) (Lâmu'l-cuhûdi)",
+      "subtitle": "SRS Kartı · M15 · Kök: ج ح د",
+      "ar": "لَامُ الْجُحُودِ",
+      "kok": "ج ح د",
+      "keywords": "لام الجحود فُعُول Terim"
+    },
+    {
+      "id": "search_card_m15_fc13",
+      "type": "card",
+      "moduleId": "15",
+      "title": "...-mesi gerekir / -meli (Yecibu en)",
+      "subtitle": "SRS Kartı · M15 · Kök: و ج ب",
+      "ar": "يَجِبُ أَنْ",
+      "kok": "و ج ب",
+      "keywords": "يجب أن يَفْعِلُ Kalıp"
+    },
+    {
+      "id": "search_card_m15_fc14",
+      "type": "card",
+      "moduleId": "15",
+      "title": "...-ebilir / olması mümkün (Yumkinu en)",
+      "subtitle": "SRS Kartı · M15 · Kök: م ك ن",
+      "ar": "يُمْكِنُ أَنْ",
+      "kok": "م ك ن",
+      "keywords": "يمكن أن يُفْعِلُ Kalıp"
+    },
+    {
+      "id": "search_card_m15_fc15",
+      "type": "card",
+      "moduleId": "15",
+      "title": "-meden önce (Kable en)",
+      "subtitle": "SRS Kartı · M15 · Kök: ق ب ل",
+      "ar": "قَبْلَ أَنْ",
+      "kok": "ق ب ل",
+      "keywords": "قبل أن فَعْل Kalıp"
+    },
+    {
+      "id": "search_card_m15_fc16",
+      "type": "card",
+      "moduleId": "15",
+      "title": "-dikten sonra (Ba‘de en)",
+      "subtitle": "SRS Kartı · M15 · Kök: ب ع د",
+      "ar": "بَعْدَ أَنْ",
+      "kok": "ب ع د",
+      "keywords": "بعد أن فَعْل Kalıp"
+    },
+    {
+      "id": "search_card_m15_fc17",
+      "type": "card",
+      "moduleId": "15",
+      "title": "-meksizin / -meden (Dûne en / Bi-dûni en)",
+      "subtitle": "SRS Kartı · M15 · Kök: د و ن",
+      "ar": "دُونَ أَنْ / بِدُونِ أَنْ",
+      "kok": "د و ن",
+      "keywords": "دون أن / بدون أن فَعْل Kalıp"
+    },
+    {
+      "id": "search_card_m15_fc18",
+      "type": "card",
+      "moduleId": "15",
+      "title": "-mek yerine (Bedelen min en)",
+      "subtitle": "SRS Kartı · M15 · Kök: ب د ل",
+      "ar": "بَدَلًا مِنْ أَنْ",
+      "kok": "ب د ل",
+      "keywords": "بدلا من أن فَعَلًا Kalıp"
+    },
+    {
+      "id": "search_card_m15_fc19",
+      "type": "card",
+      "moduleId": "15",
+      "title": "Yapabilmek / gücü yetmek (İstatâ‘a — yestatî‘u)",
+      "subtitle": "SRS Kartı · M15 · Kök: ط و ع",
+      "ar": "اِسْتَطَاعَ — يَسْتَطِيعُ",
+      "kok": "ط و ع",
+      "keywords": "استطاع — يستطيع اِسْتَفْعَلَ Fiil"
+    },
+    {
+      "id": "search_card_m15_fc20",
+      "type": "card",
+      "moduleId": "15",
+      "title": "Dilemek / temenni etmek (Temennâ — yetemennâ)",
+      "subtitle": "SRS Kartı · M15 · Kök: م ن ي",
+      "ar": "تَمَنَّى — يَتَمَنَّى",
+      "kok": "م ن ي",
+      "keywords": "تمنى — يتمنى تَفَعَّلَ Fiil"
+    },
+    {
+      "id": "search_card_m15_fc21",
+      "type": "card",
+      "moduleId": "15",
+      "title": "Rica etmek / ummak (Racâ — yercû)",
+      "subtitle": "SRS Kartı · M15 · Kök: ر ج و",
+      "ar": "رَجَا — يَرْجُو",
+      "kok": "ر ج و",
+      "keywords": "رجا — يرجو فَعَلَ (1. Bab) Fiil"
+    },
+    {
+      "id": "search_card_m15_fc22",
+      "type": "card",
+      "moduleId": "15",
+      "title": "Özen göstermek / dikkat etmek (Harasa — yahrısu ‘alâ)",
+      "subtitle": "SRS Kartı · M15 · Kök: ح ر ص",
+      "ar": "حَرَصَ — يَحْرِصُ عَلَى",
+      "kok": "ح ر ص",
+      "keywords": "حرص — يحرص على فَعَلَ (2. Bab) Fiil"
+    },
+    {
+      "id": "search_card_m15_fc23",
+      "type": "card",
+      "moduleId": "15",
+      "title": "Pes etmek / teslim olmak (İstesleme — yesteslimu)",
+      "subtitle": "SRS Kartı · M15 · Kök: س ل م",
+      "ar": "اِسْتَسْلَمَ — يَسْتَسْلِمُ",
+      "kok": "س ل م",
+      "keywords": "استسلم — يستسلم اِسْتَفْعَلَ Fiil"
+    },
+    {
+      "id": "search_card_m15_fc24",
+      "type": "card",
+      "moduleId": "15",
+      "title": "Pişman olmak (Nedime — yendemu ‘alâ)",
+      "subtitle": "SRS Kartı · M15 · Kök: ن د م",
+      "ar": "نَدِمَ — يَنْدَمُ عَلَى",
+      "kok": "ن د م",
+      "keywords": "ندم — يندم على فَعِلَ (4. Bab) Fiil"
+    },
+    {
+      "id": "search_card_m15_fc25",
+      "type": "card",
+      "moduleId": "15",
+      "title": "İhmal etmek / savsaklamak (Ehmele — yuhmilu)",
+      "subtitle": "SRS Kartı · M15 · Kök: ه م ل",
+      "ar": "أَهْمَلَ — يُهْمِلُ",
+      "kok": "ه م ل",
+      "keywords": "أهمل — يهمل أَفْعَلَ Fiil"
+    },
+    {
+      "id": "search_card_m15_fc26",
+      "type": "card",
+      "moduleId": "15",
+      "title": "Tereddüt etmek (Tereddede — yetereddedu fî)",
+      "subtitle": "SRS Kartı · M15 · Kök: ر د د",
+      "ar": "تَرَدَّدَ — يَتَرَدَّدُ فِي",
+      "kok": "ر د د",
+      "keywords": "تردد — يتردد في تَفَعَّلَ Fiil"
+    },
+    {
+      "id": "search_card_m15_fc27",
+      "type": "card",
+      "moduleId": "15",
+      "title": "Durmak / vazgeçmek / bırakmak (Tevakkafe — yetevakkafu ‘an)",
+      "subtitle": "SRS Kartı · M15 · Kök: و ق ف",
+      "ar": "تَوَقَّفَ — يَتَوَقَّفُ عَنْ",
+      "kok": "و ق ف",
+      "keywords": "توقف — يتوقف عن تَفَعَّلَ Fiil"
+    },
+    {
+      "id": "search_card_m15_fc28",
+      "type": "card",
+      "moduleId": "15",
+      "title": "İhanet etmek (Hâne — yehûnu)",
+      "subtitle": "SRS Kartı · M15 · Kök: خ و ن",
+      "ar": "خَانَ — يَخُونُ",
+      "kok": "خ و ن",
+      "keywords": "خان — يخون فَعَلَ (Ecvef) Fiil"
+    },
+    {
+      "id": "search_card_m15_fc29",
+      "type": "card",
+      "moduleId": "15",
+      "title": "Üstün başarı göstermek (Tefevvaka — yetefevvaku)",
+      "subtitle": "SRS Kartı · M15 · Kök: ف و ق",
+      "ar": "تَفَوَّقَ — يَتَفَوَّقُ",
+      "kok": "ف و ق",
+      "keywords": "تفوق — يتفوق تَفَعَّلَ Fiil"
+    },
+    {
+      "id": "search_card_m15_fc30",
+      "type": "card",
+      "moduleId": "15",
+      "title": "Rahatsız etmek (Ez‘ace — yuz‘icu)",
+      "subtitle": "SRS Kartı · M15 · Kök: ز ع ج",
+      "ar": "أَزْعَجَ — يُزْعِجُ",
+      "kok": "ز ع ج",
+      "keywords": "أزعج — يزعج أَفْعَلَ Fiil"
+    },
+    {
+      "id": "search_card_m15_fc31",
+      "type": "card",
+      "moduleId": "15",
+      "title": "İçini rahatlatmak / içi rahatlamak (Tam'ene — yutam'inu / itmeenne)",
+      "subtitle": "SRS Kartı · M15 · Kök: ط م أ ن",
+      "ar": "طَمْأَنَ — يُطَمْئِنُ / اِطْمَأَنَّ",
+      "kok": "ط م أ ن",
+      "keywords": "طمأن — يطمئن / اطمأن فَعْلَلَ / اِفْعَلَلَّ Fiil"
+    },
+    {
+      "id": "search_card_m15_fc32",
+      "type": "card",
+      "moduleId": "15",
+      "title": "Gerçekleştirmek / başarmak (Hakkaka — yuhakkıku)",
+      "subtitle": "SRS Kartı · M15 · Kök: ح ق ق",
+      "ar": "حَقَّقَ — يُحَقِّقُ",
+      "kok": "ح ق ق",
+      "keywords": "حقق — يحقق فَعَّلَ Fiil"
+    },
+    {
+      "id": "search_gram_m15_g1",
+      "type": "grammar",
+      "moduleId": "15",
+      "title": "Muzâriyi Nasbeden Temel Edatlar & Nasb Alâmetleri",
+      "subtitle": "Gramer Kuralı · M15",
+      "ar": "نَوَاصِبُ الْمُضَارِعِ وَعَلَامَاتُ النَّصْبِ",
+      "keywords": "Nasb Edatı + Muzâri → Tekilde Fetha (ـَ) | Ef'âl-i Hamse'de ن Hazfi | Cem-i Müenneste Değişmez Muzâri fiil normalde (başında hiçbir edat yokken) 'merfû' yani dammeli (`يَكْتُبُ`) veya nûnlu (`يَكْتُبُونَ`) durur. Tı"
+    },
+    {
+      "id": "search_gram_m15_g2",
+      "type": "grammar",
+      "moduleId": "15",
+      "title": "أَنْ (Mastar Edatı) & Müevvel Mastar (الْمَصْدَرُ الْمُؤَوَّلُ)",
+      "subtitle": "Gramer Kuralı · M15",
+      "ar": "«أَنْ» الْمَصْدَرِيَّةُ وَالْمَصْدَرُ الْمُؤَوَّلُ",
+      "keywords": "أَنْ + Muzâri (Mansub) = Sarîh Mastar (İsim Değerinde!) | أَنْ + لَا = أَلَّا Arapçada iki fiili Türkçedeki gibi '-mek/-mak' ekiyle birbirine bağlayan sihirli köprü `أَنْ` harfidir! Mesela 'Çalışmak"
+    },
+    {
+      "id": "search_gram_m15_g3",
+      "type": "grammar",
+      "moduleId": "15",
+      "title": "لَنْ — Gelecek Zaman Kesin Olumsuzluğu (Asla -meyecek)",
+      "subtitle": "Gramer Kuralı · M15",
+      "ar": "«لَنْ» لِنَفْيِ الْمُسْتَقْبَلِ نَفْيًا مُؤَكَّدًا",
+      "keywords": "سَـ / سَوْفَ + Muzâri (Olumlu Gelecek)  ⇄  لَنْ + Mansub Muzâri (Olumsuz Gelecek!) Modül 11'de muzârinin şimdiki/geniş zaman olumsuzluğunun `لَا` (`لَا أَذْهَبُ` = gitmiyorum/gitmem) olduğunu öğrendik. P"
+    },
+    {
+      "id": "search_gram_m15_g4",
+      "type": "grammar",
+      "moduleId": "15",
+      "title": "لَامُ التَّعْلِيلِ (لِـ) & كَيْ / لِكَيْ — Amaç Bildirme (-mek için)",
+      "subtitle": "Gramer Kuralı · M15",
+      "ar": "لَامُ التَّعْلِيلِ وَ«كَيْ / لِكَيْ» وَنَفْيُهَا «لِئَلَّا / لِكَيْلَا»",
+      "keywords": "لِـ / كَيْ / لِكَيْ + Mansub Muzâri (-mek için)  |  لِئَلَّا / لِكَيْلَا + Mansub Muzâri (-memek için) Bir eylemi **ne amaçla** yaptığımızı söylemek için Arapçada iki ikiz kardeş vardır: `لِـ` (Lâm-ı Ta'lîl — gerekçe/amaç l"
+    },
+    {
+      "id": "search_gram_m15_g5",
+      "type": "grammar",
+      "moduleId": "15",
+      "title": "حَتَّى (-e kadar / -sin diye), فَاءُ السَّبَبِيَّةِ & لَامُ الْجُحُودِ",
+      "subtitle": "Gramer Kuralı · M15",
+      "ar": "«حَتَّى» وَفَاءُ السَّبَبِيَّةِ وَلَامُ الْجُحُودِ",
+      "keywords": "حَتَّى + Mansub | Talep/Nefy + فَـ + Mansub | مَا كَانَ / لَمْ يَكُنْ + لِـ + Mansub Muzâriyi nasbeden ileri ama YDS/YÖKDİL'de altın değerindeki üç özel yapı vardır: (1) **حَتَّى**: Gelecek/amaç anlamıyla "
+    },
+    {
+      "id": "search_card_m16_fc01",
+      "type": "card",
+      "moduleId": "16",
+      "title": "-medi (Geçmiş zaman kesin olumsuzluğu) (Lem)",
+      "subtitle": "SRS Kartı · M16 · Kök: ح ر ف",
+      "ar": "لَمْ",
+      "kok": "ح ر ف",
+      "keywords": "لم حَرْفُ جَزْمٍ وَقَلْبٍ Edat"
+    },
+    {
+      "id": "search_card_m16_fc02",
+      "type": "card",
+      "moduleId": "16",
+      "title": "Henüz -medi (Cahd-ı Mustağrak) (Lemmâ)",
+      "subtitle": "SRS Kartı · M16 · Kök: ح ر ف",
+      "ar": "لَمَّا (الْجَازِمَةُ)",
+      "kok": "ح ر ف",
+      "keywords": "لما حَرْفُ جَزْمٍ Edat"
+    },
+    {
+      "id": "search_card_m16_fc03",
+      "type": "card",
+      "moduleId": "16",
+      "title": "-sin / -elim (Emr-i Gâib & Mütekellim) (Lâmu'l-emri)",
+      "subtitle": "SRS Kartı · M16 · Kök: أ م ر",
+      "ar": "لَامُ الْأَمْرِ (لِـ / وَلْـ / فَلْـ)",
+      "kok": "أ م ر",
+      "keywords": "لام الأمر حَرْفُ جَزْمٍ Edat"
+    },
+    {
+      "id": "search_card_m16_fc04",
+      "type": "card",
+      "moduleId": "16",
+      "title": "-me / -mesin! (Yasaklama) (Lâ en-nâhiyetu)",
+      "subtitle": "SRS Kartı · M16 · Kök: ن ه ي",
+      "ar": "لَا النَّاهِيَةُ",
+      "kok": "ن ه ي",
+      "keywords": "لا الناهية حَرْفُ نَهْيٍ وَجَزْمٍ Edat"
+    },
+    {
+      "id": "search_card_m16_fc05",
+      "type": "card",
+      "moduleId": "16",
+      "title": "Cezm (Fiilin sonunu kesme / sükûnlama) (El-cezmu)",
+      "subtitle": "SRS Kartı · M16 · Kök: ج ز م",
+      "ar": "الْجَزْمُ",
+      "kok": "ج ز م",
+      "keywords": "الجزم فَعْل Terim"
+    },
+    {
+      "id": "search_card_m16_fc06",
+      "type": "card",
+      "moduleId": "16",
+      "title": "İllet harfinin düşmesi (Nâkıs cezm) (Hazfu harfi'l-‘illeti)",
+      "subtitle": "SRS Kartı · M16 · Kök: ع ل ل",
+      "ar": "حَذْفُ حَرْفِ الْعِلَّةِ",
+      "kok": "ع ل ل",
+      "keywords": "حذف حرف العلة فِعْلَة Terim"
+    },
+    {
+      "id": "search_card_m16_fc07",
+      "type": "card",
+      "moduleId": "16",
+      "title": "Hiç / Asla (Sadece geçmiş olumsuzlukla!) (Kattu)",
+      "subtitle": "SRS Kartı · M16 · Kök: ق ط ط",
+      "ar": "قَطُّ",
+      "kok": "ق ط ط",
+      "keywords": "قط ظَرْفُ زَمَانٍ Zarf"
+    },
+    {
+      "id": "search_card_m16_fc08",
+      "type": "card",
+      "moduleId": "16",
+      "title": "Henüz (Olumsuz geçmişle) (Ba‘du)",
+      "subtitle": "SRS Kartı · M16 · Kök: ب ع د",
+      "ar": "بَعْدُ (لَمْ ... بَعْدُ)",
+      "kok": "ب ع د",
+      "keywords": "بعد ظَرْفٌ مَبْنِيٌّ Zarf"
+    },
+    {
+      "id": "search_card_m16_fc09",
+      "type": "card",
+      "moduleId": "16",
+      "title": "Söylemedi (قَالَ — يَقُولُ) (Lem yekul)",
+      "subtitle": "SRS Kartı · M16 · Kök: ق و ل",
+      "ar": "لَمْ يَقُلْ",
+      "kok": "ق و ل",
+      "keywords": "لم يقل يَفْعُلْ (أَجْوَف) Fiil"
+    },
+    {
+      "id": "search_card_m16_fc10",
+      "type": "card",
+      "moduleId": "16",
+      "title": "Olmadı / değildi (كَانَ — يَكُونُ) (Lem yekun)",
+      "subtitle": "SRS Kartı · M16 · Kök: ك و ن",
+      "ar": "لَمْ يَكُنْ",
+      "kok": "ك و ن",
+      "keywords": "لم يكن يَفْعُلْ (أَجْوَف) Fiil"
+    },
+    {
+      "id": "search_card_m16_fc11",
+      "type": "card",
+      "moduleId": "16",
+      "title": "Satmadı (بَاعَ — يَبِيعُ) (Lem yebi‘)",
+      "subtitle": "SRS Kartı · M16 · Kök: ب ي ع",
+      "ar": "لَمْ يَبِعْ",
+      "kok": "ب ي ع",
+      "keywords": "لم يبع يَفْعِلْ (أَجْوَف) Fiil"
+    },
+    {
+      "id": "search_card_m16_fc12",
+      "type": "card",
+      "moduleId": "16",
+      "title": "Uyumadı (نَامَ — يَنَامُ) (Lem yenem)",
+      "subtitle": "SRS Kartı · M16 · Kök: ن و م",
+      "ar": "لَمْ يَنَمْ",
+      "kok": "ن و م",
+      "keywords": "لم ينم يَفْعَلْ (أَجْوَف) Fiil"
+    },
+    {
+      "id": "search_card_m16_fc13",
+      "type": "card",
+      "moduleId": "16",
+      "title": "Görmedi / Görmedim (رَأَى — يَرَى) (Lem yera / Lem era)",
+      "subtitle": "SRS Kartı · M16 · Kök: ر أ ي",
+      "ar": "لَمْ يَرَ / لَمْ أَرَ",
+      "kok": "ر أ ي",
+      "keywords": "لم ير / لم أر يَفْعَ (نَاقِص) Fiil"
+    },
+    {
+      "id": "search_card_m16_fc14",
+      "type": "card",
+      "moduleId": "16",
+      "title": "Unutmadı (نَسِيَ — يَنْسَى) (Lem yense)",
+      "subtitle": "SRS Kartı · M16 · Kök: ن س ي",
+      "ar": "لَمْ يَنْسَ",
+      "kok": "ن س ي",
+      "keywords": "لم ينس يَفْعَ (نَاقِص) Fiil"
+    },
+    {
+      "id": "search_card_m16_fc15",
+      "type": "card",
+      "moduleId": "16",
+      "title": "Yürümedi (مَشَى — يَمْشِي) (Lem yemşi)",
+      "subtitle": "SRS Kartı · M16 · Kök: م ش ي",
+      "ar": "لَمْ يَمْشِ",
+      "kok": "م ش ي",
+      "keywords": "لم يمش يَفْعِ (نَاقِص) Fiil"
+    },
+    {
+      "id": "search_card_m16_fc16",
+      "type": "card",
+      "moduleId": "16",
+      "title": "Çağırmadı / dua etmedi (دَعَا — يَدْعُو) (Lem yed‘u)",
+      "subtitle": "SRS Kartı · M16 · Kök: د ع و",
+      "ar": "لَمْ يَدْعُ",
+      "kok": "د ع و",
+      "keywords": "لم يدع يَفْعُ (نَاقِص) Fiil"
+    },
+    {
+      "id": "search_card_m16_fc17",
+      "type": "card",
+      "moduleId": "16",
+      "title": "Yapamadı / gücü yetmedi (Lem yestatı‘)",
+      "subtitle": "SRS Kartı · M16 · Kök: ط و ع",
+      "ar": "لَمْ يَسْتَطِعْ",
+      "kok": "ط و ع",
+      "keywords": "لم يستطع يَسْتَفْعِلْ Fiil"
+    },
+    {
+      "id": "search_card_m16_fc18",
+      "type": "card",
+      "moduleId": "16",
+      "title": "Kalmadı (بَقِيَ — يَبْقَى) (Lem yebka)",
+      "subtitle": "SRS Kartı · M16 · Kök: ب ق ي",
+      "ar": "لَمْ يَبْقَ",
+      "kok": "ب ق ي",
+      "keywords": "لم يبق يَفْعَ (نَاقِص) Fiil"
+    },
+    {
+      "id": "search_card_m16_fc19",
+      "type": "card",
+      "moduleId": "16",
+      "title": "Bitmedi / bitirmedi (اِنْتَهَى — يَنْتَهِي) (Lem yentehi)",
+      "subtitle": "SRS Kartı · M16 · Kök: ن ه ي",
+      "ar": "لَمْ يَنْتَهِ",
+      "kok": "ن ه ي",
+      "keywords": "لم ينته يَفْتَعِ Fiil"
+    },
+    {
+      "id": "search_card_m16_fc20",
+      "type": "card",
+      "moduleId": "16",
+      "title": "Şikâyet etmedi (شَكَا — يَشْكُو) (Lem yeşku)",
+      "subtitle": "SRS Kartı · M16 · Kök: ش ك و",
+      "ar": "لَمْ يَشْكُ",
+      "kok": "ش ك و",
+      "keywords": "لم يشك يَفْعُ (نَاقِص) Fiil"
+    },
+    {
+      "id": "search_card_m16_fc21",
+      "type": "card",
+      "moduleId": "16",
+      "title": "Hükmetmedi / (vakit) geçirmedi (Lem yakdi)",
+      "subtitle": "SRS Kartı · M16 · Kök: ق ض ي",
+      "ar": "لَمْ يَقْضِ",
+      "kok": "ق ض ي",
+      "keywords": "لم يقض يَفْعِ (نَاقِص) Fiil"
+    },
+    {
+      "id": "search_card_m16_fc22",
+      "type": "card",
+      "moduleId": "16",
+      "title": "Satın almadı (اِشْتَرَى — يَشْتَرِي) (Lem yeşteri)",
+      "subtitle": "SRS Kartı · M16 · Kök: ش ر ي",
+      "ar": "لَمْ يَشْتَرِ",
+      "kok": "ش ر ي",
+      "keywords": "لم يشتر يَفْتَعِ Fiil"
+    },
+    {
+      "id": "search_card_m16_fc23",
+      "type": "card",
+      "moduleId": "16",
+      "title": "Kaçırmadı / geçip gitmedi (فَاتَ — يَفُوتُ) (Lem yefut)",
+      "subtitle": "SRS Kartı · M16 · Kök: ف و ت",
+      "ar": "لَمْ يَفُتْ",
+      "kok": "ف و ت",
+      "keywords": "لم يفت يَفْعُلْ (أَجْوَف) Fiil"
+    },
+    {
+      "id": "search_card_m16_fc24",
+      "type": "card",
+      "moduleId": "16",
+      "title": "Ziyaret etmedi (زَارَ — يَزُورُ) (Lem yezur)",
+      "subtitle": "SRS Kartı · M16 · Kök: ز و ر",
+      "ar": "لَمْ يَزُرْ",
+      "kok": "ز و ر",
+      "keywords": "لم يزر يَفْعُلْ (أَجْوَف) Fiil"
+    },
+    {
+      "id": "search_card_m16_fc25",
+      "type": "card",
+      "moduleId": "16",
+      "title": "Eğer (İki muzâriyi cezmeden şart harfi) (İn)",
+      "subtitle": "SRS Kartı · M16 · Kök: ح ر ف",
+      "ar": "إِنْ (الشَّرْطِيَّةُ)",
+      "kok": "ح ر ف",
+      "keywords": "إن حَرْفُ شَرْطٍ Edat"
+    },
+    {
+      "id": "search_card_m16_fc26",
+      "type": "card",
+      "moduleId": "16",
+      "title": "Kim ...-erse (İki fiili cezmeden şart ismi) (Men)",
+      "subtitle": "SRS Kartı · M16 · Kök: ا س م",
+      "ar": "مَنْ (الشَّرْطِيَّةُ)",
+      "kok": "ا س م",
+      "keywords": "من اِسْمُ شَرْطٍ Edat"
+    },
+    {
+      "id": "search_card_m16_fc27",
+      "type": "card",
+      "moduleId": "16",
+      "title": "Zafer kazanmak / muradına ermek (Zafira — yazferu bi-)",
+      "subtitle": "SRS Kartı · M16 · Kök: ظ ف ر",
+      "ar": "ظَفِرَ — يَظْفَرُ بِـ",
+      "kok": "ظ ف ر",
+      "keywords": "ظفر — يظفر بـ فَعِلَ (4. Bab) Fiil"
+    },
+    {
+      "id": "search_card_m16_fc28",
+      "type": "card",
+      "moduleId": "16",
+      "title": "Korumak / muhafaza etmek (Hamâ — yahmî)",
+      "subtitle": "SRS Kartı · M16 · Kök: ح م ي",
+      "ar": "حَمَى — يَحْمِي",
+      "kok": "ح م ي",
+      "keywords": "حمى — يحمي فَعَلَ (2. Bab) Fiil"
+    },
+    {
+      "id": "search_card_m16_fc29",
+      "type": "card",
+      "moduleId": "16",
+      "title": "Susmak / sessiz kalmak (Samete — yasmutu)",
+      "subtitle": "SRS Kartı · M16 · Kök: ص م ت",
+      "ar": "صَمَتَ — يَصْمُتُ",
+      "kok": "ص م ت",
+      "keywords": "صمت — يصمت فَعَلَ (1. Bab) Fiil"
+    },
+    {
+      "id": "search_card_m16_fc30",
+      "type": "card",
+      "moduleId": "16",
+      "title": "Uymak / bağlı kalmak / riayet etmek (İltezeme — yeltemizu bi-)",
+      "subtitle": "SRS Kartı · M16 · Kök: ل ز م",
+      "ar": "اِلْتَزَمَ — يَلْتَزِمُ بِـ",
+      "kok": "ل ز م",
+      "keywords": "التزم — يلتزم بـ اِفْتَعَلَ Fiil"
+    },
+    {
+      "id": "search_card_m16_fc31",
+      "type": "card",
+      "moduleId": "16",
+      "title": "Acele etmek / fevri davranmak (Teserra‘a — yeteserra‘u)",
+      "subtitle": "SRS Kartı · M16 · Kök: س ر ع",
+      "ar": "تَسَرَّعَ — يَتَسَرَّعُ",
+      "kok": "س ر ع",
+      "keywords": "تسرع — يتسرع تَفَعَّلَ Fiil"
+    },
+    {
+      "id": "search_card_m16_fc32",
+      "type": "card",
+      "moduleId": "16",
+      "title": "İki sükûn çakışması geçiş kesrası (Kesru'ltikâi's-sâkineyni)",
+      "subtitle": "SRS Kartı · M16 · Kök: س ك ن",
+      "ar": "كَسْرُ الْتِقَاءِ السَّاكِنَيْنِ",
+      "kok": "س ك ن",
+      "keywords": "كسر التقاء الساكنين تَرْكِيب نَحْوِيّ Terim"
+    },
+    {
+      "id": "search_gram_m16_g1",
+      "type": "grammar",
+      "moduleId": "16",
+      "title": "Muzâriyi Cezmeden 4 Edat & 3 Cezm Alâmeti (Sükûn, ن Hazfi, İllet Hazfi)",
+      "subtitle": "Gramer Kuralı · M16",
+      "ar": "الْجَوَازِمُ الْأَرْبَعَةُ وَعَلَامَاتُ الْجَزْمِ الثَّلَاثُ",
+      "keywords": "Cezm Alâmetleri: (1) Sükûn (لَمْ يَكْتُبْ) | (2) ن Hazfi (لَمْ يَكْتُبُوا) | (3) İllet Hazfi (لَمْ يَمْشِ / لَمْ يَدْعُ / لَمْ يَنْسَ) Cezm kelimesi Arapçada 'kesmek, durdurmak' demektir! Bir muzâri fiilin başına `لَمْ، لَمَّا، لَامُ الْأَمْرِ (لِـ)، لَا "
+    },
+    {
+      "id": "search_gram_m16_g2",
+      "type": "grammar",
+      "moduleId": "16",
+      "title": "لَمْ (Cahd-ı Mutlak) — Modern Arapçada Geçmiş Zaman Olumsuzluğu",
+      "subtitle": "Gramer Kuralı · M16",
+      "ar": "«لَمْ» (حَرْفُ نَفْيٍ وَجَزْمٍ وَقَلْبٍ)",
+      "keywords": "Mâzi (كَتَبَ / كَتَبُوا)  ⇄  لَمْ + Meczum Muzâri (لَمْ يَكْتُبْ / لَمْ يَكْتُبُوا) Arapça dil bilginleri `لَمْ` harfini üç sıfatla tanımlar: **Nefy** (olumsuz yapar), **Cezm** (sonunu cezmeder) ve **Kalb"
+    },
+    {
+      "id": "search_gram_m16_g3",
+      "type": "grammar",
+      "moduleId": "16",
+      "title": "لَمَّا (Cahd-ı Mustağrak: Henüz -medi) vs. لَمَّا (Zaman: -dığında)",
+      "subtitle": "Gramer Kuralı · M16",
+      "ar": "«لَمَّا» الْجَازِمَةُ (بِمَعْنَى: حَتَّى الْآنَ) وَالْفَرْقُ بَيْنَهَا وَبَيْنَ «لَمَّا» الظَّرْفِيَّةِ",
+      "keywords": "لَمَّا + Meczum Muzâri = 'Henüz -medi' (Cezm!)  |  لَمَّا + Mâzi = '-dığında / -ince' (Zaman Zarfı!) `لَمَّا` kelimesi Arapçada iki farklı şapka takar ve hangi şapkayı taktığını **hemen arkasındaki fiilin zamanından** 1 s"
+    },
+    {
+      "id": "search_gram_m16_g4",
+      "type": "grammar",
+      "moduleId": "16",
+      "title": "لَامُ الْأَمْرِ (لِـ / فَلْـ / وَلْـ) — Emr-i Gâib & Emr-i Mütekellim",
+      "subtitle": "Gramer Kuralı · M16",
+      "ar": "لَامُ الْأَمْرِ (الْأَمْرُ لِلْغَائِبِ وَالْمُتَكَلِّمِ)",
+      "keywords": "لِـ + Meczum Muzâri (-sin / -elim!)  |  وَ / فَـ / ثُمَّ + لْـ + Meczum Muzâri (وَلْيَكْتُبْ / فَلْنَبْدَأْ) Türkçede sadece karşımızdaki kişiye ('Yaz!') değil, 3. şahsa (**'Yazsın! / Yazsınlar!'**) ve 1. çoğul şahsa (**'Haydi ya"
+    },
+    {
+      "id": "search_gram_m16_g5",
+      "type": "grammar",
+      "moduleId": "16",
+      "title": "لَا النَّاهِيَةُ (Nehy-i Gâib) vs. لَا النَّافِيَةُ & Şart Edatlarına Köprü (إِنْ / مَنْ)",
+      "subtitle": "Gramer Kuralı · M16",
+      "ar": "«لَا» النَّاهِيَةُ (لِلْغَائِبِ) وَالْفَرْقُ عَنْ «لَا» النَّافِيَةِ + مَدْخَلٌ إِلَى أَدَوَاتِ الشَّرْطِ",
+      "keywords": "لَا النَّاهِيَةُ + Meczum (-mesin!)  ≠  لَا النَّافِيَةُ + Merfû (-mez)  |  إِنْ / مَنْ + Meczum 1 + Meczum 2 Modül 14'te gördüğümüz gibi Arapçada iki farklı `لَا` vardır ve harekesiz metinde onları ancak son harfe/nûna bakarak ay"
+    },
+    {
+      "id": "search_card_m17_fc01",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Emir fiili (Emr-i Hâzır) (Fi‘lu'l-emri)",
+      "subtitle": "SRS Kartı · M17 · Kök: أ م ر",
+      "ar": "فِعْلُ الْأَمْرِ",
+      "kok": "أ م ر",
+      "keywords": "فعل الأمر فَعْل Terim"
+    },
+    {
+      "id": "search_card_m17_fc02",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Vasıl hemzesi (اُ / اِ) (Hemzetu'l-vasli)",
+      "subtitle": "SRS Kartı · M17 · Kök: و ص ل",
+      "ar": "هَمْزَةُ الْوَصْلِ",
+      "kok": "و ص ل",
+      "keywords": "همزة الوصل فَعْل Terim"
+    },
+    {
+      "id": "search_card_m17_fc03",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Yaz! / Yaz (K)! / Yazın! (Uktub / Uktubî / Uktubû)",
+      "subtitle": "SRS Kartı · M17 · Kök: ك ت ب",
+      "ar": "اُكْتُبْ / اُكْتُبِي / اُكْتُبُوا",
+      "kok": "ك ت ب",
+      "keywords": "اكتب / اكتبي / اكتبوا اُفْعُلْ Fiil"
+    },
+    {
+      "id": "search_card_m17_fc04",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Aç! / Aç (K)! / Açın! (İftah / İftahî / İftahû)",
+      "subtitle": "SRS Kartı · M17 · Kök: ف ت ح",
+      "ar": "اِفْتَحْ / اِفْتَحِي / اِفْتَحُوا",
+      "kok": "ف ت ح",
+      "keywords": "افتح / افتحي / افتحوا اِفْعَلْ Fiil"
+    },
+    {
+      "id": "search_card_m17_fc05",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Otur! / Otur (K)! / Oturun! (İclis / İclisî / İclisû)",
+      "subtitle": "SRS Kartı · M17 · Kök: ج ل س",
+      "ar": "اِجْلِسْ / اِجْلِسِي / اِجْلِسُوا",
+      "kok": "ج ل س",
+      "keywords": "اجلس / اجلسي / اجلسوا اِفْعِلْ Fiil"
+    },
+    {
+      "id": "search_card_m17_fc06",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Oku! / Oku (K)! / Okuyun! (İkra' / İkraî / İkraû)",
+      "subtitle": "SRS Kartı · M17 · Kök: ق ر أ",
+      "ar": "اِقْرَأْ / اِقْرَئِي / اِقْرَؤُوا",
+      "kok": "ق ر أ",
+      "keywords": "اقرأ / اقرئي / اقرؤوا اِفْعَلْ Fiil"
+    },
+    {
+      "id": "search_card_m17_fc07",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Söyle! / Söyle (K)! / Söyleyin! (Kul / Kûlî / Kûlû)",
+      "subtitle": "SRS Kartı · M17 · Kök: ق و ل",
+      "ar": "قُلْ / قُولِي / قُولُوا",
+      "kok": "ق و ل",
+      "keywords": "قل / قولي / قولوا فُلْ (أَجْوَف) Fiil"
+    },
+    {
+      "id": "search_card_m17_fc08",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Ol! / Ol (K)! / Olun! (Kun / Kûnî / Kûnû)",
+      "subtitle": "SRS Kartı · M17 · Kök: ك و ن",
+      "ar": "كُنْ / كُونِي / كُونُوا",
+      "kok": "ك و ن",
+      "keywords": "كن / كوني / كونوا فُلْ (أَجْوَف) Fiil"
+    },
+    {
+      "id": "search_card_m17_fc09",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Kalk! / (بِـ ile) Yap! (Kum / Kûmî / Kûmû)",
+      "subtitle": "SRS Kartı · M17 · Kök: ق و م",
+      "ar": "قُمْ / قُومِي / قُومُوا",
+      "kok": "ق و م",
+      "keywords": "قم / قومي / قوموا فُلْ (أَجْوَف) Fiil"
+    },
+    {
+      "id": "search_card_m17_fc10",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Uyu! / Uyu (K)! / Uyuyun! (Nem / Nâmî / Nâmû)",
+      "subtitle": "SRS Kartı · M17 · Kök: ن و م",
+      "ar": "نَمْ / نَامِي / نَامُوا",
+      "kok": "ن و م",
+      "keywords": "نم / نامي / ناموا فَلْ (أَجْوَف) Fiil"
+    },
+    {
+      "id": "search_card_m17_fc11",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Yürü! / Git! / İlerle! (Sir / Sîrî / Sîrû)",
+      "subtitle": "SRS Kartı · M17 · Kök: س ي ر",
+      "ar": "سِرْ / سِيرِي / سِيرُوا",
+      "kok": "س ي ر",
+      "keywords": "سر / سيري / سيروا فِلْ (أَجْوَف) Fiil"
+    },
+    {
+      "id": "search_card_m17_fc12",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Al! / Al (K)! / Alın! (Huz / Huzî / Huzû)",
+      "subtitle": "SRS Kartı · M17 · Kök: أ خ ذ",
+      "ar": "خُذْ / خُذِي / خُذُوا",
+      "kok": "أ خ ذ",
+      "keywords": "خذ / خذي / خذوا عُلْ (مَهْمُوز) Fiil"
+    },
+    {
+      "id": "search_card_m17_fc13",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Ye! / Ye (K)! / Yiyin! (Kul / Kulî / Kulû)",
+      "subtitle": "SRS Kartı · M17 · Kök: أ ك ل",
+      "ar": "كُلْ / كُلِي / كُلُوا",
+      "kok": "أ ك ل",
+      "keywords": "كل / كلي / كلوا عُلْ (مَهْمُوز) Fiil"
+    },
+    {
+      "id": "search_card_m17_fc14",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Dur! / Ayakta dur! (Kıf / Kıfî / Kıfû)",
+      "subtitle": "SRS Kartı · M17 · Kök: و ق ف",
+      "ar": "قِفْ / قِفِي / قِفُوا",
+      "kok": "و ق ف",
+      "keywords": "قف / قفي / قفوا عِلْ (مِثَال) Fiil"
+    },
+    {
+      "id": "search_card_m17_fc15",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Koy! / Yerleştir! (Da‘ / Da‘î / Da‘û)",
+      "subtitle": "SRS Kartı · M17 · Kök: و ض ع",
+      "ar": "ضَعْ / ضَعِي / ضَعُوا",
+      "kok": "و ض ع",
+      "keywords": "ضع / ضعي / ضعوا عَلْ (مِثَال) Fiil"
+    },
+    {
+      "id": "search_card_m17_fc16",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Dua et! / Davet et! / Çağır! (Ud‘u / Ud‘î / Ud‘û)",
+      "subtitle": "SRS Kartı · M17 · Kök: د ع و",
+      "ar": "اُدْعُ / اُدْعِي / اُدْعُوا",
+      "kok": "د ع و",
+      "keywords": "ادع / ادعي / ادعوا اُفْعُ (نَاقِص) Fiil"
+    },
+    {
+      "id": "search_card_m17_fc17",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Yürü! / Yürüyün! (İmşi / İmşî / İmşû)",
+      "subtitle": "SRS Kartı · M17 · Kök: م ش ي",
+      "ar": "اِمْشِ / اِمْشِي / اِمْشُوا",
+      "kok": "م ش ي",
+      "keywords": "امش / امشي / امشوا اِفْعِ (نَاقِص) Fiil"
+    },
+    {
+      "id": "search_card_m17_fc18",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Ver! / Ver (K)! / Verin! (A‘tı / A‘tî / A‘tû)",
+      "subtitle": "SRS Kartı · M17 · Kök: ع ط و",
+      "ar": "أَعْطِ / أَعْطِي / أَعْطُوا",
+      "kok": "ع ط و",
+      "keywords": "أعط / أعطي / أعطوا أَفْعِ (IV + نَاقِص) Fiil"
+    },
+    {
+      "id": "search_card_m17_fc19",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Kapat! / Kapatın! (Aglık / Aglıkî / Aglıkû)",
+      "subtitle": "SRS Kartı · M17 · Kök: غ ل ق",
+      "ar": "أَغْلِقْ / أَغْلِقِي / أَغْلِقُوا",
+      "kok": "غ ل ق",
+      "keywords": "أغلق / أغلقي / أغلقوا أَفْعِلْ (IV. Bab) Fiil"
+    },
+    {
+      "id": "search_card_m17_fc20",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Gönder! / Yolla! (Ersil / Ersilî / Ersilû)",
+      "subtitle": "SRS Kartı · M17 · Kök: ر س ل",
+      "ar": "أَرْسِلْ / أَرْسِلِي / أَرْسِلُوا",
+      "kok": "ر س ل",
+      "keywords": "أرسل / أرسلي / أرسلوا أَفْعِلْ (IV. Bab) Fiil"
+    },
+    {
+      "id": "search_card_m17_fc21",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Cevapla! / Cevap ver! (Ecib / Ecîbî / Ecîbû)",
+      "subtitle": "SRS Kartı · M17 · Kök: ج و ب",
+      "ar": "أَجِبْ / أَجِيبِي / أَجِيبُوا",
+      "kok": "ج و ب",
+      "keywords": "أجب / أجيبي / أجيبوا أَفِلْ (IV + أَجْوَف) Fiil"
+    },
+    {
+      "id": "search_card_m17_fc22",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Buyur! / Buyurun! (Tefaddal / Tefaddalî / Tefaddalû)",
+      "subtitle": "SRS Kartı · M17 · Kök: ف ض ل",
+      "ar": "تَفَضَّلْ / تَفَضَّلِي / تَفَضَّلُوا",
+      "kok": "ف ض ل",
+      "keywords": "تفضل / تفضلي / تفضلوا تَفَعَّلْ Kalıp"
+    },
+    {
+      "id": "search_card_m17_fc23",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Gel! / Gel (K)! / Gelin! (Te‘âle / Te‘âley / Te‘âlev)",
+      "subtitle": "SRS Kartı · M17 · Kök: ع ل و",
+      "ar": "تَعَالَ / تَعَالَيْ / تَعَالَوْا",
+      "kok": "ع ل و",
+      "keywords": "تعال / تعالي / تعالوا تَفَاعَلَ (أَمْر) Fiil"
+    },
+    {
+      "id": "search_card_m17_fc24",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Getir! / Ver! / Getirin! (Hâti / Hâtî / Hâtû)",
+      "subtitle": "SRS Kartı · M17 · Kök: ه و ت",
+      "ar": "هَاتِ / هَاتِي / هَاتُوا",
+      "kok": "ه و ت",
+      "keywords": "هات / هاتي / هاتوا فِعْلُ أَمْرٍ خَاصٌّ Fiil"
+    },
+    {
+      "id": "search_card_m17_fc25",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Haydi (gidelim / başlayalım)! (Heyyâ binâ!)",
+      "subtitle": "SRS Kartı · M17 · Kök: ه ي أ",
+      "ar": "هَيَّا بِنَا!",
+      "kok": "ه ي أ",
+      "keywords": "هيا بنا اِسْمُ فِعْلِ أَمْرٍ Kalıp"
+    },
+    {
+      "id": "search_card_m17_fc26",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Müsaadenizle / Lütfen (Lev semahte / Lev semahti)",
+      "subtitle": "SRS Kartı · M17 · Kök: س م ح",
+      "ar": "لَوْ سَمَحْتَ / لَوْ سَمَحْتِ",
+      "kok": "س م ح",
+      "keywords": "لو سمحت عِبَارَةُ أَدَبٍ Kalıp"
+    },
+    {
+      "id": "search_card_m17_fc27",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Lütfen (Min fadlike / Min fadliki)",
+      "subtitle": "SRS Kartı · M17 · Kök: ف ض ل",
+      "ar": "مِنْ فَضْلِكَ / مِنْ فَضْلِكِ",
+      "kok": "ف ض ل",
+      "keywords": "من فضلك عِبَارَةُ أَدَبٍ Kalıp"
+    },
+    {
+      "id": "search_card_m17_fc28",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Bana ...-yı göster / tarif et! (Dullenî ‘alâ)",
+      "subtitle": "SRS Kartı · M17 · Kök: د ل ل",
+      "ar": "دُلَّنِي عَلَى",
+      "kok": "د ل ل",
+      "keywords": "دلني على فُعَّ (مُضَعَّف) Kalıp"
+    },
+    {
+      "id": "search_card_m17_fc29",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Sağa / sola dön! (İn‘atıf yemînen / yesâran)",
+      "subtitle": "SRS Kartı · M17 · Kök: ع ط ف",
+      "ar": "اِنْعَطِفْ يَمِينًا / يَسَارًا",
+      "kok": "ع ط ف",
+      "keywords": "انعطف يمينا / يسارا اِنْفَعِلْ Kalıp"
+    },
+    {
+      "id": "search_card_m17_fc30",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Korkma! / Korkmayın! (Lâ tehaf / Lâ tehâfî / Lâ tehâfû)",
+      "subtitle": "SRS Kartı · M17 · Kök: خ و ف",
+      "ar": "لَا تَخَفْ / لَا تَخَافِي / لَا تَخَافُوا",
+      "kok": "خ و ف",
+      "keywords": "لا تخف / لا تخافي / لا تخافوا لَا تَفَلْ (أَجْوَف) Fiil"
+    },
+    {
+      "id": "search_card_m17_fc31",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Unutma! / Unutmayın! (Lâ tense / Lâ tensey / Lâ tensev)",
+      "subtitle": "SRS Kartı · M17 · Kök: ن س ي",
+      "ar": "لَا تَنْسَ / لَا تَنْسَيْ / لَا تَنْسَوْا",
+      "kok": "ن س ي",
+      "keywords": "لا تنس / لا تنسي / لا تنسوا لَا تَفْعَ (نَاقِص) Fiil"
+    },
+    {
+      "id": "search_card_m17_fc32",
+      "type": "card",
+      "moduleId": "17",
+      "title": "Dinlen! / Dinlenin! (İsterih / İsterîhî / İsterîhû)",
+      "subtitle": "SRS Kartı · M17 · Kök: ر و ح",
+      "ar": "اِسْتَرِحْ / اِسْتَرِيحِي / اِسْتَرِيحُوا",
+      "kok": "ر و ح",
+      "keywords": "استرح / استريحي / استريحوا اِسْتَفِلْ (X + أَجْوَف) Fiil"
+    },
+    {
+      "id": "search_gram_m17_g1",
+      "type": "grammar",
+      "moduleId": "17",
+      "title": "Emr-i Hâzır Türetmenin 3 Altın Adımı & Vasıl Hemzesi (اُ vs. اِ)",
+      "subtitle": "Gramer Kuralı · M17",
+      "ar": "صِيَاغَةُ فِعْلِ الْأَمْرِ الْحَاضِرِ وَحَرَكَةُ هَمْزَةِ الْوَصْلِ",
+      "keywords": "أَنْتَ Muzâri → تَـ At → Sonunu Cezmet → Orta Harf (ـُ) ise اُ | (ـِ / ـَ) ise اِ! Arapçada karşınızdaki kişiye emir (Emr-i Hâzır) yapmak asla ezber işi değil, 3 saniyelik bir makinedir! Elinize `أَنْتَ`"
+    },
+    {
+      "id": "search_gram_m17_g2",
+      "type": "grammar",
+      "moduleId": "17",
+      "title": "Emr-i Hâzırın 6 Muhatap Şahıs Çekimi & Binâ Alâmetleri",
+      "subtitle": "Gramer Kuralı · M17",
+      "ar": "تَصْرِيفُ فِعْلِ الْأَمْرِ مَعَ ضَمَائِرِ الْمُخَاطَبِ السِّتَّةِ",
+      "keywords": "أَنْتَ: اِفْعَلْ | أَنْتِ: اِفْعَلِي | أَنْتُمَا: اِفْعَلَا | أَنْتُمْ: اِفْعَلُوا | أَنْتُنَّ: اِفْعَلْنَ Emir kipi yalnızca tek bir kişiye (`أَنْتَ`) değil, karşımızdaki **6 muhatap şahsın tamamına** (sen-eril, sen-dişil, iki"
+    },
+    {
+      "id": "search_gram_m17_g3",
+      "type": "grammar",
+      "moduleId": "17",
+      "title": "Hemzesiz ve Özel Sık Kullanılan Emirler (Ecvef, Nâkıs, Misâl, Mehmûz, Mezîd)",
+      "subtitle": "Gramer Kuralı · M17",
+      "ar": "أَفْعَالُ الْأَمْرِ الْخَاصَّةُ (الْأَجْوَفُ وَالنَّاقِصُ وَالْمِثَالُ وَالْمَهْمُوزُ وَالرُّبَاعِيُّ)",
+      "keywords": "تَـ sonrası harekeliyse hemze YOK (قُلْ، كُنْ، قِفْ، خُذْ، كُلْ، سَافِرْ) | Nâkısta illet düşer (اِمْشِ، اُدْعُ) | IV. Babda أَ (أَغْلِقْ، أَرْسِلْ) Emir türetirken **'تَـ harfini atınca ilk harf zaten HAREKELİ kalıyorsa'** başa asla vasıl hemzesi koymazsınız — destek "
+    },
+    {
+      "id": "search_gram_m17_g4",
+      "type": "grammar",
+      "moduleId": "17",
+      "title": "Nehy-i Hâzır (لَا تَفْعَلْ!) — 6 Muhatap Şahıs Yasaklama Sistemi",
+      "subtitle": "Gramer Kuralı · M17",
+      "ar": "النَّهْيُ الْحَاضِرُ («لَا» النَّاهِيَةُ مَعَ ضَمَائِرِ الْمُخَاطَبِ السِّتَّةِ)",
+      "keywords": "لَا + Muhatap Muzâri (Meczum!) → لَا تَفْعَلْ / لَا تَفْعَلِي / لَا تَفْعَلَا / لَا تَفْعَلُوا / لَا تَفْعَلْنَ Emir kipinde `تَـ` harfini atıp vasıl hemzesiyle uğraşıyorduk; ama **Nehy-i Hâzırda ('Yapma! / Yapmayın!')** işimiz çok "
+    },
+    {
+      "id": "search_gram_m17_g5",
+      "type": "grammar",
+      "moduleId": "17",
+      "title": "Günlük Hayatta Kibar Rica, İkram & Özel İsim-Fiil Emirler (تَفَضَّلْ، تَعَالَ، هَاتِ)",
+      "subtitle": "Gramer Kuralı · M17",
+      "ar": "أَسَالِيبُ الرَّجَاءِ الْمُهَذَّبِ وَأَسْمَاءُ أَفْعَالِ الْأَمْرِ (تَفَضَّلْ، تَعَالَ، هَاتِ)",
+      "keywords": "Emir + مِنْ فَضْلِكَ / لَوْ سَمَحْتَ (Kibar Rica) | تَفَضَّلْ (Buyur!) | تَعَالَ (Gel!) | هَاتِ (Getir!) Arap kültüründe emir kipi kaba bir komut değil, doğru nezaket kelimeleriyle birleştiğinde çok zarif bir rica ve misafirp"
     },
     {
       "id": "search_verb_0",

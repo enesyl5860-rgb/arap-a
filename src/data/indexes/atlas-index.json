@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:26:30.002Z",
+  "generatedAt": "2026-11-23T07:48:29.976Z",
   "prepositionalVerbs": [
     {
       "ar": "بَحَثَ عَنْ",
@@ -730,6 +730,141 @@
       "arBaslik": "إِعْرَابُ الْأَفْعَالِ الْخَمْسَةِ: ثُبُوتُ النُّونِ وَحَذْفُهَا",
       "formul": "Ref': ن VAR (يَكْتُبُونَ / تَكْتُبِينَ)  |  Nasb (أَنْ/لَنْ) & Cezm (لَمْ/لَا): ن DÜŞER! (لَنْ يَكْتُبُوا / لَمْ تَكْتُبِي)",
       "mantik": "Modül 15 ve 16'ya geçmeden önce en büyük süper gücünü şimdiden kuşanıyorsun! Normal muzâri (`يَكْتُبُ`) ref'te damme (`يَكْتُبُ`), nasbta fetha (`لَنْ يَكْتُبَ`), cezmde sükûn (`لَمْ يَكْتُبْ`) alır. Peki **Ef'âl-i Hamse** (`يَكْتُبُونَ / يَكْتُبَانِ / تَكْتُب…"
+    },
+    {
+      "id": "m15_g1",
+      "moduleId": "15",
+      "cefr": "A2",
+      "baslik": "Muzâriyi Nasbeden Temel Edatlar & Nasb Alâmetleri",
+      "arBaslik": "نَوَاصِبُ الْمُضَارِعِ وَعَلَامَاتُ النَّصْبِ",
+      "formul": "Nasb Edatı + Muzâri → Tekilde Fetha (ـَ) | Ef'âl-i Hamse'de ن Hazfi | Cem-i Müenneste Değişmez",
+      "mantik": "Muzâri fiil normalde (başında hiçbir edat yokken) 'merfû' yani dammeli (`يَكْتُبُ`) veya nûnlu (`يَكْتُبُونَ`) durur. Tıpkı bir arabanın düz yolda normal vitesle gitmesi gibidir. Ancak muzârinin önüne `أَنْ، لَنْ، كَيْ، إِذَنْ، لَامُ التَّعْلِيلِ، حَتَّى` gibi…"
+    },
+    {
+      "id": "m15_g2",
+      "moduleId": "15",
+      "cefr": "A2",
+      "baslik": "أَنْ (Mastar Edatı) & Müevvel Mastar (الْمَصْدَرُ الْمُؤَوَّلُ)",
+      "arBaslik": "«أَنْ» الْمَصْدَرِيَّةُ وَالْمَصْدَرُ الْمُؤَوَّلُ",
+      "formul": "أَنْ + Muzâri (Mansub) = Sarîh Mastar (İsim Değerinde!) | أَنْ + لَا = أَلَّا",
+      "mantik": "Arapçada iki fiili Türkçedeki gibi '-mek/-mak' ekiyle birbirine bağlayan sihirli köprü `أَنْ` harfidir! Mesela 'Çalışmak istiyorum' derken iki fiili (`أُرِيدُ` + `أَدْرُسُ`) doğrudan yan yana koyamazsınız; araya mutlaka `أَنْ` koyarsınız: `أُرِيدُ أَنْ أَدْرُس…"
+    },
+    {
+      "id": "m15_g3",
+      "moduleId": "15",
+      "cefr": "A2",
+      "baslik": "لَنْ — Gelecek Zaman Kesin Olumsuzluğu (Asla -meyecek)",
+      "arBaslik": "«لَنْ» لِنَفْيِ الْمُسْتَقْبَلِ نَفْيًا مُؤَكَّدًا",
+      "formul": "سَـ / سَوْفَ + Muzâri (Olumlu Gelecek)  ⇄  لَنْ + Mansub Muzâri (Olumsuz Gelecek!)",
+      "mantik": "Modül 11'de muzârinin şimdiki/geniş zaman olumsuzluğunun `لَا` (`لَا أَذْهَبُ` = gitmiyorum/gitmem) olduğunu öğrendik. Peki 'Yarın gitmeyeceğim / Bir daha asla unutmayacağım' gibi geleceğe yönelik **kesin bir olumsuzluğu** nasıl söyleriz? İşte o zaman sahneye …"
+    },
+    {
+      "id": "m15_g4",
+      "moduleId": "15",
+      "cefr": "A2",
+      "baslik": "لَامُ التَّعْلِيلِ (لِـ) & كَيْ / لِكَيْ — Amaç Bildirme (-mek için)",
+      "arBaslik": "لَامُ التَّعْلِيلِ وَ«كَيْ / لِكَيْ» وَنَفْيُهَا «لِئَلَّا / لِكَيْلَا»",
+      "formul": "لِـ / كَيْ / لِكَيْ + Mansub Muzâri (-mek için)  |  لِئَلَّا / لِكَيْلَا + Mansub Muzâri (-memek için)",
+      "mantik": "Bir eylemi **ne amaçla** yaptığımızı söylemek için Arapçada iki ikiz kardeş vardır: `لِـ` (Lâm-ı Ta'lîl — gerekçe/amaç lâmı) ve `كَيْ / لِكَيْ`. İkisi de Türkçeye **'-mek için / -sin diye'** diye çevrilir ve ikisi de muzâriyi **nasbeder** (`أَدْرُسُ لِأَنْجَحَ…"
+    },
+    {
+      "id": "m15_g5",
+      "moduleId": "15",
+      "cefr": "A2",
+      "baslik": "حَتَّى (-e kadar / -sin diye), فَاءُ السَّبَبِيَّةِ & لَامُ الْجُحُودِ",
+      "arBaslik": "«حَتَّى» وَفَاءُ السَّبَبِيَّةِ وَلَامُ الْجُحُودِ",
+      "formul": "حَتَّى + Mansub | Talep/Nefy + فَـ + Mansub | مَا كَانَ / لَمْ يَكُنْ + لِـ + Mansub",
+      "mantik": "Muzâriyi nasbeden ileri ama YDS/YÖKDİL'de altın değerindeki üç özel yapı vardır: (1) **حَتَّى**: Gelecek/amaç anlamıyla muzâriye girdiğinde iki anlama gelir: **'-inceye kadar'** (gâye — `اِنْتَظِرْ حَتَّى يَصِلَ الْقِطَارُ`) veya **'-sin diye'** (amaç — `اِجْت…"
+    },
+    {
+      "id": "m16_g1",
+      "moduleId": "16",
+      "cefr": "A2",
+      "baslik": "Muzâriyi Cezmeden 4 Edat & 3 Cezm Alâmeti (Sükûn, ن Hazfi, İllet Hazfi)",
+      "arBaslik": "الْجَوَازِمُ الْأَرْبَعَةُ وَعَلَامَاتُ الْجَزْمِ الثَّلَاثُ",
+      "formul": "Cezm Alâmetleri: (1) Sükûn (لَمْ يَكْتُبْ) | (2) ن Hazfi (لَمْ يَكْتُبُوا) | (3) İllet Hazfi (لَمْ يَمْشِ / لَمْ يَدْعُ / لَمْ يَنْسَ)",
+      "mantik": "Cezm kelimesi Arapçada 'kesmek, durdurmak' demektir! Bir muzâri fiilin başına `لَمْ، لَمَّا، لَامُ الْأَمْرِ (لِـ)، لَا النَّاهِيَةُ` edatlarından biri geldiğinde fiilin sonu keskin bir fren yapar: (1) Sonu sağlam harfse **sükûn (ـْ)** gelir (`يَكْتُبُ → لَمْ …"
+    },
+    {
+      "id": "m16_g2",
+      "moduleId": "16",
+      "cefr": "A2",
+      "baslik": "لَمْ (Cahd-ı Mutlak) — Modern Arapçada Geçmiş Zaman Olumsuzluğu",
+      "arBaslik": "«لَمْ» (حَرْفُ نَفْيٍ وَجَزْمٍ وَقَلْبٍ)",
+      "formul": "Mâzi (كَتَبَ / كَتَبُوا)  ⇄  لَمْ + Meczum Muzâri (لَمْ يَكْتُبْ / لَمْ يَكْتُبُوا)",
+      "mantik": "Arapça dil bilginleri `لَمْ` harfini üç sıfatla tanımlar: **Nefy** (olumsuz yapar), **Cezm** (sonunu cezmeder) ve **Kalb** (zamanı şimdiden **geçmişe çevirir**!). Yani `لَمْ يَكْتُبْ` şeklen muzâri görünse de anlamı 100% geçmiş zamandır: **'Yazmadı'**! Modül 1…"
+    },
+    {
+      "id": "m16_g3",
+      "moduleId": "16",
+      "cefr": "A2",
+      "baslik": "لَمَّا (Cahd-ı Mustağrak: Henüz -medi) vs. لَمَّا (Zaman: -dığında)",
+      "arBaslik": "«لَمَّا» الْجَازِمَةُ (بِمَعْنَى: حَتَّى الْآنَ) وَالْفَرْقُ بَيْنَهَا وَبَيْنَ «لَمَّا» الظَّرْفِيَّةِ",
+      "formul": "لَمَّا + Meczum Muzâri = 'Henüz -medi' (Cezm!)  |  لَمَّا + Mâzi = '-dığında / -ince' (Zaman Zarfı!)",
+      "mantik": "`لَمَّا` kelimesi Arapçada iki farklı şapka takar ve hangi şapkayı taktığını **hemen arkasındaki fiilin zamanından** 1 saniyede anlarsınız! (1) Arkasından **Meczum Muzâri** gelirse: `لَمَّا` bir cezm edatıdır ve **'henüz -medi (ama az sonra olması bekleniyor!)…"
+    },
+    {
+      "id": "m16_g4",
+      "moduleId": "16",
+      "cefr": "A2",
+      "baslik": "لَامُ الْأَمْرِ (لِـ / فَلْـ / وَلْـ) — Emr-i Gâib & Emr-i Mütekellim",
+      "arBaslik": "لَامُ الْأَمْرِ (الْأَمْرُ لِلْغَائِبِ وَالْمُتَكَلِّمِ)",
+      "formul": "لِـ + Meczum Muzâri (-sin / -elim!)  |  وَ / فَـ / ثُمَّ + لْـ + Meczum Muzâri (وَلْيَكْتُبْ / فَلْنَبْدَأْ)",
+      "mantik": "Türkçede sadece karşımızdaki kişiye ('Yaz!') değil, 3. şahsa (**'Yazsın! / Yazsınlar!'**) ve 1. çoğul şahsa (**'Haydi yazalım! / Başlayalım!'**) da emir/istek veririz! Arapçada 2. şahsa verilen emir ayrı bir kalıptır (M17: `اُكْتُبْ`), ancak **3. şahsa (Emr-i …"
+    },
+    {
+      "id": "m16_g5",
+      "moduleId": "16",
+      "cefr": "A2",
+      "baslik": "لَا النَّاهِيَةُ (Nehy-i Gâib) vs. لَا النَّافِيَةُ & Şart Edatlarına Köprü (إِنْ / مَنْ)",
+      "arBaslik": "«لَا» النَّاهِيَةُ (لِلْغَائِبِ) وَالْفَرْقُ عَنْ «لَا» النَّافِيَةِ + مَدْخَلٌ إِلَى أَدَوَاتِ الشَّرْطِ",
+      "formul": "لَا النَّاهِيَةُ + Meczum (-mesin!)  ≠  لَا النَّافِيَةُ + Merfû (-mez)  |  إِنْ / مَنْ + Meczum 1 + Meczum 2",
+      "mantik": "Modül 14'te gördüğümüz gibi Arapçada iki farklı `لَا` vardır ve harekesiz metinde onları ancak son harfe/nûna bakarak ayırt edersiniz: (1) **لَا النَّافِيَةُ (Olumsuzluk لَا'sı)** sadece bilgi verir, fiile hiç dokunmaz (`لَا يَتَأَخَّرُ أَحْمَدُ` = Ahmed geç k…"
+    },
+    {
+      "id": "m17_g1",
+      "moduleId": "17",
+      "cefr": "A2",
+      "baslik": "Emr-i Hâzır Türetmenin 3 Altın Adımı & Vasıl Hemzesi (اُ vs. اِ)",
+      "arBaslik": "صِيَاغَةُ فِعْلِ الْأَمْرِ الْحَاضِرِ وَحَرَكَةُ هَمْزَةِ الْوَصْلِ",
+      "formul": "أَنْتَ Muzâri → تَـ At → Sonunu Cezmet → Orta Harf (ـُ) ise اُ | (ـِ / ـَ) ise اِ!",
+      "mantik": "Arapçada karşınızdaki kişiye emir (Emr-i Hâzır) yapmak asla ezber işi değil, 3 saniyelik bir makinedir! Elinize `أَنْتَ` (sen) muzârisini alın (`تَكْتُبُ / تَجْلِسُ / تَفْتَحُ`): **1. Adım:** Başındaki `تَـ` harfini atın (`كْتُبُ / جْلِسُ / فْتَحُ`). **2. Adım…"
+    },
+    {
+      "id": "m17_g2",
+      "moduleId": "17",
+      "cefr": "A2",
+      "baslik": "Emr-i Hâzırın 6 Muhatap Şahıs Çekimi & Binâ Alâmetleri",
+      "arBaslik": "تَصْرِيفُ فِعْلِ الْأَمْرِ مَعَ ضَمَائِرِ الْمُخَاطَبِ السِّتَّةِ",
+      "formul": "أَنْتَ: اِفْعَلْ | أَنْتِ: اِفْعَلِي | أَنْتُمَا: اِفْعَلَا | أَنْتُمْ: اِفْعَلُوا | أَنْتُنَّ: اِفْعَلْنَ",
+      "mantik": "Emir kipi yalnızca tek bir kişiye (`أَنْتَ`) değil, karşımızdaki **6 muhatap şahsın tamamına** (sen-eril, sen-dişil, ikiniz-eril, ikiniz-dişil, siz-eril, siz-dişil) çekilir! Kural inanılmaz derecede sadedir: **'Emir fiili, muzârisinin cezmedildiği alâmet üzere…"
+    },
+    {
+      "id": "m17_g3",
+      "moduleId": "17",
+      "cefr": "A2",
+      "baslik": "Hemzesiz ve Özel Sık Kullanılan Emirler (Ecvef, Nâkıs, Misâl, Mehmûz, Mezîd)",
+      "arBaslik": "أَفْعَالُ الْأَمْرِ الْخَاصَّةُ (الْأَجْوَفُ وَالنَّاقِصُ وَالْمِثَالُ وَالْمَهْمُوزُ وَالرُّبَاعِيُّ)",
+      "formul": "تَـ sonrası harekeliyse hemze YOK (قُلْ، كُنْ، قِفْ، خُذْ، كُلْ، سَافِرْ) | Nâkısta illet düşer (اِمْشِ، اُدْعُ) | IV. Babda أَ (أَغْلِقْ، أَرْسِلْ)",
+      "mantik": "Emir türetirken **'تَـ harfini atınca ilk harf zaten HAREKELİ kalıyorsa'** başa asla vasıl hemzesi koymazsınız — destek tekerine gerek kalmaz! Günlük Arapçanın en sık kullanılan 20 emrinin çoğu işte bu harika kuraldan doğar: (1) **Ecvef**: `تَقُولُ → قُلْ` (Sö…"
+    },
+    {
+      "id": "m17_g4",
+      "moduleId": "17",
+      "cefr": "A2",
+      "baslik": "Nehy-i Hâzır (لَا تَفْعَلْ!) — 6 Muhatap Şahıs Yasaklama Sistemi",
+      "arBaslik": "النَّهْيُ الْحَاضِرُ («لَا» النَّاهِيَةُ مَعَ ضَمَائِرِ الْمُخَاطَبِ السِّتَّةِ)",
+      "formul": "لَا + Muhatap Muzâri (Meczum!) → لَا تَفْعَلْ / لَا تَفْعَلِي / لَا تَفْعَلَا / لَا تَفْعَلُوا / لَا تَفْعَلْنَ",
+      "mantik": "Emir kipinde `تَـ` harfini atıp vasıl hemzesiyle uğraşıyorduk; ama **Nehy-i Hâzırda ('Yapma! / Yapmayın!')** işimiz çok daha kolay! Hiçbir harf atmanıza ve vasıl hemzesi aramanıza gerek yok: 6 muhatap muzârinin (`تَكْتُبُ / تَكْتُبِينَ / تَكْتُبَانِ / تَكْتُبُ…"
+    },
+    {
+      "id": "m17_g5",
+      "moduleId": "17",
+      "cefr": "A2",
+      "baslik": "Günlük Hayatta Kibar Rica, İkram & Özel İsim-Fiil Emirler (تَفَضَّلْ، تَعَالَ، هَاتِ)",
+      "arBaslik": "أَسَالِيبُ الرَّجَاءِ الْمُهَذَّبِ وَأَسْمَاءُ أَفْعَالِ الْأَمْرِ (تَفَضَّلْ، تَعَالَ، هَاتِ)",
+      "formul": "Emir + مِنْ فَضْلِكَ / لَوْ سَمَحْتَ (Kibar Rica) | تَفَضَّلْ (Buyur!) | تَعَالَ (Gel!) | هَاتِ (Getir!)",
+      "mantik": "Arap kültüründe emir kipi kaba bir komut değil, doğru nezaket kelimeleriyle birleştiğinde çok zarif bir rica ve misafirperverlik dilidir! Birinden kibarca bir şey isterken emir kipinin yanına **`مِنْ فَضْلِكَ / مِنْ فَضْلِكِ`** (lütfen), **`لَوْ سَمَحْتَ / لَو…"
     }
   ],
   "quickPractice": [
@@ -2832,6 +2967,456 @@
       ],
       "dogruIndeks": 0,
       "aciklama": "أَنْ nasb edatıdır → تَقْرَئِينَ fiilinden ن düşer: أَنْ تَقْرَئِي."
+    },
+    {
+      "id": "atlas_m15_g1_t01",
+      "moduleId": "15",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«أُرِيدُ أَنْ ___ مَعَكَ إِلَى الْمَكْتَبَةِ.» — Doğru mansub fiil hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "أَذْهَبَ",
+        "أَذْهَبُ",
+        "أَذْهَبْ",
+        "ذَهَبَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "أَنْ muzâriyi fetha ile nasbeder → أَذْهَبَ."
+    },
+    {
+      "id": "atlas_m15_g1_t02",
+      "moduleId": "15",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«الطُّلَّابُ لَنْ ___ عَنِ الدَّرْسِ غَدًا.» — Doğru çekim hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "يَتَغَيَّبُوا",
+        "يَتَغَيَّبُونَ",
+        "يَتَغَيَّبُ",
+        "يَتَغَيَّبَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Ef'âl-i Hamse (هُمْ) لَنْ ile nasb olunca ن düşer + elif gelir: يَتَغَيَّبُوا."
+    },
+    {
+      "id": "atlas_m15_g2_t01",
+      "moduleId": "15",
+      "kategori": "Sarf & Nahiv",
+      "soru": "'Bugün erkenden uyumamız gerekir.' cümlesinin doğru Arapçası hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "يَجِبُ أَنْ نَنَامَ مُبَكِّرًا الْيَوْمَ.",
+        "نَجِبُ أَنْ نَنَامُ مُبَكِّرًا الْيَوْمَ.",
+        "يَجِبُ نَنَامَ مُبَكِّرًا الْيَوْمَ.",
+        "يَجِبُ أَنْ نَنَامُ مُبَكِّرًا الْيَوْمَ."
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "يَجِبُ sabit kalır + أَنْ + mansub muzâri (نَنَامَ)."
+    },
+    {
+      "id": "atlas_m15_g2_t02",
+      "moduleId": "15",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«أُحِبُّ قِرَاءَةَ التَّارِيخِ.» cümlesi müevvel mastar (أَنْ) ile nasıl yazılır?",
+      "soruAr": "",
+      "secenekler": [
+        "أُحِبُّ أَنْ أَقْرَأَ التَّارِيخَ.",
+        "أُحِبُّ أَنْ أَقْرَأُ التَّارِيخَ.",
+        "أُحِبُّ أَنْ قَرَأْتُ التَّارِيخَ.",
+        "أُحِبُّ لَنْ أَقْرَأَ التَّارِيخَ."
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "قِرَاءَةَ (sarîh mastar) = أَنْ أَقْرَأَ (müevvel mastar)!"
+    },
+    {
+      "id": "atlas_m15_g3_t01",
+      "moduleId": "15",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«سَأُسَافِرُ إِلَى الْقَاهِرَةِ غَدًا.» cümlesinin doğru olumsuzu hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "لَنْ أُسَافِرَ إِلَى الْقَاهِرَةِ غَدًا.",
+        "لَنْ سَأُسَافِرَ إِلَى الْقَاهِرَةِ غَدًا.",
+        "لَا سَأُسَافِرُ إِلَى الْقَاهِرَةِ غَدًا.",
+        "لَمْ أُسَافِرْ غَدًا."
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "سَـ düşer, yerine لَنْ gelir ve fiil fetha ile nasb olur: لَنْ أُسَافِرَ."
+    },
+    {
+      "id": "atlas_m15_g3_t02",
+      "moduleId": "15",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«___ يَحْضُرَ الْمُدِيرُ الِاجْتِمَاعَ غَدًا.» — Zaman zarfına göre doğru edat hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "لَنْ",
+        "لَمْ",
+        "مَا",
+        "لَمَّا"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "غَدًا (yarın) + mansub fiil (يَحْضُرَ) → kesinlikle لَنْ!"
+    },
+    {
+      "id": "atlas_m15_g4_t01",
+      "moduleId": "15",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«أَقْرَأُ الْجَرِيدَةَ كُلَّ صَبَاحٍ كَيْ ___ أَخْبَارَ الْعَالَمِ.»",
+      "soruAr": "",
+      "secenekler": [
+        "أُتَابِعَ",
+        "أُتَابِعُ",
+        "أُتَابِعْ",
+        "تَابَعْتُ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "كَيْ muzâriyi fetha ile nasbeder → أُتَابِعَ."
+    },
+    {
+      "id": "atlas_m15_g4_t02",
+      "moduleId": "15",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«سَجَّلْتُ الْمَوْعِدَ فِي دَفْتَرِي ___ أَنْسَاهُ.» ('Unutmamak için defterime kaydettim.')",
+      "soruAr": "",
+      "secenekler": [
+        "لِئَلَّا",
+        "لِكَيْ",
+        "لَنْ",
+        "إِلَّا"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Olumsuz amaç (-memek için) → لِئَلَّا (veya لِكَيْلَا)."
+    },
+    {
+      "id": "atlas_m15_g5_t01",
+      "moduleId": "15",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«اِنْتَظِرْ هُنَا حَتَّى ___ الْحَافِلَةُ.»",
+      "soruAr": "",
+      "secenekler": [
+        "تَصِلَ",
+        "تَصِلُ",
+        "تَصِلْ",
+        "وَصَلَتْ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Gelecek anlamlı حَتَّى + mansub muzâri → تَصِلَ."
+    },
+    {
+      "id": "atlas_m15_g5_t02",
+      "moduleId": "15",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«مَا كَانَ الْأَمِينُ ___ الْأَمَانَةَ.» — لَامُ الْجُحُودِ ile boşluğu doldurun:",
+      "soruAr": "",
+      "secenekler": [
+        "لِيَخُونَ",
+        "لِيَخُونُ",
+        "لِيَخُنْ",
+        "يَخُونُ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "مَا كَانَ + لَامُ الْجُحُودِ (لِـ) + mansub muzâri: لِيَخُونَ."
+    },
+    {
+      "id": "atlas_m16_g1_t01",
+      "moduleId": "16",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«أَحْمَدُ لَمْ ___ الْحَقِيقَةَ بَعْدُ.» (يَقُولُ fiilinin meczum hâli)",
+      "soruAr": "",
+      "secenekler": [
+        "يَقُلْ",
+        "يَقُولْ",
+        "يَقُولُ",
+        "يَقُولَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Ecvef fiil meczum olunca iki sükûn çakışmasın diye و düşer: لَمْ يَقُلْ!"
+    },
+    {
+      "id": "atlas_m16_g1_t02",
+      "moduleId": "16",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«أَنَا لَمْ ___ نَصِيحَتَكَ الْقَيِّمَةَ أَبَدًا.» (أَنْسَى fiilinin meczum hâli)",
+      "soruAr": "",
+      "secenekler": [
+        "أَنْسَ",
+        "أَنْسَى",
+        "أَنْسِي",
+        "أَنْسُ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Sonu ى olan nâkıs fiilde cezm alâmeti ى'nin düşmesidir; üstte fetha kalır: لَمْ أَنْسَ."
+    },
+    {
+      "id": "atlas_m16_g2_t01",
+      "moduleId": "16",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«زُرْتُ مَدِينَةَ قُونْيَا أَمْسِ.» cümlesinin لَمْ ile doğru olumsuzu hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "لَمْ أَزُرْ مَدِينَةَ قُونْيَا أَمْسِ.",
+        "لَمْ زُرْتُ مَدِينَةَ قُونْيَا أَمْسِ.",
+        "لَمْ أَزُورْ مَدِينَةَ قُونْيَا أَمْسِ.",
+        "لَنْ أَزُرْ مَدِينَةَ قُونْيَا أَمْسِ."
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "أَزُورُ (ecvef) → لَمْ ile و düşer: لَمْ أَزُرْ!"
+    },
+    {
+      "id": "atlas_m16_g2_t02",
+      "moduleId": "16",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«لَمْ ___ هٰذَا الصَّدِيقَ مُنْذُ سَنَوَاتٍ طَوِيلَةٍ.» (أَرَى fiilinin meczum hâli)",
+      "soruAr": "",
+      "secenekler": [
+        "أَرَ",
+        "أَرَى",
+        "رَأَيْتُ",
+        "أَرِي"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "أَرَى → لَمْ أَرَ (ى düşer, fetha kalır!)."
+    },
+    {
+      "id": "atlas_m16_g3_t01",
+      "moduleId": "16",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«دَقَّ الْجَرَسُ وَلَمَّا ___ الْمُعَلِّمُ إِلَى الصَّفِّ.» ('Zil çaldı ve öğretmen henüz sınıfa girmedi.')",
+      "soruAr": "",
+      "secenekler": [
+        "يَدْخُلِ",
+        "يَدْخُلُ",
+        "دَخَلَ",
+        "يَدْخُلَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "لَمَّا (henüz) muzâriyi cezmeder + الْ geçiş kesrası: يَدْخُلِ."
+    },
+    {
+      "id": "atlas_m16_g3_t02",
+      "moduleId": "16",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«لَمَّا وَصَلْنَا إِلَى الْقَرْيَةِ، اِسْتَقْبَلَنَا جَدِّي.» cümlesinde «لَمَّا» hangi anlamdadır?",
+      "soruAr": "",
+      "secenekler": [
+        "'-dığında / -ince' (çünkü ardından mâzi fiil وَصَلْنَا gelmiştir!)",
+        "'Henüz -medi'",
+        "'Asla -meyecek'",
+        "'-mek için'"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "لَمَّا + mâzi = zaman zarfı (-dığında)."
+    },
+    {
+      "id": "atlas_m16_g4_t01",
+      "moduleId": "16",
+      "kategori": "Sarf & Nahiv",
+      "soru": "'Haydi derse şimdi başlayalım!' (فَـ + Emir Lâmı) ifadesinin doğru Arapçası hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "فَلْنَبْدَأِ الدَّرْسَ الْآنَ!",
+        "فَلِنَبْدَأُ الدَّرْسَ الْآنَ!",
+        "فَلْنَبْدَأَ الدَّرْسَ الْآنَ!",
+        "لَنْ نَبْدَأَ الدَّرْسَ الْآنَ!"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "فَـ + لْـ + نَبْدَأْ (الْ geçiş kesrasıyla فَلْنَبْدَأِ)."
+    },
+    {
+      "id": "atlas_m16_g4_t02",
+      "moduleId": "16",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«مَنْ كَانَ يُؤْمِنُ بِاللّٰهِ وَالْيَوْمِ الْآخِرِ فَلْـ___ خَيْرًا أَوْ لِيَصْمُتْ!» (يَقُولُ)",
+      "soruAr": "",
+      "secenekler": [
+        "يَقُلْ",
+        "يَقُولْ",
+        "يَقُولُ",
+        "يَقُولَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "فَلْـ (Emir Lâmı) + ecvef يَقُولُ → و düşer: فَلْيَقُلْ!"
+    },
+    {
+      "id": "atlas_m16_g5_t01",
+      "moduleId": "16",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«لَا ___ أَحَدٌ الْقَاعَةَ قَبْلَ انْتِهَاءِ الْوَقْتِ!» ('Kimse salondan çıkmasın!')",
+      "soruAr": "",
+      "secenekler": [
+        "يُغَادِرْ",
+        "يُغَادِرُ",
+        "يُغَادِرَ",
+        "غَادَرَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Nehy-i Gâib (yasaklama): لَا + sükûn (لَا يُغَادِرْ!)."
+    },
+    {
+      "id": "atlas_m16_g5_t02",
+      "moduleId": "16",
+      "kategori": "Sarf & Nahiv",
+      "soru": "«لَا يَكْذِبُ الْمُؤْمِنُ.» ile «لَا يَكْذِبْ أَحَدٌ!» arasındaki fark nedir?",
+      "soruAr": "",
+      "secenekler": [
+        "İlki haber veren olumsuzluktur (merfû: 'yalan söylemez'), ikincisi yasaklamadır (meczum: 'yalan söylemesin!')",
+        "İkisi aynıdır",
+        "İlki emirdir",
+        "İkincisi geçmiş zamandır"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Damme = nefy (haber); Sükûn = nehiy (yasaklama)!"
+    },
+    {
+      "id": "atlas_m17_g1_t01",
+      "moduleId": "17",
+      "kategori": "Sarf",
+      "soru": "«تَخْرُجُ» (1. bab) fiilinin Emr-i Hâzırı (أَنْتَ) hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "اُخْرُجْ",
+        "اِخْرُجْ",
+        "أَخْرُجْ",
+        "خُرُجْ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Orta harf dammeli (رُ) → vasıl hemzesi damme olur: اُخْرُجْ!"
+    },
+    {
+      "id": "atlas_m17_g1_t02",
+      "moduleId": "17",
+      "kategori": "Sarf",
+      "soru": "«تَفْهَمُ» (4. bab) fiilinin Emr-i Hâzırı (أَنْتَ) hangisidir?",
+      "soruAr": "",
+      "secenekler": [
+        "اِفْهَمْ",
+        "اُفْهَمْ",
+        "أَفْهَمْ",
+        "فَهَمْ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Orta harf fethalı (هَ) → vasıl hemzesi KESRA olur: اِفْهَمْ!"
+    },
+    {
+      "id": "atlas_m17_g2_t01",
+      "moduleId": "17",
+      "kategori": "Sarf",
+      "soru": "«يَا فَاطِمَةُ، ___ النَّافِذَةَ مِنْ فَضْلِكِ!» (تَفْتَحِينَ)",
+      "soruAr": "",
+      "secenekler": [
+        "اِفْتَحِي",
+        "اِفْتَحْ",
+        "اِفْتَحِينَ",
+        "اِفْتَحُوا"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "أَنْتِ (sen - K) → ن düşer: اِفْتَحِي!"
+    },
+    {
+      "id": "atlas_m17_g2_t02",
+      "moduleId": "17",
+      "kategori": "Sarf",
+      "soru": "«يَا طَالِبَاتُ، ___ إِلَى صَوْتِ الْمُعَلِّمَةِ!» (تَسْمَعْنَ)",
+      "soruAr": "",
+      "secenekler": [
+        "اِسْمَعْنَ",
+        "اِسْمَعُوا",
+        "اِسْمَعِي",
+        "اِسْمَعْ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "أَنْتُنَّ (siz - K) → اِسْمَعْنَ!"
+    },
+    {
+      "id": "atlas_m17_g3_t01",
+      "moduleId": "17",
+      "kategori": "Sarf",
+      "soru": "«يَا أَخِي، ___ لِي كُوبًا مِنَ الْمَاءِ مِنْ فَضْلِكَ!» (تُعْطِي — 'Ver!')",
+      "soruAr": "",
+      "secenekler": [
+        "أَعْطِ",
+        "أَعْطِي",
+        "اِعْطِ",
+        "عَطِي"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Erkeğe (أَنْتَ) nâkıs emirde sondaki ي düşer: أَعْطِ! (أَعْطِي sadece kadına söylenir!)"
+    },
+    {
+      "id": "atlas_m17_g3_t02",
+      "moduleId": "17",
+      "kategori": "Sarf",
+      "soru": "«يَا طُلَّابُ، ___ عَلَى السُّؤَالِ الْأَوَّلِ!» (تُجِيبُونَ — cevaplamak)",
+      "soruAr": "",
+      "secenekler": [
+        "أَجِيبُوا",
+        "أَجِبُوا",
+        "اِجِيبُوا",
+        "جِيبُوا"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "IV. bab (أَجَابَ) → أَ + çoğulda ي geri döner: أَجِيبُوا! (Tekili: أَجِبْ)."
+    },
+    {
+      "id": "atlas_m17_g4_t01",
+      "moduleId": "17",
+      "kategori": "Sarf",
+      "soru": "«اِجْلِسْ هُنَا!» emrini Nehy-i Hâzıra ('Buraya oturma!') çevirin:",
+      "soruAr": "",
+      "secenekler": [
+        "لَا تَجْلِسْ هُنَا!",
+        "لَا اِجْلِسْ هُنَا!",
+        "لَا تَجْلِسُ هُنَا!",
+        "لَنْ تَجْلِسَ هُنَا!"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Emir kipinin başına لَا gelmez; muzâri + cezm kullanılır: لَا تَجْلِسْ!"
+    },
+    {
+      "id": "atlas_m17_g4_t02",
+      "moduleId": "17",
+      "kategori": "Sarf",
+      "soru": "«يَا أَخِي، لَا ___ مِنَ التَّجْرِبَةِ الْجَدِيدَةِ!» (تَخَافُ — korkmak)",
+      "soruAr": "",
+      "secenekler": [
+        "تَخَفْ",
+        "تَخَافْ",
+        "تَخَافُ",
+        "خَفْ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Ecvef (تَخَافُ) meczum olunca ا düşer: لَا تَخَفْ!"
+    },
+    {
+      "id": "atlas_m17_g5_t01",
+      "moduleId": "17",
+      "kategori": "Sarf",
+      "soru": "«يَا أَخِي، ___ إِلَى هُنَا قَلِيلًا!» ('Buraya gel!' — Fasîh doğru yazılış)",
+      "soruAr": "",
+      "secenekler": [
+        "تَعَالَ",
+        "تَعَالْ",
+        "تَعَالِي",
+        "تَعَالُوا"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Fasîh Arapçada erkeğe 'Gel!' fethalıdır: تَعَالَ!"
+    },
+    {
+      "id": "atlas_m17_g5_t02",
+      "moduleId": "17",
+      "kategori": "Sarf",
+      "soru": "«يَا صَدِيقِي، ___ الْكِتَابَ مِنْ عَلَى الطَّاوِلَةِ!» ('Kitabı getir!' — eril tekil)",
+      "soruAr": "",
+      "secenekler": [
+        "هَاتِ",
+        "هَاتِي",
+        "هَاتُوا",
+        "هَاتَ"
+      ],
+      "dogruIndeks": 0,
+      "aciklama": "Erkeğe kısa kesra: هَاتِ! (Kadına هَاتِي, çoğula هَاتُوا)."
     }
   ]
 }
